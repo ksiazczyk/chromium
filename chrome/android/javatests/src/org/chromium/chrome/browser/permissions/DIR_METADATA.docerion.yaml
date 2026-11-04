@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Permissions prompts component metadata
+summary: Metadata mapping the directory to the UI>Browser>Permissions>Prompts monorail component and a Buganizer component for issue routing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IdentityManager accounts reloading tests
+// summary: Instrumentation tests checking that refresh tokens are updated or removed in IdentityManager when the device account list changes during sign-in.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import androidx.test.filters.MediumTest;

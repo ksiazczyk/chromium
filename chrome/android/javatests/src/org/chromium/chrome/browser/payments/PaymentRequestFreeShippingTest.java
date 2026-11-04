@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequestFreeShippingTest
+// summary: Parameterized instrumented and render test for a merchant offering free shipping regardless of address, including night mode rendering checks and payment flow verification.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchWidgetProviderTest
+// summary: Instrumentation tests for SearchWidgetProvider verifying widget updates reflect the search engine name and voice search availability.
+// ---
+
 package org.chromium.chrome.browser.searchwidget;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersonalizeGoogleServicesSettingsTest
+// summary: Tests for the personalize Google services settings screen, including render tests and settings search behavior.
+// ---
+
 package org.chromium.chrome.browser.sync.settings;
 
 import static androidx.test.espresso.Espresso.onView;

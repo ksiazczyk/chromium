@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default search engine dialog integration tests
+// summary: Espresso integration tests for the DefaultSearchEngineDialogCoordinator in Chrome on Android.
+// ---
+
 package org.chromium.chrome.browser.search_engines;
 
 import static androidx.test.espresso.Espresso.onView;

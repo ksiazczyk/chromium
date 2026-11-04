@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM sync integration tests
+// summary: Android instrumentation tests verifying that UKM metrics reporting is enabled or disabled according to sync and consent settings.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import androidx.test.filters.SmallTest;

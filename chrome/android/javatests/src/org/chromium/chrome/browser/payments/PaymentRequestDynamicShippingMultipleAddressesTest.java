@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dynamic shipping with multiple addresses integration test
+// summary: Integration test for dynamic shipping calculation when a merchant requires a shipping address and the user has several stored autofill addresses.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

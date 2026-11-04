@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Show promise digital goods test
+// summary: Android integration test covering the PaymentRequest show promise with digital goods for fast and slow payment apps, including skip-UI flows.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

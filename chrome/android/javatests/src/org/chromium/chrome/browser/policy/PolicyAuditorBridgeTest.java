@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyAuditorBridgeTest
+// summary: Android integration test using a fake PolicyAuditor to verify that audit events like OPEN_URL_SUCCESS are reported for successful and unsuccessful navigations.
+// ---
+
 package org.chromium.chrome.browser.policy;
 
 import android.content.Context;

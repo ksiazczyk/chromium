@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequestIncompleteContactDetailsTest
+// summary: Instrumented test for a merchant requesting contact details when the user has an invalid email on disk, covering editor validation errors and cancelling the transaction.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CanMakePayment metrics integration test
+// summary: Integration test verifying that CanMakePayment and hasEnrolledInstrument events are logged correctly in the PaymentRequest.Events2 histogram.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

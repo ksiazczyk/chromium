@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninSignoutIntegrationTest
+// summary: Android integration test that exercises the lifecycle of sign-in and sign-out in Chrome settings, including account state changes and related metrics.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import static androidx.test.espresso.Espresso.onView;

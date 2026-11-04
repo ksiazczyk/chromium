@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteSettingsLocationTest
+// summary: Instrumentation tests for location permissions and settings in Site Settings, verifying geolocation toggles, OS permission warnings and exceptions.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import static androidx.test.espresso.Espresso.onView;

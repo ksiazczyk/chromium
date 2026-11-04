@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManageSyncSettingsTest
+// summary: Large Espresso test suite for the Manage Sync settings screen, covering sync data type preferences, settings search, dialogs and error handling.
+// ---
+
 package org.chromium.chrome.browser.sync.settings;
 
 import static androidx.test.espresso.Espresso.onView;

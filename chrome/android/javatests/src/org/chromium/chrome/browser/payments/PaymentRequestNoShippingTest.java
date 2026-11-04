@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request test for merchant without shipping address
+// summary: Instrumentation test verifying the Payment Request UI flow for a merchant that does not require a shipping address, including canceling and editing the dialog.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

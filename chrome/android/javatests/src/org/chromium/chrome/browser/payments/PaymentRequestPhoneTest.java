@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request test for phone number requests
+// summary: Instrumentation test verifying a merchant that requests a phone number, covering autofill profile variants with and without phone numbers or emails.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

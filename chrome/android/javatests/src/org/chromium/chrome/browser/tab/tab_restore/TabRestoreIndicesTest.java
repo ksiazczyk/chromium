@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabRestoreIndicesTest
+// summary: Instrumented tests verifying that closed tabs are restored at the correct indices, including restoration triggered by keyboard shortcuts.
+// ---
+
 package org.chromium.chrome.browser.tab.tab_restore;
 
 import static org.junit.Assert.assertEquals;

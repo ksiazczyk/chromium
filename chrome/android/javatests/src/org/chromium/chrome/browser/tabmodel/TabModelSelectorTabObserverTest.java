@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabModelSelectorTabObserver tests
+// summary: Tests that TabModelSelectorTabObserver attaches to and detaches from tabs as they are added, closed, removed, or already exist.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertFalse;

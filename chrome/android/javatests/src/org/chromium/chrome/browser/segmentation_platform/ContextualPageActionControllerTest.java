@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual page action controller instrumentation tests
+// summary: Android instrumentation tests verifying that contextual page action models execute on page loads and record the expected segmentation platform histograms in Chrome.
+// ---
+
 package org.chromium.chrome.browser.segmentation_platform;
 
 import androidx.test.filters.MediumTest;

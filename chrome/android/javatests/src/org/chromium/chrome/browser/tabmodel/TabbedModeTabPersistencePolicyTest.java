@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabbed mode tab persistence policy tests
+// summary: Tests for the tabbed-mode tab persistence policy, using mock tab models, test profiles, and simulated tab state.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

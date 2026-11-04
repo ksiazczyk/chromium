@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in GAIA header tests
+// summary: Instrumentation tests verifying the X-Chrome-Connected HTTP header sent to the GAIA server for signed-in users in tabs and trusted web activities.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

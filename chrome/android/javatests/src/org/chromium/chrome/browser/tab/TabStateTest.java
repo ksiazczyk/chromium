@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabState save and restore tests
+// summary: Android instrumentation tests verifying that TabState is saved and restored from disk correctly, including loading and upgrading tab states from previous Chrome versions.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import androidx.test.core.app.ApplicationProvider;

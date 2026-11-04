@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Settings tests directory metadata
+summary: Points to the common metadata mixin shared with the settings source directory for Chrome Android.

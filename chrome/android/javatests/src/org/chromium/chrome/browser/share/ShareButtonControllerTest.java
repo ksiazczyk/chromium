@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShareButtonControllerTest
+// summary: Instrumentation tests verifying when the adaptive toolbar shows and enables the share button, including on the NTP.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import static org.junit.Assert.assertEquals;

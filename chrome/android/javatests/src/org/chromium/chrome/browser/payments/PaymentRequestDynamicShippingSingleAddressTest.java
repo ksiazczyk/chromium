@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequestDynamicShippingSingleAddressTest
+// summary: Instrumented test verifying the Payment Request UI for a merchant requiring a shipping address when the user has a single autofill address, including default selection and paying after choosing it.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

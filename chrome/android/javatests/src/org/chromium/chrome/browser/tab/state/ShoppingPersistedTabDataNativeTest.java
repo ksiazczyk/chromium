@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShoppingPersistedTabData native tests
+// summary: Tests ShoppingPersistedTabData with the native library loaded rather than mocked, including storage maintenance for destroyed tabs.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import androidx.test.filters.SmallTest;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read later context menu integration tests
+// summary: Android instrumentation tests verifying the read later context menu and the IPH education bubbles shown for it, using Espresso, Mockito and an embedded test server.
+// ---
+
 package org.chromium.chrome.browser.read_later;
 
 import static androidx.test.espresso.Espresso.onView;

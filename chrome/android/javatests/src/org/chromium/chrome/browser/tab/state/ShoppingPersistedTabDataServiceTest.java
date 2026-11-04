@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShoppingPersistedTabDataService tests
+// summary: Tests ShoppingPersistedTabDataService profile lookup and the eligibility of tab data for price drop tracking.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.mockito.Mockito.doReturn;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings search test utilities
+// summary: Utility methods and custom Espresso matchers for Chrome Android Settings UI tests and search index parity tests, covering typing queries, clicking results, and verifying highlighted preference rows.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static androidx.test.espresso.Espresso.onView;

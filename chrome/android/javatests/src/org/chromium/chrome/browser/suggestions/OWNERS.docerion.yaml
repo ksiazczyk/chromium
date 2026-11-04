@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for suggestions tests
+summary: Delegates code ownership for the Android suggestions tests by pointing to the OWNERS file of the corresponding suggestions source directory.

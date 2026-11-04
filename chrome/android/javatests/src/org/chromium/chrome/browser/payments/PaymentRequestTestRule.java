@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequestTestRule
+// summary: JUnit test rule providing shared setup, UI interaction helpers, payment app factories, and observer callbacks for Chrome PaymentRequest integration tests.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import android.os.Handler;

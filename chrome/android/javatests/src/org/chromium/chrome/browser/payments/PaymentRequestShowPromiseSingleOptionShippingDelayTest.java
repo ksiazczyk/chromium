@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Show promise single option shipping delay test
+// summary: Android integration test for a show promise with a single pre-selected shipping option that resolves after a delay, covering fast and slow payment apps.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

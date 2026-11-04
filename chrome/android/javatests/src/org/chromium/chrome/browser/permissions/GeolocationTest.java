@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation permission tests
+// summary: Instrumentation tests verifying geolocation permission dialogs and mock location delivery with and without user gestures on Android.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import android.os.Build;

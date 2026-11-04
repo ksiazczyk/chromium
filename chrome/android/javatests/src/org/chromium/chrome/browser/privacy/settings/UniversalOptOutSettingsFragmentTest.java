@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Universal opt-out settings fragment tests
+// summary: Tests for the UniversalOptOutSettings screen gated behind the UNIVERSAL_OPT_OUT_SETTINGS feature flag, covering preference toggles and user actions.
+// ---
+
 package org.chromium.chrome.browser.privacy.settings;
 
 import static androidx.test.espresso.Espresso.onView;

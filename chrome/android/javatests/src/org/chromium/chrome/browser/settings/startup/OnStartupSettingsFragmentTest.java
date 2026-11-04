@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On Startup settings fragment instrumentation tests
+// summary: Instrumentation tests for the OnStartupSettingsFragment, verifying that radio button selections match and update the stored restore-on-startup preferences.
+// ---
+
 package org.chromium.chrome.browser.settings.startup;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self receiver test suite
+// summary: Instrumentation tests for receiving Send Tab to Self sync entities, covering notifications, messages and UI rendering.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import static androidx.test.espresso.Espresso.onView;

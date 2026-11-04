@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionClapperQuietTest
+// summary: Android instrumentation tests for notification permission prompts in quiet UI mode, checking actions recorded via the location bar left quiet icon histograms.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import static androidx.test.espresso.Espresso.onView;

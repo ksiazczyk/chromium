@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the signin test folder
+summary: Chromium directory metadata applying the signin component mixins and marking the folder as Android.

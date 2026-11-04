@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SubresourceFilterTest
+// summary: End-to-end Android instrumentation tests for Subresource Filter ad filtering, including the blocked-ads message and learn-more flow.
+// ---
+
 package org.chromium.chrome.browser.subresource_filter;
 
 import android.text.Spanned;

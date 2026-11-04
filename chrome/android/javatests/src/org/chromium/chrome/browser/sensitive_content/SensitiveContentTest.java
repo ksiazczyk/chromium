@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sensitive content tab tests
+// summary: Instrumented Chrome for Android tests verifying that tab content sensitivity is set correctly, using Espresso and transit test rules.
+// ---
+
 package org.chromium.chrome.browser.sensitive_content;
 
 import static androidx.test.espresso.Espresso.onView;

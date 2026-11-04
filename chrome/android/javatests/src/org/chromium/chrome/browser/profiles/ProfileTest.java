@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileTest
+// summary: Instrumentation tests checking that incognito and non-incognito off-the-record profiles are created and resolved distinctly and consistently.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import androidx.test.filters.LargeTest;

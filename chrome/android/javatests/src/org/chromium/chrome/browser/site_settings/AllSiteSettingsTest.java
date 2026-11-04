@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: All site settings tests
+// summary: Android instrumentation tests for the all-sites list in Chrome's site settings, including render tests and permission-related UI checks.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import static androidx.test.espresso.Espresso.onView;

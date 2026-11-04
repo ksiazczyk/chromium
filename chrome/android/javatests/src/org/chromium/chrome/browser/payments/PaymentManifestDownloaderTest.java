@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment manifest downloader integration tests
+// summary: Integration tests for the payment manifest downloader, checking download of payment method and web app manifests from a test server, including failure cases.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import android.net.Uri;

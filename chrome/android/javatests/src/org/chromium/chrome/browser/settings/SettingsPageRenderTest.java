@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings page render tests
+// summary: Render tests capturing the appearance of the settings page inside a native tab on tablet and desktop.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static androidx.test.espresso.Espresso.onView;

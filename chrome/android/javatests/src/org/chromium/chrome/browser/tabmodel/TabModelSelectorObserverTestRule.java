@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test rule for tab model selector observers
+// summary: JUnit test rule that sets up a tab model selector with normal and incognito test models as a basis for testing tab model selector observers.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.chrome.browser.tab.TabStateStorageServiceFactory.createBatch;

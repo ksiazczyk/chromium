@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IdentityErrorCardPreferenceTest
+// summary: Render and behavior tests for the identity error card preference shown in sync settings when sync authentication errors occur.
+// ---
+
 package org.chromium.chrome.browser.sync.settings;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

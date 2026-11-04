@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Points the share test directory to the shared COMMON_METADATA mixin used for Chrome Android share metadata.

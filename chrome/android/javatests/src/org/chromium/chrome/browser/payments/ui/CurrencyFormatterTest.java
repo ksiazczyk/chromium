@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'CurrencyFormatterTest: Android unit test for payments currency formatting'
+// summary: Runs an on-device JUnit unit test verifying that CurrencyFormatter renders amounts correctly across currencies, locales, negative values and unofficial ISO 4217 codes.
+// ---
+
 package org.chromium.chrome.browser.payments.ui;
 
 import androidx.test.filters.MediumTest;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Status indicator tests owners file
+summary: Delegates code ownership to the OWNERS file of the status indicator source directory.

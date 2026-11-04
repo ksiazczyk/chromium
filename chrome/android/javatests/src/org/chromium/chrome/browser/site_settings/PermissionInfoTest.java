@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission info tests
+// summary: Instrumentation tests for PermissionInfo, verifying geolocation permission info across regular and incognito profiles.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import static org.junit.Assert.assertEquals;

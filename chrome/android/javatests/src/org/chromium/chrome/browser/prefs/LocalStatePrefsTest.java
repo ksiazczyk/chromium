@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalStatePrefsTest
+// summary: Instrumented JUnit tests for Chrome for Android's LocalStatePrefs, verifying string preference writes and observer notification behavior via the PrefService.
+// ---
+
 package org.chromium.chrome.browser.prefs;
 
 import static com.google.common.truth.Truth.assertWithMessage;

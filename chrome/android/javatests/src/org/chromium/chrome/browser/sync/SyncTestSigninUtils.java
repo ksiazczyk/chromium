@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in utilities for native Sync browser tests
+// summary: Java JNI helpers that set up test accounts, sign in and out, and fake the trusted vault client for native Sync browser tests on Android.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import org.jni_zero.CalledByNative;

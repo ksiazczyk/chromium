@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the WebOTP Service API test directory
+summary: Metadata file that inherits mixins from the common SMS metadata and assigns the Blink>SMS monorail component for issue tracking.

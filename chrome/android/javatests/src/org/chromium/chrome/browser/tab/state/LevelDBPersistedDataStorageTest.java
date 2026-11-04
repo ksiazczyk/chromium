@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LevelDBPersistedDataStorage tests
+// summary: Instrumentation tests for saving, loading, overwriting and deleting keyed byte data in LevelDBPersistedDataStorage across namespaces.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import androidx.test.filters.SmallTest;

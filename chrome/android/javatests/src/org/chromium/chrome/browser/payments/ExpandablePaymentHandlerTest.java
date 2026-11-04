@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expandable PaymentHandler tests
+// summary: Parameterized instrumentation tests for the expandable PaymentHandler UI, checking bottom sheet display, navigation, and user interactions during payment flows.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static androidx.test.espresso.Espresso.onView;

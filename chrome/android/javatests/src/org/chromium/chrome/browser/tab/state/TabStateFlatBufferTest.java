@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStateFlatBufferTest
+// summary: Instrumented JUnit tests verifying that tab state is saved and restored through the FlatBuffer format of TabStateFileManager, covering regular and incognito tabs and restore metrics.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.chromium.chrome.browser.url_constants.UrlConstantResolver.getOriginalNativeNtpUrl;

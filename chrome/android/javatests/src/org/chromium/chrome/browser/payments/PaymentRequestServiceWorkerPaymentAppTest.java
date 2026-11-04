@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker payment app integration test
+// summary: Android integration test for service worker based payment apps, installing mock apps with configurable scopes, icons, and supported delegations.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import android.app.Activity;

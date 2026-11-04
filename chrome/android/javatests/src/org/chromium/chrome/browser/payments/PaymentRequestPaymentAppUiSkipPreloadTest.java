@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request test for UI skip with preload optimization
+// summary: Instrumentation test verifying payment via Bob Pay with the single payment app UI skip optimization plus PaymentRequest preloading before the buy button is clicked.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

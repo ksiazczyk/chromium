@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings page tests
+// summary: Broad instrumentation tests for the settings page, covering navigation, preferences, autofill entries, and feature flags.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static androidx.test.espresso.Espresso.onView;

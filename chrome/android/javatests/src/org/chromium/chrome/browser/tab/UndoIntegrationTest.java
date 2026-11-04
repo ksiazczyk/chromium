@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab close undo UI integration tests
+// summary: Android instrumentation tests for tab close undo behavior and its interaction with the UI, including snackbar timing and window opening from closing tabs.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.os.SystemClock;

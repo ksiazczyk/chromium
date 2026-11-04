@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks sync test suite
+// summary: Instrumentation tests verifying bookmark syncing between a fake sync server and the Android client, including folder and modification cases.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import android.util.Pair;

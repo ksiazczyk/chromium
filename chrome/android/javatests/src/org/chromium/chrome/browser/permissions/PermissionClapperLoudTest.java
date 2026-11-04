@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionClapperLoudTest
+// summary: Android instrumentation tests for notification permission prompts with the loud clapper UI enabled, verifying prompt actions and related histogram records.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import static androidx.test.espresso.Espresso.onView;

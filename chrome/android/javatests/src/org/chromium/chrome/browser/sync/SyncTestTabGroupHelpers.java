@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group helpers for native Sync browser tests
+// summary: Java JNI helpers that create single-tab groups, read group IDs, and update tab group title and color for native Sync browser tests.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default search engine dialog helper test utilities
+// summary: Test utilities that drive the default search engine dialog, such as selecting the first engine option and confirming the choice.
+// ---
+
 package org.chromium.chrome.browser.search_engines;
 
 import android.view.View;

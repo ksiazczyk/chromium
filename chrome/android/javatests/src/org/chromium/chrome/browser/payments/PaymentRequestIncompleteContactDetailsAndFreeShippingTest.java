@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequestIncompleteContactDetailsAndFreeShippingTest
+// summary: Instrumented test for a merchant requesting name, email, and phone with free shipping when the user's stored contact details are incomplete, verifying editing and payment.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

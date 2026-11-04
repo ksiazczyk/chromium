@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared test rule for sync tests
+// summary: JUnit test rule providing common sync test setup, including sign-in, fake trusted vault key flows and fake server helpers.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import static androidx.test.espresso.Espresso.onView;

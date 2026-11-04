@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location precision chooser render tests
+// summary: Render tests capturing the location precision chooser UI in day and night modes and under constrained screen configurations.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import android.annotation.SuppressLint;

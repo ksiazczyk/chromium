@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab histogram collection tests
+// summary: Android instrumentation tests for Tab-related histogram and UMA metric collection in Chrome's tabbed activity.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import androidx.test.filters.MediumTest;

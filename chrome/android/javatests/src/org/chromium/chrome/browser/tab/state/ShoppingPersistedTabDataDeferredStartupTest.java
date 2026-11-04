@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShoppingPersistedTabData deferred startup tests
+// summary: Tests the deferred startup and price drop initialization of ShoppingPersistedTabData with mocked shopping services and profiles.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.mockito.ArgumentMatchers.any;

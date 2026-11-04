@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings search coordinator test
+// summary: Instrumentation tests for Search in Settings that launch a Settings activity, perform queries, and check the search coordinator's state, results display, and histograms.
+// ---
+
 package org.chromium.chrome.browser.settings.search;
 
 import static androidx.test.espresso.Espresso.onView;

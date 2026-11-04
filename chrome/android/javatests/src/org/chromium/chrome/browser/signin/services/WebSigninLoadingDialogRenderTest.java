@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSigninLoadingDialogRenderTest
+// summary: Parameterized render tests capturing the web sign-in loading dialog in both night and day mode using the RenderTestRule.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

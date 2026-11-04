@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabbedNavigationBarColorControllerTest
+// summary: Android instrumentation tests for TabbedNavigationBarColorController, verifying navigation bar and system bar coloring across fullscreen, scrim, edge-to-edge, and incognito scenarios.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static com.google.common.truth.Truth.assertThat;

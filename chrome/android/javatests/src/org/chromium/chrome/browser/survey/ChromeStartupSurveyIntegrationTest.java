@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome startup survey integration test
+// summary: Integration test verifying that the ChromeSurveyController presents the survey message and records accept and dismiss actions with a test survey trigger ID.
+// ---
+
 package org.chromium.chrome.browser.survey;
 
 import androidx.test.filters.MediumTest;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Website preference bridge tests
+// summary: JUnit tests for WebsitePreferenceBridge that verify content setting queries and updates, including parameterized embargo scenarios and clearing of site settings data.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import static org.junit.Assert.assertEquals;

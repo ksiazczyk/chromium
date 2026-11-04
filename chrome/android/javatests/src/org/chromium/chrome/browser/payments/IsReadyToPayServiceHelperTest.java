@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IsReadyToPayServiceHelper tests
+// summary: Tests for IsReadyToPayServiceHelper that verify binding to payment apps' IsReadyToPay services and handling of responsive, unresponsive, and erroring services.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static org.mockito.AdditionalAnswers.answerVoid;

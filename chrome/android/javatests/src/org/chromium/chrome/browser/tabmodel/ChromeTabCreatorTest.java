@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeTabCreatorTest
+// summary: Instrumented tests for ChromeTabCreator covering background tab creation, trusted intents, and multi-window tab launching behavior.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

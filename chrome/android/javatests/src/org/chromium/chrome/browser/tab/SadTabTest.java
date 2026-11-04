@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SadTabTest
+// summary: Instrumentation tests for sad tab behavior, verifying when the sad tab page is shown after renderer crashes or kills.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.junit.Assert.assertFalse;

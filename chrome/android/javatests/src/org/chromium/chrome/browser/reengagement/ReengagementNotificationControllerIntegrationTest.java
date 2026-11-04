@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reengagement notification controller integration test
+// summary: Android integration tests verifying when Chrome's ReengagementNotificationController posts reengagement notifications, using mocked feature-engagement trackers and Chrome test rules.
+// ---
+
 package org.chromium.chrome.browser.reengagement;
 
 import static org.mockito.Mockito.doReturn;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings search orphan test
+// summary: Checks that building the Settings Search Index, both signed out and signed in, produces no unexpected orphaned entries by validating preference reachability back to MainSettings.
+// ---
+
 package org.chromium.chrome.browser.settings.search;
 
 import static org.junit.Assert.fail;

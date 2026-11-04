@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteSettingsMenuTest
+// summary: Instrumentation tests for the Site Settings main menu, checking that category preferences appear and behave as expected.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import static org.junit.Assert.assertNotNull;

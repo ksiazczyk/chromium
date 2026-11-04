@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoTabModelTest
+// summary: Instrumented tests for the incognito tab model covering tab creation, observer callbacks, and closing all tabs.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static com.google.common.truth.Truth.assertThat;

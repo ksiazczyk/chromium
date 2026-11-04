@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the searchwidget tests
+summary: Points to the shared COMMON_METADATA mixin defined in the searchwidget source directory.

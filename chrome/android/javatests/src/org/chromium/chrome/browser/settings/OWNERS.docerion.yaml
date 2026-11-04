@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Settings tests OWNERS file
+summary: Reuses the OWNERS file from the settings source directory to define review ownership for these tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request test for sorting payment apps by frecency
+// summary: Instrumentation test verifying that payment apps are sorted by frecency in the Payment Request UI; the main sorting test is disabled as flaky.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

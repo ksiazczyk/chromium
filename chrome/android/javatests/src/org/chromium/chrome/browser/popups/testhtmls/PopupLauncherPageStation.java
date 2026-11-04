@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PopupLauncherPageStation
+// summary: PageStation helper that loads popup_launcher.html and drives pop-up open, close, focus, move, and resize link interactions in Chrome Android UI tests.
+// ---
+
 package org.chromium.chrome.browser.popups.testhtmls;
 
 import org.chromium.base.test.transit.TripBuilder;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Privacy Sandbox Android tests OWNERS file
+summary: Delegates code ownership for the Android privacy sandbox tests to the owners listed in components/privacy_sandbox/OWNERS.

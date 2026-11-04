@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the signin test folder
+summary: Delegates code ownership for this folder to the shared Android signin owners file.

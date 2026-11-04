@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper creating TabModel test data directories
+// summary: Creates and fills a directory with Base64-encoded TabState and metadata files so tests can mock the real data directory for TabModel-related code.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebPaymentIntentHelper tests
+// summary: Unit tests for WebPaymentIntentHelper covering creation and parsing of payment intents and responses, including handling of responses with missing fields.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static com.google.common.truth.Truth.assertThat;

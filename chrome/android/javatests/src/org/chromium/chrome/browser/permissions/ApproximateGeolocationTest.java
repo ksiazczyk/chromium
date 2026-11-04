@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Approximate geolocation permission tests
+// summary: Instrumentation tests verifying Chrome's approximate and precise geolocation permission prompts, content settings, and dialog behavior on Android.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import android.Manifest;

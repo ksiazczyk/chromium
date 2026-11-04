@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistedTabData tests
+// summary: Unit tests covering callback caching, save behaviour and observer suppliers of PersistedTabData using mocks and a test configuration.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.mockito.Mockito.doAnswer;

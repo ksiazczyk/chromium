@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionTestRule
+// summary: JUnit test rule that simplifies permissions UI testing on Android by starting a test server, triggering prompts, and verifying grant and persistence behavior.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import static androidx.test.espresso.Espresso.onView;

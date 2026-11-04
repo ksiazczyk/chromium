@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RuntimePermissionTestUtils
+// summary: Test utilities for exercising the Android runtime permission prompt, including a fake permission delegate and prompt response enum.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import android.content.pm.PackageManager;

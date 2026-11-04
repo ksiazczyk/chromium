@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location permission subpage settings tests
+// summary: Tests for the location permission subpage, checking that approximate and precise geolocation selections update permissions.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import static org.junit.Assert.assertEquals;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for tab state tests
+summary: Chromium ownership file pointing to the OWNERS file of the corresponding main tab state source directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MostVisitedTilesViewBinderUnitTest
+// summary: Unit tests verifying that MostVisitedTilesViewBinder applies visibility and padding properties from the model to the tiles layout.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import static org.chromium.chrome.browser.suggestions.tile.MostVisitedTilesProperties.HORIZONTAL_EDGE_PADDINGS;

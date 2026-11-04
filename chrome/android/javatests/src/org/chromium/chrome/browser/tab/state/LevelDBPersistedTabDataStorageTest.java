@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LevelDBPersistedTabDataStorage tests
+// summary: Instrumentation tests for saving, restoring and deleting per-tab data in LevelDBPersistedTabDataStorage across multiple tabs and data IDs.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import androidx.test.filters.SmallTest;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebsitePermissionsFetcherTest
+// summary: Parameterized tests for WebsitePermissionsFetcher, verifying that website permissions and site data are fetched correctly for various content settings.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import static org.junit.Assert.assertEquals;

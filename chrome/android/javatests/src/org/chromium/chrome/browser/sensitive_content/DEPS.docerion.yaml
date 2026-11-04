@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for sensitive content tests
+summary: Grants this test directory access to the components/sensitive_content dependency via an include rule.

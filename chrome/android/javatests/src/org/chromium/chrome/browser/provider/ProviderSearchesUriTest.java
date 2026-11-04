@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searches URI tests for Chrome's Android content provider
+// summary: JUnit tests that exercise the searches URI of Chrome's Android provider public API, covering insert, update, delete, and query of search terms.
+// ---
+
 package org.chromium.chrome.browser.provider;
 
 import android.content.ContentValues;

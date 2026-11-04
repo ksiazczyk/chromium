@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoadCallbackHelper test utility
+// summary: Test helper extending CallbackHelper that stores a ByteBuffer acquired in a callback and signals when acquisition completes.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import org.chromium.base.test.util.CallbackHelper;

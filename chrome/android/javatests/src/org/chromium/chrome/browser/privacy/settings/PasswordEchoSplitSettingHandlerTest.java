@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password echo split setting handler tests
+// summary: Instrumentation tests for PasswordEchoSettingHandler with separate physical and touch show-password settings stored in Android secure settings.
+// ---
+
 package org.chromium.chrome.browser.privacy.settings;
 
 import android.provider.Settings;
