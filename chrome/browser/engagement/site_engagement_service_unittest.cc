@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site engagement service unit tests
+// summary: Unit tests for site engagement scoring, metrics, observers, and the history-aware service, using testing profiles, simulated navigations, and content setting change waiters.
+// ---
+
 #include "components/site_engagement/content/site_engagement_service.h"
 
 #include <algorithm>

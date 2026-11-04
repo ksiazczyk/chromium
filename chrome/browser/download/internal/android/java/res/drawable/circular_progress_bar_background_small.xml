@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Small circular progress bar background drawable
+summary: Layer-list drawable that layers an oval surface with the small progress bar selector for the download UI.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/oval_surface_1" />
     <item android:drawable="@drawable/circular_progress_bar_selector_small" />

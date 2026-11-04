@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pagination handler for the prefetch tab list
+// summary: Paginates the prefetch tab list, always showing card items fully even when the total count exceeds the default page size of 25.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.mutator;
 
 import org.chromium.build.annotations.NullMarked;

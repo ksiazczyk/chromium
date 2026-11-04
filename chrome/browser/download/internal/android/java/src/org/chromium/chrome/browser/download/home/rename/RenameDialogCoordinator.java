@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Rename dialog coordinator for Download Home
+// summary: Coordinates the rename dialog UI, building its model and showing, updating or dismissing it via ModalDialogManager.
+// ---
+
 package org.chromium.chrome.browser.download.home.rename;
 
 import android.content.Context;

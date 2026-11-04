@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioViewHolder for standalone prefetched audio items
+// summary: RecyclerView ViewHolder that renders a standalone prefetched audio item with title, caption and timestamp in the downloads home list.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.holder;
 
 import android.view.LayoutInflater;

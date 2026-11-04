@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Educational tip color resources
+summary: Defines color resources and color macros for educational tip card logos, setup list celebratory promo gradients, and the NTP theme promo background.
+-->
+
 <resources>
   <color name="educational_tip_card_logo_color_1">@color/material_primary_95</color>
   <color name="educational_tip_card_logo_color_2">@color/material_primary_90</color>

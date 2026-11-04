@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Two-cell educational tip module builder
+// summary: Builds the generic two-cell educational tip module for the magic stack, inflating its layout and creating the coordinator, with eligibility and rank from Setup List utilities.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.two_cell;
 
 import android.view.LayoutInflater;

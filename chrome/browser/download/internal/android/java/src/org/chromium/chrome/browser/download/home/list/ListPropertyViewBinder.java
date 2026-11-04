@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View binder applying list properties to the RecyclerView
+// summary: Binds list property changes to the RecyclerView by toggling item animations and notifying the adapter when shared properties change.
+// ---
+
 package org.chromium.chrome.browser.download.home.list;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

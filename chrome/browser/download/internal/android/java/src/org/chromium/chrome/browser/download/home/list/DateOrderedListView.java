@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateOrderedListView
+// summary: View component of the date-ordered downloads list that renders the model in a RecyclerView grid layout.
+// ---
+
 package org.chromium.chrome.browser.download.home.list;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

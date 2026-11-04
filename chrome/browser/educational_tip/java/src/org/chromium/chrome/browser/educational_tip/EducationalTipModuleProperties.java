@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EducationalTipModuleProperties
+// summary: Defines the writable property keys used by the educational tip module's property model.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import android.view.View.OnClickListener;

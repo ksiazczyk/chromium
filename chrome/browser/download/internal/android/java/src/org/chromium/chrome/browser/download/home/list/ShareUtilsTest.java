@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ShareUtils
+// summary: Robolectric unit tests verifying share intent actions, flags, extra text and MIME type resolution for offline items.
+// ---
+
 package org.chromium.chrome.browser.download.home.list;
 
 import android.content.Intent;

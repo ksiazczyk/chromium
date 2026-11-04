@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetupListModuleUtils for setup list modules
+// summary: Utility helpers for setup list modules, delegating ranking, eligibility, and completion checks to the manager.
+// ---
+
 package org.chromium.chrome.browser.setup_list;
 
 import android.os.Build;

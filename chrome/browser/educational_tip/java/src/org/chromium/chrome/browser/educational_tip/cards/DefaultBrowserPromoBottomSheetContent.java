@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser promo bottom sheet content
+// summary: Bottom sheet content implementation for the default browser promo card, providing the content view, priority and accessibility strings.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.cards;
 
 import android.content.Context;

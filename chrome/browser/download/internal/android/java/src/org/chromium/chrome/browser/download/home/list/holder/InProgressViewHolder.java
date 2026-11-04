@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InProgressViewHolder
+// summary: Abstract base ViewHolder for in-progress OfflineItems that binds the caption, circular progress action button, and cancel button with pause and resume callbacks.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.holder;
 
 import android.view.View;

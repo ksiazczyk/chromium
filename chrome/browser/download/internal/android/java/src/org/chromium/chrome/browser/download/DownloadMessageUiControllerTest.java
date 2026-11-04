@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadMessageUiControllerTest
+// summary: Instrumented tests verifying that DownloadMessageUiControllerImpl correctly represents the state of downloads in the current Chrome session.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.content.Context;

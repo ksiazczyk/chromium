@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadActivityV2Test
+// summary: Espresso instrumentation tests for the download home activity, covering list display, filters, dialogs, renaming and toolbar behavior.
+// ---
+
 package org.chromium.chrome.browser.download.home;
 
 import static androidx.test.espresso.Espresso.onView;

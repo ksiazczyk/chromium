@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Educational tip card provider signal handler unit tests
+// summary: Robolectric unit tests for the signal handler that decides which educational tip cards to show based on signin, sync, tab, and NTP customization state.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import static org.junit.Assert.assertEquals;

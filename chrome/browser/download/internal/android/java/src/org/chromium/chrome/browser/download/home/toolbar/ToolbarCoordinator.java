@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarCoordinator
+// summary: Top-level coordinator for the download home toolbar that wires up list and toolbar action delegates, search handling, back press behavior, shadow visibility, and selection observation.
+// ---
+
 package org.chromium.chrome.browser.download.home.toolbar;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site engagement helper browser tests
+// summary: Browser tests for the site engagement helper's input and media trackers, including timer restarts, histograms, and prerendering behavior.
+// ---
+
 #include "components/site_engagement/content/site_engagement_helper.h"
 
 #include <memory>

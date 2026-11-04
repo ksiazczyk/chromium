@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Engagement directory bug tracking metadata
+summary: Maps the engagement directory to the Internals>SiteEngagement monorail component and a public Buganizer component.

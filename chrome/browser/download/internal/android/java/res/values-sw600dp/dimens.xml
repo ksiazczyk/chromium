@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tablet dimension values for the download manager
+summary: Defines the download_manager_ideal_image_width dimension as 240dp for sw600dp tablet layouts in the Chromium Android download UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <dimen name="download_manager_ideal_image_width">240dp</dimen>
 </resources>

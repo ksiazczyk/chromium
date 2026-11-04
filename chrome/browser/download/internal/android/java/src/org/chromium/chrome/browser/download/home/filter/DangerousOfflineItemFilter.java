@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dangerous download filter for downloads home
+// summary: Hides dangerous download items from the UI unless the configuration allows them, leaving blocked sensitive items to a separate filter.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import org.chromium.build.annotations.NullMarked;

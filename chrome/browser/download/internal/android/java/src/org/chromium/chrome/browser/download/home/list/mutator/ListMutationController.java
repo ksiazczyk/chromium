@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controller for the download list mutation pipeline
+// summary: Wires together the sorter, label adder, paginator, and property setter consumers and switches pipelines when the filter type changes.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.mutator;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group promo card coordinator
+// summary: Coordinator for the tab group educational tip card that opens a tab group IPH dialog when the card is clicked.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.cards;
 
 import androidx.annotation.DrawableRes;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UmaUtils for download home metrics
+// summary: Utility class that records user action metrics for the download home, including logging when offline page items are shared via the Android share sheet.
+// ---
+
 package org.chromium.chrome.browser.download.home.metrics;
 
 import org.chromium.base.metrics.RecordUserAction;

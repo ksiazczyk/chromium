@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List item model for the download home list
+// summary: Model class extending BatchListModel that exposes a PropertyModel of shared properties for building the download list UI.
+// ---
+
 package org.chromium.chrome.browser.download.home.list;
 
 import org.chromium.build.annotations.NullMarked;

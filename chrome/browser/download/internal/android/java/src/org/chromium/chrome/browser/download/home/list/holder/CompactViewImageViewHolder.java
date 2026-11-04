@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompactViewImageViewHolder for compact image items
+// summary: RecyclerView ViewHolder that renders image OfflineItems in the compact Downloads list variant with a square thumbnail, title and caption.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.holder;
 
 import android.view.LayoutInflater;

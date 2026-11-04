@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: NTP theme promo logo background
+summary: Vector drawable providing the decorative background shape for the NTP theme promo logo.
+-->
+
 <vector android:autoMirrored="true"
     android:height="54dp"
     android:viewportHeight="54"

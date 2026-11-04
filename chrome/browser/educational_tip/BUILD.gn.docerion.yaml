@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Educational tip module build configuration
+summary: Defines the Android Java library build targets and source files for Chrome's educational tip module, including card promos and setup list bottom sheet components.

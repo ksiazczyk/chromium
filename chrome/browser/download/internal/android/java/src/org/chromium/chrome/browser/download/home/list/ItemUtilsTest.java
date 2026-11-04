@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ItemUtilsTest
+// summary: Robolectric unit tests for ItemUtils covering matching items with the same file path.
+// ---
+
 package org.chromium.chrome.browser.download.home.list;
 
 import org.junit.Assert;

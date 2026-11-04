@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site engagement service factory implementation
+// summary: Implements the profile-keyed factory that provides per-profile SiteEngagementService instances, building HistoryAwareSiteEngagementService wired to the profile's history service.
+// ---
+
 #include "chrome/browser/engagement/site_engagement_service_factory.h"
 
 #include "base/no_destructor.h"

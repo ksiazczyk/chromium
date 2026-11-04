@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocked sensitive download filter for downloads home
+// summary: Filters out blocked sensitive downloads from the download manager UI unless the configuration asks to show them.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import org.chromium.build.annotations.NullMarked;

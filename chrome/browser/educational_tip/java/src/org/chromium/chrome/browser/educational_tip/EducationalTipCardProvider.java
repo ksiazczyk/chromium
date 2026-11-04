@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EducationalTipCardProvider interface
+// summary: Interface for cards in the educational tip module, exposing title, description, button text, image, and click handling.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import androidx.annotation.DrawableRes;

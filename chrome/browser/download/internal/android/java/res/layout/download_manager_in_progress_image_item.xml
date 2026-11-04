@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Download manager in-progress image item layout
+summary: Layout for an image download in progress with a placeholder image, cancel button, caption and circular progress indicator.
+-->
+
 <org.chromium.chrome.browser.download.home.list.view.AspectRatioFrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tab group sync promo logo
+summary: Android vector drawable of overlapping tab rectangles representing synced tab groups for the educational tip promo.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="72dp"
     android:height="72dp"

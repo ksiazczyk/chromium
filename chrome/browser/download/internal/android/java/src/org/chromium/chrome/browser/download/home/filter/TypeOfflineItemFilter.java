@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeOfflineItemFilter
+// summary: Filters offline download items by their OfflineItem filter type against the selected FilterType, with special handling to prune prefetched articles unless the filter matches exactly.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import org.chromium.build.annotations.NullMarked;

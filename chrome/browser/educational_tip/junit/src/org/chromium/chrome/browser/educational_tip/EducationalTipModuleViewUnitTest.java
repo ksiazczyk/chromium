@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Educational tip module view unit tests
+// summary: Robolectric unit tests with native graphics for the educational tip module view, checking title and description text and max line adjustment behavior.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download item notification implementation
+// summary: Implements the ChromeOS notification shown for a single download item, covering status text, commands, icons, and preview image handling.
+// ---
+
 #include "chrome/browser/download/notification/download_item_notification.h"
 
 #include <stddef.h>

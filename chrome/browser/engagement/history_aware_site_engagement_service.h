@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History-aware site engagement service header
+// summary: Declares HistoryAwareSiteEngagementService, a SiteEngagementService that observes history deletions via HistoryServiceObserver.
+// ---
+
 #ifndef CHROME_BROWSER_ENGAGEMENT_HISTORY_AWARE_SITE_ENGAGEMENT_SERVICE_H_
 #define CHROME_BROWSER_ENGAGEMENT_HISTORY_AWARE_SITE_ENGAGEMENT_SERVICE_H_
 

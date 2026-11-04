@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InProgressVideoViewHolder
+// summary: RecyclerView ViewHolder that displays an in-progress video OfflineItem, inflating the in-progress video layout and formatting its title via UiUtils.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.holder;
 
 import android.view.LayoutInflater;

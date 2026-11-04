@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EducationalTipCardProviderFactory
+// summary: Factory that creates the matching card provider coordinator for each educational tip module type.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import org.chromium.base.CallbackController;

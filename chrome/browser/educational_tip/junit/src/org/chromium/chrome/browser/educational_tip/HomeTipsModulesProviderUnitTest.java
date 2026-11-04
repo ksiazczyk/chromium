@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Home tips modules provider unit tests
+// summary: Robolectric unit tests verifying which tip modules are registered for setup list two-cell, setup list single-cell, and regular educational tips configurations.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import static org.junit.Assert.assertArrayEquals;

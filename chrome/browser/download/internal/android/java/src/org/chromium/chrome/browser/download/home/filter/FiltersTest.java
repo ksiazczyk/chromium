@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FiltersTest
+// summary: Unit tests verifying that the Filters class converts OfflineItemFilter values into the correct download home filter types.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import org.junit.Assert;

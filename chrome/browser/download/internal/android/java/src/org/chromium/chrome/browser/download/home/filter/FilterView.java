@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android view for the downloads home filter
+// summary: View class that renders the download home tabs and content container and applies filter properties to the Android view hierarchy.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

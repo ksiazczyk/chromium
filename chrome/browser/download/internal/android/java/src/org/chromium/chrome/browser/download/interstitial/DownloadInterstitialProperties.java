@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download interstitial properties
+// summary: Property key definitions and state constants for the download interstitial UI, extending ListProperties for the displayed download list item.
+// ---
+
 package org.chromium.chrome.browser.download.interstitial;
 
 import androidx.annotation.IntDef;

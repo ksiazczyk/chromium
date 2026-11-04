@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download item notification unit tests
+// summary: Unit tests for DownloadItemNotification using mock download items, notification display testers, and testing profiles.
+// ---
+
 #include "chrome/browser/download/notification/download_item_notification.h"
 
 #include <stddef.h>

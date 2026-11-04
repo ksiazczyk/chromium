@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download interstitial coordinator implementation
+// summary: Coordinator implementation that sets up the download interstitial, wiring the mediator, property model and view, and handles tab reparenting and teardown.
+// ---
+
 package org.chromium.chrome.browser.download.interstitial;
 
 import android.content.Context;

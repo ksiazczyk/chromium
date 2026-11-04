@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffTheRecordOfflineItemFilter
+// summary: Filter that removes off-the-record download items unless they come from the primary OTR profile and inclusion is enabled.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

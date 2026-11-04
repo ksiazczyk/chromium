@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download interstitial coordinator factory
+// summary: Factory that creates DownloadInterstitialCoordinator instances wired with the offline content provider, modal dialog manager, snackbar manager and reload callback.
+// ---
+
 package org.chromium.chrome.browser.download.interstitial;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

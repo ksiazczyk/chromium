@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Site engagement Android javatests build target
+summary: GN build file defining the Android Java test library for the site engagement service and its test dependencies.

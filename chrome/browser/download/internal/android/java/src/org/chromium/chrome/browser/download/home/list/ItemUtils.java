@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ItemUtils
+// summary: Utility helpers for finding OfflineItems that share the same file path in the downloads list.
+// ---
+
 package org.chromium.chrome.browser.download.home.list;
 
 import android.text.TextUtils;

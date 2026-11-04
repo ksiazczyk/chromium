@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EducationalTipModuleTwoCellViewBinderUnitTest
+// summary: Robolectric unit tests for EducationalTipModuleTwoCellViewBinder, checking that property model changes such as titles, icons, and completion states update the two-cell view.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.two_cell;
 
 import static org.junit.Assert.assertEquals;

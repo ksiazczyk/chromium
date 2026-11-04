@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetupListManager for setup list state and ranking
+// summary: Manages Setup List feature state, eligibility, and dynamic module ranking for Chrome's magic stack.
+// ---
+
 package org.chromium.chrome.browser.setup_list;
 
 import static org.chromium.build.NullUtil.assertNonNull;

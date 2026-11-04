@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download notification browser tests
+// summary: Browser tests for download notifications, including multi-profile scenarios on ChromeOS with test accounts and download manager delegates.
+// ---
+
 #include <stddef.h>
 
 #include <array>

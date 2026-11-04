@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemViewHolder
+// summary: Base ViewHolder helper supporting typical OfflineItem actions such as selection, thumbnail display, sharing, renaming, opening, and the more-options menu.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.holder;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

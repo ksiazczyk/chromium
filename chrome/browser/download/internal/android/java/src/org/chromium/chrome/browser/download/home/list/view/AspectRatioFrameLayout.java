@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AspectRatioFrameLayout custom view for aspect-ratio child sizing
+// summary: Android FrameLayout helper that sizes its children to fit a configurable aspect ratio in the downloads home list.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.view;
 
 import android.content.Context;

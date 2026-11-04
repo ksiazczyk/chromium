@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InvalidStateOfflineItemFilter
+// summary: Filter that prunes download items with invalid states, transient items, and items externally deleted from primary storage.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import android.os.Environment;

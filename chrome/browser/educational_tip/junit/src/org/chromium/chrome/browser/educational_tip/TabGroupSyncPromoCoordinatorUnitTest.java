@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupSyncPromoCoordinatorUnitTest
+// summary: Robolectric unit test verifying that clicking the tab group sync promo card opens the tab groups hub pane and runs the module clicked callback.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import static org.mockito.ArgumentMatchers.eq;

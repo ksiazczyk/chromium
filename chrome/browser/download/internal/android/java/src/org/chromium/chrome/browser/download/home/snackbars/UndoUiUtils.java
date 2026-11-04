@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UndoUiUtils
+// summary: Utility helpers that build the title and template text strings for the download deletion undo snackbar based on the number of selected items.
+// ---
+
 package org.chromium.chrome.browser.download.home.snackbars;
 
 import android.content.Context;

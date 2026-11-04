@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rename dialog custom view
+// summary: Custom scroll view with a file name edit field that displays rename error messages and reports empty input to observers.
+// ---
+
 package org.chromium.chrome.browser.download.home.rename;
 
 import static android.content.Context.INPUT_METHOD_SERVICE;

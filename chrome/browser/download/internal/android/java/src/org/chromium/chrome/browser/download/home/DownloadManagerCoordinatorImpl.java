@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadManagerCoordinatorImpl
+// summary: Top-level coordinator for the download home UI, wiring the date-ordered list, toolbar, selection and delete-undo snackbar behavior.
+// ---
+
 package org.chromium.chrome.browser.download.home;
 
 import android.app.Activity;

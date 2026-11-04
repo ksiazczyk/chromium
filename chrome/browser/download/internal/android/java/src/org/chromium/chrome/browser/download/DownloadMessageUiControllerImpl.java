@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadMessageUiControllerImpl
+// summary: Message UI implementation of DownloadMessageUiController that shows Chrome Android download banners for progress, completion, failure, pending and dangerous download states.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.chromium.build.NullUtil.assertNonNull;

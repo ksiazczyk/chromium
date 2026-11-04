@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemFilter
+// summary: Abstract base class that filters a source of OfflineItems and exposes the filtered set to observers, designed for chaining filter stages.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import org.chromium.base.ObserverList;

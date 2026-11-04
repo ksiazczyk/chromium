@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download interstitial view
+// summary: View class for the download interstitial that inflates the layout, manages file info holders and buttons, and applies model updates to the UI.
+// ---
+
 package org.chromium.chrome.browser.download.interstitial;
 
 import static org.chromium.chrome.browser.download.interstitial.DownloadInterstitialProperties.STATE;

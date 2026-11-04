@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Educational tip directory include rules
+summary: Sets the allowed include rules for the educational_tip directory, permitting the browser UI bottom sheet Android component.

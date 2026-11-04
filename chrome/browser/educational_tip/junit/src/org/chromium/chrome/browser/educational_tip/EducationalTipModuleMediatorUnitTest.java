@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Educational tip module mediator unit tests
+// summary: Robolectric unit tests for the educational tip module mediator, covering default browser promo triggers, bottom sheet observation, and signin state handling.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import static org.junit.Assert.assertEquals;

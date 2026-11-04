@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Two-cell educational tip module view
+// summary: Custom LinearLayout that displays two stacked tip items with titles, descriptions, icons, click listeners and a completed style applied to finished items.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.two_cell;
 
 import android.content.Context;

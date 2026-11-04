@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyProperties
+// summary: Defines the property keys and state enum (loading, empty, gone) used to build the download home empty view model.
+// ---
+
 package org.chromium.chrome.browser.download.home.empty;
 
 import androidx.annotation.IntDef;

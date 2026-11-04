@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Download manager full-width image item layout
+summary: Card layout for a full-width image download item showing a large rounded thumbnail with title, caption and overflow menu button.
+-->
+
 <org.chromium.components.browser_ui.widget.MaterialCardViewNoShadow
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

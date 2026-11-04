@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Group card header curved border drawable
+summary: Drawable giving the download group card header rounded top corners and a hairline border.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:bottom="-2dp">
         <shape

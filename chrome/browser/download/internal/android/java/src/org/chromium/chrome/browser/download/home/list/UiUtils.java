@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI helper utilities for the download list
+// summary: Provides helpers for chip accessibility strings, date and size formatting, progress visuals and item state checks in the download UI.
+// ---
+
 package org.chromium.chrome.browser.download.home.list;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

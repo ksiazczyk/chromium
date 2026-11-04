@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Two-cell educational tip module property keys
+// summary: Defines the writable property keys for the module title, see-more click handler, and the titles, descriptions, icons, click handlers and completed flags of both cells.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.two_cell;
 
 import org.chromium.build.annotations.NullMarked;

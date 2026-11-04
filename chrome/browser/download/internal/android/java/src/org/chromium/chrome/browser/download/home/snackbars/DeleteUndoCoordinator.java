@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeleteUndoCoordinator
+// summary: Coordinator that shows an undo snackbar for OfflineItem deletions and approves or rejects the delete request based on user action or dismissal.
+// ---
+
 package org.chromium.chrome.browser.download.home.snackbars;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

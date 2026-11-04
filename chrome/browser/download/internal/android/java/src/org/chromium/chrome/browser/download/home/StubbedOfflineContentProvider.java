@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StubbedOfflineContentProvider
+// summary: Stub implementation of OfflineContentProvider with callback helpers and an in-memory item list used to exercise the download home UI in tests.
+// ---
+
 package org.chromium.chrome.browser.download.home;
 
 import static org.junit.Assert.assertEquals;

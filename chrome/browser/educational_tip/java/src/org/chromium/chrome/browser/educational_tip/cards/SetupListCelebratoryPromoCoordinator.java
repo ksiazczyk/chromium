@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Setup list celebratory promo card coordinator
+// summary: Coordinator for the celebratory setup list promo card that marks the module as completed when its view is created.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.cards;
 
 import androidx.annotation.DrawableRes;

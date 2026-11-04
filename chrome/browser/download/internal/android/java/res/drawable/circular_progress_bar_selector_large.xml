@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Large circular progress bar state selector drawable
+summary: Defines hover, focus and pressed state visuals for the large circular download progress bar background.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android" >
     <item android:state_hovered="true">
         <shape android:shape="oval">

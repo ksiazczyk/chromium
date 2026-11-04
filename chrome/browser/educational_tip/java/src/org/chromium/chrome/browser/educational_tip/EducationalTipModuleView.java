@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EducationalTipModuleView
+// summary: Custom LinearLayout that renders the educational tip card content and balances title and description line counts.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import android.content.Context;

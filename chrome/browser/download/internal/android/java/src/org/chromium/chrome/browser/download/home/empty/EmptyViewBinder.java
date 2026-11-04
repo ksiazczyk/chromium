@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyViewBinder
+// summary: View binder that applies EmptyProperties model changes, such as state and empty text, to the EmptyView.
+// ---
+
 package org.chromium.chrome.browser.download.home.empty;
 
 import org.chromium.build.annotations.NullMarked;

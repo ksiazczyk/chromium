@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Two-cell educational tip module view binder
+// summary: Binds property model changes for the two-cell module to the corresponding view updates, including icons, text, click handlers and completed styling.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.two_cell;
 
 import static org.chromium.chrome.browser.educational_tip.two_cell.EducationalTipModuleTwoCellProperties.ITEM_1_CLICK_HANDLER;

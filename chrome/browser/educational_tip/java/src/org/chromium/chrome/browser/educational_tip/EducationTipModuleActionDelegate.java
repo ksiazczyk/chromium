@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EducationTipModuleActionDelegate interface
+// summary: Interface supplying actions for the educational tips module, such as opening Hub panes, promos, bottom sheets, and signin flows.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import android.content.Context;
