@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Points to the shared OWNERS file of the browser init package, delegating code ownership and reviewer assignments.

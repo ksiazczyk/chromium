@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu header mediator unit tests
+// summary: Robolectric unit tests for the context menu header mediator, verifying header image retrieval and large icon callbacks.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.mockito.ArgumentMatchers.any;

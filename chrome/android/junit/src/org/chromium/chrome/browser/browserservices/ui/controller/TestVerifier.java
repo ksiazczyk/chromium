@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestVerifier
+// summary: Test double implementing the Verifier interface to manually pass or fail origin verifications during tests.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller;
 
 import org.chromium.base.Promise;

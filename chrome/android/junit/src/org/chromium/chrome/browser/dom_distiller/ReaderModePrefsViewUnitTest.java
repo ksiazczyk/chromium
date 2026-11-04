@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reader Mode preferences view unit tests
+// summary: Robolectric unit tests for the Reader Mode preferences view covering theme, font family, and font scaling controls.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import static org.junit.Assert.assertEquals;

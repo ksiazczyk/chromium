@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeDropDataAndroid
+// summary: Robolectric tests checking that tab clip data text is built from a tab's URL and that the builder fails when browser content is missing.
+// ---
+
 package org.chromium.chrome.browser.dragdrop;
 
 import static org.junit.Assert.assertEquals;

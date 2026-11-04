@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthTabVerifierTest
+// summary: Robolectric unit tests for AuthTabVerifier, checking origin verification of auth tab redirect hosts and client packages.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller;
 
 import static org.junit.Assert.assertEquals;

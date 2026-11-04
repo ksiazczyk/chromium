@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadNotificationServiceTest
+// summary: Robolectric tests for DownloadNotificationService covering download progress, pause, and notification lifecycle flows.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.junit.Assert.assertEquals;

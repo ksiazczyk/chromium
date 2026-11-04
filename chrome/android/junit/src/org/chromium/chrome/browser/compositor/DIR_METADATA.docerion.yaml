@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Directory metadata that reuses the compositor source COMMON_METADATA mixin for the JUnit test directory.

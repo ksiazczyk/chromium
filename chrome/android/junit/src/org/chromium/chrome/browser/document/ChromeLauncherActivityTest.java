@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeLauncherActivityTest
+// summary: Robolectric unit tests for ChromeLauncherActivity covering tab-to-front intents, launching in an instance, and related histogram logging.
+// ---
+
 package org.chromium.chrome.browser.document;
 
 import static org.mockito.ArgumentMatchers.any;

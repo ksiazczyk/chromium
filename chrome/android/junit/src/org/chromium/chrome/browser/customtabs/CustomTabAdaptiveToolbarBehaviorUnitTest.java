@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabAdaptiveToolbarBehavior unit tests
+// summary: Robolectric unit tests for CustomTabAdaptiveToolbarBehavior, checking registration of adaptive toolbar button variants such as open in browser and share.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static androidx.browser.customtabs.CustomTabsIntent.OPEN_IN_BROWSER_STATE_DEFAULT;

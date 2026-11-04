@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientManager tests
+// summary: Robolectric tests for ClientManager covering session handling, origin verification, engagement signals, and post message connections for Custom Tabs clients.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static android.os.Looper.getMainLooper;

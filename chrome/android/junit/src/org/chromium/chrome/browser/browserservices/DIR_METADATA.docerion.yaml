@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for browserservices unit tests
+summary: Points to the shared browserservices metadata mixin used for Chromium directory tracking.

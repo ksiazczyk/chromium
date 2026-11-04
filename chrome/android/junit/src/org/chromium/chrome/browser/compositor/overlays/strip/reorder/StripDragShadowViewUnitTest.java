@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StripDragShadowViewUnitTest
+// summary: Robolectric unit tests for StripDragShadowView, covering favicon and thumbnail loading, layout, and shadow update behavior for dragged tabs.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static org.junit.Assert.assertEquals;

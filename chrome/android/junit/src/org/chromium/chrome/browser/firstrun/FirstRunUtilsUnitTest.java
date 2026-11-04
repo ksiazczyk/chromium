@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FirstRunUtilsUnitTest
+// summary: Unit tests for FirstRunUtils covering when the safety first run promo should be shown and which promo items belong to each experiment arm.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import static org.junit.Assert.assertEquals;

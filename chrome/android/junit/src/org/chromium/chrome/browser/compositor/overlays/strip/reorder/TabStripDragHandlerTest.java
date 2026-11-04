@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripDragHandlerTest
+// summary: Extensive Robolectric tests for TabStripDragHandler, covering drag event handling, drag-drop data, multi-window behavior, and related metrics.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static org.junit.Assert.assertEquals;

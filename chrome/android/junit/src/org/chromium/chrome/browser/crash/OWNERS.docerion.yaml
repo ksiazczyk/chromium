@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Chrome Android crash package
+summary: Redirects ownership to components/crash/android/OWNERS, defining who can review changes in the crash package.

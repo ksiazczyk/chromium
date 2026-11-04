@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseCustomTabRootUiCoordinator unit tests
+// summary: Robolectric unit tests for the base Custom Tab root UI coordinator, exercising toolbar, browser controls, tab providers, and related coordinator behavior with mocks.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.junit.Assert.assertFalse;

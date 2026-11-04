@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HomepageManager unit tests
+// summary: Robolectric unit tests for Chrome Android's HomepageManager, covering homepage URL resolution, NTP fallback, and preference key migration.
+// ---
+
 package org.chromium.chrome.browser.homepage;
 
 import static org.mockito.Mockito.verify;

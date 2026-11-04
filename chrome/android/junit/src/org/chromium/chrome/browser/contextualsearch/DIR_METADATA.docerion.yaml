@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Chromium directory metadata mapping this folder to the Contextual Search monorail component, team email, and Buganizer component.

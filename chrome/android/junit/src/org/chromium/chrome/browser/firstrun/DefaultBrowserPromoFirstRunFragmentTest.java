@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DefaultBrowserPromoFirstRunFragmentTest
+// summary: Robolectric tests for the default browser promo page of the Chrome first run flow, exercising the fragment with the DEFAULT_BROWSER_PROMO_FRE feature enabled.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImmersiveModeControllerTest
+// summary: Robolectric unit tests for ImmersiveModeController, covering entering and exiting immersive mode and holding the edge-to-edge token so webapp insets are withheld during immersion.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features;
 
 import static android.view.WindowManager.LayoutParams.LAYOUT_IN_DISPLAY_CUTOUT_MODE_SHORT_EDGES;

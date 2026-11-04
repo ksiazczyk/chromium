@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DigitalGoodsUnitTest
+// summary: Robolectric tests covering the digital goods flow from DigitalGoodsImpl through the adapter to a mocked TrustedWebActivityClient, including behaviour with older client versions.
+// ---
+
 package org.chromium.chrome.browser.browserservices.digitalgoods;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisclosureAcceptanceBroadcastReceiverTest
+// summary: Robolectric tests verifying that the TWA disclosure acceptance broadcast receiver cancels the disclosure notification and records the user's acceptance for the package.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.trustedwebactivity;
 
 import static org.junit.Assert.assertNotNull;

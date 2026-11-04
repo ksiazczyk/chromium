@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StripTabModelActionListenerUnitTest
+// summary: Robolectric unit tests for StripTabModelActionListener covering dialog types and confirmation results for tab strip actions.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.junit.Assert.assertEquals;

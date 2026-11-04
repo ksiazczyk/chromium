@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for findinpage JUnit tests
+summary: Defines the allowed include rules for the findinpage JUnit test directory, permitting dependencies on chrome/browser/tab and chrome/browser/tabmodel.

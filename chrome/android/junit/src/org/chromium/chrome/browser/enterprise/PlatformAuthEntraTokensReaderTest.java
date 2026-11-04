@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlatformAuthEntraTokensReaderTest
+// summary: Robolectric unit tests for reading Microsoft Entra SSO auth headers from broker accounts, covering trusted package signature verification and callback results.
+// ---
+
 package org.chromium.chrome.browser.enterprise;
 
 import static org.mockito.ArgumentMatchers.any;

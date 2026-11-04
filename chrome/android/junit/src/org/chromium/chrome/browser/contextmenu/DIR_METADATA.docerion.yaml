@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the contextmenu test directory
+summary: Chromium DIR_METADATA entry that reuses the common metadata mixins of the contextmenu source directory.

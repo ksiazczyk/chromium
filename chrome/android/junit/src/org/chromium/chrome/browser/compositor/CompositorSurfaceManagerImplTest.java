@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompositorSurfaceManagerImpl unit tests
+// summary: Robolectric unit tests for CompositorSurfaceManagerImpl that verify surface handling and callbacks using custom fake SurfaceView shadows.
+// ---
+
 package org.chromium.chrome.browser.compositor;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

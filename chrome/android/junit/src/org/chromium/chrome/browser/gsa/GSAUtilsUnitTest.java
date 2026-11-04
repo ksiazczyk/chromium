@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GSAUtilsUnitTest
+// summary: JUnit tests verifying GSAUtils.isAgsaVersionBelowMinimum version comparison against a minimum AGSA version.
+// ---
+
 package org.chromium.chrome.browser.gsa;
 
 import org.junit.Assert;

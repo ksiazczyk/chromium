@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Strip layout helper tests
+// summary: Extensive Robolectric tests for the tab strip layout helper covering tab layout, dragging, tab groups and animations.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.hamcrest.MatcherAssert.assertThat;

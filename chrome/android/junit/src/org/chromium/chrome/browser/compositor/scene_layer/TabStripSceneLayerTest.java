@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripSceneLayerTest
+// summary: Robolectric JUnit tests for TabStripSceneLayer, mocking strip layout helpers, compositor buttons, and resource managers to verify tab strip rendering behavior.
+// ---
+
 package org.chromium.chrome.browser.compositor.scene_layer;
 
 import static org.mockito.ArgumentMatchers.anyBoolean;

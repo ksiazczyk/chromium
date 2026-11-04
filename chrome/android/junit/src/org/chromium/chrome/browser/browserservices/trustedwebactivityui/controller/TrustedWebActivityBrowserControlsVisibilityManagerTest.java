@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrustedWebActivityBrowserControlsVisibilityManagerTest
+// summary: Robolectric unit tests verifying how the Trusted Web Activity browser controls visibility manager handles display modes, desktop windowing state, fullscreen, and toolbar interactions.
+// ---
+
 package org.chromium.chrome.browser.browserservices.trustedwebactivityui.controller;
 
 import static androidx.browser.customtabs.CustomTabsIntent.COLOR_SCHEME_LIGHT;

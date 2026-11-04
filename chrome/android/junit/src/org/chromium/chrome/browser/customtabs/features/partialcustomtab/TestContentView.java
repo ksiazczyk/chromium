@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestContentView
+// summary: Test double of ContentView that records touch events which a ContentView without WebContents would otherwise ignore.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import android.content.Context;

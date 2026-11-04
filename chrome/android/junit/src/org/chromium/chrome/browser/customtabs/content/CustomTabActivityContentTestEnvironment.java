@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab Activity Content Test Environment
+// summary: Shared Robolectric test environment rule that sets up mocks, activities and helpers for Custom Tabs content layer unit tests.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static org.mockito.ArgumentMatchers.any;

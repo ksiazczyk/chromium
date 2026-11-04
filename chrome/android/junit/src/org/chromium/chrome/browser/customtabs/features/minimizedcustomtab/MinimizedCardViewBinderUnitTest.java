@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MinimizedCardViewBinder unit tests
+// summary: Robolectric unit tests checking that the minimized card view binder correctly displays title, URL and favicon for short and long values.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.minimizedcustomtab;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FindToolbarTabletUnitTest
+// summary: Robolectric unit tests for FindToolbarTablet verifying popup sizing, margins, and positioning relative to the anchor view and side UI on tablet form factors.
+// ---
+
 package org.chromium.chrome.browser.findinpage;
 
 import static org.junit.Assert.assertEquals;

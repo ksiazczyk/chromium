@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SceneOverlayTest
+// summary: Robolectric unit tests verifying SceneOverlay interactions, ordering, and behavior within the Android compositor layout manager.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import static org.junit.Assert.assertEquals;

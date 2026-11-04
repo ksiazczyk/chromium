@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyPromoFirstRunStateTest
+// summary: Unit tests for SafetyPromoFirstRunState verifying the selected safety promo item state and observer notifications for changes.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import static org.junit.Assert.assertEquals;

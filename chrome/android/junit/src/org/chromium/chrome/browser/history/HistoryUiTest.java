@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History UI Robolectric test suite
+// summary: Large Robolectric and Espresso test suite for the history UI covering toolbar actions, selection, search, clipboard, intents, and recorded user actions.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static androidx.test.espresso.intent.matcher.IntentMatchers.hasAction;

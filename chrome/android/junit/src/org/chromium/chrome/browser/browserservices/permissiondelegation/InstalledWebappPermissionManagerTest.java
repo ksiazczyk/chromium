@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstalledWebappPermissionManagerTest
+// summary: Parameterized Robolectric tests for InstalledWebappPermissionManager, covering geolocation and geolocation-with-options content settings for installed webapps.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import static android.Manifest.permission.ACCESS_COARSE_LOCATION;

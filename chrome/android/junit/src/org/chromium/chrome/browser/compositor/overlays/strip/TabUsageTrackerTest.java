@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabUsageTrackerTest
+// summary: Robolectric tests verifying that TabUsageTracker records histograms for the number and percentage of tabs used.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import org.junit.Assert;

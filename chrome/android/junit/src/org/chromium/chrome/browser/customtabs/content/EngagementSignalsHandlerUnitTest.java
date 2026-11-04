@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Engagement Signals Handler Unit Tests
+// summary: Robolectric unit tests for the engagement signals handler, checking observer creation and callback wiring gated by privacy settings.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static org.junit.Assert.assertFalse;

@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: TabReorderStrategyTest
+// summary: Robolectric tests for TabReorderStrategy, covering drag thresholds for reordering tabs, pinned tabs, and dragging into or out of tab groups.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static com.google.common.truth.Truth.assertThat;

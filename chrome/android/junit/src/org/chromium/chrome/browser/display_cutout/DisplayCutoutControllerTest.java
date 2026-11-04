@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayCutoutControllerTest
+// summary: Robolectric unit tests verifying how DisplayCutoutController applies safe areas and window insets for custom tab activities.
+// ---
+
 package org.chromium.chrome.browser.display_cutout;
 
 import static androidx.core.view.WindowInsetsCompat.Type.ime;

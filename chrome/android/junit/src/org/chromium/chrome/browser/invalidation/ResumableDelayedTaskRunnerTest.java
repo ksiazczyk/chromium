@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResumableDelayedTaskRunnerTest
+// summary: Robolectric unit tests verifying that ResumableDelayedTaskRunner resumes, pauses, and cancels a delayed runnable as expected.
+// ---
+
 package org.chromium.chrome.browser.invalidation;
 
 import static org.mockito.Mockito.never;

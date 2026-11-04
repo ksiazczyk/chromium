@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates ownership of the Android cookies package to the owners listed in the corresponding browser-side OWNERS file.

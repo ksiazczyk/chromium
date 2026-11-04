@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TwaVerifierTest
+// summary: Robolectric unit tests for TwaVerifier, covering verified scope computation for HTTP(S) and non-HTTP(S) URLs and origin verification behavior.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller.trustedwebactivity;
 
 import static org.junit.Assert.assertEquals;

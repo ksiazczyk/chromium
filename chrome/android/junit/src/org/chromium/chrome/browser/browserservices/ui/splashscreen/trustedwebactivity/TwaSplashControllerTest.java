@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TwaSplashControllerTest
+// summary: Robolectric unit tests verifying that TwaSplashController clamps the Trusted Web Activity splash screen fade-out duration to a valid range.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.splashscreen.trustedwebactivity;
 
 import static androidx.browser.trusted.TrustedWebActivityIntentBuilder.EXTRA_SPLASH_SCREEN_PARAMS;

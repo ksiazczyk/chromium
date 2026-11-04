@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionsInvalidationManagerTest
+// summary: Robolectric unit tests verifying that SessionsInvalidationManager registers an application state listener and pauses or resumes its timer on app state changes.
+// ---
+
 package org.chromium.chrome.browser.invalidation;
 
 import static org.junit.Assert.assertFalse;

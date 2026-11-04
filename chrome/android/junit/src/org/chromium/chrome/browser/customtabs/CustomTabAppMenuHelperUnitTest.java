@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabAppMenuHelper unit tests
+// summary: Robolectric unit tests for CustomTabAppMenuHelper, covering history IPH controller creation and visibility of the history menu item for Custom Tabs and AuthTabs.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.junit.Assert.assertFalse;

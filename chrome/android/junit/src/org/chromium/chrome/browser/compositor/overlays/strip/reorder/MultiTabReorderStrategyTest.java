@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: MultiTabReorderStrategyTest
+// summary: Robolectric tests for MultiTabReorderStrategy, covering drag thresholds for reordering multiple selected tabs and dragging into or out of groups.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabDragShadowBuilderUnitTest
+// summary: Robolectric unit tests for TabDragShadowBuilder, verifying shadow metrics, touch offsets, and drawing of the card view onto the drag canvas.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static org.junit.Assert.assertEquals;

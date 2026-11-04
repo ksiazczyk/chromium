@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabDistillabilityProviderTest
+// summary: JUnit unit tests verifying that TabDistillabilityProvider tracks tab distillability results and handles navigation to the same or different URLs, using mocked JNI and tab dependencies.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import static org.junit.Assert.assertFalse;

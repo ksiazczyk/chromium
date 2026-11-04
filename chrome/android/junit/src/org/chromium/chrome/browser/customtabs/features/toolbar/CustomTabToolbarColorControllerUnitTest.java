@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom tab toolbar color controller unit tests
+// summary: Robolectric unit tests verifying toolbar theming behavior of the custom tab toolbar color controller.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import static androidx.browser.customtabs.CustomTabsIntent.COLOR_SCHEME_LIGHT;

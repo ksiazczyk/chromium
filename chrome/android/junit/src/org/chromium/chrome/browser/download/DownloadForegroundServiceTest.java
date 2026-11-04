@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadForegroundServiceTest
+// summary: Robolectric tests for DownloadForegroundService checking start and stop foreground behavior and notification handling across Android SDK versions.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static android.app.Service.STOP_FOREGROUND_DETACH;

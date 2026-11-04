@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MinimizedCardCoordinator unit tests
+// summary: Robolectric unit tests verifying that the minimized card coordinator shows and dismisses the card and adjusts coordinator accessibility.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.minimizedcustomtab;
 
 import static androidx.test.espresso.Espresso.onView;

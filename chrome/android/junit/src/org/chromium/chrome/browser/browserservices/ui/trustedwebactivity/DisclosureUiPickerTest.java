@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisclosureUiPickerTest
+// summary: Robolectric tests verifying that DisclosureUiPicker shows the appropriate TWA disclosure UI, such as snackbar, persistent snackbar or notification, based on notification channel settings.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.trustedwebactivity;
 
 import static android.app.NotificationManager.IMPORTANCE_DEFAULT;

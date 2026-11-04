@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisclosurePersistentSnackbarTest
+// summary: Robolectric tests for DisclosurePersistentSnackbar covering lifecycle registration, snackbar display on each shown state, dismissal, and snackbar action handling.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.view;
 
 import static org.junit.Assert.assertEquals;

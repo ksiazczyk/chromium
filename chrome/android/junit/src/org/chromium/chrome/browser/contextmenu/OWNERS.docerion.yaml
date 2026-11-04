@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the contextmenu test directory
+summary: Chromium OWNERS file that delegates review ownership to the OWNERS of the main contextmenu source directory.

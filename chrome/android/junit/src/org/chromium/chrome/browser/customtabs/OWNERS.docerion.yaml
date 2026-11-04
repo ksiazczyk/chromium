@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates ownership to the OWNERS file of the main customtabs source directory for reviewer and approver assignment.

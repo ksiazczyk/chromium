@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reader Mode in-product help controller unit tests
+// summary: Robolectric unit tests verifying that the Reader Mode in-product help shows and highlights the app menu item.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import static org.mockito.Mockito.verify;

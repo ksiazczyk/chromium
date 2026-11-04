@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for tab strip unit tests
+summary: Lists code owners and per-file reviewers for the tab strip context menu unit tests.

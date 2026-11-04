@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for dom_distiller tests
+summary: Delegates code ownership to the OWNERS file of the main dom_distiller source directory.

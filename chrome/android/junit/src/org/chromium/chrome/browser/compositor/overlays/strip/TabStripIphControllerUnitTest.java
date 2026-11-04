@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripIphControllerUnitTest
+// summary: Robolectric unit tests for TabStripIphController, verifying in-product help triggers on the tab strip.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativePageBitmapCapturer unit tests
+// summary: Robolectric unit tests for NativePageBitmapCapturer, asserting fallback UX and histogram results when native view capture is not possible.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import static org.junit.Assert.assertEquals;

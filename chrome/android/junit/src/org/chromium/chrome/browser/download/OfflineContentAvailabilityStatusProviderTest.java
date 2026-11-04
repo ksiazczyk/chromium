@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflineContentAvailabilityStatusProviderTest
+// summary: Robolectric unit tests for OfflineContentAvailabilityStatusProvider tracking availability of prefetch, persistent, and transient offline content.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeFeedbackCollector unit tests
+// summary: Robolectric unit tests verifying that ChromeFeedbackCollector assembles synchronous and asynchronous feedback sources, logs and context data into the feedback bundle.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import static org.junit.Assert.assertEquals;

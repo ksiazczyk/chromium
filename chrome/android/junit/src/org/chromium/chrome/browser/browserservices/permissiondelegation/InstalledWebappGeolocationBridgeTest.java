@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstalledWebappGeolocationBridgeTest
+// summary: Robolectric tests for InstalledWebappGeolocationBridge, covering location updates and errors when a Trusted Web Activity service is installed for the scope.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import static org.junit.Assert.assertFalse;

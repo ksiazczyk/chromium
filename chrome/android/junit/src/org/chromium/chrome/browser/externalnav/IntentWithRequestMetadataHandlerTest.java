@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IntentWithRequestMetadataHandlerTest
+// summary: Robolectric unit tests verifying that request metadata tokens on intents can be used only once, and are rejected when the intent data is modified or a newer token exists.
+// ---
+
 package org.chromium.chrome.browser.externalnav;
 
 import static org.junit.Assert.assertNull;

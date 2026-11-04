@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab Activity Navigation Controller Tests
+// summary: Robolectric unit tests for the Custom Tab activity navigation controller, covering navigation, finish handling and back press behavior.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static org.junit.Assert.assertEquals;

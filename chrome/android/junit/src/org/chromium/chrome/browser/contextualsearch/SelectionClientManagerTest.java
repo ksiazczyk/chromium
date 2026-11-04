@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SelectionClientManagerTest
+// summary: JUnit tests for the SelectionClientManager, verifying how selection calls are dispatched to Smart Selection and Contextual Search clients.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import static org.junit.Assert.assertEquals;

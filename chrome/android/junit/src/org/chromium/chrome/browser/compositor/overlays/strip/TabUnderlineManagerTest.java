@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabUnderlineManagerTest
+// summary: Robolectric unit tests for TabUnderlineManager, covering tab registration with the native side and contextual tasks feature behavior.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.mockito.ArgumentMatchers.any;

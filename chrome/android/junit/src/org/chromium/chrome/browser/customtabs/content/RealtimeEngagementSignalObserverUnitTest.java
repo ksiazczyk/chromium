@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Realtime Engagement Signal Observer Unit Tests
+// summary: Robolectric unit tests for the realtime engagement signal observer, covering scroll, navigation and timer-based engagement reporting.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TitleBitmapFactoryUnitTest
+// summary: Robolectric unit tests for TitleBitmapFactory, covering text height clamping and tab title bitmap creation for the Chrome Android compositor.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.content;
 
 import static org.junit.Assert.assertEquals;

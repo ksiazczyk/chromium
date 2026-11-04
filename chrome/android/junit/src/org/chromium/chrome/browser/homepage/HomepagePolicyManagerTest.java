@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HomepagePolicyManager unit tests
+// summary: Robolectric tests for Chrome Android's HomepagePolicyManager, verifying homepage and home button policy state handling and listener notifications.
+// ---
+
 package org.chromium.chrome.browser.homepage;
 
 import androidx.annotation.Nullable;

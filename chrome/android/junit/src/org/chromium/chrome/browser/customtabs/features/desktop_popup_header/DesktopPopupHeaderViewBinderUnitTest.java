@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopPopupHeaderViewBinderUnitTest
+// summary: Robolectric unit tests for DesktopPopupHeaderViewBinder checking that model properties such as visibility, title text, margins, and background color bind to the view.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.desktop_popup_header;
 
 import static org.junit.Assert.assertEquals;

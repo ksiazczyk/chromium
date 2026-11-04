@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StaticLayoutUnitTest
+// summary: Robolectric unit tests for the StaticLayout class, covering tab layout state, browser controls offsets, and rendering behavior.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import static org.junit.Assert.assertEquals;

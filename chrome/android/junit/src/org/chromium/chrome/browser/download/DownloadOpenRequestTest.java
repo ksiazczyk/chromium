@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadOpenRequestTest
+// summary: Robolectric unit tests for the DownloadOpenRequest builder, checking required, optional, chained, and null fields.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.junit.Assert.assertEquals;

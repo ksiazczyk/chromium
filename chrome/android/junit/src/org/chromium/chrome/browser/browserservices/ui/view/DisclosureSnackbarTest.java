@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisclosureSnackbarTest
+// summary: Robolectric test for DisclosureSnackbar that verifies the disclosure snackbar is shown only once across repeated disclosure state changes.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.view;
 
 import static org.mockito.ArgumentMatchers.any;

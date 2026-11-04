@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reference for browserservices tests
+summary: Refers to the OWNERS file of the main browserservices source directory for code review ownership.

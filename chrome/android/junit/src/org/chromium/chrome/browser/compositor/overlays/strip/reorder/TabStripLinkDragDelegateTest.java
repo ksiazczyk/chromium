@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripLinkDragDelegateTest
+// summary: Robolectric tests for TabStripLinkDragDelegate, verifying handling of link MIME types, URL extraction from drop data, and feature gating.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip.reorder;
 
 import static org.junit.Assert.assertEquals;
