@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded container class declaration
+// summary: Declares RoundedContainer, a view with rounded corners used to carry items in list views, offering four corner behavior styles.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/gfx/geometry/insets.h
+//   - implements /ui/views/view.h
+// ---
+
 #ifndef ASH_STYLE_ROUNDED_CONTAINER_H_
 #define ASH_STYLE_ROUNDED_CONTAINER_H_
 

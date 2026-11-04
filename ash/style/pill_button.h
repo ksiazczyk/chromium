@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PillButton header
+// summary: Declares PillButton, a rounded label button whose style is defined by bit-mask features for color variant, size, icon presence and icon position.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/memory/raw_ptr.h
+//   - references /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_STYLE_PILL_BUTTON_H_
 #define ASH_STYLE_PILL_BUTTON_H_
 

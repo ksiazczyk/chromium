@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_sv.xtb.
+type: data
+title: Ash UI strings in Swedish
+summary: Swedish translations of ChromeOS Ash shell interface strings, stored as an XML translation bundle with placeholder tags.

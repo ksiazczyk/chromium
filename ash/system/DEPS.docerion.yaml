@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ash system directory
+summary: Defines allowed include paths for code in ash/system, with a special rule for the status area widget unit test.

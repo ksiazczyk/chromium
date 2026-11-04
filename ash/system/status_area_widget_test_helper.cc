@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Status area widget test helper implementation
+// summary: Implements test helpers that access primary and secondary status area widgets and wait for status area layer animations to finish.
+// relations:
+//   - depends_on /ash/system/status_area_widget_test_helper.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ash/root_window_controller.h
+// ---
+
 #include "ash/system/status_area_widget_test_helper.h"
 #include "base/memory/raw_ptr.h"
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dot indicator view header
+// summary: Declares DotIndicator, a view that shows a colored dot when its corresponding app receives a notification, to be made visible by its owner.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_STYLE_DOT_INDICATOR_H_
 #define ASH_STYLE_DOT_INDICATOR_H_
 

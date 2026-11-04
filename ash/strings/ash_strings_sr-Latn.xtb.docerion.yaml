@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_sr-Latn.xtb.
+type: data
+title: Ash UI strings in Serbian (Latin)
+summary: Serbian Latin-script translations of ChromeOS Ash shell interface strings, stored as an XML translation bundle.

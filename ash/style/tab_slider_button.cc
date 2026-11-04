@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab slider button implementations
+// summary: Implements TabSliderButton and its icon, label, and icon-plus-label variants, including state-based colors, focus rings, and accessibility checked states.
+// relations:
+//   - depends_on /ash/style/style_util.h
+//   - depends_on /ash/style/typography.h
+//   - depends_on /ui/base/l10n/l10n_util.h
+// ---
+
 #include "ash/style/tab_slider_button.h"
 
 #include "ash/strings/grit/ash_strings.h"

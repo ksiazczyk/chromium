@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen layout observer unit tests
+// summary: Unit tests for ScreenLayoutObserver verifying the display notifications produced for mirroring, unified, extended, and other display layout changes.
+// relations:
+//   - tests /ash/system/screen_layout_observer.h
+// ---
+
 #include "ash/system/screen_layout_observer.h"
 
 #include <string>

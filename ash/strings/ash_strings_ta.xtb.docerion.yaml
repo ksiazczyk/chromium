@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_ta.xtb.
+type: data
+title: Ash strings translation bundle in Tamil
+summary: Tamil (ta) translations of ChromeOS Ash user interface strings, stored as an XML translation bundle with placeholder support.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pagination instances grid view factory
+// summary: Factory that builds a style viewer grid view with pagination test views wired to a PaginationController and PaginationModel for horizontal and vertical paging.
+// relations:
+//   - depends_on /ash/public/cpp/pagination/pagination_controller.h
+//   - depends_on /ash/public/cpp/pagination/pagination_model.h
+//   - depends_on /ash/public/cpp/pagination/pagination_model_observer.h
+// ---
+
 #include "ash/style/style_viewer/system_ui_components_grid_view_factories.h"
 
 #include "ash/public/cpp/pagination/pagination_controller.h"

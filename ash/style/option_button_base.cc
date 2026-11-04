@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionButtonBase implementation
+// summary: Implements the base class for selectable option buttons, handling selection state, accessibility checked state, label styling, layout and ink drop effects.
+// relations:
+//   - implements /ash/style/option_button_base.h
+//   - depends_on /ash/style/ash_color_id.h
+//   - depends_on /ash/style/style_util.h
+// ---
+
 #include "ash/style/option_button_base.h"
 
 #include "ash/style/ash_color_id.h"

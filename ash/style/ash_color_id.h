@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color ID definitions for the Ash shell
+// summary: Defines the kColorAsh color identifiers used by the Ash color provider, grouped by shield, controls, and content layers.
+// relations:
+//   - references /ui/color/color_id.h
+// ---
+
 #ifndef ASH_STYLE_ASH_COLOR_ID_H_
 #define ASH_STYLE_ASH_COLOR_ID_H_
 

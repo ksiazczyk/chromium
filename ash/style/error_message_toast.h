@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error message toast header
+// summary: Declares ErrorMessageToast, a flex layout view that shows an error message with an action button at the bottom of its parent bubble.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_STYLE_ERROR_MESSAGE_TOAST_H_
 #define ASH_STYLE_ERROR_MESSAGE_TOAST_H_
 

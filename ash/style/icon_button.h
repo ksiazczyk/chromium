@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon button header
+// summary: Declares IconButton, a circular image button with multiple sizes and floating or prominent variants, plus a builder for its configuration.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/color/color_id.h
+//   - depends_on /ui/color/color_variant.h
+// ---
+
 #ifndef ASH_STYLE_ICON_BUTTON_H_
 #define ASH_STYLE_ICON_BUTTON_H_
 

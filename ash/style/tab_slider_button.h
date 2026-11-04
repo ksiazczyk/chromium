@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab slider button base class and variants
+// summary: Declares TabSliderButton, the base class for selectable buttons in TabSlider, along with icon, label, and icon-label slider button subclasses.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/tab_slider.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_STYLE_TAB_SLIDER_BUTTON_H_
 #define ASH_STYLE_TAB_SLIDER_BUTTON_H_
 

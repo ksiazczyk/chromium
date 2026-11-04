@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_eu.xtb.
+type: data
+title: Ash strings translation bundle in Basque
+summary: Basque translation bundle with localized ChromeOS Ash interface strings, covering Quick Share, Bluetooth pairing, backup, and other system UI messages.

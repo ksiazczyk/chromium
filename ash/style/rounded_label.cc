@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded label implementation
+// summary: Implements a label with a rounded background, optional system blur and highlight border for displaying text in Ash UI surfaces.
+// relations:
+//   - implements /ash/style/rounded_label.h
+// ---
+
 #include "ash/style/rounded_label.h"
 
 #include "ash/style/ash_color_id.h"

@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_hu.xtb.
+type: data
+title: Hungarian translation bundle for Ash strings
+summary: Hungarian translations of ChromeOS Ash UI strings, stored as an XML translation bundle with message IDs and placeholders.

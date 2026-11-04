@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Harmonized colors implementation
+// summary: Builds Material tonal palettes from a seed color and inserts harmonized reference color recipes into the UI color mixer.
+// relations:
+//   - implements /ash/style/harmonized_colors.h
+//   - depends_on /ui/color/color_id.h
+//   - depends_on /ui/color/color_recipe.h
+// ---
+
 #include "ash/style/harmonized_colors.h"
 
 #include <algorithm>

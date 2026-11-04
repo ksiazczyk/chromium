@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System notification controller implementation
+// summary: Implements SystemNotificationController, which owns and instantiates the individual system notification controllers for caps lock, power, privacy, updates, and more.
+// relations:
+//   - depends_on /ash/system/system_notification_controller.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/system/caps_lock_notification_controller.h
+// ---
+
 #include "ash/system/system_notification_controller.h"
 
 #include <memory>

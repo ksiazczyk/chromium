@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StyleUtil header
+// summary: Declares the StyleUtil class with static helpers for configuring ink drops, focus rings, highlight paths, and fully rounded backgrounds.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ui/color/color_id.h
+//   - references /ui/decoration/shadow.h
+// ---
+
 #ifndef ASH_STYLE_STYLE_UTIL_H_
 #define ASH_STYLE_STYLE_UTIL_H_
 

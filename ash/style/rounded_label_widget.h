@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded label widget class declaration
+// summary: Declares RoundedLabelWidget, a views::Widget subclass containing one label view, with init params and helpers to position it centered in bounds.
+// relations:
+//   - references /base/memory/raw_ptr.h
+//   - references /ui/gfx/geometry/rect.h
+//   - references /ui/views/widget/widget.h
+// ---
+
 #ifndef ASH_STYLE_ROUNDED_LABEL_WIDGET_H_
 #define ASH_STYLE_ROUNDED_LABEL_WIDGET_H_
 

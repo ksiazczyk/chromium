@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock screen notification controller unit tests
+// summary: Unit tests verifying that the lock screen notification appears and disappears when the screen is locked and unlocked and when hidden notifications are added or removed.
+// relations:
+//   - tests /ash/system/lock_screen_notification_controller.h
+//   - depends_on /ash/system/notification_center/notification_center_test_api.h
+//   - depends_on /ash/system/status_area_widget_test_helper.h
+// ---
+
 #include "ash/system/lock_screen_notification_controller.h"
 
 #include "ash/system/notification_center/notification_center_test_api.h"

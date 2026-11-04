@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_ur.xtb.
+type: data
+title: Ash strings translation bundle in Urdu
+summary: Urdu (ur) translations of ChromeOS Ash user interface strings, stored as an XML translation bundle with placeholder support.

@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_gl.xtb.
+type: data
+title: Ash strings translation bundle in Galician
+summary: Galician translation bundle with localized ChromeOS Ash interface strings for system dialogs, settings, connectivity, and device management messages.

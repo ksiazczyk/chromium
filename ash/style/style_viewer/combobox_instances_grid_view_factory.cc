@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combobox instances grid view factory
+// summary: Factory that builds a style viewer grid view demonstrating Combobox instances with owned and non-owned models plus labels that track selection changes.
+// relations:
+//   - implements /ash/style/style_viewer/system_ui_components_grid_view_factories.h
+//   - depends_on /ash/style/combobox.h
+//   - depends_on /ash/style/style_viewer/system_ui_components_grid_view.h
+// ---
+
 #include "ash/style/style_viewer/system_ui_components_grid_view_factories.h"
 
 #include "ash/style/combobox.h"

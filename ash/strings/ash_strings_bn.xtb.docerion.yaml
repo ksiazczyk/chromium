@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_bn.xtb.
+type: data
+title: Ash strings translation bundle (Bengali)
+summary: Bengali translations of ChromeOS Ash UI strings in the XML translation bundle format consumed by grit.

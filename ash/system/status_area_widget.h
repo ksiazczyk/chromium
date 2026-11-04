@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusAreaWidget class declaration
+// summary: Declares the StatusAreaWidget class, which shows the system tray, notification tray, and other tray views in the bottom-right of the screen.
+// ---
+
 #ifndef ASH_SYSTEM_STATUS_AREA_WIDGET_H_
 #define ASH_SYSTEM_STATUS_AREA_WIDGET_H_
 

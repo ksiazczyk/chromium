@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caps lock notification controller implementation
+// summary: Shows and manages the pinned caps lock notification, adapting its message to the keyboard layout.
+// relations:
+//   - implements /ash/system/caps_lock_notification_controller.h
+//   - depends_on /ui/message_center/message_center.h
+// ---
+
 #include "ash/system/caps_lock_notification_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System UI components grid view class declaration
+// summary: Declares SystemUIComponentsGridView, a view that presents named instances of a system UI component in a row and column grid layout.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_STYLE_STYLE_VIEWER_SYSTEM_UI_COMPONENTS_GRID_VIEW_H_
 #define ASH_STYLE_STYLE_VIEWER_SYSTEM_UI_COMPONENTS_GRID_VIEW_H_
 

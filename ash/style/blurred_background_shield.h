@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlurredBackgroundShield class declaration
+// summary: Declares a view observer that manages a blurred background layer kept below and sized to match its host view.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/scoped_observation.h
+//   - references /ui/color/color_id.h
+// ---
+
 #ifndef ASH_STYLE_BLURRED_BACKGROUND_SHIELD_H_
 #define ASH_STYLE_BLURRED_BACKGROUND_SHIELD_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_af.xtb.
+type: data
+title: Ash strings translation bundle (Afrikaans)
+summary: Afrikaans translations of ChromeOS Ash UI strings in the XML translation bundle format consumed by grit.

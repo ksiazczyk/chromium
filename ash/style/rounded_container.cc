@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded container implementation
+// summary: Implements a rounded container view for list items with four corner rounding behaviors, configurable border insets and a solid background.
+// relations:
+//   - implements /ash/style/rounded_container.h
+// ---
+
 #include "ash/style/rounded_container.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

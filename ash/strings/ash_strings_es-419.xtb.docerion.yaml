@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_es-419.xtb.
+type: data
+title: Latin American Spanish translation bundle for Ash strings
+summary: XML translation bundle providing Latin American Spanish localizations of ChromeOS Ash interface strings, covering features such as Quick Share, Bluetooth pairing, and Google Drive backup.

@@ -1,6 +1,17 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Radio button group class declaration
+// summary: Declares RadioButtonGroup, a vertical menu component of radio buttons with customizable padding, spacing and icon styles.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/option_button_base.h
+//   - implements /ash/style/option_button_group.h
+// ---
+
 #ifndef ASH_STYLE_RADIO_BUTTON_GROUP_H_
 #define ASH_STYLE_RADIO_BUTTON_GROUP_H_
 

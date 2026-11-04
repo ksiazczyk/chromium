@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlurredBackgroundShield implementation
+// summary: Implements a rounded solid color layer with background blur that sits below a host view and updates its color on theme changes.
+// relations:
+//   - implements /ash/style/blurred_background_shield.h
+//   - references /ash/style/style_util.h
+//   - references /ui/color/color_provider.h
+// ---
+
 #include "ash/style/blurred_background_shield.h"
 
 #include "ash/style/style_util.h"

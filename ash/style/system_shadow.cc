@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System shadow implementation
+// summary: Implements SystemShadow variants that paint system-styled shadows on nine patch layers for views and windows while tracking color provider changes.
+// relations:
+//   - implements /ash/style/system_shadow.h
+//   - references /ash/style/style_util.h
+//   - references /ui/color/color_provider.h
+// ---
+
 #include "ash/style/system_shadow.h"
 
 #include "ash/root_window_controller.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checkbox implementation
+// summary: Implements a toggleable option button that draws a checkbox vector icon on the left side of its label.
+// relations:
+//   - implements /ash/style/checkbox.h
+//   - references /ui/accessibility/ax_node_data.h
+//   - references /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/style/checkbox.h"
 
 #include <utility>

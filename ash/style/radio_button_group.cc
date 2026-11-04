@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Radio button group implementation
+// summary: Implements a vertical group of radio buttons that unselects the other buttons whenever one button is selected.
+// relations:
+//   - implements /ash/style/radio_button_group.h
+//   - references /ash/style/radio_button.h
+//   - references /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/style/radio_button_group.h"
 
 #include <utility>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pods overflow tray unit tests
+// summary: Unit test enabling the scalable shelf pods feature and verifying that the pods overflow tray exposes the correct accessible name in the accessibility cache.
+// relations:
+//   - tests /ash/system/pods_overflow_tray.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/system/status_area_widget_test_helper.h
+// ---
+
 #include "ash/system/pods_overflow_tray.h"
 
 #include "ash/constants/ash_features.h"

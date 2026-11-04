@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_sw.xtb.
+type: data
+title: Ash UI strings in Swahili
+summary: Swahili translations of ChromeOS Ash shell interface strings, stored as an XML translation bundle with placeholder tags.

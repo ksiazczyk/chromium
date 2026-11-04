@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System dialog delegate view header
+// summary: Declares SystemDialogDelegateView, a widget delegate for system dialogs with an icon, title, description, middle content, and configurable accept and cancel buttons.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/style/pill_button.h
+//   - references /ash/style/system_shadow.h
+// ---
+
 #ifndef ASH_STYLE_SYSTEM_DIALOG_DELEGATE_VIEW_H_
 #define ASH_STYLE_SYSTEM_DIALOG_DELEGATE_VIEW_H_
 

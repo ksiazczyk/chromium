@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloseButton implementation
+// summary: Implements a circular close image button in small, medium, and large sizes with pill background and enlarged hit area for small buttons.
+// relations:
+//   - implemented_by /ash/style/close_button.h
+//   - depends_on /ash/style/style_util.h
+//   - depends_on /ui/base/l10n/l10n_util.h
+// ---
+
 #include "ash/style/close_button.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

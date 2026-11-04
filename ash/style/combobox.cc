@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash combobox implementation
+// summary: Implements a stylized non-editable combobox view with a drop-down menu, radio-button-like options, theming tokens, and layout constants.
+// relations:
+//   - implements /ash/style/combobox.h
+// ---
+
 #include "ash/style/combobox.h"
 
 #include <memory>

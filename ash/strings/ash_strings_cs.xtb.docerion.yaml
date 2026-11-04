@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_cs.xtb.
+type: data
+title: Czech translation bundle for Ash strings
+summary: XML translation bundle providing Czech localizations of ChromeOS Ash interface strings, covering features such as Quick Share, Bluetooth pairing, and Google Drive backup.

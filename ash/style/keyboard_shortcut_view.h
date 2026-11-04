@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardShortcutView header
+// summary: Declares KeyboardShortcutView, a flex layout view that represents a keyboard shortcut as a series of bordered text or icon keys.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/layout/flex_layout_view.h
+// ---
+
 #ifndef ASH_STYLE_KEYBOARD_SHORTCUT_VIEW_H_
 #define ASH_STYLE_KEYBOARD_SHORTCUT_VIEW_H_
 

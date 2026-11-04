@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sparkle colors implementation
+// summary: Adds sparkle tonal palette reference colors to the UI color mixer, choosing hue and chroma values based on the user seed color.
+// relations:
+//   - implements /ash/style/sparkle_colors.h
+//   - references /ash/style/harmonized_colors.h
+//   - references /ui/color/color_id.h
+// ---
+
 #include "ash/style/sparkle_colors.h"
 
 #include "ash/style/harmonized_colors.h"

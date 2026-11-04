@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab slider view for mutually exclusive slider buttons
+// summary: Declares TabSlider, a table layout view that hosts horizontally arranged slider buttons where only one can be selected and an animated selector moves between them.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_STYLE_TAB_SLIDER_H_
 #define ASH_STYLE_TAB_SLIDER_H_
 

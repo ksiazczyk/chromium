@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionButtonGroup header
+// summary: Declares OptionButtonGroup, a menu component that lays out option buttons vertically and provides selection and enable-state management.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/option_button_base.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_STYLE_OPTION_BUTTON_GROUP_H_
 #define ASH_STYLE_OPTION_BUTTON_GROUP_H_
 

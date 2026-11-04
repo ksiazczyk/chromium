@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System shadow header
+// summary: Declares SystemShadow, which creates system-styled shadows at several elevations for views and windows and manages bounds, corner radii, and colors.
+// relations:
+//   - depends_on /ui/color/color_provider_source_observer.h
+//   - references /ui/decoration/shadow.h
+// ---
+
 #ifndef ASH_STYLE_SYSTEM_SHADOW_H_
 #define ASH_STYLE_SYSTEM_SHADOW_H_
 

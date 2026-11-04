@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System UI components style viewer view declaration
+// summary: Declares the client view of the system components style viewer, which toggles component instance grids from a menu of buttons.
+// relations:
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_STYLE_STYLE_VIEWER_SYSTEM_UI_COMPONENTS_STYLE_VIEWER_VIEW_H_
 #define ASH_STYLE_STYLE_VIEWER_SYSTEM_UI_COMPONENTS_STYLE_VIEWER_VIEW_H_
 

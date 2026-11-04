@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typography instances grid view factory
+// summary: Factory that builds a grid view of labels styled with each Cros typography token to preview ash typography samples.
+// relations:
+//   - depends_on /ash/style/style_viewer/system_ui_components_grid_view.h
+//   - depends_on /ash/style/typography.h
+//   - depends_on /ui/views/controls/label.h
+// ---
+
 #include <array>
 #include <string_view>
 

@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_ro.xtb.
+type: data
+title: Ash UI strings in Romanian
+summary: Romanian translations of ChromeOS Ash shell interface strings, stored as an XML translation bundle with placeholder tags.

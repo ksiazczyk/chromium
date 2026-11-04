@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System textfield controller header
+// summary: Declares SystemTextfieldController, which defines system UI textfield behaviors for activation, committing, discarding changes, and text selection.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/system_textfield.h
+//   - depends_on /ui/views/controls/textfield/textfield_controller.h
+// ---
+
 #ifndef ASH_STYLE_SYSTEM_TEXTFIELD_CONTROLLER_H_
 #define ASH_STYLE_SYSTEM_TEXTFIELD_CONTROLLER_H_
 

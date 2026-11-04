@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_de.xtb.
+type: data
+title: German translation bundle for Ash strings
+summary: XML translation bundle providing German localizations of ChromeOS Ash interface strings, covering features such as Quick Share, Bluetooth pairing, and Google Drive backup.

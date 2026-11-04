@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checkbox class declaration
+// summary: Declares a rectangular label button with a left-side checkbox icon, typically used inside checkbox groups.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/option_button_base.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_STYLE_CHECKBOX_H_
 #define ASH_STYLE_CHECKBOX_H_
 

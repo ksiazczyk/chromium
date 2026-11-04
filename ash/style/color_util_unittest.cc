@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColorUtil unit tests
+// summary: Unit tests verifying that AdjustKMeansColor mixes wallpaper colors with white or black and clamps lightness correctly in light and dark modes.
+// relations:
+//   - tests /ash/style/color_util.h
+//   - tests /ash/style/color_util.cc
+// ---
+
 #include "ash/style/color_util.h"
 
 #include "ash/public/cpp/wallpaper/wallpaper_types.h"

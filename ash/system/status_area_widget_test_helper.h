@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Status area widget test helper declaration
+// summary: Declares StatusAreaWidgetTestHelper with static methods to fetch status area widgets and wait for animations in tests.
+// relations:
+//   - depends_on /ui/compositor/layer.h
+// ---
+
 #ifndef ASH_SYSTEM_STATUS_AREA_WIDGET_TEST_HELPER_H_
 #define ASH_SYSTEM_STATUS_AREA_WIDGET_TEST_HELPER_H_
 

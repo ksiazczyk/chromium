@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_kk.xtb.
+type: data
+title: Kazakh translation bundle for Ash strings
+summary: Kazakh translations of ChromeOS Ash UI strings, stored as an XML translation bundle with message IDs and placeholders.

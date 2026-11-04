@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_iw.xtb.
+type: data
+title: Hebrew translation bundle for Ash strings
+summary: Hebrew translations of ChromeOS Ash UI strings, stored as an XML translation bundle with message IDs and placeholders.

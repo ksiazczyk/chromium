@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionButtonGroup implementation
+// summary: Implements a vertical menu component that manages a group of option buttons, supporting selection by index, querying selected buttons and propagating enabled state.
+// relations:
+//   - implements /ash/style/option_button_group.h
+//   - depends_on /ash/style/option_button_base.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/style/option_button_group.h"
 
 #include "ash/style/option_button_base.h"

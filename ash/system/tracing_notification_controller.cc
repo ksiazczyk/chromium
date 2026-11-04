@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing notification controller implementation
+// summary: Implements the controller that adds and removes a pinned system notification when performance tracing starts or stops, and opens the slow-tracing view when the notification is clicked.
+// relations:
+//   - implements /ash/system/tracing_notification_controller.h
+//   - references /ash/system/model/system_tray_model.h
+// ---
+
 #include "ash/system/tracing_notification_controller.h"
 
 #include "ash/constants/notifier_catalogs.h"

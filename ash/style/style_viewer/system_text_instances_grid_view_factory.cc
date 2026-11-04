@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System textfield instances grid view factory
+// summary: Factory that builds a grid view of system textfield instances in small, medium, large and disabled variants for the ash style viewer.
+// relations:
+//   - depends_on /ash/style/style_viewer/system_ui_components_grid_view.h
+//   - depends_on /ash/style/system_textfield.h
+//   - depends_on /ash/style/system_textfield_controller.h
+// ---
+
 #include "ash/style/style_viewer/system_ui_components_grid_view.h"
 #include "ash/style/style_viewer/system_ui_components_grid_view_factories.h"
 #include "ash/style/system_textfield.h"

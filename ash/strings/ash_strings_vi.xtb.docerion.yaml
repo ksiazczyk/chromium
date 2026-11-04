@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_vi.xtb.
+type: data
+title: Ash strings translation bundle in Vietnamese
+summary: Vietnamese (vi) translations of ChromeOS Ash user interface strings, stored as an XML translation bundle with placeholder support.

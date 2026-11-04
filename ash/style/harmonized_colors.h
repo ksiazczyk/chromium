@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Harmonized colors header
+// summary: Declares helpers that compute a seed color's hue angle and add harmonized reference colors to a color mixer.
+// relations:
+//   - depends_on /ui/color/color_mixer.h
+//   - depends_on /ui/color/color_provider_key.h
+// ---
+
 #ifndef ASH_STYLE_HARMONIZED_COLORS_H_
 #define ASH_STYLE_HARMONIZED_COLORS_H_
 

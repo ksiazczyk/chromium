@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_it.xtb.
+type: data
+title: Italian translation bundle for Ash strings
+summary: Italian translations of ChromeOS Ash UI strings, stored as an XML translation bundle with message IDs and placeholders.

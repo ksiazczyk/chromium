@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardShortcutView implementation
+// summary: Implements a view that renders a keyboard shortcut as a row of bordered key icons or text labels, with accessibility handling for screen readers.
+// relations:
+//   - implements /ash/style/keyboard_shortcut_view.h
+//   - depends_on /ash/accelerators/keyboard_code_util.h
+//   - depends_on /ash/app_list/views/search_result_inline_icon_view.h
+// ---
+
 #include "ash/style/keyboard_shortcut_view.h"
 
 #include "ash/accelerators/keyboard_code_util.h"

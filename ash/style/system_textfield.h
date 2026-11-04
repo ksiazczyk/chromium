@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System textfield header
+// summary: Declares SystemTextfield, a views::Textfield extension for system UI with size types, background modes, activation state, and focus ring control.
+// relations:
+//   - references /ash/ash_export.h
+//   - depends_on /ui/views/controls/textfield/textfield.h
+// ---
+
 #ifndef ASH_STYLE_SYSTEM_TEXTFIELD_H_
 #define ASH_STYLE_SYSTEM_TEXTFIELD_H_
 

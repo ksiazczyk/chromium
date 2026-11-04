@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshColorProviderSource class declaration
+// summary: Declares a color provider source for applying colors to objects outside the view hierarchy, observing native theme changes.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/scoped_observation.h
+//   - references /ui/color/color_provider_key.h
+// ---
+
 #ifndef ASH_STYLE_ASH_COLOR_PROVIDER_SOURCE_H_
 #define ASH_STYLE_ASH_COLOR_PROVIDER_SOURCE_H_
 

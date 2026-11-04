@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckboxGroup class declaration
+// summary: Declares a menu component holding a vertical group of checkbox buttons where any number can be selected.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/checkbox.h
+//   - depends_on /ash/style/option_button_base.h
+// ---
+
 #ifndef ASH_STYLE_CHECKBOX_GROUP_H_
 #define ASH_STYLE_CHECKBOX_GROUP_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PillButton implementation
+// summary: Implements the pill-shaped rounded button, resolving background, text and icon colors for its color variants, sizes and icon placements.
+// relations:
+//   - implements /ash/style/pill_button.h
+//   - references /ash/style/ash_color_id.h
+//   - references /ash/style/blurred_background_shield.h
+// ---
+
 #include "ash/style/pill_button.h"
 
 #include <optional>

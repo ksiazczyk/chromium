@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorPaletteController class declaration
+// summary: Declares the color palette controller plus seed and sample scheme structs used to generate and preview color palettes.
+// ---
+
 #ifndef ASH_STYLE_COLOR_PALETTE_CONTROLLER_H_
 #define ASH_STYLE_COLOR_PALETTE_CONTROLLER_H_
 

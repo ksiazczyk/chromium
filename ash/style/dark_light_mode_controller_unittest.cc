@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dark light mode controller unit test
+// summary: Tests color mode behavior of DarkLightModeControllerImpl in non-active user sessions such as the login page and OOBE.
+// relations:
+//   - tests /ash/style/dark_light_mode_controller_impl.h
+//   - tests /ash/style/dark_light_mode_controller_impl.cc
+//   - references /ash/login/login_screen_controller.h
+// ---
+
 #include "ash/style/dark_light_mode_controller_impl.h"
 
 #include "ash/login/login_screen_controller.h"

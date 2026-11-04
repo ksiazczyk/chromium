@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_fa.xtb.
+type: data
+title: Ash strings translation bundle in Persian
+summary: Persian translation bundle with localized ChromeOS Ash interface strings for system dialogs, settings, connectivity, and device management messages.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the ash style source set
+summary: Defines the style source set with ash_color_id.h and its public dependencies on ChromeOS color token mappings and color headers.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Radio button class declaration
+// summary: Declares the Ash RadioButton view, a label button with configurable icon direction and type, typically used in groups of radio buttons.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/style/option_button_base.h
+//   - references /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_STYLE_RADIO_BUTTON_H_
 #define ASH_STYLE_RADIO_BUTTON_H_
 

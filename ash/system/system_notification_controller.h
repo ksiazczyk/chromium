@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System notification controller header
+// summary: Declares SystemNotificationController, the owner class that aggregates all individual system notification controllers and exposes accessors for a few of them.
+// relations:
+//   - implemented_by /ash/system/system_notification_controller.cc
+// ---
+
 #ifndef ASH_SYSTEM_SYSTEM_NOTIFICATION_CONTROLLER_H_
 #define ASH_SYSTEM_SYSTEM_NOTIFICATION_CONTROLLER_H_
 

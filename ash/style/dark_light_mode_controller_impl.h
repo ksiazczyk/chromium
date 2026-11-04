@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dark light mode controller implementation header
+// summary: Declares DarkLightModeControllerImpl, which controls dark and light mode in the Ash shell, including automatic scheduling of dark mode from sunset to sunrise.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/login/ui/login_data_dispatcher.h
+//   - references /ash/public/cpp/login_types.h
+// ---
+
 #ifndef ASH_STYLE_DARK_LIGHT_MODE_CONTROLLER_IMPL_H_
 #define ASH_STYLE_DARK_LIGHT_MODE_CONTROLLER_IMPL_H_
 

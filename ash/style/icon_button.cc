@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon button implementation
+// summary: Implements the circular IconButton used across the Ash system UI, covering size variants, prominent and floating styles, toggling, and color handling.
+// relations:
+//   - implements /ash/style/icon_button.h
+//   - depends_on /ash/style/blurred_background_shield.h
+//   - depends_on /ash/style/style_util.h
+// ---
+
 #include "ash/style/icon_button.h"
 
 #include <variant>

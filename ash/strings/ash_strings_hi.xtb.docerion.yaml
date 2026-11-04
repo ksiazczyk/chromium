@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_hi.xtb.
+type: data
+title: Ash strings translation bundle in Hindi
+summary: Hindi translation bundle with localized ChromeOS Ash interface strings for system dialogs, settings, connectivity, and device management messages.

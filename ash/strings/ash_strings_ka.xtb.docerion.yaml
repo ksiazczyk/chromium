@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_ka.xtb.
+type: data
+title: Georgian translation bundle for Ash strings
+summary: Georgian translations of ChromeOS Ash UI strings, stored as an XML translation bundle with message IDs and placeholders.

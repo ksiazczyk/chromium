@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typography provider interface and tokens
+// summary: Declares the TypographyToken enum and TypographyProvider interface for styling labels and resolving fonts and line heights in Ash.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ui/gfx/font_list.h
+// ---
+
 #ifndef ASH_STYLE_TYPOGRAPHY_H_
 #define ASH_STYLE_TYPOGRAPHY_H_
 

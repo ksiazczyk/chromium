@@ -1,0 +1,4 @@
+# Docerion header of ash_strings_cy.xtb.
+type: data
+title: Welsh translation bundle for Ash strings
+summary: XML translation bundle providing Welsh localizations of ChromeOS Ash interface strings, covering features such as Quick Share, Bluetooth pairing, and Google Drive backup.

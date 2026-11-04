@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System UI components grid view factory declarations
+// summary: Declares factory functions that create grid views of instances for each ash system UI component shown in the style viewer.
+// ---
+
 #ifndef ASH_STYLE_STYLE_VIEWER_SYSTEM_UI_COMPONENTS_GRID_VIEW_FACTORIES_H_
 #define ASH_STYLE_STYLE_VIEWER_SYSTEM_UI_COMPONENTS_GRID_VIEW_FACTORIES_H_
 
