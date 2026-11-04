@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView HID permission context implementation
+// summary: Manages ephemeral HID device permissions granted to embedded WebViews per embedding origin and revokes them when embedder permissions change.
+// ---
+
 #include "chrome/browser/hid/web_view_chooser_context.h"
 
 #include <set>

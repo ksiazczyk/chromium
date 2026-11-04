@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History Clusters tab helper unit tests
+// summary: Unit tests covering the tab helper's navigation tracking, visit annotation, and page-end metric recording behavior with the Journeys feature enabled.
+// ---
+
 #include "chrome/browser/history_clusters/history_clusters_tab_helper.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome history backend client implementation
+// summary: Implements ChromeHistoryBackendClient, giving the history backend bookmarked-URL checks and web-safe scheme validation via the bookmark model loader.
+// ---
+
 #include "chrome/browser/history/chrome_history_backend_client.h"
 
 #include "components/bookmarks/browser/history_bookmark_model.h"

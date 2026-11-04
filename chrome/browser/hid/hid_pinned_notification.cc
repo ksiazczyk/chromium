@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID pinned notification implementation
+// summary: Implements the HID system tray pinned notification that renders the WebHID device indicator with an extension list.
+// ---
+
 #include "chrome/browser/hid/hid_pinned_notification.h"
 
 #include "build/build_config.h"

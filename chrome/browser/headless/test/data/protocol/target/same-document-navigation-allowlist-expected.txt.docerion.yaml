@@ -1,0 +1,4 @@
+# Docerion header of same-document-navigation-allowlist-expected.txt.
+type: test
+title: Same-document navigation allowlist expected output
+summary: Expected output for the allowlist test, showing page target detachment and a failed re-attach after navigating away from an allowlisted URL.

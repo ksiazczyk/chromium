@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters metrics logger implementation
+// summary: Implements the per-page metrics logger that records UKM and histogram metrics for History Clusters UI actions when the page is destroyed.
+// ---
+
 #include "chrome/browser/history_clusters/history_clusters_metrics_logger.h"
 
 #include "base/metrics/histogram_functions.h"

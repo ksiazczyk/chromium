@@ -1,0 +1,4 @@
+# Docerion header of autofill-trigger-credit-card-expected.txt.
+type: test
+title: Autofill.trigger credit card test expected output
+summary: Expected output for the headless protocol test that triggers Autofill.trigger with credit card data and logs the resulting form values.

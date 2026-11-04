@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome history client class header
+// summary: Declares ChromeHistoryClient, the history::HistoryClient implementation abstracting Chrome-dependent operations such as bookmark observation and URL filtering.
+// ---
+
 #ifndef CHROME_BROWSER_HISTORY_CHROME_HISTORY_CLIENT_H_
 #define CHROME_BROWSER_HISTORY_CHROME_HISTORY_CLIENT_H_
 

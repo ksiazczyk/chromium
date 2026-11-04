@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome history embeddings service declaration
+// summary: Declares ChromeHistoryEmbeddingsService, the Chrome specialization of HistoryEmbeddingsService with model quality logging.
+// ---
+
 #ifndef CHROME_BROWSER_HISTORY_EMBEDDINGS_CHROME_HISTORY_EMBEDDINGS_SERVICE_H_
 #define CHROME_BROWSER_HISTORY_EMBEDDINGS_CHROME_HISTORY_EMBEDDINGS_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterSheetCoordinator
+// summary: Coordinator for the history page filter bottom sheet that builds the filter item list, manages sheet sizing and reports the selected filter through a close callback.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import android.content.Context;

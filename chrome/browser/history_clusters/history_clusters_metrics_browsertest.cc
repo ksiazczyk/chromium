@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History clusters metrics browser tests
+// summary: In-process browser tests that verify the UKM entries and histograms logged for user interactions with the History Clusters UI.
+// ---
+
 #include <memory>
 
 #include "base/base64.h"

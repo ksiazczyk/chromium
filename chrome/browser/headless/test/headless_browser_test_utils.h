@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless browser test utilities header
+// summary: Declares helpers for sending synchronous DevTools commands and building single key/value parameter dictionaries in tests.
+// ---
+
 #ifndef CHROME_BROWSER_HEADLESS_TEST_HEADLESS_BROWSER_TEST_UTILS_H_
 #define CHROME_BROWSER_HEADLESS_TEST_HEADLESS_BROWSER_TEST_UTILS_H_
 

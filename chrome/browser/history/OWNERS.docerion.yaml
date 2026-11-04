@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: History directory OWNERS file
+summary: Delegates code ownership of this directory to the owners listed in components/history/OWNERS.

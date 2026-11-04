@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History embeddings utility functions implementation
+// summary: Implements helpers that check whether the history embeddings and answers features are enabled or their settings visible for a profile, including kill switches and country/locale gating.
+// ---
+
 #include "chrome/browser/history_embeddings/history_embeddings_utils.h"
 
 #include "chrome/browser/browser_process.h"

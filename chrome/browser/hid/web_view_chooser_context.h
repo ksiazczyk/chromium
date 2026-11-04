@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView HID permission context declaration
+// summary: Declares WebViewChooserContext, which stores ephemeral per-WebView HID device permissions separately from regular permissions for security reasons.
+// ---
+
 #ifndef CHROME_BROWSER_HID_WEB_VIEW_CHOOSER_CONTEXT_H_
 #define CHROME_BROWSER_HID_WEB_VIEW_CHOOSER_CONTEXT_H_
 

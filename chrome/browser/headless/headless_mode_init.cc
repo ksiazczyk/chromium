@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless mode initialization implementation
+// summary: Initializes headless mode on Linux, Windows and Mac by adjusting the command line, user data directory and platform settings.
+// ---
+
 #include "chrome/browser/headless/headless_mode_init.h"
 
 #include "base/check_deref.h"

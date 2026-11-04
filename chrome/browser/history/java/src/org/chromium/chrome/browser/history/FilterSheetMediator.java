@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterSheetMediator
+// summary: Mediator for the history filter sheet that maintains list item models, tracks the selected filter and notifies the close callback of updates.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static org.chromium.build.NullUtil.assertNonNull;

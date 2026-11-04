@@ -1,0 +1,4 @@
+# Docerion header of same-document-navigation-blocklist-expected.txt.
+type: test
+title: Same-document navigation blocklist expected output
+summary: Expected output for the blocklist test, showing tab and page target detachment and failed re-attachment to both targets.

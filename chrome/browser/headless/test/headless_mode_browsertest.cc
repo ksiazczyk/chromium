@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless mode browser test base implementation
+// summary: Implements the shared browser test base for native headless mode tests on Linux, Windows and Mac, including headful-mode switch handling.
+// ---
+
 #include "chrome/browser/headless/test/headless_mode_browsertest.h"
 
 #include "build/build_config.h"

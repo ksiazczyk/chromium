@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID policy allowed devices factory declaration
+// summary: Declares the factory that provides per-profile HidPolicyAllowedDevices service instances.
+// ---
+
 #ifndef CHROME_BROWSER_HID_HID_POLICY_ALLOWED_DEVICES_FACTORY_H_
 #define CHROME_BROWSER_HID_HID_POLICY_ALLOWED_DEVICES_FACTORY_H_
 

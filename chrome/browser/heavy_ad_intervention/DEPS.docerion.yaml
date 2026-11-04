@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the heavy ad intervention directory
+summary: DEPS file restricting allowed includes in this directory and granting extra dependencies to the heavy ad helper browser test.

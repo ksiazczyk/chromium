@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test against a real micro:bit HID device
+// summary: In-process browser test that drives the HID chooser against a physical BBC micro:bit device to verify end-to-end device selection.
+// ---
+
 #include <memory>
 
 #include "base/strings/stringprintf.h"

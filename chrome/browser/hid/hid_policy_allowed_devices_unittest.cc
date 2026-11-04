@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID policy allowed devices unit tests
+// summary: Unit tests verifying initialization, parsing and permission checks of the WebHID allow-device policies.
+// ---
+
 #include "chrome/browser/hid/hid_policy_allowed_devices.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform-specific headless initialization
+// summary: Declares InitializePlatform, the entry point for performing platform-specific headless mode initialization.
+// ---
+
 #include "chrome/browser/headless/headless_mode_util.h"
 
 #ifndef CHROME_BROWSER_HEADLESS_HEADLESS_MODE_PLATFORM_H_

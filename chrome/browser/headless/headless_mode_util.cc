@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless mode utility implementations
+// summary: Implements helpers that detect whether Chrome runs in headless mode and whether access to Chrome-internal scheme pages is allowed, with stubs for unsupported platforms.
+// ---
+
 #include "chrome/browser/headless/headless_mode_util.h"
 
 #include "build/build_config.h"

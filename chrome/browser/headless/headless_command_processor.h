@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless command processor header
+// summary: Declares helpers to detect headless command switches and to run headless commands against a specified target URL.
+// ---
+
 #ifndef CHROME_BROWSER_HEADLESS_HEADLESS_COMMAND_PROCESSOR_H_
 #define CHROME_BROWSER_HEADLESS_HEADLESS_COMMAND_PROCESSOR_H_
 

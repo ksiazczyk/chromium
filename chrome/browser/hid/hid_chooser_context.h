@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID chooser context class declaration
+// summary: Declares HidChooserContext, which manages HID chooser state, device permissions, and the connection to the device service.
+// ---
+
 #ifndef CHROME_BROWSER_HID_HID_CHOOSER_CONTEXT_H_
 #define CHROME_BROWSER_HID_HID_CHOOSER_CONTEXT_H_
 

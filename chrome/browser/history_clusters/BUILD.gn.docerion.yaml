@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for //chrome/browser/history_clusters
+summary: Defines GN build targets for the history clusters browser code, including the Android Java library with JNI headers, implementation source sets, browser tests and unit tests.

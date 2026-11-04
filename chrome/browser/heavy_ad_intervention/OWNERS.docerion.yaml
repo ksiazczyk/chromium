@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for heavy ad intervention
+summary: Delegates directory ownership to the OWNERS file of the components heavy_ad_intervention component.

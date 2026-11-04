@@ -1,0 +1,4 @@
+# Docerion header of dom-focus-expected.txt.
+type: test
+title: DOM.focus expected output
+summary: Expected output for the headless protocol test of the DOM.focus method.

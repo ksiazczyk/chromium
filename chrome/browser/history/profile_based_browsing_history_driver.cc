@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile-based browsing history driver implementation
+// summary: Implements the profile-backed portion of BrowsingHistoryDriver, cleaning extension activity log and app banner data on history deletion and gating deletions by preference.
+// ---
+
 #include "chrome/browser/history/profile_based_browsing_history_driver.h"
 
 #include <utility>

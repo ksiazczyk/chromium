@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History test utilities implementation
+// summary: Implements WaitForHistoryBackendToRun, which schedules a history DB task and spins the message loop until pending history backend work completes.
+// ---
+
 #include <memory>
 #include <utility>
 

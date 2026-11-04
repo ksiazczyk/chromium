@@ -1,0 +1,4 @@
+# Docerion header of document-focus-on-load-expected.txt.
+type: test
+title: Document focus on load expected output
+summary: Expected output for the headless protocol test that checks whether a document has focus on load.

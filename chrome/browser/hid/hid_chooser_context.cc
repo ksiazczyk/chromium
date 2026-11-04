@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID chooser context implementation
+// summary: Implements per-profile HID permission storage, device add and remove observation, and policy-granted device entries for the chooser.
+// ---
+
 #include "chrome/browser/hid/hid_chooser_context.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: History embeddings include rules
+summary: Lists the headers that source files in this directory are allowed to include.

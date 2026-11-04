@@ -1,0 +1,4 @@
+# Docerion header of centered_blue_box.html.
+type: test
+title: Centered blue box test page
+summary: HTML fixture page rendering a centered blue box via a background gradient, used as a visual fixture in headless browser tests.

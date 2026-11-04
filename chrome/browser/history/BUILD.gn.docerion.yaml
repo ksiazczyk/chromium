@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History BUILD.gn build configuration
+summary: Defines GN build targets for the Chrome history browser component, listing public headers, implementation sources, dependencies, and Android Java libraries.

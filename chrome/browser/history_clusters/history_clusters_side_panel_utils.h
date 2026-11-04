@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History Clusters side panel utility header
+// summary: Declares IsSidePanelSupported, which reports whether the History Clusters (Journeys) side panel is available for a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_HISTORY_CLUSTERS_HISTORY_CLUSTERS_SIDE_PANEL_UTILS_H_
 #define CHROME_BROWSER_HISTORY_CLUSTERS_HISTORY_CLUSTERS_SIDE_PANEL_UTILS_H_
 

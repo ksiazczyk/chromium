@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryFeatures
+// summary: Utility class exposing History-related feature flags and conditions on Android, such as the desktop WebUI history surface.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import org.chromium.base.DeviceInfo;

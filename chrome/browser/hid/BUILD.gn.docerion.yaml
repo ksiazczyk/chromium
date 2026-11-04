@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for Chrome HID browser code
+summary: Defines GN source sets for the Chrome HID browser module, listing public headers, dependencies, platform-conditional sources, and test targets.

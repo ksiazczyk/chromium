@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Document focus on load test
+// summary: Headless protocol test that loads a page logging whether the document has focus on load and prints the log element's text.
+// ---
+
 (async function(testRunner) {
   const html = `<!doctype html>
     <html>

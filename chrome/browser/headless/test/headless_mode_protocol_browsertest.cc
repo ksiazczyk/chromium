@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless mode DevTools protocol test implementation
+// summary: Implements the protocol browser test harness that runs JavaScript test scripts over DevTools, loads test meta info, and checks results against expectation files.
+// ---
+
 #include "chrome/browser/headless/test/headless_mode_protocol_browsertest.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID policy allowed devices implementation
+// summary: Implements loading and interpreting WebHID allow policies from preferences and checking device permission for origins.
+// ---
+
 #include "chrome/browser/hid/hid_policy_allowed_devices.h"
 
 #include <optional>

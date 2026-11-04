@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterSheetContent
+// summary: BottomSheetContent implementation that supplies the toolbar, content view and accessibility strings for the history filter bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import android.content.Context;

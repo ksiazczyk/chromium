@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History embeddings tab helper implementation
+// summary: Observes tab navigations and loads to pass history visit data and page passages to the history embeddings service.
+// ---
+
 #include "chrome/browser/history_embeddings/history_embeddings_tab_helper.h"
 
 #include "base/check.h"

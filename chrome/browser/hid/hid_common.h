@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared HID constants for privileged FIDO extensions
+// summary: Defines the fixed set of extension IDs that are allowed to bypass the HID blocklist to access FIDO security keys.
+// ---
+
 #ifndef CHROME_BROWSER_HID_HID_COMMON_H_
 #define CHROME_BROWSER_HID_HID_COMMON_H_
 

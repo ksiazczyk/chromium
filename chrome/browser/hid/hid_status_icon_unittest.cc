@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID status icon unit tests
+// summary: Unit tests for the HID status icon across single and multiple profiles and extension origins.
+// ---
+
 #include "chrome/browser/hid/hid_status_icon.h"
 
 #include <string>

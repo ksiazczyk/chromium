@@ -1,0 +1,4 @@
+# Docerion header of headless_mode_platform_mac.mm.
+type: source
+title: Mac headless platform initialization
+summary: Hides the dock icon and menu bar on macOS by transforming the process into a background application during headless initialization.

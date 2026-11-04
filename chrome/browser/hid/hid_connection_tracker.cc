@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID connection tracker implementation
+// summary: Implements per-profile tracking of open HID device connections, whitelisted FIDO extension origins, and system tray icon integration.
+// ---
+
 #include "chrome/browser/hid/hid_connection_tracker.h"
 
 #include "chrome/browser/browser_process.h"

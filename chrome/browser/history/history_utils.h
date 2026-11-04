@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History URL filtering utilities header
+// summary: Declares CanAddURLToHistory, used to decide whether a URL is the kind that should be added to browsing history.
+// ---
+
 #ifndef CHROME_BROWSER_HISTORY_HISTORY_UTILS_H_
 #define CHROME_BROWSER_HISTORY_HISTORY_UTILS_H_
 

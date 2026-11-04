@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bindings for the History Clusters tab helper
+// summary: Bridges Android Java calls for current-tab URL copy and share events to the corresponding HistoryClustersTabHelper methods.
+// ---
+
 #include "chrome/browser/history_clusters/history_clusters_tab_helper.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID pinned notification unit tests
+// summary: Unit tests for the HID pinned notification, covering expected titles, messages and connection tracker integration.
+// ---
+
 #include "chrome/browser/hid/hid_pinned_notification.h"
 
 #include <string>

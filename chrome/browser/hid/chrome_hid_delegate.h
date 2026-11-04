@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome HID delegate class declaration
+// summary: Declares ChromeHidDelegate, the Chrome implementation of the content HID delegate interface for chooser and permission handling.
+// ---
+
 #ifndef CHROME_BROWSER_HID_CHROME_HID_DELEGATE_H_
 #define CHROME_BROWSER_HID_CHROME_HID_DELEGATE_H_
 

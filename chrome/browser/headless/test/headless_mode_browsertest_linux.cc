@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux headless mode browser tests
+// summary: Runs Linux-specific headless mode tests covering the Ozone headless platform, window capture behavior and browser window visibility.
+// ---
+
 #include "chrome/browser/headless/test/headless_mode_browsertest.h"
 
 #include "chrome/browser/headless/test/headless_mode_browsertest_utils.h"

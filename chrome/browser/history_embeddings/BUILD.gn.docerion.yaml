@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History embeddings build targets
+summary: Defines source sets, dependencies, and browser test targets for the history embeddings code in this directory.

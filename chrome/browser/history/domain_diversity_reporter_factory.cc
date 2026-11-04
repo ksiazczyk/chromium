@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain diversity reporter factory implementation
+// summary: Implements the profile-keyed factory that builds DomainDiversityReporter services bound to each profile's history service and preference settings.
+// ---
+
 #include "chrome/browser/history/domain_diversity_reporter_factory.h"
 
 

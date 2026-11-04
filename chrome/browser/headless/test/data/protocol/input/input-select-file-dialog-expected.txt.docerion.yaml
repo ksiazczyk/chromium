@@ -1,0 +1,4 @@
+# Docerion header of input-select-file-dialog-expected.txt.
+type: test
+title: Select file dialog expected output
+summary: Expected output for the headless protocol test checking that the file selection dialog is shown.

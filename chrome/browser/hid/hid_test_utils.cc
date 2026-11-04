@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID connection tracker and tray icon test fakes
+// summary: Implements TestHidConnectionTracker and TestHidSystemTrayIcon fakes that forward calls to mock device notification objects for use in tests.
+// ---
+
 #include "chrome/browser/hid/hid_test_utils.h"
 
 #include "chrome/browser/device_notifications/device_status_icon_renderer.h"

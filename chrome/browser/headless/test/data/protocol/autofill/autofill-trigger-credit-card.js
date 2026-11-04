@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill.trigger credit card protocol test
+// summary: Headless browser test that calls Autofill.trigger with test credit card data and verifies the form fields are filled accordingly.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} =
       await testRunner.startBlank(`Tests Autofill.trigger with a credit card.`);
