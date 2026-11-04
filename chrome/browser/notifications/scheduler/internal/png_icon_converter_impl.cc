@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PNG icon converter implementation
+// summary: Implements PNG encoding and decoding between SkBitmap notification icons and string data, running the conversion on a background thread pool.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/png_icon_converter_impl.h"
 
 #include <memory>

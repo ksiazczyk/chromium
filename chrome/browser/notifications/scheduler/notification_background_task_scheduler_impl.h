@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification background task scheduler default implementation header
+// summary: Declares NotificationBackgroundTaskSchedulerImpl, the default implementation that schedules and cancels background notification tasks.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_NOTIFICATION_BACKGROUND_TASK_SCHEDULER_IMPL_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_NOTIFICATION_BACKGROUND_TASK_SCHEDULER_IMPL_H_
 

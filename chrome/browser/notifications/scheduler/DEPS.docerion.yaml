@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the scheduler directory
+summary: Grants the scheduler directory permission to include headers from chrome/android/chrome_jni_headers.

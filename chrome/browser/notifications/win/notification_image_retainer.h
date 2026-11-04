@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification image retainer for Windows
+// summary: Declares NotificationImageRetainer, which stores notification images as temporary files on disk long enough for the Windows Action Center to read them.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_WIN_NOTIFICATION_IMAGE_RETAINER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_WIN_NOTIFICATION_IMAGE_RETAINER_H_
 

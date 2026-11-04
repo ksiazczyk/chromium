@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationStore implementation
+// summary: Implements a LevelDB-backed persistent store for notification entries with initialization, load, add, update, and delete operations.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/notification_store.h"
 
 #include "base/functional/bind.h"

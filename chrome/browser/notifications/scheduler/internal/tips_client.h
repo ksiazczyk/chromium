@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsClient notification scheduler client header
+// summary: Declares TipsClient, a NotificationSchedulerClient implementation used by Clank Tips and the notifications internals page for testing, wrapping a TipsAgent and PrefService.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_TIPS_CLIENT_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_TIPS_CLIENT_H_
 

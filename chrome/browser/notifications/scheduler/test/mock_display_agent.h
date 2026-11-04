@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display agent mock for scheduler tests
+// summary: Declares a gmock mock of DisplayAgent that mocks showing scheduled notifications in scheduler tests.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_MOCK_DISPLAY_AGENT_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_MOCK_DISPLAY_AGENT_H_
 

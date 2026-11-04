@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android background task scheduler class declaration
+// summary: Declares the Android implementation of NotificationBackgroundTaskScheduler that schedules and cancels background tasks through the Android API.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_NOTIFICATION_BACKGROUND_TASK_SCHEDULER_ANDROID_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_NOTIFICATION_BACKGROUND_TASK_SCHEDULER_ANDROID_H_
 

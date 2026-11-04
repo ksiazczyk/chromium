@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op notification schedule service implementation
+// summary: Implements a no-op notification schedule service whose scheduling, deletion, overview and user action handlers do nothing.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/noop_notification_schedule_service.h"
 
 #include "chrome/browser/notifications/scheduler/public/notification_params.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImpressionHistoryTracker unit tests
+// summary: Unit tests for impression history tracking and throttling behavior using mock stores, a mock delegate, and a fake clock.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/impression_history_tracker.h"
 
 #include <memory>

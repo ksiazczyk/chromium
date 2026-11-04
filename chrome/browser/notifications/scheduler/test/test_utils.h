@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification scheduler test utilities
+// summary: Declares test helpers for the notification scheduler, including impression test data builders, client state population functions, and debug string generators for notifications and client states.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_TEST_UTILS_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_TEST_UTILS_H_
 

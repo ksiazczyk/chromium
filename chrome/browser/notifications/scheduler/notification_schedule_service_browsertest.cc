@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification schedule service browser tests
+// summary: Browser tests verifying notification scheduling through the schedule service using a test client and a mock background task scheduler.
+// ---
+
 #include "chrome/browser/notifications/scheduler/public/notification_schedule_service.h"
 
 #include <memory>

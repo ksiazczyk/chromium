@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification template builder header
+// summary: Declares BuildNotificationTemplate, which converts a notification into Windows toast XML, plus a test hook for the context menu label.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_WIN_NOTIFICATION_TEMPLATE_BUILDER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_WIN_NOTIFICATION_TEMPLATE_BUILDER_H_
 

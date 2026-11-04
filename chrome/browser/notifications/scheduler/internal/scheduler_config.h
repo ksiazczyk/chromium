@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification scheduler configuration
+// summary: Defines the SchedulerConfig struct and Finch parameter keys controlling daily notification limits, expirations, suppression and dismiss behavior.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_SCHEDULER_CONFIG_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_SCHEDULER_CONFIG_H_
 

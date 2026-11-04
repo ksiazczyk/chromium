@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification launch ID class
+// summary: Declares NotificationLaunchId, which encapsulates launch ID strings identifying which notification was activated in the Windows Action Center.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_WIN_NOTIFICATION_LAUNCH_ID_H_
 #define CHROME_BROWSER_NOTIFICATIONS_WIN_NOTIFICATION_LAUNCH_ID_H_
 

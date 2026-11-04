@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android tips notification agent unit tests
+// summary: Unit tests for TipsAgentAndroid covering notification scheduling with mocked segmentation platform and tips services.
+// ---
+
 #include "chrome/browser/notifications/scheduler/tips_agent_android.h"
 
 #include <map>

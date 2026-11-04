@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake clock for notification scheduler tests
+// summary: Declares FakeClock, a base::Clock subclass whose Now() returns a fixed mocked time for deterministic scheduler tests.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_FAKE_CLOCK_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_FAKE_CLOCK_H_
 

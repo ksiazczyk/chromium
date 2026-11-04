@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake notification image retainer class declaration
+// summary: Declares the fake NotificationImageRetainer subclass giving unit tests predictable temporary image paths.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_WIN_FAKE_NOTIFICATION_IMAGE_RETAINER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_WIN_FAKE_NOTIFICATION_IMAGE_RETAINER_H_
 

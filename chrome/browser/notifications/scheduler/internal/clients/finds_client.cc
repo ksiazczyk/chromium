@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindsClient implementation for Chrome Finds notifications
+// summary: Implements the notification scheduler client for Chrome Finds notifications, handling enterprise policy checks, shown-notification metrics, cooldown failsafe, and click, helpful, and unhelpful button actions.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/clients/finds_client.h"
 
 #include <utility>

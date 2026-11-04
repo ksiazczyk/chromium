@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TipsClient unit tests
+// summary: Unit tests for the TipsClient scheduler client, verifying user action handling, histogram logging, and pref updates when showing tips notifications on Android.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/tips_client.h"
 
 #include "base/strings/string_number_conversions.h"

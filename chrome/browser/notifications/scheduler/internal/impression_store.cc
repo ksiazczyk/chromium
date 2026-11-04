@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Impression store implementation
+// summary: Implements the LevelDB proto database-backed impression store that initializes, loads, adds, updates and deletes persisted notification client state.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/impression_store.h"
 
 #include "chrome/browser/notifications/scheduler/internal/proto_conversion.h"

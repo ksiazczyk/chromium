@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake notification image retainer for unit tests
+// summary: Provides a fake image retainer that returns predictable temporary file paths without touching the disk.
+// ---
+
 #include "chrome/browser/notifications/win/fake_notification_image_retainer.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Windows notification code
+summary: Delegates ownership of notification_helper files to the chrome/notification_helper/OWNERS file.

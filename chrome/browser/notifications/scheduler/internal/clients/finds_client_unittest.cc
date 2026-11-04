@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FindsClient unit tests
+// summary: Unit tests for FindsClient using a mock FindsAgent and testing pref service, verifying click and button actions open notification URLs, mark themes not interested, and record interaction histograms.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/clients/finds_client.h"
 
 #include <memory>

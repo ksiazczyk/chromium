@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Notification scheduler internal build targets
+summary: GN build file defining the internal notification scheduler library and its unit test target, listing sources, dependencies and Android-specific additions.

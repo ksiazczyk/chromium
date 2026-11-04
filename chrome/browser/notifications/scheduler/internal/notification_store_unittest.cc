@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification store unit tests
+// summary: Unit tests for NotificationStore, verifying initialization, loading, and persistence of notification entries against a fake LevelDB proto database.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/notification_store.h"
 
 #include "base/functional/callback_helpers.h"

@@ -14,6 +14,12 @@
 // dependency on chrome.exe which is required by this test, and it's undesired
 // to make notification_helper_unittests.exe have data dependency on chrome.exe.
 
+// ---docerion
+// type: test
+// title: Notification helper launches Chrome unit test
+// summary: Verifies that notification_helper.exe successfully launches chrome.exe via NotificationActivator::Activate after OS registry activation.
+// ---
+
 #include <memory>
 #include <string>
 

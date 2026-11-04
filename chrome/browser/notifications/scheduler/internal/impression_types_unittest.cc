@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Impression types unit tests
+// summary: Unit test verifying the equality operator of the ClientState notification scheduler type.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/impression_types.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

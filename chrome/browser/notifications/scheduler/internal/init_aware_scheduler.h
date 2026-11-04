@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Init-aware notification scheduler header
+// summary: Declares InitAwareNotificationScheduler, which buffers NotificationScheduler calls until initialization completes successfully.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_INIT_AWARE_SCHEDULER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_INIT_AWARE_SCHEDULER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock notification schedule service for tests
+// summary: GoogleMock implementation of NotificationScheduleService that mocks scheduling, deleting notifications and client overview queries.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_MOCK_NOTIFICATION_SCHEDULE_SERVICE_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_MOCK_NOTIFICATION_SCHEDULE_SERVICE_H_
 

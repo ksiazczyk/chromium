@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android display agent implementation
+// summary: Implements the Android display agent, showing scheduled notifications and forwarding user actions such as button clicks to native via JNI.
+// ---
+
 #include "chrome/browser/notifications/scheduler/display_agent_android.h"
 
 #include <string>

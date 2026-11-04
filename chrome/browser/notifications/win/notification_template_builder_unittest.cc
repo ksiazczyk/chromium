@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification template builder unit tests
+// summary: Unit tests verifying the generated Windows toast XML for various notification configurations using a fake image retainer and fixed timestamps.
+// ---
+
 #include "chrome/browser/notifications/win/notification_template_builder.h"
 
 #include <memory>

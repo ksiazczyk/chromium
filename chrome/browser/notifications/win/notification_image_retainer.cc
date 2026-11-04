@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification image retainer implementation
+// summary: Manages temporary notification image files in the user data directory and cleans up files left from previous sessions.
+// ---
+
 #include "chrome/browser/notifications/win/notification_image_retainer.h"
 
 #include <algorithm>

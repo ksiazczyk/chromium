@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows notification metrics enums
+// summary: Declares enums for Windows notification status histograms such as display, close, history, activation, and settings results, with stable logged values.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_WIN_NOTIFICATION_METRICS_H_
 #define CHROME_BROWSER_NOTIFICATIONS_WIN_NOTIFICATION_METRICS_H_
 

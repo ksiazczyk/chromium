@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tips notification scheduler client implementation
+// summary: Implements the scheduler client for tips notifications, marking shown feature prefs and logging or dispatching user actions on Android.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/tips_client.h"
 
 #include <utility>

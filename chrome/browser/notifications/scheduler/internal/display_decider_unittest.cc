@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display decider unit tests
+// summary: Unit tests for DisplayDecider covering notification selection with impression data, daily show limits and expected result sets.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/display_decider.h"
 
 #include <map>

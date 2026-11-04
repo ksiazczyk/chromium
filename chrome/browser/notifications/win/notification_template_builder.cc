@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification template builder implementation
+// summary: Builds the XML toast template used to display a notification in the Windows Action Center, covering images, actions, progress, and origin formatting.
+// ---
+
 #include "chrome/browser/notifications/win/notification_template_builder.h"
 
 #include <algorithm>

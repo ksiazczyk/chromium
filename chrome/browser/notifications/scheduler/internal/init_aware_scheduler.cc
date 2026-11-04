@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Init-aware notification scheduler implementation
+// summary: Implements a scheduler wrapper that caches API calls made before initialization and flushes them once initialization succeeds.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/init_aware_scheduler.h"
 
 #include <utility>

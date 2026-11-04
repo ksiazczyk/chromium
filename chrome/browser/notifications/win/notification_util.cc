@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification launch ID extraction from Windows toast notifications
+// summary: Implements GetNotificationLaunchId, which parses a toast notification's XML content to extract the launch attribute, logging UMA metrics on failures.
+// ---
+
 #include "chrome/browser/notifications/win/notification_util.h"
 
 #include <wrl/client.h>

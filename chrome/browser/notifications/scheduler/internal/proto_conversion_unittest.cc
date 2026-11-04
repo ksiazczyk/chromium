@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto conversion unit tests
+// summary: Unit tests verifying round-trip conversion of icon entries, client state, impressions, and notification entries to and from protobuf.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/proto_conversion.h"
 
 #include <string>

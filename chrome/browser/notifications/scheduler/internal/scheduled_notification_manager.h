@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduled notification manager header
+// summary: Declares the ScheduledNotificationManager interface for managing in-memory scheduled notifications loaded from storage.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_SCHEDULED_NOTIFICATION_MANAGER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_SCHEDULED_NOTIFICATION_MANAGER_H_
 

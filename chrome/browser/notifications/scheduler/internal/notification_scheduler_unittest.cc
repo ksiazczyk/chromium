@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationScheduler unit tests
+// summary: Unit tests for the notification scheduler that use mock subsystems to verify initialization, scheduling, and display behavior.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/notification_scheduler.h"
 
 #include <map>

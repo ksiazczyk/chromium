@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto conversion helpers
+// summary: Converts scheduler objects such as client types, user feedback, impressions, and notification entries between in-memory types and protobuf messages.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/proto_conversion.h"
 
 #include <memory>

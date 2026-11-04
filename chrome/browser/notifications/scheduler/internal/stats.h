@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification scheduler stats header
+// summary: Declares enums and logging functions for scheduler metrics such as action button events, notification lifecycle and database types.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_STATS_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_STATS_H_
 

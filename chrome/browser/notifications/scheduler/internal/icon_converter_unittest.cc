@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Icon converter unit tests
+// summary: Unit tests verifying the PNG icon converter round trip between SkBitmap icons and encoded string data.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/run_loop.h"
 #include "base/test/task_environment.h"

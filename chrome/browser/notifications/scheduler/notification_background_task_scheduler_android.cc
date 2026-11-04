@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android background task scheduler implementation
+// summary: Routes Android background task start and stop events to the notification scheduler and schedules or cancels tasks via JNI.
+// ---
+
 #include "chrome/browser/notifications/scheduler/notification_background_task_scheduler_android.h"
 
 #include <utility>

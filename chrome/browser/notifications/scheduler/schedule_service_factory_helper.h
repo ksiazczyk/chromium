@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification schedule service creation helper header
+// summary: Declares CreateNotificationScheduleService, which builds the service while keeping embedders from depending on scheduler internal code.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_SCHEDULE_SERVICE_FACTORY_HELPER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_SCHEDULE_SERVICE_FACTORY_HELPER_H_
 

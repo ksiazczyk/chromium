@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tips notification agent header
+// summary: Declares TipsAgentAndroid, the Android TipsAgent that shows tips promos and handles classification callbacks for notification scheduling.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TIPS_AGENT_ANDROID_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TIPS_AGENT_ANDROID_H_
 

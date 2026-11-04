@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Impression store unit tests
+// summary: Unit tests for ImpressionStore covering initialization, data loading and database updates using a fake proto database.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/impression_store.h"
 
 #include <map>

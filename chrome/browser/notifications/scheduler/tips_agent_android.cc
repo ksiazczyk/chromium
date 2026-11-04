@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tips notification agent implementation
+// summary: Implements the Android tips agent, bridging JNI to schedule tips notifications based on segmentation platform results and feature flags.
+// ---
+
 #include "chrome/browser/notifications/scheduler/tips_agent_android.h"
 
 #include <map>

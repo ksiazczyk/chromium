@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock scheduled notification manager for tests
+// summary: GoogleMock implementation of ScheduledNotificationManager that mocks scheduling, displaying and deleting scheduled notifications.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_MOCK_SCHEDULED_NOTIFICATION_MANAGER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_MOCK_SCHEDULED_NOTIFICATION_MANAGER_H_
 
