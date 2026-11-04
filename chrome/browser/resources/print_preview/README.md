@@ -1,3 +1,9 @@
+---
+type: readme
+title: Print preview directory overview
+summary: Describes the non-ChromeOS desktop print preview UI and its January 2025 fork from the ChromeOS code.
+---
+
 The code in this directory is for the Print Preview UI on non-ChromeOS Desktop
 platforms (Windows, Mac, Linux). ChromeOS's Print Preview code can be found in
 chrome/browser/resources/ash/print_preview.

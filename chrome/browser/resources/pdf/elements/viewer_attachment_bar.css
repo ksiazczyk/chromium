@@ -8,6 +8,12 @@
  * #include=pdf-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Viewer attachment bar styles
+summary: Styles for the PDF attachment bar container and its warning section.
+*/
+
 :host {
   display: block;
   padding-inline-end: 20px;

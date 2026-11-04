@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer private API proxy
+// summary: Proxy interface and implementation wrapping chrome.pdfViewerPrivate calls such as Save to Drive, glic summarize and document title setting.
+// ---
+
 // <if expr="enable_pdf_save_to_drive">
 import type {ChromeEvent} from '/tools/typescript/definitions/chrome_event.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open PDF parameters parser
+// summary: Parses open PDF URL parameters such as zoom, view mode, page, and named destinations to set the initial viewport state of the viewer.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {NamedDestinationMessageData, Point, Rect} from './constants.js';

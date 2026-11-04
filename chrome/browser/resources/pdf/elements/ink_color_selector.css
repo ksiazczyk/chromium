@@ -9,6 +9,12 @@
  * #include=pdf-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Ink color selector styles
+summary: Styles the ink color selector's grid of round color chips, including checked, blended, and focus-visible states.
+*/
+
 :host {
   display: inline-block;
 }

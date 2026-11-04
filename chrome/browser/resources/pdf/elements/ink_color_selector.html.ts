@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink color selector HTML template
+// summary: Lit HTML template that renders the color selector as a radio group grid of color chip inputs with accessibility labels.
+// ---
+
 import 'chrome://resources/cr_elements/cr_grid/cr_grid.js';
 
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';

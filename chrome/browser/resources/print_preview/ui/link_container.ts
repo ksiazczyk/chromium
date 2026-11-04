@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview link container element
+// summary: Lit element that shows links for printing with the system dialog or opening PDFs in Preview, with platform-specific visibility rules.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import './print_preview_vars.css.js';
 

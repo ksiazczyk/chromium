@@ -11,6 +11,12 @@
  * #include=bottom-toolbar-shared md-select-lit pdf-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: PDF viewer text bottom toolbar styles
+summary: Styles the bottom toolbar for text annotation editing, including typeface and size selects, text styles, and alignment controls.
+*/
+
 :host {
   --cr-focus-outline-color: var(--viewer-icon-focus-outline-color);
   border-radius: 16px 16px 0 0;

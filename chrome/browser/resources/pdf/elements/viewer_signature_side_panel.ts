@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signature side panel element
+// summary: Lit element defining the viewer-signature-side-panel custom element as a placeholder for future signature panel content.
+// ---
+
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import {getCss} from './viewer_signature_side_panel.css.js';

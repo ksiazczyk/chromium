@@ -9,6 +9,12 @@
  * #include=pdf-shared cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Save to Drive bubble styles
+summary: Lit CSS styles for the Save to Drive bubble dialog, covering the header, file details, progress bar, and footer buttons.
+*/
+
 dialog {
   background: var(--color-theme-color-picker-hue-slider-dialog-background,
       var(--cr-fallback-color-surface));

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer text bottom toolbar element
+// summary: Lit element for the text annotation bottom toolbar that handles typeface, size, alignment, and color changes via ink mixins.
+// ---
+
 import './ink_color_selector.js';
 import './text_alignment_selector.js';
 import './text_styles_selector.js';

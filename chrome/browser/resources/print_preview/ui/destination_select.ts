@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview destination select element
+// summary: Lit element implementing the print preview destination dropdown, resolving printer icons and syncing the selected destination value.
+// ---
+
 import 'chrome://resources/js/util.js';
 import './icons.html.js';
 import './settings_section.js';

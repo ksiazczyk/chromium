@@ -8,6 +8,12 @@
  * #import=./shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Side panel shared styles
+summary: Shared CSS for PDF viewer side panel elements, setting background, width and heading styles.
+*/
+
 :host {
   background-color: var(--viewer-side-background-color);
   color: var(--google-grey-100);

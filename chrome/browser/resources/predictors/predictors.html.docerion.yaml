@@ -1,0 +1,4 @@
+# Docerion header of predictors.html.
+type: source
+title: Predictors WebUI page
+summary: Defines the predictors page with tabs for the autocomplete action predictor and resource prefetch predictor, including their data tables.

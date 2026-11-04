@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layout settings template
+// summary: Lit HTML template for the layout settings section offering portrait and landscape orientation options.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {LayoutSettingsElement} from './layout_settings.js';

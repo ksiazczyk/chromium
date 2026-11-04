@@ -8,6 +8,12 @@
  * #import=./print_preview_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Print preview app element styles
+summary: Stylesheet for the print preview app element, laying out the sidebar and preview area with dark mode support.
+*/
+
 :host {
   display: flex;
   height: 100%;

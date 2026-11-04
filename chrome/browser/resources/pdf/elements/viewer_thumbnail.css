@@ -9,6 +9,12 @@
  * #include=pdf-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: PDF viewer thumbnail styles
+summary: Styles page thumbnails with active, hover, and focus-visible states plus canvas opacity and page number layout.
+*/
+
 :host {
   --focus-border-color: var(--google-blue-300);
   display: block;

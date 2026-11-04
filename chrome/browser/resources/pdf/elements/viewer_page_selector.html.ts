@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer page selector template
+// summary: Lit HTML template rendering the page number input, a divider and the total page count for the page selector element.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {ViewerPageSelectorElement} from './viewer_page_selector.js';

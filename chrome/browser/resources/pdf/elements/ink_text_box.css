@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Ink text box styles
+summary: Styles the ink text box, including drag handles with resize cursors, border padding, and rotated textarea writing modes.
+*/
+
 :host {
   --border-padding: calc(var(--viewer-text-annotation-handle-size) / 2);
   --handle-offset: calc(

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink annotation text mixin
+// summary: Mixin providing text annotation colors, sizes, and typefaces plus current text attribute state.
+// ---
+
 import {assert, assertNotReachedCase} from 'chrome://resources/js/assert.js';
 import type {CrLitElement, PropertyValues} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 

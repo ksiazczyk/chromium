@@ -8,6 +8,12 @@
  * #include=pdf-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Ink brush selector styles
+summary: CSS for the ink brush selector, laying out its radio group and selectable icon buttons.
+*/
+
 :host,
 cr-radio-group {
   /* Gap instead of padding to have 0 extra padding on top/bottom. */

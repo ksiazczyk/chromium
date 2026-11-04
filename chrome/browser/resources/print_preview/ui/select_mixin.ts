@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Select mixin with debounced change handling for print preview settings
+// summary: Lit mixin that debounces select changes so preview generation does not freeze the dropdown, for use by select-based settings sections.
+// ---
+
 import type {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import {Debouncer} from './debouncer.js';

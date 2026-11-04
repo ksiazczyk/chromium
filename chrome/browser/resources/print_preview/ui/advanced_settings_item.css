@@ -12,6 +12,12 @@
  * #include=print-preview-shared md-select-lit search-highlight-style-lit cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Advanced settings item styles
+summary: Lit CSS styles for a single advanced settings item, laying out the capability label and its select, input, or checkbox value control.
+*/
+
 :host {
   display: flex;
   min-height: 54px;

@@ -8,6 +8,12 @@
  * #include=print-preview-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Advanced options settings styles
+summary: Lit CSS styles for the advanced options settings section, sizing and centering the button that opens advanced printer options.
+*/
+
 cr-button {
   height: fit-content;
   min-height: 32px;

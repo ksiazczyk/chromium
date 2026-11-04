@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Print preview button strip styles
+summary: Stylesheet for the print preview button strip element, aligning the print and cancel buttons within the sidebar.
+*/
+
 :host {
   display: flex;
   flex-direction: row;

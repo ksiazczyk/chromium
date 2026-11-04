@@ -13,6 +13,12 @@
  * #include=pdf-shared cr-hidden-style-lit cr-shared-style-lit scrollbar
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: PDF viewer side navigation styles
+summary: Lit CSS styles for the PDF side navigation, defining the icon rail width, background, selected tab color and vertical tab indicator transitions.
+*/
+
 :host {
   --sidenav-selected-tab-color: var(--google-blue-300);
   background-color: var(--viewer-side-background-color);

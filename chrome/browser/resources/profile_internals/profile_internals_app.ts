@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile Internals app web component
+// summary: Defines the profile-internals-app Lit element that fetches and displays the list of Chrome profiles with expandable details.
+// ---
+
 import '//resources/cr_elements/cr_collapse/cr_collapse.js';
 import '//resources/cr_elements/cr_expand_button/cr_expand_button.js';
 import '/strings.m.js';

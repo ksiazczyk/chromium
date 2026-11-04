@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preview area element
+// summary: Lit element implementing the print preview area, managing preview states, plugin loading, margins, page size, and error display.
+// ---
+
 import '/strings.m.js';
 import './margin_control_container.js';
 

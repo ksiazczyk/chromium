@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer metrics recording
+// summary: Records PDF viewer user actions such as rotation, zoom, printing, saving, and annotation strokes to Chrome metrics histograms.
+// ---
+
 import {FittingType} from './constants.js';
 
 // Handles events specific to the PDF viewer and logs the corresponding metrics.

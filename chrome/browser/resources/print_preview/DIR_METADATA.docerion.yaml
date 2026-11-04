@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Print preview component metadata
+summary: Maps the directory to the UI>Browser>PrintPreview monorail component and a Buganizer component ID.

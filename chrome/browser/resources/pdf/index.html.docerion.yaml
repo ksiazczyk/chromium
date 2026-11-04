@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: PDF viewer entry HTML page
+summary: Entry HTML page that hosts the pdf-viewer element and loads the viewer's main scripts and styles.

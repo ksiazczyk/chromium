@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink annotation coordinate conversion utilities
+// summary: Provides helpers to convert text annotation rectangles between page and screen coordinates, accounting for zoom and page rotation.
+// ---
+
 import {assertNotReached} from 'chrome://resources/js/assert.js';
 
 import type {TextBoxRect} from './constants.js';

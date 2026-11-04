@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer text side panel HTML template
+// summary: Lit HTML template rendering font, text styles, alignment, and color controls for the text annotation side panel.
+// ---
+
 import './ink_color_selector.js';
 import './text_alignment_selector.js';
 import './text_styles_selector.js';

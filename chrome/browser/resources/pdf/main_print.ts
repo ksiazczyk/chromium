@@ -4,6 +4,12 @@
 
 // Entry point to the Print Preview PDF Viewer UI.
 
+// ---docerion
+// type: source
+// title: Print preview PDF viewer entry point
+// summary: Initializes the print preview PDF viewer, always blocking JavaScript, and queues early scripting messages.
+// ---
+
 import './pdf_print_wrapper.js';
 
 import type {BrowserApi} from './browser_api.js';

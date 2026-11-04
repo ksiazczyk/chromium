@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser API for the PDF viewer
+// summary: Class that interfaces with the browser to expose stream info, default and initial zoom factors, and tab navigation for the PDF viewer.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 export type StreamInfoWithExtras = chrome.mimeHandlerPrivate.StreamInfo&{

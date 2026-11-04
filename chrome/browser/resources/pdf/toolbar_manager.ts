@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar manager for the PDF viewer zoom toolbar
+// summary: Manages showing and hiding the PDF viewer's zoom toolbar based on mouse position, movement velocity, touch taps, and keyboard navigation.
+// ---
+
 import {isRTL} from 'chrome://resources/js/util.js';
 
 import type {ViewerZoomToolbarElement} from './elements/viewer_zoom_toolbar.js';

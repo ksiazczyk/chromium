@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viewer side panel element
+// summary: Lit element for the PDF viewer's annotation side panel, composing brush, size, and color selectors via the ink brush mixin.
+// ---
+
 import './ink_brush_selector.js';
 import './ink_color_selector.js';
 import './ink_size_selector.js';

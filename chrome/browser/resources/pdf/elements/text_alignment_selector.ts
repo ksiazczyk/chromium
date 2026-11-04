@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text alignment selector element
+// summary: Lit element offering a radio group that sets the text alignment of PDF ink text annotations through Ink2Manager.
+// ---
+
 import 'chrome://resources/cr_elements/cr_radio_group/cr_radio_group.js';
 import './selectable_icon_button.js';
 

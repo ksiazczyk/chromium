@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advanced settings dialog element
+// summary: Lit dialog element for viewing and editing a destination's vendor capabilities, with search filtering, keyboard handling, and usage metrics recording.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import './advanced_settings_item.js';

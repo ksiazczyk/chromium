@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer document outline template
+// summary: Lit HTML template that renders the document outline by mapping bookmarks to viewer-bookmark elements.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {ViewerDocumentOutlineElement} from './viewer_document_outline.js';

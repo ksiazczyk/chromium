@@ -8,6 +8,12 @@
  * #include=print-preview-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: DPI settings styles
+summary: Lit CSS styles for the print preview DPI settings select, adding sidebar margins to the settings select.
+*/
+
 :host print-preview-settings-select {
   margin: 0 calc(var(--print-preview-sidebar-margin) - 2px);
 }

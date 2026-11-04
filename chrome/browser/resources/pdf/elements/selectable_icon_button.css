@@ -9,6 +9,12 @@
  * #include=pdf-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Selectable icon button styles
+summary: CSS for the selectable-icon-button element, defining ink icon fill colors and checked state styling.
+*/
+
 cr-icon-button {
   --cr-icon-button-fill-color: var(--viewer-icon-ink-fill-color);
   /* Same defaults as cr-icon-button */

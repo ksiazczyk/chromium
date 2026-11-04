@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Circular progress ring HTML template
+// summary: Lit HTML template that renders the SVG track and progress circles for the circular progress ring.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {CircularProgressRingElement} from './circular_progress_ring.js';

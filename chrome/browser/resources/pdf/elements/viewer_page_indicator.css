@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: PDF viewer page indicator styles
+summary: CSS for the fixed page indicator overlay, styling its translucent text bubble and triangle pointer with RTL support.
+*/
+
 :host {
   display: flex;
   pointer-events: none;

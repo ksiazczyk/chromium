@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive metrics
+// summary: Defines enums and recording functions for Save to Drive bubble actions, bubble states and save type histograms.
+// ---
+
 import {assertNotReached} from 'chrome://resources/js/assert.js';
 
 import {SaveToDriveBubbleRequestType, SaveToDriveState} from './constants.js';

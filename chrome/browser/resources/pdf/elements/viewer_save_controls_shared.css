@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared save controls styles
+summary: Shared Lit CSS for PDF viewer save controls, positioning the action menu and styling the active save button.
+*/
+
 :host {
   display: contents;
 }

@@ -13,6 +13,12 @@
  * #include=print-preview-shared cr-hidden-style-lit throbber
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Destination dialog styles
+summary: Lit CSS styles for the print preview destination dialog, covering dialog sizing, search box spacing, buttons and the warning message.
+*/
+
 :host-context([dir=rtl]) #manageIcon {
   transform: scaleX(-1);
 }

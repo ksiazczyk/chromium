@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink size selector element
+// summary: Custom element for choosing pen or highlighter brush sizes, defining the pen and highlighter size option lists used by the selector.
+// ---
+
 import 'chrome://resources/cr_elements/cr_radio_group/cr_radio_group.js';
 import './selectable_icon_button.js';
 

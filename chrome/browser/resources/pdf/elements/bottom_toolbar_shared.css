@@ -7,6 +7,12 @@
  * #import=./shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Bottom toolbar shared styles
+summary: Shared CSS for the PDF viewer bottom toolbar, styling its layout, icons, and round color chip.
+*/
+
 :host {
   --toolbar-item-gap: 10px;
   align-items: center;

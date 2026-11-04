@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viewer thumbnail bar element
+// summary: Lit element that manages the page thumbnail strip, lazily requesting thumbnail images from the plugin as pages scroll into view.
+// ---
+
 import './viewer_thumbnail.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink text annotations element
+// summary: Custom element that tracks text annotations from Ink2Manager, renders focusable placeholders, and handles focus, keyboard, and paste interactions.
+// ---
+
 import './ink_text_box.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

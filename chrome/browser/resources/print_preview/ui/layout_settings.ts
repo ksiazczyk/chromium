@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview layout settings element
+// summary: Lit element providing the portrait/landscape layout select in the print preview and syncing it with the layout setting.
+// ---
+
 import './settings_section.js';
 
 import {getCss as getMdSelectLitCss} from 'chrome://resources/cr_elements/md_select_lit.css.js';

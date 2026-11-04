@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: PDF viewer page selector styles
+summary: Lit CSS styles for the page selector, sizing the page number input and divider and keeping the content laid out left-to-right.
+*/
+
 /* A separate div is used because if the direction CSS property is applied
  * to the host element, any margins or paddings set by the parent will be
  * affected and be reversed. */

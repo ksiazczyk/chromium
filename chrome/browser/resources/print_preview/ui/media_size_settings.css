@@ -8,6 +8,12 @@
  * #include=print-preview-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Media size settings styles
+summary: Lit CSS styles for the print preview media size settings section, positioning the settings select within the sidebar margins.
+*/
+
 :host print-preview-settings-select {
   margin: 0 calc(var(--print-preview-sidebar-margin) - 2px);
 }

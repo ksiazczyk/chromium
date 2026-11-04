@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview copies settings element
+// summary: Defines the print-preview-copies-settings Lit element that manages the copies count input and collate checkbox in the Chrome print preview.
+// ---
+
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import './number_settings_section.js';
 

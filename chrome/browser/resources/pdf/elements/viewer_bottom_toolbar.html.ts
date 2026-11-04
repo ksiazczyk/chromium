@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viewer bottom toolbar HTML template
+// summary: Lit HTML template combining the brush selector with size and color dropdowns for annotation tools.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import './icons.html.js';
 import './ink_brush_selector.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink brush selector HTML template
+// summary: Lit HTML template rendering the brush type buttons as a selectable radio group.
+// ---
+
 import './selectable_icon_button.js';
 import 'chrome://resources/cr_elements/cr_radio_group/cr_radio_group.js';
 

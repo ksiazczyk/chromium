@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview utility functions
+// summary: TypeScript helpers for the Chrome print preview, including page range comparison, locale-aware string lookup, and building SVG dropdown backgrounds for select elements.
+// ---
+
 import type {Iconset} from 'chrome://resources/cr_elements/cr_icon/iconset_map.js';
 import {assert} from 'chrome://resources/js/assert.js';
 

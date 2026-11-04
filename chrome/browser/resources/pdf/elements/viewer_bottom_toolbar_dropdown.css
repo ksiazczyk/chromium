@@ -9,6 +9,12 @@
  * #include=pdf-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Viewer bottom toolbar dropdown styles
+summary: CSS styles for the toolbar dropdown button and the absolute positioning of its popup menu.
+*/
+
 :host {
   --dropdown-button-size: 32px;
   display: flex;

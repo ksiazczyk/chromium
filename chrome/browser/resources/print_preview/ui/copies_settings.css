@@ -8,6 +8,12 @@
  * #include=print-preview-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Print preview copies settings styles
+summary: Stylesheet for the copies settings element, spacing the collate checkbox within the number settings section.
+*/
+
 #collate {
   margin-inline-start: 16px;
 }

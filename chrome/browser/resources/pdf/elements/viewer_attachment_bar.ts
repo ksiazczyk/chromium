@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viewer attachment bar element
+// summary: Lit element that displays PDF attachments and flags when any attachment exceeds the size limit.
+// ---
+
 import './viewer_attachment.js';
 
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

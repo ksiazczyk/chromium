@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive bubble element
+// summary: Lit custom element managing the Save to Drive bubble, including upload progress display, state-based actions, anchoring, and auto-dismiss behavior.
+// ---
+
 import './icons.html.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search highlight utilities
+// summary: Utilities that highlight search query matches in print preview elements and show result count bubbles for select options.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import type {Range} from 'chrome://resources/js/search_highlight_utils.js';

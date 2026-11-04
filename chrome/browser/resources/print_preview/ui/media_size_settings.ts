@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media size settings element
+// summary: Lit element for the print preview media size setting, selecting the matching printer option and resetting incompatible sticky values to the default.
+// ---
+
 import './settings_section.js';
 import './settings_select.js';
 

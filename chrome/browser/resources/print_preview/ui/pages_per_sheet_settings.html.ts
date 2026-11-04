@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pages per sheet settings HTML template
+// summary: Lit HTML template showing a select control with page-per-sheet choices of 1, 2, 4, 6, 9, and 16.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PagesPerSheetSettingsElement} from './pages_per_sheet_settings.js';

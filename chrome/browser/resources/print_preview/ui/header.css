@@ -8,6 +8,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Header styles
+summary: Styles the print preview header, laying out the title, summary text and managed icon with light scheme handling.
+*/
+
 :host {
   align-items: center;
   display: flex;

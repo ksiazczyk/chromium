@@ -9,6 +9,12 @@
  * #include=print-preview-shared cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Other options settings styles
+summary: Lit CSS for the print preview other options settings section, hiding section titles except for the first visible option.
+*/
+
 print-preview-settings-section:not(.first-visible) .title {
   display: none;
 }

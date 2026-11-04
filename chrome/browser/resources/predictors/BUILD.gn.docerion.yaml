@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Predictors WebUI GN build configuration
+summary: Defines the GN build for the predictors WebUI, listing static files, TypeScript sources, dependencies, and trusted WebUI context.

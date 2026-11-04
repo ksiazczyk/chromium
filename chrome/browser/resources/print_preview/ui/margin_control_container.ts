@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview margin control container element
+// summary: Lit element coordinating the four margin controls, handling drag interactions, and syncing custom margins with print preview settings.
+// ---
+
 import './margin_control.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

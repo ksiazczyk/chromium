@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print destination matching
+// summary: Provides the DestinationMatch class that tests whether a print destination matches given ID and display name regular expressions.
+// ---
+
 import type {Destination} from './destination.js';
 import {PrinterType} from './destination.js';
 

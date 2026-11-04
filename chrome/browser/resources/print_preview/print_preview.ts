@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview module exports
+// summary: Barrel module re-exporting print preview data, UI, and native layer symbols for WebUI consumers.
+// ---
+
 export {CrButtonElement} from 'chrome://resources/cr_elements/cr_button/cr_button.js';
 export {CrCheckboxElement} from 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';
 export {IconsetMap} from 'chrome://resources/cr_elements/cr_icon/iconset_map.js';

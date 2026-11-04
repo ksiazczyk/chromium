@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared CSS variables for PDF viewer elements
+summary: Defines shared CSS custom properties for the PDF viewer, including ink icon colors and text annotation sizing variables.
+*/
+
 html {
   --iron-icon-height: 20px;
   --iron-icon-width: 20px;

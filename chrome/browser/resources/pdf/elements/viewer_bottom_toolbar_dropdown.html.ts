@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viewer bottom toolbar dropdown HTML template
+// summary: Lit HTML template rendering a dropdown button that toggles a slotted menu with accessibility attributes.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Other options settings element
+// summary: Lit element managing the print preview checkbox options and syncing them to settings with debounced updates and policy-managed state.
+// ---
+
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import './settings_section.js';
 import '/strings.m.js';

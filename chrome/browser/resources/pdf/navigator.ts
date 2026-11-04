@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF link navigation
+// summary: Implements navigation for links inside and outside the PDF, opening URLs in the current tab, a new tab, or a new window via browser APIs.
+// ---
+
 import type {BrowserApi} from './browser_api.js';
 import type {OpenPdfParams, OpenPdfParamsParser} from './open_pdf_params_parser.js';
 import type {Viewport} from './viewport.js';

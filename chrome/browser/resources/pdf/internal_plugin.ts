@@ -6,6 +6,12 @@
  * @fileoverview PDF plugin native API.
  */
 
+// ---docerion
+// type: source
+// title: PDF plugin native API interface
+// summary: Defines the PdfPluginElement interface for posting messages to the PDF plugin element.
+// ---
+
 /** A more specific interface for the PDF plugin. */
 export interface PdfPluginElement extends HTMLEmbedElement {
   postMessage(message: unknown, transfer?: Transferable[]): void;

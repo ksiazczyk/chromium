@@ -11,6 +11,12 @@
  * #include=cr-hidden-style-lit cr-shared-style-lit cr-scrollable-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the print preview sidebar
+summary: Lit CSS styling the print preview sidebar container, scroll shadows, and settings section spacing, including dark mode support.
+*/
+
 :host {
   background-color: white;
   border-inline-start: var(--print-preview-settings-border);

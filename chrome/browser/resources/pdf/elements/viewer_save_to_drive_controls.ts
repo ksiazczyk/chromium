@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viewer save to Drive controls element
+// summary: Lit element providing save-to-Drive controls in the PDF viewer, with progress ring, upload state handling, and a save action menu.
+// ---
+
 import 'chrome://resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import './circular_progress_ring.js';

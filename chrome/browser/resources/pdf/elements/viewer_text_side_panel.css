@@ -12,6 +12,12 @@
  * #include=md-select-lit side-panel-shared pdf-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: PDF viewer text side panel styles
+summary: Styles the text annotation side panel, laying out its font, text styles, alignment, and color sections.
+*/
+
 /* Different styling for margin vs the ink side panel. */
 h2 {
   margin-inline-start: 0;

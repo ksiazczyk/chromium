@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink text observer mixin
+// summary: Mixin that lets PDF viewer Lit elements observe and react to text attribute changes from Ink2Manager.
+// ---
+
 import {assertNotReached} from 'chrome://resources/js/assert.js';
 import {EventTracker} from 'chrome://resources/js/event_tracker.js';
 import type {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

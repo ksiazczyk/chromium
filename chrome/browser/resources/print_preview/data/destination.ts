@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print destination data model
+// summary: Defines the Destination class along with origin, printer type and color mode enums, and helpers for creating and keying recent destinations in print preview.
+// ---
+
 import '/strings.m.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

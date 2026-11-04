@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advanced options settings element
+// summary: Lit custom element print-preview-advanced-options-settings that shows a button to open the advanced settings dialog for a destination.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import './advanced_settings_dialog.js';
 import './settings_section.js';

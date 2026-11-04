@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: More settings element
+// summary: Lit element for the print preview more settings expander, toggling advanced options and recording expand and collapse clicks as UI metrics.
+// ---
+
 import 'chrome://resources/cr_elements/cr_expand_button/cr_expand_button.js';
 import '/strings.m.js';
 

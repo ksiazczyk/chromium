@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Scrollbar styles
+summary: CSS that styles webkit scrollbars in the PDF viewer, kept in sync with native scrollbar code via lint markers.
+*/
+
 /* LINT.IfChange(Scrollbar) */
 ::-webkit-scrollbar {
   --scrollbar-size: 14px;

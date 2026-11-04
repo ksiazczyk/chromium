@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview PDF viewer element
+// summary: Implements the print preview PDF viewer element with trusted plugin URL validation, key event handling and toolbar management.
+// ---
+
 import './elements/viewer_error_dialog.js';
 import './elements/viewer_page_indicator.js';
 import './elements/viewer_zoom_toolbar.js';

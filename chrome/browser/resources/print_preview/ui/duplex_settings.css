@@ -10,6 +10,12 @@
  * #include=print-preview-shared cr-hidden-style-lit md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Duplex settings styles
+summary: Styles the duplex printing settings section, including the duplex mode select dropdown and RTL adjustments.
+*/
+
 :host {
   --duplex-icon-side-padding: 8px;
   --duplex-icon-size: 16px;

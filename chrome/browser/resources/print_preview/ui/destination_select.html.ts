@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Destination select HTML template
+// summary: Lit HTML template for the destination select settings section, rendering recent destinations, Save as PDF, and no-destination options.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {DestinationSelectElement} from './destination_select.js';

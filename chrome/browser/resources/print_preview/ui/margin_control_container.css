@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Print preview margin control container styles
+summary: Styles that position the margin control container over the preview and set the cursor while dragging margins.
+*/
+
 :host {
   display: block;
   left: 0;

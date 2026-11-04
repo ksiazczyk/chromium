@@ -9,6 +9,12 @@
  * #include=cr-input-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Print preview margin control styles
+summary: Styles for a single margin control, including its dashed drag line, resize cursors, and measurement input box theming.
+*/
+
 :host {
   display: block;
   position: absolute;

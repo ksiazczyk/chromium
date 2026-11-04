@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer icon set
+// summary: Defines the PDF iconset with inline SVG icon paths for use across the PDF viewer UI.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_iconset.js';
 
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';

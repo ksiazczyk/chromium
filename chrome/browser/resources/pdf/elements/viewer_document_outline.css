@@ -8,6 +8,12 @@
  * #include=pdf-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: PDF viewer document outline styles
+summary: Lit CSS for the document outline element, setting block display and padding for the outline panel.
+*/
+
 :host {
   display: block;
   padding-inline-end: 20px;

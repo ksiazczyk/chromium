@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer utility functions
+// summary: Utility helpers for key event modifiers, text style shortcuts, editable-element focus checks and Save to Drive URLs.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';
 

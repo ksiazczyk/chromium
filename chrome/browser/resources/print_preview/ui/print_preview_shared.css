@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Print preview shared styles
+summary: Shared CSS for print preview components, defining styles for selects, checkboxes, inputs, settings sections, and dialogs.
+*/
+
 /* Default state ********************************************************/
 select.md-select {
   margin-bottom: 2px;

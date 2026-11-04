@@ -7,6 +7,12 @@
  * #import=./shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Text styles selector styles
+summary: Styles for the PDF text styles selector, including active-state coloring for its icon buttons.
+*/
+
 :host {
   display: flex;
   gap: var(--text-styles-selector-gap, 16px);

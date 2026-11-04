@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scaling settings HTML template
+// summary: Lit HTML template for the scaling settings section, with a scaling type dropdown and a collapsible custom scale input.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {ScalingType} from '../data/scaling.js';

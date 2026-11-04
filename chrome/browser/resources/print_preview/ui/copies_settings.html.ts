@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview copies settings template
+// summary: Lit HTML template for the copies settings element, rendering a number input with a collate checkbox option.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CopiesSettingsElement} from './copies_settings.js';

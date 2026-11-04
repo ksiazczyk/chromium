@@ -9,6 +9,12 @@
  * #include=print-preview-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Number settings section styles
+summary: Lit CSS styles for the print preview numeric settings section, sizing the cr-input and suffix slot within the settings row.
+*/
+
 :host {
   /* Width = 3 digits + space + cr-input-padding-end/start */
   --cr-input-width: calc(4em + 16px);

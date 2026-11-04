@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer side navigation element
+// summary: Lit element managing the sidenav tabs for thumbnails, document outline and attachments, computing the visible tabs from the document's bookmarks and attachments.
+// ---
+
 import './icons.html.js';
 import './viewer_attachment_bar.js';
 import './viewer_document_outline.js';

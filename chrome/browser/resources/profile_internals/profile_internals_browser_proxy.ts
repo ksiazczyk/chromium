@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy and profile state types for Profile Internals
+// summary: Defines profile state types and the browser proxy the debug page uses to request the profiles list via chrome.send.
+// ---
+
 export interface KeepAlive {
   origin: string;
   count: number;

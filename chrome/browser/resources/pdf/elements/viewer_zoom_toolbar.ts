@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer zoom toolbar element
+// summary: Lit element for the PDF viewer's zoom toolbar that toggles fit-to-page and fit-to-width, fires zoom-in and zoom-out events, and manages visibility and keyboard navigation.
+// ---
+
 import 'chrome://resources/cr_elements/icons.html.js';
 import './icons.html.js';
 import './viewer_zoom_button.js';

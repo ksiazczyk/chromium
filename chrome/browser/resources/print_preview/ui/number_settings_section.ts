@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview number settings section element
+// summary: Lit element providing a validated numeric input section for print preview settings, with min/max bounds, default value fallback, and error hints.
+// ---
+
 import 'chrome://resources/cr_elements/cr_input/cr_input.js';
 import './settings_section.js';
 

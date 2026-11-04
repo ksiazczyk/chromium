@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer download controls template
+// summary: Lit HTML template with a save icon button and an action menu offering downloads of the edited or original PDF.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {ViewerDownloadControlsElement} from './viewer_download_controls.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource Prefetch Predictor WebUI logic
+// summary: Requests the resource prefetch predictor database from the backend and renders origin data, including hits, misses, and scores, in a table.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 

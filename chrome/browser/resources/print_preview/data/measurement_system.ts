@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Measurement system unit conversion
+// summary: Converts point measurements to and from metric or imperial local units, handling delimiters, precision and unit symbols for print preview.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 /**

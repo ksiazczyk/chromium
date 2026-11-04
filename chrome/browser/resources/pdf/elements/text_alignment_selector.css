@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Text alignment selector styles
+summary: Styles for the PDF text alignment selector, laying out its radio group of alignment buttons.
+*/
+
 :host {
   display: inline-block;
 }

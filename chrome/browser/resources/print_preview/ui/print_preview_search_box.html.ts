@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview search box HTML template
+// summary: Lit HTML template for the print preview search box, rendering a cr-input with a search icon and a clear button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PrintPreviewSearchBoxElement} from './print_preview_search_box.js';

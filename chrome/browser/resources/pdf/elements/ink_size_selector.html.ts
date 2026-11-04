@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink size selector HTML template
+// summary: Lit HTML template that renders the current pen or highlighter size options as a radio group of selectable icon buttons.
+// ---
+
 import './icons.html.js';
 import './selectable_icon_button.js';
 import 'chrome://resources/cr_elements/cr_radio_group/cr_radio_group.js';

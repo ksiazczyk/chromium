@@ -1,0 +1,4 @@
+# Docerion header of profile_internals.html.
+type: source
+title: Profile Internals debug page HTML entry point
+summary: Entry HTML page that hosts the profile-internals-app element and loads its module script.

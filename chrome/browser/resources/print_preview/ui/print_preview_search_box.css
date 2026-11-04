@@ -11,6 +11,12 @@
  * #include=print-preview-shared cr-input-style-lit cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Print preview search box styles
+summary: CSS for the print preview search box, styling the search input, icon size, and clear search button placement.
+*/
+
 :host {
   display: flex;
   --cr-input-error-display: none;

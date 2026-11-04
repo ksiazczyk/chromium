@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer text bottom toolbar HTML template
+// summary: Lit HTML template rendering typeface, size, text styles, alignment, and color controls for the text annotation bottom toolbar.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import './icons.html.js';
 import './ink_color_selector.js';
