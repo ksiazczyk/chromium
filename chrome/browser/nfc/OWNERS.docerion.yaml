@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: NFC directory owners
+summary: OWNERS file inheriting owners from services/device/nfc and assigning permissions owners to permission context files.

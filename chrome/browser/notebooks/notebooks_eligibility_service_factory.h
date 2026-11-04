@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks eligibility service factory header
+// summary: Declares the NotebooksEligibilityServiceFactory keyed service factory that returns the per-profile notebooks eligibility service.
+// ---
+
 #ifndef CHROME_BROWSER_NOTEBOOKS_NOTEBOOKS_ELIGIBILITY_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_NOTEBOOKS_NOTEBOOKS_ELIGIBILITY_SERVICE_FACTORY_H_
 

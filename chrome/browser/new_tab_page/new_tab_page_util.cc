@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page utility implementations
+// summary: Implements helpers that determine which NTP modules and shortcuts are enabled per profile, OS, locale and feature flags, plus staleness tracking.
+// ---
+
 #include "chrome/browser/new_tab_page/new_tab_page_util.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive service factory implementation
+// summary: Builds per-profile DriveService instances and wires in URL loader, identity, and segmentation platform dependencies.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/file_suggestion/drive_service_factory.h"
 
 #include "chrome/browser/browser_process.h"

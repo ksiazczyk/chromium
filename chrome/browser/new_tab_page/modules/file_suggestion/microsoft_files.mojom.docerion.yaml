@@ -1,0 +1,4 @@
+# Docerion header of microsoft_files.mojom.
+type: source
+title: Microsoft files Mojom interface
+summary: Defines the browser-side Mojo interface that fetches document suggestions from a user's SharePoint and OneDrive for the new tab page.

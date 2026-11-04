@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandboxed network change notifier Windows browser test
+// summary: Windows browser test that installs and removes network adapters to exercise network change notifications from the sandboxed network service.
+// ---
+
 #include "services/network/public/mojom/network_service.mojom.h"
 
 // clang-format off

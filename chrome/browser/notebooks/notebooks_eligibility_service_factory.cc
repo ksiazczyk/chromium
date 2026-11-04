@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks eligibility service factory implementation
+// summary: Implements the profile-keyed factory that creates NotebooksEligibilityService instances, marking incognito profiles as ineligible and wiring in the identity manager.
+// ---
+
 #include "chrome/browser/notebooks/notebooks_eligibility_service_factory.h"
 
 #include <memory>

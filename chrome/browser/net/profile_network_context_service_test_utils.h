@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient authentication test helper header
+// summary: Declares AmbientAuthenticationTestHelper with helpers for checking ambient authentication policy bits for incognito and guest profiles in tests.
+// ---
+
 #ifndef CHROME_BROWSER_NET_PROFILE_NETWORK_CONTEXT_SERVICE_TEST_UTILS_H_
 #define CHROME_BROWSER_NET_PROFILE_NETWORK_CONTEXT_SERVICE_TEST_UTILS_H_
 

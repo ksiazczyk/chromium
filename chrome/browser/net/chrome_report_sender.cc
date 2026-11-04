@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome report sender implementation
+// summary: Implements SendReport, which POSTs a report to a URL via SimpleURLLoader without saving or sending credentials, invoking success or error callbacks.
+// ---
+
 #include "chrome/browser/net/chrome_report_sender.h"
 
 #include <optional>

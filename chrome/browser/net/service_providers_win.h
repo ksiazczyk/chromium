@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Winsock service provider enumeration for Windows
+// summary: Declares structs and functions to enumerate Winsock namespace and layered service providers on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_NET_SERVICE_PROVIDERS_WIN_H_
 #define CHROME_BROWSER_NET_SERVICE_PROVIDERS_WIN_H_
 

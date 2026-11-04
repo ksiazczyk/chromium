@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Explicitly allowed ports switch browser test
+// summary: Browser tests verifying that requests to port 79 fail with ERR_UNSAFE_PORT by default and are permitted when the --explicitly-allowed-ports switch is set.
+// ---
+
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 #include "chrome/common/chrome_switches.h"

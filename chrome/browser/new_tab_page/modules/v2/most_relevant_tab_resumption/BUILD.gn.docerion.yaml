@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Most Relevant Tab Resumption mojom bindings
+summary: GN build file defining the mojom bindings target with its sources, public dependencies and C++ typemaps.

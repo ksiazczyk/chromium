@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS probe runner unit tests
+// summary: Unit tests for DnsProbeRunner using fake network contexts and host resolvers to verify probe result evaluation across resolver outcomes.
+// ---
+
 #include "chrome/browser/net/dns_probe_runner.h"
 
 #include <utility>

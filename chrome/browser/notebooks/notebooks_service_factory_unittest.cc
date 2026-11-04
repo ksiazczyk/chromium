@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notebooks service factory unit tests
+// summary: Unit tests verifying the notebooks service falls back to an empty implementation when the feature is disabled or the profile is ineligible.
+// ---
+
 #include "chrome/browser/notebooks/notebooks_service_factory.h"
 
 #include <memory>

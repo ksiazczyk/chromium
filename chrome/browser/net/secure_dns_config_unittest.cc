@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secure DNS config unit tests
+// summary: Unit tests for SecureDnsConfig covering mode parsing, mode-to-string conversion and constructor behavior.
+// ---
+
 #include "chrome/browser/net/secure_dns_config.h"
 
 #include "chrome/browser/net/secure_dns_util.h"

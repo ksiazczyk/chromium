@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: NFC browser build definition
+summary: GN build file defining the nfc source set with the permission context delegate sources and dependencies on base, permissions, and content browser.

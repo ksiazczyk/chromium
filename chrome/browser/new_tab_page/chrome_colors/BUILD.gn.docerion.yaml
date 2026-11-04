@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build file defining the chrome_colors source sets and the generate_colors_info compiled action that produces generated color info.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome network delegate file access rules
+// summary: 'Implements path allowlist checks that decide which local files may be accessed via file: URLs on ChromeOS and Android.'
+// ---
+
 #include "chrome/browser/net/chrome_network_delegate.h"
 
 #include "base/base_paths.h"

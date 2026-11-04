@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System network context manager implementation
+// summary: Implements creation and configuration of the system NetworkContext and global network service state, including proxy, DoH and certificate components.
+// ---
+
 #include "chrome/browser/net/system_network_context_manager.h"
 
 #include <algorithm>

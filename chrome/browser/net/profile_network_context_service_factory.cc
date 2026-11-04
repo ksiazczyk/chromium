@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileNetworkContextServiceFactory implementation
+// summary: Implements the keyed service factory that creates ProfileNetworkContextService instances per browser context, declaring dependencies on NSS, certificate, cookie, and enterprise proxy services.
+// ---
+
 #include "chrome/browser/net/profile_network_context_service_factory.h"
 
 #include "build/build_config.h"

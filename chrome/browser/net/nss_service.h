@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NssService header
+// summary: Declares the NssService keyed service that owns and provides per-BrowserContext access to the NSS certificate database, with ChromeOS-specific members.
+// ---
+
 #ifndef CHROME_BROWSER_NET_NSS_SERVICE_H_
 #define CHROME_BROWSER_NET_NSS_SERVICE_H_
 

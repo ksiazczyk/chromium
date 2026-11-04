@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NssService platform-agnostic implementation
+// summary: Implements the platform-independent part of NssService, fetching the NSS certificate database on the IO thread for testing purposes.
+// ---
+
 #include "chrome/browser/net/nss_service.h"
 
 #include <utility>

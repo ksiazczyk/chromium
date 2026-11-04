@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft auth service factory declaration
+// summary: Declares MicrosoftAuthServiceFactory, a ProfileKeyedServiceFactory that provides per-profile access to the MicrosoftAuthService instance.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_MICROSOFT_AUTH_MICROSOFT_AUTH_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_MICROSOFT_AUTH_MICROSOFT_AUTH_SERVICE_FACTORY_H_
 

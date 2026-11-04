@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QWAC web contents observer header
+// summary: Declares QwacWebContentsObserver and its QwacStatus page data, which track 2-QWAC link header processing and expose the verified certificate.
+// ---
+
 #ifndef CHROME_BROWSER_NET_QWAC_WEB_CONTENTS_OBSERVER_H_
 #define CHROME_BROWSER_NET_QWAC_WEB_CONTENTS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net error tab helper class declaration
+// summary: Declares NetErrorTabHelper, which watches page loads for DNS-related errors, runs DNS probes, and exposes error page support interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_NET_NET_ERROR_TAB_HELPER_H_
 #define CHROME_BROWSER_NET_NET_ERROR_TAB_HELPER_H_
 

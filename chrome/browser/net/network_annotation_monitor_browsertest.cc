@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network annotation monitor browser test
+// summary: Browser test checking that disabled network annotations trigger Regmon policy violations only when the network annotation monitoring feature is enabled.
+// ---
+
 #include "chrome/browser/net/network_annotation_monitor.h"
 
 #include "base/memory/scoped_refptr.h"

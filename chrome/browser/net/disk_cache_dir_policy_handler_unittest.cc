@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disk cache directory policy handler unit tests
+// summary: Unit tests verifying the DiskCacheDir policy handler's default behavior, rejection of invalid values, and expansion of path variables in policy values.
+// ---
+
 #include <string>
 
 #include "base/values.h"

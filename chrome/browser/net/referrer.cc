@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Referrer preconnect learning implementation
+// summary: Implements the Referrer class that learns which subresource hosts to pre-resolve or preconnect to when navigating to a referrer.
+// ---
+
 #include "chrome/browser/net/referrer.h"
 
 #include <limits.h>

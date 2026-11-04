@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secure DNS utility unit tests
+// summary: Unit tests for the secure DNS helpers, covering probe runner configuration and provider filtering by country and feature state.
+// ---
+
 #include "chrome/browser/net/secure_dns_util.h"
 
 #include <string>

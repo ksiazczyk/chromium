@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetInfo network quality estimator holdback browser test
+// summary: Browser test verifying that the save data header holdback experiment reports the expected effective connection type, RTT, and downlink values via the NetInfo web API.
+// ---
+
 #include <string>
 
 #include "base/check.h"

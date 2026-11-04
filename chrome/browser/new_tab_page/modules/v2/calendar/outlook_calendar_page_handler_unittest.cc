@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Outlook calendar page handler unit tests
+// summary: Unit tests for the Outlook calendar page handler covering event fetching, response parsing, and error handling with a test URL loader factory.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/v2/calendar/outlook_calendar_page_handler.h"
 
 #include <vector>

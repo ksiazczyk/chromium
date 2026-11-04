@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyConfigMonitor header
+// summary: Declares ProxyConfigMonitor, which forwards proxy config changes and proxy errors to NetworkContexts and to listening Chrome extensions.
+// ---
+
 #ifndef CHROME_BROWSER_NET_PROXY_CONFIG_MONITOR_H_
 #define CHROME_BROWSER_NET_PROXY_CONFIG_MONITOR_H_
 

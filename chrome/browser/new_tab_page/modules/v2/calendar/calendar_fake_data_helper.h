@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar fake data helper header
+// summary: Declares the CalendarType enum and helper functions that produce fake calendar events and Outlook JSON responses.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_MODULES_V2_CALENDAR_CALENDAR_FAKE_DATA_HELPER_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_MODULES_V2_CALENDAR_CALENDAR_FAKE_DATA_HELPER_H_
 

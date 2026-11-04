@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyConfigMonitor implementation
+// summary: Implements ProxyConfigMonitor, which tracks proxy configuration from profile or local state preferences and pushes updates to NetworkContext proxy config clients.
+// ---
+
 #include "chrome/browser/net/proxy_config_monitor.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk cache directory utility implementation
+// summary: Implements GetDiskCacheDir, which returns the policy-managed disk cache directory from local state after validating it is absolute and free of parent references.
+// ---
+
 #include "chrome/browser/net/disk_cache_dir_util.h"
 
 #include "base/files/file_path.h"

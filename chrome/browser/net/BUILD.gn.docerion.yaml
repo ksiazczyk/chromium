@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for chrome/browser/net
+summary: Defines GN build targets, sources and dependencies for the browser networking code, including proto libraries and platform-specific proxy resolver sources.

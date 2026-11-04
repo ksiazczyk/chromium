@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QWAC web contents observer implementation
+// summary: Fetches and verifies 2-QWAC certificates advertised via link headers on navigations and stores the resulting state on the page.
+// ---
+
 #include "chrome/browser/net/qwac_web_contents_observer.h"
 
 #include "base/metrics/histogram_functions.h"

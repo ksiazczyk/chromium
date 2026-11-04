@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disk cache directory utility unit tests
+// summary: Unit tests covering GetDiskCacheDir behavior for null local state, unset, user-controlled, managed, relative, and parent-referencing paths.
+// ---
+
 #include "chrome/browser/net/disk_cache_dir_util.h"
 
 #include "base/files/file_path.h"

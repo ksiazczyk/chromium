@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Mojo proxy resolver factory header
+// summary: Declares ChromeMojoProxyResolverFactory, a ProxyResolverFactory that proxies to the proxy resolver service and starts it on demand.
+// ---
+
 #ifndef CHROME_BROWSER_NET_CHROME_MOJO_PROXY_RESOLVER_FACTORY_H_
 #define CHROME_BROWSER_NET_CHROME_MOJO_PROXY_RESOLVER_FACTORY_H_
 

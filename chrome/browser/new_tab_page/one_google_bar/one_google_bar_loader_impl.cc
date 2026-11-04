@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneGoogleBarLoaderImpl implementation
+// summary: Implements the network loader that fetches the One Google Bar from the newtab_ogb API and parses SafeHtml-wrapped JSON responses into OneGoogleBarData.
+// ---
+
 #include "chrome/browser/new_tab_page/one_google_bar/one_google_bar_loader_impl.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome accept header browser test
+// summary: Browser test verifying the Accept header Chrome sends for PDF plugin and favicon requests, including optional image codecs.
+// ---
+
 #include "base/feature_list.h"
 #include "base/run_loop.h"
 #include "base/test/bind.h"

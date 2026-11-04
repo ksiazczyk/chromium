@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CertVerifyProc netlog browser tests
+// summary: Browser test base that records net logs and verifies CertVerifyProc events are still logged after certificate verification moved out of the network process.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"

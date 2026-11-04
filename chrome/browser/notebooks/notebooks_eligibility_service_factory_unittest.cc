@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notebooks eligibility service factory unit tests
+// summary: Unit tests verifying eligibility service creation across feature flag states, incognito, system, and guest profiles.
+// ---
+
 #include "chrome/browser/notebooks/notebooks_eligibility_service_factory.h"
 
 #include <memory>

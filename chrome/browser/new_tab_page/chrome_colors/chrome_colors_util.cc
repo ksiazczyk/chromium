@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome colors utility implementation
+// summary: Implements histogram helpers that record which predefined Chrome color or dynamic color is in use on load.
+// ---
+
 #include "chrome/browser/new_tab_page/chrome_colors/chrome_colors_util.h"
 
 #include <algorithm>

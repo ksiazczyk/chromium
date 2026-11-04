@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeNetworkDelegate class declaration
+// summary: 'Declares ChromeNetworkDelegate helpers that determine whether access to a file path is allowed, plus a testing bypass for file: scheme access.'
+// ---
+
 #ifndef CHROME_BROWSER_NET_CHROME_NETWORK_DELEGATE_H_
 #define CHROME_BROWSER_NET_CHROME_NETWORK_DELEGATE_H_
 

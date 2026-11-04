@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for visited_url_ranking
+summary: Allows this directory to include headers from the components/visited_url_ranking dependency.

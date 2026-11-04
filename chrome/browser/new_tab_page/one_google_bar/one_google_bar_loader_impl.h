@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneGoogleBarLoaderImpl header
+// summary: Declares OneGoogleBarLoaderImpl, the OneGoogleBarLoader implementation that issues authenticated URL requests and reports results via callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_ONE_GOOGLE_BAR_ONE_GOOGLE_BAR_LOADER_IMPL_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_ONE_GOOGLE_BAR_ONE_GOOGLE_BAR_LOADER_IMPL_H_
 

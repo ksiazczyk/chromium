@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive suggestion handler implementation
+// summary: Forwards Mojo GetFiles requests from the new tab page UI to the profile's DriveService.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/file_suggestion/drive_suggestion_handler.h"
 
 #include "chrome/browser/new_tab_page/modules/file_suggestion/drive_service.h"

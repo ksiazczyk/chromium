@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth cache status observer implementation
+// summary: Observes completed resource loads to record a use counter when server HTTP auth is used on cross-partition subresource requests.
+// ---
+
 #include "chrome/browser/net/http_auth_cache_status.h"
 
 #include "base/check.h"

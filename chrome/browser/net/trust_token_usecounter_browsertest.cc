@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Token UseCounter browser tests
+// summary: Browser tests verifying that Trust Token parameters passed via fetch, XHR, and iframe loads increment the corresponding Blink use counter metrics.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

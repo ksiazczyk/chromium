@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneGoogleBarService implementation
+// summary: Implements the OneGoogleBarService that loads, caches and hands out OneGoogleBarData and clears the cache when the sign-in status changes.
+// ---
+
 #include "chrome/browser/new_tab_page/one_google_bar/one_google_bar_service.h"
 
 #include <utility>

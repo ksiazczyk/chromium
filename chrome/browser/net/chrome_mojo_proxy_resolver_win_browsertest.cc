@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows Mojo proxy resolver service browser tests
+// summary: Browser tests checking that the Windows system proxy resolver service starts on demand, is reused across resolutions, and stops when idle.
+// ---
+
 #include "chrome/browser/net/chrome_mojo_proxy_resolver_win.h"
 
 #include "base/run_loop.h"

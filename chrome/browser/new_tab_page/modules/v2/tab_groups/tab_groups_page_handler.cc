@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab groups page handler implementation
+// summary: Implements TabGroupsPageHandler, building tab group data with elapsed-time text, device names and favicons from the saved tab group sync service.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/v2/tab_groups/tab_groups_page_handler.h"
 
 #include "base/i18n/message_formatter.h"

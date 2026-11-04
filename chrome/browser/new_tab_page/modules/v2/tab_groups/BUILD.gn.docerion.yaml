@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the tab groups NTP module
+summary: GN build file defining the mojo_bindings target that compiles tab_groups.mojom with its Mojo dependencies.

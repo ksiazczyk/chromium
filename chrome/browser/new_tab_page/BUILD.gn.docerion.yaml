@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: New Tab Page build configuration
+summary: Defines GN source sets and dependencies for the desktop New Tab Page backend, including its public API and implementation targets.

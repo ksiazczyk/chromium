@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the network probe message
+// summary: Unit tests covering probe request generation, packet headers, encode and parse round trips, checksums and encoding symmetry.
+// ---
+
 
 #include <stdint.h>
 #include <string.h>

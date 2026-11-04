@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NssServiceFactory implementation
+// summary: Implements the profile-keyed service factory that builds NssService instances per browser context, including separate instances for incognito and guest profiles.
+// ---
+
 #include "chrome/browser/net/nss_service_factory.h"
 
 #include "base/no_destructor.h"

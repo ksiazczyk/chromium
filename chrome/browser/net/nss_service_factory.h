@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NssServiceFactory header
+// summary: Declares NssServiceFactory, a ProfileKeyedServiceFactory exposing GetForContext to return the NssService for a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_NET_NSS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_NET_NSS_SERVICE_FACTORY_H_
 

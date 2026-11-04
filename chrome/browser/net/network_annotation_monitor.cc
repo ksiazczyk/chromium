@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network annotation monitor implementation
+// summary: Implements the ChromeOS network annotation monitor that reports policy violations to Regmon when blocklisted network annotations are used.
+// ---
+
 #include "chrome/browser/net/network_annotation_monitor.h"
 
 #include <utility>

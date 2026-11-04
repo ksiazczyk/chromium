@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page modules interactive UI tests
+// summary: Interactive browser tests that verify new tab page module rendering, menus, dismissal and disable actions, and module links in the UI.
+// ---
+
 #include <utility>
 #include <vector>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page utility browser tests
+// summary: Browser tests for new_tab_page_util covering module enablement, enterprise shortcut policies, staleness counters and auto-removal metrics.
+// ---
+
 #include "chrome/browser/new_tab_page/new_tab_page_util.h"
 
 #include <memory>

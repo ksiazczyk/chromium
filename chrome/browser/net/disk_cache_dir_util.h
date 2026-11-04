@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk cache directory utility header
+// summary: Declares GetDiskCacheDir, a helper that returns the managed disk cache directory from local state preferences or an empty path when the setting is invalid.
+// ---
+
 #ifndef CHROME_BROWSER_NET_DISK_CACHE_DIR_UTIL_H_
 #define CHROME_BROWSER_NET_DISK_CACHE_DIR_UTIL_H_
 

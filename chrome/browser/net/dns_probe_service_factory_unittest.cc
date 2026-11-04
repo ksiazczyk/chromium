@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS probe service factory unit tests
+// summary: Unit tests for the DNS probe service covering probe results, cached result expiry, and DNS config changes using fake resolvers and a test tick clock.
+// ---
+
 #include "chrome/browser/net/dns_probe_service_factory.h"
 
 #include <memory>

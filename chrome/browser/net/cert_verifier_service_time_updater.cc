@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cert verifier service time updater implementation
+// summary: Implements CertVerifierServiceTimeUpdater, which pushes network time updates from the NetworkTimeTracker to the cert verifier service.
+// ---
+
 #include "chrome/browser/net/cert_verifier_service_time_updater.h"
 
 #include "base/time/time.h"

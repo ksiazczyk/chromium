@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device bound session prewarmer
+// summary: Implements proactive pre-warm refreshes of Device Bound Session Credentials cookies for a URL, with scheduling, retry handling, and outcome metric recording.
+// ---
+
 #include "chrome/browser/net/device_bound_session_prewarmer.h"
 
 #include <algorithm>

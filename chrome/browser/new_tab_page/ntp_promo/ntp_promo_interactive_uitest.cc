@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTP promo interactive UI tests
+// summary: Interactive browser tests verifying the display, dismissal, and metrics of new tab page promos in Chrome's user education flow.
+// ---
+
 #include <sstream>
 #include <string>
 #include <string_view>

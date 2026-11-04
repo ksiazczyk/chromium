@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network probe message implementation
+// summary: Implements generation, encoding, checksumming and parsing of network probe packets exchanged between probe clients and probe servers.
+// ---
+
 
 #include "chrome/browser/net/probe_message.h"
 

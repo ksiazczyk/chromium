@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network quality NetInfo browser test
+// summary: Browser test verifying that the NetInfo JavaScript API reports downlink kbps and RTT estimates consistent with the browser's network quality tracker.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"

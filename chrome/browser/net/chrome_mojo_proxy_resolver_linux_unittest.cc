@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux system proxy resolver unit test
+// summary: Unit test for the Linux portal-based proxy resolver using mock D-Bus objects to simulate Lookup responses and errors.
+// ---
+
 #include "chrome/browser/net/chrome_mojo_proxy_resolver_linux.h"
 
 #include <memory>

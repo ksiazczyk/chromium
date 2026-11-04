@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS probe service interface
+// summary: Declares the DnsProbeService keyed service interface that probes DNS configurations to determine the probable cause of DNS-related page load errors.
+// ---
+
 #ifndef CHROME_BROWSER_NET_DNS_PROBE_SERVICE_H_
 #define CHROME_BROWSER_NET_DNS_PROBE_SERVICE_H_
 

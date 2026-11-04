@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth cache status observer header
+// summary: Declares HttpAuthCacheStatus, a WebContentsObserver that helps determine server HTTP auth usage on a top-level frame and is owned by TabFeatures.
+// ---
+
 #ifndef CHROME_BROWSER_NET_HTTP_AUTH_CACHE_STATUS_H_
 #define CHROME_BROWSER_NET_HTTP_AUTH_CACHE_STATUS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie policy browser tests
+// summary: Browser tests verifying Chrome cookie policy behavior such as third-party cookie blocking across hosts and storage partitioning.
+// ---
+
 #include "base/feature_list.h"
 #include "base/functional/bind.h"
 #include "base/functional/callback_helpers.h"

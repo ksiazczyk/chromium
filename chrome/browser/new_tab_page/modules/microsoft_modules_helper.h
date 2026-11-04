@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft modules helper header
+// summary: Declares helper functions that resolve file extensions, file names, and file icon URLs from MIME types for Microsoft new tab page modules.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_MODULES_MICROSOFT_MODULES_HELPER_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_MODULES_MICROSOFT_MODULES_HELPER_H_
 

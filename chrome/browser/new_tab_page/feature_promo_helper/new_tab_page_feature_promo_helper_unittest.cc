@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page feature promo helper unit tests
+// summary: Unit tests for the New Tab Page feature promo helper covering automatic Customize Chrome panel opening conditions and promo eligibility histogram values.
+// ---
+
 #include "chrome/browser/new_tab_page/feature_promo_helper/new_tab_page_feature_promo_helper.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network delegate file access unit tests
+// summary: Unit tests covering ChromeNetworkDelegate::IsAccessAllowed on ChromeOS, Android, and other platforms, including profile path and allowlist cases.
+// ---
+
 #include "chrome/browser/net/chrome_network_delegate.h"
 
 #include "base/base_paths.h"

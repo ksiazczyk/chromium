@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page modules unit tests
+// summary: Unit tests for building module ID details and module enablement checks using a testing profile, identity test environment, and scoped feature lists.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/new_tab_page_modules.h"
 
 #include <algorithm>

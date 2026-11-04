@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cert verifier service time updater header
+// summary: Declares CertVerifierServiceTimeUpdater, an observer that forwards network time changes to the cert verifier service.
+// ---
+
 #ifndef CHROME_BROWSER_NET_CERT_VERIFIER_SERVICE_TIME_UPDATER_H_
 #define CHROME_BROWSER_NET_CERT_VERIFIER_SERVICE_TIME_UPDATER_H_
 

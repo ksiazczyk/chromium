@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux system proxy resolver header
+// summary: Declares ChromeMojoProxyResolverLinux, a SystemProxyResolver that resolves proxies through the XDG desktop portal when Chrome is sandboxed.
+// ---
+
 #ifndef CHROME_BROWSER_NET_CHROME_MOJO_PROXY_RESOLVER_LINUX_H_
 #define CHROME_BROWSER_NET_CHROME_MOJO_PROXY_RESOLVER_LINUX_H_
 

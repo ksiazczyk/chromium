@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab groups page handler class declaration
+// summary: Declares TabGroupsPageHandler, the Mojo PageHandler implementation for the new tab page tab groups module, with helpers for filtering and ordering groups.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_MODULES_V2_TAB_GROUPS_TAB_GROUPS_PAGE_HANDLER_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_MODULES_V2_TAB_GROUPS_TAB_GROUPS_PAGE_HANDLER_H_
 

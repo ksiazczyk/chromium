@@ -1,0 +1,4 @@
+# Docerion header of calendar_data.mojom.
+type: source
+title: Calendar data Mojom structs
+summary: Defines Mojom structs for calendar event attachments and events shared by the new tab page calendar module.

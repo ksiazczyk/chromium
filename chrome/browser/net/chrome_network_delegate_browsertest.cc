@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network delegate file access browser tests
+// summary: 'ChromeOS browser tests verifying that file: navigations to disallowed paths and symlinks are rejected with ERR_ACCESS_DENIED.'
+// ---
+
 #include "chrome/browser/net/chrome_network_delegate.h"
 
 #include "base/base_paths.h"

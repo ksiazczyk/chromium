@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server certificate database service factory
+// summary: Profile-keyed service factory that creates and provides a ServerCertificateDatabaseService per browser context.
+// ---
+
 #include "chrome/browser/net/server_certificate_database_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

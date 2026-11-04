@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake NSS service implementation
+// summary: Implements a fake NssService with temporary NSS test slots, including optional public, private, and system slots on ChromeOS.
+// ---
+
 #include "chrome/browser/net/fake_nss_service.h"
 
 #include <memory>

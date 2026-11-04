@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Notebooks directory DEPS include rules
+summary: Grants the notebooks service factory sources access to internal notebooks component headers while restricting them for the rest of the directory.

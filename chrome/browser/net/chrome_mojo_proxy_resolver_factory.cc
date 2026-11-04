@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Mojo proxy resolver factory implementation
+// summary: Implements a proxy resolver factory that forwards PAC requests to the proxy resolver service, launching the sandboxed service process as needed.
+// ---
+
 #include "chrome/browser/net/chrome_mojo_proxy_resolver_factory.h"
 
 #include <utility>

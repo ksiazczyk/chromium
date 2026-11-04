@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneGoogleBarServiceFactory implementation
+// summary: Implements the profile-keyed factory that builds OneGoogleBarService instances with an authenticated loader, identity manager and cookie settings.
+// ---
+
 #include "chrome/browser/new_tab_page/one_google_bar/one_google_bar_service_factory.h"
 
 #include <optional>

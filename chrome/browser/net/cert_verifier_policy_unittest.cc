@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cert verifier policy unit tests
+// summary: Unit tests verifying that managed and user preferences for CA platform integration are reflected in ProfileNetworkContextService certificate policies.
+// ---
+
 #include "chrome/browser/net/profile_network_context_service.h"
 #include "chrome/common/pref_names.h"
 #include "chrome/test/base/testing_profile.h"

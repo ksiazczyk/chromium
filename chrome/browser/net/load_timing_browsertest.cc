@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Load timing browser test
+// summary: Browser test verifying that net::LoadTimingInfo is correctly hooked up to the Navigation Timing API by comparing DNS, connect, SSL, and response timings.
+// ---
+
 #include <memory>
 #include <string>
 

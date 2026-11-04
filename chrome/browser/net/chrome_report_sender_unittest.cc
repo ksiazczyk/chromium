@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome report sender unit tests
+// summary: Unit tests using a fake URL loader factory to verify SendReport uploads to the given URL, uses POST, and omits cookies and credentials.
+// ---
+
 #include "chrome/browser/net/chrome_report_sender.h"
 
 #include <vector>

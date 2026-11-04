@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS probe test utilities implementation
+// summary: Implements fake and hanging host resolvers plus fake network contexts used as test doubles for DNS probe service tests.
+// ---
+
 #include "chrome/browser/net/dns_probe_test_util.h"
 
 #include <stdint.h>

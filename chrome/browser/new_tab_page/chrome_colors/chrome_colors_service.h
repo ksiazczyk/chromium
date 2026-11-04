@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome colors service header
+// summary: Declares ChromeColorsService, a keyed service that applies Chrome colors or the default theme and supports reverting or confirming those changes.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_CHROME_COLORS_CHROME_COLORS_SERVICE_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_CHROME_COLORS_CHROME_COLORS_SERVICE_H_
 

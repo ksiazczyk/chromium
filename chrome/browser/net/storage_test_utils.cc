@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage access test utilities implementation
+// summary: Implements helpers that set and verify cookies, storage types, cross-tab info and storage access on frames and workers in browser tests.
+// ---
+
 #include "chrome/browser/net/storage_test_utils.h"
 
 #include <string>

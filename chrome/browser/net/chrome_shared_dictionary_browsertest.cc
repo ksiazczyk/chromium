@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared dictionary browser tests
+// summary: Browser tests covering shared dictionary compression, storage, deletion, and access observation for Chrome profiles.
+// ---
+
 #include <optional>
 #include <string>
 #include <string_view>

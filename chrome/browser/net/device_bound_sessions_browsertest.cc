@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device bound sessions browser tests
+// summary: Browser tests exercising device bound session credentials, including session access observation, use counter metrics, and conditional extension interactions.
+// ---
+
 #include "base/functional/callback.h"
 #include "base/json/json_writer.h"
 #include "base/strings/escape.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the profile network context service
+// summary: Browser tests for ProfileNetworkContextService covering network context configuration, certificate policies, cookies and related preferences.
+// ---
+
 #include "chrome/browser/net/profile_network_context_service.h"
 
 #include <algorithm>

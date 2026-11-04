@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: New Tab Page prefs build target
+summary: GN build file defining a source_set that contains ntp_pref_names.h, kept separate so an assert in new_tab_page/BUILD.gn does not need to be removed.

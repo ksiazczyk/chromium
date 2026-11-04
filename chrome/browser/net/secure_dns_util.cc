@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure DNS utilities
+// summary: Helper functions that filter DoH providers by country and feature flags, record validation and probe histograms, and build a DNS probe runner.
+// ---
+
 #include "chrome/browser/net/secure_dns_util.h"
 
 #include <algorithm>

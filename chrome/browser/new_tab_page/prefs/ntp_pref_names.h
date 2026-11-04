@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page preference name constants
+// summary: Header declaring constexpr pref name strings in the ntp_prefs namespace covering NTP shortcuts, modules, doodles, staleness tracking, and tile usage metrics.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_PREFS_NTP_PREF_NAMES_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_PREFS_NTP_PREF_NAMES_H_
 

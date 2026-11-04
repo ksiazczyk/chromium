@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page modules test support
+// summary: Declares a mock history service and feature-list helpers used by New Tab Page modules unit and UI tests.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_MODULES_TEST_SUPPORT_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_MODULES_TEST_SUPPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure DNS policy handler header
+// summary: Declares SecureDnsPolicyHandler, which handles the DnsOverHttpsMode, DnsOverHttpsTemplates and DnsOverHttpsSalt policies.
+// ---
+
 #ifndef CHROME_BROWSER_NET_SECURE_DNS_POLICY_HANDLER_H_
 #define CHROME_BROWSER_NET_SECURE_DNS_POLICY_HANDLER_H_
 

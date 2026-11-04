@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTP modules test support implementation
+// summary: Provides a mock history service and helpers that compute disabled feature lists for new tab page module tests.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/test_support.h"
 
 #include <algorithm>

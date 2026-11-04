@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Net error tab helper unit tests
+// summary: Unit tests using a mock probe to verify DNS probe statuses, diagnostics dialog invocation, and offline download behavior of NetErrorTabHelper.
+// ---
+
 #include "chrome/browser/net/net_error_tab_helper.h"
 
 #include <memory>

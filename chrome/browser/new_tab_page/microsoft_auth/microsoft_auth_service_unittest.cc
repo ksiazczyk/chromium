@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Microsoft auth service unit tests
+// summary: Unit tests for MicrosoftAuthService covering setting and clearing access tokens, expiration handling, and observer notifications using a testing profile and mock observer.
+// ---
+
 #include "chrome/browser/new_tab_page/microsoft_auth/microsoft_auth_service.h"
 
 #include "chrome/browser/new_tab_page/microsoft_auth/microsoft_auth_service_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cert verifier service browser tests
+// summary: Browser tests covering the cert verifier service, including Chrome Root Store behavior and platform certificate integration on ChromeOS.
+// ---
+
 #include <optional>
 
 #include "base/strings/string_number_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system proxy resolver service client
+// summary: Implements ChromeMojoProxyResolverWin, which launches the Windows system proxy resolver service and drops it after an idle timeout.
+// ---
+
 #include "chrome/browser/net/chrome_mojo_proxy_resolver_win.h"
 
 #include "base/no_destructor.h"

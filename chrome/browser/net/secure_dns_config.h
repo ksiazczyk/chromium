@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure DNS configuration header
+// summary: Declares SecureDnsConfig, which holds the secure DNS mode, DoH servers, management mode, and fallback DoH nameservers.
+// ---
+
 #ifndef CHROME_BROWSER_NET_SECURE_DNS_CONFIG_H_
 #define CHROME_BROWSER_NET_SECURE_DNS_CONFIG_H_
 

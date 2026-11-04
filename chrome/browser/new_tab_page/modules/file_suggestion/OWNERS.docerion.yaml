@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for Mojom files
+summary: Routes review of all Mojom files in this module to the IPC security owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneGoogleBarData implementation
+// summary: Defines the default constructors, destructors and assignment operators for the OneGoogleBarData struct.
+// ---
+
 #include "chrome/browser/new_tab_page/one_google_bar/one_google_bar_data.h"
 
 OneGoogleBarData::OneGoogleBarData() = default;

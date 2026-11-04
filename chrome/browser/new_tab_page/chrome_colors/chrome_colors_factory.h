@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome colors factory header
+// summary: Declares ChromeColorsFactory, a singleton ProfileKeyedServiceFactory that owns ChromeColorsService instances and associates them with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_CHROME_COLORS_CHROME_COLORS_FACTORY_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_CHROME_COLORS_CHROME_COLORS_FACTORY_H_
 

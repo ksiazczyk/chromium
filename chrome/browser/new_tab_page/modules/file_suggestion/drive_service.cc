@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive service implementation
+// summary: Implements fetching Google Drive file suggestions from the ItemSuggest API for display in the new tab page Drive module.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/file_suggestion/drive_service.h"
 
 #include <algorithm>

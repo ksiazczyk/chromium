@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome NFC permission context delegate implementation
+// summary: Implements the Chrome NFC permission context delegate, delegating the Android-only web contents interactability check to an injected checker.
+// ---
+
 #include "chrome/browser/nfc/chrome_nfc_permission_context_delegate.h"
 
 #include "build/build_config.h"

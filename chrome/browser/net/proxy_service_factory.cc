@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyServiceFactory implementation
+// summary: Creates proxy config services and preference trackers for profiles and local state, using the ash ProxyConfigServiceImpl on ChromeOS and PrefProxyConfigTrackerImpl elsewhere.
+// ---
+
 #include "chrome/browser/net/proxy_service_factory.h"
 
 #include <utility>

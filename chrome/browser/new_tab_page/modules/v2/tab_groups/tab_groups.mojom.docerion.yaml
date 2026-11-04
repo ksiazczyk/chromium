@@ -1,0 +1,4 @@
+# Docerion header of tab_groups.mojom.
+type: source
+title: Tab groups Mojom interface definitions
+summary: Defines the TabGroup struct and the browser-side PageHandler Mojo interface for creating, listing and opening tab groups from the new tab page.
