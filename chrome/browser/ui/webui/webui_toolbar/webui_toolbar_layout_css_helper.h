@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIToolbarLayoutCssHelper class declaration
+// summary: Declares a helper that generates and serves CSS with variables for layout constants and fonts, and installs itself as a WebUI data source request filter.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_WEBUI_TOOLBAR_LAYOUT_CSS_HELPER_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_WEBUI_TOOLBAR_LAYOUT_CSS_HELPER_H_
 

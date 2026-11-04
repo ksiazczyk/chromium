@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser controls service implementation
+// summary: Implements the Mojo browser controls service that executes reload, back, forward and navigation commands from the WebUI toolbar and records interaction latency metrics.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/browser_controls_service.h"
 
 #include <optional>

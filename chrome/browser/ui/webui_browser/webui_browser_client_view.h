@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser client view interface
+// summary: Declares WebUIBrowserClientView, a views ClientView that handles draggable regions and tracks location icon bounds changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_CLIENT_VIEW_H_
 #define CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_CLIENT_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New storage service unit tests
+// summary: Tests storing, clearing and resetting of What's New module and edition preference data.
+// ---
+
 #include "chrome/browser/ui/webui/whats_new/whats_new_storage_service_impl.h"
 
 #include "chrome/browser/global_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater WebUI controller implementation
+// summary: Implements the updater WebUI controller, registering the data source, localized strings, resource mappings and known app metadata for the updater debug page.
+// ---
+
 #include "chrome/browser/ui/webui/updater/updater_ui.h"
 
 #include <cstdint>

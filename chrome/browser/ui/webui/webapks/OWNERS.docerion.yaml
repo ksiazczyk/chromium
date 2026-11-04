@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebAPKS OWNERS file
+summary: Delegates code ownership of the webapks WebUI directory to the owners file of chrome/android/webapk.

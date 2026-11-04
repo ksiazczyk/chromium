@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for window sizing behavior
+// summary: Verifies default window bounds, persisted bounds and taskbar work area handling of the window sizer across monitor configurations.
+// ---
+
 #include "base/compiler_specific.h"
 #include "build/build_config.h"
 #include "chrome/browser/ui/window_sizer/window_sizer_common_unittest.h"

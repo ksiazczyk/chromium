@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar button utilities header
+// summary: Declares helpers that map pinned toolbar and page actions to element identifiers and mojo enum values for the WebUI toolbar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_UTILS_TOOLBAR_BUTTON_UTILS_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_UTILS_TOOLBAR_BUTTON_UTILS_H_
 

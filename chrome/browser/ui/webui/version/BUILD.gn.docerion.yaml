@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the version WebUI
+summary: Defines the version source set with platform-specific sources and dependencies, plus a Windows-only unit test target.

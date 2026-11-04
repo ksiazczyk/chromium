@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the What's New directory
+summary: Lists code owners for the What's New directory and delegates review of mojom files to the security owners.

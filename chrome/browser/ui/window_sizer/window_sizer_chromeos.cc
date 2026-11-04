@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS WindowSizer implementation
+// summary: Implements ChromeOS-specific window sizing, including default bounds, first-run maximization, and placement for tabbed and app browsers.
+// ---
+
 #include "chrome/browser/ui/window_sizer/window_sizer_chromeos.h"
 
 #include <utility>

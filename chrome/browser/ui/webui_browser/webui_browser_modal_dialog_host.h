@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser modal dialog host header
+// summary: Declares WebUIBrowserModalDialogHost, which adapts the WebUI browser window to the WebContentsModalDialogHost interface with observer support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_MODAL_DIALOG_HOST_H_
 #define CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_MODAL_DIALOG_HOST_H_
 

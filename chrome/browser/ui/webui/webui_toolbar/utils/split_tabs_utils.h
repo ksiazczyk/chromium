@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: Split tabs utilities header
+// summary: Declares the TabSplitStatus struct and functions to compute the active tab's split state and populate the WebUI data source.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_UTILS_SPLIT_TABS_UTILS_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_UTILS_SPLIT_TABS_UTILS_H_
 

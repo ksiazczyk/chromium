@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows version handler
+// summary: Verifies full Windows version strings for Windows 10, 11 and Server builds using registry and OS info overrides.
+// ---
+
 #include "chrome/browser/ui/webui/version/version_handler_win.h"
 
 #include "base/test/scoped_os_info_override_win.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for user education WebUI
+summary: Routes issues for this folder to the UI>Browser>UserEducation monorail component and a Buganizer component.

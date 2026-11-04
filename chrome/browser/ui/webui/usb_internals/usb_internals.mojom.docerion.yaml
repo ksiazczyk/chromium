@@ -1,0 +1,4 @@
+# Docerion header of usb_internals.mojom.
+type: source
+title: UsbInternalsPageHandler Mojo interface
+summary: Defines the UsbInternalsPageHandler Mojo interface for binding the USB device manager and its test interface.

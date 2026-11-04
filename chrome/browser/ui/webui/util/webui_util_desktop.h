@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop WebUI utility header
+// summary: Declares desktop WebUI helpers covering browser window selection, deprecated theme provider access, and WebUI code cache resource URL mapping.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_UTIL_WEBUI_UTIL_DESKTOP_H_
 #define CHROME_BROWSER_UI_WEBUI_UTIL_WEBUI_UTIL_DESKTOP_H_
 

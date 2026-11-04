@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUIContentsPreloadManager unit tests
+// summary: Unit tests for preload behavior, memory pressure handling, and candidate selection using mock time and a mock preload candidate selector.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/webui_contents_preload_manager.h"
 
 #include <memory>

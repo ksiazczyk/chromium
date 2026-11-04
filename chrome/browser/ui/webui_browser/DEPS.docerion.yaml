@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the webui_browser directory
+summary: Allows includes from the guest contents browser and surface embed components.

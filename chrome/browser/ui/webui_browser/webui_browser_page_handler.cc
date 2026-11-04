@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI Browser Page Handler Implementation
+// summary: Implements the Mojo page handler for the WebUI browser, covering guest contents navigation, back and forward history, menus, page info bubbles, and side panel actions.
+// ---
+
 #include "chrome/browser/ui/webui_browser/webui_browser_page_handler.h"
 
 #include "base/functional/bind.h"

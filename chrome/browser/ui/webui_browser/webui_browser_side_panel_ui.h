@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser side panel UI header
+// summary: Declares WebUIBrowserSidePanelUI, a SidePanelUIBase subclass that manages side panel entries for the WebUI browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_SIDE_PANEL_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_SIDE_PANEL_UI_H_
 

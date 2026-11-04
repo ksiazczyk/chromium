@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Updater WebUI code owners
+summary: Lists code owners for the directory and routes Mojom and traits files to the security owners.

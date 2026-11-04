@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon table class declaration
+// summary: Declares the IconTable that registers vector icons, image models and URL icons as IconHandles for transfer over Mojo to the WebUI toolbar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_ICON_TABLE_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_ICON_TABLE_H_
 

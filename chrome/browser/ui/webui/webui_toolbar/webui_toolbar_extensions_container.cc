@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIToolbarExtensionsContainer implementation
+// summary: Implements the WebUI toolbar extensions container that tracks extension actions, supplies toolbar icons, and handles popups, menus, pinned actions and icon table updates.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/webui_toolbar_extensions_container.h"
 
 #include <optional>

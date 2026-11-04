@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUIContentsPreloadManager browser tests
+// summary: Browser tests covering preload hits, misses, redirects, and histograms for the top-chrome WebUI preload manager across preload modes.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/webui_contents_preload_manager.h"
 
 #include <map>

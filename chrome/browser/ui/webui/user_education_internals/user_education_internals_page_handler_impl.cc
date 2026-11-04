@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education internals page handler implementation
+// summary: Implements the browser-side Mojo handler that serves tutorial, feature promo, NTP promo, badge, session, and What's New data to the user education internals WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/user_education_internals/user_education_internals_page_handler_impl.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Zoom directory metadata
+summary: Maps the zoom directory to the UI>Browser>Toolbar monorail component and a Buganizer component ID for issue tracking.

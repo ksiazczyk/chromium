@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ChromeOS version handler
+summary: Allows version_handler_chromeos.cc to include headers from ash/strings for ChromeOS-specific version display.

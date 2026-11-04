@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN internals page handler header
+// summary: Declares WebNNInternalsPageHandlerImpl, which observes the WebNN introspection manager and serves the WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBNN_INTERNALS_WEBNN_INTERNALS_PAGE_HANDLER_IMPL_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBNN_INTERNALS_WEBNN_INTERNALS_PAGE_HANDLER_IMPL_H_
 

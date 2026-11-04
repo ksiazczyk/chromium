@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser window zoom observer declaration
+// summary: Declares BrowserWindowZoomObserver, which observes per-tab zoom changes and tab strip changes and lets listeners register zoom-changed callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ZOOM_BROWSER_WINDOW_ZOOM_OBSERVER_H_
 #define CHROME_BROWSER_UI_ZOOM_BROWSER_WINDOW_ZOOM_OBSERVER_H_
 

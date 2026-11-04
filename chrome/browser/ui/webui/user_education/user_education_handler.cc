@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the mixed-trust user education handler
+// summary: Implements WebUI handler methods for showing feature promos and new badges and for notifying feature usage and engagement events.
+// ---
+
 #include "chrome/browser/ui/webui/user_education/user_education_handler.h"
 
 #include "base/notreached.h"

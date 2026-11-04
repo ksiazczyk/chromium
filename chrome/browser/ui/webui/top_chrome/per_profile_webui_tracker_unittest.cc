@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PerProfileWebUITracker unit tests
+// summary: Unit tests verifying WebUI tracking per profile, multiple WebUIs of the same URL, and separation between different profiles.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/per_profile_webui_tracker.h"
 
 #include "base/scoped_observation.h"

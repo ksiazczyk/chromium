@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: Split tabs utilities implementation
+// summary: Implements computation of the active tab's split status and populates the WebUI data source with split tabs strings, flags and indicator dimensions.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/utils/split_tabs_utils.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

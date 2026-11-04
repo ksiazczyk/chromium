@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI browser interactive UI tests
+// summary: Interactive browser tests for the WebUI browser window, covering tab pointer lock enter and exit behavior with the Webium feature enabled.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/functional/callback.h"
 #include "base/test/run_until.h"

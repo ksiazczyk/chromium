@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for usb_internals
+summary: Sets review ownership for the directory and routes changes to mojom files to the security owners.

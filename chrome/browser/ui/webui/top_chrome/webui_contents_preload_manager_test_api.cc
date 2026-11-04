@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUIContentsPreloadManager test API implementation
+// summary: Implements test helpers that inspect and manipulate the preload manager's state, such as preloaded contents and candidate selection.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/webui_contents_preload_manager_test_api.h"
 
 #include <vector>

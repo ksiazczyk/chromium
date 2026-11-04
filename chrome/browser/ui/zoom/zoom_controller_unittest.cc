@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ZoomController unit tests
+// summary: Unit tests for ZoomController covering navigation handling, zoom mode changes, observer notifications, and bubble visibility flags.
+// ---
+
 #include "components/zoom/zoom_controller.h"
 
 #include <memory>

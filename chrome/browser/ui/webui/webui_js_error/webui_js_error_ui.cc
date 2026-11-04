@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI JS error page controller implementation
+// summary: Implements the WebUI controller for the JavaScript error debugging page, adding its data source, resource setup, and UI strings for triggering logged, uncaught, and promise rejection errors.
+// ---
+
 #include "chrome/browser/ui/webui/webui_js_error/webui_js_error_ui.h"
 
 #include <ios>

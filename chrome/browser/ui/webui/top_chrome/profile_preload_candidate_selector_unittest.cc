@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfilePreloadCandidateSelector unit tests
+// summary: Unit tests for candidate selection by site engagement score, using a mock per-profile WebUI tracker and test WebUI controllers and configs.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/profile_preload_candidate_selector.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Zoom BUILD.gn build targets
+summary: Defines the zoom source sets, dependencies, and unit and browser test targets for the chrome/browser/ui/zoom directory.

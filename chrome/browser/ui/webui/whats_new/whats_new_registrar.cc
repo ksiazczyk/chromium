@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New module and edition registrar
+// summary: Registers What's New modules and editions per milestone and creates the registry with unregistered pref cleanup.
+// ---
+
 #include "chrome/browser/ui/webui/whats_new/whats_new_registrar.h"
 
 #include "chrome/browser/browser_process.h"

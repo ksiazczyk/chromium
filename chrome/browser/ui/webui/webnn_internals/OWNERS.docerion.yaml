@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebNN internals owners
+summary: Delegates ownership to chrome/browser/webnn and requires security owners for Mojom file changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window name prompt dialog implementation
+// summary: Implements a modal dialog that lets users set or clear a browser window's user title, recording user metrics when the dialog is shown, set, or cleared.
+// ---
+
 #include "base/functional/callback_helpers.h"
 #include "base/metrics/user_metrics.h"
 #include "base/strings/utf_string_conversions.h"

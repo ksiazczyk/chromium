@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the WebUI browser
+summary: Defines source sets, Mojo bindings targets and dependencies for the WebUI browser implementation.

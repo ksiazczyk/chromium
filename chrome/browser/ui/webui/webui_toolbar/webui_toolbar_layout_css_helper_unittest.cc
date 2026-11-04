@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI toolbar layout CSS helper unit tests
+// summary: Unit tests verifying generation of layout constants CSS, request handling for layout_constants.css files, and local resource loader configuration for the WebUI toolbar.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/webui_toolbar_layout_css_helper.h"
 
 #include "base/containers/span.h"

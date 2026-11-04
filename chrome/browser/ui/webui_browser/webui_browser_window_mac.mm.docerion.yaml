@@ -1,0 +1,4 @@
+# Docerion header of webui_browser_window_mac.mm.
+type: source
+title: WebUIBrowserWindow macOS support
+summary: macOS-specific keyboard event redispatch and native widget command dispatcher setup for the WebUI browser window.

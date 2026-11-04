@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New registrar unit tests
+// summary: Checks that registered modules and editions have matching histogram and action variants in the metrics XML files.
+// ---
+
 #include "chrome/browser/ui/webui/whats_new/whats_new_registrar.h"
 
 #include "base/strings/string_util.h"

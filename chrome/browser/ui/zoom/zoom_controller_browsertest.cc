@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ZoomController browser tests
+// summary: In-process browser tests covering ZoomController behavior such as zoom mode resets on navigation and zoom handling in crashed tabs.
+// ---
+
 #include "components/zoom/zoom_controller.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser zoom bubble manager implementation
+// summary: Implements zoom bubble anchoring, native view access and accessible naming for the zoom action in the WebUI browser window.
+// ---
+
 #include "chrome/browser/ui/webui_browser/zoom_bubble_manager_webui_browser.h"
 
 #include "chrome/browser/ui/actions/chrome_action_id.h"

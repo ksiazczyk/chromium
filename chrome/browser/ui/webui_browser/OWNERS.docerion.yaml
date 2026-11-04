@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the webui_browser directory
+summary: Lists code owners and requires IPC security review for Mojo interface files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the user education handler
+// summary: Interactive browser tests verifying handler calls do not crash in incognito and other off-the-record modes.
+// ---
+
 #include "chrome/browser/ui/webui/user_education/user_education_handler.h"
 
 #include "build/build_config.h"

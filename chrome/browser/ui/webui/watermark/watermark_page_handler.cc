@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watermark page handler implementation
+// summary: Implements the Mojo PageHandler, applying watermark settings via the data protection UI controller and showing the copied-to-clipboard toast.
+// ---
+
 #include "chrome/browser/ui/webui/watermark/watermark_page_handler.h"
 
 #include "base/strings/string_util.h"

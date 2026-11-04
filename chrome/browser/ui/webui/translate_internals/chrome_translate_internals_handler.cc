@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome translate internals handler implementation
+// summary: Implements the Chrome-specific message handler for the translate-internals WebUI, providing translate client and variations service access, message callbacks, and language detection event forwarding.
+// ---
+
 #include "chrome/browser/ui/webui/translate_internals/chrome_translate_internals_handler.h"
 
 #include <map>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for webui_js_error
+summary: Defines the webui_js_error source set, listing its sources and dependencies such as profiles, resources, and content public browser APIs.

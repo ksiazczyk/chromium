@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the browser controls adapter implementation
+// summary: Tests the desktop adapter's navigation, drag-origin security restrictions, and command execution using mocked browser window and command updater objects.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/adapters/browser_controls_adapter_impl.h"
 
 #include <memory>

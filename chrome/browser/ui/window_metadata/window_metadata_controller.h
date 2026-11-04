@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window metadata controller header
+// summary: Declares the WindowMetadataController interface for window title computation, favicon retrieval, and user title management per browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WINDOW_METADATA_WINDOW_METADATA_CONTROLLER_H_
 #define CHROME_BROWSER_UI_WINDOW_METADATA_WINDOW_METADATA_CONTROLLER_H_
 

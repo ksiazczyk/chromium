@@ -1,0 +1,4 @@
+# Docerion header of unexportable_keys_internals.mojom.
+type: source
+title: Unexportable keys internals Mojo interface definitions
+summary: Defines Mojo structs and the PageHandlerFactory and PageHandler interfaces for listing and deleting unexportable signing keys from the internals WebUI page.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser window zoom observer implementation
+// summary: Implements an observer that tracks per-tab ZoomController changes, notifies zoom-changed callbacks, and updates browser zoom command state.
+// ---
+
 #include "chrome/browser/ui/zoom/browser_window_zoom_observer.h"
 
 #include "chrome/browser/ui/browser_command_controller.h"  // nogncheck

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI Gallery controller implementation
+// summary: Implements the WebUI Gallery controller, creating its HTML data source with content security policy overrides, localized strings, shared side panel resources, and favicon and theme data sources.
+// ---
+
 #include "chrome/browser/ui/webui/webui_gallery/webui_gallery_ui.h"
 
 #include "chrome/browser/profiles/profile.h"

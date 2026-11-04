@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Windows version utilities
+// summary: Declares version_utils::win functions returning the full Windows marketing version and the formatted update cohort info.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_VERSION_VERSION_UTIL_WIN_H_
 #define CHROME_BROWSER_UI_WEBUI_VERSION_VERSION_UTIL_WIN_H_
 

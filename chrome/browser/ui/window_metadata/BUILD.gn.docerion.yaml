@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Window metadata BUILD.gn
+summary: Defines the window_metadata source set plus its unit and browser test targets and their GN dependencies.

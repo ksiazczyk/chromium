@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnexportableKeysInternalsHandler class declaration
+// summary: Declares the WebUI page handler that returns stored unexportable key metadata and forwards key deletion requests to the unexportable key service.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_UNEXPORTABLE_KEYS_INTERNALS_UNEXPORTABLE_KEYS_INTERNALS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_UNEXPORTABLE_KEYS_INTERNALS_UNEXPORTABLE_KEYS_INTERNALS_HANDLER_H_
 

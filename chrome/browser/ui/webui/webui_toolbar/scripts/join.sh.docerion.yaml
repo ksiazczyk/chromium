@@ -1,0 +1,4 @@
+# Docerion header of join.sh.
+type: script
+title: Join shell arguments with a separator
+summary: Provides a join function that concatenates arguments into a single string separated by a given delimiter.

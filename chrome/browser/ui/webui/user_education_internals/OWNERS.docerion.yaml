@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for user education internals
+summary: Delegates ownership to the user education OWNERS file and assigns IPC security owners to mojom files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIContentsWarmupLevel enum
+// summary: Defines the ordered readiness levels of the browser before showing a WebUI bubble, from no renderer up to reshowing already navigated contents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_TOP_CHROME_WEBUI_CONTENTS_WARMUP_LEVEL_H_
 #define CHROME_BROWSER_UI_WEBUI_TOP_CHROME_WEBUI_CONTENTS_WARMUP_LEVEL_H_
 

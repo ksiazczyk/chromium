@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for webui util
+summary: Defines GN source sets for the webui util directory, separating lightweight image utilities from the heavier desktop WebUI implementation and its unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser side panel UI implementation
+// summary: Implements the side panel UI for the WebUI browser, showing, populating, and closing side panel entries through the WebUI browser window.
+// ---
+
 #include "chrome/browser/ui/webui_browser/webui_browser_side_panel_ui.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIBrowserWindow class declaration
+// summary: Declares the BrowserWindow implementation that renders the primary browser UI as WebUI while using views widgets for window management.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_WINDOW_H_
 #define CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_WINDOW_H_
 

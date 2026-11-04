@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersionHandler class declaration
+// summary: Declares the WebUI message handler interface handling version, variation and path requests from the version page front end.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_VERSION_VERSION_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_VERSION_VERSION_HANDLER_H_
 

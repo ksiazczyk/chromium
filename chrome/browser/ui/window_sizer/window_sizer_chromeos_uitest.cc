@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS window sizer interactive UI test
+// summary: Interactive ChromeOS browser test that opens a new browser window by clicking the shelf browser shortcut item.
+// ---
+
 #include "ash/public/cpp/shelf_config.h"
 #include "ash/shelf/shelf.h"
 #include "ash/shelf/shelf_view.h"

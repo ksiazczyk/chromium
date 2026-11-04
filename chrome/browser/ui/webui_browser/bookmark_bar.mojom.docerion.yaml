@@ -1,0 +1,4 @@
+# Docerion header of bookmark_bar.mojom.
+type: source
+title: Mojo interfaces for the WebUI bookmark bar
+summary: Defines Mojo interfaces for bookmark bar data and commands exchanged between the WebUI page and the browser.

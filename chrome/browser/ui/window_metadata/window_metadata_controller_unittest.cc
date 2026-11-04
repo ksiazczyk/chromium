@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window metadata controller unit tests
+// summary: Unit tests for FormatTitleForDisplay covering empty titles and removal of leading, trailing, and consecutive newlines.
+// ---
+
 #include "chrome/browser/ui/window_metadata/window_metadata_controller.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

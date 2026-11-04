@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser element tracker implementation
+// summary: Implements WebUI-specific browser element tracking that maps UI elements to the browser widget context.
+// ---
+
 #include "chrome/browser/ui/webui_browser/browser_elements_webui_browser.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for UnexportableSigningKeyId declaration
+// summary: Declares the Mojo StructTraits mapping UnexportableSigningKeyId to its Mojom representation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_UNEXPORTABLE_KEYS_INTERNALS_UNEXPORTABLE_KEYS_INTERNALS_MOJOM_TRAITS_H_
 #define CHROME_BROWSER_UI_WEBUI_UNEXPORTABLE_KEYS_INTERNALS_UNEXPORTABLE_KEYS_INTERNALS_MOJOM_TRAITS_H_
 

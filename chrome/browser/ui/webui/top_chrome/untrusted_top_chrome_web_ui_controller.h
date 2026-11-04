@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UntrustedTopChromeWebUIController header
+// summary: Declares a top-chrome WebUI controller for pages handling untrusted content, using the interface broker instead of WebUI bindings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_TOP_CHROME_UNTRUSTED_TOP_CHROME_WEB_UI_CONTROLLER_H_
 #define CHROME_BROWSER_UI_WEBUI_TOP_CHROME_UNTRUSTED_TOP_CHROME_WEB_UI_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for window_name_prompt
+summary: Lists ellyjones@chromium.org as the owner responsible for the window_name_prompt directory.

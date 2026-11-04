@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowSizer class header
+// summary: Declares the WindowSizer class and its StateProvider interface for choosing the best size and position for new browser windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WINDOW_SIZER_WINDOW_SIZER_H_
 #define CHROME_BROWSER_UI_WINDOW_SIZER_WINDOW_SIZER_H_
 

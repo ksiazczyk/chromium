@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New WebUI controller implementation
+// summary: Implements the WebUI controller for the What's New page, setting up the data source, localized strings, content security policy, local state prefs, and Mojo interface bindings.
+// ---
+
 #include "chrome/browser/ui/webui/whats_new/whats_new_ui.h"
 
 #include "base/feature_list.h"

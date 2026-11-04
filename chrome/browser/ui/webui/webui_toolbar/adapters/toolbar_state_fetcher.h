@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar state fetcher interface
+// summary: Declares the ToolbarStateFetcher adapter interface that returns the combined current toolbar control state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_ADAPTERS_TOOLBAR_STATE_FETCHER_H_
 #define CHROME_BROWSER_UI_WEBUI_WEBUI_TOOLBAR_ADAPTERS_TOOLBAR_STATE_FETCHER_H_
 

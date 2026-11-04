@@ -1,0 +1,4 @@
+# Docerion header of window_sizer_mac.mm.
+type: source
+title: macOS implementation of window sizer popup origin
+summary: Defines macOS window tiling constants and computes the default popup origin from Cocoa screen and browser window frames.

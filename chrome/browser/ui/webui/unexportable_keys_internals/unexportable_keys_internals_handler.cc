@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable keys internals page handler implementation
+// summary: Implements the WebUI page handler that lists unexportable signing keys with metadata and deletes keys via the unexportable key service.
+// ---
+
 #include "chrome/browser/ui/webui/unexportable_keys_internals/unexportable_keys_internals_handler.h"
 
 #include <memory>

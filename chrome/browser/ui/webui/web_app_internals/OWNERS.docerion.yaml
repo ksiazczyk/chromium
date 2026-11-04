@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for web_app_internals
+summary: Points to the web_applications owners and assigns mojom files to the security owners for review.

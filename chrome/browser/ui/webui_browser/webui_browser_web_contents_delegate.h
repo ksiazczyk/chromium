@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser WebContents delegate header
+// summary: Declares the WebContents delegate that manages the UI WebContents of a WebUI-based browser window and notifies observers of draggable region changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_WEB_CONTENTS_DELEGATE_H_
 #define CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_WEB_CONTENTS_DELEGATE_H_
 

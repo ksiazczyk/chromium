@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebAPKs WebUI build file
+summary: GN build definition for the WebAPKs WebUI source set, listing its sources, public headers and dependencies for Android builds.

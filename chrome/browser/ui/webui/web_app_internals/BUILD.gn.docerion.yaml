@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for web_app_internals
+summary: GN build file defining the Mojo bindings target and the web_app_internals source set with its dependencies.

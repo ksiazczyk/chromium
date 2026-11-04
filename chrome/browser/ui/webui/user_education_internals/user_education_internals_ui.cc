@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI controller for the user education internals page
+// summary: Implements the WebUI controller and config for the user education internals page, setting up data sources, element identifiers, and Mojo interface bindings.
+// ---
+
 #include "chrome/browser/ui/webui/user_education_internals/user_education_internals_ui.h"
 
 #include <vector>

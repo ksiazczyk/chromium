@@ -1,0 +1,4 @@
+# Docerion header of user_education_internals.mojom.
+type: source
+title: Mojo interface definitions for user education internals
+summary: Defines Mojo structs and the page handler interface that exposes browser-side user education data such as tutorials, promos, session data, and What's New modules and editions.

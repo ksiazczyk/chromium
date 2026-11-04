@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIContentsWarmupLevelRecorder header
+// summary: Declares the warmup level recorder and a precondition struct capturing spare process IDs and preloaded contents before WebUI contents creation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_TOP_CHROME_WEBUI_CONTENTS_WARMUP_LEVEL_RECORDER_H_
 #define CHROME_BROWSER_UI_WEBUI_TOP_CHROME_WEBUI_CONTENTS_WARMUP_LEVEL_RECORDER_H_
 

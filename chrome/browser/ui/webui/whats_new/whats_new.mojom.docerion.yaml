@@ -1,0 +1,4 @@
+# Docerion header of whats_new.mojom.
+type: source
+title: What's New Mojo interface definitions
+summary: Mojo interface definitions for the What's New WebUI, declaring the page handler factory, browser-side handler methods for metrics recording, and enums for scroll depth and module position.

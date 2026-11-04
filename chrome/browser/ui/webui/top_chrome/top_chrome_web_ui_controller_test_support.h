@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEmbedder test support declaration
+// summary: Declares TestEmbedder, a TopChromeWebUIController::Embedder implementation that tracks UI show, close and context menu events for tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_TOP_CHROME_TOP_CHROME_WEB_UI_CONTROLLER_TEST_SUPPORT_H_
 #define CHROME_BROWSER_UI_WEBUI_TOP_CHROME_TOP_CHROME_WEB_UI_CONTROLLER_TEST_SUPPORT_H_
 

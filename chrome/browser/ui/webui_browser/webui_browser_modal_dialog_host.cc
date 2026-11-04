@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser modal dialog host implementation
+// summary: Implements the modal dialog host for the WebUI browser window, providing dialog positioning, maximum size, activation, and observer notifications.
+// ---
+
 #include "chrome/browser/ui/webui_browser/webui_browser_modal_dialog_host.h"
 
 #include "chrome/browser/ui/browser_window/public/global_browser_collection.h"

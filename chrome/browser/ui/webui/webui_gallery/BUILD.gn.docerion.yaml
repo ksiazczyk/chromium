@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the webui_gallery source set
+summary: GN build file that defines the webui_gallery source_set with its sources and dependencies on base, content, UI, and resource targets.

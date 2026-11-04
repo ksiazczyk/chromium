@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadCandidateSelector flag exclusion implementation
+// summary: Implements IsUrlExcludedByFlag, which checks URLs against origins excluded from preloading via a feature flag as an emergency shutoff.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/preload_candidate_selector.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome zoom level prefs declaration
+// summary: Declares ChromeZoomLevelPrefs, the interface between content-layer zoom levels in HostZoomMap and Chrome's preference system.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ZOOM_CHROME_ZOOM_LEVEL_PREFS_H_
 #define CHROME_BROWSER_UI_ZOOM_CHROME_ZOOM_LEVEL_PREFS_H_
 

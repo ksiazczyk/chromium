@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome zoom level prefs implementation
+// summary: Implements per-partition default and per-host zoom level persistence, bridging HostZoomMap with Chrome's preference system.
+// ---
+
 #include "chrome/browser/ui/zoom/chrome_zoom_level_prefs.h"
 
 #include <stddef.h>

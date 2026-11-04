@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersionHandlerWindows class declaration
+// summary: Declares the Windows-specific version handler exposing the full Windows version to the version page and to tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_VERSION_VERSION_HANDLER_WIN_H_
 #define CHROME_BROWSER_UI_WEBUI_VERSION_VERSION_HANDLER_WIN_H_
 

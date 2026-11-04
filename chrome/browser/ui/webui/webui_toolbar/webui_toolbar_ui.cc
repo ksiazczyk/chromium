@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI toolbar UI controller implementation
+// summary: Implements the Chrome WebUI toolbar controller, registering data sources and Mojo handlers and wiring browser-side services such as browser controls, omnibox, theme colors, and extensions to the toolbar web interface.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/webui_toolbar_ui.h"
 
 #include <array>

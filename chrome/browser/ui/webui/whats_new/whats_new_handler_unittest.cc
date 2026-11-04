@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New handler unit tests
+// summary: Unit tests verifying server URL handling, metric emission, and HaTS survey triggering for the What's New handler.
+// ---
+
 #include "chrome/browser/ui/webui/whats_new/whats_new_handler.h"
 
 #include "base/strings/stringprintf.h"

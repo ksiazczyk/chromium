@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI Browser UI Controller Implementation
+// summary: Implements the WebUI browser controller, wiring up Mojo interface bindings, data sources, bookmarks, searchbox, and side panel title handling for the browser page.
+// ---
+
 #include "chrome/browser/ui/webui_browser/webui_browser_ui.h"
 
 #include <array>

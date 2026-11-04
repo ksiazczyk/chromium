@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser controls service unit tests
+// summary: Unit tests covering reload command handling, event disposition flag conversion, and interaction time validation for the browser controls service.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/browser_controls_service.h"
 
 #include <memory>

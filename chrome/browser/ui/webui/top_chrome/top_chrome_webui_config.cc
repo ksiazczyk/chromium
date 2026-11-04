@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopChromeWebUIConfig implementation
+// summary: Implements the base WebUIConfig for top chrome WebUIs, tracking registered configs in a global set and providing lookup by browser context and URL.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/top_chrome_webui_config.h"
 
 #include <set>

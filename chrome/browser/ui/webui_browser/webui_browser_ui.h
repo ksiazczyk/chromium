@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI Browser UI Controller Header
+// summary: Declares the WebUI browser controller and its config, listing the Mojo interfaces it binds for tabs, bookmarks, searchbox, extensions, and guest contents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_BROWSER_WEBUI_BROWSER_UI_H_
 

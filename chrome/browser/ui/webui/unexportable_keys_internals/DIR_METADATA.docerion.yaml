@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the unexportable keys internals directory
+summary: Points the directory metadata at the signin components COMMON_METADATA mixins.

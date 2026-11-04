@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the unexportable keys internals WebUI
+summary: Defines GN build targets for the unexportable keys internals WebUI, including Mojo bindings, browser-side source sets, and unit tests.

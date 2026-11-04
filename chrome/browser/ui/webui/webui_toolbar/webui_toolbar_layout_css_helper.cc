@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIToolbarLayoutCssHelper implementation
+// summary: Implements generation of CSS variables for Chrome layout constants and fonts, served in-process to the WebUI as layout_constants_v0.css via a request filter.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/webui_toolbar_layout_css_helper.h"
 
 #include <string_view>

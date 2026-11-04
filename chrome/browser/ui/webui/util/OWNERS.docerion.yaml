@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for webui util directory
+summary: Lists the code owners responsible for changes in the chrome/browser/ui/webui/util directory.

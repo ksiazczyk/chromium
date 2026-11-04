@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New fetcher browser tests
+// summary: Interactive browser tests verifying What's New server URL construction and fetch behavior under various feature flag configurations.
+// ---
+
 #include "chrome/browser/ui/webui/whats_new/whats_new_fetcher.h"
 
 #include "base/strings/string_util.h"

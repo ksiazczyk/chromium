@@ -1,0 +1,4 @@
+# Docerion header of watermark.mojom.
+type: source
+title: Watermark Mojo interface definitions
+summary: Defines the Mojo interfaces and WatermarkSettings struct used for communication between the WebUI page and the browser process.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Watermark WebUI build definition
+summary: Build file defining the watermark static library with its sources and dependencies, plus the Mojo bindings target for the WebUI.

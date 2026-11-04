@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater WebUI controller header
+// summary: Declares the updater WebUI controller and its WebUI config, which bind the mojo page handler factory for the updater page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_UPDATER_UPDATER_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_UPDATER_UPDATER_UI_H_
 

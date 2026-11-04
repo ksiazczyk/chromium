@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTR zoom level delegate declaration
+// summary: Declares ChromeZoomLevelOTRDelegate, a lightweight ZoomLevelDelegate for off-the-record storage partitions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ZOOM_CHROME_ZOOM_LEVEL_OTR_DELEGATE_H_
 #define CHROME_BROWSER_UI_ZOOM_CHROME_ZOOM_LEVEL_OTR_DELEGATE_H_
 

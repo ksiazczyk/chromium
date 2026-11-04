@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon table implementation
+// summary: Implements the icon table that maps known vector icons to WebUI icon handles and produces icon update messages for the toolbar frontend.
+// ---
+
 #include "chrome/browser/ui/webui/webui_toolbar/icon_table.h"
 
 #include <cstdint>

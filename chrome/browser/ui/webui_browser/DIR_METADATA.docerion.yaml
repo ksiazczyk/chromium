@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for webui_browser
+summary: Points the directory to the shared COMMON_METADATA file for team and bug tracking information.

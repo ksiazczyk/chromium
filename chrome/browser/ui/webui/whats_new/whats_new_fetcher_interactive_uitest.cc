@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New fetcher interactive UI test
+// summary: Interactive UI test checking that the What's New tab is not opened when the browser window is inactive.
+// ---
+
 #include "chrome/browser/ui/webui/whats_new/whats_new_fetcher.h"
 
 #include "base/run_loop.h"

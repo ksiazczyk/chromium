@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEmbedder test support implementation
+// summary: Implements a TestEmbedder that records ShowUI, CloseUI and context menu calls for use in top chrome WebUI controller tests.
+// ---
+
 #include "chrome/browser/ui/webui/top_chrome/top_chrome_web_ui_controller_test_support.h"
 
 #include "ui/base/models/menu_model.h"
