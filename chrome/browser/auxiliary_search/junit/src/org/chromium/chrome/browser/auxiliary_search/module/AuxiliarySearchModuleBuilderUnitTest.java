@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuxiliarySearchModuleBuilderUnitTest
+// summary: Robolectric unit tests verifying the eligibility of the auxiliary search module builder under feature flags, hooks and consumer schema preferences.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search.module;
 
 import static org.junit.Assert.assertEquals;

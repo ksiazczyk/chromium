@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward cache prioritization utility implementation
+// summary: Implements ShouldPrioritizeForBackForwardCache, returning true when a URL is a search results page served by the profile's default search provider.
+// ---
+
 #include "chrome/browser/back_forward_cache/back_forward_cache_util.h"
 
 #include "chrome/browser/profiles/profile.h"

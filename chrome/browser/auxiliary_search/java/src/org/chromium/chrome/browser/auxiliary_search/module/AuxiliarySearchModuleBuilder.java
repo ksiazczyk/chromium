@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auxiliary search module builder
+// summary: Builds the auxiliary search opt-in module for Chrome's magic stack, inflating its view, binding it, and checking feature and donation eligibility.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search.module;
 
 import android.content.Context;

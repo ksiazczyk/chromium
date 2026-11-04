@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuxiliarySearchTopSiteProviderBridge
+// summary: Java bridge to the native top sites provider that delivers most visited site suggestions and icon availability events to observers for auxiliary search.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import android.text.TextUtils;

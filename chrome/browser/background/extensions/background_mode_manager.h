@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background mode manager header
+// summary: Declares BackgroundModeManager, which switches Chrome into and out of background mode and provides UI for exiting when no browser windows are open.
+// ---
+
 #ifndef CHROME_BROWSER_BACKGROUND_EXTENSIONS_BACKGROUND_MODE_MANAGER_H_
 #define CHROME_BROWSER_BACKGROUND_EXTENSIONS_BACKGROUND_MODE_MANAGER_H_
 

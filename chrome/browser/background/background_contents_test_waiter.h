@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundContentsTestWaiter class declaration
+// summary: Declares a test utility that waits for a BackgroundContents to be created and loaded for a given application ID.
+// ---
+
 #ifndef CHROME_BROWSER_BACKGROUND_BACKGROUND_CONTENTS_TEST_WAITER_H_
 #define CHROME_BROWSER_BACKGROUND_BACKGROUND_CONTENTS_TEST_WAITER_H_
 

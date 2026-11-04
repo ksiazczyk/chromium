@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop app banner manager browser tests
+// summary: Browser tests for the desktop banner manager covering banner prompt resolution, install dialog interaction, and uninstall or reinstall flows.
+// ---
+
 #include "chrome/browser/banners/app_banner_manager_desktop.h"
 
 #include <memory>

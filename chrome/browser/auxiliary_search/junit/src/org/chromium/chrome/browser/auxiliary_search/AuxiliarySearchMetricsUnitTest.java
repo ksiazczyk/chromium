@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuxiliarySearchMetricsUnitTest
+// summary: Unit tests for AuxiliarySearchMetrics, verifying donation count and external app click histogram recording.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import static org.junit.Assert.assertFalse;

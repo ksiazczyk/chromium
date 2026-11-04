@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracker metadata for the battery directory
+summary: Maps the directory to the Internals>Preload Monorail component and a Buganizer component for bug routing.

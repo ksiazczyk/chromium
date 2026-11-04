@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for auxiliary search controllers
+// summary: Singleton factory that creates auxiliary search controllers and checks feature and device compatibility for tab sharing.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

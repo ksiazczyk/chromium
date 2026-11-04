@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch permission context implementation
+// summary: Implements permission checks for Background Fetch, deriving status from the download request limiter for top-level frames and the Automatic Downloads content setting otherwise.
+// ---
+
 #include "chrome/browser/background_fetch/background_fetch_permission_context.h"
 
 #include "chrome/browser/browser_process.h"

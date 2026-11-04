@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Background extensions build configuration
+summary: GN build file defining source sets and platform-conditional dependencies for the background extensions code and its unit tests.

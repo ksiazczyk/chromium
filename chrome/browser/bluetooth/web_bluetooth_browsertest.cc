@@ -5,6 +5,12 @@
 // This file contains browsertests for Web Bluetooth that depend on behavior
 // defined in chrome/, not just in content/.
 
+// ---docerion
+// type: test
+// title: Web Bluetooth browser tests
+// summary: Browser tests for Web Bluetooth behavior implemented in chrome/, covering choosers, permissions, GATT interactions, and browsing data.
+// ---
+
 #include <optional>
 
 #include "base/command_line.h"

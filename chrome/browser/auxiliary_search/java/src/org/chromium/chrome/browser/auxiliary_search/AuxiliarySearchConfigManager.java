@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manager for tab sharing with OS state changes
+// summary: Singleton manager that notifies listeners when the setting for sharing tabs with the system changes.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import androidx.annotation.VisibleForTesting;

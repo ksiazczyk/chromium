@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for badging
+summary: Points to the common metadata file that supplies issue tracking settings for this directory.

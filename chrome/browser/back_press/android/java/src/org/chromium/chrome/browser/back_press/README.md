@@ -1,3 +1,13 @@
+---
+type: readme
+title: Back Press Interception System on Android
+summary: README explaining the back press interception system, its key components, handler priority order, and steps to add a new back press handler.
+relations:
+  - documents /chrome/browser/back_press/android/java/src/org/chromium/chrome/browser/back_press/BackPressManager.java
+  - documents /chrome/browser/back_press/android/java/src/org/chromium/chrome/browser/back_press/MinimizeAppAndCloseTabBackPressHandler.java
+  - documents /components/browser_ui/widget/android/java/src/org/chromium/components/browser_ui/widget/gesture/BackPressHandler.java
+---
+
 # Back Press Interception System on Android
 
 This directory contains the central infrastructure and handlers for managing the

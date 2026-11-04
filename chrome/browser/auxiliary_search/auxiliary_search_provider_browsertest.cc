@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auxiliary search provider browser tests
+// summary: Browser tests verifying sensitive tab filtering, donation limits, and tab query behavior of the auxiliary search provider on Android.
+// ---
+
 #include "chrome/browser/auxiliary_search/auxiliary_search_provider.h"
 
 #include "base/android/jni_android.h"

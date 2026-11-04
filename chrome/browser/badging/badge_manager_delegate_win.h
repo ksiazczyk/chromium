@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows badge manager delegate header
+// summary: Declares BadgeManagerDelegateWin, the Windows-specific BadgeManagerDelegate that reacts to app badge updates and detects hosted app browsers.
+// ---
+
 #ifndef CHROME_BROWSER_BADGING_BADGE_MANAGER_DELEGATE_WIN_H_
 #define CHROME_BROWSER_BADGING_BADGE_MANAGER_DELEGATE_WIN_H_
 

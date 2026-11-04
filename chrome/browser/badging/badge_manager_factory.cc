@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Badge manager profile service factory implementation
+// summary: Implements BadgeManagerFactory, a ProfileKeyedServiceFactory that creates and provides a per-profile BadgeManager instance.
+// ---
+
 #include "chrome/browser/badging/badge_manager_factory.h"
 
 #include <memory>

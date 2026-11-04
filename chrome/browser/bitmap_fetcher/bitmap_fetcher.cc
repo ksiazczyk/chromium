@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapFetcher implementation
+// summary: Implements asynchronous image downloading via SimpleURLLoader, data URL handling, and decoding through ImageDecoder before notifying the delegate.
+// ---
+
 #include "chrome/browser/bitmap_fetcher/bitmap_fetcher.h"
 
 #include <optional>

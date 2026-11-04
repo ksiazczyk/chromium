@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Back-forward cache build configuration
+summary: Defines the GN source_set for the back-forward cache utility code and a testonly browser_tests target with its dependencies, excluding tests on Android.

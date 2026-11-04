@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows glic status icon implementation
+// summary: Implements the Windows-specific glic status icon, tracking the system light or dark theme via the HKCU personalization registry key with a native theme fallback.
+// ---
+
 #include "chrome/browser/background/glic/glic_status_icon_win.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the Chrome Bluetooth folder
+summary: Points to shared metadata mixins in content/browser/bluetooth for this directory.

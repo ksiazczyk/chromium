@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Bluetooth test utilities implementation
+// summary: Implements fake Bluetooth adapter and GATT characteristic, connection, and notify session objects used by Web Bluetooth tests.
+// ---
+
 #include "chrome/browser/bluetooth/web_bluetooth_test_utils.h"
 
 #include <memory>

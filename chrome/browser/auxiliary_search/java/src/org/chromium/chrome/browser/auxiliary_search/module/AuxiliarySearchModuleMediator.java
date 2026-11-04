@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auxiliary search module mediator
+// summary: Manages the module's property model, selecting title, content, and button text based on browsing data donation and OS share-tabs state.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search.module;
 
 import org.chromium.build.annotations.NullMarked;

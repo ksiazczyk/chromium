@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for the browsing data donation service
+// summary: Utility class checking whether browsing data donation is supported on the device and enabled via feature flags.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import org.chromium.base.ServiceLoaderUtil;

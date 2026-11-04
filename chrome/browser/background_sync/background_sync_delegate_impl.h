@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Sync delegate header
+// summary: Declares Chrome's BackgroundSyncDelegateImpl, including keep-alive handling, engagement penalties, and Android wake-up scheduling hooks.
+// ---
+
 #ifndef CHROME_BROWSER_BACKGROUND_SYNC_BACKGROUND_SYNC_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_BACKGROUND_SYNC_BACKGROUND_SYNC_DELEGATE_IMPL_H_
 

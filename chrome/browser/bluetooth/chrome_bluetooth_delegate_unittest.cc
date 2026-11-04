@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Bluetooth delegate unit tests
+// summary: Unit tests verifying that guest WebContents are blocked from using Bluetooth while regular main frames are allowed by default.
+// ---
+
 #include "chrome/browser/bluetooth/chrome_bluetooth_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the OmniboxEverywhere background mode manager
+// summary: Tests the background mode manager using mock status icons and a test startup launch manager, covering pref-driven behavior and Windows launch-on-startup.
+// ---
+
 #include "chrome/browser/background/omnibox_everywhere/omnibox_everywhere_background_mode_manager.h"
 
 #include <memory>

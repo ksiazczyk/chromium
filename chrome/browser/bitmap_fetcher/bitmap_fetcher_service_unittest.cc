@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BitmapFetcherService unit tests
+// summary: Unit tests for BitmapFetcherService covering invalid URLs, request cancellation, fetcher creation, fetch completion, decode success and failure paths.
+// ---
+
 #include "chrome/browser/bitmap_fetcher/bitmap_fetcher_service.h"
 
 #include <stddef.h>

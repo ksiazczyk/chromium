@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auxiliary search module view binder
+// summary: Binds property model changes for the module's texts and button listeners to the corresponding view updates.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search.module;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuxiliarySearchMultiDataControllerImpl
+// summary: Controller that donates tabs from all windows, custom tabs and top sites once when Chrome goes to the background, shared across multiple ChromeTabbedActivity instances.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

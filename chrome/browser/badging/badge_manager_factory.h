@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Badge manager profile service factory header
+// summary: Declares the BadgeManagerFactory singleton that gives access to profile-specific BadgeManager instances.
+// ---
+
 #ifndef CHROME_BROWSER_BADGING_BADGE_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_BADGING_BADGE_MANAGER_FACTORY_H_
 

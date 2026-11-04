@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic status icon implementation
+// summary: Implements the glic status icon with channel-specific tooltips, context menu actions and platform-specific creation for Windows, ChromeOS and other platforms.
+// ---
+
 #include "chrome/browser/background/glic/glic_status_icon.h"
 
 #include <memory>

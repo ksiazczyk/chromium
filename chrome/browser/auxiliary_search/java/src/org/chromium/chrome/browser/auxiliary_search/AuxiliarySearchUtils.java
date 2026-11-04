@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuxiliarySearchUtils
+// summary: Utility helpers for auxiliary search covering tab donation metadata files, sharing-tabs settings, cached feature parameters and bitmap to byte conversion.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import android.content.Context;

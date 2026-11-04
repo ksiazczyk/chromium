@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows glic status icon class declaration
+// summary: Declares the Windows-specific GlicStatusIcon subclass that watches the themes registry key to keep the status icon in sync with dark mode.
+// ---
+
 #ifndef CHROME_BROWSER_BACKGROUND_GLIC_GLIC_STATUS_ICON_WIN_H_
 #define CHROME_BROWSER_BACKGROUND_GLIC_GLIC_STATUS_ICON_WIN_H_
 

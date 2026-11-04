@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background mode manager Windows implementation
+// summary: Windows-specific part of BackgroundModeManager that shows a status tray balloon notification when a background application is installed.
+// ---
+
 #include "chrome/browser/background/extensions/background_mode_manager.h"
 
 #include "base/strings/utf_string_conversions.h"

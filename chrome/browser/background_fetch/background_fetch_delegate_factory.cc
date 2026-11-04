@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background fetch delegate factory implementation
+// summary: Implements the profile-keyed factory that builds BackgroundFetchDelegateImpl instances for each browser context.
+// ---
+
 #include "chrome/browser/background_fetch/background_fetch_delegate_factory.h"
 
 #include "base/strings/string_number_conversions.h"

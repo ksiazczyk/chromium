@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Bluetooth real target browser tests
+// summary: Browser tests that connect to real Espruino Bluetooth devices via the Nordic UART service using an auto-selecting chooser.
+// ---
+
 #include <memory>
 
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auxiliary search module properties
+// summary: Defines the writable property keys for the module's title, content, button texts, and click listeners.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search.module;
 
 import android.view.View.OnClickListener;

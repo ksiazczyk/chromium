@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App banner manager browser test base implementation
+// summary: Implements the shared browser test base class with setup and helpers for building banner test URLs and executing scripts.
+// ---
+
 #include "chrome/browser/banners/app_banner_manager_browsertest_base.h"
 
 #include "chrome/test/base/chrome_test_utils.h"

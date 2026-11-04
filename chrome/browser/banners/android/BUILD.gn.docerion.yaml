@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for banners Android Java tests
+summary: Defines the javatests android_library target listing AmbientBadgeManagerTest and AppBannerManagerTest sources with their test dependencies.

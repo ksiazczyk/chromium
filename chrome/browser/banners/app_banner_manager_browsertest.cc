@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App banner manager browser tests
+// summary: Browser tests exercising AppBannerManager flows such as installable checks, banner prompting, and metrics on Android and desktop platforms.
+// ---
+
 #include "components/webapps/browser/banners/app_banner_manager.h"
 
 #include <map>

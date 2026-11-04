@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Bluetooth delegate header
+// summary: Declares the Chrome-specific Bluetooth delegate that controls permission and scanning behavior.
+// ---
+
 #ifndef CHROME_BROWSER_BLUETOOTH_CHROME_BLUETOOTH_DELEGATE_H_
 #define CHROME_BROWSER_BLUETOOTH_CHROME_BLUETOOTH_DELEGATE_H_
 

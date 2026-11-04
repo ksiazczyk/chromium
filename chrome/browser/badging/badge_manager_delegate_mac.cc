@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS badge delegate implementation
+// summary: Forwards app badge updates to the Mac app shim manager so badges are reflected for packaged apps.
+// ---
+
 #include "chrome/browser/badging/badge_manager_delegate_mac.h"
 
 #include "chrome/browser/apps/app_shim/app_shim_manager_mac.h"

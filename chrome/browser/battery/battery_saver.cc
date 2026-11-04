@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery saver state check implementation
+// summary: Implements IsBatterySaverEnabled, querying the Android Battery Saver OS setting via JNI and supporting test overrides.
+// ---
+
 #include "battery_saver.h"
 
 #include <optional>

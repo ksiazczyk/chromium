@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuxiliarySearchModuleViewBinderUnitTest
+// summary: Robolectric unit tests verifying that the auxiliary search module view binder wires click listeners and text resource IDs into the module view.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search.module;
 
 import static org.junit.Assert.assertEquals;

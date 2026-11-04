@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java bridge providing data for auxiliary search
+// summary: JNI bridge that fetches non-sensitive tabs, history data, and Custom Tab URLs from native code for the auxiliary search provider.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import androidx.annotation.VisibleForTesting;

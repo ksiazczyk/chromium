@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Background fetch OWNERS delegation
+summary: Delegates reviewer ownership for this directory to the shared background fetch OWNERS file under content.

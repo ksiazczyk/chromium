@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auxiliary search top site provider bridge declaration
+// summary: Declares the bridge class that observes most visited sites and provides top site entries for auxiliary search.
+// ---
+
 #ifndef CHROME_BROWSER_AUXILIARY_SEARCH_AUXILIARY_SEARCH_TOP_SITE_PROVIDER_BRIDGE_H_
 #define CHROME_BROWSER_AUXILIARY_SEARCH_AUXILIARY_SEARCH_TOP_SITE_PROVIDER_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data entry for data shared with the system
+// summary: Model class representing a single entry shared with the system, such as tabs, custom tabs, or most visited sites.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import android.text.TextUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FetchAndRankHelper
+// summary: Helper called from native code to create AuxiliarySearchDataEntry instances for fetched and ranked entries with type, URL, title and timestamps.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import android.text.TextUtils;

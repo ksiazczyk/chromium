@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Background fetch build configuration
+summary: Defines GN source sets and dependencies for the Chrome background fetch browser code, its unit tests, and its browser tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundContentsServiceObserver interface
+// summary: Declares a CheckedObserver interface with callbacks for background contents opened, closed, service changes, and service destruction.
+// ---
+
 #ifndef CHROME_BROWSER_BACKGROUND_BACKGROUND_CONTENTS_SERVICE_OBSERVER_H_
 #define CHROME_BROWSER_BACKGROUND_BACKGROUND_CONTENTS_SERVICE_OBSERVER_H_
 

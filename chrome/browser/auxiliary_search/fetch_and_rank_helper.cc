@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch and rank helper implementation
+// summary: Implements fetching and ranking of tab and history visit aggregates through the visited URL ranking service for auxiliary search donation.
+// ---
+
 #include "chrome/browser/auxiliary_search/fetch_and_rank_helper.h"
 
 #include <vector>

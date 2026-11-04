@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Periodic Background Sync permission context implementation
+// summary: Implements the permission context that decides the Periodic Background Sync permission based on installed PWAs or TWAs and Background Sync content settings.
+// ---
+
 #include "chrome/browser/background_sync/periodic_background_sync_permission_context.h"
 
 #include "base/feature_list.h"

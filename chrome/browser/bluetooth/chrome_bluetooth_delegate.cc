@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Bluetooth delegate implementation
+// summary: Implements Web Bluetooth permission checks, kill switch, blocklist, and Bluetooth scanning blocking based on content settings.
+// ---
+
 #include "chrome/browser/bluetooth/chrome_bluetooth_delegate.h"
 
 #include <memory>

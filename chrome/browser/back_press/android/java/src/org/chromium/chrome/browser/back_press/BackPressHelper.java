@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackPressHelper
+// summary: Helper that registers back press handlers on Android's OnBackPressedDispatcher and maps Escape key events to back or custom actions.
+// ---
+
 package org.chromium.chrome.browser.back_press;
 
 import android.view.KeyEvent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic launcher configuration implementation
+// summary: Implements observation of glic launcher preferences, hotkey parsing, default hotkey setup and migration of hotkey scope settings.
+// ---
+
 #include "chrome/browser/background/glic/glic_launcher_configuration.h"
 
 #include <utility>

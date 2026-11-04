@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auxiliary search test helper
+// summary: Shared helper that builds sample auxiliary search entries and data entries for tabs and top sites used by the unit tests.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import org.chromium.chrome.browser.auxiliary_search.AuxiliarySearchGroupProto.AuxiliarySearchEntry;

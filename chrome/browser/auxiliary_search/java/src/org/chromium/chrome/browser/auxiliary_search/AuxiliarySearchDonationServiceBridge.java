@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bridge donating browsing history via AppSearch
+// summary: Java bridge that lets the native donation service donate browsing history to other apps through AppSearch using a ChromeWebPage schema.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import androidx.annotation.VisibleForTesting;

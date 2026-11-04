@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic background mode manager class declaration
+// summary: Declares GlicBackgroundModeManager and its delegate interface for managing glic background mode, keep-alive state, global hotkeys and the status icon.
+// ---
+
 #ifndef CHROME_BROWSER_BACKGROUND_GLIC_GLIC_BACKGROUND_MODE_MANAGER_H_
 #define CHROME_BROWSER_BACKGROUND_GLIC_GLIC_BACKGROUND_MODE_MANAGER_H_
 

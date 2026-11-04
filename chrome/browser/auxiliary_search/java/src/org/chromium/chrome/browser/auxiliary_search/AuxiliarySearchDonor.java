@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuxiliarySearchDonor
+// summary: Handles donation of tabs and other browsing data to Android App Search, including schema setup, visibility rules and content TTLs for the auxiliary search feature.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

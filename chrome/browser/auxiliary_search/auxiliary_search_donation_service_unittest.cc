@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Donation service unit tests
+// summary: Tests history fetching, donation triggering, and preference handling of the donation service using mocks and test fakes.
+// ---
+
 #include "chrome/browser/auxiliary_search/auxiliary_search_donation_service.h"
 
 #include <jni.h>

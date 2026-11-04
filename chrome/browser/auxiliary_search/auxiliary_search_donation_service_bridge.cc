@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Donation service JNI bridge implementation
+// summary: Converts history entries into Java documents and forwards donation and schema calls to the Android AppSearch bridge.
+// ---
+
 #include "chrome/browser/auxiliary_search/auxiliary_search_donation_service_bridge.h"
 
 #include <jni.h>

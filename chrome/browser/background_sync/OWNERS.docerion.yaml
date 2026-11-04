@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Background Sync owners file
+summary: Delegates code ownership for this directory to the OWNERS file of components/background_sync.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the bitmap_fetcher component
+summary: Defines GN build targets for the bitmap_fetcher source set plus its unit test and browser test targets, listing their sources and dependencies.

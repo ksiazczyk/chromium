@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth delegate client implementation
+// summary: Provides Chrome's chooser, scanning prompt, and pairing dialogs for Bluetooth permission flows on Android and desktop.
+// ---
+
 #include "chrome/browser/bluetooth/chrome_bluetooth_delegate_impl_client.h"
 
 #include <memory>

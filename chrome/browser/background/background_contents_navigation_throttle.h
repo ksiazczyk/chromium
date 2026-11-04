@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundContents navigation throttle declaration
+// summary: Declares BackgroundContentsNavigationThrottle, which blocks off-extent main-frame navigations for tracked background contents.
+// ---
+
 #ifndef CHROME_BROWSER_BACKGROUND_BACKGROUND_CONTENTS_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_BACKGROUND_BACKGROUND_CONTENTS_NAVIGATION_THROTTLE_H_
 

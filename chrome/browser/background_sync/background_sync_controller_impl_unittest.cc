@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Sync controller unit tests
+// summary: Unit tests for BackgroundSyncControllerImpl covering periodic sync delays, field trial parameters, and site engagement behavior.
+// ---
+
 #include <stdint.h>
 
 #include "base/files/file_util.h"

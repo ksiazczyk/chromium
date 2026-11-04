@@ -1,0 +1,4 @@
+# Docerion header of os_icon_provider_mac.mm.
+type: source
+title: macOS glic status icon provider implementation
+summary: Implements the macOS glic icon provider, clearing the alternate icon preference and choosing an icon variant based on the kGlicOSIconVariant feature.

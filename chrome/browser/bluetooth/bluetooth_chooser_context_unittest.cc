@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Bluetooth chooser context
+// summary: Tests Bluetooth chooser permission storage and observer behavior using mock adapters, devices, and request options.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

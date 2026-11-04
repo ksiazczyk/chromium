@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Badging build configuration
+summary: Defines the badging source sets with their sources and dependencies, including platform-specific delegates, test support and unit tests.

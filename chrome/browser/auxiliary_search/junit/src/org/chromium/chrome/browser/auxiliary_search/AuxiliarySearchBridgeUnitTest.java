@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuxiliarySearchBridgeUnitTest
+// summary: Unit tests for AuxiliarySearchBridge, verifying non-sensitive tab and history data retrieval plus data entry equality and callbacks.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import static org.junit.Assert.assertEquals;

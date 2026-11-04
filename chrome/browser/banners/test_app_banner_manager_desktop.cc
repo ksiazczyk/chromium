@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAppBannerManagerDesktop implementation
+// summary: Implements the test double that replaces AppBannerManagerDesktop, letting browser tests await installability checks and observe banner prompt, install, and completion events.
+// ---
+
 #include "chrome/browser/banners/test_app_banner_manager_desktop.h"
 
 #include <algorithm>

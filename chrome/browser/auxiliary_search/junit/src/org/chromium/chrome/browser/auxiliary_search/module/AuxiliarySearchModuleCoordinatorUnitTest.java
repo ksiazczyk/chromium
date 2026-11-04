@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuxiliarySearchModuleCoordinatorUnitTest
+// summary: Robolectric unit tests checking which context menu hide text the auxiliary search module coordinator returns under history donation feature variations.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search.module;
 
 import static org.junit.Assert.assertEquals;

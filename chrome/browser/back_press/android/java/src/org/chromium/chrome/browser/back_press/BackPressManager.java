@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackPressManager
+// summary: Central manager that dispatches back press events to prioritized BackPressHandler instances and records per-handler usage histograms.
+// ---
+
 package org.chromium.chrome.browser.back_press;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

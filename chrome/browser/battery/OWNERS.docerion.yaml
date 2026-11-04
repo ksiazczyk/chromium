@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the battery directory
+summary: Lists ryansturm@chromium.org as the owner for code reviews in this directory.

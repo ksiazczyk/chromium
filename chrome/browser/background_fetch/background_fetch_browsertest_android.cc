@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch browser tests for Android
+// summary: Android browser tests that exercise Background Fetch downloads and offline item state transitions through the delegate.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

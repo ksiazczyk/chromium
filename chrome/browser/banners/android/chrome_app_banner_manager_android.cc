@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app banner manager Android implementation
+// summary: Implements the Chrome delegate for AppBannerManagerAndroid, recording WebApkable visit UKM and extra metrics for cancelled WebAPK install events.
+// ---
+
 #include "chrome/browser/banners/android/chrome_app_banner_manager_android.h"
 
 #include <string>

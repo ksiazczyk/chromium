@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Badge manager class declaration
+// summary: Declares BadgeManager, its badge value handling, mojo binding entry points for frames and service workers, and testing hooks.
+// ---
+
 #ifndef CHROME_BROWSER_BADGING_BADGE_MANAGER_H_
 #define CHROME_BROWSER_BADGING_BADGE_MANAGER_H_
 

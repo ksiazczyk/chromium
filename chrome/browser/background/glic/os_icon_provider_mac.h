@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS glic status icon provider declaration
+// summary: Declares the macOS helper class that selects the icon image for the glic status tray icon.
+// ---
+
 #ifndef CHROME_BROWSER_BACKGROUND_GLIC_OS_ICON_PROVIDER_MAC_H_
 #define CHROME_BROWSER_BACKGROUND_GLIC_OS_ICON_PROVIDER_MAC_H_
 

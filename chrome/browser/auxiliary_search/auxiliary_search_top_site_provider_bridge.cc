@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auxiliary search top site provider bridge implementation
+// summary: Implements the JNI bridge that donates most visited top site and custom link tiles to auxiliary search with scores and metadata.
+// ---
+
 #include "auxiliary_search_top_site_provider_bridge.h"
 
 #include "base/android/jni_android.h"

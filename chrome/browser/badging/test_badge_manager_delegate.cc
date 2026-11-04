@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test badge manager delegate implementation
+// summary: Implements a testing BadgeManagerDelegate that records set and cleared app badges and runs a badge-changed callback.
+// ---
+
 #include "chrome/browser/badging/test_badge_manager_delegate.h"
 
 #include "chrome/browser/badging/badge_manager.h"

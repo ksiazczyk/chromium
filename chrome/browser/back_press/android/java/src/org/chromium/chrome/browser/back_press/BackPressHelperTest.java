@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackPressHelperTest
+// summary: Robolectric tests for BackPressHelper covering Escape key handling, handler activation, and back press dispatch behavior.
+// ---
+
 package org.chromium.chrome.browser.back_press;
 
 import static org.junit.Assert.assertFalse;

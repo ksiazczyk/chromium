@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Periodic Background Sync permission context unit tests
+// summary: Unit tests for the Periodic Background Sync permission context using mocks for installed PWAs, TWAs and the default search engine.
+// ---
+
 #include "chrome/browser/background_sync/periodic_background_sync_permission_context.h"
 
 #include <string>

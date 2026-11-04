@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for battery saver checks
+// summary: Unit tests verifying that the battery saver override flag controls the result of IsBatterySaverEnabled.
+// ---
+
 #include "chrome/browser/battery/battery_saver.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

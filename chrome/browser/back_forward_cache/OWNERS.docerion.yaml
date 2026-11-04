@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Back-forward cache OWNERS delegation
+summary: Delegates code ownership for this directory to the owners of content/browser/back_forward_cache and the top-level content OWNERS file.

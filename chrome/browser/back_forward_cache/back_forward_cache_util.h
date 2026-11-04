@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward cache prioritization utility header
+// summary: Declares ShouldPrioritizeForBackForwardCache, which checks whether a URL is the default search engine's results page for a given browser context.
+// ---
+
 #ifndef CHROME_BROWSER_BACK_FORWARD_CACHE_BACK_FORWARD_CACHE_UTIL_H_
 #define CHROME_BROWSER_BACK_FORWARD_CACHE_BACK_FORWARD_CACHE_UTIL_H_
 

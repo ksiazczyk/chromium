@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic launcher configuration class declaration
+// summary: Declares GlicLauncherConfiguration, which observes glic enabled and hotkey preferences and notifies its observer of changes.
+// ---
+
 #ifndef CHROME_BROWSER_BACKGROUND_GLIC_GLIC_LAUNCHER_CONFIGURATION_H_
 #define CHROME_BROWSER_BACKGROUND_GLIC_GLIC_LAUNCHER_CONFIGURATION_H_
 

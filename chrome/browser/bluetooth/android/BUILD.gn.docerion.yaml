@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android Bluetooth BUILD.gn build targets
+summary: Defines the GN targets for Chrome's Android Bluetooth code, including the Java library, resources, JNI header generation, and a Robolectric unit test.

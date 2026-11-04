@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Sync delegate implementation
+// summary: Implements Chrome's background sync delegate, providing keep-alives, UKM source IDs, content settings, and site engagement penalties.
+// ---
+
 #include "chrome/browser/background_sync/background_sync_delegate_impl.h"
 
 #include "build/build_config.h"

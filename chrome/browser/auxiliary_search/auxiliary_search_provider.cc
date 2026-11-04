@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auxiliary search provider implementation
+// summary: Implements the profile-keyed AuxiliarySearchProvider that supplies non-sensitive tabs, custom tabs, and history data to Android auxiliary search over JNI.
+// ---
+
 #include "chrome/browser/auxiliary_search/auxiliary_search_provider.h"
 
 #include <algorithm>

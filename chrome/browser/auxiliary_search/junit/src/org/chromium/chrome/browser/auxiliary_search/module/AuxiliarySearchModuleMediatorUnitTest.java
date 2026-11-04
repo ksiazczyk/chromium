@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuxiliarySearchModuleMediatorUnitTest
+// summary: Robolectric unit tests covering the auxiliary search module mediator's opt-in card display, button click handling and related metrics.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search.module;
 
 import static org.junit.Assert.assertEquals;
