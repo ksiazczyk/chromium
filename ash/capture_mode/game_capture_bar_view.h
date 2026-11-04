@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game capture bar view header
+// summary: Declares GameCaptureBarView, the content view of the capture mode bar widget for game capture sessions with a start recording button.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_bar_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_GAME_CAPTURE_BAR_VIEW_H_
 #define ASH_CAPTURE_MODE_GAME_CAPTURE_BAR_VIEW_H_
 

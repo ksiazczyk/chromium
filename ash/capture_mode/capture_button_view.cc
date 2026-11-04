@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture button view implementation
+// summary: Implements the capture button view that triggers screen capture, including recording format drop-down handling, icon and label updates, ink drop styling, and focus ring behavior.
+// relations:
+//   - implements /ash/capture_mode/capture_button_view.h
+//   - depends_on /ash/capture_mode/capture_mode_constants.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+// ---
+
 #include "ash/capture_mode/capture_button_view.h"
 
 #include <memory>

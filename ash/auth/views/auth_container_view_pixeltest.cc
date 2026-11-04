@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthContainerView pixel tests
+// summary: Pixel tests verifying the rendered appearance of the auth container in password, PIN, and fingerprint configurations.
+// relations:
+//   - tests /ash/auth/views/auth_container_view.h
+//   - depends_on /ash/auth/views/auth_input_row_view.h
+//   - depends_on /ash/auth/views/fingerprint_view.h
+// ---
+
 #include <memory>
 #include <optional>
 

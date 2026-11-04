@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode utility header
+// summary: Declares capture mode utility functions and constants for fine-tune positions, stop-recording tray visibility, accessibility alerts, and capture notifications.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_constants.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_UTIL_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_UTIL_H_
 

@@ -1,0 +1,7 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Birch build configuration
+summary: GN build rules for the Birch directory, defining the removed items proto library and asserting ChromeOS builds.
+relations:
+  - depends_on /third_party/protobuf/proto_library.gni
+  - depends_on /ash/birch/removed_items.proto

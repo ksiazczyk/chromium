@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake folder selection dialog factory header
+// summary: Declares a factory that installs a fake folder selection dialog and lets tests simulate accepting or canceling the dialog, one dialog at a time.
+// relations:
+//   - implements /ui/shell_dialogs/select_file_dialog_factory.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_FAKE_FOLDER_SELECTION_DIALOG_FACTORY_H_
 #define ASH_CAPTURE_MODE_FAKE_FOLDER_SELECTION_DIALOG_FACTORY_H_
 

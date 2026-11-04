@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeCameraDevice header
+// summary: Declares a fake VideoSource mojo implementation representing a fake camera device used in ash_unittests, with helpers to compare produced frames and trigger errors.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/containers/flat_map.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_FAKE_CAMERA_DEVICE_H_
 #define ASH_CAPTURE_MODE_FAKE_CAMERA_DEVICE_H_
 

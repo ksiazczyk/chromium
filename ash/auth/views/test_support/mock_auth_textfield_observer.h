@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockAuthTextfieldObserver
+// summary: GMock implementation of AuthTextfield::Observer that records textfield focus changes, content edits, visibility changes, submissions, and escape presses.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/auth/views/auth_textfield.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_TEST_SUPPORT_MOCK_AUTH_TEXTFIELD_OBSERVER_H_
 #define ASH_AUTH_VIEWS_TEST_SUPPORT_MOCK_AUTH_TEXTFIELD_OBSERVER_H_
 

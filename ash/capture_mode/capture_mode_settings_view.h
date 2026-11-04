@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode settings view header
+// summary: Declares CaptureModeSettingsView, the scrollable content view of the capture mode settings menu with option groups for audio input, save location, and cameras.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_camera_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_menu_group.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_SETTINGS_VIEW_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_SETTINGS_VIEW_H_
 

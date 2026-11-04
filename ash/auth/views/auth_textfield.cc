@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth textfield implementation
+// summary: Implements the auth textfield for password and PIN entry, with obscured glyph spacing, accessible names, placeholder text, and observer notifications.
+// relations:
+//   - implements /ash/auth/views/auth_textfield.h
+//   - depends_on /ash/style/system_textfield.h
+//   - depends_on /ash/style/system_textfield_controller.h
+// ---
+
 #include "ash/auth/views/auth_textfield.h"
 
 #include <string>

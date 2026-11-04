@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode session focus cycler declaration
+// summary: Declares the focus cycler that handles special focus transitions between capture session UI items and defines its focus groups and highlightable views.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_SESSION_FOCUS_CYCLER_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_SESSION_FOCUS_CYCLER_H_
 

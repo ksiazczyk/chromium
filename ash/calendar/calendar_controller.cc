@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarController implementation
+// summary: Implements the CalendarController that registers profile prefs, maps calendar clients to user accounts, and tracks the active user session.
+// relations:
+//   - implements /ash/calendar/calendar_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/public/cpp/session/session_controller.h
+// ---
+
 #include "ash/calendar/calendar_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

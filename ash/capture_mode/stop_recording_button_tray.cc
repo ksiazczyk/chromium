@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StopRecordingButtonTray implementation
+// summary: Implements the status area tray icon button that ends the ongoing video recording when pressed.
+// relations:
+//   - depends_on /ash/capture_mode/stop_recording_button_tray.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_metrics.h
+// ---
+
 #include "ash/capture_mode/stop_recording_button_tray.h"
 
 #include "ash/capture_mode/capture_mode_controller.h"

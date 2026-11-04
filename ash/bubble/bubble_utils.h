@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble utilities
+// summary: Declares helpers that decide whether an event should close a bubble and that create or style labels with ash typography tokens and colors.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/ash_color_id.h
+//   - depends_on /ui/color/color_id.h
+// ---
+
 #ifndef ASH_BUBBLE_BUBBLE_UTILS_H_
 #define ASH_BUBBLE_BUBBLE_UTILS_H_
 

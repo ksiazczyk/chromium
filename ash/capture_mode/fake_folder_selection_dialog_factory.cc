@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake folder selection dialog factory
+// summary: Implements a fake SelectFileDialog factory for tests, exposing APIs to accept a path, cancel or dismiss the folder selection dialog.
+// relations:
+//   - depends_on /ash/capture_mode/fake_folder_selection_dialog_factory.h
+//   - implements /ui/shell_dialogs/select_file_dialog.h
+// ---
+
 #include "ash/capture_mode/fake_folder_selection_dialog_factory.h"
 
 #include <memory>

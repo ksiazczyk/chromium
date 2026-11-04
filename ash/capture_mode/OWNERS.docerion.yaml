@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Capture mode code owners
+summary: Lists the owners responsible for reviewing capture_mode changes, including a per-file owner for the camera video frame renderer.

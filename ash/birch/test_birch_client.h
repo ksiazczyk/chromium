@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Birch client header
+// summary: Declares TestBirchClient and TestBirchDataProvider, test doubles that supply configurable fake items to the Birch model in Ash tests.
+// relations:
+//   - implements /ash/birch/birch_client.h
+//   - depends_on /ash/birch/birch_data_provider.h
+//   - depends_on /ash/birch/birch_item.h
+// ---
+
 #ifndef ASH_BIRCH_TEST_BIRCH_CLIENT_H_
 #define ASH_BIRCH_TEST_BIRCH_CLIENT_H_
 

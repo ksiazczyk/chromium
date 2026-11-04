@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture mode unit tests
+// summary: Extensive unit tests covering capture mode sessions, controller behavior, bar and settings views, recording, camera controller, and related UI interactions.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_session_test_api.h
+//   - depends_on /ash/capture_mode/capture_mode_settings_test_api.h
+//   - depends_on /ash/capture_mode/capture_mode_test_util.h
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <optional>

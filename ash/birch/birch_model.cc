@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchModel implementation
+// summary: Implements BirchModel, which aggregates calendar, tab, file, weather, and coral data from providers, registers Birch prefs, and notifies observers of updates.
+// relations:
+//   - implements /ash/birch/birch_model.h
+// ---
+
 #include "ash/birch/birch_model.h"
 
 #include <algorithm>

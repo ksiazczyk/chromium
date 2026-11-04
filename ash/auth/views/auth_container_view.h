@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthContainerView class declaration
+// summary: Declares the auth container view that switches between password and PIN input, with observer notifications, input enabling, and a test API.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/auth/views/auth_common.h
+//   - depends_on /ash/auth/views/auth_input_row_view.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_AUTH_CONTAINER_VIEW_H_
 #define ASH_AUTH_VIEWS_AUTH_CONTAINER_VIEW_H_
 

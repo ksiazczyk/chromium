@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple grid layout class
+// summary: Declares a custom views layout manager for equally sized children in a grid that handles view removal and changing row counts.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/gfx/geometry/size.h
+//   - depends_on /ui/views/layout/layout_manager_base.h
+// ---
+
 #ifndef ASH_BUBBLE_SIMPLE_GRID_LAYOUT_H_
 #define ASH_BUBBLE_SIMPLE_GRID_LAYOUT_H_
 

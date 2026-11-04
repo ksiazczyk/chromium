@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleGridLayout unit tests
+// summary: Unit tests verifying that Ash's SimpleGridLayout computes preferred sizes and positions child views correctly, including handling of views ignored by layout.
+// relations:
+//   - tests /ash/bubble/simple_grid_layout.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+//   - depends_on /ui/views/test/test_views.h
+// ---
+
 #include "ash/bubble/simple_grid_layout.h"
 
 #include <memory>

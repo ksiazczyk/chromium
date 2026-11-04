@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchModel class declaration
+// summary: Declares the BirchModel class that stores and aggregates Birch items from providers, manages per-type prefs, and exposes data fetch, icon cache, and observer APIs.
+// relations:
+//   - implements /ash/birch/birch_coral_provider.h
+//   - implements /ash/public/cpp/session/session_observer.h
+//   - implements /chromeos/ash/components/geolocation/system_location_provider.h
+// ---
+
 #ifndef ASH_BIRCH_BIRCH_MODEL_H_
 #define ASH_BIRCH_BIRCH_MODEL_H_
 

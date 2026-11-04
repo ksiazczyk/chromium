@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask pod controller interface
+// summary: Declares the OnTaskPodController interface that OnTaskPodView uses for pod snap location, page navigation, reloads, tab strip visibility, and pause mode updates.
+// relations:
+//   - dependency_of /ash/boca/on_task/on_task_pod_view.h
+// ---
+
 #ifndef ASH_BOCA_ON_TASK_ON_TASK_POD_CONTROLLER_H_
 #define ASH_BOCA_ON_TASK_ON_TASK_POD_CONTROLLER_H_
 

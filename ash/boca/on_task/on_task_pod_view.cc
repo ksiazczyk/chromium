@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask pod view implementation
+// summary: Implements the OnTaskPodView widget with shortcut buttons for pod positioning, back and forward navigation, tab reload, and tab strip pinning.
+// relations:
+//   - depends_on /ash/boca/on_task/on_task_pod_view.h
+//   - depends_on /ash/boca/on_task/on_task_pod_controller.h
+//   - depends_on /ash/style/icon_button.h
+// ---
+
 #include "ash/boca/on_task/on_task_pod_view.h"
 
 #include <memory>

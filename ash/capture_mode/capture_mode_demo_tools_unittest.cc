@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture mode demo tools unit tests
+// summary: Unit tests for the demo tools controller, verifying key combo display, mouse and touch highlight animations and related behavior during recording.
+// relations:
+//   - depends_on /ash/accelerators/keyboard_code_util.h
+//   - depends_on /ash/accessibility/magnifier/docked_magnifier_controller.h
+//   - depends_on /ash/annotator/annotations_overlay_controller.h
+// ---
+
 #include <memory>
 #include <vector>
 

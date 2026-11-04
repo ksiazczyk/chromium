@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth textfield timer implementation
+// summary: Implements timers that hide a visible password after five seconds and clear the textfield after thirty seconds of inactivity for security.
+// relations:
+//   - implements /ash/auth/views/auth_textfield_timer.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/auth/views/auth_textfield.h
+// ---
+
 #include "ash/auth/views/auth_textfield_timer.h"
 
 #include <string_view>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchWeatherProvider class declaration
+// summary: Declares BirchWeatherProvider, a BirchDataProvider that requests weather data, downloads condition icons, and caches the last fetch for the Birch model.
+// relations:
+//   - implements /ash/birch/birch_data_provider.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/ambient/weather_info.h
+// ---
+
 #ifndef ASH_BIRCH_BIRCH_WEATHER_PROVIDER_H_
 #define ASH_BIRCH_BIRCH_WEATHER_PROVIDER_H_
 

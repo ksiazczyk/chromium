@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the ash booting directory
+summary: Points to the OOBE WebUI owners list in ash/login as the owners responsible for the booting directory.
+relations:
+  - references /ash/login/OOBE_WEBUI_OWNERS

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auth textfield timer unit test
+// summary: Unit tests for the auth textfield timer verifying password hiding and clearing behavior using mocked time.
+// relations:
+//   - tests /ash/auth/views/auth_textfield_timer.h
+//   - depends_on /ash/auth/views/auth_textfield.h
+//   - depends_on /ash/auth/views/test_support/mock_auth_textfield_observer.h
+// ---
+
 #include "ash/auth/views/auth_textfield_timer.h"
 
 #include <memory>

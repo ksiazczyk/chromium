@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveSessionAuthView class declaration
+// summary: Declares the in-session authentication view with an observer interface for password and PIN submission, close requests, input state setters, and a test API.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/auth/views/auth_container_view.h
+//   - depends_on /ash/auth/views/auth_header_view.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_ACTIVE_SESSION_AUTH_VIEW_H_
 #define ASH_AUTH_VIEWS_ACTIVE_SESSION_AUTH_VIEW_H_
 

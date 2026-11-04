@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture mode session test API implementation
+// summary: Implements the test API that exposes internal capture mode session state such as widgets, views and focus groups to test functions.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_session_test_api.h
+//   - depends_on /ash/capture_mode/action_button_container_view.h
+//   - depends_on /ash/capture_mode/action_button_view.h
+// ---
+
 #include "ash/capture_mode/capture_mode_session_test_api.h"
 
 #include "ash/capture_mode/action_button_container_view.h"

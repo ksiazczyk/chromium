@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordingTypeMenuView implementation
+// summary: Implements the menu view that lets users choose between WebM video and GIF recording formats and computes its on-screen bounds.
+// relations:
+//   - implements /ash/capture_mode/recording_type_menu_view.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+// ---
+
 #include "ash/capture_mode/recording_type_menu_view.h"
 
 #include "ash/capture_mode/capture_mode_controller.h"

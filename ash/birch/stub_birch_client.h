@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub Birch client declaration
+// summary: Declares StubBirchClient and its StubDataProvider, a do-nothing BirchClient used to exercise Birch data fetches and provider interactions in tests.
+// relations:
+//   - implements /ash/birch/birch_client.h
+//   - depends_on /ash/birch/birch_data_provider.h
+//   - depends_on /base/files/scoped_temp_dir.h
+// ---
+
 #ifndef ASH_BIRCH_STUB_BIRCH_CLIENT_H_
 #define ASH_BIRCH_STUB_BIRCH_CLIENT_H_
 

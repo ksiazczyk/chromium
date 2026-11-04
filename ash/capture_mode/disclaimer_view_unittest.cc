@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisclaimerView unit tests
+// summary: Unit tests verifying the disclaimer dialog's accept and decline buttons, keyboard navigation, and behavior differences between the reminder and non-reminder variants.
+// relations:
+//   - tests /ash/capture_mode/disclaimer_view.h
+//   - depends_on /ash/capture_mode/disclaimer_view.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/capture_mode/disclaimer_view.h"
 
 #include <memory>

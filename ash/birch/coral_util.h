@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coral utility functions declaration
+// summary: Declares Coral utility helpers for entity identifiers, tab and app splitting, debug formatting, and GenAI smart grouping policy checks.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/values.h
+//   - depends_on /components/prefs/pref_service.h
+// ---
+
 #ifndef ASH_BIRCH_CORAL_UTIL_H_
 #define ASH_BIRCH_CORAL_UTIL_H_
 

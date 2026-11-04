@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode menu toggle button implementation
+// summary: Implements a capture mode settings menu row that combines an icon, a label, and a switch toggle button.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_menu_toggle_button.h
+//   - depends_on /ash/capture_mode/capture_mode_constants.h
+//   - depends_on /ash/capture_mode/capture_mode_session_focus_cycler.h
+// ---
+
 #include "ash/capture_mode/capture_mode_menu_toggle_button.h"
 
 #include "ash/capture_mode/capture_mode_constants.h"

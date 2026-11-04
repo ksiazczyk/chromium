@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight notification bubble controller class declaration
+// summary: Declares the SpotlightNotificationBubbleController class, which owns the notification bubble widget, observes mouse events and shows the active teacher's name.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/event.h
+//   - implements /ui/events/event_observer.h
+// ---
+
 #ifndef ASH_BOCA_SPOTLIGHT_SPOTLIGHT_NOTIFICATION_BUBBLE_CONTROLLER_H_
 #define ASH_BOCA_SPOTLIGHT_SPOTLIGHT_NOTIFICATION_BUBBLE_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PIN keyboard view unit tests
+// summary: Unit tests verifying digit and backspace button clicks, observer notifications, and enabled-state behavior of the pin keyboard view.
+// relations:
+//   - tests /ash/auth/views/pin_keyboard_view.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #include "ash/auth/views/pin_keyboard_view.h"
 
 #include <memory>

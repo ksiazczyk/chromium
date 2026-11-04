@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActiveSessionAuthView unit tests
+// summary: Unit tests for the active session auth view covering password and PIN input, close button behavior, and observer notifications.
+// relations:
+//   - tests /ash/auth/views/active_session_auth_view.h
+//   - depends_on /ash/auth/views/test_support/mock_active_session_auth_view_observer.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/auth/views/active_session_auth_view.h"
 
 #include <memory>

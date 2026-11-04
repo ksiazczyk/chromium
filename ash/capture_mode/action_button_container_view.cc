@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action button container view implementation
+// summary: Implements the container view that displays ranked action buttons and an error view with a try again link near the capture region.
+// relations:
+//   - implements /ash/capture_mode/action_button_container_view.h
+//   - depends_on /ash/capture_mode/action_button_view.h
+//   - depends_on /ash/style/style_util.h
+// ---
+
 #include "ash/capture_mode/action_button_container_view.h"
 
 #include <algorithm>

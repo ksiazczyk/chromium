@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode Ash notification view header
+// summary: Declares a customized notification view for capture mode that overlays a clipboard banner on image capture notifications or a play icon on video thumbnails.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+//   - depends_on /ash/system/notification_center/views/ash_notification_view.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_ASH_NOTIFICATION_VIEW_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_ASH_NOTIFICATION_VIEW_H_
 

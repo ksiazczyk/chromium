@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode camera controller header
+// summary: Declares CameraId, CameraInfo, and the CaptureModeCameraController that manages camera devices and previews for capture mode sessions.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_behavior.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_CAMERA_CONTROLLER_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_CAMERA_CONTROLLER_H_
 

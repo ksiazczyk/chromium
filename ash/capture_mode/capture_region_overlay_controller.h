@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture region overlay controller header
+// summary: Declares the controller that manages the overlay on the capture region, tracking detected and translated text and controlling the glow animation.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/scanner/scanner_text.h
+//   - depends_on /ui/gfx/animation/throb_animation.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_REGION_OVERLAY_CONTROLLER_H_
 #define ASH_CAPTURE_MODE_CAPTURE_REGION_OVERLAY_CONTROLLER_H_
 

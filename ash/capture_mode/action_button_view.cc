@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action button view implementation
+// summary: Implements the action button view with icon and label, collapse-to-icon behavior, fade animations, and system shadow.
+// relations:
+//   - implements /ash/capture_mode/action_button_view.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+//   - depends_on /ash/capture_mode/capture_mode_util.h
+// ---
+
 #include "ash/capture_mode/action_button_view.h"
 
 #include <memory>

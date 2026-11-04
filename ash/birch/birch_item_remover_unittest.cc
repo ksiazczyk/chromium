@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BirchItemRemover unit tests
+// summary: Tests that BirchItemRemover filters removed tab, self-share, and calendar items out of Birch suggestion lists using a temporary directory for persistence.
+// relations:
+//   - tests /ash/birch/birch_item_remover.h
+//   - depends_on /ash/birch/birch_item.h
+//   - depends_on /base/files/scoped_temp_dir.h
+// ---
+
 #include "ash/birch/birch_item_remover.h"
 
 #include <memory>

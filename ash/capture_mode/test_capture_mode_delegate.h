@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCaptureModeDelegate class declaration
+// summary: Declares the test double for CaptureModeDelegate used to configure fake paths, policy restrictions, and recording behavior in capture mode tests.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+//   - implements /ash/public/cpp/capture_mode/capture_mode_delegate.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_TEST_CAPTURE_MODE_DELEGATE_H_
 #define ASH_CAPTURE_MODE_TEST_CAPTURE_MODE_DELEGATE_H_
 

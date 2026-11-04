@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture window observer implementation
+// summary: Implements observation of window activation, bounds, and desk changes to track the selected capturable window and update the capture region, bar anchoring, and camera preview.
+// relations:
+//   - implements /ash/capture_mode/capture_window_observer.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/capture_mode/capture_mode_camera_controller.h
+// ---
+
 #include "ash/capture_mode/capture_window_observer.h"
 
 #include "ash/app_list/app_list_controller_impl.h"

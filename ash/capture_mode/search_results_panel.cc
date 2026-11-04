@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultsPanel implementation
+// summary: Implements the panel widget that shows Sunfish capture search results with a title, close button, web view, and loading animation.
+// relations:
+//   - depends_on /ash/capture_mode/search_results_panel.h
+//   - depends_on /ash/capture_mode/base_capture_mode_session.h
+//   - depends_on /ash/capture_mode/capture_mode_constants.h
+// ---
+
 #include "ash/capture_mode/search_results_panel.h"
 
 #include "ash/capture_mode/base_capture_mode_session.h"

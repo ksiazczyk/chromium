@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture mode feature pod controller unit tests
+// summary: Unit tests checking the capture mode tile's visibility in active and locked sessions and that pressing its icon starts capture mode.
+// relations:
+//   - tests /ash/capture_mode/capture_mode_feature_pod_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_util.h
+//   - depends_on /ash/system/unified/feature_tile.h
+// ---
+
 #include "ash/capture_mode/capture_mode_feature_pod_controller.h"
 
 #include <memory>

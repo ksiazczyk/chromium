@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture mode screenshot notification pixel test
+// summary: Parameterized pixel test that verifies the screen capture notification popup appearance across normal, ultra-wide and ultra-tall display sizes.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_test_util.h
+//   - depends_on /ash/public/cpp/capture_mode/capture_mode_test_api.h
+// ---
+
 #include "ash/capture_mode/capture_mode_controller.h"
 #include "ash/capture_mode/capture_mode_test_util.h"
 #include "ash/public/cpp/capture_mode/capture_mode_test_api.h"

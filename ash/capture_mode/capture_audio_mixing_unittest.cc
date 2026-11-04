@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture audio mixing unit tests
+// summary: Unit tests verifying capture mode audio recording options in the settings menu, their selection behavior, persistence across sessions, and keyboard navigation of the audio controls.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_menu_group.h
+//   - depends_on /ash/capture_mode/capture_mode_session_test_api.h
+// ---
+
 #include "ash/capture_mode/capture_mode_controller.h"
 #include "ash/capture_mode/capture_mode_menu_group.h"
 #include "ash/capture_mode/capture_mode_session_test_api.h"

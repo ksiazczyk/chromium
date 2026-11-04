@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera video frame renderer implementation
+// summary: Implements rendering of camera video frames by building compositor frames and submitting them through a layer tree frame sink on a host window for the capture mode camera preview.
+// relations:
+//   - implements /ash/capture_mode/camera_video_frame_renderer.h
+//   - depends_on /ash/capture_mode/capture_mode_camera_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+// ---
+
 #include "ash/capture_mode/camera_video_frame_renderer.h"
 
 #include <cmath>

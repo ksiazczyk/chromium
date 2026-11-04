@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode metrics enums
+// summary: Defines enumerations used for capture mode metrics, including recording end reasons, bar buttons, configurations, entry types and save-to locations, persisted to histograms.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_behavior.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_METRICS_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_METRICS_H_
 

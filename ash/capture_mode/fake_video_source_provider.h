@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeVideoSourceProvider header
+// summary: Declares a fake VideoSourceProvider for testing interaction with the video capture service, including adding and removing fake cameras.
+// relations:
+//   - depends_on /ash/capture_mode/fake_camera_device.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_FAKE_VIDEO_SOURCE_PROVIDER_H_
 #define ASH_CAPTURE_MODE_FAKE_VIDEO_SOURCE_PROVIDER_H_
 

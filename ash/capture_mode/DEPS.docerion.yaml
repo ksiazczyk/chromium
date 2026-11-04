@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Capture mode dependency include rules
+summary: Defines allowed include dependencies and per-test specific include rules for the ash capture_mode directory.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveSessionAuthView implementation
+// summary: Implements the in-session authentication view that stacks a header with close button, title, and description above an auth container for password and PIN entry.
+// relations:
+//   - implements /ash/auth/views/active_session_auth_view.h
+//   - depends_on /ash/auth/views/auth_input_row_view.h
+//   - depends_on /ash/auth/views/auth_view_utils.h
+// ---
+
 #include "ash/auth/views/active_session_auth_view.h"
 
 #include <memory>

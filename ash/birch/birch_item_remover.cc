@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchItemRemover implementation
+// summary: Implements persistent recording of user-removed Birch items using SHA1-hashed identifiers and filtering of removed items from item lists.
+// relations:
+//   - implements /ash/birch/birch_item_remover.h
+//   - depends_on /ash/birch/birch_item.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/birch/birch_item_remover.h"
 
 #include <string>

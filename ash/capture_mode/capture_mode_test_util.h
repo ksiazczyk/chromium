@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture mode test utilities header
+// summary: Declares test-only helpers and constants for capture mode unit tests, including session startup, view interaction, tablet mode, and event simulation utilities.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+//   - depends_on /ash/capture_mode/test_capture_mode_delegate.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_TEST_UTIL_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_TEST_UTIL_H_
 

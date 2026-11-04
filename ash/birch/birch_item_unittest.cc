@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BirchItem unit tests
+// summary: Unit tests for BirchItem behavior, covering URL and file opening, favicon fetching, action counts, and time-dependent item logic with a mock clock and stub client.
+// relations:
+//   - tests /ash/birch/birch_item.h
+// ---
+
 #include "ash/birch/birch_item.h"
 
 #include <memory>

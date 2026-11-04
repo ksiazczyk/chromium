@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA for ash/child_accounts
+summary: Directory metadata assigning the ChromeOS FamilyExperiences team email, Chrome OS target, and Buganizer component for parental controls code.

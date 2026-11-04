@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key combo view implementation
+// summary: Implements the view that hosts key item widgets forming keyboard shortcut combos for capture mode demo tools, including modifier decoding, ordering and icon lookup.
+// relations:
+//   - implements /ash/capture_mode/key_combo_view.h
+//   - depends_on /ash/accelerators/keyboard_code_util.h
+//   - depends_on /ash/capture_mode/key_item_view.h
+// ---
+
 #include "ash/capture_mode/key_combo_view.h"
 
 #include <iterator>

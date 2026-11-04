@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode feature pod controller header
+// summary: Declares the controller class for the Quick Settings feature tile that launches screen capture mode.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+//   - depends_on /ash/system/unified/feature_pod_controller_base.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_FEATURE_POD_CONTROLLER_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_FEATURE_POD_CONTROLLER_H_
 

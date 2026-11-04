@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchRanker implementation
+// summary: Implements BirchRanker, which assigns time-of-day-based rankings to calendar, attachment, file, tab, weather, and other Birch items.
+// relations:
+//   - implements /ash/birch/birch_ranker.h
+// ---
+
 #include "ash/birch/birch_ranker.h"
 
 #include <algorithm>

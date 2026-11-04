@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth view layout utilities
+// summary: Implements helpers that add non-accessible vertical and horizontal spacer views to Ash auth view layouts.
+// relations:
+//   - implements /ash/auth/views/auth_view_utils.h
+//   - depends_on /ash/login/ui/non_accessible_view.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #include "ash/auth/views/auth_view_utils.h"
 
 #include "ash/login/ui/non_accessible_view.h"

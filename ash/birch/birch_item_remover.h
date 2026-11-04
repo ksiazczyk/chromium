@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchItemRemover class declaration
+// summary: Declares BirchItemRemover, which persists user-removed Birch items in a proto and filters them from tab, calendar, and file item lists.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/birch/birch_item.h
+//   - depends_on /ash/utility/persistent_proto.h
+// ---
+
 #ifndef ASH_BIRCH_BIRCH_ITEM_REMOVER_H_
 #define ASH_BIRCH_BIRCH_ITEM_REMOVER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coral grouped icon image class declaration
+// summary: Declares CoralGroupedIconImage, a canvas image source that composes grouped icons used by BirchCoralItem.
+// relations:
+//   - depends_on /ui/base/models/image_model.h
+//   - depends_on /ui/color/color_provider.h
+//   - depends_on /ui/gfx/image/canvas_image_source.h
+// ---
+
 #ifndef ASH_BIRCH_BIRCH_CORAL_GROUPED_ICON_IMAGE_H_
 #define ASH_BIRCH_BIRCH_CORAL_GROUPED_ICON_IMAGE_H_
 

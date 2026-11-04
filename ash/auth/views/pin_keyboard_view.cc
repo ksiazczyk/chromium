@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN keyboard view implementation
+// summary: Implements the pin keyboard view, a 3x4 grid of digit and backspace buttons that notifies observers of key presses.
+// relations:
+//   - implements /ash/auth/views/pin_keyboard_view.h
+//   - depends_on /ash/style/icon_button.h
+//   - depends_on /base/check.h
+// ---
+
 #include "ash/auth/views/pin_keyboard_view.h"
 
 #include <memory>

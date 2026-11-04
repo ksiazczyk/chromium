@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode bar view header
+// summary: Declares the CaptureModeBarView base class that hosts settings and close buttons and adapts its contents to different capture session initiation types.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_BAR_VIEW_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_BAR_VIEW_H_
 

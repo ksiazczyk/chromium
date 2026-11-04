@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple grid layout implementation
+// summary: Implements a grid layout manager that arranges equally sized children in fixed columns with optional or evenly distributed spacing.
+// relations:
+//   - implements /ash/bubble/simple_grid_layout.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #include "ash/bubble/simple_grid_layout.h"
 
 #include "ui/views/view.h"

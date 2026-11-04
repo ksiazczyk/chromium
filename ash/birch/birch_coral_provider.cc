@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch coral provider implementation
+// summary: Implements the coral data provider that fetches, caches, and manages tab and app clusters for birch suggestions.
+// relations:
+//   - implements /ash/birch/birch_coral_provider.h
+//   - depends_on /ash/birch/birch_item.h
+//   - depends_on /ash/birch/birch_model.h
+// ---
+
 #include "ash/birch/birch_coral_provider.h"
 
 #include <unordered_set>

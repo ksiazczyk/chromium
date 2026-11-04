@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ParentAccessControllerImpl unit tests
+// summary: Unit tests covering the parent access PIN dialog behavior, validation outcomes, and UMA histogram logging for supervised actions in the Ash login UI.
+// relations:
+//   - tests /ash/child_accounts/parent_access_controller_impl.cc
+//   - depends_on /ash/child_accounts/parent_access_controller_impl.h
+//   - depends_on /ash/login/mock_login_screen_client.h
+// ---
+
 #include "ash/child_accounts/parent_access_controller_impl.h"
 
 #include <string>

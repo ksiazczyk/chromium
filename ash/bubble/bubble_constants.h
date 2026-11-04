@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble constants
+// summary: Defines shared ash bubble constants for corner radius, menu padding, and the system tray bubble shadow elevation.
+// relations:
+//   - depends_on /ash/style/system_shadow.h
+// ---
+
 #ifndef ASH_BUBBLE_BUBBLE_CONSTANTS_H_
 #define ASH_BUBBLE_BUBBLE_CONSTANTS_H_
 

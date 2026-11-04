@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active session auth metrics recorder implementation
+// summary: Records UMA histograms for the active session auth dialog, covering show reasons, auth outcomes, attempt counts and open duration.
+// relations:
+//   - implements /ash/auth/active_session_auth_metrics_recorder.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/auth/views/auth_common.h
+// ---
+
 #include "ash/auth/active_session_auth_metrics_recorder.h"
 
 #include <optional>

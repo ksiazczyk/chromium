@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NullCaptureModeSession implementation
+// summary: Implements a null-object capture mode session that skips the countdown and user input and creates no capture bar, used for game dashboard window recording.
+// relations:
+//   - implements /ash/capture_mode/null_capture_mode_session.h
+//   - depends_on /base/notreached.h
+//   - depends_on /ui/compositor/layer.h
+// ---
+
 #include "ash/capture_mode/null_capture_mode_session.h"
 #include "base/notreached.h"
 #include "ui/compositor/layer.h"

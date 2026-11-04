@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spotlight notification bubble view unit tests
+// summary: Unit tests verifying the bubble view's horizontal orientation, center alignment, visibility icon and the notification label text.
+// relations:
+//   - tests /ash/boca/spotlight/spotlight_notification_bubble_view.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ui/views/widget/widget.h
+// ---
+
 #include "ash/boca/spotlight/spotlight_notification_bubble_view.h"
 
 #include <memory>

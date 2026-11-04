@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode feature pod controller implementation
+// summary: Implements the Quick Settings feature tile for capture mode, calculating its visibility and starting a capture session when the icon is pressed.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_feature_pod_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_metrics.h
+// ---
+
 #include "ash/capture_mode/capture_mode_feature_pod_controller.h"
 
 #include "ash/capture_mode/capture_mode_controller.h"

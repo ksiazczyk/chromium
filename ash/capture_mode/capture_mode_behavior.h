@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode behavior interface header
+// summary: Declares the CaptureModeBehavior interface and session configs that let clients customize capture mode capabilities such as sources, audio, and overlays.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+//   - depends_on /base/files/file_path.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_BEHAVIOR_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_BEHAVIOR_H_
 

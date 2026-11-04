@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base capture mode session class declaration
+// summary: Declares BaseCaptureModeSession, the base interface for regular and null-object capture mode sessions, covering initialization, shutdown, widget parenting, and capture source or type change handling.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_behavior.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_BASE_CAPTURE_MODE_SESSION_H_
 #define ASH_CAPTURE_MODE_BASE_CAPTURE_MODE_SESSION_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode camera preview view header
+// summary: Declares the CameraPreviewView contents view and resize button that render camera video frames inside the capture mode preview widget.
+// relations:
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/accessibility_observer.h
+//   - depends_on /ash/capture_mode/camera_video_frame_renderer.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_CAMERA_PREVIEW_VIEW_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_CAMERA_PREVIEW_VIEW_H_
 

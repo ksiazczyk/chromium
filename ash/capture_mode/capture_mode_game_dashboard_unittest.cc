@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Game dashboard capture mode integration tests
+// summary: Tests capture mode sessions launched from the Game Dashboard, covering capture bar placement in game windows, camera preview, and notification buttons.
+// relations:
+//   - tests /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/capture_mode/capture_mode_bar_view.h"
 #include "ash/capture_mode/capture_mode_camera_preview_view.h"
 #include "ash/capture_mode/capture_mode_constants.h"

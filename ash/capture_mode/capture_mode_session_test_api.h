@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture mode session test API declaration
+// summary: Declares a wrapper around CaptureModeSession that exposes its internal state, widgets and focus information to test functions.
+// relations:
+//   - depends_on /ash/capture_mode/action_button_container_view.h
+//   - depends_on /ash/capture_mode/capture_mode_constants.h
+//   - depends_on /ash/capture_mode/capture_mode_session_focus_cycler.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_SESSION_TEST_API_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_SESSION_TEST_API_H_
 

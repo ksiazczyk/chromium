@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarClient interface header
+// summary: Declares the CalendarClient interface providing calendar API calls such as fetching calendar lists and events, with admin-disable checks and cancellable requests.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /google_apis/calendar/calendar_api_requests.h
+// ---
+
 #ifndef ASH_CALENDAR_CALENDAR_CLIENT_H_
 #define ASH_CALENDAR_CALENDAR_CLIENT_H_
 

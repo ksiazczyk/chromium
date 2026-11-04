@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchCoralProvider class declaration
+// summary: Declares BirchCoralProvider, a Birch data provider that manages Coral tab groups, observes sessions, overview, and tab cluster UI, and handles group removal and title updates.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/birch/birch_data_provider.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+// ---
+
 #ifndef ASH_BIRCH_BIRCH_CORAL_PROVIDER_H_
 #define ASH_BIRCH_BIRCH_CORAL_PROVIDER_H_
 

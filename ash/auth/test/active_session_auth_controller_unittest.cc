@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Active session auth controller unit tests
+// summary: Unit tests for the Ash active session auth controller, covering WebAuthn, password manager, settings and payments autofill auth dialogs using fake cryptohome clients.
+// relations:
+//   - tests /ash/auth/active_session_auth_controller_impl.h
+// ---
+
 #include "ash/auth/active_session_auth_controller_impl.h"
 #include "ash/constants/ash_pref_names.h"
 #include "ash/session/session_controller_impl.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchDataProvider interface
+// summary: Defines the interface for a Birch data source, with a pure virtual data fetch request and change notification callback support.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_BIRCH_BIRCH_DATA_PROVIDER_H_
 #define ASH_BIRCH_BIRCH_DATA_PROVIDER_H_
 

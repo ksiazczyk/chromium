@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bubble utilities unit tests
+// summary: Tests ShouldCloseBubbleForEvent so events close bubbles normally but not during capture mode, in special containers, or in the shelf hotseat area.
+// relations:
+//   - tests /ash/bubble/bubble_utils.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_metrics.h
+// ---
+
 #include "ash/bubble/bubble_utils.h"
 
 #include "ash/capture_mode/capture_mode_controller.h"

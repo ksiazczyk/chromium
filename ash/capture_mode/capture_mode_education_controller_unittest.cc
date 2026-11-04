@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture mode education controller unit tests
+// summary: Unit tests verifying the capture mode education nudge, including its visibility via shortcut, dismissal when a capture session starts, and related nudge metrics.
+// relations:
+//   - tests /ash/capture_mode/capture_mode_education_controller.h
+//   - depends_on /ash/accelerators/accelerator_tracker.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+// ---
+
 #include "ash/capture_mode/capture_mode_education_controller.h"
 
 #include "ash/accelerators/accelerator_tracker.h"

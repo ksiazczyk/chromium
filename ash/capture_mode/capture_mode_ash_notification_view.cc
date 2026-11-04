@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode Ash notification view implementation
+// summary: Implements the notification view for capture mode results, adding a banner view for image captures or a centered play icon for video captures inside the notification image container.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_ash_notification_view.h
+//   - depends_on /ash/capture_mode/capture_mode_util.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/capture_mode/capture_mode_ash_notification_view.h"
 
 #include "ash/capture_mode/capture_mode_util.h"

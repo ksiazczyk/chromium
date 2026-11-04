@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coral grouped icon image implementation
+// summary: Implements drawing of the grouped icon image for coral items, composing up to four icons and an extra count on a circular background.
+// relations:
+//   - implements /ash/birch/birch_coral_grouped_icon_image.h
+//   - depends_on /base/strings/string_number_conversions.h
+//   - depends_on /cc/paint/paint_flags.h
+// ---
+
 #include "ash/birch/birch_coral_grouped_icon_image.h"
 
 #include "base/strings/string_number_conversions.h"

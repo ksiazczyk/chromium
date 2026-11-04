@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode settings menu group header
+// summary: Declares the CaptureModeMenuGroup view that groups related capture mode settings with optional headers, options, and delegate callbacks.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_session_focus_cycler.h
+//   - depends_on /base/gtest_prod_util.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_MENU_GROUP_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_MENU_GROUP_H_
 

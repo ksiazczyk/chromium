@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth textfield header
+// summary: Declares the AuthTextfield class, a textfield that selects all text on focus, toggles password visibility, and notifies observers of changes.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/system_textfield.h
+//   - depends_on /ash/style/system_textfield_controller.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_AUTH_TEXTFIELD_H_
 #define ASH_AUTH_VIEWS_AUTH_TEXTFIELD_H_
 

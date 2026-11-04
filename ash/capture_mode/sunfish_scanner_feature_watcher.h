@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SunfishScannerFeatureWatcher class declaration
+// summary: Declares a best-effort observer source for Sunfish and Scanner feature states, including its observer interface and manual state refresh method.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /ash/shell.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_SUNFISH_SCANNER_FEATURE_WATCHER_H_
 #define ASH_CAPTURE_MODE_SUNFISH_SCANNER_FEATURE_WATCHER_H_
 

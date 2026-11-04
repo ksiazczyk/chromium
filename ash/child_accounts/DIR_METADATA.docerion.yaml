@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Points the ash/child_accounts directory metadata to the shared COMMON_METADATA mixin.
+relations:
+  - references /ash/child_accounts/COMMON_METADATA

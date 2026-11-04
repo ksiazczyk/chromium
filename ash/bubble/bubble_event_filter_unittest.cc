@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bubble event filter unit tests
+// summary: Parameterized mouse-versus-touch tests verifying the callback runs for clicks outside the widget and not for clicks inside the widget or its view.
+// relations:
+//   - tests /ash/bubble/bubble_event_filter.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/bubble/bubble_event_filter.h"
 
 #include <memory>

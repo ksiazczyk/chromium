@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action button container view unit tests
+// summary: Unit tests verifying action button creation, rank ordering, error view behavior, and smart actions button transitions.
+// relations:
+//   - tests /ash/capture_mode/action_button_container_view.h
+//   - depends_on /ash/capture_mode/action_button_view.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+// ---
+
 #include "ash/capture_mode/action_button_container_view.h"
 
 #include <memory>

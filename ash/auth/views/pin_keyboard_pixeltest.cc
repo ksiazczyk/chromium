@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PIN keyboard view pixel tests
+// summary: Pixel tests verifying the pin keyboard view's appearance in day and night modes.
+// relations:
+//   - tests /ash/auth/views/pin_keyboard_view.h
+//   - depends_on /ash/style/dark_light_mode_controller_impl.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include <memory>
 #include <optional>
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode UI constants
+// summary: Declares shared constants for the Chrome OS capture mode UI, including button sizes, spacing, colors, camera preview limits and timing values.
+// relations:
+//   - depends_on /base/time/time.h
+//   - depends_on /ui/gfx/color_palette.h
+//   - depends_on /ui/gfx/geometry/insets.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_CONSTANTS_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_CONSTANTS_H_
 

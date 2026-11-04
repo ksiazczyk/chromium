@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared auth view enums and constants
+// summary: Defines the AuthInputType enum, AuthFactorSet, and shared text width, color, and typography constants used across the auth views.
+// relations:
+//   - depends_on /ash/style/typography.h
+//   - depends_on /base/containers/enum_set.h
+//   - references /tools/metrics/histograms/metadata/ash/enums.xml
+// ---
+
 #ifndef ASH_AUTH_VIEWS_AUTH_COMMON_H_
 #define ASH_AUTH_VIEWS_AUTH_COMMON_H_
 

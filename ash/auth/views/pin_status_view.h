@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN status view class declaration
+// summary: Declares the pin status view that shows PIN lockout status text and refreshes it with a timer.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_PIN_STATUS_VIEW_H_
 #define ASH_AUTH_VIEWS_PIN_STATUS_VIEW_H_
 

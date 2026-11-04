@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserNudgeController implementation
+// summary: Implements the ring and ripple animations plus toast that highlight a capture mode view, such as the partial button, to draw user attention.
+// relations:
+//   - implements /ash/capture_mode/user_nudge_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_session.h
+// ---
+
 #include "ash/capture_mode/user_nudge_controller.h"
 
 #include "ash/capture_mode/capture_mode_controller.h"

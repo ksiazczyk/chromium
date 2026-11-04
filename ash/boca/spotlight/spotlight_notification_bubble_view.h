@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight notification bubble view class declaration
+// summary: Declares the SpotlightNotificationBubbleView class with layout constants, test element accessors and the ShowInactive announcement method.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_BOCA_SPOTLIGHT_SPOTLIGHT_NOTIFICATION_BUBBLE_VIEW_H_
 #define ASH_BOCA_SPOTLIGHT_SPOTLIGHT_NOTIFICATION_BUBBLE_VIEW_H_
 

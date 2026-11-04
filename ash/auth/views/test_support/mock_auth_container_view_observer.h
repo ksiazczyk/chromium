@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockAuthContainerViewObserver
+// summary: GMock implementation of AuthContainerView::Observer that records password and PIN submissions, escape presses, and content changes for tests.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/auth/views/auth_container_view.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_TEST_SUPPORT_MOCK_AUTH_CONTAINER_VIEW_OBSERVER_H_
 #define ASH_AUTH_VIEWS_TEST_SUPPORT_MOCK_AUTH_CONTAINER_VIEW_OBSERVER_H_
 
