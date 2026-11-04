@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the settings_overrides directory
+summary: Empty OWNERS file for the settings_overrides API directory, following the Chromium code ownership convention.

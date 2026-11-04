@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for ChromeOS passwords_private reauth utilities
+// summary: Declares IsOsReauthAllowedAsh, which checks whether a profile is authorized for password access and whether its auth token is within the allowed lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PASSWORDS_PRIVATE_PASSWORDS_PRIVATE_UTILS_CHROMEOS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PASSWORDS_PRIVATE_PASSWORDS_PRIVATE_UTILS_CHROMEOS_H_
 

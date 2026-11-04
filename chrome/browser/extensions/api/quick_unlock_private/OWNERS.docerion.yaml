@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the quick_unlock_private folder
+summary: Lists the directory owner and references the Ash settings OWNERS file for review routing.

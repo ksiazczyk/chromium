@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome_native_message_port_dispatcher.cc
+// summary: Implements the dispatcher that shuttles messages between the native message host task runner and the message service task runner.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/chrome_native_message_port_dispatcher.h"
 
 #include <memory>

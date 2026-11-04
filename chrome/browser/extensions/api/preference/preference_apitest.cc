@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension preference API browser tests
+// summary: Browser tests for the extensions preference API, verifying that extensions can control preferences such as cookie controls mode and autofill settings.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

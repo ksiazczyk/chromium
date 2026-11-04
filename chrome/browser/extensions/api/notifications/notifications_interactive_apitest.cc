@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive tests for the notifications extension API
+// summary: Browser tests that exercise extension notification creation, updates, clicks and window state behavior across platforms.
+// ---
+
 #include <memory>
 
 #include "base/containers/circular_deque.h"

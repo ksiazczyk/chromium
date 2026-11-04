@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing Utility Unit Tests
+// summary: Tests that referrer chain entries are correctly converted from protobuf to the extension API IDL format, validating all fields.
+// ---
+
 #include "chrome/browser/extensions/api/safe_browsing_private/safe_browsing_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeMessagingConnectionTest
+// summary: Robolectric unit tests for NativeMessagingConnection covering service binding, port connection callbacks, disconnection reasons and histogram reporting across multiple extensions.
+// ---
+
 package org.chromium.chrome.browser.extensions.api.messaging;
 
 import android.content.ComponentName;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the pdfViewerPrivate extension API
+// summary: Unit tests for the pdfViewerPrivate extension functions, using mocks for the Save to Drive flow and mime handler stream infrastructure.
+// ---
+
 #include "chrome/browser/extensions/api/pdf_viewer_private/pdf_viewer_private_api.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA with bug component and team email
+summary: Records the Buganizer component ID and owning team email address for the networking_private directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native messaging launch from native unit tests
+// summary: Unit tests for ExtensionSupportsConnectionFromNativeApp, using mock event routers and registered extensions to verify native connection support.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/native_messaging_launch_from_native.h"
 
 #include <memory>

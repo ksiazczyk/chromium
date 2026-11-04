@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job submitter header
+// summary: Declares the PrintJobSubmitter class that parses submitJob arguments, reports errors, and submits print jobs to the printer.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PRINTING_PRINT_JOB_SUBMITTER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PRINTING_PRINT_JOB_SUBMITTER_H_
 

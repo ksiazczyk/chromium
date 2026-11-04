@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for passwords_private
+summary: Declares the Monorail component and Buganizer component ID used for issues filed in this directory.

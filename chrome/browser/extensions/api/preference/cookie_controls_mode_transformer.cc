@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie controls mode preference transformer implementation
+// summary: Converts the thirdPartyCookiesAllowed extension setting into CookieControlsMode browser preference values and back, accounting for incognito.
+// ---
+
 #include "chrome/browser/extensions/api/preference/cookie_controls_mode_transformer.h"
 
 #include "base/values.h"

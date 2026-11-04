@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash utilities for quickUnlockPrivate auth tokens
+// summary: Implements the getAuthToken helper that starts cryptohome auth sessions, authenticates with a password and loads auth factors for quick unlock.
+// ---
+
 #include "chrome/browser/extensions/api/quick_unlock_private/quick_unlock_private_ash_utils.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeMessageAndroidPort implementation
+// summary: Implements the C++ message port that connects Chrome extensions to Android apps over JNI, including certificate conversion and connection setup.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/android/native_message_android_port.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows launch context implementation
+// summary: Implements Windows-specific native messaging host manifest lookup in the registry and process launching, including direct launch of executable hosts.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/launch_context.h"
 
 #include <windows.h>

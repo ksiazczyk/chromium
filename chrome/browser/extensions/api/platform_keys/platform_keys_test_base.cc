@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the platformKeys test base fixture
+// summary: Implements setup for the platformKeys test fixture, including system token slots, device enrollment, user affiliation, fake Gaia and embedded test servers.
+// ---
+
 #include "chrome/browser/extensions/api/platform_keys/platform_keys_test_base.h"
 
 #include <array>

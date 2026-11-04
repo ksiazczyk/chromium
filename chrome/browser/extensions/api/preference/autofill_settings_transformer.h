@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill settings preference transformer header
+// summary: Declares AutofillSettingsTransformer, which maps camelCase autofillSettings API values to snake_case browser preferences.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PREFERENCE_AUTOFILL_SETTINGS_TRANSFORMER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PREFERENCE_AUTOFILL_SETTINGS_TRANSFORMER_H_
 

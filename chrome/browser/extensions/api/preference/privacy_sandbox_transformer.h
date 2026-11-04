@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox preference transformer header
+// summary: Declares the transformer class that converts the stored extension pref for enabling Privacy Sandbox APIs into the browser enablement state.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PREFERENCE_PRIVACY_SANDBOX_TRANSFORMER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PREFERENCE_PRIVACY_SANDBOX_TRANSFORMER_H_
 

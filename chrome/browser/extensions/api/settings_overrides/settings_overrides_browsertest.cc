@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Settings Overrides API
+// summary: Browser tests verifying how extensions override search provider and startup page settings, including prepopulated engine selection across platforms.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

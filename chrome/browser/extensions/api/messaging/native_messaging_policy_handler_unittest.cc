@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native messaging policy handler unit tests
+// summary: Unit tests for NativeMessagingHostListPolicyHandler covering policy checking and applying of native messaging blocklist entries.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/native_messaging_policy_handler.h"
 
 #include "chrome/browser/extensions/policy_handlers.h"

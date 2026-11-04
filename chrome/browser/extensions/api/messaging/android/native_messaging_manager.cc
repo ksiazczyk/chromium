@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeMessagingManager implementation
+// summary: Implements the native JNI counterpart of Java NativeMessagingManager, observing extension registry events and forwarding unload notifications to Java.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/android/native_messaging_manager.h"
 
 #include "base/android/jni_android.h"

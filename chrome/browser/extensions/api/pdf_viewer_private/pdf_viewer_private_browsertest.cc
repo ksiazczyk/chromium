@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Glic summarize PDF viewer function
+// summary: Browser tests verifying that the pdfViewerPrivate Glic summarize function shows the Glic side panel when Glic is enabled and returns an error when it is disabled.
+// ---
+
 #include "chrome/browser/extensions/api/pdf_viewer_private/pdf_viewer_private_api.h"
 #include "chrome/browser/glic/public/glic_side_panel_coordinator.h"
 #include "chrome/browser/glic/test_support/glic_browser_test.h"

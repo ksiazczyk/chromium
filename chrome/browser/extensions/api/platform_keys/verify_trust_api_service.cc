@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerifyTrustApiService implementation
+// summary: Implements the VerifyTrustApiService keyed service, delegating certificate verification calls to VerifyTrustApiImpl and providing the BrowserContextKeyedAPI factory.
+// ---
+
 #include "chrome/browser/extensions/api/platform_keys/verify_trust_api_service.h"
 
 #include "extensions/browser/extension_registry_factory.h"

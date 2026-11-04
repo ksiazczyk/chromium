@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Public suffix extension API browser test
+// summary: Runs an in-process browser test that exercises the public suffix extension API via the public_suffix test extension.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/test/browser_test.h"
 #include "extensions/buildflags/buildflags.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for safe_browsing_private
+summary: Defines the safe_browsing_private source set and the conditional unit_tests target with their dependencies.

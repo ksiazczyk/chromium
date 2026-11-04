@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message tracker browser tests
+// summary: Browser tests verifying MessageTracker metrics for extension messages sent between tabs and service worker extension background contexts.
+// ---
+
 #include "extensions/browser/message_tracker.h"
 
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passwords private delegate implementation
+// summary: Implements PasswordsPrivateDelegate, providing saved password lists, credential groups, import and export, and plaintext password access.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/passwords_private_delegate_impl.h"
 
 #include <memory>

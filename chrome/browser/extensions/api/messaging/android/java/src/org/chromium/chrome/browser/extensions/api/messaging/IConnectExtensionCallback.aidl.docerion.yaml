@@ -1,0 +1,4 @@
+# Docerion header of IConnectExtensionCallback.aidl.
+type: source
+title: Extension connection callback AIDL interface
+summary: AIDL callback implemented by the browser and passed to connectExtension, invoked by the external app to accept or reject the extension connection.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome runtime API delegate
+// summary: Unit tests for ChromeRuntimeAPIDelegate covering extension update checks, reload loop prevention, and event listener registration using fake test doubles.
+// ---
+
 #include "chrome/browser/extensions/api/runtime/chrome_runtime_api_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the autofill settings transformer
+// summary: Unit tests covering autofillSettings transformation in both directions, including invalid input, missing properties and multiple rules.
+// ---
+
 #include "chrome/browser/extensions/api/preference/autofill_settings_transformer.h"
 
 #include <string>

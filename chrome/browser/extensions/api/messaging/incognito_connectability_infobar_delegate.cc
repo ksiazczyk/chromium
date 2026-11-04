@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito connectability infobar delegate implementation
+// summary: Implements the confirmation infobar delegate that asks whether an extension may connect to a site in incognito and reports the user's allow or deny choice via callback.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/incognito_connectability_infobar_delegate.h"
 
 #include <utility>

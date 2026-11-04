@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for messaging AIDL files
+summary: Assigns review ownership of the AIDL files in the messaging API directory to the IPC security owners, with no parent approval required.

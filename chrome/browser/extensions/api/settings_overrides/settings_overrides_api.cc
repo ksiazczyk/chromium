@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings Overrides API implementation
+// summary: Implements the settings_overrides extension API that applies extension-declared search provider, startup page, and homepage overrides, including prepopulated engine handling.
+// ---
+
 #include "chrome/browser/extensions/api/settings_overrides/settings_overrides_api.h"
 
 #include <stddef.h>

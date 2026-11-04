@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for quickUnlockPrivate extension API functions
+// summary: Declares the quickUnlockPrivate extension function classes, including getAuthToken, setLockScreenEnabled, setPinAutosubmitEnabled and canAuthenticatePin.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_QUICK_UNLOCK_PRIVATE_QUICK_UNLOCK_PRIVATE_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_QUICK_UNLOCK_PRIVATE_QUICK_UNLOCK_PRIVATE_API_H_
 

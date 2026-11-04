@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the page_capture API
+summary: GN build file defining the page_capture source set, listing its sources and base, extensions, storage and content dependencies.

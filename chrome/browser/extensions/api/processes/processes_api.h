@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Processes extension API header
+// summary: Declares the ProcessesEventRouter and the profile-keyed ProcessesAPI service that route task manager updates to extension listeners.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PROCESSES_PROCESSES_API_H__
 #define CHROME_BROWSER_EXTENSIONS_API_PROCESSES_PROCESSES_API_H__
 

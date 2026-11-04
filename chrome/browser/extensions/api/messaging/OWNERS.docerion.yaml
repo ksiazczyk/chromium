@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for extension messaging
+summary: Lists the reviewers responsible for extension and app messaging code and for native messaging code in this directory.

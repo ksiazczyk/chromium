@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS networkingPrivate API implementation browser test
+// summary: Browser tests covering the ChromeOS networkingPrivate implementation against Shill, cryptohome and policy test stubs.
+// ---
+
 #include <memory>
 #include <utility>
 

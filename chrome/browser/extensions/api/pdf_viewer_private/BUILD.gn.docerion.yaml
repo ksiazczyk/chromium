@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the pdf_viewer_private extension API
+summary: Defines GN build targets for the pdf_viewer_private extension API source set plus its unit test and browser test targets, with conditional Save to Drive dependencies.

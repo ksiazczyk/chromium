@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passwords private delegate factory implementation
+// summary: Implements the factory and proxy that create PasswordsPrivateDelegate instances and control their lifetime per browser context.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/passwords_private_delegate_factory.h"
 
 #include "ash/constants/web_app_id_constants.h"

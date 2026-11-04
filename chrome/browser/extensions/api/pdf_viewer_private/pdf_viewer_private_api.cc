@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the pdfViewerPrivate extension API
+// summary: Implements the browser-side pdfViewerPrivate extension functions such as getStreamInfo, isAllowedLocalFileAccess, saveToDrive, setPdfDocumentTitle, and setPdfPluginAttributes.
+// ---
+
 #include "chrome/browser/extensions/api/pdf_viewer_private/pdf_viewer_private_api.h"
 
 #include <cmath>

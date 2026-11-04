@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion description XML parser header
+// summary: Declares structs and asynchronous functions for parsing XML-styled omnibox suggestion descriptions and their styles.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_OMNIBOX_SUGGESTION_PARSER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_OMNIBOX_SUGGESTION_PARSER_H_
 

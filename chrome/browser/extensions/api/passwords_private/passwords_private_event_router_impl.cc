@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordsPrivateEventRouterImpl implementation
+// summary: Broadcasts passwordsPrivate extension events such as saved password list changes, insecure credential updates, and password check status changes to extension listeners.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/passwords_private_event_router_impl.h"
 
 #include <utility>

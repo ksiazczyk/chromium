@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing API utilities declarations
+// summary: Declares helpers for the extensions printing API such as default printer rules parsing, printer conversion to IDL types, CJT print ticket parsing and settings compatibility checks.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PRINTING_PRINTING_API_UTILS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PRINTING_PRINTING_API_UTILS_H_
 

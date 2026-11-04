@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome runtime API delegate header
+// summary: Declares ChromeRuntimeAPIDelegate, which implements RuntimeAPIDelegate and ExtensionRegistryObserver to back the chrome.runtime API in Chrome.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_RUNTIME_CHROME_RUNTIME_API_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_RUNTIME_CHROME_RUNTIME_API_DELEGATE_H_
 

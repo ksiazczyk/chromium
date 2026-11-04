@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordsPrivate utilities implementation
+// summary: Implements helpers that build URL collections and password store sets from credentials and provides an idempotent IdGenerator that maps credentials to stable UI ids.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/passwords_private_utils.h"
 
 #include <tuple>

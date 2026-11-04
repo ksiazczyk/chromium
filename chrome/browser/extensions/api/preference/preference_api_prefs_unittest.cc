@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension controlled prefs unit tests
+// summary: Unit tests for extension-controlled preferences, covering regular and incognito scopes, session-only prefs, and blocklist behavior.
+// ---
+
 #include <stddef.h>
 
 #include <array>

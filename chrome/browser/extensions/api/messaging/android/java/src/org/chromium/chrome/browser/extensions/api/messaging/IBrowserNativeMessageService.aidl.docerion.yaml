@@ -1,0 +1,4 @@
+# Docerion header of IBrowserNativeMessageService.aidl.
+type: source
+title: Browser native message service AIDL interface
+summary: Defines the oneway AIDL interface the browser calls so an external Android app can accept or reject an extension's first native messaging connection request.

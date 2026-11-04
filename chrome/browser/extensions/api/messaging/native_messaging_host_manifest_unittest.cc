@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native messaging host manifest unit tests
+// summary: Unit tests for loading and validating native messaging host manifests, covering host name validation, manifest parsing and allowed origins.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/native_messaging_host_manifest.h"
 
 #include "base/files/file_path.h"

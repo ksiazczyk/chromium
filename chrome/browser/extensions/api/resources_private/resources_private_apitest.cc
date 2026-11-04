@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for the resourcesPrivate getStrings API
+// summary: Runs an in-process browser extension test that loads the resources_private/get_strings test extension as a component and verifies the getStrings call succeeds.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/test/browser_test.h"
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the notifications extension API
+summary: Defines the notifications source set and an Android browser test target together with their build dependencies.

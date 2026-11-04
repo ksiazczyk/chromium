@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the search.query extension function
+// summary: Implements the search.query extension function that navigates a specified tab or opens a new tab with the given query text and disposition, supporting Android and desktop.
+// ---
+
 #include "chrome/browser/extensions/api/search/search_api.h"
 
 #include "base/strings/string_number_conversions.h"

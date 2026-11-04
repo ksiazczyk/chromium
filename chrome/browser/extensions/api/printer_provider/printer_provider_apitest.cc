@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printer Provider API browser tests
+// summary: Browser tests for the chrome.printerProvider extension API, covering printer enumeration and print request handling with document data.
+// ---
+
 #include <stddef.h>
 
 #include <functional>

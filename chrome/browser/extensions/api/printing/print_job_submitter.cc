@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job submitter implementation
+// summary: Implements handling of chrome.printing.submitJob requests, including content and ticket validation, user confirmation dialog, and job submission.
+// ---
+
 #include "chrome/browser/extensions/api/printing/print_job_submitter.h"
 
 #include <algorithm>

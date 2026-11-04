@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX launch context implementation
+// summary: Implements POSIX manifest lookup and native messaging host process launching with stdin and stdout pipes for Linux and Mac.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/launch_context.h"
 
 #include <memory>

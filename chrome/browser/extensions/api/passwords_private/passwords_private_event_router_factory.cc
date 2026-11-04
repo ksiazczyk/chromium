@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordsPrivateEventRouterFactory implementation
+// summary: Implements the per-profile keyed service factory that creates the passwordsPrivate event router for each browser context.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/passwords_private_event_router_factory.h"
 
 #include "chrome/browser/extensions/api/passwords_private/passwords_private_event_router_impl.h"

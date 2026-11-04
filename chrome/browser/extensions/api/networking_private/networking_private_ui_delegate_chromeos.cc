@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS networkingPrivate UI delegate implementation
+// summary: Implements ShowAccountDetails for ChromeOS by forwarding to the ash NetworkConnect carrier account UI.
+// ---
+
 #include "chrome/browser/extensions/api/networking_private/networking_private_ui_delegate_chromeos.h"
 
 #include "chromeos/ash/components/network/network_connect.h"

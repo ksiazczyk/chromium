@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offscreen extension API tests
+// summary: Extension API tests covering offscreen document creation, audio-based lifetime behavior, incognito profiles, and service worker wake-up.
+// ---
+
 #include <algorithm>
 
 #include "base/functional/callback_helpers.h"

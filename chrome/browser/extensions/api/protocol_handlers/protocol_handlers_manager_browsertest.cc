@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol handlers manager browser tests
+// summary: Browser tests for the extensions protocol handlers manager, covering handler registration, incognito behavior, and platform-specific OS integration via a Mac test delegate.
+// ---
+
 #include "extensions/browser/api/protocol_handlers/protocol_handlers_manager.h"
 
 #include "base/run_loop.h"

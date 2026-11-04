@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome runtime API delegate implementation
+// summary: Implements the Chrome-specific delegate for the extensions runtime API, handling update checks, extension reloads, platform info, URL opening, and ChromeOS device restart.
+// ---
+
 #include "chrome/browser/extensions/api/runtime/chrome_runtime_api_delegate.h"
 
 #include <memory>

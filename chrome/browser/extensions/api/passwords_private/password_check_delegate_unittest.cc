@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password check delegate unit tests
+// summary: Unit tests for PasswordCheckDelegate covering bulk password check behavior, insecure credentials, and event notifications.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/password_check_delegate.h"
 
 #include <memory>

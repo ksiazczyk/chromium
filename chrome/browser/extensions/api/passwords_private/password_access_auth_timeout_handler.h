@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password access auth timeout handler declaration
+// summary: Declares a helper that manages the timer ending password access authentication validity, without handling authentication itself.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PASSWORDS_PRIVATE_PASSWORD_ACCESS_AUTH_TIMEOUT_HANDLER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PASSWORDS_PRIVATE_PASSWORD_ACCESS_AUTH_TIMEOUT_HANDLER_H_
 

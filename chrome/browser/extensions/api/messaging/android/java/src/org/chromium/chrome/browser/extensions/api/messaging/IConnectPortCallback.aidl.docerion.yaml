@@ -1,0 +1,4 @@
+# Docerion header of IConnectPortCallback.aidl.
+type: source
+title: Port connection callback AIDL interface
+summary: AIDL callback implemented by the browser and passed to connectPort, invoked by the external app to accept or reject a port connection request.

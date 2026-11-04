@@ -4,6 +4,12 @@
 
 // This file tests the chromeos.quickUnlockPrivate extension API.
 
+// ---docerion
+// type: test
+// title: Unit tests for the quickUnlockPrivate extension API
+// summary: Tests the chromeos.quickUnlockPrivate extension API across prefs-based and cryptohome-based quick unlock flows using fake services.
+// ---
+
 #include "chrome/browser/extensions/api/quick_unlock_private/quick_unlock_private_api.h"
 
 #include <algorithm>

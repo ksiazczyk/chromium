@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the extension module API
+summary: Defines the module source_set for the chrome.extension module API, listing module.cc and module.h as sources together with their build dependencies.

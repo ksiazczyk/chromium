@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for printing API utilities
+// summary: Unit tests covering print ticket parsing, settings and capabilities compatibility checks and default printer selection rules for the printing API utilities.
+// ---
+
 #include "chrome/browser/extensions/api/printing/printing_api_utils.h"
 
 #include "base/strings/stringprintf.h"

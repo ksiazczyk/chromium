@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeMessageAndroidPort header
+// summary: Declares the MessagePort subclass that manages communication between extensions and Android applications on the browser UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_MESSAGING_ANDROID_NATIVE_MESSAGE_ANDROID_PORT_H_
 #define CHROME_BROWSER_EXTENSIONS_API_MESSAGING_ANDROID_NATIVE_MESSAGE_ANDROID_PORT_H_
 

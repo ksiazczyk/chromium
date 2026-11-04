@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS utilities for passwords_private OS reauth
+// summary: Implements IsOsReauthAllowedAsh, deciding whether a ChromeOS profile may reauthenticate for password access based on user-facing password and auth token age.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/passwords_private_utils_chromeos.h"
 
 #include "chrome/browser/ash/login/quick_unlock/auth_token.h"

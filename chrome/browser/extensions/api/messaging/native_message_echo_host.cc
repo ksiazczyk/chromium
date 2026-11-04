@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native message echo host implementation
+// summary: Implements a test native messaging host that echoes JSON requests back and can simulate invalid responses or channel errors for API tests.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/native_message_echo_host.h"
 
 #include <optional>

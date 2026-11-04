@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the platformKeys extension API functions
+// summary: Implements extension API functions for the ChromeOS platformKeys API, including client certificate selection and keystore signing operations.
+// ---
+
 #include "chrome/browser/extensions/api/platform_keys/platform_keys_api.h"
 
 #include <stdint.h>

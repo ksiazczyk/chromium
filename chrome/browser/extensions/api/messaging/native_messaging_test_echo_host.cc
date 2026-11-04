@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native messaging test echo host
+// summary: A simple native messaging host test application that reads length-prefixed messages from stdin and echoes them back on stdout.
+// ---
+
 // This is a simple Native Message Host application. It echoes any messages
 // it receives.
 #include <windows.h>

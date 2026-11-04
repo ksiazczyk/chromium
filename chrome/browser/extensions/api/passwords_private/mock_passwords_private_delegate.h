@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PasswordsPrivateDelegate declaration
+// summary: Declares a gmock PasswordsPrivateDelegate stubbing password list, plaintext, import, export and sharing operations for tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PASSWORDS_PRIVATE_MOCK_PASSWORDS_PRIVATE_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PASSWORDS_PRIVATE_MOCK_PASSWORDS_PRIVATE_DELEGATE_H_
 

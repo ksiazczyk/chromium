@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing API handler header
+// summary: Declares PrintingAPIHandler, a BrowserContextKeyedAPI that serves chrome.printing calls, observes CUPS print jobs, and fires job status events.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PRINTING_PRINTING_API_HANDLER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PRINTING_PRINTING_API_HANDLER_H_
 

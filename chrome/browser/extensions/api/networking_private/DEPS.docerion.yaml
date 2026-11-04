@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the service client API test
+summary: Grants networking_private_service_client_apitest.cc an include exception for the fake WiFi service header.

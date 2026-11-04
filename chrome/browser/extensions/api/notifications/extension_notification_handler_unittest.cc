@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the extension notification handler
+// summary: Verifies that close and click actions dispatch the correct extension notification events with expected arguments.
+// ---
+
 #include "chrome/browser/extensions/api/notifications/extension_notification_handler.h"
 
 #include <optional>

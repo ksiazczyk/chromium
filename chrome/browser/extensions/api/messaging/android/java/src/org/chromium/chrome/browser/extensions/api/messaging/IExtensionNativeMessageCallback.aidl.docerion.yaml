@@ -1,0 +1,4 @@
+# Docerion header of IExtensionNativeMessageCallback.aidl.
+type: source
+title: Extension native message callback AIDL interface
+summary: AIDL interface carrying messages and disconnects from an external Android app to the browser for a chrome.runtime port or sendNativeMessage call.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerifyTrustApiService header
+// summary: Declares VerifyTrustApiService, a BrowserContextKeyedAPI used by platformKeys.verifyTLSServerCertificate for TLS server certificate verification.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PLATFORM_KEYS_VERIFY_TRUST_API_SERVICE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PLATFORM_KEYS_VERIFY_TRUST_API_SERVICE_H_
 

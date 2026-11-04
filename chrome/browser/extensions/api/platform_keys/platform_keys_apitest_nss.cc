@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NSS-based browser tests for the platformKeys extension API
+// summary: Runs extension API browser tests using NSS test key slots, covering certificate selection, signing and key permissions across enrollment and user configurations.
+// ---
+
 #include <cryptohi.h>
 #include <pk11pub.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome_messaging_delegate.cc
+// summary: Implements Chrome-specific messaging delegate behavior such as native messaging host policy checks, tab info lookup and incognito connectability queries.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/chrome_messaging_delegate.h"
 
 #include <memory>

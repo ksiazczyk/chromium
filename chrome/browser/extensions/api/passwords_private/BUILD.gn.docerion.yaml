@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for passwords_private
+summary: Defines the passwords_private source set and its test_support target, listing sources and dependencies for the extension API.

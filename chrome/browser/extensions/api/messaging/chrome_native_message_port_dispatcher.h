@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome_native_message_port_dispatcher.h
+// summary: Declares a dispatcher bridging native message hosts and message ports across host and message service task runners.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_MESSAGING_CHROME_NATIVE_MESSAGE_PORT_DISPATCHER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_MESSAGING_CHROME_NATIVE_MESSAGE_PORT_DISPATCHER_H_
 

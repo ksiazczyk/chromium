@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox API unit tests
+// summary: Unit tests verifying that extension suggestion description styles are correctly converted into autocomplete match classifications.
+// ---
+
 #include "chrome/common/extensions/api/omnibox.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permissions API interactive UI tests
+// summary: Interactive browser test verifying that the permissions request dialog is parented to the correct browser window when multiple windows are open.
+// ---
+
 #include "extensions/browser/api/permissions/permissions_api.h"
 
 #include "base/test/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android native messaging port Java endpoint
+// summary: Java endpoint for a single message port to an external Android app, bridging native code and AIDL service calls with message size limits and metrics.
+// ---
+
 package org.chromium.chrome.browser.extensions.api.messaging;
 
 import android.os.Bundle;

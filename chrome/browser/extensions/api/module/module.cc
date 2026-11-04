@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension module API function implementations
+// summary: Implements browser-side extension functions for setting update URL data and querying whether an extension has incognito and file scheme access.
+// ---
+
 #include "chrome/browser/extensions/api/module/module.h"
 
 #include <memory>

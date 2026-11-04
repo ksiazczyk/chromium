@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome metrics private delegate header
+// summary: Declares ChromeMetricsPrivateDelegate, a Chrome override of MetricsPrivateDelegate that answers whether crash reporting is enabled.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_METRICS_PRIVATE_CHROME_METRICS_PRIVATE_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_METRICS_PRIVATE_CHROME_METRICS_PRIVATE_DELEGATE_H_
 

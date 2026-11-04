@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file referencing shared networking_private owners
+summary: Points to the OWNERS file of the shared extensions networking_private API directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printing test utilities implementation
+// summary: Implements shared test infrastructure for printing API tests, including fake print job managers, test printer setup and creation of printing test extensions.
+// ---
+
 #include "chrome/browser/extensions/api/printing/printing_test_utils.h"
 
 #include <string_view>

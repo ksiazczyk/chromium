@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadingList entry conversion utility implementation
+// summary: Implements ParseEntry, converting a core ReadingListEntry into the extensions API ReadingListEntry with URL, title, read state and millisecond timestamps.
+// ---
+
 #include "chrome/browser/extensions/api/reading_list/reading_list_util.h"
 #include "base/time/time.h"
 

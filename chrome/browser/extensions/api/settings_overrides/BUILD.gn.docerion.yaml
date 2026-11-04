@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the settings_overrides source set
+summary: GN build file defining the settings_overrides source set, listing its sources and base, extensions, and Chrome browser dependencies.

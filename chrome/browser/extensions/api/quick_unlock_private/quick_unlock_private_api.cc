@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the quickUnlockPrivate extension API
+// summary: Implements quickUnlockPrivate extension functions for auth tokens, lock screen and PIN settings, credential checks and active mode events.
+// ---
+
 #include "chrome/browser/extensions/api/quick_unlock_private/quick_unlock_private_api.h"
 
 #include <algorithm>

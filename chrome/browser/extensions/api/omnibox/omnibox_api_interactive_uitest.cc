@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox API interactive UI tests
+// summary: Interactive browser tests covering extension omnibox keyword sessions, suggestion display, and input events on desktop and Android.
+// ---
+
 #include "chrome/browser/extensions/api/omnibox/omnibox_api.h"
 
 #include <string>

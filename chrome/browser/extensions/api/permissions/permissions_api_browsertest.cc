@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permissions API browser tests
+// summary: Browser tests for the extensions permissions API, covering permission requests, active tab grants, host access prompts and permission updates in Chrome.
+// ---
+
 #include "extensions/browser/api/permissions/permissions_api.h"
 
 #include <memory>

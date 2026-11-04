@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestion parser unit tests
+// summary: Unit tests for the XML suggestion description parser, covering basic cases, style offsets and lengths, and parse errors.
+// ---
+
 #include "chrome/browser/extensions/api/omnibox/suggestion_parser.h"
 
 #include <memory>

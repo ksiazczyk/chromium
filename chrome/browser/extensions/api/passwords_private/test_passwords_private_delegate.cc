@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test passwords_private delegate with mock data
+// summary: Fake PasswordsPrivateDelegate implementation serving mock saved passwords, exceptions and a passkey so extension features can be exercised in tests.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/test_passwords_private_delegate.h"
 
 #include <algorithm>

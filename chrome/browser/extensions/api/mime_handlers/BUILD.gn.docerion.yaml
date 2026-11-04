@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for mime handler browser tests
+summary: GN build file defining the browser_tests source set for the mime handlers API, listing test sources and dependencies, with PDF fallback tests added when PDF support is enabled.

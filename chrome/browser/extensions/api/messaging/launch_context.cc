@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging host launch context implementation
+// summary: Implements launching of native messaging host processes, including redacted command-line logging and termination of host processes.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/launch_context.h"
 
 #include <inttypes.h>

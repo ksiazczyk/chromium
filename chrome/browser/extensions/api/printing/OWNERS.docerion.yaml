@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the extensions printing API
+summary: Lists primary and backup code owners for the chrome.browser extensions printing API directory.

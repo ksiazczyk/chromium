@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol handlers manager unit tests
+// summary: Unit tests for the protocol handlers manager service, verifying extension-enabled handler registration, default handlers, and incognito restrictions.
+// ---
+
 #include "extensions/browser/api/protocol_handlers/protocol_handlers_manager.h"
 
 #include "chrome/browser/custom_handlers/protocol_handler_registry_factory.h"

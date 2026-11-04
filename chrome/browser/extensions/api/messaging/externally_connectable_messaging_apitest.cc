@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: externally_connectable_messaging_apitest.cc
+// summary: Browser API tests covering web page to extension messaging via externally_connectable, including incognito connectability prompting behavior.
+// ---
+
 #include <string>
 
 #include "base/path_service.h"

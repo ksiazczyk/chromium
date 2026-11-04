@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the resourcesPrivate getStrings extension function
+// summary: Declares the ResourcesPrivateGetStringsFunction class, an ExtensionFunction bound to the resourcesPrivate.getStrings API method.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_RESOURCES_PRIVATE_RESOURCES_PRIVATE_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_RESOURCES_PRIVATE_RESOURCES_PRIVATE_API_H_
 

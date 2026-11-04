@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the VerifyTrustApiImpl class
+// summary: Declares VerifyTrustApiImpl, a VerifyTrustApiBase implementation that verifies server certificates through the browser context network context.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PLATFORM_KEYS_VERIFY_TRUST_API_IMPL_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PLATFORM_KEYS_VERIFY_TRUST_API_IMPL_H_
 

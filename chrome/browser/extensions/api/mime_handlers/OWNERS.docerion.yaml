@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the mime handlers API directory
+summary: Lists the code owner (zork@chromium.org) responsible for reviewing changes in the mime handlers API directory.

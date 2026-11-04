@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the pageCapture.saveAsMHTML extension function
+// summary: Declares the PageCaptureSaveAsMHTMLFunction class, its permission checks, temporary file handling and test delegate hook.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PAGE_CAPTURE_PAGE_CAPTURE_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PAGE_CAPTURE_PAGE_CAPTURE_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion description XML parser implementation
+// summary: Parses XML markup in extension suggestion descriptions into text and style classifications using the out-of-process safe XML parser.
+// ---
+
 #include "chrome/browser/extensions/api/omnibox/suggestion_parser.h"
 
 #include <string_view>

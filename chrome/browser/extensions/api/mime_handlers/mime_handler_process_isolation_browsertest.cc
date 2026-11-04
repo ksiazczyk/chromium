@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME handler process isolation browser tests
+// summary: Browser tests verifying process isolation and site instance process assignment for MIME handler extension frames across hosts, tabs, and navigation scenarios.
+// ---
+
 #include <vector>
 
 #include "base/files/file_path.h"

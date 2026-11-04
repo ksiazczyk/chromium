@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the resourcesPrivate.getStrings extension function
+// summary: Implements ResourcesPrivateGetStringsFunction, returning localized UI strings for components such as identity and the PDF viewer, plus load-time data defaults for the application locale.
+// ---
+
 #include "chrome/browser/extensions/api/resources_private/resources_private_api.h"
 
 #include <string>

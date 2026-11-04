@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the pageCapture.saveAsMHTML extension function
+// summary: Implements the chrome.pageCapture.saveAsMHTML extension function with permission checks, navigation guards and MHTML generation into a temporary file.
+// ---
+
 #include "chrome/browser/extensions/api/page_capture/page_capture_api.h"
 
 #include <limits>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the processes extension API
+summary: Defines the processes source_set for the chrome.processes extension API, listing its sources and build dependencies.

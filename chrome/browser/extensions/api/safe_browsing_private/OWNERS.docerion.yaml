@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for safe_browsing_private
+summary: Lists primary and secondary owner files and a per-file owner for password reuse reporting unittest files.

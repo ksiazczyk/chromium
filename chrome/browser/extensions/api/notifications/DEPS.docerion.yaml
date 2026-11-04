@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules allowing app service headers in the interactive apitest
+summary: Grants the notifications interactive apitest an exception to include Chrome app service headers despite dependency checks.

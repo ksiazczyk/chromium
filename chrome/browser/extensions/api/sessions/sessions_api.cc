@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sessions extension API implementation
+// summary: Implements the chrome.sessions extension functions getRecentlyClosed, getDevices, and restore, including Android support and session model creation.
+// ---
+
 #include "chrome/browser/extensions/api/sessions/sessions_api.h"
 
 #include <stddef.h>
