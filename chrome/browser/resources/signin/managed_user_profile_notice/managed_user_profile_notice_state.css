@@ -10,6 +10,12 @@
  * #include=tangible-sync-style-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Managed user profile notice state styles
+summary: Styles for the managed user profile notice state screen, laying out its centered icon, title and subtitle with tangible sync styling.
+*/
+
 :host {
   height: 100%;
   display: flex;

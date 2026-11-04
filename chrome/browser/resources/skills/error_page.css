@@ -9,6 +9,12 @@
  * #include=shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Error page styles
+summary: Lit CSS styles for the error page, covering its centered layout, dialog variant and cancel and action button theming.
+*/
+
 :host {
   align-items: center;
   box-sizing: border-box;

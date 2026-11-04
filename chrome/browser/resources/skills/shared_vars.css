@@ -6,6 +6,12 @@
  * #type=vars
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared CSS variables for skills UI
+summary: Defines shared CSS custom properties for skill card width, height, gap, and page padding.
+*/
+
 html {
   --skills-card-gap: 16px;
   --skills-card-height: 230px;

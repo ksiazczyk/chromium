@@ -11,6 +11,12 @@
  * #include=signin-shared cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Sign-in intercept dialog styles
+summary: CSS for the interception dialog, covering headers, avatars, and managed work badges.
+*/
+
 #interceptDialog {
   display: flex;
   flex-direction: column;

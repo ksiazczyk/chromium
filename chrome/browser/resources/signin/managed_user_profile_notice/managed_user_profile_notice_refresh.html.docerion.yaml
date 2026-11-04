@@ -1,0 +1,4 @@
+# Docerion header of managed_user_profile_notice_refresh.html.
+type: source
+title: Refreshed managed user profile notice page
+summary: HTML entry page that loads the refreshed managed user profile notice app and sets the enterprise profile welcome title.

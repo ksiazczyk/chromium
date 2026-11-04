@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disclosure step HTML template
+// summary: Lit HTML template that renders the disclosure step with the account avatar, enterprise badge and profile and device information disclaimers.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ManagedUserProfileNoticeDisclosureElement} from './managed_user_profile_notice_disclosure.js';

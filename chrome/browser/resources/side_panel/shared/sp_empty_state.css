@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Empty state element styles
+summary: Lit CSS for the sp-empty-state element, laying out the picture, heading and body text of a side panel empty state.
+*/
+
 :host {
   align-items: center;
   display: flex;

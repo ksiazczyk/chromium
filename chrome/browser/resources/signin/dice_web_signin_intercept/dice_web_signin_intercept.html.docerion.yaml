@@ -1,0 +1,4 @@
+# Docerion header of dice_web_signin_intercept.html.
+type: source
+title: Dice web sign-in intercept WebUI page
+summary: HTML shell that hosts the sign-in interception app and applies dark mode background styling.

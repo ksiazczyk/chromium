@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy loading helper for profile picker modules
+// summary: Loads the deferred lazy_load module once and resolves when the profile type choice and profile switch elements are defined.
+// ---
+
 import {getTrustedScriptURL} from 'chrome://resources/js/static_types.js';
 
 let lazyLoadPromise: Promise<void>|null = null;

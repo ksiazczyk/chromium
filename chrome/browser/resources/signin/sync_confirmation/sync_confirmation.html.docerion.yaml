@@ -1,0 +1,4 @@
+# Docerion header of sync_confirmation.html.
+type: source
+title: Sync confirmation WebUI host page
+summary: HTML entry page that loads the sync confirmation app element, styles and dark-mode background for the sync confirmation dialog.

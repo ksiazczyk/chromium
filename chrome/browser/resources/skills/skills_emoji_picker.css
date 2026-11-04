@@ -7,6 +7,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Skills emoji picker styles
+summary: CSS styles for the emoji picker popup covering its layout, search input, and categorized emoji grid buttons.
+*/
+
 :host {
   background: var(--color-sys-surface);
   border: 1px solid var(--color-sys-outline-variant);

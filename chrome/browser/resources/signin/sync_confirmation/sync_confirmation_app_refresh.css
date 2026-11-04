@@ -12,6 +12,12 @@
  * #include=signin-shared tangible-sync-style-shared cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the refreshed sync confirmation app
+summary: Lit style sheet for the refreshed sync confirmation app, adding gradient backgrounds, dark-mode colors and updated action row layout.
+*/
+
 /* TODO look at UI with inspector to see which lines are overridden by the
  shared config. */
 :host {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile card menu HTML template
+// summary: Lit HTML template for the profile card menu with the more-actions button, customize and remove menu items, and a remove confirmation dialog.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ProfileCardMenuElement} from './profile_card_menu.js';

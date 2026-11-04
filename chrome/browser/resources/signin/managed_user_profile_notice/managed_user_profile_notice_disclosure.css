@@ -11,6 +11,12 @@
  * #include=signin-shared tangible-sync-style-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Managed user profile notice disclosure styles
+summary: Styles the disclosure step of the managed user profile notice, including the avatar, work badge and disclaimer cards with dark mode support.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   --cr-secondary-text-color: var(--google-grey-700);

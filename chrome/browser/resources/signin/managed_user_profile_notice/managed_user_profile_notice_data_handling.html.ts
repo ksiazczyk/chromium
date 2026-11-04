@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data handling step HTML template
+// summary: Lit HTML template that renders the data handling step with radio buttons for keeping browsing data separate or merging it.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {BrowsingDataHandling} from './managed_user_profile_notice_browser_proxy.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills webview controller
+// summary: 'Implements the Skills v2 page: resolves the guest URL, applies dialog-type query parameters, and tracks loading stages and latency metrics.'
+// ---
+
 import '../loading_page.js';
 
 import {loadTimeData} from '//resources/js/load_time_data.js';

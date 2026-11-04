@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload app Lit template
+// summary: Renders the dialog header, account info, data sections and save/cancel action buttons using Lit.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {BatchUploadAppElement} from './batch_upload_app.js';

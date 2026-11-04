@@ -11,6 +11,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Profile type choice page styles
+summary: CSS for the profile type choice page in the profile creation flow, styling the banner, avatar, title, action buttons, and managed device info box.
+*/
+
 :host {
   --avatar-size: 100px;
   --banner-height: 244px;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker navigation mixin
+// summary: Provides routes, profile creation steps, history state handling, and page visit metrics for navigating the profile picker.
+// ---
+
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';
 import type {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills dialog app element
+// summary: Lit element implementing the add/edit skills dialog, including name and prompt limits, emoji selection, and prompt refinement logic.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';

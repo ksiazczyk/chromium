@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refreshed disclosure step HTML template
+// summary: Lit HTML template for the refreshed disclosure step, adding an optional Lottie avatar animation alongside the avatar, badge and disclaimers.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ManagedUserProfileNoticeDisclosureRefreshElement} from './managed_user_profile_notice_disclosure_refresh.js';

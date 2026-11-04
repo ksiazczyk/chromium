@@ -13,6 +13,12 @@
  * #include=signin-shared tangible-sync-style-shared cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Managed user profile notice app styles
+summary: Lit CSS for the notice app covering layout, tangible sync banners, enrollment icons and the spinner.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   display: flex;

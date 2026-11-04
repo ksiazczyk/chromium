@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker feature flag helpers
+// summary: Helper functions that read loadTimeData booleans for profile picker flags such as profile creation, force signin, and refreshed UI.
+// ---
+
 import '/strings.m.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

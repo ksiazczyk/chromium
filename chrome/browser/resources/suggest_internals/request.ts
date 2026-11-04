@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request element displaying suggest requests and responses
+// summary: Implements the suggest request element that pretty-prints request and response JSON, shows page classification, and supports copying and hardcoding responses.
+// ---
+
 import './icons.html.js';
 import '//resources/cr_elements/cr_collapse/cr_collapse.js';
 import '//resources/cr_elements/cr_expand_button/cr_expand_button.js';

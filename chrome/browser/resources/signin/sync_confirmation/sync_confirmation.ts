@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: Sync confirmation initialization script
+// summary: Initializes the sync confirmation dialog and reports its body height to the browser through the browser proxy once the DOM is ready.
+// ---
+
 import {SyncConfirmationBrowserProxyImpl} from './sync_confirmation_browser_proxy.js';
 
 function initialize() {

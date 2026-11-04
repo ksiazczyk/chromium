@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Error page HTML template
+// summary: Lit HTML template rendering error titles, descriptions and action buttons for disabled skills, sign-in and dialog states.
+// ---
+
 import '/strings.m.js';
 
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';

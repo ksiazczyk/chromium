@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data collectors page element
+// summary: Lit element that loads data collectors via the browser proxy and manages select-all and per-item checkbox state.
+// ---
+
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';
 
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

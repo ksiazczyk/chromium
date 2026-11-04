@@ -9,6 +9,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared styles for skills pages
+summary: Provides common page title, headline, and body text styles plus the skill card grid layout shared across the skills UI.
+*/
+
 .page-title {
   font-weight: 500;
   font-size: 14px;

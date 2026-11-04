@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: Signin error page initialization
+// summary: Sends the page height to the browser via initializedWithSize once the DOM has loaded.
+// ---
+
 function initialize() {
   // Prefer using |document.body.offsetHeight| instead of
   // |document.body.scrollHeight| as it returns the correct height of the

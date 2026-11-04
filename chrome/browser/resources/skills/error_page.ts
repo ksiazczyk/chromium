@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error page element
+// summary: Lit element that shows error states such as disabled skills or an unreachable remote authority and routes users to settings or sign-in.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '//resources/cr_elements/icons.html.js';
 import '//resources/cr_elements/cr_button/cr_button.js';

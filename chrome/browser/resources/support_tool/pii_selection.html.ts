@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PII selection page HTML template
+// summary: Lit HTML template for the PII review page with radio buttons to include or remove personal data and an expandable list of detected PII items.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {PiiSelectionElement} from './pii_selection.js';

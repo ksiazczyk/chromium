@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync opt-in browser proxy
+// summary: Singleton browser proxy that binds the WebUI to the Mojo history sync opt-in handler and callback router, with support for test instance replacement.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './history_sync_optin.mojom-webui.js';
 import type {PageHandlerInterface} from './history_sync_optin.mojom-webui.js';
 

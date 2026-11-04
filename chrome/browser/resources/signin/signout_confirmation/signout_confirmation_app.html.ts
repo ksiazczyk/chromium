@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signout confirmation app Lit template
+// summary: Lit HTML template rendering the dialog title, subtitle, optional extensions section, and cancel, verify, and accept buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SignoutConfirmationAppElement} from './signout_confirmation_app.js';

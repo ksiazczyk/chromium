@@ -10,6 +10,12 @@
  * #include=signin-shared managed-user-profile-notice-refresh-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Refreshed disclosure step styles
+summary: Styles the refreshed disclosure step, with layout variants for first-run and profile-picker modes and responsive header sizing.
+*/
+
 :host([is-oidc-dialog]) .title {
   font-size: 24px;
 }

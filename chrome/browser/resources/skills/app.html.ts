@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Skills app HTML template
+// summary: Lit HTML template for the skills app, rendering the toolbar, drawer, sidebar and user or discover skills pages.
+// ---
+
 import '/strings.m.js';
 
 import {html} from '//resources/lit/v3_0/lit.rollup.js';

@@ -11,6 +11,12 @@
  * #include=md-select-lit support-tool-shared-lit cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Issue details page styles
+summary: Styles for the issue details page, covering the support case ID input, email select and issue description textarea.
+*/
+
 .md-select {
   --md-select-text-color: var(--cr-primary-text-color);
   margin-bottom: 5px;

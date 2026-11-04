@@ -1,0 +1,4 @@
+# Docerion header of url_generator_container.html.
+type: source
+title: URL generator WebUI page
+summary: HTML shell that hosts the url-generator element and loads its module for the URL Generator page.

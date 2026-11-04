@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed user profile notice state element
+// summary: Lit custom element that displays a configurable title and subtitle for the managed user profile notice state screen.
+// ---
+
 import '/strings.m.js';
 
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for managed user profile notice
+summary: Delegates code ownership to the desktop signin and enterprise component owners files.

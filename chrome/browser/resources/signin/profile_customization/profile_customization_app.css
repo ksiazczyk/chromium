@@ -11,6 +11,12 @@
  * #include=signin-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the profile customization app
+summary: Lit CSS styles for the profile customization app covering the header, avatar, name input, theme picker and dialog layout.
+*/
+
 #viewManager,
 #customizeDialog,
 #selectAvatarDialog {

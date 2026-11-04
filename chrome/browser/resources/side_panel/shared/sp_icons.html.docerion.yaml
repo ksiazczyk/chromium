@@ -1,0 +1,4 @@
+# Docerion header of sp_icons.html.
+type: source
+title: Side panel icon set
+summary: Defines the sp cr-iconset with SVG icons such as add-circle and filter-list for use across side panel components.

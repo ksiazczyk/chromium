@@ -10,6 +10,12 @@
  * #include=tangible-sync-style-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Managed user profile notice value prop styles
+summary: Styles for the value proposition screen, including the product logo, account pill and enterprise badge layout.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   width: 64vw;

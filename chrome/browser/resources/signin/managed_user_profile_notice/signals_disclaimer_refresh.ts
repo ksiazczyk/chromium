@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signals disclaimer refresh element
+// summary: Lit custom element for the refreshed signals disclaimer that displays the dialog content and reports learn-more interactions through the browser proxy.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

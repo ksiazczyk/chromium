@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sidebar navigation element
+// summary: Defines the skills-sidebar element with menu items for the user skills and browse pages, firing route-click events on selection.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '//resources/cr_elements/cr_menu_selector/cr_menu_selector.js';
 

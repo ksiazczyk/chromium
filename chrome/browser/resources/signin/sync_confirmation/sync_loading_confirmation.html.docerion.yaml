@@ -1,0 +1,4 @@
+# Docerion header of sync_loading_confirmation.html.
+type: source
+title: Sync loading confirmation page
+summary: Standalone HTML page showing a spinner and title while the sync confirmation dialog content is loading.

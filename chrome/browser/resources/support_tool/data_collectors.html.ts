@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the data collectors page
+// summary: Renders the data selection page title and checkboxes for selecting all or individual data collectors.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {DataCollectorsElement} from './data_collectors.js';

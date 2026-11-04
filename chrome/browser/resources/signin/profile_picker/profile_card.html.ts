@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile card Lit template
+// summary: Renders the profile card markup with avatar, sign-in prompt, editable profile name, menu, and tooltips.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ProfileCardElement} from './profile_card.js';

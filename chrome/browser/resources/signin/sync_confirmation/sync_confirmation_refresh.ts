@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: Sync confirmation refresh initialization
+// summary: Reports the dialog body height to the browser proxy on DOM load and resets the body width so the WebUI dialog sizes correctly.
+// ---
+
 import {SyncConfirmationBrowserProxyImpl} from './sync_confirmation_browser_proxy.js';
 
 function initialize() {

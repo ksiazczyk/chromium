@@ -9,6 +9,12 @@
  * #include=cr-nav-menu-item-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Sidebar navigation styles
+summary: Styles the sidebar navigation items, branding, and footer with light, dark, and forced-colors support.
+*/
+
 :host-context(html:not([webui-refresh-2026])) {
   .cr-nav-menu-item {
     display: flex;

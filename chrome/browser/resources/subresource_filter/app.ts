@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter internals app element
+// summary: Lit custom element that loads, displays, and updates the highlight ads setting through the browser proxy and observes settings changes.
+// ---
+
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

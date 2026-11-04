@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Discover skills page HTML template
+// summary: Lit HTML template rendering skill cards grouped by topic, category filter chips, an empty-search error page and an invalid-skill toast.
+// ---
+
 import '/strings.m.js';
 
 import {html} from '//resources/lit/v3_0/lit.rollup.js';

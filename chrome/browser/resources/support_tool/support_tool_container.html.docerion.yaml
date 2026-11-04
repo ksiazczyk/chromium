@@ -1,0 +1,4 @@
+# Docerion header of support_tool_container.html.
+type: source
+title: Support Tool WebUI page
+summary: HTML shell that hosts the support-tool element and loads its module for the Support Tool WebUI.

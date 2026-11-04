@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refreshed managed user profile notice app template
+// summary: Lit HTML template rendering the refreshed app's screens by state, including disclosure and signals disclaimer.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ManagedUserProfileNoticeAppRefreshElement} from './managed_user_profile_notice_app_refresh.js';

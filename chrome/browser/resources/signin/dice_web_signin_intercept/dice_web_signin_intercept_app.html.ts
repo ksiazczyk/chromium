@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in intercept app Lit template
+// summary: Renders the dialog markup with v2 and profile-switch header variants, avatars, and disclaimers.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {DiceWebSigninInterceptAppElement} from './dice_web_signin_intercept_app.js';

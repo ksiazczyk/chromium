@@ -9,6 +9,12 @@
  * #include=signin-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Sync disabled confirmation app styles
+summary: Lit CSS styles for the sync disabled confirmation app, defining the container and details layout.
+*/
+
 .container {
   width: 100%;
 }

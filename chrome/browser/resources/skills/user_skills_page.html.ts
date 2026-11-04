@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: User skills page HTML template
+// summary: Lit HTML template for the user skills page that renders the title, add skill button, empty state or no-search-results error, and filtered skill cards.
+// ---
+
 import '/strings.m.js';
 
 import {html} from '//resources/lit/v3_0/lit.rollup.js';

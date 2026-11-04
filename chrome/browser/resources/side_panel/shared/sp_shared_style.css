@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Side panel shared styles
+summary: Shared CSS for side panel cards, scrollers, icon button rows, dividers, and dialog theming used by side panel WebUIs.
+*/
+
 .sp-card {
   background: var(--color-side-panel-card-background);
   border-radius: 12px;

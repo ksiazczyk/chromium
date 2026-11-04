@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device sign-in QR bubble app element
+// summary: Lit custom element that requests sign-in registration data via the Mojo page handler and displays the user's name, email, and QR code.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_elements/cr_shared_vars.css.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file reference
+summary: Delegates code ownership to the OWNERS file of the skills WebUI in chrome/browser/ui/webui/skills.

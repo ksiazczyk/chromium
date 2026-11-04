@@ -10,6 +10,12 @@
  * #include=support-tool-shared-lit action-link-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the data export done page
+summary: Lit style wrapper styling the check icon and exported file path link on the export completion page.
+*/
+
 #check-icon {
   --iron-icon-fill-color: var(--google-green-500);
   height: 20px;

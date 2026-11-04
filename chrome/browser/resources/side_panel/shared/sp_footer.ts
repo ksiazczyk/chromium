@@ -7,6 +7,12 @@
  * pushes itself to the bottom of a flex parent when [pinned].
  */
 
+// ---docerion
+// type: source
+// title: SpFooterElement custom element
+// summary: Defines the sp-footer toolbar element that centers its content or pins itself to the bottom of a flex parent when set.
+// ---
+
 import '//resources/cr_elements/cr_shared_vars.css.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

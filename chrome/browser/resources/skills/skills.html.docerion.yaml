@@ -1,0 +1,4 @@
+# Docerion header of skills.html.
+type: source
+title: Skills WebUI main page
+summary: Entry HTML page for the skills WebUI that sets up theme styles and mounts the skills-app element.

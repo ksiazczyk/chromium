@@ -8,6 +8,12 @@
  * #import=./signin_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared tangible sync styles
+summary: Shared Lit styles for tangible sync screens covering banners, illustrations, work badges, titles, and buttons.
+*/
+
 :host {
   --tangible-sync-style-avatar-size: 64px;
   --tangible-sync-style-banner-width: 17vw;

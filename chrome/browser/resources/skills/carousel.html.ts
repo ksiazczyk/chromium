@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: Skills carousel HTML template
+// summary: Lit HTML template that renders the prev and next navigation buttons and the items slot of the skills-carousel element.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SkillsCarouselElement} from './carousel.js';

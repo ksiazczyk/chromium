@@ -12,6 +12,12 @@
  * #include=signin-shared tangible-sync-style-shared cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the sync confirmation app
+summary: Lit style sheet defining layout, animations, avatar and button styling for the sync confirmation app element in dialog and full-page modes.
+*/
+
 /* TODO look at UI with inspector to see which lines are overridden by the
  shared config. */
 :host {

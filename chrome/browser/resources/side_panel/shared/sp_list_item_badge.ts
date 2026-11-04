@@ -7,6 +7,12 @@
  * or an updated state and is displayed inside of a cr-url-list-item.
  */
 
+// ---docerion
+// type: source
+// title: Side panel list item badge element
+// summary: Defines the sp-list-item-badge custom element that shows additional information or an updated state inside a cr-url-list-item.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 

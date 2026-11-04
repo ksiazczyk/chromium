@@ -12,6 +12,12 @@
  * #include=profile-picker-shared cr-hidden-style-lit cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Profile picker main view styles
+summary: Lit CSS for the main profile picker view, styling the title, profile item grid, add-profile tile, and footer controls.
+*/
+
 :host {
   --profile-item-border-width: 1px;
   --profile-item-margin: 4px;

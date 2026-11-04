@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed user profile notice value prop HTML template
+// summary: Lit HTML template showing the Chrome logo, title, subtitle and account pill for the value proposition screen.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ManagedUserProfileNoticeValuePropElement} from './managed_user_profile_notice_value_prop.js';

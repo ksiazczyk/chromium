@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Skills dialog styles
+summary: Styles the skill dialog including title, form fields, textarea with refinement states, and action buttons.
+*/
+
 cr-dialog {
   --cr-dialog-background-color: var(--color-sys-surface);
   --cr-dialog-border-radius: 12px;

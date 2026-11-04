@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: History sync opt-in refresh entry point
+// summary: TypeScript entry point for the refreshed history sync opt-in dialog that reports the body height to the browser proxy and re-exports the app element and Mojom types.
+// ---
+
 import './history_sync_optin_app_refresh.js';
 
 import {HistorySyncOptInBrowserProxyImpl} from './browser_proxy.js';

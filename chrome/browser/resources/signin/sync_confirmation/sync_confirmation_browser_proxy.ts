@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync confirmation browser proxy
+// summary: Defines the SyncConfirmationBrowserProxy interface, ScreenMode enum and implementation the dialog uses to send confirm, undo and settings messages to the browser.
+// ---
+
 export interface SyncBenefit {
   title: string;
   iconName: string;

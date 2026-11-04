@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Issue details page HTML template
+// summary: Lit HTML template for the issue details page with a support case ID input, email address selector and issue description textarea.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {IssueDetailsElement} from './issue_details.js';

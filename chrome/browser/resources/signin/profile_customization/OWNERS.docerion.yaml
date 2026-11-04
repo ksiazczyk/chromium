@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to signin desktop owners
+summary: Owners file that delegates code review ownership to the signin component's DESKTOP_OWNERS file.

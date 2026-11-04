@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Loading page skeleton styles
+summary: Styles the skeleton placeholder layout shown while the skills UI loads, covering app, dialog, and editor variants.
+*/
+
 :host {
   --skeleton-base-color: var(
       --mat-sys-surface-container,

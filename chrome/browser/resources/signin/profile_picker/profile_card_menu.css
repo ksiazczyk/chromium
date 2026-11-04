@@ -12,6 +12,12 @@
  * #include=profile-picker-shared cr-hidden-style-lit action-link-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Profile card menu styles
+summary: Lit CSS for the profile card menu, styling the more-actions button, action menu, and remove-profile confirmation dialog with dark mode support.
+*/
+
 #moreActionsButton {
   --cr-icon-button-icon-size: 14px;
   --cr-icon-button-margin-end: 0;

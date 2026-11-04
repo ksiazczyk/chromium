@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Side panel list item badge styles
+summary: Lit styles for the sp-list-item-badge element, covering its badge colors, updated state, and slotted icon and previous badge.
+*/
+
 :host {
   height: 20px;
   align-items: center;

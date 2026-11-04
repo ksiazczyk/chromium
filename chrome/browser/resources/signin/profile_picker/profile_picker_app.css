@@ -11,6 +11,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Profile picker app styles
+summary: Lit CSS for the profile picker app shell, defining banner images and backgrounds for regular, refreshed, and Glic app modes.
+*/
+
 :host {
   display: block;
   height: 100%;

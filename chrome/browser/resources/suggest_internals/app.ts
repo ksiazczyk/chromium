@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: App element for the Suggest Debug Tool WebUI
+// summary: Implements the main app element that displays suggest requests, supports filtering, import, export, and hardcoding, and communicates with the browser via Mojo.
+// ---
+
 import '/strings.m.js';
 import './icons.html.js';
 import './request.js';

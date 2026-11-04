@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with Buganizer components
+summary: Maps the directory to ChromeOS supportability Buganizer components and lists the owning team email address.

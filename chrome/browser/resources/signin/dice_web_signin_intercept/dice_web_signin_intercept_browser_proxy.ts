@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the sign-in intercept bubble
+// summary: Defines the TypeScript interface and implementation for browser messages such as accept, cancel, and page load.
+// ---
+
 /**
  * @fileoverview A helper object used by the dice web signin intercept bubble to
  * interact with the browser.

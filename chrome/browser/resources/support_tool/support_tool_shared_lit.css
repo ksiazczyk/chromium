@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Support Tool shared styles
+summary: Shared CSS styles for Support Tool components such as headings, navigation buttons and data collector lists.
+*/
+
 /* Common styles for Support Tool components. */
 h1 {
   color: var(--cr-primary-text-color);

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates review ownership for the sync confirmation directory to the signin components DESKTOP_OWNERS file.

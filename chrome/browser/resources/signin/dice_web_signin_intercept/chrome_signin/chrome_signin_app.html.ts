@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome sign-in app Lit HTML template
+// summary: Lit HTML template for the chrome-signin-app dialog showing the product logo, account details, and accept and decline buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ChromeSigninAppElement} from './chrome_signin_app.js';

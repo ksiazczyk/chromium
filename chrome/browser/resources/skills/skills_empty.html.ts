@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills empty state template
+// summary: Lit HTML template with an inlined SVG illustration used for the skills empty state.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SkillsEmptyElement} from './skills_empty.js';

@@ -1,0 +1,4 @@
+# Docerion header of signin_error.html.
+type: source
+title: Signin error WebUI page
+summary: HTML entry page for the signin error dialog that loads the app element, scripts, and Material Design styles.

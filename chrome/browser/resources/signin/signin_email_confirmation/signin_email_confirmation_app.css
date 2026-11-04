@@ -10,6 +10,12 @@
  * #include=signin-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Sign-in email confirmation dialog styles
+summary: CSS styles for the sign-in email confirmation dialog, defining the wide container, details area, radio button labels, and multi-line title bar with dark mode support.
+*/
+
 .container {
   /* The sign-in confirmation dialog uses a width that is larger than
    * the other sign-in dialogs to fit cases when the user has an email

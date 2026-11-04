@@ -1,0 +1,4 @@
+# Docerion header of chrome_signin.html.
+type: source
+title: Chrome sign-in WebUI page
+summary: HTML entry page for the chrome sign-in WebUI that loads styles and hosts the chrome-signin-app element.

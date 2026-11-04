@@ -11,6 +11,12 @@
  * #include=signin-shared tangible-sync-style-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Managed user profile notice data handling styles
+summary: Styles the data handling step of the managed user profile notice, laying out the radio group for choosing between separate and merged browsing data.
+*/
+
 :host {
   --radio-button-height: 20px;
 }

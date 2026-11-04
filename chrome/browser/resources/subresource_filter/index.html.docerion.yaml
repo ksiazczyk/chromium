@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Subresource Filter Internals page entry point
+summary: HTML shell that hosts the subresource-internals-app element and loads the compiled app module.

@@ -6,6 +6,12 @@
  * @fileoverview Shared styles for showing an empty state for a side panel UI.
  */
 
+// ---docerion
+// type: source
+// title: SpEmptyStateElement custom element
+// summary: Defines the sp-empty-state Lit element showing an empty state with an image, heading and body text for side panel UIs.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {getCss} from './sp_empty_state.css.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile customization app element
+// summary: Lit element implementing the profile customization dialog, managing profile name, avatar selection, managed state and theme color.
+// ---
+
 import 'chrome://resources/cr_components/theme_color_picker/theme_color_picker.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

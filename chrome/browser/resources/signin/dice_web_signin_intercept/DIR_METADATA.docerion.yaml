@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for dice_web_signin_intercept
+summary: Points to the common Chromium directory metadata through a mixins reference.

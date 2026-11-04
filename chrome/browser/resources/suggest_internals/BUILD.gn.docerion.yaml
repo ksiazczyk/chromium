@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the suggest internals WebUI
+summary: Defines the GN build for the suggest internals WebUI, listing TypeScript, CSS, icon, and Mojo files and their dependencies.

@@ -10,6 +10,12 @@
  * #include=signin-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Chrome sign-in app styles
+summary: CSS for the sign-in intercept dialog, covering the account icon, managed user badge, texts, and accept and cancel buttons.
+*/
+
 #interceptDialog {
   padding: 20px;
   display: flex;

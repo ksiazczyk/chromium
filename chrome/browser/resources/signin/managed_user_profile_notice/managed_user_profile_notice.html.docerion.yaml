@@ -1,0 +1,4 @@
+# Docerion header of managed_user_profile_notice.html.
+type: source
+title: Managed user profile notice page
+summary: WebUI entry page that hosts the managed user profile notice app element and loads its module script.

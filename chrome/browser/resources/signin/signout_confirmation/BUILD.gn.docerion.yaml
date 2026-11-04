@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Signout confirmation WebUI GN build configuration
+summary: Defines the build_webui target listing the HTML, TypeScript, and CSS sources plus Mojo and Lit dependencies for the signout confirmation dialog.

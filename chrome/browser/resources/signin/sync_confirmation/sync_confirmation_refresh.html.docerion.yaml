@@ -1,0 +1,4 @@
+# Docerion header of sync_confirmation_refresh.html.
+type: source
+title: Sync confirmation refresh page
+summary: HTML host page for the refreshed sync confirmation WebUI dialog, loading the refresh app element with dark mode support.

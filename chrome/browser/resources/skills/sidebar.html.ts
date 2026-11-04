@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sidebar navigation template
+// summary: Lit HTML template that renders the sidebar menu links and footer text for the skills UI.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {type SkillsSidebarElement} from './sidebar.js';

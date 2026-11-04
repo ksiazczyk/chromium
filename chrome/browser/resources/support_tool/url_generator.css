@@ -9,6 +9,12 @@
  * #include=support-tool-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: URL generator element styles
+summary: Lit stylesheet with layout and info text styles for the url-generator element.
+*/
+
 :host {
   block-size: fit-content;
   display: block;

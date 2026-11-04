@@ -9,6 +9,12 @@
  * #include=profile-picker-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Profile switch styles
+summary: Lit CSS for the profile switch view, styling the centered profile card, avatar badge icon, title text and cancel and switch buttons with dark mode adjustments.
+*/
+
 #outerContainer {
   display: flex;
   flex-flow: column;

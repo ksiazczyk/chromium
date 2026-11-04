@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload data section web component
+// summary: Lit element that renders a selectable data section with a toggle, expand/collapse behavior, and item selection tracking for the sign-in batch upload dialog.
+// ---
+
 import '/strings.m.js';
 import '//resources/cr_elements/cr_toggle/cr_toggle.js';
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';

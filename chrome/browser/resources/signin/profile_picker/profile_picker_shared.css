@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Profile picker shared styles
+summary: Shared Lit CSS for the profile picker, defining profile card dimensions, avatar ring, title and footer layout, scrollbar styling and dark mode variables.
+*/
+
 :host {
   --profile-card-avatar-icon-size: 74px;
   --text-font-size: 1.16em;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the suggest internals WebUI
+summary: Lists the owners of the suggest internals WebUI and points to the omnibox component owners.

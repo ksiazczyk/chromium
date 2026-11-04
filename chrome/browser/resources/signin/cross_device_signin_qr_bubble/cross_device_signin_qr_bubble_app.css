@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Cross-device sign-in QR bubble app element styles
+summary: Lit stylesheet defining the bubble layout, including the QR code wrapper, card container, subtitle, and user details styling.
+*/
+
 :host {
   align-items: center;
   color: var(--cr-primary-text-color);
