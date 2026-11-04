@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skottie serialization history declaration
+// summary: Declares SkottieSerializationHistory, a thread-safe record of previously transmitted Skottie animation state used to send only updated frame data to the raster process.
+// ---
+
 #ifndef CC_PAINT_SKOTTIE_SERIALIZATION_HISTORY_H_
 #define CC_PAINT_SKOTTIE_SERIALIZATION_HISTORY_H_
 

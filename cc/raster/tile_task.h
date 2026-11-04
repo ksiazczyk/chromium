@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileTask class declaration
+// summary: Declares TileTask, a Task base class for tile raster work with dependency tracking, concurrency, and background thread priority flags.
+// ---
+
 #ifndef CC_RASTER_TILE_TASK_H_
 #define CC_RASTER_TILE_TASK_H_
 

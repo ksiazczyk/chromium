@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameData structure declaration
+// summary: Declares the FrameData struct holding modifiable state passed to AppendQuads during the compositor layer tree walk.
+// ---
+
 #ifndef CC_SLIM_FRAME_DATA_H_
 #define CC_SLIM_FRAME_DATA_H_
 

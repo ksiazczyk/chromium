@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryHistory class header
+// summary: Declares the MemoryHistory class, which keeps a ring-buffer history of memory budget and usage entries for each frame.
+// ---
+
 #ifndef CC_RESOURCES_MEMORY_HISTORY_H_
 #define CC_RESOURCES_MEMORY_HISTORY_H_
 

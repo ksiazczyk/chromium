@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test frame sink implementation
+// summary: Test double of FrameSinkImpl that captures submitted compositor frames, hit test regions, and begin frame state for slim compositor unit tests.
+// ---
+
 #include "cc/slim/test_frame_sink_impl.h"
 
 #include <memory>

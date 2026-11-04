@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler class and SchedulerClient interface declaration
+// summary: Declares the Scheduler class and its SchedulerClient interface, which schedule compositor actions such as main frames, commits, draws and tile preparation.
+// ---
+
 #ifndef CC_SCHEDULER_SCHEDULER_H_
 #define CC_SCHEDULER_SCHEDULER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BeginFrameTracker class declaration
+// summary: Declares BeginFrameTracker, a small helper class that checks BeginFrameArgs usage invariants and emits tracing data for the cc.debug.scheduler.frames category.
+// ---
+
 #ifndef CC_SCHEDULER_BEGIN_FRAME_TRACKER_H_
 #define CC_SCHEDULER_BEGIN_FRAME_TRACKER_H_
 

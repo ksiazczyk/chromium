@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Solid color layer implementation
+// summary: Implements SolidColorLayer, appending a solid color draw quad to the render pass based on the layer's background color and opacity.
+// ---
+
 #include "cc/slim/solid_color_layer.h"
 
 #include <utility>

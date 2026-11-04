@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skottie text property value implementation
+// summary: Implements SkottieTextPropertyValue, storing text with a hash and a bounding box and providing equality comparison for change detection.
+// ---
+
 #include "cc/paint/skottie_text_property_value.h"
 
 #include <utility>

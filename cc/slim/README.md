@@ -1,3 +1,9 @@
+---
+type: readme
+title: Slim compositor overview
+summary: Explains that cc/slim contains the slim compositor, a re-implementation of cc for the Android browser compositor that conditionally wraps cc types during the transition.
+---
+
 # cc/slim
 
 This directory contains the "slim" compositor. The initial goal is a

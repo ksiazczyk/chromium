@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaPaintImageGenerator class declaration
+// summary: Declares a SkImageGenerator adapter that forwards pixel and YUVA queries to a cc PaintImageGenerator, tying Chromium paint images into Skia's image generation pipeline.
+// ---
+
 #ifndef CC_PAINT_SKIA_PAINT_IMAGE_GENERATOR_H_
 #define CC_PAINT_SKIA_PAINT_IMAGE_GENERATOR_H_
 

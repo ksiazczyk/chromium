@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeImpl class declaration
+// summary: Declares LayerTreeImpl, the slim implementation of LayerTree and FrameSinkImplClient that manages frames, UI resources, and surface ranges.
+// ---
+
 #ifndef CC_SLIM_LAYER_TREE_IMPL_H_
 #define CC_SLIM_LAYER_TREE_IMPL_H_
 

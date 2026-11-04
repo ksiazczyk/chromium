@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintFlags implementation
+// summary: Implements PaintFlags and CorePaintFlags paint state, including blend modes, filter quality, conversion to SkPaint, fill paths and equality checks for testing.
+// ---
+
 #include "cc/paint/paint_flags.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transfer cache unit tests
+// summary: Unit tests that create, lock, unlock, and verify transfer cache entries end to end between the client raster interface and the service transfer cache using an in-process GPU context.
+// ---
+
 #include <vector>
 
 #include "base/command_line.h"

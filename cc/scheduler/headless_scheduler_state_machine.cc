@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessSchedulerStateMachine implementation
+// summary: Implements the headless scheduler state machine, overriding draw, tile preparation, begin frame subscription and deadline decisions for full-pipeline headless mode.
+// ---
+
 #include "cc/scheduler/headless_scheduler_state_machine.h"
 
 #include "base/logging.h"

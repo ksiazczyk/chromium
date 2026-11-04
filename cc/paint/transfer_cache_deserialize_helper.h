@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transfer cache deserialize helper interface
+// summary: Declares an interface giving GPU process-side raster deserialization type-safe access to transfer cache entries.
+// ---
+
 #ifndef CC_PAINT_TRANSFER_CACHE_DESERIALIZE_HELPER_H_
 #define CC_PAINT_TRANSFER_CACHE_DESERIALIZE_HELPER_H_
 

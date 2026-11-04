@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecodeStashingImageProvider declaration
+// summary: Declares an ImageProvider that passes decode requests to a source provider while stashing decoded images for its own lifetime.
+// ---
+
 #ifndef CC_PAINT_DECODE_STASHING_IMAGE_PROVIDER_H_
 #define CC_PAINT_DECODE_STASHING_IMAGE_PROVIDER_H_
 

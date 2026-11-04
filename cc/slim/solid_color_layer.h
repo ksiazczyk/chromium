@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SolidColorLayer class declaration
+// summary: Declares a Layer subclass that renders a solid color set through SetBackgroundColor on the base class.
+// ---
+
 #ifndef CC_SLIM_SOLID_COLOR_LAYER_H_
 #define CC_SLIM_SOLID_COLOR_LAYER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIResourceRequest class declaration
+// summary: Declares the UIResourceRequest class with create and delete types, providing accessors for the request type, resource ID and associated UIResourceBitmap.
+// ---
+
 #ifndef CC_RESOURCES_UI_RESOURCE_REQUEST_H_
 #define CC_RESOURCES_UI_RESOURCE_REQUEST_H_
 

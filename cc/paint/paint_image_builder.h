@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintImageBuilder class declarations
+// summary: Declares PaintImageBuilder, a fluent builder for constructing PaintImage objects with images, records, generators, animation, gainmap and HDR settings.
+// ---
+
 #ifndef CC_PAINT_PAINT_IMAGE_BUILDER_H_
 #define CC_PAINT_PAINT_IMAGE_BUILDER_H_
 

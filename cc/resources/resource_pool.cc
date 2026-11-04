@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourcePool implementation
+// summary: Implements ResourcePool, which acquires, releases, and recycles GPU-backed raster resources as SharedImages with expiration and eviction logic.
+// ---
+
 #include "cc/resources/resource_pool.h"
 
 #include <stddef.h>

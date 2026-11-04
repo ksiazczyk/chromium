@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped raster flags unit tests
+// summary: Unit tests covering paint worklet shader decoding, keeping image decodes alive with reference counting, and behavior when no image provider is supplied.
+// ---
+
 #include "cc/paint/scoped_raster_flags.h"
 
 #include <utility>

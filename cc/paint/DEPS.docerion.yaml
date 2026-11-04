@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for cc/paint dependencies
+summary: Defines include rules restricting which directories cc/paint may depend on, with exceptions for tests, fuzzers, and specific files.

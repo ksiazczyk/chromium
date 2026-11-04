@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintOp class definitions
+// summary: Declares the PaintOpType enum and the PaintOp base class hierarchy used to represent, raster, and serialize display list drawing operations.
+// ---
+
 
 #ifndef CC_PAINT_PAINT_OP_H_
 #define CC_PAINT_PAINT_OP_H_

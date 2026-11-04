@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Categorized worker pool class declaration
+// summary: Declares the CategorizedWorkerPool class exposing TaskRunner, TaskGraphRunner and sequenced task runner interfaces for scheduling categorized work.
+// ---
+
 #ifndef CC_RASTER_CATEGORIZED_WORKER_POOL_H_
 #define CC_RASTER_CATEGORIZED_WORKER_POOL_H_
 

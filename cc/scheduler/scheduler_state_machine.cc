@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulerStateMachine implementation
+// summary: Implements the SchedulerStateMachine that coordinates main thread and impl thread rendering, including protozero tracing conversions and main frame rate throttling logic.
+// ---
+
 #include "cc/scheduler/scheduler_state_machine.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementId implementation
+// summary: Implements ElementId helpers for tracing output, string conversion, hashing, and remapping element IDs into the cc namespace.
+// ---
+
 #include "cc/paint/element_id.h"
 
 #include <inttypes.h>

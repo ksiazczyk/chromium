@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image transfer cache entry for RGBA and YUVA images
+// summary: Declares client and service transfer cache entries that serialize and upload image data, including RGBA pixmaps, YUVA planes and gainmap images, between renderer and GPU service.
+// ---
+
 #ifndef CC_PAINT_IMAGE_TRANSFER_CACHE_ENTRY_H_
 #define CC_PAINT_IMAGE_TRANSFER_CACHE_ENTRY_H_
 

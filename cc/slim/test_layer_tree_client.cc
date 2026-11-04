@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test layer tree client implementation
+// summary: Implements TestLayerTreeClient, a LayerTreeClient test double that counts frame sink requests, initialization, failure and loss callbacks for slim compositor tests.
+// ---
+
 #include "cc/slim/test_layer_tree_client.h"
 
 namespace cc::slim {

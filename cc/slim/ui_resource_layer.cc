@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI resource layer implementation
+// summary: Implements UIResourceLayer, handling UI resource IDs, bitmaps, UV coordinates and appending texture draw quads for the slim compositor.
+// ---
+
 #include "cc/slim/ui_resource_layer.h"
 
 #include <utility>

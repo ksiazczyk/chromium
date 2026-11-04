@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RasterBufferProvider performance tests
+// summary: Performance tests benchmarking zero-copy, one-copy, GPU, and bitmap raster buffer providers with a mock raster context and task graph runner.
+// ---
+
 #include "cc/raster/raster_buffer_provider.h"
 
 #include <stddef.h>

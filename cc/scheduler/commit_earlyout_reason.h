@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommitEarlyOutReason enum
+// summary: Defines the CommitEarlyOutReason enum listing why a commit was skipped or finished, with string conversion helpers linked to UMA histogram enums.
+// ---
+
 #ifndef CC_SCHEDULER_COMMIT_EARLYOUT_REASON_H_
 #define CC_SCHEDULER_COMMIT_EARLYOUT_REASON_H_
 

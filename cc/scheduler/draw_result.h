@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawResult enum
+// summary: Defines the DrawResult enum of draw outcomes such as success and abort reasons, whose values are reported in UMA histograms and must remain stable.
+// ---
+
 #ifndef CC_SCHEDULER_DRAW_RESULT_H_
 #define CC_SCHEDULER_DRAW_RESULT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Solid color analyzer implementation
+// summary: Analyzes paint operations to determine whether a display item renders as a single solid color.
+// ---
+
 #include "cc/paint/solid_color_analyzer.h"
 
 #include <cmath>

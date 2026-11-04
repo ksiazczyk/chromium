@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task and TaskGraph implementation
+// summary: Implements task lifecycle state tracking, the Task base class and TaskGraph nodes and edges used by task graph runners.
+// ---
+
 #include "cc/raster/task.h"
 
 #include <ostream>

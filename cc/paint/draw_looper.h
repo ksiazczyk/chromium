@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawLooper class declaration
+// summary: Declares DrawLooper and DrawLooperBuilder, which draw a primitive multiple times with per-layer paint and canvas modifiers.
+// ---
+
 #ifndef CC_PAINT_DRAW_LOOPER_H_
 #define CC_PAINT_DRAW_LOOPER_H_
 

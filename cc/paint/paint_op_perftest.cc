@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint op performance tests
+// summary: Performance tests measuring serialization and deserialization throughput of paint op buffers with simple, draw and flag-heavy ops.
+// ---
+
 #include <utility>
 
 #include "base/compiler_specific.h"

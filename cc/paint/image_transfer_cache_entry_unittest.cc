@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image transfer cache entry unit tests
+// summary: Unit tests verifying serialization and GPU upload of image transfer cache entries across RGBA and YUVA plane configurations using a GL-backed Skia context.
+// ---
+
 #include "cc/paint/image_transfer_cache_entry.h"
 
 #include <stdint.h>

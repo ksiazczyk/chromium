@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIResourceRequest implementation
+// summary: Implements the UIResourceRequest constructors, copy assignment and destructor, representing create or delete requests that carry a resource ID and optional bitmap.
+// ---
+
 #include "cc/resources/ui_resource_request.h"
 
 #include <memory>

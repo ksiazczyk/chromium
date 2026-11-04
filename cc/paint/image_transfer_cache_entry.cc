@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image transfer cache entry implementation
+// summary: Implements the image transfer cache entry, including YUV plane uploads and SkImage creation for Ganesh and Graphite.
+// ---
+
 #include "cc/paint/image_transfer_cache_entry.h"
 
 #include <algorithm>

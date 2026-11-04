@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintOp implementation
+// summary: Implements the paint operation classes that rasterize drawing commands such as images, text, clips, and transforms onto Skia canvases, including serialization support.
+// ---
+
 
 #include "cc/paint/paint_op.h"
 

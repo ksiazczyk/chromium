@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFrameSinkImpl class declaration
+// summary: Declares a test FrameSinkImpl exposing submitted frames, hit test regions, uploaded resources, and begin frame state for use in unit tests.
+// ---
+
 #ifndef CC_SLIM_TEST_FRAME_SINK_IMPL_H_
 #define CC_SLIM_TEST_FRAME_SINK_IMPL_H_
 

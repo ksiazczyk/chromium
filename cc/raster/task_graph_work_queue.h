@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskGraphWorkQueue prioritized task queue
+// summary: Header for TaskGraphWorkQueue, a queue of prioritized, categorized TaskGraph work used by TaskGraphRunner implementations to schedule, run, and collect tasks.
+// ---
+
 #ifndef CC_RASTER_TASK_GRAPH_WORK_QUEUE_H_
 #define CC_RASTER_TASK_GRAPH_WORK_QUEUE_H_
 

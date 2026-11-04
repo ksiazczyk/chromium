@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextureBacking interface declaration
+// summary: Declares TextureBacking, an interface for texture mailboxes backing a PaintImage, including pixel readback support.
+// ---
+
 #ifndef CC_PAINT_TEXTURE_BACKING_H_
 #define CC_PAINT_TEXTURE_BACKING_H_
 

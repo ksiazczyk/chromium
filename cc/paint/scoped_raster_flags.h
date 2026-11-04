@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped raster flags header
+// summary: Declares a stack-allocated helper that modifies paint flags for raster by folding alpha, decoding images and adjusting strokes, yielding null flags when decodes fail.
+// ---
+
 #ifndef CC_PAINT_SCOPED_RASTER_FLAGS_H_
 #define CC_PAINT_SCOPED_RASTER_FLAGS_H_
 

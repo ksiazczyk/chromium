@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skottie serialization history unit tests
+// summary: Unit tests covering filtering of new Skottie frame images and text values, handling of empty images, and purging of inactive animation history.
+// ---
+
 #include "cc/paint/skottie_serialization_history.h"
 
 #include <cstdint>

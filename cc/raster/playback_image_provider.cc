@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlaybackImageProvider implementation
+// summary: Implements PlaybackImageProvider, which replaces lazy generated PaintImages with decoded images from the ImageDecodeCache during raster, honoring skip lists and animated frame indexes.
+// ---
+
 #include "cc/raster/playback_image_provider.h"
 
 #include <utility>

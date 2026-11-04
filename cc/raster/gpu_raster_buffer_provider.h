@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU raster buffer provider class declaration
+// summary: Declares the GpuRasterBufferProvider class and its raster buffer for GPU-based tile rasterization with partial raster and sync token handling.
+// ---
+
 #ifndef CC_RASTER_GPU_RASTER_BUFFER_PROVIDER_H_
 #define CC_RASTER_GPU_RASTER_BUFFER_PROVIDER_H_
 

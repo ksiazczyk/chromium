@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skottie serialization history implementation
+// summary: Implements SkottieSerializationHistory, which filters out unchanged Skottie frame images and text property values before serialization for out-of-process rasterization.
+// ---
+
 #include "cc/paint/skottie_serialization_history.h"
 
 #include <utility>

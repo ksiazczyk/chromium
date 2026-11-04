@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayItemList class declaration
+// summary: Declares DisplayItemList, a paint op container with an r-tree for rect-based rasterization, visual rect bookkeeping, and op push helpers.
+// ---
+
 #ifndef CC_PAINT_DISPLAY_ITEM_LIST_H_
 #define CC_PAINT_DISPLAY_ITEM_LIST_H_
 

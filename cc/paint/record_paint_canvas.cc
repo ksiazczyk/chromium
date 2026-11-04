@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordPaintCanvas implementation
+// summary: Implements a PaintCanvas that records draw calls as paint operations into a PaintOpBuffer, covering save, clip, transform, and drawing methods.
+// ---
+
 #include "cc/paint/record_paint_canvas.h"
 
 #include <limits>

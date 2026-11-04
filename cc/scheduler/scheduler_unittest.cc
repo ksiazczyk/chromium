@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduler unit tests
+// summary: Unit tests for the Scheduler using a fake client and begin frame sources to verify drawing, commit, and frame scheduling behavior.
+// ---
+
 #include "cc/scheduler/scheduler.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawImage class declaration
+// summary: Declares DrawImage, a snapshot of a PaintImage carrying scaling, frame, filter quality, and color space decisions before decoding.
+// ---
+
 #ifndef CC_PAINT_DRAW_IMAGE_H_
 #define CC_PAINT_DRAW_IMAGE_H_
 

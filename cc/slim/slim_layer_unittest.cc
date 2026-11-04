@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Slim layer unit tests
+// summary: Unit tests for slim Layer tree manipulation and properties, plus filters and layer types like nine patch, surface, solid color and UI resource layers.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

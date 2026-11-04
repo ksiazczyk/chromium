@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecodedDrawImage class declaration
+// summary: Declares DecodedDrawImage, a finalized decoded, scaled, and color-converted version of a DrawImage used for direct rasterization or transfer cache serialization.
+// ---
+
 #ifndef CC_PAINT_DECODED_DRAW_IMAGE_H_
 #define CC_PAINT_DECODED_DRAW_IMAGE_H_
 

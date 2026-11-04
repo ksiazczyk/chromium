@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawLooper implementation
+// summary: Implements DrawLooper layers and DrawLooperBuilder, applying offsets, blur, and color modifiers to canvas paints for effects like shadows.
+// ---
+
 #include "cc/paint/draw_looper.h"
 
 #include <utility>

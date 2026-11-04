@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raster query queue header
+// summary: Declares the RasterQuery struct and RasterQueryQueue class used to track and check pending GPU raster duration queries.
+// ---
+
 #ifndef CC_RASTER_RASTER_QUERY_QUEUE_H_
 #define CC_RASTER_RASTER_QUERY_QUEUE_H_
 

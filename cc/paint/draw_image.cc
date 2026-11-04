@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawImage implementation
+// summary: Implements the DrawImage class, extracting scale from transform matrices and managing target color parameters for image drawing.
+// ---
+
 #include "cc/paint/draw_image.h"
 
 #include <utility>

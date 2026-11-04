@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintShader implementation
+// summary: Implements PaintShader factory methods for color, gradient, image, paint record, and SkSL shaders, including record shader identification and rasterization helpers.
+// ---
+
 #include "cc/paint/paint_shader.h"
 
 #include <algorithm>

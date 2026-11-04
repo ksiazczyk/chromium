@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint op writer implementation
+// summary: Implements PaintOpWriter, which serializes paint ops and their referenced data into aligned buffers and computes serialized sizes.
+// ---
+
 #include "cc/paint/paint_op_writer.h"
 
 #include <memory>

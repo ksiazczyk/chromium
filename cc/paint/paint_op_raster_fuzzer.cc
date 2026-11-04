@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint op raster fuzzer
+// summary: LibFuzzer harness that deserializes and rasterizes untrusted paint op buffers to find crashes, with optional SKP dumping.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

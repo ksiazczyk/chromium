@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeferredPaintRecord implementation
+// summary: Implements DeferredPaintRecord defaults, reporting records as not opaque, not paint worklet inputs, and not needing a layer.
+// ---
+
 #include "cc/paint/deferred_paint_record.h"
 
 #include "base/notimplemented.h"

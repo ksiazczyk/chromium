@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeImpl compositor frame production logic
+// summary: Implements the slim LayerTree, producing compositor frames from the layer tree while tracking damage, surface ranges, and presentation feedback metrics.
+// ---
+
 #include "cc/slim/layer_tree_impl.h"
 
 #include <algorithm>

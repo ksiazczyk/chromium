@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaintFilter unit tests
+// summary: Unit tests for cc PaintFilter types, constructing filters such as blur, drop shadow, record and image filters with and without discardable images.
+// ---
+
 #include "cc/paint/paint_filter.h"
 
 #include "cc/paint/image_provider.h"

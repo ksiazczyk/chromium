@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkottieWrapper Skottie-backed implementation
+// summary: Implements SkottieWrapper using the Skottie library, including logging, property conversions, and resource handling.
+// ---
+
 #include <algorithm>
 #include <functional>
 #include <memory>

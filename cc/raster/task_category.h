@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task category enum
+// summary: Defines the TaskCategory enum values used to prioritize task graph nodes, from non-concurrent foreground to background categories.
+// ---
+
 #ifndef CC_RASTER_TASK_CATEGORY_H_
 #define CC_RASTER_TASK_CATEGORY_H_
 

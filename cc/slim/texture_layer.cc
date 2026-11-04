@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Texture layer implementation
+// summary: Implements TextureLayer, including a TransferableResourceHolder that manages resource release callbacks and quad appending for client-provided textures.
+// ---
+
 #include "cc/slim/texture_layer.h"
 
 #include <utility>

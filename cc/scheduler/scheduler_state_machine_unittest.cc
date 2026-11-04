@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SchedulerStateMachine unit tests
+// summary: Unit tests that verify SchedulerStateMachine actions, state transitions, and deadline behavior using enum comparison helpers and action macros.
+// ---
+
 #include "cc/scheduler/scheduler_state_machine.h"
 
 #include <stddef.h>

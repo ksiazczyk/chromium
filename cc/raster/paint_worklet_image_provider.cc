@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintWorkletImageProvider implementation
+// summary: Implements PaintWorkletImageProvider, looking up painted PaintWorklet records by their input during rasterisation and returning an empty result when no record exists.
+// ---
+
 #include "cc/raster/paint_worklet_image_provider.h"
 
 #include <utility>

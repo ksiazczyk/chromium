@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkottieMRUResourceProvider class declaration
+// summary: Declares a multi-frame skresources::ResourceProvider that gives Skottie the most recent image returned by a frame data callback for each image asset, with asset metadata access.
+// ---
+
 #ifndef CC_PAINT_SKOTTIE_MRU_RESOURCE_PROVIDER_H_
 #define CC_PAINT_SKOTTIE_MRU_RESOURCE_PROVIDER_H_
 

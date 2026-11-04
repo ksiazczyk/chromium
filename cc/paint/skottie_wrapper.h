@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkottieWrapper class declarations
+// summary: Declares a thread-safe, ref-counted wrapper over Skia's Skottie animation object shared by SkiaVectorAnimation instances.
+// ---
+
 #ifndef CC_PAINT_SKOTTIE_WRAPPER_H_
 #define CC_PAINT_SKOTTIE_WRAPPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skottie color map type
+// summary: Defines the SkottieColorMap type mapping hashed Skottie resource IDs to SkColor values, plus a helper to build map entries from a resource name and color.
+// ---
+
 #ifndef CC_PAINT_SKOTTIE_COLOR_MAP_H_
 #define CC_PAINT_SKOTTIE_COLOR_MAP_H_
 

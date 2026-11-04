@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaintOpBuffer deserialization fuzzer
+// summary: LibFuzzer harness that deserializes arbitrary input bytes as a PaintOpBuffer to uncover crashes in paint op deserialization.
+// ---
+
 #include "cc/paint/paint_op_buffer.h"
 
 #include <stddef.h>

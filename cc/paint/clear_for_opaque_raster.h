@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of clear-for-opaque-raster calculation
+// summary: Declares CalculateClearForOpaqueRasterRects, which computes clear rects needed when drawing opaque content with translation or scale.
+// ---
+
 #ifndef CC_PAINT_CLEAR_FOR_OPAQUE_RASTER_H_
 #define CC_PAINT_CLEAR_FOR_OPAQUE_RASTER_H_
 

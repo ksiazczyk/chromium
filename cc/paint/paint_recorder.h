@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintRecorder class declaration
+// summary: Declares PaintRecorder and InspectablePaintRecorder, which record drawing operations on a PaintCanvas and finish as a PaintRecord.
+// ---
+
 #ifndef CC_PAINT_PAINT_RECORDER_H_
 #define CC_PAINT_PAINT_RECORDER_H_
 

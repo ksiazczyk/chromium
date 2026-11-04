@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU raster buffer provider implementation
+// summary: Implements rasterization of tiles directly on the GPU via shared images, including buffer acquisition, playback and readiness tracking.
+// ---
+
 #include "cc/raster/gpu_raster_buffer_provider.h"
 
 #include <stdint.h>

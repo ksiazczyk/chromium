@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SlimSchedulerStateMachine unit tests
+// summary: Unit tests verifying that the slim state machine issues each action once per frame and permits main frame, commit, and activation actions while idle.
+// ---
+
 #include "cc/scheduler/slim_scheduler_state_machine.h"
 
 #include "base/time/time.h"

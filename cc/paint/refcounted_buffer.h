@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefCountedBuffer template
+// summary: Declares a thread-safe ref-counted wrapper around a data buffer to minimize copies when recording large vertex, UV, or index arrays to paint op buffers.
+// ---
+
 #ifndef CC_PAINT_REFCOUNTED_BUFFER_H_
 #define CC_PAINT_REFCOUNTED_BUFFER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecodedDrawImage implementation
+// summary: Implements the constructors and destructor of DecodedDrawImage, a finalized image variant backed by an SkImage, GPU mailbox, or transfer cache entry.
+// ---
+
 #include "cc/paint/decoded_draw_image.h"
 
 #include <utility>

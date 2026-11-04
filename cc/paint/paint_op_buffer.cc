@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintOpBuffer implementation
+// summary: Implements the buffer that stores paint operations, with playback parameters, serialization options, appending, deep copying, and custom data replacement.
+// ---
+
 #include "cc/paint/paint_op_buffer.h"
 
 #include <algorithm>

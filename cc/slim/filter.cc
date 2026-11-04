@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slim compositor filter implementation
+// summary: Implements the cc::slim Filter class, defining its constructor, destructor and equality comparison for layer filter effects.
+// ---
+
 #include "cc/slim/filter.h"
 
 namespace cc::slim {

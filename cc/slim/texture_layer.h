@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Texture layer header
+// summary: Declares TextureLayer, a slim layer that pulls a viz::TransferableResource texture from a TextureLayerClient and renders it as a draw quad.
+// ---
+
 #ifndef CC_SLIM_TEXTURE_LAYER_H_
 #define CC_SLIM_TEXTURE_LAYER_H_
 

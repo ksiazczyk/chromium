@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test layer tree implementation
+// summary: Implements TestLayerTreeImpl.ResetNeedsBeginFrame, clearing begin-frame and draw flags and disabling begin frames on the frame sink for tests.
+// ---
+
 #include "cc/slim/test_layer_tree_impl.h"
 
 #include "base/check.h"

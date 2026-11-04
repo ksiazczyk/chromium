@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Staging buffer pool implementation
+// summary: Implements a pool of staging buffers for one-copy rasterization, handling GL resources, query waits, buffer expiration and memory dumps.
+// ---
+
 #include "cc/raster/staging_buffer_pool.h"
 
 #include <algorithm>

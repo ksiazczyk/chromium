@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler implementation
+// summary: Implements the compositor Scheduler, driving begin frames, main frames, commits, draws, deadlines and state machine actions for the cc compositor.
+// ---
+
 #include "cc/scheduler/scheduler.h"
 
 #include <algorithm>

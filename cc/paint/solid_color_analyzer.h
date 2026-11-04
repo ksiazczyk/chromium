@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SolidColorAnalyzer class declaration
+// summary: Declares SolidColorAnalyzer, which determines whether a paint op buffer renders as a single solid color.
+// ---
+
 #ifndef CC_PAINT_SOLID_COLOR_ANALYZER_H_
 #define CC_PAINT_SOLID_COLOR_ANALYZER_H_
 

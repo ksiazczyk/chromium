@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StagingBufferPool for raster staging buffers
+// summary: Declares the StagingBuffer struct and StagingBufferPool class that acquire, release and reclaim shared-image staging buffers for raster work, with memory dump support.
+// ---
+
 #ifndef CC_RASTER_STAGING_BUFFER_POOL_H_
 #define CC_RASTER_STAGING_BUFFER_POOL_H_
 

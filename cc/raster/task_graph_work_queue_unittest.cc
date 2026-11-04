@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskGraphWorkQueue unit tests
+// summary: Unit tests for TaskGraphWorkQueue covering dependency changes, task categories, priorities, and ready-to-run task tracking.
+// ---
+
 #include "cc/raster/task_graph_work_queue.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skottie resource metadata map implementation
+// summary: Implements SkottieResourceMetadataMap, registering external Skottie animation image assets by resource ID and hashing resource IDs for fast lookup.
+// ---
+
 #include "cc/paint/skottie_resource_metadata.h"
 
 #include <utility>

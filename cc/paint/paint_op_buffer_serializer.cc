@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintOpBufferSerializer implementation
+// summary: Serializes paint op buffers for transfer to the raster service, replaying ops onto an analysis canvas to compute state before writing.
+// ---
+
 #include "cc/paint/paint_op_buffer_serializer.h"
 
 #include <limits>

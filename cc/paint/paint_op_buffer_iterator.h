@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintOpBuffer iterator declarations
+// summary: Declares forward iterators for traversing a PaintOpBuffer directly or via offsets, plus a folding iterator for optimized playback.
+// ---
+
 #ifndef CC_PAINT_PAINT_OP_BUFFER_ITERATOR_H_
 #define CC_PAINT_PAINT_OP_BUFFER_ITERATOR_H_
 

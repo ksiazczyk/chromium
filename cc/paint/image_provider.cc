@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageProvider ScopedResult implementation
+// summary: Implements ImageProvider::ScopedResult construction, move semantics, and destruction callbacks for decoded images.
+// ---
+
 #include "cc/paint/image_provider.h"
 
 #include <optional>

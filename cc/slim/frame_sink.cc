@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSink factory
+// summary: Creates FrameSinkImpl instances, choosing between the simple and delayed scheduler based on a feature flag.
+// ---
+
 #include "cc/slim/frame_sink.h"
 
 #include <utility>

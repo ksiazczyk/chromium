@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skottie text property value declaration
+// summary: Declares SkottieTextPropertyValue, a cheap-to-copy override for text and box fields when rendering Lottie animations, and its map keyed by hashed node names.
+// ---
+
 #ifndef CC_PAINT_SKOTTIE_TEXT_PROPERTY_VALUE_H_
 #define CC_PAINT_SKOTTIE_TEXT_PROPERTY_VALUE_H_
 

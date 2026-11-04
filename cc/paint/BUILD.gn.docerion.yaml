@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the cc/paint component
+summary: GN build file defining the cc_paint component, listing its sources, defines, and dependencies on cc, skia, and gfx targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintImageGenerator interface
+// summary: Declares the PaintImageGenerator interface for lazily decoding images for the compositor, covering pixel and YUV plane decoding, frame metadata and HDR info.
+// ---
+
 #ifndef CC_PAINT_PAINT_IMAGE_GENERATOR_H_
 #define CC_PAINT_PAINT_IMAGE_GENERATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synchronous task graph runner unit tests
+// summary: Runs the shared task graph runner test suites against SynchronousTaskGraphRunner through a simple test delegate.
+// ---
+
 #include "base/threading/simple_thread.h"
 #include "cc/raster/synchronous_task_graph_runner.h"
 #include "cc/test/task_graph_runner_test_template.h"

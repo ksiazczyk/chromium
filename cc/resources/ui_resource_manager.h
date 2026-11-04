@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIResourceManager class declaration
+// summary: Declares the UIResourceManager interface for creating and deleting UI resources, retrieving resource sizes, and sharing resources backed by identical SkBitmaps.
+// ---
+
 #ifndef CC_RESOURCES_UI_RESOURCE_MANAGER_H_
 #define CC_RESOURCES_UI_RESOURCE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintImage class declarations
+// summary: Declares PaintImage plus supporting enums and ImageHeaderMetadata describing image types, YUV subsampling, auxiliary gainmap images and coded sizes.
+// ---
+
 #ifndef CC_PAINT_PAINT_IMAGE_H_
 #define CC_PAINT_PAINT_IMAGE_H_
 

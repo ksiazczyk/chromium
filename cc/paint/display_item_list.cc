@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayItemList implementation
+// summary: Implements DisplayItemList rasterization, text content capture, draw text area statistics, and tracing for a container of paint operations.
+// ---
+
 #include "cc/paint/display_item_list.h"
 
 #include <cinttypes>

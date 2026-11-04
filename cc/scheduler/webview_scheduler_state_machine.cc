@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebviewSchedulerStateMachine implementation
+// summary: Implements WebviewSchedulerStateMachine overrides for the synchronous renderer compositor, disabling deadlines and controlling layer tree frame sink invalidation.
+// ---
+
 #include "cc/scheduler/webview_scheduler_state_machine.h"
 
 namespace cc {

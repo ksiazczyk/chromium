@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterOperations class header
+// summary: Declares the cc FilterOperations class, an ordered list of filter operations with rect mapping, LCD-text, and blend helpers.
+// ---
+
 #ifndef CC_PAINT_FILTER_OPERATIONS_H_
 #define CC_PAINT_FILTER_OPERATIONS_H_
 

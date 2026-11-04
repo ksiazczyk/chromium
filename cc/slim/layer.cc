@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slim compositor layer implementation
+// summary: Implements the Layer base class with child management, conversion of slim filters to cc filter operations and offset tag validation.
+// ---
+
 #include "cc/slim/layer.h"
 
 #include <algorithm>

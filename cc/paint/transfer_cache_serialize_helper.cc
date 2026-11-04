@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transfer cache serialize helper implementation
+// summary: Implements client-side locking, creation, and flushing of transfer cache entries during serialization.
+// ---
+
 #include "cc/paint/transfer_cache_serialize_helper.h"
 
 #include <utility>

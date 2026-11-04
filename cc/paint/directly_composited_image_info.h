@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectlyCompositedImageInfo struct
+// summary: Defines a struct holding the default raster scale and nearest-neighbor filtering flag for images that are the sole content of a layer.
+// ---
+
 #ifndef CC_PAINT_DIRECTLY_COMPOSITED_IMAGE_INFO_H_
 #define CC_PAINT_DIRECTLY_COMPOSITED_IMAGE_INFO_H_
 

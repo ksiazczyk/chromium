@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slim compositor filter class declaration
+// summary: Declares the Filter class modeling CSS-style filters such as brightness, saturation and blur for slim compositor layers.
+// ---
+
 #ifndef CC_SLIM_FILTER_H_
 #define CC_SLIM_FILTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintOpBufferSerializer declarations
+// summary: Declares the paint op buffer serializer and its preamble structure for tiling, clearing, scaling, and playback rect handling during serialization.
+// ---
+
 #ifndef CC_PAINT_PAINT_OP_BUFFER_SERIALIZER_H_
 #define CC_PAINT_PAINT_OP_BUFFER_SERIALIZER_H_
 

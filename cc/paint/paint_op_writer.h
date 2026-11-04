@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint op writer header
+// summary: Declares the PaintOpWriter class with typed write functions, buffer alignment rules and serialized size helpers for paint ops.
+// ---
+
 #ifndef CC_PAINT_PAINT_OP_WRITER_H_
 #define CC_PAINT_PAINT_OP_WRITER_H_
 

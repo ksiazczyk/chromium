@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint op reader fuzzer
+// summary: LibFuzzer harness that reads paint filters from arbitrary input using PaintOpReader with security constraints enabled.
+// ---
+
 #include "cc/paint/paint_op_reader.h"
 
 #include <stddef.h>

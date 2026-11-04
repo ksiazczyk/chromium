@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintWorkletImageProvider class header
+// summary: Declares the PaintWorkletImageProvider class that stores PaintWorklets and their painted content, mapping PaintWorkletInput placeholders to records for raster.
+// ---
+
 #ifndef CC_RASTER_PAINT_WORKLET_IMAGE_PROVIDER_H_
 #define CC_RASTER_PAINT_WORKLET_IMAGE_PROVIDER_H_
 

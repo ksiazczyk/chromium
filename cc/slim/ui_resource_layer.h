@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI resource layer header
+// summary: Declares UIResourceLayer, a slim layer that draws a single UIResource or bitmap with configurable UV coordinates.
+// ---
+
 #ifndef CC_SLIM_UI_RESOURCE_LAYER_H_
 #define CC_SLIM_UI_RESOURCE_LAYER_H_
 

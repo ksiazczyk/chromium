@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscardableImageMap implementation
+// summary: Implements generation of the discardable image map by replaying paint op buffers on a canvas to record image positions, decoding modes, and paint worklet inputs.
+// ---
+
 #include "cc/paint/discardable_image_map.h"
 
 #include <stddef.h>

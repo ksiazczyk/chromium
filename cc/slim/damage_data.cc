@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Damage data implementation
+// summary: Implements the DamageData constructor and sorting of render pass damage data by converting to a flat map and back.
+// ---
+
 #include "cc/slim/damage_data.h"
 
 #include <utility>

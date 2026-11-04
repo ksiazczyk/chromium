@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Slim layer tree unit tests
+// summary: Unit tests for slim LayerTree behavior such as visibility, frame sink setup and release, begin frame requests, and viewport and scale updates.
+// ---
+
 #include <memory>
 #include <utility>
 

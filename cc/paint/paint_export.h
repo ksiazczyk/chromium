@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CC paint export macros
+// summary: Defines the CC_PAINT_EXPORT macro controlling symbol visibility for the cc paint component build on Windows and other platforms.
+// ---
+
 #ifndef CC_PAINT_PAINT_EXPORT_H_
 #define CC_PAINT_PAINT_EXPORT_H_
 

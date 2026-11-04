@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render surface filters header
+// summary: Declares the RenderSurfaceFilters class, whose BuildImageFilter converts a set of FilterOperations into a PaintFilter for render surfaces, including backdrop zoom handling.
+// ---
+
 #ifndef CC_PAINT_RENDER_SURFACE_FILTERS_H_
 #define CC_PAINT_RENDER_SURFACE_FILTERS_H_
 

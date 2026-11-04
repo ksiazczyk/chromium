@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecodeStashingImageProvider implementation
+// summary: Implements DecodeStashingImageProvider, which forwards decode requests to a source provider and retains decoded images until Reset is called.
+// ---
+
 #include "cc/paint/decode_stashing_image_provider.h"
 
 #include <utility>

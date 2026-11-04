@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shader transfer cache entry header
+// summary: Declares the service-side transfer cache entry for shaders, which caches PaintShader objects to reuse Skia's internal picture shader caches.
+// ---
+
 #ifndef CC_PAINT_SHADER_TRANSFER_CACHE_ENTRY_H_
 #define CC_PAINT_SHADER_TRANSFER_CACHE_ENTRY_H_
 

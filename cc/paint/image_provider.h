@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageProvider interface header
+// summary: Declares the ImageProvider interface that supplies decoded images or paint worklet records for rasterization.
+// ---
+
 #ifndef CC_PAINT_IMAGE_PROVIDER_H_
 #define CC_PAINT_IMAGE_PROVIDER_H_
 

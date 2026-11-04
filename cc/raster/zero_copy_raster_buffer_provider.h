@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero-copy raster buffer provider declaration
+// summary: Declares ZeroCopyRasterBufferProvider and its RasterBuffer implementation for zero-copy rasterization into shared images.
+// ---
+
 #ifndef CC_RASTER_ZERO_COPY_RASTER_BUFFER_PROVIDER_H_
 #define CC_RASTER_ZERO_COPY_RASTER_BUFFER_PROVIDER_H_
 

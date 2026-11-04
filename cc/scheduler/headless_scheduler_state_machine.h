@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessSchedulerStateMachine class declaration
+// summary: Declares HeadlessSchedulerStateMachine, a SchedulerStateMachine subclass that defers drawing until the entire pipeline is flushed in headless mode.
+// ---
+
 #ifndef CC_SCHEDULER_HEADLESS_SCHEDULER_STATE_MACHINE_H_
 #define CC_SCHEDULER_HEADLESS_SCHEDULER_STATE_MACHINE_H_
 

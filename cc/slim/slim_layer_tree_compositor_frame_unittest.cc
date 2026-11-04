@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Slim layer tree compositor frame unit tests
+// summary: Unit tests verifying the compositor frames produced by the slim layer tree, covering texture, surface, nine patch and solid color layers, quads, resources and filters.
+// ---
+
 #include <array>
 #include <memory>
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintWorkletJob implementation
+// summary: Implements the PaintWorkletJob class that holds a layer id, worklet input, and animated property values, and stores the paint record output of a worklet.
+// ---
+
 #include "cc/paint/paint_worklet_job.h"
 
 #include <utility>

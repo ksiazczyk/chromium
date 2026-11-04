@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raster buffer provider unit tests
+// summary: Unit tests for raster buffer providers, exercising zero-copy, one-copy, GPU and bitmap rasterization paths with test raster tasks and metrics checks.
+// ---
+
 #include "cc/raster/raster_buffer_provider.h"
 
 #include <stddef.h>

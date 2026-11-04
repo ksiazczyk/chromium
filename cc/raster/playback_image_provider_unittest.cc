@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlaybackImageProvider unit tests
+// summary: Unit tests for PlaybackImageProvider covering skipping all or selected images and ref counting of decoded images against a mock decode cache.
+// ---
+
 #include "cc/raster/playback_image_provider.h"
 
 #include <utility>

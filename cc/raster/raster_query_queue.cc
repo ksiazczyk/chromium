@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raster query queue implementation
+// summary: Implements a queue of pending raster queries that polls GPU query results and records combined worker and GPU raster durations as UMA histograms.
+// ---
+
 #include "cc/raster/raster_query_queue.h"
 
 #include <utility>

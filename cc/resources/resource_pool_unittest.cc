@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResourcePool unit tests
+// summary: Unit tests for ResourcePool covering resource acquisition, release, eviction, flushing, and expiration behavior.
+// ---
+
 #include "cc/resources/resource_pool.h"
 
 #include <GLES2/gl2extchromium.h>
