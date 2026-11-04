@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android test file utilities
+// summary: Android implementation that inserts an image into the Media Store via JNI and returns its content URI for testing.
+// ---
+
 #include "base/test/test_file_util.h"
 
 #include "base/android/jni_android.h"

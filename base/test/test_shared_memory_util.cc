@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory test utility implementation
+// summary: Implements checks that read-only shared memory regions reject writable mappings across POSIX, Fuchsia, Apple, and Windows platforms.
+// ---
+
 #include "base/test/test_shared_memory_util.h"
 
 #include <gtest/gtest.h>

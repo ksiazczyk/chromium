@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ICU test utilities implementation
+// summary: Implements scoped restoration of the ICU default locale and timezone plus an ICU initializer for use in tests.
+// ---
+
 #include "base/test/icu_test_util.h"
 
 #include "base/i18n/icu_util.h"

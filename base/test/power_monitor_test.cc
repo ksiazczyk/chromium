@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power monitor test source implementation
+// summary: Implements PowerMonitorTestSource and ScopedPowerMonitorTestSource to simulate suspend, resume, battery, thermal and speed limit power events in tests.
+// ---
+
 #include "base/test/power_monitor_test.h"
 
 #include "base/power_monitor/power_monitor.h"

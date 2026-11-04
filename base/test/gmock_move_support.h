@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock actions to move mock call arguments
+// summary: Test support header defining MoveArg and MoveArgAndReturn gmock actions that move mock call arguments into output variables.
+// ---
+
 #ifndef BASE_TEST_GMOCK_MOVE_SUPPORT_H_
 #define BASE_TEST_GMOCK_MOVE_SUPPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestIOThread class declaration
+// summary: Declares TestIOThread, a helper that runs an IO thread with an accessible task runner for use in tests, noting its threading restrictions.
+// ---
+
 #ifndef BASE_TEST_TEST_IO_THREAD_H_
 #define BASE_TEST_TEST_IO_THREAD_H_
 

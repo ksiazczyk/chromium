@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedMockClockOverride implementation
+// summary: Implements a scoped test utility that overrides Time, TimeTicks, and ThreadTicks Now() with an advanceable mock clock.
+// ---
+
 #include "base/test/scoped_mock_clock_override.h"
 
 #include <ostream>

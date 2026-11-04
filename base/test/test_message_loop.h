@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMessageLoop convenience class for unittests
+// summary: Convenience class that gives unittests a message loop without a backing thread by wrapping SingleThreadTaskEnvironment and exposing its main thread task runner.
+// ---
+
 #ifndef BASE_TEST_TEST_MESSAGE_LOOP_H_
 #define BASE_TEST_TEST_MESSAGE_LOOP_H_
 

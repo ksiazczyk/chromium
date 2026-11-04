@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows test file utilities
+// summary: Windows implementation of test helpers that delete files with retries, evict files from the system cache, deny file permissions, and restore saved DACLs.
+// ---
+
 #include "base/test/test_file_util.h"
 
 #include <windows.h>

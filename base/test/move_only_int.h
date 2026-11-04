@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MoveOnlyInt test helper class
+// summary: Declares a move-only integer class with comparison operators and a scoped destruction callback, designed for testing containers.
+// ---
+
 #ifndef BASE_TEST_MOVE_ONLY_INT_H_
 #define BASE_TEST_MOVE_ONLY_INT_H_
 

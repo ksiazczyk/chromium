@@ -7,6 +7,12 @@
 // See task_runner_test_template.h for a description of how to use the
 // constructs in this file; these work the same.
 
+// ---docerion
+// type: test
+// title: SequencedTaskRunner conformance test template
+// summary: Defines the SequencedTaskRunnerTest GTest template that checks SequencedTaskRunner implementations for conformance using recorded task events.
+// ---
+
 #ifndef BASE_TEST_SEQUENCED_TASK_RUNNER_TEST_TEMPLATE_H_
 #define BASE_TEST_SEQUENCED_TASK_RUNNER_TEST_TEMPLATE_H_
 

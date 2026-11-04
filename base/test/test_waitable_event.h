@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test waitable event class interface
+// summary: Declares TestWaitableEvent, a test-friendly WaitableEvent that needs no blocking-call allowance and adds no ScopedBlockingCall in Wait().
+// ---
+
 #ifndef BASE_TEST_TEST_WAITABLE_EVENT_H_
 #define BASE_TEST_TEST_WAITABLE_EVENT_H_
 

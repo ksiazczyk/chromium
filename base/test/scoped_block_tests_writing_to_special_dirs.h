@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped blocker for test writes to special directories
+// summary: Declares ScopedBlockTestsWritingToSpecialDirs, a scoped guard used by test harnesses to detect and block writes to special directories.
+// ---
+
 #ifndef BASE_TEST_SCOPED_BLOCK_TESTS_WRITING_TO_SPECIAL_DIRS_H_
 #define BASE_TEST_SCOPED_BLOCK_TESTS_WRITING_TO_SPECIAL_DIRS_H_
 

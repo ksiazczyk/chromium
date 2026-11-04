@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTest tag helpers implementation
+// summary: Implements functions that add tags such as feature_id to the gtest XML test result output through the XML result printer.
+// ---
+
 #include "base/test/gtest_tags.h"
 
 #include "base/check.h"

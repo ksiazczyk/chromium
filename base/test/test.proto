@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple test proto message definition
+// summary: Defines a simple proto2 TestMessage with a single optional string field for use in base tests.
+// ---
+
 syntax = "proto2";
 
 package base.test;

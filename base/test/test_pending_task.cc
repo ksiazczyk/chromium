@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPendingTask implementation
+// summary: Implements TestPendingTask, a helper for test TaskRunner implementations that tracks post time, delay, nestability, and trace output for pending tasks.
+// ---
+
 #include "base/test/test_pending_task.h"
 
 #include <string>

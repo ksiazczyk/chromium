@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleTestTickClock controllable tick clock for tests
+// summary: Declares SimpleTestTickClock, a thread-safe TickClock whose returned TimeTicks can be advanced or set to control time in tests.
+// ---
+
 #ifndef BASE_TEST_SIMPLE_TEST_TICK_CLOCK_H_
 #define BASE_TEST_SIMPLE_TEST_TICK_CLOCK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock log message interceptor for testing LOG calls
+// summary: Declares MockLog, a gmock-based interceptor of LOG() messages that lets tests set expectations on logged messages during its lifetime.
+// ---
+
 #ifndef BASE_TEST_MOCK_LOG_H_
 #define BASE_TEST_MOCK_LOG_H_
 

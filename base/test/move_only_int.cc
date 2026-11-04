@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MoveOnlyInt test helper implementation
+// summary: Implements the MoveOnlyInt destructor and the storage for its destruction callback, used to observe destroyed move-only integer values in tests.
+// ---
+
 #include "base/test/move_only_int.h"
 
 #include <utility>

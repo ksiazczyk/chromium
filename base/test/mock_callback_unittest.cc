@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MockCallback
+// summary: Unit tests verifying MockCallback behavior for zero-argument, multi-argument, once and repeating callbacks, plus its convenience typedefs.
+// ---
+
 #include "base/test/mock_callback.h"
 
 #include "base/functional/callback.h"

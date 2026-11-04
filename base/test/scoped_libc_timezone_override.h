@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped libc timezone override for tests
+// summary: Declares ScopedLibcTimezoneOverride, which temporarily sets the libc timezone via the TZ variable and restores it when destroyed.
+// ---
+
 #ifndef BASE_TEST_SCOPED_LIBC_TIMEZONE_OVERRIDE_H_
 #define BASE_TEST_SCOPED_LIBC_TIMEZONE_OVERRIDE_H_
 

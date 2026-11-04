@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedMockClockOverride
+// summary: Declares ScopedMockClockOverride, a scoped advanceable mock clock for tests that cannot inject a TickClock.
+// ---
+
 #ifndef BASE_TEST_SCOPED_MOCK_CLOCK_OVERRIDE_H_
 #define BASE_TEST_SCOPED_MOCK_CLOCK_OVERRIDE_H_
 

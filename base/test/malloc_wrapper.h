@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Malloc wrapper for dlsym access
+// summary: Declares an extern C malloc wrapper exported as a shared library symbol so tests can reference it via dlsym.
+// ---
+
 #ifndef BASE_TEST_MALLOC_WRAPPER_H_
 #define BASE_TEST_MALLOC_WRAPPER_H_
 

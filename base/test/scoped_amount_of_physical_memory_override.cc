@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped physical memory override for tests
+// summary: Scoped helper that overrides the reported amount of physical memory via SysInfo and restores the original value on destruction.
+// ---
+
 #include "base/test/scoped_amount_of_physical_memory_override.h"
 
 #include "base/check_op.h"

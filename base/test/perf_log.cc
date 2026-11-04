@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance log implementation
+// summary: Implements initialization, finalization, and result writing for the performance test log file.
+// ---
+
 #include "base/test/perf_log.h"
 
 #include "base/check.h"

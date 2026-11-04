@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia /dev/zero provider for tests
+// summary: Implements ScopedDevZero, which serves a /dev/zero file through a Fuchsia pseudo-directory on a dedicated thread for the test's lifetime.
+// ---
+
 #include "base/test/scoped_dev_zero_fuchsia.h"
 
 #include <fuchsia/io/cpp/fidl.h>

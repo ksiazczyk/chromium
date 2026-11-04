@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS test support declarations
+// summary: Declares functions to initialize the iOS test message loop, run hook and arguments, launch tests from an iOS app, and decide on XCTest-based running.
+// ---
+
 #ifndef BASE_TEST_TEST_SUPPORT_IOS_H_
 #define BASE_TEST_TEST_SUPPORT_IOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskEnvironment implementation
+// summary: Implements TaskEnvironment, which sets up message pumps, sequence managers, thread pools and time sources for unit tests.
+// ---
+
 #include "base/test/task_environment.h"
 
 #include <algorithm>

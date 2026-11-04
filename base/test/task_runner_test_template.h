@@ -44,6 +44,12 @@
 //
 // Easy!
 
+// ---docerion
+// type: test
+// title: Reusable TaskRunner conformance test template
+// summary: Defines a typed test suite and TaskTracker helper that TaskRunner implementations instantiate to verify conformance.
+// ---
+
 #ifndef BASE_TEST_TASK_RUNNER_TEST_TEMPLATE_H_
 #define BASE_TEST_TASK_RUNNER_TEST_TEMPLATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock move support unit tests
+// summary: Unit tests verifying MoveArg and MoveArgAndReturn behavior with move-only arguments passed by value and by reference.
+// ---
+
 #include "base/test/gmock_move_support.h"
 
 #include <memory>

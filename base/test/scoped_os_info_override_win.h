@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedOSInfoOverride
+// summary: Declares ScopedOSInfoOverride, a helper to fake Windows OS information for the lifetime of the object in tests.
+// ---
+
 #ifndef BASE_TEST_SCOPED_OS_INFO_OVERRIDE_WIN_H_
 #define BASE_TEST_SCOPED_OS_INFO_OVERRIDE_WIN_H_
 

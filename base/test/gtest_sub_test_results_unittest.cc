@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GTest sub test results unit tests
+// summary: Unit tests verifying that AddSubTestResult rejects empty and invalid sub-test names and accepts valid ones via EXPECT_CHECK_DEATH.
+// ---
+
 #include "base/test/gtest_sub_test_results.h"
 
 #include <optional>

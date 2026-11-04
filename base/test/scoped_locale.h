@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped locale helper for tests
+// summary: Declares ScopedLocale, which sets a given locale on construction and restores the previous locale on destruction.
+// ---
+
 #ifndef BASE_TEST_SCOPED_LOCALE_H_
 #define BASE_TEST_SCOPED_LOCALE_H_
 

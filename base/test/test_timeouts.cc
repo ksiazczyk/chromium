@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test timeouts implementation
+// summary: Implements TestTimeouts, initializing common test timeouts with multipliers for sanitizers, debug builds, and platform-specific slowdowns.
+// ---
+
 
 #include "base/test/test_timeouts.h"
 

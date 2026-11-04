@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Values test utility unit tests
+// summary: Unit tests for the base::test values test utilities, verifying the DictionaryHasValue, DictionaryHasValues and IsSupersetOfValue GTest matchers against JSON-parsed values.
+// ---
+
 #include "base/test/values_test_util.h"
 
 #include "base/types/optional_util.h"

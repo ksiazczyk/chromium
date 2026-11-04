@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PerfTestSuite class for performance tests
+// summary: Declares the PerfTestSuite class that initializes, runs and shuts down base performance tests, with a TODO to migrate them to Google Benchmark.
+// ---
+
 #ifndef BASE_TEST_PERF_TEST_SUITE_H_
 #define BASE_TEST_PERF_TEST_SUITE_H_
 

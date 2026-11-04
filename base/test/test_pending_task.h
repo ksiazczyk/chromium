@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPendingTask helper class header
+// summary: Declares TestPendingTask, a helper struct for test TaskRunner implementations with ordering, tracing, and gtest pretty-printing support.
+// ---
+
 #ifndef BASE_TEST_TEST_PENDING_TASK_H_
 #define BASE_TEST_TEST_PENDING_TASK_H_
 

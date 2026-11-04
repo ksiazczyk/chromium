@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped logging settings and vmodule helpers for tests
+// summary: Declares ScopedLoggingSettings to save and restore logging settings and ScopedVmoduleSwitches to temporarily enable vlog modules during tests.
+// ---
+
 #ifndef BASE_TEST_SCOPED_LOGGING_SETTINGS_H_
 #define BASE_TEST_SCOPED_LOGGING_SETTINGS_H_
 

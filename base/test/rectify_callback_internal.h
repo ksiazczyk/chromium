@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RectifyCallback internal implementation helpers
+// summary: Internal header backing the RectifyCallback test utility, adapting callbacks to a desired signature by discarding ignored arguments.
+// ---
+
 #ifndef BASE_TEST_RECTIFY_CALLBACK_INTERNAL_H_
 #define BASE_TEST_RECTIFY_CALLBACK_INTERNAL_H_
 

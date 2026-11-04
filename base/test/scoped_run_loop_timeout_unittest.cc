@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedRunLoopTimeout
+// summary: Unit tests verifying that ScopedRunLoopTimeout times out RunLoop::Run() calls as expected, including inherited timeout values and tasks running until the timeout.
+// ---
+
 #include "base/test/scoped_run_loop_timeout.h"
 
 #include "base/functional/bind.h"

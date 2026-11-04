@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Immediate crash test helper functions
+// summary: Exports test functions that deliberately call base::ImmediateCrash when their arguments fall below given thresholds.
+// ---
+
 #include "base/immediate_crash.h"  // nogncheck
 
 #if defined(WIN32)

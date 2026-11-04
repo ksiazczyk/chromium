@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rust bindings for ScopedFeatureList
+// summary: Exposes the C++ ScopedFeatureList test helper to Rust through a cxx bridge so Rust tests can enable, disable, and parameterize features.
+// ---
+
 chromium::import! {
     "//base:feature";
 }

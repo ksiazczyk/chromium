@@ -1,0 +1,4 @@
+# Docerion header of mock_callback.h.pump.
+type: test
+title: Pump template for the MockCallback test header
+summary: Pump script template that generates mock_callback.h, defining MockCallback classes and typedefs for mocking base::OnceCallback and RepeatingCallback in tests.

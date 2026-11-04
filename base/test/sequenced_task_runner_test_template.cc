@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SequencedTaskRunner test template implementation
+// summary: Implements SequencedTaskTracker and helpers that record task post, start, and end events to verify sequencing invariants in task runner conformance tests.
+// ---
+
 #include "base/test/sequenced_task_runner_test_template.h"
 
 #include <ostream>

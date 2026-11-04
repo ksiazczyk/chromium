@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedFeatureList test helper for feature and field trial overrides
+// summary: Declares ScopedFeatureList and FeatureRef helpers that temporarily replace the global feature list and field trial state for tests, restoring the original state on destruction.
+// ---
+
 #ifndef BASE_TEST_SCOPED_FEATURE_LIST_H_
 #define BASE_TEST_SCOPED_FEATURE_LIST_H_
 

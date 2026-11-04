@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedPathOverride
+// summary: Declares ScopedPathOverride, a scoped helper for tests to override PathService paths with automatic restoration.
+// ---
+
 #ifndef BASE_TEST_SCOPED_PATH_OVERRIDE_H_
 #define BASE_TEST_SCOPED_PATH_OVERRIDE_H_
 

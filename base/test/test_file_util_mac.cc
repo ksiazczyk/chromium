@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: macOS test file utilities
+// summary: macOS implementation of EvictFileFromSystemCache that memory-maps the file and invalidates it with msync to force a cold reload.
+// ---
+
 #include "base/test/test_file_util.h"
 
 #include <errno.h>

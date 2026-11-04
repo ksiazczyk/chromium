@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock devices changed observer for SystemMonitor
+// summary: Defines a gmock mock of base::SystemMonitor::DevicesChangedObserver that mocks OnDevicesChanged for use in tests.
+// ---
+
 #ifndef BASE_TEST_MOCK_DEVICES_CHANGED_OBSERVER_H_
 #define BASE_TEST_MOCK_DEVICES_CHANGED_OBSERVER_H_
 

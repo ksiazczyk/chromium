@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual hang watcher for unit tests
+// summary: Declares a deterministic, manually triggered version of HangWatcher that lets unit tests check for hung threads synchronously.
+// ---
+
 #ifndef BASE_TEST_MANUAL_HANG_WATCHER_H_
 #define BASE_TEST_MANUAL_HANG_WATCHER_H_
 

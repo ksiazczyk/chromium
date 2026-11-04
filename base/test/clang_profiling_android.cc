@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android JNI bridge for Clang profiling in tests
+// summary: Android JNI entry point that writes a Clang profiling profile from Java tests when profiling is enabled.
+// ---
+
 #include "base/test/clang_profiling.h"
 
 #include "base/android/jni_android.h"

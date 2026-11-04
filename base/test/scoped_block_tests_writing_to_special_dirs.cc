@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped blocking of test writes to special directories
+// summary: Implements ScopedBlockTestsWritingToSpecialDirs, which installs a non-nested blocker that prevents tests from writing to special directories.
+// ---
+
 #include "base/test/scoped_block_tests_writing_to_special_dirs.h"
 
 #include <ostream>

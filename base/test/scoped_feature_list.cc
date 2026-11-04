@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped feature list override for tests
+// summary: Implements ScopedFeatureList, which enables or disables features and associated field trials and parameters for the duration of a test.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 
 #include <algorithm>

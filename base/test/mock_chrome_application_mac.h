@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the MockCrApp Mac application mock
+// summary: Declares MockCrApp, a basic NSApplication implementing CrAppProtocol and CrAppControlProtocol for tests that need an NSApplication or ScopedSendingEvent.
+// ---
+
 #ifndef BASE_TEST_MOCK_CHROME_APPLICATION_MAC_H_
 #define BASE_TEST_MOCK_CHROME_APPLICATION_MAC_H_
 

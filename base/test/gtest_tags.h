@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTest tag helpers API
+// summary: Declares functions for tests to add tags, including a feature_id tag, to the gtest XML output on desktop test launcher runs.
+// ---
+
 #ifndef BASE_TEST_GTEST_TAGS_H_
 #define BASE_TEST_GTEST_TAGS_H_
 

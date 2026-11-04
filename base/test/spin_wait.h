@@ -12,6 +12,12 @@
 // We provide a simple one argument spin wait (for 1 second), and a generic
 // spin wait (for longer periods of time).
 
+// ---docerion
+// type: test
+// title: Spin wait macros for tests
+// summary: Provides SPIN_FOR_1_SECOND_OR_UNTIL_TRUE and related macros that spin-wait on an expression until true or a timeout, for test use only.
+// ---
+
 #ifndef BASE_TEST_SPIN_WAIT_H_
 #define BASE_TEST_SPIN_WAIT_H_
 

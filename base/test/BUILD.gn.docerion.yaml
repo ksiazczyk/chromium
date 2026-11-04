@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for base test support
+summary: Defines GN targets for base test support, including test_config, Rust test libraries with CXX shims, and the aggregated test_support library.

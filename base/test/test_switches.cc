@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Definitions of test launcher command-line switches
+// summary: Defines the string values of command-line switches controlling the test launcher, such as batch limits, bot mode, filters, retries, timeouts and output options.
+// ---
+
 #include "base/test/test_switches.h"
 
 #include "build/build_config.h"

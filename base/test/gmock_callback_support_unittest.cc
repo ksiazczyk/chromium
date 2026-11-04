@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock callback support unit tests
+// summary: Unit tests for the gmock callback support matchers and actions such as IsNullCallback, RunClosure, RunCallback and RunOnceCallback.
+// ---
+
 #include "base/test/gmock_callback_support.h"
 
 #include <memory>

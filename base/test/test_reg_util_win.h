@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows registry override test utility header
+// summary: Declares RegistryOverrideManager and helpers for overriding Windows registry hives in tests with scoped, automatically undone overrides.
+// ---
+
 #ifndef BASE_TEST_TEST_REG_UTIL_WIN_H_
 #define BASE_TEST_TEST_REG_UTIL_WIN_H_
 

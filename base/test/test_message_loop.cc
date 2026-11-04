@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMessageLoop implementation
+// summary: Implements TestMessageLoop, a single-threaded task environment wrapper that maps message pump types and runs pending tasks until idle on destruction.
+// ---
+
 #include "base/test/test_message_loop.h"
 
 #include "base/compiler_specific.h"

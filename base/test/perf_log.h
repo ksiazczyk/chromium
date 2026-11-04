@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance log API
+// summary: Declares functions to initialize, finalize, and write named results with units to the performance test log.
+// ---
+
 #ifndef BASE_TEST_PERF_LOG_H_
 #define BASE_TEST_PERF_LOG_H_
 

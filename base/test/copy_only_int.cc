@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CopyOnlyInt test helper implementation
+// summary: Implements the CopyOnlyInt test helper, tracking copy counts and running a registered destruction callback.
+// ---
+
 #include "base/test/copy_only_int.h"
 
 #include <utility>

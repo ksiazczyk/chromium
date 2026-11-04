@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestIOThread implementation
+// summary: Implements TestIOThread, which runs an IO message loop thread for tests with auto or manual start, stopping, and task posting.
+// ---
+
 #include "base/test/test_io_thread.h"
 
 #include "base/check.h"

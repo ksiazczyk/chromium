@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMockTimeTaskRunner implementation
+// summary: Implements TestMockTimeTaskRunner, including a non-owning proxy task runner that breaks reference cycles and fails task posts after the runner is destroyed.
+// ---
+
 #include "base/test/test_mock_time_task_runner.h"
 
 #include <optional>

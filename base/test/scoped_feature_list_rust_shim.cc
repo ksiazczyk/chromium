@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: C++ implementation of the ScopedFeatureList Rust shim
+// summary: Implements the ScopedFeatureListRs FFI shim that forwards Rust calls to the C++ ScopedFeatureList test helper, including feature parameters.
+// ---
+
 #include "base/test/scoped_feature_list_rust_shim.h"
 
 #include "base/feature_list.h"

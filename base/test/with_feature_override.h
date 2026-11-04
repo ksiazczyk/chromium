@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WithFeatureOverride test fixture header
+// summary: Declares a test fixture base class that runs TEST_P tests twice, once with a feature enabled and once disabled, plus a macro to instantiate the parameterized suite.
+// ---
+
 #ifndef BASE_TEST_WITH_FEATURE_OVERRIDE_H_
 #define BASE_TEST_WITH_FEATURE_OVERRIDE_H_
 

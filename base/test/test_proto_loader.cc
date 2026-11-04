@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestProtoLoader implementation
+// summary: Implements TestProtoSetLoader and TestProtoLoader, which use protobuf descriptors and dynamic messages to parse text-format protos into binary in tests.
+// ---
+
 #include "base/test/test_proto_loader.h"
 
 #include "base/check.h"

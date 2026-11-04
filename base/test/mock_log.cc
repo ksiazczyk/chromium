@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of MockLog
+// summary: Implements MockLog's log capture, installing and restoring a log message handler that forwards messages to gmock expectations.
+// ---
+
 #include "base/test/mock_log.h"
 
 namespace base::test {

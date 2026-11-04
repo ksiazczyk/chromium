@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of MockEntropyProvider
+// summary: Implements MockEntropyProvider, which returns a fixed entropy value for field trial randomization in tests.
+// ---
+
 #include "base/test/mock_entropy_provider.h"
 
 #include <string_view>

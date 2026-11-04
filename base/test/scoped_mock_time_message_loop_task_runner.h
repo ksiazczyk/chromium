@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedMockTimeMessageLoopTaskRunner
+// summary: Declares ScopedMockTimeMessageLoopTaskRunner, which swaps in a TestMockTimeTaskRunner for the scope of a test.
+// ---
+
 #ifndef BASE_TEST_SCOPED_MOCK_TIME_MESSAGE_LOOP_TASK_RUNNER_H_
 #define BASE_TEST_SCOPED_MOCK_TIME_MESSAGE_LOOP_TASK_RUNNER_H_
 

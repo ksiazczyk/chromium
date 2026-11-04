@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux test file utilities
+// summary: Linux implementation of EvictFileFromSystemCache using fdatasync and posix_fadvise, including an ARM32 fadvise syscall wrapper for Android.
+// ---
+
 #include "base/test/test_file_util.h"
 
 #include <fcntl.h>

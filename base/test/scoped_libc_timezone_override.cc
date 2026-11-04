@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of ScopedLibcTimezoneOverride
+// summary: Implements a scoped helper that sets the TZ environment variable to a given timezone for a test and restores the previous value on destruction.
+// ---
+
 #include "base/test/scoped_libc_timezone_override.h"
 
 #include "base/check.h"

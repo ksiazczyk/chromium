@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of ScopedLocale
+// summary: Implements ScopedLocale, which switches the C locale for the duration of a test and restores the previous locale afterwards.
+// ---
+
 #include "base/test/scoped_locale.h"
 
 #include <locale.h>

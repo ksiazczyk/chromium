@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSuite class declaration for gtest-based unit tests
+// summary: Declares the base TestSuite class that sets up and runs gtest-based tests, with hooks for initialization, shutdown, assert handling and launcher result printing.
+// ---
+
 #ifndef BASE_TEST_TEST_SUITE_H_
 #define BASE_TEST_TEST_SUITE_H_
 

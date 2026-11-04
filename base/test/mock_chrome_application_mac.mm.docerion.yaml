@@ -1,0 +1,4 @@
+# Docerion header of mock_chrome_application_mac.mm.
+type: test
+title: Implementation of the MockCrApp Mac application mock
+summary: Implements the MockCrApp NSApplication subclass, registering it as the shared application and tracking sendEvent handling for Mac tests.

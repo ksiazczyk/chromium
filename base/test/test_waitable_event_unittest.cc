@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TestWaitableEvent
+// summary: Unit tests verifying that TestWaitableEvent waits without triggering blocking-call observers or requiring sync primitives allowance.
+// ---
+
 #include "base/test/test_waitable_event.h"
 
 #include "base/functional/bind.h"

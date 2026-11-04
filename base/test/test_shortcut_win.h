@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows shortcut validation test helper header
+// summary: Declares test-only functions that validate Windows shortcuts against expected properties and compare file paths.
+// ---
+
 #ifndef BASE_TEST_TEST_SHORTCUT_WIN_H_
 #define BASE_TEST_TEST_SHORTCUT_WIN_H_
 

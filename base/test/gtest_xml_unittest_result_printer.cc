@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XML unit test result printer implementation
+// summary: Implements a gtest event listener that writes an extended XML result file supporting links, tags, sub-test results and assertion reporting.
+// ---
+
 #include "base/test/gtest_xml_unittest_result_printer.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for test suite feature list helper
+// summary: Declares InitScopedFeatureListForTesting, which sets up a ScopedFeatureList for test runs.
+// ---
+
 #ifndef BASE_TEST_TEST_SUITE_HELPER_H_
 #define BASE_TEST_TEST_SUITE_HELPER_H_
 

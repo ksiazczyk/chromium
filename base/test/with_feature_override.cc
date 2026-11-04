@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WithFeatureOverride implementation
+// summary: Implements the WithFeatureOverride fixture, enabling or disabling a given feature based on the test's boolean parameter and asserting it is the first base class of the fixture.
+// ---
+
 #include "base/test/with_feature_override.h"
 
 #include "base/task/thread_pool/thread_pool_instance.h"

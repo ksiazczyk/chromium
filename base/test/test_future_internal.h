@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internal tuple concepts for TestFuture
+// summary: Internal header defining C++ concepts that restrict TestFuture methods to futures holding one, single, or multiple values.
+// ---
+
 #ifndef BASE_TEST_TEST_FUTURE_INTERNAL_H_
 #define BASE_TEST_TEST_FUTURE_INTERNAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows reparse point test helper declaration
+// summary: Declares FilePathReparsePoint, an RAII helper that manages a Windows reparse point for a test directory.
+// ---
+
 #ifndef BASE_TEST_FILE_PATH_REPARSE_POINT_WIN_H_
 #define BASE_TEST_FILE_PATH_REPARSE_POINT_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows reparse point test helper implementation
+// summary: Implements FilePathReparsePoint, creating and deleting Windows mount-point reparse points that redirect a test directory to a target.
+// ---
+
 #include "base/test/file_path_reparse_point_win.h"
 
 #include <windows.h>

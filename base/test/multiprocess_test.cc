@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiprocess test helpers implementation
+// summary: Implements spawning, waiting for, and terminating multiprocess test child processes, plus the MultiProcessTest fixture, on non-Android platforms.
+// ---
+
 #include "base/test/multiprocess_test.h"
 
 #include "base/base_switches.h"

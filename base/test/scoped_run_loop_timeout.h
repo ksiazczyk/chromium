@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedRunLoopTimeout class declaration
+// summary: Declares ScopedRunLoopTimeout, a test helper that configures per-thread timeouts for RunLoop::Run() calls, with nested timeouts and optional GTest failure reporting.
+// ---
+
 #ifndef BASE_TEST_SCOPED_RUN_LOOP_TIMEOUT_H_
 #define BASE_TEST_SCOPED_RUN_LOOP_TIMEOUT_H_
 

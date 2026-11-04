@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PerfTimeLogger implementation
+// summary: Implements PerfTimeLogger, which logs the elapsed milliseconds of a performance test through the perf log when Done is called or on destruction.
+// ---
+
 #include "base/test/perf_time_logger.h"
 
 #include "base/test/perf_log.h"

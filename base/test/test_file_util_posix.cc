@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: POSIX test file utilities
+// summary: POSIX implementation of test file utilities covering permission denial, unreadable and unwritable files, page cache sync, and FilePermissionRestorer.
+// ---
+
 #include "base/test/test_file_util.h"
 
 #include <errno.h>

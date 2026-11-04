@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped ChromeOS version info override for tests
+// summary: Implements ScopedChromeOSVersionInfo, which sets and resets ChromeOS lsb-release version data for the duration of a test.
+// ---
+
 #include "base/test/scoped_chromeos_version_info.h"
 
 #include <string_view>

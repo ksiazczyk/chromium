@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test suite helper for scoped feature list initialization
+// summary: Initializes a ScopedFeatureList from command-line feature flags for tests and removes those flags from the command line so tests use the ScopedFeatureList API.
+// ---
+
 #include "base/test/test_suite_helper.h"
 
 #include "base/base_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows shortcut validation test helper implementation
+// summary: Implements gtest helpers that validate Windows shell shortcut properties and compare file paths case-insensitively via LongPathName.
+// ---
+
 #include "base/test/test_shortcut_win.h"
 
 #include <objbase.h>
