@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchObserverHud unit tests
+// summary: Unit tests for touch HUD behavior across single, dual, mirrored and removed display configurations.
+// ---
+
 #include "ash/touch/touch_observer_hud.h"
 
 #include "ash/constants/ash_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen utilities header
+// summary: Declares SeaPen helper functions for largest display size lookup, Manta output validation, Manta request creation, and feedback text generation.
+// ---
+
 #ifndef ASH_WALLPAPER_SEA_PEN_UTILS_H_
 #define ASH_WALLPAPER_SEA_PEN_UTILS_H_
 

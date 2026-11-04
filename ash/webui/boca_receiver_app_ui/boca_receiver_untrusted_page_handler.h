@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca receiver untrusted page handler header
+// summary: Declares the BocaReceiverUntrustedPageHandler class that handles FCM registration and invalidations, receiver registration and connection state updates, and Chrome Remote Desktop session events for the Boca receiver WebUI.
+// ---
+
 #ifndef ASH_WEBUI_BOCA_RECEIVER_APP_UI_BOCA_RECEIVER_UNTRUSTED_PAGE_HANDLER_H_
 #define ASH_WEBUI_BOCA_RECEIVER_APP_UI_BOCA_RECEIVER_UNTRUSTED_PAGE_HANDLER_H_
 

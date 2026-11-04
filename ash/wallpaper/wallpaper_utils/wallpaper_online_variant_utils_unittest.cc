@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Online wallpaper variant utilities unit tests
+// summary: Unit tests covering FirstValidVariant and IsSuitableOnlineWallpaperVariant across schedule checkpoints, preview types, and subtype matching.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_online_variant_utils.h"
 
 #include <vector>

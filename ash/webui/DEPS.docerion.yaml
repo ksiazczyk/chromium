@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Ash WebUI include rules
+summary: Defines include dependency rules for //ash/webui, blocking chrome includes while allowing content, mojo, and ChromeOS ash component dependencies.

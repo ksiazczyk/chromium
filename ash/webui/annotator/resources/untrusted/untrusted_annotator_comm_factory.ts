@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotator communication factory for the untrusted WebUI
+// summary: Factory that observes the DOM for the annotator ink canvas element and wires browser Mojo callbacks for undo, redo, clear and setTool to its API.
+// ---
+
 import {browserProxy} from './annotator_browser_proxy.js';
 import {UntrustedAnnotatorPageCallbackRouter} from './untrusted_annotator.mojom-webui.js';
 

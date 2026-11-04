@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotations overlay view class declaration
+// summary: Declares the annotations overlay view that hosts a WebView showing the annotator embedder URL.
+// ---
+
 #ifndef ASH_WEBUI_ANNOTATOR_ANNOTATIONS_OVERLAY_VIEW_IMPL_H_
 #define ASH_WEBUI_ANNOTATOR_ANNOTATIONS_OVERLAY_VIEW_IMPL_H_
 

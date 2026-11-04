@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc curve path util implementation
+// summary: Implements ArcCurveCorner and GetArcCurveRectPath to build Skia paths for rectangles with arc curve corners and optional rounded corners.
+// ---
+
 #include "ash/utility/arc_curve_path_util.h"
 
 #include <optional>

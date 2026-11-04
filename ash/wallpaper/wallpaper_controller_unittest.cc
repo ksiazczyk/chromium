@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper controller unit tests
+// summary: Unit tests for the Ash wallpaper controller covering wallpaper setting, daily refresh, SeaPen, Google Photos, scheduling, and related wallpaper components.
+// ---
+
 #include <array>
 #include <cstdlib>
 #include <sstream>

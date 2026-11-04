@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User education Ash test base implementation
+// summary: Sets up the Ash test environment by installing a MockUserEducationDelegate with default behaviors for starting and aborting tutorials.
+// ---
+
 #include "ash/user_education/user_education_ash_test_base.h"
 
 #include <map>

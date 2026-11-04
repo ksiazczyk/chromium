@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash help bubble factory implementation for Views
+// summary: Implements HelpBubbleFactoryViewsAsh, which creates ChromeOS-specific Views-based help bubbles for tracked elements and registers pane navigation accelerators.
+// ---
+
 #include "ash/user_education/views/help_bubble_factory_views_ash.h"
 
 #include "ash/user_education/user_education_class_properties.h"

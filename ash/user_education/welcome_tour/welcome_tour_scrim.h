@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Tour scrim header
+// summary: Declares the WelcomeTourScrim class that applies a scrim to the help bubble container on all root windows while the Welcome Tour is in progress.
+// ---
+
 #ifndef ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_SCRIM_H_
 #define ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_SCRIM_H_
 

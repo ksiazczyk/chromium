@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Haptics tracking test input controller declaration
+// summary: Declares a stub input controller for tests that tracks haptic touchpad effect counts and installs itself as the input controller used by the haptics utilities.
+// ---
+
 #ifndef ASH_UTILITY_HAPTICS_TRACKING_TEST_INPUT_CONTROLLER_H_
 #define ASH_UTILITY_HAPTICS_TRACKING_TEST_INPUT_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper blur manager implementation
+// summary: Implements blur handling for the wallpaper on lock, login and OOBE screens, applying blur sigma values across all root window controllers.
+// ---
+
 #include "ash/wallpaper/wallpaper_blur_manager.h"
 
 #include "ash/public/cpp/wallpaper/wallpaper_types.h"

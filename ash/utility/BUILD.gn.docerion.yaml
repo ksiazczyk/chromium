@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ash utility build configuration
+summary: GN build file for the ash/utility directory, defining targets including the proto library for persistent_proto_test.proto.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ash WebUI unit test and closure compile build targets
+summary: GN build file defining the ash_webui_unittests test target and a closure_compile group that aggregate unit tests and type checking across Ash WebUI components.

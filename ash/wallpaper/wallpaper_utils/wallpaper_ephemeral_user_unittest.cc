@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WallpaperEphemeralUser unit tests
+// summary: Unit tests verifying IsEphemeralUser behavior for guest, stub, regular logged-in, and public account users.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_ephemeral_user.h"
 
 #include "ash/test/ash_test_base.h"

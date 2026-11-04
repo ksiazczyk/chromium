@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash help bubble view implementation
+// summary: Implements HelpBubbleViewAsh, the ChromeOS in-product help bubble dialog covering styling, buttons, body icon, progress, auto-close timeout, and hit-test behavior.
+// ---
+
 #include "ash/user_education/views/help_bubble_view_ash.h"
 
 #include <initializer_list>

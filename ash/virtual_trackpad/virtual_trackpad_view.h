@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual trackpad view class declaration
+// summary: Declares the VirtualTrackpadView class, the contents view hosting the trackpad surface and finger-count buttons used to emulate trackpad gestures.
+// ---
+
 #ifndef ASH_VIRTUAL_TRACKPAD_VIRTUAL_TRACKPAD_VIEW_H_
 #define ASH_VIRTUAL_TRACKPAD_VIRTUAL_TRACKPAD_VIEW_H_
 

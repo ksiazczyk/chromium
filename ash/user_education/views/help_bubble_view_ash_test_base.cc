@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared test base implementation for Ash help bubble views
+// summary: Implements HelpBubbleViewAshTestBase helpers that create help bubble views with configurable arrow, title, icon, buttons, and progress for Ash tests.
+// ---
+
 #include "ash/user_education/views/help_bubble_view_ash_test_base.h"
 
 #include <algorithm>

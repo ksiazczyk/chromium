@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper language unit tests
+// summary: Unit tests checking GetLanguageTag output for various locales, including fake, ill-formed, and empty locales.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_language.h"
 
 #include "base/logging.h"

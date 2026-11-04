@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen metadata utilities declarations
+// summary: Declares SeaPen metadata keys and functions to serialize queries, extract XMP contents, decode JSON metadata, and validate ids from file paths.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_UTILS_SEA_PEN_METADATA_UTILS_H_
 #define ASH_WALLPAPER_WALLPAPER_UTILS_SEA_PEN_METADATA_UTILS_H_
 

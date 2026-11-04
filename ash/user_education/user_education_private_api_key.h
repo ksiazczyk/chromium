@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserEducationPrivateApiKey pass key for private user education APIs
+// summary: Defines a PassKey-like class restricting access to private user education APIs to authorized callers such as CaptureModeController and WelcomeTourController.
+// ---
+
 #ifndef ASH_USER_EDUCATION_USER_EDUCATION_PRIVATE_API_KEY_H_
 #define ASH_USER_EDUCATION_USER_EDUCATION_PRIVATE_API_KEY_H_
 

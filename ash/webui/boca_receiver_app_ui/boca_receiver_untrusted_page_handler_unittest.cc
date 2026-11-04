@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boca receiver untrusted page handler unit tests
+// summary: Unit tests for the untrusted page handler, covering receiver registration, connection info retrieval, connection state updates, network changes, and CRD frame and audio callbacks.
+// ---
+
 #include "ash/webui/boca_receiver_app_ui/boca_receiver_untrusted_page_handler.h"
 
 #include <array>

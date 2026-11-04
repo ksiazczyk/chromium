@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Boca Receiver mojom target
+summary: Defines the GN mojom target that builds boca_receiver.mojom with base and Skia mojom dependencies for the ChromeOS Boca Receiver WebUI.

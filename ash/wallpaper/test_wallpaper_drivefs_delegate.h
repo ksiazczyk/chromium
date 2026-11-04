@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test wallpaper DriveFS delegate declaration
+// summary: Declares a test double for the wallpaper DriveFS delegate with stubbed save, path, modification time and download behavior.
+// ---
+
 #ifndef ASH_WALLPAPER_TEST_WALLPAPER_DRIVEFS_DELEGATE_H_
 #define ASH_WALLPAPER_TEST_WALLPAPER_DRIVEFS_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper file utilities implementation
+// summary: Implements helpers that encode wallpaper images as JPEG with optional XMP metadata and resize and save wallpapers according to layout and preferred size.
+// ---
+
 
 #include "ash/wallpaper/wallpaper_utils/wallpaper_file_utils.h"
 

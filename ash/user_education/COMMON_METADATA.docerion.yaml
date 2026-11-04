@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for user education
+summary: Defines the Buganizer component and owning team email shared by the ash/user_education directory via COMMON_METADATA.

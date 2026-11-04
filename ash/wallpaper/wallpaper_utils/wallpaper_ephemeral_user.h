@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsEphemeralUser header
+// summary: Declares IsEphemeralUser, which reports whether a user's wallpaper should be treated as ephemeral and not persist after sign out.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_EPHEMERAL_USER_H_
 #define ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_EPHEMERAL_USER_H_
 

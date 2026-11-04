@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Boca receiver trusted UI styles
+summary: CSS that gives the page and receiver iframe a full-viewport, borderless layout with overflow hidden.
+*/
+
  html, body, .receiver {
   min-height: 100vh;
   min-width: 100vw;

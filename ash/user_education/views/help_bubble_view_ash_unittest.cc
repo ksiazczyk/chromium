@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Ash help bubble view
+// summary: Verifies HelpBubbleViewAsh behavior such as parent window containment, body icon selection, and event hit testing through parameterized unit tests.
+// ---
+
 #include "ash/user_education/views/help_bubble_view_ash.h"
 
 #include <optional>

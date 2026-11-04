@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshWebUITestSuite header
+// summary: Declares the AshWebUITestSuite class, a base::TestSuite subclass with Initialize and Shutdown overrides used by Ash WebUI unit tests.
+// ---
+
 #ifndef ASH_WEBUI_ASH_WEBUI_TEST_SUITE_H_
 #define ASH_WEBUI_ASH_WEBUI_TEST_SUITE_H_
 

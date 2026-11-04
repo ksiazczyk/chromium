@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel tests for the Ash help bubble view
+// summary: Runs parameterized pixel tests comparing HelpBubbleViewAsh appearance, including arrows and optional title, icon, buttons, and progress, against benchmark images.
+// ---
+
 #include <optional>
 #include <string>
 #include <vector>

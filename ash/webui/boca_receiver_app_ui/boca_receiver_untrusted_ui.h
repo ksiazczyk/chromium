@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca receiver untrusted WebUI controller declarations
+// summary: Declares the WebUI config and untrusted WebUI controller classes for the Boca receiver app, including the Mojo page handler factory binding.
+// ---
+
 #ifndef ASH_WEBUI_BOCA_RECEIVER_APP_UI_BOCA_RECEIVER_UNTRUSTED_UI_H_
 #define ASH_WEBUI_BOCA_RECEIVER_APP_UI_BOCA_RECEIVER_UNTRUSTED_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper file manager
+// summary: Implements loading and saving wallpaper images on disk, resolving file paths for online, Google Photos, customized, and SeaPen wallpapers.
+// ---
+
 #include "ash/wallpaper/wallpaper_file_manager.h"
 
 #include <string>

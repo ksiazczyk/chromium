@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Annotator directory include rules
+summary: Specifies allowed include paths for the annotator directory, such as browser context helper and resource headers.

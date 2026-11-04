@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca Receiver trusted WebUI controller
+// summary: Implements the BocaReceiverUI WebUI controller, setting up the data source, resources, content security policy, and localized app title strings.
+// ---
+
 #include "ash/webui/boca_receiver_app_ui/boca_receiver_ui.h"
 
 #include "ash/constants/ash_features.h"

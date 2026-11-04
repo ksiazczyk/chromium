@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Boca Receiver App mock build configuration
+summary: Defines a TypeScript library build target for the mock Boca Receiver app resources, asserting the target is ChromeOS only.

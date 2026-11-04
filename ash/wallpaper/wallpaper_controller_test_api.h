@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper controller test API header
+// summary: Declares WallpaperControllerTestApi with methods to simulate wallpaper preview, force calculated colors and show test wallpapers in tests.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_CONTROLLER_TEST_API_H_
 #define ASH_WALLPAPER_WALLPAPER_CONTROLLER_TEST_API_H_
 

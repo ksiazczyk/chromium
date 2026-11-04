@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Welcome Tour test utilities implementation
+// summary: Implements test helpers and matchers for the Welcome Tour, such as checking scrims on all root windows and accessing the dialog accept and cancel buttons.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_test_util.h"
 
 #include <string>

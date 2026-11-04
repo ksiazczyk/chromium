@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Welcome Tour test utilities header
+// summary: Declares test helpers for the Welcome Tour, including scrim expectations, dialog button accessors and a wait for a window to be minimized.
+// ---
+
 #ifndef ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_TEST_UTIL_H_
 #define ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_TEST_UTIL_H_
 

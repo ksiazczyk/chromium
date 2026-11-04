@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper image downloader header
+// summary: Declares the WallpaperImageDownloader interface and its implementation for fetching Google Photos and Backdrop wallpaper images.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_IMAGE_DOWNLOADER_H_
 #define ASH_WALLPAPER_WALLPAPER_IMAGE_DOWNLOADER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPenFetcher implementation
+// summary: Implements SeaPenFetcher, which requests AI-generated wallpaper and video call background thumbnails and images from Google's Manta Snapper service, with traffic annotations, timeouts, and sandboxed image decoding.
+// ---
+
 #include "ash/wallpaper/sea_pen_fetcher.h"
 
 #include <algorithm>

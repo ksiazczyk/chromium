@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cropping util implementation
+// summary: Implements CenterCropImage, which center-crops a bitmap so its aspect ratio matches a target size without scaling.
+// ---
+
 #include "ash/utility/cropping_util.h"
 
 #include <ostream>

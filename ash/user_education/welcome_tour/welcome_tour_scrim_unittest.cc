@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Welcome Tour scrim unit tests
+// summary: Unit tests verifying that scrims exist on all root windows only while WelcomeTourScrim is in scope and remain correct across display changes and dark/light mode updates.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_scrim.h"
 
 #include <string>

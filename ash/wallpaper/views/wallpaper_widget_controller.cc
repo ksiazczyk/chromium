@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper widget controller implementation
+// summary: Implements WallpaperWidgetController, which manages the wallpaper widget, underlay layer, reparenting, blur changes and cross-fade animations when wallpapers change.
+// ---
+
 #include "ash/wallpaper/views/wallpaper_widget_controller.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

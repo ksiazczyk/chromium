@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual trackpad view implementation
+// summary: Implements the Ash virtual trackpad widget that captures mouse events on an on-screen surface and converts them into emulated multi-finger scroll gestures.
+// ---
+
 #include "ash/virtual_trackpad/virtual_trackpad_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock user education delegate implementation
+// summary: Implements the gmock delegate used in tests, defaulting IsNewUser to an unset value so the Welcome Tour does not run unless tests opt in.
+// ---
+
 #include "ash/user_education/mock_user_education_delegate.h"
 
 namespace ash {

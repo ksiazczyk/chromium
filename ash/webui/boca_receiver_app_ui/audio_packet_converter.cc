@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio packet proto to Mojo converter implementation
+// summary: Converts remoting AudioPacket protobufs into Mojo DecodedAudioPacket messages, validating encoding, sample size, rate, and channel settings.
+// ---
+
 #include "ash/webui/boca_receiver_app_ui/audio_packet_converter.h"
 
 #include <algorithm>

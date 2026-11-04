@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPenFetcher class header
+// summary: Declares the SeaPenFetcher interface for fetching SeaPen AI images from a Google server for wallpapers and VC backgrounds, including thumbnail and wallpaper fetch methods and timeout constants.
+// ---
+
 #ifndef ASH_WALLPAPER_SEA_PEN_FETCHER_H_
 #define ASH_WALLPAPER_SEA_PEN_FETCHER_H_
 

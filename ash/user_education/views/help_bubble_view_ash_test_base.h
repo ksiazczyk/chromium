@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared test base class for Ash help bubble views
+// summary: Declares HelpBubbleViewAshTestBase, an AshTestBase subclass providing a widget anchor and factory methods for creating help bubble views in tests.
+// ---
+
 #ifndef ASH_USER_EDUCATION_VIEWS_HELP_BUBBLE_VIEW_ASH_TEST_BASE_H_
 #define ASH_USER_EDUCATION_VIEWS_HELP_BUBBLE_VIEW_ASH_TEST_BASE_H_
 

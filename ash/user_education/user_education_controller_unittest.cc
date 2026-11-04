@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserEducationController unit tests
+// summary: Unit tests verifying that the user education, help bubble, tutorial, and Welcome Tour controllers exist and that app ID element identifier lookups delegate as expected.
+// ---
+
 #include "ash/user_education/user_education_controller.h"
 
 #include <string>

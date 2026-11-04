@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OcclusionTrackerPauser implementation
+// summary: Implements OcclusionTrackerPauser, which pauses aura's window occlusion tracker until animations finish on all compositors or a timeout elapses.
+// ---
+
 #include "ash/utility/occlusion_tracker_pauser.h"
 
 #include "ash/shell.h"

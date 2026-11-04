@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer copy utility declarations
+// summary: Declares Ash layer utilities to create a layer from a copy output result and to asynchronously copy layer content into a new or caller-provided target layer.
+// ---
+
 #ifndef ASH_UTILITY_LAYER_UTIL_H_
 #define ASH_UTILITY_LAYER_UTIL_H_
 

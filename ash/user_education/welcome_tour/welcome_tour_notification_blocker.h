@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Tour notification blocker class declaration
+// summary: Declares a notification blocker that prevents notifications and popups from showing while the Welcome Tour is active, with normal behavior restored on destruction.
+// ---
+
 #ifndef ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_NOTIFICATION_BLOCKER_H_
 #define ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_NOTIFICATION_BLOCKER_H_
 

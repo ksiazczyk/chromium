@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper resizer implementation
+// summary: Implements WallpaperResizer, which makes wallpaper images opaque and resizes them to a target size according to the selected layout on a background task runner.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_resizer.h"
 
 #include <utility>

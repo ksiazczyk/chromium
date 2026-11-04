@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Welcome tour directory metadata
+summary: Points the directory metadata for the welcome tour folder to the ChromeOS growth component's common metadata.

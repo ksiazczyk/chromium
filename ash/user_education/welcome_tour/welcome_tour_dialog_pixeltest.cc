@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Welcome Tour dialog pixel test
+// summary: Pixel test verifying the visual appearance of the Welcome Tour dialog via screenshot comparison, parameterized over system blur being enabled or disabled.
+// ---
+
 #include <optional>
 
 #include "ash/constants/ash_features.h"

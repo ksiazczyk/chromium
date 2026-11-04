@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper constants
+// summary: Defines shared wallpaper constants such as blur sigma values, the small wallpaper suffix, time of day collection IDs and the SeaPen directory name.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_CONSTANTS_H_
 #define ASH_WALLPAPER_WALLPAPER_CONSTANTS_H_
 

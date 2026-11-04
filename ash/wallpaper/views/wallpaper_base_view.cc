@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper base view implementation
+// summary: Implements the base wallpaper view that paints the wallpaper image according to the configured layout and computes the shield color for login, lock, overview and tablet mode states.
+// ---
+
 #include "ash/wallpaper/views/wallpaper_base_view.h"
 
 #include "ash/public/cpp/wallpaper/wallpaper_types.h"

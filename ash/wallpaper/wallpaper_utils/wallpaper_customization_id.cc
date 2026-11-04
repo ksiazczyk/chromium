@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper customization id implementation
+// summary: Implements GetCustomizationId, which reads the customization_id machine statistic through the Chrome OS statistics provider and returns it via a callback.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_customization_id.h"
 
 #include <optional>

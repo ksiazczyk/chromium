@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper metrics manager header
+// summary: Declares the WallpaperMetricsManager observer class and the SetWallpaperResult enum used to log wallpaper outcome metrics.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_METRICS_MANAGER_H_
 #define ASH_WALLPAPER_WALLPAPER_METRICS_MANAGER_H_
 

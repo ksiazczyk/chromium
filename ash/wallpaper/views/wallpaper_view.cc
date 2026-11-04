@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper view implementation
+// summary: Implements WallpaperView, which paints the wallpaper with blur and dimming effects, handles context menus, and includes helpers for widget layout and occlusion tracking.
+// ---
+
 #include "ash/wallpaper/views/wallpaper_view.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

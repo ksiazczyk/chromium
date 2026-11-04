@@ -1,0 +1,4 @@
+# Docerion header of METADATA.
+type: config
+title: Annotator bug tracker metadata
+summary: Declares the Buganizer component ID and Chrome OS platform for the annotator directory.

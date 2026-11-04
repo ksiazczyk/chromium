@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Annotator untrusted WebUI build configuration
+summary: GN build file defining the build_webui target for the ChromeOS Annotator untrusted resources, listing static, TypeScript and Mojo files with their dependencies.

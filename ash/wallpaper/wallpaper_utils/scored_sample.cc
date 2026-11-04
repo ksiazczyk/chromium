@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper seed color computation from image samples
+// summary: Implements ComputeWallpaperSeedColor, which quantizes wallpaper pixels with the Celebi quantizer and returns the most prominent color as the seed color.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/scored_sample.h"
 
 #include <type_traits>

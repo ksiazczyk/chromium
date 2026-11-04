@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education utility function declarations
+// summary: Declares utility functions for creating and reading help bubble extended properties and for resolving accounts, sessions and UI elements.
+// ---
+
 #ifndef ASH_USER_EDUCATION_USER_EDUCATION_UTIL_H_
 #define ASH_USER_EDUCATION_USER_EDUCATION_UTIL_H_
 

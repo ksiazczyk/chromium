@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerCopyAnimator unit tests
+// summary: Unit tests for LayerCopyAnimator covering layer copying, animation start and completion, and failure or bounds-change scenarios using a test compositor host.
+// ---
+
 #include "ash/utility/layer_copy_animator.h"
 
 #include "base/cancelable_callback.h"

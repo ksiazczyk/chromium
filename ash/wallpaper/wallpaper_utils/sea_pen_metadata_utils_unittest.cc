@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SeaPen metadata utilities
+// summary: Tests serialization and decoding of SeaPen query metadata, covering template and freeform queries, invalid inputs, and creation time formatting.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/sea_pen_metadata_utils.h"
 
 #include <string>

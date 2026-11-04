@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User education utilities unit tests
+// summary: Unit tests verifying creation and retrieval of help bubble extended properties and related user education utility behavior.
+// ---
+
 #include "ash/user_education/user_education_util.h"
 
 #include <memory>

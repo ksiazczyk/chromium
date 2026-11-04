@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Tour scrim implementation
+// summary: Implements the scrim applied to the help bubble container on all root windows during the Welcome Tour, including a mask layer that clips around help bubble anchor views.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_scrim.h"
 
 #include <array>

@@ -1,0 +1,4 @@
+# Docerion header of boca_receiver.mojom.
+type: source
+title: Mojom interfaces for the Boca Receiver app UI
+summary: Declares structs and interfaces for passing receiver info, screen frames, and decoded audio packets between the C++ and TypeScript sides of the Boca Receiver app.

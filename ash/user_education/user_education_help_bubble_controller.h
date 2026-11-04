@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserEducationHelpBubbleController class declaration
+// summary: Declares the singleton controller responsible for creation and management of help bubbles, with callback subscriptions and metadata for currently showing bubbles.
+// ---
+
 #ifndef ASH_USER_EDUCATION_USER_EDUCATION_HELP_BUBBLE_CONTROLLER_H_
 #define ASH_USER_EDUCATION_USER_EDUCATION_HELP_BUBBLE_CONTROLLER_H_
 

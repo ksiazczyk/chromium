@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock user education delegate class
+// summary: Declares a gmock implementation of UserEducationDelegate that mocks tutorial registration, help bubbles, and system web app launches for tests.
+// ---
+
 #ifndef ASH_USER_EDUCATION_MOCK_USER_EDUCATION_DELEGATE_H_
 #define ASH_USER_EDUCATION_MOCK_USER_EDUCATION_DELEGATE_H_
 

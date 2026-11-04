@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash help bubble factory and ViewsAsh bubble declarations
+// summary: Declares HelpBubbleFactoryViewsAsh for building Ash help bubbles and HelpBubbleViewsAsh, the ChromeOS-specific Views help bubble class.
+// ---
+
 #ifndef ASH_USER_EDUCATION_VIEWS_HELP_BUBBLE_FACTORY_VIEWS_ASH_H_
 #define ASH_USER_EDUCATION_VIEWS_HELP_BUBBLE_FACTORY_VIEWS_ASH_H_
 

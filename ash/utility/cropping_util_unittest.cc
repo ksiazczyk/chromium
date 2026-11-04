@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cropping util unit test
+// summary: Unit tests for CenterCropImage covering portrait and landscape crops, larger and smaller targets, and identical aspect ratios.
+// ---
+
 #include "ash/utility/cropping_util.h"
 
 #include "base/logging.h"

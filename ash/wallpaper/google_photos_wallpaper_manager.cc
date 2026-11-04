@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Photos wallpaper manager implementation
+// summary: Implements loading Google Photos wallpapers from disk and downloading them via access-token-authenticated requests for WallpaperController.
+// ---
+
 #include "ash/wallpaper/google_photos_wallpaper_manager.h"
 
 #include "ash/shell.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Boca receiver trusted resources
+summary: Defines the grit target that compiles the trusted resources .grd file into pak and grit outputs for the Boca receiver UI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted annotator WebUI implementation
+// summary: Implements the untrusted projector-annotator WebUI controller, registering its resource paths and configuring content security and cross-origin policies.
+// ---
+
 
 #include "ash/webui/annotator/untrusted_annotator_ui.h"
 

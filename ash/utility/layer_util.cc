@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer copy utility functions
+// summary: Implements helpers that request copies of layer output and create or populate new layers from the results using viz copy output requests and shared images.
+// ---
+
 #include "ash/utility/layer_util.h"
 
 #include "base/functional/bind.h"

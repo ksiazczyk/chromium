@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch HUD debug implementation
+// summary: Implements a debug heads-up display that draws touch traces on screen and logs touch events, cycling through fullscreen, reduced scale, and invisible modes.
+// ---
+
 #include "ash/touch/touch_hud_debug.h"
 
 #include <algorithm>

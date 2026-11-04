@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper language tag helper header
+// summary: Declares GetLanguageTag, which returns the device language tag for wallpaper-related use in Ash.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_LANGUAGE_H_
 #define ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_LANGUAGE_H_
 

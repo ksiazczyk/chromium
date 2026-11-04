@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Welcome tour controller unit tests
+// summary: Unit tests covering Welcome Tour start, abort, step tracking, accelerator behavior, and metrics across session and device states.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_controller.h"
 
 #include <map>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for Boca Receiver App UI
+summary: Lists the Google accounts responsible for reviewing changes in the boca_receiver_app_ui directory.

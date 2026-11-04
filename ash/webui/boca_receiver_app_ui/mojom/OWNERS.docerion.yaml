@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for mojom files
+summary: Requires approval from IPC security owners for changes to any .mojom file in this directory.

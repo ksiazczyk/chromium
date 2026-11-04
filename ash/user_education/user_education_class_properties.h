@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble context property declaration
+// summary: Declares the HelpBubbleContext enum and kHelpBubbleContextKey property that lets Ash-specific help bubbles take precedence in System UI.
+// ---
+
 #ifndef ASH_USER_EDUCATION_USER_EDUCATION_CLASS_PROPERTIES_H_
 #define ASH_USER_EDUCATION_USER_EDUCATION_CLASS_PROPERTIES_H_
 

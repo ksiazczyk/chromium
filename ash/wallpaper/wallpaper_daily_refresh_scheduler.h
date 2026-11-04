@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper daily refresh scheduler header
+// summary: Declares the WallpaperDailyRefreshScheduler class that signals the wallpaper controller when the current daily wallpaper should be refreshed.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_DAILY_REFRESH_SCHEDULER_H_
 #define ASH_WALLPAPER_WALLPAPER_DAILY_REFRESH_SCHEDULER_H_
 

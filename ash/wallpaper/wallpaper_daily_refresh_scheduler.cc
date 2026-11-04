@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper daily refresh scheduler
+// summary: Implements the scheduler that decides when daily wallpapers should be refreshed, registering profile prefs with randomized checkpoint times to avoid server load spikes.
+// ---
+
 #include "ash/wallpaper/wallpaper_daily_refresh_scheduler.h"
 
 #include "ash/constants/ash_features.h"

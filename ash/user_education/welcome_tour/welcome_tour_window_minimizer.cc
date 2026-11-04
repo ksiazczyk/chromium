@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Tour window minimizer implementation
+// summary: Implements minimization of windows in desk and float containers while the Welcome Tour runs, keeping newly shown windows minimized for the duration of the tour.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_window_minimizer.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

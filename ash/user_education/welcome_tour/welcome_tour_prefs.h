@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Tour prefs header
+// summary: Declares functions to get and mark Welcome Tour preferences, such as the first experimental arm and first times of tour interactions, abortion, completion and prevention.
+// ---
+
 #ifndef ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_PREFS_H_
 #define ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_PREFS_H_
 

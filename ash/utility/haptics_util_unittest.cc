@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Haptics util unit tests
+// summary: Unit tests verifying haptic touchpad feedback for all effect and strength combinations and for interactions such as window snapping, desks, and overview.
+// ---
+
 #include "chromeos/utils/haptics_util.h"
 
 #include <vector>

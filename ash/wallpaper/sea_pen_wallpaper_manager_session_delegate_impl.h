@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen wallpaper manager session delegate declaration
+// summary: Declares the production session delegate supplying SeaPen wallpaper storage directories for user accounts.
+// ---
+
 #ifndef ASH_WALLPAPER_SEA_PEN_WALLPAPER_MANAGER_SESSION_DELEGATE_IMPL_H_
 #define ASH_WALLPAPER_SEA_PEN_WALLPAPER_MANAGER_SESSION_DELEGATE_IMPL_H_
 

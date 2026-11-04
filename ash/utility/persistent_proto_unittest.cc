@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistentProto unit tests
+// summary: Unit tests for PersistentProto covering initialization, bool conversion, getters, and reading and writing the proto to disk with init and write callbacks.
+// ---
+
 #include "ash/utility/persistent_proto.h"
 
 #include <string>

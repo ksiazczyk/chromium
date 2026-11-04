@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper window state manager implementation
+// summary: Implements WallpaperWindowStateManager, which minimizes inactive windows while the wallpaper picker is open and restores them when it is hidden.
+// ---
+
 #include "ash/wallpaper/wallpaper_window_state_manager.h"
 #include "base/memory/raw_ptr.h"
 

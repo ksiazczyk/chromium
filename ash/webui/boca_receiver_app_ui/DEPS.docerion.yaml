@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Boca Receiver App UI
+summary: Grants include access to google_apis common code, remoting audio proto, Skia bitmap, and WebRTC desktop capture headers within this directory.

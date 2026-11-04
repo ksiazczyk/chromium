@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test SeaPen wallpaper manager session delegate declaration
+// summary: Declares a test session delegate providing temporary storage directories for SeaPen wallpaper manager tests.
+// ---
+
 #ifndef ASH_WALLPAPER_TEST_SEA_PEN_WALLPAPER_MANAGER_SESSION_DELEGATE_H_
 #define ASH_WALLPAPER_TEST_SEA_PEN_WALLPAPER_MANAGER_SESSION_DELEGATE_H_
 

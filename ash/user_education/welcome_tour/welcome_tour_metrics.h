@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Tour metrics enums and declarations
+// summary: Defines persisted histogram enums for abort reasons, ChromeVox timing, experimental arms, interactions, prevention reasons and tour steps, plus recording function declarations.
+// ---
+
 #ifndef ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_METRICS_H_
 #define ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_METRICS_H_
 

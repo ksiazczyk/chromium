@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchObserverHud implementation
+// summary: Implements the per-display touch HUD overlay widget, handling touch events and reacting to display configuration changes.
+// ---
+
 #include "ash/touch/touch_observer_hud.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

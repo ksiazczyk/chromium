@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Photos wallpaper manager class declaration
+// summary: Declares GooglePhotosWallpaperManager, which loads and downloads Google Photos wallpaper images for WallpaperController.
+// ---
+
 #ifndef ASH_WALLPAPER_GOOGLE_PHOTOS_WALLPAPER_MANAGER_H_
 #define ASH_WALLPAPER_GOOGLE_PHOTOS_WALLPAPER_MANAGER_H_
 

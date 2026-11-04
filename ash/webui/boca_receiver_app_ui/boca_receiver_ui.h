@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca Receiver WebUI controller declarations
+// summary: Declares BocaReceiverUIConfig and BocaReceiverUI, the WebUI config and controller classes gating the receiver app by feature flag or channel.
+// ---
+
 #ifndef ASH_WEBUI_BOCA_RECEIVER_APP_UI_BOCA_RECEIVER_UI_H_
 #define ASH_WEBUI_BOCA_RECEIVER_APP_UI_BOCA_RECEIVER_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch selection magnifier pixel test
+// summary: Pixel test verifying the touch selection magnifier rendering over a focused textfield with a selected range.
+// ---
+
 #include <memory>
 
 #include "ash/test/ash_test_base.h"

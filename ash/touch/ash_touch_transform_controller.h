@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash touch transform controller header
+// summary: Declares AshTouchTransformController, a display manager observer that updates touch transforms on display configuration changes.
+// ---
+
 #ifndef ASH_TOUCH_ASH_TOUCH_TRANSFORM_CONTROLLER_H_
 #define ASH_TOUCH_ASH_TOUCH_TRANSFORM_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WallpaperColorCalculator class header
+// summary: Declares the ash::WallpaperColorCalculator class that computes prominent colors from a wallpaper image, synchronously or asynchronously, and reports results via a callback.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_COLOR_CALCULATOR_H_
 #define ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_COLOR_CALCULATOR_H_
 

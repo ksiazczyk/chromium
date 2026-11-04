@@ -1,3 +1,11 @@
+---
+type: readme
+title: Ash Utility
+summary: Explains arc curve corners, their width, height and radius parameters, and shows how to clip views with paths from GetArcCurveRectPath.
+relations:
+  - references /ash/utility/markdown_resources/arc_curve_corner_example.png
+---
+
 # Ash Utility
 
 ## Arc Curve Corner
