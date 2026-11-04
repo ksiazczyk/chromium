@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Sign-in CSS variables
+summary: Defines sign-in custom properties such as work badge colors and dark mode background overrides.
+*/
+
 html {
   --action-container-padding: 16px;
 

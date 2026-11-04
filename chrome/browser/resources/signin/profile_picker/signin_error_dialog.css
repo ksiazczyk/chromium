@@ -12,6 +12,12 @@
  * #include=profile-picker-shared cr-hidden-style-lit cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Sign-in error dialog styles
+summary: Lit CSS for the sign-in error dialog, importing shared profile picker styles and setting the margin of the sign-in button.
+*/
+
 
 #button-sign-in {
   margin-inline-start: 10px;

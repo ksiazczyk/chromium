@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Batch upload WebUI build configuration
+summary: Defines the GN build target that compiles the batch upload WebUI HTML, TypeScript, CSS and Mojo bindings.

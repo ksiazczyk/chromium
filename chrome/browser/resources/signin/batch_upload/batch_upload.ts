@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload module re-exports
+// summary: Re-exports the Mojo types, app element, browser proxy and data section element for the batch upload WebUI.
+// ---
+
 export {PageCallbackRouter, PageRemote} from './batch_upload.mojom-webui.js';
 export type {BatchUploadAccountInfo, BatchUploadData, DataContainer, DataItem, PageHandlerInterface} from './batch_upload.mojom-webui.js';
 export {BatchUploadAppElement} from './batch_upload_app.js';

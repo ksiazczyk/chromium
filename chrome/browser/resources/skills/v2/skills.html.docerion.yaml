@@ -1,0 +1,4 @@
+# Docerion header of skills.html.
+type: source
+title: Skills WebUI page
+summary: HTML shell for the full-page Skills view that hosts the guest webview together with loading and error pages.

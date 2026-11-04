@@ -10,6 +10,12 @@
  * #include=signin-shared managed-user-profile-notice-refresh-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Signals disclaimer refresh styles
+summary: Styles for the refreshed signals disclaimer element, laying out the centered avatar container and text in a flex column.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

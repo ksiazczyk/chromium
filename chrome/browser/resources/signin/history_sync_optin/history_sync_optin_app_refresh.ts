@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refreshed history sync opt-in app element
+// summary: Lit element variant of the opt-in dialog that starts the color change updater and handles account info, screen mode, and accept or reject actions.
+// ---
+
 import '/strings.m.js';
 import '//resources/cr_elements/cr_button/cr_button.js';
 

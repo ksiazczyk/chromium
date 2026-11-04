@@ -1,0 +1,4 @@
+# Docerion header of signout_confirmation.html.
+type: source
+title: Signout confirmation dialog HTML page
+summary: HTML shell for the WebUI dialog that loads themed colors and mounts the signout-confirmation-app element.

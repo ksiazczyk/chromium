@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Subresource Filter Internals WebUI build file
+summary: GN build target that assembles the WebUI from static HTML, CSS, TypeScript sources, Lit and cr_elements dependencies, and generated mojo bindings.

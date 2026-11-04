@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload browser proxy
+// summary: Singleton browser proxy that connects the WebUI to the batch upload Mojo handler via the callback router.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './batch_upload.mojom-webui.js';
 import type {PageHandlerInterface} from './batch_upload.mojom-webui.js';
 

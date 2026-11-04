@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device sign-in QR bubble app HTML template
+// summary: Lit HTML template that renders the subtitle, QR code image, and the user's full name and email for the app element.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrossDeviceSigninQrBubbleAppElement} from './cross_device_signin_qr_bubble_app.js';

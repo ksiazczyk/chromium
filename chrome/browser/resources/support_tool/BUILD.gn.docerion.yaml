@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the support tool WebUI
+summary: Defines the WebUI build, listing static, TypeScript, and CSS files plus Lit and cr_elements dependencies for the support tool.

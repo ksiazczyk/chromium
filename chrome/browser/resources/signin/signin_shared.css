@@ -8,6 +8,12 @@
  * #import=./signin_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared sign-in styles
+summary: Shared Lit CSS for sign-in WebUI dialogs covering layout, action bars, links, and custom scrollbar styling.
+*/
+
 :host {
   --scrollbar-background: var(--google-grey-100);
   --scrollbar-width: 4px;

@@ -12,6 +12,12 @@
  * #include=signin-shared cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Refreshed managed user profile notice app styles
+summary: Lit CSS for the refreshed notice app with system colors, gradient backgrounds and enrollment icons.
+*/
+
 :host {
   --color-button-background-prominent: var(--color-sys-primary);
   --color-button-foreground-prominent: var(--color-sys-on-primary);

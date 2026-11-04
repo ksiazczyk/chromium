@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed user profile notice app element
+// summary: Lit element managing the notice flow's states, labels and communication with the browser via the proxy.
+// ---
+
 import '/strings.m.js';
 import '/icons.html.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';

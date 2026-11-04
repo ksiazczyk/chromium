@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Batch upload app styles
+summary: Styles the batch upload dialog layout, header, account info row, data sections, scrollbar and action buttons.
+*/
+
 :host {
    --scrollbar-width: 4px;
    --batch-upload-dialog-padding: 20px;

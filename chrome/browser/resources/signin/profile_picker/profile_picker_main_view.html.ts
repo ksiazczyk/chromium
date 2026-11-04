@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker main view HTML template
+// summary: Lit HTML template for the profile picker main view, rendering the profile card list, add-profile button, guest browsing, ask-on-startup controls and the sign-in error dialog.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {isGlicVersion} from './profile_picker_flags.js';

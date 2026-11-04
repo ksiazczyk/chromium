@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills page browser proxy
+// summary: Singleton browser proxy wiring the skills page WebUI to the Mojo page handler and callback router.
+// ---
+
 import {PageHandlerFactory, PageHandlerRemote, SkillsPageCallbackRouter} from './skills.mojom-webui.js';
 import type {PageHandlerInterface} from './skills.mojom-webui.js';
 

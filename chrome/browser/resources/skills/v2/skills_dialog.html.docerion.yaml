@@ -1,0 +1,4 @@
+# Docerion header of skills_dialog.html.
+type: source
+title: Skills dialog page
+summary: HTML shell for the dialog variant of the Skills UI hosting a size-constrained guest webview with loading and error pages.

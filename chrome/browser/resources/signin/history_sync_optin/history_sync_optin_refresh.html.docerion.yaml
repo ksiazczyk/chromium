@@ -1,0 +1,4 @@
+# Docerion header of history_sync_optin_refresh.html.
+type: source
+title: History sync opt-in refresh dialog HTML page
+summary: HTML shell for the refreshed history sync opt-in dialog that loads the app element and module script and sets modal width and dark mode styling.

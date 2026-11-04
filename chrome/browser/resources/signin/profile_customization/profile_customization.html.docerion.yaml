@@ -1,0 +1,4 @@
+# Docerion header of profile_customization.html.
+type: source
+title: Profile customization WebUI host page
+summary: HTML entry page for the profile customization WebUI that loads the app element and applies dark mode background styling.

@@ -1,0 +1,4 @@
+# Docerion header of suggest_internals.html.
+type: source
+title: Suggest Debug Tool entry page
+summary: Entry HTML page for the Suggest Debug Tool that loads the suggest-internals-app element and its module script.

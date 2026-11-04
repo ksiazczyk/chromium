@@ -10,6 +10,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the subresource filter internals page
+summary: Lit CSS that styles the page header, cards, and settings rows using WebUI shared color and card variables.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   display: block;

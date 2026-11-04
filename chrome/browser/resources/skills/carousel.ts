@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: Skills carousel element
+// summary: Lit element implementing a horizontally scrollable carousel for skill cards, paging by card width and gap when prev or next is clicked.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '//resources/cr_elements/cr_tooltip/cr_tooltip.js';
 import '//resources/cr_elements/icons.html.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag and drop tile reordering delegate
+// summary: Implements a delegate class that adds drag-and-drop reordering with transition effects to Lit tile lists in the profile picker.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {EventTracker} from 'chrome://resources/js/event_tracker.js';
 import type {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

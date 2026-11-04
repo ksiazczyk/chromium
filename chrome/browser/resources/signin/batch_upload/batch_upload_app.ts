@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload app element
+// summary: Lit element that receives batch upload data from the browser, tracks section toggles and controls the save button.
+// ---
+
 import '/strings.m.js';
 import './data_section.js';
 import '//resources/cr_elements/cr_button/cr_button.js';

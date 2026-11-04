@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions section Lit template
+// summary: Lit HTML template rendering the extensions section checkbox, tooltip, expand button, and list of account extensions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExtensionsSectionElement} from './extensions_section.js';

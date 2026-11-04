@@ -1,0 +1,4 @@
+# Docerion header of icons.html.
+type: asset
+title: Signin icon set
+summary: Defines the signin cr-iconset with SVG icon paths used across sign-in WebUI surfaces.

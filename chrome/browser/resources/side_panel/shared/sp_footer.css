@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Footer element styles
+summary: Lit CSS for the sp-footer element, centering its content or pinning it to the bottom of a flex parent.
+*/
+
 :host {
   display: flex;
   justify-content: center;

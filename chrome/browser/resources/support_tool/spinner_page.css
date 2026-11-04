@@ -9,6 +9,12 @@
  * #include=support-tool-shared-lit cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Spinner page styles
+summary: Styles for the support tool spinner page that center the loading spinner on the page.
+*/
+
 .spinner {
   display: flex;
   margin: 0 auto;

@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: History sync opt-in app styles
+summary: Lit CSS styles for the opt-in dialog covering layout, avatar, illustrations, text, and buttons in both window and modal launch contexts.
+*/
+
 :host {
   border-radius: 12px;
   color: var(--cr-primary-text-color);

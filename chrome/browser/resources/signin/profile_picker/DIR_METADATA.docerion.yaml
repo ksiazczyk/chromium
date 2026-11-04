@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the profile picker
+summary: Points the directory to the shared Chromium profiles metadata through a mixins entry.

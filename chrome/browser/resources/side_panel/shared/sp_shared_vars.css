@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Side panel shared CSS variables
+summary: Defines shared side panel spacing and padding custom properties and overrides default WebUI text color variables.
+*/
+
 html {
   --sp-body-padding: 8px;
   --sp-card-block-padding: 8px;

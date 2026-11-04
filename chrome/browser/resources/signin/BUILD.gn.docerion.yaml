@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Signin WebUI GN build file
+summary: GN build definition for the sign-in WebUI resources, listing static files, TypeScript files, and platform-conditional targets.

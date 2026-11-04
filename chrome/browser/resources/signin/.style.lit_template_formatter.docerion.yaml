@@ -1,0 +1,4 @@
+# Docerion header of .style.lit_template_formatter.
+type: config
+title: Style lit template formatter config
+summary: Per-directory configuration for the lit template formatter used with the sign-in style CSS wrapper metadata.

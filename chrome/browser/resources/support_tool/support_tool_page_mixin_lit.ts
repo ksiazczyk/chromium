@@ -7,6 +7,12 @@
  * pages.
  */
 
+// ---docerion
+// type: source
+// title: Support Tool page mixin
+// summary: Lit mixin giving Support Tool pages i18n support and focus handling on the page header.
+// ---
+
 import {I18nMixinLit} from 'chrome://resources/cr_elements/i18n_mixin_lit.js';
 import type {I18nMixinLitInterface} from 'chrome://resources/cr_elements/i18n_mixin_lit.js';
 import type {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

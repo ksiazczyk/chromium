@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Signout confirmation app styles
+summary: Styles the dialog layout, action row buttons, and red delete button including dark mode variants.
+*/
+
 :host {
   --dialog-padding: 20px;
 }

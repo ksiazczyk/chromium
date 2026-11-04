@@ -1,0 +1,4 @@
+# Docerion header of batch_upload.html.
+type: source
+title: Batch upload dialog HTML entry point
+summary: Loads the WebUI stylesheets and the batch-upload-app element for the sign-in batch upload dialog.

@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit support-tool-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: PII selection page styles
+summary: Styles for the PII selection page, covering the radio group, privacy disclaimer and detected PII item list.
+*/
+
 #pii-warning-text {
   width: 520px;
 }

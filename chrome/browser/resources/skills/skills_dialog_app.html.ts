@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills dialog app Lit template
+// summary: Lit HTML template for the skills dialog with name input, emoji picker trigger, instructions textarea, and error states.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SkillsDialogAppElement} from './skills_dialog_app.js';

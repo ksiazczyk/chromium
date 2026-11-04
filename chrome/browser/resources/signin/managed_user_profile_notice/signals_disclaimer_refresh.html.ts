@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signals disclaimer refresh HTML template
+// summary: Lit HTML template for the refreshed signals disclaimer, rendering the avatar with work badge, title, subtitle, and profile and device information sections.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SignalsDisclaimerRefreshElement} from './signals_disclaimer_refresh.js';

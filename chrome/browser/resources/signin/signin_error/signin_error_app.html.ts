@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin error app Lit template
+// summary: Lit HTML template for the signin error app showing the error message, learn more link, and action buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SigninErrorAppElement} from './signin_error_app.js';

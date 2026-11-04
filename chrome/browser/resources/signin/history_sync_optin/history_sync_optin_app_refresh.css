@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Refreshed history sync opt-in app styles
+summary: Lit CSS styles for the refreshed opt-in dialog, using the new system color tokens and centered layout for window and modal contexts.
+*/
+
 :host {
   border-radius: 12px;
   color: var(--color-sys-on-surface-subtle);

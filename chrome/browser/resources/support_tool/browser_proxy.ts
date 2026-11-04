@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy interface for the support tool
+// summary: Defines the BrowserProxy interface and implementation that pass data collection, export, and support token generation calls to the browser's C++ side.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface DataCollectorItem {

@@ -11,6 +11,12 @@
  * #include=cr-page-host-style-lit cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: App element styles for the Suggest Debug Tool
+summary: Styles the app element of the Suggest Debug Tool, covering layout, toolbar, and the scrollable request list.
+*/
+
 :host {
   display: block;
   height: 100%;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History sync opt-in WebUI build definition
+summary: GN build file that compiles the history sync opt-in WebUI, listing its HTML, TypeScript, CSS, and image files plus Mojo and Lit dependencies.

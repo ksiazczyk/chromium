@@ -1,0 +1,4 @@
+# Docerion header of icons.html.
+type: asset
+title: Profile picker icon set
+summary: Defines the SVG icons of the profiles icon set, such as add-custom, account-box, and lock, used across the profile picker UI.

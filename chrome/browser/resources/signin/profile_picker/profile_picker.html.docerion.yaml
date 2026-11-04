@@ -1,0 +1,4 @@
+# Docerion header of profile_picker.html.
+type: source
+title: Profile picker WebUI HTML entry point
+summary: HTML entry point for the profile picker WebUI page that sets the base href, loads Material Design styles, applies dark mode background colors, and mounts the profile picker app element.

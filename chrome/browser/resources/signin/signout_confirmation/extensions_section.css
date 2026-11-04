@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Extensions section styles
+summary: Styles the extensions section, covering the checkbox, tooltip, expand button, extension list layout, and custom scrollbar.
+*/
+
 :host {
   --iron-collapse-transition-duration: 300ms;
   --cr-checkbox-label-padding-start: 8px;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Profile picker WebUI build configuration
+summary: GN build rules for the profile picker WebUI, listing TypeScript, CSS, and icon sources together with optimization settings and dependencies.

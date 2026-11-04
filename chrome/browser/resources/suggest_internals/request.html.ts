@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the suggest request element
+// summary: Provides the Lit HTML template for the request element, showing timestamp, status, request path, and expandable request and response data with copy actions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {RequestElement} from './request.js';

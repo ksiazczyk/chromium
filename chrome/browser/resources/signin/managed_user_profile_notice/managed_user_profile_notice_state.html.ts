@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed user profile notice state HTML template
+// summary: Lit HTML template that renders the title and subtitle of the managed user profile notice state element.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ManagedUserProfileNoticeStateElement} from './managed_user_profile_notice_state.js';

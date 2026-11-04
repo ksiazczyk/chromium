@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Skills webview bridge constants
+// summary: Defines message types, query parameter keys, handshake timings, skill sources, and origin and remote URL helpers for the Skills bridge.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 
 /** Message type used by the host to initiate the handshake ping. */

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for dice_web_signin_intercept
+summary: Delegates code ownership to the signin component owners list.

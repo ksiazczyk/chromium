@@ -1,0 +1,4 @@
+# Docerion header of sync_disabled_confirmation.html.
+type: source
+title: Sync disabled confirmation page
+summary: HTML host page that loads the sync disabled confirmation app element and its scripts for the WebUI dialog.

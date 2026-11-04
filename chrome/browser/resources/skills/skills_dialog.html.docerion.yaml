@@ -1,0 +1,4 @@
+# Docerion header of skills_dialog.html.
+type: source
+title: Skills dialog WebUI HTML shell
+summary: HTML entry page for the skills dialog that loads skills_dialog_app.js and hosts the skills-dialog-app element.

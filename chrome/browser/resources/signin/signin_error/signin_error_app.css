@@ -10,6 +10,12 @@
  * #include=signin-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Signin error app styles
+summary: CSS for the signin error app element covering the details text, error message, and icon layout.
+*/
+
 .details {
   line-height: 20px;
   margin-bottom: 8px;

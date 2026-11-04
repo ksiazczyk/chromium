@@ -7,6 +7,12 @@
  * to interact with the browser.
  */
 
+// ---docerion
+// type: source
+// title: Managed user profile notice browser proxy
+// summary: Defines the notice screen's states, screen types and the proxy for messages between the WebUI and the browser.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export enum BrowsingDataHandling {

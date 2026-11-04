@@ -1,0 +1,4 @@
+# Docerion header of history_sync_optin.html.
+type: source
+title: History sync opt-in host page
+summary: HTML host page that loads Material Design color styles and mounts the history-sync-optin-app element with its module script.

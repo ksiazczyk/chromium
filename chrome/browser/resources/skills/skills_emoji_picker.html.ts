@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills emoji picker template
+// summary: Lit HTML template rendering the emoji picker search box and its categorized, accessible emoji grid.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SkillsEmojiPickerElement} from './skills_emoji_picker.js';

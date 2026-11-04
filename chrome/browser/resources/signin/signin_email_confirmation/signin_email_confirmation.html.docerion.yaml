@@ -1,0 +1,4 @@
+# Docerion header of signin_email_confirmation.html.
+type: source
+title: Sign-in email confirmation dialog host page
+summary: HTML page that hosts the signin-email-confirmation-app element and loads its module script for the sign-in email confirmation dialog.

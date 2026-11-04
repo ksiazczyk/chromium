@@ -7,6 +7,12 @@
  * interact with the browser.
  */
 
+// ---docerion
+// type: source
+// title: Browser proxy for the profile customization bubble
+// summary: Browser proxy interface and implementation for fetching profile info and sending done, skip, delete profile and avatar actions to the browser.
+// ---
+
 import type {AvatarIcon} from 'chrome://resources/cr_elements/cr_profile_avatar_selector/cr_profile_avatar_selector.js';
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 

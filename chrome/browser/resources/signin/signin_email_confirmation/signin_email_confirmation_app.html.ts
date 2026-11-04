@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in email confirmation app Lit template
+// summary: Lit HTML template for the sign-in email confirmation dialog, rendering radio options to create a new profile or start sync plus confirm and close buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SigninEmailConfirmationAppElement} from './signin_email_confirmation_app.js';

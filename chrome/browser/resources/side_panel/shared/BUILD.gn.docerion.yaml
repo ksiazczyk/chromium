@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Side panel shared WebUI build target
+summary: GN build file that bundles the shared side panel TypeScript, CSS and icon resources into the side_panel_shared WebUI target.

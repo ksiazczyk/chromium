@@ -11,6 +11,12 @@
  * #include=profile-picker-shared cr-hidden-style-lit cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Profile card styles
+summary: Styles the profile card element, covering the avatar, name input, hover underline, badges, and dark mode appearance.
+*/
+
 #profileCardContainer {
   border-radius: inherit;
   height: 100%;

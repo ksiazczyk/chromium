@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Cross-device sign-in QR bubble page styles
+summary: Minimal stylesheet that resets the margins of the html and body elements for the cross-device sign-in QR bubble WebUI page.
+*/
+
 html,
 body {
   margin: 0;

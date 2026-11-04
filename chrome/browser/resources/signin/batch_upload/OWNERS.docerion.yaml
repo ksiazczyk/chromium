@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Batch upload directory owners
+summary: Points to the signin component owners responsible for reviewing changes in this directory.

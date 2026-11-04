@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the refreshed sync confirmation app
+// summary: Lit HTML template for the refreshed sync confirmation UI with consent annotations, avatar, benefits list and action buttons inside the content container.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SyncConfirmationAppRefreshElement} from './sync_confirmation_app_refresh.js';

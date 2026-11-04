@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: History sync opt-in entry point
+// summary: Entry script that initializes the browser proxy, reports the dialog height to the browser, and re-exports the app element and Mojo types.
+// ---
+
 import './history_sync_optin_app.js';
 
 import {HistorySyncOptInBrowserProxyImpl} from './browser_proxy.js';

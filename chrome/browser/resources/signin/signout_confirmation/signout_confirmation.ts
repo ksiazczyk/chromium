@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: Signout confirmation module exports
+// summary: Entry module re-exporting the app element, extensions section, browser proxy, and Mojo types for the dialog.
+// ---
+
 import './signout_confirmation_app.js';
 
 export {SignoutConfirmationBrowserProxyImpl} from './browser_proxy.js';

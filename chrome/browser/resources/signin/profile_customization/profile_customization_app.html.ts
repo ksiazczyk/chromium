@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the profile customization app
+// summary: Lit HTML template rendering the avatar, profile name input, theme color picker and done, skip and delete profile actions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ProfileCustomizationAppElement} from './profile_customization_app.js';

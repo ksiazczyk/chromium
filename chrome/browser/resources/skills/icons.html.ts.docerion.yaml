@@ -1,0 +1,4 @@
+# Docerion header of icons.html.ts.
+type: source
+title: Skills icon set
+summary: Defines the skills cr-iconset with inline SVG icons such as bolt, explore and celebration for use across the skills WebUI.

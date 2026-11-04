@@ -10,6 +10,12 @@
 
 /* Styles shared by the refreshed managed user profile notice screens */
 
+/*docerion
+type: source
+title: Managed user profile notice refresh shared styles
+summary: Shared CSS styles for the refreshed managed user profile notice screens, covering avatar, work badge, title and disclaimer card layouts.
+*/
+
 :host {
   --disclaimer-card-width: 300px;
   --disclaimer-cards-gap: 24px;

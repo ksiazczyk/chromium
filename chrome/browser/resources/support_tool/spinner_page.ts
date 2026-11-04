@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spinner page element
+// summary: Lit element for the support tool loading page with a spinner and a cancel button that aborts data collection.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 
 import type {CrButtonElement} from 'chrome://resources/cr_elements/cr_button/cr_button.js';

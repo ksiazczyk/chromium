@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Skills app element styles
+summary: Lit styles for the skills app shell, laying out the toolbar, sidebar and page selector area.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

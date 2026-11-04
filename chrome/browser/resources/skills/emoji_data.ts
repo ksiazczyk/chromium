@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: data
+// title: Emoji data
+// summary: Exports a large dataset of emoji grouped by category, with code points, alternates, emoticons, shortcodes and animation flags.
+// ---
+
 export const emojiData = [
   {
     'group': 'Smileys and emotions',

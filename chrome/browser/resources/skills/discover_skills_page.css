@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Discover skills page styles
+summary: Lit CSS styles for the discover skills page, laying out category chips, carousels and skill cards with images.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync opt-in app HTML template
+// summary: Lit HTML template rendering the illustration, avatar, title, subtitle, description, and accept and reject buttons based on launch context.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {LaunchContext} from './history_sync_optin.mojom-webui.js';

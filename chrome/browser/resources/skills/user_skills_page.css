@@ -12,6 +12,12 @@
  * #include=cr-shared-style-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: User skills page styles
+summary: Lit stylesheet for the user skills page, defining layout for the header, empty state, subtitle, and the add skill and browse skills buttons.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

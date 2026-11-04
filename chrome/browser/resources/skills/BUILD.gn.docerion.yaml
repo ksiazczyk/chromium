@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the skills WebUI
+summary: Defines the WebUI build target, listing static, TypeScript, CSS and Mojo files plus dependencies for the skills page.
