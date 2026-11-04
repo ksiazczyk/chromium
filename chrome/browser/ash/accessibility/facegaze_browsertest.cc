@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FaceGaze browser tests
+// summary: Browser tests verifying FaceGaze cursor control, gesture recognition, and macro behavior on ChromeOS.
+// ---
+
 #include <memory>
 #include <utility>
 

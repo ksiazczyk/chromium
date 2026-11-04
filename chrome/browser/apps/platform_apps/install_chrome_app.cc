@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app installation flow implementation
+// summary: Implements the --install-chrome-app flow that opens the webstore page and installs apps via a prompted webstore installer.
+// ---
+
 #include "chrome/browser/apps/platform_apps/install_chrome_app.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autoclick browser tests
+// summary: Browser tests verifying that the Autoclick accessibility feature performs left, double and other clicks on web page elements.
+// ---
+
 #include <memory>
 
 #include "ash/accessibility/autoclick/autoclick_controller.h"

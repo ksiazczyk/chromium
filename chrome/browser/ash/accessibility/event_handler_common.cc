@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common accessibility event handler implementations
+// summary: Implements helpers that look up accessibility extension and offscreen document hosts and forward keyboard and mouse events to them.
+// ---
+
 #include "chrome/browser/ash/accessibility/event_handler_common.h"
 
 #include "chrome/browser/ash/accessibility/accessibility_manager.h"

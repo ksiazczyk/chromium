@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app icon loader class declaration
+// summary: Declares AppServicePromiseAppIconLoader, an AppIconLoader that loads promise icons for App Service promise apps.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_SERVICE_APP_SERVICE_PROMISE_APP_ICON_LOADER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_SERVICE_APP_SERVICE_PROMISE_APP_ICON_LOADER_H_
 

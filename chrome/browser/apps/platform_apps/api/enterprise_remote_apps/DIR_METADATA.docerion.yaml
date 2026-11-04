@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for enterprise remote apps
+summary: Maps the directory to Buganizer component 730314 and the Monorail component OS>Software>Enterprise>Imprivata.

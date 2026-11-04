@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser context keyed service factory setup
+// summary: Ensures the browser context keyed service factories for Chrome apps, such as app load and shortcut managers, are instantiated.
+// ---
+
 #include "chrome/browser/apps/platform_apps/browser_context_keyed_service_factories.h"
 
 #include "chrome/browser/apps/platform_apps/app_load_service_factory.h"

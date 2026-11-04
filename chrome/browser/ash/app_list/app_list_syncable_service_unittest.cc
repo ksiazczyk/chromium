@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list syncable service unit tests
+// summary: Unit tests for AppListSyncableService covering sync data processing, invalid ordinals, empty item names, duplicate IDs, and folder handling.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_syncable_service.h"
 
 #include <algorithm>

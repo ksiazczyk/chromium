@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListModelBuilder interface
+// summary: Abstract base class that populates and maintains the app list model with items of a specific type for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_LIST_MODEL_BUILDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_LIST_MODEL_BUILDER_H_
 

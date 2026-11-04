@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch exploration controller browser tests
+// summary: Browser tests checking how the touch exploration controller rewrites touch events when spoken feedback is toggled.
+// ---
+
 #include "ash/accessibility/chromevox/touch_exploration_controller.h"
 
 #include <memory>

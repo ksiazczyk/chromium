@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media metadata serialization helpers
+// summary: Converts mojo media metadata structs into extension API dictionaries for the media galleries API.
+// ---
+
 #include "chrome/browser/apps/platform_apps/api/media_galleries/media_galleries_api_util.h"
 
 #include <memory>

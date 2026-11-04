@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App sync UI state header
+// summary: Declares AppSyncUIState, a keyed service that reports app sync status for UI display on new profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_SYNC_UI_STATE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_SYNC_UI_STATE_H_
 

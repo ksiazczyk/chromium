@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magnifier type enum
+// summary: Defines the MagnifierType enum whose values are depended on by UMA metrics and preferences.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_MAGNIFIER_TYPE_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_MAGNIFIER_TYPE_H_
 

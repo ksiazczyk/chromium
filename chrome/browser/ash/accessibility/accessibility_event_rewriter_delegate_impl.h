@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility event rewriter delegate header
+// summary: Declares the delegate that passes key events from Ash's EventRewriter to accessibility component extensions and handles unhandled keys.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_ACCESSIBILITY_EVENT_REWRITER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_ACCESSIBILITY_EVENT_REWRITER_DELEGATE_IMPL_H_
 

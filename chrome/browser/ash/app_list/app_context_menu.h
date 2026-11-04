@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppContextMenu class declaration
+// summary: Declares AppContextMenu, the base class for all app list view context menus, with helpers for building menu models and reorder options.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_CONTEXT_MENU_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_CONTEXT_MENU_H_
 

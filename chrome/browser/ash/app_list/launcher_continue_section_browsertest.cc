@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Launcher continue section browser tests
+// summary: Browser tests for the launcher continue section, using fake DriveFS search results and file suggestions to verify suggested file behavior.
+// ---
+
 #include <optional>
 #include <string>
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list syncable service implementation
+// summary: Implements the profile-keyed service that owns, stores, and syncs the app list model, handling sync items, folders, page breaks, and reorder delegation.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_syncable_service.h"
 
 #include <algorithm>

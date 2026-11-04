@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App service app item browser tests
+// summary: Browser tests for AppServiceAppItem covering app registry updates, pausing and blocking by policy, short names, and launcher behavior.
+// ---
+
 #include "chrome/browser/ash/app_list/app_service/app_service_app_item.h"
 
 #include "ash/app_list/app_list_model_provider.h"

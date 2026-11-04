@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list client implementation
+// summary: Implements the Chrome-side app list client, wiring search, item activation, context menus, metrics, and profile handling to the Ash app list controller.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_client_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppListClientImpl interactive UI test
+// summary: Interactive UI test that shows and dismisses the app list through AppListClientImpl on platforms supporting app_list.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_client_impl.h"
 
 #include "chrome/test/base/in_process_browser_test.h"

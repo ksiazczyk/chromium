@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension app shim manager delegate for macOS implementation
+// summary: Implements the macOS AppShimManager delegate for extension apps, handling app window display, launching, enabling and shim behavior.
+// ---
+
 #include "chrome/browser/apps/platform_apps/extension_app_shim_manager_delegate_mac.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app installation flow header
+// summary: Declares InstallChromeApp, which initiates the UI flow for installing a Chrome app by directing the user to the webstore.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_PLATFORM_APPS_INSTALL_CHROME_APP_H_
 #define CHROME_BROWSER_APPS_PLATFORM_APPS_INSTALL_CHROME_APP_H_
 

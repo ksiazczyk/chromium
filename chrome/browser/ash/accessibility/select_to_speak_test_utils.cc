@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select to Speak test utilities implementation
+// summary: Implements helpers that enable Select to Speak for tests and simulate Search-key capture drags over web contents.
+// ---
+
 #include "chrome/browser/ash/accessibility/select_to_speak_test_utils.h"
 
 #include <string>

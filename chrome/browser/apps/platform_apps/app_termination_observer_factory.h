@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App termination observer factory header
+// summary: Declares AppTerminationObserverFactory, the singleton profile-keyed factory for creating AppTerminationObserver services.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_PLATFORM_APPS_APP_TERMINATION_OBSERVER_FACTORY_H_
 #define CHROME_BROWSER_APPS_PLATFORM_APPS_APP_TERMINATION_OBSERVER_FACTORY_H_
 

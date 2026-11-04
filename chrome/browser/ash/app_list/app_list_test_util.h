@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list test utilities header
+// summary: Declares AppListTestBase and shared test constants and helper functions used by app list unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_LIST_TEST_UTIL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_LIST_TEST_UTIL_H_
 

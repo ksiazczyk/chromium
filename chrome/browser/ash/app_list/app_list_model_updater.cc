@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListModelUpdater implementation
+// summary: Implements base AppListModelUpdater helpers for computing first available and before-first-item positions in the app list.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_model_updater.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list context menu implementation
+// summary: Implements the base context menu for app list items, handling pin-to-shelf toggles and app list sort commands.
+// ---
+
 #include "chrome/browser/ash/app_list/app_context_menu.h"
 
 #include <memory>

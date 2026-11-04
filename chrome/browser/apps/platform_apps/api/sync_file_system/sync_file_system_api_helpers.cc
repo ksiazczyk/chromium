@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: syncFileSystem API helpers implementation
+// summary: Implements conversion of extension conflict resolution policy enum values to the internal sync file system policy values.
+// ---
+
 #include "chrome/browser/apps/platform_apps/api/sync_file_system/sync_file_system_api_helpers.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise remote apps extension API implementation
+// summary: Implements the enterprise.remoteApps extension functions for adding folders and apps, deleting apps, sorting the launcher, and setting pinned apps via the Ash RemoteAppsManager.
+// ---
+
 #include "chrome/browser/apps/platform_apps/api/enterprise_remote_apps/enterprise_remote_apps_api.h"
 
 #include "base/values.h"

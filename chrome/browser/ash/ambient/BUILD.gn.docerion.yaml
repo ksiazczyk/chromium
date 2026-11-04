@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the ambient ChromeOS browser library
+summary: Defines the ambient static library plus unit and browser test targets with their sources and dependencies.

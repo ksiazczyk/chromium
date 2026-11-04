@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation bubble test helper declaration
+// summary: Declares DictationBubbleTestHelper, an observer-based helper for checking and waiting on dictation bubble visibility, icons, text, and hints in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_DICTATION_BUBBLE_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_DICTATION_BUBBLE_TEST_HELPER_H_
 

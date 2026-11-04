@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for enterprise remote apps tests
+summary: Allows apitest files in this directory to include Ash app list and shell headers so tests can check side effects in Ash.

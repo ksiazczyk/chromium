@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App service app list item implementation
+// summary: Implements the launcher item for App Service apps, handling app updates, activation, new-install metrics, remote apps, and context menu creation.
+// ---
+
 #include "chrome/browser/ash/app_list/app_service/app_service_app_item.h"
 
 #include "ash/constants/ash_features.h"

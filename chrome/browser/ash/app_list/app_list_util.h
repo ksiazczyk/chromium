@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list utility header
+// summary: Declares GenerateItemMetadataFromSyncItem, which builds app list item metadata from a sync item.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_LIST_UTIL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_LIST_UTIL_H_
 

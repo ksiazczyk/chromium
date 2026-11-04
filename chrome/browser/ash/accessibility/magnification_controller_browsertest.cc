@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen magnifier controller browser tests
+// summary: Browser tests verifying fullscreen magnifier behavior such as following focus on web buttons and viewport movement.
+// ---
+
 #include <memory>
 #include <string>
 

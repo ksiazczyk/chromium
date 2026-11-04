@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for ash accessibility
+summary: Delegates ownership to ash/accessibility OWNERS and adds per-file owners for the spoken feedback app list browser test.

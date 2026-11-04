@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app list item header
+// summary: Declares ChromeAppListItem, the base class of all Chrome app list items, with metadata accessors and a test API.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_CHROME_APP_LIST_ITEM_H_
 #define CHROME_BROWSER_ASH_APP_LIST_CHROME_APP_LIST_ITEM_H_
 

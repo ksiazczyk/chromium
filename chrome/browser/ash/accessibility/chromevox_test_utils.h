@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeVox browser test utilities declaration
+// summary: Declares ChromeVoxTestUtils, a class for exercising ChromeVox in browser tests, including enabling spoken feedback and running scripts in its background page.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_CHROMEVOX_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_CHROMEVOX_TEST_UTILS_H_
 

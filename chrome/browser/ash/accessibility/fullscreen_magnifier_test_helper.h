@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen magnifier test helper
+// summary: Header for a helper class that loads the fullscreen magnifier and waits for bounds changes in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_FULLSCREEN_MAGNIFIER_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_FULLSCREEN_MAGNIFIER_TEST_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ash accessibility
+summary: Defines allowed include dependencies for the directory, with special rules for accessibility manager, speech monitor, and browser tests.

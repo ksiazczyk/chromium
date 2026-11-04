@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility panel class declaration
+// summary: Declares the AccessibilityPanel widget delegate that hosts accessibility extension UI in a panel on the primary display.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_ACCESSIBILITY_PANEL_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_ACCESSIBILITY_PANEL_H_
 

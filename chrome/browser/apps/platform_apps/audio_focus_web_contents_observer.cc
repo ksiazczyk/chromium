@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio focus web contents observer implementation
+// summary: Implements an observer that assigns a shared audio focus group ID to the web contents of a platform app.
+// ---
+
 #include "chrome/browser/apps/platform_apps/audio_focus_web_contents_observer.h"
 
 #include "content/public/browser/browser_context.h"

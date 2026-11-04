@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app context menu class declaration
+// summary: Declares AppServicePromiseAppContextMenu, which builds context menus for promise app items identified by package ID in the app list.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_SERVICE_APP_SERVICE_PROMISE_APP_CONTEXT_MENU_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_SERVICE_APP_SERVICE_PROMISE_APP_CONTEXT_MENU_H_
 

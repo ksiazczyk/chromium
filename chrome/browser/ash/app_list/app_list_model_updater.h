@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListModelUpdater interface
+// summary: Interface wrapping app list model access in the browser, defining item, folder, and search result update methods for multiple profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_LIST_MODEL_UPDATER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_LIST_MODEL_UPDATER_H_
 

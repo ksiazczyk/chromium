@@ -5,6 +5,12 @@
 // Defines the Chrome Extensions Media Galleries API functions for accessing
 // user's media files, as specified in the extension API IDL.
 
+// ---docerion
+// type: source
+// title: Media Galleries extension API declarations
+// summary: Declares the profile-keyed event router and extension functions for accessing the user's media galleries.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_PLATFORM_APPS_API_MEDIA_GALLERIES_MEDIA_GALLERIES_API_H_
 #define CHROME_BROWSER_APPS_PLATFORM_APPS_API_MEDIA_GALLERIES_MEDIA_GALLERIES_API_H_
 

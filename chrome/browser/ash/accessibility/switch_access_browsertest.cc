@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Switch Access browser tests
+// summary: Browser tests verifying Switch Access behavior such as key event consumption and mouse event control.
+// ---
+
 #include <memory>
 
 #include "ash/constants/ash_extension_constants.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to account_manager component
+summary: Delegates code review ownership to the ChromeOS account_manager component OWNERS file.

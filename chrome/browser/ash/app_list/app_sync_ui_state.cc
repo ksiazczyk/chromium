@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App sync UI state implementation
+// summary: Watches app sync and extension installation to drive the launcher syncing status shown in the UI.
+// ---
+
 #include "chrome/browser/ash/app_list/app_sync_ui_state.h"
 
 #include "build/build_config.h"

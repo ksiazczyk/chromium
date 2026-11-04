@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox panel implementation
+// summary: Implements the ChromeVox panel that hosts spoken feedback UI, handling URL fragments from the extension to enter or exit fullscreen, focus, and disable spoken feedback.
+// ---
+
 #include "chrome/browser/ash/accessibility/chromevox_panel.h"
 
 #include <memory>

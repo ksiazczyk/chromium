@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppListClientImpl browser tests
+// summary: Browser tests covering AppListClientImpl behavior, including app list visibility, search, demo mode, and multi-profile scenarios.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_client_impl.h"
 
 #include <stddef.h>

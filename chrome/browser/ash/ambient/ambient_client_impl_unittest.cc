@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AmbientClientImpl
+// summary: Tests ambient mode allowance and token fetching using fake identity, user session, and profile test environments.
+// ---
+
 #include "chrome/browser/ash/ambient/ambient_client_impl.h"
 
 #include <memory>

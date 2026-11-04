@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn unit tests target for chrome/browser/ash
+summary: GN build file defining the unit_tests source_set that aggregates unit tests from chrome/browser/ash subdirectories and their dependencies.

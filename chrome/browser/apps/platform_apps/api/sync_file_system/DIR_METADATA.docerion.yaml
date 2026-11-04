@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Bug tracking and team routing metadata pointing to the Blink>Storage>FileSystem component and the storage-dev mailing list.

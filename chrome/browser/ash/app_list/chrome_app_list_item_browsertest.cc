@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome app list item browser tests
+// summary: Browser tests verifying that app icon loading is deferred until the launcher UI is shown and synchronous while it is visible.
+// ---
+
 #include "chrome/browser/ash/app_list/chrome_app_list_item.h"
 
 #include <vector>

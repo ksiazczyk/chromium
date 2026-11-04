@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list sorting browser tests
+// summary: Browser tests verifying app list sorting, reordering, and icon loading behavior in the ChromeOS launcher across user sessions and tablet mode.
+// ---
+
 #include "ash/app_list/app_list_controller_impl.h"
 #include "ash/app_list/app_list_model_provider.h"
 #include "ash/app_list/views/app_list_item_view.h"

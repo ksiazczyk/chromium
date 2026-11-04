@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility manager implementation
+// summary: Implements the central Chrome OS accessibility manager that enables and tracks features such as spoken feedback, magnification, dictation, and switch access.
+// ---
+
 #include "chrome/browser/ash/accessibility/accessibility_manager.h"
 
 #include <stddef.h>

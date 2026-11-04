@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App service app model builder unit tests
+// summary: Unit tests for AppServiceAppModelBuilder covering app insertion, updates, removal, folder and sync behavior across many app types.
+// ---
+
 #include "chrome/browser/ash/app_list/app_service/app_service_app_model_builder.h"
 
 #include <memory>

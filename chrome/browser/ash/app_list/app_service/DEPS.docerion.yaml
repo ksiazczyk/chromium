@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App list app service include dependency rules
+summary: Specifies allowed include dependencies for the app list app service directory, restricting //chrome imports and granting test-specific exceptions.

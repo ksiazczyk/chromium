@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform app navigation redirector
+// summary: Declares a class that installs navigation throttles redirecting navigations to URLs matched by platform apps' url_handlers manifest key.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_PLATFORM_APPS_PLATFORM_APP_NAVIGATION_REDIRECTOR_H_
 #define CHROME_BROWSER_APPS_PLATFORM_APPS_PLATFORM_APP_NAVIGATION_REDIRECTOR_H_
 

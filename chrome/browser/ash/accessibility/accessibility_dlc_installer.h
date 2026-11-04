@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility DLC installer header
+// summary: Declares the AccessibilityDlcInstaller class that encapsulates DLC installation logic with installed, progress, and error callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_ACCESSIBILITY_DLC_INSTALLER_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_ACCESSIBILITY_DLC_INSTALLER_H_
 

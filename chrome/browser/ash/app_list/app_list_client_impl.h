@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListClientImpl class declaration
+// summary: Declares AppListClientImpl, the ash::AppListClient implementation managing search, item activation, dialog hosting, and app list visibility for ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_LIST_CLIENT_IMPL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_LIST_CLIENT_IMPL_H_
 

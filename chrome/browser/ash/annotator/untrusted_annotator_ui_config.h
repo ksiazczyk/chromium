@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted annotator WebUI config header
+// summary: Declares the WebUIConfig class for the untrusted part of the Projector annotator, including hooks for enabling it and creating its controller.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ANNOTATOR_UNTRUSTED_ANNOTATOR_UI_CONFIG_H_
 #define CHROME_BROWSER_ASH_ANNOTATOR_UNTRUSTED_ANNOTATOR_UI_CONFIG_H_
 

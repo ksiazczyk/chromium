@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spoken feedback browser tests
+// summary: Large browser test suite exercising ChromeVox spoken feedback across ChromeOS UI features and settings.
+// ---
+
 #include "chrome/browser/ash/accessibility/spoken_feedback_browsertest.h"
 
 #include <memory>

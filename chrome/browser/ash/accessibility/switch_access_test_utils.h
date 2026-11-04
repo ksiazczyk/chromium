@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access test utilities header
+// summary: Declares the SwitchAccessTestUtils class used to exercise Switch Access, focus rings, and automation events in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_SWITCH_ACCESS_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_SWITCH_ACCESS_TEST_UTILS_H_
 

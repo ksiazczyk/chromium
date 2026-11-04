@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App window interactive test base header
+// summary: Declares the AppWindowInteractiveTest base class and FullscreenChangeWaiter helper for testing app window fullscreen, show, and hide behavior.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_PLATFORM_APPS_APP_WINDOW_INTERACTIVE_UITEST_BASE_H_
 #define CHROME_BROWSER_APPS_PLATFORM_APPS_APP_WINDOW_INTERACTIVE_UITEST_BASE_H_
 

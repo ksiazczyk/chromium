@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for chrome/browser/ash
+summary: Lists code owners for chrome/browser/ash and routes DEPS changes to the refactoring owners to control new ash dependencies.

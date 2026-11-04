@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window registry utilities
+// summary: Implements static helpers to find app windows, check visibility, and close all app windows across every loaded profile.
+// ---
+
 #include "chrome/browser/apps/platform_apps/app_window_registry_util.h"
 
 #include <algorithm>

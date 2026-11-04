@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list syncable service factory implementation
+// summary: Implements the profile-keyed factory that builds AppListSyncableService instances, declaring dependent factories and skipping guest sessions.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_syncable_service_factory.h"
 
 #include <set>

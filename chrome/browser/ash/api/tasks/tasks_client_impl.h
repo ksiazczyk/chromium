@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Tasks client class declaration
+// summary: Declares TasksClientImpl, the TasksClient implementation for fetching, caching and updating Google Tasks data with admin policy checks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_API_TASKS_TASKS_CLIENT_IMPL_H_
 #define CHROME_BROWSER_ASH_API_TASKS_TASKS_CLIENT_IMPL_H_
 

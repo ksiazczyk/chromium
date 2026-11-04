@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App shortcut manager factory implementation
+// summary: Implements the profile-keyed service factory that builds AppShortcutManager instances for profiles where web apps are enabled.
+// ---
+
 #include "chrome/browser/apps/platform_apps/shortcut_manager_factory.h"
 
 #include "base/no_destructor.h"

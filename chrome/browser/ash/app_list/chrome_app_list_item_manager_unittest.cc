@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome app list item manager unit tests
+// summary: Unit tests verifying that the item manager keeps folder children ordered by position as items are added and removed.
+// ---
+
 #include "chrome/browser/ash/app_list/chrome_app_list_item_manager.h"
 
 #include "base/memory/raw_ptr.h"

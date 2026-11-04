@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edu coexistence consent invalidation controller
+// summary: Implements tracking of accepted edu coexistence terms of service versions for edu accounts in Account Manager.
+// ---
+
 #include "chrome/browser/ash/account_manager/account_manager_edu_coexistence_controller.h"
 
 #include <algorithm>

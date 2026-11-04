@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app list item implementation
+// summary: Implements the app list item for promise apps, showing install status and progress and raising install priority when activated.
+// ---
+
 #include "chrome/browser/ash/app_list/app_service/app_service_promise_app_item.h"
 
 #include "ash/public/cpp/app_list/app_list_config.h"

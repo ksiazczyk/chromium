@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio focus web contents observer browser tests
+// summary: Browser tests verifying that platform app windows share one audio focus group ID, separate from the rest of the browser.
+// ---
+
 #include "chrome/browser/apps/platform_apps/audio_focus_web_contents_observer.h"
 
 #include "build/build_config.h"

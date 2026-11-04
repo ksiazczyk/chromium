@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation class declaration
+// summary: Declares the Dictation class providing global dictation on Chrome OS, with helpers for determining and listing supported BCP-47 locales and offline availability.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_DICTATION_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_DICTATION_H_
 

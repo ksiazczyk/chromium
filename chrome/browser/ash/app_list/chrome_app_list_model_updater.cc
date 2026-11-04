@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app list model updater implementation
+// summary: Implements the Chrome-side app list model updater that manages app list items, positions, search results, and temporary sorting for ChromeOS.
+// ---
+
 #include "chrome/browser/ash/app_list/chrome_app_list_model_updater.h"
 
 #include <unordered_map>

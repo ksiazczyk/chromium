@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility feature browser test base header
+// summary: Declares AccessibilityFeatureBrowserTest, a base class for accessibility feature browser tests with navigation and profile helpers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_ACCESSIBILITY_FEATURE_BROWSERTEST_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_ACCESSIBILITY_FEATURE_BROWSERTEST_H_
 

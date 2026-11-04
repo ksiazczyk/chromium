@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListNotifierImpl implementation
+// summary: Implements AppListNotifier to track impressions, launches, and state transitions of app list search results and continue section content.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_notifier_impl.h"
 
 #include "ash/public/cpp/app_list/app_list_controller.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: App list bug tracking metadata (DIR_METADATA)
+summary: Maps the directory to the UI>Shell>Launcher monorail component and a Buganizer component for issue routing.

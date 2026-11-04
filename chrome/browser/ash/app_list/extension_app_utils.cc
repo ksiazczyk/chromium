@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension app utilities for the app list
+// summary: Implements helpers that decide whether an extension should show in the launcher and add menu icons for system apps such as the Files app.
+// ---
+
 #include "chrome/browser/ash/app_list/extension_app_utils.h"
 
 #include "ash/constants/web_app_id_constants.h"

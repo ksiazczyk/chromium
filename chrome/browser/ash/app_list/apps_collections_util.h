@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App collections utility header
+// summary: Declares the helper that returns the app collection an app ID belongs to, plus a test app ID constant.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APPS_COLLECTIONS_UTIL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APPS_COLLECTIONS_UTIL_H_
 

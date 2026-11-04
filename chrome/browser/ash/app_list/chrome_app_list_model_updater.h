@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app list model updater header
+// summary: Declares the ChromeAppListModelUpdater class that relays app list item and search model changes between Chrome and ash.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_CHROME_APP_LIST_MODEL_UPDATER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_CHROME_APP_LIST_MODEL_UPDATER_H_
 

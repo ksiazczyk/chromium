@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sticky keys browser tests
+// summary: Browser tests verifying sticky keys behavior, including system tray shortcuts and Select to Speak integration.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

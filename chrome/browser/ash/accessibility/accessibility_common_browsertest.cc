@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for accessibility common extension
+// summary: Parametrized browser tests verifying that toggling accessibility features loads the accessibility common component extension without console errors.
+// ---
+
 #include "ash/constants/ash_extension_constants.h"
 #include "ash/constants/ash_pref_names.h"
 #include "base/test/scoped_feature_list.h"

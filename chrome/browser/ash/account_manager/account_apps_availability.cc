@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountAppsAvailability implementation
+// summary: Implements the keyed service that tracks which AccountManager accounts are available in ARC, persisting availability in prefs.
+// ---
+
 #include "chrome/browser/ash/account_manager/account_apps_availability.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeVox browser test utilities implementation
+// summary: Implements helpers that enable and set up ChromeVox in browser tests, wait for readiness, globalize modules, and disable earcons during testing.
+// ---
+
 #include "chrome/browser/ash/accessibility/chromevox_test_utils.h"
 
 #include "chrome/browser/ash/accessibility/accessibility_manager.h"

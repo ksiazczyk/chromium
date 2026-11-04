@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System Live Caption service browser tests
+// summary: Contains browser tests for the system live caption service using fake speech recognition and audio systems to verify captioning behavior.
+// ---
+
 #include "chrome/browser/ash/accessibility/live_caption/system_live_caption_service.h"
 
 #include <memory>

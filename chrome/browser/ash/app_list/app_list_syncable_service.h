@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list syncable service header
+// summary: Declares the AppListSyncableService keyed service and its SyncItem structure for owning and syncing an app list model per profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_LIST_SYNCABLE_SERVICE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_LIST_SYNCABLE_SERVICE_H_
 

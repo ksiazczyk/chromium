@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App list app service build targets
+summary: Defines GN build targets for the ChromeOS app list app service static library, including unit test and browser test source sets and their dependencies.

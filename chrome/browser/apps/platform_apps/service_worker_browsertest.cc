@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker platform app browser test
+// summary: Browser test that registers a service worker in a launched platform app and exchanges a postMessage.
+// ---
+
 #include "chrome/browser/apps/platform_apps/app_browsertest_util.h"
 #include "content/public/test/browser_test.h"
 

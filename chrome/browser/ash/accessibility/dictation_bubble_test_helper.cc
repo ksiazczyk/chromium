@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation bubble test helper implementation
+// summary: Implements a test helper that inspects the dictation bubble UI and waits for visibility, icon, text, and hint changes during browser tests.
+// ---
+
 #include "chrome/browser/ash/accessibility/dictation_bubble_test_helper.h"
 
 #include <string_view>

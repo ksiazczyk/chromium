@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: arc_apps_private_apitest.cc
+// summary: Browser tests for the arcAppsPrivate API using a fake ARC app instance to verify launchable app listing and app launching.
+// ---
+
 #include <memory>
 
 #include "base/path_service.h"

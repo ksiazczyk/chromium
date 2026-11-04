@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager policy controller implementation
+// summary: Implements the AccountManagerPolicyController, which enforces account manager prefs and policies such as removing secondary Gaia accounts when signin is disallowed and reacting to child account type changes.
+// ---
+
 #include "chrome/browser/ash/account_manager/account_manager_policy_controller.h"
 
 #include <string>

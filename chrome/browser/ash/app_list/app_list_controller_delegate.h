@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListControllerDelegate interface
+// summary: Interface letting the app list view delegate control the app list, covering pinning, app info, new windows, URL opening, and app launching.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_LIST_CONTROLLER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_LIST_CONTROLLER_DELEGATE_H_
 

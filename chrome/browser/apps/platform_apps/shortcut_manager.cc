@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App shortcut manager implementation
+// summary: Creates, updates and deletes OS shortcuts for extension-based Chrome Apps on install, update, uninstall and profile removal.
+// ---
+
 #include "chrome/browser/apps/platform_apps/shortcut_manager.h"
 
 #include <string>

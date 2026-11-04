@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility DLC installer implementation
+// summary: Implements installation of accessibility DLCs such as FaceGaze assets, Pumpkin, and Tenji via the DLC service, reporting progress, success, and errors.
+// ---
+
 #include "chrome/browser/ash/accessibility/accessibility_dlc_installer.h"
 
 #include <string_view>

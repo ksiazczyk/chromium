@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze test utilities implementation
+// summary: Implements helpers to configure and exercise FaceGaze in browser tests, including mock gesture results, preferences, and test support scripts.
+// ---
+
 #include "chrome/browser/ash/accessibility/facegaze_test_utils.h"
 
 #include "ash/constants/ash_extension_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for accessibility DLC installer
+// summary: Unit tests covering DLC installation flows, callbacks, and histogram metrics using a fake DLC service client.
+// ---
+
 #include "chrome/browser/ash/accessibility/accessibility_dlc_installer.h"
 
 #include <optional>

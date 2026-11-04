@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Tasks client implementation
+// summary: Implements communication with the Google Tasks API, converting, sorting and caching task lists and tasks for ash surfaces such as Focus Mode.
+// ---
+
 #include "chrome/browser/ash/api/tasks/tasks_client_impl.h"
 
 #include <algorithm>

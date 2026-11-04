@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App sync UI state observer header
+// summary: Declares the observer interface notified when the app sync UI status changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_SYNC_UI_STATE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_SYNC_UI_STATE_OBSERVER_H_
 

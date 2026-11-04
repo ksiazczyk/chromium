@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ash accessibility build targets
+summary: GN build file defining the ash accessibility static library and a test_support target, listing sources and build dependencies.

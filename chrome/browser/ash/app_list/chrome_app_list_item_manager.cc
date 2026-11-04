@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app list item manager implementation
+// summary: Implements management of Chrome app list items, including folder child mappings and position handling, without talking to Ash.
+// ---
+
 #include "chrome/browser/ash/app_list/chrome_app_list_item_manager.h"
 
 #include <algorithm>

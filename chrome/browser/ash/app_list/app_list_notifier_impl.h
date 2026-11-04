@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list notifier implementation header
+// summary: Chrome implementation of AppListNotifier for the productivity launcher, translating launcher UI events into impression, launch, and abandon notifications via per-view state machines.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_LIST_NOTIFIER_IMPL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_LIST_NOTIFIER_IMPL_H_
 

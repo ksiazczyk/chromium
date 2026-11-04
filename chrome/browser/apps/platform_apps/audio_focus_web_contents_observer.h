@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio focus web contents observer header
+// summary: Declares AudioFocusWebContentsObserver, which manages audio focus group IDs so apps have separate audio focus from the browser.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_PLATFORM_APPS_AUDIO_FOCUS_WEB_CONTENTS_OBSERVER_H_
 #define CHROME_BROWSER_APPS_PLATFORM_APPS_AUDIO_FOCUS_WEB_CONTENTS_OBSERVER_H_
 

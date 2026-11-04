@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App service app list model builder class declaration
+// summary: Declares AppServiceAppModelBuilder, which observes the App Service app registry cache to populate and update the ChromeOS app list model.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_SERVICE_APP_SERVICE_APP_MODEL_BUILDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_SERVICE_APP_SERVICE_APP_MODEL_BUILDER_H_
 

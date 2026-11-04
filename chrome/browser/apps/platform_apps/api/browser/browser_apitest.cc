@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser openTab API browser tests
+// summary: Browser tests verifying that browser.openTab opens a tab in a test extension, including a regression case with only an incognito browser open.
+// ---
+
 #include "chrome/browser/apps/platform_apps/api/browser/browser_api.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

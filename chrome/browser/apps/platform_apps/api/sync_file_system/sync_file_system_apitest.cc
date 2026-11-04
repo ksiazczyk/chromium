@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: syncFileSystem API tests
+// summary: Extension API tests for the syncFileSystem API that inject a mock remote file sync service to verify sync behavior.
+// ---
+
 #include <stdint.h>
 
 #include "base/auto_reset.h"
