@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy override rules transformer implementation
+// summary: Implements the pref transformer that validates proxy lists and DNS probe conditions when converting the extension proxy override rules pref.
+// ---
+
 #include "chrome/browser/extensions/api/proxy_override_rules/proxy_override_rules_transformer.h"
 
 #include <optional>

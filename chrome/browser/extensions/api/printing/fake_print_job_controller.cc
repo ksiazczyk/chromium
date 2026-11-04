@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake print job controller implementation
+// summary: Implements a fake print job controller that simulates print job creation for tests without sending jobs to the real printing pipeline.
+// ---
+
 #include "chrome/browser/extensions/api/printing/fake_print_job_controller.h"
 
 #include <string>

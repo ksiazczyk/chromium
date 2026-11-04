@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeMessagingManager header
+// summary: Declares the C++ peer of the Java manager that observes extension registry changes and is owned by its Java counterpart.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_MESSAGING_ANDROID_NATIVE_MESSAGING_MANAGER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_MESSAGING_ANDROID_NATIVE_MESSAGING_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the quickUnlockPrivate getAuthToken helper
+// summary: Declares QuickUnlockPrivateGetAuthTokenHelper, which obtains auth tokens for the quickUnlockPrivate API via auth sessions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_QUICK_UNLOCK_PRIVATE_QUICK_UNLOCK_PRIVATE_ASH_UTILS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_QUICK_UNLOCK_PRIVATE_QUICK_UNLOCK_PRIVATE_ASH_UTILS_H_
 

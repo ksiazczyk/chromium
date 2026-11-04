@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generic MIME handler browser tests
+// summary: Browser tests for generic third-party MIME handlers, covering CSP exemptions for plugin frames, response header filtering of non-safelisted headers, embedding, and related handler behaviors.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <string>

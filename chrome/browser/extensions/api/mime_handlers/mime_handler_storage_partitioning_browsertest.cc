@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME handler storage partitioning browser tests
+// summary: Browser tests verifying that MIME handler frames and their descendants use the extension origin as the partition root for IsolationInfo and StorageKey, enabling SameSite cookie delivery.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/path_service.h"
 #include "base/test/scoped_feature_list.h"

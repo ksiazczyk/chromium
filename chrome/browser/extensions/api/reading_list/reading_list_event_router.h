@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading List event router class declaration
+// summary: Declares the ReadingListEventRouter keyed service that forwards reading list model changes as extension events.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_READING_LIST_READING_LIST_EVENT_ROUTER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_READING_LIST_READING_LIST_EVENT_ROUTER_H_
 

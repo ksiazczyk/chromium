@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native messaging test utilities implementation
+// summary: Implements ScopedTestNativeMessagingHost, which registers test native messaging host manifests and hosts for use in browser and unit tests.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/native_messaging_test_util.h"
 
 #include <memory>

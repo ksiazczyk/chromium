@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for the quick_unlock_private extension API
+summary: Defines the quick_unlock_private source set and its ChromeOS dependencies for the extension API build.

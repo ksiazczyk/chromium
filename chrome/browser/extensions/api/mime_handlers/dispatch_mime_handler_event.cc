@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dispatch MIME handler event implementation
+// summary: Implements SendExecuteMimeTypeHandlerEvent, which resolves a MIME type handler URL for an extension, aborts NoStatePrefetch, and creates stream containers for intercepted navigations, including OOPIF PDF handling.
+// ---
+
 #include "chrome/browser/extensions/api/mime_handlers/dispatch_mime_handler_event.h"
 
 #include <utility>

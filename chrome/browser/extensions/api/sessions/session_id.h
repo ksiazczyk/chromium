@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionId class declaration for local and foreign sessions
+// summary: Declares the SessionId class with Parse, IsForeign, and ToString methods representing identifiers for local or synced foreign sessions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_SESSIONS_SESSION_ID_H__
 #define CHROME_BROWSER_EXTENSIONS_API_SESSIONS_SESSION_ID_H__
 

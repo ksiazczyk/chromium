@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passwords private extension functions implementation
+// summary: Implements the passwordsPrivate extension API functions such as changing and removing credentials and requesting plaintext passwords.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/passwords_private_api.h"
 
 #include <optional>

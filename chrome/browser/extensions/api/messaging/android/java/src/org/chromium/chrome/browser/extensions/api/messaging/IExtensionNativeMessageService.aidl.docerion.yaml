@@ -1,0 +1,4 @@
+# Docerion header of IExtensionNativeMessageService.aidl.
+type: source
+title: Extension native message service AIDL interface
+summary: AIDL service interface letting the browser close a native messaging connection and connect message ports to an external Android app.

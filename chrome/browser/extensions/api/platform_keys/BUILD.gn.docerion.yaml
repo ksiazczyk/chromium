@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the platform_keys source set
+summary: Defines the platform_keys source set with its sources and dependencies for the ChromeOS extension platform keys support.

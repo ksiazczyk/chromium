@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the password access auth timeout handler
+// summary: Unit tests verifying restart and expiry behavior of the password access authentication timeout timer using mock time.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/password_access_auth_timeout_handler.h"
 
 #include <utility>

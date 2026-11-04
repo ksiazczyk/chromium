@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring pdfViewerPrivate extension API functions
+// summary: Declares the ExtensionFunction classes backing the pdfViewerPrivate API, including stream info, local file access, Save to Drive, document title, plugin attributes, and Glic summarize.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PDF_VIEWER_PRIVATE_PDF_VIEWER_PRIVATE_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PDF_VIEWER_PRIVATE_PDF_VIEWER_PRIVATE_API_H_
 

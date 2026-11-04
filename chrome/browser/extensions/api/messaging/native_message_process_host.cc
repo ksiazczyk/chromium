@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native message process host implementation
+// summary: Implements the host that launches native messaging host processes and exchanges size-prefixed messages over file streams with message size limits.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/native_message_process_host.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito connectability interactive UI tests
+// summary: Interactive browser tests verifying the incognito connectability infobar prompt across two incognito tabs and both the legacy and centralized infobar frameworks.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/incognito_connectability.h"
 
 #include "base/test/scoped_feature_list.h"

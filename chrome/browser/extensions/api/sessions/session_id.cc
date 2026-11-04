@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionId parsing and string representation for extension sessions
+// summary: Implements the SessionId class, parsing session ID strings into a session tag and integer ID to distinguish local from foreign (synced) sessions.
+// ---
+
 #include "chrome/browser/extensions/api/sessions/session_id.h"
 
 #include <stddef.h>

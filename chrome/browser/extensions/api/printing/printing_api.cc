@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome printing extension functions
+// summary: Implements the chrome.printing extension functions submitJob, cancelJob, getPrinters, getPrinterInfo, and getJobStatus with quota limits.
+// ---
+
 #include "chrome/browser/extensions/api/printing/printing_api.h"
 
 #include <utility>

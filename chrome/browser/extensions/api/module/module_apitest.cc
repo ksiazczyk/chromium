@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the extension module API
+// summary: Runs in-process browser tests verifying incognito and file scheme access behavior of the extension module API across permission combinations.
+// ---
+
 #include "build/build_config.h"
 #include "build/buildflag.h"
 #include "chrome/browser/extensions/extension_apitest.h"

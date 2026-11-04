@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome_messaging_delegate.h
+// summary: Declares the Chrome-specific messaging delegate that supplies tab info, native app receivers and incognito checks to the extensions messaging API.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_MESSAGING_CHROME_MESSAGING_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_MESSAGING_CHROME_MESSAGING_DELEGATE_H_
 

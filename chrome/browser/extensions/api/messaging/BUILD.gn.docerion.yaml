@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for extension messaging
+summary: Defines GN build targets for the Chrome extension messaging sources, including platform-specific files, test support and unit test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the safeBrowsingPrivate API
+// summary: In-process browser tests exercising getReferrerChain with mocked Safe Browsing services and test servers.
+// ---
+
 #include "chrome/browser/extensions/api/safe_browsing_private/safe_browsing_private_api.h"
 
 #include <memory>

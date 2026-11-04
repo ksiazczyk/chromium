@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protected content enabled transformer implementation
+// summary: Implements conversion between the boolean protected content extension pref and the browser ContentSetting allow or block value.
+// ---
+
 #include "chrome/browser/extensions/api/preference/protected_content_enabled_transformer.h"
 
 #include "base/values.h"

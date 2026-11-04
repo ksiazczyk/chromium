@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passwords private API browser tests
+// summary: Browser tests for the passwordsPrivate extension API that use a test delegate and a mock policy provider to exercise API behavior.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

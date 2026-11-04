@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for chrome.runtime.getContexts()
+// summary: Interactive browser tests for chrome.runtime.getContexts() that require UI focus, verifying retrieval of popup-based extension contexts.
+// ---
+
 #include <string_view>
 
 #include "base/strings/stringprintf.h"

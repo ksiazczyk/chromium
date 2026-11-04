@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dispatch MIME handler event header
+// summary: Declares SendExecuteMimeTypeHandlerEvent, which dispatches the MIME type handler event to an extension and attaches a cached response body so fallback reloads can replay it instead of refetching.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_MIME_HANDLERS_DISPATCH_MIME_HANDLER_EVENT_H_
 #define CHROME_BROWSER_EXTENSIONS_API_MIME_HANDLERS_DISPATCH_MIME_HANDLER_EVENT_H_
 

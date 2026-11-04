@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permissions API tests
+// summary: Browser API tests for extension permissions, covering enabled and disabled permissions, experimental API access and favicon permission behavior.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/path_service.h"
 #include "base/threading/thread_restrictions.h"

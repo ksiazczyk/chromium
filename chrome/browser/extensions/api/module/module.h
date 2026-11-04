@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension module API function declarations
+// summary: Declares the extension.setUpdateUrlData, isAllowedIncognitoAccess and isAllowedFileSchemeAccess functions plus a helper for reading update URL data.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_MODULE_MODULE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_MODULE_MODULE_H_
 

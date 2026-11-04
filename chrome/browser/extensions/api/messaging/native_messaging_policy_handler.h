@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging policy handler declarations
+// summary: Declares NativeMessagingHostListPolicyHandler, a policy handler that checks native messaging host name lists with optional wildcard support.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_MESSAGING_NATIVE_MESSAGING_POLICY_HANDLER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_MESSAGING_NATIVE_MESSAGING_POLICY_HANDLER_H_
 

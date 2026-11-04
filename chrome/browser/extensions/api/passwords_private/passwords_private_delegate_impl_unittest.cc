@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordsPrivateDelegateImpl unit tests
+// summary: Unit tests for PasswordsPrivateDelegateImpl covering credential listing, reauthentication, sharing recipients, passkeys, and password check flows using mocked dependencies.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/passwords_private_delegate_impl.h"
 
 #include <stddef.h>

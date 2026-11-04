@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Built-in native message host factory
+// summary: Implements NativeMessageHost::Create, which matches requested native host names against built-in hosts and checks the extension's allowed origins.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/native_message_built_in_host.h"
 
 #include <string>

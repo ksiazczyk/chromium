@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native message built-in host header
+// summary: Defines the NativeMessageBuiltInHost struct describing built-in native messaging hosts by name, allowed extension origins and a factory function.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_MESSAGING_NATIVE_MESSAGE_BUILT_IN_HOST_H_
 #define CHROME_BROWSER_EXTENSIONS_API_MESSAGING_NATIVE_MESSAGE_BUILT_IN_HOST_H_
 

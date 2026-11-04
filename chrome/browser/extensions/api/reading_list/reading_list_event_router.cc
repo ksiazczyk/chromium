@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading List event router implementation
+// summary: Observes the reading list model and dispatches onEntryAdded, onEntryRemoved and onEntryUpdated events to extensions.
+// ---
+
 #include "chrome/browser/extensions/api/reading_list/reading_list_event_router.h"
 
 #include "base/memory/scoped_refptr.h"

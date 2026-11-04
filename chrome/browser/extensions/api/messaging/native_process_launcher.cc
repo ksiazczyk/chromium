@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native process launcher implementation
+// summary: Implements the default NativeProcessLauncher that locates and starts native messaging hosts asynchronously through LaunchContext.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/native_process_launcher.h"
 
 #include <stdint.h>

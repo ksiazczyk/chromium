@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS networkingPrivate UI delegate class declaration
+// summary: Declares the ChromeOS implementation of NetworkingPrivateDelegate::UIDelegate that shows carrier account details.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_NETWORKING_PRIVATE_NETWORKING_PRIVATE_UI_DELEGATE_CHROMEOS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_NETWORKING_PRIVATE_NETWORKING_PRIVATE_UI_DELEGATE_CHROMEOS_H_
 

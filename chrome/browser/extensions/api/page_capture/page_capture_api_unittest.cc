@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the pageCapture.saveAsMHTML function
+// summary: Unit tests verifying that tab navigation during a saveAsMHTML call results in an error, using a fake window controller to expose the tab.
+// ---
+
 #include "chrome/browser/extensions/api/page_capture/page_capture_api.h"
 
 #include <memory>

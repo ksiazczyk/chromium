@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Safe Browsing Private Event Router Unit Tests
+// summary: Unit tests verifying that the safe browsing private event router broadcasts extension events with the expected arguments, including ChromeOS setup.
+// ---
+
 #include "chrome/browser/extensions/api/safe_browsing_private/safe_browsing_private_event_router.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading List API error message constants
+// summary: Defines the error message strings returned by the Reading List extension API functions.
+// ---
+
 #include "chrome/browser/extensions/api/reading_list/reading_list_api_constants.h"
 
 namespace extensions::reading_list_api_constants {

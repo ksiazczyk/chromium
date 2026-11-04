@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension API tests for pdfViewerPrivate
+// summary: Runs in-process browser extension API tests for pdfViewerPrivate, covering local file access policy allowlists and text info retrieval including Mojo serialization.
+// ---
+
 #include "base/values.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/browser/policy/policy_test_utils.h"

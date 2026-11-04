@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform keys utilities implementation
+// summary: Implements conversion of API token IDs to platformKeys token IDs and checks extensions against the attestation allowlist.
+// ---
+
 #include "chrome/browser/extensions/api/platform_keys_core/platform_keys_utils.h"
 
 #include <algorithm>

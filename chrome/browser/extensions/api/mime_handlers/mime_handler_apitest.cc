@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME handler API tests
+// summary: Browser test enabling the kApiMimeHandler feature and verifying that mimeHandler.setMimeHandlerOptions writes only the members present in the call.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/test/browser_test.h"

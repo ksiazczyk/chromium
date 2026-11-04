@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the reading_list extension API
+summary: Defines the reading_list source_set with its sources and build dependencies for the Reading List extension API.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing Referrer Chain Conversion Utilities
+// summary: Implements conversion of safe browsing referrer chain protobuf entries into the extension API's ReferrerChainEntry format, mapping URL types and navigation initiation values.
+// ---
+
 #include "chrome/browser/extensions/api/safe_browsing_private/safe_browsing_util.h"
 
 #include <string>

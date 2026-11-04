@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for the messaging directory
+summary: Maps the messaging directory to the Platform>Extensions>API monorail component and a Buganizer component ID for issue routing.

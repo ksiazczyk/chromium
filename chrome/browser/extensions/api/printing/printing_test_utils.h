@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printing test utilities declarations
+// summary: Declares shared printing test infrastructure such as the ChromeOS printing test helper, the extension type enum and helpers to create test printers and extensions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PRINTING_PRINTING_TEST_UTILS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PRINTING_PRINTING_TEST_UTILS_H_
 

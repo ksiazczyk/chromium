@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the extension notification event handler
+// summary: Dispatches onClosed, onClicked, and onButtonClicked events to extensions and updates stored notification state.
+// ---
+
 #include "chrome/browser/extensions/api/notifications/extension_notification_handler.h"
 
 #include "base/check_op.h"

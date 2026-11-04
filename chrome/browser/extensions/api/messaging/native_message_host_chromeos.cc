@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS built-in native messaging hosts
+// summary: Defines the ChromeOS array of built-in native messaging hosts, including the echo test host, it2me remoting, ARC support, DriveFS and guest OS forwarding.
+// ---
+
 #include "extensions/browser/api/messaging/native_message_host.h"
 
 #include <memory>

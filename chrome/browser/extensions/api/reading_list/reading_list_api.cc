@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading List extension API function implementations
+// summary: Implements the readingList addEntry, removeEntry, updateEntry and query extension functions against the reading list model.
+// ---
+
 #include "chrome/browser/extensions/api/reading_list/reading_list_api.h"
 
 #include "base/containers/flat_set.h"

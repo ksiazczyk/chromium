@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile-scoped native messaging manager
+// summary: Profile-scoped manager mapping external app package names to native messaging connections and validating app signing certificates for extensions.
+// ---
+
 package org.chromium.chrome.browser.extensions.api.messaging;
 
 import android.content.pm.PackageManager;

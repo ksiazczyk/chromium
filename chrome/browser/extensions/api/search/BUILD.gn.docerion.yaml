@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the search extension API
+summary: GN build file defining the search source_set with search_api sources and the dependencies needed to build the extensions search API.

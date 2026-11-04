@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the processes extension API
+// summary: Runs extension API browser tests that check listener counting and task manager memory refresh behavior for the processes API.
+// ---
+
 #include "base/process/process_handle.h"
 #include "build/build_config.h"
 #include "chrome/browser/extensions/api/processes/processes_api.h"

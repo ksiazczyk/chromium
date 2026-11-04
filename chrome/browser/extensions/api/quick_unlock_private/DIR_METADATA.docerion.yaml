@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the quick_unlock_private folder
+summary: Maps the folder to the UI>Settings monorail component and a Buganizer component ID for issue routing.

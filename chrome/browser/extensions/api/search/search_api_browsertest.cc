@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for search.query error handling
+// summary: Browser tests verifying error responses of the search.query function for empty text, conflicting disposition and tabId, invalid tab IDs, and a missing active browser.
+// ---
+
 #include "chrome/browser/extensions/api/search/search_api.h"
 
 #include <string_view>

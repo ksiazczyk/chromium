@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for passwords_private utilities
+// summary: Tests URL collection creation from HTML, federated and Android credential forms, plus idempotent credential ID generation.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/passwords_private_utils.h"
 
 #include "components/password_manager/core/browser/password_form.h"

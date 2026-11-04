@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie controls mode preference transformer header
+// summary: Declares CookieControlsModeTransformer, which maps the third-party cookies extension setting to CookieControlsMode enum values.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PREFERENCE_COOKIE_CONTROLS_MODE_TRANSFORMER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PREFERENCE_COOKIE_CONTROLS_MODE_TRANSFORMER_H_
 

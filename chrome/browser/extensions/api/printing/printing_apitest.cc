@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser API tests for the printing extension API
+// summary: Parameterized browser tests that exercise the chrome.printing extension API, including printer queries and job submission, across Chrome app and MV2/MV3 extension types.
+// ---
+
 #include <optional>
 #include <string>
 

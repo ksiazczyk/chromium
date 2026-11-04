@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension API tests for the search.query function
+// summary: Runs extension API tests for search.query covering normal, incognito spanning, and incognito split scenarios, with the normal case disabled on Mac and Windows due to flakes.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/browser/profiles/profile.h"

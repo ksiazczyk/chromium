@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox extension API implementation
+// summary: Implements the omnibox extension API, including default suggestion storage in extension prefs, suggestion delivery, and keyword input session handling.
+// ---
+
 #include "chrome/browser/extensions/api/omnibox/omnibox_api.h"
 
 #include <stddef.h>

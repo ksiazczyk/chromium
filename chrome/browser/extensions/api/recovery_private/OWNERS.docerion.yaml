@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for recovery_private API
+summary: Lists stephenlin@chromium.org as the code owner for the recovery_private extension API directory.

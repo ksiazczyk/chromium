@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native message process host unit tests
+// summary: Unit tests for NativeMessageProcessHost using a fake launcher and temporary files to exercise reading and writing of native messages.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/native_message_process_host.h"
 
 #include <stddef.h>

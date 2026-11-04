@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android extension native messaging
+summary: GN build rules compiling the AIDL interfaces, JNI headers, Java library and Robolectric tests for Android extension native messaging.

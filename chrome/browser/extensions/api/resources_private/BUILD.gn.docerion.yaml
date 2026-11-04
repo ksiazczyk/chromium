@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the resources_private API
+summary: Defines the resources_private GN source_set, listing its sources and dependencies, with PDF-related dependencies added when PDF support is enabled.

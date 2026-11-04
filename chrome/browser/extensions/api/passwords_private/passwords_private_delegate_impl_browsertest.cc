@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordsPrivateDelegateImpl browser tests
+// summary: In-process browser tests exercising PasswordsPrivateDelegateImpl behaviors such as password export, import, leak detection, account storage, and passkey handling in a real profile environment.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/passwords_private_delegate_impl.h"
 
 #include <stddef.h>

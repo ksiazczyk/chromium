@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions preference API implementation
+// summary: Implements the extensions preference API, including the preference event router, permission checks and get and set preference functions.
+// ---
+
 #include "chrome/browser/extensions/api/preference/preference_api.h"
 
 #include <stddef.h>

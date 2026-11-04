@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the metrics_private API directory
+summary: Declares the Monorail and Buganizer components used for issues in the metrics_private extension API directory.

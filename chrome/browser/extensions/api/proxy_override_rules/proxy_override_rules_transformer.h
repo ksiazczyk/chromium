@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy override rules transformer header
+// summary: Declares the ProxyOverrideRulesTransformer class implementing PrefTransformerInterface for the chrome.proxyOverrideRulesPrivate.rules API.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PROXY_OVERRIDE_RULES_PROXY_OVERRIDE_RULES_TRANSFORMER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PROXY_OVERRIDE_RULES_PROXY_OVERRIDE_RULES_TRANSFORMER_H_
 

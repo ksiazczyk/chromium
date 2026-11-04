@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: networkingPrivate UI delegate factory implementation
+// summary: Creates the platform UI delegate for networkingPrivate, returning the ChromeOS delegate or null on other platforms.
+// ---
+
 #include "chrome/browser/extensions/api/networking_private/networking_private_ui_delegate_factory_impl.h"
 
 #include <memory>

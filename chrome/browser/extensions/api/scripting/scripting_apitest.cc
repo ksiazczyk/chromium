@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scripting API browser tests
+// summary: Browser tests for the chrome.scripting extensions API, covering script injection behavior via the ScriptingAPITest fixture.
+// ---
+
 #include <optional>
 
 #include "base/strings/stringprintf.h"

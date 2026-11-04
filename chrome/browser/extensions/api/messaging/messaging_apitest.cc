@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension messaging API tests
+// summary: Browser API tests covering extension messaging behavior, including native messaging hosts, message serialization, and cross-context communication.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

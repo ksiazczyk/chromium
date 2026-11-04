@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the extensions runtime API
+summary: Defines the runtime source set for Chrome's extensions runtime API delegate, listing its sources and build dependencies, including ChromeOS-specific ones.

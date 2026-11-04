@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the preference extension API source set
+summary: GN build file defining the preference source set with its sources and dependencies for the extensions preference API.

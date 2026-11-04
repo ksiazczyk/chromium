@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging host launch context header
+// summary: Declares LaunchContext, the per-launch state for starting a native messaging host process asynchronously on the IO thread with cancellation support.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_MESSAGING_LAUNCH_CONTEXT_H_
 #define CHROME_BROWSER_EXTENSIONS_API_MESSAGING_LAUNCH_CONTEXT_H_
 

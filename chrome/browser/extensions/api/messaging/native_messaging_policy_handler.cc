@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging policy handler implementation
+// summary: Implements NativeMessagingHostListPolicyHandler, which validates native messaging host list policy entries and applies them to preferences.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/native_messaging_policy_handler.h"
 #include "components/prefs/pref_value_map.h"
 

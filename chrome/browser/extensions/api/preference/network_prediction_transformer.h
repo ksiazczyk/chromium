@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network prediction preference transformer header
+// summary: Declares NetworkPredictionTransformer, which maps networkPredictionEnabled to NetworkPredictionOptions enum values.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PREFERENCE_NETWORK_PREDICTION_TRANSFORMER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PREFERENCE_NETWORK_PREDICTION_TRANSFORMER_H_
 

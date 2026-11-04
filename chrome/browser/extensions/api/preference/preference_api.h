@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions preference API header
+// summary: Declares PreferenceAPI, PreferenceEventRouter and the preference extension function classes for the browser preference API.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PREFERENCE_PREFERENCE_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PREFERENCE_PREFERENCE_API_H_
 

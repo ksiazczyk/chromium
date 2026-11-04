@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of VerifyTrustApiImpl certificate verification
+// summary: Implements TLS server certificate verification by building the certificate chain and delegating trust checks to the network context cert verifier.
+// ---
+
 #include "chrome/browser/extensions/api/platform_keys/verify_trust_api_impl.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the omnibox extension API
+summary: Defines the GN source set and browser test targets for the Chrome omnibox extension API along with their build dependencies.

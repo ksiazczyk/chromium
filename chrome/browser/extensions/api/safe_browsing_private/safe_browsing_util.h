@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing Referrer Chain Conversion Utilities Header
+// summary: Declares ReferrerToReferrerChainEntry, which converts a safe browsing referrer into the extension API referrer chain entry format.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_SAFE_BROWSING_PRIVATE_SAFE_BROWSING_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_API_SAFE_BROWSING_PRIVATE_SAFE_BROWSING_UTIL_H_
 

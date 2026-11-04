@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox preference transformer implementation
+// summary: Implements the transformer that maps the extension Privacy Sandbox pref to browser state and blocks extensions from enabling Privacy Sandbox APIs.
+// ---
+
 #include "chrome/browser/extensions/api/preference/privacy_sandbox_transformer.h"
 
 #include "base/values.h"

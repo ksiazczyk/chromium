@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password check delegate implementation
+// summary: Implements the bulk password check portion of the passwordsPrivate extension API, tracking check progress and insecure credential state.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/password_check_delegate.h"
 
 #include <stddef.h>

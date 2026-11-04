@@ -1,0 +1,4 @@
+# Docerion header of IExtensionNativeMessagePort.aidl.
+type: source
+title: Extension native message port AIDL interface
+summary: AIDL interface forwarding extension messages and disconnects from the browser to an external Android app over a native messaging port.

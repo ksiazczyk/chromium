@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio lifetime enforcer browser tests
+// summary: Browser tests verifying that offscreen documents remain active while playing audio and are notified of inactivity once audio stops.
+// ---
+
 #include "extensions/browser/api/offscreen/audio_lifetime_enforcer.h"
 
 #include <optional>

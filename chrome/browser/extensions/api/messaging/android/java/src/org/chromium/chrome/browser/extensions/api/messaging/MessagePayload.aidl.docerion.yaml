@@ -1,0 +1,4 @@
+# Docerion header of MessagePayload.aidl.
+type: source
+title: Message payload AIDL union
+summary: AIDL union representing a native messaging payload as either inline bytes or shared memory, with the variant chosen by message size.

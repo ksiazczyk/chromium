@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME handler cookie browser tests
+// summary: Browser tests verifying SameSite cookie delivery for extension subframes loaded as MIME handlers inside cross-site embedders, mirroring the extension cookies test setup.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

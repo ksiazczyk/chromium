@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial extension API browser test
+// summary: Browser test for the Chrome extensions serial API that simulates serial ports with a fake SerialPort implementation to exercise open, configure, and data transfer flows.
+// ---
+
 #include <map>
 #include <memory>
 #include <string>

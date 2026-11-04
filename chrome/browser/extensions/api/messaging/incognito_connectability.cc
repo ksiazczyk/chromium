@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: incognito_connectability.cc
+// summary: Implements tracking and prompting of whether web origins may connect to extensions in incognito, showing infobars to collect user decisions.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/incognito_connectability.h"
 
 #include <string>

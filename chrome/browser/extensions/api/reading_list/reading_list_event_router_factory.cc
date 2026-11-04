@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for the Reading List event router service
+// summary: Profile-keyed service factory that creates and provides ReadingListEventRouter instances per browser context.
+// ---
+
 #include "chrome/browser/extensions/api/reading_list/reading_list_event_router_factory.h"
 
 #include "chrome/browser/extensions/api/reading_list/reading_list_event_router.h"

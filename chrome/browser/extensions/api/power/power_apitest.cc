@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power API browser tests
+// summary: Browser tests verifying that the extensions Power API correctly acquires, changes, and releases system and display wake locks.
+// ---
+
 #include "base/test/test_future.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/browser/profiles/profile.h"

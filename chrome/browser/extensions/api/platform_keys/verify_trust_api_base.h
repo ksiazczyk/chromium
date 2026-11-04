@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for the verifyTrust server certificate verification API
+// summary: Defines the VerifyTrustApiBase interface and callback contract for verifying TLS server certificates on behalf of extensions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PLATFORM_KEYS_VERIFY_TRUST_API_BASE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PLATFORM_KEYS_VERIFY_TRUST_API_BASE_H_
 

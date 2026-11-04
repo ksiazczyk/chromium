@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sessions extension API function declarations
+// summary: Declares the SessionsGetRecentlyClosedFunction, SessionsGetDevicesFunction, and SessionsRestoreFunction extension function classes and their helpers.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_SESSIONS_SESSIONS_API_H__
 #define CHROME_BROWSER_EXTENSIONS_API_SESSIONS_SESSIONS_API_H__
 

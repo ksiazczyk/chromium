@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: networkingPrivate API delegate interface browser test
+// summary: Browser tests verifying that the networkingPrivate extension API calls its delegate methods as expected, using a stub delegate.
+// ---
+
 #include <stddef.h>
 
 #include <map>

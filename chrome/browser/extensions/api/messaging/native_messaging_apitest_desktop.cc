@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop native messaging API tests
+// summary: Browser tests for desktop native messaging, including user-level host registration and the Windows direct .exe launch codepath.
+// ---
+
 #include "base/base_switches.h"
 #include "base/command_line.h"
 #include "base/feature_list.h"

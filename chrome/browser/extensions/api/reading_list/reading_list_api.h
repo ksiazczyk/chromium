@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading List extension API function declarations
+// summary: Declares the extension function classes for adding, removing, updating and querying reading list entries.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_READING_LIST_READING_LIST_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_READING_LIST_READING_LIST_API_H_
 

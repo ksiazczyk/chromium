@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics private extension API browser tests
+// summary: Browser tests verifying that the metricsPrivate extension API records the expected user actions, UKM entries and histograms.
+// ---
+
 #include <stddef.h>
 
 #include <array>

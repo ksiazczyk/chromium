@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native message echo host header
+// summary: Declares NativeMessageEchoHost, a test NativeMessageHost whose behavior must match the echo.py script used to drive native messaging tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_MESSAGING_NATIVE_MESSAGE_ECHO_HOST_H_
 #define CHROME_BROWSER_EXTENSIONS_API_MESSAGING_NATIVE_MESSAGE_ECHO_HOST_H_
 

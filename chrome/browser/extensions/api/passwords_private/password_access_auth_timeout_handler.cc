@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password access auth timeout handler implementation
+// summary: Implements the timer that fires the timeout callback once the password manager authentication validity period has elapsed.
+// ---
+
 #include "chrome/browser/extensions/api/passwords_private/password_access_auth_timeout_handler.h"
 
 #include <utility>

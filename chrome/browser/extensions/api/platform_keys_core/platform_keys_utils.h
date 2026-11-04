@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform keys utilities header
+// summary: Declares token ID conversion and extension allowlist helpers plus error message constants for the platformKeys API.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PLATFORM_KEYS_CORE_PLATFORM_KEYS_UTILS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PLATFORM_KEYS_CORE_PLATFORM_KEYS_UTILS_H_
 

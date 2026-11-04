@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging launch from native declarations
+// summary: Declares helpers for native-initiated native messaging connections, including extension support checks, host launch functions and test scopes.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_MESSAGING_NATIVE_MESSAGING_LAUNCH_FROM_NATIVE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_MESSAGING_NATIVE_MESSAGING_LAUNCH_FROM_NATIVE_H_
 

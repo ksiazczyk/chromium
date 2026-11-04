@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the safeBrowsingPrivate extension API
+// summary: Implements the safeBrowsingPrivate.getReferrerChain extension function that returns the referrer chain for a given tab.
+// ---
+
 #include "chrome/browser/extensions/api/safe_browsing_private/safe_browsing_private_api.h"
 
 #include <utility>

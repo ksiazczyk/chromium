@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the extension notification display helper
+// summary: Implements displaying, tracking, and closing extension notifications through the profile's notification display service.
+// ---
+
 #include "chrome/browser/extensions/api/notifications/extension_notification_display_helper.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for networking_private
+summary: Defines the networking_private source set with the UI delegate factory sources and its build dependencies.

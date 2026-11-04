@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for passwords_private
+summary: Lists the code owners responsible for reviewing changes to the passwords_private directory.

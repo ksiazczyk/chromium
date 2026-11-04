@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing private event router implementation
+// summary: Broadcasts Safe Browsing events such as password reuse, dangerous download opened and security interstitials to extension listeners.
+// ---
+
 #include "chrome/browser/extensions/api/safe_browsing_private/safe_browsing_private_event_router.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy settings extension API browser tests
+// summary: Browser tests verifying that the extensions proxy settings API correctly sets, validates, and clears proxy preferences, including incognito propagation and management policy checks.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/browser/extensions/extension_service.h"

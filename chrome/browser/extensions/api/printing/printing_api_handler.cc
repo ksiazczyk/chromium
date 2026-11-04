@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing API handler implementation
+// summary: Implements the browser-side handler for chrome.printing API calls, print job tracking, and OnJobStatusChanged event generation.
+// ---
+
 #include "chrome/browser/extensions/api/printing/printing_api_handler.h"
 
 #include <utility>

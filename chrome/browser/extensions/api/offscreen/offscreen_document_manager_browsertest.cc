@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offscreen document manager browser tests
+// summary: Browser tests for OffscreenDocumentManager using a programmable test lifetime enforcer to exercise document termination and inactivity notifications.
+// ---
+
 #include "extensions/browser/api/offscreen/offscreen_document_manager.h"
 
 #include "base/test/bind.h"

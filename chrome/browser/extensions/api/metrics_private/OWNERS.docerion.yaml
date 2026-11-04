@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the metrics_private API directory
+summary: Lists the code owner responsible for reviewing changes to the metrics_private extension API directory.

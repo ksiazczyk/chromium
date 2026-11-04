@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging launch from native implementation
+// summary: Implements launching native messaging hosts from native apps, including an error reporting host and keep-alive handling while a host runs.
+// ---
+
 #include "chrome/browser/extensions/api/messaging/native_messaging_launch_from_native.h"
 
 #include <memory>

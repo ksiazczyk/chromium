@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill settings preference transformer implementation
+// summary: Implements conversion of the autofillSettings extension API list of URL pattern rules into browser autofill preference format and back.
+// ---
+
 #include "chrome/browser/extensions/api/preference/autofill_settings_transformer.h"
 
 #include <utility>

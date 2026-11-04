@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the pageCapture.saveAsMHTML API
+// summary: Browser API tests checking temporary file release and that subframes from other extensions are excluded from MHTML without activeTab permission.
+// ---
+
 #include <atomic>
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protected content enabled transformer header
+// summary: Declares the transformer class that converts the boolean protected content extension pref into the appropriate ContentSetting enum value.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_PREFERENCE_PROTECTED_CONTENT_ENABLED_TRANSFORMER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_PREFERENCE_PROTECTED_CONTENT_ENABLED_TRANSFORMER_H_
 
