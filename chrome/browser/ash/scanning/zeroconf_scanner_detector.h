@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zeroconf scanner detector header
+// summary: Declares ZeroconfScannerDetector, which uses mDNS and DNS-SD to detect nearby networked scanners and allows injecting device listers for testing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SCANNING_ZEROCONF_SCANNER_DETECTOR_H_
 #define CHROME_BROWSER_ASH_SCANNING_ZEROCONF_SCANNER_DETECTOR_H_
 

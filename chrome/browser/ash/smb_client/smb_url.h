@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbUrl class header
+// summary: Declares the SmbUrl class representing canonicalized SMB URLs with host, share, validity checks, and Windows UNC support.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_URL_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_URL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automatic reboot manager implementation
+// summary: Implements scheduling and execution of automatic reboots after OS updates or when uptime limits are reached, honoring inhibition and grace periods.
+// ---
+
 #include "chrome/browser/ash/system/automatic_reboot_manager.h"
 
 #include <fcntl.h>

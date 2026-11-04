@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Procfs util implementation
+// summary: Implements ProcStatFile, which opens /proc/<pid>/stat and reads it to check whether a process is still alive.
+// ---
+
 #include "chrome/browser/ash/system/procfs_util.h"
 
 #include "base/files/file_path.h"

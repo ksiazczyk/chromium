@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HWDataUsageController class header
+// summary: Declares HWDataUsageController, a singleton controlling the hardware data usage device preference while ownership is still pending.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_HARDWARE_DATA_USAGE_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_SETTINGS_HARDWARE_DATA_USAGE_CONTROLLER_H_
 

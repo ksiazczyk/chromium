@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for SMB client fuzzer data
+summary: Restricts dependencies in the SMB client fuzzer data directory by disallowing ChromeOS code from depending on //chrome.

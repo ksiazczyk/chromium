@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB file system provider implementation
+// summary: Implements the file system provider interface for SMB shares, with most operations unsupported or unimplemented.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_file_system.h"
 
 #include <memory>

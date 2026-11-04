@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbShareFinder implementation
+// summary: Implements network share discovery that finds hosts, gathers available shares per host, and resolves hostnames to IP addresses.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_share_finder.h"
 
 #include <vector>

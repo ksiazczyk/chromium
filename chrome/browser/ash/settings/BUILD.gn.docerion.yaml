@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for ash settings
+summary: Defines the static settings library, a test_support target, and a unit_tests source set with their sources and dependencies.

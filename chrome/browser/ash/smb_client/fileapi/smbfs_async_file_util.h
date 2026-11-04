@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbFsAsyncFileUtil class declaration
+// summary: Declares SmbFsAsyncFileUtil, the storage::AsyncFileUtil for SmbFs that forwards operations to a native file util and runs on the IO thread.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_FILEAPI_SMBFS_ASYNC_FILE_UTIL_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_FILEAPI_SMBFS_ASYNC_FILE_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of 6.
+type: test
+title: 'Fuzzer corpus entry 6: UNC path in backslash form'
+summary: Fuzzer seed input with a Windows UNC path written with backslashes.

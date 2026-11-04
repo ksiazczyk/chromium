@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos credentials updater declaration
+// summary: Declares SmbKerberosCredentialsUpdater, which forwards Kerberos account changes from KerberosCredentialsManager to the SMB client.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_KERBEROS_CREDENTIALS_UPDATER_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_KERBEROS_CREDENTIALS_UPDATER_H_
 

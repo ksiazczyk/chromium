@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Set Shape allowlist browser tests
+// summary: Browser tests verifying that window.setShape exposure and the allowlist permission are enforced for allowlisted and non-allowlisted Isolated Web Apps.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

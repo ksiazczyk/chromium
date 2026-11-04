@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncErrorNotifierFactory declaration
+// summary: Declares a singleton factory that owns SyncErrorNotifier instances and associates them with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYNC_SYNC_ERROR_NOTIFIER_FACTORY_H_
 #define CHROME_BROWSER_ASH_SYNC_SYNC_ERROR_NOTIFIER_FACTORY_H_
 

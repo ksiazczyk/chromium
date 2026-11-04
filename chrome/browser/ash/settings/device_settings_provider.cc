@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device settings provider mapping device policy to ChromeOS settings
+// summary: Translates signed device policy into ChromeOS settings values, handling the known settings set, metrics, and change notifications.
+// ---
+
 #include "chrome/browser/ash/settings/device_settings_provider.h"
 
 #include <memory.h>

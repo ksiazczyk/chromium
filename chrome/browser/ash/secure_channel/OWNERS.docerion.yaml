@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to multidevice owners
+summary: Points to the multidevice component OWNERS file so its owners review changes in this directory.

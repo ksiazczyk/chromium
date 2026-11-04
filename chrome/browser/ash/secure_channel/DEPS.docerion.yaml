@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for secure_channel
+summary: Blocks //chrome dependencies for ChromeOS code while allowing this directory and a small set of explicitly listed //chrome includes.

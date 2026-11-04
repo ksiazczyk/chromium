@@ -1,0 +1,4 @@
+# Docerion header of smb_url_fuzzer.dict.
+type: data
+title: SMB URL fuzzer dictionary
+summary: Lists common SMB URL tokens, such as share paths and host strings, used as seed inputs for the SMB URL fuzzer.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the scanning directory
+summary: Restricts Chromium includes for the scanning directory, listing allowed //chrome dependencies and test-specific exceptions.

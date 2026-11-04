@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB error to mount result translation
+// summary: Maps smbprovider error types to SmbMountResult values for reporting mount outcomes.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_errors.h"
 
 #include "base/logging.h"

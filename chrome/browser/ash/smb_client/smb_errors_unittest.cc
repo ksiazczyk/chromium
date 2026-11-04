@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SMB error translation unit tests
+// summary: Verifies that smbprovider errors translate to the expected SmbMountResult values.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_errors.h"
 
 #include "base/files/file.h"

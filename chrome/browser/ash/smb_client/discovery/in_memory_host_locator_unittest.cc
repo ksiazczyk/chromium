@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InMemoryHostLocator unit tests
+// summary: Tests adding, removing, overwriting, and finding hosts in the InMemoryHostLocator.
+// ---
+
 #include "chrome/browser/ash/smb_client/discovery/in_memory_host_locator.h"
 
 #include <map>

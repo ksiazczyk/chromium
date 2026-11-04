@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System clock observer header
+// summary: Declares SystemClockObserver, the interface for objects notified when the system clock type changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_SYSTEM_CLOCK_OBSERVER_H_
 #define CHROME_BROWSER_ASH_SYSTEM_SYSTEM_CLOCK_OBSERVER_H_
 

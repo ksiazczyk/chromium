@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScanServiceFactory unit tests
+// summary: Unit tests verifying that ScanService is created for original and off-the-record profiles but not for the signin profile.
+// ---
+
 #include "chrome/browser/ash/scanning/scan_service_factory.h"
 
 #include <memory>

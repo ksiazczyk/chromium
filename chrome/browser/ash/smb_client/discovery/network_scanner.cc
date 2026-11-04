@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network scanner implementation
+// summary: Implements NetworkScanner, which queries registered host locators, aggregates discovered SMB hosts, and resolves hostnames to addresses.
+// ---
+
 #include "chrome/browser/ash/smb_client/discovery/network_scanner.h"
 
 #include <map>

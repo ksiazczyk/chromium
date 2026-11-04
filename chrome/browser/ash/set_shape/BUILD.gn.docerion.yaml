@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Set Shape browser tests build definition
+summary: GN build file defining the browser_tests source set for the window.setShape API tests and its test support dependencies.

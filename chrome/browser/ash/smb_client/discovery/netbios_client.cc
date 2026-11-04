@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetBIOS client implementation
+// summary: Implements the NetBIOS client that sends NetBIOS Name Query Request packets over UDP to discover SMB file shares.
+// ---
+
 #include "chrome/browser/ash/smb_client/discovery/netbios_client.h"
 
 #include "base/containers/span.h"

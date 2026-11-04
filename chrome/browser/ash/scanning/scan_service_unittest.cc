@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScanService unit tests
+// summary: Unit tests covering scanner listing, scan jobs, file saving, multi-page scans, and metrics using a fake Lorgnette scanner manager.
+// ---
+
 #include "chrome/browser/ash/scanning/scan_service.h"
 
 #include <cstdint>

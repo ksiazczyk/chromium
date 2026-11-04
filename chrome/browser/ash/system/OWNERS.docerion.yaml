@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ash system and tray files
+summary: Maps tray-related files to the ash system OWNERS because system tray code remains here for historical reasons.

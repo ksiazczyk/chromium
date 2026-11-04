@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scan test utility for JPEG image creation
+// summary: Implements CreateJpeg, a test helper that generates a 100x100 JPEG bitmap with a configurable alpha value for use in scanning tests.
+// ---
+
 #include "chrome/browser/ash/scanning/scan_test_util.h"
 
 #include <optional>

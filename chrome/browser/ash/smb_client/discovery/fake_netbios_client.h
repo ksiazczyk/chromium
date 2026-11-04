@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeNetBiosClient header
+// summary: Declares a fake NetBIOS client that simulates name request responses to test the NetBIOS host locator.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_FAKE_NETBIOS_CLIENT_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_FAKE_NETBIOS_CLIENT_H_
 

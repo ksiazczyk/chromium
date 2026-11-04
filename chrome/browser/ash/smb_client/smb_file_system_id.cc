@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB file system ID creation and parsing
+// summary: Implements creation and parsing of SMB file system IDs that combine a random identifier, share path, Kerberos flag and username.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_file_system_id.h"
 
 #include <string.h>

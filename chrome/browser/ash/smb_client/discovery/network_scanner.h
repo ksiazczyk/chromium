@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network scanner header
+// summary: Declares NetworkScanner and RequestInfo for discovering SMB hosts in the local network via registered host locators.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_NETWORK_SCANNER_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_NETWORK_SCANNER_H_
 

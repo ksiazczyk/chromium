@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stats reporting controller unit tests
+// summary: Unit tests covering StatsReportingController behavior for owner and non-owner users, pending settings, owner keys, and observer notifications.
+// ---
+
 #include "chrome/browser/ash/settings/stats_reporting_controller.h"
 
 #include <memory>

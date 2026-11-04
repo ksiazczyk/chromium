@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbUrl parsing and validation
+// summary: Implements the SmbUrl class, which parses, validates, and canonicalizes SMB share URLs, rejects unneeded components, and derives the equivalent Windows UNC path.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_url.h"
 
 #include <string_view>

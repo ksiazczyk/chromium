@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncAppsyncOptinClient implementation
+// summary: Implements the client that writes the per-profile AppsSync opt-in state to a daemon-store file whenever sync settings change.
+// ---
+
 #include "chrome/browser/ash/sync/sync_appsync_optin_client.h"
 
 #include "base/files/file.h"

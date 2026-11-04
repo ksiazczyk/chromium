@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncErrorNotifierFactory implementation
+// summary: Implements the profile-keyed factory that builds SyncErrorNotifier instances bound to each profile's sync service.
+// ---
+
 #include "chrome/browser/ash/sync/sync_error_notifier_factory.h"
 
 #include "chrome/browser/ash/sync/sync_error_notifier.h"

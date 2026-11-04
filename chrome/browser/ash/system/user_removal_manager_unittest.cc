@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User removal manager unit tests
+// summary: Unit tests covering the InitiateUserRemoval and RemoveUsersIfNeeded flow, crash-retry prevention, and the 60-second failsafe logout timer.
+// ---
+
 #include "chrome/browser/ash/system/user_removal_manager.h"
 
 #include <memory>

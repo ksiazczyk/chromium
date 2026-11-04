@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncErrorNotifier unit tests
+// summary: Tests when sync error notifications are shown, covering passphrase errors, dashboard-disabled sync, and showing a notification only once.
+// ---
+
 #include "chrome/browser/ash/sync/sync_error_notifier.h"
 
 #include <memory>

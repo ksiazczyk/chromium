@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby endpoint finder implementation
+// summary: Implements finding nearby endpoints over Bluetooth via the Nearby Connections Mojo interface, including endpoint ID generation and the discovery lifecycle.
+// ---
+
 #include "chrome/browser/ash/secure_channel/nearby_endpoint_finder_impl.h"
 
 #include <memory>

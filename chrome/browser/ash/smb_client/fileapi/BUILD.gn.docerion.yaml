@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the smb_client fileapi static library
+summary: Defines the fileapi static library for the SMB client, listing the SmbFs file util and backend delegate sources together with their build dependencies.

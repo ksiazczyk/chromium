@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone implementation of input device settings
+// summary: Implements InputDeviceSettings on top of the Ozone InputController, applying touchpad, mouse, and pointing stick settings.
+// ---
+
 #include "chrome/browser/ash/system/input_device_settings.h"
 
 #include "base/functional/bind.h"

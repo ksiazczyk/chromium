@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System clock implementation
+// summary: Implements SystemClock, which tracks the 12/24-hour clock type from device and user preferences and notifies observers of changes.
+// ---
+
 #include "chrome/browser/ash/system/system_clock.h"
 
 #include <memory>

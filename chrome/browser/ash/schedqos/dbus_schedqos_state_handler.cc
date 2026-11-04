@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBusSchedQOSStateHandler implementation
+// summary: Implements the handler that forwards process priority and thread type changes to the resourced D-Bus service, including caching and retry logic.
+// ---
+
 #include "chrome/browser/ash/schedqos/dbus_schedqos_state_handler.h"
 
 #include <utility>

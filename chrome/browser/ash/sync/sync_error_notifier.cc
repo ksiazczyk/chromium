@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync error notifier implementation
+// summary: Implements the Ash sync error notifier, showing notifications for sync errors such as passphrase issues and sync disabled via dashboard.
+// ---
+
 #include "chrome/browser/ash/sync/sync_error_notifier.h"
 
 #include "ash/constants/chrome_webui_url_constants.h"

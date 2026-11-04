@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the ash settings directory
+summary: Points to the shared ChromeOS settings metadata that carries ownership and review information for the directory.

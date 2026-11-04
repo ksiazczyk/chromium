@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake input device settings class declaration
+// summary: Declares FakeInputDeviceSettings, an in-memory InputDeviceSettings implementation recording current touchpad, mouse, and pointing stick settings for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_FAKE_INPUT_DEVICE_SETTINGS_H_
 #define CHROME_BROWSER_ASH_SYSTEM_FAKE_INPUT_DEVICE_SETTINGS_H_
 

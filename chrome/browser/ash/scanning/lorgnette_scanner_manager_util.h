@@ -4,6 +4,12 @@
 
 // Utility functions for the LorgnetteScannerManager.
 
+// ---docerion
+// type: source
+// title: Lorgnette scanner manager utilities header
+// summary: Declares utility functions for parsing scanner names, merging duplicate scanner records, and determining the protocol type of a scanner.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SCANNING_LORGNETTE_SCANNER_MANAGER_UTIL_H_
 #define CHROME_BROWSER_ASH_SCANNING_LORGNETTE_SCANNER_MANAGER_UTIL_H_
 

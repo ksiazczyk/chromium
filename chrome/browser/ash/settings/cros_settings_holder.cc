@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosSettings holder wiring settings providers
+// summary: Constructs a CrosSettings instance and registers the supervised user, device, and system settings providers with a shared notify callback.
+// ---
+
 #include "chrome/browser/ash/settings/cros_settings_holder.h"
 
 #include <memory>

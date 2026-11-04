@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings implementation
+// summary: Implements the TouchpadSettings, MouseSettings, and PointingStickSettings value classes and the InputDeviceSettings accessor for ChromeOS.
+// ---
+
 #include "chrome/browser/ash/system/input_device_settings.h"
 
 #include "chrome/browser/ash/policy/enrollment/enrollment_requisition_manager.h"

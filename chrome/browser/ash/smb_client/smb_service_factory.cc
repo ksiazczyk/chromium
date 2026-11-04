@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB service factory implementation
+// summary: Implements SmbServiceFactory, which builds the per-profile SmbService when allowed by policy, the profile has a user, and session startup completes.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_service_factory.h"
 
 #include <memory>

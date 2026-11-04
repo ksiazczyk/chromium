@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos credentials updater implementation
+// summary: Implements the observer that tracks the active Kerberos account and notifies SmbService when the account or enabled state changes.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_kerberos_credentials_updater.h"
 
 #include "base/check.h"

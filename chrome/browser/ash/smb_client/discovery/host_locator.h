@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostLocator interface
+// summary: Defines the HostLocator interface abstracting SMB host discovery methods such as mDNS and NetBIOS, along with the FindHostsCallback type.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_HOST_LOCATOR_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_HOST_LOCATOR_H_
 

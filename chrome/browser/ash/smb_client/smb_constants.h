@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB client constants header
+// summary: Declares SMB scheme constants and the NetBIOS discovery timeout used by the SMB client.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_CONSTANTS_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MDnsHostLocator implementation
+// summary: Implements SMB host discovery over mDNS using PTR, SRV, and A transactions run on the IO thread.
+// ---
+
 #include "chrome/browser/ash/smb_client/discovery/mdns_host_locator.h"
 
 #include <utility>

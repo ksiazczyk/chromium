@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NearbyEndpointFinderImpl unit tests
+// summary: Unit tests for NearbyEndpointFinderImpl covering discovery start, Bluetooth endpoint injection, endpoint found, and failure paths using mock Nearby Connections.
+// ---
+
 #include "chrome/browser/ash/secure_channel/nearby_endpoint_finder_impl.h"
 
 #include <memory>

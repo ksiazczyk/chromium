@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB provider class declaration
+// summary: Declares SmbProvider, the file system provider interface implementation that exposes SMB shares to ChromeOS with multiple mounts and network source.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_PROVIDER_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_PROVIDER_H_
 

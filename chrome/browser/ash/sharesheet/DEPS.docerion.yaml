@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Sharesheet DEPS include rules
+summary: 'Restricts and allows #include dependencies for the directory, permitting only specific //chrome dependencies and test-only includes.'

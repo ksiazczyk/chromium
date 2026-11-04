@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceSettingsProvider class header
+// summary: Declares DeviceSettingsProvider, a CrosSettingsProvider that decodes signed device policy protobufs into pref values for ChromeOS device settings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_DEVICE_SETTINGS_PROVIDER_H_
 #define CHROME_BROWSER_ASH_SETTINGS_DEVICE_SETTINGS_PROVIDER_H_
 

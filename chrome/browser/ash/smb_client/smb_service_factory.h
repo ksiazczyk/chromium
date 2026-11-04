@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB service factory declaration
+// summary: Declares SmbServiceFactory, a profile keyed service factory giving access to the SmbService instance and observing session manager startup.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zeroconf scanner detector utilities
+// summary: Implements helpers that map Zeroconf service types to schemes and scan protocols and build SANE device names for detected network scanners.
+// ---
+
 #include "chrome/browser/ash/scanning/zeroconf_scanner_detector_utils.h"
 
 #include <string>

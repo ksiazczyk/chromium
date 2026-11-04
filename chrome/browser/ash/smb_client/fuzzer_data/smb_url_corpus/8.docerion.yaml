@@ -1,0 +1,4 @@
+# Docerion header of 8.
+type: test
+title: 'Fuzzer corpus entry 8: IP address with share path'
+summary: Fuzzer seed input combining an IPv4 address with a share path.

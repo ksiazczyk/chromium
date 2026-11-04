@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the ash system directory
+summary: Defines the ash system static library sources and dependencies plus the browser_tests source set for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OwnerPendingSettingController
+// summary: Header for a controller that writes a device setting before ownership is taken, queueing a pending write until the owner settings service is ready.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_OWNER_PENDING_SETTING_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_SETTINGS_OWNER_PENDING_SETTING_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedCrosSettingsTestHelper
+// summary: Declares a test helper that stubs CrosSettings providers, creates fake owner settings services, and copies or stores cached device settings during tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_SCOPED_CROS_SETTINGS_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_SETTINGS_SCOPED_CROS_SETTINGS_TEST_HELPER_H_
 

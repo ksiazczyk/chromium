@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stats reporting controller header
+// summary: Declares the StatsReportingController singleton that controls the cros.metrics.reportingEnabled device preference before ownership is taken.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_STATS_REPORTING_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_SETTINGS_STATS_REPORTING_CONTROLLER_H_
 

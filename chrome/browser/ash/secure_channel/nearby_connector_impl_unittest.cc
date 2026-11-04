@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NearbyConnectorImpl unit tests
+// summary: Unit tests for NearbyConnectorImpl using fake endpoint finder and connection broker factories to verify connection queuing, attempts and shutdown behavior.
+// ---
+
 #include "chrome/browser/ash/secure_channel/nearby_connector_impl.h"
 
 #include <memory>

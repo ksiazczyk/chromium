@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbFsShare class header
+// summary: Declares the SmbFsShare class that manages smbfs mounts, mount observers and mount options.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMBFS_SHARE_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMBFS_SHARE_H_
 

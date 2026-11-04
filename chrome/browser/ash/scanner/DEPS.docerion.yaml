@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Scanner directory include rules
+summary: Sets include rules that block general Chrome dependencies while allowing profile, feedback dialog, and factory-specific includes for the scanner directory.

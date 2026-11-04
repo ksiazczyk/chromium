@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedCrosSettingsTestHelper implementation
+// summary: Implements a test helper that swaps the device settings provider for a stub, creates fake owner settings services, and sets trusted status and values for tests.
+// ---
+
 #include "chrome/browser/ash/settings/scoped_cros_settings_test_helper.h"
 
 #include <memory>

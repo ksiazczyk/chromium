@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyEndpointFinderImpl class declaration
+// summary: Declares NearbyEndpointFinderImpl, which finds nearby endpoints using a Mojo connection to the Nearby utility process through Bluetooth discovery and endpoint injection.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SECURE_CHANNEL_NEARBY_ENDPOINT_FINDER_IMPL_H_
 #define CHROME_BROWSER_ASH_SECURE_CHANNEL_NEARBY_ENDPOINT_FINDER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbFsShare implementation
+// summary: Implements mounting, unmounting, remounting and smbfs IPC handling for a single SMB share.
+// ---
+
 #include "chrome/browser/ash/smb_client/smbfs_share.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lorgnette scanner manager implementation
+// summary: Implements the Chrome OS scanner manager that detects scanners via the lorgnette D-Bus service and zeroconf, prioritizes scan protocols, and drives scanning operations.
+// ---
+
 #include "chrome/browser/ash/scanning/lorgnette_scanner_manager.h"
 
 #include <array>

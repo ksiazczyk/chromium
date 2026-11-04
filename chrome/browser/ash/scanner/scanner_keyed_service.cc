@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner keyed service implementation
+// summary: Implements the per-profile Scanner service with feature access checks, Manta scanner requests, Drive API access, and a network traffic annotation.
+// ---
+
 #include "chrome/browser/ash/scanner/scanner_keyed_service.h"
 
 #include <memory>

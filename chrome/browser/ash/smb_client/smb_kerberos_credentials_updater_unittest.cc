@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kerberos credentials updater unit tests
+// summary: Unit tests for SmbKerberosCredentialsUpdater covering account changes and Kerberos enable or disable notifications.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_kerberos_credentials_updater.h"
 
 #include <memory>

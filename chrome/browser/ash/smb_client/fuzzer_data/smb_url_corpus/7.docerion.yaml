@@ -1,0 +1,4 @@
+# Docerion header of 7.
+type: test
+title: 'Fuzzer corpus entry 7: SMB URL with mixed slashes'
+summary: Fuzzer seed input mixing forward and backslashes inside an SMB URL.

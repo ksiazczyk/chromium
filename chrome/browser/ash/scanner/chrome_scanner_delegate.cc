@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome scanner delegate implementation
+// summary: Implements ChromeScannerDelegate, which exposes the profile-scoped scanner service and opens the scanner feedback dialog for Chrome.
+// ---
+
 #include "chrome/browser/ash/scanner/chrome_scanner_delegate.h"
 
 #include <utility>

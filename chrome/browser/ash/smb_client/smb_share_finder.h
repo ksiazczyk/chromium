@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbShareFinder class header
+// summary: Declares SmbShareFinder, which scans the network for hosts, gathers their shares, and resolves SMB URLs to IP addresses.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_SHARE_FINDER_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_SHARE_FINDER_H_
 

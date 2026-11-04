@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SMB service helper unit tests
+// summary: Unit tests covering success and failure cases for parsing user principal names, down-level logon names and plain user names.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_service_helper.h"
 
 #include <string>

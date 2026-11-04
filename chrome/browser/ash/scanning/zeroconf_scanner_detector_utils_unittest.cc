@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zeroconf scanner detector utils unit tests
+// summary: Parameterized unit tests verifying CreateSaneScanner creates scanners correctly for supported service types and handles rs values containing slashes.
+// ---
+
 #include "chrome/browser/ash/scanning/zeroconf_scanner_detector_utils.h"
 
 #include <string>

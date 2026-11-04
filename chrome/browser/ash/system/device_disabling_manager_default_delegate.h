@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device disabling manager default delegate class declaration
+// summary: Declares the default DeviceDisablingManager::Delegate implementation used to restart to the login screen and show the device disabled screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_DEVICE_DISABLING_MANAGER_DEFAULT_DELEGATE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_DEVICE_DISABLING_MANAGER_DEFAULT_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy to clipboard share action implementation
+// summary: Implements the sharesheet action that copies shared text, URLs, and files to the clipboard, records MIME type metrics, and shows a confirmation toast.
+// ---
+
 #include "chrome/browser/ash/sharesheet/copy_to_clipboard_share_action.h"
 
 #include <string>

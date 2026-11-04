@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupervisedUserCrosSettingsProvider implementation
+// summary: Implements a Cros settings provider that serves fixed account-setting restrictions when the device owner is a child user.
+// ---
+
 #include "chrome/browser/ash/settings/supervised_user_cros_settings_provider.h"
 
 #include <string_view>

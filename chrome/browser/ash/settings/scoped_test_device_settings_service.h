@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedTestDeviceSettingsService
+// summary: Declares a scoped test helper that initializes the DeviceSettingsService singleton for a test and tears it down when it goes out of scope.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_SCOPED_TEST_DEVICE_SETTINGS_SERVICE_H_
 #define CHROME_BROWSER_ASH_SETTINGS_SCOPED_TEST_DEVICE_SETTINGS_SERVICE_H_
 

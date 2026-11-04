@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB user name parsing helpers
+// summary: Implements helpers that parse user principal names, down-level logon names and plain user names into user name and workgroup components.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_service_helper.h"
 
 #include "base/strings/string_split.h"

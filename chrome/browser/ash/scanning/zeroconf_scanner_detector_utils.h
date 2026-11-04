@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zeroconf scanner detector utils header
+// summary: Declares CreateSaneScanner, which builds a Scanner with backend-specific device names from Zeroconf service details for Sane-airscan and Epsonds scanners.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SCANNING_ZEROCONF_SCANNER_DETECTOR_UTILS_H_
 #define CHROME_BROWSER_ASH_SCANNING_ZEROCONF_SCANNER_DETECTOR_UTILS_H_
 

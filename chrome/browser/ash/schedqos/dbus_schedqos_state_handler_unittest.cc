@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DBusSchedQOSStateHandler unit tests
+// summary: Tests process priority initialization, priority changes, and recovery when the resourced service is unavailable, using a fake resourced client.
+// ---
+
 #include "chrome/browser/ash/schedqos/dbus_schedqos_state_handler.h"
 
 #include <memory>

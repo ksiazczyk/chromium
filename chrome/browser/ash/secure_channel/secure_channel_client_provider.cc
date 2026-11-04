@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure channel client provider implementation
+// summary: Implements the singleton provider that lazily creates and returns the SecureChannelClient instance associated with the browser process.
+// ---
+
 #include "chrome/browser/ash/secure_channel/secure_channel_client_provider.h"
 
 #include "base/no_destructor.h"

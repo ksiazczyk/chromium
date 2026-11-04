@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureChannelClientProvider singleton declaration
+// summary: Declares a singleton that owns the single SecureChannelClient instance associated with the browser process.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SECURE_CHANNEL_SECURE_CHANNEL_CLIENT_PROVIDER_H_
 #define CHROME_BROWSER_ASH_SECURE_CHANNEL_SECURE_CHANNEL_CLIENT_PROVIDER_H_
 

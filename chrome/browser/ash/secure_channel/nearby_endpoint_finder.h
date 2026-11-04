@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyEndpointFinder class declaration
+// summary: Declares the abstract NearbyEndpointFinder that discovers a remote device endpoint via the Nearby Connections library using the Secure Channel service ID.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SECURE_CHANNEL_NEARBY_ENDPOINT_FINDER_H_
 #define CHROME_BROWSER_ASH_SECURE_CHANNEL_NEARBY_ENDPOINT_FINDER_H_
 

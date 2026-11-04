@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbFsFileSystemBackendDelegate implementation
+// summary: Implements the SmbFs file system backend delegate, supplying the SmbFs async file util and rejecting unsupported stream and watcher operations.
+// ---
+
 #include "chrome/browser/ash/smb_client/fileapi/smbfs_file_system_backend_delegate.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner keyed service interface
+// summary: Declares ScannerKeyedService, a profile-scoped delegate that checks feature access, fetches scanner actions for images, and exposes Drive and request sender services.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SCANNER_SCANNER_KEYED_SERVICE_H_
 #define CHROME_BROWSER_ASH_SCANNER_SCANNER_KEYED_SERVICE_H_
 

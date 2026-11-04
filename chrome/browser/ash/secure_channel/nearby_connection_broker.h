@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby connection broker base class
+// summary: Defines the base class that exchanges messages and file payloads with a remote device over a Nearby connection.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SECURE_CHANNEL_NEARBY_CONNECTION_BROKER_H_
 #define CHROME_BROWSER_ASH_SECURE_CHANNEL_NEARBY_CONNECTION_BROKER_H_
 

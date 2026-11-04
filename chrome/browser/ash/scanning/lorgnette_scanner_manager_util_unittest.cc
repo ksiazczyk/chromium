@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lorgnette scanner manager utilities unit tests
+// summary: Unit tests for scanner name parsing, duplicate record merging, and protocol type mapping in the LorgnetteScannerManager utility functions.
+// ---
+
 #include "chrome/browser/ash/scanning/lorgnette_scanner_manager_util.h"
 
 #include <string>

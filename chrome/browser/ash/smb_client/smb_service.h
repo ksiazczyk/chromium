@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB service class declaration
+// summary: Declares SmbService, a keyed service that creates and manages SMB file systems, handles mounting, share discovery and network change observation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_SERVICE_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_SERVICE_H_
 

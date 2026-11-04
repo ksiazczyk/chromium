@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Shimless RMA delegate unit tests
+// summary: Unit tests for ChromeShimlessRmaDelegate covering QR code generation, system extension provider checks, and diagnostics app browser context preparation.
+// ---
+
 #include "chrome/browser/ash/shimless_rma/chrome_shimless_rma_delegate.h"
 
 #include <utility>

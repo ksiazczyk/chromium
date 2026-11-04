@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SmbUrl unit tests
+// summary: Unit tests verifying SmbUrl validity, host and share extraction, and Windows UNC conversion.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_url.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the scanning folder
+summary: Maps the scanning directory to the ChromeOS Peripherals Scanning Buganizer component 1131927.

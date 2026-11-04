@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner keyed service factory implementation
+// summary: Implements the singleton ProfileKeyedServiceFactory that builds ScannerKeyedService instances from identity, Manta, and URL loader dependencies.
+// ---
+
 #include "chrome/browser/ash/scanner/scanner_keyed_service_factory.h"
 
 #include <memory>

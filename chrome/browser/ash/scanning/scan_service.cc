@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scan service implementation
+// summary: Implements the browser-side ScanService that runs scan jobs via Lorgnette, saves scanned images or PDFs, reports progress and metrics, and handles scan timeouts.
+// ---
+
 #include "chrome/browser/ash/scanning/scan_service.h"
 
 #include <cstdint>

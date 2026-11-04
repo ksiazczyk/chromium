@@ -1,0 +1,4 @@
+# Docerion header of 10.
+type: test
+title: 'Fuzzer corpus entry 10: SMB URL with user, port and query'
+summary: Fuzzer seed input containing an SMB URL with userinfo, port 443 and an empty query string.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SmbService unit tests
+// summary: Unit tests for SmbService covering invalid URL and SSO URL rejection, share mounting, and mount result handling using the shared test base.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_service.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeNetBiosClient implementation
+// summary: Implements a fake NetBIOS client that replays canned name request responses from a map for testing host locators.
+// ---
+
 #include "chrome/browser/ash/smb_client/discovery/fake_netbios_client.h"
 
 #include "net/base/ip_endpoint.h"

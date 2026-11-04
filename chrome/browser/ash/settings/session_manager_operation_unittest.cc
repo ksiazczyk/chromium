@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionManagerOperation unit tests
+// summary: Unit tests for session manager operations, using fake session manager clients and mock owner keys to check key loading and policy validation.
+// ---
+
 #include "chrome/browser/ash/settings/session_manager_operation.h"
 
 #include <stdint.h>

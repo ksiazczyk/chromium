@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shutdown policy handler header
+// summary: Declares ShutdownPolicyHandler and its Delegate interface for observing and communicating changes to the DeviceRebootOnShutdown device policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_SHUTDOWN_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_SETTINGS_SHUTDOWN_POLICY_HANDLER_H_
 

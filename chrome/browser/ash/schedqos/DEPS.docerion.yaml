@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the schedqos directory
+summary: Blocks ChromeOS dependencies on //chrome while allowing this directory, which lives in //chrome, to include its own files.

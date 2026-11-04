@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-page scan integration test
+// summary: Integration tests that perform multi-page scans through the ChromeOS Scanning app using a fake Lorgnette scanner manager and verify the multi-page scan UI flow.
+// ---
+
 #include <memory>
 
 #include "base/check.h"

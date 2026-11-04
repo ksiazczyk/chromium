@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncAppsyncService implementation
+// summary: Implements SyncAppsyncService, a keyed service that owns the AppsSync opt-in client for each profile.
+// ---
+
 #include "chrome/browser/ash/sync/sync_appsync_service.h"
 
 #include "chrome/browser/ash/sync/sync_appsync_optin_client.h"

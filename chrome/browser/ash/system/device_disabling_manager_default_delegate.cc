@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device disabling manager default delegate implementation
+// summary: Implements the default DeviceDisablingManager delegate that signs out to the login screen and shows the device disabled screen.
+// ---
+
 #include "chrome/browser/ash/system/device_disabling_manager_default_delegate.h"
 
 #include "chrome/browser/ui/ash/login/login_display_host.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbFsAsyncFileUtil implementation
+// summary: Implements the SmbFs async file util, intercepting ReadDirectory to allow credential prompts and routing recursive deletion through the SmbFs share.
+// ---
+
 #include "chrome/browser/ash/smb_client/fileapi/smbfs_async_file_util.h"
 
 #include <utility>

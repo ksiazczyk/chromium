@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome scanner delegate interface
+// summary: Declares ChromeScannerDelegate, the Chrome-side bridge giving the ash scanner access to profile-scoped delegates and the feedback dialog.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SCANNER_CHROME_SCANNER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_SCANNER_CHROME_SCANNER_DELEGATE_H_
 

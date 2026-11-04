@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics app profile helper header
+// summary: Declares DiagnosticsAppProfileHelperDelegate and the PrepareDiagnosticsAppProfile function that set up the browser context for the diagnostics app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SHIMLESS_RMA_DIAGNOSTICS_APP_PROFILE_HELPER_H_
 #define CHROME_BROWSER_ASH_SHIMLESS_RMA_DIAGNOSTICS_APP_PROFILE_HELPER_H_
 

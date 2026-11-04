@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automatic reboot manager observer interface
+// summary: Defines the observer interface with a reboot reason enum and callbacks for reboot requests and manager destruction.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_AUTOMATIC_REBOOT_MANAGER_OBSERVER_H_
 #define CHROME_BROWSER_ASH_SYSTEM_AUTOMATIC_REBOOT_MANAGER_OBSERVER_H_
 

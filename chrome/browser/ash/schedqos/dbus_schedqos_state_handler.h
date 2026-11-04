@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBusSchedQOSStateHandler class declaration
+// summary: Declares a ChromeOS-only delegate that sends SetProcessState and SetThreadState D-Bus requests to resourced instead of changing OS scheduler settings directly.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SCHEDQOS_DBUS_SCHEDQOS_STATE_HANDLER_H_
 #define CHROME_BROWSER_ASH_SCHEDQOS_DBUS_SCHEDQOS_STATE_HANDLER_H_
 

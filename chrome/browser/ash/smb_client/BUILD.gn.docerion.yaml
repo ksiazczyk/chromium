@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: SMB client GN build targets
+summary: Defines static libraries, test support, and unit test targets for the ChromeOS SMB client and its dependencies.

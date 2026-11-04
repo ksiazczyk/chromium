@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device disabling manager implementation
+// summary: Implements monitoring of device disabled cros settings and triggers session termination or the device disabled screen when a device is disabled.
+// ---
+
 #include "chrome/browser/ash/system/device_disabling_manager.h"
 
 #include "ash/constants/ash_policy_pref_names.h"

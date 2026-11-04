@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scanning file path helper unit tests
+// summary: Unit tests verifying base name display, My Files path retrieval and supported path validation for Google Drive, My Files and removable media.
+// ---
+
 #include "chrome/browser/ash/scanning/scanning_file_path_helper.h"
 
 #include "base/files/file_path.h"

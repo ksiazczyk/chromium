@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timezone utilities for ChromeOS ash system
+// summary: Declares helper functions for listing, naming, and applying system timezones, including policy checks and profile-based timezone updates in ChromeOS ash.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_TIMEZONE_UTIL_H_
 #define CHROME_BROWSER_ASH_SYSTEM_TIMEZONE_UTIL_H_
 

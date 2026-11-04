@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive share action implementation
+// summary: Implements the sharesheet action that opens the intent's Drive share URL in a new foreground tab and closes the sharesheet bubble.
+// ---
+
 #include "chrome/browser/ash/sharesheet/drive_share_action.h"
 
 #include <memory>

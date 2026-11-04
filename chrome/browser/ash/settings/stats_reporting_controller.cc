@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stats reporting controller implementation
+// summary: Implements the StatsReportingController singleton that manages the cros.metrics.reportingEnabled device setting, including pending state before ownership is taken.
+// ---
+
 #include "chrome/browser/ash/settings/stats_reporting_controller.h"
 
 #include "base/functional/bind.h"

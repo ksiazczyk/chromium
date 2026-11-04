@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shutdown policy forwarder implementation
+// summary: Forwards the DeviceRebootOnShutdown device policy to the ash ShutdownController so that shutdown acts as a reboot when the policy requires it.
+// ---
+
 #include "chrome/browser/ash/settings/shutdown_policy_forwarder.h"
 
 #include "ash/public/cpp/shutdown_controller.h"

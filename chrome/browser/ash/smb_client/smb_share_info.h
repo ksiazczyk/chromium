@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbShareInfo class header
+// summary: Declares SmbShareInfo, a value object for common SMB share parameters that deliberately excludes the sensitive password.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_SHARE_INFO_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_SHARE_INFO_H_
 

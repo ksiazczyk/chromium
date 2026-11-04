@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ash sync directory
+summary: Declares allowed include dependencies for the ash sync directory, restricting //chrome imports and permitting specific factory and UI headers.

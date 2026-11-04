@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Procfs util header
+// summary: Declares ProcStatFile, a file object for /proc/<pid>/stat that reports validity and whether the process is alive.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_PROCFS_UTIL_H_
 #define CHROME_BROWSER_ASH_SYSTEM_PROCFS_UTIL_H_
 

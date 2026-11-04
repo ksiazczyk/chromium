@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network scanner unit tests
+// summary: Unit tests for NetworkScanner using in-memory host locators to verify host discovery, aggregation, and hostname resolution.
+// ---
+
 #include "chrome/browser/ash/smb_client/discovery/network_scanner.h"
 
 #include <map>

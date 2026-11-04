@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the CrosSettings holder
+// summary: Declares CrosSettingsHolder, which owns the CrosSettings instance used by the ash browser.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_CROS_SETTINGS_HOLDER_H_
 #define CHROME_BROWSER_ASH_SETTINGS_CROS_SETTINGS_HOLDER_H_
 

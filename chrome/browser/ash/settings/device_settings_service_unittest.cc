@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceSettingsService unit tests
+// summary: Unit tests for DeviceSettingsService covering load and store operations, ownership status changes, and status histogram metrics.
+// ---
+
 #include "chrome/browser/ash/settings/device_settings_service.h"
 
 #include <stdint.h>

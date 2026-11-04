@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner detector interface
+// summary: Defines the ScannerDetector interface for incremental discovery of scanners, with a callback for notifications and access to the detected scanner list.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SCANNING_SCANNER_DETECTOR_H_
 #define CHROME_BROWSER_ASH_SCANNING_SCANNER_DETECTOR_H_
 
