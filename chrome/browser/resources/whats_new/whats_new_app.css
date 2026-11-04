@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: What's New app styles
+summary: Styles the full-size content iframe and the staging indicator overlay of the What's New app.
+*/
+
 #content {
   border: none;
   height: 100%;

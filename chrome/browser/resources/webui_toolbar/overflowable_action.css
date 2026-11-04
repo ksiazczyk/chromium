@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Overflowable action styles
+summary: Shared CSS rule that hides toolbar elements once they have overflowed, kept distinct from the regular hidden state.
+*/
+
 /* Used to hide elements that have overflowed. Distinct from hidden to prevent
  * interactions with other reasons to hide elements, which typically disallow
  * adding elements to the overflow menu.

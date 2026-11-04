@@ -1,0 +1,4 @@
+# Docerion header of whats_new.html.
+type: source
+title: What's New page host document
+summary: HTML shell that sets page styles and mounts the whats-new-app element for the What's New WebUI.

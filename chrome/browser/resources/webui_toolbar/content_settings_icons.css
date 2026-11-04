@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Content settings icons container styles
+summary: Flex layout styles for the row of content setting icons, matching LocationBarView intra-item padding.
+*/
+
 :host {
   display: flex;
   align-items: center;

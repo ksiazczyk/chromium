@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel components demo template
+// summary: Lit HTML template rendering the demo controls, scrollable cards, empty state, badges, icon buttons and separator sections.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SpComponentsDemoElement} from './sp_components_demo.js';

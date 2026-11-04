@@ -9,6 +9,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the webui browser app element
+summary: Lit styles defining the app shell layout, title bar, caption buttons, searchbox and fullscreen behavior.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

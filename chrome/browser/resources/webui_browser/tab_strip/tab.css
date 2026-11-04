@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tab element styles
+summary: Lit CSS for the tab element, styling active, inactive, and hover states, the favicon, title, close button, and rounded bottom corners.
+*/
+
 :host {
     --favicon-size: 16px;
 

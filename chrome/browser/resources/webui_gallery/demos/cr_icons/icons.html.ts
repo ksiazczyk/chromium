@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom desserts iconset for the demo
+// summary: Appends a custom desserts cr-iconset containing a cake icon to the document head, choosing a rounded or standard variant based on the page attribute.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_iconset.js';
 
 import {getTrustedHTML} from '//resources/js/static_types.js';

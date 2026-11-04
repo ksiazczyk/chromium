@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar button HTML template
+// summary: Lit HTML template rendering the avatar toolbar chip button with icon, label, accessibility attributes and click, hover and focus event bindings.
+// ---
+
 import '//resources/cr_elements/icons.html.js';
 
 import {html} from '//resources/lit/v3_0/lit.rollup.js';

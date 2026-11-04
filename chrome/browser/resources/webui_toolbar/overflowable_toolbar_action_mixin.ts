@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflowable toolbar action mixin
+// summary: Mixin for actions inside an overflowable toolbar container, defining divider status, overflow prevention, and overflow menu item generation.
+// ---
+
 import {assertNotReached} from '//resources/js/assert.js';
 import type {CrLitElement, PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 import type {OverflowMenuItem} from '/shared/toolbar_ui_api.mojom-webui.js';

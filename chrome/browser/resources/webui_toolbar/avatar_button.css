@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Avatar button styles
+summary: Lit CSS for the toolbar avatar button, covering chip padding, animated label visibility, highlight states for sync error, guest and incognito, and gradient ring sizing.
+*/
+
 :host {
   display: flex;
   align-self: center;

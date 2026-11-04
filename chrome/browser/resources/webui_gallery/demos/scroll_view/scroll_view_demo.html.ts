@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll view demo HTML template
+// summary: Lit HTML template for the scroll view demo, showing cr-scrollable variants with borders and shadows that indicate scrollability.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ScrollViewDemoElement} from './scroll_view_demo.js';

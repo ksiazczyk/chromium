@@ -9,6 +9,12 @@
  * #include=demo
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-url-list-item demo
+summary: Stylesheet for the cr-url-list-item demo page, defining badge, icon, and input styling with dark mode support.
+*/
+
 .badge {
   align-items: center;
   background: var(--google-grey-200);

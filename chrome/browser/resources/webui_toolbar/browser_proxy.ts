@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for toolbar UI
+// summary: Browser proxy connecting the toolbar WebUI to Mojo services, exposing toolbar state, focus request and split tabs listeners plus context menus and histogram recording.
+// ---
+
 import '//resources/js/cr.js';
 
 import {BrowserControlsService} from '/shared/browser_controls_api.mojom-webui.js';

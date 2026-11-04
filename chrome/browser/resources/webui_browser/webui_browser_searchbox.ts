@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser searchbox element
+// summary: Lit custom element implementing the browser searchbox, wiring the omnibox mojo proxy, dropdown selection, voice and Lens search, and unbounded window support.
+// ---
+
 import '//resources/cr_components/searchbox/searchbox_dropdown.js';
 import '//resources/cr_components/searchbox/searchbox_input.js';
 

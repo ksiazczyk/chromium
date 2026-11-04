@@ -11,6 +11,12 @@
  * #include=help-bubble-anchor
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Toolbar chip button styles
+summary: Styles the pill-shaped toolbar chip button, implementing ink drop hover and pressed highlights, label animation, and hit-target padding for native Views parity.
+*/
+
 :host {
   color: var(--toolbar-chip-fg-color, var(--color-toolbar-button-icon));
   display: inline-flex;

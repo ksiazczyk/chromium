@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-tab-box demo element
+// summary: Custom element that drives the cr-tab-box demo, wiring buttons to add tabs at positions, select tabs, and update tab counts.
+// ---
+
 import '//resources/cr_elements/cr_tab_box/cr_tab_box.js';
 
 import type {CrTabBoxElement} from '//resources/cr_elements/cr_tab_box/cr_tab_box.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings icons HTML template
+// summary: Lit template that repeats a content-setting-icon element for each content setting image state.
+// ---
+
 import {html, repeat} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ContentSettingsIconsElement} from './content_settings_icons.js';

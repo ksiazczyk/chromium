@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupElement custom element
+// summary: Implements the webui-browser-tab-group Lit element, mapping Mojo group colors to CSS color variables for the chip.
+// ---
+
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 import type {TabGroupVisualData} from '/tab_strip_api/tab_strip_api_data_model.mojom-webui.js';

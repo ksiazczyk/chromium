@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content setting icon element
+// summary: Lit element implementing the content setting icon chip, with label fade and collapse animations, timers and browser state handling.
+// ---
+
 import './toolbar_chip_button.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '/shared/icons.js';

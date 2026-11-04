@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic button element
+// summary: Custom element for the Glic toolbar button that handles clicks, context menus, help bubble anchoring and layout requests via the browser proxy.
+// ---
+
 import './toolbar_chip_button.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import './icons.js';

@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Webview styles
+summary: Lit CSS styles that make the webview element and its guest content fill the available space with no borders or padding.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit cr-nav-menu-item-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: WebUI gallery app styles
+summary: CSS styling the gallery app layout, including the sidebar, demo menu, and main content area.
+*/
+
 :host {
   display: flex;
   height: 100%;

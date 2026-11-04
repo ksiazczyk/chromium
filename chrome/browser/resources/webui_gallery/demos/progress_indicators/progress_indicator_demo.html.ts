@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress indicator demo HTML template
+// summary: Lit HTML template for the demo page showing cr-progress, a 28px spinner, and cr-loading-gradient examples with various SVG clip paths and custom colors.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ProgressIndicatorDemoElement} from './progress_indicator_demo.js';

@@ -9,6 +9,12 @@
  * #include=demo
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-slider demo
+summary: Lit style stylesheet for the cr-slider demo page, setting the demo slider width and generating a demo CSS wrapper module.
+*/
+
 cr-slider {
   width: 200px;
 }

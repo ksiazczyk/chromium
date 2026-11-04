@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home button Lit template
+// summary: Lit HTML template for the toolbar home button, wiring press, click, context menu and drag-and-drop event handlers.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {HomeButtonElement} from './home_button.js';

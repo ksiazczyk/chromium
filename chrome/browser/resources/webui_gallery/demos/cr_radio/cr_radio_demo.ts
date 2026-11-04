@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-radio demo custom element
+// summary: Defines the CrRadioDemoElement Lit element that demos cr-radio-group and cr-radio-button and registers it as the cr-radio-demo custom element.
+// ---
+
 import '//resources/cr_elements/cr_radio_group/cr_radio_group.js';
 import '//resources/cr_elements/cr_radio_button/cr_radio_button.js';
 

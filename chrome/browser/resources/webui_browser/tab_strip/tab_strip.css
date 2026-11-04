@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tab strip element styles
+summary: Lit stylesheet for the tab strip element, defining its layout, window drag regions and new tab button styling.
+*/
+
 :host {
   display: block;
   width: 100%;

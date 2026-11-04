@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New app element
+// summary: Lit element that fetches the server URL, renders the content iframe and routes messages to metric and command handlers.
+// ---
+
 import '/strings.m.js';
 
 import type {ClickInfo} from 'chrome://resources/js/browser_command.mojom-webui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nav menu custom element
+// summary: Defines the nav-menu Lit element with menu items, selected index handling and options for icons and ripples.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '//resources/cr_elements/cr_menu_selector/cr_menu_selector.js';
 import '//resources/cr_elements/cr_ripple/cr_ripple.js';

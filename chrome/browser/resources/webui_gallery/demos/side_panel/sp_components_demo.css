@@ -12,6 +12,12 @@
  * #include=md-select-lit sp-shared-style demo
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Side panel components demo styles
+summary: Lit CSS styles defining the layout and appearance of the side panel components demo page.
+*/
+
 #urlCountSlider {
   width: 200px;
 }

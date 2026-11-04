@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nav menu demo page template
+// summary: Lit HTML template for the nav menu demo page with icon and ripple toggles, a drawer variant and selected index display.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {NavMenuDemoElement} from './nav_menu_demo.js';

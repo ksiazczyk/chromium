@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar button helpers and help bubble mixins
+// summary: Shared TypeScript utilities for WebUI toolbar buttons, including a help bubble anchor mixin, tooltip suppression, and click suppression tracking after bubble dismissal.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {loadTimeData} from '//resources/js/load_time_data.js';
 import type {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI browser icon set definitions
+// summary: Defines a cr-iconset named webui-browser with SVG icons such as folder, bookmark, window controls, close and info for use across the WebUI browser.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_iconset.js';
 
 import {getTrustedHTML} from '//resources/js/static_types.js';

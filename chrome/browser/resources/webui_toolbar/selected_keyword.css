@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Selected keyword chip styles
+summary: Styles the selected-keyword location bar chip, including pill shape, hover overlay, separator and text overflow fading.
+*/
+
 :host {
   align-items: center;
   color: var(--color-omnibox-keyword-selected);

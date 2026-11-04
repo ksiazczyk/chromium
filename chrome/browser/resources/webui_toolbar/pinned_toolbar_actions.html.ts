@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned toolbar actions container HTML template
+// summary: Lit HTML template that renders the list of pinned toolbar actions and dividers with animation, exiting and drag placeholder classes.
+// ---
+
 import {html, repeat} from '//resources/lit/v3_0/lit.rollup.js';
 import {PinnedToolbarAction} from '/shared/toolbar_ui_api_data_model.mojom-webui.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action icons element
+// summary: Lit element that renders page action icons and switches to capsule mode when the elevated toolbar feature shows multiple actions.
+// ---
+
 import './page_action_icon.js';
 
 import {loadTimeData} from '//resources/js/load_time_data.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for webui_browser resources
+summary: Defines the GN build target bundling the webui_browser TypeScript, CSS and Mojo files with trusted WebUI context.

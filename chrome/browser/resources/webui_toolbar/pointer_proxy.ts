@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer capture proxy
+// summary: Interface and singleton implementation wrapping element pointer capture and release calls, likely for testability.
+// ---
+
 export interface PointerProxy {
   setPointerCapture(el: Element, pointerId: number): void;
   releasePointerCapture(el: Element, pointerId: number): void;

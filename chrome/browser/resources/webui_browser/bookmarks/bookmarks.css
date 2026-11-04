@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Bookmarks page styles
+summary: Styles the bookmarks element container with padding, vertical scrolling, and full-height layout.
+*/
+
 :host {
   display: block;
   padding: 8px;

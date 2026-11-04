@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-input demo HTML template
+// summary: Defines the Lit HTML template presenting filled and stroked cr-input and cr-textarea examples for the cr-input demo.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrInputDemoElement} from './cr_input_demo.js';

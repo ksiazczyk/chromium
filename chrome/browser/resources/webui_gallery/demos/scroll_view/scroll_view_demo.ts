@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll view demo element
+// summary: Defines the scroll-view-demo CrLitElement custom element that renders the scroll view demo using its CSS and HTML template modules.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {getCss} from './scroll_view_demo.css.js';

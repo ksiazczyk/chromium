@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module name formatting for metrics
+// summary: Converts legacy kebab-case module names with numeric prefixes to PascalCase so they can be recorded in metrics.
+// ---
+
 // Convert legacy module names (i.e. module uid) to a format that can
 // be captured in metrics.
 //

@@ -1,0 +1,4 @@
+# Docerion header of icons.ts.
+type: source
+title: WebUI toolbar icon set
+summary: Registers the webui-toolbar lazy iconset with a large collection of inline SVG icons used by toolbar elements.

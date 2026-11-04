@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel components demo element
+// summary: Lit element implementing the side panel shared components demo with slider, checkbox and select controls.
+// ---
+
 import '//resources/cr_elements/icons.html.js';
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';

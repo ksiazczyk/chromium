@@ -10,6 +10,12 @@
  * #include=cr-icons-lit toolbar-button
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Reload button styles
+summary: Lit CSS styles for the reload button element, importing shared toolbar button and icon styles.
+*/
+
 :host {
   margin: 0;
   overflow: hidden;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrIconsDemoElement custom element
+// summary: Defines the cr-icons-demo Lit element that collects icon names from cr and cr20 iconsets and supports adjustable icon size and fill color.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '//resources/cr_elements/cr_icon/cr_iconset.js';
 import '//resources/cr_elements/cr_input/cr_input.js';

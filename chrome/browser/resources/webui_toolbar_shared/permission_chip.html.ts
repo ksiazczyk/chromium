@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the permission chip element
+// summary: Lit HTML template rendering the permission chip button with its icon, message text, and pointer and click event handlers.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PermissionChipElement} from './permission_chip.js';

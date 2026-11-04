@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag delegate
+// summary: Manages tab drag sessions, mouse down handling, element positioning, and Mojo drag callbacks to reorder tabs within the strip.
+// ---
+
 import type {NodeId} from '/tab_strip_api/tab_strip_api_types.mojom-webui.js';
 
 import type {TabStripItem} from './items.js';

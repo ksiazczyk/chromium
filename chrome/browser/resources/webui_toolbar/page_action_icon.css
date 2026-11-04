@@ -10,6 +10,12 @@
  * #include=help-bubble-anchor
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Page action icon styles
+summary: Lit styles for the page action icon chip, aligning its sizing and padding with the native C++ location bar page action view.
+*/
+
 :host {
   display: flex;
   align-items: center;

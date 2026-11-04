@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip HTML template
+// summary: Lit HTML template for the tab strip element that renders tabs, tab groups and the new tab button.
+// ---
+
 import {html, repeat} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {TabStripElement} from './tab_strip.js';

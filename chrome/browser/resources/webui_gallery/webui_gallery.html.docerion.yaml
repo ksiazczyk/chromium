@@ -1,0 +1,4 @@
+# Docerion header of webui_gallery.html.
+type: source
+title: WebUI gallery HTML entry page
+summary: HTML shell that loads the gallery styles and app module and hosts the webui-gallery-app element.

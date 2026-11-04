@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Chrome RLZ directory
+summary: Lists cpu@chromium.org and sdefresne@chromium.org as the owners responsible for reviewing changes in this directory.

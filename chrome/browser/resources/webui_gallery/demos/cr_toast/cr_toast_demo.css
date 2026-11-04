@@ -9,6 +9,12 @@
  * #include=demo
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-toast demo styles
+summary: Styles for the cr-toast demo page, hiding the cr-input error display and laying out the toast content area.
+*/
+
 cr-input {
   --cr-input-error-display: none;
 }

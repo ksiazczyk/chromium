@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Extensions bar styles
+summary: Styles the extensions bar host visibility and the extensions menu icon button sizing and colors.
+*/
+
 :host {
   display: none;
 }

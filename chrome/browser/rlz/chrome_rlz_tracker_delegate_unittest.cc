@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome RLZ tracker delegate
+// summary: Verifies that the homepage search callback is only run after being set and is cleared after a single run.
+// ---
+
 #include "chrome/browser/rlz/chrome_rlz_tracker_delegate.h"
 
 #include <memory>

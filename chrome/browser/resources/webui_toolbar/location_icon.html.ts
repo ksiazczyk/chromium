@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location icon template
+// summary: Lit HTML template that renders the location icon as a chip button with a prefix icon, label text, and accessibility attributes.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {LocationIconElement} from './location_icon.js';

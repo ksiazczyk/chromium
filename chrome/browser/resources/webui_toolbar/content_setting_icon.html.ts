@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content setting icon HTML template
+// summary: Lit HTML template rendering the content setting icon as a toolbar chip button with label, tooltip and pointer event handlers.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ContentSettingIconElement} from './content_setting_icon.js';

@@ -1,0 +1,4 @@
+# Docerion header of cr_tree_demo.html.
+type: source
+title: cr-tree demo HTML template
+summary: HTML template for the cr-tree demo page, providing the tree element plus controls to expand, collapse, add and remove items and toggle folder icons.

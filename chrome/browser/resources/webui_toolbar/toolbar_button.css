@@ -11,6 +11,12 @@
  * #include=cr-hidden-style-lit help-bubble-anchor overflowable-action
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Toolbar button styles
+summary: Shared styles for WebUI toolbar buttons, sizing cr-icon-button and cr-button, handling inactive and engaged colors, focus rings, and the split tabs status indicator.
+*/
+
 :host {
   align-items: center;
   display: inline-flex;

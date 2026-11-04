@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox HTML template
+// summary: Lit HTML template for the WebUI browser searchbox with its input, optional voice and Lens buttons, and the suggestions dropdown.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {WebuiBrowserSearchboxElement} from './webui_browser_searchbox.js';

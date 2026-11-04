@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the app menu button
+summary: Lit style sheet for the app menu button covering chip styling, expanded-label margins, severity highlight and inactive window colors.
+*/
+
 :host {
   /* Use flex layout to avoid default inline-block baseline alignment issues. */
   display: flex;

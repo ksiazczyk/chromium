@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned toolbar actions container element
+// summary: Container element for pinned toolbar actions that manages keyed states, divider index and drag-to-reorder communication with the browser.
+// ---
+
 import './pinned_toolbar_action.js';
 import './toolbar_divider.js';
 

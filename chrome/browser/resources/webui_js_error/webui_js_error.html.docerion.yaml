@@ -1,0 +1,4 @@
+# Docerion header of webui_js_error.html.
+type: source
+title: WebUI JS error test page
+summary: HTML page for the WebUI JS error screen with buttons that log errors, throw exceptions, and trigger unhandled promise rejections for testing.

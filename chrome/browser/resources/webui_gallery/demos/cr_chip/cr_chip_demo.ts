@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-chip demo element
+// summary: Defines the CrChipDemoElement Lit custom element that renders the cr-chip demo page in the WebUI gallery.
+// ---
+
 import '//resources/cr_elements/cr_chip/cr_chip.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '//resources/cr_elements/icons.html.js';

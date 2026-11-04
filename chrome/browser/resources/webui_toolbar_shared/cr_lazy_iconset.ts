@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrLazyIconset for lazily registered SVG icons
+// summary: Implements an Iconset that registers icon callbacks lazily and clones parsed SVG icons into host elements.
+// ---
+
 import type {Iconset} from '//resources/cr_elements/cr_icon/iconset_map.js';
 import {IconsetMap} from '//resources/cr_elements/cr_icon/iconset_map.js';
 import {assert} from '//resources/js/assert.js';

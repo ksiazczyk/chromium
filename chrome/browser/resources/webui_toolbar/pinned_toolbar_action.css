@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit toolbar-button
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Pinned toolbar action styles
+summary: Lit styles for pinned toolbar action buttons covering IPH highlight color, download progress ring states and icon badges mirroring the Views toolbar.
+*/
+
 /* getIconStyle_() may set the icon color inline from the icon table, which
  * would beat the IPH icon color from toolbar_button.css. Native
  * PinnedActionToolbarButton::UpdateIcon() ignores the image color and uses

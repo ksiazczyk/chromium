@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar chip button template
+// summary: Lit template for toolbar-chip-button rendering a native button with prefix icon, default, and suffix icon slots plus ARIA attributes.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ToolbarChipButtonElement} from './toolbar_chip_button.js';

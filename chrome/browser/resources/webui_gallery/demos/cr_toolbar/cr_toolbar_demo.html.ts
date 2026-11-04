@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr_toolbar_demo.html.ts
+// summary: Lit HTML template for the cr-toolbar demo, rendering a configurable cr-toolbar with property inputs, checkboxes and an event log.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrToolbarDemoElement} from './cr_toolbar_demo.js';

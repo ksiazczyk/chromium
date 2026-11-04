@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress indicator demo element
+// summary: Defines the ProgressIndicatorDemoElement Lit custom element that combines the demo's CSS and HTML template and registers it as progress-indicator-demo.
+// ---
+
 import '//resources/cr_elements/cr_loading_gradient/cr_loading_gradient.js';
 import '//resources/cr_elements/cr_progress/cr_progress.js';
 import '//resources/cr_elements/cr_shared_vars.css.js';

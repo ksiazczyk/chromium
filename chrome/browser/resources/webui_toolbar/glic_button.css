@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Glic button styles
+summary: Styles for the Glic toolbar chip button, covering toolbar-matching background, icon sizing, label layout and collapsed state.
+*/
+
 :host {
   display: flex;
   align-self: center;

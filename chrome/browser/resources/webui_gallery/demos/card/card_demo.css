@@ -11,6 +11,12 @@
  * #include=cr-page-host-style-lit cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Card demo CSS styles
+summary: Styles for the card demo, defining card appearance, row layout, and expanded content padding using Chromium shared CSS variables.
+*/
+
 .card {
   background-color: var(--cr-card-background-color);
   border-radius: var(--cr-card-border-radius);

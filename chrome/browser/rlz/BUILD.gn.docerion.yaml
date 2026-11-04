@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the Chrome RLZ tracker
+summary: Defines the rlz source set and its unit tests, listing public headers, sources, and dependencies for the Chrome RLZ tracking code.

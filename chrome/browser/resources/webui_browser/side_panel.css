@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Side panel styles
+summary: Lit CSS styles for the side panel element, laying out its frame, header with title and close button, and rounded content area.
+*/
+
 #frame {
   display: flex;
   flex-direction: column;

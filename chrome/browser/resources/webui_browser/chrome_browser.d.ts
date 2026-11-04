@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type declarations for the chrome.browser namespace
+// summary: Declares the private chrome.browser namespace with attachIframeGuest, injected into the page by WebUIBrowserRendererExtension.
+// ---
+
 // chrome.browser is a private namespace reserved for chrome://webui-browser.
 // It is injected into the page by WebUIBrowserRendererExtension.
 declare namespace chrome {

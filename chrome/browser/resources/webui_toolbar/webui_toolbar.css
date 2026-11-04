@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: WebUI toolbar stylesheet
+summary: Stylesheet for the WebUI toolbar page that makes the viewport fill the parent WebView container and sizes the fully enabled toolbar app.
+*/
+
 html,
 body {
   /* Ensure the WebUI viewport matches the full height of the parent WebView

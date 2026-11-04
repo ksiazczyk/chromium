@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: config
+title: Shared CSS variables for WebUI toolbar
+summary: Defines shared CSS custom properties, notably a custom ease-out cubic-bezier curve that matches native Views animations.
+*/
+
 html {
   /* Matches native Views' gfx::Tween::EASE_OUT, which is defined as
    * '1.0 - pow(1.0 - state, 2)' in ui/gfx/animation/tween.cc. This quadratic

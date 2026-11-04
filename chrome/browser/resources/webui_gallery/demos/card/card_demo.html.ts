@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card demo HTML template
+// summary: Lit template for the card demo element, rendering example cards with rows, link rows, buttons, and an expandable collapse section.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CardDemoElement} from './card_demo.js';

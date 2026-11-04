@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar divider element
+// summary: Defines the toolbar-divider element, a divider between toolbar actions built on the overflowable action mixin.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {OverflowableToolbarActionMixin} from './overflowable_toolbar_action_mixin.js';

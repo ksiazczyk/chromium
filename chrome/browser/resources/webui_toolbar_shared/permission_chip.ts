@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission chip WebUI element
+// summary: Lit element that renders the permission chip and reports expand and collapse animation completion to the C++ backend via its delegate.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import './icons.js';
 

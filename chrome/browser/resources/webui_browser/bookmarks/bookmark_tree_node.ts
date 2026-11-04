@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark tree node element
+// summary: Lit element that renders a bookmark tree node and creates, edits, moves, and deletes bookmark nodes via the BookmarksService Mojo API.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {BookmarksService} from '../bookmarks_api.mojom-webui.js';

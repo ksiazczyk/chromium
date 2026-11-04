@@ -1,0 +1,4 @@
+# Docerion header of webui_toolbar.html.
+type: source
+title: WebUI toolbar HTML entry page
+summary: HTML entry page for the WebUI toolbar that loads theme styles and the app module and hosts the toolbar-app element.

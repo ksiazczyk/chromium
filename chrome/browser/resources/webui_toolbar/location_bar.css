@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Location bar styles
+summary: Styles for the WebUI location bar covering background, hover and focus states, focus ring, high-contrast and forced-colors modes.
+*/
+
 :host {
   --border-radius: calc(var(--location-bar-height) / 2);
   --location-bar-background: var(--color-location-bar-background);

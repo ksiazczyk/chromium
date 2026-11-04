@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar custom element
+// summary: Defines the webui-browser-bookmark-bar element that loads bookmarks over Mojo, tracks favicon and visibility changes, and opens URL bookmarks in new tabs.
+// ---
+
 import './bookmark.js';
 import './icons.html.js';
 

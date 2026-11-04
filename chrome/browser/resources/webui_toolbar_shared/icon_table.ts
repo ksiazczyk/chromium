@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon table mapping handles to toolbar icons
+// summary: Singleton class that maps icon handles to icon info such as mask URLs, colors and iconset names, with a transparent fallback icon.
+// ---
+
 import {skColorToRgba} from '//resources/js/color_utils.js';
 import type {SkColor} from '//resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 

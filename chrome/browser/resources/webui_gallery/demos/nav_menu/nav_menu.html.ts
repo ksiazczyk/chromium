@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nav menu HTML template
+// summary: Lit HTML template for the nav-menu element, rendering a cr-menu-selector of icon links with optional ripples.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {NavMenuElement} from './nav_menu.js';

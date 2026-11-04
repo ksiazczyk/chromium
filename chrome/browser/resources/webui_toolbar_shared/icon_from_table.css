@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Icon from table element styles
+summary: Defines layout and mask or background rendering styles for icons displayed by the icon-from-table element.
+*/
+
 :host {
   align-items: center;
   display: inline-flex;

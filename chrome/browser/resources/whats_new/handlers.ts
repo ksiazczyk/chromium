@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New event and command handlers
+// summary: Handles browser commands and records page load, scroll depth, module event and related metrics via the Mojo handler.
+// ---
+
 import {Command} from 'chrome://resources/js/browser_command.mojom-webui.js';
 import {BrowserCommandProxy} from 'chrome://resources/js/browser_command/browser_command_proxy.js';
 import type {TimeDelta} from 'chrome://resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';

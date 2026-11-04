@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-action-menu demo element
+// summary: LitElement demo that exercises cr-action-menu behaviors such as showAt, context menu positioning, min/max confinement, and custom anchor alignment.
+// ---
+
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';

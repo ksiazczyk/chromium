@@ -1,0 +1,4 @@
+# Docerion header of icons.ts.
+type: source
+title: SVG iconset for shared toolbar components
+summary: Registers the SVG icons used by the shared WebUI toolbar components into a lazy iconset named webui-toolbar-shared.

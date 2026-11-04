@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions toolbar container element
+// summary: Custom element that hosts extension actions in the WebUI toolbar, handling ordering, overflow, drag-and-drop moves and initial-state rendering.
+// ---
+
 import './extension.js';
 import './toolbar_divider.js';
 

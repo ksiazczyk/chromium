@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the cr-action-menu demo
+// summary: Lit HTML template that renders the cr-action-menu demo sections for typical menus, context menus, min/max positioning, and custom anchor alignment.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrActionMenuDemoElement} from './cr_action_menu_demo.js';

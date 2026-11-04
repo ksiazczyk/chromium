@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome RLZ tracker delegate header
+// summary: Declares ChromeRLZTrackerDelegate, the Chrome implementation of the rlz::RLZTrackerDelegate interface with profile pref registration and search callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_RLZ_CHROME_RLZ_TRACKER_DELEGATE_H_
 #define CHROME_BROWSER_RLZ_CHROME_RLZ_TRACKER_DELEGATE_H_
 

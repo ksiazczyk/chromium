@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark tree node Lit template
+// summary: Lit HTML template for the bookmark tree node element, rendering folder and URL nodes with add, edit, move, and delete buttons.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {BookmarkTreeNodeElement} from './bookmark_tree_node.js';

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the WebUI toolbar
+summary: Associates the directory with Buganizer component 1935629 and the chrome-webium-product-eng team mailing list.

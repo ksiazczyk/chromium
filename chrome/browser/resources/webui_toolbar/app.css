@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the WebUI toolbar app element
+summary: Lit style sheet for the toolbar app element, arranging toolbar buttons and collapsing margins between expanded buttons.
+*/
+
 :host {
   align-items: center;
   display: flex;

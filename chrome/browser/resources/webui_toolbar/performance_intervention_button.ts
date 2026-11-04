@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance intervention button element
+// summary: Defines the performance-intervention-button custom element that reports clicks to the browser through the toolbar UI handler and supports help bubble highlighting.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '/strings.m.js';
 

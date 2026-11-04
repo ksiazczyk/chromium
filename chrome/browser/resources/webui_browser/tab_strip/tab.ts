@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabElement custom element
+// summary: Implements the webui-browser-tab Lit element with tab data properties, context menu handling via the tab strip UI controller, and close click events.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';

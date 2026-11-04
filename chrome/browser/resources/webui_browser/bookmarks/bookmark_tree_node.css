@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Bookmark tree node styles
+summary: Styles the bookmark tree node element, covering folder details, child indentation, hover states, and bookmark link appearance.
+*/
+
 :host {
   display: block;
 }
