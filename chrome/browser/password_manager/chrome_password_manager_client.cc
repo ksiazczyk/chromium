@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome password manager client implementation
+// summary: Implements the Chrome embedder of the password manager client, wiring password stores, sync, autofill, UI controllers and platform integrations.
+// ---
+
 #include "chrome/browser/password_manager/chrome_password_manager_client.h"
 
 #include <memory>

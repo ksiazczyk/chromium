@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata
+summary: Points this directory to the shared password manager component metadata via a COMMON_METADATA mixin.

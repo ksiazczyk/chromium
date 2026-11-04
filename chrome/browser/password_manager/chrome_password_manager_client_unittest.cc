@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome password manager client unit tests
+// summary: Unit tests for ChromePasswordManagerClient covering client behavior, metrics, and integration with profile-level password and sign-in services.
+// ---
+
 #include "chrome/browser/password_manager/chrome_password_manager_client.h"
 
 #include <stdint.h>

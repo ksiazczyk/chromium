@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppProfileSwitcher class declaration
+// summary: Declares a helper that opens or installs an already installed web app for other profiles and signals completion.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_WEB_APP_PROFILE_SWITCHER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_WEB_APP_PROFILE_SWITCHER_H_
 

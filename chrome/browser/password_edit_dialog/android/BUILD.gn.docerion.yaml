@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password edit dialog Android build targets
+summary: GN build file defining the native source set, Java library, JNI headers, resources and unit test targets for the Android password edit dialog.

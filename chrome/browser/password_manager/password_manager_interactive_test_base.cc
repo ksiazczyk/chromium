@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager interactive test base implementation
+// summary: Implements helpers for interactive password manager browser tests, such as typing into fields and verifying saved passwords.
+// ---
+
 #include "chrome/browser/password_manager/password_manager_interactive_test_base.h"
 
 #include <algorithm>

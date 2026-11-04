@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordEditDialogViewBinder
+// summary: Binds changes of PasswordEditDialogProperties in a PropertyModel to the corresponding setter methods of PasswordEditDialogView.
+// ---
+
 package org.chromium.chrome.browser.password_edit_dialog;
 
 import org.chromium.build.annotations.NullMarked;

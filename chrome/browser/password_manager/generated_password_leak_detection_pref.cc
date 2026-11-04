@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated password leak detection preference implementation
+// summary: Implements the generated settings preference for password leak detection, deriving its value from leak detection, Safe Browsing, sign-in, and sync state.
+// ---
+
 #include "chrome/browser/password_manager/generated_password_leak_detection_pref.h"
 
 #include "base/feature_list.h"

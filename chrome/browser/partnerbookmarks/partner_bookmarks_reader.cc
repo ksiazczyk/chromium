@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partner bookmarks reader implementation
+// summary: Implements the JNI-backed reader that builds the partner bookmark hierarchy, fetches favicons and submits results to the shim.
+// ---
+
 #include "chrome/browser/partnerbookmarks/partner_bookmarks_reader.h"
 
 #include <utility>

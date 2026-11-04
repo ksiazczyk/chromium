@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Password edit dialog dimension resources
+summary: Defines dimension values such as margins and padding used to align and space fields in the Android password edit dialog UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--
       password_edit_field_horizontal_margin is introduced to make

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordChangeDelegateImpl unit tests
+// summary: Unit tests for the password change delegate implementation, covering state transitions, metrics histograms, and UKM logging with mock collaborators.
+// ---
+
 #include "chrome/browser/password_manager/password_change_delegate_impl.h"
 
 #include "base/memory/weak_ptr.h"

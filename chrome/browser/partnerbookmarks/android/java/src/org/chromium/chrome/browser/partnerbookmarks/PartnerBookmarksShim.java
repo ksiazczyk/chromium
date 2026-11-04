@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartnerBookmarksShim
+// summary: Java counterpart of the C++ partner bookmarks shim that decides whether to fetch partner bookmarks and kicks off the asynchronous reading.
+// ---
+
 package org.chromium.chrome.browser.partnerbookmarks;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiProfileCredentialsFilter class header
+// summary: Declares a SyncCredentialsFilter subclass that suppresses the Save Password bubble when a multi-profile promo is shown during web sign-in.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_MULTI_PROFILE_CREDENTIALS_FILTER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_MULTI_PROFILE_CREDENTIALS_FILTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change delegate implementation
+// summary: Implements the password change flow, including privacy notice handling, change password form detection, password generation, and form submission with metrics.
+// ---
+
 #include "chrome/browser/password_manager/password_change_delegate_impl.h"
 
 #include <algorithm>

@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Credential manager browser tests
+// summary: Browser tests exercising navigator.credentials password retrieval, account chooser state, and credential behavior across navigations and prerendering.
+// ---
+
 #include <optional>
 
 #include "base/command_line.h"

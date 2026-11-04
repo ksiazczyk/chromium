@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Partner disable incognito mode unit tests
+// summary: Unit tests verifying that partner-provided customization providers correctly disable incognito mode for parental controls.
+// ---
+
 package org.chromium.chrome.browser.partnercustomizations;
 
 import static org.chromium.chrome.browser.partnercustomizations.BasePartnerBrowserCustomizationUnitTestRule.DEFAULT_TIMEOUT_MS;

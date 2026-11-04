@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partner bookmarks shim class declaration
+// summary: Declares PartnerBookmarksShim, which overlays partner bookmarks on the bookmark model and persists user edits per profile.
+// ---
+
 #ifndef CHROME_BROWSER_PARTNERBOOKMARKS_PARTNER_BOOKMARKS_SHIM_H_
 #define CHROME_BROWSER_PARTNERBOOKMARKS_PARTNER_BOOKMARKS_SHIM_H_
 

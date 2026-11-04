@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupPasswordsImporter implementation
+// summary: Implements CSV credential import triggered by a command-line switch, importing into the profile password store.
+// ---
+
 #include "chrome/browser/password_manager/startup_passwords_importer.h"
 
 #include <string>

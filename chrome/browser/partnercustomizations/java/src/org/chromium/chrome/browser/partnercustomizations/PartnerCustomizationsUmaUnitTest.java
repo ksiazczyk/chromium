@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartnerCustomizationsUmaUnitTest
+// summary: Robolectric unit tests verifying PartnerCustomizationsUma histogram logging, delegate tracking and task completion outcomes.
+// ---
+
 package org.chromium.chrome.browser.partnercustomizations;
 
 import static org.mockito.Mockito.times;

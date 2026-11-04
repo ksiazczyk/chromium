@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embeddings service launcher implementation
+// summary: Launches the passage embeddings service process and initializes CPU usage logging once it is connected.
+// ---
+
 #include "chrome/browser/passage_embeddings/chrome_passage_embeddings_service_launcher.h"
 
 #include <utility>

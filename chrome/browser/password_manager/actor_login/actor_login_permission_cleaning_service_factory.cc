@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login permission cleaning service factory
+// summary: Implements the profile-keyed factory that builds the actor login permission cleaning service with the profile and account password stores.
+// ---
+
 #include "chrome/browser/password_manager/actor_login/actor_login_permission_cleaning_service_factory.h"
 
 #include "chrome/browser/password_manager/actor_login/actor_login_permission_service_factory.h"

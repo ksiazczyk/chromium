@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartnerBookmark
+// summary: Defines the PartnerBookmark data object with fields for id, parent, URL, title, favicon and touch icon, plus a closable BookmarkIterator interface.
+// ---
+
 package org.chromium.chrome.browser.partnerbookmarks;
 
 import org.chromium.build.annotations.NullMarked;

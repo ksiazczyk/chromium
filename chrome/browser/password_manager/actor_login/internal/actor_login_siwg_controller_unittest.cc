@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ActorLoginSiwgController
+// summary: Tests the Sign-in with Google controller flow with mocked delegates, render frames, and permission services.
+// ---
+
 #include "chrome/browser/password_manager/actor_login/internal/actor_login_siwg_controller.h"
 
 #include <memory>

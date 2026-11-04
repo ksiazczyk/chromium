@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordEditDialogMediator
+// summary: Contains the save and update password dialog logic, updating property models and reacting to UI events such as username and password changes.
+// ---
+
 package org.chromium.chrome.browser.password_edit_dialog;
 
 import android.content.res.Resources;

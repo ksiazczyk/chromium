@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partner bookmarks reader class declaration
+// summary: Declares PartnerBookmarksReader, which generates the partner bookmark hierarchy and handles favicon fetching results.
+// ---
+
 #ifndef CHROME_BROWSER_PARTNERBOOKMARKS_PARTNER_BOOKMARKS_READER_H_
 #define CHROME_BROWSER_PARTNERBOOKMARKS_PARTNER_BOOKMARKS_READER_H_
 

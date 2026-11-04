@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebAuthn credentials delegate factory header
+// summary: Declares ChromeWebAuthnCredentialsDelegateFactory, a WebContentsUserData that returns a delegate for a given render frame, creating one when needed.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_CHROME_WEBAUTHN_CREDENTIALS_DELEGATE_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_CHROME_WEBAUTHN_CREDENTIALS_DELEGATE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorLoginFederatedCredentialsFetcher implementation
+// summary: Implements fetching of federated credentials through the FedCM identity credential source combined with permission listing for the request origin.
+// ---
+
 #include "chrome/browser/password_manager/actor_login/internal/actor_login_federated_credentials_fetcher.h"
 
 #include "base/barrier_callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartnerBookmarksReader
+// summary: Reads bookmarks from the partner content provider, pushes them to the native C++ side via JNI, and manages asynchronous favicon loading with observers.
+// ---
+
 package org.chromium.chrome.browser.partnerbookmarks;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorLoginFederatedCredentialsFetcher class declaration
+// summary: Declares the fetcher that retrieves federated credentials and permissions for actor login, with quality logging and metrics hooks.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ACTOR_LOGIN_INTERNAL_ACTOR_LOGIN_FEDERATED_CREDENTIALS_FETCHER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ACTOR_LOGIN_INTERNAL_ACTOR_LOGIN_FEDERATED_CREDENTIALS_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password edit dialog bridge delegate interface
+// summary: Defines the delegate interface through which the Java password edit dialog communicates save, dismiss and account storage events to native code.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_EDIT_DIALOG_ANDROID_PASSWORD_EDIT_DIALOG_BRIDGE_DELEGATE_H_
 #define CHROME_BROWSER_PASSWORD_EDIT_DIALOG_ANDROID_PASSWORD_EDIT_DIALOG_BRIDGE_DELEGATE_H_
 

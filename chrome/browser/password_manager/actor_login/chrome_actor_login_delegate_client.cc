@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome actor login delegate client implementation
+// summary: Implements the Chrome-specific actor login delegate client, wiring password manager, translate, permissions and federated login support to web contents.
+// ---
+
 #include "chrome/browser/password_manager/actor_login/chrome_actor_login_delegate_client.h"
 
 #include "chrome/browser/actor/actor_keyed_service.h"

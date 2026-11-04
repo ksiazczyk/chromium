@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome actor login delegate client unit tests
+// summary: Unit tests for ChromeActorLoginDelegateClient covering tab, browser window, Android tab model and Glic service interactions.
+// ---
+
 #include "chrome/browser/password_manager/actor_login/chrome_actor_login_delegate_client.h"
 
 #include <memory>

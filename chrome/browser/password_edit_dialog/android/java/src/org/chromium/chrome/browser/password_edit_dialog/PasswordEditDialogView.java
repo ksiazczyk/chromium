@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordEditDialogView
+// summary: Custom LinearLayout view providing username and password input fields with a username dropdown, footer, and change callbacks for editing credentials.
+// ---
+
 package org.chromium.chrome.browser.password_edit_dialog;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

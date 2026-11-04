@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows password manager user authentication
+// summary: Implements Windows user re-authentication for password access, validating credentials via LSA logon and Windows credential APIs.
+// ---
+
 #include <objbase.h>
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passwords navigation observer implementation
+// summary: Implements a test observer that waits for navigations and password form parsing in browser tests.
+// ---
+
 #include "chrome/browser/password_manager/passwords_navigation_observer.h"
 
 #include "chrome/browser/password_manager/chrome_password_manager_client.h"

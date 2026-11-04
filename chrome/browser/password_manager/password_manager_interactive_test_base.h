@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager interactive test base header
+// summary: Declares the base class for interactive password manager browser tests with field filling and password verification helpers.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_MANAGER_INTERACTIVE_TEST_BASE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_MANAGER_INTERACTIVE_TEST_BASE_H_
 

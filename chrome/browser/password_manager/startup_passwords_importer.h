@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupPasswordsImporter class declaration
+// summary: Declares the StartupPasswordsImporter that asynchronously imports credentials from a CSV file into the profile store.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_STARTUP_PASSWORDS_IMPORTER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_STARTUP_PASSWORDS_IMPORTER_H_
 

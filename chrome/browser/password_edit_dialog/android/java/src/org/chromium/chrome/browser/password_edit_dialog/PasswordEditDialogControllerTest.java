@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordEditDialogControllerTest
+// summary: Parameterized Robolectric tests verifying that the password update dialog sets its properties and behaves correctly for signed-in and signed-out users.
+// ---
+
 package org.chromium.chrome.browser.password_edit_dialog;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

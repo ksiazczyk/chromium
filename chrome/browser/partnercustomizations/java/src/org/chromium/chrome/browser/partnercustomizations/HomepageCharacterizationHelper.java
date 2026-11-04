@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HomepageCharacterizationHelper interface
+// summary: Interface exposing helpers that classify a homepage as the NTP or a partner customized homepage for use by other modules.
+// ---
+
 package org.chromium.chrome.browser.partnercustomizations;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password edit dialog bridge implementation
+// summary: Implements the native-to-Java bridge that creates, shows and dismisses the password edit dialog and forwards dialog events to its delegate.
+// ---
+
 #include "chrome/browser/password_edit_dialog/android/password_edit_dialog_bridge.h"
 
 #include <jni.h>

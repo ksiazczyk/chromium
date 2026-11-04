@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated password leak detection preference header
+// summary: Declares GeneratedPasswordLeakDetectionPref, a generated preference exposing user-facing leak detection state to settings WebUI consumers.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_GENERATED_PASSWORD_LEAK_DETECTION_PREF_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_GENERATED_PASSWORD_LEAK_DETECTION_PREF_H_
 

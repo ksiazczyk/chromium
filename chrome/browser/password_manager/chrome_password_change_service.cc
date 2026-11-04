@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome password change service implementation
+// summary: Implements the browser service that offers and coordinates automated password change flows, including throttling, logging and optimization guide integration.
+// ---
+
 #include "chrome/browser/password_manager/chrome_password_change_service.h"
 
 #include <utility>

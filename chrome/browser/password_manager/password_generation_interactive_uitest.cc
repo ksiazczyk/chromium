@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password generation interactive UI tests
+// summary: Interactive browser tests verifying password generation popup behavior, generated field filling and related histograms on signup forms.
+// ---
+
 #include "base/command_line.h"
 #include "base/run_loop.h"
 #include "base/strings/stringprintf.h"
