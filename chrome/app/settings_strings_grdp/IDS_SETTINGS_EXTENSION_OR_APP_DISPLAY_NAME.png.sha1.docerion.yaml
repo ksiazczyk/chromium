@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_EXTENSION_OR_APP_DISPLAY_NAME.png.sha1.
+type: data
+title: Extension or app display name PNG SHA-1
+summary: Holds the SHA-1 hash of the PNG image referenced by the IDS_SETTINGS_EXTENSION_OR_APP_DISPLAY_NAME resource identifier.

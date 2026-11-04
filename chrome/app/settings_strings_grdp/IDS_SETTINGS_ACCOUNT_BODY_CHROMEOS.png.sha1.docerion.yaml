@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_ACCOUNT_BODY_CHROMEOS.png.sha1.
+type: data
+title: SHA1 hash for IDS_SETTINGS_ACCOUNT_BODY_CHROMEOS screenshot
+summary: SHA1 checksum of the screenshot for the ChromeOS-specific account body string in Chrome settings, used to keep the PNG reference in sync.

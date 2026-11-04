@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_AUTOFILL_A11Y_IBAN_DESCRIPTION.png.sha1.
+type: asset
+title: Checksum for the autofill IBAN accessibility description screenshot
+summary: Stores the SHA-1 hash used to verify the PNG screenshot of the accessibility description for the autofill IBAN string in Chrome settings.
