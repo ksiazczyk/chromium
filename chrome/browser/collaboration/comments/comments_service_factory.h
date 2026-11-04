@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comments service factory header
+// summary: Declares the CommentsServiceFactory that provides a per-profile CommentsService, returning an empty service for incognito or when features are disabled.
+// ---
+
 #ifndef CHROME_BROWSER_COLLABORATION_COMMENTS_COMMENTS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_COLLABORATION_COMMENTS_COMMENTS_SERVICE_FACTORY_H_
 

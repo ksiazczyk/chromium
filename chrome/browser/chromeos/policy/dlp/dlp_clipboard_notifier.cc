@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP clipboard notifier implementation
+// summary: Implements DlpClipboardNotifier, showing toasts or bubbles when clipboard actions are blocked or warned, including synthesized paste key events and learn-more handling.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_clipboard_notifier.h"
 
 #include <memory>

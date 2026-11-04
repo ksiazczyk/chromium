@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Website events observer implementation
+// summary: Implements WebsiteEventsObserver, which reports allowlisted website URL open and close activity as metric event data for ChromeOS reporting.
+// ---
+
 #include "chrome/browser/chromeos/reporting/websites/website_events_observer.h"
 
 #include <memory>

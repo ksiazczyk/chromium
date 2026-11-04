@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP confidential contents unit tests
+// summary: Unit tests for DlpConfidentialContent and DlpConfidentialContents covering comparison, assignment, adding and clearing of confidential content entries.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_confidential_contents.h"
 
 #include <algorithm>

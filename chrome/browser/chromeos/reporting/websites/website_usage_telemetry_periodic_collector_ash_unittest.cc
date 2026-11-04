@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebsiteUsageTelemetryPeriodicCollectorAsh unit tests
+// summary: Unit tests covering collection at default and policy-configured rates, empty data handling, and collector destruction.
+// ---
+
 #include "chrome/browser/chromeos/reporting/websites/website_usage_telemetry_periodic_collector_ash.h"
 
 #include "base/test/task_environment.h"

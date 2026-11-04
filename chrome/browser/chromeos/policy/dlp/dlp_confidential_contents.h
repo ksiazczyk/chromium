@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP confidential contents class declaration
+// summary: Declares structures for storing, comparing and managing confidential content entries identified by icon, title and URL.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_CONFIDENTIAL_CONTENTS_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_CONFIDENTIAL_CONTENTS_H_
 

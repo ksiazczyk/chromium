@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DlpCopyOrMoveHookDelegate unit tests
+// summary: Unit tests for DlpCopyOrMoveHookDelegate using a mock DlpFilesController to verify copy access requests, allow and deny paths, and access map handling.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_copy_or_move_hook_delegate.h"
 
 #include <memory>

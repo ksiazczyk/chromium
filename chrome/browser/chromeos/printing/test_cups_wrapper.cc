@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCupsWrapper fake for tests
+// summary: Provides a fake CupsWrapper that returns failed query results and configurable printer statuses for use in tests.
+// ---
+
 #include "chrome/browser/chromeos/printing/test_cups_wrapper.h"
 
 #include <utility>

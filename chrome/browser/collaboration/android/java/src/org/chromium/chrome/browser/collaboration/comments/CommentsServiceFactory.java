@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommentsServiceFactory
+// summary: Factory that creates or retrieves a CommentsService for a given profile via JNI, with an overridable test service hook.
+// ---
+
 package org.chromium.chrome.browser.collaboration.comments;
 
 import org.jni_zero.JNINamespace;

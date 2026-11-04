@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Website events observer browser tests
+// summary: Browser tests verifying that website open and close events are reported as event metric records with the expected DM token, destination and source.
+// ---
+
 #include "base/functional/bind.h"
 #include "chrome/browser/apps/app_service/metrics/website_metrics_browser_test_mixin.h"
 #include "chrome/browser/ash/login/test/cryptohome_mixin.h"

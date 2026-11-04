@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference media listener header
+// summary: Declares VideoConferenceMediaListener, which observes page capture changes and notifies its owning manager client.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_VIDEO_CONFERENCE_VIDEO_CONFERENCE_MEDIA_LISTENER_H_
 #define CHROME_BROWSER_CHROMEOS_VIDEO_CONFERENCE_VIDEO_CONFERENCE_MEDIA_LISTENER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP files controller implementation
+// summary: Implements DlpFilesController, which decides whether file transfers and copies are allowed based on file sources tracked by the DLP daemon and the admin-defined data leak prevention rules.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_files_controller.h"
 
 #include <sys/stat.h>

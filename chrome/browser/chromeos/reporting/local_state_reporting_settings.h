@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local state reporting settings interface
+// summary: Declares LocalStateReportingSettings, a ReportingSettings implementation that reads reporting settings from local state and supports observer subscriptions on the main thread.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_REPORTING_LOCAL_STATE_REPORTING_SETTINGS_H_
 #define CHROME_BROWSER_CHROMEOS_REPORTING_LOCAL_STATE_REPORTING_SETTINGS_H_
 

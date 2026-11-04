@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DefaultNotificationsSetting policy browser test
+// summary: Parameterized browser test checking that the DefaultNotificationsSetting policy controls notification permission and the settings UI radio buttons.
+// ---
+
 #include <string>
 
 #include "base/values.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data transfer DLP controller implementation
+// summary: Implements clipboard read, paste and drag-and-drop checks that enforce DLP rules and report policy events.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/data_transfer_dlp_controller.h"
 
 #include <string>

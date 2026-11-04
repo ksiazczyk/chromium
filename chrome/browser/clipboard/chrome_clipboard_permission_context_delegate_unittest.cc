@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome clipboard permission context delegate unit tests
+// summary: Tests worker clipboard permission outcomes for extensions with and without clipboardRead and clipboardWrite API permissions.
+// ---
+
 #include "chrome/browser/clipboard/chrome_clipboard_permission_context_delegate.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric reporting prefs declarations
+// summary: Declares website metric reporting preference names, telemetry type constants and the URL allowlist helper.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_REPORTING_METRIC_REPORTING_PREFS_H_
 #define CHROME_BROWSER_CHROMEOS_REPORTING_METRIC_REPORTING_PREFS_H_
 

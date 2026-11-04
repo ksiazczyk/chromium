@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mapping printer status reasons to error codes
+// summary: Converts CUPS printer status reasons into PrinterErrorCode values, with static assertions matching the mojom enum.
+// ---
+
 #include "chrome/browser/chromeos/printing/printer_error_codes.h"
 
 #include "chromeos/components/print_management/mojom/printing_manager.mojom.h"

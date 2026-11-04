@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration controller delegate Android implementation
+// summary: Implements the Android-side CollaborationControllerDelegate, bridging JNI calls between Java UI flows and native collaboration result and exit callbacks.
+// ---
+
 #include "chrome/browser/collaboration/android/collaboration_controller_delegate_android.h"
 
 #include "base/android/jni_string.h"

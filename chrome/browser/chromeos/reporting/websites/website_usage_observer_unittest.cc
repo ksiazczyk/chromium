@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebsiteUsageObserver unit tests
+// summary: Unit tests verifying website usage tracking, allowlist and telemetry setting checks, and persistence of usage data in the pref store.
+// ---
+
 #include "chrome/browser/chromeos/reporting/websites/website_usage_observer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlpDownloadObserver implementation
+// summary: Observes completed downloads and reports their file paths and source URLs to the DLP daemon via DlpClient so they are treated as confidential.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_download_observer.h"
 
 #include "base/check.h"

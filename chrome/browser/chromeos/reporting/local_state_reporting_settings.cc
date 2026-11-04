@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local state reporting settings implementation
+// summary: Implements ReportingSettings backed by the local state pref store, providing typed getters, reporting-enabled checks and setting change notifications.
+// ---
+
 #include "chrome/browser/chromeos/reporting/local_state_reporting_settings.h"
 
 #include <memory>

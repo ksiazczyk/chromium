@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP confidential file unit tests
+// summary: Unit tests for DlpConfidentialFile verifying comparison and assignment behavior based on file paths.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_confidential_file.h"
 
 #include <sstream>

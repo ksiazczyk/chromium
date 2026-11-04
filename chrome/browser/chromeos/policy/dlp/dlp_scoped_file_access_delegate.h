@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP scoped file access delegate class declaration
+// summary: Declares the DlpScopedFileAccessDelegate class that forwards file access requests to the DLP daemon when DLP file restrictions apply.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_SCOPED_FILE_ACCESS_DELEGATE_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_SCOPED_FILE_ACCESS_DELEGATE_H_
 

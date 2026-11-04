@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP scoped file access delegate unit tests
+// summary: Unit tests for the delegate using a fake DLP client to check allowed and denied file access requests and default access UMA reporting.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_scoped_file_access_delegate.h"
 
 #include "base/feature_list.h"

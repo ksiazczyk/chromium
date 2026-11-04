@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebsiteUsageTelemetrySampler Ash browser tests
+// summary: Browser test validating website usage telemetry reported by the sampler in Ash with profile and device affiliation set up.
+// ---
+
 #include <string_view>
 
 #include "base/functional/bind.h"

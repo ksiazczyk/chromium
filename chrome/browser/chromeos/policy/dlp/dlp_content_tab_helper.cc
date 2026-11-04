@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP content tab helper implementation
+// summary: Implements the per-tab helper that tracks confidential render frames in a WebContents and notifies the DLP content observer as frames are added, removed or navigated.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_content_tab_helper.h"
 
 #include "base/memory/ptr_util.h"

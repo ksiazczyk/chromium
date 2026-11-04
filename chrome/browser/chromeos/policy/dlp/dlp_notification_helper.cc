@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP notification helper implementation
+// summary: Implements helpers that show and hide message center notifications when DLP policy blocks printing, screen sharing, screen capture or stops video capture.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_notification_helper.h"
 
 #include "ash/constants/notifier_catalogs.h"

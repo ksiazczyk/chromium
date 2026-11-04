@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP files controller unit tests
+// summary: Unit tests for DlpFilesController covering local file copies, path-to-component mapping and blocked file notifications using a fake DLP client and mocked methods.
+// ---
+
 
 #include "chrome/browser/chromeos/policy/dlp/dlp_files_controller.h"
 

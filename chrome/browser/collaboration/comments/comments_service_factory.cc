@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comments service factory implementation
+// summary: Implements the profile-keyed factory that returns a real or empty comments service depending on the data sharing and collaboration comments feature flags.
+// ---
+
 #include "chrome/browser/collaboration/comments/comments_service_factory.h"
 
 #include <memory>

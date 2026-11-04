@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Messaging backend service factory unit tests
+// summary: Unit tests verifying that the messaging backend service is created for regular profiles and not created for incognito profiles.
+// ---
+
 #include "chrome/browser/collaboration/messaging/messaging_backend_service_factory.h"
 
 #include <memory>

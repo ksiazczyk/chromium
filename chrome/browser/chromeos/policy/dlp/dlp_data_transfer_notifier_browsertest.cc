@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DlpDataTransferNotifier browser tests
+// summary: Browser tests verifying block and warning bubble visibility, accessibility labels, and widget closing behavior of DlpDataTransferNotifier.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_data_transfer_notifier.h"
 
 #include "base/functional/callback_helpers.h"

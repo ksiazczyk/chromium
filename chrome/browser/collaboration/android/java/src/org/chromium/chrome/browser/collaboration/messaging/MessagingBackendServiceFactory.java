@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagingBackendServiceFactory
+// summary: Factory that creates or retrieves a MessagingBackendService for a given profile via JNI, with an overridable test instance.
+// ---
+
 package org.chromium.chrome.browser.collaboration.messaging;
 
 import org.jni_zero.JNINamespace;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for tablet mode web preferences
+// summary: Verifies web preferences update on tablet mode toggles and that internal pages are excluded from mobile-like behavior.
+// ---
+
 #include "chrome/browser/ui/ash/test_util.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 #include "chrome/browser/ui/browser_window/public/create_browser_window.h"

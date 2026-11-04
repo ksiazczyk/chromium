@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for website reporting
+summary: Sets include rules that restrict //chrome dependencies for the website reporting directory, with exceptions for existing dependencies and browser test headers.

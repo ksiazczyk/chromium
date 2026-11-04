@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMessagingBackendService
+// summary: Stub implementation of MessagingBackendService that returns empty results, used as a test double for the factory.
+// ---
+
 package org.chromium.chrome.browser.collaboration.messaging;
 
 import androidx.annotation.NonNull;

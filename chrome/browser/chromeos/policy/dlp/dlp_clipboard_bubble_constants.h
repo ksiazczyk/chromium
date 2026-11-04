@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP clipboard bubble constants
+// summary: Declares toast identifiers and display durations for clipboard DLP block and warning bubbles shown for ARC, Crostini and Plugin VM destinations.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_CLIPBOARD_BUBBLE_CONSTANTS_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_CLIPBOARD_BUBBLE_CONSTANTS_H_
 

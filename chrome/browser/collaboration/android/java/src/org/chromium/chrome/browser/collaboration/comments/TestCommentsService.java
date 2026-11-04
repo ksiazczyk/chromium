@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCommentsService
+// summary: Stub implementation of CommentsService with no-op methods used as a test double for the factory tests.
+// ---
+
 package org.chromium.chrome.browser.collaboration.comments;
 
 import org.chromium.base.Callback;

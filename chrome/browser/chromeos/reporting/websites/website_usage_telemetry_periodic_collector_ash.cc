@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteUsageTelemetryPeriodicCollectorAsh implementation
+// summary: Implements the Ash periodic collector that reports website usage telemetry and collects pending data when a session is about to terminate.
+// ---
+
 #include "chrome/browser/chromeos/reporting/websites/website_usage_telemetry_periodic_collector_ash.h"
 
 #include "chrome/browser/chromeos/reporting/metric_default_utils.h"

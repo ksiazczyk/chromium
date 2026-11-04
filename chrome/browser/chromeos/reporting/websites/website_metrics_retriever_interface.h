@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Website metrics retriever interface
+// summary: Defines the WebsiteMetricsRetrieverInterface for components that retrieve the initialized WebsiteMetrics component and invoke a callback with it.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_REPORTING_WEBSITES_WEBSITE_METRICS_RETRIEVER_INTERFACE_H_
 #define CHROME_BROWSER_CHROMEOS_REPORTING_WEBSITES_WEBSITE_METRICS_RETRIEVER_INTERFACE_H_
 

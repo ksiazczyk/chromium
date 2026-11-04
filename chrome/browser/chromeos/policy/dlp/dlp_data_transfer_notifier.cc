@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlpDataTransferNotifier implementation
+// summary: Implements the DLP notification bubble widget, computing bounds near the caret and showing block or warning bubbles for disallowed data transfers.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_data_transfer_notifier.h"
 
 #include "ash/public/cpp/window_tree_host_lookup.h"

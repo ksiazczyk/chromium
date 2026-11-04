@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference web app header
+// summary: Declares VideoConferenceWebApp, a WebContentsUserData that stores state for video conferencing apps and notifies manager clients of page changes.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_VIDEO_CONFERENCE_VIDEO_CONFERENCE_WEB_APP_H_
 #define CHROME_BROWSER_CHROMEOS_VIDEO_CONFERENCE_VIDEO_CONFERENCE_WEB_APP_H_
 

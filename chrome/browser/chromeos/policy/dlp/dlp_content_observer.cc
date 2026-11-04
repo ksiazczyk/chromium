@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP content observer singleton implementation
+// summary: Implements the DlpContentObserver singleton that instantiates the Ash DLP content manager and provides scoped overrides for testing.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_content_observer.h"
 
 #include "chrome/browser/ash/policy/dlp/dlp_content_manager_ash.h"

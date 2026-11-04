@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for client hints
+summary: Sets include rules that block third_party/blink usage except public/common and selected client hints common headers.

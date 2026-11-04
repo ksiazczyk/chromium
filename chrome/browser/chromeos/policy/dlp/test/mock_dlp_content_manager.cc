@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDlpContentManager implementation
+// summary: Implements the constructor and destructor of MockDlpContentManager, a gmock-based mock of DlpContentManager.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/test/mock_dlp_content_manager.h"
 
 namespace policy {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client hints browser tests
+// summary: Large browser test suite verifying client hints headers, content settings, enterprise policies, and UKM reporting.
+// ---
+
 #include "components/client_hints/common/client_hints.h"
 
 #include <cstddef>

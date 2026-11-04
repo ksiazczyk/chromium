@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlpContentTabHelper header for tracking confidential WebContents
+// summary: Declares DlpContentTabHelper, which attaches to WebContents covered by DLP policy, observes frames and visibility, and reports restrictions to DlpContentManager.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_CONTENT_TAB_HELPER_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DLP_CONTENT_TAB_HELPER_H_
 

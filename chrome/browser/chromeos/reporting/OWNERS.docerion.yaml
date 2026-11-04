@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file pointing to reporting component owners
+summary: Delegates directory ownership to the owners of components/reporting via a file reference.

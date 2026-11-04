@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyDialogBase implementation
+// summary: Implements the shared base view for data protection warning and error dialogs, including layout, icons and confidential content rows.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dialogs/policy_dialog_base.h"
 
 #include <memory>

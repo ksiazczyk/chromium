@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DlpFilesTestBase header
+// summary: Declares the DlpFilesTestBase test fixture providing a profile and MockDlpRulesManager instance for DLP files testing.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_TEST_DLP_FILES_TEST_BASE_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_TEST_DLP_FILES_TEST_BASE_H_
 

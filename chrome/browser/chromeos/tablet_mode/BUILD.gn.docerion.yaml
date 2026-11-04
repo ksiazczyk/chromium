@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ChromeOS tablet mode library and tests
+summary: Defines the tablet_mode static library plus unit test and browser test source sets with their Chromium dependencies.

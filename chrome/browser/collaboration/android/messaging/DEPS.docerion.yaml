@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android messaging
+summary: Restricts dependencies of the Android messaging directory, allowing only the internal messaging backend service bridge header for service construction.

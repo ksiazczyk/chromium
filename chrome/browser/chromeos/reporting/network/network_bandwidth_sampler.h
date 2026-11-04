@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkBandwidthSampler class declaration
+// summary: Declares the sampler that collects download speed in kbps via the NetworkService NetworkQualityTracker for a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_REPORTING_NETWORK_NETWORK_BANDWIDTH_SAMPLER_H_
 #define CHROME_BROWSER_CHROMEOS_REPORTING_NETWORK_NETWORK_BANDWIDTH_SAMPLER_H_
 

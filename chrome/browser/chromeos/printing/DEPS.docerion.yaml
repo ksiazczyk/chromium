@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ChromeOS printing directory
+summary: Restricts dependencies by blocking //chrome includes, allowing the directory's own headers, and permitting the printing_manager mojom header for error code assertions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local state reporting settings unit tests
+// summary: Unit tests verifying typed getters, invalid paths and data types, unregistered settings, and observer behavior of LocalStateReportingSettings.
+// ---
+
 #include "chrome/browser/chromeos/reporting/local_state_reporting_settings.h"
 
 #include <memory>

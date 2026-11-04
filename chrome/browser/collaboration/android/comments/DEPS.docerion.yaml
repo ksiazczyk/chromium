@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android comments
+summary: Restricts dependencies of the Android comments code, allowing only the internal comments service bridge header for service construction.

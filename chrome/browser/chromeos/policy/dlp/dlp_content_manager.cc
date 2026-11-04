@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP content manager implementation
+// summary: Implements the system-wide manager that tracks confidential WebContents and enforces enterprise DLP restrictions on screenshots, printing and screen sharing, including reporting and warn dialogs.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_content_manager.h"
 
 #include <algorithm>

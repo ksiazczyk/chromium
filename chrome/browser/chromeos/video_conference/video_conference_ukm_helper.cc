@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference UKM helper implementation
+// summary: Implements the UKM helper that records camera, microphone and screen capture flags and durations for video conferencing web apps when they are destroyed.
+// ---
+
 #include "chrome/browser/chromeos/video_conference/video_conference_ukm_helper.h"
 
 #include <cstdint>

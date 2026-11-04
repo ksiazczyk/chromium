@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network bandwidth sampler implementation
+// summary: Implements MaybeCollect to report downstream throughput from the NetworkQualityTracker as network bandwidth telemetry metric data.
+// ---
+
 #include "chrome/browser/chromeos/reporting/network/network_bandwidth_sampler.h"
 
 #include <limits>

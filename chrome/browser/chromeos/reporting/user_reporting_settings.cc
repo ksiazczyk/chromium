@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User reporting settings implementation
+// summary: Fetches user reporting settings from the profile pref store and notifies observers when settings change.
+// ---
+
 #include "chrome/browser/chromeos/reporting/user_reporting_settings.h"
 
 #include <memory>

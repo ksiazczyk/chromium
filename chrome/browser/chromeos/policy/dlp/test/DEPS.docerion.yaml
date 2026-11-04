@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the DLP test directory
+summary: Sets include rules that block //chrome dependencies for the DLP test directory while whitelisting the headers and targets the tests need.

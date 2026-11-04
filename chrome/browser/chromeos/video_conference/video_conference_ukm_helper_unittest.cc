@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video conference UKM helper unit tests
+// summary: Unit tests verifying that the UKM helper records DidCapture flags and capture durations for camera, microphone and screen using a test UKM recorder.
+// ---
+
 #include "chrome/browser/chromeos/video_conference/video_conference_ukm_helper.h"
 
 #include <memory>

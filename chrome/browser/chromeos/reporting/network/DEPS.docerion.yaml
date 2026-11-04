@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the network reporting directory
+summary: Restricts //chrome dependencies for ChromeOS code and lists allowed includes, with extra rules for test files.

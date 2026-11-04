@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collaboration test utilities
+// summary: Shared helpers for collaboration tests, such as relaxed clicks, dialog visibility checks, and preparing shared tab groups for sharing.
+// ---
+
 package org.chromium.chrome.browser.collaboration;
 
 import static androidx.test.espresso.action.ViewActions.click;

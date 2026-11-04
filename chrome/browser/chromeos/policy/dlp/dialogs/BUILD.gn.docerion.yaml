@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for DLP dialogs
+summary: Defines the dialogs and test_support static libraries with their sources and dependencies for the ChromeOS DLP warning dialog code.

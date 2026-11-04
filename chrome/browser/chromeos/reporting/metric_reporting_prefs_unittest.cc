@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metric reporting prefs unit tests
+// summary: Unit tests verifying website URL allowlist matching behavior for unsupported schemes, unset policies and pattern matches.
+// ---
+
 #include "chrome/browser/chromeos/reporting/metric_reporting_prefs.h"
 
 #include "base/values.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for network bandwidth reporting
+summary: Defines the static library for the network bandwidth sampler plus its unit test and browser test source sets and dependencies.

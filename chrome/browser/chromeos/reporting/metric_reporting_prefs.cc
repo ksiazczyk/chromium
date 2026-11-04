@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric reporting prefs and URL allowlist check
+// summary: Registers website metric reporting profile preferences and checks whether a URL matches the reporting allowlist policy.
+// ---
+
 #include "chrome/browser/chromeos/reporting/metric_reporting_prefs.h"
 #include <algorithm>
 

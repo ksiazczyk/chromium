@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP confidential file implementation
+// summary: Implements DlpConfidentialFile, which builds an icon, title and file path representation of a confidential file for warning and error dialogs.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_confidential_file.h"
 
 #include "base/files/file_path.h"

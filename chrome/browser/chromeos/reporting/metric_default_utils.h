@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default metric telemetry rate constants
+// summary: Declares default collection rates, upload frequencies, delays, usage thresholds and rate limiter settings for metric reporting, kept in sync with the metric data proto.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_REPORTING_METRIC_DEFAULT_UTILS_H_
 #define CHROME_BROWSER_CHROMEOS_REPORTING_METRIC_DEFAULT_UTILS_H_
 

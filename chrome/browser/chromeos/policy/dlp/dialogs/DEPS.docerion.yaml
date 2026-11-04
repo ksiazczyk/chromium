@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DLP dialogs include rules
+summary: Sets DEPS include rules so ChromeOS code avoids depending on //chrome, allowing only this directory and the DLP policy folder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlpWarnDialog class declaration
+// summary: Declares DlpWarnDialog and its options struct for the modal warning dialog shown when a DLP restriction level is set to WARN.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DIALOGS_DLP_WARN_DIALOG_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DIALOGS_DLP_WARN_DIALOG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'upload_office_to_cloud.cc: Office cloud upload policy checks'
+// summary: Implements profile eligibility checks and policy-based allowed and automated decisions for Microsoft Office and Google Workspace cloud upload.
+// ---
+
 #include "chrome/browser/chromeos/upload_office_to_cloud/upload_office_to_cloud.h"
 
 #include <algorithm>

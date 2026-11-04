@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Usage telemetry periodic collector unit tests
+// summary: Unit tests verifying periodic usage telemetry collection with default and policy-set rates and empty-data handling.
+// ---
+
 #include "chrome/browser/chromeos/reporting/usage_telemetry_periodic_collector_base.h"
 
 #include <optional>

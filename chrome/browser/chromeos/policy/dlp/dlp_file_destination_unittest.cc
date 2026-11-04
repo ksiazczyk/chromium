@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP file destination unit tests
+// summary: Unit tests verifying comparison and equality behavior of DlpFileDestination across URLs, components, empty destinations and assignments.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_file_destination.h"
 
 #include "components/enterprise/data_controls/core/browser/component.h"

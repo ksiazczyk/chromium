@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DlpContentManagerTestHelper implementation
+// summary: Implements a helper that exposes DlpContentManager internals for confidentiality, visibility, screen share and warning dialog checks in tests.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/test/dlp_content_manager_test_helper.h"
 
 #include <memory>

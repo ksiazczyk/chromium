@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Clipboard directory include rules
+summary: Restricts includes within the clipboard directory to allowed Chromium components such as permissions, content, and extensions.

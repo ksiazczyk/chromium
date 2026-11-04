@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the collaboration browser directory
+summary: Defines GN build targets for the collaboration service, including Android Java libraries, JNI header generation, and resources.

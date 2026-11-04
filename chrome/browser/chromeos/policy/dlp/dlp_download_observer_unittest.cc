@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP download observer unit tests
+// summary: Unit tests verifying that downloads trigger DLP file access requests, including rewriting data URLs to the tab URL.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_download_observer.h"
 
 #include <memory>

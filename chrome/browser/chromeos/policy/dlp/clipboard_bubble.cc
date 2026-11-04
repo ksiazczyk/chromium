@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard DLP bubble view implementation
+// summary: Implements the bubble views shown to users when DLP policy blocks or warns on clipboard copy and paste.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/clipboard_bubble.h"
 
 #include "ash/public/cpp/new_window_delegate.h"

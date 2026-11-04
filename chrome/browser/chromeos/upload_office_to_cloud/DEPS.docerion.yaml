@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for upload_office_to_cloud
+summary: Restricts dependencies on //chrome and lists the allowed include exceptions for this directory.

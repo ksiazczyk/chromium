@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video conference manager client browser tests
+// summary: Browser tests for VideoConferenceManagerClientImpl using a fake client to verify app tracking, permissions and status updates.
+// ---
+
 #include "chrome/browser/chromeos/video_conference/video_conference_manager_client.h"
 
 #include <string>

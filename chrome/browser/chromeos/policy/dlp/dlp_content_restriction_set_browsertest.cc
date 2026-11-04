@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP content restriction set browser test
+// summary: Browser test verifying that DlpContentRestrictionSet::GetForURL returns the correct restrictions for URLs based on configured DLP policy rules.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_content_restriction_set.h"
 
 #include "base/no_destructor.h"

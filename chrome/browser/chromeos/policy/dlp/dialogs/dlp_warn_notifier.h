@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlpWarnNotifier class declaration
+// summary: Declares the notifier that creates and shows DLP warning dialogs and manages the active dialog widgets.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_DIALOGS_DLP_WARN_NOTIFIER_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_DIALOGS_DLP_WARN_NOTIFIER_H_
 

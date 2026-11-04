@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric reporting manager delegate base interface
+// summary: Declares the base delegate class used by MetricReportingManager to create report queues and collectors with policy-controlled rates and optional rate limiting.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_REPORTING_METRIC_REPORTING_MANAGER_DELEGATE_BASE_H_
 #define CHROME_BROWSER_CHROMEOS_REPORTING_METRIC_REPORTING_MANAGER_DELEGATE_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlpRulesManager factory source
+// summary: Implements the profile-keyed service factory that builds a DlpRulesManagerImpl for the primary managed profile.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_rules_manager_factory.h"
 
 #include "base/no_destructor.h"

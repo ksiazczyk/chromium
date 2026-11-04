@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conference manager client common implementation
+// summary: Defines the list of app IDs skipped from tracking and the ShouldSkipId helper used by the video conference tracking code.
+// ---
+
 #include "chrome/browser/chromeos/video_conference/video_conference_manager_client_common.h"
 
 #include <algorithm>

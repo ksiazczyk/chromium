@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock DLP content observer class
+// summary: Declares a gmock mock of DlpContentObserver that stubs confidentiality change, visibility and web contents destruction callbacks for tests.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_POLICY_DLP_TEST_MOCK_DLP_CONTENT_OBSERVER_H_
 #define CHROME_BROWSER_CHROMEOS_POLICY_DLP_TEST_MOCK_DLP_CONTENT_OBSERVER_H_
 

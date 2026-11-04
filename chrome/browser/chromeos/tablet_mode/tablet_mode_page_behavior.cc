@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode page behavior implementation
+// summary: Applies mobile-like web preferences when tablet mode toggles and reverts user agent overrides when leaving tablet mode.
+// ---
+
 #include "chrome/browser/chromeos/tablet_mode/tablet_mode_page_behavior.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the ChromeOS printing static library
+summary: Defines the printing and test_support static libraries with their source files and dependencies for ChromeOS.

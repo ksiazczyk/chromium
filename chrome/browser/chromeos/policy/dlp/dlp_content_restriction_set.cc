@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP content restriction set implementation
+// summary: Implements DlpContentRestrictionSet operations such as union, difference and computing the restriction set for a URL from the enterprise DLP rules.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_content_restriction_set.h"
 
 #include <algorithm>

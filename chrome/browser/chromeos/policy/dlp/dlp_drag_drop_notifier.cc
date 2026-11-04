@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP drag-and-drop notifier
+// summary: Shows blocking and warning bubbles when DLP policy restricts drag-and-drop data transfers.
+// ---
+
 #include "chrome/browser/chromeos/policy/dlp/dlp_drag_drop_notifier.h"
 
 #include <memory>
