@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche tray implementation
+// summary: Implements the Eche status area tray button and its bubble hosting the Eche app web content, with connection status handling, toasts, and UMA metrics.
+// relations:
+//   - implements /ash/system/eche/eche_tray.h
+//   - references /ash/system/eche/eche_icon_loading_indicator_view.h
+// ---
+
 #include "ash/system/eche/eche_tray.h"
 
 #include <algorithm>

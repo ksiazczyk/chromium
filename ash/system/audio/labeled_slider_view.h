@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Labeled slider view header
+// summary: Declares a slider view that pairs a volume slider with the audio device name for output and input devices in the tray audio UI.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_SYSTEM_AUDIO_LABELED_SLIDER_VIEW_H_
 #define ASH_SYSTEM_AUDIO_LABELED_SLIDER_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified accessibility detailed view controller implementation
+// summary: Implements the controller that creates the accessibility detailed view for the unified Quick Settings tray and forwards accessibility status changes to it.
+// relations:
+//   - implements /ash/system/accessibility/unified_accessibility_detailed_view_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - references /ash/system/accessibility/accessibility_detailed_view.h
+// ---
+
 #include "ash/system/accessibility/unified_accessibility_detailed_view_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

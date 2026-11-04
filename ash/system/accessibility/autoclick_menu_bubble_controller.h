@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoclick menu bubble controller header
+// summary: Declares the controller managing the bubble containing the autoclick menu view, including show, close, positioning, click handling, and locale change behavior.
+// relations:
+//   - depends_on /ash/system/accessibility/autoclick_menu_view.h
+//   - depends_on /ash/system/tray/tray_bubble_view.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_AUTOCLICK_MENU_BUBBLE_CONTROLLER_H_
 #define ASH_SYSTEM_ACCESSIBILITY_AUTOCLICK_MENU_BUBBLE_CONTROLLER_H_
 

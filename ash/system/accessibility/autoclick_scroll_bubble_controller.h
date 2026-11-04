@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoclick scroll bubble controller header
+// summary: Declares the controller managing the bubble containing the autoclick scroll view, with methods to show, close, position, and handle clicks on the scroll bubble.
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_AUTOCLICK_SCROLL_BUBBLE_CONTROLLER_H_
 #define ASH_SYSTEM_ACCESSIBILITY_AUTOCLICK_SCROLL_BUBBLE_CONTROLLER_H_
 

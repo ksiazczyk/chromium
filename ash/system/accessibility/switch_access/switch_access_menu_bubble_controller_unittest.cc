@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Switch Access menu bubble controller unit tests
+// summary: Unit tests verifying that the Switch Access menu bubble shows requested actions, sizes buttons and labels correctly, and positions the back button.
+// relations:
+//   - tests /ash/system/accessibility/switch_access/switch_access_menu_bubble_controller.cc
+// ---
+
 #include "ash/system/accessibility/switch_access/switch_access_menu_bubble_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

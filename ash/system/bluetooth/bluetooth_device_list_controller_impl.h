@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device list controller implementation declaration
+// summary: Declares BluetoothDeviceListControllerImpl with helpers to create and reorder sub-headers and device item views in the detailed view.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/system/bluetooth/bluetooth_device_list_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DEVICE_LIST_CONTROLLER_IMPL_H_
 #define ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DEVICE_LIST_CONTROLLER_IMPL_H_
 

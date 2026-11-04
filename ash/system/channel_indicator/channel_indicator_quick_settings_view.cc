@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick settings channel indicator view implementation
+// summary: Implements the channel indicator UI in the Quick Settings header, including the version button and submit feedback button with rounded corners, ink drop styling, and RTL-aware layout.
+// relations:
+//   - implements /ash/system/channel_indicator/channel_indicator_quick_settings_view.h
+//   - references /ash/system/channel_indicator/channel_indicator_utils.h
+// ---
+
 #include "ash/system/channel_indicator/channel_indicator_quick_settings_view.h"
 
 #include <algorithm>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BluetoothDeviceStatusUiHandler
+// summary: Unit tests verifying that toasts are shown for paired, connected, and disconnected Bluetooth devices and that connection toast metrics are recorded.
+// relations:
+//   - tests /ash/system/bluetooth/bluetooth_device_status_ui_handler.cc
+//   - references /chromeos/ash/services/bluetooth_config/fake_bluetooth_device_status_notifier.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_device_status_ui_handler.h"
 
 #include <memory>

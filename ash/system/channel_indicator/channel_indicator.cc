@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel indicator tray view implementation
+// summary: Implements the system tray view that shows the ChromeOS release channel icon or label for non-stable channels, with tooltips, accessibility names, and session state and shelf alignment handling.
+// relations:
+//   - implements /ash/system/channel_indicator/channel_indicator.h
+//   - references /ash/system/channel_indicator/channel_indicator_utils.h
+// ---
+
 #include "ash/system/channel_indicator/channel_indicator.h"
 
 #include "ash/session/session_controller_impl.h"

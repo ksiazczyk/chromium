@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mic gain slider controller header
+// summary: Declares the controller for mic gain sliders in the system tray audio detailed view, including slider creation and metrics recording.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/unified/unified_slider_view.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_SYSTEM_AUDIO_MIC_GAIN_SLIDER_CONTROLLER_H_
 #define ASH_SYSTEM_AUDIO_MIC_GAIN_SLIDER_CONTROLLER_H_
 

@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Select-to-speak directory metadata
+summary: Points to the shared ChromeOS accessibility COMMON_METADATA via a mixin for this directory.
+relations:
+  - references /chrome/browser/resources/chromeos/accessibility/select_to_speak/COMMON_METADATA

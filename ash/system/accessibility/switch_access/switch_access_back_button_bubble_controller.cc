@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access back button bubble controller implementation
+// summary: Implements the controller that shows, hides, and positions the Switch Access back button bubble within the Ash accessibility bubble container.
+// relations:
+//   - implements /ash/system/accessibility/switch_access/switch_access_back_button_bubble_controller.h
+//   - references /ash/system/accessibility/switch_access/switch_access_back_button_view.h
+// ---
+
 #include "ash/system/accessibility/switch_access/switch_access_back_button_bubble_controller.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

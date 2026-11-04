@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast notification controller unit tests
+// summary: Unit tests for the cast notification controller, verifying that a pinned cast notification is created only for devices with a local route.
+// relations:
+//   - tests /ash/system/cast/cast_notification_controller.cc
+//   - references /ui/message_center/message_center.h
+//   - references /ash/test/ash_test_base.h
+// ---
+
 #include "ash/system/cast/cast_notification_controller.h"
 
 #include "ash/constants/ash_features.h"

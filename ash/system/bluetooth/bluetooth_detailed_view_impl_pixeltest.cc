@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth detailed view pixel tests
+// summary: Runs pixel tests for the quick settings Bluetooth detailed view, parameterized over the Bluetooth/Wifi QS pod refresh and system blur features.
+// relations:
+//   - tests /ash/system/bluetooth/bluetooth_detailed_view_impl.h
+// ---
+
 #include <string>
 
 #include "ash/public/cpp/bluetooth_config_service.h"

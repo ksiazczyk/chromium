@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating accessibility detailed view controller implementation
+// summary: Implements the controller for the detailed view of the floating accessibility menu, showing an AccessibilityDetailedView bubble anchored to the main menu.
+// relations:
+//   - implements /ash/system/accessibility/floating_accessibility_detailed_controller.h
+// ---
+
 #include "ash/system/accessibility/floating_accessibility_detailed_controller.h"
 
 #include "ash/bubble/bubble_constants.h"

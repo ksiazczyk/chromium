@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth notification controller implementation
+// summary: Implements Bluetooth pairing request notifications and discoverable-state toasts, handling user accept, reject, and cancel actions for pairing requests.
+// relations:
+//   - implements /ash/system/bluetooth/bluetooth_notification_controller.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_notification_controller.h"
 
 #include <memory>

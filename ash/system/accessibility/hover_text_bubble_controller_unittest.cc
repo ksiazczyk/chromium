@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hover Text bubble controller unit tests
+// summary: Unit tests covering the Hover Text bubble controller's show, update, and hide lifecycle plus font scaling and font style application.
+// relations:
+//   - tests /ash/system/accessibility/hover_text_bubble_controller.h
+//   - tests /ash/system/accessibility/hover_text_bubble_view.h
+// ---
+
 #include "ash/system/accessibility/hover_text_bubble_controller.h"
 
 #include <algorithm>

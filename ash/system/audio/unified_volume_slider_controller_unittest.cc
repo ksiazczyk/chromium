@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unified volume slider controller unit tests
+// summary: Unit tests for UnifiedVolumeSliderController verifying slider value changes, mute toggling and output volume change source metrics using mock time and histogram testing.
+// relations:
+//   - tests /ash/system/audio/unified_volume_slider_controller.h
+//   - tests /ash/system/audio/unified_volume_slider_controller.cc
+//   - references /chromeos/ash/components/audio/cras_audio_handler.h
+// ---
+
 #include "ash/system/audio/unified_volume_slider_controller.h"
 
 #include <memory>

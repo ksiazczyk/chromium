@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID preserving Bluetooth metrics declarations
+// summary: Declares histogram names, persisted enums, and recording functions for HID warning dialog behavior, user action, and dialog source metrics.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/public/mojom/hid_preserving_bluetooth_state_controller.mojom
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_HID_PRESERVING_BLUETOOTH_METRICS_H_
 #define ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_HID_PRESERVING_BLUETOOTH_METRICS_H_
 

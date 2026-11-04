@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnifiedBrightnessView implementation
+// summary: Implements the brightness slider view for the unified system tray and display detailed view, including the Night Light toggle button, drill-in button, and model-driven slider updates.
+// relations:
+//   - implements /ash/system/brightness/unified_brightness_view.h
+// ---
+
 #include "ash/system/brightness/unified_brightness_view.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autozoom controller class declaration
+// summary: Declares the AutozoomControllerImpl class that manages autozoom state, observers, user preferences, and support detection.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/public/cpp/session/session_observer.h
+//   - references /ash/system/camera/autozoom_nudge_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_CAMERA_AUTOZOOM_CONTROLLER_IMPL_H_
 #define ASH_SYSTEM_CAMERA_AUTOZOOM_CONTROLLER_IMPL_H_
 

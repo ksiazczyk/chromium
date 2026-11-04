@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Diagnostics directory metadata
+summary: Declares the owning ChromeOS team, bug tracker component, and contact email for the diagnostics directory.

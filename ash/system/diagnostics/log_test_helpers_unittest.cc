@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Log test helpers unit tests
+// summary: Unit tests for the log test helpers verifying line splitting and separator-based field parsing of diagnostic log lines.
+// relations:
+//   - tests /ash/system/diagnostics/log_test_helpers.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/system/diagnostics/log_test_helpers.h"
 
 #include <string>

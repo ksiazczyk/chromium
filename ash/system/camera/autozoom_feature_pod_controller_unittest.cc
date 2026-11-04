@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autozoom quick settings tile controller unit tests
+// summary: Tests visibility and toggle behavior of the autozoom quick settings feature tile.
+// relations:
+//   - references /ash/system/camera/autozoom_feature_pod_controller.h
+//   - references /ash/shell.h
+//   - references /ash/system/camera/autozoom_controller_impl.h
+// ---
+
 #include "ash/system/camera/autozoom_feature_pod_controller.h"
 
 #include <memory>

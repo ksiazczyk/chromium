@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze bubble view implementation
+// summary: Implements the FaceGaze bubble view shown at the top of the screen, displaying the latest recognized facial gesture and action with an icon, label, and close button.
+// relations:
+//   - implements /ash/system/accessibility/facegaze_bubble_view.h
+// ---
+
 #include "ash/system/accessibility/facegaze_bubble_view.h"
 
 #include <memory>

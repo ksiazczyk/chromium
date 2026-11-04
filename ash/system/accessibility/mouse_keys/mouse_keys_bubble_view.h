@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MouseKeysBubbleView class declaration
+// summary: Declares the bubble dialog view that displays mouse keys status icons and text, with accessors for testing and view builder metadata.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/memory/raw_ptr.h
+//   - references /ui/views/bubble/bubble_dialog_delegate_view.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_MOUSE_KEYS_MOUSE_KEYS_BUBBLE_VIEW_H_
 #define ASH_SYSTEM_ACCESSIBILITY_MOUSE_KEYS_MOUSE_KEYS_BUBBLE_VIEW_H_
 

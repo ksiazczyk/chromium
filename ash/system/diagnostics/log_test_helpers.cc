@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Log test helpers implementation
+// summary: Provides helper functions that split diagnostic log contents into lines and parse line fields for use in tests.
+// relations:
+//   - implements /ash/system/diagnostics/log_test_helpers.h
+//   - depends_on /base/strings/string_split.h
+// ---
+
 #include "ash/system/diagnostics/log_test_helpers.h"
 
 #include <string>

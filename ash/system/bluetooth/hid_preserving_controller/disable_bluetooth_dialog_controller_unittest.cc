@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the disable Bluetooth warning dialog
+// summary: Unit tests verifying that accepting or cancelling the warning dialog invokes the callback with the matching result and destroys the dialog widget.
+// relations:
+//   - tests /ash/system/bluetooth/hid_preserving_controller/disable_bluetooth_dialog_controller_impl.h
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/system/bluetooth/hid_preserving_controller/disable_bluetooth_dialog_controller_impl.h"
 #include "ash/test/ash_test_base.h"

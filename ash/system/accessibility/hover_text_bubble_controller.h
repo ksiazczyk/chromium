@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover Text bubble controller declaration
+// summary: Declares HoverTextBubbleController and its properties struct for updating text, font styling, anchor bounds, and visibility of the Hover Text bubble widget.
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_HOVER_TEXT_BUBBLE_CONTROLLER_H_
 #define ASH_SYSTEM_ACCESSIBILITY_HOVER_TEXT_BUBBLE_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media cast audio selector view header
+// summary: Declares MediaCastAudioSelectorView, the Ash device selector that shows audio and cast device lists under the global media item UI.
+// relations:
+//   - depends_on /components/global_media_controls/public/views/media_item_ui_device_selector.h
+//   - depends_on /ash/system/cast/media_cast_list_view.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_SYSTEM_CAST_MEDIA_CAST_AUDIO_SELECTOR_VIEW_H_
 #define ASH_SYSTEM_CAST_MEDIA_CAST_AUDIO_SELECTOR_VIEW_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze bubble controller implementation
+// summary: Implements the controller that shows and positions the FaceGaze bubble, handling display rotation, mouse hover hiding and close button callbacks.
+// relations:
+//   - implements /ash/system/accessibility/facegaze_bubble_controller.h
+// ---
+
 #include "ash/system/accessibility/facegaze_bubble_controller.h"
 
 #include "ash/system/accessibility/facegaze_bubble_view.h"

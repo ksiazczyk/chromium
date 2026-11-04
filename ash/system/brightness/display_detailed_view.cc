@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display detailed view implementation
+// summary: Implements the quick settings display detailed view, which hosts night light and dark mode feature tiles plus a brightness slider.
+// relations:
+//   - implements /ash/system/brightness/display_detailed_view.h
+//   - depends_on /ash/system/brightness/unified_brightness_slider_controller.h
+//   - depends_on /ash/system/dark_mode/dark_mode_feature_pod_controller.h
+// ---
+
 #include "ash/system/brightness/display_detailed_view.h"
 
 #include <memory>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake BluetoothDeviceListController implementation
+// summary: Implements the fake BluetoothDeviceListController, recording the Bluetooth enabled state and connected device counts for tests.
+// relations:
+//   - implemented_by /ash/system/bluetooth/fake_bluetooth_device_list_controller.h
+// ---
+
 #include "ash/system/bluetooth/fake_bluetooth_device_list_controller.h"
 
 namespace ash {

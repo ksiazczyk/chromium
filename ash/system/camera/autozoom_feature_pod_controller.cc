@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autozoom quick settings tile controller implementation
+// summary: Implements the quick settings feature tile that toggles autozoom and updates its label, tooltip, visibility, and metrics.
+// relations:
+//   - implements /ash/system/camera/autozoom_feature_pod_controller.h
+//   - references /ash/constants/quick_settings_catalogs.h
+//   - references /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/system/camera/autozoom_feature_pod_controller.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth detailed view implementation
+// summary: Implements a fake Bluetooth detailed view used in tests, recording device list items, sub headers, and device list change notifications.
+// relations:
+//   - implemented_by /ash/system/bluetooth/fake_bluetooth_detailed_view.h
+// ---
+
 #include "ash/system/bluetooth/fake_bluetooth_detailed_view.h"
 
 #include "ash/system/bluetooth/bluetooth_device_list_item_view.h"

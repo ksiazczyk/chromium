@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firmware update notification controller implementation
+// summary: Implements notifications for fwupd firmware update events, showing an update-available notification that opens the firmware update UI for eligible users.
+// relations:
+//   - implements /ash/system/firmware_update/firmware_update_notification_controller.h
+// ---
+
 #include "ash/system/firmware_update/firmware_update_notification_controller.h"
 
 #include <optional>

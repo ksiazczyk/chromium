@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth feature pod controller implementation
+// summary: Implements the Quick Settings Bluetooth feature tile controller that toggles Bluetooth on or off, opens the detailed device list, and tracks metrics and connected device info.
+// relations:
+//   - implements /ash/system/bluetooth/bluetooth_feature_pod_controller.h
+//   - references /ash/system/bluetooth/bluetooth_state_cache.h
+//   - references /ash/system/unified/feature_tile.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_feature_pod_controller.h"
 
 #include <string>

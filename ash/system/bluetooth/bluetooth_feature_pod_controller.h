@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth feature pod controller class declaration
+// summary: Declares the BluetoothFeaturePodController class that manages the Quick Settings Bluetooth tile, including icon, label, tooltip, and Bluetooth system state observation.
+// relations:
+//   - references /ash/system/unified/feature_pod_controller_base.h
+//   - references /ash/constants/quick_settings_catalogs.h
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_BLUETOOTH_FEATURE_POD_CONTROLLER_H_
 #define ASH_SYSTEM_BLUETOOTH_BLUETOOTH_FEATURE_POD_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified cast detailed view controller implementation
+// summary: Implements the controller that creates the Cast detailed view for the unified system tray and supplies its accessible name from localized Ash strings.
+// relations:
+//   - implements /ash/system/cast/unified_cast_detailed_view_controller.h
+//   - depends_on /ash/system/cast/cast_detailed_view.h
+//   - depends_on /ash/system/tray/detailed_view_delegate.h
+// ---
+
 #include "ash/system/cast/unified_cast_detailed_view_controller.h"
 
 #include "ash/strings/grit/ash_strings.h"

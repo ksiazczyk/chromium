@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for extended_updates
+summary: Lists the code owners responsible for reviewing changes in the extended_updates directory.

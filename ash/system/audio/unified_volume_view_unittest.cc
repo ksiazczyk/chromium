@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unified volume view unit tests
+// summary: Unit tests for UnifiedVolumeView checking slider components, volume level icons, live caption button behavior and drill-in navigation to the audio detailed view.
+// relations:
+//   - tests /ash/system/audio/unified_volume_view.h
+//   - tests /ash/system/audio/unified_volume_view.cc
+//   - tests /ash/system/audio/unified_volume_slider_controller.h
+// ---
+
 #include "ash/system/audio/unified_volume_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

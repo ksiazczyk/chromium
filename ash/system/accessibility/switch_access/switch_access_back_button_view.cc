@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access back button view implementation
+// summary: Implements the circular Switch Access back button view, including its icon, focus ring painting, and alternate close icon for menu mode.
+// relations:
+//   - implements /ash/system/accessibility/switch_access/switch_access_back_button_view.h
+//   - references /ash/system/accessibility/floating_menu_button.h
+// ---
+
 #include "ash/system/accessibility/switch_access/switch_access_back_button_view.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disable Bluetooth dialog controller interface
+// summary: Declares the DisableBluetoothDialogController interface that shows a UI-blocking dialog warning that disabling Bluetooth will disconnect paired HID input devices.
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_DISABLE_BLUETOOTH_DIALOG_CONTROLLER_H_
 #define ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_DISABLE_BLUETOOTH_DIALOG_CONTROLLER_H_
 

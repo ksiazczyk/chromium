@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseDomainObserver interface header
+// summary: Declares the EnterpriseDomainObserver interface in the ash namespace with callbacks for device enterprise info changes and enterprise account domain changes.
+// ---
+
 #ifndef ASH_SYSTEM_ENTERPRISE_ENTERPRISE_DOMAIN_OBSERVER_H_
 #define ASH_SYSTEM_ENTERPRISE_ENTERPRISE_DOMAIN_OBSERVER_H_
 

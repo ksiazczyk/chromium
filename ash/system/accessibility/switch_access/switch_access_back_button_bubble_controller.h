@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access back button bubble controller header
+// summary: Declares the SwitchAccessBackButtonBubbleController class, a TrayBubbleView delegate that manages the Switch Access back button bubble.
+// relations:
+//   - references /ash/system/tray/tray_bubble_view.h
+//   - references /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_SWITCH_ACCESS_SWITCH_ACCESS_BACK_BUTTON_BUBBLE_CONTROLLER_H_
 #define ASH_SYSTEM_ACCESSIBILITY_SWITCH_ACCESS_SWITCH_ACCESS_BACK_BUTTON_BUBBLE_CONTROLLER_H_
 

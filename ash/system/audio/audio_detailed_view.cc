@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio detailed view implementation
+// summary: Implements the quick settings audio detailed view with volume and mic gain sliders, device lists, and toggles for noise cancellation, style transfer and live caption.
+// relations:
+//   - implements /ash/system/audio/audio_detailed_view.h
+//   - references /ash/system/audio/audio_detailed_view_utils.h
+// ---
+
 #include "ash/system/audio/audio_detailed_view.h"
 
 #include <memory>

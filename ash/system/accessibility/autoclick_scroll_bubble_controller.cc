@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoclick scroll bubble controller implementation
+// summary: Implements the controller for the autoclick scroll bubble, positioning the scroll menu relative to scrollable areas and the user's selected scroll point.
+// relations:
+//   - implements /ash/system/accessibility/autoclick_scroll_bubble_controller.h
+// ---
+
 #include "ash/system/accessibility/autoclick_scroll_bubble_controller.h"
 
 #include "ash/bubble/bubble_constants.h"

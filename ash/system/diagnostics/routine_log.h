@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoutineLog class header
+// summary: Declares RoutineLog, which records the status and outcome of diagnostics routines in category log files.
+// relations:
+//   - references /ash/ash_export.h
+//   - depends_on /ash/system/diagnostics/async_log.h
+//   - references /base/containers/flat_map.h
+// ---
+
 #ifndef ASH_SYSTEM_DIAGNOSTICS_ROUTINE_LOG_H_
 #define ASH_SYSTEM_DIAGNOSTICS_ROUTINE_LOG_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating accessibility detailed controller class declarations
+// summary: Declares FloatingAccessibilityDetailedController, which shows and manages the detailed accessibility bubble view and handles activation and close events.
+// relations:
+//   - depends_on /ash/system/tray/detailed_view_delegate.h
+//   - depends_on /ash/system/tray/tray_bubble_view.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_FLOATING_ACCESSIBILITY_DETAILED_CONTROLLER_H_
 #define ASH_SYSTEM_ACCESSIBILITY_FLOATING_ACCESSIBILITY_DETAILED_CONTROLLER_H_
 

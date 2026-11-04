@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TelemetryLog unit tests
+// summary: Unit tests verifying the formatted telemetry log contents for system info and updates to the log.
+// relations:
+//   - tests /ash/system/diagnostics/telemetry_log.h
+//   - references /ash/system/diagnostics/log_test_helpers.h
+//   - references /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/system/diagnostics/telemetry_log.h"
 
 #include "ash/system/diagnostics/log_test_helpers.h"

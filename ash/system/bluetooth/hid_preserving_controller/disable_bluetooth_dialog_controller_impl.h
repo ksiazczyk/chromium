@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disable Bluetooth dialog controller implementation class
+// summary: Declares DisableBluetoothDialogControllerImpl, the production implementation that shows the warning dialog and observes its widget lifecycle.
+// relations:
+//   - implements /ash/system/bluetooth/hid_preserving_controller/disable_bluetooth_dialog_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_DISABLE_BLUETOOTH_DIALOG_CONTROLLER_IMPL_H_
 #define ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_DISABLE_BLUETOOTH_DIALOG_CONTROLLER_IMPL_H_
 

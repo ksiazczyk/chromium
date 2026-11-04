@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media cast audio selector view implementation
+// summary: Implements the Ash device selector view that hosts an audio list view and a cast list view beneath the global media item UI.
+// relations:
+//   - implements /ash/system/cast/media_cast_audio_selector_view.h
+//   - references /ash/system/audio/output_audio_sliders_view.h
+//   - references /ash/system/cast/media_cast_list_view.h
+// ---
+
 #include "ash/system/cast/media_cast_audio_selector_view.h"
 
 #include <algorithm>

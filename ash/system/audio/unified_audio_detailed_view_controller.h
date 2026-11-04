@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified audio detailed view controller header
+// summary: Declares UnifiedAudioDetailedViewController, which manages the AudioDetailedView for the unified system tray and observes CrasAudioHandler audio changes.
+// relations:
+//   - depends_on /ash/system/unified/detailed_view_controller.h
+//   - depends_on /chromeos/ash/components/audio/cras_audio_handler.h
+//   - references /ash/system/audio/audio_detailed_view.h
+// ---
+
 #ifndef ASH_SYSTEM_AUDIO_UNIFIED_AUDIO_DETAILED_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_AUDIO_UNIFIED_AUDIO_DETAILED_VIEW_CONTROLLER_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mic gain slider view implementation
+// summary: Implements the microphone gain slider view, updating its state from CrasAudioHandler for mute, gain, and active input node changes.
+// relations:
+//   - implements /ash/system/audio/mic_gain_slider_view.h
+// ---
+
 #include "ash/system/audio/mic_gain_slider_view.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

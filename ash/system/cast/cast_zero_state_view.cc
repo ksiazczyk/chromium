@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast zero state view implementation
+// summary: Implements the view shown in the quick settings system tray when no cast targets are available, with a placeholder image, title and subtitle.
+// relations:
+//   - implements /ash/system/cast/cast_zero_state_view.h
+//   - references /ash/style/rounded_container.h
+//   - references /ui/views/layout/box_layout.h
+// ---
+
 #include "ash/system/cast/cast_zero_state_view.h"
 
 #include <memory>

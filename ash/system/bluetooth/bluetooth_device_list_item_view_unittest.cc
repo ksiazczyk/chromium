@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BluetoothDeviceListItemView
+// summary: Unit tests verifying that the device list item view renders device names, icons, connection states, and single or multiple battery information correctly.
+// relations:
+//   - tests /ash/system/bluetooth/bluetooth_device_list_item_view.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_device_list_item_view.h"
 
 #include <cstdint>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BluetoothDeviceListItemMultipleBatteryView
+// summary: Unit tests checking that the multiple battery view creates, updates, and removes battery views for left bud, case, and right bud as battery info changes.
+// relations:
+//   - tests /ash/system/bluetooth/bluetooth_device_list_item_multiple_battery_view.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_device_list_item_multiple_battery_view.h"
 
 #include <optional>

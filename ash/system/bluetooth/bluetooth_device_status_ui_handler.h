@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDeviceStatusUiHandler header
+// summary: Declares the observer class that listens for Bluetooth device pairing, connection, and disconnection events and displays corresponding toasts.
+// relations:
+//   - references /ash/public/cpp/system/toast_manager.h
+//   - references /components/prefs/pref_service.h
+//   - references /components/prefs/pref_registry_simple.h
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DEVICE_STATUS_UI_HANDLER_H_
 #define ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DEVICE_STATUS_UI_HANDLER_H_
 

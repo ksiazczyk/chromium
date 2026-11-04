@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayDetailedView class declaration
+// summary: Declares the DisplayDetailedView shown when drilling in next to the brightness slider, containing night light and dark mode tiles and a brightness slider.
+// relations:
+//   - implements /ash/system/tray/tray_detailed_view.h
+//   - references /ash/system/brightness/unified_brightness_slider_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_BRIGHTNESS_DISPLAY_DETAILED_VIEW_H_
 #define ASH_SYSTEM_BRIGHTNESS_DISPLAY_DETAILED_VIEW_H_
 

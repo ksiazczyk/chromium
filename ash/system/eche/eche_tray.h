@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche tray class declaration
+// summary: Declares EcheTray, the status area tray button for the Eche app that controls its bubble and observes session, shelf, display, keyboard, and connection status changes.
+// relations:
+//   - implements /ash/public/cpp/keyboard/keyboard_controller_observer.h
+//   - implements /ash/public/cpp/session/session_observer.h
+//   - implements /ash/shelf/shelf_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_ECHE_ECHE_TRAY_H_
 #define ASH_SYSTEM_ECHE_ECHE_TRAY_H_
 

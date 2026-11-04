@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardInputLog class declaration
+// summary: Declares KeyboardInputLog and supporting structs that capture key code and scan code data for keyboards tested in the Diagnostics App.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/diagnostics/async_log.h
+//   - depends_on /base/containers/flat_map.h
+// ---
+
 #ifndef ASH_SYSTEM_DIAGNOSTICS_KEYBOARD_INPUT_LOG_H_
 #define ASH_SYSTEM_DIAGNOSTICS_KEYBOARD_INPUT_LOG_H_
 

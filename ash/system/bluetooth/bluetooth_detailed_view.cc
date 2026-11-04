@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDetailedView factory implementation
+// summary: Implements the BluetoothDetailedView factory, creating real or test instances of the detailed Bluetooth quick settings view.
+// relations:
+//   - implements /ash/system/bluetooth/bluetooth_detailed_view.h
+//   - depends_on /ash/system/bluetooth/bluetooth_detailed_view_impl.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_detailed_view.h"
 
 #include "ash/system/bluetooth/bluetooth_detailed_view_impl.h"

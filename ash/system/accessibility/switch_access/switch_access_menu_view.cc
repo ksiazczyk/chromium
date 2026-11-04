@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access menu view implementation
+// summary: Implements the Switch Access menu view, mapping menu action names to vector icons and localized label strings for the accessibility menu bubble.
+// relations:
+//   - depends_on /ash/system/accessibility/switch_access/switch_access_menu_button.h
+// ---
+
 #include "ash/system/accessibility/switch_access/switch_access_menu_view.h"
 
 #include "ash/accessibility/accessibility_controller.h"

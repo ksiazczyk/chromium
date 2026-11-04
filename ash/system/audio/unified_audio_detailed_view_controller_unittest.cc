@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unified audio detailed view controller unit tests
+// summary: Extensive unit tests for the unified audio detailed view controller and AudioDetailedView, covering input and output devices, mic gain, live caption, SODA speech file downloads and voice isolation UI.
+// relations:
+//   - tests /ash/system/audio/unified_audio_detailed_view_controller.h
+//   - tests /ash/system/audio/audio_detailed_view.h
+// ---
+
 #include "ash/system/audio/unified_audio_detailed_view_controller.h"
 
 #include <string_view>

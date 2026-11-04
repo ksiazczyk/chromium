@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified brightness slider controller implementation
+// summary: Implements the quick settings brightness slider controller, enforcing a minimum brightness percent and forwarding slider changes to the brightness control delegate.
+// relations:
+//   - implements /ash/system/brightness/unified_brightness_slider_controller.h
+// ---
+
 #include "ash/system/brightness/unified_brightness_slider_controller.h"
 
 #include <memory>

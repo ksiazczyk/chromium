@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified volume slider controller header
+// summary: Declares UnifiedVolumeSliderController and its delegate, which drive volume slider views for Quick Settings and the audio detailed view, including a test hook mapping devices to sliders.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/constants/quick_settings_catalogs.h
+//   - references /ash/system/tray/tray_constants.h
+// ---
+
 #ifndef ASH_SYSTEM_AUDIO_UNIFIED_VOLUME_SLIDER_CONTROLLER_H_
 #define ASH_SYSTEM_AUDIO_UNIFIED_VOLUME_SLIDER_CONTROLLER_H_
 

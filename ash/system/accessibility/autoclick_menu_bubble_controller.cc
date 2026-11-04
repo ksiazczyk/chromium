@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoclick menu bubble controller implementation
+// summary: Implements the controller managing the autoclick accessibility menu bubble, handling event type changes, positioning, display updates, and the associated scroll bubble.
+// relations:
+//   - implements /ash/system/accessibility/autoclick_menu_bubble_controller.h
+//   - depends_on /ash/system/accessibility/autoclick_scroll_bubble_controller.h
+// ---
+
 #include "ash/system/accessibility/autoclick_menu_bubble_controller.h"
 
 #include <stdint.h>

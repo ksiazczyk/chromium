@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media cast audio selector view unit tests
+// summary: Unit tests for the media cast audio selector view, covering visibility changes and device list updates with mocked device service callbacks.
+// relations:
+//   - tests /ash/system/cast/media_cast_audio_selector_view.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #include "ash/system/cast/media_cast_audio_selector_view.h"
 
 #include <memory>

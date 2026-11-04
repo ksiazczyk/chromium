@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access menu button implementation
+// summary: Implements the Switch Access menu button, laying out an icon and label with adaptive padding and accessibility metadata for menu actions.
+// relations:
+//   - implements /ash/system/accessibility/switch_access/switch_access_menu_button.h
+//   - depends_on /ash/style/ash_color_id.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/system/accessibility/switch_access/switch_access_menu_button.h"
 
 #include "ash/style/ash_color_id.h"

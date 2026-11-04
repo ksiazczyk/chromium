@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility detailed view unit tests
+// summary: Unit tests covering the accessibility detailed view, including feature toggles, SODA download progress, and accessibility states.
+// relations:
+//   - tests /ash/system/accessibility/accessibility_detailed_view.h
+// ---
+
 #include "ash/system/accessibility/accessibility_detailed_view.h"
 
 #include <memory>

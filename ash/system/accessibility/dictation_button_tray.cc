@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation button tray implementation
+// summary: Implements the status area tray button that toggles Dictation, updating its icon, enabled state and SODA speech download progress indicator.
+// relations:
+//   - implements /ash/system/accessibility/dictation_button_tray.h
+//   - references /ash/accessibility/accessibility_controller.h
+//   - references /ash/shell.h
+// ---
+
 #include "ash/system/accessibility/dictation_button_tray.h"
 
 #include "ash/accessibility/accessibility_controller.h"

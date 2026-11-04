@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility detailed view pixel tests
+// summary: Pixel tests that verify the rendered appearance of the accessibility detailed view with and without system blur.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/system/unified/unified_system_tray.h"
 #include "ash/system/unified/unified_system_tray_bubble.h"

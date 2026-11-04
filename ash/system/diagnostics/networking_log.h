@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkingLog class declaration
+// summary: Declares NetworkingLog, which tracks network lists and states and logs network information and events for the Diagnostics App.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/diagnostics/async_log.h
+//   - depends_on /base/gtest_prod_util.h
+// ---
+
 #ifndef ASH_SYSTEM_DIAGNOSTICS_NETWORKING_LOG_H_
 #define ASH_SYSTEM_DIAGNOSTICS_NETWORKING_LOG_H_
 

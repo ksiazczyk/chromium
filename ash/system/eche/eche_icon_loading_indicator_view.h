@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche icon loading indicator view class declaration
+// summary: Declares EcheIconLoadingIndicatorView, an Ash view that draws a spinner around a given parent view using a throb animation.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/scoped_observation.h
+//   - references /ui/gfx/animation/throb_animation.h
+// ---
+
 #ifndef ASH_SYSTEM_ECHE_ECHE_ICON_LOADING_INDICATOR_VIEW_H_
 #define ASH_SYSTEM_ECHE_ECHE_ICON_LOADING_INDICATOR_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncLog implementation
+// summary: Implements AsyncLog, which creates and appends diagnostics log files asynchronously on a sequenced task runner.
+// relations:
+//   - implements /ash/system/diagnostics/async_log.h
+//   - depends_on /base/task/sequenced_task_runner.h
+//   - depends_on /base/task/thread_pool.h
+// ---
+
 #include "ash/system/diagnostics/async_log.h"
 
 #include "base/files/file_util.h"

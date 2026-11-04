@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for diagnostics Mojom directory
+summary: Grants IPC security owners review rights over Mojom and Mojom traits files in this directory.

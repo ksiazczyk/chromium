@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth detailed view unit tests
+// summary: Unit tests for BluetoothDetailedViewImpl covering the settings button, Bluetooth toggle, pair-new-device row and device list item selection.
+// relations:
+//   - tests /ash/system/bluetooth/bluetooth_detailed_view_impl.h
+//   - tests /ash/system/bluetooth/bluetooth_detailed_view_impl.cc
+// ---
+
 #include "ash/system/bluetooth/bluetooth_detailed_view_impl.h"
 
 #include <memory>

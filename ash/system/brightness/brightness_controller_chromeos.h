@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrightnessControllerChromeos class declaration
+// summary: Declares the BrightnessControllerChromeos class, a brightness control delegate that observes power manager, session, and login events to manage screen brightness.
+// relations:
+//   - implements /ash/login/ui/login_data_dispatcher.h
+//   - implements /ash/public/cpp/session/session_observer.h
+//   - implements /ash/system/brightness_control_delegate.h
+// ---
+
 #ifndef ASH_SYSTEM_BRIGHTNESS_BRIGHTNESS_CONTROLLER_CHROMEOS_H_
 #define ASH_SYSTEM_BRIGHTNESS_BRIGHTNESS_CONTROLLER_CHROMEOS_H_
 

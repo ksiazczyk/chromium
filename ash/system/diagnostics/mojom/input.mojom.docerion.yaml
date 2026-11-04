@@ -1,0 +1,4 @@
+# Docerion header of input.mojom.
+type: source
+title: Input diagnostics Mojom definitions
+summary: Defines stable enums and structs describing connected keyboards and touchpads for the ChromeOS Diagnostics UI, kept in sync with the ChromiumOS platform2 copy.

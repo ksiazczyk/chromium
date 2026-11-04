@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover Text bubble view declaration
+// summary: Declares the HoverTextBubbleView bubble dialog that renders hover text with configurable font scale and style, including test accessors.
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_HOVER_TEXT_BUBBLE_VIEW_H_
 #define ASH_SYSTEM_ACCESSIBILITY_HOVER_TEXT_BUBBLE_VIEW_H_
 

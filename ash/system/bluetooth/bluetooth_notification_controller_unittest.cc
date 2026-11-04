@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth notification controller unit tests
+// summary: Tests Bluetooth pairing notifications and discoverable toasts using mock Bluetooth adapters and devices together with a fake message center.
+// relations:
+//   - tests /ash/system/bluetooth/bluetooth_notification_controller.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_notification_controller.h"
 
 #include <memory>

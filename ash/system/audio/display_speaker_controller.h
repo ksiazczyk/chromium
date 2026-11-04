@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display speaker controller header
+// summary: Declares a controller that manages HDMI display audio and internal speaker state based on display rotation and suspend events.
+// relations:
+//   - depends_on /chromeos/dbus/power/power_manager_client.h
+//   - depends_on /ui/display/display.h
+//   - depends_on /ui/display/display_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_AUDIO_DISPLAY_SPEAKER_CONTROLLER_H_
 #define ASH_SYSTEM_AUDIO_DISPLAY_SPEAKER_CONTROLLER_H_
 

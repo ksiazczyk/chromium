@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating accessibility menu controller implementation
+// summary: Implements the controller for the kiosk-only floating accessibility menu, managing its bubble widget, positioning, detailed view, and accessibility status updates.
+// relations:
+//   - implements /ash/system/accessibility/floating_accessibility_controller.h
+// ---
+
 #include "ash/system/accessibility/floating_accessibility_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

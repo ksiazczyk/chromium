@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating accessibility view class declarations
+// summary: Declares FloatingAccessibilityBubbleView and FloatingAccessibilityView, the floating menu showing accessibility options with feature buttons and a delegate interface.
+// relations:
+//   - references /ash/public/cpp/keyboard/keyboard_controller_observer.h
+//   - references /ash/system/tray/system_tray_observer.h
+//   - references /ash/system/tray/tray_bubble_view.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_FLOATING_ACCESSIBILITY_VIEW_H_
 #define ASH_SYSTEM_ACCESSIBILITY_FLOATING_ACCESSIBILITY_VIEW_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDeviceListItemMultipleBatteryView header
+// summary: Declares the view class that manages battery displays for a device's left bud, case, and right bud within the Bluetooth device list.
+// relations:
+//   - depends_on /ash/system/bluetooth/bluetooth_device_list_item_battery_view.h
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DEVICE_LIST_ITEM_MULTIPLE_BATTERY_VIEW_H_
 #define ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DEVICE_LIST_ITEM_MULTIPLE_BATTERY_VIEW_H_
 

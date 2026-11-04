@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnifiedBrightnessView unit tests
+// summary: AshTestBase-based unit tests verifying the brightness slider view and controller behavior, including brightness changes, Night Light button state, and bubble open and close teardown cases.
+// relations:
+//   - tests /ash/system/brightness/unified_brightness_view.h
+// ---
+
 #include "ash/system/brightness/unified_brightness_view.h"
 
 #include <optional>

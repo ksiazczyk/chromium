@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-speak speed bubble controller declaration
+// summary: Declares the controller managing the Select-to-speak reading speed bubble, its visibility, and the speech rate selection delegate.
+// relations:
+//   - implements /ash/system/tray/tray_bubble_view.h
+//   - implements /ui/wm/public/activation_change_observer.h
+//   - references /ash/system/accessibility/select_to_speak/select_to_speak_speed_view.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_SELECT_TO_SPEAK_SELECT_TO_SPEAK_SPEED_BUBBLE_CONTROLLER_H_
 #define ASH_SYSTEM_ACCESSIBILITY_SELECT_TO_SPEAK_SELECT_TO_SPEAK_SPEED_BUBBLE_CONTROLLER_H_
 

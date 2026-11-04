@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating menu positioning helper declarations
+// summary: Declares helper functions that determine the default floating menu position, on-screen bounds, and anchor alignment used by floating menus.
+// relations:
+//   - references /ui/views/bubble/bubble_border.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_FLOATING_MENU_UTILS_H_
 #define ASH_SYSTEM_ACCESSIBILITY_FLOATING_MENU_UTILS_H_
 

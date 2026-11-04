@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BluetoothDeviceListItemBatteryView
+// summary: Unit tests verifying that the battery view updates its icon and label as the battery percentage changes, including the 20 percent icon update threshold and the low-battery color alert.
+// relations:
+//   - tests /ash/system/bluetooth/bluetooth_device_list_item_battery_view.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_device_list_item_battery_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

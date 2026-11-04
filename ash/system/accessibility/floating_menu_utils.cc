@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating menu positioning helpers implementation
+// summary: Implements helpers that compute the default floating menu position, on-screen bounds for each menu position, and bubble anchor alignment for LTR and RTL layouts.
+// relations:
+//   - implements /ash/system/accessibility/floating_menu_utils.h
+// ---
+
 #include "ash/system/accessibility/floating_menu_utils.h"
 
 #include "ash/public/cpp/accessibility_controller_enums.h"

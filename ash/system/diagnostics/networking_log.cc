@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkingLog implementation
+// summary: Implements NetworkingLog, which records network state information and events such as WiFi joins, leaves, and roaming into a network events log.
+// relations:
+//   - implements /ash/system/diagnostics/networking_log.h
+//   - depends_on /base/check.h
+//   - depends_on /base/check_is_test.h
+// ---
+
 #include "ash/system/diagnostics/networking_log.h"
 
 #include <algorithm>

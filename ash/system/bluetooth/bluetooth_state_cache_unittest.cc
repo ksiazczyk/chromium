@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth state cache unit tests
+// summary: Verifies that the Bluetooth state cache reflects enabled and disabled adapter system states via the fake adapter state controller.
+// relations:
+//   - tests /ash/system/bluetooth/bluetooth_state_cache.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_state_cache.h"
 
 #include "ash/shell.h"

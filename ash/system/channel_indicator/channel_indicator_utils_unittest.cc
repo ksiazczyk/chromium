@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChannelIndicatorUtils unit tests
+// summary: Unit tests for the Ash channel indicator utilities, verifying channel displayability, channel name string resource IDs, foreground and background colors, and full release track strings.
+// ---
+
 #include "ash/system/channel_indicator/channel_indicator_utils.h"
 
 #include <string>

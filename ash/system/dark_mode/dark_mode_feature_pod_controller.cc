@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dark mode feature pod controller implementation
+// summary: Implements the quick settings tile controller that toggles dark mode, disables auto scheduling on toggle, and records UMA metrics.
+// relations:
+//   - implements /ash/system/dark_mode/dark_mode_feature_pod_controller.h
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/system/dark_mode/dark_mode_feature_pod_controller.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

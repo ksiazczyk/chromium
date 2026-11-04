@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoclick scroll view header
+// summary: Declares the scroll bubble view and scroll menu view for automatic clicks, including scroll direction button IDs and anchor and inset update methods.
+// relations:
+//   - references /ash/accessibility/autoclick/autoclick_controller.h
+//   - references /ash/system/tray/tray_bubble_view.h
+//   - references /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_AUTOCLICK_SCROLL_VIEW_H_
 #define ASH_SYSTEM_ACCESSIBILITY_AUTOCLICK_SCROLL_VIEW_H_
 

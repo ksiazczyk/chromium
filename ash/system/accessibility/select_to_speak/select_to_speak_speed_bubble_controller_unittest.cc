@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select-to-Speak speed bubble controller unit tests
+// summary: Unit tests for the Select-to-Speak speed bubble controller, verifying speed option selection, bubble behavior, and accessible names.
+// relations:
+//   - tests /ash/system/accessibility/select_to_speak/select_to_speak_speed_bubble_controller.h
+// ---
+
 #include "ash/system/accessibility/select_to_speak/select_to_speak_speed_bubble_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

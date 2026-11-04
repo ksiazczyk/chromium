@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified volume view header
+// summary: Declares UnifiedVolumeView, a Quick Settings volume slider with live caption and audio settings buttons, exposing volume level icons used by tests.
+// relations:
+//   - references /ash/system/audio/unified_volume_slider_controller.h
+//   - references /ash/system/unified/quick_settings_slider.h
+//   - references /ash/system/unified/unified_slider_view.h
+// ---
+
 #ifndef ASH_SYSTEM_AUDIO_UNIFIED_VOLUME_VIEW_H_
 #define ASH_SYSTEM_AUDIO_UNIFIED_VOLUME_VIEW_H_
 

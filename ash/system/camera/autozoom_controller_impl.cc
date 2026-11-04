@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autozoom controller implementation
+// summary: Implements the autozoom controller that tracks active camera clients, syncs auto-framing state with user prefs and the camera HAL, and notifies observers.
+// relations:
+//   - implements /ash/system/camera/autozoom_controller_impl.h
+//   - references /ash/constants/ash_pref_names.h
+//   - references /ash/public/cpp/system/anchored_nudge_manager.h
+// ---
+
 #include "ash/system/camera/autozoom_controller_impl.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast detailed view class declaration
+// summary: Declares the CastDetailedView class that shows the list of cast receivers in the system tray detailed view.
+// ---
+
 #ifndef ASH_SYSTEM_CAST_CAST_DETAILED_VIEW_H_
 #define ASH_SYSTEM_CAST_CAST_DETAILED_VIEW_H_
 

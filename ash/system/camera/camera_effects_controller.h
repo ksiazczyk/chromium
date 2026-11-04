@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraEffectsController class declaration
+// summary: Declares the CameraEffectsController interface for camera effects, including background blur pref enums, background image info, and profile pref registration.
+// relations:
+//   - references /ash/ash_prefs.cc
+// ---
+
 #ifndef ASH_SYSTEM_CAMERA_CAMERA_EFFECTS_CONTROLLER_H_
 #define ASH_SYSTEM_CAMERA_CAMERA_EFFECTS_CONTROLLER_H_
 

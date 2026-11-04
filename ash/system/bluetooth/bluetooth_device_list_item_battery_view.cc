@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device list item battery view
+// summary: Implements the battery icon and percentage label for a Bluetooth device list item, using alert coloring below 25 percent and throttling updates.
+// relations:
+//   - implemented_by /ash/system/bluetooth/bluetooth_device_list_item_battery_view.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_device_list_item_battery_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

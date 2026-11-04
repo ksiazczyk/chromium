@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device list controller interface
+// summary: Defines the interface for adding, updating and removing devices in the quick settings Bluetooth device list, including its factory.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - references /ash/system/bluetooth/bluetooth_detailed_view.h
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DEVICE_LIST_CONTROLLER_H_
 #define ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DEVICE_LIST_CONTROLLER_H_
 

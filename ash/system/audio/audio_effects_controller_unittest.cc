@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio effects controller unit tests
+// summary: Unit tests for the audio effects controller covering effect support and state across audio node configurations with noise cancellation and style transfer capabilities.
+// relations:
+//   - tests /ash/system/audio/audio_effects_controller.cc
+// ---
+
 #include "ash/system/audio/audio_effects_controller.h"
 
 #include <vector>

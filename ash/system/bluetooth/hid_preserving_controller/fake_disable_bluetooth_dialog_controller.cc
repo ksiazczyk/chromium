@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake disable Bluetooth dialog controller
+// summary: Provides a fake dialog controller for tests that records show-dialog calls and lets tests complete the stored callback with a chosen result.
+// relations:
+//   - implements /ash/system/bluetooth/hid_preserving_controller/fake_disable_bluetooth_dialog_controller.h
+// ---
+
 #include "ash/system/bluetooth/hid_preserving_controller/fake_disable_bluetooth_dialog_controller.h"
 
 #include "ash/constants/ash_features.h"

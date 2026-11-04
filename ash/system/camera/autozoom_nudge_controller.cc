@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autozoom nudge controller implementation
+// summary: Implements the autozoom nudge controller that limits and schedules nudges using per-user preferences and session resets.
+// relations:
+//   - implements /ash/system/camera/autozoom_nudge_controller.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/system/camera/autozoom_nudge_controller.h"
 
 #include "ash/constants/ash_features.h"

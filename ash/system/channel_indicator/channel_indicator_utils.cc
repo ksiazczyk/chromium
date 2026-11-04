@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel indicator utility functions
+// summary: Implements helpers that map release channels to displayability, string resource IDs, foreground and background colors, full release track text, and vector icons.
+// relations:
+//   - implements /ash/system/channel_indicator/channel_indicator_utils.h
+// ---
+
 #include "ash/system/channel_indicator/channel_indicator_utils.h"
 
 #include <string>

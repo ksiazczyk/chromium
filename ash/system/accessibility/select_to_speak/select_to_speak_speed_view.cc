@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-Speak speed selection view implementation
+// summary: Implements the Select-to-Speak reading speed selection list, showing speech rate options and reporting the chosen rate to its delegate.
+// relations:
+//   - implements /ash/system/accessibility/select_to_speak/select_to_speak_speed_view.h
+//   - references /ash/system/accessibility/select_to_speak/select_to_speak_constants.h
+//   - references /ash/system/tray/hover_highlight_view.h
+// ---
+
 #include "ash/system/accessibility/select_to_speak/select_to_speak_speed_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

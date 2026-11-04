@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility detailed view class declaration
+// summary: Declares the AccessibilityDetailedView class that builds the accessibility feature list in the system tray.
+// relations:
+//   - references /ash/accessibility/accessibility_delegate.h
+//   - references /ash/accessibility/accessibility_observer.h
+//   - references /ash/system/tray/tray_detailed_view.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_ACCESSIBILITY_DETAILED_VIEW_H_
 #define ASH_SYSTEM_ACCESSIBILITY_ACCESSIBILITY_DETAILED_VIEW_H_
 

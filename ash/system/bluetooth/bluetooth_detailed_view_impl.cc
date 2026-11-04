@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDetailedViewImpl implementation
+// summary: Implements the concrete detailed Bluetooth view with title row, scrollable device list, toggle, and zero state handling.
+// relations:
+//   - implements /ash/system/bluetooth/bluetooth_detailed_view_impl.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_detailed_view_impl.h"
 
 #include <memory>

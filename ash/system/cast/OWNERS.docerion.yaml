@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the cast system tray directory
+summary: Points to the media router OWNERS file to define the code owners for the ash cast system tray code.

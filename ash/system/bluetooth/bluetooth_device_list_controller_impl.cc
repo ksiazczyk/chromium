@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device list controller implementation
+// summary: Implements device list updates that create, reuse, reorder and remove item views and sub-headers for connected and previously connected devices.
+// relations:
+//   - implements /ash/system/bluetooth/bluetooth_device_list_controller_impl.h
+//   - references /ash/system/bluetooth/bluetooth_detailed_view.h
+//   - references /ash/system/bluetooth/bluetooth_device_list_item_view.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_device_list_controller_impl.h"
 
 #include "ash/strings/grit/ash_strings.h"

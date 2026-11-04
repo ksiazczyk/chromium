@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio detailed view utilities implementation
+// summary: Implements helpers that update the label and checkmark color of audio device views based on mute and active state.
+// relations:
+//   - implements /ash/system/audio/audio_detailed_view_utils.h
+//   - references /ash/system/tray/hover_highlight_view.h
+//   - references /chromeos/ash/components/audio/audio_device.h
+// ---
+
 #include "ash/system/audio/audio_detailed_view_utils.h"
 
 #include "ash/system/tray/hover_highlight_view.h"
