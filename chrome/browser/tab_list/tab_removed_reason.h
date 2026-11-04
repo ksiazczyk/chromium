@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabRemovedReason enum and utility declarations
+// summary: Declares the TabRemovedReason enum describing what happens to a removed tab and the TabRemoveReasonUtils helper class.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_LIST_TAB_REMOVED_REASON_H_
 #define CHROME_BROWSER_TAB_LIST_TAB_REMOVED_REASON_H_
 

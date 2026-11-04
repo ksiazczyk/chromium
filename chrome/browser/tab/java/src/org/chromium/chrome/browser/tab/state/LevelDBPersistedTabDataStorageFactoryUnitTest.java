@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LevelDBPersistedTabDataStorageFactory
+// summary: Robolectric unit tests verifying that the factory reuses storage per profile and destroys it when the profile is destroyed.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.mockito.ArgumentMatchers.any;

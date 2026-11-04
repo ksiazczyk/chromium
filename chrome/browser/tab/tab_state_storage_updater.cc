@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab state storage updater implementation
+// summary: Executes a batch of storage update units atomically within a single tab state database transaction, running callbacks on commit.
+// ---
+
 #include "chrome/browser/tab/tab_state_storage_updater.h"
 
 #include <memory>

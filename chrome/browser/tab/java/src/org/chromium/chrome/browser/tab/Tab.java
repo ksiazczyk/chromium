@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab interface
+// summary: Core Tab interface defining the visual and functional unit that presents content such as web pages and the NTP to users as one of Chrome's managed pages.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.chromium.build.NullUtil.assertNonNull;

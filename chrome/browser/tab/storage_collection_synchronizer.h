@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageCollectionSynchronizer declarations
+// summary: Declares StorageCollectionSynchronizer, which provides storage updates to match the state of a TabStripCollection.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_STORAGE_COLLECTION_SYNCHRONIZER_H_
 #define CHROME_BROWSER_TAB_STORAGE_COLLECTION_SYNCHRONIZER_H_
 

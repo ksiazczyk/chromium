@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group sync test utilities
+// summary: Helper that builds sample SavedTabGroup and SavedTabGroupTab objects for use in tab group sync tests.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import org.chromium.build.annotations.NullMarked;

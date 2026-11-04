@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the form interaction tab helper
+// summary: Verifies that the helper tracks form interaction state across frames and navigations using PerformanceManager and mock tab test harnesses.
+// ---
+
 #include "chrome/browser/tab_contents/form_interaction_tab_helper.h"
 
 #include <memory>

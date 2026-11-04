@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedTabDataConfiguration enum
+// summary: Enum mapping PersistedTabData types to storage implementations and unique storage identifiers, including mock, encrypted and test configurations.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab storage package implementation
+// summary: Implements TabStoragePackage serialization of a TabState protobuf message into a byte payload for storage.
+// ---
+
 #include "chrome/browser/tab/tab_storage_package.h"
 
 #include <utility>

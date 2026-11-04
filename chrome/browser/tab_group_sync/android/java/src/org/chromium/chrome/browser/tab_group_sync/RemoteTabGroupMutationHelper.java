@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote tab group mutation helper
+// summary: Wraps TabGroupSyncService to create and update saved tab groups from local groups, tracking pending closures.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import static org.chromium.build.NullUtil.assertNonNull;

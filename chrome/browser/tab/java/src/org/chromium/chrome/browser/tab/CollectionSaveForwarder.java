@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectionSaveForwarder
+// summary: Forwards save requests for tab strip collections and tab groups to native storage via JNI, allowing collection updates to be driven from Java.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.jni_zero.JNINamespace;

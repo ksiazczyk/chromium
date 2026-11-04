@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncDelegate
+// summary: Android JNI glue layer between the native tab group sync service and tab models across all windows.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import static org.chromium.build.NullUtil.assertNonNull;

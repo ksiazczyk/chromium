@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabAssociatedApp user data
+// summary: Tab user data that tracks the ID of the external application that opened the tab and clears the association on omnibox navigation or IME events.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.chromium.build.NullUtil.assertNonNull;

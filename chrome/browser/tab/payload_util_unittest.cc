@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for payload encryption utilities
+// summary: Unit tests covering key generation, seal and open round trips, bad keys, truncated payloads, and empty payloads.
+// ---
+
 #include "chrome/browser/tab/payload_util.h"
 
 #include <optional>

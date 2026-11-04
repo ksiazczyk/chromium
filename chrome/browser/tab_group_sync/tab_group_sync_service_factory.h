@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync service factory interface
+// summary: Declares the profile-keyed factory that provides the TabGroupSyncService for a profile and returns null for incognito profiles.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_GROUP_SYNC_TAB_GROUP_SYNC_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_TAB_GROUP_SYNC_TAB_GROUP_SYNC_SERVICE_FACTORY_H_
 

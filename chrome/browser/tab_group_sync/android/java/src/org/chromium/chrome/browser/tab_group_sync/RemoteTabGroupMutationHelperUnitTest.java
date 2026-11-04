@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteTabGroupMutationHelper unit tests
+// summary: Robolectric unit tests verifying creation and mutation of remote saved tab groups from local tab groups.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import static org.junit.Assert.assertEquals;

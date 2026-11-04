@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupSyncDelegate unit tests
+// summary: Unit tests for TabGroupSyncDelegate verifying selected tab collection across single and multiple windows.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import static org.junit.Assert.assertArrayEquals;

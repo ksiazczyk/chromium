@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local tab group mutation helper
+// summary: Applies sync and startup updates by creating, modifying and overwriting local tab groups in the tab model.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the tab state package
+summary: Chromium DEPS file defining allowed include rules for the tab state package, including a specific rule for ShoppingPersistedTabData.

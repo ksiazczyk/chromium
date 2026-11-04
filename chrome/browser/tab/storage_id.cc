@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageId blob and protobuf conversion helpers
+// summary: Implements conversions between StorageId tokens and binary blobs or protobuf Token messages for persistence.
+// ---
+
 #include "chrome/browser/tab/storage_id.h"
 
 #include <array>

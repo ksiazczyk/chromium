@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab state storage updater builder header
+// summary: Declares the builder interface for assembling tab state storage updates, including save, remove, and callback operations.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_TAB_STATE_STORAGE_UPDATER_BUILDER_H_
 #define CHROME_BROWSER_TAB_TAB_STATE_STORAGE_UPDATER_BUILDER_H_
 

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Group suggestions bottom sheet container layout
+summary: Android layout XML defining the bottom sheet UI for tab group suggestions, with promo header and contents, a suggested name, group content, and accept and reject buttons.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

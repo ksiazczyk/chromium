@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StorageLoadedData unit tests
+// summary: Robolectric unit tests verifying the claim and destroy semantics of LoadedTabState and the cleanup behavior of StorageLoadedData.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.junit.Assert.assertEquals;

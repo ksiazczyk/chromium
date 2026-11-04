@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageRestoreOrchestrator class declaration
+// summary: Declares the orchestrator that restores a TabStripCollection from storage and distinguishes restoration-driven model changes from user actions during restore.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_STORAGE_RESTORE_ORCHESTRATOR_H_
 #define CHROME_BROWSER_TAB_STORAGE_RESTORE_ORCHESTRATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabInternal interface for package-private tab state
+// summary: Package-private interface exposing internal TabImpl state, such as the native pointer, to classes in the tab package without widening the public Tab API.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.build.annotations.NullMarked;

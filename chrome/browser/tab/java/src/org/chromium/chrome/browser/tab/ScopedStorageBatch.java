@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedStorageBatch
+// summary: AutoCloseable interface representing a batch of storage operations saved on close, usable in try-with-resources without checked exceptions.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.build.annotations.NullMarked;

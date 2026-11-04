@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync service factory implementation
+// summary: Builds the per-profile TabGroupSyncService, wiring sync, data sharing, optimization guide and platform-specific delegates for Android and desktop.
+// ---
+
 #include "chrome/browser/tab_group_sync/tab_group_sync_service_factory.h"
 
 #include <memory>

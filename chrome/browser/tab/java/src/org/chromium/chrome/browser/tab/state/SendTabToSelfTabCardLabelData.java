@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self sender device label data
+// summary: PersistedTabData that stores the sender device name for Send Tab to Self, expiring after ten days and removed when the tab is shown or closed.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import android.content.Context;

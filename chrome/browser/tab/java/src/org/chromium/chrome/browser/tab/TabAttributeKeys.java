@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabAttributeKeys attribute keys
+// summary: String-key annotation listing the attribute keys available in TabAttributes, covering tab grouping, modal dialogs, parent task IDs and fullscreen state.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import androidx.annotation.StringDef;

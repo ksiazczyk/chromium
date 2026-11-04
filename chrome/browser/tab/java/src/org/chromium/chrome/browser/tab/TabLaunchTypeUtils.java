@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabLaunchTypeUtils
+// summary: Utility predicates for TabLaunchType, classifying launches as background, restore, or grouped tabs.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.base.SysUtils;

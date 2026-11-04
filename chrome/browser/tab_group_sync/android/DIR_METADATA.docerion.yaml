@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the tab group sync Android folder
+summary: Points to the common metadata of the saved tab groups Android component via a mixins entry.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockPersistedTabData test fixture
+// summary: Minimal PersistedTabData holding a single int field, used as a mock in tests of the persisted tab data framework.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

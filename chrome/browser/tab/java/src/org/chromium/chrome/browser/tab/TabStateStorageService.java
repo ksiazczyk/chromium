@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStateStorageService
+// summary: Java counterpart of a native keyed service that saves, loads, counts, and clears tab state data in persistent storage.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.jni_zero.CalledByNative;

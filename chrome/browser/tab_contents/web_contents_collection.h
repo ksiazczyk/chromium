@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsCollection class declaration
+// summary: Declares a utility class for receiving WebContentsObserver callbacks from sets of WebContents, annotated with the WebContents they occurred in.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_CONTENTS_WEB_CONTENTS_COLLECTION_H_
 #define CHROME_BROWSER_TAB_CONTENTS_WEB_CONTENTS_COLLECTION_H_
 

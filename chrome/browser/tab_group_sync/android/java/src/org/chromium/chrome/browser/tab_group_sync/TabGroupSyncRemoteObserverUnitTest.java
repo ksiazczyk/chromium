@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupSyncRemoteObserver unit tests
+// summary: Robolectric unit tests verifying remote update handling, local observer toggling, and histogram recording in TabGroupSyncRemoteObserver.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import static org.mockito.ArgumentMatchers.any;

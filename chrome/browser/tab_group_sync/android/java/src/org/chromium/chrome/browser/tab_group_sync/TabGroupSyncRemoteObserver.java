@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncRemoteObserver
+// summary: Observes TabGroupSyncService for incoming remote tab group updates and forwards them to LocalTabGroupMutationHelper for the active window.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import android.text.TextUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab storage package unit tests
+// summary: Unit tests verifying TabStoragePackage payload serialization round-trips and empty-state behavior.
+// ---
+
 #include "chrome/browser/tab/tab_storage_package.h"
 
 #include <string>

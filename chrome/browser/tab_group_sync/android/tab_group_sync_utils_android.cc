@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI helpers for tab group sync
+// summary: Provides JNI entry points for recording navigation UKM metrics, updating tab redirect chains, and checking saveable navigations.
+// ---
+
 #include "chrome/browser/tab_group_sync/tab_group_sync_utils.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SuggestionMetricsTracker
+// summary: Robolectric unit tests for the suggestion metrics tracker, verifying total and per-group switch and time-spent histograms by creation source.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion;
 
 import static org.junit.Assert.assertFalse;

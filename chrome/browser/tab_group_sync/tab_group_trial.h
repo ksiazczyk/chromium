@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group synthetic field trial declaration
+// summary: Declares the TabGroupTrial class with static callbacks to report synthetic field trials for tab group sync enablement, synced groups, and shared groups.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_GROUP_SYNC_TAB_GROUP_TRIAL_H_
 #define CHROME_BROWSER_TAB_GROUP_SYNC_TAB_GROUP_TRIAL_H_
 

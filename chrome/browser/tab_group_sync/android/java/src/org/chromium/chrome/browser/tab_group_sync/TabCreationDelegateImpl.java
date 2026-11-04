@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCreationDelegateImpl
+// summary: Creates background tabs and defers navigation for sync-originated tab group updates, treating sync URLs as renderer-initiated.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStateAttributesRegistry
+// summary: Registry that stores multiple TabStateAttributes instances per tab, keyed by class, and manages their web contents lifecycle.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.util.ArrayMap;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabWebContentsDelegateAndroid
+// summary: Abstract WebContentsDelegateAndroid that proxies web contents events such as new window creation, overlay mode, and picture-in-picture settings into Tab.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.graphics.Rect;

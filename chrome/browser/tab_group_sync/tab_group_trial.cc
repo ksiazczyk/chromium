@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group synthetic field trial registration
+// summary: Implements TabGroupTrial, which registers synthetic field trials reporting whether tab group sync is enabled and whether the client has synced or shared tab groups.
+// ---
+
 #include "chrome/browser/tab_group_sync/tab_group_trial.h"
 
 #include "chrome/browser/metrics/chrome_metrics_service_accessor.h"

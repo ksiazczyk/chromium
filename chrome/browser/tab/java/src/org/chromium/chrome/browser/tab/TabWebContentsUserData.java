@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabWebContentsUserData
+// summary: Abstract tab user data and observer that initializes and cleans up the WebContents whenever it becomes active for or is swapped out of a tab.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.base.UserData;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation observer for synced tab groups
+// summary: Observes navigations and title updates on grouped tabs and propagates them to the sync backend.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import android.text.TextUtils;

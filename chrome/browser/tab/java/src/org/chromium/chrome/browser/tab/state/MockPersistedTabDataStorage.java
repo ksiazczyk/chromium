@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory mock PersistedTabDataStorage for tests
+// summary: In-memory HashMap-backed mock of PersistedTabDataStorage used in tests to exercise save, restore and delete of tab data.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import org.chromium.base.Callback;

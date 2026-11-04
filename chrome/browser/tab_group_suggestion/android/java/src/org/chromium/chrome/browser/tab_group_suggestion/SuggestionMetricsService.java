@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionMetricsService
+// summary: Manages per-window SuggestionMetricsTracker instances tied to activity lifecycle and defines the tab group creation source types.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion;
 
 import static org.chromium.base.ApplicationStatus.registerStateListenerForActivity;

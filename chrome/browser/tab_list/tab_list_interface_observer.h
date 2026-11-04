@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListInterfaceObserver interface
+// summary: Declares TabListInterfaceObserver callbacks for tab additions, removals, moves, activation, highlighting and WebContents replacement.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_LIST_TAB_LIST_INTERFACE_OBSERVER_H_
 #define CHROME_BROWSER_TAB_LIST_TAB_LIST_INTERFACE_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectionStoragePackage implementation
+// summary: Implements serialization of a collection's metadata payload and children protobuf for persistence.
+// ---
+
 #include "chrome/browser/tab/collection_storage_package.h"
 
 #include <string>

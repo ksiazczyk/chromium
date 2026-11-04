@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupCollectionData implementation
+// summary: Constructs TabGroupCollectionData from serialized tab group collection state, mapping title, group id, collapsed flag, and color.
+// ---
+
 #include "chrome/browser/tab/tab_group_collection_data.h"
 
 #include <memory>

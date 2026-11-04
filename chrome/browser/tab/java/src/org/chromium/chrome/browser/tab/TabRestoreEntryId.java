@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabRestoreEntryId annotation
+// summary: Type-use annotation marking IDs of TabRestoreService entries, distinct from live tab or window IDs.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static java.lang.annotation.ElementType.TYPE_USE;

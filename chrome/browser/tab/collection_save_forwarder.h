@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectionSaveForwarder class declaration
+// summary: Declares a helper that forwards save requests for tab collections to TabStateStorageService.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_COLLECTION_SAVE_FORWARDER_H_
 #define CHROME_BROWSER_TAB_COLLECTION_SAVE_FORWARDER_H_
 

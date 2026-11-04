@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchivePersistedTabData for inactive tab archiving
+// summary: PersistedTabData subclass that records the archive timestamp for inactive tabs and serializes it to protobuf for storage.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

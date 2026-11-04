@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab group sync build targets
+summary: Defines GN build targets for the tab group sync module, including platform-specific Android sources, factories, utilities and unit tests.

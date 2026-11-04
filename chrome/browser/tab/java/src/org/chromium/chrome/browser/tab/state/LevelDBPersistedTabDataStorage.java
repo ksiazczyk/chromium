@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB-backed PersistedTabDataStorage implementation
+// summary: LevelDB-backed implementation of PersistedTabDataStorage that saves, restores and deletes serialized tab data for non-incognito profiles.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import androidx.annotation.MainThread;

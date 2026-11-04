@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncPendingReconciliation user data marker
+// summary: Per-tab user data marker recording a replaced local tab ID so sync can reconcile tab IDs and resting URLs without emitting duplicate tabs.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import org.chromium.base.UserData;

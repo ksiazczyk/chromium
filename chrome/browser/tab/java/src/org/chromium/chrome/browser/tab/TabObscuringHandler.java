@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabObscuringHandler
+// summary: Tracks token-based claims on views obscuring tab content or the toolbar and notifies observers.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.base.ObserverList;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serializer interface for persisted tab data
+// summary: Interface for serializing PersistedTabData, with an optional preSerialize step that must run on the UI thread.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import org.chromium.build.annotations.NullMarked;

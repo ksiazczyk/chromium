@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync tab state implementation
+// summary: Implements WebContents user data that marks synced tab group tabs and defers media loading in background tabs via the renderer.
+// ---
+
 #include "chrome/browser/tab_group_sync/tab_group_sync_tab_state.h"
 
 #include "chrome/common/chrome_render_frame.mojom.h"

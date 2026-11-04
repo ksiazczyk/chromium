@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedDataStorage interface
+// summary: Interface providing key-to-byte-array storage with namespace support for persisted data, covering save, load, delete and maintenance operations.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import org.chromium.base.Callback;

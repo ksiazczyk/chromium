@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for navigation metrics recording
+// summary: Checks in a running browser that navigation metrics histograms for scheme, site engagement level and prerendering are emitted correctly.
+// ---
+
 #include "chrome/browser/tab_contents/navigation_metrics_recorder.h"
 
 #include "base/strings/to_string.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/browser/tab
+summary: Restricts includes in the tab directory to allowed dependencies such as sqlite_proto and sql.

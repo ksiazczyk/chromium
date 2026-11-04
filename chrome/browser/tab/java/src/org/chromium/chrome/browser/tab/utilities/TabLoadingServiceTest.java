@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabLoadingService unit tests
+// summary: Robolectric unit tests for TabLoadingService covering queueing, load results, concurrency limits, and first-paint optimization feature flags.
+// ---
+
 package org.chromium.chrome.browser.tab.utilities;
 
 import static org.junit.Assert.assertEquals;

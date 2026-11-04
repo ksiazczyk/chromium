@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StorageLoadedData unit tests
+// summary: Unit tests covering construction of StorageLoadedData from serialized tab, children, and collection protos using a test restore entity tracker.
+// ---
+
 #include "chrome/browser/tab/storage_loaded_data.h"
 
 #include <memory>

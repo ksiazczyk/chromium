@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageCollectionSynchronizer implementation
+// summary: Implements full saves of a TabStripCollection tree to storage, restore cancellation, and manual tab or tab group payload saves.
+// ---
+
 #include "chrome/browser/tab/storage_collection_synchronizer.h"
 
 #include <memory>

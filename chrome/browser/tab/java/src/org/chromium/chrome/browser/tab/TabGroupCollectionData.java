@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupCollectionData JNI bridge for tab group data
+// summary: Java counterpart of the native TabGroupCollectionDataAndroid that exposes a tab group collection's ID, title, color and collapsed state.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.jni_zero.CalledByNative;

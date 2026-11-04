@@ -1,3 +1,12 @@
+---
+type: readme
+title: Android tab architecture and persistence documentation
+summary: Central documentation hub describing the Android tab subsystem's directory layout, architectural invariants, and persistence design.
+relations:
+  - references /chrome/android/java/src/org/chromium/chrome/browser/tab/GEMINI.md
+  - documents /chrome/browser/tab/DEPS
+---
+
 # Android Tab Architecture & Persistence (`chrome/browser/tab/`)
 
 > **Maintenance Notice:** This file is the central documentation hub for `chrome/browser/tab/`, `chrome/android/java/src/org/chromium/chrome/browser/tab/` ([`GEMINI.md`](/chrome/android/java/src/org/chromium/chrome/browser/tab/GEMINI.md)), and `chrome/browser/android/tab_*`. Update this file whenever any documented behavior, contract, or directory structure changes.

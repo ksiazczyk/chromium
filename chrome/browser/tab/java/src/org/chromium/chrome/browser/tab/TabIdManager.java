@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabIdManager singleton for unique tab ID generation
+// summary: Singleton that generates monotonically increasing unique tab IDs across all tab models and persists the counter in shared preferences.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.build.annotations.NullMarked;

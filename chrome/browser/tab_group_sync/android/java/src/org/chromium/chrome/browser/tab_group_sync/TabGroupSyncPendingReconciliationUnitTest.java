@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupSyncPendingReconciliation unit tests
+// summary: Unit tests covering suppress, clear, and replaced tab ID resolution behavior of TabGroupSyncPendingReconciliation.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import static org.junit.Assert.assertEquals;

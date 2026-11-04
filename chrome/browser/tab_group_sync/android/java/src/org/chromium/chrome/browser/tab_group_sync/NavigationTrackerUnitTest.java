@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NavigationTracker unit tests
+// summary: Unit tests verifying sync-initiated navigation tracking and that tracking resets after a query.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import org.junit.Assert;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedTabData base class
+// summary: Abstract base class for tab data persisted across browser restarts, handling deserialization from storage, configuration lookup and attachment to tabs as user data.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

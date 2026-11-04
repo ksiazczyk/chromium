@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the tab_contents directory
+summary: Lists avi@chromium.org as the owner responsible for reviewing changes in the tab_contents directory.

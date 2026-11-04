@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsCollection implementation
+// summary: Implements a collection that forwards WebContentsObserver callbacks from multiple WebContents to a single observer, handling observer lifetimes.
+// ---
+
 #include "chrome/browser/tab_contents/web_contents_collection.h"
 
 #include "base/check.h"

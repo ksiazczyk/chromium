@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service exposing tab price drop data
+// summary: Per-profile service that exposes ShoppingPersistedTabData price drop information to other components as price change items.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.chromium.chrome.browser.preferences.ChromePreferenceKeys.PRICE_TRACKING_IDS_FOR_TABS_WITH_PRICE_DROP;

@@ -5,6 +5,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Sad tab crash page layout
+summary: Android layout XML for SadTabView, the page shown when a tab crashes, with an image, title, suggestions, message text and a button.
+-->
+
 <org.chromium.chrome.browser.tab.SadTabView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

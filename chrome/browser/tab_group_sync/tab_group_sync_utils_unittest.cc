@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group sync utilities unit tests
+// summary: Unit tests for TabGroupSyncUtils covering saveable navigation rules such as same-document fragment changes and 404 response handling.
+// ---
+
 #include "chrome/browser/tab_group_sync/tab_group_sync_utils.h"
 
 #include <memory>

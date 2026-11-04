@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the tab_list module
+summary: Defines the tab_list and test_support source sets with their sources and dependencies for the Chromium build.

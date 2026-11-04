@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaState enum for tab media state
+// summary: Defines the MediaState enum tracking a tab's media state such as muted, audible, picture-in-picture, recording, and screen sharing.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_MEDIA_STATE_H_
 #define CHROME_BROWSER_TAB_MEDIA_STATE_H_
 

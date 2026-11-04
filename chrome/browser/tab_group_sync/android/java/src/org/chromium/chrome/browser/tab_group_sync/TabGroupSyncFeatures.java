@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncFeatures
+// summary: Utility exposing whether tab group sync is enabled for a profile via a native feature check.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import org.jni_zero.JNINamespace;

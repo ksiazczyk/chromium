@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SadTab
+// summary: Represents the sad tab shown in place of a crashed renderer, tracking successive refreshes and switching to a send-feedback view after repeated crashes.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.content.Context;

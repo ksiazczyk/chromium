@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestTabGroupSyncService
+// summary: In-memory test implementation of TabGroupSyncService that stores saved tab groups for use in unit tests.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import android.text.TextUtils;

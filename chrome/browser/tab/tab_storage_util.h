@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab storage type conversion utilities interface
+// summary: Declares helpers that convert between TabCollection types and TabStorageType and identify collection storage types.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_TAB_STORAGE_UTIL_H_
 #define CHROME_BROWSER_TAB_TAB_STORAGE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSupplierObserver
+// summary: Utility observer that follows the current tab from a tab supplier, switching TabObserver attachments when the active tab changes.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import androidx.annotation.CallSuper;

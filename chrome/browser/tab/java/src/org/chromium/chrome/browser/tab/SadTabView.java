@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SadTabView
+// summary: ScrollView for the sad tab crashed renderer page that adjusts the reload button layout for portrait and landscape orientations.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.content.Context;

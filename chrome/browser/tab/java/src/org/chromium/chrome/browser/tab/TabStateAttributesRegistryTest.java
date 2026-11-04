@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStateAttributesRegistryTest
+// summary: Robolectric unit tests verifying that the registry handles multiple TabStateAttributes instances independently and exposes them all.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.junit.Assert.assertEquals;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for tab group suggestion
+summary: Defines GN targets for the Android tab group suggestion feature, including native sources, Java libraries, toolbar controllers and resources.

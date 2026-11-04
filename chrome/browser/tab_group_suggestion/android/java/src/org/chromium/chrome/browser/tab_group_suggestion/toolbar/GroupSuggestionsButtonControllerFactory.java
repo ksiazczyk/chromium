@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupSuggestionsButtonControllerFactory
+// summary: Factory that creates and caches a single GroupSuggestionsButtonController per profile, gated behind the GroupSuggestionService feature flag and supporting test overrides.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion.toolbar;
 
 import org.chromium.base.ResettersForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab utility for creating site instances
+// summary: Implements GetSiteInstanceForNewTab, rewriting URLs and creating SiteInstances for WebUI pages, hosted apps and ordinary new tabs.
+// ---
+
 #include "chrome/browser/tab_contents/tab_util.h"
 
 #include "chrome/browser/profiles/profile.h"

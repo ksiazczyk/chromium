@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContents state interface
+// summary: Declares WebContentsState and WebContentsStateByteBuffer for saving, deleting and restoring tab navigation state from byte buffers.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_WEB_CONTENTS_STATE_H_
 #define CHROME_BROWSER_TAB_WEB_CONTENTS_STATE_H_
 

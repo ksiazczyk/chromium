@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageLoadedData tab state container
+// summary: Java data container holding tab states, tab group data and load warnings returned by TabStateStorageService, with explicit destruction to prevent memory leaks.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.jni_zero.CalledByNative;

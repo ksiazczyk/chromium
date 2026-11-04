@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreEntityTracker interface for storage ID association
+// summary: Declares the RestoreEntityTracker interface that associates in-memory tabs and collections with their persistent storage IDs during restore.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_RESTORE_ENTITY_TRACKER_H_
 #define CHROME_BROWSER_TAB_RESTORE_ENTITY_TRACKER_H_
 

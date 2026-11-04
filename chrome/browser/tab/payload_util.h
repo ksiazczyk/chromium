@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payload encryption utilities declarations
+// summary: Declares functions to generate keys and seal or open encrypted off-the-record payloads, using the storage ID as associated metadata.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_PAYLOAD_UTIL_H_
 #define CHROME_BROWSER_TAB_PAYLOAD_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectionStoragePackage for TabCollection storage
+// summary: Declares CollectionStoragePackage, a StoragePackage implementation that serializes TabCollection metadata and children for storage.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_COLLECTION_STORAGE_PACKAGE_H_
 #define CHROME_BROWSER_TAB_COLLECTION_STORAGE_PACKAGE_H_
 

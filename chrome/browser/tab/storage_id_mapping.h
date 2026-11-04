@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageIdMapping interface for tab storage IDs
+// summary: Declares an interface for mapping tab collections and tabs to their storage IDs.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_STORAGE_ID_MAPPING_H_
 #define CHROME_BROWSER_TAB_STORAGE_ID_MAPPING_H_
 

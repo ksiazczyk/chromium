@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab storage type enums
+// summary: Defines the persisted TabStorageType node types for the tab state database and the storage load warning codes.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_TAB_STORAGE_TYPE_H_
 #define CHROME_BROWSER_TAB_TAB_STORAGE_TYPE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabNativeUtils
+// summary: Utility that returns the native pointer for a Tab object, or zero when no native counterpart exists.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.build.annotations.NullMarked;

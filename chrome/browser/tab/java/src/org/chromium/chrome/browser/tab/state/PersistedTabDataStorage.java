@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedTabDataStorage interface
+// summary: Storage interface for PersistedTabData with synchronous and asynchronous save, restore, delete and maintenance operations keyed by tab and data identifiers.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import org.chromium.base.Callback;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionMetricsTracker
+// summary: Tracks per-window user engagement with suggestion-created tab groups, recording tab switch counts and time spent histograms by creation source.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion;
 
 import android.os.SystemClock;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab storage packager implementation
+// summary: Implements packaging of tab and collection state into storage payloads, serializing children and split or group collection data into protocol buffers.
+// ---
+
 #include "chrome/browser/tab/tab_storage_packager.h"
 
 #include <cstdint>

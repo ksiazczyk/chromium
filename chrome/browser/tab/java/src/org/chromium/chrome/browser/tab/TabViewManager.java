@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabViewManager interface
+// summary: Interface for checking, adding, and removing custom view providers shown on top of a tab's content view.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.build.annotations.NullMarked;

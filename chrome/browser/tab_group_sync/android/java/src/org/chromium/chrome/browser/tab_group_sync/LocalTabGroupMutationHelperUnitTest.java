@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalTabGroupMutationHelper unit tests
+// summary: Robolectric unit tests verifying local tab group creation and mutation behavior in response to sync updates.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStateStorageDatabase class declaration
+// summary: Declares the class responsible for all database operations, including an OpenTransaction type and methods to save, remove, and load nodes.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_TAB_STATE_STORAGE_DATABASE_H_
 #define CHROME_BROWSER_TAB_TAB_STATE_STORAGE_DATABASE_H_
 

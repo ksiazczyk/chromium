@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-profile factory for LevelDBPersistedTabDataStorage
+// summary: Factory that creates and caches one LevelDBPersistedTabDataStorage instance per regular profile.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import org.chromium.build.annotations.NullMarked;

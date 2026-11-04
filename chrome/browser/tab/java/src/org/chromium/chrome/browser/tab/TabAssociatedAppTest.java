@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabAssociatedApp tests
+// summary: Robolectric tests verifying that TabAssociatedApp disassociates its app ID on IME events and omnibox page loads but not on normal navigation.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.mockito.Mockito.doNothing;
