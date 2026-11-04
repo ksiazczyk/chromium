@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource prefetch predictor tables implementation
+// summary: Implements SQLite table management for redirect and origin data, including trimming stale entries, sorting and scoring origins.
+// ---
+
 #include "chrome/browser/predictors/resource_prefetch_predictor_tables.h"
 
 #include <algorithm>

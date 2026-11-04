@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeCommandLinePrefStore class declaration
+// summary: Declares the pref store that tracks preferences set by command-line switches, including proxy and SSL switch handling.
+// ---
+
 #ifndef CHROME_BROWSER_PREFS_CHROME_COMMAND_LINE_PREF_STORE_H_
 #define CHROME_BROWSER_PREFS_CHROME_COMMAND_LINE_PREF_STORE_H_
 

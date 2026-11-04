@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP disk cache prewarm manager unit tests
+// summary: Unit tests verifying that prewarm jobs for main resource and subresource URLs are queued and processed correctly using a test URL loader factory.
+// ---
+
 #include "chrome/browser/predictors/lcp_critical_path_predictor/prewarm_http_disk_cache_manager.h"
 
 #include <tuple>

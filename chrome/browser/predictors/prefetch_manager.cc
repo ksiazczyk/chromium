@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchManager implementation
+// summary: Implements speculative prefetching of predicted subresources with traffic annotations, URL loader throttles, and in-flight job limits.
+// ---
+
 #include "chrome/browser/predictors/prefetch_manager.h"
 
 #include <utility>

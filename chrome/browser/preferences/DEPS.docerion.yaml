@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cached flags
+summary: Allows code in this directory to include headers from components/cached_flags/android via the include_rules setting.

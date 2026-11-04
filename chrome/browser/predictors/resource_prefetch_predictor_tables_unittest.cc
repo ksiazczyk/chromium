@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource prefetch predictor tables unit tests
+// summary: Unit tests for the predictor database tables covering data updates, deletion, trimming and database reopening behavior.
+// ---
+
 #include "chrome/browser/predictors/resource_prefetch_predictor_tables.h"
 
 #include <memory>

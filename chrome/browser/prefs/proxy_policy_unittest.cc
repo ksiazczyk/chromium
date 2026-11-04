@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy policy preference tests
+// summary: Unit tests verifying that proxy preferences are applied from command line switches and managed policy configuration.
+// ---
+
 #include <memory>
 #include <utility>
 

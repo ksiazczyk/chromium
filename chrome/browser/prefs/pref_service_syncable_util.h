@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syncable pref service utility declarations
+// summary: Declares utilities for retrieving PrefServiceSyncable from a Profile and creating incognito or automation preference services.
+// ---
+
 #ifndef CHROME_BROWSER_PREFS_PREF_SERVICE_SYNCABLE_UTIL_H_
 #define CHROME_BROWSER_PREFS_PREF_SERVICE_SYNCABLE_UTIL_H_
 

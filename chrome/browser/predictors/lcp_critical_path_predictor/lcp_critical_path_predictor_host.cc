@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LCPCriticalPathPredictorHost implementation
+// summary: Implements the per-document mojo host that records LCP signals from the renderer and forwards them to the page load metrics observer.
+// ---
+
 #include "chrome/browser/predictors/lcp_critical_path_predictor/lcp_critical_path_predictor_host.h"
 
 #include "base/feature_list.h"

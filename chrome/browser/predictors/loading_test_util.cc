@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Loading predictor test utilities implementation
+// summary: Implements mock predictors and helper functions that build redirect, origin, and resource load data for loading predictor tests.
+// ---
+
 #include "chrome/browser/predictors/loading_test_util.h"
 
 #include <cmath>

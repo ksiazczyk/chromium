@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentRendererPrefsManager class header
+// summary: Declares the PersistentRendererPrefsManager keyed service that receives renderer preference updates from blink via the PersistentRendererPrefsService Mojo interface.
+// ---
+
 #ifndef CHROME_BROWSER_PREFS_PERSISTENT_RENDERER_PREFS_MANAGER_H_
 #define CHROME_BROWSER_PREFS_PERSISTENT_RENDERER_PREFS_MANAGER_H_
 

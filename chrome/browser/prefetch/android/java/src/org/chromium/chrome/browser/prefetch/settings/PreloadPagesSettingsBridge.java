@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preload Pages settings JNI bridge
+// summary: JNI bridge that reads and writes the Preload Pages state and reports whether it is managed by an enterprise policy.
+// ---
+
 package org.chromium.chrome.browser.prefetch.settings;
 
 import org.jni_zero.JNINamespace;

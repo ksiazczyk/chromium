@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentRendererPrefsManagerFactory implementation
+// summary: Implements the profile-keyed service factory that builds and provides per-profile PersistentRendererPrefsManager instances.
+// ---
+
 #include "chrome/browser/prefs/persistent_renderer_prefs_manager_factory.h"
 
 #include <memory>

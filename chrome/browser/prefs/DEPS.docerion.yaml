@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for browser prefs files
+summary: Restricts allowed includes for specific source files, such as tracked preferences services and Ash accessibility.

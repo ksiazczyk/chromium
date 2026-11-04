@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch traffic annotation declaration
+// summary: Declares the shared network traffic annotation tag used for prefetch requests by the PrefetchManager and related prefetch functions.
+// ---
+
 #ifndef CHROME_BROWSER_PREDICTORS_PREFETCH_TRAFFIC_ANNOTATION_H_
 #define CHROME_BROWSER_PREDICTORS_PREFETCH_TRAFFIC_ANNOTATION_H_
 

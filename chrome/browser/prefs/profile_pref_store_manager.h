@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile pref store manager declarations
+// summary: Declares ProfilePrefStoreManager, a facade for creating and managing the profile's tracked user preference store and reset time.
+// ---
+
 #ifndef CHROME_BROWSER_PREFS_PROFILE_PREF_STORE_MANAGER_H_
 #define CHROME_BROWSER_PREFS_PROFILE_PREF_STORE_MANAGER_H_
 

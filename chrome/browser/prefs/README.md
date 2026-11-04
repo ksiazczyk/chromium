@@ -1,3 +1,13 @@
+---
+type: readme
+title: Prefs directory README
+summary: Explains how to add, query, delete, and migrate Chrome preferences, including pref store precedence and syncable prefs.
+relations:
+  - references /components/sync_preferences/README.md
+  - references /chrome/common/pref_names.h
+  - references /chrome/browser/prefs/browser_prefs.cc
+---
+
 # Prefs
 Prefs is meant to store lightweight state that reflects user preferences (e.g.
 chrome://settings, position of windows on last exit, etc.). Browser-wide prefs

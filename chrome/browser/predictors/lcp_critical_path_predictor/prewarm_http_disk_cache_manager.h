@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP disk cache prewarm manager header
+// summary: Declares PrewarmHttpDiskCacheManager, which queues and sequentially processes HTTP disk cache prewarm jobs for top-frame resources on the UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_PREDICTORS_LCP_CRITICAL_PATH_PREDICTOR_PREWARM_HTTP_DISK_CACHE_MANAGER_H_
 #define CHROME_BROWSER_PREDICTORS_LCP_CRITICAL_PATH_PREDICTOR_PREWARM_HTTP_DISK_CACHE_MANAGER_H_
 

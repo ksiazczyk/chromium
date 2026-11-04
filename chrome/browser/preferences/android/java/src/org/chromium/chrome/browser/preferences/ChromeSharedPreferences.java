@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSharedPreferences
+// summary: Provides the Chrome SharedPreferencesManager singleton and registers its preference key registry for native access.
+// ---
+
 package org.chromium.chrome.browser.preferences;
 
 import org.jni_zero.CalledByNative;

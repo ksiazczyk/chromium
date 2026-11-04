@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome command line pref store tests
+// summary: Unit tests for ChromeCommandLinePrefStore covering string and boolean prefs, unknown switches, proxy mode validation and SSL cipher suites.
+// ---
+
 #include "chrome/browser/prefs/chrome_command_line_pref_store.h"
 
 #include <stddef.h>

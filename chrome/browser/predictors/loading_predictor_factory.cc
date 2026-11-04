@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadingPredictorFactory implementation
+// summary: Profile-keyed service factory that builds a LoadingPredictor for a profile when the loading predictor is enabled.
+// ---
+
 #include "chrome/browser/predictors/loading_predictor_factory.h"
 
 #include "chrome/browser/history/history_service_factory.h"

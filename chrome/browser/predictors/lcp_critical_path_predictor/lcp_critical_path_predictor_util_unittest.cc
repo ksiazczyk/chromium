@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LCP critical path predictor utility unit tests
+// summary: Unit tests for the LCPP utility covering frequency stat updates, canonicalization, histogram recording, and prediction of element locators, fonts, preconnects, and subresources.
+// ---
+
 #include "chrome/browser/predictors/lcp_critical_path_predictor/lcp_critical_path_predictor_util.h"
 
 #include <stdint.h>

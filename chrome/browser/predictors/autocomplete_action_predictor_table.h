@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete action predictor table interface
+// summary: Declares the sqlite_proto TableManager for the network_action_predictor table, defining the Row schema and database sequence access methods.
+// ---
+
 #ifndef CHROME_BROWSER_PREDICTORS_AUTOCOMPLETE_ACTION_PREDICTOR_TABLE_H_
 #define CHROME_BROWSER_PREDICTORS_AUTOCOMPLETE_ACTION_PREDICTOR_TABLE_H_
 

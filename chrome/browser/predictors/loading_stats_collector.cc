@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadingStatsCollector implementation
+// summary: Records page request summaries, compares predictions against actual loads, and reports precision metrics to UKM.
+// ---
+
 #include "chrome/browser/predictors/loading_stats_collector.h"
 
 #include <algorithm>

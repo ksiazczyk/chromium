@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for browser pref registration and migration
+// summary: Declares functions to register local state, profile, and sign-in profile prefs and to migrate obsolete preferences.
+// ---
+
 #ifndef CHROME_BROWSER_PREFS_BROWSER_PREFS_H_
 #define CHROME_BROWSER_PREFS_BROWSER_PREFS_H_
 

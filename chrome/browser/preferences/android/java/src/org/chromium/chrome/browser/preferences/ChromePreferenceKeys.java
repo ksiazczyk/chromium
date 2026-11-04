@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromePreferenceKeys
+// summary: Declares String and KeyPrefix constants for all Chrome-layer SharedPreferences keys, with rules for adding and deprecating keys.
+// ---
+
 package org.chromium.chrome.browser.preferences;
 
 import static org.chromium.components.browser_ui.share.ClipboardConstants.CLIPBOARD_SHARED_URI;

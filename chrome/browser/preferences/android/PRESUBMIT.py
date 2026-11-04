@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for Chrome Android preferences
+# summary: Presubmit script that warns when new counter, impression, or promo preference keys are added to ChromePreferenceKeys.java, recommending the feature engagement tracker instead.
+# ---
+
 """Presubmit script for Chrome Android preferences.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

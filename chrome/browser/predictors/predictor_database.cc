@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Predictor database implementation
+// summary: Implements the per-profile SQLite database backing the autocomplete action predictor and resource prefetch predictor tables, with database size UMA reporting.
+// ---
+
 #include "chrome/browser/predictors/predictor_database.h"
 
 #include <cstdint>

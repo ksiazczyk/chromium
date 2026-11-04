@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Preload pages preference radio button group layout
+summary: Android layout XML defining the radio button group for the Preload Pages preference, offering no preloading, standard preloading, and extended preloading options.
+-->
+
 <org.chromium.components.browser_ui.widget.RadioButtonWithDescriptionLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

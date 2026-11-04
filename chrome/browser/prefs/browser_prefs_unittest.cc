@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for profile pref registration
+// summary: Verifies profile pref registration using a testing pref service with keyed service factories built and a task environment.
+// ---
+
 #include "chrome/browser/prefs/browser_prefs.h"
 
 #include <cstddef>

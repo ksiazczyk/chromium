@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PredictorDatabaseFactory implementation
+// summary: Implements the profile-keyed factory that creates PredictorDatabase services on a best-effort sequenced task runner.
+// ---
+
 #include "chrome/browser/predictors/predictor_database_factory.h"
 
 #include <utility>

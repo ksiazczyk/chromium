@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading predictor implementation
+// summary: Implements the loading predictor that initiates preconnects, prefetches and preresolve requests from navigation hints and collected historical data.
+// ---
+
 #include "chrome/browser/predictors/loading_predictor.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome pref model associator client header
+// summary: Declares ChromePrefModelAssociatorClient, which supplies preference value merge behavior and the syncable prefs database for preference sync.
+// ---
+
 #ifndef CHROME_BROWSER_PREFS_CHROME_PREF_MODEL_ASSOCIATOR_CLIENT_H_
 #define CHROME_BROWSER_PREFS_CHROME_PREF_MODEL_ASSOCIATOR_CLIENT_H_
 

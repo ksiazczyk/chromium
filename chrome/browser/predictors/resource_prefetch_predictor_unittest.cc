@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource prefetch predictor unit tests
+// summary: Unit tests for the resource prefetch predictor using mock tables to verify learning and prediction behavior.
+// ---
+
 #include "chrome/browser/predictors/resource_prefetch_predictor.h"
 
 #include <algorithm>

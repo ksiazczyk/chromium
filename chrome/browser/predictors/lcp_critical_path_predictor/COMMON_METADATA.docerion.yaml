@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA for LCP Critical Path Predictor
+summary: Sets the Blink>Loader monorail component and Buganizer component ID used for issues in this directory.

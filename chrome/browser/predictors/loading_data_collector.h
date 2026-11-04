@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading data collector header
+// summary: Declares OriginRequestSummary and PageRequestSummary structures that store the data learned from a single navigation for origin-based prediction.
+// ---
+
 #ifndef CHROME_BROWSER_PREDICTORS_LOADING_DATA_COLLECTOR_H_
 #define CHROME_BROWSER_PREDICTORS_LOADING_DATA_COLLECTOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Tests for the SharedPreferences counter presubmit check
+summary: Unit tests verifying that the presubmit check flags new counter and impression preference keys while allowing unrelated or unchanged keys.

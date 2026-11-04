@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoadingStatsCollector unit tests
+// summary: Unit tests verifying the preconnect precision and recall metrics recorded by the stats collector through a test UKM recorder.
+// ---
+
 #include "chrome/browser/predictors/loading_stats_collector.h"
 
 #include <vector>

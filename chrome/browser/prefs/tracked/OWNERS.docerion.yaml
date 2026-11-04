@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for tracked prefs delegating to services/preferences/tracked
+summary: Points code review ownership for this directory at the services/preferences/tracked OWNERS file.

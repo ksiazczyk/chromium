@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Prefetch BUILD.gn build targets
+summary: Defines the prefetch source set and the non-Android browser_tests target with their sources and dependencies.

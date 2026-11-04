@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preload Pages settings fragment
+// summary: Settings fragment offering a radio button group to choose extended, standard or no preloading and navigating to the matching detail screens.
+// ---
+
 package org.chromium.chrome.browser.prefetch.settings;
 
 import android.content.Context;

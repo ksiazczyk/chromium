@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading predictor header
+// summary: Declares the LoadingPredictor keyed service that turns page load hints and historical data into predictive preconnect and prefetch actions.
+// ---
+
 #ifndef CHROME_BROWSER_PREDICTORS_LOADING_PREDICTOR_H_
 #define CHROME_BROWSER_PREDICTORS_LOADING_PREDICTOR_H_
 

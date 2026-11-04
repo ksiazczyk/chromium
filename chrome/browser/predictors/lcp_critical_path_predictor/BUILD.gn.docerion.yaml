@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for LCP Critical Path Predictor
+summary: Defines GN targets for the LCP critical path predictor proto, headers, implementation, test support and unit tests.

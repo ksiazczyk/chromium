@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native JNI bindings for LocalStatePrefs
+// summary: Implements native methods that hand the local state PrefService to Java and notify Java when local state prefs are loaded.
+// ---
+
 #include "base/android/jni_android.h"
 #include "chrome/browser/browser_process.h"
 #include "components/prefs/pref_service.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for browser prefs
+summary: Defines the prefs and impl source sets with their sources and dependencies for the Chrome browser prefs directory.

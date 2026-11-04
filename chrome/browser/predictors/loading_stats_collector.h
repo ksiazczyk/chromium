@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadingStatsCollector class declaration
+// summary: Declares a collector that collates speculative actions with actual page load summaries and reports the results to UKM.
+// ---
+
 #ifndef CHROME_BROWSER_PREDICTORS_LOADING_STATS_COLLECTOR_H_
 #define CHROME_BROWSER_PREDICTORS_LOADING_STATS_COLLECTOR_H_
 

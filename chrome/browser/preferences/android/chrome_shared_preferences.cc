@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome shared preferences JNI implementation
+// summary: C++ implementation that obtains a SharedPreferencesManager for the default Chrome shared preferences through a JNI call to ChromeSharedPreferences.
+// ---
+
 #include "chrome/browser/preferences/android/chrome_shared_preferences.h"
 
 #include "base/android/jni_android.h"

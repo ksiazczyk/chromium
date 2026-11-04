@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading predictor feature declarations
+// summary: Declares the loading predictor feature flags, prefetch subresource type parameter, and helper functions for prediction sources.
+// ---
+
 #ifndef CHROME_BROWSER_PREDICTORS_PREDICTORS_FEATURES_H_
 #define CHROME_BROWSER_PREDICTORS_PREDICTORS_FEATURES_H_
 

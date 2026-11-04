@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile pref store manager
+// summary: Implements ProfilePrefStoreManager, which creates and manages the tracked, protected user preference store for a profile.
+// ---
+
 #include "chrome/browser/prefs/profile_pref_store_manager.h"
 
 #include <utility>

@@ -6,6 +6,12 @@
 // CAUTION: When any change is done here, bump kDatabaseVersion in
 //          resource_prefetch_predictor_tables.h.
 
+// ---docerion
+// type: source
+// title: Predictor database protobuf definitions
+// summary: Defines protocol buffer messages for storing redirect and origin statistics in the predictor's SQLite database.
+// ---
+
 syntax = "proto2";
 
 package predictors;

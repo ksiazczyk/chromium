@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session startup pref
+// summary: Implements SessionStartupPref, which registers, reads, and writes the restore-on-startup mode and startup URL preferences.
+// ---
+
 #include "chrome/browser/prefs/session_startup_pref.h"
 
 #include <stddef.h>

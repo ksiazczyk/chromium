@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preload pages settings JNI bridge
+// summary: C++ JNI bridge exposing the preload pages state to Java, including getting, setting, and checking whether network prediction is managed by policy.
+// ---
+
 #include <jni.h>
 
 #include "chrome/browser/prefetch/pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preload Pages radio button group preference
+// summary: Custom radio button group preference with extended, standard and no preloading options that notifies listeners when state details are requested.
+// ---
+
 package org.chromium.chrome.browser.prefetch.settings;
 
 import android.content.Context;

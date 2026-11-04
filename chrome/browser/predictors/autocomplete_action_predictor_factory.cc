@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete action predictor factory implementation
+// summary: Implements the profile-keyed service factory that creates AutocompleteActionPredictor instances and ties them to profiles and the predictor database.
+// ---
+
 #include "chrome/browser/predictors/autocomplete_action_predictor_factory.h"
 
 #include "chrome/browser/history/history_service_factory.h"

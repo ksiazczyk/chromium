@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-wide pref registration and migration
+// summary: Registers local state and profile prefs from across the browser and migrates obsolete Local State and profile preferences.
+// ---
+
 #include "chrome/browser/prefs/browser_prefs.h"
 
 #include <array>

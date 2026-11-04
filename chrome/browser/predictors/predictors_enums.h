@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Predictor optimization hints enums
+// summary: Defines the OptimizationHintsReceiveStatus enum tracking when the loading predictor received optimization hints for a navigation.
+// ---
+
 #ifndef CHROME_BROWSER_PREDICTORS_PREDICTORS_ENUMS_H_
 #define CHROME_BROWSER_PREDICTORS_PREDICTORS_ENUMS_H_
 

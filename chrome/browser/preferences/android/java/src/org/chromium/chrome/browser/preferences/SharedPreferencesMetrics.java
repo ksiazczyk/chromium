@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedPreferencesMetrics
+// summary: Records histograms about the app-wide SharedPreferences file, including key counts, cached flags usage, and estimated file size.
+// ---
+
 package org.chromium.chrome.browser.preferences;
 
 import android.content.Context;

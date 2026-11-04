@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syncable pref service utilities
+// summary: Provides helpers to obtain a syncable preference service from a profile and to create incognito or automation preference services.
+// ---
+
 #include "chrome/browser/prefs/pref_service_syncable_util.h"
 
 #include <utility>

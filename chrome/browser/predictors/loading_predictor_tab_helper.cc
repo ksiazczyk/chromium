@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadingPredictorTabHelper implementation
+// summary: Implements a WebContents observer that tracks navigation and resource load events and reports them to the profile's LoadingPredictor.
+// ---
+
 #include "chrome/browser/predictors/loading_predictor_tab_helper.h"
 
 #include <memory>

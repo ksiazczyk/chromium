@@ -1,3 +1,13 @@
+---
+type: readme
+title: Storing preferences
+summary: Guide for Chrome for Android developers on choosing between SharedPreferencesManager and PrefService for persistent key-value storage, with a decision FAQ.
+relations:
+  - references /chrome/browser/first_run/android/first_run_utils.cc
+  - references /chrome/browser/android/preferences/shared_preferences_migrator_android.h
+  - references /components/prefs/android/java/src/org/chromium/components/prefs/PrefService.java
+---
+
 # Storing preferences
 
 This guide is intended for developers of Chrome for Android who need to read
