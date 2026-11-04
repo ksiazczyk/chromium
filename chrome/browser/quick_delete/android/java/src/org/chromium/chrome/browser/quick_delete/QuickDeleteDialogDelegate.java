@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete dialog delegate
+// summary: Delegate providing logic for the Quick Delete modal dialog, including the time period spinner, clickable links, and dismissal handling.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

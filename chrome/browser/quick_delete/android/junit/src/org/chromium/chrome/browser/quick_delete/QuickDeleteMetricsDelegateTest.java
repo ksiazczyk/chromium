@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Delete metrics delegate tests
+// summary: Parameterized JUnit tests for QuickDeleteMetricsDelegate that verify histogram recording for each Quick Delete user action such as menu clicks, cancellations and time period selections.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import org.junit.Test;

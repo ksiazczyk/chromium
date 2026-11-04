@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete tips promo handler
+// summary: Implements the TipsPromoHandler for the Quick Delete tip, supplying the promo bottom sheet content and opening the Quick Delete dialog when the promo is accepted.
+// ---
+
 package org.chromium.chrome.browser.quick_delete.tips;
 
 import android.content.Context;

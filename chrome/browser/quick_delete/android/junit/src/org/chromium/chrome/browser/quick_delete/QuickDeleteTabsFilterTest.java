@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Delete tabs filter tests
+// summary: Robolectric tests for QuickDeleteTabsFilter checking that tabs are filtered and closed correctly per time period, including handling of synced tab groups.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import static org.junit.Assert.assertEquals;

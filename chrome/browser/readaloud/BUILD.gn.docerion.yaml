@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Read Aloud GN build configuration
+summary: Defines Android source sets for the Read Aloud browser interfaces, their implementation and the unit tests, with their build dependencies.

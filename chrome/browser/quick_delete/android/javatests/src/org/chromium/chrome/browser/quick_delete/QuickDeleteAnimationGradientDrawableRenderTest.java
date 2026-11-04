@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Delete animation gradient drawable render tests
+// summary: Render tests that capture the visual output of the Quick Delete wipe and fade gradient animations on Android.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import android.animation.ObjectAnimator;

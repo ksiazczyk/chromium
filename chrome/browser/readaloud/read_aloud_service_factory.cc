@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud service factory implementation
+// summary: Implements ReadAloudServiceFactory, a profile-keyed service factory that creates ReadAloudService instances when the native Read Aloud feature is enabled.
+// ---
+
 #include "chrome/browser/readaloud/read_aloud_service_factory.h"
 
 #include <memory>

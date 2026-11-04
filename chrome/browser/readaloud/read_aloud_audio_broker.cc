@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud audio broker implementation
+// summary: Creates audio output streams through the browser audio service on behalf of Read Aloud playback, handling factory connections and callbacks.
+// ---
+
 #include "chrome/browser/readaloud/read_aloud_audio_broker.h"
 
 #include <utility>

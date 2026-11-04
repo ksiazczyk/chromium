@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickDeleteViewBinder
+// summary: Binds the quick delete property model to its Android views, updating rows for browsing history, closed tabs count, and sign-in or sync state.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import static android.view.View.GONE;

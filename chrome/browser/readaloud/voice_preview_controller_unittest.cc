@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Voice preview controller unit tests
+// summary: Unit tests for VoicePreviewController that exercise preview playback, pause, stop and reset behavior using a fake playback controller and fake audio stream factory.
+// ---
+
 #include "chrome/browser/readaloud/voice_preview_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Delete controller tests
+// summary: Instrumentation tests covering the quick delete controller, including browsing data deletion, related preferences, and histogram logging.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import static org.junit.Assert.assertEquals;

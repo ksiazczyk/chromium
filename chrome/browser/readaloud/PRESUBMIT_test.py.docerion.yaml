@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Presubmit assertion order check tests
+summary: Unit tests verifying that the presubmit check flags reversed expected and actual arguments in gtest assertions and honors escape hatches.

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Quick Delete dialog dimension values
+summary: Defines dimension resources such as margins, icon sizes and paddings used by the Android quick delete dialog UI.
+-->
+
 <resources>
     <!-- Dialog margin values -->
     <dimen name="qd_dialog_default_margin">24dp</dimen>

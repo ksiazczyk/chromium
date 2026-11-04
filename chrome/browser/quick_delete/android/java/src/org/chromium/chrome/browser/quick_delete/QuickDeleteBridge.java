@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete JNI bridge
+// summary: JNI bridge that fetches browsing history data for Quick Delete, reporting the last visited domain and unique domain count for a selected time period.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import org.jni_zero.CalledByNative;

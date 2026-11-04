@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud playback session header
+// summary: Declares ReadAloudPlaybackSession, a Media Session player observer that keeps Read Aloud playback state in sync with browser media controls.
+// ---
+
 #ifndef CHROME_BROWSER_READALOUD_READ_ALOUD_PLAYBACK_SESSION_H_
 #define CHROME_BROWSER_READALOUD_READ_ALOUD_PLAYBACK_SESSION_H_
 

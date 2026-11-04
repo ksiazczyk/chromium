@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud service header
+// summary: Declares ReadAloudService, the central lifecycle and state orchestrator for Chrome's Read Aloud feature, including playback modes, feedback, and its delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_READALOUD_READ_ALOUD_SERVICE_H_
 #define CHROME_BROWSER_READALOUD_READ_ALOUD_SERVICE_H_
 

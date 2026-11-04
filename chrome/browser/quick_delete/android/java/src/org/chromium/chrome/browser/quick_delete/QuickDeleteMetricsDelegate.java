@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete metrics delegate
+// summary: Records Quick Delete user actions to the Privacy.QuickDelete histogram and related browsing data action histograms.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import androidx.annotation.IntDef;

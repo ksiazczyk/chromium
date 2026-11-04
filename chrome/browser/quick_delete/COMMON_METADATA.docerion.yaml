@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Quick Delete issue tracker metadata
+summary: Maps the Quick Delete directory to the Privacy monorail component and a Buganizer component for issue tracking.

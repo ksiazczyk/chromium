@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud audio broker header
+// summary: Declares ReadAloudAudioBroker, which creates audio output streams in the browser process on behalf of the sandboxed Read Aloud playback utility process.
+// ---
+
 #ifndef CHROME_BROWSER_READALOUD_READ_ALOUD_AUDIO_BROKER_H_
 #define CHROME_BROWSER_READALOUD_READ_ALOUD_AUDIO_BROKER_H_
 

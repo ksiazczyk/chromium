@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake audio stream factory implementation
+// summary: Implements a fake AudioStreamFactory that records output stream requests and can respond with valid or failing data pipes for tests.
+// ---
+
 #include "chrome/browser/readaloud/fake_audio_stream_factory.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete properties
+// summary: Defines the property keys of the Quick Delete MVC property model, covering time period, closed tab count, sign-in, and sync state.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete controller
+// summary: Controller that sets up the Quick Delete MVC, wiring the modal dialog, snackbar, tab filters, and the deletion flow for regular and archived tabs.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

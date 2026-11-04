@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Read Aloud common metadata
+summary: Sets the monorail component, Android OS and Buganizer component for the readaloud directory and opts in to the Chromium Review Agent.

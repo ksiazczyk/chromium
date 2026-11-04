@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Delete bridge tests
+// summary: Instrumentation tests for QuickDeleteBridge that verify the last visited domain and unique domain count derived from browsing history.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import static org.junit.Assert.assertEquals;

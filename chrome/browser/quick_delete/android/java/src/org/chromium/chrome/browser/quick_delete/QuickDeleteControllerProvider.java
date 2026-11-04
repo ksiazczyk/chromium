@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete controller provider
+// summary: Attaches a factory of QuickDeleteController instances to a WindowAndroid so window-scoped features can show the Quick Delete dialog.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import org.chromium.base.UnownedUserDataKey;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete delegate
+// summary: Abstract delegate defining quick delete operations such as browsing data deletion, the delete animation, and sign-in, sync, and multi-window checks.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import static org.chromium.build.NullUtil.assumeNonNull;
