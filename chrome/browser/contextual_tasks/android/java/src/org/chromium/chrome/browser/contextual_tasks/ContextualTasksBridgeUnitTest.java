@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks bridge unit tests
+// summary: Robolectric unit tests for ContextualTasksBridge, verifying native initialization, undo snackbar display and feedback launching with mocked JNI and dependencies.
+// ---
+
 package org.chromium.chrome.browser.contextual_tasks;
 
 import static org.mockito.ArgumentMatchers.any;

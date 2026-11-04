@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site exclusion detail metrics recording
+// summary: Records UMA histograms for site exclusion checks on the active tab and across all tabs.
+// ---
+
 #include "chrome/browser/contextual_tasks/site_exclusion_detail.h"
 
 #include "base/check.h"

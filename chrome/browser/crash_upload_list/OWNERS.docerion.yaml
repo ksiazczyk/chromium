@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Crash upload list code owners
+summary: Points to components/crash/OWNERS so this directory inherits the owners responsible for crash-related code.

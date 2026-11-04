@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalActionFactory header
+// summary: Declares the CriticalActionFactory singleton that provides per-profile CriticalActionService instances and returns null for ineligible profiles.
+// ---
+
 #ifndef CHROME_BROWSER_CRITICAL_ACTIONS_CRITICAL_ACTION_FACTORY_H_
 #define CHROME_BROWSER_CRITICAL_ACTIONS_CRITICAL_ACTION_FACTORY_H_
 

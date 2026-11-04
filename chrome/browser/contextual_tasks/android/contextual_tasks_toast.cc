@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks toast implementation
+// summary: Implements an Android toast shown when the contextual tasks side panel is hidden due to resizing, using the messages component to enqueue and dismiss the notification.
+// ---
+
 #include "chrome/browser/contextual_tasks/android/contextual_tasks_toast.h"
 
 #include "base/memory/ptr_util.h"

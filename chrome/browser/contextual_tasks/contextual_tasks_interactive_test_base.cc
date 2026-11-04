@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks interactive test base implementation
+// summary: Implements test doubles for interactive UI tests, including a deterministic screenshot controller, mock eligibility manager, and test UI service.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_interactive_test_base.h"
 
 #include <utility>

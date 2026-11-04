@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame disabled permission browser tests
+// summary: Browser tests checking that permission requests such as USB, serial, and Bluetooth fail when the corresponding permissions are disabled.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

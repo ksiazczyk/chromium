@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame internal API class declarations
+// summary: Declares the extension function classes backing the internal Controlled Frame contextMenus create and update calls and the setClientHintsEnabled call.
+// ---
+
 #ifndef CHROME_BROWSER_CONTROLLED_FRAME_API_CONTROLLED_FRAME_INTERNAL_API_H_
 #define CHROME_BROWSER_CONTROLLED_FRAME_API_CONTROLLED_FRAME_INTERNAL_API_H_
 

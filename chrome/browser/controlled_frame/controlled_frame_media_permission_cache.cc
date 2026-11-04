@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame media permission cache implementation
+// summary: Implements the per-profile cache of granted media permissions, clearing entries when camera or microphone content settings change.
+// ---
+
 #include "chrome/browser/controlled_frame/controlled_frame_media_permission_cache.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

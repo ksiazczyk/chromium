@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks ghost loader view implementation
+// summary: Implements the WebUI-based ghost loader view that shows shimmering placeholder cards in the Contextual Tasks side panel while results or queries load.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_ghost_loader_view.h"
 
 #include "chrome/browser/ui/browser_element_identifiers.h"

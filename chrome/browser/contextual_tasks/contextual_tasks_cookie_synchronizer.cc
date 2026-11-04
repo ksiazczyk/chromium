@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks cookie synchronizer implementation
+// summary: Copies sign-in cookies into the contextual tasks webview storage partition via Gaia multilogin, with timeout and completion callback handling.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_cookie_synchronizer.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Controlled Frame API build registration
+summary: GN build file that registers the Controlled Frame API function bindings, wiring schema sources and internal implementation headers into the Chrome browser build.

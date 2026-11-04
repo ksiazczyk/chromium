@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks side panel host for Android desktop header
+// summary: Declares the side panel host for contextual tasks on Android desktop, managing side panel entry lifecycle and WebContents delegation.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_ANDROID_CONTEXTUAL_TASKS_PANEL_HOST_DESKTOP_ANDROID_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_ANDROID_CONTEXTUAL_TASKS_PANEL_HOST_DESKTOP_ANDROID_H_
 

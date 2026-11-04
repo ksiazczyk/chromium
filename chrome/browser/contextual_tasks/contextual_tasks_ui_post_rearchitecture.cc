@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post-rearchitecture contextual tasks WebUI controller
+// summary: Implements the post-rearchitecture WebUI controller that extends the base contextual tasks controller and registers its data source.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_ui_post_rearchitecture.h"
 
 #include "content/public/browser/web_ui.h"

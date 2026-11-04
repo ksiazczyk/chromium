@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame menu icon loader implementation
+// summary: Loads and resizes Isolated Web App icons from the web app icon manager for use as Controlled Frame context menu icons.
+// ---
+
 #include "chrome/browser/controlled_frame/controlled_frame_menu_icon_loader.h"
 
 #include "base/functional/bind.h"

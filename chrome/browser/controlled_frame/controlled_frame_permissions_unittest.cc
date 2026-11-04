@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame permissions vetting unit test
+// summary: Unit test asserting that every web view permission and content settings type is explicitly vetted for use in Controlled Frame.
+// ---
+
 #include "components/content_settings/core/common/content_settings_types.h"
 #include "extensions/browser/guest_view/web_view/web_view_permission_types.h"
 #include "testing/gtest/include/gtest/gtest.h"

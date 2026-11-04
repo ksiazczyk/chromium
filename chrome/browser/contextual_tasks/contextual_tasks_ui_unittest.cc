@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks UI unit tests
+// summary: Unit tests for the Contextual Tasks UI, exercising panel, toolbar and web UI behavior with mocked services and identity test utilities.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_ui.h"
 
 #include "base/functional/bind.h"

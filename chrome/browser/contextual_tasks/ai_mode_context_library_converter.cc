@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI mode context library converter implementation
+// summary: Implements conversion of lens UpdateThreadContextLibrary messages from AI mode and Search in Chrome protocols into UrlResource objects enriched with local tab information.
+// ---
+
 #include "chrome/browser/contextual_tasks/ai_mode_context_library_converter.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search journey tab feature implementation
+// summary: Implements a per-tab observer that reports clipboard copies and Google search navigations to the profile's SearchJourneyTracker.
+// ---
+
 #include "chrome/browser/contextual_tasks/search_journey_tab_feature.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame media permission cache factory implementation
+// summary: Implements the profile-keyed service factory that builds the Controlled Frame media permission cache for each browser context.
+// ---
+
 #include "chrome/browser/controlled_frame/controlled_frame_media_permission_cache_factory.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

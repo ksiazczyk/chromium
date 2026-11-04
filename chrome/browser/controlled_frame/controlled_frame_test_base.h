@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame test base header
+// summary: Declares the ControlledFrameTestBase class and the feature and flag setting enums used by Controlled Frame tests.
+// ---
+
 #ifndef CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_TEST_BASE_H_
 #define CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_TEST_BASE_H_
 

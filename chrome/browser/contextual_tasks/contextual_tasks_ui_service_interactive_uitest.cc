@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks UI service interactive UI tests
+// summary: Interactive browser tests for the Contextual Tasks UI service, covering thread link clicks, task-tab association, and related metrics and user actions.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_ui_service.h"
 
 #include "base/check_deref.h"

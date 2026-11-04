@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntryPointEligibilityManager implementation
+// summary: Implements determination of whether contextual tasks browser entry points and pinning are eligible, notifying observers on changes.
+// ---
+
 #include "chrome/browser/contextual_tasks/entry_point_eligibility_manager.h"
 
 #include "base/callback_list.h"

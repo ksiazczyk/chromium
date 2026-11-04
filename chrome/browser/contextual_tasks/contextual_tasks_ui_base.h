@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks UI base WebUI controller header
+// summary: Declares the base WebUI controller for the Contextual Tasks toolbar, which registers the data source and Mojo IPC bindings shared by the legacy and rearchitected side panel UIs.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_UI_BASE_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_UI_BASE_H_
 

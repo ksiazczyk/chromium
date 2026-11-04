@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveTaskContextProvider implementation
+// summary: Implements active task context tracking, computing which tabs in a browser window are part of the active task's context for underlining.
+// ---
+
 #include "chrome/browser/contextual_tasks/active_task_context_provider_impl.h"
 
 #include <algorithm>

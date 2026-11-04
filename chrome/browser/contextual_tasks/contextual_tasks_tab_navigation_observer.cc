@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks tab navigation observer implementation
+// summary: Maps full-tab AI Mode thread IDs (mtid) from navigations to the tab's contextual task, creating or clearing task associations as URLs change.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_tab_navigation_observer.h"
 
 #include <optional>

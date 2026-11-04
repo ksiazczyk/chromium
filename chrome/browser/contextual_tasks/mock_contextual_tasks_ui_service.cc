@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockContextualTasksUiService implementation
+// summary: Constructs a real ContextualTasksUiService wired with a mock delegate so tests can exercise UI service behavior.
+// ---
+
 #include "chrome/browser/contextual_tasks/mock_contextual_tasks_ui_service.h"
 
 #include "chrome/browser/contextual_tasks/contextual_tasks_cookie_synchronizer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks control coordinator header
+// summary: Declares ContextualTasksControlCoordinatorAndroid, a service observer that notifies Java when contextual tasks change.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_ANDROID_CONTEXTUAL_TASKS_CONTROL_COORDINATOR_ANDROID_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_ANDROID_CONTEXTUAL_TASKS_CONTROL_COORDINATOR_ANDROID_H_
 

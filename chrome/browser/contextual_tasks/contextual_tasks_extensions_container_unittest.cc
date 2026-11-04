@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks extensions container unit tests
+// summary: Unit tests for the side panel extensions container, covering extension actions, menu showing, popups and anchor resolution.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_extensions_container.h"
 
 #include <memory>

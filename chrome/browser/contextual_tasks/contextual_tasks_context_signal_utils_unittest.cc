@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks context signal utilities unit tests
+// summary: Unit tests for word matching and word counting, covering punctuation, stop words, case normalization, and empty inputs.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_context_signal_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks page handler implementation
+// summary: Implements the Mojo page handler backing the contextual tasks WebUI, handling tasks, threads, context and UI actions.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_page_handler.h"
 
 #include "base/check_deref.h"

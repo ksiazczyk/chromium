@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextualTasksWindowTracker unit tests
+// summary: Unit tests verifying that the timeout and guest window tab detach paths invoke the on-closed callback.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_window_tracker.h"
 
 #include "base/functional/callback.h"

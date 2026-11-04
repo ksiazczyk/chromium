@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks tab navigation observer header
+// summary: Declares a per-tab navigation observer that maps AI Mode thread IDs in URLs to the tab's contextual task.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_TAB_NAVIGATION_OBSERVER_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_TAB_NAVIGATION_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks eligibility manager class declaration
+// summary: Declares the ContextualTasksEligibilityManager class that observes identity, preference and AIM eligibility changes and exposes eligibility queries and change callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_ELIGIBILITY_MANAGER_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_ELIGIBILITY_MANAGER_H_
 

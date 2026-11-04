@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualTasksWindowTrackerManager implementation
+// summary: Implements centralized management of contextual task window trackers, including registration, matching pending trackers, and closing tracked windows.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_window_tracker_manager.h"
 
 #include "base/logging.h"

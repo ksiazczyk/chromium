@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AimMessagePoster interface
+// summary: Declares an abstract interface for posting lens ClientToAimMessage messages to the AIM webview.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_AIM_MESSAGE_POSTER_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_AIM_MESSAGE_POSTER_H_
 

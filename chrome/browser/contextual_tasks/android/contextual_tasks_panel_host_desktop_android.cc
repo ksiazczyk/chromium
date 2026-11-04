@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks side panel host for Android desktop implementation
+// summary: Implements the contextual tasks panel host for Android desktop mode, showing the panel as a side panel entry with toast and media access handling.
+// ---
+
 #include "chrome/browser/contextual_tasks/android/contextual_tasks_panel_host_desktop_android.h"
 
 #include <utility>

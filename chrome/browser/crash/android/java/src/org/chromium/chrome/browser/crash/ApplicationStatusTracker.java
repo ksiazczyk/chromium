@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplicationStatusTracker
+// summary: Android application state listener that updates the application status crash key to record whether the app is in the foreground or background.
+// ---
+
 package org.chromium.chrome.browser.crash;
 
 import org.chromium.base.ApplicationState;

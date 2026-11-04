@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks ghost loader pixel tests
+// summary: Pixel tests verifying the ghost loader WebUI rendering across narrow, regular and wide window sizes in light and dark themes.
+// ---
+
 #include <memory>
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Tab Sharing settings policy handler implementation
+// summary: Implements the SmartTabSharingSettings policy handler that validates the policy value range and enforces dependencies on the search content sharing and GenAI default settings policies.
+// ---
+
 #include "chrome/browser/contextual_tasks/smart_tab_sharing_settings_policy_handler.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks page handler unit tests
+// summary: Unit tests for the contextual tasks page handler covering task, thread and UI interaction logic.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_page_handler.h"
 
 #include <cstdint>

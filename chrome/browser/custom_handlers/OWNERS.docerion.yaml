@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to permissions owners
+summary: Delegates ownership review of this directory to the PERMISSIONS_OWNERS file in components/permissions.

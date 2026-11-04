@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks auto suggestion manager unit tests
+// summary: Unit tests covering suggestion setting, dismissal blocklisting, manual add and remove behavior, reset and metric recording.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_auto_suggestion_manager.h"
 
 #include <memory>

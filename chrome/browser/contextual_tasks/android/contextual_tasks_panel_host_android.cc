@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks bottom sheet panel host implementation
+// summary: Implements the Android contextual tasks panel host that displays the panel in a tab bottom sheet and manages its WebContents.
+// ---
+
 #include "chrome/browser/contextual_tasks/android/contextual_tasks_panel_host_android.h"
 
 #include <utility>

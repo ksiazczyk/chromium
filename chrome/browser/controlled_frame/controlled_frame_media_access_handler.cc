@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame media access handler implementation
+// summary: Implements media stream access checks for Controlled Frame guests, mapping capture types to permissions policy features and consulting the media permission cache.
+// ---
+
 #include "chrome/browser/controlled_frame/controlled_frame_media_access_handler.h"
 
 #include "base/types/expected.h"

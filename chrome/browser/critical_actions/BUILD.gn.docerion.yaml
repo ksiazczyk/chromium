@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Critical actions build targets (BUILD.gn)
+summary: Defines the critical_actions source set and its testonly unit_tests target together with their Chromium dependencies.

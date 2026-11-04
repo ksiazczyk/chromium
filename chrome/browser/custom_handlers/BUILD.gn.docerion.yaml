@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the custom_handlers sources and tests
+summary: Defines GN source sets for the Chrome protocol handler code plus its unit and browser test targets with their dependencies.

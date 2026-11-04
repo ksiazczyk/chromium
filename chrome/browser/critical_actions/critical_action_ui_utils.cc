@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical action linkout URL utilities implementation
+// summary: Maps critical action types to linkout destinations such as the password manager, addresses, downloads, and site details settings pages.
+// ---
+
 #include "chrome/browser/critical_actions/critical_action_ui_utils.h"
 
 #include <optional>

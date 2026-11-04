@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CriticalActionFactory unit tests
+// summary: Verifies GetForProfile returns a service for regular profiles, null for off-the-record profiles, and consistent instances per profile.
+// ---
+
 #include "chrome/browser/critical_actions/critical_action_factory.h"
 
 #include <memory>

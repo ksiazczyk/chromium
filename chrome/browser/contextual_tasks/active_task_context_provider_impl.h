@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveTaskContextProviderImpl class header
+// summary: Declares the ActiveTaskContextProviderImpl class, which observes tab lists, contextual tasks services and web contents to refresh context.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_ACTIVE_TASK_CONTEXT_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_ACTIVE_TASK_CONTEXT_PROVIDER_IMPL_H_
 

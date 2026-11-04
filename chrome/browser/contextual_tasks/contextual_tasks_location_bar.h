@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks location bar header
+// summary: Declares a LocationBarStub-based LocationBar for the contextual tasks side panel toolbar, handling content setting icons and permission dashboard integration.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_LOCATION_BAR_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_LOCATION_BAR_H_
 

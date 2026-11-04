@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame extensions browser API provider header
+// summary: Declares the provider class that registers Controlled Frame internal API functions into the extensions browser API system.
+// ---
+
 #ifndef CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_EXTENSIONS_BROWSER_API_PROVIDER_H_
 #define CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_EXTENSIONS_BROWSER_API_PROVIDER_H_
 

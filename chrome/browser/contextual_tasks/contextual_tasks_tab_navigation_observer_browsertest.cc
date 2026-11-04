@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks tab navigation observer browser tests
+// summary: Browser tests verifying that full-tab AI Mode navigations map their thread ID to the tab's contextual task.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_tab_navigation_observer.h"
 
 #include <memory>

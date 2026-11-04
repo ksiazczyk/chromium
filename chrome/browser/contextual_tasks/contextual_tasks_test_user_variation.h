@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks test user variation helpers
+// summary: Header defining signed-in, signed-out, and incognito user variations plus skip macros for parameterized contextual tasks UI tests.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_TEST_USER_VARIATION_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_TEST_USER_VARIATION_H_
 

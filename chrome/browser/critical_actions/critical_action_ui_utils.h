@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical action linkout URL utilities header
+// summary: Declares GetCriticalActionLinkoutUrl, which returns the linkout destination for an action type and associated page URL.
+// ---
+
 #ifndef CHROME_BROWSER_CRITICAL_ACTIONS_CRITICAL_ACTION_UI_UTILS_H_
 #define CHROME_BROWSER_CRITICAL_ACTIONS_CRITICAL_ACTION_UI_UTILS_H_
 

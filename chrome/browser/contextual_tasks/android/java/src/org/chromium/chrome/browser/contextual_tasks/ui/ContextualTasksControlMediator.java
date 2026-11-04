@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks control mediator
+// summary: Mediator that updates the contextual tasks peek control view by setting the title in the shared PropertyModel.
+// ---
+
 package org.chromium.chrome.browser.contextual_tasks.ui;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame permission request browser tests
+// summary: Parameterized browser tests covering permission requests such as camera, geolocation, and HID in Controlled Frame.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

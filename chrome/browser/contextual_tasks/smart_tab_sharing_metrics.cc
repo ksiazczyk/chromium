@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart tab sharing metrics logging
+// summary: Logs UMA histograms for smart tab sharing menu clicks, promo interactions, tab filter reasons, thread submissions, and mid-thread opt-outs.
+// ---
+
 #include "chrome/browser/contextual_tasks/smart_tab_sharing_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks WebUI controller implementation
+// summary: Implements the ContextualTasksUI WebUI controller that wires the contextual tasks side panel to browser services and handlers.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_ui.h"
 
 #include "base/base64.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic linkout handler implementation
+// summary: Implements the singleton GlicLinkoutHandler that opens a Gemini conversation in the Glic sidebar via the profile's Glic keyed service, validating the entry and reporting success or error through a callback.
+// ---
+
 #include "chrome/browser/critical_actions/glic_linkout_handler.h"
 
 #include <utility>

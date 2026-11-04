@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame new window browser tests
+// summary: Browser tests verifying that new windows opened from Controlled Frame can be attached to or discarded by new controlledframe elements.
+// ---
+
 #include <optional>
 #include <string>
 

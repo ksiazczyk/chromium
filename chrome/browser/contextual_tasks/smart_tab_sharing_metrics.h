@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart tab sharing metrics declarations
+// summary: Declares enums and logging functions for smart tab sharing UMA metrics matching enums.xml.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_SMART_TAB_SHARING_METRICS_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_SMART_TAB_SHARING_METRICS_H_
 

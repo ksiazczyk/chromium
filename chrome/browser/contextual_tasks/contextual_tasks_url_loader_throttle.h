@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks URL loader throttle header
+// summary: Declares the Contextual Tasks URL loader throttle that injects the search capabilities version header on requests to Google-associated domains.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_URL_LOADER_THROTTLE_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_URL_LOADER_THROTTLE_H_
 

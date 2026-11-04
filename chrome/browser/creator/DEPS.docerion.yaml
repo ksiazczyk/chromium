@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for creator
+summary: Defines include dependency rules for the creator browser directory, allowing imports from the Android bottom sheet UI component.

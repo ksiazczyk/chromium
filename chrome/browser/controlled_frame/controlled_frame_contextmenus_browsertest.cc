@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame context menus browser tests
+// summary: Browser tests for creating, updating, and matching context menu items exposed through the controlledframe contextMenus API.
+// ---
+
 #include <memory>
 #include <string>
 

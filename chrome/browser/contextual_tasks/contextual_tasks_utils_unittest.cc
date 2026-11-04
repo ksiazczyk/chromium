@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks Utils Unit Tests
+// summary: Unit tests for contextual tasks utility functions such as pin button visibility state updates, using mock browser window, actions, and profile fixtures.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_utils.h"
 
 #include <memory>

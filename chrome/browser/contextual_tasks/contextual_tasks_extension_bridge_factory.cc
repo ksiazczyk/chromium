@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks extension bridge factory implementation
+// summary: Implements the profile-keyed service factory that builds the Contextual Tasks extension bridge for each profile and declares its dependencies.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_extension_bridge_factory.h"
 
 #include <memory>

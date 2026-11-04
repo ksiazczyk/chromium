@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock contextual tasks page implementations
+// summary: Implements mock Page, ExtensionPage and ToolbarPage classes that bind and return mojo pending remotes for testing.
+// ---
+
 #include "chrome/browser/contextual_tasks/mock_contextual_tasks_page.h"
 
 namespace contextual_tasks {

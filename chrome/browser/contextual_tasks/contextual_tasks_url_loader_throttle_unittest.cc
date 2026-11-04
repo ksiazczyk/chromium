@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks URL Loader Throttle Unit Tests
+// summary: Unit tests verifying that the contextual tasks URL loader throttle appends the search capabilities header only for HTTPS Google URLs, including on redirects to Google.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_url_loader_throttle.h"
 
 #include <memory>

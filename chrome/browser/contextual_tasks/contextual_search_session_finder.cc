@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search session finder implementation
+// summary: Finds existing contextual search sessions for a task across panel and tab web contents and updates the web contents helper with task and session handles.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_search_session_finder.h"
 
 #include "chrome/browser/contextual_tasks/active_task_context_provider.h"

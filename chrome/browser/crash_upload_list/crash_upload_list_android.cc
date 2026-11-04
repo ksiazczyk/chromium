@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android crash upload list implementation
+// summary: Implements the Android upload list, combining the text log with pending, skipped, and forced minidumps and requesting uploads via JNI.
+// ---
+
 #include "chrome/browser/crash_upload_list/crash_upload_list_android.h"
 
 #include <utility>

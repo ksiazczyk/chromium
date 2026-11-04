@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search AI mode sign-in promo tab helper implementation
+// summary: Implements a tab helper that shows a sign-in promo when a navigation initiated from an AI page happens while the user is signed out.
+// ---
+
 #include "chrome/browser/contextual_tasks/search_ai_mode_promo_tab_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Critical action UI utils unit tests
+// summary: Tests linkout URL generation for each action type, including domain extraction and a regression guard against opaque origins.
+// ---
+
 #include "chrome/browser/critical_actions/critical_action_ui_utils.h"
 
 #include <optional>

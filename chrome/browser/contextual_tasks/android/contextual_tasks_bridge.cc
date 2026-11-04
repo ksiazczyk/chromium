@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks Android JNI bridge implementation
+// summary: Implements the native JNI bridge connecting the Android Java UI to contextual tasks services, resolving task info for tabs and handling voice input and undo actions.
+// ---
+
 #include "chrome/browser/contextual_tasks/android/contextual_tasks_bridge.h"
 
 #include "base/android/callback_android.h"

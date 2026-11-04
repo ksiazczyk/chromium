@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks extension bridge implementation
+// summary: Implements the profile-keyed service that initializes the Contextual Tasks extension's configuration and Mojo binder providers and exposes its service worker handler.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_extension_bridge.h"
 
 #include "chrome/browser/contextual_tasks/contextual_tasks_extension_binder_provider.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the contextual tasks service factory
+// summary: Unit tests verifying service creation when the feature is enabled, null return when disabled, and incognito behavior using a fake sync data type store.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_service_factory.h"
 
 #include <memory>

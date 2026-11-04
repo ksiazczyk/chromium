@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI mode context library converter unit tests
+// summary: Unit tests verifying conversion of webpage, PDF, image and unmatched contexts into UrlResource objects with tab enrichment.
+// ---
+
 #include "chrome/browser/contextual_tasks/ai_mode_context_library_converter.h"
 
 #include "components/contextual_search/contextual_search_types.h"

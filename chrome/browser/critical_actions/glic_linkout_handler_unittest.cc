@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic linkout handler unit tests
+// summary: Unit tests for GlicLinkoutHandler using a mock Glic keyed service, covering empty conversation IDs, null web contents, disabled Glic, and the successful open path.
+// ---
+
 #include "chrome/browser/critical_actions/glic_linkout_handler.h"
 
 #include <memory>

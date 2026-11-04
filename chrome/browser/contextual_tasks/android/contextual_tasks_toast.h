@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks toast header
+// summary: Declares the ContextualTasksToast helper class that displays a message on Android when the side panel is hidden due to resizing.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_ANDROID_CONTEXTUAL_TASKS_TOAST_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_ANDROID_CONTEXTUAL_TASKS_TOAST_H_
 

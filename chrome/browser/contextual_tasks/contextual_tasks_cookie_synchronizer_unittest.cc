@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks cookie synchronizer unit tests
+// summary: Unit tests for cookie synchronization covering success, retry, and error responses using a test storage partition and identity test environment.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_cookie_synchronizer.h"
 
 #include <string>

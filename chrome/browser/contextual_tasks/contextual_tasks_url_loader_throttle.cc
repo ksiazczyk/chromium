@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks URL loader throttle
+// summary: URL loader throttle that appends the Chrome-Search-Capabilities-Version header to requests for Google-associated domains when the Contextual Tasks rearchitecture is enabled.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_url_loader_throttle.h"
 
 #include "chrome/browser/profiles/profile.h"

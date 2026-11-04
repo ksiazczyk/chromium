@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntryPointEligibilityManager unit tests
+// summary: Unit tests for entry point and pinning eligibility using fake eligibility managers, mock services, and identity test environment.
+// ---
+
 #include "chrome/browser/contextual_tasks/entry_point_eligibility_manager.h"
 
 #include <memory>

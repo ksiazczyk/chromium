@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks Android JNI bridge header
+// summary: Declares ContextualTasksBridge, the native counterpart of the Java bridge that routes task title requests, voice recognition, and undo actions on Android.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_ANDROID_CONTEXTUAL_TASKS_BRIDGE_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_ANDROID_CONTEXTUAL_TASKS_BRIDGE_H_
 

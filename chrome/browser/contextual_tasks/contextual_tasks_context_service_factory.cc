@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks context service factory implementation
+// summary: Builds the per-profile ContextualTasksContextService when the feature is enabled and the required embedding and optimization guide services are available.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_context_service_factory.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Tab Sharing settings policy handler class declaration
+// summary: Declares the SmartTabSharingSettingsPolicyHandler class, an IntRangePolicyHandler that checks the Smart Tab Sharing policy using related search content sharing and GenAI settings handlers.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_SMART_TAB_SHARING_SETTINGS_POLICY_HANDLER_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_SMART_TAB_SHARING_SETTINGS_POLICY_HANDLER_H_
 

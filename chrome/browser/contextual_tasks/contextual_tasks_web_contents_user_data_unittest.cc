@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks WebContents User Data Unit Tests
+// summary: Unit tests for the contextual tasks WebContents user data, covering creation, task ID handling, and identity state with test signin and web contents fixtures.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_web_contents_user_data.h"
 
 #include "base/test/bind.h"

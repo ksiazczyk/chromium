@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks control coordinator
+// summary: Android coordinator that manages the Contextual Tasks peek view in the tab bottom sheet and bridges to native code via JNI.
+// ---
+
 package org.chromium.chrome.browser.contextual_tasks.ui;
 
 import android.content.res.Resources;

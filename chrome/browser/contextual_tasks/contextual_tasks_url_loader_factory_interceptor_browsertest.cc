@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks URL loader factory interceptor browser tests
+// summary: Browser tests verifying Authorization header injection, domain allow and deny lists and CORS preflight retry behavior of the URL loader factory interceptor.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_url_loader_factory_interceptor.h"
 
 #include "base/test/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame user agent override utility
+// summary: Builds the default user agent override for Controlled Frame, optionally adding a ControlledFrame brand to the user agent metadata.
+// ---
+
 #include "chrome/browser/controlled_frame/controlled_frame_user_agent_util.h"
 
 #include <optional>

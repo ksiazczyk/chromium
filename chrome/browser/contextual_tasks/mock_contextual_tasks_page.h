@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock mocks for contextual tasks mojo pages
+// summary: Declares gmock mock implementations of the contextual tasks Page, ExtensionPage and ToolbarPage mojo interfaces used in tests.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_MOCK_CONTEXTUAL_TASKS_PAGE_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_MOCK_CONTEXTUAL_TASKS_PAGE_H_
 

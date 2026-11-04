@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks UI service browser tests
+// summary: In-process browser tests verifying Contextual Tasks UI service behavior, such as highlighting citation text on an already open tab instead of opening a new one.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_ui_service.h"
 
 #include <vector>

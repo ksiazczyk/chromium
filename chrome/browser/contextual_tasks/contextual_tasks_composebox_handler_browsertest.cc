@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks composebox handler browser tests
+// summary: In-process browser tests covering the Contextual Tasks composebox handler, including sessions, tab sharing, context chips, and metrics.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_composebox_handler.h"
 
 #include <memory>

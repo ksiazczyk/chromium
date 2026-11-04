@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks bottom sheet content
+// summary: Concrete TabBottomSheetContent for the Contextual Tasks feature, supplying view, height ratios, colors and bottom sheet accessibility strings.
+// ---
+
 package org.chromium.chrome.browser.contextual_tasks;
 
 import android.view.View;

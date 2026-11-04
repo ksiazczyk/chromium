@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks tab relevance model handler implementation
+// summary: Implements the Optimization Guide model handler that extracts features from query and tab signals and batch-executes the tab relevance model.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_context_model_handler.h"
 
 #include <vector>

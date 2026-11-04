@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android contextual tasks UI service delegate implementation
+// summary: Implements the Android UI service delegate that forwards feedback UI, undo snackbar, and platform voice recognition requests to the contextual tasks bridge.
+// ---
+
 #include "chrome/browser/contextual_tasks/android/contextual_tasks_ui_service_delegate_android.h"
 
 #include "chrome/browser/contextual_tasks/android/contextual_tasks_bridge.h"

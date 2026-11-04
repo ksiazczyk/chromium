@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks utility unit tests
+// summary: Robolectric unit tests for ContextualTasksUtils covering the pre-native feature flag behavior with the side panel feature enabled and disabled.
+// ---
+
 package org.chromium.chrome.browser.contextual_tasks;
 
 import static org.junit.Assert.assertFalse;

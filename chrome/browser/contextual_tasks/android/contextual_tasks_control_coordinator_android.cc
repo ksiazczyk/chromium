@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks control coordinator implementation
+// summary: Implements the JNI coordinator that forwards contextual task add, update, and remove events from the service to the Java coordinator.
+// ---
+
 #include "chrome/browser/contextual_tasks/android/contextual_tasks_control_coordinator_android.h"
 
 #include "base/android/jni_android.h"

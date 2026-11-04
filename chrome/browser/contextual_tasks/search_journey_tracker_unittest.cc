@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search journey tracker unit tests
+// summary: Unit tests covering text normalization for journey matching and the copy-to-search correlation logic of the tracker.
+// ---
+
 #include "chrome/browser/contextual_tasks/search_journey_tracker.h"
 
 #include <memory>

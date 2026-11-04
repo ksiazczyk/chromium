@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks tab visit tracker unit tests
+// summary: Unit tests for the tab visit tracker using a mock clock to verify visit duration and inactivity tracking.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_tab_visit_tracker.h"
 
 #include <memory>

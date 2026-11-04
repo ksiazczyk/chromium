@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks utility methods for Android
+// summary: Utility class for the Contextual Tasks feature that checks whether a URL belongs to the Contextual Tasks WebUI and whether the feature UI is enabled, with a JNI bridge to native code.
+// ---
+
 package org.chromium.chrome.browser.contextual_tasks;
 
 import org.jni_zero.NativeMethods;

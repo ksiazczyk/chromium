@@ -1,3 +1,13 @@
+---
+type: readme
+title: Controlled Frame browser implementation overview
+summary: Describes the browser-process implementation of the Controlled Frame API, links companion documentation, and outlines key components like the internal API and media access handler.
+relations:
+  - references /chrome/browser/web_applications/isolated_web_apps/README.md
+  - references /chrome/common/controlled_frame/README.md
+  - references /chrome/renderer/controlled_frame/README.md
+---
+
 # Controlled Frame Browser Implementation (`chrome/browser/controlled_frame`)
 
 This directory contains the browser-process implementation of the

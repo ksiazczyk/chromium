@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task info delegate interface for WebUI task state
+// summary: Defines the TaskInfoDelegate interface for managing task information held by the WebUI, used by the frame navigation observer to update AI thread state such as task ID, thread ID and title.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_TASK_INFO_DELEGATE_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_TASK_INFO_DELEGATE_H_
 

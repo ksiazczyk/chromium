@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame menu icon loader interface
+// summary: Declares the MenuIconLoader implementation that supplies an Isolated Web App's icon for Controlled Frame context menu items.
+// ---
+
 #ifndef CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_MENU_ICON_LOADER_H_
 #define CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_MENU_ICON_LOADER_H_
 

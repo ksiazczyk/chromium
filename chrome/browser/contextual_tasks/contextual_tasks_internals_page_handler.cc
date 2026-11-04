@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks internals page handler implementation
+// summary: Implements the browser-side Mojo handler for the internals page, returning relevant tabs, managing forced embedded page host overrides, and reporting eligibility.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_internals_page_handler.h"
 
 #include <optional>

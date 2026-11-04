@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks UI service factory implementation
+// summary: Builds the per-profile Contextual Tasks UI service, wiring the platform delegate, cookie synchronizer, and eligibility manager, and registers onboarding tooltip prefs.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_ui_service_factory.h"
 
 #include "build/build_config.h"

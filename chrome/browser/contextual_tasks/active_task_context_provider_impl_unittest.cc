@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActiveTaskContextProviderImpl unit tests
+// summary: Unit tests for the active task context provider using mock services, tab lists and browser window interfaces.
+// ---
+
 #include "chrome/browser/contextual_tasks/active_task_context_provider_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome protocol handler navigation throttle implementation
+// summary: Implements the Chrome navigation throttle that shows a confirmation dialog for unconfirmed extension-registered protocol handlers.
+// ---
+
 #include "chrome/browser/custom_handlers/chrome_protocol_handler_navigation_throttle.h"
 
 #include "chrome/browser/ui/extensions/confirm_protocol_handler_dialog.h"

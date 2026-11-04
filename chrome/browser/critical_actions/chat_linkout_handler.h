@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChatLinkoutHandler interface header
+// summary: Declares the ChatLinkoutHandler interface for opening chat or conversation sessions from critical actions.
+// ---
+
 #ifndef CHROME_BROWSER_CRITICAL_ACTIONS_CHAT_LINKOUT_HANDLER_H_
 #define CHROME_BROWSER_CRITICAL_ACTIONS_CHAT_LINKOUT_HANDLER_H_
 

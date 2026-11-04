@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks context service factory unit tests
+// summary: Unit tests verifying the factory creates the context service only when features are enabled, dependencies exist, and the profile is not incognito.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_context_service_factory.h"
 
 #include <memory>

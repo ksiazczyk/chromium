@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame dialog browser tests
+// summary: Parameterized browser tests verifying confirm, prompt, and alert dialogs raised inside a controlledframe and handled by the embedding app.
+// ---
+
 #include <optional>
 #include <string>
 #include <utility>

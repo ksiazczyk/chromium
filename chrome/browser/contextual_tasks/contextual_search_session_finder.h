@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search session finder header
+// summary: Declares helpers to find an existing contextual search session for a task or create a new one and attach it to a web contents.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_SEARCH_SESSION_FINDER_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_SEARCH_SESSION_FINDER_H_
 

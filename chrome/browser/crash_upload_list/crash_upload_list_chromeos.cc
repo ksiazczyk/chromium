@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS crash upload list implementation
+// summary: Implements the ChromeOS upload list, parsing the fatal_crash_type field of JSON log entries into kernel or embedded controller crash types.
+// ---
+
 #include "chrome/browser/crash_upload_list/crash_upload_list_chromeos.h"
 
 #include <string>

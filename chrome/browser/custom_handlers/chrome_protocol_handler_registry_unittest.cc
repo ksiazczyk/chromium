@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome protocol handler registry
+// summary: Unit tests covering protocol handler registration rules, including extension handlers and protocol handler security levels.
+// ---
+
 #include "chrome/test/base/testing_profile.h"
 #include "components/custom_handlers/protocol_handler.h"
 #include "components/custom_handlers/protocol_handler_registry.h"
