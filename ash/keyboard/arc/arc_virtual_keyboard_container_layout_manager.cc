@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC virtual keyboard container layout manager implementation
+// summary: Implements the ash layout manager that keeps the ARC virtual keyboard container window sized to match the ARC IME window parent container.
+// relations:
+//   - implements /ash/keyboard/arc/arc_virtual_keyboard_container_layout_manager.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /base/check_op.h
+// ---
+
 #include "ash/keyboard/arc/arc_virtual_keyboard_container_layout_manager.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

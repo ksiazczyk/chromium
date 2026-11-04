@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC virtual keyboard container layout manager header
+// summary: Declares the ArcVirtualKeyboardContainerLayoutManager class, an aura::LayoutManager that manages bounds of the ARC virtual keyboard container in ash.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/aura/layout_manager.h
+//   - depends_on /ui/aura/window.h
+// ---
+
 #ifndef ASH_KEYBOARD_ARC_ARC_VIRTUAL_KEYBOARD_CONTAINER_LAYOUT_MANAGER_H_
 #define ASH_KEYBOARD_ARC_ARC_VIRTUAL_KEYBOARD_CONTAINER_LAYOUT_MANAGER_H_
 

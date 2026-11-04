@@ -1,0 +1,4 @@
+# Docerion header of keyboard_resources.grd.
+type: config
+title: Keyboard resource definitions for grit packaging
+summary: Grit resource list bundling keyboard images, CSS and layout config data from the input tools sources into keyboard_resources.pak.

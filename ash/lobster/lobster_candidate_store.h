@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster candidate store class declaration
+// summary: Declares the LobsterCandidateStore class, which caches LobsterImageCandidate objects in a map keyed by id.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/lobster/lobster_image_candidate.h
+// ---
+
 #ifndef ASH_LOBSTER_LOBSTER_CANDIDATE_STORE_H_
 #define ASH_LOBSTER_LOBSTER_CANDIDATE_STORE_H_
 

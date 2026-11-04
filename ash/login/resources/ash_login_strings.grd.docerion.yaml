@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings.grd.
+type: config
+title: Grit string definitions for ash login UI
+summary: Grit XML definition that packages ash login UI strings into localized pak files for many languages.

@@ -1,0 +1,4 @@
+# Docerion header of LOGIN_LOCK_OWNERS.
+type: config
+title: Owners of login and lock screen code
+summary: Lists code owners grouped by area such as cryptohome UI, OOBE, lock screen, and login performance.

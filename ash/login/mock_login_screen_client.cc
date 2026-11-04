@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock login screen client implementation
+// summary: Implements the mock login screen client that registers itself with the login screen controller and records authentication calls during tests.
+// relations:
+//   - implements /ash/login/mock_login_screen_client.h
+//   - depends_on /ash/login/login_screen_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/login/mock_login_screen_client.h"
 
 #include <memory>

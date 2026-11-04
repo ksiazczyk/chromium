@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification manager implementation
+// summary: Implements NotificationManager, which consolidates duplicate keyboard visibility and bounds changes before dispatching notifications to KeyboardControllerObserver.
+// relations:
+//   - implements /ash/keyboard/ui/notification_manager.h
+//   - depends_on /ash/public/cpp/keyboard/keyboard_controller_observer.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #include "ash/keyboard/ui/notification_manager.h"
 #include "ash/public/cpp/keyboard/keyboard_controller_observer.h"
 #include "base/observer_list.h"

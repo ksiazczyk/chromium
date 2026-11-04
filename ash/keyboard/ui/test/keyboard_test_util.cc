@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard test utility helpers
+// summary: Implements helpers that wait for keyboard load, show, and hide transitions and compute keyboard bounds from root bounds in tests.
+// relations:
+//   - implements /ash/keyboard/ui/test/keyboard_test_util.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui_controller.h
+//   - implements /ash/public/cpp/keyboard/keyboard_controller_observer.h
+// ---
+
 #include "ash/keyboard/ui/test/keyboard_test_util.h"
 
 #include "ash/keyboard/ui/keyboard_ui_controller.h"

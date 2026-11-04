@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardLayoutManager implementation
+// summary: Implements layout logic that adjusts and applies bounds for the keyboard contents window within its container.
+// relations:
+//   - implements /ash/keyboard/ui/keyboard_layout_manager.h
+//   - depends_on /ash/keyboard/ui/keyboard_layout_manager.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui_controller.h
+// ---
+
 #include "ash/keyboard/ui/keyboard_layout_manager.h"
 
 #include "ash/keyboard/ui/keyboard_ui_controller.h"

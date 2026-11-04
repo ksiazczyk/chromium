@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the ash keyboard folder
+summary: Specifies metadata mixins inherited from the ui/base/ime/ash common metadata for this directory.
+relations:
+  - references /ui/base/ime/ash/COMMON_METADATA

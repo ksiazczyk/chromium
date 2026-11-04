@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard utility functions implementation
+// summary: Implements helpers that set, clear, and query keyboard enable flags for accessibility, shelf, and touch input, plus the overall keyboard enabled check.
+// relations:
+//   - implements /ash/keyboard/ui/keyboard_util.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui_controller.h
+//   - depends_on /ash/public/cpp/keyboard/keyboard_switches.h
+// ---
+
 #include "ash/keyboard/ui/keyboard_util.h"
 
 #include <string>

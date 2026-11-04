@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lobster candidate store unit tests
+// summary: Unit tests verifying that candidates can be found after caching, unknown ids return no value, and caching overrides previous entries.
+// relations:
+//   - tests /ash/lobster/lobster_candidate_store.h
+//   - depends_on /ash/public/cpp/lobster/lobster_image_candidate.h
+//   - depends_on /base/test/task_environment.h
+// ---
+
 #include "ash/lobster/lobster_candidate_store.h"
 
 #include <string_view>

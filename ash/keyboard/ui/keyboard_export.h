@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard export macros
+// summary: Defines the KEYBOARD_EXPORT macro so symbols implemented by the keyboard module can be exported to consumers across build configurations.
+// ---
+
 #ifndef ASH_KEYBOARD_UI_KEYBOARD_EXPORT_H_
 #define ASH_KEYBOARD_UI_KEYBOARD_EXPORT_H_
 

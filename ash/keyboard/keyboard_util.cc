@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard utility functions
+// summary: Implements helpers to detect arrow key codes and close the active Chrome OS or Android virtual keyboard.
+// relations:
+//   - implements /ash/keyboard/keyboard_util.h
+// ---
+
 #include "ash/keyboard/keyboard_util.h"
 
 #include "ash/public/cpp/keyboard/keyboard_controller.h"

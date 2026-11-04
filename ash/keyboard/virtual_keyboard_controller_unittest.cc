@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual keyboard controller unit tests
+// summary: Unit tests covering VirtualKeyboardController behavior, including forced keyboard display with keysets and device changes during shutdown.
+// relations:
+//   - tests /ash/keyboard/virtual_keyboard_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/ime/ime_controller_impl.h
+// ---
+
 #include "ash/keyboard/virtual_keyboard_controller.h"
 
 #include <utility>

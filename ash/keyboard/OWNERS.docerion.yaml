@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the ash keyboard directory
+summary: Delegates directory ownership to the ChromeOS ash input method component OWNERS file.
+relations:
+  - references /chromeos/ash/components/input_method/OWNERS

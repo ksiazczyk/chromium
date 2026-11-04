@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test login screen implementation
+// summary: No-op test implementation of the ash LoginScreen interface that returns a test model and stubs all login screen actions.
+// relations:
+//   - implements /ash/login/test_login_screen.h
+//   - depends_on /ash/public/cpp/scoped_guest_button_blocker.h
+// ---
+
 #include "ash/login/test_login_screen.h"
 
 #include <memory>

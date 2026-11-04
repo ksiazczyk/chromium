@@ -1,3 +1,13 @@
+---
+type: readme
+title: Entities used on the login/lock screen
+summary: Explains the main classes and folders that implement the login and lock screen UI across ash and chrome.
+relations:
+  - documents /ash/login/login_screen_controller.h
+  - references /ash/login/ui/README.md
+  - documents /ash/login/ui/lock_contents_view.h
+---
+
 # Entities used on the login/lock screen
 
 The main entities used to show the login/lock screen UI.

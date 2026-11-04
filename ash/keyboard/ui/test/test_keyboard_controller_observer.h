@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test keyboard controller observer
+// summary: Declares a KeyboardControllerObserver that counts enable and disable occurrences for use in tests.
+// relations:
+//   - implements /ash/public/cpp/keyboard/keyboard_controller_observer.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_TEST_TEST_KEYBOARD_CONTROLLER_OBSERVER_H_
 #define ASH_KEYBOARD_UI_TEST_TEST_KEYBOARD_CONTROLLER_OBSERVER_H_
 

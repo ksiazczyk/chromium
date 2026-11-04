@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security token request controller declaration
+// summary: Declares the security token request controller, the single access point for asking the user for a security token PIN on the login screen.
+// relations:
+//   - depends_on /ash/login/ui/pin_request_view.h
+//   - depends_on /ash/public/cpp/login_types.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_LOGIN_SECURITY_TOKEN_REQUEST_CONTROLLER_H_
 #define ASH_LOGIN_SECURITY_TOKEN_REQUEST_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardUIController implementation
+// summary: Implements the central controller that enables, shows, hides and animates the virtual keyboard and notifies observers.
+// relations:
+//   - implements /ash/keyboard/ui/keyboard_ui_controller.h
+//   - depends_on /ash/keyboard/ui/container_floating_behavior.h
+//   - depends_on /ash/keyboard/ui/container_full_width_behavior.h
+// ---
+
 #include "ash/keyboard/ui/keyboard_ui_controller.h"
 
 #include <set>

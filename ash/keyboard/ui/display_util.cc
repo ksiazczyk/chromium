@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayUtil implementation
+// summary: Implements helpers that find the display nearest to a window and detect adjacent touch-enabled displays when a point is near a screen margin.
+// relations:
+//   - implements /ash/keyboard/ui/display_util.h
+//   - depends_on /ash/keyboard/ui/display_util.h
+//   - depends_on /ui/aura/window.h
+// ---
+
 #include "ash/keyboard/ui/display_util.h"
 
 #include "ui/aura/window.h"

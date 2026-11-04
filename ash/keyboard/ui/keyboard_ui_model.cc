@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardUIModel implementation
+// summary: Implements the keyboard UI state machine, validating allowed transitions between keyboard UI states.
+// relations:
+//   - depends_on /ash/keyboard/ui/keyboard_ui_model.h
+//   - depends_on /base/metrics/histogram_functions.h
+// ---
+
 #include "ash/keyboard/ui/keyboard_ui_model.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster session implementation header
+// summary: Declares LobsterSessionImpl, which manages candidate storage, downloads, insertions, disclaimer and UI flow, and feedback for a Lobster session.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/lobster/lobster_candidate_store.h
+//   - has_part /ash/lobster/lobster_candidate_store.h
+// ---
+
 #ifndef ASH_LOBSTER_LOBSTER_SESSION_IMPL_H_
 #define ASH_LOBSTER_LOBSTER_SESSION_IMPL_H_
 

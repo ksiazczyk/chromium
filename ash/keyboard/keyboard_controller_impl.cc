@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardControllerImpl implementation
+// summary: Implements the ash keyboard controller, managing keyboard config, enable flags, profile prefs, and visibility.
+// relations:
+//   - depends_on /ash/keyboard/keyboard_controller_impl.h
+//   - depends_on /ash/constants/ash_constants.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/keyboard/keyboard_controller_impl.h"
 
 #include <optional>

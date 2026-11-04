@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginScreenController class declaration
+// summary: Declares the controller that implements LoginScreen and dispatches authentication and screen requests to LoginScreenClient.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/security_token_request_controller.h
+//   - depends_on /ash/login/ui/login_data_dispatcher.h
+// ---
+
 #ifndef ASH_LOGIN_LOGIN_SCREEN_CONTROLLER_H_
 #define ASH_LOGIN_LOGIN_SCREEN_CONTROLLER_H_
 

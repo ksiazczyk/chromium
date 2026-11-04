@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard test utility helper declarations
+// summary: Declares test helpers for waiting on keyboard visibility changes, querying show and hide states, and computing keyboard bounds.
+// ---
+
 #ifndef ASH_KEYBOARD_UI_TEST_KEYBOARD_TEST_UTIL_H_
 #define ASH_KEYBOARD_UI_TEST_KEYBOARD_TEST_UTIL_H_
 

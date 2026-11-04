@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard utility functions header
+// summary: Declares global utility functions for enabling and querying the accessibility, shelf, and touch virtual keyboard states.
+// relations:
+//   - depends_on /ash/keyboard/ui/keyboard_export.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_KEYBOARD_UTIL_H_
 #define ASH_KEYBOARD_UI_KEYBOARD_UTIL_H_
 

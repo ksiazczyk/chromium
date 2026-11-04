@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test keyboard UI factory implementation
+// summary: Implements a mock KeyboardUI that creates a stub keyboard window and simulates an asynchronous keyboard load.
+// relations:
+//   - implements /ash/keyboard/ui/test/test_keyboard_ui_factory.h
+//   - depends_on /ash/keyboard/ui/test/keyboard_test_util.h
+//   - depends_on /base/task/sequenced_task_runner.h
+// ---
+
 #include "ash/keyboard/ui/test/test_keyboard_ui_factory.h"
 
 #include <utility>

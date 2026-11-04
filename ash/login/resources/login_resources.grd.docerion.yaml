@@ -1,0 +1,6 @@
+# Docerion header of login_resources.grd.
+type: config
+title: Grit resource definitions for login assets
+summary: Grit XML definition listing login UI resources such as the arrow checkmark animation and fingerprint spinner image for pak generation.
+relations:
+  - references /ash/login/resources/arrow_checkmark_animation.json

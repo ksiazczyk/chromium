@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard UI model unit tests
+// summary: Unit tests for KeyboardUIModel verifying valid and invalid keyboard UI state transitions, including an expected DCHECK failure on an invalid transition.
+// relations:
+//   - tests /ash/keyboard/ui/keyboard_ui_model.h
+//   - depends_on /base/test/gtest_util.h
+//   - depends_on /base/test/metrics/histogram_tester.h
+// ---
+
 #include "ash/keyboard/ui/keyboard_ui_model.h"
 
 #include "base/test/gtest_util.h"

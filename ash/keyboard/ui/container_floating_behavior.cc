@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the floating keyboard container behavior
+// summary: Implements show and hide animations, bounds clamping to the display, position saving, and drag handling for the floating virtual keyboard.
+// relations:
+//   - implements /ash/keyboard/ui/container_floating_behavior.h
+//   - depends_on /ash/keyboard/ui/display_util.h
+//   - depends_on /ash/keyboard/ui/drag_descriptor.h
+// ---
+
 #include "ash/keyboard/ui/container_floating_behavior.h"
 
 #include <memory>

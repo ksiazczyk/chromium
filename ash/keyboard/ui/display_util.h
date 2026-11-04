@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayUtil helper class
+// summary: Declares a helper class for querying screen information, such as the display nearest a window and adjacent displays near margins.
+// relations:
+//   - depends_on /ui/aura/window.h
+//   - depends_on /ui/display/display.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_DISPLAY_UTIL_H_
 #define ASH_KEYBOARD_UI_DISPLAY_UTIL_H_
 

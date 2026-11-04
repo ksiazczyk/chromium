@@ -1,0 +1,8 @@
+# Docerion header of index.html.
+type: source
+title: Keyboard input view HTML entry page
+summary: HTML entry page for the keyboard input view that loads the inputview and emoji stylesheets plus the inputview scripts, English locale, and adapter.
+relations:
+  - depends_on /third_party/google_input_tools/src/chrome/os/inputview/emoji.css
+  - depends_on /ash/keyboard/ui/resources/locales/en.js
+  - depends_on /ash/keyboard/ui/resources/inputview_adapter.js

@@ -1,0 +1,6 @@
+# Docerion header of manifest.json.
+type: config
+title: Virtual keyboard extension manifest
+summary: Chrome extension manifest for the virtual keyboard, declaring its localized name, version, permissions, and the keyboard override page index.html.
+relations:
+  - references /ash/keyboard/ui/resources/index.html

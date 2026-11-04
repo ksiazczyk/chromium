@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard UKM recorder unit tests
+// summary: Tests that RecordUkmKeyboardShown skips empty source IDs and records VirtualKeyboard.Open entries with the correct text input type.
+// relations:
+//   - tests /ash/keyboard/ui/keyboard_ukm_recorder.h
+//   - depends_on /base/test/task_environment.h
+//   - depends_on /components/ukm/test_ukm_recorder.h
+// ---
+
 #include "ash/keyboard/ui/keyboard_ukm_recorder.h"
 
 #include "base/test/task_environment.h"

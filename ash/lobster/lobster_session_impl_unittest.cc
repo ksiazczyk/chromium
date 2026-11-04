@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Lobster session implementation
+// summary: Tests LobsterSessionImpl behavior using a mocked LobsterClient, covering candidate requests, downloads, insertions, and feedback flows.
+// relations:
+//   - tests /ash/lobster/lobster_session_impl.h
+//   - depends_on /ash/lobster/lobster_candidate_store.h
+//   - depends_on /ash/public/cpp/lobster/lobster_client.h
+// ---
+
 #include "ash/lobster/lobster_session_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice input handler for the keyboard microphone key
+// summary: JavaScript class that drives speech recognition for the keyboard's microphone key, toggling the audio state and inserting recognized transcripts as text.
+// ---
+
 function VoiceInput(keyboard) {
   this.finaResult_ = null;
   this.recognizing_ = false;

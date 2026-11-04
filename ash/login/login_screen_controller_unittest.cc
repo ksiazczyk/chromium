@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login screen controller unit tests
+// summary: Unit tests for the login screen controller, covering password and PIN authentication, easy unlock, and related lock screen behavior.
+// relations:
+//   - tests /ash/login/login_screen_controller.h
+//   - depends_on /ash/login/mock_login_screen_client.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/login/login_screen_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lobster image download actuator unit tests
+// summary: Unit tests verifying that images are written to disk and that repeated downloads with the same name get unique numeric suffixes.
+// relations:
+//   - tests /ash/lobster/lobster_image_download_actuator.h
+//   - depends_on /ash/public/cpp/lobster/lobster_image_download_response.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/lobster/lobster_image_download_actuator.h"
 
 #include <string>

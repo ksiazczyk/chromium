@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification manager header
+// summary: Declares NotificationManager and ValueNotificationConsolidator for deduplicating consecutive identical keyboard observer notifications.
+// relations:
+//   - depends_on /ash/keyboard/ui/keyboard_export.h
+//   - depends_on /base/observer_list.h
+//   - depends_on /ui/gfx/geometry/rect.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_NOTIFICATION_MANAGER_H_
 #define ASH_KEYBOARD_UI_NOTIFICATION_MANAGER_H_
 

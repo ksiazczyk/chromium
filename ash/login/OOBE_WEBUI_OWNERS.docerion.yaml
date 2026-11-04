@@ -1,0 +1,4 @@
+# Docerion header of OOBE_WEBUI_OWNERS.
+type: config
+title: Owners of OOBE WebUI code
+summary: Lists the primary and secondary code owners for the OOBE WebUI.

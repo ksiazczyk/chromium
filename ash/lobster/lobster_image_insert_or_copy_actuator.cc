@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster image insert or copy actuator implementation
+// summary: Implements inserting a generated image into a text input field or, when the field cannot accept images, copying it to the clipboard as HTML and showing a toast.
+// relations:
+//   - implements /ash/lobster/lobster_image_insert_or_copy_actuator.h
+//   - depends_on /ash/constants/notifier_catalogs.h
+//   - depends_on /ash/public/cpp/system/toast_data.h
+// ---
+
 #include "ash/lobster/lobster_image_insert_or_copy_actuator.h"
 
 #include "ash/constants/notifier_catalogs.h"

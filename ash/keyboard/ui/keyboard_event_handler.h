@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardEventHandler class
+// summary: Declares an event handler for the keyboard window that intercepts gesture, mouse and touch events before they reach the window.
+// relations:
+//   - depends_on /ash/keyboard/ui/keyboard_export.h
+//   - depends_on /ui/events/event.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_KEYBOARD_EVENT_HANDLER_H_
 #define ASH_KEYBOARD_UI_KEYBOARD_EVENT_HANDLER_H_
 

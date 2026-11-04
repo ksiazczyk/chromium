@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lobster session implementation
+// summary: Implements the Lobster session, handling candidate requests, image downloads and insertion, download notifications, UI loading, and feedback submission.
+// relations:
+//   - implements /ash/lobster/lobster_session_impl.h
+//   - depends_on /ash/constants/notifier_catalogs.h
+//   - depends_on /ash/lobster/lobster_entry_point_enums.h
+// ---
+
 #include "ash/lobster/lobster_session_impl.h"
 
 #include <map>

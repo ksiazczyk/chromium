@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the keyboard UI directory
+summary: Defines the directories that files in ash/keyboard/ui may include from, such as ui/aura, ui/display, and components/ukm.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardUIController class declaration
+// summary: Declares the KeyboardUIController class managing virtual keyboard visibility, container behavior, bounds and observer notifications.
+// relations:
+//   - depends_on /ash/keyboard/ui/container_behavior.h
+//   - depends_on /ash/keyboard/ui/display_util.h
+//   - depends_on /ash/keyboard/ui/keyboard_event_handler.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_KEYBOARD_UI_CONTROLLER_H_
 #define ASH_KEYBOARD_UI_KEYBOARD_UI_CONTROLLER_H_
 

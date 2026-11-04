@@ -1,3 +1,9 @@
+---
+type: readme
+title: Virtual Keyboard
+summary: Explains when the ChromeOS virtual keyboard is enabled or disabled, listing the criteria in priority order.
+---
+
 # Virtual Keyboard
 
 ## Enabled or Disabled

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual keyboard controller header
+// summary: Declares VirtualKeyboardController, which observes tablet mode, session, and input device changes to enable or show the virtual keyboard.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/bluetooth_devices_observer.h
+//   - depends_on /ash/public/cpp/keyboard/keyboard_controller_observer.h
+// ---
+
 #ifndef ASH_KEYBOARD_VIRTUAL_KEYBOARD_CONTROLLER_H_
 #define ASH_KEYBOARD_VIRTUAL_KEYBOARD_CONTROLLER_H_
 

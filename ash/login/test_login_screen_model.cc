@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test login screen model implementation
+// summary: No-op test implementation of the login screen model interface that accepts user list, avatar, authentication, and public session updates without effect.
+// relations:
+//   - implements /ash/login/test_login_screen_model.h
+// ---
+
 #include "ash/login/test_login_screen_model.h"
 
 class AccountId;

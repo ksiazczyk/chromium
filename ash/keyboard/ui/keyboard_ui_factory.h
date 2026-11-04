@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardUIFactory interface
+// summary: Declares the abstract factory for creating platform-specific KeyboardUI instances.
+// relations:
+//   - depends_on /ash/keyboard/ui/keyboard_export.h
+// ---
+
 #ifndef ASH_KEYBOARD_UI_KEYBOARD_UI_FACTORY_H_
 #define ASH_KEYBOARD_UI_KEYBOARD_UI_FACTORY_H_
 

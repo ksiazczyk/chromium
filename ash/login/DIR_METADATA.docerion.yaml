@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ash/login
+summary: Points the ash/login directory metadata to the shared LOGIN_LOCK_METADATA mixin.
+relations:
+  - references /ash/login/LOGIN_LOCK_METADATA
