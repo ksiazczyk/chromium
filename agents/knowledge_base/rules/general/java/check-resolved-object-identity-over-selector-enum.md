@@ -2,6 +2,9 @@
 name: general/check-resolved-object-identity-over-selector-enum
 rubric: readability
 severity: nit
+type: guide
+title: Check Resolved Object Identity Over Selector Enum
+summary: Coding rule recommending guards that compare resolved object references against fallback instances instead of re-evaluating the input enum condition, with examples.
 ---
 
 **Rule.** When an object instance is selected based on an enum, state parameter,

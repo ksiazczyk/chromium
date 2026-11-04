@@ -2,6 +2,9 @@
 name: general/avoid-eager-startup-settings-queries
 rubric: safety
 severity: should_fix
+type: guide
+title: Avoid eager startup settings queries
+summary: Java rule (safety, should_fix) against synchronous ContentResolver settings queries during Android startup, recommending lazy or on-demand getters to cut latency and stale values.
 ---
 
 **Rule.** Do not perform synchronous Binder IPCs (such as querying

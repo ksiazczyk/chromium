@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Android agents project owners
+summary: Lists the code owners for the android agents project directory, referencing the Chrome Android OWNERS file and an owner email.
+relations:
+  - references /chrome/android/OWNERS

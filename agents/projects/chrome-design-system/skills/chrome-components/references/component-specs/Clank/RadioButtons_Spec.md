@@ -1,3 +1,9 @@
+---
+type: reference
+title: RadioButtons Spec (Clank)
+summary: Maps the RadioButtons component specifications across Figma and Clank Android code, covering variants, design tokens, implementation gaps and usage guidance.
+---
+
 # RadioButtons Spec (Clank)
 
 This document maps the specifications of the **RadioButtons** (Clank) component

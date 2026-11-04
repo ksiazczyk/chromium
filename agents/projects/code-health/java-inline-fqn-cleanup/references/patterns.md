@@ -1,3 +1,9 @@
+---
+type: reference
+title: 'Implementation Patterns: Java Inline FQN Cleanup'
+summary: Standard before-and-after patterns for replacing inline Java fully qualified names with imports, including java.lang and R class exceptions.
+---
+
 # Implementation Patterns: Java Inline FQN Cleanup
 
 This document contains standard patterns and examples for identifying and

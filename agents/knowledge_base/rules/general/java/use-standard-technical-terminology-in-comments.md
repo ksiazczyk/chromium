@@ -2,6 +2,9 @@
 name: general/use-standard-technical-terminology-in-comments
 rubric: readability
 severity: should_fix
+type: guide
+title: Use standard technical terminology in comments
+summary: Coding rule requiring official platform names, exact identifier capitalization, and precise plain-language terms in comments while avoiding colloquialisms, jargon, and vague or negative phrasing.
 ---
 
 **Rule.** In code comments and technical documentation, use official platform

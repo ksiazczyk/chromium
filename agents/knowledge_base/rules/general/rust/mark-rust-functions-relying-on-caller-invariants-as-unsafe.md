@@ -2,6 +2,9 @@
 name: general/mark-rust-functions-relying-on-caller-invariants-as-unsafe
 rubric: safety
 severity: should_fix
+type: reference
+title: Mark Rust functions relying on caller invariants as unsafe
+summary: Coding rule requiring unsafe fn and '# Safety' documentation when soundness depends on unchecked caller preconditions.
 ---
 
 **Rule.** In Rust code, declare functions as unsafe fn (and traits as unsafe

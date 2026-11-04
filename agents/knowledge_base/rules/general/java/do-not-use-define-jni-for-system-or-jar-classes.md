@@ -2,6 +2,9 @@
 name: general/do-not-use-define-jni-for-system-or-jar-classes
 rubric: readability
 severity: should_fix
+type: decision
+title: Do not use DEFINE_JNI for system or JAR classes
+summary: Coding rule restricting DEFINE_JNI to classes with @NativeMethods implemented in native C++, because headers generated from JARs lack the macro and cause compilation errors.
 ---
 
 **Rule.** Do not add DEFINE_JNI(ClassName) for system or precompiled library

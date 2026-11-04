@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the keep-sorted project
+summary: Lists the code owners responsible for reviewing changes in the keep-sorted project directory.
+relations:
+  - references /agents/projects/code-health/OWNERS

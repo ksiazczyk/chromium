@@ -3,6 +3,11 @@ name: figma-to-webui
 description: Recreate Figma design frames as production-level Chromium WebUI code following Chrome's Lit-element architecture and styling guidelines. Use when asked to create WebUI code from a Figma frame URL.
 metadata:
   author: Chrome Design System Team
+type: guide
+title: 'Figma to WebUI: Code Generation'
+summary: Defines the figma-to-webui agent skill workflow for recreating Figma frames as production Chromium WebUI code, from discovery and gap auditing through implementation and theme integration.
+relations:
+  - references /chrome/browser/resources/webui_gallery/webui_gallery.html
 ---
 
 # Figma to WebUI: Code Generation

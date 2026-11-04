@@ -1,3 +1,13 @@
+---
+type: reference
+title: Text Field Spec (Clank)
+summary: Maps the Text Field component specifications across Figma and Clank Android code, covering variants, design tokens, implementation gaps and usage guidance.
+relations:
+  - references /components/browser_ui/styles/android/java/res/values/styles.xml
+  - references /chrome/android/java/res/values/styles.xml
+  - references /chrome/browser/bookmarks/android/java/res/layout/bookmark_popup.xml
+---
+
 # Text Field Spec (Clank)
 
 This document maps the specifications of the **Text field** (Clank) component

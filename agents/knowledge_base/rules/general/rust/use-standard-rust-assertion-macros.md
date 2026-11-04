@@ -2,6 +2,9 @@
 name: general/use-standard-rust-assertion-macros
 rubric: readability
 severity: optional
+type: guide
+title: Use standard Rust assertion macros
+summary: Rule to use debug_assert!, assert!, panic! and unreachable! in Chromium Rust code instead of custom error-logging or abort paths for invariant violations.
 ---
 
 **Rule.** In Chromium Rust code, use standard assertion and panic macros

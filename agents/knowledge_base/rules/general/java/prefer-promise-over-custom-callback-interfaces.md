@@ -2,6 +2,9 @@
 name: general/prefer-promise-over-custom-callback-interfaces
 rubric: design
 severity: should_fix
+type: reference
+title: Prefer Promise over custom callback interfaces
+summary: Coding rule telling Java API designers to return org.chromium.base.Promise or use Callback for asynchronous operations instead of declaring bespoke single-use callback interfaces.
 ---
 
 **Rule.** When designing Java APIs for asynchronous operations, return an

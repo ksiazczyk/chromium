@@ -2,6 +2,9 @@
 name: general/safe-generic-container-upcasting-in-java
 rubric: correctness
 severity: should_fix
+type: reference
+title: Safe generic container upcasting in Java
+summary: Chromium Java rule to upcast generic containers through static helpers with upper-bounded type parameters instead of unconstrained wildcard generic return types that permit unsafe casts.
 ---
 
 **Rule.** Do not use an unconstrained generic return type with a wildcard

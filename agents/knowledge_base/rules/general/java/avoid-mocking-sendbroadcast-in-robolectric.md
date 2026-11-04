@@ -2,6 +2,9 @@
 name: general/avoid-mocking-sendbroadcast-in-robolectric
 rubric: correctness
 severity: should_fix
+type: guide
+title: Avoid mocking sendBroadcast in Robolectric
+summary: Robolectric test rule (correctness, should_fix) against spying on Context in setup and mocking sendBroadcast, recommending real broadcasts with main looper draining to test receivers.
 ---
 
 **Rule.** In Android Robolectric JUnit tests, do not spy on Context or use

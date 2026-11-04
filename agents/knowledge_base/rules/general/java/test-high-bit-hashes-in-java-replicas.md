@@ -2,6 +2,9 @@
 name: general/test-high-bit-hashes-in-java-replicas
 rubric: testing
 severity: should_fix
+type: guide
+title: Test high-bit hashes in Java replicas of C++ hash functions
+summary: Testing rule requiring test cases with the most significant bit set when porting C++ unsigned 32-bit hashes to Java, verifying negative two's-complement values and end-to-end histogram recording via HistogramWatcher.
 ---
 
 **Rule.** When implementing or testing Java counterparts of C++ unsigned 32-bit

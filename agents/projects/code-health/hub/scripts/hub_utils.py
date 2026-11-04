@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Shared utilities for Code Health Hub plugins
+# summary: Provides shared Java text-processing helpers for Code Health Hub plugins, including stripping comments, string literals, and annotations, and extracting method bodies via brace matching.
+# ---
+
 """Shared utility functions for Code Health Hub plugins."""
 
 import re

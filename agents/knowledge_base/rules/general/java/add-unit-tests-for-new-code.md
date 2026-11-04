@@ -2,6 +2,9 @@
 name: general/add-unit-tests-for-new-code
 rubric: testing
 severity: should_fix
+type: guide
+title: Add unit tests for new code
+summary: Coding rule requiring unit and regression tests for new or refactored code in the same changelist, with guidance on testability and production entry points.
 ---
 
 **Rule.** Add unit and regression test coverage (e.g., GoogleTest in C++ or

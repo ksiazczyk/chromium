@@ -2,6 +2,9 @@
 name: general/use-parameter-name-comments-in-java
 rubric: readability
 severity: nit
+type: guide
+title: Use parameter name comments in Java
+summary: Coding rule requiring /* paramName= */ comments before non-obvious literal arguments like null or boolean flags at Java call sites to make calls self-documenting.
 ---
 
 **Rule.** In Java method and constructor calls, use parameter name comments

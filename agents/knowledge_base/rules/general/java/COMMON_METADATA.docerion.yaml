@@ -1,0 +1,8 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA rule capability mapping
+summary: Configuration that maps file path patterns for Java and JNI sources to the coding rule files agents should apply when reviewing them.
+relations:
+  - references /agents/knowledge_base/rules/general/java/colocate-tojnitype-and-fromjnitype-conversions.md
+  - references /agents/knowledge_base/rules/general/java/do-not-use-define-jni-for-system-or-jar-classes.md
+  - references /agents/knowledge_base/rules/general/java/omit-redundant-namespace-in-jni-type.md

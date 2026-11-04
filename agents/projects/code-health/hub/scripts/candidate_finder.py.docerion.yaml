@@ -1,0 +1,4 @@
+# Docerion header of candidate_finder.py.
+type: script
+title: Unified CLI runner for Chromium Code Health Hub cleanups
+summary: CLI tool that discovers candidate files for code health cleanups in the Chromium repository, using git ls-files with skip directories, path normalization, subsystem grouping, and plugin loading.

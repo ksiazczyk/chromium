@@ -2,6 +2,9 @@
 name: general/synchronize-accesses-to-guarded-java-collections
 rubric: safety
 severity: should_fix
+type: reference
+title: Synchronize accesses to guarded Java collections
+summary: Chromium Java rule to synchronize all accesses and traversals of @GuardedBy collections on the guarding monitor and avoid redundant Collections.synchronized wrappers.
 ---
 
 **Rule.** When accessing, mutating, or traversing a shared Java collection or

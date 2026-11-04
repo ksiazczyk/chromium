@@ -1,3 +1,11 @@
+---
+type: reference
+title: List Headers Spec (Clank)
+summary: Maps the List Headers (Clank) component specifications across Figma and code, covering section label configurations and their feature-specific code implementations.
+relations:
+  - references /components/browser_ui/settings/android/widget/java/src/org/chromium/components/browser_ui/settings/ChromeBasePreferenceCategory.java
+---
+
 # List Headers Spec (Clank)
 
 This document maps the specifications of the **List Headers** (Clank) component

@@ -2,6 +2,11 @@
 name: general/suffix-rust-ffi-shim-types-with-rs
 rubric: readability
 severity: should_fix
+type: guide
+title: Suffix Rust FFI shim types with Rs
+summary: Rule to name C++ shim types created only for Rust FFI with an Rs suffix and scope them in a dedicated rust or ffi sub-namespace rather than generic namespaces.
+relations:
+  - references /base/test/scoped_feature_list_rust_shim.h
 ---
 
 **Rule.** When defining C++ shim classes or wrapper factory functions created

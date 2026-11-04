@@ -2,6 +2,9 @@
 name: general/statically-import-java-test-assertions
 rubric: readability
 severity: should_fix
+type: reference
+title: Statically import Java test assertions
+summary: Chromium Java test rule to statically import JUnit assertion and Mockito mocking and matcher methods rather than qualifying calls with class names.
 ---
 
 **Rule.** In Java test files, statically import individual assertion and mocking

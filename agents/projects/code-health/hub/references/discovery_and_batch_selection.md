@@ -1,3 +1,11 @@
+---
+type: guide
+title: Discovery and Batch Selection
+summary: Workflow for discovering cleanup candidates with candidate_finder.py and presenting candidate batches to the user for confirmation or rejection.
+relations:
+  - references /agents/projects/code-health/hub/scripts/candidate_finder.py
+---
+
 # Discovery & Batch Selection
 
 Follow this workflow to identify candidates to process.

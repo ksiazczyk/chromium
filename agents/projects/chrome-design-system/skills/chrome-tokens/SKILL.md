@@ -1,6 +1,12 @@
 ---
 name: chrome-tokens
 description: Use this skill when you need to reference Chrome Design System token data or generate a token map.
+type: config
+title: Chrome Tokens Skill Definition
+summary: Skill manifest that describes when to use the chrome-tokens skill and points to the token map and token map generation instructions in the references folder.
+relations:
+  - references /agents/projects/chrome-design-system/skills/chrome-tokens/references/tokens.md
+  - references /agents/projects/chrome-design-system/skills/chrome-tokens/references/generate-token-map.md
 ---
 
 # Chrome Tokens

@@ -2,6 +2,9 @@
 name: general/do-not-rely-on-java-assert-for-production-validation
 rubric: correctness
 severity: should_fix
+type: decision
+title: Do not rely on Java assert for production validation
+summary: Coding rule advising against Java assert statements for production input validation or error handling, since R8 strips asserts from release builds, in favor of explicit checks.
 ---
 
 **Rule.** Do not rely on Java assert statements for input validation, API

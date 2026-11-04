@@ -2,6 +2,9 @@
 name: general/prefix-fallible-actions-with-try
 rubric: readability
 severity: nit
+type: reference
+title: Prefix fallible actions with try
+summary: Coding rule advising a try or Try prefix for methods that conditionally perform an action and return a success boolean, making the fallible contract explicit to callers.
 ---
 
 **Rule.** Name methods that conditionally perform an action or lifecycle

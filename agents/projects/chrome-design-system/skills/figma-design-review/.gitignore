@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: .gitignore
+# summary: Ignores the out directory so generated design review output stays untracked in git.
+# ---
+
 out

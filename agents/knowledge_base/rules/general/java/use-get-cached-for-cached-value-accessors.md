@@ -2,6 +2,9 @@
 name: general/use-get-cached-for-cached-value-accessors
 rubric: readability
 severity: nit
+type: guide
+title: Use GetCached prefix for cached value accessors
+summary: Naming rule requiring accessors that return a cached value or snapshot to use the GetCached prefix, reserving GetCache for accessors that return a cache storage instance, directory, key, or subsystem.
 ---
 
 **Rule.** Use the past-participle prefix `GetCached...` (or `cached_...` /

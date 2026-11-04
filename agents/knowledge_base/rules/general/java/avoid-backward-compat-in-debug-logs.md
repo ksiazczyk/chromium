@@ -2,6 +2,9 @@
 name: general/avoid-backward-compat-in-debug-logs
 rubric: design
 severity: should_fix
+type: guide
+title: Avoid backward compatibility in debug logs
+summary: Coding rule advising against preserving legacy or fixed-width log formats for hypothetical parsers, and formatting diagnostics around the current data model.
 ---
 
 **Rule.** Do not complicate debug or diagnostic log formatting to preserve

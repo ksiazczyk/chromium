@@ -2,6 +2,9 @@
 name: general/return-nullable-in-java-testing-getters
 rubric: readability
 severity: nit
+type: reference
+title: Return nullable in Java testing getters
+summary: Chromium Java rule to annotate testing getters exposing nullable fields with @Nullable and return the field directly instead of synthesizing fallback instances or asserting non-null.
 ---
 
 **Rule.** In Java testing getters (such as `get*ForTesting()`) exposing a

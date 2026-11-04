@@ -2,6 +2,9 @@
 name: general/document-counterintuitive-constants-and-mappings
 rubric: readability
 severity: nit
+type: decision
+title: Document counterintuitive constants and mappings
+summary: Coding rule requiring inline comments at code sites that map or match counterintuitive constants, parser quirks, or non-exact prefix matches, rather than relying on commit messages alone.
 ---
 
 **Rule.** When mapping, branching on, or checking constants, enums, class names,

@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: .gitignore
+# summary: Gitignore that excludes the out directory where generated component files are saved.
+# ---
+
 out

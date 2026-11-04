@@ -2,6 +2,9 @@
 name: general/avoid-side-effects-in-constructors
 rubric: design
 severity: nit
+type: guide
+title: Avoid side effects in constructors
+summary: Coding rule keeping constructors limited to member initialization and moving registration, listener, or UI side effects into explicit initialization methods.
 ---
 
 **Rule.** Do not perform external side effects—such as registering broadcast

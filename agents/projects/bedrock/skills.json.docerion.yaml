@@ -1,0 +1,4 @@
+# Docerion header of skills.json.
+type: config
+title: Bedrock agent skills configuration
+summary: Declares the skill entries available to the bedrock agent project, referencing local and depot_tools skill paths.

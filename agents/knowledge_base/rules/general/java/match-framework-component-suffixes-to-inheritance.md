@@ -2,6 +2,9 @@
 name: general/match-framework-component-suffixes-to-inheritance
 rubric: readability
 severity: should_fix
+type: guide
+title: Match framework component suffixes to inheritance
+summary: Coding rule forbidding Android framework component suffixes like BroadcastReceiver or Service on classes that do not directly extend that component.
 ---
 
 **Rule.** Do not suffix a Java class name with an Android framework component

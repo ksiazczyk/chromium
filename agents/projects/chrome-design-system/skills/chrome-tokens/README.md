@@ -1,3 +1,12 @@
+---
+type: readme
+title: Chrome Tokens
+summary: README for the chrome-tokens agent skill, explaining that it provides cross-platform knowledge of Chrome Design System tokens and noting caveats about Figma-based variables and overwriting tokens.md.
+relations:
+  - references /agents/projects/chrome-design-system/skills/chrome-tokens/references/figma-variables.md
+  - references /agents/projects/chrome-design-system/skills/chrome-tokens/references/tokens.md
+---
+
 # Chrome Tokens
 
 An agent skill that gives agents cross-platform knowledge of Chrome Design

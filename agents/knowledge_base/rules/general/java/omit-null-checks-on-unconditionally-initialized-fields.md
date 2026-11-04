@@ -2,6 +2,9 @@
 name: general/omit-null-checks-on-unconditionally-initialized-fields
 rubric: readability
 severity: should_fix
+type: reference
+title: Omit null checks on unconditionally initialized fields
+summary: Coding rule against @Nullable annotations, defensive null checks, assertions, and assumeNonNull wrappers on member fields that are unconditionally initialized in @NullMarked classes.
 ---
 
 **Rule.** Do not retain @Nullable annotations, defensive if (field != null)

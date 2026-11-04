@@ -2,6 +2,9 @@
 name: general/unregister-receivers-and-observers-in-test-reset
 rubric: safety
 severity: should_fix
+type: guide
+title: Unregister receivers and observers in test reset
+summary: Safety rule requiring resetForTesting and teardown methods on singletons to explicitly unregister broadcast receivers, observers, listeners, and callbacks before nulling the instance reference to avoid leaks and stale callbacks.
 ---
 
 **Rule.** When implementing `resetForTesting()` or teardown methods on

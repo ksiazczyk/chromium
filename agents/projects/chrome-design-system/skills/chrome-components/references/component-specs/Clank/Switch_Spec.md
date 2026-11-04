@@ -1,3 +1,9 @@
+---
+type: reference
+title: Switch Spec (Clank)
+summary: Maps the Switch component specifications across Figma and Clank Android code, covering variants, design tokens, implementation gaps and usage guidance.
+---
+
 # Switch Spec (Clank)
 
 This document maps the specifications of the **Switch** (Clank) component across

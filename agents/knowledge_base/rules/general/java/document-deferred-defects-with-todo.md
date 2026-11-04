@@ -2,6 +2,9 @@
 name: general/document-deferred-defects-with-todo
 rubric: readability
 severity: should_fix
+type: decision
+title: Document deferred defects with TODO
+summary: Coding rule requiring defects, coverage gaps, and deferred work found in changed code to be recorded with a bug-linked TODO comment referencing a tracking issue.
 ---
 
 **Rule.** When identifying a pre-existing defect, unhandled edge case, deferred

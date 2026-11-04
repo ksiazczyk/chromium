@@ -2,6 +2,9 @@
 name: general/document-service-impl-discovery-and-invocation-timing
 rubric: readability
 severity: nit
+type: guide
+title: Document ServiceImpl discovery and invocation timing
+summary: Coding rule requiring class-level Javadoc on @ServiceImpl classes explaining ServiceLoader discovery and when the test lifecycle hook runs.
 ---
 
 **Rule.** When implementing test lifecycle hooks, listeners, or service provider

@@ -2,6 +2,9 @@
 name: general/cache-service-loader-load-results
 rubric: safety
 severity: should_fix
+type: guide
+title: Cache ServiceLoader load results
+summary: Coding rule to cache ServiceLoader.load() results in static collections rather than repeatedly loading them in hot paths or test lifecycle hooks for performance.
 ---
 
 **Rule.** When discovering service providers or test lifecycle hooks using

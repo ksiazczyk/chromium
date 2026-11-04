@@ -2,6 +2,9 @@
 name: general/keep-internal-rust-struct-fields-private
 rubric: readability
 severity: should_fix
+type: reference
+title: Keep internal Rust struct fields private
+summary: Coding rule keeping internal state and cached fields private in Rust structs, exposing only consumer-facing fields or accessor methods.
 ---
 
 **Rule.** When defining Rust structs, keep internal implementation details,

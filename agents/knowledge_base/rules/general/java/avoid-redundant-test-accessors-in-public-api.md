@@ -2,6 +2,12 @@
 name: general/avoid-redundant-test-accessors-in-public-api
 rubric: design
 severity: should_fix
+type: guide
+title: Avoid redundant test accessors in public API
+summary: Coding rule against adding test-only helpers, duplicate methods, or internal offsets to production classes, directing such logic into test utilities or fixtures instead.
+relations:
+  - references /base/android/java/src/org/chromium/base/DeviceInfo.java
+  - references /ui/android/javatests/src/org/chromium/ui/test/util/UiRestriction.java
 ---
 
 **Rule.** Do not add test-only query helpers, duplicate methods, redundant

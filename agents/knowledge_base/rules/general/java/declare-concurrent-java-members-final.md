@@ -2,6 +2,9 @@
 name: general/declare-concurrent-java-members-final
 rubric: safety
 severity: should_fix
+type: guide
+title: Declare Concurrent Java Members Final
+summary: Coding rule requiring final Java member fields when state is read concurrently from other threads, encapsulating lifecycle reassignment inside the component, with examples.
 ---
 
 **Rule.** Declare Java member fields as final when their methods or state can be

@@ -2,6 +2,9 @@
 name: general/use-visible-insets-when-calculating-keyboard-height
 rubric: correctness
 severity: should_fix
+type: guide
+title: Use visible insets when calculating keyboard height
+summary: Coding rule requiring getInsets rather than getInsetsIgnoringVisibility when computing visible IME height from WindowInsetsCompat so hidden system bars are not subtracted.
 ---
 
 **Rule.** When calculating visible soft keyboard (IME) height or screen

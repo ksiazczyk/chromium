@@ -1,3 +1,11 @@
+# ---docerion
+# type: test
+# title: Promptfoo tests for Code Health Hub triage
+# summary: Promptfoo evaluation config that checks the Chrome Code Health Hub correctly triages cleanup requests and hands off to Histogram Cleanup through a Gemini provider.
+# relations:
+#   - references /agents/testing/gemini_provider.py
+# ---
+
 description: Verify the Chrome Code Health Hub and Histogram Cleanup orchestration
 owner: agazal@
 prompts:

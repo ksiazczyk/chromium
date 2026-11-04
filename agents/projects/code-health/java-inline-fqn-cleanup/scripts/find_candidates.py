@@ -1,6 +1,15 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Java inline FQN violation finder plugin
+# summary: Plugin for the hub candidate finder that scans Java files for inline fully-qualified names, validates them against existing imports with git grep, and reports valid and banned candidates.
+# relations:
+#   - depends_on /agents/projects/code-health/hub/scripts/candidate_finder.py
+# ---
+
 """Plugin to find Java inline FQN violations."""
 
 import re

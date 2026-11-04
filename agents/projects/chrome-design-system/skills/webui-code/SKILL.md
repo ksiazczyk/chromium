@@ -3,6 +3,13 @@ name: webui-code
 description: Use this skill when generating or reviewing WebUI code. This skill contains knowledge on WebUI code following Chrome's Lit-element architecture and styling guidelines.
 metadata:
   author: Chrome Design System Team
+type: guide
+title: WebUI Coding Guidelines Skill
+summary: Skill instructions for generating and reviewing Chrome WebUI code, covering Lit-element architecture, component file structure, and CSS styling and linting rules.
+relations:
+  - references /agents/projects/chrome-design-system/skills/webui-code/assets/component_name.css
+  - references /agents/projects/chrome-design-system/skills/webui-code/assets/component_name.html.ts
+  - references /agents/projects/chrome-design-system/skills/webui-code/assets/component_name.ts
 ---
 
 # WebUI: Coding Guidelines

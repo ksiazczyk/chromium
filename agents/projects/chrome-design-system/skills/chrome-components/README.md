@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chrome Components
+summary: Describes the chrome-components skill's goals, prerequisites and usage for generating component specs from Figma frames.
+---
+
 # Chrome Components
 
 The purposes of this skill are to:

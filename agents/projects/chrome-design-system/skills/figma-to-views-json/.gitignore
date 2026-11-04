@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for generated output
+# summary: Gitignore that excludes the out directory where generated Views JSON script files are saved.
+# ---
+
 out

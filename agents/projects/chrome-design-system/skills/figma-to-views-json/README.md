@@ -1,3 +1,9 @@
+---
+type: readme
+title: Figma to Views JSON
+summary: Describes an agent skill that turns Figma frame URLs into prototype-quality Views JSON scripts, covering prerequisites, usage steps, and caveats.
+---
+
 # Figma to Views JSON
 
 An agent skill that takes a URL to a Figma frame from the Figma Core UI Library

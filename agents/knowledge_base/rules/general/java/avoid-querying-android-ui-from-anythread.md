@@ -2,6 +2,9 @@
 name: general/avoid-querying-android-ui-from-anythread
 rubric: safety
 severity: should_fix
+type: guide
+title: Avoid querying Android UI from any thread
+summary: Java rule (safety, should_fix) against calling Android UI framework methods from @AnyThread or background threads, recommending thread-safe cached state updated on the UI thread.
 ---
 
 **Rule.** Do not invoke Android UI framework methods (such as

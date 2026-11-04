@@ -1,3 +1,11 @@
+---
+type: guide
+title: 'Automated Review Protocol: Histogram Cleanup'
+summary: Review prompt for delegating a final histogram cleanup patch review to the generalist sub-agent, adding checks for orphaned references and legacy comments.
+relations:
+  - references /agents/projects/code-health/hub/references/automated_review.md
+---
+
 # Automated Review Protocol: Histogram Cleanup
 
 Use this prompt when delegating a final review of a histogram cleanup patch to

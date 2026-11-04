@@ -1,3 +1,11 @@
+---
+type: guide
+title: 'Automated Review Protocol: Clean up inline FQNs'
+summary: Review prompt and specific cleanup rules for delegating a final review of a java-inline-fqn-cleanup patch to the generalist sub-agent.
+relations:
+  - references /agents/projects/code-health/hub/references/automated_review.md
+---
+
 # Automated Review Protocol: Clean up inline FQNs
 
 Use this prompt when delegating a final review of a java-inline-fqn-cleanup

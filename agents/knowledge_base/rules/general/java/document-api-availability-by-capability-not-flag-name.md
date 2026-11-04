@@ -2,6 +2,9 @@
 name: general/document-api-availability-by-capability-not-flag-name
 rubric: readability
 severity: nit
+type: decision
+title: Document API availability by capability, not flag name
+summary: Coding rule requiring API documentation to describe caller-facing behavior, fallback behavior, and threading constraints instead of citing internal class names, flag names, or delegated platform methods.
 ---
 
 **Rule.** When documenting API methods, factory functions, capability checks, or

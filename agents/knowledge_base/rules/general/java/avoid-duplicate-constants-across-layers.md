@@ -2,6 +2,12 @@
 name: general/avoid-duplicate-constants-across-layers
 rubric: design
 severity: nit
+type: guide
+title: Avoid duplicate constants across layers
+summary: Java rule (design, nit) against duplicating semantic constant literals across classes or layers, favoring a single source of truth or documented sync invariants.
+relations:
+  - references /base/android/java/src/org/chromium/base/DeviceInfo.java
+  - references /ui/android/java/src/org/chromium/ui/base/DeviceFormFactor.java
 ---
 
 **Rule.** Do not duplicate numeric, string, or configuration literals

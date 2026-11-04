@@ -2,6 +2,9 @@
 name: general/prefer-index-zero-for-single-element-invariants
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer index zero for single-element invariants
+summary: Readability rule to access index 0 directly when invariants guarantee a single-element collection, instead of querying the last element via size() - 1.
 ---
 
 **Rule.** When class invariants, assertions, or state machines guarantee that a

@@ -1,3 +1,12 @@
+---
+type: reference
+title: Messages Spec (Clank)
+summary: Maps the Messages (message banner) component specifications across Figma and Clank Android code, covering variants, design tokens, implementation gaps and usage guidance.
+relations:
+  - documents /components/messages/android/internal/java/src/org/chromium/components/messages/MessageBannerView.java
+  - documents /components/messages/android/java/src/org/chromium/components/messages/MessageDispatcher.java
+---
+
 # Messages Spec (Clank)
 
 This document maps the specifications of the **Messages** (message banner)

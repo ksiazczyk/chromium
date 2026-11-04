@@ -2,6 +2,9 @@
 name: general/disambiguate-action-menu-accessibility-labels
 rubric: testing
 severity: should_fix
+type: decision
+title: Disambiguate action menu accessibility labels
+summary: Coding rule requiring context-specific accessible labels for action or overflow menus on repeated UI items so screen reader users can tell which item each menu targets.
 ---
 
 **Rule.** When defining accessible labels or string resources for action,

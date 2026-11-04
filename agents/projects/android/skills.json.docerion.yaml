@@ -1,0 +1,4 @@
+# Docerion header of skills.json.
+type: config
+title: Android agent skills manifest
+summary: Manifest listing paths to agent skills for Android work, covering testing, JNI type conversion, memory leaks, and static analysis.

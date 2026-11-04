@@ -2,6 +2,11 @@
 name: general/document-rust-ffi-mirror-types-and-reference-cpp-header
 rubric: readability
 severity: should_fix
+type: reference
+title: Document Rust FFI mirror types and reference the C++ header
+summary: Coding rule requiring doc comments on Rust FFI mirror types to state the layout constraint and point to the canonical C++ header.
+relations:
+  - references /base/feature.h
 ---
 
 **Rule.** When defining a Rust type that mirrors a C++ type for FFI

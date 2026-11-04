@@ -1,3 +1,11 @@
+---
+type: reference
+title: List Items Spec (Clank)
+summary: Maps the List-item (Clank) component specifications across Figma and code, covering row anatomy, preference-based implementations, and usage guidance.
+relations:
+  - references /components/browser_ui/widget/android/java/res/layout/modern_list_item_view.xml
+---
+
 # List Items Spec (Clank)
 
 This document maps the specifications of the **List Items** (Clank) component

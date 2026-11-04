@@ -2,6 +2,9 @@
 name: general/avoid-cstr-in-repr-c-structs
 rubric: safety
 severity: should_fix
+type: reference
+title: Avoid CStr in repr(C) structs
+summary: Coding rule advising thin c_char pointers instead of &CStr or &str in repr(C) structs to keep ABI compatibility with C++.
 ---
 
 **Rule.** In `#[repr(C)]` Rust structs designed to mirror C or C++ struct

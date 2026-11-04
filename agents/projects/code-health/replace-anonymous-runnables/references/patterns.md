@@ -1,3 +1,9 @@
+---
+type: guide
+title: 'Implementation Patterns: Replace Anonymous Runnables'
+summary: Shows how to convert anonymous classes to lambdas and lists exceptions such as annotated methods, this usage, and blank final fields where refactoring is forbidden.
+---
+
 # Implementation Patterns: Replace Anonymous Runnables
 
 Use these examples to guide the refactoring.

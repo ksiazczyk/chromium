@@ -2,6 +2,9 @@
 name: general/omit-m-prefix-on-public-fields-in-java
 rubric: readability
 severity: nit
+type: reference
+title: Omit m prefix on public fields in Java
+summary: Coding rule requiring public Java fields to drop the m prefix and use lowerCamelCase, reserving m for non-public members and s for static fields per AOSP and Chromium style.
 ---
 
 **Rule.** In Java, omit the 'm' prefix on public fields (e.g., use 'fileName')

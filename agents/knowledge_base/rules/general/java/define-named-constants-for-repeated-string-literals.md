@@ -2,6 +2,9 @@
 name: general/define-named-constants-for-repeated-string-literals
 rubric: readability
 severity: should_fix
+type: decision
+title: Define named constants for repeated string literals
+summary: Coding rule requiring centralized named constants for repeated string literals, command-line switches, and property keys instead of scattering raw literals across producer and consumer call sites.
 ---
 
 **Rule.** Define centralized named constants (such as inline constexpr char[] /

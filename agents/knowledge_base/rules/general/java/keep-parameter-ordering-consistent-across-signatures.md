@@ -2,6 +2,9 @@
 name: general/keep-parameter-ordering-consistent-across-signatures
 rubric: readability
 severity: nit
+type: reference
+title: Keep parameter ordering consistent across signatures
+summary: Coding rule requiring helper constructors, factories, and forwarding wrappers to keep the same parameter ordering as the methods they mirror to avoid argument-swapping bugs.
 ---
 
 **Rule.** When defining a helper class constructor, factory method, or

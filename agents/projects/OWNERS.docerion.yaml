@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the projects folder
+summary: Delegates ownership of the projects folder to the OWNERS file of agents/testing via a file reference.
+relations:
+  - references /agents/testing/OWNERS

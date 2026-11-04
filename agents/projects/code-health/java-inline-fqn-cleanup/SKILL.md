@@ -1,6 +1,13 @@
 ---
 name: java-inline-fqn-cleanup
 description: Identify and clean up inline fully qualified Java names (FQNs) in first-party code, replacing them with standard imports.
+type: guide
+title: 'Code Health: Java Inline FQN Cleanup'
+summary: Skill guide for discovering and cleaning up inline fully qualified Java names in Chromium's first-party code, replacing them with standard imports via a sequential workflow.
+relations:
+  - references /agents/projects/code-health/hub/references/discovery_and_batch_selection.md
+  - references /agents/projects/code-health/hub/references/workspace_preparation.md
+  - references /agents/projects/code-health/java-inline-fqn-cleanup/references/automated_review.md
 ---
 
 # Code Health: Java Inline FQN Cleanup

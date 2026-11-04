@@ -1,3 +1,9 @@
+---
+type: reference
+title: Context Menu Spec (Desktop)
+summary: Maps the Chrome Desktop Context Menu component specifications across Figma and code, covering variants, design tokens, implementation gaps and usage guidance.
+---
+
 # Context Menu Spec (Desktop)
 
 This document maps the specifications of the **Context Menu** (Desktop)

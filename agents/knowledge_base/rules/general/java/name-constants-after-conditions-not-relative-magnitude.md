@@ -2,6 +2,9 @@
 name: general/name-constants-after-conditions-not-relative-magnitude
 rubric: readability
 severity: nit
+type: guide
+title: Name constants after conditions not relative magnitude
+summary: Coding rule telling variant constants and limits to be named after the condition or mode they apply to instead of vague qualifiers like HIGH or LOW.
 ---
 
 **Rule.** When defining variant constants, configuration limits, or capacity

@@ -1,6 +1,13 @@
 ---
 name: lint-sync
 description: Add missing LINT.IfChange(...) / LINT.ThenChange(...) guards to enums in C++/Java and XML to keep them in sync. Trigger this skill ONLY when a contributor explicitly asks to add lint guards or synchronize enums using LINT guards.
+type: guide
+title: 'Code Health: Lint Sync Guards'
+summary: Skill instructions for adding LINT.IfChange/ThenChange guards to enums in C++/Java and XML so source code and enums.xml metadata stay in sync.
+relations:
+  - references /agents/projects/code-health/hub/references/discovery_and_batch_selection.md
+  - references /agents/projects/code-health/hub/references/workspace_preparation.md
+  - references /agents/projects/code-health/lint-sync/references/automated_review.md
 ---
 
 # Code Health: Lint Sync Guards

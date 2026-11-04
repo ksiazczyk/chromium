@@ -2,6 +2,9 @@
 name: general/factor-compound-feature-checks-into-helper
 rubric: design
 severity: should_fix
+type: guide
+title: Factor compound feature checks into a helper
+summary: Design rule requiring compound feature and capability checks to be centralized in one authoritative helper method rather than duplicated.
 ---
 
 **Rule.** Factor out compound feature, capability, or environment checks (such

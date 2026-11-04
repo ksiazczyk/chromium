@@ -1,6 +1,11 @@
 ---
 name: keep-sorted
 description: Automatically detects misordered lists in code (like Android XMLs), injects go/keep-sorted tags, sorts them, and creates CLs.
+type: guide
+title: Keep-Sorted Finder & Fixer skill
+summary: Step-by-step guide for AI agents to find unsorted lists, inject go/keep-sorted tags, sort them, create tracking bugs, and upload code health CLs.
+relations:
+  - references /BUILD.gn
 ---
 
 # 🧹 Keep-Sorted Finder & Fixer

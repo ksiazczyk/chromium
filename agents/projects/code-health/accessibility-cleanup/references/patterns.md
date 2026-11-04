@@ -1,3 +1,12 @@
+---
+type: reference
+title: Accessibility Implementation Patterns
+summary: Catalog of bad and good accessibility implementation patterns with code examples, used to guide refactoring and discovery of issues in Clank.
+relations:
+  - references /components/browser_ui/settings/android/widget/java/src/org/chromium/components/browser_ui/settings/ExpandablePreferenceGroup.java
+  - references /components/browser_ui/settings/android/widget/java/src/org/chromium/components/browser_ui/settings/ExpandablePreferenceAccessibilityDelegate.java
+---
+
 # Accessibility Implementation Patterns
 
 Use these patterns to guide the refactoring of custom accessibility

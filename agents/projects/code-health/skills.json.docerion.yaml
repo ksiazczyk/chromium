@@ -1,0 +1,4 @@
+# Docerion header of skills.json.
+type: data
+title: Code-health skills manifest
+summary: JSON manifest enumerating the skill directories of the code-health project, including accessibility cleanup, histogram cleanup, keep-sorted, and related entries.

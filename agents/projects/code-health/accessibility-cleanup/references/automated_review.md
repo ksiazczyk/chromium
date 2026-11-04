@@ -1,3 +1,11 @@
+---
+type: guide
+title: 'Automated Review Protocol: Accessibility Cleanup'
+summary: Provides the exact review prompt and specific cleanup rules for delegating a final accessibility cleanup patch review to the generalist sub-agent.
+relations:
+  - references /agents/projects/code-health/hub/references/automated_review.md
+---
+
 # Automated Review Protocol: Accessibility Cleanup
 
 Use this prompt when delegating a final review of an accessibility cleanup patch

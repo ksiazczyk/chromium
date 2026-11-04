@@ -2,6 +2,9 @@
 name: general/pass-rust-str-and-string-view-across-ffi-boundaries
 rubric: readability
 severity: should_fix
+type: guide
+title: Pass Rust &str and rust::Str across FFI boundaries
+summary: 'Rule for cxx bridges: declare Rust string parameters as &str and accept rust::Str on the C++ side instead of raw char or byte pointers and CString allocations.'
 ---
 
 **Rule.** When bridging string parameters across Rust/C++ FFI boundaries using

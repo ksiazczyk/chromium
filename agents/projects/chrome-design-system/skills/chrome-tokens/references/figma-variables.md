@@ -1,3 +1,9 @@
+---
+type: reference
+title: CDDS Design Kit Core UI (Chrome) Variable Definitions
+summary: Catalogs all 143 design variables from the CDDS Design Kit Core UI (Chrome) Figma file, organized into color, typography, spacing, radius, elevation, and miscellaneous token categories for Chromium implementation.
+---
+
 # CDDS Design Kit - Core UI (Chrome) - Variable Definitions
 
 This document catalogs all **143 design variables** extracted from the **CDDS

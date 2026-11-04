@@ -1,3 +1,9 @@
+---
+type: guide
+title: Accessibility Cleanup Bug Tracking Guidelines
+summary: Instructions for finding or creating Buganizer tracking bugs for accessibility cleanup, covering the discovery query, bug creation, and description construction.
+---
+
 # Accessibility Cleanup Bug Tracking Guidelines
 
 Use these instructions to find or create a tracking bug for accessibility

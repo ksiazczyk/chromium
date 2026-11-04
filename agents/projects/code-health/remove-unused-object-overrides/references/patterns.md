@@ -1,3 +1,9 @@
+---
+type: reference
+title: 'Implementation Patterns: Remove Unused Object Overrides'
+summary: Rules, good and bad refactoring patterns, and test-repair strategies for safely removing unreferenced equals(), hashCode(), and toString() overrides in Chromium/Clank Java code.
+---
+
 # Implementation Patterns: Remove Unused Object Overrides
 
 This reference details the rules, good/bad patterns, safety constraints, and

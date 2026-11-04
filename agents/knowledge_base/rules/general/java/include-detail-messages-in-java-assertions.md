@@ -2,6 +2,9 @@
 name: general/include-detail-messages-in-java-assertions
 rubric: readability
 severity: nit
+type: reference
+title: Include detail messages in Java assertions
+summary: Coding rule requiring informative detail messages in Java assertions so failures provide clear diagnostic context for triage and crash report analysis.
 ---
 
 **Rule.** In Java assertions, provide an informative detail message

@@ -2,6 +2,9 @@
 name: general/scoped-java-local-ref-for-stack-allocated-classes
 rubric: readability
 severity: optional
+type: reference
+title: Scoped Java local ref for stack-allocated classes
+summary: Chromium rule to store Java references as ScopedJavaLocalRef in stack-allocated RAII classes, reserving ScopedJavaGlobalRef for heap-allocated or longer-lived objects.
 ---
 
 **Rule.** In stack-allocated RAII classes (annotated with `STACK_ALLOCATED()`)

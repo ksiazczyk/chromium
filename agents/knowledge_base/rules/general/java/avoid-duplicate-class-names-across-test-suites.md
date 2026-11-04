@@ -2,6 +2,11 @@
 name: general/avoid-duplicate-class-names-across-test-suites
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid duplicate class names across test suites
+summary: Coding rule against reusing identical class names across sibling test suites to prevent classpath shadowing, favoring environment-specific names.
+relations:
+  - references /base/test/android/junit/src/org/chromium/base/test/BaseJvmTestRunner.java
 ---
 
 **Rule.** Do not reuse the exact class name of an existing class or test runner

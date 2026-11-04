@@ -2,6 +2,9 @@
 name: general/avoid-redundant-test-override-checks-in-getters
 rubric: readability
 severity: nit
+type: guide
+title: Avoid redundant test override checks in getters
+summary: Coding rule telling Android Java singletons not to duplicate static test override checks in public getters when instance construction already applies those overrides.
 ---
 
 **Rule.** In Android Java singletons where instance caching is disabled in test

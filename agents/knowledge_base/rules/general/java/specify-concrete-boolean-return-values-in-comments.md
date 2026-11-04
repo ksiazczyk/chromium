@@ -2,6 +2,9 @@
 name: general/specify-concrete-boolean-return-values-in-comments
 rubric: readability
 severity: should_fix
+type: reference
+title: Specify concrete boolean return values in comments
+summary: Chromium rule to document boolean-returning functions with explicit true or false outcomes for each case instead of vague phrasing like returning a boolean if successful.
 ---
 
 **Rule.** When documenting functions or methods that return a boolean,

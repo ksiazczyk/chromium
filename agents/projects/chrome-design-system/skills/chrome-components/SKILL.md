@@ -1,6 +1,11 @@
 ---
 name: chrome-components
 description: Use this skill when you need to map components across platforms, reference Chrome Design System component data, or generate a component spec.
+type: readme
+title: Chrome Components skill
+summary: Entry point for the chrome-components skill, pointing to the component map, per-component specs and instructions for generating a spec.
+relations:
+  - references /agents/projects/chrome-design-system/skills/chrome-components/references/generate-component-spec.md
 ---
 
 # Chrome Components

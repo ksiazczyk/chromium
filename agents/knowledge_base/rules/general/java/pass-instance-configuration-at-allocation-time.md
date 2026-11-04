@@ -2,6 +2,9 @@
 name: general/pass-instance-configuration-at-allocation-time
 rubric: design
 severity: should_fix
+type: reference
+title: Pass instance configuration at allocation time
+summary: Design rule to pass per-instance configuration directly to allocation or creation methods instead of storing default configuration state in allocator constructors.
 ---
 
 **Rule.** When an allocator, factory, or resource provider needs to support

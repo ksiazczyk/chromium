@@ -2,6 +2,9 @@
 name: general/use-lowercase-unchecked-in-java-suppress-warnings
 rubric: readability
 severity: nit
+type: guide
+title: Use lowercase unchecked in Java SuppressWarnings
+summary: Coding rule requiring standard lowercase JLS warning tokens such as unchecked and deprecation in @SuppressWarnings annotations instead of capitalized variants.
 ---
 
 **Rule.** In Java `@SuppressWarnings` annotations, use standard lowercase token

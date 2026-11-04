@@ -1,3 +1,12 @@
+---
+type: reference
+title: Chrome Design System — Component Mapping Table (Clank)
+summary: Aggregated table mapping Chrome Android (Clank) Figma components to their equivalent Chromium engineering implementations.
+relations:
+  - references /agents/projects/chrome-design-system/skills/chrome-components/references/component-specs/Clank/BottomSheet_Spec.md
+  - references /agents/projects/chrome-design-system/skills/chrome-components/references/component-specs/Clank/Button_Spec.md
+---
+
 # Chrome Design System — Component Mapping Table (Clank)
 
 This document aggregates the component mappings from all Clank (Android)

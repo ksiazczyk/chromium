@@ -2,6 +2,9 @@
 name: general/no-nullable-delegate-when-null-is-execution-sentinel
 rubric: correctness
 severity: should_fix
+type: guide
+title: No nullable delegate when null is execution sentinel
+summary: Coding rule forbidding @Nullable annotations on delegate or callback parameters when the class uses null as a sentinel marking that the callback already ran.
 ---
 
 **Rule.** Do not mark a delegate, callback, or action parameter as @Nullable in

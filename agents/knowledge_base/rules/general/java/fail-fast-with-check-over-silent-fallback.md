@@ -2,6 +2,9 @@
 name: general/fail-fast-with-check-over-silent-fallback
 rubric: readability
 severity: should_fix
+type: guide
+title: Fail fast with checks over silent fallback
+summary: Readability rule favoring CHECK, DCHECK, assert, and assumeNonNull assertions over defensive if-checks and silent fallbacks for invariants.
 ---
 
 **Rule.** Do not wrap code in defensive runtime if-checks, loose inequality

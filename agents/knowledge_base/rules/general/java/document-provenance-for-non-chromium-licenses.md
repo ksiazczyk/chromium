@@ -2,6 +2,9 @@
 name: general/document-provenance-for-non-chromium-licenses
 rubric: readability
 severity: nit
+type: guide
+title: Document provenance for non-Chromium licenses
+summary: Coding rule requiring a top-of-file provenance comment when source files outside third_party retain external non-Chromium license headers.
 ---
 
 **Rule.** When a source file outside //third_party retains an external

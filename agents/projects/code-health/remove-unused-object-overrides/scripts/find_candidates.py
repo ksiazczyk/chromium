@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Plugin to find remove-unused-object-overrides candidates
+# summary: Python plugin that scans Java files for equals, hashCode, and toString overrides and reports them as candidates for the remove-unused-object-overrides cleanup, to be run through the central hub runner.
+# ---
+
 """Plugin to find candidates for remove-unused-object-overrides."""
 
 import os

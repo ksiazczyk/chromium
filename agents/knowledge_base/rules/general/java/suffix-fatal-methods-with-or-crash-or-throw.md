@@ -2,6 +2,9 @@
 name: general/suffix-fatal-methods-with-or-crash-or-throw
 rubric: readability
 severity: optional
+type: reference
+title: Suffix fatal methods with OrCrash, OrThrow or OrDie
+summary: Chromium rule to suffix methods that synchronously crash, throw, or die on failure with OrCrash, OrThrow, or OrDie so the fatal contract is explicit to callers.
 ---
 
 **Rule.** When a method or function synchronously throws an unchecked exception,

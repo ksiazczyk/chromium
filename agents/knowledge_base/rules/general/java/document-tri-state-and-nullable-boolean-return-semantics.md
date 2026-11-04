@@ -2,6 +2,9 @@
 name: general/document-tri-state-and-nullable-boolean-return-semantics
 rubric: readability
 severity: should_fix
+type: guide
+title: Document tri-state and nullable boolean return semantics
+summary: Coding rule requiring explicit documentation of what null or empty means for tri-state and nullable boolean returns in Java and C++.
 ---
 
 **Rule.** When declaring or documenting methods or functions that return a

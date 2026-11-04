@@ -2,6 +2,9 @@
 name: general/omit-redundant-namespace-in-jni-type
 rubric: readability
 severity: nit
+type: reference
+title: Omit redundant namespace in JniType annotations
+summary: Coding rule telling developers not to qualify C++ types with the enclosing namespace in @JniType annotations when @JNINamespace already injects it via JNI Zero.
 ---
 
 **Rule.** Do not qualify C++ types with the enclosing namespace in @JniType

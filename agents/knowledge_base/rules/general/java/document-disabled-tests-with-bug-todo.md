@@ -2,6 +2,9 @@
 name: general/document-disabled-tests-with-bug-todo
 rubric: readability
 severity: nit
+type: guide
+title: Document disabled tests with a bug-linked TODO
+summary: Coding rule requiring a bug-linked TODO comment explaining platform and failure reason whenever a test is disabled or disablement macros are extended.
 ---
 
 **Rule.** When disabling a test case or extending conditional disablement macros

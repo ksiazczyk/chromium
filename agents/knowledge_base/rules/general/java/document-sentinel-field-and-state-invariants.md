@@ -2,6 +2,9 @@
 name: general/document-sentinel-field-and-state-invariants
 rubric: readability
 severity: nit
+type: guide
+title: Document sentinel field and state invariants
+summary: Coding rule requiring comments on nullable sentinel fields describing the invariants and preconditions that hold when the field is set.
 ---
 
 **Rule.** When declaring member fields, optional handles, or nullable variables

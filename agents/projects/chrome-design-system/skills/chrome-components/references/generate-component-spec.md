@@ -3,6 +3,9 @@ name: generate-component-spec
 description: Maps a Figma component from the Chrome Design System (CDS) to its platform-specific equivalent in the Chromium codebase. Generates a platform-specific Markdown specification that details variants, interactive states, design tokens, architectural and implementation gaps, and usage guidelines. Use this skill when given a Figma component or frame URL and asked to generate a component spec.
 metadata:
   author: Chrome Design System Team
+type: guide
+title: Component Spec Generator
+summary: Step-by-step skill for mapping a Figma component from the Chrome Design System to its Chromium code equivalent and generating a Markdown component spec.
 ---
 
 # Component Spec Generator

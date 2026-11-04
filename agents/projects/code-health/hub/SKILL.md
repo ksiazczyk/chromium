@@ -1,6 +1,13 @@
 ---
 name: hub
 description: Orchestrator for the "Code Health Hub" framework. Trigger only when the user refers to the Hub or asks to see "available cleanup tasks" within the Chromium technical debt reduction system.
+type: guide
+title: Chrome Code Health Hub Orchestrator Skill
+summary: Defines the orchestrator skill for the Chrome Code Health Hub, greeting users, triaging contribution categories, and routing code health tasks to sub-skills and sub-agents.
+relations:
+  - references /agents/projects/code-health/hub/references/automated_review.md
+  - references /agents/projects/code-health/hub/references/discovery_and_batch_selection.md
+  - references /agents/projects/code-health/hub/references/submission.md
 ---
 
 # 🛠️ Chrome Code Health Hub

@@ -2,6 +2,9 @@
 name: general/retain-runtime-null-checks-when-refactoring-for-nullaway
 rubric: correctness
 severity: should_fix
+type: reference
+title: Retain runtime null checks when refactoring for NullAway
+summary: Chromium Java rule to keep runtime null checks such as Objects.requireNonNull when annotating with @NullMarked or refactoring for NullAway, guarding against permissive unannotated callers.
 ---
 
 **Rule.** Do not remove or omit runtime non-null checks (such as

@@ -1,6 +1,13 @@
 ---
 name: accessibility-cleanup
 description: Finds common violations of the Android accessibility API in the Clank App Java code and attempts to address them (e.g. hardcoded state change announcements, missing events, focus moving, assertive live regions, etc).
+type: guide
+title: 'Code Health: Accessibility Cleanup'
+summary: Skill workflow for finding and fixing Android accessibility API violations in Clank Java code, covering discovery, refactoring, validation, bug tracking, and submission.
+relations:
+  - references /agents/projects/code-health/accessibility-cleanup/references/automated_review.md
+  - references /agents/projects/code-health/accessibility-cleanup/references/bug_discovery.md
+  - references /agents/projects/code-health/accessibility-cleanup/references/discovery_and_batch_selection.md
 ---
 
 # Code Health: Accessibility Cleanup

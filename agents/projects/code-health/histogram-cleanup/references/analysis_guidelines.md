@@ -1,3 +1,9 @@
+---
+type: guide
+title: Histogram Cleanup Analysis Guidelines
+summary: Guidelines for evaluating the safety and effort of removing expired histograms, covering safety checks, effort estimation, and a step-by-step deep dive workflow with confidence scoring.
+---
+
 # Histogram Cleanup Analysis Guidelines
 
 Use these guidelines to evaluate the difficulty and safety of removing an

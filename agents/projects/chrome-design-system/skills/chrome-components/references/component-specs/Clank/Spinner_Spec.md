@@ -1,3 +1,13 @@
+---
+type: reference
+title: Spinner Spec (Clank)
+summary: Maps the Spinner (circular progress indicator) component specifications across Figma and Clank Android code, covering variants, design tokens, gaps and usage guidance.
+relations:
+  - references /ui/android/java/src/org/chromium/ui/widget/LoadingView.java
+  - references /components/browser_ui/styles/android/java/res/values/styles.xml
+  - references /components/browser_ui/theme/android/templates/res/values/themes.xml
+---
+
 # Spinner Spec (Clank)
 
 This document maps the specifications of the **Spinner** (Clank) component

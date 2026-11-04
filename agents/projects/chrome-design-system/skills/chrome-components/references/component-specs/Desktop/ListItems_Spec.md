@@ -1,3 +1,12 @@
+---
+type: reference
+title: List Items Spec (Desktop)
+summary: Maps the Chrome Desktop List Items component specifications across Figma and code, covering variants, design tokens, implementation gaps and usage guidance.
+relations:
+  - references /ui/webui/resources/cr_elements/cr_url_list_item/cr_url_list_item.ts
+  - references /chrome/browser/resources/side_panel/shared/sp_list_item_badge.ts
+---
+
 # List Items Spec (Desktop)
 
 This document maps the specifications of the **List Items** (Desktop) component

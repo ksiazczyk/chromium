@@ -2,6 +2,9 @@
 name: general/encapsulate-unsafe-ffi-conversions-in-from-into-traits
 rubric: readability
 severity: should_fix
+type: reference
+title: Encapsulate unsafe FFI conversions in From/Into traits
+summary: Coding rule recommending From/Into or TryFrom/TryInto implementations that centralize unsafe FFI conversions with SAFETY comments.
 ---
 
 **Rule.** Implement standard conversion traits (`From`/`Into` or

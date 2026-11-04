@@ -2,6 +2,9 @@
 name: general/name-reason-enums-after-triggering-conditions
 rubric: readability
 severity: should_fix
+type: guide
+title: Name reason enums after triggering conditions
+summary: Coding rule requiring reason, failure, and eviction enum values to be named after the specific triggering condition rather than a feature or subsystem name.
 ---
 
 **Rule.** When defining enumerators for reason, eviction, failure, or error

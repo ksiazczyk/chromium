@@ -2,6 +2,9 @@
 name: general/name-boolean-flags-after-controlled-mechanism
 rubric: readability
 severity: should_fix
+type: guide
+title: Name boolean flags after controlled mechanism
+summary: Coding rule requiring boolean flags and toggles to be named after the specific mechanism or data they represent rather than broad features or conditions.
 ---
 
 **Rule.** When declaring boolean state flags, member variables, test toggles, or

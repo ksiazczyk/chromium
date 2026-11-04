@@ -1,6 +1,13 @@
 ---
 name: replace-anonymous-runnables
 description: Replace anonymous classes with lambdas where applicable (SAM interfaces)
+type: guide
+title: 'Code Health: Replace Anonymous Runnables'
+summary: Skill guide for replacing Java anonymous classes implementing SAM interfaces with lambdas to enable Lambda Grouping and reduce binary size, via a sequential discovery, refactoring, and submission workflow.
+relations:
+  - references /agents/projects/code-health/hub/references/discovery_and_batch_selection.md
+  - references /agents/projects/code-health/hub/references/submission.md
+  - references /agents/projects/code-health/hub/references/verification.md
 ---
 
 # Code Health: Replace Anonymous Runnables

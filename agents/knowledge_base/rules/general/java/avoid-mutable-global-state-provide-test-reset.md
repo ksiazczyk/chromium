@@ -2,6 +2,9 @@
 name: general/avoid-mutable-global-state-provide-test-reset
 rubric: correctness
 severity: should_fix
+type: guide
+title: Avoid mutable global state, provide test reset
+summary: Rule (correctness, should_fix) against un-resettable mutable process-global state, requiring reset helpers, dependency injection, and unconditional teardown in tests to prevent flaky pollution.
 ---
 
 **Rule.** Do not introduce un-resettable mutable process-global variables;

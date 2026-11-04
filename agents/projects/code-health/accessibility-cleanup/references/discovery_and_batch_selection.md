@@ -1,3 +1,12 @@
+---
+type: guide
+title: Discovery & Batch Selection
+summary: Workflow for running the candidate discovery script, triaging accessibility issues, and looping with the user until a cleanup candidate is confirmed.
+relations:
+  - depends_on /agents/projects/code-health/accessibility-cleanup/scripts/find_candidates.py
+  - references /agents/projects/code-health/accessibility-cleanup/references/patterns.md
+---
+
 # Discovery & Batch Selection
 
 Follow this workflow to identify candidates to process.

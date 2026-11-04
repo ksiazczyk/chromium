@@ -1,0 +1,8 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Rust rules capability group metadata
+summary: Configuration grouping the folder's Rust rule files by path expressions and code content patterns for agent review.
+relations:
+  - references /agents/knowledge_base/rules/general/rust/avoid-cstr-in-repr-c-structs.md
+  - references /agents/knowledge_base/rules/general/rust/hide-macro-internal-rust-modules-with-doc-hidden.md
+  - references /agents/knowledge_base/rules/general/rust/keep-internal-rust-struct-fields-private.md

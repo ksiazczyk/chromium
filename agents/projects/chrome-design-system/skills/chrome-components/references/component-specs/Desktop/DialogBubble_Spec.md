@@ -1,3 +1,9 @@
+---
+type: reference
+title: Dialog Bubble Spec (Desktop)
+summary: Maps the Chrome Desktop Dialog Bubble component specifications across Figma and code, covering variants, design tokens, implementation gaps and usage guidance.
+---
+
 # Dialog Bubble Spec (Desktop)
 
 This document maps the specifications of the **Dialog Bubble** (Desktop)

@@ -2,6 +2,9 @@
 name: general/avoid-dynamic-trace-event-names-in-java
 rubric: readability
 severity: nit
+type: guide
+title: Avoid dynamic trace event names in Java
+summary: Java rule (readability, nit) requiring static string literals for Android TraceEvent names because R8 obfuscation makes runtime class names misleading in traces.
 ---
 
 **Rule.** Do not dynamically construct Android TraceEvent or EarlyTraceEvent

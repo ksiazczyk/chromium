@@ -1,3 +1,9 @@
+---
+type: guide
+title: Shared Code Health Submission Pipeline
+summary: 'Pipeline for submitting Code Health cleanups: creating a branch, filing a Buganizer bug, committing, and uploading a CL to Gerrit after user confirmation.'
+---
+
 # Shared Code Health Submission Pipeline
 
 **CRITICAL:** Do not execute this file unless explicitly invoked by a skill.

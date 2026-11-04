@@ -2,6 +2,9 @@
 name: general/use-c-char-for-ffi-in-rust
 rubric: correctness
 severity: should_fix
+type: guide
+title: Use c_char for FFI in Rust
+summary: Rule to use std::ffi::c_char instead of hardcoded i8 or u8 for C char values and pointers in Rust FFI, since char signedness depends on the target architecture.
 ---
 
 **Rule.** In Rust code interfacing with C/C++ APIs, representing C-compatible

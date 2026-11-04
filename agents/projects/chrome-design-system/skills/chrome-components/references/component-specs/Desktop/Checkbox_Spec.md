@@ -1,3 +1,12 @@
+---
+type: reference
+title: Checkbox Spec (Desktop)
+summary: Maps the Chrome Desktop Checkbox component specifications across Figma and code, covering variants, design tokens, implementation gaps and usage guidance.
+relations:
+  - references /ui/views/controls/button/checkbox.h
+  - references /ui/webui/resources/cr_elements/cr_checkbox/cr_checkbox.ts
+---
+
 # Checkbox Spec (Desktop)
 
 This document maps the specifications of the **Checkbox** (Desktop) component

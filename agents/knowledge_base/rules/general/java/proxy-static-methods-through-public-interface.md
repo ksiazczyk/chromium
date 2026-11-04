@@ -2,6 +2,9 @@
 name: general/proxy-static-methods-through-public-interface
 rubric: design
 severity: should_fix
+type: reference
+title: Proxy static methods through the public interface
+summary: Coding rule requiring static helpers to be exposed as proxy methods on the public interface rather than invoked directly on implementation classes, with good and bad examples.
 ---
 
 **Rule.** Do not invoke static helper, query, or factory methods directly on an

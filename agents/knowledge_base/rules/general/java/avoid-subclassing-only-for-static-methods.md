@@ -2,6 +2,9 @@
 name: general/avoid-subclassing-only-for-static-methods
 rubric: design
 severity: should_fix
+type: guide
+title: Avoid subclassing only for static methods
+summary: Coding rule against creating subclasses that only add static factory or utility methods, favoring parameterization or direct instantiation instead.
 ---
 
 **Rule.** Do not introduce a subclass or inheritance hierarchy when the derived

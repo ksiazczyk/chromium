@@ -1,3 +1,12 @@
+---
+type: reference
+title: Top App Bar Spec (Clank)
+summary: Maps the Top App Bar component specifications across Figma and Clank Android code, covering variants, design tokens, implementation gaps and usage guidance.
+relations:
+  - references /chrome/android/java/res/layout/settings_activity.xml
+  - references /components/browser_ui/widget/android/java/src/org/chromium/components/browser_ui/widget/selectable_list/SelectableListToolbar.java
+---
+
 # Top App Bar Spec (Clank)
 
 This document maps the specifications of the **Top App Bar** (Clank) component

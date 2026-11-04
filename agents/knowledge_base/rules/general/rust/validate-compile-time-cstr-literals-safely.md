@@ -2,6 +2,9 @@
 name: general/validate-compile-time-cstr-literals-safely
 rubric: correctness
 severity: should_fix
+type: guide
+title: Validate compile-time CStr literals safely
+summary: Rule to validate NUL-terminated CStr literals at compile time with CStr::from_bytes_with_nul instead of the unchecked unsafe variant in Rust macros and const contexts.
 ---
 
 **Rule.** When constructing &'static CStr values from string or byte literals in

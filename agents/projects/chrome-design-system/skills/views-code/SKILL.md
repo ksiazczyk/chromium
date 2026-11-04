@@ -3,6 +3,13 @@ name: views-code
 description: Use this skill when generating or reviewing C++ Views code. This skill contains knowledge on C++ Views code following Chrome's native Views architecture and component guidelines.
 metadata:
   author: Chrome Design System Team
+type: guide
+title: Views Code Guidelines Skill
+summary: Skill definition with guidelines and boilerplate for generating and reviewing native C++ Views components in Chrome, covering theming, layout tokens, and required header and source files.
+relations:
+  - references /ui/base/metadata/metadata_header_macros.h
+  - references /ui/views/view.h
+  - references /base/functional/callback_helpers.h
 ---
 
 # Views: Code Guidelines

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI component Lit element template
+// summary: Template defining a MyComponentElement Lit element that wires together the CSS and HTML templates for a new WebUI component.
+// ---
+
 // other imports go here...
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 

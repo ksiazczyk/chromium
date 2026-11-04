@@ -2,6 +2,9 @@
 name: general/avoid-parameterizing-delegates-with-unreleased-constants
 rubric: design
 severity: should_fix
+type: guide
+title: Avoid parameterizing delegates with unreleased constants
+summary: Java rule (design, should_fix) against duplicating unreleased SDK constants in delegate interfaces, favoring mode-specific methods that bind directly to platform constants.
 ---
 
 **Rule.** Do not parameterize delegate or platform bridge interface methods with

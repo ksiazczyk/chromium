@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Find candidates for fix-outdated-javadocs
+# summary: Python plugin that scans Java files for Javadoc style issues such as return-only docs, pipe params, inline params, and tag order to produce fix candidates.
+# ---
+
 """Plugin to find candidates for fix-outdated-javadocs."""
 
 import os

@@ -2,6 +2,12 @@
 name: general/reuse-canonical-cpp-entry-points-for-ffi
 rubric: design
 severity: should_fix
+type: guide
+title: Reuse canonical C++ entry points for FFI
+summary: Rule to bind cxx bridges to existing canonical C++ entry points and isolate wrappers in dedicated shim files instead of adding redundant methods to C++ classes.
+relations:
+  - references /base/feature.h
+  - references /base/feature_list.h
 ---
 
 **Rule.** When exposing C++ APIs across FFI boundaries (such as Rust `cxx`

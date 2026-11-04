@@ -2,6 +2,9 @@
 name: general/mark-concurrent-java-fields-volatile-and-cache-locally
 rubric: safety
 severity: nit
+type: guide
+title: Mark concurrent Java fields volatile and cache locally
+summary: Coding rule advising that fields accessed across threads be marked volatile and that volatile references be captured in a local variable for a consistent snapshot.
 ---
 
 **Rule.** In Java, mark fields that are read or modified across threads without

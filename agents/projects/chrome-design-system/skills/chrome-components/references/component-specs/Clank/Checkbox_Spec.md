@@ -1,3 +1,13 @@
+---
+type: reference
+title: Checkbox Spec (Clank)
+summary: Maps the Checkbox (Clank) component specifications across Figma and code, covering the Material 3 CheckBox styling, token differences, and usage guidance.
+relations:
+  - references /components/browser_ui/widget/android/java/src/org/chromium/components/browser_ui/widget/CheckBoxWithDescription.java
+  - references /components/browser_ui/styles/android/java/res/values/styles.xml
+  - references /components/browser_ui/styles/android/java/res/color/selection_control_button_tint_list.xml
+---
+
 # Checkbox Spec (Clank)
 
 This document maps the specifications of the **Checkbox** (Clank) component

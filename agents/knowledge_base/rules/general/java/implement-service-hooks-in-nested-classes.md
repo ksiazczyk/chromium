@@ -2,6 +2,9 @@
 name: general/implement-service-hooks-in-nested-classes
 rubric: design
 severity: nit
+type: reference
+title: Implement service hooks in nested classes
+summary: Coding rule recommending that static utility classes implement service or test lifecycle hook interfaces through nested static classes to stay non-instantiable and purely static.
 ---
 
 **Rule.** When a Java utility class (a class consisting solely of static helper

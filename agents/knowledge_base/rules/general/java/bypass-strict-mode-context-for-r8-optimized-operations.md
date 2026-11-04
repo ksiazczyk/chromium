@@ -2,6 +2,9 @@
 name: general/bypass-strict-mode-context-for-r8-optimized-operations
 rubric: safety
 severity: blocking
+type: guide
+title: Bypass StrictModeContext for R8-optimized operations
+summary: Blocking coding rule to skip StrictModeContext wrapping in release builds when R8 optimizes away the triggering operations, gated on BuildConfig.IS_PROGUARD_ENABLED.
 ---
 
 **Rule.** When suppressing StrictMode violations for operations (such as

@@ -2,6 +2,9 @@
 name: general/maintain-consistent-assertion-order-across-checkpoints
 rubric: readability
 severity: nit
+type: reference
+title: Maintain consistent assertion order across checkpoints
+summary: Coding rule requiring tests to keep the same relative assertion order across successive checkpoints so state transitions are easy to visually compare.
 ---
 
 **Rule.** When checking the state of multiple variables, instances, or

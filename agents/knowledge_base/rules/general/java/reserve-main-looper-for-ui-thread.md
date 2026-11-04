@@ -2,6 +2,9 @@
 name: general/reserve-main-looper-for-ui-thread
 rubric: readability
 severity: nit
+type: reference
+title: Reserve main looper naming for the UI thread
+summary: Coding rule reserving the mainLooper name for the Android UI thread looper and directing captured calling-thread loopers to be named callingThreadLooper, with examples.
 ---
 
 **Rule.** Do not name a variable, field, or parameter holding an arbitrary or

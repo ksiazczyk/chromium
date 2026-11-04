@@ -2,6 +2,9 @@
 name: general/use-direct-action-verbs-for-toggle-accessibility-labels
 rubric: testing
 severity: should_fix
+type: guide
+title: Use direct action verbs for toggle accessibility labels
+summary: Testing rule requiring toggle button accessibility labels and string resources to use direct action verbs such as Pin and Unpin instead of Enable or Disable capability phrasing, so assistive technologies announce the immediate effect.
 ---
 
 **Rule.** Phrase toggle button accessibility labels and string resources with

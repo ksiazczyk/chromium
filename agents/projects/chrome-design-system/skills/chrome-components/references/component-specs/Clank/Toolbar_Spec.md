@@ -1,3 +1,9 @@
+---
+type: reference
+title: Toolbar Spec (Clank)
+summary: Maps the Toolbar component specifications across Figma and Clank Android code, covering mobile and tablet variants, design tokens, gaps and usage guidance.
+---
+
 # Toolbar Spec (Clank)
 
 This document maps the specifications of the **Toolbar** (Clank) component

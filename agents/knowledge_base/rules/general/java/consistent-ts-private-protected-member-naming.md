@@ -2,6 +2,9 @@
 name: general/consistent-ts-private-protected-member-naming
 rubric: readability
 severity: optional
+type: guide
+title: Consistent TypeScript Private and Protected Member Naming
+summary: Coding rule requiring consistent private and protected member naming in TypeScript files, either with or without trailing underscores but not mixed, with examples.
 ---
 
 **Rule.** In TypeScript code and documentation, do not mix and match naming

@@ -2,6 +2,13 @@
 name: general/prefer-opaque-cxx-types-over-raw-byte-pointers
 rubric: readability
 severity: should_fix
+type: guide
+title: Prefer opaque cxx types over raw byte pointers
+summary: Rule for Rust-C++ cxx bridges to declare non-shareable C++ types as opaque and pass them by reference, preserving type safety and alignment instead of casting byte pointers.
+relations:
+  - references /base/feature_rust_shim.h
+  - references /base/feature.rs
+  - references /base/feature.h
 ---
 
 **Rule.** In Rust-C++ CXX FFI bridges and shims, declare C++ types that cannot

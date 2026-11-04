@@ -1,3 +1,13 @@
+---
+type: reference
+title: Text Fields Spec (Desktop)
+summary: Maps the Desktop Text Fields component specifications across Figma and code for both C++ Views (views::Textfield) and WebUI (<cr-input>), covering variants, design tokens, implementation gaps, usage guidance, and verification status.
+relations:
+  - references /ui/views/controls/textfield/textfield.h
+  - references /ui/webui/resources/cr_elements/cr_input/cr_input.ts
+  - references /ui/views/controls/textfield/textfield.cc
+---
+
 # Text Fields Spec (Desktop)
 
 This document maps the specifications of the **Text Fields** (Desktop) component

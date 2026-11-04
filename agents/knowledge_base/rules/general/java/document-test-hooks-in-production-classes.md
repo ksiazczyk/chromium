@@ -2,6 +2,9 @@
 name: general/document-test-hooks-in-production-classes
 rubric: readability
 severity: nit
+type: guide
+title: Document test hooks in production classes
+summary: Coding rule requiring documentation of why test-only hooks, static overrides, and ForTesting members exist in production classes.
 ---
 
 **Rule.** When adding test-only hooks, static state overrides, backdoor fields,

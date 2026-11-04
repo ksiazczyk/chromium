@@ -3,6 +3,9 @@ name: figma-design-review
 description: Critique and review Figma designs to ensure alignment with Chromium codebase components, tokens, and structure. Use when the user asks to critique, review, or audit a design, check alignment with code, or compare a Figma node against component specifications or coding standards.
 metadata:
   author: Chrome Design System Team
+type: guide
+title: Figma Design Review skill workflow
+summary: Defines a step-by-step workflow for reviewing Figma designs against Chromium component specifications, covering design context fetching, spec lookup, comparison, critique, and output saving.
 ---
 
 # Figma Design Review

@@ -1,3 +1,13 @@
+---
+type: reference
+title: Chrome Design System Token Mappings (Figma to C++, CSS & Clank Android)
+summary: Maps all 143 Figma design tokens to their equivalent C++ identifiers, CSS variables, and Android attributes or resolvers in Chromium, organized by token category with token resolution pipelines.
+relations:
+  - references /agents/projects/chrome-design-system/skills/chrome-tokens/references/figma-variables.md
+  - references /ui/color/color_id.h
+  - references /components/browser_ui/styles/android/java/res/values/semantic_colors_dynamic.xml
+---
+
 # Chrome Design System Token Mappings (Figma to C++, CSS & Clank Android)
 
 This document maps all 143 Figma design tokens cataloged in

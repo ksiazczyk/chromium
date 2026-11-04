@@ -1,3 +1,9 @@
+---
+type: reference
+title: Progress Loader Spec (Desktop)
+summary: Maps the Chrome Desktop Progress Loader specifications across Figma and code, covering the progress indicator, spinner and spinner button variants.
+---
+
 # Progress Loader Spec (Desktop)
 
 This document maps the specifications of the **Progress Loader** (Desktop)

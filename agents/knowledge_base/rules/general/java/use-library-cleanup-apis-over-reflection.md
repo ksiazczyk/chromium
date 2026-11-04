@@ -2,6 +2,9 @@
 name: general/use-library-cleanup-apis-over-reflection
 rubric: readability
 severity: should_fix
+type: guide
+title: Use library cleanup APIs over reflection
+summary: Coding rule directing developers to reset third-party library state through official cleanup APIs and lifecycle hooks instead of reflecting into private fields or ThreadLocal internals.
 ---
 
 **Rule.** When resetting, clearing, or interacting with third-party framework or

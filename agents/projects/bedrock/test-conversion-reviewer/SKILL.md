@@ -1,6 +1,9 @@
 ---
 name: test-conversion-reviewer
 description: Reviewer for converting unit tests to browser tests for Project Bedrock. Invoke this when the user needs to review their work while removing complex Browser dependencies from tests.
+type: guide
+title: Test Conversion Reviewer Skill
+summary: Defines the reviewer agent for Project Bedrock that reviews CLs removing Browser dependencies from unit tests, enforcing clean commit splits, no disabled tests, and a blocking-comments-only output format.
 ---
 
 # Role

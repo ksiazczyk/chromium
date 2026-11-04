@@ -2,6 +2,9 @@
 name: general/omit-inapplicable-or-unchecked-javadoc-throws
 rubric: readability
 severity: should_fix
+type: reference
+title: Omit inapplicable or unchecked Javadoc throws tags
+summary: Coding rule advising against Javadoc @throws tags for unchecked runtime exceptions or platform failure conditions that do not apply to Chromium callers, with bad and good examples.
 ---
 
 **Rule.** When writing Javadoc comments for Java methods, interfaces, or

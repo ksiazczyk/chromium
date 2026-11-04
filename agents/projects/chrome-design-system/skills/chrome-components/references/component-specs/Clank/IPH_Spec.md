@@ -1,3 +1,11 @@
+---
+type: reference
+title: IPH Spec (Clank)
+summary: Maps the IPH in-product help bubble (Clank) specifications across Figma and code, covering the TextBubble implementation, tokens, mismatches, and guidance.
+relations:
+  - documents /components/browser_ui/widget/android/java/src/org/chromium/components/browser_ui/widget/textbubble/TextBubble.java
+---
+
 # IPH Spec (Clank)
 
 This document maps the specifications of the **IPH** (In-product help bubble)

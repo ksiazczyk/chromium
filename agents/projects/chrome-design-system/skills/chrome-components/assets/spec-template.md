@@ -1,3 +1,9 @@
+---
+type: reference
+title: Component Spec Template for Figma and Code
+summary: Template for documenting Chrome component specifications, mapping metadata, variants, design tokens, implementation gaps, and usage guidance across Figma, C++ Views, WebUI, and Android Clank.
+---
+
 # {{ComponentName}} Spec ({{PlatformName}})
 
 This document maps the specifications of the **{{ComponentName}}**
