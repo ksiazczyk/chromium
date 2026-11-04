@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpThemeSyncHistoryContainerViewBinder
+// summary: View binder that applies theme sync history property model changes to the container view, RecyclerView adapter, layout manager, visibility and click listener.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme_sync;
 
 import static org.chromium.chrome.browser.ntp_customization.theme_sync.NtpThemeSyncHistoryProperties.HIGHLIGHTED_ITEM_INDEX;

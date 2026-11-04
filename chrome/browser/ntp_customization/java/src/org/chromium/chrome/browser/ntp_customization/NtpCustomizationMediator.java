@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP customization bottom sheet mediator
+// summary: Mediator that manages the view flipper and bottom sheet content for NTP customization sheets, including back navigation and section subtitles.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

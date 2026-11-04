@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NtpBackgroundDataThemeCollection
+// summary: Robolectric unit tests covering equality, JSON serialization and attribution handling for theme collection background data.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme_sync.data;
 
 import static org.junit.Assert.assertEquals;

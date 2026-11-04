@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP background image layout view binder
+// summary: Binds the NTP background image property model keys, such as bitmap, matrix, scale type, color and density, to the layout view.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import static org.chromium.chrome.browser.ntp_customization.theme.NtpBackgroundImageProperties.BACKGROUND_COLOR;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Pinch to resize hand icon drawable
+summary: Vector drawable of a hand gesture illustrating pinch-to-resize when editing an uploaded NTP background image.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="@dimen/ntp_customization_pinch_to_resize_icon_size"
     android:height="@dimen/ntp_customization_pinch_to_resize_icon_size"

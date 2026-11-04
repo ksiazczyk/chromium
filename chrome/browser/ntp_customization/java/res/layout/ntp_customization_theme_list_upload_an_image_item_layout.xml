@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Theme list upload image item layout
+summary: Android layout for the upload-an-image row in the NTP customization theme list, with a leading icon, title text, and forward arrow.
+-->
+
 <org.chromium.chrome.browser.ntp_customization.theme.NtpThemeListItemView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

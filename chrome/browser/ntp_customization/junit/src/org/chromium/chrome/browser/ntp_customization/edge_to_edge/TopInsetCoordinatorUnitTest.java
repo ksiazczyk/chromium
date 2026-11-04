@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TopInsetCoordinator unit tests
+// summary: Robolectric unit tests verifying TopInsetCoordinator's top inset behavior for the new tab page customization edge-to-edge feature, using mocked tabs, insets, and layout state.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.edge_to_edge;
 
 import static org.junit.Assert.assertEquals;

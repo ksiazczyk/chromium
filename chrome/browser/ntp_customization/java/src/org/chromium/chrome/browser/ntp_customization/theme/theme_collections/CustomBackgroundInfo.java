@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomBackgroundInfo
+// summary: Model class for a custom NTP background, covering collection id, uploaded-image and daily-refresh flags, and synced attribution lines and URL.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.theme_collections;
 
 import org.chromium.build.annotations.NullMarked;

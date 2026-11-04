@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpThemeCollectionBridge
+// summary: JNI bridge to native code that fetches background collections and their images and reports custom background updates for the NTP.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.theme_collections;
 
 import androidx.annotation.VisibleForTesting;

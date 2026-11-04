@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopInsetCoordinator for edge-to-edge NTP top insets
+// summary: Coordinates consumption of top window insets so supported native pages (NTP) render truly edge to edge, handling tab, layout, and status indicator state.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.edge_to_edge;
 
 import android.content.Context;

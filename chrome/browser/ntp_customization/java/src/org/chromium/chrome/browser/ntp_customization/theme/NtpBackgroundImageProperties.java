@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP background image properties
+// summary: Defines the writable property keys used by the property model for the NTP background image, including its ALL_KEYS array.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import android.graphics.Bitmap;

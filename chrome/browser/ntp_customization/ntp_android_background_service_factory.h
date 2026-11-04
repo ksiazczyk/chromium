@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpAndroidBackgroundServiceFactory class declaration
+// summary: Declares the profile-keyed factory providing per-profile NtpBackgroundService instances on Android.
+// ---
+
 #ifndef CHROME_BROWSER_NTP_CUSTOMIZATION_NTP_ANDROID_BACKGROUND_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_NTP_CUSTOMIZATION_NTP_ANDROID_BACKGROUND_SERVICE_FACTORY_H_
 

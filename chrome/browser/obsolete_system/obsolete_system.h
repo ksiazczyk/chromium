@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObsoleteSystem API header
+// summary: Declares the ObsoleteSystem namespace API for detecting obsolete OS versions and providing localized deprecation strings, end-of-support flags, and help URLs.
+// ---
+
 #ifndef CHROME_BROWSER_OBSOLETE_SYSTEM_OBSOLETE_SYSTEM_H_
 #define CHROME_BROWSER_OBSOLETE_SYSTEM_OBSOLETE_SYSTEM_H_
 

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Night mode color for selected NTP customization bottom sheet list item border
+summary: Defines the night-mode color for the inner border of a selected list item in the NTP customization bottom sheet, referencing the colorSurfaceContainerHighest theme attribute.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:color="?attr/colorSurfaceContainerHighest"/>
 </selector>

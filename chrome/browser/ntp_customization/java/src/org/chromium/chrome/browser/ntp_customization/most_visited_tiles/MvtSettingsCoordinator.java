@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MvtSettingsCoordinator
+// summary: Coordinator that inflates and registers the Most Visited Tiles settings bottom sheet view and wires its property model to the mediator.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.most_visited_tiles;
 
 import static org.chromium.chrome.browser.ntp_customization.NtpCustomizationCoordinator.BottomSheetType.MVT;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpChromeColorsLayoutViewBinder
+// summary: View binder that applies property model changes to the Chrome colors bottom sheet views, including buttons, inputs, and the color grid.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.chrome_colors;
 
 import static org.chromium.chrome.browser.ntp_customization.theme.chrome_colors.NtpChromeColorsProperties.BACKGROUND_COLOR_CIRCLE_VIEW_COLOR;

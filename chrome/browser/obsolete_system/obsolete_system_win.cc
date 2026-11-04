@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows obsolete system implementation
+// summary: Implements Windows obsolete-system detection using the kernel32 version to identify pre-Windows 10 systems and return version-specific messages and deprecation URLs.
+// ---
+
 #include "chrome/browser/obsolete_system/obsolete_system.h"
 
 #include "base/cpu.h"

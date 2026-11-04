@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP background data manager
+// summary: Centralizes NTP background preference data, saving remote sync and local history entries to shared preferences with history size limits.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme_sync.data;
 
 import android.content.Context;

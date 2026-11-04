@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: NTP customization style resources
+summary: Defines styles and text appearances for the NTP customization UI, including rounded corner overlays, circular shapes, and preview dialog text and button styles.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <style name="RoundedImageCornerOverlay" parent="">
     <item name="cornerFamily">rounded</item>

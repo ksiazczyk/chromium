@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: NTP customization night-mode colors
+summary: Android values-night color resource that maps NTP customization theme colors and related UI colors to their dark-mode variants.
+-->
+
 <resources>
     <color name="ntp_customization_edit_icon_background_color">@color/color_primary_with_alpha_20</color>
 

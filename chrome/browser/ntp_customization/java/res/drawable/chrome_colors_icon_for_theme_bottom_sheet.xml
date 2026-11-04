@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Chrome colors icon for theme bottom sheet
+summary: Two-tone blue vector icon representing Chrome colors in the NTP theme bottom sheet.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="48dp"
     android:height="48dp"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme property keys
+// summary: Defines the PropertyModel keys used by the NTP theme bottom sheet and the background preview dialog.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import android.graphics.Bitmap;

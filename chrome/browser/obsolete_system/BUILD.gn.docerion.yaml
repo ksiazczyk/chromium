@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Obsolete system build configuration
+summary: Defines the obsolete_system source set and selects per-platform implementations for Windows, macOS, Linux, or a stub on other non-Android platforms.

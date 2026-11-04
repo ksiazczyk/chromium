@@ -3,6 +3,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Blue color palette drawable
+summary: Vector drawable previewing the blue NTP color palette as a circular swatch with four differently shaded quadrants.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="48dp"
     android:height="48dp"

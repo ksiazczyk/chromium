@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP cards bottom sheet coordinator
+// summary: Inflates the NTP cards bottom sheet layout, registers it with the bottom sheet delegate, and wires property models, view binders, and the mediator.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.ntp_cards;
 
 import static android.view.View.VISIBLE;

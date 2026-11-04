@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Offline items collection build target definition
+summary: Defines the offline_items_collection source_set, listing its factory sources and GN build dependencies.

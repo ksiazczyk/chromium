@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpThemeCollectionsCoordinator unit tests
+// summary: Robolectric unit tests for the theme collections coordinator, covering bottom sheet presentation, configuration changes, and theme data handling.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.theme_collections;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundImageInfo unit tests
+// summary: Unit tests for BackgroundImageInfo covering matrix-to-string serialization, string-to-matrix parsing and window size parsing edge cases.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.upload_image;
 
 import static org.junit.Assert.assertEquals;

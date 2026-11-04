@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpThemeCollectionsAdapter unit tests
+// summary: Robolectric unit tests for the theme collections RecyclerView adapter, checking item types, view holders, and preview image loading.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.theme_collections;
 
 import static org.junit.Assert.assertEquals;

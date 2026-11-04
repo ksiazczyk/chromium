@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTP customization utils unit tests
+// summary: Tests DownsampleImageIfNeeded for small, slightly oversized, massive, and panoramic bitmaps to verify downsampling behavior.
+// ---
+
 #include "chrome/browser/ntp_customization/ntp_customization_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

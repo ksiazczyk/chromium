@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpSyncedThemeManager unit tests
+// summary: Robolectric unit tests for the synced theme manager, covering cross-device theme collection data, image fetching and profile handling.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme collection background data class
+// summary: Data class for NTP theme collection background images, carrying custom background info, attribution lines and daily refresh state.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme_sync.data;
 
 import static org.chromium.chrome.browser.ntp_customization.NtpCustomizationUtils.NTP_THEME_COLLECTION_IMAGES_DIR;

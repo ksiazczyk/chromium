@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: NTP customization dimension resources
+summary: Defines dimension resources such as margins, paddings, icon sizes, corner radii, and elevations used by the NTP customization UI components.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!-- go/keep-sorted start -->
   <dimen name="more_options_icon_margin_vertical">16dp</dimen>

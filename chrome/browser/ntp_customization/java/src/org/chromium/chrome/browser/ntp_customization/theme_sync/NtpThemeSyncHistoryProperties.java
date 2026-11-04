@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpThemeSyncHistoryProperties
+// summary: Defines the writable property keys used by the NTP theme sync history view, including adapter, layout manager, highlighted index, visibility and click listener.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme_sync;
 
 import android.view.View;

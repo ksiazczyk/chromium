@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: NtpChromeColorsAdapter
+// summary: RecyclerView adapter that renders theme color options and manages selection highlighting in the Chrome colors bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.chrome_colors;
 
 import static org.chromium.chrome.browser.ntp_customization.theme.chrome_colors.NtpChromeColorsCoordinator.DAILY_REFRESH_DEFAULT_COLOR_POSITION;

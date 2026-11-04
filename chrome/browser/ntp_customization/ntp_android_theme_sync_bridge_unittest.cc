@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android NTP theme sync bridge unit tests
+// summary: Tests the Android theme sync bridge with an in-memory data type store and mock processor, covering theme updates, sync merges, and invalid entity data.
+// ---
+
 #include "chrome/browser/ntp_customization/ntp_android_theme_sync_bridge.h"
 
 #include <memory>

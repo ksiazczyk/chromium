@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpCustomizationMediatorUnitTest
+// summary: Robolectric unit tests for NtpCustomizationMediator covering bottom sheet display, list delegates, snackbars, histograms and policy-driven NTP customization behaviour.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.junit.Assert.assertEquals;

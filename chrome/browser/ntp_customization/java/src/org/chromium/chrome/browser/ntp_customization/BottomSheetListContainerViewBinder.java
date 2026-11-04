@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetListContainerViewBinder
+// summary: Binds property model keys to a bottom sheet list container, rendering list items via the delegate and updating feed, MVT, and NTP cards section subtitles.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.chromium.chrome.browser.ntp_customization.NtpCustomizationViewProperties.LIST_CONTAINER_VIEW_DELEGATE;

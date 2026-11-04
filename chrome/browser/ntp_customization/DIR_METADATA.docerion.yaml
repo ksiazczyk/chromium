@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracker routing
+summary: Routes bugs for this directory to the UI>Browser>Mobile>Start monorail component and Buganizer component 1457473.

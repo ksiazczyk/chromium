@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpChromeColorsProperties
+// summary: Defines the property model keys used by the Chrome colors bottom sheet, covering listeners, colors, visibility, and grid settings.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.chrome_colors;
 
 import android.text.TextWatcher;

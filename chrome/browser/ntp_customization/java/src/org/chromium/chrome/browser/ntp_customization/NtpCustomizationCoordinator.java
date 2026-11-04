@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP customization bottom sheet coordinator
+// summary: Coordinates the NTP customization main bottom sheet, creating and managing sub-coordinators for feed, most visited tiles, NTP cards, and theme settings.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android NTP theme sync bridge class declaration
+// summary: Declares NtpAndroidThemeSyncBridge, the sync bridge that syncs custom background and color data for Android devices via the THEMES_ANDROID data type.
+// ---
+
 #ifndef CHROME_BROWSER_NTP_CUSTOMIZATION_NTP_ANDROID_THEME_SYNC_BRIDGE_H_
 #define CHROME_BROWSER_NTP_CUSTOMIZATION_NTP_ANDROID_THEME_SYNC_BRIDGE_H_
 

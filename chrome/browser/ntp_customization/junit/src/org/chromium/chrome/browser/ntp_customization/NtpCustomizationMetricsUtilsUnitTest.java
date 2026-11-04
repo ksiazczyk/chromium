@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpCustomizationMetricsUtils unit tests
+// summary: Unit tests for NtpCustomizationMetricsUtils, verifying histogram logging for NTP customization entry points, bottom sheets, background types, theme colors and image preview interactions.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.chromium.chrome.browser.magic_stack.ModuleDelegate.ModuleType.PRICE_CHANGE;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP background data base class
+// summary: Base class for NTP background data providing platform type, content description, image loading, equality and JSON serialization shared by all background variants.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme_sync.data;
 
 import android.graphics.Bitmap;

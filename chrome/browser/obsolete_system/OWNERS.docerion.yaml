@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Obsolete system owners
+summary: Lists per-platform code owners for reviews, naming Mac, Windows, and Linux contacts and allowing any owner for non-platform-specific issues.

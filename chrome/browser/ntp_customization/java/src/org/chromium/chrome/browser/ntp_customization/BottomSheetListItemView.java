@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetListItemView
+// summary: List item view for bottom sheets that displays a title, optional subtitle, and trailing icon with visibility and content description handling.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import android.content.Context;

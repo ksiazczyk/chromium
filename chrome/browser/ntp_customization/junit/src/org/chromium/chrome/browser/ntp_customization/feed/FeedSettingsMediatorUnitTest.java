@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FeedSettingsMediator
+// summary: Robolectric unit tests covering FeedSettingsMediator behavior for feed preferences, bottom sheet sections, and learn-more click handling.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.feed;
 
 import static org.junit.Assert.assertEquals;

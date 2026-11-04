@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme delegate interface
+// summary: Interface that lets the theme mediator notify the coordinator when the Chrome colors, theme collections or default sections are clicked.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import org.chromium.build.annotations.NullMarked;

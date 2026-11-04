@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme daily refresh manager
+// summary: Singleton manager that applies and tracks daily refreshes of the new tab page's customized background color or image, including theme collection image prefetch and skip logic.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.daily_refresh;
 
 import static org.chromium.chrome.browser.ntp_customization.NtpCustomizationUtils.NtpBackgroundType.THEME_COLLECTION;

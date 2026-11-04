@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetViewBinder
+// summary: Binds back press handler and most visited tiles switch properties to bottom sheet views, hiding the back button when no handler is set.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.chromium.chrome.browser.ntp_customization.NtpCustomizationViewProperties.BACK_PRESS_HANDLER;

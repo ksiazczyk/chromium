@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Paint icon vector drawable
+summary: Vector drawable of a paint icon tinted with the primary color for the NTP customization interface.
+-->
+
 <vector
     android:autoMirrored="true"
     android:height="19dp"

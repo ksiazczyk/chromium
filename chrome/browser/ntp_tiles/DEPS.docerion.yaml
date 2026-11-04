@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ntp_tiles
+summary: Restricts allowed includes for the directory and grants extra test-only includes to the unit test and browser test files.

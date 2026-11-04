@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CropImageView unit tests
+// summary: Unit tests for CropImageView covering center-crop behavior in portrait and landscape orientations plus touch and scale gesture handling.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.upload_image;
 
 import static org.junit.Assert.assertArrayEquals;

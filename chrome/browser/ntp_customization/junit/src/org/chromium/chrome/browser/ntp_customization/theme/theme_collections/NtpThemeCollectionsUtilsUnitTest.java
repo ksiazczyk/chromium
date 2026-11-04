@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpThemeCollectionsUtils unit tests
+// summary: Robolectric unit tests for theme collections utility helpers, covering orientation listener registration and grid span count updates.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.theme_collections;
 
 import static org.junit.Assert.assertEquals;

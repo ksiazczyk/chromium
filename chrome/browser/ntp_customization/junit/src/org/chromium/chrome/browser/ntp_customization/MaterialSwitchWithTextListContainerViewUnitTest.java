@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MaterialSwitchWithTextListContainerViewUnitTest
+// summary: Robolectric unit tests verifying that MaterialSwitchWithTextListContainerView renders NTP cards switch items with titles and checked states from its delegate.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.junit.Assert.assertEquals;

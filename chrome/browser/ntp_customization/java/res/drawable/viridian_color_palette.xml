@@ -3,6 +3,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Viridian color palette swatch drawable
+summary: Circular vector swatch previewing the viridian NTP theme color palette with varying alpha shades.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="48dp"
     android:height="48dp"

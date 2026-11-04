@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP background data group
+// summary: Iterable wrapper around a list of NTP background data entries with add, remove, lookup and JSON array conversion helpers.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme_sync.data;
 
 import android.content.Context;

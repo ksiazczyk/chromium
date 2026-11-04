@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpThemeColorUtils
+// summary: Utility class for NTP theme colors, mapping color IDs to resources and building color info instances and circle drawables.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.chrome_colors;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP customization metrics utilities
+// summary: Utility class for logging histograms and metrics for NTP customization interactions such as bottom sheet entry, theme choices, and module toggles.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import androidx.annotation.VisibleForTesting;

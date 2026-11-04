@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTP tiles browser tests
+// summary: In-process browser tests that verify most visited tiles become available, including behavior for supervised users via a supervision mixin.
+// ---
+
 #include <map>
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpCustomizationConfigManager
+// summary: Manages the new tab page's background configuration, including colors, images, and theme collections, and notifies listeners of state changes.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

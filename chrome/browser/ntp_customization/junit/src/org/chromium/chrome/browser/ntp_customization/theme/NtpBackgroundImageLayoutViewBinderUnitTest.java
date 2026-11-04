@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpBackgroundImageLayoutViewBinder unit tests
+// summary: Robolectric unit tests verifying that the background image layout view binder applies background image, image matrix and scale type properties.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import static org.junit.Assert.assertArrayEquals;

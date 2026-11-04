@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme bottom sheet view
+// summary: Scroll view for the New Tab Page appearance bottom sheet with sections for default theme, uploaded image, Chrome colors and theme collections.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

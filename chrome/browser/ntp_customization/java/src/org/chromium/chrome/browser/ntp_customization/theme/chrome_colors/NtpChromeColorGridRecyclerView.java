@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpChromeColorGridRecyclerView
+// summary: Custom RecyclerView that adjusts its GridLayoutManager span count from measured width for the Chrome colors bottom sheet grid.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.chrome_colors;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

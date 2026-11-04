@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: NTP theme collections list item selected foreground drawable
+summary: Layer-list drawable drawing the double rounded border shown when a theme collection list item is selected in NTP customization.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
   <item>

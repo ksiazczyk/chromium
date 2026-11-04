@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetListItemViewUnitTest
+// summary: Robolectric unit tests verifying title, subtitle and trailing icon visibility behaviour of the bottom sheet list item view.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.junit.Assert.assertEquals;

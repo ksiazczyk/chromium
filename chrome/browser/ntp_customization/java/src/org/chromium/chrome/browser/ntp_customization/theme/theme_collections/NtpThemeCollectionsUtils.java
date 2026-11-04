@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpThemeCollectionsUtils
+// summary: Utility class that manages grid span counts for theme collection views across orientation and layout changes.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.theme_collections;
 
 import android.content.ComponentCallbacks;

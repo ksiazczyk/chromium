@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme coordinator
+// summary: Coordinates the NTP appearance settings bottom sheet, wiring the view, mediator, delegate and sub-coordinators for colors and collections.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import static org.chromium.chrome.browser.ntp_customization.NtpCustomizationCoordinator.BottomSheetType.CHROME_COLORS;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetListContainerView
+// summary: Linear layout container that renders BottomSheetListItemView entries in a bottom sheet from delegate-provided content and cleans up listeners on destroy.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import android.content.Context;

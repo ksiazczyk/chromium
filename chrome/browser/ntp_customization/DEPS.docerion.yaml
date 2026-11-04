@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for NTP customization
+summary: Lists the include rules that allow this directory to depend on Android bottom bar, theme, bottom sheet, widget and image fetcher components.

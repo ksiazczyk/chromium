@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: NTP customization dimens for sw600dp
+summary: Defines tablet-specific dimension values for the NTP customization theme collection list, such as item margins and horizontal padding.
+-->
+
 <resources>
   <dimen name="ntp_customization_theme_collection_list_item_margin_horizontal">12dp</dimen>
   <dimen name="ntp_customization_theme_collections_recycle_view_padding_horizontal">12dp</dimen>

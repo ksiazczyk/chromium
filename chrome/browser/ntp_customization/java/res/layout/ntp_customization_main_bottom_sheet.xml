@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Main NTP customization bottom sheet layout
+summary: Main bottom sheet layout with an edit icon, title, description, theme sync container and options list.
+-->
+
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

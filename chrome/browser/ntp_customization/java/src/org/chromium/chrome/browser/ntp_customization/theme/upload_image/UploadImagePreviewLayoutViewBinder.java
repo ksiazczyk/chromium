@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadImagePreviewLayoutViewBinder property binding
+// summary: Binds NTP theme preview property model keys such as bitmap, logo, search box, and button properties to the preview layout views.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.upload_image;
 
 import static org.chromium.chrome.browser.ntp_customization.theme.NtpThemeProperty.BITMAP_FOR_PREVIEW;

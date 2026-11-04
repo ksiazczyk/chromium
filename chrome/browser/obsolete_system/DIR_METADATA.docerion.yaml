@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Obsolete system bug tracking metadata
+summary: Maps the directory to the UI>Browser>Infobars Monorail component and Buganizer component 1456657 for issue tracking.

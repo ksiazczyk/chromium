@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP customization policy manager
+// summary: Singleton Java manager that tracks enterprise policy for NTP custom backgrounds, observes preference changes, and clears cached background data when the policy disables customization.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.policy;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

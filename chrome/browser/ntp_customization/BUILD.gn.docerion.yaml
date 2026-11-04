@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for NTP customization
+summary: Defines the ntp_customization native source set and Android Java libraries, including JNI headers and dependencies for the NTP customization feature.

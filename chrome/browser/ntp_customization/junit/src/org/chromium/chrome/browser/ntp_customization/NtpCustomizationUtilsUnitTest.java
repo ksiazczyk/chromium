@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtpCustomizationUtils unit tests
+// summary: Unit tests for NtpCustomizationUtils covering NTP background type handling, background image and color preferences, and daily refresh behavior.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization;
 
 import static org.junit.Assert.assertEquals;

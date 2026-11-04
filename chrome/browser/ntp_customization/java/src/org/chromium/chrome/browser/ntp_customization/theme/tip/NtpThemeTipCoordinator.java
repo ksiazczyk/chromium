@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpThemeTipCoordinator
+// summary: Coordinator for the NTP theme tip bottom sheet that inflates its layout, registers it with the bottom sheet delegate, wires customize and cancel button clicks with metrics logging, and cleans up listeners on destroy.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme.tip;
 
 import static org.chromium.chrome.browser.ntp_customization.NtpCustomizationCoordinator.BottomSheetType.THEME_TIP;

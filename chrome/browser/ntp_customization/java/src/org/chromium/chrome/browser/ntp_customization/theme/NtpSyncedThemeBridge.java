@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP synced theme JNI bridge
+// summary: JNI bridge that stores the latest synced theme collection and color information and notifies observers of synced theme changes.
+// ---
+
 package org.chromium.chrome.browser.ntp_customization.theme;
 
 import androidx.annotation.ColorInt;
