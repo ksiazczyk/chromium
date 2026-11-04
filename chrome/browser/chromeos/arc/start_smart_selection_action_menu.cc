@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Start smart selection action menu implementation
+// summary: Implements the context menu observer that adds ARC-provided smart actions for selected text to the renderer context menu.
+// ---
+
 #include "chrome/browser/chromeos/arc/start_smart_selection_action_menu.h"
 
 #include <algorithm>

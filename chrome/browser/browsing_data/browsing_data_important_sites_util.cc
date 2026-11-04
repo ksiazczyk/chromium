@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Important sites browsing data removal implementation
+// summary: Implements removal of Important Sites protected data types, running filtered and unfiltered BrowsingDataRemover tasks and reporting completion.
+// ---
+
 #include "chrome/browser/browsing_data/browsing_data_important_sites_util.h"
 
 #include "base/scoped_observation.h"

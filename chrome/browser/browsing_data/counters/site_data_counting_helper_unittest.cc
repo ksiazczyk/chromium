@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site data counting helper unit tests
+// summary: Unit tests for SiteDataCountingHelper that create cookies and local storage data and verify origin counting for the Clear Browsing Data dialog.
+// ---
+
 #include "chrome/browser/browsing_data/counters/site_data_counting_helper.h"
 
 #include <algorithm>

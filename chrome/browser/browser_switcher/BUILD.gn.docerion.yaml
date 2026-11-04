@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BrowserSwitcher build configuration
+summary: GN build rules defining the BrowserSwitcher source sets, implementation sources and unit and browser test targets.

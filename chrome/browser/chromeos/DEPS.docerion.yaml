@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/browser/chromeos
+summary: Defines DEPS include rules that forbid dependencies on ash and chrome, allowing only ash/constants as an exception.

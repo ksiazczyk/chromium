@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data counter utilities header
+// summary: Declares helpers for constructing counter display text and for checking whether the cookie exception should be shown.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_COUNTERS_BROWSING_DATA_COUNTER_UTILS_H_
 #define CHROME_BROWSER_BROWSING_DATA_COUNTERS_BROWSING_DATA_COUNTER_UTILS_H_
 

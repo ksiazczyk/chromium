@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome for Testing config interface
+// summary: Declares LoadConfig and accessor functions for reading Chrome for Testing preferences from local state.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_FOR_TESTING_CONFIG_H_
 #define CHROME_BROWSER_CHROME_FOR_TESTING_CONFIG_H_
 

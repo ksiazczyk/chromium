@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDrive policy preference helpers
+// summary: Reads the Microsoft OneDrive mount mode and account restrictions from profile preferences.
+// ---
+
 #include "chrome/browser/chromeos/enterprise/cloud_storage/policy_utils.h"
 
 #include "ash/constants/ash_pref_names.h"

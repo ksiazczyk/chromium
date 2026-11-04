@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome browsing data lifetime manager browser tests
+// summary: Browser tests verifying policy-driven scheduled and on-exit browsing data deletion, including autofill, history, downloads, and content settings.
+// ---
+
 #include "chrome/browser/browsing_data/chrome_browsing_data_lifetime_manager.h"
 
 #include <array>

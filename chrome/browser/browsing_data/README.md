@@ -1,3 +1,9 @@
+---
+type: readme
+title: CookiesTreeModel
+summary: Explains where the CookiesTreeModel is instantiated in Chrome, such as the site data and all-sites settings pages.
+---
+
 # CookiesTreeModel
 
 A CookiesTreeModel is instantiated in multiple places in Chrome:

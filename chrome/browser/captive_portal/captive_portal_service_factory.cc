@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal service factory implementation
+// summary: Implements the per-profile factory that builds and provides CaptivePortalService instances for regular, guest, and Ash internals profiles.
+// ---
+
 #include "chrome/browser/captive_portal/captive_portal_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for OneDrive pref observer
+// summary: Browser tests verifying that OneDrive mount and account restriction policies update prefs and notify the ODFS extension.
+// ---
+
 #include "chrome/browser/chromeos/enterprise/cloud_storage/one_drive_pref_observer.h"
 
 #include <algorithm>

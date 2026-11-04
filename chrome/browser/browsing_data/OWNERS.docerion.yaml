@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Browsing data owners file
+summary: Specifies code owners for the directory, inheriting from content/browser/browsing_data and assigning browsing_data_model files to a reviewer.

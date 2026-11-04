@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Browsing data directory metadata
+summary: Points the directory metadata to the shared browsing data COMMON_METADATA mixins.

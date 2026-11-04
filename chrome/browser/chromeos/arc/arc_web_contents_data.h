@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcWebContentsData class declaration
+// summary: Declares a WebContents user data marker indicating that a tab was originated via an ARC request in ChromeShellDelegate.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_ARC_ARC_WEB_CONTENTS_DATA_H_
 #define CHROME_BROWSER_CHROMEOS_ARC_ARC_WEB_CONTENTS_DATA_H_
 

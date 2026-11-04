@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child module manager implementation
+// summary: Implements ChildModuleManager, registering the dynamic patching preference, watching the staged modules directory, and exposing the latest available module.
+// ---
+
 #include "chrome/browser/child_module/child_module_manager.h"
 
 #include <utility>

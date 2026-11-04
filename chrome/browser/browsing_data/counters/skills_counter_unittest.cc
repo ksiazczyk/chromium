@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills counter unit tests
+// summary: Unit tests for SkillsCounter covering the preference name, counting all skills, and counting only skills modified within the selected period.
+// ---
+
 #include "chrome/browser/browsing_data/counters/skills_counter.h"
 
 #include <memory>

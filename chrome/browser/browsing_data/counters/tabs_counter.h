@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabs counter class declaration
+// summary: Declares TabsCounter, a browsing data counter that counts open tabs, along with its TabsResult carrying the window count.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_COUNTERS_TABS_COUNTER_H_
 #define CHROME_BROWSER_BROWSING_DATA_COUNTERS_TABS_COUNTER_H_
 

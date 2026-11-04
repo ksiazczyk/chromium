@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BrowserSwitcher prefs
+// summary: Unit tests checking that managed prefs and policy changes correctly update sitelist rules and browser paths in BrowserSwitcherPrefs.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "chrome/browser/browser_switcher/browser_switcher_sitelist.h"
 

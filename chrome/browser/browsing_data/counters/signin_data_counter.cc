@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin data counter implementation
+// summary: Implements SigninDataCounter, which extends PasswordsCounter to also count WebAuthn platform credentials for the Clear Browsing Data dialog.
+// ---
+
 #include "chrome/browser/browsing_data/counters/signin_data_counter.h"
 
 #include <string>

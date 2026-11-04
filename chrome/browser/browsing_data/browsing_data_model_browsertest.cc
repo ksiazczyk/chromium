@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing data model browser tests
+// summary: Browser tests for the BrowsingDataModel covering browsing data counting and deletion across storage types, isolated web apps, and privacy sandbox features.
+// ---
+
 #include "components/browsing_data/content/browsing_data_model.h"
 
 #include <array>

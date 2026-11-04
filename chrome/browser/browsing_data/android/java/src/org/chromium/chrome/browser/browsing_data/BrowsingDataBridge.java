@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingDataBridge
+// summary: Java JNI bridge that connects the Clear Browsing Data UI with native code to clear browsing data and fetch important registrable domains per profile.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import org.jni_zero.CalledByNative;

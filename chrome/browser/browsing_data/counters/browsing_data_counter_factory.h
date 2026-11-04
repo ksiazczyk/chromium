@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data counter factory header
+// summary: Declares BrowsingDataCounterFactory, which builds a browsing data counter for a profile and a given deletion preference.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_COUNTERS_BROWSING_DATA_COUNTER_FACTORY_H_
 #define CHROME_BROWSER_BROWSING_DATA_COUNTERS_BROWSING_DATA_COUNTER_FACTORY_H_
 

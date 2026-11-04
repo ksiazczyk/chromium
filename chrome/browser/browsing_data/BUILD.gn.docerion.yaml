@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browsing data GN build targets
+summary: Defines GN source sets and dependencies for the browsing data module, including constants, counters, and remover delegate targets.

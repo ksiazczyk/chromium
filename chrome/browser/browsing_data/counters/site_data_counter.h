@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site data counter header
+// summary: Declares SiteDataCounter, a browsing data counter that reports the number of origins with cookies and site data.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_COUNTERS_SITE_DATA_COUNTER_H_
 #define CHROME_BROWSER_BROWSING_DATA_COUNTERS_SITE_DATA_COUNTER_H_
 

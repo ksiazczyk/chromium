@@ -1,0 +1,4 @@
+# Docerion header of args.gni.
+type: reference
+title: Chrome for Testing build feature documentation
+summary: Documents the build arguments and feature settings that make up the Chrome for Testing build; the build system does not consume this list.

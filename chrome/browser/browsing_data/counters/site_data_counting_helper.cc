@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site data counting helper implementation
+// summary: Counts unique origins affected by deleting cookies and site data, gathering cookies, storage buckets, DOM storage, CDM data and other site data.
+// ---
+
 #include "chrome/browser/browsing_data/counters/site_data_counting_helper.h"
 
 #include "base/feature_list.h"

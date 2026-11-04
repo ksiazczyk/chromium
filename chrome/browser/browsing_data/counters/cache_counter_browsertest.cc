@@ -8,6 +8,12 @@
 // responsibility of a lower layer, and is tested in
 // DiskCacheBackendTest.CalculateSizeOfAllEntries in net_unittests.
 
+// ---docerion
+// type: test
+// title: Cache counter browser test
+// summary: Browser test verifying basic behavior of the cache counter, such as when it counts and whether results are nonzero, without checking the correctness of the counted size.
+// ---
+
 #include "chrome/browser/browsing_data/counters/cache_counter.h"
 
 #include <memory>

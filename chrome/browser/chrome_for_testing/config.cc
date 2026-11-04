@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome for Testing config loading implementation
+// summary: Loads and validates the JSON configuration given by the --chrome-for-testing-config switch and applies user education, clipboard, and required component settings.
+// ---
+
 #include "chrome/browser/chrome_for_testing/config.h"
 
 #include <string_view>

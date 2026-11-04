@@ -1,3 +1,11 @@
+---
+type: readme
+title: Legacy Browser Support (BrowserSwitcher internally)
+summary: Describes the BrowserSwitcher feature, its sitelist and greylist configuration sources, debugging page, BHO support and Edge extension behavior.
+relations:
+  - documents /chrome/browser/resources/browser_switch/internals/browser_switch_internals.html
+---
+
 # Legacy Browser Support (BrowserSwitcher internally)
 
 BrowserSwitcher is a Chrome module that listens to navigations, and

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata
+summary: Declares the public Buganizer component ID used for issues filed against the child_module directory.

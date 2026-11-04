@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site settings counter unit tests
+// summary: Unit tests for SiteSettingsCounter that verify counting of modified content settings, zoom levels and protocol handlers across deletion periods.
+// ---
+
 #include "chrome/browser/browsing_data/counters/site_settings_counter.h"
 
 #include <memory>

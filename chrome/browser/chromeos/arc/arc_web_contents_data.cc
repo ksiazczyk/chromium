@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcWebContentsData implementation
+// summary: Defines the ARC transition flag string and the WebContents user data key for ArcWebContentsData.
+// ---
+
 #include "chrome/browser/chromeos/arc/arc_web_contents_data.h"
 
 namespace arc {

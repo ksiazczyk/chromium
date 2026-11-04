@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill counter browser tests
+// summary: Browser tests verifying that the autofill browsing data counter counts addresses, credit cards and other autofill data for deletion.
+// ---
+
 #include "components/browsing_data/core/counters/autofill_counter.h"
 
 #include <array>

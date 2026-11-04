@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito browsing data browser tests
+// summary: Browser tests checking that site data created in incognito mode is counted by the incognito cookie counter and cleared when incognito closes.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

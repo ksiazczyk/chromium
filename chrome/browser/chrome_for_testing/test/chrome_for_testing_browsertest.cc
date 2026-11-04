@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome for Testing browser tests
+// summary: Browser tests verifying Chrome for Testing config options such as the search engine choice dialog, user education UI and virtual clipboard via a config JSON switch.
+// ---
+
 #include "chrome/browser/chrome_for_testing/test/chrome_for_testing_browsertest.h"
 
 #include "base/files/file_path.h"

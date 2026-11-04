@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BtmService 3PC exceptions unit tests
+// summary: Unit tests verifying how BtmService detects third-party cookie exceptions on redirect chains, including that embedder URLs at the start or end do not get exceptions.
+// ---
+
 #include "content/public/browser/btm_service.h"
 
 #include "base/containers/span.h"

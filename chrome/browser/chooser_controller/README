@@ -1,2 +1,8 @@
+---
+type: readme
+title: Chooser controller directory overview
+summary: Describes the directory as containing an interface for a chooser controller that presents a list of options from which users can pick one.
+---
+
 This directory contains an interface for a chooser controller which has
 a list of options that users can pick one of.

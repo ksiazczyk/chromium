@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome for Testing config unit tests
+// summary: Unit tests covering config loading with invalid, empty, and valid JSON, boolean options, and required components settings.
+// ---
+
 #include "chrome/browser/chrome_for_testing/config.h"
 
 #include <memory>

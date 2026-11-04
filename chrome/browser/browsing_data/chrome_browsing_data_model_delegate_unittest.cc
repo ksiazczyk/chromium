@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeBrowsingDataModelDelegate unit tests
+// summary: Unit tests for ChromeBrowsingDataModelDelegate covering media device salt, federated identity and private verification tokens data keys and their removal.
+// ---
+
 #include "chrome/browser/browsing_data/chrome_browsing_data_model_delegate.h"
 
 #include <variant>

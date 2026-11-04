@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser sign-in detector unit tests
+// summary: Unit tests verifying the detector records user activations for relevant signed-in accounts, including enterprise hosted domains.
+// ---
+
 #include "chrome/browser/btm/btm_browser_signin_detector.h"
 
 #include <cstddef>

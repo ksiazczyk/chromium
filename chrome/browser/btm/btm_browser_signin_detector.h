@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser sign-in detector header
+// summary: Declares BtmBrowserSigninDetector, a keyed service that records browser sign-ins for the BTM feature.
+// ---
+
 #ifndef CHROME_BROWSER_BTM_BTM_BROWSER_SIGNIN_DETECTOR_H_
 #define CHROME_BROWSER_BTM_BTM_BROWSER_SIGNIN_DETECTOR_H_
 

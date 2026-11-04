@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chooser title utility header
+// summary: Declares CreateChooserTitle, which builds chooser titles from the extension or isolated web app name when possible and otherwise from the main frame origin.
+// ---
+
 #ifndef CHROME_BROWSER_CHOOSER_CONTROLLER_TITLE_UTIL_H_
 #define CHROME_BROWSER_CHOOSER_CONTROLLER_TITLE_UTIL_H_
 

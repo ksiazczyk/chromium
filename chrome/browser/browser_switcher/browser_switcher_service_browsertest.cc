@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserSwitcher service browser tests
+// summary: Browser tests verifying that the BrowserSwitcher service loads rules from policies and downloaded sitelists and decides when to switch to the alternative browser.
+// ---
+
 #include "chrome/browser/browser_switcher/browser_switcher_service.h"
 
 #include <string.h>

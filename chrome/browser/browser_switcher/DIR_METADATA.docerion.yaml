@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: BrowserSwitcher directory metadata
+summary: Maps the directory to the Enterprise>BrowserSwitcher issue tracker component and the chromium-enterprise team email.

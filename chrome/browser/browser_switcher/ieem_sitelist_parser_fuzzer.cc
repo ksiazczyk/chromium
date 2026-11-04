@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IEEM sitelist parser fuzzer
+// summary: Fuzzer harness that feeds random XML and parsing modes into the IEEM sitelist parser to uncover parsing crashes.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

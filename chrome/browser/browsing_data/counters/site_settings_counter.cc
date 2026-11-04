@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site settings counter implementation
+// summary: Implements SiteSettingsCounter, which counts hosts with user-modified content settings, zoom levels and protocol handlers in the deletion period.
+// ---
+
 #include "chrome/browser/browsing_data/counters/site_settings_counter.h"
 
 #include "base/json/values_util.h"

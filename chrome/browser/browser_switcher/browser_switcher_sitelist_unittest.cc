@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserSwitcher sitelist unit tests
+// summary: Unit tests covering rule canonicalization and sitelist and greylist matching behavior across the different parsing modes.
+// ---
+
 #include "chrome/browser/browser_switcher/browser_switcher_sitelist.h"
 
 #include <algorithm>

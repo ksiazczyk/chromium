@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child module paths unit tests
+// summary: Unit tests covering child module root initialization and User Data directory canonicalization on Windows and other platforms.
+// ---
+
 #include "chrome/browser/child_module/child_module_paths.h"
 
 #include "base/files/file_path.h"

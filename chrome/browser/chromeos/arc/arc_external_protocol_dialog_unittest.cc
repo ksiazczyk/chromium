@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC external protocol dialog
+// summary: Tests GetAction outcomes, intent picker bypass behavior, and tab origin handling using fake ARC icon cache and mojo delegates.
+// ---
+
 #include "chrome/browser/chromeos/arc/arc_external_protocol_dialog.h"
 
 #include "base/memory/raw_ptr.h"

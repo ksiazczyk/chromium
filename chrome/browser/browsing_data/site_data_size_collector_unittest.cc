@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site data size collector unit tests
+// summary: Unit tests verifying size fetching for cookies, local storage and quota data using mock helpers and a testing profile.
+// ---
+
 #include "chrome/browser/browsing_data/site_data_size_collector.h"
 
 #include <memory>

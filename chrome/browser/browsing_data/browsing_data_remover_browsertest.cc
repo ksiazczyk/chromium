@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing data remover browser tests
+// summary: Browser tests verifying that browsing data removal clears cookies, history, downloads, and other site data types as expected.
+// ---
+
 #include <stddef.h>
 
 #include <array>

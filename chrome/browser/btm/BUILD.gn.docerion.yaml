@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BTM build definition
+summary: Defines GN source sets for the BTM browser code, its implementation, and the unit and browser test targets.

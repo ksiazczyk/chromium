@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Important sites browsing data removal API
+// summary: Declares the Remove helper and custom element event types for deleting Important Sites protected data with an origin filter.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_BROWSING_DATA_IMPORTANT_SITES_UTIL_H_
 #define CHROME_BROWSER_BROWSING_DATA_BROWSING_DATA_IMPORTANT_SITES_UTIL_H_
 

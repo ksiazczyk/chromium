@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBrowsingDataModelDelegate header
+// summary: Declares ChromeBrowsingDataModelDelegate, which extends BrowsingDataModel with Chrome-specific storage types and implements data key enumeration and removal.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_CHROME_BROWSING_DATA_MODEL_DELEGATE_H_
 #define CHROME_BROWSER_BROWSING_DATA_CHROME_BROWSING_DATA_MODEL_DELEGATE_H_
 

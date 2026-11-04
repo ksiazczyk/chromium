@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Chrome for Testing directory owners
+summary: Lists the owners responsible for changes to the chrome_for_testing browser directory.

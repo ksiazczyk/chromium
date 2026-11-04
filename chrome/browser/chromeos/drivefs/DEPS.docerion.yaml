@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DriveFS DEPS include rules
+summary: Defines include dependency rules that restrict ChromeOS dependencies on //chrome for the drivefs directory.

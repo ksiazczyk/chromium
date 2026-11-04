@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: BTM directory metadata
+summary: Maps the directory to the Privacy>NavTracking monorail component and lists the owning team and Buganizer component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync-aware browsing data counter browser tests
+// summary: Browser tests verifying that sync-aware browsing data counters such as autofill, history, and passwords restart counting when sync state changes.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

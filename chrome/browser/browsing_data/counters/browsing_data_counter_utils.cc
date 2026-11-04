@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data counter utilities implementation
+// summary: Implements helpers that format counter results into UI text and decide when the cookie sign-out exception should be shown.
+// ---
+
 #include "chrome/browser/browsing_data/counters/browsing_data_counter_utils.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache counter implementation
+// summary: Counts the cache size for a profile, including offline pages, and reports the result for the clear browsing data UI.
+// ---
+
 #include "chrome/browser/browsing_data/counters/cache_counter.h"
 #include "base/functional/bind.h"
 #include "chrome/browser/profiles/profile.h"

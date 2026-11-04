@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open with app context menu implementation
+// summary: Populates the renderer context menu with ARC app link handlers, managing command IDs, icons, and the more-apps submenu.
+// ---
+
 #include "chrome/browser/chromeos/arc/open_with_menu.h"
 
 #include <algorithm>

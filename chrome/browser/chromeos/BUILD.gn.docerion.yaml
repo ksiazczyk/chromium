@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn test targets for chrome/browser/chromeos
+summary: Aggregates unit_tests, browser_tests, and interactive_ui_tests groups that pull in test targets from chrome/browser/chromeos subdirectories.

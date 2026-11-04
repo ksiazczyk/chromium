@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSwitcher policy migrator implementation
+// summary: Migrates Legacy Browser Support extension policies to Chrome BrowserSwitcher policies, converting values such as seconds to milliseconds and strings to lists.
+// ---
+
 #include "chrome/browser/browser_switcher/browser_switcher_policy_migrator.h"
 
 #include <string>

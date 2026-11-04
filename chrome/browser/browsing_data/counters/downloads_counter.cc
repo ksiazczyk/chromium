@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads counter implementation
+// summary: Implements DownloadsCounter, which counts persisted downloads within the selected deletion period by observing and querying the profile's download manager.
+// ---
+
 #include "chrome/browser/browsing_data/counters/downloads_counter.h"
 
 #include <algorithm>

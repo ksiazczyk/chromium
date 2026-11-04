@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child module directory watcher
+// summary: Scans the modules directory for staged child module versions and notifies a callback whenever the available version set changes.
+// ---
+
 #include "chrome/browser/child_module/child_module_watcher.h"
 
 #include <string>

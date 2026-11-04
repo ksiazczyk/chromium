@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome for Testing info bar browser tests
+// summary: Browser tests verifying that the non-closable Chrome for Testing info bar appears in every tab, with and without the centralized info bar framework feature.
+// ---
+
 #include <memory>
 #include <utility>
 

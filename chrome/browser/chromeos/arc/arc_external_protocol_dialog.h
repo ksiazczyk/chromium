@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC external protocol dialog API
+// summary: Declares RunArcExternalProtocolDialog and the GetActionResult enum used to decide whether ARC or Chrome handles a URL.
+// ---
+
 #ifndef CHROME_BROWSER_CHROMEOS_ARC_ARC_EXTERNAL_PROTOCOL_DIALOG_H_
 #define CHROME_BROWSER_CHROMEOS_ARC_ARC_EXTERNAL_PROTOCOL_DIALOG_H_
 

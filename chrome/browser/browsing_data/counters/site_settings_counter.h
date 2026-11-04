@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site settings counter header
+// summary: Declares SiteSettingsCounter, a browsing data counter that counts sites with user-modified settings for the Clear Browsing Data dialog.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_COUNTERS_SITE_SETTINGS_COUNTER_H_
 #define CHROME_BROWSER_BROWSING_DATA_COUNTERS_SITE_SETTINGS_COUNTER_H_
 

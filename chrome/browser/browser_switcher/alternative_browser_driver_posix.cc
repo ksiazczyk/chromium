@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternative browser driver for macOS and Linux
+// summary: POSIX implementation that locates browsers and builds command lines, expanding URL, tilde and environment variables.
+// ---
+
 #include "chrome/browser/browser_switcher/alternative_browser_driver.h"
 
 #include <stdlib.h>

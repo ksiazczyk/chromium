@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock alternative browser driver header
+// summary: Declares a gmock-based fake of AlternativeBrowserDriver for use in BrowserSwitcher tests.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_SWITCHER_MOCK_ALTERNATIVE_BROWSER_DRIVER_H_
 #define CHROME_BROWSER_BROWSER_SWITCHER_MOCK_ALTERNATIVE_BROWSER_DRIVER_H_
 

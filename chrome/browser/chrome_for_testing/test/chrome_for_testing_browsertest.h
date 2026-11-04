@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome for Testing browser test base class
+// summary: Header declaring the ChromeForTestingBrowserTest base class that writes a config JSON to a temp dir and appends the Chrome for Testing config command-line switch.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_FOR_TESTING_TEST_CHROME_FOR_TESTING_BROWSERTEST_H_
 #define CHROME_BROWSER_CHROME_FOR_TESTING_TEST_CHROME_FOR_TESTING_BROWSERTEST_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ARC browser directory dependencies
+summary: Restricts which headers files in this directory may include and grants extra dependencies to specific tests and sources.

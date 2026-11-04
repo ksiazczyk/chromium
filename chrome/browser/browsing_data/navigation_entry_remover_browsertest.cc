@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation entry remover browser tests
+// summary: Browser tests verifying removal of navigation entries across tabs, windows and recent tabs for time ranges and URL restrictions.
+// ---
+
 #include "chrome/browser/browsing_data/navigation_entry_remover.h"
 
 #include "base/files/file_path.h"

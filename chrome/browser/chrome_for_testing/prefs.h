@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome for Testing pref name constants
+// summary: Defines the chrome_for_testing preference key constants and declares functions to register and reset those preferences.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_FOR_TESTING_PREFS_H_
 #define CHROME_BROWSER_CHROME_FOR_TESTING_PREFS_H_
 

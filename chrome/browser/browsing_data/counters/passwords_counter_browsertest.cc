@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passwords counter browser test
+// summary: Browser test for the passwords counter that adds and removes logins in profile and account password stores to verify counting across deletion periods and sync states.
+// ---
+
 #include "components/browsing_data/core/counters/passwords_counter.h"
 
 #include <memory>

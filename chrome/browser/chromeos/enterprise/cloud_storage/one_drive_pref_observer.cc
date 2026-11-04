@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDrive pref observer keyed service implementation
+// summary: Implements a profile-keyed service that watches Microsoft OneDrive prefs and broadcasts mount and account restriction changes to the ODFS extension.
+// ---
+
 #include "chrome/browser/chromeos/enterprise/cloud_storage/one_drive_pref_observer.h"
 
 #include "ash/constants/ash_extension_constants.h"

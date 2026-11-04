@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBrowsingDataModelDelegate implementation
+// summary: Implements the Chrome delegate for BrowsingDataModel, translating isolated web app, media device salt, federated identity and private verification token data into model entries.
+// ---
+
 #include "chrome/browser/browsing_data/chrome_browsing_data_model_delegate.h"
 
 #include <memory>

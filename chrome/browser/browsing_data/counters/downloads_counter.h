@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadsCounter class header
+// summary: Declares the DownloadsCounter class, a browsing data counter that observes the download manager and counts download items shown on the Downloads page for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSING_DATA_COUNTERS_DOWNLOADS_COUNTER_H_
 #define CHROME_BROWSER_BROWSING_DATA_COUNTERS_DOWNLOADS_COUNTER_H_
 

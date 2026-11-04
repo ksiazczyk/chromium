@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child module feature flag declarations
+// summary: Declares the kDynamicPatching feature that enables dynamic child module detection and patching.
+// ---
+
 #ifndef CHROME_BROWSER_CHILD_MODULE_FEATURES_H_
 #define CHROME_BROWSER_CHILD_MODULE_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser sign-in detector implementation
+// summary: Implements the detector that observes IdentityManager and records user activations for sign-in domains in the BTM service.
+// ---
+
 #include "chrome/browser/btm/btm_browser_signin_detector.h"
 
 #include <cstddef>

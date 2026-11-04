@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ARC intent handling code
+summary: Delegates ownership of this directory to the intent helper owners and the general ARC component owners files.

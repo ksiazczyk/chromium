@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark counter unit tests
+// summary: Unit tests checking that the bookmark counter counts bookmarks correctly, including unloaded models, time periods and folders.
+// ---
+
 #include "components/browsing_data/core/counters/bookmark_counter.h"
 
 #include <memory>
