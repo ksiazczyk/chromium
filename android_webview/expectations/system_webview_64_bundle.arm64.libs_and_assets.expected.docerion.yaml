@@ -1,0 +1,4 @@
+# Docerion header of system_webview_64_bundle.arm64.libs_and_assets.expected.
+type: test
+title: System WebView 64 bundle libs and assets expectation
+summary: Expected list of native libraries and stored assets, including locale pak files, packaged in the 64-bit System WebView bundle for verification.

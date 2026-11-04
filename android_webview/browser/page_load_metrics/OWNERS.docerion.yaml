@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the WebView page load metrics directory
+summary: Points to the components/page_load_metrics OWNERS file for reviewer ownership of this directory.
+relations:
+  - references /components/page_load_metrics/OWNERS

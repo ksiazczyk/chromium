@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch operation result mapping
+// summary: Represents a prefetch operation outcome and maps internal AwPrefetchCallback status codes to glue-layer status and HTTP response codes.
+// ---
+
 package com.android.webview.chromium;
 
 import android.os.Bundle;

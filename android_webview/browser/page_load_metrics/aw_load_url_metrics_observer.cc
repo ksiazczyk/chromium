@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwLoadUrlMetricsObserver implementation
+// summary: Records UMA histograms for the time from WebView's loadUrl call to navigation commit and first contentful paint.
+// relations:
+//   - depends_on /android_webview/browser/page_load_metrics/aw_load_url_metrics_observer.h
+//   - depends_on /android_webview/browser/page_load_metrics/aw_load_url_metrics_state.h
+//   - depends_on /base/android/jni_android.h
+// ---
+
 #include "android_webview/browser/page_load_metrics/aw_load_url_metrics_observer.h"
 
 #include "android_webview/browser/page_load_metrics/aw_load_url_metrics_state.h"

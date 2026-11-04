@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentClient implementation
+// summary: Implements WebView's content client, adding schemes, localized resources, CDM registration, GPU crash keys, and origin trial policy.
+// relations:
+//   - implements /android_webview/common/aw_content_client.h
+//   - depends_on /android_webview/common/aw_features.h
+//   - depends_on /android_webview/common/aw_media_drm_bridge_client.h
+// ---
+
 #include "android_webview/common/aw_content_client.h"
 
 #include <string_view>

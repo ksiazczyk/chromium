@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations seed loader declarations
+// summary: Declares TakeSeed to hand off the parsed variations seed and CacheSeedFreshness to report seed freshness back to Java.
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_VARIATIONS_VARIATIONS_SEED_LOADER_H_
 #define ANDROID_WEBVIEW_BROWSER_VARIATIONS_VARIATIONS_SEED_LOADER_H_
 

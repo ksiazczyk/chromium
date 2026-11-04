@@ -1,3 +1,13 @@
+---
+type: guide
+title: WebView Build Instructions
+summary: Step-by-step instructions for configuring, building, installing, and switching WebView in a public Chromium checkout, including package name changes and troubleshooting.
+relations:
+  - references /android_webview/docs/quick-start.md
+  - references /docs/android_build_instructions.md
+  - references /android_webview/docs/device-setup.md
+---
+
 # WebView Build Instructions
 
 *** promo

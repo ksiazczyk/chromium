@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPermissionRequestDelegate interface
+// summary: Defines the delegate interface for specific permission requests, exposing the requesting origin, requested resources, and result notification.
+// relations:
+//   - depends_on /url/gurl.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PERMISSION_AW_PERMISSION_REQUEST_DELEGATE_H_
 #define ANDROID_WEBVIEW_BROWSER_PERMISSION_AW_PERMISSION_REQUEST_DELEGATE_H_
 

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Generating and Applying Custom Orderfiles and PGO for WebView in AOSP
+summary: Step-by-step instructions for AOSP system integrators to generate and apply custom orderfile and PGO profiles for WebView builds on ARM and ARM64 architectures.
+relations:
+  - references /docs/orderfile.md
+  - references /docs/pgo.md
+  - references /tools/pgo/generate_profile_webview.py
+---
+
 # Generating and Applying Custom Orderfiles and PGO for WebView in AOSP
 
 [TOC]

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwPrefetchManager unit tests
+// summary: Unit tests for AwPrefetchManager covering cache configuration setters, prefetch limits, and eviction of the oldest prefetch handles.
+// relations:
+//   - tests /android_webview/browser/prefetch/aw_prefetch_manager.h
+//   - depends_on /android_webview/browser/metrics/aw_metrics_test_utils.h
+//   - depends_on /android_webview/browser/prefetch/aw_prefetch_manager_data.h
+// ---
+
 #include "android_webview/browser/prefetch/aw_prefetch_manager.h"
 
 #include "android_webview/browser/metrics/aw_metrics_test_utils.h"

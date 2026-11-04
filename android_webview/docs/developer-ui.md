@@ -1,3 +1,13 @@
+---
+type: guide
+title: WebView DevTools User Guide
+summary: Describes how to launch and use WebView DevTools, including the Crash UI for managing crash reports and the Flag UI for toggling experimental features on production devices.
+relations:
+  - references /android_webview/docs/commandline-flags.md
+  - references /android_webview/docs/images/webview_crashes_ui.png
+  - references /android_webview/docs/images/webview_flag_ui.png
+---
+
 # WebView DevTools user guide
 
 [TOC]

@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Android WebView glue layer
+summary: Defines the glue_java Android library and related build targets that compile the shim layer between the android.webkit framework APIs and the WebView implementation.
+relations:
+  - depends_on /android_webview/system_webview_apk_tmpl.gni
+  - depends_on /android_webview/variables.gni
+  - depends_on /build/config/android/config.gni

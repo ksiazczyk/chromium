@@ -1,3 +1,13 @@
+---
+type: guide
+title: Net debugging in WebView
+summary: Guide to capturing network logs for debugging WebView, either through WebView DevTools or, for Chromium developers, via command-line flag methods and a helper script.
+relations:
+  - references /android_webview/docs/commandline-flags.md
+  - references /android_webview/docs/device-setup.md
+  - references /android_webview/tools/record_netlog.py
+---
+
 # Net debugging in WebView
 
 This guide explains how to capture network logs [net logs](https://www.chromium.org/for-testers/providing-network-details/)

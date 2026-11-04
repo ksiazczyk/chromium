@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingResponseAdapter – Chromium SafeBrowsingResponse implementation
+// summary: Implements android.webkit.SafeBrowsingResponse by forwarding interstitial, proceed, and back-to-safety actions to an AwSafeBrowsingResponse callback.
+// ---
+
 package com.android.webview.chromium;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawFn function table JNI binding
+// summary: Exposes the native DrawFn function table that the Android framework registers manually for WebView rendering.
+// ---
+
 package com.android.webview.chromium;
 
 import org.chromium.android_webview.common.Lifetime;

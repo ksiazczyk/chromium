@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing UI manager declaration
+// summary: Declares the WebView Safe Browsing UI manager, its UIManagerClient interface, and the network context used for Safe Browsing requests.
+// relations:
+//   - depends_on /components/safe_browsing/content/browser/base_ui_manager.h
+//   - depends_on /components/security_interstitials/content/security_interstitial_page.h
+//   - depends_on /components/security_interstitials/core/unsafe_resource.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_SAFE_BROWSING_UI_MANAGER_H_
 #define ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_SAFE_BROWSING_UI_MANAGER_H_
 

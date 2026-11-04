@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webkit to shared glue object converter
+// summary: Converts android.webkit objects into shared glue objects to minimize support-library-glue dependencies on the webkit-glue.
+// ---
+
 package com.android.webview.chromium;
 
 import android.os.Looper;

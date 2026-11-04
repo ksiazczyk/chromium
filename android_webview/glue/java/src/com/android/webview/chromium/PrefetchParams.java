@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch request parameters holder
+// summary: Carries prefetch request parameters such as additional headers, No-Vary-Search data, JavaScript enablement, and variations ID, converting them to AwPrefetchParameters.
+// ---
+
 package com.android.webview.chromium;
 
 import androidx.annotation.NonNull;

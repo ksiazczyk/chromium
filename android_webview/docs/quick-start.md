@@ -1,3 +1,13 @@
+---
+type: guide
+title: WebView quick start
+summary: Fastest-path tutorial for setting up a device or emulator, building, installing, and switching the WebView provider, with next steps and troubleshooting tips.
+relations:
+  - references /android_webview/docs/build-instructions.md
+  - references /docs/android_build_instructions.md
+  - references /docs/android_emulator.md
+---
+
 # WebView quick start
 
 *** promo

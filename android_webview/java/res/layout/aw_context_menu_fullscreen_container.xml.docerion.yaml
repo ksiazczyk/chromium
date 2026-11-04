@@ -1,0 +1,4 @@
+# Docerion header of aw_context_menu_fullscreen_container.xml.
+type: source
+title: WebView context menu fullscreen container layout
+summary: Android layout hosting the context menu in a fullscreen transparent frame with a ViewStub that inflates the dialog layout.

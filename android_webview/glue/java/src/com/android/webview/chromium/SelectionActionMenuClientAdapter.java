@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectionActionMenuClientAdapter – selection menu client wrapper
+// summary: Wraps a platform SelectionActionMenuClient as a SelectionActionMenuClientWrapper for selection action menus, asserting constant parity with the framework.
+// ---
+
 package com.android.webview.chromium;
 
 import android.content.Context;

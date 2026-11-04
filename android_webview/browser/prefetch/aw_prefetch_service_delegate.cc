@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPrefetchServiceDelegate implementation
+// summary: Implements AwPrefetchServiceDelegate, supplying WebView prefetch service configuration such as the accept-language header and placeholder proxy and canary settings.
+// relations:
+//   - implements /android_webview/browser/prefetch/aw_prefetch_service_delegate.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /base/notreached.h
+// ---
+
 #include "android_webview/browser/prefetch/aw_prefetch_service_delegate.h"
 
 #include "android_webview/browser/aw_browser_context.h"

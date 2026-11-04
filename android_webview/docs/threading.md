@@ -1,3 +1,13 @@
+---
+type: reference
+title: Android WebView and the UI thread
+summary: Explains how WebView reconciles Android's view thread model with Chromium's single UI thread, including the best-effort thread identification approach.
+relations:
+  - references /android_webview/glue/java/src/com/android/webview/chromium/WebViewChromium.java
+  - references /android_webview/glue/java/src/com/android/webview/chromium/WebViewChromiumFactoryProvider.java
+  - references /content/public/browser/browser_thread.h
+---
+
 # Android WebView and the UI thread
 
 This document describes how the Chromium based Android WebView reconciles with

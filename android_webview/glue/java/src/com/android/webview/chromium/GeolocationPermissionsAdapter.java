@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeolocationPermissions adapter
+// summary: Chromium implementation of the framework GeolocationPermissions API that forwards calls to the internal geolocation permissions implementation.
+// relations:
+//   - depends_on /android_webview/glue/java/src/com/android/webview/chromium/ApiCallLogger.java
+//   - depends_on /android_webview/glue/java/src/com/android/webview/chromium/CallbackConverter.java
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.GeolocationPermissions;

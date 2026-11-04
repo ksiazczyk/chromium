@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView crash key definitions and allowlist
+// summary: Defines WebView crash key name constants and the allowlist of crash keys that may be included in sanitized crash reports.
+// relations:
+//   - depends_on /android_webview/common/crash_reporter/crash_keys.h
+//   - depends_on /components/crash/core/common/crash_key.h
+//   - depends_on /components/gwp_asan/common/crash_key_name.h
+// ---
+
 #include "android_webview/common/crash_reporter/crash_keys.h"
 
 #include "components/crash/core/common/crash_key.h"

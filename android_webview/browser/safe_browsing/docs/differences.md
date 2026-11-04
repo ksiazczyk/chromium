@@ -1,3 +1,13 @@
+---
+type: reference
+title: Differences in Safe Browsing support compared to Chrome
+summary: Documents how WebView's Safe Browsing interstitials differ from Chrome, covering quiet interstitials, missing interstitials, back-to-safety behavior, and the onSafeBrowsingHit() callback API.
+relations:
+  - references /android_webview/browser/safe_browsing/docs/giant-interstitial.png
+  - references /android_webview/browser/safe_browsing/docs/loud-interstitial-no-back-button.png
+  - references /android_webview/browser/safe_browsing/docs/loud-interstitial-with-back-button.png
+---
+
 # Differences in support/behavior compared to Chrome
 
 ## Sometimes, no interstitial

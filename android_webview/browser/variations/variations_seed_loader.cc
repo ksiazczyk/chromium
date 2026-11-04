@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations seed loader implementation
+// summary: Parses and validates variations seed protos from a file descriptor or byte array via JNI, stores the seed, and caches seed freshness.
+// relations:
+//   - depends_on /android_webview/browser/variations/variations_seed_loader.h
+//   - depends_on /base/android/jni_string.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #include "android_webview/browser/variations/variations_seed_loader.h"
 
 #include <errno.h>

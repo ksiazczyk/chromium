@@ -1,0 +1,4 @@
+# Docerion header of system_webview_bundle.AndroidManifest.expected.
+type: test
+title: System WebView bundle AndroidManifest expectation
+summary: Expected AndroidManifest for the System WebView bundle, annotated with diff anchors and used to verify the manifest of the built bundle.

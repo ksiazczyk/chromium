@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing blocking page implementation
+// summary: Implements the Android WebView interstitial page shown when Safe Browsing blocks a URL, including quiet and loud error UI variants and threat details collection.
+// relations:
+//   - implements /android_webview/browser/safe_browsing/aw_safe_browsing_blocking_page.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+// ---
+
 #include "android_webview/browser/safe_browsing/aw_safe_browsing_blocking_page.h"
 
 #include <memory>

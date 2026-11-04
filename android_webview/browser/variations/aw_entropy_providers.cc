@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwEntropyProviders implementation
+// summary: Implements entropy providers that delegate to a nonembedded low entropy source for allowlisted studies and to the standard provider otherwise.
+// relations:
+//   - implements /android_webview/browser/variations/aw_entropy_providers.h
+//   - depends_on /android_webview/common/aw_cached_flags.h
+//   - depends_on /android_webview/common/aw_features.h
+// ---
+
 #include "android_webview/browser/variations/aw_entropy_providers.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerClientAdapter – service worker request bridge
+// summary: Forwards shouldInterceptRequest callbacks from AwServiceWorkerClient to the framework ServiceWorkerClient, converting web resource responses.
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.ServiceWorkerClient;

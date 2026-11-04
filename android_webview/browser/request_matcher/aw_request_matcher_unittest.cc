@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwRequestMatcher unit tests
+// summary: Unit tests for AwRequestMatcher covering single and multiple URL patterns, verifying matching behavior across main frame, subframe, and subresource requests.
+// relations:
+//   - tests /android_webview/browser/request_matcher/aw_request_matcher.h
+//   - depends_on /base/test/gmock_expected_support.h
+//   - depends_on /services/network/public/cpp/resource_request.h
+// ---
+
 #include "android_webview/browser/request_matcher/aw_request_matcher.h"
 
 #include <string>

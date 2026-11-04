@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaAccessPermissionRequest implementation
+// summary: Implements the media access permission request delegate, resolving audio and video capture devices and reporting results to the permission manager.
+// relations:
+//   - depends_on /android_webview/browser/permission/media_access_permission_request.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/permission/aw_permission_request.h
+// ---
+
 #include "android_webview/browser/permission/media_access_permission_request.h"
 
 #include <algorithm>

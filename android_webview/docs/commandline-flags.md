@@ -1,3 +1,13 @@
+---
+type: guide
+title: Commandline flags
+summary: How to apply and verify commandline switches and feature flags for WebView on userdebug or eng devices, using scripts, wrapper scripts, or adb.
+relations:
+  - references /android_webview/docs/developer-ui.md
+  - references /android_webview/docs/device-setup.md
+  - references /android_webview/docs/prerelease.md
+---
+
 # Commandline flags
 
 ## Can I apply commandline flags on my device?

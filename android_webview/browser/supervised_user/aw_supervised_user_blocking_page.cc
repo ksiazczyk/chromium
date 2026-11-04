@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView supervised user blocking page implementation
+// summary: Implements the security interstitial shown when a supervised user's navigation is blocked, handling commands such as opening the help center via JNI.
+// relations:
+//   - implements /android_webview/browser/supervised_user/aw_supervised_user_blocking_page.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /base/android/jni_android.h
+// ---
+
 #include "android_webview/browser/supervised_user/aw_supervised_user_blocking_page.h"
 
 #include "android_webview/browser/aw_browser_context.h"

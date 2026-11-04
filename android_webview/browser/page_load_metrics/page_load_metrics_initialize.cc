@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics initialization for WebView
+// summary: Implements the WebView page load metrics embedder that registers common and WebView-specific observers, including GWS, load URL, service level and web performance metrics observers.
+// relations:
+//   - depends_on /android_webview/browser/page_load_metrics/aw_gws_page_load_metrics_observer.h
+//   - depends_on /android_webview/browser/page_load_metrics/aw_load_url_metrics_observer.h
+//   - depends_on /android_webview/browser/page_load_metrics/aw_web_performance_metrics_observer.h
+// ---
+
 #include "android_webview/browser/page_load_metrics/page_load_metrics_initialize.h"
 
 #include "android_webview/browser/page_load_metrics/aw_gws_page_load_metrics_observer.h"

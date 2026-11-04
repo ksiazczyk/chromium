@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPrefetchHandleWrapper implementation
+// summary: Implements the AwPrefetchHandleWrapper class, managing state transitions between reserved, pre-prefetch, and committed prefetch handles for WebView prefetching.
+// relations:
+//   - implements /android_webview/browser/prefetch/aw_prefetch_handle_wrapper.h
+//   - depends_on /android_webview/browser/prefetch/aw_preloading_utils.h
+//   - depends_on /android_webview/common/aw_features.h
+// ---
+
 #include "android_webview/browser/prefetch/aw_prefetch_handle_wrapper.h"
 
 #include <ostream>

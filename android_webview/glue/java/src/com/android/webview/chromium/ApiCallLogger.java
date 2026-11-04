@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView API call UMA logging helper
+// summary: Helper class that records UMA histograms and user actions for WebView framework API calls.
+// ---
+
 package com.android.webview.chromium;
 
 import androidx.annotation.IntDef;

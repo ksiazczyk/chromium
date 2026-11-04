@@ -1,3 +1,11 @@
+---
+type: guide
+title: WebView for AOSP system integrators
+summary: Guide for AOSP device makers and custom ROM maintainers on building, updating, and replacing WebView in the Android system image.
+relations:
+  - references /docs/android_build_instructions.md
+---
+
 # WebView for AOSP system integrators
 
 [TOC]

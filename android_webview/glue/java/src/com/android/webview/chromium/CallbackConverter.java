@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueCallback to Chromium Callback converter
+// summary: Utility class that converts android.webkit.ValueCallback instances into Chromium base Callback instances.
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.ValueCallback;

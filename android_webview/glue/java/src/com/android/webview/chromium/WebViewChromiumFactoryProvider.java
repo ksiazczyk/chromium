@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewChromiumFactoryProvider
+// summary: WebViewFactoryProvider that bootstraps the Chromium WebView, wiring global services like cookies, geolocation, tracing, and service worker control.
+// ---
+
 package com.android.webview.chromium;
 
 import android.app.Application;

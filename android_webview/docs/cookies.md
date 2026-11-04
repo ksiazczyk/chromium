@@ -1,3 +1,13 @@
+---
+type: reference
+title: Cookies in WebView
+summary: Explains WebView's cookie handling, including the CookieManager API, internal cookie store swapping, and how WebView proxies cookie settings for JavaScript and network requests.
+relations:
+  - references /android_webview/browser/cookie_manager.h
+  - references /services/network/restricted_cookie_manager.h
+  - references /android_webview/browser/network_service/aw_proxying_url_loader_factory.h
+---
+
 # Cookies
 
 ## Summary

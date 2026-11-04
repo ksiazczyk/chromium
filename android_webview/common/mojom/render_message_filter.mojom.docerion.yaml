@@ -1,0 +1,6 @@
+# Docerion header of render_message_filter.mojom.
+type: source
+title: render_message_filter.mojom
+summary: Defines a browser-side RenderMessageFilter interface extension that notifies the browser when a WebView subframe is created.
+relations:
+  - depends_on /third_party/blink/public/mojom/tokens/tokens.mojom

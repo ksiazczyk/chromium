@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for //android_webview/common
+summary: GN build file defining the common source set and the Mojom bindings targets for WebView's process-independent native code.
+relations:
+  - depends_on /build/config/android/rules.gni
+  - depends_on /mojo/public/tools/bindings/mojom.gni
+  - configures /android_webview/common/aw_cached_flags.cc

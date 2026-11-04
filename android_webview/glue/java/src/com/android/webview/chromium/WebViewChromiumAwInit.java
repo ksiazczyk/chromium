@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewChromiumAwInit
+// summary: Controls Chromium initialization for WebView, holding shared static objects such as the profile store and default profile across glue layers.
+// ---
+
 package com.android.webview.chromium;
 
 import org.chromium.android_webview.AwBrowserContext;

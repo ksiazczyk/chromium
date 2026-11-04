@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentClient class declaration
+// summary: Declares WebView's ContentClient subclass providing schemes, resources, CDMs, and origin trial policy to the content layer.
+// relations:
+//   - depends_on /base/compiler_specific.h
+//   - depends_on /base/synchronization/lock.h
+//   - depends_on /base/task/sequenced_task_runner.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_COMMON_AW_CONTENT_CLIENT_H_
 #define ANDROID_WEBVIEW_COMMON_AW_CONTENT_CLIENT_H_
 

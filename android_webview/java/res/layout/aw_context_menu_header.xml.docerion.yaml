@@ -1,0 +1,4 @@
+# Docerion header of aw_context_menu_header.xml.
+type: source
+title: WebView context menu header layout
+summary: Android layout for the context menu header, showing an optional icon and an alt-text label.

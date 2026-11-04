@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPrefetchHandleWrapper class header
+// summary: Declares AwPrefetchHandleWrapper, a thread-safe wrapper around content prefetch and pre-prefetch handles with a documented state machine and deduplication entry support.
+// relations:
+//   - depends_on /content/public/browser/pre_prefetch_handle.h
+//   - depends_on /content/public/browser/prefetch_deduplication_utils.h
+//   - depends_on /content/public/browser/prefetch_handle.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PREFETCH_AW_PREFETCH_HANDLE_WRAPPER_H_
 #define ANDROID_WEBVIEW_BROWSER_PREFETCH_AW_PREFETCH_HANDLE_WRAPPER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwGWSPageLoadMetricsObserver implementation
+// summary: Implements WebView-specific behavior of the Google search page load metrics observer, including sign-in detection via cookies.
+// relations:
+//   - depends_on /android_webview/browser/page_load_metrics/aw_gws_page_load_metrics_observer.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/cookie_manager.h
+// ---
+
 #include "android_webview/browser/page_load_metrics/aw_gws_page_load_metrics_observer.h"
 
 #include "android_webview/browser/aw_browser_context.h"

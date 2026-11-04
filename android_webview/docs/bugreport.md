@@ -1,3 +1,12 @@
+---
+type: guide
+title: Reporting bugs in WebView
+summary: Best practices for filing WebView bug reports, including capturing bug report zips, highlighting WebViews, recording videos, and building sample apps.
+relations:
+  - references /android_webview/docs/developer-ui.md
+  - references /android_webview/docs/images/webview_flag_ui.png
+---
+
 # Reporting bugs in WebView
 
 Thanks for your interest in reporting a bug with Android WebView! We have some

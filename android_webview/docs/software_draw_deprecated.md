@@ -1,3 +1,11 @@
+---
+type: reference
+title: Software draw deprecated
+summary: Explains why software draw in WebView is deprecated, how apps can avoid disabling hardware acceleration, and the supported VirtualDisplay approach for snapshot use cases.
+relations:
+  - references /android_webview/docs/bugreport.md
+---
+
 # Software draw deprecated
 
 Software draw in WebView is deprecated and only maintained for backward

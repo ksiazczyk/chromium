@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionRequestHandler implementation
+// summary: Implements sending, cancelling, and preauthorizing permission requests, expiring them on navigation and pruning stale entries.
+// relations:
+//   - depends_on /android_webview/browser/permission/permission_request_handler.h
+// ---
+
 #include "android_webview/browser/permission/permission_request_handler.h"
 
 #include <utility>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPermissionRequest native implementation
+// summary: Implements the native AwPermissionRequest that pairs with a Java peer, forwarding grant or deny decisions to its delegate and handling cancellation and deletion.
+// relations:
+//   - depends_on /android_webview/browser/permission/aw_permission_request.h
+//   - depends_on /android_webview/browser/permission/aw_permission_request_delegate.h
+//   - depends_on /base/android/jni_string.h
+// ---
+
 #include "android_webview/browser/permission/aw_permission_request.h"
 
 #include <utility>

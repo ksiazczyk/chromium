@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwBackgroundTracingMetricsProvider unit tests
+// summary: Unit tests verifying trace upload through the metrics provider, including zlib compression of trace logs and handling of oversize traces.
+// relations:
+//   - tests /android_webview/browser/tracing/aw_background_tracing_metrics_provider.h
+//   - depends_on /base/functional/bind.h
+//   - depends_on /base/rand_util.h
+// ---
+
 #include "android_webview/browser/tracing/aw_background_tracing_metrics_provider.h"
 
 #include <utility>

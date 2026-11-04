@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSurface
+// summary: Presentation surface for WebView web content in Compose that binds, draws, sizes, and routes touch input without intermediate View nodes.
+// ---
+
 package com.android.webview.chromium;
 
 import android.graphics.Canvas;

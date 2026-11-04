@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebIconDatabase no-op adapter
+// summary: Deprecated WebIconDatabase implementation that records API calls and performs mostly intentional no-ops, only enabling global favicon downloads on open.
+// ---
+
 package com.android.webview.chromium;
 
 import android.content.ContentResolver;

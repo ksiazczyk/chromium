@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web content context wrapper
+// summary: ContextWrapper that carries AwWebContent configuration through the context chain to WebView during construction and tracks whether it was used.
+// ---
+
 package com.android.webview.chromium;
 
 import android.content.Context;

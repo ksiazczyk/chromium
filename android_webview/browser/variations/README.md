@@ -1,3 +1,9 @@
+---
+type: readme
+title: WebView Variations
+summary: Explains that this folder holds part of Android WebView's variations support, the Chromium infrastructure for A/B experiments and gradual rollouts.
+---
+
 # WebView Variations
 
 This folder contains some of the code for Android WebView's variations support.

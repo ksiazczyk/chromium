@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStorageAdapter
+// summary: Chromium implementation of android.webkit.WebStorage that forwards origin, quota, and usage calls to the internal AwQuotaManagerBridge with tracing and API logging.
+// relations:
+//   - depends_on /android_webview/glue/java/src/com/android/webview/chromium/ApiCallLogger.java
+//   - depends_on /android_webview/glue/java/src/com/android/webview/chromium/CallbackConverter.java
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.ValueCallback;

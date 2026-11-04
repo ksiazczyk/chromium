@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebPerformanceMetricsObserver implementation
+// summary: Reports first and largest contentful paint and fully loaded timings from page loads to the WebView navigation client.
+// relations:
+//   - implements /android_webview/browser/page_load_metrics/aw_web_performance_metrics_observer.h
+//   - depends_on /android_webview/browser/aw_contents.h
+//   - depends_on /content/public/browser/page.h
+// ---
+
 #include "android_webview/browser/page_load_metrics/aw_web_performance_metrics_observer.h"
 
 #include "android_webview/browser/aw_contents.h"

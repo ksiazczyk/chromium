@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing allowlist manager implementation
+// summary: Implements a trie-based host allowlist that exempts matching URLs from Safe Browsing checks in WebView.
+// relations:
+//   - implements /android_webview/browser/safe_browsing/aw_safe_browsing_allowlist_manager.h
+//   - depends_on /base/functional/bind.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "android_webview/browser/safe_browsing/aw_safe_browsing_allowlist_manager.h"
 
 #include <map>

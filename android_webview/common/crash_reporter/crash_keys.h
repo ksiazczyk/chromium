@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView crash key declarations
+// summary: Declares WebView crash key name constants and the function that registers all potential crash keys for WebView testing.
+// ---
+
 #ifndef ANDROID_WEBVIEW_COMMON_CRASH_REPORTER_CRASH_KEYS_H_
 #define ANDROID_WEBVIEW_COMMON_CRASH_REPORTER_CRASH_KEYS_H_
 

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Removing system apps
+summary: Provides adb commands for manually removing preinstalled system apps such as WebView from a device when the automated removal script does not work.
+relations:
+  - references /android_webview/docs/build-instructions.md
+---
+
 # Removing system apps
 
 <!--

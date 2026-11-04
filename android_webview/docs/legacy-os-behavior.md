@@ -1,3 +1,12 @@
+---
+type: reference
+title: Legacy OS versions
+summary: Covers WebView topics for legacy Android versions, including build targets, package names, channels, WebView loading, and AOSP integration no longer relevant to current development.
+relations:
+  - references /android_webview/docs/build-instructions.md
+  - references /android_webview/docs/prerelease.md
+---
+
 # Legacy OS versions
 
 Android WebView originally supported updates on Android L+. Over the past few

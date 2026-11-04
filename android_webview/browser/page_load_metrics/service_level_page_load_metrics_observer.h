@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceLevelPageLoadMetricsObserver header
+// summary: Declares ServiceLevelPageLoadMetricsObserver and the WebViewPageAttemptResult enum used to record page load attempt outcomes for WebView customer-centric SLOs.
+// relations:
+//   - depends_on /components/page_load_metrics/browser/page_load_metrics_observer.h
+//   - depends_on /components/page_load_metrics/browser/page_load_metrics_observer_delegate.h
+//   - depends_on /content/public/browser/navigation_discard_reason.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PAGE_LOAD_METRICS_SERVICE_LEVEL_PAGE_LOAD_METRICS_OBSERVER_H_
 #define ANDROID_WEBVIEW_BROWSER_PAGE_LOAD_METRICS_SERVICE_LEVEL_PAGE_LOAD_METRICS_OBSERVER_H_
 

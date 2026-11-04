@@ -1,3 +1,11 @@
+---
+type: reference
+title: How Loading WebView Works
+summary: Technical explanation of how WebView is loaded into Android apps, covering context creation, Java and native code loading with RELRO sharing, and asset/resource loading across Android versions.
+relations:
+  - references /android_webview/docs/channels.md
+---
+
 # How does loading WebView work?
 
 [TOC]

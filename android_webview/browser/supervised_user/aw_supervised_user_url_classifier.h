@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView supervised user URL classifier class declaration
+// summary: Declares AwSupervisedUserUrlClassifier and the should_block_restricted_content preference used to decide whether URL checks apply.
+// relations:
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_SUPERVISED_USER_AW_SUPERVISED_USER_URL_CLASSIFIER_H_
 #define ANDROID_WEBVIEW_BROWSER_SUPERVISED_USER_AW_SUPERVISED_USER_URL_CLASSIFIER_H_
 

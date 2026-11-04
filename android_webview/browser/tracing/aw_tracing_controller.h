@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwTracingController class declaration
+// summary: Declares the WebView tracing controller JNI bridge with Start, StopAndFlush, and IsTracing methods plus an ApiCall enum for histogram logging.
+// relations:
+//   - depends_on /base/android/jni_weak_ref.h
+//   - depends_on /base/memory/weak_ptr.h
+//   - references /tools/metrics/histograms/metadata/android/enums.xml
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_TRACING_AW_TRACING_CONTROLLER_H_
 #define ANDROID_WEBVIEW_BROWSER_TRACING_AW_TRACING_CONTROLLER_H_
 

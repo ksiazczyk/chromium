@@ -4,6 +4,14 @@
 
 // Contains constants for known URLs and portions thereof.
 
+// ---docerion
+// type: source
+// title: Android WebView URL constant declarations
+// summary: Declares special Android file path constants, the video poster scheme, and a helper to detect special file URLs.
+// relations:
+//   - depends_on /url/gurl.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_COMMON_URL_CONSTANTS_H_
 #define ANDROID_WEBVIEW_COMMON_URL_CONSTANTS_H_
 

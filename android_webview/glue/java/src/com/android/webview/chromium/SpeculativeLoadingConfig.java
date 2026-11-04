@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speculative loading configuration
+// summary: Holds temporary configuration limits for WebView speculative loading, including maximum prefetches, prefetch TTL, and maximum prerenders.
+// ---
+
 package com.android.webview.chromium;
 
 import org.chromium.android_webview.common.Lifetime;

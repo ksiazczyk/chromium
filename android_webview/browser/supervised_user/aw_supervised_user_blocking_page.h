@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView supervised user blocking page class declaration
+// summary: Declares AwSupervisedUserBlockingPage, the Android WebView interstitial page class used for blocked supervised user navigations.
+// relations:
+//   - depends_on /components/security_interstitials/content/security_interstitial_controller_client.h
+//   - depends_on /components/security_interstitials/content/security_interstitial_page.h
+//   - depends_on /content/public/browser/web_contents.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_SUPERVISED_USER_AW_SUPERVISED_USER_BLOCKING_PAGE_H_
 #define ANDROID_WEBVIEW_BROWSER_SUPERVISED_USER_AW_SUPERVISED_USER_BLOCKING_PAGE_H_
 

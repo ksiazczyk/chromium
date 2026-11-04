@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView supervised user URL classifier implementation
+// summary: Implements the URL classifier singleton that delegates should-block decisions to Java via JNI and manages the restricted content blocking preference.
+// relations:
+//   - implements /android_webview/browser/supervised_user/aw_supervised_user_url_classifier.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+//   - depends_on /android_webview/browser/supervised_user/aw_supervised_user_safemode_action.h
+// ---
+
 #include "android_webview/browser/supervised_user/aw_supervised_user_url_classifier.h"
 
 #include "android_webview/browser/aw_browser_process.h"

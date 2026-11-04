@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentGpuClient class declaration
+// summary: Declares the WebView ContentGpuClient subclass with callback typedefs and overrides for GPU managers and the GrContext options provider.
+// relations:
+//   - depends_on /android_webview/common/gfx/aw_gr_context_options_provider.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /content/public/gpu/content_gpu_client.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_GPU_AW_CONTENT_GPU_CLIENT_H_
 #define ANDROID_WEBVIEW_GPU_AW_CONTENT_GPU_CLIENT_H_
 

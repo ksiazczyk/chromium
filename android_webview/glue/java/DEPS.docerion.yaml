@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for WebView glue Java
+summary: Defines include rules that allow the WebView glue Java code to depend on selected Chromium Java packages while restricting access to content internals.

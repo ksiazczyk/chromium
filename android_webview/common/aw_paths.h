@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView path key declarations
+// summary: Declares WebView path keys for crash dumps, component updates, Safe Browsing, and traces, plus RegisterPathProvider.
+// ---
+
 #ifndef ANDROID_WEBVIEW_COMMON_AW_PATHS_H__
 #define ANDROID_WEBVIEW_COMMON_AW_PATHS_H__
 

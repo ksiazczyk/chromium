@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaAccessPermissionRequest unit tests
+// summary: Unit tests for the media access permission request, exercising device selection by requested IDs and permission result handling with mock capture devices.
+// relations:
+//   - tests /android_webview/browser/permission/media_access_permission_request.h
+// ---
+
 #include "android_webview/browser/permission/media_access_permission_request.h"
 
 #include <memory>

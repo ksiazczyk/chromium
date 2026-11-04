@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionRequestHandler unit tests
+// summary: Unit tests for PermissionRequestHandler covering permission requests, grants, denials, and cancellation using test delegates and clients.
+// relations:
+//   - tests /android_webview/browser/permission/permission_request_handler.h
+//   - depends_on /android_webview/browser/permission/aw_permission_request.h
+//   - depends_on /android_webview/browser/permission/aw_permission_request_delegate.h
+// ---
+
 #include "android_webview/browser/permission/permission_request_handler.h"
 
 #include <memory>

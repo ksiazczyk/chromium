@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPermissionRequest class declaration
+// summary: Declares the AwPermissionRequest class, including the resource bit-flag enum and methods for granting, cancelling, and querying permission requests.
+// relations:
+//   - depends_on /base/android/jni_weak_ref.h
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PERMISSION_AW_PERMISSION_REQUEST_H_
 #define ANDROID_WEBVIEW_BROWSER_PERMISSION_AW_PERMISSION_REQUEST_H_
 

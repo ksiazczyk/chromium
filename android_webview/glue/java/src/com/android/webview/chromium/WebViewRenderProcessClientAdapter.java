@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView render process client adapter
+// summary: Adapter forwarding renderer responsive and unresponsive callbacks to the app's WebViewRenderProcessClient through an executor.
+// relations:
+//   - depends_on /android_webview/glue/java/src/com/android/webview/chromium/WebViewRenderProcessAdapter.java
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.WebView;

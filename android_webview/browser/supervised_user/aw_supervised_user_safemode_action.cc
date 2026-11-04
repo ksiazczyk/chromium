@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView supervised user SafeMode action implementation
+// summary: Implements a thread-safe singleton that tracks whether supervision is enabled and exposes that flag to Java through JNI.
+// relations:
+//   - implements /android_webview/browser/supervised_user/aw_supervised_user_safemode_action.h
+//   - depends_on /base/synchronization/lock.h
+// ---
+
 #include "android_webview/browser/supervised_user/aw_supervised_user_safemode_action.h"
 
 #include "android_webview/browser/supervised_user/aw_supervised_user_url_classifier.h"

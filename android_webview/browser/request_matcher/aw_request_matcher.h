@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRequestMatcher class declaration
+// summary: Declares the AwRequestMatcher class that limits the scope of WebView APIs to requests matching given URL patterns, with a Create factory and a Matches method.
+// relations:
+//   - depends_on /base/memory/ref_counted.h
+//   - depends_on /base/memory/scoped_refptr.h
+//   - depends_on /base/types/expected.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_REQUEST_MATCHER_AW_URL_PATTERN_REQUEST_MATCHER_H_
 #define ANDROID_WEBVIEW_BROWSER_REQUEST_MATCHER_AW_URL_PATTERN_REQUEST_MATCHER_H_
 

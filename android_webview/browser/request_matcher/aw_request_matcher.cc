@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRequestMatcher implementation
+// summary: Implements the AwRequestMatcher class, including a Create factory that parses URL pattern strings and a Matches method that checks requests against the parsed patterns.
+// relations:
+//   - depends_on /android_webview/browser/request_matcher/aw_request_matcher.h
+//   - depends_on /base/strings/stringprintf.h
+//   - depends_on /components/url_pattern/simple_url_pattern_matcher.h
+// ---
+
 #include "android_webview/browser/request_matcher/aw_request_matcher.h"
 
 #include "base/strings/stringprintf.h"

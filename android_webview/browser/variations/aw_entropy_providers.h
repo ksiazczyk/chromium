@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwEntropyProviders class declaration
+// summary: Declares a custom EntropyProviders wrapper that uses a nonembedded low entropy source for allowlisted field trials and delegates elsewhere.
+// relations:
+//   - depends_on /base/metrics/field_trial.h
+//   - depends_on /components/variations/entropy_provider.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_VARIATIONS_AW_ENTROPY_PROVIDERS_H_
 #define ANDROID_WEBVIEW_BROWSER_VARIATIONS_AW_ENTROPY_PROVIDERS_H_
 

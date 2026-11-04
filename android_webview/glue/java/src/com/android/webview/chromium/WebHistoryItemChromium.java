@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebHistoryItem Chromium implementation
+// summary: Immutable wrapper around NavigationEntry implementing android.webkit.WebHistoryItem, exposing URL, title, and favicon.
+// ---
+
 package com.android.webview.chromium;
 
 import android.graphics.Bitmap;

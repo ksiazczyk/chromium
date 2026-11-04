@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch operation status code annotation
+// summary: 'IntDef annotation defining constants for prefetch operation outcomes: success, failure, server failure, and duplicate request.'
+// ---
+
 package com.android.webview.chromium;
 
 import androidx.annotation.IntDef;

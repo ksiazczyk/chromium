@@ -1,0 +1,4 @@
+# Docerion header of renderer.mojom.
+type: source
+title: renderer.mojom
+summary: Defines a Renderer interface with WebView-specific renderer operations such as clearing the memory cache, setting the online property, and prefetching the native library.

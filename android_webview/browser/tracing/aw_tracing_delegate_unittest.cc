@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwTracingDelegate unit tests
+// summary: Unit tests verifying that the tracing delegate allows trace recording for local scenarios and according to the UMA consent state.
+// relations:
+//   - tests /android_webview/browser/tracing/aw_tracing_delegate.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+//   - depends_on /android_webview/browser/aw_content_browser_client.h
+// ---
+
 #include "android_webview/browser/tracing/aw_tracing_delegate.h"
 
 #include <memory>

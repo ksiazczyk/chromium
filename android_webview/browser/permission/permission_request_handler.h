@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionRequestHandler class declaration
+// summary: Declares the handler that sends and cancels permission requests via its client, tracks preauthorized origins, and observes navigation to expire requests.
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PERMISSION_PERMISSION_REQUEST_HANDLER_H_
 #define ANDROID_WEBVIEW_BROWSER_PERMISSION_PERMISSION_REQUEST_HANDLER_H_
 

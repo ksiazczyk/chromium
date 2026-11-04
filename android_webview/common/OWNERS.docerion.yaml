@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for //android_webview/common
+summary: Assigns IPC security owners as required reviewers for message, Mojom, and Mojom traits files in this folder.
+relations:
+  - references /ipc/SECURITY_OWNERS

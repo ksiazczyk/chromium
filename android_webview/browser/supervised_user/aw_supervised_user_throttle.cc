@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView supervised user navigation throttle implementation
+// summary: Implements a navigation throttle that defers requests while the URL classifier decides whether to block, then shows a blocking page or cancels the load.
+// relations:
+//   - implements /android_webview/browser/supervised_user/aw_supervised_user_throttle.h
+//   - depends_on /android_webview/browser/supervised_user/aw_supervised_user_blocking_page.h
+//   - depends_on /content/public/browser/navigation_handle.h
+// ---
+
 #include "android_webview/browser/supervised_user/aw_supervised_user_throttle.h"
 
 #include "android_webview/browser/supervised_user/aw_supervised_user_blocking_page.h"

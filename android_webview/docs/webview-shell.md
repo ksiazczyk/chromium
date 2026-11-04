@@ -1,3 +1,13 @@
+---
+type: guide
+title: System WebView Shell
+summary: How to set up, build, install, and run the System WebView Shell test app used for manual and automated WebView testing.
+relations:
+  - references /android_webview/docs/commandline-flags.md
+  - references /android_webview/docs/images/webview_shell.png
+  - references /android_webview/docs/test-instructions.md
+---
+
 # System WebView Shell
 
 [TOC]

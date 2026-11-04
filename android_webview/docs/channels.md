@@ -1,3 +1,13 @@
+---
+type: reference
+title: Understanding WebView Channels
+summary: Explains how WebView pre-release channels work across WebView generations, focusing on Trichrome packaging for Android Q and later.
+relations:
+  - references /android_webview/docs/legacy-os-behavior.md
+  - references /android_webview/docs/prerelease.md
+  - references /build/util/android_chrome_version.py
+---
+
 # Understanding WebView Channels
 
 Since the introduction of WebView as an updatable APK in Android L, WebView has

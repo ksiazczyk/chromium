@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedWebViewChromium – shared WebView glue logic
+// summary: Holds WebViewChromium logic shared between the webkit-glue and support library layers, managing clients, AwContents, and builder configuration state.
+// ---
+
 package com.android.webview.chromium;
 
 import android.os.Bundle;

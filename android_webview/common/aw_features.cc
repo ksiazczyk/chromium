@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView feature flag definitions
+// summary: Defines Android WebView base::Feature flags and feature parameters covering startup, caching, tracing, prefetch, and other WebView behaviors.
+// relations:
+//   - depends_on /android_webview/common/aw_features.h
+//   - depends_on /base/feature.h
+//   - depends_on /base/feature_list.h
+// ---
+
 #include "android_webview/common/aw_features.h"
 
 #include "base/feature.h"

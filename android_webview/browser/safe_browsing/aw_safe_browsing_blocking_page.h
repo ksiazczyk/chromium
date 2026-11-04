@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing blocking page class declaration
+// summary: Declares the WebView Safe Browsing blocking page class, its error UI types, and threat details handling for interstitial pages.
+// relations:
+//   - depends_on /android_webview/browser/network_service/aw_web_resource_request.h
+//   - implements /components/safe_browsing/content/browser/base_blocking_page.h
+//   - depends_on /components/security_interstitials/core/base_safe_browsing_error_ui.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_SAFE_BROWSING_BLOCKING_PAGE_H_
 #define ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_SAFE_BROWSING_BLOCKING_PAGE_H_
 

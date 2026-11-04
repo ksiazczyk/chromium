@@ -1,0 +1,6 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for //android_webview/common
+summary: Defines allowed include dependencies for the common WebView folder, with extra feature headers permitted in aw_feature_map.cc.
+relations:
+  - configures /android_webview/common/aw_feature_map.cc

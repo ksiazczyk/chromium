@@ -1,3 +1,11 @@
+---
+type: guide
+title: Try out WebView Beta, Dev, or Canary
+summary: Explains how to install and switch to WebView pre-release channels for each Android version, return to stable, and report problems encountered on pre-release builds.
+relations:
+  - references /android_webview/docs/images/webview_implementations_menu_10.png
+---
+
 # Try out WebView Beta, Dev, or Canary
 
 Using a pre-release channel of WebView allows you to test new, upcoming features

@@ -1,3 +1,13 @@
+---
+type: reference
+title: WebView Architecture
+summary: Describes WebView's layering, Java and C++ split, process model, mixed-bitness handling, and packaging variants.
+relations:
+  - references /content/README.md
+  - references /components/README.md
+  - references /android_webview/glue/README.md
+---
+
 # WebView Architecture
 
 ## Layering

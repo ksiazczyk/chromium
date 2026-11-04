@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebView Java directory dependency rules
+summary: Defines include rules that restrict which Chromium directories the //android_webview/java code may depend on.

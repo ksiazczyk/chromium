@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewDatabase Chromium implementation adapter
+// summary: Chromium implementation of WebViewDatabase forwarding HTTP authentication database calls, with deprecated username-password APIs as no-ops.
+// relations:
+//   - depends_on /android_webview/glue/java/src/com/android/webview/chromium/ApiCallLogger.java
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.WebViewDatabase;

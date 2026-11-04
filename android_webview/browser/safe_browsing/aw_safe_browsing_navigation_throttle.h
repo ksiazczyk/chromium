@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing navigation throttle declaration
+// summary: Declares the navigation throttle that displays Safe Browsing interstitials for failed main frame navigations in WebView.
+// relations:
+//   - implements /content/public/browser/navigation_throttle.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_SAFE_BROWSING_NAVIGATION_THROTTLE_H_
 #define ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_SAFE_BROWSING_NAVIGATION_THROTTLE_H_
 

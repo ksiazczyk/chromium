@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for //android_webview/gpu
+summary: Restricts includes in this folder to android_webview/common, common_jni_headers, android_webview/gpu, and content/public/gpu.

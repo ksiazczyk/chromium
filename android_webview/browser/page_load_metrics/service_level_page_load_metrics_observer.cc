@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service level page load metrics observer implementation
+// summary: Implements the service level page load metrics observer, logging page load attempt outcomes to the WebView PageAttempts and PageAttemptResults histograms for SLO observability.
+// relations:
+//   - implements /android_webview/browser/page_load_metrics/service_level_page_load_metrics_observer.h
+//   - depends_on /components/page_load_metrics/browser/page_load_metrics_observer.h
+//   - depends_on /components/page_load_metrics/browser/page_load_metrics_observer_delegate.h
+// ---
+
 #include "android_webview/browser/page_load_metrics/service_level_page_load_metrics_observer.h"
 
 #include "components/page_load_metrics/browser/page_load_metrics_observer.h"

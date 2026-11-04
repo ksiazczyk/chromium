@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advanced protection status manager bridge header
+// summary: Declares the singleton bridge class and observer interface for tracking Android advanced protection status changes.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/no_destructor.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_ADVANCED_PROTECTION_STATUS_MANAGER_BRIDGE_H_
 #define ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_ADVANCED_PROTECTION_STATUS_MANAGER_BRIDGE_H_
 

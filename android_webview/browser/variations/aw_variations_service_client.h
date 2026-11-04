@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwVariationsServiceClient class declaration
+// summary: Declares the WebView implementation of VariationsServiceClient whose members are currently stubs.
+// relations:
+//   - depends_on /base/memory/scoped_refptr.h
+//   - implements /components/variations/service/variations_service_client.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_VARIATIONS_AW_VARIATIONS_SERVICE_CLIENT_H_
 #define ANDROID_WEBVIEW_BROWSER_VARIATIONS_AW_VARIATIONS_SERVICE_CLIENT_H_
 

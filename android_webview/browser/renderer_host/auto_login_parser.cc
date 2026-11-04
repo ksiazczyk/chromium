@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView auto-login header parser implementation
+// summary: Implements parsing of x-auto-login header values into realm, account, and args fields, enforcing realm restrictions such as com.google only.
+// relations:
+//   - depends_on /android_webview/browser/renderer_host/auto_login_parser.h
+//   - depends_on /base/notreached.h
+//   - depends_on /base/strings/escape.h
+// ---
+
 #include "android_webview/browser/renderer_host/auto_login_parser.h"
 
 #include <utility>

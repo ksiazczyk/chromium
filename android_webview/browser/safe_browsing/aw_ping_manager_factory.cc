@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing ping manager factory implementation
+// summary: Implements the keyed service factory that builds the Safe Browsing PingManager for Android WebView browser contexts.
+// relations:
+//   - depends_on /android_webview/browser/safe_browsing/aw_ping_manager_factory.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+//   - depends_on /base/no_destructor.h
+// ---
+
 #include "android_webview/browser/safe_browsing/aw_ping_manager_factory.h"
 
 #include "android_webview/browser/aw_browser_process.h"
