@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Layout directory OWNERS file
+summary: Defines per-file owner delegations for layout resources, routing NTP, feed, incognito, tab switcher, and picture-in-picture layouts to their component owners.

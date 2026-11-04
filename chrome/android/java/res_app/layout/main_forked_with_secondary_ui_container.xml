@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Forked main layout with secondary UI container
+summary: Forked copy of main.xml created for side panel work, adding a dedicated secondary UI container for tab-modal dialogs; it must be kept in sync with main.xml except for side-panel-related changes.
+-->
+
 <!--
 This is a copy of main.xml and it was originally created for side panel work.
 For more context, please see http://crbug.com/485934112.

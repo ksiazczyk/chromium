@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!-- Container for displaying a HaTS survey. -->
+
+<!--docerion
+type: source
+title: HaTS survey container layout
+summary: Android layout providing a hidden frame container for displaying a HaTS survey at the bottom end of the screen.
+-->
+
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/survey_container"

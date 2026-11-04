@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Bookmark desktop content padding dimension for wide screens
+summary: Android resource XML that sets the bookmark desktop content padding to 48dp for screen configurations at least 800dp wide.
+-->
+
 <resources>
     <dimen name="bookmark_desktop_content_padding">48dp</dimen>
 </resources>

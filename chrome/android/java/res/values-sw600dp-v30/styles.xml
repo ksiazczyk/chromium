@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tablet settings theme styles
+summary: Android resource XML that overrides the Chromium settings theme for sw600dp devices with status bar, navigation bar, and light-icon color settings.
+-->
+
 <resources>
     <style name="Theme.Chromium.Settings" parent="Base.Theme.Chromium.Settings">
         <item name="android:statusBarColor">@macro/default_bg_color</item>

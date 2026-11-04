@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Multiline spinner item layout
+summary: Android layout for a spinner item text view that allows multiline instead of single-line text.
+-->
+
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/spinner_item"
     style="?android:attr/spinnerItemStyle"

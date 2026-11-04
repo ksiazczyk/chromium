@@ -8,6 +8,12 @@ found in the LICENSE file.
 <!-- Layout used by ClearBrowsingDataPreferences for a dialog about other
      forms of browsing history. -->
 
+<!--docerion
+type: asset
+title: Other forms of history dialog layout
+summary: Layout for the dialog used by clear browsing data settings to explain other forms of browsing history.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     style="@style/AlertDialogContent">

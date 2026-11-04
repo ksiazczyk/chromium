@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkThumbnailWidgetProvider
+// summary: Empty subclass of BookmarkWidgetProvider that must keep its name and location because it is exported in the Chrome manifest as part of the public API.
+// ---
+
 package com.google.android.apps.chrome.appwidget.bookmarks;
 
 import org.chromium.build.annotations.NullMarked;

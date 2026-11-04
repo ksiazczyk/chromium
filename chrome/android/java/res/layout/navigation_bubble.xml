@@ -4,6 +4,12 @@
      found in the LICENSE file.
  -->
 
+<!--docerion
+type: source
+title: Gesture navigation bubble layout
+summary: Android layout for the gesture navigation bubble, a custom view showing an arrow icon and text while swiping at the screen edge.
+-->
+
 <org.chromium.chrome.browser.gesturenav.NavigationBubble
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

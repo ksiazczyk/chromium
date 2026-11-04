@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: WebAPK icon and name update dialog layout
+summary: Android layout for the WebAPK update dialog comparing the app's current and new icon, name, and short name side by side.
+-->
+
 <org.chromium.chrome.browser.webapps.WebApkIconNameUpdateCustomView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

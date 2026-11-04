@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Autofill card unmask prompt layout
+summary: Android layout for the dialog that prompts the user to verify a saved credit card, including card details, instructions, and error message views.
+-->
+
 <!-- TODO(crbug.com/40236415): Use the AlertDialogContent style on the entire layout. -->
 <LinearLayout
     android:layout_width="wrap_content"

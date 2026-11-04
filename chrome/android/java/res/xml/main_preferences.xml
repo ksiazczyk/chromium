@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Main preferences screen
+summary: Preference screen structuring Chrome's main settings page with account and Google services, basics, and advanced sections linking to sub-pages.
+-->
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orderingFromXml="false">

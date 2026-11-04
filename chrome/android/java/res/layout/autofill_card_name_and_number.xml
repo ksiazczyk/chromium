@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: source
+title: Autofill card name and number layout
+summary: Horizontal layout pairing a card name label with a card number label for autofill card display.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content"

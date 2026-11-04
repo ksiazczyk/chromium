@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Distilled page font family spinner item layout
+summary: Spinner dropdown item layout used to select a font family in the distilled reader mode customization.
+-->
+
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
     style="?android:attr/spinnerDropDownItemStyle"
     android:layout_width="match_parent"

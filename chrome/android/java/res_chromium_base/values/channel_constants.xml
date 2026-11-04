@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Chromium app name and widget title string resources
+summary: Defines non-translatable Android string resources for the Chromium application name and the bookmark, search, and quick action search widget titles.
+-->
+
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- The application name displayed to the user. -->
     <string name="app_name" translatable="false">Chromium</string>

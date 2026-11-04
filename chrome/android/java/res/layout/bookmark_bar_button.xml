@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Bookmark bar button layout
+summary: Layout for a bookmark bar button showing an icon and a single-line title on a ripple background.
+-->
+
 <org.chromium.chrome.browser.bookmarks.bar.BookmarkBarButton
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

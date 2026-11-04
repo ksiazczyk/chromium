@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Share sheet content layout
+summary: Scrollable layout for the share sheet, containing a link preview header with image and title, a row of first-run app icons, and a first-run footer.
+-->
+
 <ScrollView
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:app="http://schemas.android.com/apk/res-auto"

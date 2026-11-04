@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: RTL drawable aliases for Android toolbar buttons
+summary: Defines right-to-left drawable aliases that map the back, forward, and reload buttons to mirrored arrow and refresh icons in Chrome for Android.
+-->
+
 <resources>
     <drawable name="btn_forward">@drawable/arrow_back_24px</drawable>
     <drawable name="btn_back">@drawable/arrow_forward_24px</drawable>

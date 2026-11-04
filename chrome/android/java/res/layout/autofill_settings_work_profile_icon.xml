@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Autofill settings work profile icon layout
+summary: Layout for the work icon shown on the right side of the autofill settings preference entry, using the work logo drawable.
+-->
+
 <!-- Layout for work icon displayed on the right side of the autofill settings preference entry. -->
 <ImageView
     xmlns:android="http://schemas.android.com/apk/res/android"

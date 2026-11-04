@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: On startup preferences screen
+summary: Preference screen containing a radio button group for choosing what Chrome shows on startup.
+-->
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <org.chromium.chrome.browser.settings.startup.RadioButtonGroupOnStartupPreference
         android:key="on_startup_radio_button_group"

@@ -4,6 +4,13 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Bookmark edit layout
+summary: Layout for the bookmark editing screen with name and URL text fields, a folder row container, a toolbar and a shadow view.
+-->
+
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"

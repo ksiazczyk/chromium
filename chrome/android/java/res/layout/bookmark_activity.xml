@@ -4,6 +4,13 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Bookmark activity layout
+summary: Root layout for the bookmarks activity, providing a full-screen frame that hosts the bookmark sheet container.
+-->
+
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"

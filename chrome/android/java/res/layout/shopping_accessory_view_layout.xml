@@ -5,6 +5,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Shopping accessory view layout
+summary: Android layout for a shopping accessory view showing a price tracking icon plus normal, drop, and original price texts.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/container"

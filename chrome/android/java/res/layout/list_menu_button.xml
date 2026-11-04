@@ -5,6 +5,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: List menu button layout
+summary: Android layout for the ListMenuButton overflow control that shows a vertical more icon with default tinting.
+-->
+
 <org.chromium.ui.listmenu.ListMenuButton
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

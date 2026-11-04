@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Tab switcher view holder layout
+summary: Android layout with a hidden, background-colored frame layout used as the view holder for the tab switcher.
+-->
+
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/tab_switcher_view_holder"

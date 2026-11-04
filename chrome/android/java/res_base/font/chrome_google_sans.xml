@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Google Sans downloadable font family resource
+summary: Android font-family resource that fetches the Google Sans typeface asynchronously from the Google Play Services fonts provider for Chrome's UI.
+-->
+
 <font-family
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"

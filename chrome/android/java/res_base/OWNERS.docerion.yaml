@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS restrictions for res_base resources
+summary: Restricts changes to top-level resource files by requiring approval from the ui/android layout owners, preventing accidental duplicate assets or unwanted new colors.

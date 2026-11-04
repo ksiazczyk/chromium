@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for res_chromium_base resources
+summary: Restricts code review ownership for base Chromium Android resources by setting noparent and delegating layout changes to the ui/android layout owners file.

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Ad services configuration
+summary: Ad services XML configuration that allows all apps to access the attribution API for Chrome on Android.
+-->
+
 <ad-services-config>
     <attribution allowAllToAccess="true" />
 </ad-services-config>

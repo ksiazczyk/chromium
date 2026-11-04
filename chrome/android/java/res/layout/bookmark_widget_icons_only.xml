@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bookmark widget icons-only layout
+summary: Android layout providing a narrow icons-only variant of the bookmark widget by wrapping and including the base bookmark widget layout.
+-->
+
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="@dimen/bookmark_widget_min_width"
     android:layout_height="match_parent">

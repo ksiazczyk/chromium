@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tablet dimension values for tab titles, full screen, NTP and reader mode
+summary: Defines tablet-specific dimension values for tab title text and favicon padding, control container height, NTP offsets, recent tabs separators and reader mode preference controls in Chrome for Android.
+-->
+
 <resources>
     <!-- Tab title -->
     <dimen name="tab_title_favicon_start_padding">0dp</dimen>

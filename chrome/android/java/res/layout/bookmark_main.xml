@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bookmark main layout
+summary: Root Android layout for the bookmark manager screen that wraps a selectable list layout.
+-->
+
 <org.chromium.components.browser_ui.widget.selectable_list.SelectableListLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/selectable_list"

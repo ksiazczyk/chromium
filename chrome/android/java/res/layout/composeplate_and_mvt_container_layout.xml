@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Composeplate and most visited tiles container layout
+summary: Android layout arranging the Composeplate card and the Most Visited Tiles side by side with matching heights.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/composeplate_and_mvt_container"

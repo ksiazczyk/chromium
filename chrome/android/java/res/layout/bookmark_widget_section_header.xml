@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bookmark widget section header layout
+summary: Android layout for a single-line, non-clickable section header TextView used within the bookmark widget.
+-->
+
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/title"
     android:layout_width="match_parent"

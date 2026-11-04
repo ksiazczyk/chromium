@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Boolean resources for 412dp width
+summary: Defines the boolean resource bookmark_bar_allowed as true for the w412dp qualifier, controlling whether the bookmark bar may be shown on wider screens.
+-->
+
 <resources>
     <!-- Bookmark bar -->
     <bool name="bookmark_bar_allowed">true</bool>

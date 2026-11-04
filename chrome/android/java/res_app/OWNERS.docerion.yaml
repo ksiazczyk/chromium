@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for res_app resources
+summary: Restricts reviewer ownership for the res_app resource directory with no parent inheritance, deferring layout files to the ui/android layout owners and side UI owners for a specific forked layout.

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Condensed suggestions tile view layout
+summary: Android layout for a condensed site suggestion tile that wraps the modern condensed tile view include.
+-->
+
 <!-- A site suggestion tile. -->
 <org.chromium.chrome.browser.suggestions.tile.SuggestionsTileView
     xmlns:android="http://schemas.android.com/apk/res/android"

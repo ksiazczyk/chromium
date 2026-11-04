@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Tab strip group menu layout
+summary: Android layout for the tab group context menu, holding a title edit field, a lazily inflated color picker, and an included action menu.
+-->
+
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

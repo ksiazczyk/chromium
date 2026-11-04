@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Custom tab desktop popup header layout
+summary: Android layout for the Custom Tabs desktop popup header, whose text and hairline are set programmatically by a view binder.
+-->
+
 <!--
 Height, visibility, and background color of this node are set programmatically
 by DesktopPopupHeaderViewBinder.

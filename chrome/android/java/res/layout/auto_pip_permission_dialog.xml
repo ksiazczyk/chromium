@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Auto picture-in-picture permission dialog layout
+summary: Content layout for the automatic picture-in-picture permission dialog with an icon, title text, and a container for buttons.
+-->
+
 <merge xmlns:android="http://schemas.android.com/apk/res/android">
 
     <ImageView

@@ -13,4 +13,10 @@ found in the LICENSE file.
     See http://www.chromium.org/developers/design-documents/ui-localization
 -->
 
+<!--docerion
+type: config
+title: Empty strings placeholder
+summary: Intentionally empty resources file that directs developers to add Chrome Android strings in android_chrome_strings.grd instead of here.
+-->
+
 <resources/>

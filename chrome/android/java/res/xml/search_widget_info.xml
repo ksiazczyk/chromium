@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Search widget info
+summary: App widget provider metadata describing the Chrome search widget's minimum size, layout, preview, resize mode, and daily update period.
+-->
+
 <!-- This widget automatically updates once per day, and whenever Chrome starts up. -->
 <appwidget-provider
     xmlns:android="http://schemas.android.com/apk/res/android"

@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Night mode drawable resources for Chrome Android
+summary: Maps the shared clipboard zero state drawable to its dark theme variant for Chrome for Android.
+-->
+
 <resources>
     <drawable name="shared_clipboard_zero_state">@drawable/shared_clipboard_zero_state_dark</drawable>
 </resources>

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android v31 theme style overrides for Chromium
+summary: Defines Android 12+ theme resources, including a Material 3 expressive widget theme and webapp theme tweaks that disable translucency to prevent black flashes during activity transitions.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="Theme.Chromium.Widget" parent="Theme.Material3Expressive.DynamicColors.DayNight" />
 

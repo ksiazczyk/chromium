@@ -4,6 +4,13 @@ Copyright 2020 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Context menu chip layout
+summary: Layout for a ChipView styled as a chip shown alongside the context menu.
+-->
+
 <org.chromium.components.browser_ui.widget.chips.ChipView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/context_menu_chip"

@@ -5,4 +5,10 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Fade transition resource
+summary: Android XML resource defining a default fade transition used for UI animations in Chrome for Android.
+-->
+
 <fade/>

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Reader mode bottom sheet layout
+summary: Layout for the reader mode bottom sheet with a title and a container that hosts reader controls.
+-->
+
 <org.chromium.chrome.browser.dom_distiller.ReaderModeBottomSheetView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

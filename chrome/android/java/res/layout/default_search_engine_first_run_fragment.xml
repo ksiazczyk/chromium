@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Default search engine first run fragment layout
+summary: Layout presenting default search engine choices as radio buttons during the first-run experience, with a footer and confirm button.
+-->
+
 <!-- Layout used to present a set of default search engines to the user. -->
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"

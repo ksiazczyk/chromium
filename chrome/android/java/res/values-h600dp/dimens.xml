@@ -4,6 +4,13 @@ Copyright 2013 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Incognito NTP dimension for h600dp
+summary: Android resource XML defining the incognito_ntp_total_space_between_views dimension (21sp) applied when screen height is at least 600dp in Chromium for Android.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Incognito NTP -->
     <dimen name="incognito_ntp_total_space_between_views">21sp</dimen>

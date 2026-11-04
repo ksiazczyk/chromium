@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Themed app icon vector drawable
+summary: Android vector drawable XML that defines the themed Chrome app icon as a 90dp vector graphic with a clip path and black logo paths.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="90dp"
     android:height="90dp"

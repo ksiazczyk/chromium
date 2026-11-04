@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bookmark widget empty item layout
+summary: Android layout for the bookmark widget's empty state, showing a centered clickable message when no bookmarks are available.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/empty_item_container"

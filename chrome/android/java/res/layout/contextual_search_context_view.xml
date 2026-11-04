@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Contextual Search context view layout
+summary: Android layout showing the selected text and surrounding context text in the Contextual Search bar.
+-->
+
 <!-- Contextual Search search context view. -->
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"

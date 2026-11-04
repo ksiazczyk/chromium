@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Autofill expiration date fix flow layout
+summary: Android layout with month and year input fields for correcting a credit card's expiration date in the fix flow.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

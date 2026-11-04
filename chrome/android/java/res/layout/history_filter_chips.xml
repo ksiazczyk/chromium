@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: History filter chips layout
+summary: Android layout with a horizontally scrolling row of history filter chips for app, host, client, and actor, plus a hidden reset filters button.
+-->
+
 <HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"

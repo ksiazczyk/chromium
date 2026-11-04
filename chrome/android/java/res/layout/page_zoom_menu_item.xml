@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Page zoom menu item layout
+summary: Layout for the page zoom menu item with zoom in and out buttons, a percentage label and a fullscreen control.
+-->
+
 <org.chromium.chrome.browser.accessibility.PageZoomMenuItemView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: HDPI dimension resources for the location bar
+summary: Defines the hdpi-specific dimension location_bar_status_separator_width (0.5dp) used by the Android location bar UI.
+-->
+
 <resources>
     <!-- Location bar -->
     <dimen name="location_bar_status_separator_width">0.5dp</dimen>

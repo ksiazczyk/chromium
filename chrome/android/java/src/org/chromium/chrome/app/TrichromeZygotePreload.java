@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trichrome Zygote preload class
+// summary: Java class extending ZygotePreload that decides whether to use the Chromium linker during Trichrome app zygote preload based on product config and RELRO handling.
+// ---
+
 package org.chromium.chrome.app;
 
 import android.content.pm.ApplicationInfo;

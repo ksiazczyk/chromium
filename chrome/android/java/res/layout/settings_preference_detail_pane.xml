@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Settings preference detail pane layout
+summary: Layout for the settings detail pane in the two-pane UI, containing a scrollable title area and a fragment container for preference content.
+-->
+
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/preferences_detail_pane"

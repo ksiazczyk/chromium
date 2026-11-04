@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Contextual Search quick action icon view layout
+summary: Android layout defining an ImageView that shows a quick action icon in the Contextual Search bar.
+-->
+
 <!-- Contextual Search image view. -->
 <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/contextual_search_quick_action_icon_view"

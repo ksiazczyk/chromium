@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Context menu row layout
+summary: Row layout for a context menu item with an optional start icon, title text, and a quick share app icon.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"

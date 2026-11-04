@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Bookmark bar layout
+summary: Layout for the bookmark bar view, holding the items recycler view, overflow button, divider, all-bookmarks button and a bottom hairline.
+-->
+
 <org.chromium.chrome.browser.bookmarks.bar.BookmarkBar
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/bookmark_bar_view"

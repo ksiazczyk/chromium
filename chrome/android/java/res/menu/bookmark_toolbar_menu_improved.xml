@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Improved bookmark toolbar menu
+summary: Android menu XML for the improved bookmark toolbar, offering sort and view options, edit, create folder, and close actions, plus selection-mode edit, move, delete, and open actions.
+-->
+
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto" >
     <group android:id="@+id/normal_menu_group" >

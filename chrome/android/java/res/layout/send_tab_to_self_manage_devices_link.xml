@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Send tab to self manage devices link layout
+summary: Merge layout providing an account avatar image and a text link for managing devices in the send-tab-to-self UI.
+-->
+
 <merge xmlns:android="http://schemas.android.com/apk/res/android">
 
     <org.chromium.components.browser_ui.widget.RoundedCornerImageView

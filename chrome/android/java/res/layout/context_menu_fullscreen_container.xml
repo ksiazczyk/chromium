@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Context menu fullscreen container layout
+summary: Fullscreen container that lazily inflates the context menu via a ViewStub and anchors an optional chip popup.
+-->
+
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/context_menu_layout"

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Custom tabs drag handle view layout
+summary: Android layout for the partial custom tab drag handle, containing the drag bar, content background, and an accessible drag handle image.
+-->
+
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

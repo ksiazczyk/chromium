@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Autofill server data label layout
+summary: Android layout for an icon indicating where an autofill card or profile is stored, displaying the Google Pay image with an accessibility label.
+-->
+
 <!-- Layout for icon that indicates where an autofill card or profile is stored. -->
 <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
