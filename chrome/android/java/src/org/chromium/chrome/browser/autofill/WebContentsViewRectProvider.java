@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents visible rect provider
+// summary: Computes a WebContents' visible rect from browser controls, keyboard accessory and bottom inset suppliers.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import android.graphics.Rect;

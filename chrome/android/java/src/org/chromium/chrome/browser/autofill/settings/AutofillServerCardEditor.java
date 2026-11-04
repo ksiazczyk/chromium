@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server credit card editor for autofill settings
+// summary: Fragment editing server-saved credit cards, including virtual card enrollment and unenrollment actions with histogram logging.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

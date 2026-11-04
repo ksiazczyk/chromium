@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the browser package
+summary: OWNERS rule delegating review of DefaultBrowser* files to the default browser promo OWNERS file.

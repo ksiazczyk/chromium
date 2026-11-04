@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PeriodicBackgroundSyncChromeWakeUpTask
+// summary: Services periodic Background Sync wake-up tasks, verifying network connectivity, recording wakeup delay metrics, and firing ready periodic sync events via native code.
+// ---
+
 package org.chromium.chrome.browser.background_sync;
 
 import android.content.Context;

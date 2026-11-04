@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillFallbackSurfaceLauncher
+// summary: Helper that opens Google Wallet and help-center pages from the autofill fallback surface such as the manual filling UI.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import android.content.Context;

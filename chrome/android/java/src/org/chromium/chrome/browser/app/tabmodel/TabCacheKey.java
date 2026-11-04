@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCacheKey
+// summary: Key abstraction identifying storage and preloading entries in the tab cache, combining a tag identifier with an incognito flag.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.chrome.browser.tabpersistence.TabStateFileManager.FLATBUFFER_PREFIX;

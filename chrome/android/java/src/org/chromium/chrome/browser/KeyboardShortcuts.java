@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App-level keyboard shortcuts for Chrome on Android
+// summary: Implements app-level keyboard shortcuts for ChromeTabbedActivity and DocumentActivity, mapping key combinations to actions and recording usage metrics.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.base.ui.KeyboardUtils.ALT;

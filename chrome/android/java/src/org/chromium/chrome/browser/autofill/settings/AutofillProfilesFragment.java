@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill address profiles settings fragment
+// summary: Settings fragment letting users view, edit, create, and delete saved autofill address profiles, wired to PersonalDataManager updates.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

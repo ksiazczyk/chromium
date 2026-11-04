@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combined restorer for regular and incognito tabs
+// summary: Wraps the regular and incognito tab restorers and emits combined delegate signals once both finish loading, cancelling, or restoring.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

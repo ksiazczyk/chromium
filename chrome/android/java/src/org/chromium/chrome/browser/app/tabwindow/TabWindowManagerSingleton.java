@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabWindowManagerSingleton
+// summary: Glue-level singleton that creates and exposes the TabWindowManager instance, with hooks for overriding the selector factory in tests.
+// ---
+
 package org.chromium.chrome.browser.app.tabwindow;
 
 import org.chromium.base.ResettersForTesting;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Chrome browser package
+summary: Defines include rules restricting direct use of ChromeActivity classes, with per-file exceptions listed under specific_include_rules.

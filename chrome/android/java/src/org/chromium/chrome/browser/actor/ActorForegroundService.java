@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor foreground service wrapper
+// summary: SplitCompatService wrapper that loads ActorForegroundServiceImpl to run the foreground service managing actor tasks.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import org.chromium.base.SplitCompatService;

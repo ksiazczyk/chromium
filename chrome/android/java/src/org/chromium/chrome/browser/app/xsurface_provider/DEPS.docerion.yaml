@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for xsurface_provider
+summary: Defines the include rules that allow the xsurface_provider directory to depend on chrome/browser/xsurface/android.

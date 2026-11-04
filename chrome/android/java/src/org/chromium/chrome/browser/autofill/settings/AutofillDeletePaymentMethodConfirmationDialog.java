@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete payment method confirmation dialog
+// summary: Modal dialog asking the user to confirm deletion of a saved payment method and reporting the outcome via callback.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

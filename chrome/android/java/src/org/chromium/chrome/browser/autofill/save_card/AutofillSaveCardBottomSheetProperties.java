@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save card bottom sheet properties
+// summary: Defines the property model keys for the save card bottom sheet, such as title, card details, legal message and loading state.
+// ---
+
 package org.chromium.chrome.browser.autofill.save_card;
 
 import org.chromium.build.annotations.NullMarked;

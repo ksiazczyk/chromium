@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill VCN enrollment bottom sheet properties
+// summary: Defines the property model for the virtual card enrollment bottom sheet, including description, legal messages, issuer icon, and link-opening properties.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import android.graphics.Bitmap;

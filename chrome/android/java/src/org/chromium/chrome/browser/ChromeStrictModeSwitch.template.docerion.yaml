@@ -1,0 +1,4 @@
+# Docerion header of ChromeStrictModeSwitch.template.
+type: source
+title: ChromeStrictModeSwitch template
+summary: Template that generates a build-time switch controlling whether StrictMode checking is allowed.

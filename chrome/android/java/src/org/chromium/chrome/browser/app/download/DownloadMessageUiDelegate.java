@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download message UI delegate
+// summary: Java delegate that provides Chrome activity dependencies such as context, message dispatcher, and modal dialog manager to the download message UI controller.
+// ---
+
 package org.chromium.chrome.browser.app.download;
 
 import android.app.Activity;

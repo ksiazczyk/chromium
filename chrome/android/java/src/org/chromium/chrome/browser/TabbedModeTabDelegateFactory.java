@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab delegate factory for tabbed mode
+// summary: Supplies per-tab delegates such as context menu, share, snackbars, and browser controls for tabs owned by ChromeTabbedActivity.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.app.Activity;

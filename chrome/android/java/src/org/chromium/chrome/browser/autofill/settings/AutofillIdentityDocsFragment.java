@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI identity documents settings fragment
+// summary: Settings fragment managing the Autofill AI opt-in for identity document entity types such as passport, driver's license, and national ID card.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

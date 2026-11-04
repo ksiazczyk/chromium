@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityUtils
+// summary: Static helpers for working with Android activities, including resolving an activity from web contents, choosing the theme ID, and setting non-aliased main activity components.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.app.Activity;

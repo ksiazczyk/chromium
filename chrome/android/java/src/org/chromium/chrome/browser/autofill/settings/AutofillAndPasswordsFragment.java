@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill and Passwords settings entry fragment
+// summary: Main settings fragment serving as the entry point for Autofill and Passwords settings, linking passwords, payments, addresses, and related subpages.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

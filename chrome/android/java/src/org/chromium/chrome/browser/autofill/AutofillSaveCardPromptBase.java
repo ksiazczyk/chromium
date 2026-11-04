@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSaveCardPromptBase
+// summary: Abstract base class for autofill save-card prompts, providing dialog setup and legal message line display.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

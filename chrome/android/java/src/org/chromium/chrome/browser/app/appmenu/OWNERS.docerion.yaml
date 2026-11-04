@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the appmenu directory
+summary: OWNERS file that delegates code review ownership for the appmenu directory to the owners of chrome/browser/ui/android/appmenu.

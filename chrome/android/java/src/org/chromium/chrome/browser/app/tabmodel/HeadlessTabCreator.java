@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: HeadlessTabCreator
+// summary: TabCreator implementation for headless mode that always creates tabs as frozen or pending, never with web contents, and rejects incognito use.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import org.chromium.build.annotations.Initializer;

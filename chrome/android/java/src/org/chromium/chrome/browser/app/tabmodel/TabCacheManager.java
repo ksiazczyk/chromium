@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCacheManager
+// summary: Entry point and manager for tab cache storage scopes, holding the registry of directory scopes and acting as a factory for TabCache instances.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.base.ThreadUtils.assertOnUiThread;

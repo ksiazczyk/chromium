@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnchoredDialogView
+// summary: View that displays bottom sheet content in a non-blocking PopupWindow with close button, styling and positioning, intended for large form factor devices.
+// ---
+
 package org.chromium.chrome.browser.autofill.anchored_dialog;
 
 import static org.chromium.build.NullUtil.assertNonNull;

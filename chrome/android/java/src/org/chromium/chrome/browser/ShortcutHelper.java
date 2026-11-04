@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home screen shortcut helper for pages and web apps
+// summary: Adds Android home screen shortcuts that open pages in the browser or web apps in WebappActivity, handling splash images and web app registration.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

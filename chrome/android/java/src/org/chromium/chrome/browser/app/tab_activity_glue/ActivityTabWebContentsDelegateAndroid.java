@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity tab WebContents delegate for Chrome on Android
+// summary: Implements the WebContents delegate for activity-level tabs, handling fullscreen, picture-in-picture, immersive playback, popups, navigation interception and related browser controls.
+// ---
+
 package org.chromium.chrome.browser.app.tab_activity_glue;
 
 import static android.view.Display.INVALID_DISPLAY;

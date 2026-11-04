@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBackgroundTaskFactory
+// summary: Implements the BackgroundTaskFactory for //chrome, mapping task IDs to their BackgroundTask classes and setting itself as the default factory.
+// ---
+
 package org.chromium.chrome.browser.background_task_scheduler;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

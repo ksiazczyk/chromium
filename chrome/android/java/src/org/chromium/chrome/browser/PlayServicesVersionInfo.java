@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Play services version info utility
+// summary: Utility that reports the Play services SDK and installed versions and whether first-party APIs are available, exposed to native code via JNI.
+// ---
+
 package org.chromium.chrome.browser;
 
 

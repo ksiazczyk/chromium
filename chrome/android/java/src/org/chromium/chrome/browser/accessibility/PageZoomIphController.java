@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomIphController
+// summary: Controller that requests the In-Product Help bubble for the Page Zoom feature and highlights the zoom menu item while the bubble is shown.
+// ---
+
 package org.chromium.chrome.browser.accessibility;
 
 

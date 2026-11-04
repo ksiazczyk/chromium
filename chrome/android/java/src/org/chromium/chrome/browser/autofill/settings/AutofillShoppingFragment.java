@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI Shopping settings fragment
+// summary: Android settings fragment managing the Autofill AI Shopping opt-in toggle for order and shipment entities, including a search index provider for settings search.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android payment apps settings fragment
+// summary: Settings fragment that lists Android and service worker payment apps on the device and lets users manage their use in Chrome.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

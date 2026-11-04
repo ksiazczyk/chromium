@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active tab state cache for Chrome tabmodel
+// summary: Caches the active tab's state per window and model type, delegating disk persistence to TabCache with incognito encryption support.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.base.ThreadUtils.assertOnUiThread;

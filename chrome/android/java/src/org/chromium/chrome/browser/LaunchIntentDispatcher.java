@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch intent dispatcher for Chrome on Android
+// summary: Dispatches incoming launch intents to the appropriate activity, such as tabbed browsing, custom tabs or webapps, based on the current configuration.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.build.NullUtil.assertNonNull;

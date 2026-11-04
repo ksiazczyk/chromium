@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnchoredDialogCoordinator
+// summary: Public entry point of the anchored dialog UI that shows bottom sheet content in a dialog anchored to a corner of the content area, delegating to the mediator and view.
+// ---
+
 package org.chromium.chrome.browser.autofill.anchored_dialog;
 
 import android.content.Context;

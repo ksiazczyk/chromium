@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Defines code owners for the flags directory, delegating to the shared flags OWNERS file and opening ChromeCachedFlags.java to all.

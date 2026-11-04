@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save card bottom sheet view
+// summary: Inflates the save card bottom sheet layout and holds references to its title, card, buttons, legal message and loading views.
+// ---
+
 package org.chromium.chrome.browser.autofill.save_card;
 
 

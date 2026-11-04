@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShadowTabStoreValidator
+// summary: Verifies a shadow tab persistent store against the authoritative one, recording consistency metrics before cleaning up shadow resources.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import org.chromium.build.annotations.NullMarked;

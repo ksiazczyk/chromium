@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Financial accounts management settings fragment
+// summary: Settings fragment for managing financial accounts such as Pix bank accounts and e-Wallets, with toggles, account lists and usage histograms.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

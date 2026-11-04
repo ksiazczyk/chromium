@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Autofill directory metadata
+summary: Declares the Monorail component and public Buganizer component ID used for autofill issues in this directory.

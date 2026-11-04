@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification bottom sheet property keys
+// summary: Defines the property keys for the bottom sheet model, covering title, description, button labels, click callbacks, drag handle visibility, and loading state.
+// ---
+
 package org.chromium.chrome.browser.autofill.email_verification;
 
 import org.chromium.build.annotations.NullMarked;

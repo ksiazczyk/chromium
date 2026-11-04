@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialNotificationService
+// summary: Entry-point Android service that extends SplitCompatService and points to SerialNotificationServiceImpl as the implementation class for WebSerial notifications.
+// ---
+
 package org.chromium.chrome.browser.app.serial;
 
 import org.chromium.base.SplitCompatService;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill VCN enrollment bottom sheet coordinator
+// summary: Coordinates the virtual card enrollment bottom sheet, wiring the view, mediator, and property model and dispatching accept, cancel, and dismiss callbacks.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import android.content.Context;

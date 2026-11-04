@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base fragment for Autofill AI settings pages
+// summary: Abstract base fragment providing shared logic for Autofill AI leaf settings pages, including entity list rebuilding and delegate lifecycle handling.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

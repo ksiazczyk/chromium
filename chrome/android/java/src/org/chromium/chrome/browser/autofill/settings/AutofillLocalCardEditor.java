@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local credit card editor for autofill settings
+// summary: Fragment providing the editor UI for adding and editing locally saved credit cards, including expiration validation, nickname, and card scanning support.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

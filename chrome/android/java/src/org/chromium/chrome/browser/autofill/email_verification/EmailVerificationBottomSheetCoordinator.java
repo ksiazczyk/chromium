@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification bottom sheet coordinator
+// summary: Coordinates the email verification UI by wiring the view, mediator, and property model change processor, and exposes show, hide, and destroy controls.
+// ---
+
 package org.chromium.chrome.browser.autofill.email_verification;
 
 import android.content.Context;

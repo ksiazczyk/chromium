@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBaseAppCompatActivity
+// summary: Base AppCompatActivity for Chrome activities that coordinates edge-to-edge layout, night mode, toolbars, modal dialog managers, and form factor handling.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

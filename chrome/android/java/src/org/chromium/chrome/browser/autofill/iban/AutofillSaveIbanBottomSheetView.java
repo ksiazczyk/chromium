@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save IBAN bottom sheet view
+// summary: Inflates the save IBAN bottom sheet layout and exposes its views, including the nickname input, accept and cancel buttons, and legal message.
+// ---
+
 package org.chromium.chrome.browser.autofill.iban;
 
 import android.content.Context;

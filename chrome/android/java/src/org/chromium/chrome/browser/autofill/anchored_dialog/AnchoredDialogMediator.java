@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnchoredDialogMediator
+// summary: Mediator that queues and shows or hides bottom sheet content in the anchored dialog, computes the vertical offset and notifies registered bottom sheet observers.
+// ---
+
 package org.chromium.chrome.browser.autofill.anchored_dialog;
 
 import android.view.View;

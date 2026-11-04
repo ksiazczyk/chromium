@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbNotificationServiceImpl
+// summary: Implementation of the WebUSB notification service that manages notifications shown when a website is connected to a USB device.
+// ---
+
 package org.chromium.chrome.browser.app.usb;
 
 import android.content.Intent;

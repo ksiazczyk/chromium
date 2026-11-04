@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconProviderImpl
+// summary: Fetches favicons for download item URLs using an LRU memory cache backed by FaviconHelper.
+// ---
+
 package org.chromium.chrome.browser.app.download.home;
 
 

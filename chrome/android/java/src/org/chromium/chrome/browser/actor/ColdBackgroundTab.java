@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ColdBackgroundTab: lazily restored persisted Actor background tab'
+// summary: Implements BackgroundPoolTab to restore a persisted Actor tab from TabCache on demand, attaching it to a tab model, replacing its placeholder, and transferring placeholder metadata.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.chromium.build.NullUtil.assertNonNull;

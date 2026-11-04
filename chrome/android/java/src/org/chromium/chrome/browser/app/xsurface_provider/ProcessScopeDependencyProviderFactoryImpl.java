@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessScopeDependencyProviderFactoryImpl
+// summary: Implements the ProcessScopeDependencyProviderFactory service, creating a provider with the Google API key and privacy preferences manager.
+// ---
+
 package org.chromium.chrome.browser.app.xsurface_provider;
 
 import org.chromium.build.annotations.NullMarked;

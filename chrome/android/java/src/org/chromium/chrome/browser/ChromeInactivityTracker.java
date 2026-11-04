@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeInactivityTracker
+// summary: Tracks and persists the time since an activity was last backgrounded and notifies inactivity observers on foregrounding.
+// ---
+
 package org.chromium.chrome.browser;
 
 

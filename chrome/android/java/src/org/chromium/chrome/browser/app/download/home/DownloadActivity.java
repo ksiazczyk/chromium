@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadActivity
+// summary: Android activity that hosts the download manager UI, supporting incognito profiles, dialogs, and edge-to-edge display.
+// ---
+
 package org.chromium.chrome.browser.app.download.home;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reparenting delegate factory
+// summary: Creates ReparentingTask.Delegate implementations that supply compositor, window and tab delegate dependencies needed to reparent a tab.
+// ---
+
 package org.chromium.chrome.browser.app.tab_activity_glue;
 
 import org.chromium.build.annotations.NullMarked;

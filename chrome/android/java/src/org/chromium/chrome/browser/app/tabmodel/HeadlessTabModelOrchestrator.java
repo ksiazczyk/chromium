@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: HeadlessTabModelOrchestrator
+// summary: Orchestrator that sets up the tab model selector, tab creators, and authoritative plus shadow persistent stores for headless browser windows.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete saved CVCs confirmation dialog
+// summary: Modal dialog confirming whether the user wants to delete all saved CVCs and reporting the choice via callback.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

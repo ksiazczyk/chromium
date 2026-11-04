@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate for Autofill AI settings logic
+// summary: Delegate class implementing shared logic for Autofill AI settings fragments, covering entity preferences, device reauthentication, and confirmation dialogs.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

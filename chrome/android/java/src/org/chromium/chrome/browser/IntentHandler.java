@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent handling for Chrome on Android
+// summary: Parses and routes incoming Android intents for Chrome, handling extras, session and webapp metadata, and dispatching to the appropriate activity or tab launch path.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static androidx.browser.customtabs.CustomTabsIntent.EXTRA_ENABLE_EPHEMERAL_BROWSING;

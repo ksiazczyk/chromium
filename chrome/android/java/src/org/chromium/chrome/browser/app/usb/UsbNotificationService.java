@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbNotificationService
+// summary: Android service entry point that extends SplitCompatService and dispatches WebUSB notification handling to the UsbNotificationServiceImpl class.
+// ---
+
 package org.chromium.chrome.browser.app.usb;
 
 import org.chromium.base.SplitCompatService;

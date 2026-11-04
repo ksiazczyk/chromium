@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask prompt JNI bridge
+// summary: JNI glue that connects the native CardUnmaskPromptViewAndroid object to the Java CardUnmaskPrompt dialog.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import android.app.Activity;

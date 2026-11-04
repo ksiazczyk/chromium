@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Stub browser controls state provider for headless mode
+// summary: Stub BrowserControlsStateProvider for headless mode that returns zero heights and offsets since no browser controls exist.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import org.chromium.build.annotations.NullMarked;

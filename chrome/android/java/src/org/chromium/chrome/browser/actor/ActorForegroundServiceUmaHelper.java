@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor foreground service UMA helper
+// summary: Records UMA histograms for the actor foreground service lifecycle, stop reasons, and total duration.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import androidx.annotation.IntDef;

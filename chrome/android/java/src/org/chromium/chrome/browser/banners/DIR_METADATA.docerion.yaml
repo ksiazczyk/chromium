@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the banners directory
+summary: Points to the shared chrome/browser/banners COMMON_METADATA mixin so the Android banners directory inherits its metadata.

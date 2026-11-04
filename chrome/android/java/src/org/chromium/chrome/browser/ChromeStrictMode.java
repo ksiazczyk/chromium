@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeStrictMode
+// summary: Sets up application-level StrictMode violation reporting, sampling and uploading a capped number of stack traces per session.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.os.Looper;

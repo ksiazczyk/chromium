@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkFolderPickerActivity
+// summary: Android activity for the improved bookmarks manager that lets the user pick a parent folder for given bookmarks, reporting picker outcome metrics.
+// ---
+
 package org.chromium.chrome.browser.app.bookmarks;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

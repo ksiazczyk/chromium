@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser state UMA recorder
+// summary: Logs the current default browser state and browser counts to UMA histograms and persists whether Chrome is the default browser.
+// ---
+
 package org.chromium.chrome.browser;
 
 

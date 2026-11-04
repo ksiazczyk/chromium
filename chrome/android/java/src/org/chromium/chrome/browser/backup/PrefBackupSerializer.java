@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for preference backup serializers
+// summary: Abstract base class that converts allowlisted PrefService entries to and from the Android backup format, with a unique encoding prefix per implementation.
+// ---
+
 package org.chromium.chrome.browser.backup;
 
 import android.util.Pair;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationRecorder
+// summary: Records page visit statistics for feed surfaces, such as time spent on a site and returns to the starting point, via tab observation.
+// ---
+
 package org.chromium.chrome.browser.app.feed;
 
 import android.os.SystemClock;

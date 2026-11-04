@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeActivity base activity for Chrome on Android
+// summary: Core Android activity class for Chrome that manages lifecycle, tabs, window and theme handling, and integrates the browser UI and services.
+// ---
+
 package org.chromium.chrome.browser.app;
 
 import static org.chromium.build.NullUtil.assertNonNull;

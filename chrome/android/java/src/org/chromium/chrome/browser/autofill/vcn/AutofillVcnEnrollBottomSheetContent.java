@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill VCN enrollment bottom sheet content
+// summary: Implements the BottomSheetContent for the virtual card number enrollment sheet, defining priority, accessibility strings, and dismissal behavior.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import android.view.View;

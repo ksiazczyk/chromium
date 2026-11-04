@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillNameFixFlowBridge
+// summary: JNI glue that connects native autofill code to the Android prompt for confirming the cardholder name before saving a card.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.chromium.build.NullUtil.assertNonNull;

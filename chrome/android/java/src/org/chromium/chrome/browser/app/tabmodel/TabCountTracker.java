@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCountTracker
+// summary: Persists per-window tab counts in shared preferences so startup can quickly determine how many tabs to restore for regular and incognito models.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import android.content.Context;

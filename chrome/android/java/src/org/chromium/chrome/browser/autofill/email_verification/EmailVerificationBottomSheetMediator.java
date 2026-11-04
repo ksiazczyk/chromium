@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification bottom sheet mediator
+// summary: Mediator that builds the property model, observes bottom sheet events, and forwards shown, accepted, and dismissed events to the coordinator delegate.
+// ---
+
 package org.chromium.chrome.browser.autofill.email_verification;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill profile editor dialog preference
+// summary: Dialog preference that launches the UI to edit, create, or delete an Autofill profile entry identified by its GUID.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

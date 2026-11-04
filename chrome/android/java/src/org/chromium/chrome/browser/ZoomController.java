@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zoom controller for WebContents
+// summary: Provides static helpers to zoom in, out, and reset WebContents using page zoom with layout reflow or visual pinch-style zoom.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.content_public.browser.HostZoomMap.AVAILABLE_ZOOM_FACTORS;

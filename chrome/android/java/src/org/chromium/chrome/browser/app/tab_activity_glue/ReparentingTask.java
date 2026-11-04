@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single tab reparenting task
+// summary: Manages reparenting a single tab between activities as tab user data, detaching it and firing an intent, with rollback if the activity launch fails.
+// ---
+
 package org.chromium.chrome.browser.app.tab_activity_glue;
 
 import android.app.Activity;

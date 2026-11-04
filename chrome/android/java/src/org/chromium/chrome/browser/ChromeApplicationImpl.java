@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeApplicationImpl
+// summary: Browser-process Application implementation that initializes fonts, dynamic feature modules, background tasks, crash reporting, and other app-level services.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.app.Application;

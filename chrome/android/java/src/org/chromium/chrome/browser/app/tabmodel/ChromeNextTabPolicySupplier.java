@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Next tab policy supplier for Chrome
+// summary: Supplies the next-tab policy, choosing locational ordering when the hub layout is visible and hierarchical ordering otherwise.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import androidx.annotation.VisibleForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save IBAN bottom sheet properties
+// summary: Defines the property keys of the save IBAN bottom sheet model, such as title, IBAN value, button labels, click actions, and legal message.
+// ---
+
 package org.chromium.chrome.browser.autofill.iban;
 
 import android.view.View.OnClickListener;

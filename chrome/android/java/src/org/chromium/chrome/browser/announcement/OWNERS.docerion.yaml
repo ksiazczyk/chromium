@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the announcement directory
+summary: OWNERS file listing the reviewer responsible for changes in the announcement package directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill edit link preference
+// summary: Android preference that renders a clickable edit link widget and forwards clicks to its preference click listener in autofill settings.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

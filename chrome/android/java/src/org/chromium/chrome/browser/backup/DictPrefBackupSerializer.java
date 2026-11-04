@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serializer for native dictionary preferences
+// summary: PrefBackupSerializer that serializes and restores native dictionary prefs, such as per-account sync selected types, through JNI.
+// ---
+
 package org.chromium.chrome.browser.backup;
 
 import org.jni_zero.JniType;

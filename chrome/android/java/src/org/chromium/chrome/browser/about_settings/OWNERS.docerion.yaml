@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for about settings
+summary: Lists the code owner responsible for reviewing changes in the about settings directory.

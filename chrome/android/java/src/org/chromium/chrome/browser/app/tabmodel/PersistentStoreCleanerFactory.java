@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentStoreCleanerFactory
+// summary: Factory that returns profile-scoped PersistentStoreCleaner instances, redirecting off-the-record profiles and supporting test overrides.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import org.chromium.base.ResettersForTesting;

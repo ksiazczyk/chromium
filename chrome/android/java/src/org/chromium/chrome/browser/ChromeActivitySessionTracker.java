@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeActivitySessionTracker
+// summary: Singleton that tracks foreground session state for Chrome activities, managing variations sessions, profile startup tasks, and related session lifecycle work.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillExpirationDateFixFlowBridge
+// summary: JNI glue that connects native autofill code to the Android prompt for fixing a card's expiration date before saving.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import android.app.Activity;

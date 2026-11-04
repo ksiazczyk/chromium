@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuPropertiesDelegateImpl
+// summary: Implementation of the app menu properties delegate that assembles Chrome Android menu items and their state, covering bookmarks, tab groups, recent tabs, sharing, translate and other menu features.
+// ---
+
 package org.chromium.chrome.browser.app.appmenu;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

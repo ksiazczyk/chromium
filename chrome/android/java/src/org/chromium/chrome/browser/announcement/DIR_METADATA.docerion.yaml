@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the announcement package
+summary: Metadata file assigning the UI>Notifications monorail component, notifications team email and Buganizer component to this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor background actuation manager
+// summary: Orchestrates background actuation of agent tasks in Chrome for Android by provisioning offscreen tabs and windows for active background sessions.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import android.app.Activity;

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA
+summary: Shared Chromium directory metadata assigning the UI>Browser>Accessibility monorail component, the clank-app team email and a Buganizer component.

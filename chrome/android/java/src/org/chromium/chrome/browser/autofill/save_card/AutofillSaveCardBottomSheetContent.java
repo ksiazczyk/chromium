@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save card bottom sheet content
+// summary: Implements the BottomSheetContent for the save card prompt, covering scrolling, priority, sheet type and accessibility strings.
+// ---
+
 package org.chromium.chrome.browser.autofill.save_card;
 
 import android.content.res.Resources;

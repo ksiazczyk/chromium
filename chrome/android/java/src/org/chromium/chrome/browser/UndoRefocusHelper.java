@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Undo refocus helper for undone tab closures
+// summary: Restores focus to the previously selected tab when a tab closure is undone, tracking closed tabs, layout state, and tablet behavior.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.build.NullUtil.assertNonNull;

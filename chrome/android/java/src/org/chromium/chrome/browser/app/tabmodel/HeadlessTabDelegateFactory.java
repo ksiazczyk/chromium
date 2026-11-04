@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: HeadlessTabDelegateFactory
+// summary: Stub TabDelegateFactory that supplies no-op or null dependencies for headless and archived tab models where real delegates do not exist.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import org.chromium.build.annotations.NullMarked;

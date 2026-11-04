@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Wallet launcher helper
+// summary: Opens the Google Wallet app when installed, otherwise falls back to Wallet pages in a Chrome custom tab.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import android.content.Context;

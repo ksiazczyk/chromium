@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group usage metrics tracker
+// summary: Records histograms of the number of tab groups across normal and incognito tab models during activity lifecycle events.
+// ---
+
 package org.chromium.chrome.browser;
 
 import org.chromium.base.CallbackController;

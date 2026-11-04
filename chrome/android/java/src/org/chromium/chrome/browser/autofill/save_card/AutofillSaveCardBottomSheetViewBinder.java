@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill save card bottom sheet view binder
+// summary: Binds property model changes to the save card bottom sheet views, including text, icons, legal message links and loading state.
+// ---
+
 package org.chromium.chrome.browser.autofill.save_card;
 
 import android.text.SpannableStringBuilder;

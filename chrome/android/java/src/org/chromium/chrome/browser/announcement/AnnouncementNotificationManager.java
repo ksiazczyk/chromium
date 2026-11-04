@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Announcement notification manager for Chrome on Android
+// summary: Java class that sends announcement notifications about Chrome updates, with a broadcast receiver handling click, close, ack and open intents, controlled by Finch.
+// ---
+
 package org.chromium.chrome.browser.announcement;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

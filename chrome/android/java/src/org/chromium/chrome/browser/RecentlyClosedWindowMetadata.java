@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recently closed window metadata for JNI callbacks
+// summary: Standalone helper class carrying tab model, timestamp and instance id for JNI calls from RecentlyClosedEntriesManager, with equality support for tests.
+// ---
+
 package org.chromium.chrome.browser;
 
 import org.jni_zero.CalledByNative;

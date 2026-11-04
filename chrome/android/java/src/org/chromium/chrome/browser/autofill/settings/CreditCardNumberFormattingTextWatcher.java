@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card number formatting text watcher
+// summary: Text watcher that formats credit card numbers with space separators as the user types, using Amex-specific grouping and disabling formatting for dashes, spaces or long numbers.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.text.Editable;

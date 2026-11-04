@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backup change watcher for Chrome preferences
+// summary: Watches backed-up Android preferences, native prefs, and sign-in changes, and signals the BackupManager whenever backed-up data changes.
+// ---
+
 package org.chromium.chrome.browser.backup;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

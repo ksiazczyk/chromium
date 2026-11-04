@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS version preference for About Chrome settings
+// summary: Android preference that shows the OS version and inflates an unsupported-OS warning when the current OS version is not supported.
+// ---
+
 package org.chromium.chrome.browser.about_settings;
 
 import android.content.Context;

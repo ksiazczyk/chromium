@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base activity with snackbar support
+// summary: Abstract base activity for lightweight standalone activities that need the native library and snackbar display, including Glic task-in-progress snackbars.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.os.Bundle;

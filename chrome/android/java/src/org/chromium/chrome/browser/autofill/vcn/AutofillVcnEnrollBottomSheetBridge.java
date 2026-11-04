@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill VCN enrollment bottom sheet bridge
+// summary: JNI bridge that connects native C++ autofill code to the Android virtual card enrollment bottom sheet, handling show requests, UI data, and callbacks.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import static org.chromium.build.NullUtil.assertNonNull;

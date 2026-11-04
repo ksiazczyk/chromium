@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the banners directory
+summary: Delegates code review ownership for the Android banners directory to the shared chrome/browser/banners OWNERS file.

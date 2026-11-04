@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask prompt dialog
+// summary: Modal Android dialog that collects a card's CVC and expiration details when unmasking a Wallet credit card.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

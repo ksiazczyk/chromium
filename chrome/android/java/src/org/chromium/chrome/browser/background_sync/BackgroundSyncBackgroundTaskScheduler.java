@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundSyncBackgroundTaskScheduler
+// summary: Singleton that schedules and cancels Chrome wake-up background tasks for one-shot and periodic Background Sync registrations, with observer notifications and task ID mapping.
+// ---
+
 package org.chromium.chrome.browser.background_sync;
 
 import android.os.PersistableBundle;

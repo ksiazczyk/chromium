@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundPoolTab interface
+// summary: Interface for tabs managed by BackgroundTabPool, abstracting whether a tab is live in memory or a cold state loaded from disk.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import org.chromium.base.lifetime.Destroyable;

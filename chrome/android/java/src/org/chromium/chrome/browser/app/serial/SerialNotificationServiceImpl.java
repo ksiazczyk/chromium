@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialNotificationServiceImpl
+// summary: Implementation of the serial notification service that manages the WebSerial notification shown when a website is connected to a serial port, delegating to SerialNotificationManager.
+// ---
+
 package org.chromium.chrome.browser.app.serial;
 
 import android.content.Intent;

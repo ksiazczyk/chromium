@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delayer for Omaha service start on foreground sessions
+// summary: Delays Omaha update service start until the app is in the foreground and the device screen is interactive, avoiding work while the device sleeps.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.content.Context;

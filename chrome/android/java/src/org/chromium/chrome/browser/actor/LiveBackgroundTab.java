@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'LiveBackgroundTab: in-memory background Actor tab wrapper'
+// summary: Wraps a live in-memory Tab held in the BackgroundTabPool, handling preparation for the foreground, window attachment, and pool cleanup when the tab is destroyed.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import android.app.Activity;

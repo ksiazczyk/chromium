@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadManagerCoordinatorFactoryHelper
+// summary: Builds and returns a DownloadManagerCoordinator configured for the download home UI, including settings and open-with handlers.
+// ---
+
 package org.chromium.chrome.browser.app.download.home;
 
 import android.app.Activity;

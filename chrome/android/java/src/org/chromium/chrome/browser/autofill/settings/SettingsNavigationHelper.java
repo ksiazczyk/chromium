@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill settings navigation helper
+// summary: Helper that launches autofill settings subpages such as passwords, identity docs, shopping, travel and personal context, recording user actions.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

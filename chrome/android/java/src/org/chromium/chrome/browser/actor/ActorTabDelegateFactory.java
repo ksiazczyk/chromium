@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab delegate factory for actor background tabs
+// summary: Supplies stripped-down tab delegates for actor background tabs, disabling external navigation, context menus, and native pages.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import org.chromium.build.annotations.NullMarked;

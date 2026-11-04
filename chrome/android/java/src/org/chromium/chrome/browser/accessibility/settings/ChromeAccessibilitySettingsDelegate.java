@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAccessibilitySettingsDelegate
+// summary: Chrome implementation of AccessibilitySettingsDelegate that supplies profile-backed preference delegates and settings navigation for the accessibility settings screen.
+// ---
+
 package org.chromium.chrome.browser.accessibility.settings;
 
 import android.content.Context;

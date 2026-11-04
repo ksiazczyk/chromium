@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reparenting task for tab groups
+// summary: Sets up and fires the Intent that moves an entire tab group to a different activity, pausing and resuming observers around detaching the grouped tabs.
+// ---
+
 package org.chromium.chrome.browser.app.tab_activity_glue;
 
 import android.content.Context;

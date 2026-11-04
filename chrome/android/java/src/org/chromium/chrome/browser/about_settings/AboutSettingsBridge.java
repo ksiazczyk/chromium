@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About settings JNI bridge
+// summary: Bridge that fetches the Chrome application version and Android OS version from native code through generated JNI bindings.
+// ---
+
 package org.chromium.chrome.browser.about_settings;
 
 
