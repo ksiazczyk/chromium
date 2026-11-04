@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for enterprise identifiers unit tests
+summary: Defines the unit_tests source set for the enterprise identifiers directory, listing the test source and dependencies, including a ChromeOS-specific dependency.

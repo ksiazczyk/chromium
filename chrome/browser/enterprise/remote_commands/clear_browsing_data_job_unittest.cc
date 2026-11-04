@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the clear browsing data job
+// summary: Tests payload parsing and execution of the clear browsing data remote command job using testing profiles.
+// ---
+
 #include "chrome/browser/enterprise/remote_commands/clear_browsing_data_job.h"
 
 #include "base/json/json_writer.h"

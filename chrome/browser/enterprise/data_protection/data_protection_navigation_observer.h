@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection navigation observer header
+// summary: Declares DataProtectionNavigationObserver, a WebContentsObserver that decides whether data protection settings like watermark text should be enabled for a navigation.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_DATA_PROTECTION_NAVIGATION_OBSERVER_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_DATA_PROTECTION_NAVIGATION_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View-source navigation throttle browser tests
+// summary: Browser tests using a mocked real-time URL lookup service to verify enterprise policy enforcement for view-source navigations.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/view_source_navigation_throttle.h"
 
 #include "base/path_service.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SSO extension metadata
+// summary: Tests lookup of supported identity providers by team and extension IDs, including unknown and mismatched identifiers.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/extensible_enterprise_sso_metadata.h"
 
 #include <algorithm>

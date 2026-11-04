@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform auth navigation throttle header
+// summary: Declares the navigation throttle class that attaches platform auth headers to requests and redirects, with state for deferral and attached header tracking.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_PLATFORM_AUTH_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_PLATFORM_AUTH_NAVIGATION_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection service factory declaration
+// summary: Declares a profile-keyed service factory that creates and supplies the enterprise HTTP header injection service for each browser profile.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_NETWORK_HEADER_INJECTION_HTTP_HEADER_INJECTION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_NETWORK_HEADER_INJECTION_HTTP_HEADER_INJECTION_SERVICE_FACTORY_H_
 

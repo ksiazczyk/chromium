@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS Entra SSO authorization controller delegate
+// summary: Declares the Objective-C delegate that performs Apple Extensible Enterprise SSO requests to Microsoft Entra and returns authentication headers.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_EXTENSIBLE_ENTERPRISE_SSO_ENTRA_H_
 #define CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_EXTENSIBLE_ENTERPRISE_SSO_ENTRA_H_
 

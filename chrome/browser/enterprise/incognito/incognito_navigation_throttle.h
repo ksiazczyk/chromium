@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoNavigationThrottle class header
+// summary: Declares the navigation throttle class that blocks Incognito navigation unless mandatory extensions from policy are installed and allowed to run.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_INCOGNITO_INCOGNITO_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_ENTERPRISE_INCOGNITO_INCOGNITO_NAVIGATION_THROTTLE_H_
 

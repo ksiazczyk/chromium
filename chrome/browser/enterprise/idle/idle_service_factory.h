@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle service factory declaration
+// summary: Declares IdleServiceFactory, the profile-keyed factory providing access to the IdleService for a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_IDLE_IDLE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_IDLE_IDLE_SERVICE_FACTORY_H_
 

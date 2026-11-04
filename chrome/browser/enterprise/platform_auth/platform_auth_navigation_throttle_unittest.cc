@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform auth navigation throttle unit tests
+// summary: Unit tests verifying throttle creation, header attachment and removal, and origin filtering behavior using a mock platform auth provider and test navigation registries.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/platform_auth_navigation_throttle.h"
 
 #include <memory>

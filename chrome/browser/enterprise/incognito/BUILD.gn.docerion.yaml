@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for enterprise Incognito navigation throttle
+summary: Defines the incognito source set with its sources and dependencies, plus a non-Android browser_tests target for the throttle.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation credential rotation remote command job
+// summary: Implements the browser remote command that rotates the Device Trust attestation credential, parsing a nonce payload and reporting success, failure or cancellation.
+// ---
+
 #include "chrome/browser/enterprise/remote_commands/rotate_attestation_credential_job.h"
 
 #include "base/check.h"

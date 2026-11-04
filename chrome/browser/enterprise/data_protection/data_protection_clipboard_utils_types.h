@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard paste and copy source type declarations
+// summary: Defines BasicPasteSource, FullPasteSource and FullCopySource structs that cache clipboard endpoint data so policy checks survive source tab teardown.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_DATA_PROTECTION_CLIPBOARD_UTILS_TYPES_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_DATA_PROTECTION_CLIPBOARD_UTILS_TYPES_H_
 

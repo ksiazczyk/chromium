@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SAML response parser implementation
+// summary: Implements SAMLResponseParser, which decodes a SAML response embedded in a web page body and extracts requested attributes by depth-first searching the parsed XML.
+// ---
+
 #include "chrome/browser/enterprise/profile_management/saml_response_parser.h"
 
 #include <string>

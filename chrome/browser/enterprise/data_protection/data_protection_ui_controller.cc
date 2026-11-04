@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection UI controller implementation
+// summary: Implements the browser-level data protection UI controller that applies watermark settings and screenshot policy to contents views.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_ui_controller.h"
 
 #include <algorithm>

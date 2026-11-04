@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Attestation credential rotation job unit tests
+// summary: Parameterized unit tests verifying the rotation job parses nonce payloads and conveys successful, failed and feature-disabled rotation outcomes.
+// ---
+
 #include "chrome/browser/enterprise/remote_commands/rotate_attestation_credential_job.h"
 
 #include "base/functional/callback.h"

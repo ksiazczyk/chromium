@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeRulesService implementation
+// summary: Implements the desktop rules service that computes print and clipboard paste verdicts from data controls rules, including conversion of clipboard endpoints into action contexts.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/chrome_rules_service.h"
 
 #include "base/memory/ptr_util.h"

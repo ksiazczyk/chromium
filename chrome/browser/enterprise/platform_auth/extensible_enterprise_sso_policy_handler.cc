@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensible Enterprise SSO policy handler implementation
+// summary: Implements the policy handler that applies the ExtensibleEnterpriseSSOBlocklist policy to compute which identity providers remain enabled and sets the related prefs.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/extensible_enterprise_sso_policy_handler.h"
 
 #include <memory>

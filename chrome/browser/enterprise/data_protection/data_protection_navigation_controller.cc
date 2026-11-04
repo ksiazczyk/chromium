@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection navigation controller implementation
+// summary: Applies per-tab data protection settings from Safe Browsing verdicts, managing watermark text and screenshot protection state across navigations.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_navigation_controller.h"
 
 #include <algorithm>

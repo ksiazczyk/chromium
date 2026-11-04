@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard policy unit tests
+// summary: Unit tests for paste, copy and drop policy checks using a mock data transfer policy controller and test clipboard metadata.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_clipboard_utils.h"
 
 #include <variant>

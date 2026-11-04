@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP header injection URL loader header client unit tests
+// summary: Unit tests verifying that the URL loader header client forwards loader creation and CORS preflight events to the target client while injecting headers.
+// ---
+
 #include "chrome/browser/enterprise/network_header_injection/http_header_injection_url_loader_header_client.h"
 
 #include "base/run_loop.h"

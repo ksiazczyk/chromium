@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension update check remote command job implementation
+// summary: Implements the BROWSER_EXTENSION_UPDATE_CHECK remote command that triggers an extension update check for a target profile.
+// ---
+
 #include "chrome/browser/enterprise/remote_commands/extension_update_check_job.h"
 
 #include <optional>

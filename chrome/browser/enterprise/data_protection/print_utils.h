@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print policy scanning utilities header
+// summary: Declares PrintIfAllowedByPolicy and the PrintScanningContext enum that controls at which point in each print workflow content scanning occurs.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_PRINT_UTILS_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_PRINT_UTILS_H_
 

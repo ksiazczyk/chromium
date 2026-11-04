@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the SAML response parser
+// summary: Unit tests verifying that SAMLResponseParser extracts requested attributes from valid SAML responses and returns empty results for empty or invalid input.
+// ---
+
 #include "chrome/browser/enterprise/profile_management/saml_response_parser.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android data controls dialog class declaration
+// summary: Declares the Android DataControlsDialog subclass built with the modal dialog manager.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_ANDROID_DATA_CONTROLS_DIALOG_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_ANDROID_DATA_CONTROLS_DIALOG_H_
 

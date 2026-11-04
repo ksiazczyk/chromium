@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDlpRulesManager implementation
+// summary: Implements the desktop DLP rules manager that matches URLs against DataLeakPrevention policies to compute restriction levels for printing, screenshots, screen sharing, clipboard and file transfers.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/chrome_dlp_rules_manager.h"
 
 #include "base/feature_list.h"

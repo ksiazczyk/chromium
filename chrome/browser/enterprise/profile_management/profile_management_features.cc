@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile management feature flags
+// summary: Defines feature flags and feature parameters controlling OIDC-based enterprise profile enrollment behavior, including stub values and timeouts.
+// ---
+
 #include "chrome/browser/enterprise/profile_management/profile_management_features.h"
 
 namespace profile_management::features {

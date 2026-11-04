@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OIDC auth response capture navigation throttle browser tests
+// summary: Browser tests for the OIDC auth response capture throttle, covering header interception, feature states, and enrollment metrics.
+// ---
+
 #include "chrome/browser/enterprise/profile_management/oidc_auth_response_capture_navigation_throttle.h"
 
 #include <memory>

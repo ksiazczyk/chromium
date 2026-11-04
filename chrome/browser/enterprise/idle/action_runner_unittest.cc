@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action runner unit tests
+// summary: Unit tests verifying that idle timeout actions run in sequence by priority and that failures abort remaining actions.
+// ---
+
 #include "chrome/browser/enterprise/idle/action_runner.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection overlay view header
+// summary: Declares DataProtectionOverlayView, a views::View that renders watermark text or paint records as a translucent overlay on top of other views.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_DATA_PROTECTION_OVERLAY_VIEW_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_DATA_PROTECTION_OVERLAY_VIEW_H_
 

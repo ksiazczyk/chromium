@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopDataControlsDialog browser tests
+// summary: Browser tests for the desktop data controls dialog verifying dialog construction, button behavior, dismissal and close timing.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/desktop_data_controls_dialog.h"
 
 #include "base/functional/callback_helpers.h"

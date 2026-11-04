@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paste allowed request implementation
+// summary: Implements tracking and caching of clipboard paste-allowed requests keyed by render frame host and clipboard sequence number.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/paste_allowed_request.h"
 
 #include "chrome/browser/enterprise/data_protection/data_protection_clipboard_utils.h"

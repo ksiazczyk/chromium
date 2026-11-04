@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform auth policy observer header
+// summary: Declares an observer that monitors the preference backed by administrative policy controlling SSO and applies its value to the platform authentication manager.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_PLATFORM_AUTH_POLICY_OBSERVER_H_
 #define CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_PLATFORM_AUTH_POLICY_OBSERVER_H_
 

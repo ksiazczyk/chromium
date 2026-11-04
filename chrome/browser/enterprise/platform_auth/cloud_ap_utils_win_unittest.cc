@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AppendRegistryOrigins
+// summary: Tests extraction of origins from single and multi-string registry values, including appending and ignoring invalid entries.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/cloud_ap_utils_win.h"
 
 #include <windows.h>

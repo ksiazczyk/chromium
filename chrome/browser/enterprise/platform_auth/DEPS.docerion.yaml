@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for platform_auth
+summary: Allows this directory to include the OCMock header used for Objective-C testing.

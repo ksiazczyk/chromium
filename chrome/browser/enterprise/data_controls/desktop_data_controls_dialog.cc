@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopDataControlsDialog implementation
+// summary: Implements the views-based desktop data controls dialog, including warning and block variants for clipboard paste, copy and drag with enterprise icon and button styling.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/desktop_data_controls_dialog.h"
 
 #include "components/constrained_window/constrained_window_views.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache encryption provider implementation
+// summary: Implements the CacheEncryptionProvider mojo interface, retrieving, validating, re-encrypting or freshly generating the AES-256 cache encryption key via OSCrypt Async and logging metrics.
+// ---
+
 #include "chrome/browser/enterprise/encryption/cache_encryption_provider_impl.h"
 
 #include "base/memory/scoped_refptr.h"

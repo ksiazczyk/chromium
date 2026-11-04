@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action runner implementation
+// summary: Implements sequential, priority-ordered execution of idle timeout actions and records success and timing metrics.
+// ---
+
 #include "chrome/browser/enterprise/idle/action_runner.h"
 
 #include <algorithm>

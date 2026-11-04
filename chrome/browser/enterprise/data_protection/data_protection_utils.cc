@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection URL utilities implementation
+// summary: Implements GetOriginalUrl, which maps distilled page URLs back to their source URLs for data protection checks.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_utils.h"
 
 #include "base/logging.h"

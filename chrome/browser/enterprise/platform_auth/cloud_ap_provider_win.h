@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Cloud AP auth provider class declaration
+// summary: Declares CloudApProviderWin, a PlatformAuthProvider that fetches origins and auth data for Cloud AP SSO on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_CLOUD_AP_PROVIDER_WIN_H_
 #define CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_CLOUD_AP_PROVIDER_WIN_H_
 

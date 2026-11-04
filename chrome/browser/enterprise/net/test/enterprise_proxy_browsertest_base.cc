@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise proxy browser test base implementation
+// summary: Implements the shared browser test base that registers enterprise proxy services, sets up the identity test environment, host resolution rules, and PvD configuration helpers for proxy tests.
+// ---
+
 #include "chrome/browser/enterprise/net/test/enterprise_proxy_browsertest_base.h"
 
 #include <utility>

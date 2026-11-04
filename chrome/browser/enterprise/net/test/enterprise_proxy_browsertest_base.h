@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise proxy browser test base class header
+// summary: Declares the shared browser test base with policy setters, PvD JSON builders, service accessors, net log observation, and response overrides used by enterprise proxy browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_NET_TEST_ENTERPRISE_PROXY_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_ENTERPRISE_NET_TEST_ENTERPRISE_PROXY_BROWSERTEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise proxy tab helper delegate header
+// summary: Declares the Chrome browser-level implementation of EnterpriseProxyTabHelper::Delegate that handles sign-in for enterprise proxy flows.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_NET_ENTERPRISE_PROXY_TAB_HELPER_DELEGATE_H_
 #define CHROME_BROWSER_ENTERPRISE_NET_ENTERPRISE_PROXY_TAB_HELPER_DELEGATE_H_
 

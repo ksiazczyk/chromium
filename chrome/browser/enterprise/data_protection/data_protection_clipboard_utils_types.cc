@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard paste and copy source type implementations
+// summary: Implements cached paste and copy source snapshots, including equality checks and caching helpers for asynchronous clipboard policy checks.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_clipboard_utils_types.h"
 
 #include "base/strings/utf_string_conversions.h"

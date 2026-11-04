@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection page user data implementation
+// summary: Implements per-page user data that stores data protection settings, combining RT lookup responses and data controls screenshot permissions.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_page_user_data.h"
 
 #include "base/no_destructor.h"

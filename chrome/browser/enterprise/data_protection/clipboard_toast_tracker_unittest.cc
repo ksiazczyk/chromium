@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard toast tracker unit tests
+// summary: Unit tests for per-profile tracker creation, initial toast visibility and recording of shown toast types.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/clipboard_toast_tracker.h"
 
 #include "base/memory/raw_ptr.h"

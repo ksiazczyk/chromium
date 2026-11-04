@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enterprise net build targets
+summary: GN build file defining the net source set and platform browser test targets for enterprise proxy networking, with ChromeOS-conditional test sources and dependencies.

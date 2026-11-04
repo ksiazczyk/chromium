@@ -1,0 +1,4 @@
+# Docerion header of extensible_enterprise_sso_entra_unittest.mm.
+type: test
+title: Unit tests for the macOS Entra SSO delegate
+summary: OCMock-based unit tests for request creation and header extraction of the macOS Entra SSO controller delegate.

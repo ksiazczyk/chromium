@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform auth navigation throttle implementation
+// summary: Implements a navigation throttle that defers requests to fetch platform auth headers from the provider manager, attaches them, and removes them on redirects.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/platform_auth_navigation_throttle.h"
 
 #include "chrome/browser/enterprise/platform_auth/platform_auth_provider_manager.h"

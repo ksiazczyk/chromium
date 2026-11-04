@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeRulesService and factory declaration
+// summary: Declares ChromeRulesService, the desktop RulesServiceBase implementation providing print and paste verdicts, together with its profile-keyed service factory.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_CHROME_RULES_SERVICE_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_CHROME_RULES_SERVICE_H_
 

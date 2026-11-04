@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensible Enterprise SSO policy handler class declaration
+// summary: Declares the schema-validating policy handler that translates the Extensible Enterprise SSO blocklist policy into preference values.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_EXTENSIBLE_ENTERPRISE_SSO_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_EXTENSIBLE_ENTERPRISE_SSO_POLICY_HANDLER_H_
 

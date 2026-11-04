@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android data controls dialog factory implementation
+// summary: Creates Android dialogs and shows a toast instead of a dialog for blocked clipboard actions.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/android_data_controls_dialog_factory.h"
 
 #include "base/memory/singleton.h"

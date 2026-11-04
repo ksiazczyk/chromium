@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User remote commands factory implementation
+// summary: Builds remote command jobs for user policies, mapping clear browsing data and, on desktop platforms, extension update check command types to their job classes.
+// ---
+
 #include "chrome/browser/enterprise/remote_commands/user_remote_commands_factory.h"
 
 #include "base/notreached.h"

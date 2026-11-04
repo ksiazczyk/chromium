@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard source type unit tests
+// summary: Unit tests covering default values, URL handling, equality and copy/move semantics of the clipboard paste and copy source structs.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_clipboard_utils_types.h"
 
 #include <optional>

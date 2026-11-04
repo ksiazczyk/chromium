@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection overlay view implementation
+// summary: Implements the views overlay that draws a repeated enterprise watermark text block over web content and repaints only when the watermark changes.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_overlay_view.h"
 
 #include <math.h>

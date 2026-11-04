@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation credential rotation job declaration
+// summary: Declares the remote command job that rotates the device's existing attestation credential through the Device Trust key manager.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REMOTE_COMMANDS_ROTATE_ATTESTATION_CREDENTIAL_JOB_H_
 #define CHROME_BROWSER_ENTERPRISE_REMOTE_COMMANDS_ROTATE_ATTESTATION_CREDENTIAL_JOB_H_
 

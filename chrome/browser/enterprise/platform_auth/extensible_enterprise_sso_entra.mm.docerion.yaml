@@ -1,0 +1,4 @@
+# Docerion header of extensible_enterprise_sso_entra.mm.
+type: source
+title: macOS Entra SSO authorization controller implementation
+summary: Implements fetching Entra SSO cookie responses on macOS and converting PRT and device headers into HTTP authentication headers.

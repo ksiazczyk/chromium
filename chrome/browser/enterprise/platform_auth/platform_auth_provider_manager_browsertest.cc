@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform auth provider manager browser tests
+// summary: Browser tests verifying that the platform auth manager supplies SSO auth data with and without origin filtering using a mock provider.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/platform_auth_provider_manager.h"
 
 #include "base/synchronization/lock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise proxy browser test for dynamic routing and authentication
+// summary: End-to-end browser test verifying that multiple ProxyProvisioningDomains configs route navigation to the matching proxy and authenticate with profile ID and OAuth bearer token credentials.
+// ---
+
 #include "base/base64.h"
 #include "base/run_loop.h"
 #include "base/strings/escape.h"

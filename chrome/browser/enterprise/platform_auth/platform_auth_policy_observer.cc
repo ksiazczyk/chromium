@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform auth policy observer implementation
+// summary: Registers and watches the per-platform SSO policy preference and enables or disables the platform auth provider manager, including Mac-specific IdP prefs handling.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/platform_auth_policy_observer.h"
 
 #include <stdint.h>

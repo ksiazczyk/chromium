@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection utilities declaration
+// summary: Declares helper functions that install enterprise header injection clients for network loaders and WebSocket connections when policy rules exist.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_NETWORK_HEADER_INJECTION_HTTP_HEADER_INJECTION_UTILS_H_
 #define CHROME_BROWSER_ENTERPRISE_NETWORK_HEADER_INJECTION_HTTP_HEADER_INJECTION_UTILS_H_
 

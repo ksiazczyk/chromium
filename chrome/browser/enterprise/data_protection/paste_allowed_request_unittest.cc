@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paste allowed request unit tests
+// summary: Unit tests covering the paste allowed request lifecycle, obsolete request cleanup, and clipboard content analysis interactions.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/paste_allowed_request.h"
 
 #include "base/functional/bind.h"

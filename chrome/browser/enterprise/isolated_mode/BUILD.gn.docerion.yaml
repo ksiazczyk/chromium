@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for isolated_mode
+summary: Defines the isolated_mode source set with its source files and build dependencies for the browser-side isolated mode code.

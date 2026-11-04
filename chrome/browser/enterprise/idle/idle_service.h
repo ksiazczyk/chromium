@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle service class declaration
+// summary: Declares the IdleService keyed service that monitors the IdleTimeout policy value, listens for idle events, and closes idle profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_IDLE_IDLE_SERVICE_H_
 #define CHROME_BROWSER_ENTERPRISE_IDLE_IDLE_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of the data controls dialog
+// summary: Shows tab-modal data controls dialogs on Android with warn and block button labels and callbacks.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/android_data_controls_dialog.h"
 
 #include "base/functional/callback.h"

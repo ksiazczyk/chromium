@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the cache encryption provider
+// summary: Tests CacheEncryptionProviderImpl key retrieval, decryption failure handling and new key generation using a mocked OSCrypt Async and test encryptors.
+// ---
+
 #include "chrome/browser/enterprise/encryption/cache_encryption_provider_impl.h"
 
 #include <optional>

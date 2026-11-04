@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard policy browser tests
+// summary: Browser tests verifying clipboard paste, copy and drop policy enforcement, bypassable warnings, toasts and reporting for enterprise data protection.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_clipboard_utils.h"
 
 #include "base/functional/bind.h"

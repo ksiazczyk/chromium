@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard toast tracker implementation
+// summary: Implements per-profile tracking of shown copy toasts and a helper that shows enterprise copy audit or managed-Chrome toasts once per session.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/clipboard_toast_tracker.h"
 
 #include <memory>

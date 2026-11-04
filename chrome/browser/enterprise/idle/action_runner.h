@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action runner header
+// summary: Declares ActionRunner, which runs the actions from the IdleTimeoutActions policy one by one for each profile.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_IDLE_ACTION_RUNNER_H_
 #define CHROME_BROWSER_ENTERPRISE_IDLE_ACTION_RUNNER_H_
 

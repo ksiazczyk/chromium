@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the data controls directory
+summary: Maps the directory to the Enterprise DLP component in Monorail and Buganizer for issue routing.

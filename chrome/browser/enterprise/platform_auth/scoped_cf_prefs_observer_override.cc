@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped CF preferences observer override
+// summary: Test helper that temporarily replaces CFPreferencesObserver creation in the Extensible Enterprise SSO prefs handler.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/scoped_cf_prefs_observer_override.h"
 
 #include "base/check_is_test.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Data protection directory owners
+summary: Lists code owners and the cep-review alias for reviewing changes in the data_protection directory.

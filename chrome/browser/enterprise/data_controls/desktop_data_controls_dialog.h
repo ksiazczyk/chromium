@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopDataControlsDialog declaration
+// summary: Declares DesktopDataControlsDialog, the views-based desktop implementation of DataControlsDialog, with a test observer for validating dialog behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_DESKTOP_DATA_CONTROLS_DIALOG_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_DESKTOP_DATA_CONTROLS_DIALOG_H_
 

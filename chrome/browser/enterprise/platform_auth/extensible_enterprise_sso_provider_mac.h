@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Extensible Enterprise SSO provider for macOS declaration
+// summary: Declares the macOS platform auth provider that obtains authentication data from Extensible Enterprise SSO extensions installed on the device.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_EXTENSIBLE_ENTERPRISE_SSO_PROVIDER_MAC_H_
 #define CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_EXTENSIBLE_ENTERPRISE_SSO_PROVIDER_MAC_H_
 

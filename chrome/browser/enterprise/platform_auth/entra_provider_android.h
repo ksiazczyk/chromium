@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Entra SSO platform auth provider
+// summary: Declares the Android platform auth provider that fetches Entra SSO authentication headers via the OS broker, with result, status, and header-skip enums.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_ENTRA_PROVIDER_ANDROID_H_
 #define CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_ENTRA_PROVIDER_ANDROID_H_
 

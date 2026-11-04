@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxying URL loader factory header
+// summary: Declares HttpHeaderInjectionProxyingURLLoaderFactory, which intercepts loader factory creation to enable header injection after extensions.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_NETWORK_HEADER_INJECTION_HTTP_HEADER_INJECTION_PROXYING_URL_LOADER_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_NETWORK_HEADER_INJECTION_HTTP_HEADER_INJECTION_PROXYING_URL_LOADER_FACTORY_H_
 

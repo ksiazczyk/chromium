@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for HTTP header injection policy
+// summary: Browser tests verifying that the HttpHeaderInjection policy injects configured headers into requests handled by an embedded test server.
+// ---
+
 #include "base/strings/string_util.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/values.h"

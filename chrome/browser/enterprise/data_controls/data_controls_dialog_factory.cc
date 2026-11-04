@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataControlsDialogFactory implementation
+// summary: Implements shared dialog-showing logic that tracks open data controls dialogs per WebContents and type so redundant dialogs are not shown.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/data_controls_dialog_factory.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock platform auth provider implementation
+// summary: Implements the GoogleMock-based mock of PlatformAuthProvider used as a test stand-in.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/mock_platform_auth_provider.h"
 
 namespace enterprise_auth {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection URL loader header client implementation
+// summary: Implements the TrustedURLLoaderHeaderClient that intercepts URL loader creation, including CORS preflight, and binds header injection clients.
+// ---
+
 #include "chrome/browser/enterprise/network_header_injection/http_header_injection_url_loader_header_client.h"
 
 #include "base/check.h"

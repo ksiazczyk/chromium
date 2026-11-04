@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for enterprise platform_auth
+summary: Defines source sets and platform-specific unit and browser test targets for the enterprise platform auth feature.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard data protection interactive UI tests
+// summary: Interactive browser tests covering data protection integration with Chrome's clipboard logic, including focus handling and print preview scenarios.
+// ---
+
 #include "ui/base/clipboard/clipboard.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP reporting manager implementation
+// summary: Implements the manager that converts data control rule levels and restrictions into DLP policy events and queues them for enterprise reporting.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/dlp_reporting_manager.h"
 
 #include <memory>

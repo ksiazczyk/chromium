@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection client header
+// summary: Declares HttpHeaderInjectionClient, a TrustedHeaderClient that can proxy a target client while applying enterprise header injection.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_NETWORK_HEADER_INJECTION_HTTP_HEADER_INJECTION_CLIENT_H_
 #define CHROME_BROWSER_ENTERPRISE_NETWORK_HEADER_INJECTION_HTTP_HEADER_INJECTION_CLIENT_H_
 

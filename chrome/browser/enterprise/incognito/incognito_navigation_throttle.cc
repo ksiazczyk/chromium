@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito navigation throttle implementation
+// summary: Implements the navigation throttle that blocks Incognito navigations and builds the localized error page listing blocking and missing mandatory extensions.
+// ---
+
 #include "chrome/browser/enterprise/incognito/incognito_navigation_throttle.h"
 
 #include "base/i18n/message_formatter.h"

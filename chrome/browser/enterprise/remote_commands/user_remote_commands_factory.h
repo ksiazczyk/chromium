@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User remote commands factory declaration
+// summary: Declares the factory that creates remote command jobs for profile-scoped user remote commands.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REMOTE_COMMANDS_USER_REMOTE_COMMANDS_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_REMOTE_COMMANDS_USER_REMOTE_COMMANDS_FACTORY_H_
 

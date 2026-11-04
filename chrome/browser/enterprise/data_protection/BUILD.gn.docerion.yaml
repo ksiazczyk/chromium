@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Data protection build configuration
+summary: GN build file defining source sets, unit tests, browser tests and interactive UI test targets with their dependencies for the data protection directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensible Enterprise SSO prefs handler implementation
+// summary: Reads Apple's com.apple.extensiblesso MDM payload through CFPreferences, observes Darwin notifications, and syncs it with Chrome preferences.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/extensible_enterprise_sso_prefs_handler.h"
 
 #include <memory>

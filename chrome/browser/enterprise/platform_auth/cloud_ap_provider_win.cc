@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Cloud AP auth provider implementation
+// summary: Implements the CloudApProviderWin provider that detects Cloud AP SSO support and fetches auth headers via the Windows WebAuthenticationCoreManager.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/cloud_ap_provider_win.h"
 
 #include <objbase.h>

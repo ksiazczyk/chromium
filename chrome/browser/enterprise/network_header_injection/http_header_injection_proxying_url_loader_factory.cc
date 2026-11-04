@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxying URL loader factory implementation
+// summary: Implements a self-deleting URLLoaderFactory proxy that forces use of the header client when injection rules exist for the profile.
+// ---
+
 #include "chrome/browser/enterprise/network_header_injection/http_header_injection_proxying_url_loader_factory.h"
 
 #include <memory>

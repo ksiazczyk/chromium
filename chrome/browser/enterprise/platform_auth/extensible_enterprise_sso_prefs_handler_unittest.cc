@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Extensible Enterprise SSO prefs handler
+// summary: Tests parsing and normalization of the com.apple.extensiblesso payload, covering wildcard hosts, URL filtering, and malformed entries.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/extensible_enterprise_sso_prefs_handler.h"
 
 #include <array>

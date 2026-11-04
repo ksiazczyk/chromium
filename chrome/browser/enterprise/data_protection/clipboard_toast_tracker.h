@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard toast tracker class declaration
+// summary: Declares ClipboardToastTracker, the CopyToastType enum and MaybeShowCopyToast for throttling enterprise copy toasts per profile session.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_CLIPBOARD_TOAST_TRACKER_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_CLIPBOARD_TOAST_TRACKER_H_
 

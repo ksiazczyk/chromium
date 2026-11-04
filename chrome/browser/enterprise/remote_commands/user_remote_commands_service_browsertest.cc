@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User remote commands service browser tests
+// summary: Parameterized browser tests exercising end-to-end user remote command execution with an embedded policy test server and fake invalidation listener.
+// ---
+
 #include "chrome/browser/enterprise/remote_commands/user_remote_commands_service.h"
 
 #include <stdint.h>
