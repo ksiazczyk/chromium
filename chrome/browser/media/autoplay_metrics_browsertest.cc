@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autoplay metrics browser tests
+// summary: Browser tests that verify UKM Media_Autoplay_Attempt events are recorded for autoplay attempts in main frames and nested iframes.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"
 #include "chrome/test/base/in_process_browser_test.h"

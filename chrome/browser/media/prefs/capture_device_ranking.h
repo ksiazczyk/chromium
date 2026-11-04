@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture device ranking header
+// summary: Declares helpers that reorder audio and video capture device lists according to the user's stored preference ranking, including pref migration support.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_PREFS_CAPTURE_DEVICE_RANKING_H_
 #define CHROME_BROWSER_MEDIA_PREFS_CAPTURE_DEVICE_RANKING_H_
 

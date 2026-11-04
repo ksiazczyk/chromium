@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Preloaded media engagement data proto
+// summary: Protobuf schema for the preloaded media engagement origin list, storing the data in DAFSA format.
+// ---
+
 syntax = "proto2";
 
 package chrome_browser_media;

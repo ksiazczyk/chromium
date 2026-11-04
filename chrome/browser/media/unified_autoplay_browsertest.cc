@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unified autoplay browser tests
+// summary: Integration browser tests for the unified autoplay policy at the Chrome layer, covering tab and window opening, renderer-initiated navigation, and autoplay blocking behavior.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/chrome_content_browser_client.h"
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

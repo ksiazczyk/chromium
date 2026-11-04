@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for the mandatory reauth opt-in bottom sheet
+// summary: Robolectric and Mockito tests verifying that the opt-in bottom sheet is shown and displays the expected title and explanation text.
+// ---
+
 package org.chromium.chrome.browser.mandatory_reauth;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

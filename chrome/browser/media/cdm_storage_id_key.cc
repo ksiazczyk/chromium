@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM storage ID key provider
+// summary: Returns the browser-specific CDM storage ID key, using the Google Chrome internal key or an alternate key supplied via a GN build flag.
+// ---
+
 #include "chrome/browser/media/cdm_storage_id_key.h"
 
 #include "build/branding_buildflags.h"

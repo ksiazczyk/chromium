@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Engagement score header
+// summary: Declares MediaEngagementScore, which calculates and stores the Media Engagement Index score, visits, playbacks and high-score state for an origin.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_MEDIA_ENGAGEMENT_SCORE_H_
 #define CHROME_BROWSER_MEDIA_MEDIA_ENGAGEMENT_SCORE_H_
 

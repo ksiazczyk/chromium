@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media prefs build configuration
+summary: Defines the GN build targets for the media prefs source set and its unit tests, including sources, visibility rules, and dependencies.

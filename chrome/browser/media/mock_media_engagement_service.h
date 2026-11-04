@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media engagement service header
+// summary: Declares MockMediaEngagementService with a mocked HasHighEngagement method and the BuildMockMediaEngagementService helper for tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_MOCK_MEDIA_ENGAGEMENT_SERVICE_H_
 #define CHROME_BROWSER_MEDIA_MOCK_MEDIA_ENGAGEMENT_SERVICE_H_
 

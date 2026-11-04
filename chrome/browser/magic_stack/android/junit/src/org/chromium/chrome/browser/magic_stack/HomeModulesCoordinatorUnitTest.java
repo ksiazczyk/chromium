@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HomeModulesCoordinator unit tests
+// summary: Robolectric unit tests for HomeModulesCoordinator, covering module building, display style handling and RecyclerView behavior.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

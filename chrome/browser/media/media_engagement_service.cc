@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Engagement service implementation
+// summary: Implements the per-profile media engagement service that records visits, manages stored scores, schema versioning and clearing data on history deletions.
+// ---
+
 #include "chrome/browser/media/media_engagement_service.h"
 
 #include <functional>

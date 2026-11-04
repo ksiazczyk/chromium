@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMirroringServiceHostFactory header
+// summary: Declares the singleton factory that returns CastMirroringServiceHost instances for tab, desktop, and offscreen-tab mirroring.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_CAST_MIRRORING_SERVICE_HOST_FACTORY_H_
 #define CHROME_BROWSER_MEDIA_CAST_MIRRORING_SERVICE_HOST_FACTORY_H_
 

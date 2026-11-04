@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Manta directory owners
+summary: Delegates ownership of the manta directory to the owners listed in components/manta/OWNERS.

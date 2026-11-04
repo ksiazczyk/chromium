@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting bridge header
+// summary: Declares RemotingBridge, a lightweight Remoter implementation that relays between a media source and multiple remoting clients, activating the first available one in preference order.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_REMOTING_BRIDGE_H_
 #define CHROME_BROWSER_MEDIA_REMOTING_BRIDGE_H_
 

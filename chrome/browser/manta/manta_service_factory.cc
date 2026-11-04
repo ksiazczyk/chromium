@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manta service factory implementation
+// summary: Implements the profile-keyed MantaServiceFactory, building MantaService instances with sign-in state, demo mode, channel, Chrome version and locale information.
+// ---
+
 #include "chrome/browser/manta/manta_service_factory.h"
 
 #include <memory>

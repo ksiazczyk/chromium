@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HomeModulesMetricsUtils unit tests
+// summary: Robolectric unit tests for HomeModulesMetricsUtils, asserting the correct histograms are recorded for module impressions and context menu actions.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import org.junit.Test;

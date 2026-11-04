@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background media deferral browser tests
+// summary: Browser tests verifying that media in background tabs is deferred and does not autoplay until the tab becomes active.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "build/build_config.h"
 #include "chrome/browser/tab_group_sync/tab_group_sync_tab_state.h"

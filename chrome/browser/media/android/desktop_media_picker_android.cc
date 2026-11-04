@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android desktop media picker implementation
+// summary: Implements the Android DesktopMediaPicker, showing the media capture picker dialog and delivering the selected source to the caller asynchronously.
+// ---
+
 #include "chrome/browser/media/android/desktop_media_picker_android.h"
 
 #include "chrome/browser/media/android/media_capture_picker_manager_bridge.h"

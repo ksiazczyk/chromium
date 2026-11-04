@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMirroringServiceHostFactory implementation
+// summary: Creates CastMirroringServiceHost instances for tab, desktop, and offscreen-tab mirroring sources on the UI thread.
+// ---
+
 #include "chrome/browser/media/cast_mirroring_service_host_factory.h"
 
 #include "chrome/browser/media/cast_mirroring_service_host.h"

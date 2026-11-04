@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture access handler base header
+// summary: Declares the base class for desktop and tab capture access handlers that tracks capture sessions and secure-capture state.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_CAPTURE_ACCESS_HANDLER_BASE_H_
 #define CHROME_BROWSER_MEDIA_CAPTURE_ACCESS_HANDLER_BASE_H_
 

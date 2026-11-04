@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM preference service helper header
+// summary: Declares CdmPrefData and CdmPrefServiceHelper for managing CDM-related user preferences, including per-origin IDs and migration of obsolete client token keys.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_CDM_PREF_SERVICE_HELPER_H_
 #define CHROME_BROWSER_MEDIA_CDM_PREF_SERVICE_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDucker implementation
+// summary: Implements AudioDucker, which ducks other Chrome audio and, on Windows, other applications' audio while a page plays media.
+// ---
+
 #include "chrome/browser/media/audio_ducker.h"
 
 #include "build/build_config.h"

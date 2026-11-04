@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastMirroringServiceHost browser tests
+// summary: Browser tests for CastMirroringServiceHost covering tab mirroring setup, video capture parameters, and mirroring session behavior.
+// ---
+
 #include "chrome/browser/media/cast_mirroring_service_host.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Redirection remoting source bridge implementation
+// summary: Implements the per-source bridge that forwards remoting commands and sink notifications between a RemotingBridge client and the remoter in the redirection utility process.
+// ---
+
 #include "chrome/browser/media/redirection_remoting_source_bridge.h"
 
 #include <utility>

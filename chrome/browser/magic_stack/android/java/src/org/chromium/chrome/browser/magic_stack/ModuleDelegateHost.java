@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module delegate host interface
+// summary: Interface of the host surface owning the magic stack, exposing URL clicks, tab selection, settings access and layout information.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import android.graphics.Point;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome media router client header
+// summary: Declares InitChromeMediaRouterJavaClient, the entry point for initializing Chrome-specific Java media router behavior.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ANDROID_ROUTER_CHROME_MEDIA_ROUTER_CLIENT_H_
 #define CHROME_BROWSER_MEDIA_ANDROID_ROUTER_CHROME_MEDIA_ROUTER_CLIENT_H_
 

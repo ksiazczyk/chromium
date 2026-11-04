@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for showing the mandatory reauth opt-in bottom sheet
+// summary: Java entry point called from native code that creates the coordinator and shows or closes the mandatory reauth opt-in bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.mandatory_reauth;
 
 import android.content.Context;

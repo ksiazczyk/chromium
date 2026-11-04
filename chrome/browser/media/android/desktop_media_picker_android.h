@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android desktop media picker class declaration
+// summary: Declares DesktopMediaPickerAndroid, the Android implementation of DesktopMediaPicker that bridges to the media capture picker manager.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ANDROID_DESKTOP_MEDIA_PICKER_ANDROID_H_
 #define CHROME_BROWSER_MEDIA_ANDROID_DESKTOP_MEDIA_PICKER_ANDROID_H_
 

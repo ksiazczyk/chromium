@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tab sharing UI implementation
+// summary: Implements the Android MediaStreamUI for tab sharing, handling stop sharing and switching the shared source through the TabSharingUiBridge JNI bridge.
+// ---
+
 #include "chrome/browser/media/android/tab_sharing_ui_android.h"
 
 #include <string>

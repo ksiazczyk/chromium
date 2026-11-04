@@ -1,0 +1,4 @@
+# Docerion header of media_engagement_score_details.mojom.
+type: source
+title: Media Engagement score Mojo definitions
+summary: Defines Mojo structs for media engagement score details and configuration plus the provider interface that serves them.

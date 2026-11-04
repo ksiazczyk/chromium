@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Engagement preloaded list unit tests
+// summary: Unit tests covering loading of the preloaded media engagement data and origin presence checks, including missing, corrupt and empty files.
+// ---
+
 #include "chrome/browser/media/media_engagement_preloaded_list.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio service utility functions
+// summary: Implements helpers that read enterprise policy and feature flags to decide whether the audio service sandbox and Windows audio process high priority are enabled.
+// ---
+
 #include "chrome/browser/media/audio_service_util.h"
 
 #include <optional>

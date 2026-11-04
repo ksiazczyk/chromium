@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloaded media engagement list implementation
+// summary: Loads the preloaded media engagement origin list from a protobuf file and checks whether a given origin is present, with scheme and port handling.
+// ---
+
 #include "chrome/browser/media/media_engagement_preloaded_list.h"
 
 #include <cstdint>

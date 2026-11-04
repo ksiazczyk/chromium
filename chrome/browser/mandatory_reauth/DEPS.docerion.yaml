@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for mandatory_reauth
+summary: Defines allowed include dependencies for the mandatory_reauth directory, permitting components/browser_ui/bottomsheet/android.

@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Media capture picker manager bridge declaration
+// summary: Declares the JNI bridge class that shows the media source selection dialog and receives tab, window, screen and cancel results from Java.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ANDROID_MEDIA_CAPTURE_PICKER_MANAGER_BRIDGE_H_
 #define CHROME_BROWSER_MEDIA_ANDROID_MEDIA_CAPTURE_PICKER_MANAGER_BRIDGE_H_
 

@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Magic stack dimension values
+summary: Defines Android dimension resources such as page indicator padding, dot size, and home module height for the magic stack UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <dimen name="page_indicator_internal_padding">8dp</dimen>
   <dimen name="page_indicator_dot_size">3dp</dimen>

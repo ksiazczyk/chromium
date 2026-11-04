@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for the mandatory reauth opt-in controller
+// summary: Delegates bottom sheet close events from Java to the native C++ MandatoryReauthBubbleController via JNI.
+// ---
+
 package org.chromium.chrome.browser.mandatory_reauth;
 
 import org.jni_zero.CalledByNative;

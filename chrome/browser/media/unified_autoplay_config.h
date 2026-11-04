@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified autoplay config header
+// summary: Declares UnifiedAutoplayConfig helpers for registering the block-autoplay preference and checking whether autoplay blocking applies or the toggle is user modifiable.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_UNIFIED_AUTOPLAY_CONFIG_H_
 #define CHROME_BROWSER_MEDIA_UNIFIED_AUTOPLAY_CONFIG_H_
 

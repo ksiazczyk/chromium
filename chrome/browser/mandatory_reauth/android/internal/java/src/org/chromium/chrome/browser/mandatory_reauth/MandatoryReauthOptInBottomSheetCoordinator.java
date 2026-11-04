@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coordinator for the mandatory reauth opt-in bottom sheet
+// summary: Creates and connects the bottom sheet model and view, shows it through the BottomSheetController, and maps sheet close reasons to payments UI closed reasons.
+// ---
+
 package org.chromium.chrome.browser.mandatory_reauth;
 
 import android.content.Context;

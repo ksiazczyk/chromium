@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Engagement score unit tests
+// summary: Unit tests for MediaEngagementScore covering score initialization, updates, thresholds and field trial parameters.
+// ---
+
 #include "chrome/browser/media/media_engagement_score.h"
 
 #include <utility>

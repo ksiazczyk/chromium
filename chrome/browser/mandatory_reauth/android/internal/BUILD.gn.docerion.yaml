@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for mandatory reauth opt-in bottom sheet Android internals
+summary: Defines GN build targets for the Android mandatory reauth opt-in bottom sheet, including JNI generation, a Java library, resources, and Robolectric unit tests.

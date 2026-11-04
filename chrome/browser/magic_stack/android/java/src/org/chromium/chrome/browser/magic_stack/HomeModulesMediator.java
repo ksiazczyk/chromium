@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home modules mediator
+// summary: Implements logic to add, update, remove and rank magic stack modules, including fetch timeouts and freshness-based rejection of stale data.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

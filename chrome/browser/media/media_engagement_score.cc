@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Engagement score implementation
+// summary: Implements MediaEngagementScore, computing per-origin scores from visits and playbacks with field-trial thresholds and content settings storage.
+// ---
+
 #include "chrome/browser/media/media_engagement_score.h"
 
 #include <string_view>

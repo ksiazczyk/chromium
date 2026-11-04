@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RedirectionConnector header
+// summary: Declares the process-wide RedirectionConnector singleton that reports redirection availability to RemotingBridge sources and manages their sessions with the redirection utility process.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_REDIRECTION_CONNECTOR_H_
 #define CHROME_BROWSER_MEDIA_REDIRECTION_CONNECTOR_H_
 

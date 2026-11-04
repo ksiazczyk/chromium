@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmDocumentServiceImpl header
+// summary: Header for the per-render-frame CdmDocumentService Mojo implementation covering ChromeOS platform verification, CDM storage ID, and Windows Media Foundation CDM data handling.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_CDM_DOCUMENT_SERVICE_IMPL_H_
 #define CHROME_BROWSER_MEDIA_CDM_DOCUMENT_SERVICE_IMPL_H_
 

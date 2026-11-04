@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleProvider
+// summary: Interface for a magic stack module, defining show, hide, update, module type, and context menu behavior for modules shown or hidden on the home surface.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media access handler interface
+// summary: Interface for handling media stream access requests propagated from MediaCaptureDevicesDispatcher, including permission checks and request state updates.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_MEDIA_ACCESS_HANDLER_H_
 #define CHROME_BROWSER_MEDIA_MEDIA_ACCESS_HANDLER_H_
 

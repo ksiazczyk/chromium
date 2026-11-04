@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media engagement session
+// summary: Declares the MediaEngagementSession class that tracks per-origin engagement data for a tab visit and commits pending data to the service on destruction.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_MEDIA_ENGAGEMENT_SESSION_H_
 #define CHROME_BROWSER_MEDIA_MEDIA_ENGAGEMENT_SESSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media storage ID salt
+// summary: Creates and retrieves the salt used for Storage IDs, persisting it in profile preferences or using an ephemeral in-memory salt for incognito profiles.
+// ---
+
 #include "chrome/browser/media/media_storage_id_salt.h"
 
 #include <string>

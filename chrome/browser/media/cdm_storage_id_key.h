@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM storage ID key header
+// summary: Declares GetCdmStorageIdKey and the minimum key length constant used when computing the CDM Storage ID.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_CDM_STORAGE_ID_KEY_H_
 #define CHROME_BROWSER_MEDIA_CDM_STORAGE_ID_KEY_H_
 

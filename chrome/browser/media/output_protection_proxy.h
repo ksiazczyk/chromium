@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputProtectionProxy header
+// summary: Declares a class that queries and enables output protection for physical displays, delegating to Chrome OS OutputProtectionDelegate and checking the network link on all platforms.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_OUTPUT_PROTECTION_PROXY_H_
 #define CHROME_BROWSER_MEDIA_OUTPUT_PROTECTION_PROXY_H_
 

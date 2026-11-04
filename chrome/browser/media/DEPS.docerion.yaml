@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chrome browser media
+summary: Defines allowed include dependencies for the media directory, with per-file exceptions for Cast, remoting and output protection code.

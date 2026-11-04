@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture access handler base implementation
+// summary: Implements shared tracking of desktop and tab capture sessions, pending access requests, and checks for ongoing insecure video capturing.
+// ---
+
 #include "chrome/browser/media/capture_access_handler_base.h"
 
 #include <algorithm>

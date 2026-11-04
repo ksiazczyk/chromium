@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoplay policy status observer header
+// summary: Declares a WebContentsUserData observer with a PolicyStatus enum that tracks and reports why autoplay was allowed or blocked.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_AUTOPLAY_POLICY_STATUS_OBSERVER_H_
 #define CHROME_BROWSER_MEDIA_AUTOPLAY_POLICY_STATUS_OBSERVER_H_
 

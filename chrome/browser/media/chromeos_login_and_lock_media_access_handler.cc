@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS login and lock screen media access handler
+// summary: Implements media access handling for SAML IdP video capture requests on the ChromeOS login and lock screens, gated by the kLoginVideoCaptureAllowedUrls policy.
+// ---
+
 #include "chrome/browser/media/chromeos_login_and_lock_media_access_handler.h"
 
 #include <string>

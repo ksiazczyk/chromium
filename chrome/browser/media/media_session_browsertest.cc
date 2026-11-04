@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media session browser tests
+// summary: Browser tests verifying that media session metadata is shown by default and hidden in incognito and enterprise isolated browser modes.
+// ---
+
 #include "content/public/browser/media_session.h"
 
 #include "base/strings/stringprintf.h"

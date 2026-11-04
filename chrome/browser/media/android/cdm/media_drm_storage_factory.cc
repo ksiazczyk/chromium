@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmStorage factory implementation
+// summary: Creates MediaDrmStorage Mojo bindings for render frames, obtaining origin IDs via the manager and reporting results to UMA.
+// ---
+
 #include "chrome/browser/media/android/cdm/media_drm_storage_factory.h"
 
 #include <optional>

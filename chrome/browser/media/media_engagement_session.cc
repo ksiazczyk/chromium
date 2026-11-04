@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media engagement session
+// summary: Implements a media engagement session that records visits, significant media element and audio context playback, player counts and UKM metrics when tabs close.
+// ---
+
 #include "chrome/browser/media/media_engagement_session.h"
 
 #include "chrome/browser/media/media_engagement_score.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioDucker browser tests
+// summary: Browser tests verifying that AudioDucker ducks audio in other tabs and handles media session changes during playback.
+// ---
+
 #include "chrome/browser/media/audio_ducker.h"
 
 #include "base/functional/bind.h"

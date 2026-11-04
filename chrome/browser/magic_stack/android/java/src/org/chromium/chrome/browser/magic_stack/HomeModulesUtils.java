@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home modules utilities
+// summary: Utility helpers for the magic stack, covering module enablement checks, educational tip lists and freshness input contexts.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

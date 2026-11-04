@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Android media browser code
+summary: Lists the owners responsible for changes in chrome/browser/media/android and delegates media DRM files to the media/cdm owners.

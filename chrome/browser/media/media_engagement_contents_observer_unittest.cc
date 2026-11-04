@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media engagement contents observer unit tests
+// summary: Unit tests for the media engagement contents observer covering playback timers, audibility, navigation and engagement sessions.
+// ---
+
 #include "chrome/browser/media/media_engagement_contents_observer.h"
 
 #include <memory>

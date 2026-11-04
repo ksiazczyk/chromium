@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media engagement service
+// summary: Provides a gmock-based MockMediaEngagementService and a factory function so browser tests can substitute the media engagement service.
+// ---
+
 #include "chrome/browser/media/mock_media_engagement_service.h"
 
 #include "chrome/browser/profiles/profile.h"

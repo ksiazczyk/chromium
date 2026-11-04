@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension media access handler
+// summary: Handles camera and microphone capture requests from extensions, including an allowlist of component extensions granted access via manifest permissions.
+// ---
+
 #include "chrome/browser/media/extension_media_access_handler.h"
 
 #include <utility>

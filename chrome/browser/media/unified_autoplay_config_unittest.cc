@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unified autoplay config unit tests
+// summary: Unit tests for the unified autoplay policy configuration, verifying autoplay blocking against sound content settings and the block-autoplay preference with the settings feature enabled and disabled.
+// ---
+
 #include "chrome/browser/media/unified_autoplay_config.h"
 
 #include "base/test/scoped_command_line.h"

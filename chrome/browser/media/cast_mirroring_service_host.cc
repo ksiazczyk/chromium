@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast mirroring service host implementation
+// summary: Implements the browser-side host that wires capture streams, network sockets, and remoting for Cast mirroring sessions with the mirroring service.
+// ---
+
 #include "chrome/browser/media/cast_mirroring_service_host.h"
 
 #include <algorithm>

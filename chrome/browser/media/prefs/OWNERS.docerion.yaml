@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Media prefs directory owners
+summary: Lists the code owners for the media prefs directory and falls back to the owners of the media directory.

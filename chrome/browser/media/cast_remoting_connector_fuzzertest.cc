@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastRemotingConnector messaging fuzzer
+// summary: LibFuzzer entry point exercising CastRemotingConnectorMessaging parsing of session text messages for started, failed, and stopped streams.
+// ---
+
 #include "chrome/browser/media/cast_remoting_connector_messaging.h"
 
 // Entry point for LibFuzzer.

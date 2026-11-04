@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture device ranking unit tests
+// summary: Unit tests verifying that audio and video device lists are ranked, updated, and reordered correctly based on user preference prefs.
+// ---
+
 #include "chrome/browser/media/prefs/capture_device_ranking.h"
 #include "components/prefs/testing_pref_service.h"
 #include "testing/gmock/include/gmock/gmock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleProviderBuilder
+// summary: Builder interface for creating a module and its view, binding model and view properties, checking eligibility, and handling pause and destroy lifecycle events.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import android.view.ViewGroup;

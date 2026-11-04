@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation service monitor unit tests
+// summary: Unit tests for the Media Foundation service monitor verifying earliest enable times, per-site preferences and failure sample handling.
+// ---
+
 #include "chrome/browser/media/media_foundation_service_monitor.h"
 
 #include "base/check.h"

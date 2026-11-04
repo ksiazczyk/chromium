@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manta service factory class declaration
+// summary: Declares the MantaServiceFactory keyed service factory that provides per-profile MantaService instances and returns nullptr for OTR profiles.
+// ---
+
 #ifndef CHROME_BROWSER_MANTA_MANTA_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_MANTA_MANTA_SERVICE_FACTORY_H_
 

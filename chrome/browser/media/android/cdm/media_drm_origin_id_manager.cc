@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmOriginIdManager implementation
+// summary: Implements preprovisioning of MediaDrm origin IDs, persisting them in profile preferences with backoff to avoid Android R provisioning crashes.
+// ---
+
 #include "chrome/browser/media/android/cdm/media_drm_origin_id_manager.h"
 
 #include <memory>

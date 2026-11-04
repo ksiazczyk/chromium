@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Manta browser build configuration
+summary: Defines GN source sets for the Manta browser code, listing public headers and dependencies for the manta and impl targets, with extra ChromeOS dependencies.

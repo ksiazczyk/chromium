@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS login and lock screen media access handler header
+// summary: Declares the MediaAccessHandler that grants policy-based video capture on the ChromeOS login and lock screens.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_CHROMEOS_LOGIN_AND_LOCK_MEDIA_ACCESS_HANDLER_H_
 #define CHROME_BROWSER_MEDIA_CHROMEOS_LOGIN_AND_LOCK_MEDIA_ACCESS_HANDLER_H_
 

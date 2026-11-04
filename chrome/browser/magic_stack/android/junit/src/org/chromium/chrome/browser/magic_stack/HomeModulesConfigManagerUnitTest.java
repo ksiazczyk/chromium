@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HomeModulesConfigManager unit tests
+// summary: Robolectric unit tests for HomeModulesConfigManager, verifying module type enablement preferences and state listener notifications.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import static org.junit.Assert.assertEquals;

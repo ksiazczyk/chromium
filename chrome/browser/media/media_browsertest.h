@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media browser test base class header
+// summary: Declares MediaBrowserTest, a helper base class for automating media-related browser tests with configurable autoplay policy and feature flags.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_MEDIA_BROWSERTEST_H_
 #define CHROME_BROWSER_MEDIA_MEDIA_BROWSERTEST_H_
 

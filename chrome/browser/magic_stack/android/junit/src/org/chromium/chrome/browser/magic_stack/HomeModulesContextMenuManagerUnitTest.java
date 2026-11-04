@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HomeModulesContextMenuManager unit tests
+// summary: Robolectric unit tests for the home modules context menu manager, checking menu display, list menu content and histogram logging.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import static org.junit.Assert.assertEquals;
