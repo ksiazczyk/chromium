@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of random utilities
+// summary: Implements RandBytes on Windows using bcryptprimitives ProcessPrng and BoringSSL, avoiding a handle to the KsecDD device in the renderer.
+// ---
+
 #include "base/rand_util.h"
 
 #include <windows.h>

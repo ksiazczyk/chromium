@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base64url implementation
+// summary: Implements base64url encoding and decoding per RFC 4648 section 5, translating URL-unsafe characters and applying the selected padding policy.
+// ---
+
 #include "base/base64url.h"
 
 #include <stddef.h>

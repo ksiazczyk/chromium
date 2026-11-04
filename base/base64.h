@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base64 API header
+// summary: Declares base64 encode and decode functions, including strict and forgiving decode policies and an early-startup encode variant that avoids base::Feature access.
+// ---
+
 #ifndef BASE_BASE64_H_
 #define BASE_BASE64_H_
 

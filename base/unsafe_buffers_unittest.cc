@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unsafe buffers macro unit test
+// summary: Unit tests checking that the UNSAFE_BUFFERS macro compiles under -Wunsafe-buffer-usage and correctly handles template arguments containing commas.
+// ---
+
 #include "base/compiler_specific.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

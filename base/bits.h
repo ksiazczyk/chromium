@@ -4,6 +4,12 @@
 
 // This file defines some bit utilities.
 
+// ---docerion
+// type: source
+// title: Bit utilities for alignment and logarithms
+// summary: Header defining base::bits helpers such as AlignUp, AlignDown, Log2Floor and Log2Ceiling for unsigned integers and pointers.
+// ---
+
 #ifndef BASE_BITS_H_
 #define BASE_BITS_H_
 

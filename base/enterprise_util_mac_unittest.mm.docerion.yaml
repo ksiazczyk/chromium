@@ -1,0 +1,4 @@
+# Docerion header of enterprise_util_mac_unittest.mm.
+type: test
+title: Mac enterprise utility unit tests
+summary: Smoke test verifying that IsDeviceRegisteredWithManagement returns a valid Mac device management state rather than a failure state.

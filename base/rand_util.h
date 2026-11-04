@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Random utility declarations
+// summary: Declares thread-safe random helpers for integers, floats, booleans, time deltas, and percentage-based jitter, backed by the BoringSSL RNG.
+// ---
+
 #ifndef BASE_RAND_UTIL_H_
 #define BASE_RAND_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Linux stack canary reset
+// summary: Verifies that ResetStackCanaryIfPossible changes the reference canary and that the debug message is emitted on death in glibc builds.
+// ---
+
 #include "base/stack_canary_linux.h"
 
 #include "base/compiler_specific.h"

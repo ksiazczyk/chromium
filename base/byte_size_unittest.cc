@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Byte size unit tests
+// summary: Unit and death tests for ByteSize and ByteSizeDelta covering construction, unit conversions, arithmetic boundaries and formatting.
+// ---
+
 #include "base/byte_size.h"
 
 #include <limits>

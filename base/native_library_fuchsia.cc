@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia native library loading implementation
+// summary: Implements native library loading on Fuchsia by opening files with executable rights and dlopen_vmo, plus symbol lookup and library naming.
+// ---
+
 #include "base/native_library.h"
 
 #include <fcntl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location class header
+// summary: Declares base::Location, which records where code was constructed or invoked and supports comparison, hashing, string conversion, and tracing.
+// ---
+
 #ifndef BASE_LOCATION_H_
 #define BASE_LOCATION_H_
 

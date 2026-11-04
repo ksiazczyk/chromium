@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal shim forwarding base64 calls to simdutf
+// summary: Implements internal wrapper functions that forward base64 length and encoding calls to the third-party simdutf library.
+// ---
+
 #include "base/simdutf_shim.h"
 
 #include "third_party/simdutf/simdutf.h"

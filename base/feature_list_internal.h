@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal feature list state definitions
+// summary: Defines internal bit masks, the RuntimeMutabilityResult enum, and the RuntimeMutableFeatureState struct that back runtime-mutable feature tracking.
+// ---
+
 #ifndef BASE_FEATURE_LIST_INTERNAL_H_
 #define BASE_FEATURE_LIST_INTERNAL_H_
 

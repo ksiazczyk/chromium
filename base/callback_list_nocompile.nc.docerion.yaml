@@ -1,0 +1,4 @@
+# Docerion header of callback_list_nocompile.nc.
+type: test
+title: Callback list no-compile tests
+summary: No-compile test suite asserting that CallbackList does not support move-only parameters, expecting a compile error when notifying with a unique_ptr argument.

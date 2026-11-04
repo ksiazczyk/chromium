@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native library loading for POSIX
+// summary: Implements Chromium's native library loading on POSIX systems using dlopen, dlclose and dlsym, including library name construction and blocking-call annotations.
+// ---
+
 #include "base/native_library.h"
 
 #include <dlfcn.h>

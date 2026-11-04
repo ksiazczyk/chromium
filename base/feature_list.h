@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureList class declaration
+// summary: Declares the FeatureList API that authoritatively answers whether a feature is enabled, honoring command-line flags, experiments, and default states.
+// ---
+
 #ifndef BASE_FEATURE_LIST_H_
 #define BASE_FEATURE_LIST_H_
 

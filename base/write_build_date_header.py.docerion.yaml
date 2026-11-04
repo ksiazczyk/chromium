@@ -1,0 +1,4 @@
+# Docerion header of write_build_date_header.py.
+type: script
+title: Build date header writer
+summary: Python script that writes a build timestamp into a generated C header defining BASE_GENERATED_BUILD_DATE_TIMESTAMP.

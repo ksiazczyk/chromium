@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: libc++ hardening assertions test
+// summary: Verifies that libc++ or libstdc++ assertions are enabled and that the correct assertion handler is linked, crashing on out-of-bounds vector access.
+// ---
+
 #include <utility>
 #include <vector>
 

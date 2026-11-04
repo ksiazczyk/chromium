@@ -1,0 +1,4 @@
+# Docerion header of enterprise_util_mac.mm.
+type: source
+title: Mac enterprise device detection implementation
+summary: Implements macOS checks for managed and enterprise devices, parsing MDM enrollment state via the profiles tool and OpenDirectory domain join state.

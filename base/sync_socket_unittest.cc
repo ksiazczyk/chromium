@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SyncSocket
+// summary: GoogleTest suite exercising send, receive, peek, timeout, and shutdown behavior of SyncSocket pairs across threads.
+// ---
+
 #include "base/sync_socket.h"
 
 #include <stddef.h>

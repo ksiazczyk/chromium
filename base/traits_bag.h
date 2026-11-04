@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Traits bag compile-time helpers
+// summary: Header with helpers for configuring classes via variadic trait bags as a compile-time alternative to the builder pattern.
+// ---
+
 #ifndef BASE_TRAITS_BAG_H_
 #define BASE_TRAITS_BAG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NOTIMPLEMENTED logging macros
+// summary: Defines the NOTIMPLEMENTED, NOTIMPLEMENTED_LOG_ONCE and TVOS_NOT_YET_IMPLEMENTED macros that annotate and log unimplemented code paths.
+// ---
+
 #ifndef BASE_NOTIMPLEMENTED_H_
 #define BASE_NOTIMPLEMENTED_H_
 

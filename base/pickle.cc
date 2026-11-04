@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pickle implementation
+// summary: Implements the Pickle binary serialization class, reading aligned native-endian primitives, strings, and byte data from a buffer with bounds checks.
+// ---
+
 #include "base/pickle.h"
 
 #include <algorithm>

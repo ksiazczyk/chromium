@@ -1,3 +1,9 @@
+---
+type: readme
+title: What is this
+summary: Describes the principles of //base, qualifications for owners, design and naming conventions, performance tests and Rust usage.
+---
+
 # What is this
 Contains a written down set of principles and other information on //base.
 Please add to it!

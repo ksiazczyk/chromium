@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAddFeatureFlags class declaration
+// summary: Declares a scoped helper to enable or disable features on a command line unless already set, and to query feature state with optional parameters.
+// ---
+
 #ifndef BASE_SCOPED_ADD_FEATURE_FLAGS_H_
 #define BASE_SCOPED_ADD_FEATURE_FLAGS_H_
 

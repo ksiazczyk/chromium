@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust shim header for feature parameters
+// summary: Declares C++ shim functions exposing feature field trial parameter lookups to Rust callers through the cxx bridge.
+// ---
+
 #ifndef BASE_FEATURE_RUST_SHIM_H_
 #define BASE_FEATURE_RUST_SHIM_H_
 

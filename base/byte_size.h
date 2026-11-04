@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Byte size value types
+// summary: Defines ByteSize and ByteSizeDelta types with checked arithmetic and conversions between bytes and KiB through EiB units.
+// ---
+
 #ifndef BASE_BYTE_SIZE_H_
 #define BASE_BYTE_SIZE_H_
 

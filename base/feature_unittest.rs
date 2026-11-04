@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rust feature unit tests
+// summary: Rust gtest suite verifying feature macros, parameter defaults and overrides, invalid value fallback, and command-line initialization of features.
+// ---
+
 chromium::import! {
     "//base:feature";
     "//base/test:scoped_feature_list";

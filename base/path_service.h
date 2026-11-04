@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PathService class declaration
+// summary: Declares the PathService API for resolving, overriding, and registering providers for special file system paths.
+// ---
+
 #ifndef BASE_PATH_SERVICE_H_
 #define BASE_PATH_SERVICE_H_
 

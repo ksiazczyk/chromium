@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base64 encode fuzzer
+// summary: LibFuzzer target that round-trips random data through base64 encode and decode, both with and without the simdutf encoding feature enabled.
+// ---
+
 #include <string>
 #include <string_view>
 

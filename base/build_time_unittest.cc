@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Build time unit tests
+// summary: Tests that the reported build time has valid values, matches non-official build conventions and always lies in the past.
+// ---
+
 #include "base/build_time.h"
 
 #include "base/time/time.h"

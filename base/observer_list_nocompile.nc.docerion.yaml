@@ -1,0 +1,4 @@
+# Docerion header of observer_list_nocompile.nc.
+type: test
+title: Observer list no-compile tests
+summary: No-compile test suite asserting that checked and unchecked observer lists reject invalid observer types and move-only Notify arguments.

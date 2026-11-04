@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base path provider implementation
+// summary: Implements the default PathProvider for base path keys, including CR_SOURCE_ROOT environment overrides and test data roots.
+// ---
+
 #include "base/base_paths.h"
 
 #include "base/environment.h"

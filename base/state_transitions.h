@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StateTransitions helper for validating state transitions
+// summary: Provides a StateTransitions template and macros to DCHECK or CHECK that state transitions are valid, mainly for debug builds.
+// ---
+
 #ifndef BASE_STATE_TRANSITIONS_H_
 #define BASE_STATE_TRANSITIONS_H_
 

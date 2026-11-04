@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value dictionary iterator header
+// summary: Declares bidirectional dict_iterator and const_dict_iterator classes that give read-write or read-only access to dictionary value entries.
+// ---
+
 #ifndef BASE_VALUE_ITERATORS_H_
 #define BASE_VALUE_ITERATORS_H_
 

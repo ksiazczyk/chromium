@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location unit tests
+// summary: Tests that Location::Current yields the correct file, line, and function name and that Location values serialize correctly into Perfetto traces.
+// ---
+
 #include "base/location.h"
 
 #include "base/trace_event/trace_event.h"

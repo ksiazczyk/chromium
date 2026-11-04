@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Internal feature macro helpers
+// summary: Internal macros and consteval helpers behind BASE_FEATURE, covering country code validation, feature name derivation, and placement in a dedicated ELF section.
+// ---
+
 #ifndef BASE_FEATURE_INTERNAL_H_
 #define BASE_FEATURE_INTERNAL_H_
 

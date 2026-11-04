@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native library unit tests
+// summary: Unit tests for native library loading, covering load failures, optional error handling, platform-specific library names and loading a real shared library.
+// ---
+
 #include "base/native_library.h"
 
 #include "base/check.h"

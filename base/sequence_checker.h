@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequenceChecker macros and API
+// summary: Declares the SequenceChecker macros for sequence-affinity assertions and a no-op release-mode implementation, with usage guidance and thread annotation support.
+// ---
+
 #ifndef BASE_SEQUENCE_CHECKER_H_
 #define BASE_SEQUENCE_CHECKER_H_
 

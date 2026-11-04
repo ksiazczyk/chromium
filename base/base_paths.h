@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base path keys for the PathService
+// summary: Declares the BasePathKey enum of special file and directory keys used with the PathService, with platform-specific includes.
+// ---
+
 #ifndef BASE_BASE_PATHS_H_
 #define BASE_BASE_PATHS_H_
 

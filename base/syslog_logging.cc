@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System event log logging implementation
+// summary: Implements SYSLOG support that writes messages to the Windows Event Log or the POSIX syslog, with configurable event sources.
+// ---
+
 #include "base/syslog_logging.h"
 
 #include "build/build_config.h"

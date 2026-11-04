@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Barrier closure API header
+// summary: Declares base::BarrierClosure, a thread-safe repeating closure that invokes a done closure after being run a specified number of times.
+// ---
+
 #ifndef BASE_BARRIER_CLOSURE_H_
 #define BASE_BARRIER_CLOSURE_H_
 

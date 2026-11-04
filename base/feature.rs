@@ -6,6 +6,12 @@
 //! (Detailed information on usage can be found on the comment for the
 //! macro itself, which is defined at the bottom of this file.)
 
+// ---docerion
+// type: source
+// title: Rust feature flag definitions
+// summary: Rust equivalent of the C++ base::Feature type with an FFI-compatible layout, FeatureState enum, feature parameters, and a macro for defining features in Rust.
+// ---
+
 use std::ffi::c_char;
 use std::sync::atomic::AtomicU32;
 

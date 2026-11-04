@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy instance helper implementation
+// summary: Implements NeedsLazyInstance and CompleteLazyInstance, using atomic state transitions and spinning to coordinate thread-safe lazy instance creation.
+// ---
+
 #include "base/lazy_instance_helpers.h"
 
 #include <atomic>

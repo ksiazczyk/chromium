@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckedObserver base class
+// summary: Declares CheckedObserver, a base class that detects use-after-free when destroyed observers remain in an ObserverList.
+// ---
+
 #ifndef BASE_OBSERVER_LIST_TYPES_H_
 #define BASE_OBSERVER_LIST_TYPES_H_
 

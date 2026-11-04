@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StateTransitions
+// summary: Tests StateTransitions construction, valid transition lookup, the DCHECK and CHECK macros and usage with non-enum state types.
+// ---
+
 #include "base/state_transitions.h"
 
 #include <ostream>

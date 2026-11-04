@@ -1,0 +1,4 @@
+# Docerion header of base_paths_ios.mm.
+type: source
+title: iOS path provider for the base path service
+summary: Implements PathProviderIOS, replacing the POSIX provider on iOS to resolve executable, app data, assets, and cache directories.

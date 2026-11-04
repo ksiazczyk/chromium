@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NOTREACHED macro definitions
+// summary: Defines the NOTREACHED and DUMP_WILL_BE_NOTREACHED macros for marking unreachable code, with optional NotFatalUntil milestone support.
+// ---
+
 #ifndef BASE_NOTREACHED_H_
 #define BASE_NOTREACHED_H_
 

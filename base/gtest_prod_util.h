@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gtest FRIEND_TEST utility macros
+// summary: Header providing FRIEND_TEST_ALL_PREFIXES and FORWARD_DECLARE_TEST macros so gtest friend declarations survive test prefix changes and namespace boundaries.
+// ---
+
 #ifndef BASE_GTEST_PROD_UTIL_H_
 #define BASE_GTEST_PROD_UTIL_H_
 

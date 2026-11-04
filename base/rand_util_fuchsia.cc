@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia implementation of random utilities
+// summary: Implements RandBytes and RandDoubleAvoidAllocation on Fuchsia using BoringSSL RAND_bytes and the Zircon CPRNG syscall.
+// ---
+
 #include "base/rand_util.h"
 
 #include <zircon/syscalls.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vlog header
+// summary: Declares VlogInfo for verbose logging settings and MatchVlogPattern for wildcard matching of vlog module patterns.
+// ---
+
 #ifndef BASE_VLOG_H_
 #define BASE_VLOG_H_
 

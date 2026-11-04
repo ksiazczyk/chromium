@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneShotEvent class declaration
+// summary: Declares the OneShotEvent utility that runs posted tasks after a one-time signal, with single-sequence usage requirements.
+// ---
+
 #ifndef BASE_ONE_SHOT_EVENT_H_
 #define BASE_ONE_SHOT_EVENT_H_
 

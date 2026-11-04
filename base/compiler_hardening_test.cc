@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compiler hardening tests
+// summary: Death tests verifying that compiler hardening detects out-of-bounds array accesses and invalid enum values reaching return statements.
+// ---
+
 #include "base/compiler_specific.h"
 #include "base/debug/alias.h"
 #include "testing/gtest/include/gtest/gtest.h"

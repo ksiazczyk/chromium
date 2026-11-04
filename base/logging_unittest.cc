@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for base logging
+// summary: Unit tests covering logging macros, log level checks, log assert handlers, and logging behavior across platforms using gmock and gtest.
+// ---
+
 #include "base/logging.h"
 
 #include <sstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedObservation
+// summary: Tests ScopedObservation behavior including removal on destruction, Reset, IsObserving, and IsObservingSource against a test source and observer.
+// ---
+
 #include "base/scoped_observation.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MovingWindow sliding window statistics
+// summary: Template class to efficiently compute min, max, mean, and deviation over a sliding window, with convenience aliases such as MovingMax and MovingAverage.
+// ---
+
 #ifndef BASE_MOVING_WINDOW_H_
 #define BASE_MOVING_WINDOW_H_
 

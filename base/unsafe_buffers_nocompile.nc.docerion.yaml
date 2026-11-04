@@ -1,0 +1,4 @@
+# Docerion header of unsafe_buffers_nocompile.nc.
+type: test
+title: Unsafe buffers no-compile test
+summary: No-compile test verifying that calls to UNSAFE_BUFFER_USAGE functions are rejected at compile time unless wrapped in the UNSAFE_BUFFERS macro.

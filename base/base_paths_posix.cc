@@ -6,6 +6,12 @@
 // don't have their own base_paths_OS.cc implementation (i.e. all but Mac and
 // Android).
 
+// ---docerion
+// type: source
+// title: POSIX path provider for the base path service
+// summary: Implements PathProviderPosix, the default provider for POSIX systems other than Mac and Android, resolving executable, test root, desktop, and cache paths.
+// ---
+
 #include "base/base_paths.h"
 
 #include <limits.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Value unit tests
+// summary: Unit tests for base::Value covering its size, move semantics, constructors, and typed accessors for the JSON-like value type.
+// ---
+
 #include "base/values.h"
 
 #include <stddef.h>

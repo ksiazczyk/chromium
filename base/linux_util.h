@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux utility API header
+// summary: Declares base functions to get or set the Linux distro string and to enumerate process threads, find threads by syscall, and resolve namespace thread ids.
+// ---
+
 #ifndef BASE_LINUX_UTIL_H_
 #define BASE_LINUX_UTIL_H_
 

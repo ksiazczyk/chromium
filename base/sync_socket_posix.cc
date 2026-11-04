@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX implementation of SyncSocket
+// summary: Implements SyncSocket on POSIX platforms using AF_UNIX socket pairs, with poll-based receive timeouts and macOS SIGPIPE suppression.
+// ---
+
 #include "base/sync_socket.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending task implementation
+// summary: Implements TaskMetadata and PendingTask, which carry task metadata such as posting location, queue and delayed run times, leeway, and delay policy for queued tasks.
+// ---
+
 #include "base/pending_task.h"
 
 #include "base/task/task_features.h"

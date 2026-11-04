@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedNativeLibrary header
+// summary: Declares ScopedNativeLibrary, a ScopedGeneric-based wrapper managing the lifetime of a loaded native library and exposing function pointer and error accessors.
+// ---
+
 #ifndef BASE_SCOPED_NATIVE_LIBRARY_H_
 #define BASE_SCOPED_NATIVE_LIBRARY_H_
 

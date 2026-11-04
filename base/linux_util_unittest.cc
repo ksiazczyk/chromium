@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux utility unit tests
+// summary: Tests parsing of PRETTY_NAME and other keys from os-release content and the GetNamespaceThreadId lookup for the current process.
+// ---
+
 #include "base/linux_util.h"
 
 #include <unistd.h>

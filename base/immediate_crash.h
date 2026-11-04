@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImmediateCrash trap helpers
+// summary: Header defining platform-specific trap sequences for ImmediateCrash, a fast, fatal, non-foldable crash primitive used in allocation hooks and failure paths.
+// ---
+
 #ifndef BASE_IMMEDIATE_CRASH_H_
 #define BASE_IMMEDIATE_CRASH_H_
 

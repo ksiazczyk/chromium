@@ -24,6 +24,12 @@
 //    needs to increment twice (which the compiler should be able to detect and
 //    optimize).
 
+// ---docerion
+// type: source
+// title: Portable C++11 implementation of atomicops
+// summary: Implements the atomicops.h API on top of C++11 std::atomic, mapping relaxed and barrier variants to appropriate memory orderings.
+// ---
+
 #ifndef BASE_ATOMICOPS_INTERNALS_PORTABLE_H_
 #define BASE_ATOMICOPS_INTERNALS_PORTABLE_H_
 

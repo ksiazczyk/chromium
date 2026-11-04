@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android-specific path keys
+// summary: Declares the Android-specific path key enum for app data and external storage directories used with the PathService.
+// ---
+
 #ifndef BASE_BASE_PATHS_ANDROID_H_
 #define BASE_BASE_PATHS_ANDROID_H_
 

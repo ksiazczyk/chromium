@@ -5,6 +5,12 @@
 // This is a low level implementation of atomic semantics for reference
 // counting.  Please use base/memory/ref_counted.h directly instead.
 
+// ---docerion
+// type: source
+// title: Atomic reference counting primitives
+// summary: Low-level AtomicRefCount class providing atomic increment, decrement and count checks for reference counting, intended for use through base/memory/ref_counted.h.
+// ---
+
 #ifndef BASE_ATOMIC_REF_COUNT_H_
 #define BASE_ATOMIC_REF_COUNT_H_
 

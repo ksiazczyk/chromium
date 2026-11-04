@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component export macro definitions
+// summary: Defines the COMPONENT_EXPORT and INSIDE_COMPONENT_IMPL macros used to annotate symbols as exported or imported in component builds.
+// ---
+
 #ifndef BASE_COMPONENT_EXPORT_H_
 #define BASE_COMPONENT_EXPORT_H_
 

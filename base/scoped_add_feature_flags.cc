@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAddFeatureFlags implementation
+// summary: Implements a helper that reads, modifies, and rewrites the --enable-features and --disable-features command line switches during its lifetime.
+// ---
+
 #include "base/scoped_add_feature_flags.h"
 
 #include <algorithm>

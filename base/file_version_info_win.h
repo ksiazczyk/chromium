@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileVersionInfoWin header
+// summary: Declares the Windows FileVersionInfo implementation that reads version properties such as product name and file version from a file's VS_VERSION_INFO resource.
+// ---
+
 #ifndef BASE_FILE_VERSION_INFO_WIN_H_
 #define BASE_FILE_VERSION_INFO_WIN_H_
 

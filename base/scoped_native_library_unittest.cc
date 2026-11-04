@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedNativeLibrary
+// summary: Unit test verifying that function pointers obtained through ScopedNativeLibrary stay valid only while the library is in scope, using ddraw.dll on Windows.
+// ---
+
 #include "base/scoped_native_library.h"
 
 #include "build/build_config.h"

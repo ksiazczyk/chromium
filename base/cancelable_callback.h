@@ -44,6 +44,12 @@
 // timeout.Cancel();  // Hopefully this is hit before the timeout callback runs.
 //
 
+// ---docerion
+// type: source
+// title: Cancelable callback wrappers
+// summary: Defines CancelableOnceCallback and CancelableRepeatingCallback wrappers that let posted callbacks be cancelled, reset, and queried, with sequenced task runner thread-safety rules.
+// ---
+
 #ifndef BASE_CANCELABLE_CALLBACK_H_
 #define BASE_CANCELABLE_CALLBACK_H_
 

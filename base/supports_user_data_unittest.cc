@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SupportsUserData
+// summary: GoogleTest suite verifying recursive clearing, move semantics, ClearAllUserData, TakeUserData, and reentrant removal and set behavior of SupportsUserData.
+// ---
+
 #include "base/supports_user_data.h"
 
 #include "base/features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ shim for Rust command line bindings
+// summary: Implements free functions that wrap base::CommandLine operations for the Rust FFI, converting between Rust and C++ string types on Windows and POSIX.
+// ---
+
 #include "base/command_line_rust_shim.h"
 
 #include <memory>

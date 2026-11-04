@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtExitManager implementation
+// summary: Implements registration and LIFO processing of at-exit callbacks and tasks, with support for shadowing and disabling managers.
+// ---
+
 #include "base/at_exit.h"
 
 #include <stddef.h>

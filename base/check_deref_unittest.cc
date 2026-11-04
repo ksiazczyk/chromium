@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CHECK_DEREF unit tests
+// summary: Unit tests for the CHECK_DEREF macro covering raw pointers, smart pointers, function call results, and move-only types, including death tests for null dereferences.
+// ---
+
 #include "base/check_deref.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows ETW log event provider header
+// summary: Declares the LogEventProvider class, log event GUID, enable masks, and message types for transporting log messages via Event Tracing for Windows.
+// ---
+
 #ifndef BASE_LOGGING_WIN_H_
 #define BASE_LOGGING_WIN_H_
 

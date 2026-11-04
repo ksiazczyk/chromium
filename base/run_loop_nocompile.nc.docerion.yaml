@@ -1,0 +1,4 @@
+# Docerion header of run_loop_nocompile.nc.
+type: test
+title: RunLoop no-compile tests
+summary: No-compile test asserting that QuitClosure and QuitWhenIdleClosure cannot be called on rvalue RunLoop instances.

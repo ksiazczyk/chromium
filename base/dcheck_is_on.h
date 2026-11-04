@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCHECK_IS_ON macro definitions
+// summary: Defines macros reporting whether DCHECKs, expensive DCHECKs, and check elision warnings are enabled in the current build.
+// ---
+
 #ifndef BASE_DCHECK_IS_ON_H_
 #define BASE_DCHECK_IS_ON_H_
 

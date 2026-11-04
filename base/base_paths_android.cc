@@ -5,6 +5,12 @@
 // Defines base::PathProviderAndroid which replaces base::PathProviderPosix for
 // Android in base/path_service.cc.
 
+// ---docerion
+// type: source
+// title: Android path provider
+// summary: Implements PathProviderAndroid, resolving executable, module, cache, app data, and external storage paths on Android.
+// ---
+
 #include "base/base_paths.h"
 
 #include <limits.h>

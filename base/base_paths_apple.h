@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple path helper declarations
+// summary: Declares internal Apple helpers for obtaining the executable path and the module path containing a given address.
+// ---
+
 #ifndef BASE_BASE_PATHS_APPLE_H_
 #define BASE_BASE_PATHS_APPLE_H_
 

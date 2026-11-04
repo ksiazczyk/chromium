@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base library feature flag definitions
+// summary: Defines base library feature flags and parameters such as low-end memory thresholds, i18n optimizations, and base64 encoding options.
+// ---
+
 #include "base/features.h"
 
 #include <atomic>

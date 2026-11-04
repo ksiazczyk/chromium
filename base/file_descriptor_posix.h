@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX file descriptor wrapper declaration
+// summary: Declares base::FileDescriptor, a file descriptor with an auto-close flag intended mainly for sending descriptors over IPC.
+// ---
+
 #ifndef BASE_FILE_DESCRIPTOR_POSIX_H_
 #define BASE_FILE_DESCRIPTOR_POSIX_H_
 

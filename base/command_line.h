@@ -13,6 +13,12 @@
 // There is a singleton read-only CommandLine that represents the command line
 // that the current process was started with.  It must be initialized in main().
 
+// ---docerion
+// type: source
+// title: CommandLine class declaration
+// summary: Declares the base::CommandLine class for building and parsing command lines, with switches, arguments, and a read-only singleton for the current process.
+// ---
+
 #ifndef BASE_COMMAND_LINE_H_
 #define BASE_COMMAND_LINE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe bit_cast utility
+// summary: Provides base::bit_cast, a constexpr equivalent of C++20 std::bit_cast with static assertions against pointers, references, and size mismatches.
+// ---
+
 #ifndef BASE_BIT_CAST_H_
 #define BASE_BIT_CAST_H_
 

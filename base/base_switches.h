@@ -4,6 +4,12 @@
 
 // Defines all the "base" command-line switches.
 
+// ---docerion
+// type: source
+// title: Base command-line switch definitions
+// summary: Declares constants for all base command-line switches, including feature flags, crash reporting, field trials, metrics, and profiling options.
+// ---
+
 #ifndef BASE_BASE_SWITCHES_H_
 #define BASE_BASE_SWITCHES_H_
 

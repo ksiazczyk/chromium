@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for base
+summary: Defines which directories base may include from and forbids dependencies such as ipc, url, i18n and util.

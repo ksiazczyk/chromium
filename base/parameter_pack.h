@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParameterPack compile-time type list utilities
+// summary: Provides constexpr helpers and a ParameterPack template for querying, indexing, and concatenating template parameter packs.
+// ---
+
 #ifndef BASE_PARAMETER_PACK_H_
 #define BASE_PARAMETER_PACK_H_
 

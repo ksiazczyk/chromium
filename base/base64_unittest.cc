@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base64 unit tests
+// summary: Parameterized unit tests verifying base64 encode and decode results across strict and forgiving policies and the simdutf feature flag state.
+// ---
+
 #include "base/base64.h"
 
 #include <string_view>

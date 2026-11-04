@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security tests for allocation overflow
+// summary: Tests that oversized multi-dimensional array allocations fail instead of succeeding with a wrong size when size_t overflows, with platform-specific soft expectations.
+// ---
+
 #include <fcntl.h>
 #include <stddef.h>
 #include <stdio.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line parsing implementation
+// summary: Implements parsing and manipulation of process command lines, including switch prefixes, value separators, and platform-specific behavior for Windows and POSIX.
+// ---
+
 #include "base/command_line.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base64url encoding unit tests
+// summary: Unit tests covering Base64UrlEncode and Base64UrlDecode across the include, omit, ignore, and disallow padding policies.
+// ---
+
 #include "base/base64url.h"
 
 #include <algorithm>

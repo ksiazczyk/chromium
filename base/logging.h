@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging macros and API header
+// summary: Declares the LOG, LOG_IF, CHECK, DLOG, LOG_ASSERT, and VLOG macros along with logging settings and verbose module-based filtering behavior.
+// ---
+
 #ifndef BASE_LOGGING_H_
 #define BASE_LOGGING_H_
 

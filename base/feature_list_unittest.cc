@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeatureList unit tests
+// summary: Unit tests covering FeatureList behavior, including default states, command-line overrides, field trials, feature parameters, and runtime mutability.
+// ---
+
 #include "base/feature_list.h"
 
 #include <stddef.h>

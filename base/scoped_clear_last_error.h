@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedClearLastError declaration
+// summary: Declares scoped classes that save, clear, and restore thread-local error codes such as errno and the Windows last error.
+// ---
+
 #ifndef BASE_SCOPED_CLEAR_LAST_ERROR_H_
 #define BASE_SCOPED_CLEAR_LAST_ERROR_H_
 

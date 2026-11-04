@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoDestructor helper for function-local statics
+// summary: Defines base::NoDestructor<T>, a wrapper that prevents a value's destructor from running, intended for function-local statics with non-trivial destructors.
+// ---
+
 #ifndef BASE_NO_DESTRUCTOR_H_
 #define BASE_NO_DESTRUCTOR_H_
 

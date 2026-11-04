@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observer list unit tests
+// summary: Tests ObserverList iteration, reentrancy, removal during notification, and checked versus unchecked observer behavior.
+// ---
+
 #include "base/observer_list.h"
 
 #include <array>

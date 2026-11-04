@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequence and task token implementation
+// summary: Implements SequenceToken, TaskToken, and TaskScope, which track the current sequence and task per thread for use by sequence checking.
+// ---
+
 #include "base/sequence_token.h"
 
 #include "base/atomic_sequence_num.h"

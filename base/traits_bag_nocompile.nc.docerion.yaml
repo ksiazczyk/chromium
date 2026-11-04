@@ -1,0 +1,4 @@
+# Docerion header of traits_bag_nocompile.nc.
+type: test
+title: Traits bag no-compile tests
+summary: No-compile test suite asserting that invalid trait bag usage, such as missing or duplicate traits, fails to compile.

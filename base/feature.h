@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature flag declaration and definition macros
+// summary: Defines the BASE_DECLARE_FEATURE and BASE_FEATURE macros for declaring and defining base::Feature flags with names and default states, including runtime mutable features.
+// ---
+
 #ifndef BASE_FEATURE_H_
 #define BASE_FEATURE_H_
 

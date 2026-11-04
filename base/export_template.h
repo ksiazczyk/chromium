@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macros for explicit template instantiations
+// summary: Header providing EXPORT_TEMPLATE_DECLARE and EXPORT_TEMPLATE_DEFINE macros so FOO_EXPORT macros work correctly with explicit template instantiations across GCC and MSVC.
+// ---
+
 #ifndef BASE_EXPORT_TEMPLATE_H_
 #define BASE_EXPORT_TEMPLATE_H_
 

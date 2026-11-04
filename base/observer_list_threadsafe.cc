@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread-safe observer list internals
+// summary: Implements thread-local tracking of the current notification for ObserverListThreadSafe, including an MSAN false-positive workaround.
+// ---
+
 #include "base/observer_list_threadsafe.h"
 
 #include "base/compiler_specific.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX file descriptor wrapper implementation
+// summary: Implements the base::FileDescriptor struct for POSIX, including constructors from files and scoped FDs plus a comparison operator.
+// ---
+
 #include "base/file_descriptor_posix.h"
 
 #include "base/files/file.h"

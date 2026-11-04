@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the base library
+summary: GN build file defining targets, sources, build arguments and per-platform inclusion rules for //base.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Value iterator unit tests
+// summary: Tests for the dictionary value iterators, checking assignment traits, dereference, increment and decrement, and equality comparisons.
+// ---
+
 #include "base/value_iterators.h"
 
 #include <type_traits>

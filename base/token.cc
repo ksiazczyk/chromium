@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token implementation
+// summary: Implements random 128-bit Token creation, byte and string conversion, strict string parsing, and pickle serialization.
+// ---
+
 #include "base/token.h"
 
 #include <inttypes.h>

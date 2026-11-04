@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaxed atomic memcpy implementation
+// summary: Implements RelaxedAtomicWriteMemcpy, copying bytes with relaxed atomic stores so concurrent readers observe consistent data.
+// ---
+
 #include "base/atomicops.h"
 
 #include <atomic>

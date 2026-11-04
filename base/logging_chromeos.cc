@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS syslog log message formatting
+// summary: Implements LogMessage::InitWithSyslogPrefix to format Chrome OS log headers with UTC timestamps, tick counts, severity, program name, and process and thread IDs.
+// ---
+
 // Define _GNU_SOURCE to ensure that <errno.h> defines
 // program_invocation_short_name which is used in GetProgramName(). Keep this at
 // the top of the file since some system headers might include <errno.h> and the

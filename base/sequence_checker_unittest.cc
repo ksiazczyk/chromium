@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SequenceChecker
+// summary: Tests SequenceCheckerImpl binding and validation across threads, sequence tokens, task scopes, and lock-based mutual exclusion scenarios.
+// ---
+
 #include "base/sequence_checker.h"
 
 #include <stddef.h>

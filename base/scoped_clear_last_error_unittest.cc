@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedClearLastError unit tests
+// summary: Tests that ScopedClearLastError clears errno and Windows last-error values within its scope and restores them afterwards.
+// ---
+
 #include "base/scoped_clear_last_error.h"
 
 #include "base/logging.h"

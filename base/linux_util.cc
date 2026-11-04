@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux utility implementation
+// summary: Implements Linux distro detection from os-release files plus helpers for enumerating process threads and finding threads by syscall or namespace id.
+// ---
+
 #include "base/linux_util.h"
 
 #include <dirent.h>

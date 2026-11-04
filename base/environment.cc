@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Environment variable access implementation
+// summary: Implements the base::Environment class for getting, setting, unsetting and querying environment variables on Windows, POSIX and Fuchsia, with case-insensitive fallback lookup.
+// ---
+
 #include "base/environment.h"
 
 #include <memory>

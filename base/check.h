@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CHECK and DCHECK macros
+// summary: Defines the CHECK, DCHECK, and DPCHECK macros plus CheckError, supporting streamed messages and optional NotFatalUntil milestones for non-fatal rollouts.
+// ---
+
 #ifndef BASE_CHECK_H_
 #define BASE_CHECK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncSocket shared implementation
+// summary: Platform-neutral parts of SyncSocket and CancelableSyncSocket, defining constructors, handle ownership, and the invalid handle constant.
+// ---
+
 #include "base/sync_socket.h"
 
 namespace base {

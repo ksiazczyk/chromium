@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac-specific path keys for the base module
+// summary: Declares Mac-specific path keys, such as DIR_APP_DATA, that can be used with the base PathService.
+// ---
+
 #ifndef BASE_BASE_PATHS_MAC_H_
 #define BASE_BASE_PATHS_MAC_H_
 

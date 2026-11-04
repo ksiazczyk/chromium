@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Byte size formatting implementation
+// summary: Implements stream output for ByteSize and ByteSizeDelta, rendering magnitudes in binary units such as KiB through EiB.
+// ---
+
 #include "base/byte_size.h"
 
 #include <ostream>

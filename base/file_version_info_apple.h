@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple file version information declaration
+// summary: Declares FileVersionInfoApple, the Apple implementation of FileVersionInfo backed by an NSBundle.
+// ---
+
 #ifndef BASE_FILE_VERSION_INFO_APPLE_H_
 #define BASE_FILE_VERSION_INFO_APPLE_H_
 

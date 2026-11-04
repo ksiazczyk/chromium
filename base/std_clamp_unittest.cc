@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for std::clamp hardening on invalid arguments
+// summary: Verifies that libc++ hardening makes std::clamp terminate instead of causing undefined behavior when arguments are in the wrong order.
+// ---
+
 #include <algorithm>
 #include <tuple>
 

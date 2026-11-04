@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotFatalUntil milestone enum
+// summary: Defines the base::NotFatalUntil enum of Chrome milestones used to make CHECK and NOTREACHED failures non-fatal until a given milestone is reached.
+// ---
+
 #ifndef BASE_NOT_FATAL_UNTIL_H_
 #define BASE_NOT_FATAL_UNTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observer list internal adapters
+// summary: Declares CheckedObserverAdapter and UncheckedObserverAdapter used by ObserverList to store, compare, and mark observer pointers for removal.
+// ---
+
 #ifndef BASE_OBSERVER_LIST_INTERNAL_H_
 #define BASE_OBSERVER_LIST_INTERNAL_H_
 

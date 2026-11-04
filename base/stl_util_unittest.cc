@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for STL utility helpers
+// summary: GoogleTest suite covering GetUnderlyingContainer, STLSetDifference, STLSetUnion, and related helpers from base/stl_util.h across standard and base containers.
+// ---
+
 #include "base/stl_util.h"
 
 #include <array>

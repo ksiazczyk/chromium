@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequenceCheckerImpl class declaration
+// summary: Declares the real SequenceChecker implementation with CalledOnValidSequence, DetachFromSequence, and move support for verifying sequence mutual exclusion.
+// ---
+
 #ifndef BASE_SEQUENCE_CHECKER_IMPL_H_
 #define BASE_SEQUENCE_CHECKER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia path provider
+// summary: Implements PathProviderFuchsia, resolving executable, asset, and test data paths from the Fuchsia package root.
+// ---
+
 #include "base/base_paths.h"
 
 #include <stdlib.h>

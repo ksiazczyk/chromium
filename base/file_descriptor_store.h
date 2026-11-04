@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File descriptor store declaration
+// summary: Declares the FileDescriptorStore singleton used to share file descriptors from a process to its child via unique keys.
+// ---
+
 #ifndef BASE_FILE_DESCRIPTOR_STORE_H_
 #define BASE_FILE_DESCRIPTOR_STORE_H_
 

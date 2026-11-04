@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportsUserData class declaration
+// summary: Declares the SupportsUserData helper for attaching keyed data to objects, its Data interface, and UserDataAdapter for holding refcounted objects.
+// ---
+
 #ifndef BASE_SUPPORTS_USER_DATA_H_
 #define BASE_SUPPORTS_USER_DATA_H_
 

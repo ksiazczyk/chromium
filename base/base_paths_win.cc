@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows path provider for the base path service
+// summary: Implements PathProviderWin, resolving Windows system, program files, start menu, app data, and other special directories via the Windows API.
+// ---
+
 #include "base/base_paths.h"
 
 #include <windows.h>

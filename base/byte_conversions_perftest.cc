@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Byte conversion performance tests
+// summary: Benchmarks measuring aligned and misaligned big-endian byte conversion read and write performance for various integer widths.
+// ---
+
 #include "base/numerics/byte_conversions.h"
 
 #include <stddef.h>

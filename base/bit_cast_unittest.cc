@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bit cast unit tests
+// summary: Unit tests verifying that base::bit_cast round-trips values between float, int and simple struct representations.
+// ---
+
 #include "base/bit_cast.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

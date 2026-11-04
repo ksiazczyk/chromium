@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RunLoop unit tests
+// summary: Unit tests for base::RunLoop covering nested loops, task runner behavior, test delegates, and quit conditions.
+// ---
+
 #include "base/run_loop.h"
 
 #include <functional>

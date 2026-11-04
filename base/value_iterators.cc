@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value dictionary iterator implementation
+// summary: Implements dict_iterator and const_dict_iterator for base dictionary values, exposing key-value references without copying the underlying unique_ptr storage.
+// ---
+
 #include "base/value_iterators.h"
 
 #include "base/values.h"

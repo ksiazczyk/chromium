@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback list subscription implementation
+// summary: Implements CallbackListSubscription, which runs its stored cancellation closure when the subscription is destroyed, reassigned, or run explicitly.
+// ---
+
 #include "base/callback_list.h"
 
 #include <utility>

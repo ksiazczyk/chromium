@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RunLoop Rust shim header
+// summary: Declares functions to create, run, quit, and run-until-idle a base RunLoop on the heap so it can be passed across the Rust cxx bridge.
+// ---
+
 #ifndef BASE_RUN_LOOP_RUST_SHIM_H_
 #define BASE_RUN_LOOP_RUST_SHIM_H_
 

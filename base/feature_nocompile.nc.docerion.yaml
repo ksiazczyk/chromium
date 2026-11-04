@@ -1,0 +1,4 @@
+# Docerion header of feature_nocompile.nc.
+type: test
+title: Feature macro no-compile tests
+summary: No-compile test suite asserting that invalid BASE_FEATURE and country-restricted feature macro usages fail to compile with the expected errors.
