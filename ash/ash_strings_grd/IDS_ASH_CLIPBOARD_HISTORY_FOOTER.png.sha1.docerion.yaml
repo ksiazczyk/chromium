@@ -1,0 +1,4 @@
+# Docerion header of IDS_ASH_CLIPBOARD_HISTORY_FOOTER.png.sha1.
+type: data
+title: Clipboard history footer screenshot SHA1
+summary: Holds the SHA1 checksum of the PNG screenshot for the clipboard history footer string in the Ash UI.
