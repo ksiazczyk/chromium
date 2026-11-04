@@ -1,0 +1,4 @@
+# Docerion header of IDS_UPDATER_ERROR_DISABLED.png.sha1.
+type: data
+title: SHA-1 checksum for IDS_UPDATER_ERROR_DISABLED.png
+summary: Stores the 40-character SHA-1 digest of the PNG snapshot generated for the Updater disabled error message string.

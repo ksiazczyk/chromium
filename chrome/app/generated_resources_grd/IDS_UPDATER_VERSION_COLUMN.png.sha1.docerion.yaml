@@ -1,0 +1,4 @@
+# Docerion header of IDS_UPDATER_VERSION_COLUMN.png.sha1.
+type: data
+title: IDS_UPDATER_VERSION_COLUMN screenshot hash
+summary: Stores the SHA1 hash of the reference screenshot for the updater version column label.
