@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_id.xtb.
+type: config
+title: ChromeOS Indonesian locale settings bundle
+summary: Empty XML translation bundle holding locale settings for Indonesian on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_ko.xtb.
+type: config
+title: ChromeOS Korean locale font settings bundle
+summary: XML translation bundle setting Korean font families such as Noto Sans CJK KR and minimum font sizes for ChromeOS.

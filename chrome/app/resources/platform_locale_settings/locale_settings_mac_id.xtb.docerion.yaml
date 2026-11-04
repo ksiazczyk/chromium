@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_id.xtb.
+type: config
+title: Mac locale font settings for Indonesian (id)
+summary: Translation bundle with Chrome's Indonesian locale font settings for macOS, defining a minimum logical font size of 6.

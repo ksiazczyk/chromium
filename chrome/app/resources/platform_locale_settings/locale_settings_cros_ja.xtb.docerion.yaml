@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_ja.xtb.
+type: config
+title: ChromeOS Japanese locale font settings bundle
+summary: XML translation bundle setting Japanese font families such as Noto Sans CJK JP and minimum font sizes for ChromeOS.

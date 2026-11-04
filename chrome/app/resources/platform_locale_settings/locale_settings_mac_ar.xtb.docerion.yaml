@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_ar.xtb.
+type: config
+title: Mac Arabic locale settings
+summary: Translation bundle defining fixed, serif and sans-serif font families and minimum font sizes of 10 for Arabic on Mac.

@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_en-GB.xtb.
+type: data
+title: macOS British English locale settings translation bundle
+summary: Translation bundle setting the minimum logical font size to 6 for British English on macOS.

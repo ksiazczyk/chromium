@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_es.xtb.
+type: data
+title: macOS Spanish locale settings translation bundle
+summary: Translation bundle setting the minimum logical font size to 6 for Spanish on macOS.

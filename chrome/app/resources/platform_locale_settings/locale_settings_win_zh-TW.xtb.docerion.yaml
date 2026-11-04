@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_zh-TW.xtb.
+type: config
+title: Traditional Chinese (zh-TW) Windows locale settings bundle
+summary: Translation bundle defining the Traditional Chinese Windows cursive font DFKai-SB and a minimum font size of 12.

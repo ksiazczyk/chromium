@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_pt-BR.xtb.
+type: data
+title: Mac pt-BR locale settings translation bundle
+summary: Defines the minimum logical font size of 6 for Brazilian Portuguese locale settings on macOS.

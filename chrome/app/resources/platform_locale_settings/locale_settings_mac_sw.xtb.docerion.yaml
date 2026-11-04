@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_sw.xtb.
+type: data
+title: Mac Swahili locale settings translation bundle
+summary: Defines the minimum logical font size of 6 for Swahili locale settings on macOS.

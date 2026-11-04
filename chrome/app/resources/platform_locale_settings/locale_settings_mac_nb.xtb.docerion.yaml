@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_nb.xtb.
+type: config
+title: Norwegian macOS locale font settings
+summary: Norwegian locale settings for Chrome on macOS, setting the minimum logical font size to 6.

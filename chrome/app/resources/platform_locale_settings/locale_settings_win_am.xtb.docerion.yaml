@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_am.xtb.
+type: config
+title: Windows Amharic locale settings
+summary: Windows Amharic locale settings bundle that is empty and overrides no platform font defaults.

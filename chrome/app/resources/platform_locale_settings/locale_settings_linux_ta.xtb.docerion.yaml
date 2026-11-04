@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_ta.xtb.
+type: config
+title: Linux Tamil locale settings
+summary: Empty translation bundle holding platform locale settings for Tamil on Linux.

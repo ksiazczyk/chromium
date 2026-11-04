@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_zh-TW.xtb.
+type: config
+title: Mac Traditional Chinese locale settings
+summary: Mac Traditional Chinese locale settings bundle defining PingFang TC and Songti TC font families and minimum font sizes of 12.

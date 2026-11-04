@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_tr.xtb.
+type: config
+title: Mac Turkish locale settings
+summary: Mac Turkish locale settings bundle that sets the minimum logical font size to 6.

@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_am.xtb.
+type: config
+title: Mac Amharic locale settings
+summary: Translation bundle setting the minimum logical font size to 6 for Amharic on Mac.

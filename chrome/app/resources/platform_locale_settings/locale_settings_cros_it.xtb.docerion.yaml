@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_it.xtb.
+type: config
+title: ChromeOS Italian locale settings bundle
+summary: Empty XML translation bundle holding locale settings for Italian on ChromeOS.

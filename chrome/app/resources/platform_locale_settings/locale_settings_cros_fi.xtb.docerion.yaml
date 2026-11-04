@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_fi.xtb.
+type: data
+title: Chrome OS locale settings for Finnish
+summary: Empty XTB translation bundle for Chrome OS Finnish platform locale settings, defining no locale-specific overrides.

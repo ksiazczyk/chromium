@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_ml.xtb.
+type: config
+title: ChromeOS Malayalam locale settings bundle
+summary: Empty XML translation bundle holding locale settings for Malayalam on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_hu.xtb.
+type: config
+title: ChromeOS Hungarian locale settings bundle
+summary: Empty XML translation bundle holding locale settings for Hungarian on ChromeOS.

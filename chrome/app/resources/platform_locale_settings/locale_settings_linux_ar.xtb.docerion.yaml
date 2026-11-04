@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_ar.xtb.
+type: config
+title: Arabic locale settings for Linux
+summary: Sets a minimum font size of 10 for Arabic on Linux.

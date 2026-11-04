@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_he.xtb.
+type: data
+title: Chrome OS locale settings for Hebrew
+summary: Empty XTB translation bundle for Chrome OS Hebrew platform locale settings, defining no locale-specific overrides.

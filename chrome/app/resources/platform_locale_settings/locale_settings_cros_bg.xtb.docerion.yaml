@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_bg.xtb.
+type: config
+title: Bulgarian Chrome OS locale settings
+summary: Empty translation bundle supplying platform locale settings for Bulgarian on Chrome OS.

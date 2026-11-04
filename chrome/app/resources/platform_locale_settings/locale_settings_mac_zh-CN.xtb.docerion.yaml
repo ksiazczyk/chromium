@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_zh-CN.xtb.
+type: config
+title: Mac Simplified Chinese locale settings
+summary: Mac Simplified Chinese locale settings bundle defining PingFang SC and Songti SC font families and minimum font sizes of 12.

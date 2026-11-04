@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_lt.xtb.
+type: config
+title: Lithuanian macOS locale font settings
+summary: Lithuanian locale settings for Chrome on macOS, setting the minimum logical font size to 6.

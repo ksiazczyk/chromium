@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_en-GB.xtb.
+type: config
+title: British English Chrome OS locale settings
+summary: Empty translation bundle supplying platform locale settings for British English on Chrome OS.

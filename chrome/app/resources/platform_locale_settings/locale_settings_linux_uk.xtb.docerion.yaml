@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_uk.xtb.
+type: config
+title: Linux Ukrainian locale settings
+summary: Empty translation bundle providing no locale-specific font settings for Ukrainian on Linux.

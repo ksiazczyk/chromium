@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_gu.xtb.
+type: config
+title: Mac locale font settings for Gujarati (gu)
+summary: Translation bundle with Chrome's Gujarati locale font settings for macOS, defining a minimum logical font size of 6.

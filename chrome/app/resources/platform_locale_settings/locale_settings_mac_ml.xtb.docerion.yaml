@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_ml.xtb.
+type: config
+title: Malayalam macOS locale font settings
+summary: Malayalam locale settings for Chrome on macOS, setting the minimum logical font size to 6.

@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_lv.xtb.
+type: data
+title: Windows Latvian locale settings
+summary: Empty translation bundle providing no Windows-specific locale settings overrides for Latvian.

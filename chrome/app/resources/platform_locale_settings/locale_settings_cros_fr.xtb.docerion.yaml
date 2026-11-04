@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_fr.xtb.
+type: data
+title: Chrome OS locale settings for French
+summary: Empty XTB translation bundle for Chrome OS French platform locale settings, defining no locale-specific overrides.

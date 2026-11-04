@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_ms.xtb.
+type: data
+title: Windows Malay locale settings
+summary: Empty translation bundle providing no Windows-specific locale settings overrides for Malay.

@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_ca.xtb.
+type: config
+title: Catalan Windows locale settings translation bundle
+summary: Empty translation bundle for Catalan locale settings on Windows, defining no locale-specific overrides.

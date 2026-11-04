@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_de.xtb.
+type: config
+title: German Windows locale settings translation bundle
+summary: Empty translation bundle for German locale settings on Windows, defining no locale-specific overrides.

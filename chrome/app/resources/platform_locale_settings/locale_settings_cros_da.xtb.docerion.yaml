@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_da.xtb.
+type: config
+title: Danish Chrome OS locale settings
+summary: Empty translation bundle supplying platform locale settings for Danish on Chrome OS.

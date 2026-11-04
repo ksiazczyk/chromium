@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_bn.xtb.
+type: config
+title: Bengali Windows locale settings translation bundle
+summary: Translation bundle with Bengali locale settings for Chrome on Windows, setting the default sans-serif font family to Vrinda.

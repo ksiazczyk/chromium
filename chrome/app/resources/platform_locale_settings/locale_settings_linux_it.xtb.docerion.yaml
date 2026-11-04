@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_it.xtb.
+type: config
+title: Linux locale settings for Italian
+summary: Empty XTB translation bundle that supplies no Italian-specific font or size overrides for Chrome on Linux.

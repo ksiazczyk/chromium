@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_es.xtb.
+type: data
+title: Chrome OS locale settings for Spanish
+summary: Empty XTB translation bundle for Chrome OS Spanish platform locale settings, defining no locale-specific overrides.

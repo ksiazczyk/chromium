@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_tr.xtb.
+type: config
+title: Linux Turkish locale settings
+summary: Empty translation bundle providing no locale-specific font settings for Turkish on Linux.

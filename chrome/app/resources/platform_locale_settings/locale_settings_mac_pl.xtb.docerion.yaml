@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_pl.xtb.
+type: config
+title: Polish macOS locale font settings
+summary: Polish locale settings for Chrome on macOS, setting the minimum logical font size to 6.

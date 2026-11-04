@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_de.xtb.
+type: config
+title: German Chrome OS locale settings
+summary: Empty translation bundle supplying platform locale settings for German on Chrome OS.

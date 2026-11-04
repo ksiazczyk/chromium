@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_ar.xtb.
+type: config
+title: Windows Arabic locale settings
+summary: Windows Arabic locale settings bundle setting the minimum and minimum logical font sizes to 10.

@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_ro.xtb.
+type: config
+title: Linux Romanian locale settings
+summary: Empty translation bundle holding platform locale settings for Romanian on Linux.

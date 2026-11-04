@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_te.xtb.
+type: config
+title: Linux Telugu locale settings
+summary: Empty translation bundle holding platform locale settings for Telugu on Linux.

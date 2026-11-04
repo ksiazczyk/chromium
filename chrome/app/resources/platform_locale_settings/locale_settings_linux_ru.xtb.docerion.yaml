@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_ru.xtb.
+type: config
+title: Linux Russian locale settings
+summary: Empty translation bundle holding platform locale settings for Russian on Linux.

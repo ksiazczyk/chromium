@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_ja.xtb.
+type: config
+title: Mac locale font settings for Japanese (ja)
+summary: Translation bundle with Chrome's Japanese locale font settings for macOS, defining Hiragino font families and minimum font sizes of 10.

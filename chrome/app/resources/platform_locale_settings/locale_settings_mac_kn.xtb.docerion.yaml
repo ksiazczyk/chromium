@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_kn.xtb.
+type: config
+title: Kannada macOS locale font settings
+summary: Kannada locale settings for Chrome on macOS, setting the minimum logical font size to 6.

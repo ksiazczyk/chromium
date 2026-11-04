@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_hr.xtb.
+type: config
+title: Mac locale font settings for Croatian (hr)
+summary: Translation bundle with Chrome's Croatian locale font settings for macOS, defining a minimum logical font size of 6.

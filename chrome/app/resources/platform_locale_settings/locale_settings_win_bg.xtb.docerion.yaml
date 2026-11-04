@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_bg.xtb.
+type: config
+title: Windows Bulgarian locale settings
+summary: Windows Bulgarian locale settings bundle that is empty and overrides no platform font defaults.

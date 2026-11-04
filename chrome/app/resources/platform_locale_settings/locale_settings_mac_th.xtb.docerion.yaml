@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_th.xtb.
+type: config
+title: Mac Thai locale settings
+summary: Mac Thai locale settings bundle setting the minimum and minimum logical font sizes to 10.

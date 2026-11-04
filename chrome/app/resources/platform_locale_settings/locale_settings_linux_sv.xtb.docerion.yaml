@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_sv.xtb.
+type: config
+title: Linux Swedish locale settings
+summary: Empty translation bundle holding platform locale settings for Swedish on Linux.
