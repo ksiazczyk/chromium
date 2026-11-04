@@ -1,0 +1,4 @@
+# Docerion header of IDS_SUPPORT_TOOL_DEVICE_EVENT.png.sha1.
+type: data
+title: SHA-1 hash for device event image
+summary: Holds the SHA-1 hash of the PNG image showing the device event entry in the Chrome Support Tool UI.

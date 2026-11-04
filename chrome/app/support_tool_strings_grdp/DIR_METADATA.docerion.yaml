@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Support tool strings DIR_METADATA
+summary: Directory metadata assigning ChromeOS commercial supportability buganizer components and team email for the support tool strings resources.

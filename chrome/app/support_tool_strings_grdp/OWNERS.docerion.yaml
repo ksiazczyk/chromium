@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the support tool strings directory
+summary: Points to chrome/browser/support_tool/OWNERS as the owner of this directory of string context image hashes.

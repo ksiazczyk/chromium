@@ -1,3 +1,9 @@
+---
+type: readme
+title: Profile shortcut icon migration notes
+summary: Explains that whenever chromium.ico changes, kCurrentProfileIconVersion in profile_shortcut_manager_win.cc must be incremented so runtime-generated profile shortcut icons are migrated.
+---
+
 Whenever chromium.ico changes, the profile shortcut icons (generated dynamically
 at runtime) need to be migrated to the new icon. Please increment the constant
 kCurrentProfileIconVersion in

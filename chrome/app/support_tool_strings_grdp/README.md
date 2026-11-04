@@ -1,3 +1,9 @@
+---
+type: readme
+title: Support tool strings directory README
+summary: Explains that the directory stores SHA-1 hashes of context images used to help translators with support tool UI strings.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

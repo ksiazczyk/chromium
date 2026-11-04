@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for theme resources
+# summary: Runs image scale factor and ICO file checks on theme resource changes before upload and commit.
+# ---
+
 """Presubmit script for Chromium theme resources.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

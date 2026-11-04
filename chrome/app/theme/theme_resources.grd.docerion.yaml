@@ -1,0 +1,4 @@
+# Docerion header of theme_resources.grd.
+type: config
+title: Scaled theme resource manifest
+summary: GRD manifest listing pre-scaled theme images packaged per device scale factor.

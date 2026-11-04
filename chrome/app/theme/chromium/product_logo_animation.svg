@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Chromium product logo animation
+summary: Animated SVG of the Chromium logo that rotates, scales, and fades the logo segments over a one-second animation.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
   <g opacity="1" style="mix-blend-mode:normal">
     <defs>
