@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsPromoHandler
+// summary: Interface implemented by feature teams to supply UI data, user action handling and Java-only eligibility signals for the Tips bottom sheet promo.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsOptInCoordinator
+// summary: Coordinator for the Tips Opt In bottom sheet that shows the opt-in UI, tracks user interactions and records metrics.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import android.content.ComponentCallbacks;

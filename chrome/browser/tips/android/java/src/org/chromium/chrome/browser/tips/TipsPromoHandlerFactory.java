@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsPromoHandlerFactory
+// summary: Registry and factory that manages and creates TipsPromoHandler instances for eligible feature tips and collects their custom signals.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import android.util.SparseArray;

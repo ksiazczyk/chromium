@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tips service unit tests
+// summary: Unit tests for TipsService covering best tip determination with mock features, including missing database client, successful evaluation, ranking, and error cases.
+// ---
+
 #include "chrome/browser/tips/core/tips_service.h"
 
 #include <map>

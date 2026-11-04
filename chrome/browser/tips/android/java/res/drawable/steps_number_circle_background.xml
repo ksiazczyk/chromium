@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Steps number circle background drawable
+summary: Oval shape drawable providing a tinted 24dp circular background for step number badges in the Android tips UI.
+-->
+
 <shape
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom omnibox tip class declaration
+// summary: Declares BottomOmniboxTip, a TipsFeature subclass providing rank, feature type, required signals, eligibility and notification data for the bottom omnibox tip.
+// ---
+
 #ifndef CHROME_BROWSER_TIPS_FEATURES_BOTTOM_OMNIBOX_TIP_H_
 #define CHROME_BROWSER_TIPS_FEATURES_BOTTOM_OMNIBOX_TIP_H_
 

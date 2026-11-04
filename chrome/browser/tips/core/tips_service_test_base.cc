@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tips service test base implementation
+// summary: Implements test doubles and helpers for tips service tests, including a fake database client with overridable signal values, error simulation, and UMA recording helpers.
+// ---
+
 #include "chrome/browser/tips/core/tips_service_test_base.h"
 
 #include <utility>

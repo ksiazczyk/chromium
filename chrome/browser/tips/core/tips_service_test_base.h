@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tips service test base header
+// summary: Declares the TipsServiceTestBase fixture, a fake segmentation platform service and database client, and helpers for running best tip determination tests.
+// ---
+
 #ifndef CHROME_BROWSER_TIPS_CORE_TIPS_SERVICE_TEST_BASE_H_
 #define CHROME_BROWSER_TIPS_CORE_TIPS_SERVICE_TEST_BASE_H_
 

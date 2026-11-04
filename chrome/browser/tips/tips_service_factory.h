@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsServiceFactory class declaration
+// summary: Declares TipsServiceFactory, a ProfileKeyedServiceFactory that provides a TipsService instance for a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_TIPS_TIPS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_TIPS_TIPS_SERVICE_FACTORY_H_
 

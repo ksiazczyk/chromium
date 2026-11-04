@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsPromoProperties
+// summary: Property model definitions for the Tips Notifications promo bottom sheet, including promo data and screen state keys.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import android.view.View.OnClickListener;

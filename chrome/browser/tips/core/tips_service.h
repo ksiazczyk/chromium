@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tips service interface
+// summary: Declares TipsService, a keyed service that registers modular tips features and selects the best eligible tip using segmentation platform signals and custom runtime signals.
+// ---
+
 #ifndef CHROME_BROWSER_TIPS_CORE_TIPS_SERVICE_H_
 #define CHROME_BROWSER_TIPS_CORE_TIPS_SERVICE_H_
 

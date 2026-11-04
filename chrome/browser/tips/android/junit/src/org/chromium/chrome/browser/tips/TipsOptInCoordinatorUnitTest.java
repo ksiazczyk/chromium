@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TipsOptInCoordinatorUnitTest
+// summary: Robolectric unit tests for TipsOptInCoordinator covering the notifications opt-in promo bottom sheet, its preferences, snackbar, and notification channel behavior.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import static org.junit.Assert.assertEquals;

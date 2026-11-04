@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom omnibox tip implementation
+// summary: Implements the BottomOmniboxTip feature, checking eligibility via prefs, feature flags and runtime signals, and building its notification data.
+// ---
+
 #include "chrome/browser/tips/features/bottom_omnibox_tip.h"
 
 #include <map>

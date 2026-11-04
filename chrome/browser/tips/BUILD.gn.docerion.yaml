@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the tips static library
+summary: GN build file that defines the tips static library, listing its sources and dependencies, with an extra dependency for Android builds.

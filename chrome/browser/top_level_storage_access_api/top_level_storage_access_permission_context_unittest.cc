@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Top-Level Storage Access permission context
+// summary: Tests permission decisions for the Storage Access API, covering First-Party Sets grants, denials, and request outcome histograms.
+// ---
+
 #include "chrome/browser/top_level_storage_access_api/top_level_storage_access_permission_context.h"
 
 #include "base/test/metrics/histogram_tester.h"

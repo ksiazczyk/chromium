@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tips signal keys for Java runtime signals
+// summary: Defines keys for Java-only runtime signals consumed by tips features in eligibility checks, which are generated into Java constants via java_cpp_strings.
+// ---
+
 #ifndef CHROME_BROWSER_TIPS_CORE_TIPS_SIGNAL_KEYS_H_
 #define CHROME_BROWSER_TIPS_CORE_TIPS_SIGNAL_KEYS_H_
 

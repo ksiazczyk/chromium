@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete tip implementation
+// summary: Implements the Quick Delete tips notification feature, defining eligibility rules based on prefs, feature flags, and Magic Stack impression signals, plus notification data.
+// ---
+
 #include "chrome/browser/tips/features/quick_delete_tip.h"
 
 #include <map>

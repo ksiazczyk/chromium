@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsPromoView
+// summary: Custom ViewFlipper view for the tips promo bottom sheet that displays main and detail screens and binds promo data.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Lens tip class declaration
+// summary: Declares GoogleLensTip, a TipsFeature subclass with four 28-day Lens user action signals and notification data for the Google Lens tip.
+// ---
+
 #ifndef CHROME_BROWSER_TIPS_FEATURES_GOOGLE_LENS_TIP_H_
 #define CHROME_BROWSER_TIPS_FEATURES_GOOGLE_LENS_TIP_H_
 

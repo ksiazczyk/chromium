@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top-Level Storage Access permission context header
+// summary: Declares the TopLevelStorageAccessPermissionContext class and the TopLevelStorageAccessRequestOutcome enum used for logging request outcomes.
+// ---
+
 #ifndef CHROME_BROWSER_TOP_LEVEL_STORAGE_ACCESS_API_TOP_LEVEL_STORAGE_ACCESS_PERMISSION_CONTEXT_H_
 #define CHROME_BROWSER_TOP_LEVEL_STORAGE_ACCESS_API_TOP_LEVEL_STORAGE_ACCESS_PERMISSION_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bottom omnibox tip unit tests
+// summary: Unit and integration tests covering the bottom omnibox tip's rank, signals, notification data and eligibility conditions.
+// ---
+
 #include "chrome/browser/tips/features/bottom_omnibox_tip.h"
 
 #include <map>

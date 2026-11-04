@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsFeature interface and Android feature parameters
+// summary: Declares the TipsFeature abstract interface that feature teams implement to register tips notifications, plus Android field trial parameters for notification scheduling.
+// ---
+
 #ifndef CHROME_BROWSER_TIPS_CORE_TIPS_FEATURE_H_
 #define CHROME_BROWSER_TIPS_CORE_TIPS_FEATURE_H_
 

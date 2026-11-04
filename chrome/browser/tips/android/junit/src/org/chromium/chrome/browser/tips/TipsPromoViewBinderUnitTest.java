@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TipsPromoViewBinderUnitTest
+// summary: Robolectric unit tests for TipsPromoViewBinder verifying layout inflation, child view caching, screen switching, and binding of promo data to the tips promo bottom sheet views.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import static org.junit.Assert.assertEquals;

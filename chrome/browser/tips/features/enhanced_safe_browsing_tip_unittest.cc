@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enhanced Safe Browsing tip unit tests
+// summary: Unit and integration tests covering the Enhanced Safe Browsing tip's signals, notification data and eligibility conditions.
+// ---
+
 #include "chrome/browser/tips/features/enhanced_safe_browsing_tip.h"
 
 #include <map>

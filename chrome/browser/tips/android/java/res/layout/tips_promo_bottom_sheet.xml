@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Tips promo bottom sheet layout
+summary: Root layout for the tips promo bottom sheet, using a TipsPromoView view flipper that includes the main sheet and detail sheet layouts.
+-->
+
 <org.chromium.chrome.browser.tips.TipsPromoView
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:app="http://schemas.android.com/apk/res-auto"

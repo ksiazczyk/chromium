@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tips service implementation
+// summary: Implements TipsService by converting signal definitions into segmentation platform features, querying their values, and determining the best eligible tip to display.
+// ---
+
 #include "chrome/browser/tips/core/tips_service.h"
 
 #include <algorithm>

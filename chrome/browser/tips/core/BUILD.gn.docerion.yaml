@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for the tips core module
+summary: Defines GN targets for the tips core module, including the types source set, the core static library, test support, and unit tests with their dependencies.

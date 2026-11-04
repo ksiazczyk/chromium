@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced Safe Browsing tip implementation
+// summary: Implements the EnhancedSafeBrowsingTip feature, checking Safe Browsing state, policy management and recent user actions before showing its notification.
+// ---
+
 #include "chrome/browser/tips/features/enhanced_safe_browsing_tip.h"
 
 #include <map>
