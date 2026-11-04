@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintPreviewTabService
+// summary: Java-side implementation of paint_preview_tab_service.cc that provides functionality for capturing the Paint Preview representation of a tab, with lifecycle controlled by the C++ side.
+// ---
+
 package org.chromium.chrome.browser.paint_preview.services;
 
 import androidx.annotation.VisibleForTesting;

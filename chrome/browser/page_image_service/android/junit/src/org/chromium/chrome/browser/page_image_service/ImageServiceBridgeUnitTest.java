@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageServiceBridge unit tests
+// summary: Robolectric unit tests verifying ImageServiceBridge's salient image URL fetching, JNI interaction, and salient image fetch result histogram recording.
+// ---
+
 package org.chromium.chrome.browser.page_image_service;
 
 import static junit.framework.TestCase.assertFalse;

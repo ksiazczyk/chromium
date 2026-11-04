@@ -1,0 +1,4 @@
+# Docerion header of lcp_breakdown_timings_preloaded_images.html.
+type: test
+title: 'LCP Breakdown Timings: Preloaded Images'
+summary: Test page that preloads an image to measure LCP breakdown timings.

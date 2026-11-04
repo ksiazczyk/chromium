@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page page load metrics observer implementation
+// summary: Implements a metrics observer that records first contentful paint and largest contentful paint histograms for loads of Chrome's built-in new tab page.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/new_tab_page_page_load_metrics_observer.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemoPaintPreview
+// summary: Displays the Paint Preview demo for a tab by overlaying its content view, handling capture, playback feedback via toasts, and dismissal on user actions.
+// ---
+
 package org.chromium.chrome.browser.paint_preview;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintPreviewCompositorUtils
+// summary: Provides static JNI-backed utilities for warming up and stopping a compositor process used for paint previews.
+// ---
+
 package org.chromium.chrome.browser.paint_preview;
 
 import androidx.annotation.VisibleForTesting;

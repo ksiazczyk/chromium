@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust service delegate
+// summary: Declares the MerchantTrustServiceDelegate that supplies profile site engagement scores to the core merchant trust service.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_INFO_MERCHANT_TRUST_SERVICE_DELEGATE_H_
 #define CHROME_BROWSER_PAGE_INFO_MERCHANT_TRUST_SERVICE_DELEGATE_H_
 

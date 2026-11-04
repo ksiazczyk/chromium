@@ -1,0 +1,4 @@
+# Docerion header of render_blocking_resource_and_preloaded_font.html.
+type: test
+title: Render-blocking resource and preloaded font test page
+summary: Test page that preloads a font and loads a render-blocking script for page load metrics testing.

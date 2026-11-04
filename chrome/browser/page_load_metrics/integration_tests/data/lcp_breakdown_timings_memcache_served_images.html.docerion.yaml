@@ -1,0 +1,4 @@
+# Docerion header of lcp_breakdown_timings_memcache_served_images.html.
+type: test
+title: 'LCP Breakdown Timings: MemCache Served Images'
+summary: Test page that loads an image served from memcache to measure LCP breakdown timings.

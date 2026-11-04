@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android page load metrics observer implementation
+// summary: Implements the Android page load metrics observer that forwards page load metrics and network quality estimates to the Java side on Android.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/android_page_load_metrics_observer.h"
 
 #include <string>

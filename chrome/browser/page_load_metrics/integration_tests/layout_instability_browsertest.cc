@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layout instability browser tests
+// summary: End-to-end browser tests checking layout shift scores and CLS UKM and UMA values using WPT pages.
+// ---
+
 #include "base/containers/flat_set.h"
 #include "base/test/tracing/trace_event_analyzer.h"
 #include "build/build_config.h"

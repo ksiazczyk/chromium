@@ -1,0 +1,4 @@
+# Docerion header of largest_contentful_paint_paint_preview.html.
+type: test
+title: LCP paint preview integration test page
+summary: Integration test page that buffers LCP reports and triggers repaints to check largest-contentful-paint sizes while excluding offscreen text.

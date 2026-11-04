@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash session restore page load metrics observer header
+// summary: Declares AshSessionRestorePageLoadMetricsObserver, which records the Ash.FullRestore.Browser.FirstInputDelay metric after a full session restore.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_ASH_SESSION_RESTORE_PAGE_LOAD_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_ASH_SESSION_RESTORE_PAGE_LOAD_METRICS_OBSERVER_H_
 

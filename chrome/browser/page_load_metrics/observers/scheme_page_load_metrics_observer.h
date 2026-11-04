@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheme page load metrics observer class declaration
+// summary: Declares the observer that logs page load metrics per URL scheme, observing only HTTP and HTTPS navigations in the foreground.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_SCHEME_PAGE_LOAD_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_SCHEME_PAGE_LOAD_METRICS_OBSERVER_H_
 

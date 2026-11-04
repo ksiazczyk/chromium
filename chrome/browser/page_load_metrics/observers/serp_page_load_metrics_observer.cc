@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SERP page load metrics observer implementation
+// summary: Implements an observer that records whether a committed page is a default search engine results page and notifies extension telemetry on first paint.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/serp_page_load_metrics_observer.h"
 
 #include "base/metrics/histogram_functions.h"

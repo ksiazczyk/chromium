@@ -1,0 +1,4 @@
+# Docerion header of lcp_detached_window.html.
+type: test
+title: LCP detached window test page
+summary: Test page that opens another window, adds an image to it, and closes it on message to exercise largest contentful paint reporting for a detached window.

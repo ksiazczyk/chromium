@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AMP page load metrics observer implementation
+// summary: Implements the browser-side page load metrics observer that records UKM and UMA metrics for AMP documents loaded in main frames and subframes.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/core/amp_page_load_metrics_observer.h"
 
 #include <algorithm>

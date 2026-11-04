@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page initiated page load metrics browser tests
+// summary: Browser tests verifying that New Tab Page initiated metrics are recorded for NTP-triggered prerender navigations and not for other triggers such as the omnibox.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/new_tab_page_initiated_page_load_metrics_observer.h"
 
 #include "base/test/metrics/histogram_tester.h"

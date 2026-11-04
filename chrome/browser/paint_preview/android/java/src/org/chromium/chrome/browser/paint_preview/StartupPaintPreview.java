@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupPaintPreview
+// summary: Displays a paint preview representation of a tab on Chrome startup, managing its lifecycle states, snackbar messaging, and dismissal causes.
+// ---
+
 package org.chromium.chrome.browser.paint_preview;
 
 import android.content.res.Resources;

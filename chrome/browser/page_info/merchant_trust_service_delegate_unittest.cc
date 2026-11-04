@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Merchant trust service delegate unit tests
+// summary: Unit tests verifying that the delegate returns the profile's site engagement score for a given URL.
+// ---
+
 #include "chrome/browser/page_info/merchant_trust_service_delegate.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint preview compositor browser tests
+// summary: Browser tests verifying initialization, binding and connection of the paint preview compositor service and client.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

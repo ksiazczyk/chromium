@@ -1,3 +1,13 @@
+---
+type: reference
+title: Cumulative Layout Shift (CLS) metric documentation
+summary: Explains how the Cumulative Layout Shift Core Web Vital is computed in the renderer, reported in web performance APIs and trace events, merged across frames, and logged to UKM and UMA.
+relations:
+  - references /chrome/browser/page_load_metrics/observers/README.md
+  - documents /third_party/blink/renderer/core/layout/layout_shift_tracker.cc
+  - references /third_party/blink/renderer/core/timing/window_performance.cc
+---
+
 # Cumulative Layout Shift
 
 [Cumulative Layout Shift](https://web.dev/cls) is a

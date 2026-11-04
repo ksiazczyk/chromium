@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Initial WebUI page load metrics observer unit tests
+// summary: Unit tests for the Initial WebUI metrics observer using a page load metrics tester, mock browser window, and UKM recorder.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/initial_webui_page_load_metrics_observer.h"
 
 #include <memory>

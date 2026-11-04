@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading predictor page load metrics observer header
+// summary: Declares the loading predictor page load metrics observer that records metrics relevant to the resource prefetch predictor.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_LOADING_PREDICTOR_PAGE_LOAD_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_LOADING_PREDICTOR_PAGE_LOAD_METRICS_OBSERVER_H_
 

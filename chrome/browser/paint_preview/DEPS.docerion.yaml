@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Paint preview dependency rules
+summary: Lists include rules allowing this directory to depend on paint preview components and Android UI resources.

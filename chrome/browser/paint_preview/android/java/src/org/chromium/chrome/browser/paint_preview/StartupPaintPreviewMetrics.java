@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupPaintPreviewMetrics
+// summary: Helper class that records paint preview metrics, including exit causes and uptime histograms for the tabbed paint preview player.
+// ---
+
 package org.chromium.chrome.browser.paint_preview;
 
 import android.os.SystemClock;

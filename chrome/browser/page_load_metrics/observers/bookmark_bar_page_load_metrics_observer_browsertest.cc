@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark bar metrics observer browser tests
+// summary: Browser tests verifying that bookmark bar triggered prerender navigations record metrics while other triggers such as the omnibox do not.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/bookmark_bar_page_load_metrics_observer.h"
 
 #include "base/test/metrics/histogram_tester.h"

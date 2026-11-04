@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GWS abandoned page load metrics browser test base class
+// summary: Header defining a shared browser test fixture with URL helpers, redirect handlers, and histogram name helpers for GWS abandoned load metrics tests.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_GWS_ABANDONED_PAGE_LOAD_METRICS_OBSERVER_BROWSERTEST_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_GWS_ABANDONED_PAGE_LOAD_METRICS_OBSERVER_BROWSERTEST_H_
 

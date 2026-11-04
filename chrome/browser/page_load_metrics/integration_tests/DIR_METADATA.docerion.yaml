@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the speed metrics team
+summary: Points the directory to the speed-metrics-dev team mailing list responsible for these tests.

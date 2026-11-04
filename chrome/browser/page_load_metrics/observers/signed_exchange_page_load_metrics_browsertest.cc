@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed exchange page load metrics browser tests
+// summary: Browser tests verifying UKM signed exchange page load metrics, including cached and Google-cache-served signed exchanges.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/ssl/cert_verifier_browser_test.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

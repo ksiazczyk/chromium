@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate page load metrics observer implementation
+// summary: Implements a page load metrics observer that forwards page load, foreground, and prerender activation events to the translate metrics logger for UKM and UMA logging.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/translate_page_load_metrics_observer.h"
 
 #include "chrome/browser/translate/chrome_translate_client.h"

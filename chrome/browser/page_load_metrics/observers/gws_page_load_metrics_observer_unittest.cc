@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GWS page load metrics observer unit tests
+// summary: Unit tests for the Chrome GWS page load metrics observer, checking UMA and UKM metrics for Google Search page loads with a mock clock.
+// ---
+
 #include <vector>
 
 #include "base/memory/ptr_util.h"

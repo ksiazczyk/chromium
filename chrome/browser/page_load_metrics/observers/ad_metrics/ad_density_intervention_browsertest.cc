@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ad density intervention browser tests
+// summary: Browser tests verifying that desktop ad density violations trigger or do not trigger ad blocking interventions.
+// ---
+
 #include <memory>
 
 #include "base/test/scoped_feature_list.h"

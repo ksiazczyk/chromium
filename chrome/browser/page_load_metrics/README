@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the Chrome page load metrics directory
+summary: Explains that the directory contains Chrome page load metrics initialization and observers and points to the components README for details.
+---
+
 This directory contains page_load_metrics initialization and observers for
 Chrome.
 

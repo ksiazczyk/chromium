@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preload serving metrics observer browser tests
+// summary: Browser tests for the preload serving page load metrics observer, simulating link click navigations and prerendering against an HTTPS embedded test server.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

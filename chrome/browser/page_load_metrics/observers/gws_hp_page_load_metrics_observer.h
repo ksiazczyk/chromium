@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google homepage page load metrics observer header
+// summary: Declares the GWSHpPageLoadMetricsObserver class and its histogram constants for Google homepage load metrics.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_GWS_HP_PAGE_LOAD_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_GWS_HP_PAGE_LOAD_METRICS_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of is_video.html.
+type: test
+title: Video LCP test page
+summary: Test page that plays a muted video and waits for a largest-contentful-paint entry via PerformanceObserver.

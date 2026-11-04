@@ -1,0 +1,4 @@
+# Docerion header of animated_image_with_larger_text_first.html.
+type: test
+title: Animated image with larger text first LCP test page
+summary: Test page verifying that an animated image added after a larger text block is not treated as an LCP candidate.

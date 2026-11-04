@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM page load metrics observer browser tests
+// summary: Browser tests verifying UKM page load metric recording, including main frame cookie usage, with an embedded test server.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/core/ukm_page_load_metrics_observer.h"
 
 #include <memory>

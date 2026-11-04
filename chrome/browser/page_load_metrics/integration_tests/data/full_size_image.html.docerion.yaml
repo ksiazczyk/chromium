@@ -1,0 +1,4 @@
+# Docerion header of full_size_image.html.
+type: test
+title: Full size image LCP test page
+summary: Test page embedding an iframe with an image and reporting the iframe's LCP time adjusted to the main frame time origin.

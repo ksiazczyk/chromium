@@ -1,0 +1,4 @@
+# Docerion header of largest_contentful_paint.html.
+type: test
+title: Largest Contentful Paint integration test page
+summary: Integration test page that buffers LCP entries and exercises image additions, removals and size changes to verify largest-contentful-paint reporting.

@@ -1,3 +1,13 @@
+---
+type: guide
+title: How data is passed from renderer to browser for page load metrics observers
+summary: Explains step by step how page load metric data flows from Blink detectors in the renderer through IPC to browser-side PageLoadMetricsObserver implementations.
+relations:
+  - references /third_party/blink/renderer/core/paint/timing/paint_timing_detector.cc
+  - references /third_party/blink/renderer/core/frame/local_frame_client.h
+  - references /content/renderer/render_frame_impl.h
+---
+
 # How data is passed from renderer to browser for page load metrics observers
 
 1. Blink's core rendering code hooks into a "detector" that implements the

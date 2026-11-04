@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the page_info directory
+summary: Delegates code ownership to the page info UI OWNERS file and adds a per-file owner rule for the about_this_site sources.

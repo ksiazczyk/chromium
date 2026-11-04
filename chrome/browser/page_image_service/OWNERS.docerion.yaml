@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for page_image_service
+summary: Delegates code ownership to the OWNERS file of //components/page_image_service.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed exchange page load metrics observer unit tests
+// summary: Unit tests verifying signed exchange histogram logging for cached, uncached, and non-signed-exchange navigations.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/signed_exchange_page_load_metrics_observer.h"
 
 #include <memory>

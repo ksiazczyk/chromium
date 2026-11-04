@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Foreground duration UKM observer browser tests
+// summary: Browser tests verifying that foreground duration UKM entries are recorded for navigations, tab closures, and prerendered pages.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/foreground_duration_ukm_observer.h"
 
 #include "chrome/browser/ui/browser_commands.h"

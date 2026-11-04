@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint preview tab service unit tests
+// summary: Unit tests for PaintPreviewTabService covering cache initialization, tab capture, closure cleanup, and artifact auditing using a mock paint preview recorder.
+// ---
+
 #include "chrome/browser/paint_preview/services/paint_preview_tab_service.h"
 
 #include <memory>

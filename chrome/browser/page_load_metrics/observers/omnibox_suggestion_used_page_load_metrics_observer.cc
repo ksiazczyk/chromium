@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox suggestion used metrics observer implementation
+// summary: Records page load metrics such as input-to-navigation-start and paint timings for navigations initiated from omnibox search or URL suggestions.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/omnibox_suggestion_used_page_load_metrics_observer.h"
 
 #include <algorithm>

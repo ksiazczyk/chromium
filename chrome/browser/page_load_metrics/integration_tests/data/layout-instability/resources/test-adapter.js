@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layout instability CLS test adapter
+// summary: JavaScript adapter that provides window.cls_expect and cls_run_tests helpers to record cumulative layout shift expectations and resolve with results when the test harness completes.
+// ---
+
 (() => {
 
 let cls_expectations = [];

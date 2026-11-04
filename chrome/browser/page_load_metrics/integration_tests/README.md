@@ -1,3 +1,11 @@
+---
+type: readme
+title: End To End Tests for Metrics
+summary: Explains why Chrome speed metrics need integration tests and describes the Metrics Integration Test Framework with examples and tips.
+relations:
+  - references /content/public/test/browser_test_utils.h
+---
+
 # End To End Tests for Metrics
 
 [TOC]

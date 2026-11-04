@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info feature checks header
+// summary: Declares helpers that report whether the About This Site and Merchant Trust features are enabled.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_INFO_PAGE_INFO_FEATURES_H_
 #define CHROME_BROWSER_PAGE_INFO_PAGE_INFO_FEATURES_H_
 

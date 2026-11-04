@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate page load metrics observer header
+// summary: Declares the TranslatePageLoadMetricsObserver class that notifies Translate of page load status to log UKM and UMA metrics including foreground and translation state.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_TRANSLATE_PAGE_LOAD_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_TRANSLATE_PAGE_LOAD_METRICS_OBSERVER_H_
 

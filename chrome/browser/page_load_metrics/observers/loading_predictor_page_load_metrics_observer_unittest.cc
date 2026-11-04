@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Loading predictor page load metrics observer unit tests
+// summary: Unit tests verifying preconnectable paint timing histograms with a mock resource prefetch predictor.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/loading_predictor_page_load_metrics_observer.h"
 
 #include <memory>

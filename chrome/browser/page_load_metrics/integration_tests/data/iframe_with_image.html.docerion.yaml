@@ -1,0 +1,4 @@
+# Docerion header of iframe_with_image.html.
+type: test
+title: Iframe with image LCP test page
+summary: Test page loading an image and posting its largest-contentful-paint entry time to the parent window.

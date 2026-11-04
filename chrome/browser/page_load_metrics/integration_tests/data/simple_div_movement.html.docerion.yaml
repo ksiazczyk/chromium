@@ -1,0 +1,4 @@
+# Docerion header of simple_div_movement.html.
+type: test
+title: Layout instability simple div movement test page
+summary: Test page that moves a div to trigger a layout-shift entry for verifying CLS metrics in integration tests.

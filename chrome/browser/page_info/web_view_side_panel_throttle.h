@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web view side panel navigation throttle header
+// summary: Declares the side panel web contents user data and throttle installation that redirect panel navigations to the browser.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_INFO_WEB_VIEW_SIDE_PANEL_THROTTLE_H_
 #define CHROME_BROWSER_PAGE_INFO_WEB_VIEW_SIDE_PANEL_THROTTLE_H_
 

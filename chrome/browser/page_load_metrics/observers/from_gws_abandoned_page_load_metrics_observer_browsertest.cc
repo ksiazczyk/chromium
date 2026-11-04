@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: From GWS abandoned page load metrics browser tests
+// summary: Browser tests verifying abandoned-navigation page load metrics for loads starting from Google Search results, including redirects and navigation milestone histograms.
+// ---
+
 #include <vector>
 
 #include "base/strings/strcat.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS engagement page load metrics observer implementation
+// summary: Records per-navigation foreground engagement time into HTTPS and HTTP UMA histograms and forwards it to the HttpsEngagementService.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/https_engagement_metrics/https_engagement_page_load_metrics_observer.h"
 
 #include "base/metrics/histogram_macros.h"

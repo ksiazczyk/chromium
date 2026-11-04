@@ -1,0 +1,4 @@
+# Docerion header of lcp_breakdown_timings_manual_lazy_loading_images.html.
+type: test
+title: 'LCP breakdown timings: manually lazy-loaded images'
+summary: Test page that lazily loads an image through an IntersectionObserver on scroll to exercise LCP breakdown timings.

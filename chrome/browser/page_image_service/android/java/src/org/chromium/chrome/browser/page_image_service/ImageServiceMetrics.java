@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ImageServiceMetrics: histogram recording for image URL fetches'
+// summary: Records Android histograms for salient image URL fetch outcomes, distinguishing success or failure from network or cache per client.
+// ---
+
 package org.chromium.chrome.browser.page_image_service;
 
 import androidx.annotation.IntDef;

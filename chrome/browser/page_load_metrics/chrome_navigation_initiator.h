@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome-specific navigation initiator definitions
+// summary: Defines Chrome-specific NavigationInitiator constants for metrics logging and declares a helper to mark search-prefetch-served navigations.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_CHROME_NAVIGATION_INITIATOR_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_CHROME_NAVIGATION_INITIATOR_H_
 

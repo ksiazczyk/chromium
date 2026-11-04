@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate page load metrics observer unit tests
+// summary: Unit tests for the translate page load metrics observer using a mock translate metrics logger wrapper to verify metric logging behavior.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/translate_page_load_metrics_observer.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LCP critical path predictor page load metrics observer
+// summary: Records PageLoad.Clients.LCPP histograms covering LCP prediction results, paint timings and subresource statistics during page loads.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/lcp_critical_path_predictor_page_load_metrics_observer.h"
 
 #include <algorithm>

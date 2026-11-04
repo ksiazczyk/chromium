@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide page load metrics observer implementation
+// summary: Forwards captured page load data to the Optimization Guide web contents observer, flushing navigation data on hide, completion, or app background.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/optimization_guide_page_load_metrics_observer.h"
 
 #include "content/public/browser/navigation_handle.h"

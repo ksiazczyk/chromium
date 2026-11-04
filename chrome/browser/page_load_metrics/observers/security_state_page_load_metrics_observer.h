@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security state page load metrics observer header
+// summary: Declares the SecurityStatePageLoadMetricsObserver class that tracks page security level metrics from commit to completion.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_SECURITY_STATE_PAGE_LOAD_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_SECURITY_STATE_PAGE_LOAD_METRICS_OBSERVER_H_
 

@@ -1,3 +1,13 @@
+---
+type: reference
+title: Largest Contentful Paint (LCP) metric documentation
+summary: Explains how the Largest Contentful Paint Core Web Vital is computed in the renderer, reported in web performance APIs and trace events, merged across frames, and logged to UKM and UMA.
+relations:
+  - references /chrome/browser/page_load_metrics/passing_data_from_renderer_to_browser.md
+  - documents /third_party/blink/renderer/core/paint/timing/image_paint_timing_detector.cc
+  - documents /third_party/blink/renderer/core/paint/timing/largest_contentful_paint_calculator.h
+---
+
 # Largest Contentful Paint
 
 [Largest Contentful Paint](https://web.dev/lcp) is a [Core Web Vital](https://web.dev/vitals) metric that reports the time until the largest image or text element is painted to the screen, as a heuristic for page load time. For [Prerender2](https://docs.google.com/document/d/1P2VKCLpmnNm_cRAjUeE-bqLL0bslL_zKqiNeCzNom_w/edit?usp=sharing), it measures the time of the activation start to the time when the activated page paints the largest content.

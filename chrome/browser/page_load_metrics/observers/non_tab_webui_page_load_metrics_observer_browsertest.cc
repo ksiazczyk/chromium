@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Non-tab WebUI page load metrics observer browser tests
+// summary: Browser tests verifying that the non-tab WebUI metrics observer records histograms only for non-tab WebUI pages and not for WebUI navigations in regular tabs.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/non_tab_webui_page_load_metrics_observer.h"
 
 #include <memory>

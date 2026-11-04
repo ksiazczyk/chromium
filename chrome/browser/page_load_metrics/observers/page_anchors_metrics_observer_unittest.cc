@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page anchors metrics observer unit tests
+// summary: Unit tests using the page load metrics test harness to verify UKM entries recorded by the page anchors metrics observer for simulated page load timings.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/page_anchors_metrics_observer.h"
 
 #include "chrome/browser/navigation_predictor/navigation_predictor_metrics_document_data.h"

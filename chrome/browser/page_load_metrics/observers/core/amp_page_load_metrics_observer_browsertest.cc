@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AMP page load metrics observer browser tests
+// summary: Browser tests verifying AMP page load UKM metrics, including prerendering scenarios, using an embedded HTTPS test server and a test UKM recorder.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/foreground_duration_ukm_observer.h"
 #include "chrome/browser/ui/browser_commands.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

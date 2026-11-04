@@ -1,0 +1,4 @@
+# Docerion header of lcp_breakdown_timings_srcset_images.html.
+type: test
+title: 'LCP Breakdown Timings: Images With srcset Tag'
+summary: Test page with an image using srcset to measure LCP breakdown timings.

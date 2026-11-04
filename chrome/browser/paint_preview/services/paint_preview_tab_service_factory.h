@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview tab service factory declaration
+// summary: Declares PaintPreviewTabServiceFactory, a simple keyed service factory that creates one paint preview tab service instance per profile key.
+// ---
+
 #ifndef CHROME_BROWSER_PAINT_PREVIEW_SERVICES_PAINT_PREVIEW_TAB_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PAINT_PREVIEW_SERVICES_PAINT_PREVIEW_TAB_SERVICE_FACTORY_H_
 

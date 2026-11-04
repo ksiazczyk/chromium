@@ -1,0 +1,4 @@
+# Docerion header of lcp_breakdown_timings.html.
+type: test
+title: LCP breakdown timings helper page
+summary: Shared test page defining helpers to add text and images, observe LCP entries and read resource timing for LCP breakdown timing tests.

@@ -1,0 +1,4 @@
+# Docerion header of render_blocking_resource_and_slow_preloaded_font.html.
+type: test
+title: Render-blocking resource and slow preloaded font test page
+summary: HTML fixture for page load metrics integration tests that injects a delayed font preload alongside a render-blocking resource.

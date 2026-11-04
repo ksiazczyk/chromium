@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security state page load metrics observer implementation
+// summary: Implements a page load metrics observer that records security level, page end reason, time on page, and site engagement histograms for navigations.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/security_state_page_load_metrics_observer.h"
 
 #include <cmath>

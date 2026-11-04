@@ -1,0 +1,4 @@
+# Docerion header of soft_navigation.html.
+type: test
+title: Simple soft navigation test page
+summary: Test page simulating soft navigation via button clicks and history.pushState, used by the soft navigation metrics browser test.

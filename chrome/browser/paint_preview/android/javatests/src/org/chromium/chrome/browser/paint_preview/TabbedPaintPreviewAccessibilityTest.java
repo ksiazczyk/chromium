@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabbedPaintPreviewAccessibilityTest
+// summary: Accessibility tests for TabbedPaintPreview, verifying that the paint preview player exposes a working WebContentsAccessibility after capture and display.
+// ---
+
 package org.chromium.chrome.browser.paint_preview;
 
 import android.os.SystemClock;

@@ -1,0 +1,4 @@
+# Docerion header of empty.html.
+type: test
+title: Empty page fixture for page load metrics tests
+summary: Minimal empty HTML page used as a test resource in the page load metrics integration tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captcha provider manager implementation
+// summary: Implements CaptchaProviderManager, matching URLs against captcha provider patterns for reCAPTCHA, hCaptcha and Cloudflare Turnstile.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/captcha_provider_manager.h"
 
 #include <string_view>

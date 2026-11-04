@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the page image service Android bridge
+summary: Defines native, Java, JNI header, and Robolectric test targets for the Android page image service bridge.

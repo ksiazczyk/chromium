@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust service factory header
+// summary: Declares the profile-keyed service factory that constructs and retrieves MerchantTrustService instances per profile.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_INFO_MERCHANT_TRUST_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PAGE_INFO_MERCHANT_TRUST_SERVICE_FACTORY_H_
 

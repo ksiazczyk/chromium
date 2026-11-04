@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for page load metrics
+summary: Lists code owners for review approval, inheriting from components/page_load_metrics and net/quic for QUIC protocol changes.

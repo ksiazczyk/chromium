@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ads page load metrics observer browser tests
+// summary: Extensive browser tests for the ads page load metrics observer covering ad resource tracking, interventions, histograms and UKM reporting.
+// ---
+
 #include "components/page_load_metrics/browser/observers/ad_metrics/ads_page_load_metrics_observer.h"
 
 #include <memory>

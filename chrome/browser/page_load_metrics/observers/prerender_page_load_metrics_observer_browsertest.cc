@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prerender page load metrics observer browser tests
+// summary: Browser tests verifying prerender page load metrics, checking UKM entries and paint histograms such as activation to first contentful paint for prerendered pages.
+// ---
+
 #include "components/page_load_metrics/browser/observers/prerender_page_load_metrics_observer.h"
 
 #include "base/time/time.h"

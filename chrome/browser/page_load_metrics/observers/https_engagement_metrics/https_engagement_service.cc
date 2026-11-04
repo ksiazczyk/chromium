@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS engagement service implementation
+// summary: Accumulates foreground time spent on HTTP and HTTPS pages and reports the HTTPS engagement ratio as a UMA percentage histogram.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/https_engagement_metrics/https_engagement_service.h"
 
 #include "base/metrics/histogram_macros.h"

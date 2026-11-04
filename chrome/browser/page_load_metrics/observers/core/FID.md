@@ -1,3 +1,13 @@
+---
+type: reference
+title: First Input Delay (FID) metric documentation
+summary: Describes how the First Input Delay Core Web Vital is computed in the renderer, reported via the Event Timing API, merged across frames, and logged to UKM and UMA.
+relations:
+  - references /chrome/browser/page_load_metrics/observers/README.md
+  - references /third_party/blink/renderer/core/timing/event_timing.cc
+  - references /third_party/blink/renderer/core/loader/interactive_detector.cc
+---
+
 # First Input Delay
 
 [First Input Delay](https://web.dev/fid) is a [Core Web Vital](https://web.dev/vitals) metric that reports the delay between when the browser receives the first input event and when the renderer begins processing it. This is a measure of how much main thread business affects user interaction.

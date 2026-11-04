@@ -1,0 +1,4 @@
+# Docerion header of lcp_breakdown_timings_with_subframe.html.
+type: test
+title: LCP Breakdown Timings With Subframe
+summary: Test page that loads same-site and cross-site subframes to measure LCP breakdown timings.

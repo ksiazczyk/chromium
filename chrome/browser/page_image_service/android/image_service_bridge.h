@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageServiceBridge class declaration
+// summary: Declares the native bridge class that lets Java code access the page image service, with consent and account-data checks.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_IMAGE_SERVICE_ANDROID_IMAGE_SERVICE_BRIDGE_H_
 #define CHROME_BROWSER_PAGE_IMAGE_SERVICE_ANDROID_IMAGE_SERVICE_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript frameworks UKM observer browser tests
+// summary: Browser tests verifying UKM page load metrics recorded for JavaScript frameworks and content management system sites.
+// ---
+
 #include <string_view>
 
 #include "chrome/browser/page_load_metrics/observers/foreground_duration_ukm_observer.h"

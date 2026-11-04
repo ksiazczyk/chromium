@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top Chrome WebUI metrics observer header
+// summary: Declares the TopChromeWebUIMetricsObserver class that records Top Chrome performance metrics comparable between WebUI and native implementations.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_TOP_CHROME_WEBUI_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_TOP_CHROME_WEBUI_METRICS_OBSERVER_H_
 

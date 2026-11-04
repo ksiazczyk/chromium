@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Non-tab WebUI page load metrics observer unit tests
+// summary: Unit tests checking that NonTabPageLoadMetricsObserver records paint timing histograms for non-tab WebUI pages and skips navigations with non-Chrome schemes.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/non_tab_webui_page_load_metrics_observer.h"
 
 #include "chrome/browser/page_load_metrics/observers/page_load_metrics_observer_test_harness.h"

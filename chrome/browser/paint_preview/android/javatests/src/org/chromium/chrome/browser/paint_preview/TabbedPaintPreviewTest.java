@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabbedPaintPreviewTest
+// summary: Instrumented tests for the TabbedPaintPreview class, covering capture and display of tab paint previews with a mocked tab service and test compositor delegate factory.
+// ---
+
 package org.chromium.chrome.browser.paint_preview;
 
 import android.graphics.Bitmap;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar metrics observer class declaration
+// summary: Declares BookmarkBarMetricsObserver, which records performance metrics such as first contentful paint for bookmark bar navigations.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_BOOKMARK_BAR_PAGE_LOAD_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_BOOKMARK_BAR_PAGE_LOAD_METRICS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram suffixes declarations
+// summary: Declares the shared histogram suffix constants used by multiple page load metrics observers.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_HISTOGRAM_SUFFIXES_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_HISTOGRAM_SUFFIXES_H_
 

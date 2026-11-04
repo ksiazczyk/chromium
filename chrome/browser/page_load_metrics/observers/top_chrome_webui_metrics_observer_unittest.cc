@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Top Chrome WebUI metrics observer unit tests
+// summary: Unit tests verifying that the observer and its static helper record RequestToFirstContentfulPaint histograms for test WebUI and native UI names.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/top_chrome_webui_metrics_observer.h"
 
 #include "base/test/metrics/histogram_tester.h"

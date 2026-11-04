@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ImageServiceBridge: Java bridge to the native ImageService'
+// summary: Java bridge to the native ImageService that fetches and caches salient image URLs and images for Android clients via the ImageFetcher.
+// ---
+
 package org.chromium.chrome.browser.page_image_service;
 
 import android.graphics.Bitmap;

@@ -1,0 +1,4 @@
+# Docerion header of jsdeps.gni.
+type: config
+title: JS dependencies for metric integration tests
+summary: GN import listing web platform test pages, scripts and images that the metric integration tests depend on.

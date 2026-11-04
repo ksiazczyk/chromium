@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintPreviewTabServiceFactory
+// summary: Factory that provides an instance of PaintPreviewTabService for the current profile via a JNI call to the native paint_preview_tab_service_factory.cc.
+// ---
+
 package org.chromium.chrome.browser.paint_preview.services;
 
 import org.jni_zero.JNINamespace;

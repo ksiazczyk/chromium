@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: From GWS page load metrics observer implementation
+// summary: Implements the observer that records page load timing, abort timing, and UKM histograms for navigations initiated from Google Search results.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/from_gws_page_load_metrics_observer.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of non_animated.html.
+type: test
+title: Non-animated LCP test page
+summary: Test page showing a static image and observing a largest-contentful-paint entry.

@@ -1,0 +1,4 @@
+# Docerion header of green.png.mock-http-headers.
+type: test
+title: Mock HTTP headers for green.png
+summary: Defines the HTTP response headers the test server returns for green.png, serving it as a cacheable PNG image.

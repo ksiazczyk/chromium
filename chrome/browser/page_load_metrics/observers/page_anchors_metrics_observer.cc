@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page anchors metrics observer implementation
+// summary: Records anchor element metrics data to UKM for the navigation predictor, handling prerendering, back-forward cache, and render frame host updates.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/page_anchors_metrics_observer.h"
 
 #include "base/debug/dump_without_crashing.h"

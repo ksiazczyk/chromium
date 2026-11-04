@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StartupPaintPreviewTest
+// summary: Instrumented tests for the StartupPaintPreview class, checking correct display of a previously captured paint preview and related snackbar behavior on startup.
+// ---
+
 package org.chromium.chrome.browser.paint_preview;
 
 import static androidx.test.espresso.Espresso.onView;

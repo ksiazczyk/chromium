@@ -1,0 +1,4 @@
+# Docerion header of lcp_broken_image_icon.html.
+type: test
+title: Broken Image Icon Should Not Be LCP
+summary: Test page verifying that a broken image's icon is not reported as the largest contentful paint.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DemoPaintPreviewTest
+// summary: Instrumented tests for the DemoPaintPreview class, verifying that paint preview demo mode can be opened from the app menu and works when no capture exists yet.
+// ---
+
 package org.chromium.chrome.browser.paint_preview;
 
 import static org.chromium.base.test.util.Batch.PER_CLASS;

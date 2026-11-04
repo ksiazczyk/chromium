@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top Chrome WebUI metrics observer implementation
+// summary: Implements a page load metrics observer that records request-to-first-contentful-paint histograms for Top Chrome WebUI pages, adjusting for preload background time.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/top_chrome_webui_metrics_observer.h"
 
 #include <algorithm>

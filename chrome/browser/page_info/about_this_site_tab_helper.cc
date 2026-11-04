@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About This Site tab helper implementation
+// summary: Implements a tab helper that consults the Optimization Guide for About This Site hints on each primary page change and caches the resulting decision and metadata.
+// ---
+
 #include "chrome/browser/page_info/about_this_site_tab_helper.h"
 
 #include <optional>

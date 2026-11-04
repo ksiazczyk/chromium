@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-tab loading page load metrics observer browser tests
+// summary: Browser tests checking multi-tab loading histograms for single tab, foreground and background tab scenarios.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/multi_tab_loading_page_load_metrics_observer.h"
 
 #include "base/test/metrics/histogram_tester.h"

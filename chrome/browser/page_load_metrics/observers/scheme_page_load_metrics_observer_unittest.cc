@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheme page load metrics observer unit tests
+// summary: Unit tests verifying that scheme page load metrics histograms are recorded for HTTP and HTTPS navigations with the expected counts and values.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/scheme_page_load_metrics_observer.h"
 
 #include <memory>
