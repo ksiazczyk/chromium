@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media notification provider implementation
+// summary: Implements MockMediaNotificationProvider, a test double that installs itself as the global provider and fakes notification states for unit tests.
+// relations:
+//   - implements /ash/system/media/mock_media_notification_provider.h
+//   - depends_on /ash/system/media/media_notification_provider.h
+// ---
+
 #include "ash/system/media/mock_media_notification_provider.h"
 
 #include "ui/views/view.h"

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clock observer interface
+// summary: Defines the ClockObserver interface with callbacks for date format changes, clock updates, and forced refreshes.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_SYSTEM_MODEL_CLOCK_OBSERVER_H_
 #define ASH_SYSTEM_MODEL_CLOCK_OBSERVER_H_
 

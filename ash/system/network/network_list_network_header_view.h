@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network list header view declaration
+// summary: Declares the shared header view for mobile and Wi-Fi network sections, including its delegate interface.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/switch.h
+//   - depends_on /ash/system/network/network_list_header_view.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_LIST_NETWORK_HEADER_VIEW_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_LIST_NETWORK_HEADER_VIEW_H_
 

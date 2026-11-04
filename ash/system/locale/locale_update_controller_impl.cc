@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale update controller implementation
+// summary: Implements locale change handling in ash, showing a notification that lets the user accept or revert a locale change and notifying observers.
+// relations:
+//   - implements /ash/system/locale/locale_update_controller_impl.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/locale/locale_update_controller_impl.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeNetworkListNetworkHeaderViewDelegate class declaration
+// summary: Declares FakeNetworkListNetworkHeaderViewDelegate, a test double that counts mobile and Wi-Fi toggle click callbacks.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/network/network_list_network_header_view.h
+//   - implements /ash/system/network/network_list_network_header_view.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_FAKE_NETWORK_LIST_NETWORK_HEADER_VIEW_DELEGATE_H_
 #define ASH_SYSTEM_NETWORK_FAKE_NETWORK_LIST_NETWORK_HEADER_VIEW_DELEGATE_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Mahi manager
+// summary: GMock mock of chromeos::MahiManager that stubs all Mahi manager methods such as question answering, outlines, and summary for tests.
+// relations:
+//   - implements /chromeos/components/mahi/public/cpp/mahi_manager.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_TEST_MOCK_MAHI_MANAGER_H_
 #define ASH_SYSTEM_MAHI_TEST_MOCK_MAHI_MANAGER_H_
 

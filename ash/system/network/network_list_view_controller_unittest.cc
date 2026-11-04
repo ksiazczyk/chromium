@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkListViewControllerImpl unit tests
+// summary: Unit tests for the network list controller covering list updates, device and connection states, toggles, VPN providers, and proxy or policy warning indicators.
+// ---
+
 #include <algorithm>
 #include <cstddef>
 #include <memory>

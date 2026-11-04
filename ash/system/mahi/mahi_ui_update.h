@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MahiUiUpdate class declaration
+// summary: Declares visibility states, update types, question parameters, error descriptions, and the MahiUiUpdate class representing changes that trigger Mahi UI updates.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/gfx/geometry/rect.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_MAHI_UI_UPDATE_H_
 #define ASH_SYSTEM_MAHI_MAHI_UI_UPDATE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MahiUiUpdate implementation
+// summary: Implements MahiUiUpdate and its payload types, providing typed accessors for answers, errors, outlines, questions, summaries, and panel bounds.
+// relations:
+//   - implements /ash/system/mahi/mahi_ui_update.h
+//   - depends_on /base/check_op.h
+//   - depends_on /chromeos/components/mahi/public/cpp/mahi_manager.h
+// ---
+
 #include "ash/system/mahi/mahi_ui_update.h"
 
 #include <variant>

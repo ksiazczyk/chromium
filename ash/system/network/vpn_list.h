@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VPN provider list header
+// summary: Declares VpnList, a delegate giving ash UI code access to VPN providers in the primary user's profile and to add-network and launch actions.
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_VPN_LIST_H_
 #define ASH_SYSTEM_NETWORK_VPN_LIST_H_
 

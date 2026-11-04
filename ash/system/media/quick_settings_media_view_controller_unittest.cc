@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuickSettingsMediaViewController unit tests
+// summary: Tests showing and hiding media items via the controller, including hiding after the view has been destroyed.
+// relations:
+//   - tests /ash/system/media/quick_settings_media_view_controller.h
+//   - depends_on /ash/system/media/media_tray.h
+//   - depends_on /ash/system/media/mock_media_notification_provider.h
+// ---
+
 #include "ash/system/media/quick_settings_media_view_controller.h"
 
 #include "ash/system/media/media_tray.h"

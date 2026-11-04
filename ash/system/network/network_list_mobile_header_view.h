@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile network list header view declaration
+// summary: Declares the network list header view for mobile networks with its mobile data toggle behavior.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/network/network_list_network_header_view.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_LIST_MOBILE_HEADER_VIEW_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_LIST_MOBILE_HEADER_VIEW_H_
 

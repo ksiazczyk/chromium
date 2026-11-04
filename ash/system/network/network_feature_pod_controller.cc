@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network feature pod controller implementation
+// summary: Implements the controller for the quick settings network feature tile, updating its icon, labels, and state from network and device status.
+// relations:
+//   - implements /ash/system/network/network_feature_pod_controller.h
+//   - depends_on /ash/ash_element_identifiers.h
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+// ---
+
 #include "ash/system/network/network_feature_pod_controller.h"
 
 #include <memory>

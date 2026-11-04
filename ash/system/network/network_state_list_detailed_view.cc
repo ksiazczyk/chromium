@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network state list detailed view implementation
+// summary: Implements the system tray bubble view that lists available networks and VPNs, handling scanning, connection eligibility, and info bubbles.
+// ---
+
 #include "ash/system/network/network_state_list_detailed_view.h"
 
 #include <algorithm>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi error status view class
+// summary: Declares the error status view shown when the Mahi UI controller enters an error state, excluding low-quota warnings.
+// relations:
+//   - depends_on /ash/system/mahi/mahi_ui_controller.h
+//   - depends_on /ui/views/layout/flex_layout_view.h
+//   - depends_on /ui/views/metadata/view_factory.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_MAHI_ERROR_STATUS_VIEW_H_
 #define ASH_SYSTEM_MAHI_MAHI_ERROR_STATUS_VIEW_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeNetworkDetailedViewDelegate class declaration
+// summary: Declares FakeNetworkDetailedViewDelegate, a test double capturing the last network list item selection.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/system/network/network_detailed_view.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_FAKE_NETWORK_DETAILED_VIEW_DELEGATE_H_
 #define ASH_SYSTEM_NETWORK_FAKE_NETWORK_DETAILED_VIEW_DELEGATE_H_
 

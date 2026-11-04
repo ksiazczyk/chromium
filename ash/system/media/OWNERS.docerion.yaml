@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the ash media system UI folder
+summary: Points to the global media controls OWNERS file, defining the code owners for this ash media directory.
+relations:
+  - references /components/global_media_controls/OWNERS

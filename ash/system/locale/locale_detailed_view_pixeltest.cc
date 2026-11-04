@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Locale detailed view pixel test
+// summary: Pixel test that renders the locale detailed view with two locales and compares screenshots with and without system blur enabled.
+// relations:
+//   - tests /ash/system/locale/locale_detailed_view.cc
+//   - depends_on /ash/system/unified/unified_system_tray.h
+//   - depends_on /ash/system/model/system_tray_model.h
+// ---
+
 #include <utility>
 #include <vector>
 

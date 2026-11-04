@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MahiUiController unit tests
+// summary: Unit tests for the Mahi UI controller covering navigation, delegate updates, retries, and metrics using mocked delegates and a mock Mahi manager.
+// relations:
+//   - tests /ash/system/mahi/mahi_ui_controller.h
+//   - depends_on /ash/system/mahi/mahi_ui_update.h
+//   - depends_on /ash/system/mahi/test/mock_mahi_manager.h
+// ---
+
 #include "ash/system/mahi/mahi_ui_controller.h"
 
 #include <cstdint>

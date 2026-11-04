@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network info bubble unit tests
+// summary: Unit tests for NetworkInfoBubble covering device addresses, info text and bubble lifecycle with stub network devices.
+// relations:
+//   - tests /ash/system/network/network_info_bubble.h
+//   - depends_on /ash/system/network/network_info_bubble.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/system/network/network_info_bubble.h"
 
 #include <string>

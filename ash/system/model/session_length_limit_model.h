@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionLengthLimitModel class declaration
+// summary: Declares SessionLengthLimitModel, a session observer managing the countdown state for limited session length with limit state enums.
+// relations:
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /base/observer_list.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_SYSTEM_MODEL_SESSION_LENGTH_LIMIT_MODEL_H_
 #define ASH_SYSTEM_MODEL_SESSION_LENGTH_LIMIT_MODEL_H_
 

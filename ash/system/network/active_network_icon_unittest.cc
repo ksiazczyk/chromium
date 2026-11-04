@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ActiveNetworkIcon
+// summary: Tests tray icon images and connection status strings for ethernet, WiFi, and cellular network states using shill and network config test helpers.
+// relations:
+//   - tests /ash/system/network/active_network_icon.h
+//   - depends_on /ash/public/cpp/network_config_service.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/network/active_network_icon.h"
 
 #include <memory>

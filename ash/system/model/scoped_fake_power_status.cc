@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFakePowerStatus implementation
+// summary: Implements ScopedFakePowerStatus, which installs a FakePowerStatus as the PowerStatus singleton and restores the real instance on destruction.
+// relations:
+//   - depends_on /ash/system/model/scoped_fake_power_status.h
+//   - depends_on /ash/system/model/fake_power_status.h
+//   - depends_on /ash/system/power/power_status.h
+// ---
+
 #include "ash/system/model/scoped_fake_power_status.h"
 
 #include <memory>

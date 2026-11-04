@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network icon animation interface
+// summary: Declares the NetworkIconAnimation singleton that synchronizes network icon animations and manages animation observers.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/observer_list.h
+//   - depends_on /ui/gfx/animation/animation_delegate.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_ICON_ANIMATION_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_ICON_ANIMATION_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkDetailedViewController unit tests
+// summary: Unit tests for NetworkDetailedViewController covering network connection, cellular activation, portal signin, and user action metrics for the detailed network page.
+// relations:
+//   - tests /ash/system/network/network_detailed_view_controller.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/public/cpp/test/test_system_tray_client.h
+// ---
+
 #include "ash/system/network/network_detailed_view_controller.h"
 
 #include <memory>

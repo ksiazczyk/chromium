@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network list header view implementation
+// summary: Implements the header view for network lists, handling clicks on the entry row and updating the toggle state.
+// relations:
+//   - depends_on /ash/system/network/network_list_header_view.h
+//   - implements /ash/system/network/network_list_header_view.h
+//   - depends_on /ash/system/tray/hover_highlight_view.h
+// ---
+
 #include "ash/system/network/network_list_header_view.h"
 
 #include <string>

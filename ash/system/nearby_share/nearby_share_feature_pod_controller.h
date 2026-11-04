@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share feature pod controller header
+// summary: Declares the Ash Quick Settings controller for the Nearby Share feature tile, including high visibility mode toggling and countdown timer handling.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+//   - depends_on /ash/system/nearby_share/nearby_share_controller_impl.h
+// ---
+
 #ifndef ASH_SYSTEM_NEARBY_SHARE_NEARBY_SHARE_FEATURE_POD_CONTROLLER_H_
 #define ASH_SYSTEM_NEARBY_SHARE_NEARBY_SHARE_FEATURE_POD_CONTROLLER_H_
 

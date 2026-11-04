@@ -1,0 +1,7 @@
+# Docerion header of mahi_resources.grd.
+type: config
+title: Grit resource definitions for Mahi animations
+summary: Grit resource specification bundling the two Lottie animation JSON files as gzip-compressed resources for the Mahi UI.
+relations:
+  - has_part /ash/system/mahi/resources/mahi_box_gradient.json
+  - has_part /ash/system/mahi/resources/mahi_line_gradient.json

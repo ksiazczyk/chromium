@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network icon implementation
+// summary: Implements generation, caching and badging of network status icons for Wi-Fi, cellular and VPN in the ChromeOS system tray.
+// relations:
+//   - implements /ash/system/network/network_icon.h
+// ---
+
 #include "ash/system/network/network_icon.h"
 
 #include <algorithm>

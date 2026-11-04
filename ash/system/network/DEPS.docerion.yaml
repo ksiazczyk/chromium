@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ash/system/network directory
+summary: Defines allowed include dependencies for the system tray network code, covering Hermes DBus, device event log, ONC, and cros system API headers.

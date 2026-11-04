@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MahiQuestionAnswerView implementation
+// summary: Implements the Mahi question and answer view, including error bubbles, loading animation handling, and question count metric reporting.
+// relations:
+//   - implements /ash/system/mahi/mahi_question_answer_view.h
+//   - depends_on /ash/system/mahi/mahi_constants.h
+//   - depends_on /ui/base/ui_base_features.h
+// ---
+
 #include "ash/system/mahi/mahi_question_answer_view.h"
 
 #include <memory>

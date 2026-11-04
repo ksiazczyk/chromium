@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network detailed network view pixel tests
+// summary: Pixel tests verifying the rendering of the quick settings network detailed view using fake networks and devices.
+// ---
+
 #include <string>
 #include <vector>
 

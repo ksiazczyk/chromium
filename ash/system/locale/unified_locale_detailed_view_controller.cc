@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified locale detailed view controller implementation
+// summary: Implements the controller that creates the locale detailed view for the unified system tray and provides its accessible name.
+// relations:
+//   - implements /ash/system/locale/unified_locale_detailed_view_controller.h
+//   - depends_on /ash/system/locale/locale_detailed_view.h
+//   - depends_on /ash/system/tray/detailed_view_delegate.h
+// ---
+
 #include "ash/system/locale/unified_locale_detailed_view_controller.h"
 
 #include <memory>

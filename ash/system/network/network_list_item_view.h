@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkListItemView class declaration
+// summary: Declares the base view class for a single network row in the quick settings network detailed page.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/tray/hover_highlight_view.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_LIST_ITEM_VIEW_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_LIST_ITEM_VIEW_H_
 

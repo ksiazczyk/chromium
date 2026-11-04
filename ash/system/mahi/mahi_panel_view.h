@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi panel view header
+// summary: Declares MahiPanelView, the main Mahi panel view hosted in MahiPanelWidget, handling textfield events, drag events, and UI controller updates.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/mahi/mahi_ui_controller.h
+//   - depends_on /ash/wm/system_panel_view.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_MAHI_PANEL_VIEW_H_
 #define ASH_SYSTEM_MAHI_MAHI_PANEL_VIEW_H_
 

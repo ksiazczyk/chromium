@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Night Light metrics recorder unit tests
+// summary: Unit tests verifying when the Ash.NightLight.Temperature.Initial histogram is recorded based on Night Light enabled state and schedule type.
+// ---
+
 #include "ash/system/night_light/night_light_metrics_recorder.h"
 
 #include "ash/public/cpp/night_light_controller.h"

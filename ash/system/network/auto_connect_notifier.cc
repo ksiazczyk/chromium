@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-connect notifier implementation
+// summary: Implements a toast notification shown when a managed device policy auto-connects to a secure network after the user explicitly requested a different connection.
+// relations:
+//   - depends_on /ash/system/network/auto_connect_notifier.h
+//   - depends_on /ash/constants/notifier_catalogs.h
+//   - depends_on /ash/public/cpp/system/toast_data.h
+// ---
+
 #include "ash/system/network/auto_connect_notifier.h"
 
 #include <string>

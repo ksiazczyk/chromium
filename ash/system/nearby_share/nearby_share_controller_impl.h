@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share controller with observer interface
+// summary: Declares NearbyShareControllerImpl, a UI-thread singleton that handles Nearby Share events from Chrome and exposes an observer interface within ash.
+// relations:
+//   - depends_on /ash/public/cpp/nearby_share_controller.h
+//   - implements /ash/public/cpp/nearby_share_controller.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ASH_SYSTEM_NEARBY_SHARE_NEARBY_SHARE_CONTROLLER_IMPL_H_
 #define ASH_SYSTEM_NEARBY_SHARE_NEARBY_SHARE_CONTROLLER_IMPL_H_
 

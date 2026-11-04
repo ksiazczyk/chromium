@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VPN feature pod controller header
+// summary: Declares the VPNFeaturePodController class that manages the VPN feature tile in the Quick Settings bubble and observes network state changes.
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_VPN_FEATURE_POD_CONTROLLER_H_
 #define ASH_SYSTEM_NETWORK_VPN_FEATURE_POD_CONTROLLER_H_
 

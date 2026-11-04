@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network icon animation implementation
+// summary: Implements a singleton throb animation that keeps animating network icons in sync and notifies registered observers of changes.
+// relations:
+//   - depends_on /ash/system/network/network_icon_animation.h
+//   - implements /ash/system/network/network_icon_animation.h
+//   - depends_on /ash/system/network/network_icon_animation_observer.h
+// ---
+
 #include "ash/system/network/network_icon_animation.h"
 
 #include "ash/system/network/network_icon_animation_observer.h"

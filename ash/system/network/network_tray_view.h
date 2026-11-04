@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network tray view class declaration
+// summary: Declares NetworkTrayView, the tray view showing the active network icon with animation, session, and accessibility observer support.
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_TRAY_VIEW_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_TRAY_VIEW_H_
 

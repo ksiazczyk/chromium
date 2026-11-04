@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Night Light metrics recorder header
+// summary: Declares the NightLightMetricsRecorder class, a SessionObserver that records Night Light metrics when the first session starts.
+// ---
+
 #ifndef ASH_SYSTEM_NIGHT_LIGHT_NIGHT_LIGHT_METRICS_RECORDER_H_
 #define ASH_SYSTEM_NIGHT_LIGHT_NIGHT_LIGHT_METRICS_RECORDER_H_
 

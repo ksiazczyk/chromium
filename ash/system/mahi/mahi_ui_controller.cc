@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MahiUiController implementation
+// summary: Implements the controller that communicates with the Mahi manager, opens and closes the panel, classifies error statuses, and notifies delegates of updates.
+// relations:
+//   - implements /ash/system/mahi/mahi_ui_controller.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/mahi/mahi_ui_controller.h"
 
 #include <memory>

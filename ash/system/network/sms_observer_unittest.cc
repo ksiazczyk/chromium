@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SmsObserver unit tests
+// summary: Unit tests for the system tray SMS observer, verifying notification behavior when text messages are received, including cases with missing numbers and suppressed messages.
+// ---
+
 #include "ash/system/network/sms_observer.h"
 
 #include <memory>

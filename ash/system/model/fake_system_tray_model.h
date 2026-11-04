@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake system tray model class declaration
+// summary: Declares a fake SystemTrayModel used for mocking in the status area internals testing page, with settable child session state.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/model/system_tray_model.h
+// ---
+
 #ifndef ASH_SYSTEM_MODEL_FAKE_SYSTEM_TRAY_MODEL_H_
 #define ASH_SYSTEM_MODEL_FAKE_SYSTEM_TRAY_MODEL_H_
 

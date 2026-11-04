@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuickSettingsMediaView unit tests
+// summary: Tests media item show and hide behavior, pagination page counts, and scroll fling gesture handling in the media view.
+// relations:
+//   - tests /ash/system/media/quick_settings_media_view.h
+//   - depends_on /ash/system/media/media_tray.h
+//   - depends_on /ash/system/media/quick_settings_media_view_controller.h
+// ---
+
 #include "ash/system/media/quick_settings_media_view.h"
 
 #include "ash/system/media/media_tray.h"

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkFeatureTile class declaration
+// summary: Declares NetworkFeatureTile, a FeatureTile subclass that notifies its delegate when the view's theme changes.
+// relations:
+//   - depends_on /ash/system/unified/feature_tile.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_FEATURE_TILE_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_FEATURE_TILE_H_
 

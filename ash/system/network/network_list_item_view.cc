@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkListItemView implementation
+// summary: Implements label text for network list items, covering cellular activation, carrier nicknames and Ethernet cases.
+// relations:
+//   - implements /ash/system/network/network_list_item_view.h
+//   - depends_on /base/strings/utf_string_conversions.h
+//   - depends_on /ui/base/l10n/l10n_util.h
+// ---
+
 #include "ash/system/network/network_list_item_view.h"
 
 #include <string>

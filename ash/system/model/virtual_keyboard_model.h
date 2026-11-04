@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual keyboard model declaration
+// summary: Declares VirtualKeyboardModel, which stores virtual keyboard visibility state for the ARC input method and exposes an observer interface for changes.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/keyboard/arc/arc_input_method_bounds_tracker.h
+//   - depends_on /ash/public/cpp/keyboard/keyboard_controller_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_MODEL_VIRTUAL_KEYBOARD_MODEL_H_
 #define ASH_SYSTEM_MODEL_VIRTUAL_KEYBOARD_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VPN provider list implementation
+// summary: Implements VpnList, which tracks built-in, extension, and Arc VPN providers and notifies observers when the provider list changes.
+// ---
+
 #include "ash/system/network/vpn_list.h"
 
 #include <utility>

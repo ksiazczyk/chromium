@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkDetailedView unit tests
+// summary: Unit tests for the quick settings network detailed view, verifying settings and info buttons, the info bubble, and related user action metrics.
+// relations:
+//   - tests /ash/system/network/network_detailed_view.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/login_status.h
+// ---
+
 #include "ash/system/network/network_detailed_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS notification observer implementation
+// summary: Implements SmsObserver, which receives cellular text messages and shows them as system notifications in the message center.
+// ---
+
 #include "ash/system/network/sms_observer.h"
 
 #include <memory>

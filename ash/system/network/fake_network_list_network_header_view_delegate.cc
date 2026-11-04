@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake network list header view delegate implementation
+// summary: Implements a fake network list header view delegate that counts mobile and Wi-Fi toggle clicks.
+// relations:
+//   - implements /ash/system/network/fake_network_list_network_header_view_delegate.h
+// ---
+
 #include "ash/system/network/fake_network_list_network_header_view_delegate.h"
 
 namespace ash {

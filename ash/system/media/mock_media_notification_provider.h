@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMediaNotificationProvider test mock header
+// summary: Declares a GoogleMock mock of MediaNotificationProvider used to fake media notification behavior in unit tests.
+// relations:
+//   - depends_on /ash/system/media/media_notification_provider.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+//   - depends_on /url/origin.h
+// ---
+
 #ifndef ASH_SYSTEM_MEDIA_MOCK_MEDIA_NOTIFICATION_PROVIDER_H_
 #define ASH_SYSTEM_MEDIA_MOCK_MEDIA_NOTIFICATION_PROVIDER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile network list header view implementation
+// summary: Implements the mobile data header, setting toggle state, tooltips and notifying the delegate on toggle clicks.
+// relations:
+//   - implements /ash/system/network/network_list_mobile_header_view.h
+//   - depends_on /ash/ash_element_identifiers.h
+//   - depends_on /ash/system/network/network_list_network_header_view.h
+// ---
+
 #include "ash/system/network/network_list_mobile_header_view.h"
 
 #include "ash/ash_element_identifiers.h"

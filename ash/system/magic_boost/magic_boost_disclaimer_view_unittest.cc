@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Magic Boost disclaimer view unit tests
+// summary: Unit tests verifying the disclaimer widget's screen centering, accept and decline button callbacks, and link press behavior.
+// relations:
+//   - tests /ash/system/magic_boost/magic_boost_disclaimer_view.h
+//   - depends_on /ash/system/magic_boost/magic_boost_constants.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/system/magic_boost/magic_boost_disclaimer_view.h"
 
 #include <memory>

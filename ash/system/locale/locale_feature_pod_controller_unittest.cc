@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Locale feature pod controller unit test
+// summary: Unit tests covering visibility of the locale feature tile and the UMA metrics logged when its icon or label is pressed.
+// relations:
+//   - tests /ash/system/locale/locale_feature_pod_controller.h
+//   - depends_on /ash/public/cpp/locale_update_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/locale/locale_feature_pod_controller.h"
 
 #include <memory>

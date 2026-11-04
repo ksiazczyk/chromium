@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkListWifiHeaderView implementation
+// summary: Implements the Wi-Fi section header for the network list, setting toggle tooltips and notifying the delegate when the Wi-Fi toggle is clicked.
+// ---
+
 #include "ash/system/network/network_list_wifi_header_view.h"
 
 #include "ash/ash_element_identifiers.h"

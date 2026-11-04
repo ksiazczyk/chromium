@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share detailed view unit tests
+// summary: Unit tests for NearbyShareDetailedViewImpl covering the settings button, toggles, and visibility rows using fake delegates and a simulated user session.
+// relations:
+//   - tests /ash/system/nearby_share/nearby_share_detailed_view_impl.h
+//   - depends_on /ash/public/cpp/test/test_nearby_share_delegate.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/nearby_share/nearby_share_detailed_view_impl.h"
 
 #include "ash/public/cpp/test/test_nearby_share_delegate.h"

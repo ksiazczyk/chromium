@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share feature pod controller unit tests
+// summary: Unit tests for the Nearby Share feature pod controller, covering tile visibility across session states and toggling behavior.
+// relations:
+//   - tests /ash/system/nearby_share/nearby_share_feature_pod_controller.h
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+//   - depends_on /ash/public/cpp/test/test_nearby_share_delegate.h
+// ---
+
 #include "ash/system/nearby_share/nearby_share_feature_pod_controller.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

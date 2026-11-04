@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wi-Fi toggle notification controller unit tests
+// summary: Unit test verifying that a Wi-Fi toggle request displays a notification in the message center.
+// ---
+
 #include "ash/system/network/wifi_toggle_notification_controller.h"
 
 #include "ash/shell.h"

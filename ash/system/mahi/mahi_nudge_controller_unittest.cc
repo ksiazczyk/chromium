@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi nudge controller unit tests
+// summary: Unit tests covering when the Mahi educational nudge shows or is suppressed based on user opt-in, consent status, shown count, and time since last display.
+// relations:
+//   - depends_on /ash/system/mahi/mahi_nudge_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/system/mahi/mahi_nudge_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

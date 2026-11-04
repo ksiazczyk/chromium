@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network tray utility functions implementation
+// summary: Implements helpers for detailed view title rows, cellular inhibit reason messages, portal state subtext, and network disabled checks.
+// ---
+
 #include "ash/system/network/network_utils.h"
 
 #include "ash/constants/ash_features.h"

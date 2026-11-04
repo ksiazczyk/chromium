@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickSettingsMediaViewContainer implementation
+// summary: Implements the container that manages visibility and expanded height of the quick settings media view.
+// relations:
+//   - depends_on /ash/system/media/quick_settings_media_view_container.h
+//   - depends_on /ash/system/media/quick_settings_media_view_controller.h
+//   - depends_on /ash/system/unified/unified_system_tray_controller.h
+// ---
+
 #include "ash/system/media/quick_settings_media_view_container.h"
 
 #include "ash/system/media/quick_settings_media_view_controller.h"

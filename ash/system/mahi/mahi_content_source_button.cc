@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi content source button implementation
+// summary: Implements the button showing the Mahi panel's content source and opening the source page or activating the media app PDF window on click.
+// relations:
+//   - implements /ash/system/mahi/mahi_content_source_button.h
+//   - depends_on /ash/public/cpp/image_util.h
+//   - depends_on /ash/public/cpp/new_window_delegate.h
+// ---
+
 #include "ash/system/mahi/mahi_content_source_button.h"
 
 #include <optional>

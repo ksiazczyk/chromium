@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network detailed view base implementation
+// summary: Implements the NetworkDetailedView base class, handling title row buttons, info and settings actions, and network item clicks.
+// relations:
+//   - implements /ash/system/network/network_detailed_view.h
+//   - depends_on /ash/public/cpp/ash_view_ids.h
+//   - depends_on /ash/public/cpp/system_tray_client.h
+// ---
+
 #include "ash/system/network/network_detailed_view.h"
 
 #include <memory>

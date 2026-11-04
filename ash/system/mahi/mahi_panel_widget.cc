@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi panel widget implementation
+// summary: Implements creation of the Mahi panel widget, calculating initial bounds and animation start bounds relative to the context menu and screen work area.
+// relations:
+//   - implements /ash/system/mahi/mahi_panel_widget.h
+//   - depends_on /ash/system/mahi/mahi_constants.h
+//   - depends_on /ash/system/mahi/refresh_banner_view.h
+// ---
+
 #include "ash/system/mahi/mahi_panel_widget.h"
 
 #include <cstdint>

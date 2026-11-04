@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network info bubble interface
+// summary: Declares the NetworkInfoBubble dialog and its delegate interface for displaying network IP and MAC address details.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_INFO_BUBBLE_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_INFO_BUBBLE_H_
 

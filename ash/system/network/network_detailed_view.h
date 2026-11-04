@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network detailed view interface
+// summary: Declares NetworkDetailedView, the base quick settings network page view with its delegate interface and info bubble handling.
+// relations:
+//   - implements /ash/system/network/network_info_bubble.h
+//   - depends_on /ash/system/tray/tray_detailed_view.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_DETAILED_VIEW_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_DETAILED_VIEW_H_
 

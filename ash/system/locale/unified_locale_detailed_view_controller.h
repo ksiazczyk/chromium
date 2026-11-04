@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnifiedLocaleDetailedViewController class header
+// summary: Declares the controller for the locale detailed view in the unified system tray, which creates the view and provides its accessible name.
+// relations:
+//   - depends_on /ash/system/unified/detailed_view_controller.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_LOCALE_UNIFIED_LOCALE_DETAILED_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_LOCALE_UNIFIED_LOCALE_DETAILED_VIEW_CONTROLLER_H_
 

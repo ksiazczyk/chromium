@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickSettingsMediaViewController implementation
+// summary: Implements the controller that binds media session services and shows or hides media items in the quick settings media view.
+// relations:
+//   - implements /ash/system/media/quick_settings_media_view_controller.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/shell_delegate.h
+// ---
+
 #include "ash/system/media/quick_settings_media_view_controller.h"
 
 #include "ash/shell.h"

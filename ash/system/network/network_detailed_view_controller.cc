@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network detailed view controller implementation
+// summary: Implements the controller for the quick settings detailed network page, handling network connectability, portal states, and user interactions with the network list.
+// relations:
+//   - implements /ash/system/network/network_detailed_view_controller.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/public/cpp/bluetooth_config_service.h
+// ---
+
 #include "ash/system/network/network_detailed_view_controller.h"
 
 #include <memory>

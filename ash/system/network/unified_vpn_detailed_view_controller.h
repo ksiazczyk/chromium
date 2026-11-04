@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnifiedVPNDetailedViewController declaration
+// summary: Declares the controller of the VPN detailed view shown in the UnifiedSystemTray quick settings.
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_UNIFIED_VPN_DETAILED_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_NETWORK_UNIFIED_VPN_DETAILED_VIEW_CONTROLLER_H_
 

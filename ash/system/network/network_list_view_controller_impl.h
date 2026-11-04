@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkListViewControllerImpl class declaration
+// summary: Declares the NetworkListViewController implementation, a TrayNetworkStateObserver that maps network GUIDs to item views and manages section headers and status messages.
+// relations:
+//   - implements /ash/system/network/network_list_view_controller.h
+//   - depends_on /ash/system/network/tray_network_state_observer.h
+//   - depends_on /ash/system/network/network_list_network_item_view.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_LIST_VIEW_CONTROLLER_IMPL_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_LIST_VIEW_CONTROLLER_IMPL_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi animation utilities declarations
+// summary: Declares helpers to load lottie animation data and playback configs for the Mahi panel's loading animations.
+// relations:
+//   - depends_on /ash/system/mahi/mahi_constants.h
+//   - depends_on /cc/paint/skottie_wrapper.h
+//   - depends_on /ui/lottie/animation.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_MAHI_ANIMATION_UTILS_H_
 #define ASH_SYSTEM_MAHI_MAHI_ANIMATION_UTILS_H_
 

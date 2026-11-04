@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake power status class declaration
+// summary: Declares a fake PowerStatus implementation used for mocking battery and charger state in the status area internals testing page.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/power/power_status.h
+// ---
+
 #ifndef ASH_SYSTEM_MODEL_FAKE_POWER_STATUS_H_
 #define ASH_SYSTEM_MODEL_FAKE_POWER_STATUS_H_
 

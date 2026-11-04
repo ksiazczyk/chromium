@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share detailed view controller declaration
+// summary: Declares NearbyShareDetailedViewController, which creates and passes the Nearby Share detailed view for the unified system tray.
+// relations:
+//   - depends_on /ash/system/unified/detailed_view_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_NEARBY_SHARE_NEARBY_SHARE_DETAILED_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_NEARBY_SHARE_NEARBY_SHARE_DETAILED_VIEW_CONTROLLER_H_
 

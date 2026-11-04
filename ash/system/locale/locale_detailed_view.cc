@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale detailed view implementation
+// summary: Implements the quick settings detailed view that lists available demo mode locales as selectable rows with ISO codes, display names and checkmarks.
+// relations:
+//   - implements /ash/system/locale/locale_detailed_view.h
+//   - depends_on /ash/system/tray/tray_popup_utils.h
+//   - depends_on /ui/base/resource/resource_bundle.h
+// ---
+
 #include "ash/system/locale/locale_detailed_view.h"
 
 #include "ash/public/cpp/system_tray_client.h"

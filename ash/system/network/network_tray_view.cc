@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network tray view implementation
+// summary: Implements the tray item that renders the active network icon and keeps its tooltip and accessibility status up to date.
+// ---
+
 #include "ash/system/network/network_tray_view.h"
 
 #include <utility>

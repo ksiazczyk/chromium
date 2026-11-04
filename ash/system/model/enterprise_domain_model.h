@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise domain model class declaration
+// summary: Declares the EnterpriseDomainModel class that stores enterprise enrollment state and domain manager info with observer support.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/login_types.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ASH_SYSTEM_MODEL_ENTERPRISE_DOMAIN_MODEL_H_
 #define ASH_SYSTEM_MODEL_ENTERPRISE_DOMAIN_MODEL_H_
 

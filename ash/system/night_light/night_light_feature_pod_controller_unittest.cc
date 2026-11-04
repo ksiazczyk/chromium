@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Night Light feature pod controller unit tests
+// summary: Tests the Quick Settings Night Light tile visibility, toggling, and schedule sub-labels in active and locked sessions.
+// ---
+
 #include "ash/system/night_light/night_light_feature_pod_controller.h"
 
 #include <string_view>

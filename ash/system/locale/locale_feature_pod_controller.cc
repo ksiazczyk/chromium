@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale feature pod controller implementation
+// summary: Implements the quick settings feature tile for locale, showing the current language sublabel and opening the locale detailed view when pressed.
+// relations:
+//   - implements /ash/system/locale/locale_feature_pod_controller.h
+//   - depends_on /ash/system/unified/unified_system_tray_controller.h
+//   - depends_on /ash/system/unified/feature_tile.h
+// ---
+
 #include "ash/system/locale/locale_feature_pod_controller.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

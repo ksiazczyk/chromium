@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Mahi manager class declaration
+// summary: Declares FakeMahiManager, a development-only MahiManager stub enabled by the kUseFakeMahiManager switch, plus a scoped zero-duration callback helper.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/mahi/mahi_ui_controller.h
+//   - depends_on /chromeos/components/mahi/public/cpp/mahi_manager.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_FAKE_MAHI_MANAGER_H_
 #define ASH_SYSTEM_MAHI_FAKE_MAHI_MANAGER_H_
 

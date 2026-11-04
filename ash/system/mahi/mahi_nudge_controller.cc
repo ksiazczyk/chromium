@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi nudge controller implementation
+// summary: Implements the educational nudge for the Help me read feature, showing it only when the user has not opted in, consent is unset, and shown-count and timing limits allow.
+// relations:
+//   - depends_on /ash/system/mahi/mahi_nudge_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/constants/notifier_catalogs.h
+// ---
+
 #include "ash/system/mahi/mahi_nudge_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

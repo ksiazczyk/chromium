@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkListWifiHeaderView unit tests
+// summary: Unit tests for the Wi-Fi header view verifying that toggle state changes update the entry row and toggle button tooltips.
+// ---
+
 #include "ash/system/network/network_list_wifi_header_view.h"
 
 #include <memory>

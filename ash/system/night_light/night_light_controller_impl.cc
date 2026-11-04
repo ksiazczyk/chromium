@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Night Light controller implementation
+// summary: Implements the Night Light controller that adjusts screen color temperature, including scheduling, animations, and auto-enable notifications.
+// ---
+
 #include "ash/system/night_light/night_light_controller_impl.h"
 
 #include <algorithm>

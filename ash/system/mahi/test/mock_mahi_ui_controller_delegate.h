@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Mahi UI controller delegate
+// summary: GMock mock of MahiUiController::Delegate stubbing view, visibility, and UI update methods for Ash Mahi tests.
+// relations:
+//   - implements /ash/system/mahi/mahi_ui_controller.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_TEST_MOCK_MAHI_UI_CONTROLLER_DELEGATE_H_
 #define ASH_SYSTEM_MAHI_TEST_MOCK_MAHI_UI_CONTROLLER_DELEGATE_H_
 

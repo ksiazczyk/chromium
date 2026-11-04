@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Locale detailed view unit test
+// summary: Unit tests verifying that the locale detailed view builds a rounded container with locale item children and reports correct accessible checked states.
+// relations:
+//   - tests /ash/system/locale/locale_detailed_view.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ash/system/model/system_tray_model.h
+// ---
+
 #include "ash/system/locale/locale_detailed_view.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Mahi MediaApp content manager
+// summary: GMock mock of chromeos::MahiMediaAppContentManager stubbing content, client, selection, and context menu methods for tests.
+// relations:
+//   - implements /chromeos/components/mahi/public/cpp/mahi_media_app_content_manager.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+//   - depends_on /base/unguessable_token.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_TEST_MOCK_MAHI_MEDIA_APP_CONTENT_MANAGER_H_
 #define ASH_SYSTEM_MAHI_TEST_MOCK_MAHI_MEDIA_APP_CONTENT_MANAGER_H_
 

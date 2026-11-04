@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeNetworkDetailedNetworkView class declaration
+// summary: Declares FakeNetworkDetailedNetworkView, a test double of the network detailed view that exposes call counts and last interactions.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/system/network/network_detailed_network_view.h
+//   - depends_on /ash/system/network/network_list_item_view.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_FAKE_NETWORK_DETAILED_NETWORK_VIEW_H_
 #define ASH_SYSTEM_NETWORK_FAKE_NETWORK_DETAILED_NETWORK_VIEW_H_
 

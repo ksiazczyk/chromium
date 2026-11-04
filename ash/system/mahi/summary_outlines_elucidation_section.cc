@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Summary, outlines and elucidation section implementation
+// summary: Implements the summary, outlines, and elucidation section of the Mahi panel, including section headers, loading animations, and result labels.
+// relations:
+//   - implements /ash/system/mahi/summary_outlines_elucidation_section.h
+//   - depends_on /ash/style/typography.h
+//   - depends_on /ash/system/mahi/mahi_animation_utils.h
+// ---
+
 #include "ash/system/mahi/summary_outlines_elucidation_section.h"
 
 #include <memory>

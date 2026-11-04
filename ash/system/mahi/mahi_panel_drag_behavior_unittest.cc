@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi panel drag behavior unit tests
+// summary: Tests that the Mahi panel repositions on mouse and gesture drags and is clamped to keep part of it on screen when dragged past a display edge.
+// relations:
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/system/mahi/mahi_ui_controller.h
+//   - depends_on /ash/system/mahi/test/mock_mahi_manager.h
+// ---
+
 #include "ash/shell.h"
 #include "ash/system/mahi/mahi_ui_controller.h"
 #include "ash/system/mahi/test/mock_mahi_manager.h"

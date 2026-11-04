@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi utility functions implementation
+// summary: Implements Mahi helpers for retry link visibility, error status text selection, feedback button policy, and the corner cutout clip path.
+// relations:
+//   - depends_on /ash/system/mahi/mahi_utils.h
+//   - implements /ash/system/mahi/mahi_utils.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/system/mahi/mahi_utils.h"
 
 #include <cstddef>

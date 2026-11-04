@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Mahi MediaApp events proxy
+// summary: GMock mock of chromeos::MahiMediaAppEventsProxy stubbing PDF focus, context menu, close, and observer methods for tests.
+// relations:
+//   - implements /chromeos/components/mahi/public/cpp/mahi_media_app_events_proxy.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+//   - depends_on /base/unguessable_token.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_TEST_MOCK_MAHI_MEDIA_APP_EVENTS_PROXY_H_
 #define ASH_SYSTEM_MAHI_TEST_MOCK_MAHI_MEDIA_APP_EVENTS_PROXY_H_
 

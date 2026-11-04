@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi panel view unit tests
+// summary: Extensive unit tests for the Mahi panel view covering question answering, error statuses, feedback buttons, links, scrolling, and metrics.
+// relations:
+//   - tests /ash/system/mahi/mahi_panel_view.h
+//   - depends_on /ash/system/mahi/mahi_ui_controller.h
+//   - depends_on /ash/system/mahi/test/mock_mahi_manager.h
+// ---
+
 #include "ash/system/mahi/mahi_panel_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network detailed network view interface
+// summary: Declares the NetworkDetailedNetworkView interface, its delegate for Wi-Fi and mobile toggle interactions, and the factory for creating instances.
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_DETAILED_NETWORK_VIEW_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_DETAILED_NETWORK_VIEW_H_
 

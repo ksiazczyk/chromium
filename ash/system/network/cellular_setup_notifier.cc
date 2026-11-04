@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular setup notifier implementation
+// summary: Implements a notification shown about 15 minutes after OOBE when a device has eSIM without profiles or a cold pSIM, prompting the user to finish cellular setup.
+// relations:
+//   - implements /ash/system/network/cellular_setup_notifier.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/constants/notifier_catalogs.h
+// ---
+
 #include "ash/system/network/cellular_setup_notifier.h"
 
 #include "ash/constants/ash_pref_names.h"

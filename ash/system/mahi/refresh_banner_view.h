@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refresh banner view class declaration
+// summary: Declares RefreshBannerView, a MahiUiController delegate that shows and hides the refresh banner on top of the Mahi panel with animation.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/mahi/mahi_ui_controller.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_REFRESH_BANNER_VIEW_H_
 #define ASH_SYSTEM_MAHI_REFRESH_BANNER_VIEW_H_
 

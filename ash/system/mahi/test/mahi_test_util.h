@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi test utility header
+// summary: Declares test helpers that return default fake Mahi outlines and run a MahiOutlinesCallback successfully in Ash tests.
+// relations:
+//   - depends_on /chromeos/components/mahi/public/cpp/mahi_manager.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_TEST_MAHI_TEST_UTIL_H_
 #define ASH_SYSTEM_MAHI_TEST_MAHI_TEST_UTIL_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share detailed view interface
+// summary: Defines the NearbyShareDetailedView interface and factory used to interact with the detailed Quick Share page in the system tray.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_SYSTEM_NEARBY_SHARE_NEARBY_SHARE_DETAILED_VIEW_H_
 #define ASH_SYSTEM_NEARBY_SHARE_NEARBY_SHARE_DETAILED_VIEW_H_
 

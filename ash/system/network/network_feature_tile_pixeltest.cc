@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkFeatureTile pixel tests
+// summary: Pixel test verifying the visual rendering of the quick settings network feature tile under different network configurations.
+// relations:
+//   - tests /ash/system/network/network_feature_tile.h
+// ---
+
 #include "ash/system/network/network_feature_pod_controller.h"
 #include "ash/system/tray/tray_constants.h"
 #include "ash/system/unified/unified_system_tray.h"

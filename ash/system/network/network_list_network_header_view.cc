@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network list header view implementation
+// summary: Implements shared toggle, styling and accessibility behavior for the mobile and Wi-Fi network list headers.
+// relations:
+//   - depends_on /ash/system/network/network_list_network_header_view.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/style/switch.h
+// ---
+
 #include "ash/system/network/network_list_network_header_view.h"
 
 #include "ash/constants/ash_features.h"

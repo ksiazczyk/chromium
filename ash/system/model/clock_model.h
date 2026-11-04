@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clock model class declaration
+// summary: Declares the ClockModel class that stores clock format state and notifies ClockObserver instances about system clock changes.
+// relations:
+//   - depends_on /base/i18n/time_formatting.h
+//   - depends_on /base/observer_list.h
+//   - depends_on /chromeos/ash/components/dbus/system_clock/system_clock_client.h
+// ---
+
 #ifndef ASH_SYSTEM_MODEL_CLOCK_MODEL_H_
 #define ASH_SYSTEM_MODEL_CLOCK_MODEL_H_
 

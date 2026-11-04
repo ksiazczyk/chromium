@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share feature pod controller
+// summary: Implements the Quick Settings feature tile controller for Nearby Share, handling icon toggling, onboarding, and high visibility countdown updates.
+// relations:
+//   - implements /ash/system/nearby_share/nearby_share_feature_pod_controller.h
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+//   - depends_on /ash/public/cpp/nearby_share_delegate.h
+// ---
+
 #include "ash/system/nearby_share/nearby_share_feature_pod_controller.h"
 
 #include <string>

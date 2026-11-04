@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi test utility implementation
+// summary: Implements test helpers that provide default fake Mahi outlines and run outline callbacks with a success status for Ash tests.
+// relations:
+//   - implements /ash/system/mahi/test/mahi_test_util.h
+//   - depends_on /chromeos/components/mahi/public/cpp/mahi_manager.h
+// ---
+
 #include "ash/system/mahi/test/mahi_test_util.h"
 
 #include <utility>

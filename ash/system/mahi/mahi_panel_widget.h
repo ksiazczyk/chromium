@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MahiPanelWidget class declaration
+// summary: Declares the widget class that hosts the Mahi panel, observing shelf work area changes and refresh banner visibility to keep the panel positioned correctly.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/shelf/shelf.h
+//   - depends_on /ash/shelf/shelf_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_MAHI_PANEL_WIDGET_H_
 #define ASH_SYSTEM_MAHI_MAHI_PANEL_WIDGET_H_
 

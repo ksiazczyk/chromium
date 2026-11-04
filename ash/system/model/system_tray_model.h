@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System tray model class declaration
+// summary: Declares the SystemTrayModel class implementing the SystemTray interface, exposing accessors to the individual system tray submodels.
+// relations:
+//   - implements /ash/public/cpp/system_tray.h
+//   - depends_on /ash/ash_export.h
+//   - has_part /ash/system/time/calendar_model.h
+// ---
+
 #ifndef ASH_SYSTEM_MODEL_SYSTEM_TRAY_MODEL_H_
 #define ASH_SYSTEM_MODEL_SYSTEM_TRAY_MODEL_H_
 

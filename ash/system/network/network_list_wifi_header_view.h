@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkListWifiHeaderView class declaration
+// summary: Declares the network list header view for Wi-Fi networks, extending the shared network header view with toggle state and toggle click handling.
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_LIST_WIFI_HEADER_VIEW_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_LIST_WIFI_HEADER_VIEW_H_
 

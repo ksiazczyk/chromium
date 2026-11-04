@@ -1,0 +1,7 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mahi resources grit build target
+summary: Defines the grit target that compiles mahi_resources.grd into a C++ header and a pak data package for ChromeOS Ash.
+relations:
+  - depends_on /tools/grit/grit_rule.gni
+  - depends_on /ash/system/mahi/resources/mahi_resources.grd

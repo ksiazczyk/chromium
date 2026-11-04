@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share detailed view implementation declaration
+// summary: Declares NearbyShareDetailedViewImpl, the tray detailed view with a Quick Share toggle and visibility rows such as your devices, contacts, hidden, and everyone.
+// relations:
+//   - depends_on /ash/system/nearby_share/nearby_share_detailed_view.h
+//   - depends_on /ash/system/tray/tray_detailed_view.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_NEARBY_SHARE_NEARBY_SHARE_DETAILED_VIEW_IMPL_H_
 #define ASH_SYSTEM_NEARBY_SHARE_NEARBY_SHARE_DETAILED_VIEW_IMPL_H_
 

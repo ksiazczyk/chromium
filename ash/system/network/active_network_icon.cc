@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active network icon implementation
+// summary: Implements ActiveNetworkIcon, producing tray icons plus accessibility and tooltip strings for the active network, including cellular activation, portal, and signal strength states.
+// relations:
+//   - depends_on /ash/system/network/active_network_icon.h
+//   - depends_on /ash/public/cpp/network_config_service.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/network/active_network_icon.h"
 
 #include "ash/public/cpp/network_config_service.h"

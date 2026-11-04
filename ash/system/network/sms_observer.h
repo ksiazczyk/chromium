@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS notification observer class declaration
+// summary: Declares SmsObserver, a TextMessageProvider observer that displays received SMS messages to the user as notifications.
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_SMS_OBSERVER_H_
 #define ASH_SYSTEM_NETWORK_SMS_OBSERVER_H_
 

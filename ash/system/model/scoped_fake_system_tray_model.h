@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFakeSystemTrayModel class declaration
+// summary: Declares ScopedFakeSystemTrayModel, a scoped helper that installs a fake system tray model as the Shell singleton for testing.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_MODEL_SCOPED_FAKE_SYSTEM_TRAY_MODEL_H_
 #define ASH_SYSTEM_MODEL_SCOPED_FAKE_SYSTEM_TRAY_MODEL_H_
 

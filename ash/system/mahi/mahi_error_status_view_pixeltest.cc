@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi error status view pixel test
+// summary: Pixel tests verifying the rendering of the Mahi error status view for the various MahiResponseStatus error codes, with and without system blur enabled.
+// relations:
+//   - depends_on /ash/system/mahi/mahi_constants.h
+//   - depends_on /ash/system/mahi/mahi_panel_view.h
+//   - depends_on /ash/system/mahi/mahi_panel_widget.h
+// ---
+
 #include <optional>
 #include <string>
 #include <utility>

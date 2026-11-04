@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network list header view unit tests
+// summary: Tests toggle state, event acceptance and visibility handling for the shared network header view.
+// relations:
+//   - tests /ash/system/network/network_list_network_header_view.h
+//   - depends_on /ash/system/network/network_list_network_header_view.h
+//   - depends_on /ash/system/network/fake_network_list_network_header_view_delegate.h
+// ---
+
 #include "ash/system/network/network_list_network_header_view.h"
 
 #include <memory>

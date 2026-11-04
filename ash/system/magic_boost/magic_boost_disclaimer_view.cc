@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost disclaimer view implementation
+// summary: Implements the Magic Boost disclaimer bubble view, building its title, paragraphs, links, and accept/decline buttons and creating the centered host widget.
+// relations:
+//   - implements /ash/system/magic_boost/magic_boost_disclaimer_view.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/style/typography.h
+// ---
+
 #include "ash/system/magic_boost/magic_boost_disclaimer_view.h"
 
 #include <memory>

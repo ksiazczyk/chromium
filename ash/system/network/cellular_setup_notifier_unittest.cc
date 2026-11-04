@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular setup notifier unit tests
+// summary: Unit tests for CellularSetupNotifier that use fake shill and hermes clients to verify when the cellular setup notification is shown.
+// relations:
+//   - tests /ash/system/network/cellular_setup_notifier.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/system/network/cellular_setup_notifier.h"
 
 #include "ash/constants/ash_pref_names.h"

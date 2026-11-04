@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkObserver interface for Wi-Fi toggle requests
+// summary: Declares the ash NetworkObserver interface whose RequestToggleWifi method handles requests to enable or disable Wi-Fi, for example from an accelerator.
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_OBSERVER_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_OBSERVER_H_
 
