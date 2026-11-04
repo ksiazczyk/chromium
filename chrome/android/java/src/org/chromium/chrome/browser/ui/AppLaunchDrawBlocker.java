@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch draw blocker
+// summary: Blocks drawing of the ChromeTabbedActivity content view on launch until the initial tab is available, including incognito restore handling, and records related metrics.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static org.chromium.base.TimeUtils.uptimeMillis;

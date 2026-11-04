@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard focus row manager
+// summary: Controls keyboard focus across top controls and side UI such as messages, tab strip, omnibox, bookmarks bar, vertical tabs, and side panel on Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static org.chromium.ui.modaldialog.ModalDialogManager.ModalDialogType.APP;

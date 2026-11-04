@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabParentIntent
+// summary: Holds an Intent used to bring back the parent Activity when a tab opened from another Activity is closed.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.app.Activity;

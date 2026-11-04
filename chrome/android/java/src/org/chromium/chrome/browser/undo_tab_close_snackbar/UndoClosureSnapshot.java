@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UndoClosureSnapshot
+// summary: Immutable snapshot of closed tabs, tab groups and saved tab group details captured at close time to drive the undo snackbar.
+// ---
+
 package org.chromium.chrome.browser.undo_tab_close_snackbar;
 
 import androidx.annotation.IntDef;

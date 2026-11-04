@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price insights delegate implementation
+// summary: Implements the price insights delegate for the bottom sheet, handling price tracking state, bookmarks, and the price history chart view.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import android.content.Context;

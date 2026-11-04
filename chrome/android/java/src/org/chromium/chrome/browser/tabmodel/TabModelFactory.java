@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelFactory
+// summary: Factory helper that creates regular and incognito tab model instances, returning stub models when incognito isolation is enforced.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.chrome.browser.tab.TabStateStorageServiceFactory.createBatch;

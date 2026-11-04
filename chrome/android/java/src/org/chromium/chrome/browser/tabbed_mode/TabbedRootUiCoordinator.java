@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedRootUiCoordinator for ChromeTabbedActivity root UI
+// summary: Coordinates the root UI of ChromeTabbedActivity, wiring coordinators, controllers, bookmarks bar, and activity lifecycle handling.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static org.chromium.build.NullUtil.assertNonNull;

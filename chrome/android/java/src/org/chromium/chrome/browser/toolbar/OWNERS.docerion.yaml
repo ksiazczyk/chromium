@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the toolbar directory
+summary: OWNERS file that delegates code review ownership to chrome/browser/ui/android/toolbar/OWNERS.

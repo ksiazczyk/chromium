@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReturnToChromeUtil
+// summary: Utility class for return-to-Chrome behavior, controlling when the home surface UI is shown on a new tab page and recording related UMA metrics.
+// ---
+
 package org.chromium.chrome.browser.tasks;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

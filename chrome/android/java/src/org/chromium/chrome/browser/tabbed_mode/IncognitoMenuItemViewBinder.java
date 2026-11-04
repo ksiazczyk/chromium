@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito menu item view binder
+// summary: Binds the incognito app menu item's view properties such as title, icon, shortcut text, enabled state, and highlight.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import android.text.TextUtils;

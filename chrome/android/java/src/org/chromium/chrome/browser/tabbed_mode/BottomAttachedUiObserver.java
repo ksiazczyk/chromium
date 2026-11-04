@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom-attached UI observer
+// summary: Aggregates state of UI components attached above the navigation bar, such as bottom sheets, omnibox suggestions, and keyboard accessory, and notifies observers of color changes.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

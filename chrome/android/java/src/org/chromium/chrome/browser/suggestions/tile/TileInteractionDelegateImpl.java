@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile interaction delegate
+// summary: Handles tile view touch, key and context menu interactions, including opening, removing and modifying most-visited tiles.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import android.annotation.SuppressLint;

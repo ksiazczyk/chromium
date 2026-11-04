@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy activity for trusted vault key flows
+// summary: UI-less proxy activity that launches trusted vault key retrieval or recoverability fix flows and notifies TrustedVaultClient when they finish.
+// ---
+
 package org.chromium.chrome.browser.sync.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

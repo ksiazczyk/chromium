@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelJniBridge
+// summary: Abstract class that bridges the C++ and Java TabModel interfaces, managing initialization and teardown of the native counterpart.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

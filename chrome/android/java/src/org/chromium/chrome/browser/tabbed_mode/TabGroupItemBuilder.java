@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupItemBuilder for tab group app menu items
+// summary: Builds AppMenu list items for tab group related menus, including favicons, colors, and saved tab group sync state.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import android.content.Context;

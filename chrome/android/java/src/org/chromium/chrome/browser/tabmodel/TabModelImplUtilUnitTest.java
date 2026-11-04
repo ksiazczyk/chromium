@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabModelImplUtilUnitTest
+// summary: Robolectric unit tests verifying multi-selection add, remove, and clear behavior in TabModelImplUtil and the resulting observer notifications.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertFalse;

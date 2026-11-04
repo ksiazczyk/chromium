@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Request desktop site utilities
+// summary: Utility class recording user agent and screen orientation metrics and supporting desktop site requests in Chrome Android.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.content.Context;

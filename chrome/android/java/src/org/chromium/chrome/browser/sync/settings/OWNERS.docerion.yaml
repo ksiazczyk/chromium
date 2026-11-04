@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for sync settings
+summary: Lists code owners for the directory, referencing the signin Android owners file and treib@chromium.org.

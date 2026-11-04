@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile movement manager
+// summary: Manages transient visual movement and animation of a row of tile views during drag-and-drop reordering without changing order.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import android.view.ViewPropertyAnimator;

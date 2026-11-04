@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionsMetrics
+// summary: Records user action metrics for suggestions events such as surface visibility, tile taps, and header expansion, for UMA reporting.
+// ---
+
 package org.chromium.chrome.browser.suggestions;
 
 import org.chromium.base.metrics.RecordUserAction;

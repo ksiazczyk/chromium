@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncErrorNotifier
+// summary: Android class that listens for sync state changes and shows notifications for sync errors, such as missing passphrase or trusted vault key, which users can click to fix.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import android.app.PendingIntent;

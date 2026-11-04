@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks app menu item builder
+// summary: Builds the bookmark-related items of the Chrome app menu, including favicon fetching, bookmark bar visibility state, and themed menu entry models.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static org.chromium.chrome.browser.bookmarks.R.dimen.bookmarks_bar_context_menu_end_icon_padding;

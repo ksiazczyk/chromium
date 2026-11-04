@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabUma
+// summary: Centralizes UMA histogram collection for tab management, tracking tab states, restore times, and eviction to guide memory optimization.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.os.SystemClock;

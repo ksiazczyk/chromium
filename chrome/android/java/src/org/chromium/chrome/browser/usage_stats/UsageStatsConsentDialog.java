@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsageStatsConsentDialog
+// summary: Modal dialog that lets the user enable or revoke the Digital Wellbeing integration and reports the confirmation result.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

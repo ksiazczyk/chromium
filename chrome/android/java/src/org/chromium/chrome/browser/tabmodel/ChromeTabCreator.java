@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeTabCreator
+// summary: Creates various kinds of new tabs, such as from intents or restores, and adds them to the appropriate regular or incognito TabModel.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinableSuggestion interface
+// summary: Interface exposing data of a suggestion that can be saved offline, including its URL and assigned offline page id.
+// ---
+
 package org.chromium.chrome.browser.suggestions;
 
 import org.chromium.build.annotations.NullMarked;

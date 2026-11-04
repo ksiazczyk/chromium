@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionsUiDelegate
+// summary: Interface between the suggestion surface and the rest of the browser, exposing navigation, image fetching, and snackbar dependencies.
+// ---
+
 package org.chromium.chrome.browser.suggestions;
 
 import org.chromium.build.annotations.NullMarked;

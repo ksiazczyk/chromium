@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UndoBarThrottle
+// summary: Interface for throttling the undo bar, using tokens acquired from startThrottling and returned to stopThrottling.
+// ---
+
 package org.chromium.chrome.browser.undo_tab_close_snackbar;
 
 import org.chromium.build.annotations.NullMarked;

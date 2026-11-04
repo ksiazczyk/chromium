@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Chromium dependency rules allowing the vr package to depend on the webxr components Java sources.

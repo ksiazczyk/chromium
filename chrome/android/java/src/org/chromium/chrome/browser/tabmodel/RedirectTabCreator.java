@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab creator that redirects new tabs to another window
+// summary: ChromeTabCreator subclass that sanitizes URLs and redirects new tab creation to another window via the multi-instance orchestrator.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import android.app.Activity;

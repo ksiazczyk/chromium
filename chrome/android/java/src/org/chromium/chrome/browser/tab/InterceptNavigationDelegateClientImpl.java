@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intercept navigation delegate client for tabs
+// summary: Implements InterceptNavigationDelegateClient to supply embedder-level tab information for external navigation interception.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.chromium.build.NullUtil.assertNonNull;

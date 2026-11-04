@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for archiving and restoring tabs
+// summary: Defines the TabArchiver interface for moving tabs to and from the archived TabModel, including archive and auto-delete passes, unarchiving, and rescuing archived tabs.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.base.lifetime.Destroyable;

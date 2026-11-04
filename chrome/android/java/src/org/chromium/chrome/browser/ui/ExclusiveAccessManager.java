@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access manager
+// summary: Java counterpart of ExclusiveAccessManagerAndroid that synchronizes fullscreen, pointer lock and keyboard lock modes within an activity and monitors their exit criteria.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import android.os.Bundle;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Builder for creating Tab instances
+// summary: Builds Tab objects with the builder pattern, configuring profile, id, parent, launch type, web contents, delegate factory, and initial visibility state.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

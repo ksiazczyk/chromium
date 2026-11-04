@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarManager
+// summary: Central manager coordinating the Chrome Android toolbar's creation, theming, button behavior and browser controls integration.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.chromium.build.NullUtil.assertNonNull;

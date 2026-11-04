@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NextTabSelectionUtil
+// summary: Utility with static helper methods implementing next-tab selection heuristics for choosing which tab to focus after tabs are closed or groups collapse.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.base.Token;

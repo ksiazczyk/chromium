@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoricalEntry
+// summary: Java class representing a historical entry for tab restore, holding either a single closing tab or a closing tab group with its id, title, color, tabs and saved tab group sync id.
+// ---
+
 package org.chromium.chrome.browser.tab.tab_restore;
 
 import org.chromium.base.Token;

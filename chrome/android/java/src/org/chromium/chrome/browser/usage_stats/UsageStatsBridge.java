@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsageStatsBridge
+// summary: Java JNI bridge giving access to the native usage stats storage for querying, adding, and deleting website events and suspensions.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import com.google.protobuf.InvalidProtocolBufferException;

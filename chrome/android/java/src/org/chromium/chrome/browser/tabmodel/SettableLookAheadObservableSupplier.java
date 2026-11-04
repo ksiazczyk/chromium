@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settable look-ahead observable supplier
+// summary: Settable supplier implementation that notifies look-ahead observers of an upcoming value before committing it to regular observers.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.base.supplier.ObservableSuppliers.createNullable;

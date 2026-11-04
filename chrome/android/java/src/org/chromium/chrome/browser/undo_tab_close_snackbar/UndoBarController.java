@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UndoBarController
+// summary: Abstract base controller that queues undo bar requests, tracks shown bars, and commits or undoes tab closures through the SnackbarManager.
+// ---
+
 package org.chromium.chrome.browser.undo_tab_close_snackbar;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

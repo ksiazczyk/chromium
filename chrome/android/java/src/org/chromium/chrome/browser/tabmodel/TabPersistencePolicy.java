@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabPersistencePolicy
+// summary: Interface defining activity-specific tab persistence behavior, including state directories, metadata file names, startup merges, initialization and cleanup of unused files.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import android.util.SparseBooleanArray;

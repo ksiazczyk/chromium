@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlSimilarityScorer
+// summary: Heuristically scores similarity between a key URL and candidate URLs to find the best matching tab, logging match results as metrics.
+// ---
+
 package org.chromium.chrome.browser.suggestions;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

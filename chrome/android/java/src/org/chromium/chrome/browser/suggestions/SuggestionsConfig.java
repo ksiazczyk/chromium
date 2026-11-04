@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionsConfig
+// summary: Provides configuration constants and helpers for suggestions, including tile style selection, tile limits, and the referrer URL.
+// ---
+
 package org.chromium.chrome.browser.suggestions;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileGroup delegate implementation
+// summary: Reusable TileGroup.Delegate that performs most-visited site operations such as custom links, snackbars, dialogs and metrics.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage sync settings fragment
+// summary: Large settings fragment for managing Chrome sync, including sync error handling, passphrase dialogs, and sign-out options.
+// ---
+
 package org.chromium.chrome.browser.sync.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

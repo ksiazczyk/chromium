@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalize Google services settings fragment
+// summary: Settings fragment with links to Google Account settings related to Chrome, such as Web & App Activity, refreshed on sync state changes.
+// ---
+
 package org.chromium.chrome.browser.sync.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

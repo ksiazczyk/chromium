@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill session lifetime controller for tabs
+// summary: Cancels Android Autofill sessions on tab hiding, domain changes, and browser-initiated navigation to avoid stale sessions and false save prompts.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.app.Activity;

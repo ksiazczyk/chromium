@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabUndoBarController
+// summary: Controller that observes tab model closure events and shows undo snackbars for regular tab closures, suppressing them while the tab grid dialog is visible.
+// ---
+
 package org.chromium.chrome.browser.undo_tab_close_snackbar;
 
 import android.content.Context;

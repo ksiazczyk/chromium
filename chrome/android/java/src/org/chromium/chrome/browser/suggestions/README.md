@@ -1,3 +1,9 @@
+---
+type: readme
+title: 'Content Suggestions UI: Architecture and Package Overview'
+summary: Describes the architecture of the content suggestions UI, covering RecyclerView patterns, the node tree data model, and design principles.
+---
+
 # Content Suggestions UI: Architecture and Package Overview
 
 ## Introduction

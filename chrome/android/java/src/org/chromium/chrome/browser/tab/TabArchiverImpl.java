@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the tab archiver
+// summary: Implements TabArchiver to move tabs between regular and archived TabModels, run declutter and auto-delete passes, respect tab group sync, and record usage metrics.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned tab closure confirmation manager
+// summary: Manages a double-confirmation flow with a warning toast for closing pinned tabs in Chrome for Android, preventing accidental closure.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token generator
+// summary: Generates opaque token pseudonyms for fully-qualified domain names used when reporting usage to the untrusted platform.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import org.chromium.build.annotations.NullMarked;

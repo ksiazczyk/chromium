@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile drag session helper
+// summary: Manages per-session drag state and auto-scroll for tile reordering, interfacing with TileMovement and reporting drag events.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import android.os.Handler;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGestureStateListener
+// summary: Per-tab gesture state listener that tracks scroll and fling events and records binder transaction metrics during scrolling.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

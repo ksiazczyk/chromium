@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS dependency rules for the toolbar directory
+summary: Chromium DEPS file defining allowed include rules and per-file dependency exceptions for the toolbar Java directory.

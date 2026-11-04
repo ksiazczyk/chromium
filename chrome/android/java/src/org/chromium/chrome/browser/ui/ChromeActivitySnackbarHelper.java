@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome activity snackbar helper
+// summary: Helper that manages SnackbarManager behavior for ChromeActivity, adjusting snackbar margins for edge-to-edge display and handling snackbars shown over bottom sheets.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import android.app.Activity;

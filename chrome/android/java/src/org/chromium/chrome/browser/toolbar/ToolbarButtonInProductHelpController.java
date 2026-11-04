@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarButtonInProductHelpController
+// summary: Helper controller that shows in-product help bubbles on toolbar buttons for features such as translate, downloads and shopping.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTileEditCoordinator
+// summary: Coordinator for the custom tile edit dialog that wires the view and mediator together and forwards tile value changes and duplicate-URL checks to the browser.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile.tile_edit_dialog;
 
 import android.content.Context;

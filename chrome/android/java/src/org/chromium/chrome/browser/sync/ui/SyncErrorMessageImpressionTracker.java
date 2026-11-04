@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracker for sync error message display frequency
+// summary: Tracks when the sync error message was last shown and decides whether enough time has passed to show it again.
+// ---
+
 package org.chromium.chrome.browser.sync.ui;
 
 import static org.chromium.chrome.browser.preferences.ChromePreferenceKeys.SYNC_ERROR_MESSAGE_SHOWN_AT_TIME;

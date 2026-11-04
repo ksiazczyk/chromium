@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillPaymentMethodControllerBridge
+// summary: JNI bridge that delegates Java-side TouchToFillPaymentMethodComponent delegate events, such as dismissal, card scanning, settings access, and suggestion selection, to the native C++ controller.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.payments;
 
 import android.content.Context;

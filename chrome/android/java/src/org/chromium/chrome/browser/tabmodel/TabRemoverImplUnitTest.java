@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabRemoverImplUnitTest
+// summary: Robolectric unit tests covering TabRemoverImpl close flows, confirmation dialog handling and protection of synced and collaboration tab groups.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

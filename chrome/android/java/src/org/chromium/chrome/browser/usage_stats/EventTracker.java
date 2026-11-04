@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Website event tracker
+// summary: In-memory store of website events that supports adding events and querying events in a time interval, persisting through the usage stats bridge.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import org.chromium.base.CallbackUtils;

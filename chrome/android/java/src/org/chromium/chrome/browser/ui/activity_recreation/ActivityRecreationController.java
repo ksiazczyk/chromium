@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityRecreationController
+// summary: Utility class that saves and restores the Chrome Android activity UI state, such as omnibox focus, keyboard, tab switcher and side panel, across activity recreation from fold transitions, density or UI mode changes.
+// ---
+
 package org.chromium.chrome.browser.ui.activity_recreation;
 
 import static org.chromium.build.NullUtil.assertNonNull;

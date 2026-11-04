@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message banner UI for sync errors
+// summary: Android message banner that informs about the current sync error and offers an action to resolve it, limited to one instance per window.
+// ---
+
 package org.chromium.chrome.browser.sync.ui;
 
 import static org.chromium.base.ContextUtils.getApplicationContext;

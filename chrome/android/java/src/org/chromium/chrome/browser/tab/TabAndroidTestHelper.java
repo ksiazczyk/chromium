@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab initialization helper for native unit tests
+// summary: Provides JNI-called helpers that create and initialize TabImpl instances for the tab_android_unittest.cc native tests.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.jni_zero.CalledByNative;

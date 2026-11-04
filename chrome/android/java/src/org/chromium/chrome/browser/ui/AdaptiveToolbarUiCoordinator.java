@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive toolbar UI coordinator
+// summary: Coordinates the adaptive toolbar button and its variants such as voice, share, price tracking, read aloud, translate and discounts for Chrome on Android.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static org.chromium.build.NullUtil.assertNonNull;

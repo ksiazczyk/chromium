@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelRemover
+// summary: Performs tab and tab group removal, coordinating confirmation dialogs and placeholder tabs to protect synced or shared tab groups from unintended deletion.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoricalTabSaver
+// summary: Interface for creating tab, group and bulk closure entries in the TabRestoreService, returning stored entry ids or an invalid id when nothing is saved.
+// ---
+
 package org.chromium.chrome.browser.tab.tab_restore;
 
 import org.chromium.build.annotations.NullMarked;

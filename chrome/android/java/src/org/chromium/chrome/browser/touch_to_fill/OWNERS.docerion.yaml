@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Touch to Fill OWNERS
+summary: Redirects code ownership of the touch_to_fill directory to the OWNERS file of the Android autofill components for reviewer assignment.

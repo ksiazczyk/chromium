@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile drag auto-scroll manager
+// summary: Manages horizontal auto-scroll dynamics while a tile is dragged near container edges, using sense zones and a timer-driven scroll loop.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import android.os.Handler;

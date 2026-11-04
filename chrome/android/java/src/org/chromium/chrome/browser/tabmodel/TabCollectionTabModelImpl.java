@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab model implementation backed by tab collections
+// summary: Implements the Chrome tab model on top of the C++ tab collection tree, handling tab selection, groups, closures, and recently closed entries.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.base.ThreadUtils.assertOnUiThread;

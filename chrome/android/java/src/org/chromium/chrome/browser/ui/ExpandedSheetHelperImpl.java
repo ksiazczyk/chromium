@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expanded bottom sheet helper
+// summary: Implementation of ExpandedSheetHelper that suspends modal dialogs and obscures tabs from the accessibility tree while a bottom sheet is expanded.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import org.chromium.build.annotations.NullMarked;

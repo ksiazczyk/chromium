@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital Wellbeing client
+// summary: Inert client for interacting with the Digital Wellbeing app on Android, with the real implementation living downstream.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import org.chromium.base.Promise;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFill Autofill view JNI bridge
+// summary: Java JNI bridge for the native TouchToFillAutofillViewImpl that delegates native calls to the TouchToFill autofill component and manages bottom sheet dismissal and keyboard focus behavior.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.autofill;
 
 import android.content.Context;

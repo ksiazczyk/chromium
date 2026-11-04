@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload card preference for sign-in settings
+// summary: Preference that hosts the batch upload card coordinator in sync settings and notifies a listener when the card's visibility changes.
+// ---
+
 package org.chromium.chrome.browser.sync.settings;
 
 import android.app.Activity;

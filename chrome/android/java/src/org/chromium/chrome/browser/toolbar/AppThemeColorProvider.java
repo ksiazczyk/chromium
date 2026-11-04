@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppThemeColorProvider
+// summary: Theme color provider that supplies toolbar colors for standard and incognito app themes, reacting to layout and multi-window state changes.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.content.Context;

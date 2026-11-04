@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileGroup site suggestion tile model and controller
+// summary: Model and controller for a group of most-visited site suggestion tiles, coordinating data updates, rendering and tile actions.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

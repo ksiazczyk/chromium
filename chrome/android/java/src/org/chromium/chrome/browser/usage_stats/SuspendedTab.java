@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspended tab UI
+// summary: Implements the suspension page shown when a user tries to visit a site whose domain has been suspended via Digital Wellbeing.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import android.content.ActivityNotFoundException;

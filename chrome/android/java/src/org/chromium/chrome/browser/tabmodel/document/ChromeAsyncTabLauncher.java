@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAsyncTabLauncher
+// summary: Implements AsyncTabLauncher to asynchronously create Chrome tabs by starting activities with trusted intents, handling incognito tabs, parent tab IDs, and standalone frame launches.
+// ---
+
 package org.chromium.chrome.browser.tabmodel.document;
 
 import android.app.Activity;

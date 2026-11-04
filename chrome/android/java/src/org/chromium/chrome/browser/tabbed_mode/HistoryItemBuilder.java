@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History app menu item builder
+// summary: Builds the History and Recent Tabs app menu items, including recently closed entries and synced sessions from other devices, with favicon support.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import android.content.Context;

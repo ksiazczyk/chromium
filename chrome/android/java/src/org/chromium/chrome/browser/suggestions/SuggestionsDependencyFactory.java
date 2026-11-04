@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionsDependencyFactory
+// summary: Factory that creates native-backed dependencies for the suggestions package so they can be swapped out during testing.
+// ---
+
 package org.chromium.chrome.browser.suggestions;
 
 import org.chromium.base.ThreadUtils;

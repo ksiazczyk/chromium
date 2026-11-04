@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Per-file owner assignments for the browser UI directory, delegating Incognito restore files to the incognito OWNERS list.

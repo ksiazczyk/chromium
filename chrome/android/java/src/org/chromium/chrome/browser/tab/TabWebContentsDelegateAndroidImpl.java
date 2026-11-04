@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabWebContentsDelegateAndroidImpl
+// summary: Implements the tab's WebContents delegate for Android, handling events like find-in-page results, media and device notifications, and closing contents.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracingSettings
+// summary: Settings fragment for recording a performance trace, offering tracing mode selection, category configuration, start and share controls, and tracing status.
+// ---
+
 package org.chromium.chrome.browser.tracing.settings;
 
 import android.os.Bundle;

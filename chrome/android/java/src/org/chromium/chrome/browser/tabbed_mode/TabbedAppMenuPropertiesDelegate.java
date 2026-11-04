@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedAppMenuPropertiesDelegate for the overflow menu
+// summary: Supplies and updates app menu item properties, visibility, and states for the tabbed browser activity's overflow menu.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

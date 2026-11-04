@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabOpenerTrackerHelper
+// summary: Tracks opener, parent and sibling relationships among tabs in a TabModel to pick a hierarchical next tab when tabs close, gated behind the TabOpenerTracking feature flag.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import android.util.ArraySet;

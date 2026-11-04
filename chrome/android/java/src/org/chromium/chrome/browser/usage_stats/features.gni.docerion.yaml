@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Usage stats feature flag configuration
+summary: GN build file declaring the enable_usage_stats argument, enabled for default, canary, and dev Android channels.

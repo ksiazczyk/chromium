@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabArchiveSettings for tab declutter preferences
+// summary: Manages reading and writing Chrome preferences for tab declutter, covering archive timing, auto-delete settings, IPH limits, and observer notifications for archived tab counts.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.content.SharedPreferences;

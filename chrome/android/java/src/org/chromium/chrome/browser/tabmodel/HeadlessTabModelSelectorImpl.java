@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessTabModelSelectorImpl
+// summary: TabModelSelector for interacting with tabs without an activity, using a headless tab model and treating tab display requests as a no-op.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 

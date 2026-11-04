@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetcher for suggestion icons
+// summary: Fetches large icons for URLs displayed in the New Tab Page and Chrome Home tiles, delivering bitmaps via a callback.
+// ---
+
 package org.chromium.chrome.browser.suggestions;
 
 import androidx.annotation.VisibleForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom sheet manager
+// summary: Manages activity-specific interactions with the bottom sheet component, such as suppressing the sheet while the omnibox is focused and coordinating browser controls offsets.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import org.chromium.base.Callback;

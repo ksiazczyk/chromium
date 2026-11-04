@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildAccountService
+// summary: Java interface for native Chromium code to re-authenticate a child account, reporting reauthentication failures back through JNI callbacks.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import static org.chromium.build.NullUtil.assertNonNull;

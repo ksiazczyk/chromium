@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions tile vertical divider
+// summary: View that draws an animated vertical divider between site suggestion tiles, supporting show, hide, and transient show-then-hide transitions.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import android.content.Context;

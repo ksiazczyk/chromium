@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Usage stats common metadata
+summary: Shared issue tracker metadata defining the monorail component and Buganizer component ID for the usage stats directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MostVisitedSites interface for most visited site suggestions
+// summary: Java interface extending CustomLinkOperations that provides most visited URLs, titles and thumbnails, with observer callbacks, blocklisting, metrics recording and suggestion scores.
+// ---
+
 package org.chromium.chrome.browser.suggestions.mostvisited;
 
 import org.jni_zero.CalledByNative;

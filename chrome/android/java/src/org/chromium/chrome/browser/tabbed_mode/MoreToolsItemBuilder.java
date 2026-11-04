@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: More tools app menu item builder
+// summary: Builds the app menu items for the More tools submenu, including reader mode visibility and tab layout toggle entries.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

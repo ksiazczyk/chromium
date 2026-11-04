@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most visited tiles properties
+// summary: Defines the property keys for the most visited tiles view model, covering visibility and horizontal interval and edge paddings.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import org.chromium.build.annotations.NullMarked;

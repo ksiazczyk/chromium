@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabFaviconTest
+// summary: Unit tests for TabFavicon verifying favicon availability callbacks, size filtering, and bitmap updates using Robolectric and Mockito.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.junit.Assert.assertEquals;

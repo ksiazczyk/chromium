@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capture overlay controller
+// summary: Manages the visibility and sizing of an overlay border while tab capture is ongoing, tracking which captured tabs are interactable.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import android.util.SparseArray;

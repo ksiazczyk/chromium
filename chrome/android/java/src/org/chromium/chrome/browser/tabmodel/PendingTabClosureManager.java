@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingTabClosureManager
+// summary: Tracks pending tab closures and undo events for TabModelImpl, delegating actual tab list changes to a PendingTabClosureDelegate.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import android.util.ArraySet;

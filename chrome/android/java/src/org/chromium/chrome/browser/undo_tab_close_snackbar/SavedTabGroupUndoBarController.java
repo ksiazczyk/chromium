@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavedTabGroupUndoBarController
+// summary: Controller that queues undo snackbars for closed tabs and saved tab groups via explicit triggers, holding archived tab model leases until the undo completes.
+// ---
+
 package org.chromium.chrome.browser.undo_tab_close_snackbar;
 
 import static org.chromium.build.NullUtil.assumeNonNull;
