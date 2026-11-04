@@ -1,0 +1,4 @@
+# Docerion header of IDS_CONTENT_CONTEXT_OPENLINKOFFTHERECORD_INAPP_V2.png.sha1.
+type: data
+title: SHA-1 checksum for the open-link-off-the-record in-app screenshot (V2)
+summary: Stores the expected SHA-1 hash of the Chrome screenshot for the open-link-off-the-record in-app string, used to detect image changes.

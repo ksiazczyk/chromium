@@ -1,0 +1,4 @@
+# Docerion header of IDS_BLOCK_DOWNLOAD_REASON_INSECURE.png.sha1.
+type: data
+title: SHA-1 for IDS_BLOCK_DOWNLOAD_REASON_INSECURE.png
+summary: Holds the SHA-1 checksum of the translated PNG image for the insecure download blocking reason string.

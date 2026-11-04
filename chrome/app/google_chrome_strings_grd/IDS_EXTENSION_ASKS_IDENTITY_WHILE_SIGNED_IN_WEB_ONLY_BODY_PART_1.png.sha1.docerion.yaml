@@ -1,0 +1,4 @@
+# Docerion header of IDS_EXTENSION_ASKS_IDENTITY_WHILE_SIGNED_IN_WEB_ONLY_BODY_PART_1.png.sha1.
+type: data
+title: SHA-1 checksum for the extension identity request web-only body image
+summary: Stores the SHA-1 hash of the PNG image used for the first part of the web-only extension identity request message.
