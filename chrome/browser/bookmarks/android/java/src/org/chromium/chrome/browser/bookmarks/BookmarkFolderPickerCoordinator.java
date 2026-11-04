@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkFolderPickerCoordinator
+// summary: Coordinates the views and mediators that make up the Android bookmark folder picker, wiring the recycler view, adapter, and property model.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.app.Activity;

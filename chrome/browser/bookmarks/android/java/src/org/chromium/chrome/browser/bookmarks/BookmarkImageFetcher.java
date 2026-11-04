@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkImageFetcher
+// summary: Encapsulates fetching images for bookmarks, using the image service, favicon helpers, and a rounded icon generator.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.Context;

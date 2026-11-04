@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the managed bookmark service
+// summary: Unit tests checking the managed bookmark node reflects the ManagedBookmarks policy and is empty and invisible when no policy is set.
+// ---
+
 #include "components/bookmarks/managed/managed_bookmark_service.h"
 
 #include <algorithm>

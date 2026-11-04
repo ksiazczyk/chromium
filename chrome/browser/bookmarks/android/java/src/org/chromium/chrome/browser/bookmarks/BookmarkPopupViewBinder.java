@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkPopupViewBinder for desktop bookmark popup
+// summary: Binds each property key of the desktop bookmark popup model to the corresponding view updates and listeners.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.widget.ImageView.ScaleType;

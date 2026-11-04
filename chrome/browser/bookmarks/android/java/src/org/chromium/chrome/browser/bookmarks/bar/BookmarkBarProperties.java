@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar properties
+// summary: Defines writable property keys for the bookmark bar, covering visibility, top margin, overflow button state, and divider and hairline colors.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import android.content.res.ColorStateList;

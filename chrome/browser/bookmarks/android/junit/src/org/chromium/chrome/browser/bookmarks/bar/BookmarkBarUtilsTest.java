@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkBarUtilsTest
+// summary: Unit tests for BookmarkBarUtils covering bookmark bar preferences, managed policies, recommendations, and visibility state handling.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkParentFolderChildren implementation
+// summary: Implements non-copying access to a parent folder's child nodes, backed by either a bookmark node or a PermanentFolderOrderingTracker, with iterator support.
+// ---
+
 #include "chrome/browser/bookmarks/bookmark_parent_folder_children.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkListEntryTest
+// summary: Robolectric unit tests for BookmarkListEntry, verifying title resolution for bookmark entries, section headers and non-bookmark entry types.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.mockito.Mockito.doReturn;

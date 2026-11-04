@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BreadcrumbManagerTabHelper
+// summary: Unit tests covering unique tab identifiers, event logging and infobar handling of the breadcrumb tab helper.
+// ---
+
 #include "chrome/browser/breadcrumbs/breadcrumb_manager_tab_helper.h"
 
 #include <memory>

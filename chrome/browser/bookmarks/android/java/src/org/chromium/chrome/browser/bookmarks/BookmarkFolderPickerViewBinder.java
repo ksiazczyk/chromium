@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkFolderPickerViewBinder
+// summary: View binder that applies folder picker property model changes to the toolbar, buttons, and menu items of the picker activity's view.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.view.MenuItem;

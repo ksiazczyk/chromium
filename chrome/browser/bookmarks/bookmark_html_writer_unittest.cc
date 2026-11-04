@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark HTML export writer unit tests
+// summary: Unit tests verifying bookmark HTML export, including favicon embedding and round-trip parsing against golden files.
+// ---
+
 #include "chrome/browser/bookmarks/bookmark_html_writer.h"
 
 #include <stddef.h>

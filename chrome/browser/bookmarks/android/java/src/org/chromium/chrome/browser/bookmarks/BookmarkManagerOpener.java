@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark manager opener interface
+// summary: Interface for showing the bookmark manager UI and starting bookmark edit and folder picker activities.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.app.Activity;

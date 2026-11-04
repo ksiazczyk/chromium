@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bookmark popup layout
+summary: Android XML layout for the bookmark added popup, defining the title, close button, page image, and bookmark name input with Material styling.
+-->
+
 <org.chromium.chrome.browser.bookmarks.BookmarkPopupView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

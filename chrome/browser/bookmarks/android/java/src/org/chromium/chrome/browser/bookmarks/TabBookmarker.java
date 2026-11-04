@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI flow helper for bookmarking the active tab
+// summary: Manages the UI flow for bookmarking tabs, showing snackbars or edit UI and including price-tracking specific behavior.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark test utilities for managed bookmark services
+// summary: Declares test helpers that create a ManagedBookmarkService with a given number of managed bookmarks and a TestBookmarkClient supporting managed nodes.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "components/bookmarks/test/test_bookmark_client.h"
 

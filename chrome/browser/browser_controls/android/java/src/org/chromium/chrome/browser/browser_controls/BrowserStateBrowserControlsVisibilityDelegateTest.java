@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserStateBrowserControlsVisibilityDelegateTest
+// summary: Robolectric unit tests verifying transient and persistent controls showing, lockout durations, and constraint callbacks of the visibility delegate.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark signin promo dismissal tests
+// summary: Tests scenarios where the personalized signin promo in bookmarks is not shown, such as declined promos or impression limits.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static androidx.test.espresso.Espresso.onView;

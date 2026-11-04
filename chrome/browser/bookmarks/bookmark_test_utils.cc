@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed bookmark service test utilities
+// summary: Creates a ManagedBookmarkService with a configurable list of managed bookmarks and a test bookmark client wrapper for use in tests.
+// ---
+
 #include "chrome/browser/bookmarks/bookmark_test_utils.h"
 
 #include "base/strings/string_number_conversions.h"

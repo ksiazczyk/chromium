@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Android bookmarks
+summary: Names the reviewers responsible for the Android bookmarks directory, with a per-file owner for the bar subfolder.

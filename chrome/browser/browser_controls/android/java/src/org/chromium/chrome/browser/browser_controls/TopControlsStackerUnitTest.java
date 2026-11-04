@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TopControlsStackerUnitTest
+// summary: Extensive Robolectric unit tests exercising layer stacking, offsets, visibility animations, and metrics histograms of TopControlsStacker with mock layers.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import static org.junit.Assert.assertEquals;

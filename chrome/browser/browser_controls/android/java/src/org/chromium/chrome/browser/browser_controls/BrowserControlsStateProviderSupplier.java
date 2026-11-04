@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsStateProviderSupplier for WindowAndroid access
+// summary: Attaches the activity's BrowserControlsStateProvider supplier to WindowAndroid so code outside chrome_java can read browser controls state.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import org.chromium.base.UnownedUserDataHost;

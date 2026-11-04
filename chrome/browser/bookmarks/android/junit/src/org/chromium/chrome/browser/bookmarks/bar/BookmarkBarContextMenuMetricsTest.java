@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BookmarkBarContextMenuMetrics
+// summary: Robolectric unit tests verifying context menu metrics helpers, checking entrypoint and gesture strings and that opened and action events are recorded to the right histograms.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static org.junit.Assert.assertEquals;

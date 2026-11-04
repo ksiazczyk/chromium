@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkParentFolderChildren class declaration
+// summary: Declares a read-only view over a parent folder's children, supporting range-based iteration and indexed access from a node or ordering tracker.
+// ---
+
 #ifndef CHROME_BROWSER_BOOKMARKS_BOOKMARK_PARENT_FOLDER_CHILDREN_H_
 #define CHROME_BROWSER_BOOKMARKS_BOOKMARK_PARENT_FOLDER_CHILDREN_H_
 

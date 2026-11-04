@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark manager properties
+// summary: Defines writable property keys for bookmark manager views, such as bookmark entries, location and highlight state.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import org.chromium.base.Callback;

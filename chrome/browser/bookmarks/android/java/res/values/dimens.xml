@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Bookmark UI dimension resources
+summary: Defines Android dimension values for the bookmarks popup, desktop toolbar, search box and bookmarks bar UI in Chromium's Android bookmarks feature.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
   <!-- go/keep-sorted start -->
   <dimen name="bookmark_desktop_toolbar_title_margin_start">16dp</dimen>

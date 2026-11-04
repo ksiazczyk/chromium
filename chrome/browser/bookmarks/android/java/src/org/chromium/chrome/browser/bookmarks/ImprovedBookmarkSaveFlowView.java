@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Improved bookmark save flow view
+// summary: Custom FrameLayout controlling the bookmarks save-flow view, handling the bookmark row, title, subtitle and price tracking UI elements.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.Context;

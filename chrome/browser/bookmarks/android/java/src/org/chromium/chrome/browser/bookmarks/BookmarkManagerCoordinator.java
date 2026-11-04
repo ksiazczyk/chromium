@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkManagerCoordinator
+// summary: Main coordinator for the Android bookmark manager, wiring selection, search, drag reorder, snackbars, signin promos, and the overall native page.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

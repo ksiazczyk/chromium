@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkEditMetricsUnitTest
+// summary: Robolectric unit tests for BookmarkEditMetrics, verifying histogram and user action recording of bookmark and folder edit outcomes including saved, deleted, closed and dismissed.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertTrue;

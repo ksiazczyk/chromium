@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsUtils
+// summary: Static utilities for browser controls that compute window height, percentage of window used by controls, and feature-flag-driven top controls locking behavior.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import android.content.Context;

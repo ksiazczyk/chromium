@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark search box row render tests
+// summary: Render tests for the bookmark search box row, parameterized for night mode to verify its visual appearance.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.graphics.Color;

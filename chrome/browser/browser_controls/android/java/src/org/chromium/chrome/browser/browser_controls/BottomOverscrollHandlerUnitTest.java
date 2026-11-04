@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BottomOverscrollHandler
+// summary: Robolectric unit tests verifying when a bottom overscroll can start, how release triggers controls, and the related UMA histogram recording.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import static org.junit.Assert.assertEquals;

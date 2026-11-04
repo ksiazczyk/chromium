@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedBookmarkModelObservationTest
+// summary: Unit tests for ScopedBookmarkModelObservation verifying observer events are limited to a observed folder.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.mockito.Mockito.any;

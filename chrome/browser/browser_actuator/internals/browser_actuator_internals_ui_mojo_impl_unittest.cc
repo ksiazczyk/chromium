@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser Actuator Internals Mojo UI unit tests
+// summary: Unit tests for the Mojo UI implementation, covering endpoint binding, session history retrieval and export behaviour.
+// ---
+
 #include "chrome/browser/browser_actuator/internals/browser_actuator_internals_ui_mojo_impl.h"
 
 #include <memory>

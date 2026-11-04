@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Improved bookmark save flow render tests
+// summary: Render tests for the improved bookmark save flow view, parameterized for night mode to verify its appearance.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.app.Activity;

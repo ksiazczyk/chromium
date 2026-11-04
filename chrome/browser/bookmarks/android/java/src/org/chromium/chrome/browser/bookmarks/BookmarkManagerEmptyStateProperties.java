@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkManagerEmptyStateProperties
+// summary: Hosts the property keys for the bookmark manager empty state, covering title, description, and image resources.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import org.chromium.build.annotations.NullMarked;

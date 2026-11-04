@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar popup
+// summary: Manages lifecycle, view binding, and size calculation for a single anchored popup window displayed on the bookmarks bar.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import android.app.Activity;

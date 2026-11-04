@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojom traits for session snapshots
+// summary: Implements serialization between the browser's session snapshot types and the internals Mojom structs, including safe count conversions.
+// ---
+
 #include "chrome/browser/browser_actuator/internals/browser_actuator_internals_mojom_traits.h"
 
 #include "base/numerics/safe_conversions.h"

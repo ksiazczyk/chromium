@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar scene layer properties
+// summary: Defines writable property keys for the bookmark bar scene layer, such as snapshot resource ID, layer dimensions, offsets, and colors.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import org.chromium.build.annotations.NullMarked;

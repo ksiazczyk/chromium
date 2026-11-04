@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark search box row view
+// summary: Android layout that embeds the generic desktop search box with bookmarks-specific elements such as the shopping filter chip and desktop or mobile styling.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.Context;

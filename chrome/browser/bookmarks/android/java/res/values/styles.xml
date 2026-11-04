@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Bookmark popup text appearance styles
+summary: Defines text appearance styles with fixed sizes for the bookmark popup's headline, hint, input, button and body text.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="TextAppearance.BookmarkPopup.Hint" parent="TextAppearance.TextSmall.Secondary" tools:ignore="SpUsage">
         <item name="android:textSize">12dp</item>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkUtils unit tests
+// summary: Unit tests for BookmarkUtils covering bookmark helper behavior, including favicons, commerce features, and histogram metrics.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertEquals;

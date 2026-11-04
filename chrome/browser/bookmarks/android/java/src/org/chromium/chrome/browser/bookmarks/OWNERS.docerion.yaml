@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates ownership of structural changes to BookmarkPane.java to the owners of chrome/browser/hub.

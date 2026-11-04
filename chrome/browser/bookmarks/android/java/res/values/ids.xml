@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Bookmark view ID resources
+summary: Declares the Android ID resource bookmarks_bar_empty_view used by the bookmarks bar UI.
+-->
+
 <resources>
   <item type="id" name="bookmarks_bar_empty_view" />
 </resources>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser Actuator Internals WebUI controller
+// summary: Implements the WebUI controller and config for the Browser Actuator Internals diagnostics page, gating it behind feature flags and binding its Mojo interfaces.
+// ---
+
 #include "chrome/browser/browser_actuator/internals/browser_actuator_internals_ui.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar popup coordinator
+// summary: Coordinates the display, synchronization, and dismissal of folder and context menu popup windows anchored to the bookmarks bar.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import android.annotation.SuppressLint;

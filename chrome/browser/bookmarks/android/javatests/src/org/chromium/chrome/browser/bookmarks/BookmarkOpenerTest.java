@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark opener tests
+// summary: Tablet-only instrumentation tests for opening bookmarks and folders from the bookmark manager into tabs.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static androidx.test.espresso.Espresso.onView;

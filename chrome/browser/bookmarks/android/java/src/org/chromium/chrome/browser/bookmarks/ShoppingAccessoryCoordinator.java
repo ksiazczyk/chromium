@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping accessory coordinator for the price-tracking chip
+// summary: Coordinates the price-tracking chip accessory view, building it and managing its property model with price and subscription state.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.Context;

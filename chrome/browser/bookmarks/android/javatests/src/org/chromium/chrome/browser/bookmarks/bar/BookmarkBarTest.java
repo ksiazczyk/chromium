@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark bar integration tests
+// summary: Espresso integration tests covering bookmark bar visibility, interactions, and settings behavior on tablet or desktop form factors.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static android.view.KeyEvent.KEYCODE_ENTER;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BookmarkBridge
+// summary: Unit tests that verify BookmarkBridge behavior using testing profiles, fake reading list models and sync test infrastructure.
+// ---
+
 #include "chrome/browser/bookmarks/android/bookmark_bridge.h"
 
 #include <memory>

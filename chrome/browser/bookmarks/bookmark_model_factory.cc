@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model factory implementation
+// summary: Implements BookmarkModelFactory, which builds BookmarkModel instances per profile and wires up sync, undo and managed bookmark services.
+// ---
+
 #include "chrome/browser/bookmarks/bookmark_model_factory.h"
 
 #include "base/no_destructor.h"

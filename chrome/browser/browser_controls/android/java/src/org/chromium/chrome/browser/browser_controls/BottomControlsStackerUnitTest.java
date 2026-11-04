@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BottomControlsStacker
+// summary: Robolectric unit tests covering layer management, visibility, scrolling behavior, and offset tag updates in BottomControlsStacker.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import static org.junit.Assert.assertEquals;

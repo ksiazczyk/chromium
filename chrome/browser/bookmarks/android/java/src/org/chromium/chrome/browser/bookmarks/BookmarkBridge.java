@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bridge
+// summary: JNI communication channel that lets Android fetch and manipulate the bookmark model stored in native code.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.SharedPreferences.Editor;

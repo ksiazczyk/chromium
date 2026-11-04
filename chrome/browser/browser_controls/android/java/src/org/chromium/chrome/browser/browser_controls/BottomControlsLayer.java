@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomControlsLayer interface for the bottom controls stack
+// summary: Interface for a layer in the bottom browser controls stack, defining its type, scroll behavior, height, visibility, and offset tag handling.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import androidx.annotation.ColorInt;

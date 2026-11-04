@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark merged surface service test helpers
+// summary: Provides a helper that blocks until BookmarkMergedSurfaceService finishes loading and a mock PermanentFolderOrderingTracker delegate for tests.
+// ---
+
 #include "chrome/browser/bookmarks/bookmark_test_helpers.h"
 
 #include "base/functional/callback.h"

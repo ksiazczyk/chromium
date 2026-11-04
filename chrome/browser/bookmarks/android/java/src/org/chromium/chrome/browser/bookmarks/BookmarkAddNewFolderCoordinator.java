@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark add new folder coordinator
+// summary: Shows a modal dialog for creating a new bookmark folder under a given parent folder.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Improved bookmark save flow properties
+// summary: Defines property keys for the improved bookmarks save flow, covering row click listener, icon, title, subtitle and price tracking controls.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.graphics.drawable.Drawable;

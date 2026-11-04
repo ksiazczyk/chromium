@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserActuatorServiceFactory implementation
+// summary: Implements the profile-keyed factory that builds a BrowserActuatorService for regular profiles when the kBrowserActuator feature is enabled.
+// ---
+
 #include "chrome/browser/browser_actuator/browser_actuator_service_factory.h"
 
 #include <memory>

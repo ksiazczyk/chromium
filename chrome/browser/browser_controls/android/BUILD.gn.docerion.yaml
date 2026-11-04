@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser controls Android build targets
+summary: GN build file defining the Java library sources and Robolectric unit test targets for the Android browser controls component.

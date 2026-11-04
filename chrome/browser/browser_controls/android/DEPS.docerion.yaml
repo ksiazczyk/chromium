@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory dependency rules
+summary: DEPS file restricting which directories this Android browser controls code may include from.

@@ -1,3 +1,12 @@
+---
+type: readme
+title: Browser Actuator Internals README
+summary: Explains how to enable and use the Browser Actuator Internals diagnostics WebUI page, what session data it displays, and how to run its browser and unit tests.
+relations:
+  - documents /chrome/browser/browser_actuator/internals/browser_actuator_internals_ui.cc
+  - documents /chrome/browser/browser_actuator/internals/browser_actuator_internals_ui.h
+---
+
 # Browser Actuator Internals
 
 This directory contains internal components and diagnostics for Browser Actuator.

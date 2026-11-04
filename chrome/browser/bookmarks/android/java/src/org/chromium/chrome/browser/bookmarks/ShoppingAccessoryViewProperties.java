@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Properties for the shopping accessory view
+// summary: Defines the property keys and the PriceInfo class, including price drop detection and price formatting, for the shopping accessory chip.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA with bug tracking components for bookmarks
+summary: Directory metadata mapping the bookmarks folder to the UI>Browser>Bookmarks monorail component and a Buganizer component ID.

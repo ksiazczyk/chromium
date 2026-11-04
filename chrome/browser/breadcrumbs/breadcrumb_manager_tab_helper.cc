@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BreadcrumbManagerTabHelper implementation
+// summary: Implements the Chrome tab helper that logs navigation, page load, infobar and security state events as breadcrumbs.
+// ---
+
 #include "chrome/browser/breadcrumbs/breadcrumb_manager_tab_helper.h"
 
 #include "chrome/browser/breadcrumbs/breadcrumb_manager_keyed_service_factory.h"

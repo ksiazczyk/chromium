@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file referencing shared bookmarks owners
+summary: Owners file that defers code review ownership to the shared components/bookmarks OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar view for Chrome on Android
+// summary: Custom LinearLayout view that renders the bookmark bar in top chrome and detects long-press gestures on empty space to trigger context menus.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import android.annotation.SuppressLint;

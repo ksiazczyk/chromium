@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsSizer interface for control sizing
+// summary: Interface extending BrowserControlsVisibilityManager to set top and bottom control heights, additional heights, animation, background color, and position.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import androidx.annotation.ColorInt;

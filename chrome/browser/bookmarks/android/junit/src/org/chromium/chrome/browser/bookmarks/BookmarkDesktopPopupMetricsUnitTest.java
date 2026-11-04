@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkDesktopPopupMetricsUnitTest
+// summary: Robolectric unit tests for BookmarkDesktopPopupMetrics, verifying histogram recording of add and edit popup outcomes such as saved, removed, dismissed and edit dialog opened.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import org.junit.Test;

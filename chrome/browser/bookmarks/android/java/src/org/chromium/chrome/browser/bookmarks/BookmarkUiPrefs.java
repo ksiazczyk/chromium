@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkUiPrefs
+// summary: Manages persisted bookmark UI preferences such as row display style and sort order, notifying observers when they change.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.Context;

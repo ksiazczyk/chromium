@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BookmarkBarItemsProvider
+// summary: Robolectric unit tests for the bookmark bar items provider, verifying scoped observations of local and account desktop folders and propagation of bookmark model changes to observers.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static org.mockito.Mockito.any;

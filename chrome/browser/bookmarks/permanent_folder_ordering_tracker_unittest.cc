@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermanentFolderOrderingTracker unit tests
+// summary: Unit tests for PermanentFolderOrderingTracker covering permanent node lookups, ordering initialization, indices, and move operations with local and account bookmark models.
+// ---
+
 #include "chrome/browser/bookmarks/permanent_folder_ordering_tracker.h"
 
 #include <cstddef>

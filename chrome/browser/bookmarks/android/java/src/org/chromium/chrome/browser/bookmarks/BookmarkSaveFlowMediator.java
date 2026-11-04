@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkSaveFlowMediator for bookmark save flow
+// summary: Mediator that controls the bookmark save flow, updating the model with bookmark details, folder text and price tracking subscription state.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

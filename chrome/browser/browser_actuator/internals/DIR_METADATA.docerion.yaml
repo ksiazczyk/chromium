@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Browser Actuator internals directory metadata
+summary: Inherits the shared Browser Actuator metadata mixins for this directory.

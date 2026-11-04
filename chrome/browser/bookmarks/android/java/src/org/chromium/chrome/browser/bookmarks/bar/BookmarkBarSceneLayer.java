@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Bookmark bar scene layer
+// summary: Java-side scene overlay layer that draws snapshots of the bookmark bar widgets through the C++ renderer for smooth scrolling.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import android.graphics.RectF;

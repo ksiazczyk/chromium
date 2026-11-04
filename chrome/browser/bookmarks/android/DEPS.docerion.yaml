@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android bookmarks
+summary: Lists additional directories that the Android bookmarks code may include from, such as power bookmarks and partner bookmarks.

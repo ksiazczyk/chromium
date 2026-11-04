@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the crash reporter breadcrumb observer
+// summary: Unit tests verifying that breadcrumb events are attached to crash reports and truncated when exceeding the maximum length.
+// ---
+
 #include "components/breadcrumbs/core/crash_reporter_breadcrumb_observer.h"
 
 #include <string>

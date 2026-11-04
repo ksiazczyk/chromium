@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomControlsStacker coordinator for bottom control layers
+// summary: Coordinator that manages the relative y-axis positions, visibility, scroll behavior, and background colors of registered bottom browser control layers.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import android.content.Context;

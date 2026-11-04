@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binder for shopping accessory view properties
+// summary: Binds the shopping accessory property model keys for price info and tracked state to the corresponding view methods.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.view.View;

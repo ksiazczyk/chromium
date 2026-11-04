@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merged surface ordering storage implementation
+// summary: Implements background loading and saving of permanent folder child ordering for the merged bookmark surface from a JSON file.
+// ---
+
 #include "chrome/browser/bookmarks/bookmark_merged_surface_ordering_storage.h"
 
 #include <memory>

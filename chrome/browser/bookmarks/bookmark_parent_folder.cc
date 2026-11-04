@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkParentFolder implementation
+// summary: Implements BookmarkParentFolder, a wrapper holding either a permanent folder type or a non-permanent bookmark folder node, with child and ancestor checks.
+// ---
+
 #include "chrome/browser/bookmarks/bookmark_parent_folder.h"
 
 #include "components/bookmarks/browser/bookmark_node.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CancelableAnimator
+// summary: Interface that lets RecyclerView views cancel in-progress animations so the views can be recycled.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.view.View;

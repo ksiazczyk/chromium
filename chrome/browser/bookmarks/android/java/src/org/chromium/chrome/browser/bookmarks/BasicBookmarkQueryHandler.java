@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Basic bookmark query handler
+// summary: Builds bookmark lists for folder browsing, search, and folder selection by fetching children from the bookmark model.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkPopupProperties for desktop bookmark popup
+// summary: Defines writable property keys for the desktop bookmark popup, covering title, folder, image and price tracking controls.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.graphics.drawable.Drawable;

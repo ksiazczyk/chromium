@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark toolbar coordinator
+// summary: Coordinates the bookmark toolbar by wiring the view, property model and mediator and initializing search, padding and desktop layout settings.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.Context;

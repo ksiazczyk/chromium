@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShoppingAccessoryCoordinator unit tests
+// summary: Robolectric unit tests verifying ShoppingAccessoryCoordinator view setup, price info model properties, and price tracking toggling.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkImageFetcherTest
+// summary: Robolectric unit tests for BookmarkImageFetcher, verifying favicon and image fetching for bookmarks and folders via the image service and favicon helpers.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertEquals;

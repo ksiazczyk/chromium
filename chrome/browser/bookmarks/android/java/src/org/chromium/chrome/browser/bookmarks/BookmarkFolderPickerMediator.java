@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkFolderPickerMediator
+// summary: Mediator for the folder picker activity that manages folder listing and moving bookmarks between folders, reacting to bookmark model and UI pref changes.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.chromium.build.NullUtil.assertNonNull;

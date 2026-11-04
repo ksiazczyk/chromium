@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shopping accessory view render tests
+// summary: Render tests for the shopping accessory view shown on bookmark rows, verifying price formatting and layout across night mode.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.graphics.Color;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddToBookmarksToolbarButtonControllerUnitTest
+// summary: Robolectric unit tests for AddToBookmarksToolbarButtonController, covering toolbar button behavior across configuration changes, tab and bookmark model state, and feature engagement tracking.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.mockito.Mockito.mock;

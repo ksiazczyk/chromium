@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar view binder
+// summary: Binds bookmark bar model properties to the view, updating visibility, margins, overflow button, divider, and hairline appearance.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import android.content.res.ColorStateList;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkBridge native implementation for Android
+// summary: Implements the native C++ side of the JNI bookmark bridge, exposing bookmark model, reading list and partner bookmark data to the Android UI.
+// ---
+
 #include "chrome/browser/bookmarks/android/bookmark_bridge.h"
 
 #include <stddef.h>

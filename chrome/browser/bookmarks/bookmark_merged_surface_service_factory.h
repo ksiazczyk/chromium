@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark merged surface service factory declaration
+// summary: Declares BookmarkMergedSurfaceServiceFactory, a ProfileKeyedServiceFactory that provides per-profile BookmarkMergedSurfaceService instances.
+// ---
+
 #ifndef CHROME_BROWSER_BOOKMARKS_BOOKMARK_MERGED_SURFACE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_BOOKMARKS_BOOKMARK_MERGED_SURFACE_SERVICE_FACTORY_H_
 

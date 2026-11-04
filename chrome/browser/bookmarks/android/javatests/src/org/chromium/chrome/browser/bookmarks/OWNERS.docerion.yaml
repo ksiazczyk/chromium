@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for bookmark Android tests
+summary: Declares reviewers for this test directory, inheriting the parent bookmarks OWNERS and assigning the personalized signin promo tests to Android signin owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Improved bookmark row view binder
+// summary: Binds improved bookmark row model properties to the corresponding view methods, such as title, description, images, selection and menu delegates.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.view.View;

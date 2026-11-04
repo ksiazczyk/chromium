@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop-forcing test bookmark client declaration
+// summary: Declares a ChromeBookmarkClient subclass for tests that forces desktop bookmark behavior where device info misreports desktop Android.
+// ---
+
 #ifndef CHROME_BROWSER_BOOKMARKS_DESKTOP_FORCING_CHROME_BOOKMARK_TEST_CLIENT_H_
 #define CHROME_BROWSER_BOOKMARKS_DESKTOP_FORCING_CHROME_BOOKMARK_TEST_CLIENT_H_
 

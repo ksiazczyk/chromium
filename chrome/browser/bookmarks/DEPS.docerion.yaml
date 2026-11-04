@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the bookmarks directory
+summary: Include rules allowing google_apis/gaia plus extra dependencies such as chrome/utility and skia for test files.
