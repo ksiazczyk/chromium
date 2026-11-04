@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationWrapperBuilderFactory
+// summary: Factory that creates notification wrapper builders for Chrome notifications and ensures the requested notification channel is initialized.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import android.content.Context;

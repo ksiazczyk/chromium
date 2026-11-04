@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification permission browser tests
+// summary: Browser tests covering notification permission behavior, including storage partitioning, permission grants, and UKM logging.
+// ---
+
 #include "chrome/browser/chrome_content_browser_client.h"
 #include "chrome/browser/notifications/non_persistent_notification_handler.h"
 #include "chrome/browser/notifications/notification_permission_context.h"

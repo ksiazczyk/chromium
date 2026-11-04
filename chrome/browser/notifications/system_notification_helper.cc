@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System notification helper implementation
+// summary: Implements the SystemNotificationHelper singleton that displays and closes notifications not tied to a user profile.
+// ---
+
 #include "chrome/browser/notifications/system_notification_helper.h"
 
 #include "chrome/browser/notifications/notification_display_service_impl.h"

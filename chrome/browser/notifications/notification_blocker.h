@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification blocker base class declarations
+// summary: Declares the NotificationBlocker base class that blocks notifications at certain times and notifies observers of blocking state changes.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_NOTIFICATION_BLOCKER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_NOTIFICATION_BLOCKER_H_
 

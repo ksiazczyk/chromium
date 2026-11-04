@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Muted notification handler implementation
+// summary: Implements click and close handling for the Notifications Muted notification, mapping action buttons to snooze, show, body click, and user close actions.
+// ---
+
 #include "chrome/browser/notifications/muted_notification_handler.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileNotification class declaration
+// summary: Declares a class pairing a notification with its Profile and building notification IDs that distinguish identical IDs from different profiles.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_PROFILE_NOTIFICATION_H_
 #define CHROME_BROWSER_NOTIFICATIONS_PROFILE_NOTIFICATION_H_
 

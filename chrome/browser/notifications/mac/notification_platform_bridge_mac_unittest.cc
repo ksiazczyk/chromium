@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac notification platform bridge unit tests
+// summary: Unit tests for the macOS notification platform bridge, exercising notification creation, display, closing, and action handling through a stub dispatcher.
+// ---
+
 #include "chrome/browser/notifications/mac/notification_platform_bridge_mac.h"
 
 #include "base/functional/bind.h"

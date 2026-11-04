@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification permission change receiver tests
+// summary: Robolectric tests verifying that app and channel notification block state broadcasts record the expected permission change histograms.
+// ---
+
 package org.chromium.chrome.browser.notifications.permissions;
 
 import static org.junit.Assert.assertEquals;

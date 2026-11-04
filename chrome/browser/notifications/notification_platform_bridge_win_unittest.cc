@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows notification platform bridge unit tests
+// summary: Unit tests for the Windows notification bridge that build toast notifications with fake image retainers and verify grouping, tagging, and launch ID handling.
+// ---
+
 #include "chrome/browser/notifications/notification_platform_bridge_win.h"
 
 #include <windows.ui.notifications.h>

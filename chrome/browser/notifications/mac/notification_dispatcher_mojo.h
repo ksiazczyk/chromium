@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo notification dispatcher header
+// summary: Declares NotificationDispatcherMojo, which connects to the macOS notification service over Mojo and handles notification actions.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_MAC_NOTIFICATION_DISPATCHER_MOJO_H_
 #define CHROME_BROWSER_NOTIFICATIONS_MAC_NOTIFICATION_DISPATCHER_MOJO_H_
 

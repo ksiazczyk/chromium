@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac notification utils unit tests
+// summary: Unit tests for the macOS notification utilities, covering title and context creation and validation of notification action responses.
+// ---
+
 #include "chrome/browser/notifications/mac/notification_utils.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChannelsInitializerTest
+// summary: Robolectric tests for ChannelsInitializer that verify startup channel creation and legacy channel deletion using ChromeChannelDefinitions.
+// ---
+
 package org.chromium.chrome.browser.notifications.channels;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

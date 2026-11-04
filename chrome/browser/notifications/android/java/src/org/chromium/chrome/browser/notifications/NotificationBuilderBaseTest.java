@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationBuilderBaseTest
+// summary: Robolectric unit tests verifying that notification icons are normalized, covering null, oversized and small bitmaps.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import android.content.Context;

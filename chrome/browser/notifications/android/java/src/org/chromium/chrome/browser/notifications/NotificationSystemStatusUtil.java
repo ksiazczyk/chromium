@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationSystemStatusUtil
+// summary: Utility that determines whether Chrome's notifications are disabled in system settings and records the app notification status histogram.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import androidx.annotation.VisibleForTesting;

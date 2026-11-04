@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification impression protobuf
+// summary: Defines protobuf messages recording user feedback and impressions for shown notifications, including feedback types and impression mappings.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

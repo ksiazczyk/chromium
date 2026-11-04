@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrampolineActivityTracker
+// summary: Singleton that tracks the notification trampoline activity and finishes it after a timeout, extending the deadline while notification jobs are processed.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import android.annotation.SuppressLint;

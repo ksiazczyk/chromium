@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passphrase textfield implementation
+// summary: Implements a Chrome OS views textfield for password entry that shows a fake passphrase and clears it on focus, reporting whether the value changed.
+// ---
+
 #include "chrome/browser/notifications/passphrase_textfield.h"
 
 #include "base/no_destructor.h"

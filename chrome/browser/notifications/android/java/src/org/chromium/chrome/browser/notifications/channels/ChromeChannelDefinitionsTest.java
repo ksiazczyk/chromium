@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeChannelDefinitionsTest
+// summary: Unit test asserting that startup and legacy channel IDs in ChromeChannelDefinitions do not overlap.
+// ---
+
 package org.chromium.chrome.browser.notifications.channels;
 
 import static org.hamcrest.MatcherAssert.assertThat;

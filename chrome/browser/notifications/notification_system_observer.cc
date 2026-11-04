@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification system observer implementation
+// summary: Observes app termination, profile additions, and extension unloads, forwarding these events to the notification UI manager to cancel or shut down notifications.
+// ---
+
 #include "chrome/browser/notifications/notification_system_observer.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Chrome notifications browser code
+summary: Defines the notification source sets, platform-specific public headers and dependencies for the Chrome notifications browser directory.

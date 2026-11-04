@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Chime Android OWNERS
+summary: Lists dtrainor@chromium.org as the code owner responsible for reviews in this directory.

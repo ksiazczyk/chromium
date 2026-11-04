@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac notification platform bridge implementation
+// summary: Implements the macOS notification platform bridge, routing notifications to banner, alert, and per-web-app dispatchers.
+// ---
+
 #include "chrome/browser/notifications/mac/notification_platform_bridge_mac.h"
 
 #include <utility>

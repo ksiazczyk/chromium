@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenLockNotificationBlocker implementation
+// summary: Implements a blocker that polls the idle state and hides notification popups while the screen is locked on desktop platforms other than ChromeOS.
+// ---
+
 #include "chrome/browser/notifications/screen_lock_notification_blocker.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac notification provider factory header
+// summary: Declares MacNotificationProviderFactory, which launches macOS notification providers and decides whether to retry service restarts indefinitely.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_MAC_MAC_NOTIFICATION_PROVIDER_FACTORY_H_
 #define CHROME_BROWSER_NOTIFICATIONS_MAC_MAC_NOTIFICATION_PROVIDER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubNotificationDisplayService implementation
+// summary: Implements a stub notification display service for tests that stores notifications and simulates clicks and settings actions.
+// ---
+
 #include "chrome/browser/notifications/stub_notification_display_service.h"
 
 #include <algorithm>

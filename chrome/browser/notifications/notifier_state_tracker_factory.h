@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifier state tracker factory declaration
+// summary: Declares NotifierStateTrackerFactory, a ProfileKeyedServiceFactory exposing per-profile access to the NotifierStateTracker service.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_NOTIFIER_STATE_TRACKER_FACTORY_H_
 #define CHROME_BROWSER_NOTIFICATIONS_NOTIFIER_STATE_TRACKER_FACTORY_H_
 

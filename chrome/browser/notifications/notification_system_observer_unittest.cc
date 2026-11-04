@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification system observer unit tests
+// summary: Unit tests verifying that NotificationSystemObserver cancels notifications when extensions are unloaded, including across multiple profiles.
+// ---
+
 #include <memory>
 
 #include "base/memory/raw_ptr.h"

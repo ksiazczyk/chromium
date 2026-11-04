@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file requiring the notification channel owners to review ChromeChannelDefinitions changes and warning that channels are persisted forever by Android.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the notifications directory
+summary: Lists default owners and per-file owner rules for Linux, Mac, permissions and Android notification channel files.

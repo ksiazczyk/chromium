@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent notification handler unit tests
+// summary: Unit tests for PersistentNotificationHandler covering close, click, permission and spam reporting behavior with mock metrics and safe browsing services.
+// ---
+
 #include "chrome/browser/notifications/persistent_notification_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux notification platform bridge unit test
+// summary: Unit tests for the Linux notification bridge using a mock DBus bus, covering notification building, display and portal behavior.
+// ---
+
 #include "chrome/browser/notifications/notification_platform_bridge_linux.h"
 
 #include <dbus/dbus-shared.h>

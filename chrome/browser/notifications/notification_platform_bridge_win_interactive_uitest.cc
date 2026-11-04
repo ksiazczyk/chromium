@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows notification platform bridge interactive UI tests
+// summary: Browser tests exercising Windows toast notification display, activation, and synchronization using fake COM toast objects and testing profiles.
+// ---
+
 #include "chrome/browser/notifications/notification_platform_bridge_win.h"
 
 #include <wrl/client.h>

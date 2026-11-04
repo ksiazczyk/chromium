@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android notification channels provider implementation
+// summary: Implements the Android notification channels provider that bridges per-origin notification settings to Android channels via JNI and content settings prefs.
+// ---
+
 #include "chrome/browser/notifications/notification_channels_provider_android.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub Mac notification dispatcher implementation
+// summary: Implements an in-memory stub notification dispatcher that displays, closes, and queries notifications on behalf of tests of the macOS notification bridge.
+// ---
+
 #include "chrome/browser/notifications/mac/stub_notification_dispatcher_mac.h"
 
 #include <memory>

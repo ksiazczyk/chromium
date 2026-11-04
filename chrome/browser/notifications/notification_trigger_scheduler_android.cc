@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android notification trigger scheduler implementation
+// summary: Android-specific NotificationTriggerScheduler that uses JNI to receive wake-up calls from Java and trigger all pending notifications on the UI thread.
+// ---
+
 #include "chrome/browser/notifications/notification_trigger_scheduler_android.h"
 
 #include "chrome/browser/notifications/platform_notification_service_impl.h"

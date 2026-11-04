@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Ash message center client implementation
+// summary: Implements the ChromeOS notification platform bridge that displays, closes and lists notifications in the Ash message center.
+// ---
+
 #include "chrome/browser/notifications/chrome_ash_message_center_client.h"
 
 #include <memory>

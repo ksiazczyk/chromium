@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows notification platform bridge implementation
+// summary: Implements the notification platform bridge for Windows 10 and later, displaying toast notifications via Action Center and handling activation, dismissal, and settings events.
+// ---
+
 #include "chrome/browser/notifications/notification_platform_bridge_win.h"
 
 #include <objbase.h>

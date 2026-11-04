@@ -1,0 +1,4 @@
+# Docerion header of notification_interactive_uitest_mac.mm.
+type: test
+title: Mac notification interactive UI test
+summary: Browser test verifying that Chrome becomes the active app when a clicked notification opens a popup on macOS.

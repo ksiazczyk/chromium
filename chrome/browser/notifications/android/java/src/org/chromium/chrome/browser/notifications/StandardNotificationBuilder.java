@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StandardNotificationBuilder
+// summary: Builds standard Android notifications with big text or picture style, icons, actions, intents, and public versions from NotificationBuilderBase state.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

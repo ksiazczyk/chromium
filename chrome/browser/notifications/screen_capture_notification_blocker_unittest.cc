@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenCaptureNotificationBlocker unit tests
+// summary: Unit tests covering muting behavior during screen capture, mute notification actions such as show and snooze, and reported histogram metrics.
+// ---
+
 #include "chrome/browser/notifications/screen_capture_notification_blocker.h"
 
 #include <optional>

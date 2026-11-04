@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupsOnlyUiController declaration for popup-only notification display
+// summary: Declares a controller that shows notification popups in a screen corner without a dedicated message center, used for non-native notifications on Windows and Linux.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_POPUPS_ONLY_UI_CONTROLLER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_POPUPS_ONLY_UI_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo notification dispatcher implementation
+// summary: Implements the Mojo-based macOS notification dispatcher, including service startup, shutdown handling, and exponential backoff restarts.
+// ---
+
 #include "chrome/browser/notifications/mac/notification_dispatcher_mojo.h"
 
 #include <algorithm>

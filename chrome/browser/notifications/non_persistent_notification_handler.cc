@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-persistent notification handler implementation
+// summary: Implements show, close, click, and settings events for non-persistent web notifications, including engagement recording and disruptive permission false positives.
+// ---
+
 #include "chrome/browser/notifications/non_persistent_notification_handler.h"
 
 #include "base/functional/bind.h"

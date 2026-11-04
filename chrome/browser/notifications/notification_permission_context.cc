@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification permission context implementation
+// summary: Implements getting, deciding on, and updating notification permission for websites and extensions across platforms.
+// ---
+
 #include "chrome/browser/notifications/notification_permission_context.h"
 
 #include <variant>

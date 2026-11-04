@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic actor task notification handler declarations
+// summary: Declares a notification handler that shows or closes OS notifications for experimental Glic actor task starts and handles clicks on them.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_GLIC_ACTOR_TASK_NOTIFICATION_HANDLER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_GLIC_ACTOR_TASK_NOTIFICATION_HANDLER_H_
 

@@ -4,6 +4,13 @@ Copyright 2022 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Night mode colors for permission rationale illustrations
+summary: Defines dark-theme color overrides for the outer and inner borders of the permission rationale illustration in Android notifications.
+-->
+
 <resources>
   <color name="permission_rationale_illustration_outer_border_baseline">@color/baseline_neutral_variant_60</color>
   <color name="permission_rationale_illustration_inner_border_baseline">@color/baseline_neutral_variant_60</color>

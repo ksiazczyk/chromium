@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrampolineActivityTracker unit tests
+// summary: Robolectric unit tests for TrampolineActivityTracker covering activity tracking, timeout delays, and finishing behavior with fake time.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.junit.Assert.assertFalse;

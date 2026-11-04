@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android notification channels provider
+// summary: Unit tests for NotificationChannelsProviderAndroid using a fake channels bridge, test clock and mock content settings providers.
+// ---
+
 #include "chrome/browser/notifications/notification_channels_provider_android.h"
 
 #include <algorithm>

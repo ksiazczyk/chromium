@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent notification handler implementation
+// summary: Implements the NotificationHandler for persistent web notifications tied to service workers, handling close, click, settings, spam reporting and keep-alive behavior.
+// ---
+
 #include "chrome/browser/notifications/persistent_notification_handler.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationWrapperBuilderFactory tests
+// summary: Robolectric tests checking that builders from NotificationWrapperBuilderFactory produce notifications that post to NotificationManager without crashing.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import android.app.Notification;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification display service implementation
+// summary: Implements NotificationDisplayServiceImpl, registering per-type notification handlers and dispatching display, close and click operations for a profile.
+// ---
+
 #include "chrome/browser/notifications/notification_display_service_impl.h"
 
 #include <utility>

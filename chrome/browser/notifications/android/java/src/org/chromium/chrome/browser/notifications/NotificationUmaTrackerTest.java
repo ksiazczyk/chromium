@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationUmaTracker unit tests
+// summary: Robolectric unit tests verifying that NotificationUmaTracker records lifecycle events and channel status histograms for system notification types.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import android.app.NotificationChannel;

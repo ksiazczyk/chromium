@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification permission context unit tests
+// summary: Unit tests for notification permission decisions, persistence, and content setting updates using a test permission context subclass.
+// ---
+
 #include "chrome/browser/notifications/notification_permission_context.h"
 
 #include <memory>
