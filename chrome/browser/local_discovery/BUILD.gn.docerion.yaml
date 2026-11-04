@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the local_discovery sources
+summary: Defines GN source sets for the local discovery public interfaces, implementations, test support fakes, and unit tests, with platform-conditional sources for Mac, ChromeOS and mDNS.

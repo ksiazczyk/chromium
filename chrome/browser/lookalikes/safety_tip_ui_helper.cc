@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety tip UI helper implementation
+// summary: Implements navigation to a safe URL, help center opening, and localized safety tip titles, descriptions, and button strings.
+// ---
+
 #include "chrome/browser/lookalikes/safety_tip_ui_helper.h"
 
 #include "build/build_config.h"

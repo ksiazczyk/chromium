@@ -1,0 +1,4 @@
+# Docerion header of service_discovery_client_mac.mm.
+type: source
+title: macOS Bonjour service discovery client implementation
+summary: Implements macOS service discovery via NSNetService browsing and Network framework browsers, including permission metrics recording.

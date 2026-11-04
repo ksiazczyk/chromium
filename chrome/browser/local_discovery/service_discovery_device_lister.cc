@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service discovery device lister implementation
+// summary: Implements ServiceDiscoveryDeviceLister, which watches a service type, resolves each discovered service and reports device changes, removals and cache flushes to its delegate.
+// ---
+
 #include "chrome/browser/local_discovery/service_discovery_device_lister.h"
 
 #include <map>

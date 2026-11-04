@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike interstitial controller client class
+// summary: Declares the controller client that handles commands from lookalike URL interstitial pages.
+// ---
+
 #ifndef CHROME_BROWSER_LOOKALIKES_LOOKALIKE_URL_CONTROLLER_CLIENT_H_
 #define CHROME_BROWSER_LOOKALIKES_LOOKALIKE_URL_CONTROLLER_CLIENT_H_
 

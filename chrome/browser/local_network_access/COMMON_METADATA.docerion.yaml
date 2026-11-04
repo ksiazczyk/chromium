@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for local network access
+summary: Declares the issue tracker component, team email and Buganizer component used for the local network access directory.

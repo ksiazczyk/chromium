@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IP address space overrides prefs observer implementation
+// summary: Listens for changes to the managed local network access IP address space overrides pref and applies valid values to the network service, logging rejected ones.
+// ---
+
 #include "chrome/browser/local_network_access/ip_address_space_overrides_prefs_observer.h"
 
 #include <string>

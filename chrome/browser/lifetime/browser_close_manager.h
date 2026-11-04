@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser close manager API
+// summary: Declares BrowserCloseManager, which confirms browser windows are closeable and closes them during shutdown.
+// ---
+
 #ifndef CHROME_BROWSER_LIFETIME_BROWSER_CLOSE_MANAGER_H_
 #define CHROME_BROWSER_LIFETIME_BROWSER_CLOSE_MANAGER_H_
 

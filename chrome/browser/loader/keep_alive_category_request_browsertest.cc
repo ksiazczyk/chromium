@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keepalive category request browser tests
+// summary: Browser tests for categorized fetch keepalive requests from search result pages, checking UKM logging and request handling behavior.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

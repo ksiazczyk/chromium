@@ -1,0 +1,4 @@
+# Docerion header of auth_session_request_browsertest.mm.
+type: test
+title: AuthSessionRequest browser tests
+summary: Runs in-process browser tests with mock ASWebAuthenticationSessionRequest objects to verify auth session behavior across regular and guest profiles.

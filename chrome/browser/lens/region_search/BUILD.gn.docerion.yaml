@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for Lens region search
+summary: Defines the region_search static library target, listing the controller and helper sources and their dependencies for desktop Lens region search.

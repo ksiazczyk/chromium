@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LensSupportStatusHelper unit tests
+// summary: Robolectric unit tests verifying LensSupportStatusHelper's support status across incognito, null profile, non-Google search engine, and missing or outdated GSA app cases.
+// ---
+
 package org.chromium.chrome.browser.lens;
 
 import android.content.pm.PackageInfo;

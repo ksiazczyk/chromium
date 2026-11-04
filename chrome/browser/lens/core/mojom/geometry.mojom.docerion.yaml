@@ -1,0 +1,4 @@
+# Docerion header of geometry.mojom.
+type: source
+title: 'geometry.mojom: Lens overlay geometry structs'
+summary: Defines the CenterRotatedBox and Geometry structs describing rotated bounding boxes, coordinate types, and segmentation polygons used for Lens overlay tracking.

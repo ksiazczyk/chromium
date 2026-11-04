@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EndpointResolver interface
+// summary: Declares the EndpointResolver class that resolves host/port addresses to network endpoints and reports results via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_LOCAL_DISCOVERY_ENDPOINT_RESOLVER_H_
 #define CHROME_BROWSER_LOCAL_DISCOVERY_ENDPOINT_RESOLVER_H_
 

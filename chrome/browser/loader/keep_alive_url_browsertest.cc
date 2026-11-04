@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for fetch keepalive URL handling
+// summary: Browser tests checking that fetch keepalive requests behave correctly in the Chrome browser process for GET and POST methods.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

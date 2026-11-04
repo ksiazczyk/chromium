@@ -1,0 +1,4 @@
+# Docerion header of lens.mojom.
+type: source
+title: 'lens.mojom: Lens Overlay WebUI Mojo interfaces'
+summary: Defines the Lens Overlay Mojo enums and interfaces connecting the WebUI front end with the browser-side C++ handler, including user actions, close, blur, feedback, and region request methods.

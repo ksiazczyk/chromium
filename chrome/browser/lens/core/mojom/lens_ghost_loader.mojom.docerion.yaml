@@ -1,0 +1,4 @@
+# Docerion header of lens_ghost_loader.mojom.
+type: source
+title: 'lens_ghost_loader.mojom: ghost loader page handler interfaces'
+summary: Defines the Mojo interfaces for the Lens ghost loader WebUI, letting the browser create the page handler and notify the loader to show an error state.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake service discovery device lister implementation
+// summary: Implements a fake ServiceDiscoveryDeviceLister plus a DeferringDelegate that tests use to simulate device additions, removals and cache flushes.
+// ---
+
 #include "chrome/browser/local_discovery/fake_service_discovery_device_lister.h"
 
 #include <utility>

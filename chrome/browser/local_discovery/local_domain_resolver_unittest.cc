@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local domain resolver unit tests
+// summary: Unit tests for LocalDomainResolverImpl that feed sample A and AAAA mDNS response packets through a mock socket factory and check resolved addresses.
+// ---
+
 #include <stdint.h>
 
 #include "base/functional/bind.h"

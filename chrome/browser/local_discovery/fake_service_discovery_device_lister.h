@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake service discovery device lister header
+// summary: Declares a fake ServiceDiscoveryDeviceLister and a DeferringDelegate that queues delegate callbacks until the real delegate is set.
+// ---
+
 #ifndef CHROME_BROWSER_LOCAL_DISCOVERY_FAKE_SERVICE_DISCOVERY_DEVICE_LISTER_H_
 #define CHROME_BROWSER_LOCAL_DISCOVERY_FAKE_SERVICE_DISCOVERY_DEVICE_LISTER_H_
 

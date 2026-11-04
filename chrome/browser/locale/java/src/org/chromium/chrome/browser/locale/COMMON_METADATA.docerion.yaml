@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA
+summary: Shared Chromium metadata assigning the locale package to the UI>Browser>Mobile>SearchWidget monorail component and a Buganizer component.

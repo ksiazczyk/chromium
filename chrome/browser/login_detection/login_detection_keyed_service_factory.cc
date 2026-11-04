@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login detection keyed service factory implementation
+// summary: Creates the per-profile login detection service and ensures it is built at profile initialization time.
+// ---
+
 #include "chrome/browser/login_detection/login_detection_keyed_service_factory.h"
 
 #include "base/no_destructor.h"

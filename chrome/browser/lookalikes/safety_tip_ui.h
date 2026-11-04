@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety tip UI interface and interaction enum
+// summary: Defines the SafetyTipInteraction enum for logged user actions and declares the platform-specific ShowSafetyTipDialog entry point.
+// ---
+
 #ifndef CHROME_BROWSER_LOOKALIKES_SAFETY_TIP_UI_H_
 #define CHROME_BROWSER_LOOKALIKES_SAFETY_TIP_UI_H_
 

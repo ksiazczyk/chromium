@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android browser lifetime
+summary: GN build file defining the Android java library for ApplicationLifetime and its JNI header generation with dependencies on base and jni_zero.

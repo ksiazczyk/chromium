@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart restart policy unit test
+// summary: Unit tests verifying that smart restart decisions are allowed or blocked by browser state such as downloads, media, incognito, and by relaunch window enterprise policy.
+// ---
+
 #include "chrome/browser/lifetime/smart_restart_policy.h"
 
 #include "chrome/browser/enterprise/browser_management/management_service_factory.h"

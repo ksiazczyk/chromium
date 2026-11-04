@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Long screenshots tab service factory header
+// summary: Declares LongScreenshotsTabServiceFactory, a SimpleKeyedServiceFactory that creates one LongScreenshotsTabService per profile key.
+// ---
+
 #ifndef CHROME_BROWSER_LONG_SCREENSHOTS_LONG_SCREENSHOTS_TAB_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_LONG_SCREENSHOTS_LONG_SCREENSHOTS_TAB_SERVICE_FACTORY_H_
 

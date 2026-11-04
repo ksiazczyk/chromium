@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop application lifetime API
+// summary: Declares desktop shutdown, relaunch and per-profile browser closing functions, including the RelaunchMode enum and closing callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_LIFETIME_APPLICATION_LIFETIME_DESKTOP_H_
 #define CHROME_BROWSER_LIFETIME_APPLICATION_LIFETIME_DESKTOP_H_
 

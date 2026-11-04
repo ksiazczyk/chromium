@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restartability monitor interface
+// summary: Declares restartability state snapshots, smart restart blocker enums, and disruption levels used to evaluate restart opportunities.
+// ---
+
 #ifndef CHROME_BROWSER_LIFETIME_RESTARTABILITY_MONITOR_H_
 #define CHROME_BROWSER_LIFETIME_RESTARTABILITY_MONITOR_H_
 

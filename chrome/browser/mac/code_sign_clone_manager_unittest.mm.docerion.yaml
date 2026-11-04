@@ -1,0 +1,4 @@
+# Docerion header of code_sign_clone_manager_unittest.mm.
+type: test
+title: Code sign clone manager unit tests
+summary: Unit tests for the code sign clone manager covering clone output paths, bundle extension, and hard-linked executables.

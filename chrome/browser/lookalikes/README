@@ -1,3 +1,9 @@
+---
+type: readme
+title: Lookalike warnings and safety tips
+summary: Describes the lookalike interstitial and safety tip warnings shown for suspicious domains and links to further documentation.
+---
+
 This directory contains files related to lookalike warnings and safety tips.
 
 If Chrome believes a site a user is visiting is a lookalike URL, Chrome may

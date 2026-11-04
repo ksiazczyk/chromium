@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety tip message delegate for Android header
+// summary: Declares the Android message delegate class that shows safety tip prompts and reports the user's interaction.
+// ---
+
 #ifndef CHROME_BROWSER_LOOKALIKES_SAFETY_TIP_MESSAGE_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_LOOKALIKES_SAFETY_TIP_MESSAGE_DELEGATE_ANDROID_H_
 

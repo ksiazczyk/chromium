@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LensIntentParams wrapper for launching Lens intents
+// summary: Builder-based wrapper carrying parameters such as image URI, page URL, entry point and incognito state for intents that start Lens.
+// ---
+
 package org.chromium.chrome.browser.lens;
 
 import android.net.Uri;

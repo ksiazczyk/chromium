@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EndpointResolver implementation
+// summary: Resolves a host and port to an IP endpoint through the shared service discovery client, returning the IP directly on macOS and using a local domain resolver otherwise.
+// ---
+
 #include "chrome/browser/local_discovery/endpoint_resolver.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthSessionRequest class declaration
+// summary: Declares a WebContents user data class that manages macOS ASWebAuthenticationSessionRequest sessions, including scheme canonicalization and navigation throttles.
+// ---
+
 #ifndef CHROME_BROWSER_MAC_AUTH_SESSION_REQUEST_H_
 #define CHROME_BROWSER_MAC_AUTH_SESSION_REQUEST_H_
 

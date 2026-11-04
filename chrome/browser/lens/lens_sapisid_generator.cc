@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SAPISID hash generation implementation
+// summary: Implements GenerateSapisidHash by calling into the Optimization Guide library and records timing histograms for Lens identity delegation.
+// ---
+
 #include "chrome/browser/lens/lens_sapisid_generator.h"
 
 #include <optional>

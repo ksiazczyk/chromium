@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for chrome/browser/mac
+summary: Defines GN build targets for macOS browser code, including install script generation, unit and browser test targets, and the mac source sets.

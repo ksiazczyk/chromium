@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LensQueryParams wrapper for Lens image queries
+// summary: Builder-based wrapper holding image and page parameters for Lens image classification queries passed to LensController.
+// ---
+
 package org.chromium.chrome.browser.lens;
 
 import android.net.Uri;

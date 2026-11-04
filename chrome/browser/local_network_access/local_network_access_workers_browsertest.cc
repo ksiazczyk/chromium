@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local Network Access worker browser tests
+// summary: Browser tests covering Local Network Access requests from dedicated, shared, and service workers, including WebTransport checks and ChromeOS extension cases.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/threading/thread_restrictions.h"
 #include "chrome/browser/local_network_access/local_network_access_browsertest_base.h"

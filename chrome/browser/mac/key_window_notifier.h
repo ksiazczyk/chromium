@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key window notifier observer interface
+// summary: Declares KeyWindowNotifier, which manages observers that are notified when the macOS app has no key window, such as when all windows are closed.
+// ---
+
 #ifndef CHROME_BROWSER_MAC_KEY_WINDOW_NOTIFIER_H_
 #define CHROME_BROWSER_MAC_KEY_WINDOW_NOTIFIER_H_
 

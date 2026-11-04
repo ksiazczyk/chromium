@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL navigation throttle header
+// summary: Declares the LookalikeUrlNavigationThrottle class and IsSafeRedirect helper for interstitials on domains visually similar to top or engaged domains.
+// ---
+
 #ifndef CHROME_BROWSER_LOOKALIKES_LOOKALIKE_URL_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_LOOKALIKES_LOOKALIKE_URL_NAVIGATION_THROTTLE_H_
 

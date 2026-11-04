@@ -1,0 +1,4 @@
+# Docerion header of application_lifetime_mac.mm.
+type: source
+title: Mac application exit handling
+summary: Handles the final Mac shutdown step by posting NSApplicationWillTerminateNotification and closing remaining native widgets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL service header
+// summary: Declares LookalikeUrlService plus result structs and callbacks for lookalike URL checks and safety tip status lookups.
+// ---
+
 #ifndef CHROME_BROWSER_LOOKALIKES_LOOKALIKE_URL_SERVICE_H_
 #define CHROME_BROWSER_LOOKALIKES_LOOKALIKE_URL_SERVICE_H_
 

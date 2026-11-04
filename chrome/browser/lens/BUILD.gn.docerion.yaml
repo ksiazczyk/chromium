@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Chrome Lens browser directory
+summary: Defines GN build targets for Lens, including Android Java libraries, JNI headers, resources, and Robolectric test targets.

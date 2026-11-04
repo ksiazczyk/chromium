@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: mDNS service discovery client implementation
+// summary: Implements ServiceDiscoveryClientMdns, which runs the discovery front-end on the UI thread and mDNS networking on a dedicated thread, restarting the client after network changes.
+// ---
+
 #include "chrome/browser/local_discovery/service_discovery_client_mdns.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL tab storage implementation
+// summary: Implements per-tab storage of lookalike interstitial parameters such as URL, referrer and redirect chain for handling reloads.
+// ---
+
 #include "chrome/browser/lookalikes/lookalike_url_tab_storage.h"
 
 #include <string>

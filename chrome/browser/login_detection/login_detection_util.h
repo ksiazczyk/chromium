@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login detection utility header
+// summary: Declares the login detection feature flag and helper functions for site names, OAuth flow parameters, and field trial limits.
+// ---
+
 #ifndef CHROME_BROWSER_LOGIN_DETECTION_LOGIN_DETECTION_UTIL_H_
 #define CHROME_BROWSER_LOGIN_DETECTION_LOGIN_DETECTION_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens policy utils JNI bridge
+// summary: Implements a JNI function that reports whether the Lens camera assisted search policy preference is enabled in local state.
+// ---
+
 #include <jni.h>
 
 #include "chrome/browser/browser_process.h"

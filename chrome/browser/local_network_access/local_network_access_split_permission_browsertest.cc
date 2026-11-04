@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local Network Access split permission browser tests
+// summary: Browser tests for splitting the local-network-access permission into local-network and loopback-network permissions, covering permission queries and iframe navigations.
+// ---
+
 #include <string_view>
 
 #include "base/strings/stringprintf.h"

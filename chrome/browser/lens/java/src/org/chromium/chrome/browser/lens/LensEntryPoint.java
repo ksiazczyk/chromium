@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LensEntryPoint annotation enumerating Lens entry points
+// summary: IntDef annotation listing the UI surfaces, such as context menu, omnibox and new tab page, from which Lens can be launched.
+// ---
+
 package org.chromium.chrome.browser.lens;
 
 import androidx.annotation.IntDef;

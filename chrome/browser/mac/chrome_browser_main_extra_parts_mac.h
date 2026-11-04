@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBrowserMainExtraPartsMac class declaration
+// summary: Declares the macOS browser main extra parts class that performs early initialization during browser startup.
+// ---
+
 #ifndef CHROME_BROWSER_MAC_CHROME_BROWSER_MAIN_EXTRA_PARTS_MAC_H_
 #define CHROME_BROWSER_MAC_CHROME_BROWSER_MAIN_EXTRA_PARTS_MAC_H_
 

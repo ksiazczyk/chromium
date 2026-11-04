@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome keep-alive request tracker header
+// summary: Declares ChromeKeepAliveRequestTracker, which records browser-side UKM metrics for eligible fetch keepalive requests.
+// ---
+
 #ifndef CHROME_BROWSER_LOADER_KEEP_ALIVE_REQUEST_TRACKER_H_
 #define CHROME_BROWSER_LOADER_KEEP_ALIVE_REQUEST_TRACKER_H_
 

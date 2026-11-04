@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for chrome/browser/mac
+summary: Delegates code review ownership for the mac directory to the owners of ui/base/cocoa.

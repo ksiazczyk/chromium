@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Lookalike checks bug tracker metadata
+summary: Maps the directory to the UI>Browser>LookalikeChecks monorail component and Buganizer component 1457064.

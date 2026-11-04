@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: mDNS service discovery client implementation declarations
+// summary: Declares ServiceDiscoveryClientImpl and its mDNS-based watcher, resolver and local domain resolver implementations.
+// ---
+
 #ifndef CHROME_BROWSER_LOCAL_DISCOVERY_SERVICE_DISCOVERY_CLIENT_IMPL_H_
 #define CHROME_BROWSER_LOCAL_DISCOVERY_SERVICE_DISCOVERY_CLIENT_IMPL_H_
 

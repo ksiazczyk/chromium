@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart restart metrics observer implementation
+// summary: Records histograms about smart restart opportunities, including locked and zero-window durations and restartability state snapshots.
+// ---
+
 #include "chrome/browser/lifetime/smart_restart_metrics_observer.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -1,0 +1,4 @@
+# Docerion header of chrome_browser_main_extra_parts_mac.mm.
+type: source
+title: ChromeBrowserMainExtraPartsMac implementation
+summary: Implements PreEarlyInitialization for macOS, creating a ScopedNativeScreen during browser startup.

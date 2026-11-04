@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation to content loader OWNERS
+summary: Delegates ownership review of this directory to the owners of content/browser/loader.

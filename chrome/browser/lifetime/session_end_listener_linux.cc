@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux session end listener implementation
+// summary: Listens for logind shutdown and GNOME session end signals over D-Bus to trigger Chrome session ending and flush state before power off.
+// ---
+
 #include "chrome/browser/lifetime/session_end_listener_linux.h"
 
 #include <tuple>

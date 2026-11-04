@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IP address space overrides prefs observer header
+// summary: Declares a helper that translates the enterprise policy pref into network IP address space overrides.
+// ---
+
 #ifndef CHROME_BROWSER_LOCAL_NETWORK_ACCESS_IP_ADDRESS_SPACE_OVERRIDES_PREFS_OBSERVER_H_
 #define CHROME_BROWSER_LOCAL_NETWORK_ACCESS_IP_ADDRESS_SPACE_OVERRIDES_PREFS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local Network Access enterprise policy browser tests
+// summary: Browser tests verifying Local Network Access behavior under enterprise policies such as the temporary opt-out restriction, including fetches from workers.
+// ---
+
 #include "base/command_line.h"
 #include "chrome/browser/local_network_access/local_network_access_browsertest_base.h"
 #include "chrome/test/base/ui_test_utils.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared service discovery client factory
+// summary: Implements the ServiceDiscoverySharedClient singleton, selecting the macOS native factory or the mDNS-based implementation when an instance is requested.
+// ---
+
 #include "chrome/browser/local_discovery/service_discovery_shared_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keepalive request browser test utilities
+// summary: Implements the shared browser test base that sets up HTTPS test servers, request handlers, and navigation helpers for keepalive request tests.
+// ---
+
 #include "chrome/browser/loader/keep_alive_request_browsertest_util.h"
 
 #include "base/strings/string_util.h"

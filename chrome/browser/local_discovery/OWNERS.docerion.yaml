@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for local_discovery
+summary: Lists the Cast owner for this directory and defers printing and document scanning changes to the ChromeOS printing owners.

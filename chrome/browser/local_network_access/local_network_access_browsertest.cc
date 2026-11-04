@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local Network Access browser tests
+// summary: Runs browser tests for Local Network Access permission handling, covering fetches that are denied or accepted based on the permission prompt response.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/strings/string_number_conversions.h"
 #include "base/strings/string_util.h"

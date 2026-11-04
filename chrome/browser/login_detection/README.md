@@ -1,3 +1,9 @@
+---
+type: readme
+title: Login detection
+summary: Explains how OAuth login detection heuristics trigger Site Isolation for login sites on Android and save them in preferences.
+---
+
 # Login detection
 
 This code detects when a user logs in on a site via OAuth.  In particular,

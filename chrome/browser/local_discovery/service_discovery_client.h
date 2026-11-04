@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local discovery service client interfaces
+// summary: Defines the ServiceDescription struct and the ServiceWatcher, ServiceResolver, LocalDomainResolver and ServiceDiscoveryClient interfaces for DNS-SD service discovery.
+// ---
+
 #ifndef CHROME_BROWSER_LOCAL_DISCOVERY_SERVICE_DISCOVERY_CLIENT_H_
 #define CHROME_BROWSER_LOCAL_DISCOVERY_SERVICE_DISCOVERY_CLIENT_H_
 

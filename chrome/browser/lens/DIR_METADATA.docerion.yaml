@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the Lens browser directory
+summary: Declares the bug tracker component, owning team email, Android OS, and Buganizer component for the directory.

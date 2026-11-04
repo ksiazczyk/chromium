@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock service discovery client test helpers
+// summary: Implements mock service discovery client, watcher, resolver and device lister delegate classes that let tests simulate discovery updates and resolve completions.
+// ---
+
 #include "chrome/browser/local_discovery/service_discovery_client_test_helpers.h"
 
 #include "chrome/browser/local_discovery/service_discovery_client_impl.h"

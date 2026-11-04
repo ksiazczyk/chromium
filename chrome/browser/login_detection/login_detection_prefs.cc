@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login detection preferences
+// summary: Registers and manages the dictionary pref storing OAuth signed-in sites with sign-in times and a capped maximum size.
+// ---
+
 #include "chrome/browser/login_detection/login_detection_prefs.h"
 
 #include "base/json/values_util.h"

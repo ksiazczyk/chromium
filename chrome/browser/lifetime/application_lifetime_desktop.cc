@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop application lifetime implementation
+// summary: Implements closing all browsers, application shutdown, session ending and restart flows for non-Android desktop Chrome.
+// ---
+
 #include "chrome/browser/lifetime/application_lifetime_desktop.h"
 
 #include <optional>

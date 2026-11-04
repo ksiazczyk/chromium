@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL service factory implementation
+// summary: Implements the profile-keyed factory that builds LookalikeUrlService instances with prefs and host content settings dependencies.
+// ---
+
 #include "chrome/browser/lookalikes/lookalike_url_service_factory.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser close manager implementation
+// summary: Confirms browser windows are closeable at shutdown, running beforeunload dialogs and pending download prompts before closing browsers.
+// ---
+
 #include "chrome/browser/lifetime/browser_close_manager.h"
 
 #include <algorithm>

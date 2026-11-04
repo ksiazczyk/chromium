@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install script test for Chrome-branded builds
+// summary: Runs install.sh from a Chrome-branded build into a temporary directory to verify installation, warning that it may alter an existing Chrome or GoogleUpdater installation.
+// ---
+
 #include <string>
 
 #include "base/base_paths.h"

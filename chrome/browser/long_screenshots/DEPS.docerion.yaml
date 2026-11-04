@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Long screenshots include rules (DEPS)
+summary: Grants the directory include access to paint_preview common code, browser profiles, and the Android JNI header for the long screenshots service.

@@ -1,0 +1,4 @@
+# Docerion header of relauncher.mm.
+type: source
+title: Mac relauncher implementation
+summary: Implements the relauncher process, which waits via kqueue for the parent browser to exit, then launches the replacement Chrome instance, stripping PSN arguments and handling background relaunches.

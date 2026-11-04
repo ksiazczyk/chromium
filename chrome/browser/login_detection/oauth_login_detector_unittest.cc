@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: OAuth login detector unit tests
+// summary: Unit tests for the OAuth login detector, covering successful OAuth login flow detection with query parameters and URL fragments.
+// ---
+
 #include "chrome/browser/login_detection/oauth_login_detector.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dock icon management interface
+// summary: Declares functions to check Chrome's Dock presence and add a Dock icon for an installed application with placement heuristics.
+// ---
+
 #ifndef CHROME_BROWSER_MAC_DOCK_H_
 #define CHROME_BROWSER_MAC_DOCK_H_
 

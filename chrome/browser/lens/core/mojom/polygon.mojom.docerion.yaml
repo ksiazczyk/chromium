@@ -1,0 +1,4 @@
+# Docerion header of polygon.mojom.
+type: source
+title: 'polygon.mojom: polygon and vertex structs'
+summary: Defines the Polygon and Vertex structs with vertex ordering and coordinate type, converted from the Lens overlay polygon server proto.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart restart metrics observer header
+// summary: Declares SmartRestartMetricsObserver, which tracks durations and restartability states around smart restart opportunities for reporting.
+// ---
+
 #ifndef CHROME_BROWSER_LIFETIME_SMART_RESTART_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_LIFETIME_SMART_RESTART_METRICS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: From GWS navigation and keepalive request tracker
+// summary: Implements a per-browser-context service that pairs navigations with fetch keepalive requests from Google search result pages and logs UKM beacon leakage events.
+// ---
+
 #include "chrome/browser/loader/from_gws_navigation_and_keep_alive_request_tracker.h"
 
 #include <tuple>

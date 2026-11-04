@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL interstitial page implementation
+// summary: Implements the lookalike interstitial page, handling user commands, interstitial strings, and UKM reporting.
+// ---
+
 #include "chrome/browser/lookalikes/lookalike_url_blocking_page.h"
 
 #include <utility>

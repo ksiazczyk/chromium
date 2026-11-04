@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for local network access
+summary: Defines the source set for IP address space overrides prefs handling and the browser_tests target listing all Local Network Access test files and dependencies.

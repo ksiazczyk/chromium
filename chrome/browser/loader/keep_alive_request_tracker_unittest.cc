@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Chrome keep-alive request tracker
+// summary: Unit tests verifying tracker creation and UKM metric logging for fetch and FetchLater keepalive requests across categories.
+// ---
+
 #include "chrome/browser/loader/keep_alive_request_tracker.h"
 
 #include <memory>

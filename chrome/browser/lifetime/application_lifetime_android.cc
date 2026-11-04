@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android application lifetime implementation
+// summary: Implements the restart preference flag and JNI-based termination of Chrome on Android.
+// ---
+
 #include "chrome/browser/lifetime/application_lifetime_android.h"
 
 #include <jni.h>

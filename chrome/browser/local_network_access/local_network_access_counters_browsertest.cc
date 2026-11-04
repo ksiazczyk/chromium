@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local Network Access use counter browser tests
+// summary: Verifies that Local Network Access UseCounters are recorded into UMA histograms correctly for various request scenarios.
+// ---
+
 #include <map>
 #include <string>
 #include <string_view>

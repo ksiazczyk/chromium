@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike interstitial controller client implementation
+// summary: Implements interstitial command handling, replacing the bad site with the safe URL on go back and recording user ignores.
+// ---
+
 #include "chrome/browser/lookalikes/lookalike_url_controller_client.h"
 
 #include <memory>

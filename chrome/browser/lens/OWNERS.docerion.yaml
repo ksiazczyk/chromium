@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the Lens browser directory
+summary: Names the code owners responsible for reviewing changes and points to the components/lens owners file.

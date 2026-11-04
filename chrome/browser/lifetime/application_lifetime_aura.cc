@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura platform exit handling
+// summary: Handles app exit on Aura platforms by closing widgets, clearing notifications and releasing keep-alives.
+// ---
+
 #include "chrome/browser/lifetime/application_lifetime.h"
 
 #include "base/command_line.h"

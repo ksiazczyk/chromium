@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: 'LensController: Lens SDK communication manager'
+// summary: Singleton entry point that manages communication with the Lens SDK, delegating image queries, chip rendering and Lens launches to a compile-time-selected delegate.
+// ---
+
 package org.chromium.chrome.browser.lens;
 
 import android.content.Context;

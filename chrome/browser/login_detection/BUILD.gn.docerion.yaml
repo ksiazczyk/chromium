@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Login detection BUILD.gn build definition
+summary: Defines GN source sets for the login detection code plus its unit and browser test targets and their dependencies.

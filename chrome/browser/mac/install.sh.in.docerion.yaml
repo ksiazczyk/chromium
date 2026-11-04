@@ -1,0 +1,4 @@
+# Docerion header of install.sh.in.
+type: script
+title: Install script template for copying Chrome from a disk image
+summary: Bash script template that copies the running application from a disk image to a destination such as /Applications, handling root privileges, permissions and LaunchServices registration.

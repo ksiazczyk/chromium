@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleManager
+// summary: Singleton manager for locale-specific logic in Chrome for Android, delegating search engine promos, phone state observation, and snackbar handling to a runtime-selected delegate.
+// ---
+
 package org.chromium.chrome.browser.locale;
 
 import android.app.Activity;

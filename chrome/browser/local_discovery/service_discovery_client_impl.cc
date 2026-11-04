@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: mDNS service discovery client implementation
+// summary: Implements the mDNS-backed service discovery client, including service watcher, service resolver and local domain resolver classes.
+// ---
+
 #include <memory>
 #include <utility>
 

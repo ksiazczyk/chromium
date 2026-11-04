@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install from disk image detection and installation API
+// summary: Declares DiskImageStatus types and functions to detect whether Chrome runs from a read-only disk image, prompt installation to the hard drive, and eject and trash the disk image.
+// ---
+
 #ifndef CHROME_BROWSER_MAC_INSTALL_FROM_DMG_H_
 #define CHROME_BROWSER_MAC_INSTALL_FROM_DMG_H_
 

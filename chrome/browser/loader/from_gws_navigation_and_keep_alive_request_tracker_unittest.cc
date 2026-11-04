@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: From GWS navigation and keepalive request tracker unit tests
+// summary: Unit tests verifying that the tracker pairs navigations with keepalive requests and logs the expected UKM events.
+// ---
+
 #include "chrome/browser/loader/from_gws_navigation_and_keep_alive_request_tracker.h"
 
 #include <memory>

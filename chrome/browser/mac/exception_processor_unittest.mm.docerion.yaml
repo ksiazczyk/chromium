@@ -1,0 +1,4 @@
+# Docerion header of exception_processor_unittest.mm.
+type: test
+title: Exception processor unit tests
+summary: Verifies that first and last exception crash keys and stack traces are recorded for raised NSExceptions.

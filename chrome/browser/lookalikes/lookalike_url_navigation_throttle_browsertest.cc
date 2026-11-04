@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL navigation throttle browser tests
+// summary: Browser tests covering lookalike interstitials, safety tips, UKM metrics and user dismissal behavior across navigation scenarios.
+// ---
+
 #include "chrome/browser/lookalikes/lookalike_url_navigation_throttle.h"
 
 #include <algorithm>

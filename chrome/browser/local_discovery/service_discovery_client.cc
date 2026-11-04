@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service description helpers for local discovery
+// summary: Implements ServiceDescription methods that split a service name into its instance name and service type.
+// ---
+
 #include <stddef.h>
 
 #include "chrome/browser/local_discovery/service_discovery_client.h"

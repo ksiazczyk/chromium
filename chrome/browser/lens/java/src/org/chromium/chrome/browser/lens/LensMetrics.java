@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LensMetrics for Lens user action and support logging
+// summary: Static utility defining Lens support-status and ambient-search entry-point enums and recording Lens user actions and histograms.
+// ---
+
 package org.chromium.chrome.browser.lens;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

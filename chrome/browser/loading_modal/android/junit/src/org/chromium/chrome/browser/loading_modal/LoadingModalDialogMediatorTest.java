@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoadingModalDialogMediatorTest
+// summary: Robolectric unit tests for LoadingModalDialogMediator covering dialog manager observation, show delay handling and dismissal behavior.
+// ---
+
 package org.chromium.chrome.browser.loading_modal;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login detection tab helper unit tests
+// summary: Unit tests verifying login detection metrics and UKM entries for no-login, OAuth, and popup-based login flows.
+// ---
+
 #include "chrome/browser/login_detection/login_detection_tab_helper.h"
 
 #include "base/run_loop.h"

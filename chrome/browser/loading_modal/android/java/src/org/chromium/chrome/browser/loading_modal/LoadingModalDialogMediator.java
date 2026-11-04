@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadingModalDialogMediator
+// summary: Mediator that controls the loading dialog state, handles button clicks and dismissal, and applies show delay and timeout policies to prevent UI flickering.
+// ---
+
 package org.chromium.chrome.browser.loading_modal;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

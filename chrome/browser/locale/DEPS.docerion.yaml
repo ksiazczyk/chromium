@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the locale directory
+summary: Grants the locale directory access to content/public/android through Chromium DEPS include rules.

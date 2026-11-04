@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL interstitial page class
+// summary: Declares the security interstitial page shown when a visited domain looks suspiciously like a more popular domain.
+// ---
+
 #ifndef CHROME_BROWSER_LOOKALIKES_LOOKALIKE_URL_BLOCKING_PAGE_H_
 #define CHROME_BROWSER_LOOKALIKES_LOOKALIKE_URL_BLOCKING_PAGE_H_
 

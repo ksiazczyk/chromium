@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux session end listener header
+// summary: Declares SessionEndListenerLinux, which monitors OS shutdown and desktop session end events on Linux via logind and GNOME D-Bus signals.
+// ---
+
 #ifndef CHROME_BROWSER_LIFETIME_SESSION_END_LISTENER_LINUX_H_
 #define CHROME_BROWSER_LIFETIME_SESSION_END_LISTENER_LINUX_H_
 

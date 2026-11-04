@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login detection type enum
+// summary: Defines the LoginDetectionType enum of detectable login kinds recorded in metrics, including several deprecated values.
+// ---
+
 #ifndef CHROME_BROWSER_LOGIN_DETECTION_LOGIN_DETECTION_TYPE_H_
 #define CHROME_BROWSER_LOGIN_DETECTION_LOGIN_DETECTION_TYPE_H_
 

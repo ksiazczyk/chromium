@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart restart manager header
+// summary: Declares SmartRestartManager, which coordinates opportunistic smart restarts with the policy engine when trigger conditions are met.
+// ---
+
 #ifndef CHROME_BROWSER_LIFETIME_SMART_RESTART_MANAGER_H_
 #define CHROME_BROWSER_LIFETIME_SMART_RESTART_MANAGER_H_
 

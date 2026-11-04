@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Lens core Mojo bindings
+summary: GN build file defining the mojo_bindings target that compiles the Lens core .mojom sources with public dependencies on mojo base, skia, ui, and url mojoms.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Ownership file restricting approvals to compliance owners with no parent inheritance due to regulatory requirements around this code.

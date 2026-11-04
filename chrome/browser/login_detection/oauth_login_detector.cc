@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth login detector implementation
+// summary: Implements detection of successful OAuth login flows by inspecting navigation URLs and redirect chains for start and completion query parameters.
+// ---
+
 #include "chrome/browser/login_detection/oauth_login_detector.h"
 
 #include <string_view>

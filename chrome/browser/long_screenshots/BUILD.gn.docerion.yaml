@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Long screenshots build configuration (BUILD.gn)
+summary: Defines the long_screenshots source set, its dependencies, the unit test target, and Java enum generation for the Chrome long screenshots feature.

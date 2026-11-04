@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for bug tracking
+summary: Points to shared loader metadata and sets the Monorail and Buganizer components used for issues filed against this directory.

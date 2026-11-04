@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial preferences path interface
+// summary: Declares InitialPrefsPath, which returns the path to the initial preferences file, possibly empty or nonexistent.
+// ---
+
 #ifndef CHROME_BROWSER_MAC_INITIAL_PREFS_H_
 #define CHROME_BROWSER_MAC_INITIAL_PREFS_H_
 

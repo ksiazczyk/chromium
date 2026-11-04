@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens region search controller implementation
+// summary: Implements the controller that runs the screenshot region selection flow, shows the instructions bubble, and sends the captured region to Lens.
+// ---
+
 #include "chrome/browser/lens/region_search/lens_region_search_controller.h"
 
 #include <utility>

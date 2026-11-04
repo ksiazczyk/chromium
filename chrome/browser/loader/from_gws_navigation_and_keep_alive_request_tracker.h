@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: From GWS navigation and keepalive request tracker header
+// summary: Declares the KeyedService that tracks navigations and fetch keepalive requests made from Google search result pages per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_LOADER_FROM_GWS_NAVIGATION_AND_KEEP_ALIVE_REQUEST_TRACKER_H_
 #define CHROME_BROWSER_LOADER_FROM_GWS_NAVIGATION_AND_KEEP_ALIVE_REQUEST_TRACKER_H_
 

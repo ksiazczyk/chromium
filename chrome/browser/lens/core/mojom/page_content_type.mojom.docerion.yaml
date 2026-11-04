@@ -1,0 +1,4 @@
+# Docerion header of page_content_type.mojom.
+type: source
+title: 'page_content_type.mojom: page content type enum'
+summary: Defines the PageContentType enum identifying whether the Lens overlay searchbox is initialized on a PDF or HTML document.

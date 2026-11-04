@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local Network Access iframe browser tests
+// summary: Browser tests covering Local Network Access permission checks and use counters for iframe navigations and fetches.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/local_network_access/local_network_access_browsertest_base.h"
 #include "chrome/test/base/ui_test_utils.h"

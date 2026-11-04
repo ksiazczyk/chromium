@@ -1,0 +1,4 @@
+# Docerion header of metrics_unittest.mm.
+type: test
+title: Mac metrics unit tests
+summary: Unit tests verifying that RecordAppFileSystemType and RecordAppUpgradeCodeSignatureValidation each record their expected UMA histograms.

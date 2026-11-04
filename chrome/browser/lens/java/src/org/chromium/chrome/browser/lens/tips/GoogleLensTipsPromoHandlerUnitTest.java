@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Lens tips promo handler unit tests
+// summary: Robolectric unit tests verifying the promo data fields and the Lens launch behavior of GoogleLensTipsPromoHandler.
+// ---
+
 package org.chromium.chrome.browser.lens.tips;
 
 import static org.junit.Assert.assertEquals;
