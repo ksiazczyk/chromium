@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share HTTP notifier implementation
+// summary: Implements NearbyShareHttpNotifier methods that broadcast Nearby Share HTTP requests and responses to registered observers.
+// ---
+
 #include "chrome/browser/nearby_sharing/client/nearby_share_http_notifier.h"
 
 NearbyShareHttpNotifier::NearbyShareHttpNotifier() = default;

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Nearby Sharing common metadata
+summary: Declares the Buganizer component ID and team email used as shared directory metadata for Nearby Sharing.

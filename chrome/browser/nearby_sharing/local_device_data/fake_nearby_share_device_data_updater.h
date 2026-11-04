@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Nearby Share device data updater class declaration
+// summary: Declares a fake NearbyShareDeviceDataUpdater and factory that expose pending requests and created instances for unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_LOCAL_DEVICE_DATA_FAKE_NEARBY_SHARE_DEVICE_DATA_UPDATER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_LOCAL_DEVICE_DATA_FAKE_NEARBY_SHARE_DEVICE_DATA_UPDATER_H_
 

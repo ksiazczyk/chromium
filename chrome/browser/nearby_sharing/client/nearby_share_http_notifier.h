@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share HTTP notifier interface
+// summary: Declares NearbyShareHttpNotifier, an observer-based class for forwarding Nearby Share HTTP requests and responses to listeners.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_CLIENT_NEARBY_SHARE_HTTP_NOTIFIER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_CLIENT_NEARBY_SHARE_HTTP_NOTIFIER_H_
 

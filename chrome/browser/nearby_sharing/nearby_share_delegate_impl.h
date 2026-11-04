@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyShareDelegateImpl class header
+// summary: Declares the delegate injected into ash Shell to expose Nearby Share settings, visibility, and onboarding controls to the system tray.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARE_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARE_DELEGATE_IMPL_H_
 

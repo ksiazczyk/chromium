@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share settings unit tests
+// summary: Unit tests for NearbyShareSettings covering pref-backed getters, setters, and observer notifications.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_share_settings.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC signaling messenger header
+// summary: Declares WebRtcSignalingMessenger, the mojo implementation for sending and receiving WebRTC signaling messages using identity and network services.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_WEBRTC_SIGNALING_MESSENGER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_WEBRTC_SIGNALING_MESSENGER_H_
 

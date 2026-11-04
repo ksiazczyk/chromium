@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stream parser unit tests
+// summary: Unit tests verifying that StreamParser correctly handles single, multiple, and split messages across one or more response bodies.
+// ---
+
 #include "chrome/browser/nearby_sharing/instantmessaging/stream_parser.h"
 
 #include <algorithm>

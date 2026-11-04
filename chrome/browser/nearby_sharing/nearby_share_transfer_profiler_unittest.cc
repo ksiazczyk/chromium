@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share transfer profiler unit tests
+// summary: Unit tests verifying the transfer duration histograms recorded by the Nearby Share transfer profiler.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_share_transfer_profiler.h"
 
 #include "base/test/metrics/histogram_tester.h"

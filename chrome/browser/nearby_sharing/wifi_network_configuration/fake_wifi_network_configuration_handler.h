@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeWifiNetworkConfigurationHandler class declaration
+// summary: Declares a fake WifiNetworkConfigurationHandler for testing with settable GUID and error outputs, a call counter, and accessors for the last attachment.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_WIFI_NETWORK_CONFIGURATION_FAKE_WIFI_NETWORK_CONFIGURATION_HANDLER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_WIFI_NETWORK_CONFIGURATION_FAKE_WIFI_NETWORK_CONFIGURATION_HANDLER_H_
 

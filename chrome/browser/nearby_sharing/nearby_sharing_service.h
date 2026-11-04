@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Sharing service interface
+// summary: Declares the Nearby Sharing service built on Nearby Connections, including status codes, surface states, and observers.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARING_SERVICE_H_
 #define CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARING_SERVICE_H_
 

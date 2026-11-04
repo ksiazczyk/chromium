@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share resource getter unit tests
+// summary: Unit tests verifying feature name retrieval for both official Google-branded and unofficial builds.
+// ---
+
 #include "chrome/browser/nearby_sharing/common/nearby_share_resource_getter.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share discovery metrics logging implementation
+// summary: Implements logging of time-to-discovery structured metrics when share targets are found during an active discovery session.
+// ---
+
 #include "chrome/browser/nearby_sharing/metrics/discovery_metric_logger.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share delegate implementation unit tests
+// summary: Unit tests for NearbyShareDelegateImpl covering high visibility, enablement, and settings opening with mock service and settings.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_share_delegate_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS power client interface
+// summary: Declares PowerClientChromeos, a ChromeOS-specific PowerClient that listens to power manager suspend notifications.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_POWER_CLIENT_CHROMEOS_H_
 #define CHROME_BROWSER_NEARBY_SHARING_POWER_CLIENT_CHROMEOS_H_
 

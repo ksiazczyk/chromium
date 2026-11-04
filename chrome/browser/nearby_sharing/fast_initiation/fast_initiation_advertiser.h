@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastInitiationAdvertiser class declaration
+// summary: Declares FastInitiationAdvertiser, which broadcasts Fast Initiation BLE advertisements so remote devices can begin advertising via Nearby Connections.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_FAST_INITIATION_FAST_INITIATION_ADVERTISER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_FAST_INITIATION_FAST_INITIATION_ADVERTISER_H_
 

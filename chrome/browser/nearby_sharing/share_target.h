@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share target model
+// summary: Declares ShareTarget, a struct representing a remote Nearby Sharing device with its name, type, attachments, certificate state, and self-share flag.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_SHARE_TARGET_H_
 #define CHROME_BROWSER_NEARBY_SHARING_SHARE_TARGET_H_
 

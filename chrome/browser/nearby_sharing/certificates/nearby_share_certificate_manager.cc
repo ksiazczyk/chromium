@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share certificate manager base class implementation
+// summary: Implements shared NearbyShareCertificateManager logic such as observer handling, start/stop scheduling, and metadata key encryption, signing, and token hashing via the valid private certificate.
+// ---
+
 #include "chrome/browser/nearby_sharing/certificates/nearby_share_certificate_manager.h"
 
 #include <array>

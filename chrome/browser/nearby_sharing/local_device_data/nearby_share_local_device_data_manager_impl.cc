@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefs-backed Nearby Share local device data manager implementation
+// summary: Implements the local device data manager with random device ID generation, device name validation and persistence, and periodic UpdateDevice downloads via a scheduler.
+// ---
+
 #include "chrome/browser/nearby_sharing/local_device_data/nearby_share_local_device_data_manager_impl.h"
 
 #include <string>

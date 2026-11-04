@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share certificate storage unit tests
+// summary: Unit tests for NearbyShareCertificateStorageImpl covering public and private certificate storage, expiration handling, and database reinitialization using a fake LevelDB database.
+// ---
+
 #include <algorithm>
 #include <string>
 

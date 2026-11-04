@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS power client implementation
+// summary: Implements PowerClientChromeos by observing the ChromeOS PowerManagerClient and forwarding suspend and resume events to the PowerClient base class.
+// ---
+
 #include "chrome/browser/nearby_sharing/power_client_chromeos.h"
 
 PowerClientChromeos::PowerClientChromeos() {

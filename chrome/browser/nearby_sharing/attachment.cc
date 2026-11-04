@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attachment base class implementation
+// summary: Implements the Attachment base class, generating random IDs and handling copy, move, and destruction for share attachments.
+// ---
+
 #include "chrome/browser/nearby_sharing/attachment.h"
 #include "crypto/random.h"
 

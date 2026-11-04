@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Nearby Share client implementation
+// summary: Implements the fake Nearby Share client that records UpdateDevice, ListContactPeople, and ListPublicCertificates requests for use in unit tests.
+// ---
+
 #include "chrome/browser/nearby_sharing/client/fake_nearby_share_client.h"
 
 #include <utility>

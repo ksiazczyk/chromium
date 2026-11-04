@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share decrypted public certificate class declaration
+// summary: Declares the class holding decrypted metadata and crypto keys for a remote device's public certificate, with methods for signature verification and authentication token hashing.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_CERTIFICATES_NEARBY_SHARE_DECRYPTED_PUBLIC_CERTIFICATE_H_
 #define CHROME_BROWSER_NEARBY_SHARING_CERTIFICATES_NEARBY_SHARE_DECRYPTED_PUBLIC_CERTIFICATE_H_
 

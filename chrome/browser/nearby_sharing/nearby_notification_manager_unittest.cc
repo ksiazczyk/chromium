@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NearbyNotificationManager unit tests
+// summary: Unit tests for the Nearby Share notification manager covering progress, connection requests, and success notification actions.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_notification_manager.h"
 
 #include <memory>

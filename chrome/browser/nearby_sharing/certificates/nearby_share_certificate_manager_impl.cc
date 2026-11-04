@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share certificate manager implementation
+// summary: Implements NearbyShareCertificateManagerImpl, which creates, stores, uploads, and downloads Nearby Share certificates and removes expired or revoked ones.
+// ---
+
 #include "chrome/browser/nearby_sharing/certificates/nearby_share_certificate_manager_impl.h"
 
 #include <array>

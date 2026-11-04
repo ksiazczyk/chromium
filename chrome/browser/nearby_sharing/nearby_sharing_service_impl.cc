@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Sharing service implementation
+// summary: Implements the core Nearby Sharing service that manages device discovery, advertising, connections, and incoming and outgoing transfers for Chrome.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_sharing_service_impl.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyPerSessionDiscoveryManager class header
+// summary: Declares a manager that holds discovered share targets for one WebUI discovery session and exposes discovery and selection callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_NEARBY_PER_SESSION_DISCOVERY_MANAGER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_NEARBY_PER_SESSION_DISCOVERY_MANAGER_H_
 

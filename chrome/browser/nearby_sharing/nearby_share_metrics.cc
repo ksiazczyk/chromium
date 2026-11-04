@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share metrics recording
+// summary: Records Nearby Share UMA histograms for transfer statuses, advertising failures, and other feature events.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_share_metrics.h"
 
 #include "base/files/file_path.h"

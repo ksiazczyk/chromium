@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share feature usage metrics class
+// summary: Declares a delegate class that tracks Nearby Share feature usage for the Standard Feature Usage Logging framework.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARE_FEATURE_USAGE_METRICS_H_
 #define CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARE_FEATURE_USAGE_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyShareContactManagerImpl class declaration
+// summary: Declares NearbyShareContactManagerImpl, which persists allowed contact IDs in prefs and schedules contact downloads and uploads via the Nearby Share server, with a test factory.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_CONTACTS_NEARBY_SHARE_CONTACT_MANAGER_IMPL_H_
 #define CHROME_BROWSER_NEARBY_SHARING_CONTACTS_NEARBY_SHARE_CONTACT_MANAGER_IMPL_H_
 

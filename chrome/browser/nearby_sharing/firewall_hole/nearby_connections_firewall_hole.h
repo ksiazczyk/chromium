@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Connections firewall hole class declaration
+// summary: Declares NearbyConnectionsFirewallHole, which implements the sharing Mojo FirewallHole interface by wrapping a chromeos FirewallHole instance.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_FIREWALL_HOLE_NEARBY_CONNECTIONS_FIREWALL_HOLE_H_
 #define CHROME_BROWSER_NEARBY_SHARING_FIREWALL_HOLE_NEARBY_CONNECTIONS_FIREWALL_HOLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC signaling messenger unit tests
+// summary: Unit tests for WebRtcSignalingMessenger covering send and receive flows with fake OAuth tokens, a test URL loader factory and a fake messages listener.
+// ---
+
 #include "chrome/browser/nearby_sharing/webrtc_signaling_messenger.h"
 
 #include <string>

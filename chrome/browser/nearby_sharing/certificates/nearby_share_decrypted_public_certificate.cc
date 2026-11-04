@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share decrypted public certificate implementation
+// summary: Implements decryption of Nearby Share public certificates, including metadata key decryption, HMAC tag verification, and signature verification for remote devices.
+// ---
+
 #include "chrome/browser/nearby_sharing/certificates/nearby_share_decrypted_public_certificate.h"
 
 #include <array>

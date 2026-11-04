@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share contact downloader base class
+// summary: Implements the single-use base downloader that starts the download on Run and forwards results to success or failure callbacks.
+// ---
+
 #include "chrome/browser/nearby_sharing/contacts/nearby_share_contact_downloader.h"
 
 #include <utility>

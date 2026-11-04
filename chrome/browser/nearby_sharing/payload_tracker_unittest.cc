@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payload tracker unit tests
+// summary: Unit tests for PayloadTracker, verifying transfer metadata status and progress updates as payloads succeed, are cancelled, or fail across file, text, and Wi-Fi credentials attachments.
+// ---
+
 #include "chrome/browser/nearby_sharing/payload_tracker.h"
 
 #include <memory>

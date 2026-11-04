@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby Share contacts GN build configuration
+summary: Defines the contacts source set, test support fakes, and unit test targets with their dependencies for the Nearby Share contacts module.

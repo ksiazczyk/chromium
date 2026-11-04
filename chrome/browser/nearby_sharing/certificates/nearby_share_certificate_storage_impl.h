@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share certificate storage implementation header
+// summary: Declares NearbyShareCertificateStorageImpl, which stores private certificates via PrefService and public certificates via a LevelDB proto database.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_CERTIFICATES_NEARBY_SHARE_CERTIFICATE_STORAGE_IMPL_H_
 #define CHROME_BROWSER_NEARBY_SHARING_CERTIFICATES_NEARBY_SHARE_CERTIFICATE_STORAGE_IMPL_H_
 

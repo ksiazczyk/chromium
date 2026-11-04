@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share contact manager base class implementation
+// summary: Implements shared NearbyShareContactManager behavior such as observer registration, start/stop state, and observer notifications for contact downloads and uploads.
+// ---
+
 #include "chrome/browser/nearby_sharing/contacts/nearby_share_contact_manager.h"
 
 NearbyShareContactManager::NearbyShareContactManager() = default;

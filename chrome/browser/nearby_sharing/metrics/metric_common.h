@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share metrics enums and helper declarations
+// summary: Declares platform, device relationship, and transfer result enums plus helper functions shared by the Nearby Share metric loggers.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_METRICS_METRIC_COMMON_H_
 #define CHROME_BROWSER_NEARBY_SHARING_METRICS_METRIC_COMMON_H_
 

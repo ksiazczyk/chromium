@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Initiation advertiser unit tests
+// summary: Unit tests for FastInitiationAdvertiser using mock Bluetooth adapters and advertisements to verify advertisement registration and Fast Init metadata.
+// ---
+
 #include "chrome/browser/nearby_sharing/fast_initiation/fast_initiation_advertiser.h"
 
 #include <memory>

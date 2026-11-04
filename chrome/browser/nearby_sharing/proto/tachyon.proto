@@ -6,6 +6,12 @@
 // http://google3/google/internal/communications/instantmessaging/v1/tachyon.proto
 // Messages not used in Chrome have been omitted.
 
+// ---docerion
+// type: source
+// title: Tachyon ICE server request and response messages
+// summary: Defines GetICEServerRequest and GetICEServerResponse messages for fetching ICE server configuration via the Tachyon service.
+// ---
+
 syntax = "proto3";
 
 package nearbyshare.tachyon_proto;

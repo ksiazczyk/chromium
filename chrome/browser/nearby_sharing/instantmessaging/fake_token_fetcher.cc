@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake token fetcher implementation
+// summary: Implements a fake TokenFetcher that returns a preset access token for use in unit tests.
+// ---
+
 #include "chrome/browser/nearby_sharing/instantmessaging/fake_token_fetcher.h"
 
 FakeTokenFetcher::FakeTokenFetcher()

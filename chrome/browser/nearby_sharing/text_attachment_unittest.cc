@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text Attachment Unit Tests
+// summary: Parameterized unit tests verifying that text attachment titles are derived correctly for plain text, URLs, and masked phone numbers.
+// ---
+
 #include "chrome/browser/nearby_sharing/text_attachment.h"
 
 #include <string>

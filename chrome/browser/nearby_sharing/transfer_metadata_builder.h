@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transfer metadata builder header
+// summary: Declares TransferMetadataBuilder, a fluent builder for creating or cloning TransferMetadata objects used in Nearby Share transfers.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_TRANSFER_METADATA_BUILDER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_TRANSFER_METADATA_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiNetworkConfigurationHandler class declaration
+// summary: Declares the handler that adds Wi-Fi network configuration (SSID, security type, password) to the Known Networks List through the cros_network_config mojo interface.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_WIFI_NETWORK_CONFIGURATION_WIFI_NETWORK_CONFIGURATION_HANDLER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_WIFI_NETWORK_CONFIGURATION_WIFI_NETWORK_CONFIGURATION_HANDLER_H_
 

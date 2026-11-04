@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text Attachment Header
+// summary: Declares the TextAttachment class representing a text, URL, or phone number attachment shared via Nearby Share.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_TEXT_ATTACHMENT_H_
 #define CHROME_BROWSER_NEARBY_SHARING_TEXT_ATTACHMENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Nearby Share contact sorter
+// summary: Unit tests for the contact sorter verifying ordering across names, emails, phone numbers, IDs, and locale-specific characters.
+// ---
+
 #include "chrome/browser/nearby_sharing/contacts/nearby_share_contacts_sorter.h"
 
 #include <algorithm>

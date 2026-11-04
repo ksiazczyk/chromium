@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share overall share metrics logger implementation
+// summary: Implements the main Nearby Share metrics logger tracking discovery, selection, connection, transfer, and medium events per share target.
+// ---
+
 #include "chrome/browser/nearby_sharing/metrics/nearby_share_metric_logger.h"
 
 #include <utility>

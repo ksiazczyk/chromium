@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File attachment class header
+// summary: Declares FileAttachment, a file-based attachment sent to or received from a share target, exposing file name, MIME type, type, and an optional file path.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_FILE_ATTACHMENT_H_
 #define CHROME_BROWSER_NEARBY_SHARING_FILE_ATTACHMENT_H_
 

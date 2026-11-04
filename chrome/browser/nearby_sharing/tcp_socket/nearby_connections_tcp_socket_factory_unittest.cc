@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NearbyConnectionsTcpSocketFactory unit tests
+// summary: Unit tests for NearbyConnectionsTcpSocketFactory that use a fake NetworkContext to verify server and connected socket creation, callback behavior, and timeout handling.
+// ---
+
 #include "chrome/browser/nearby_sharing/tcp_socket/nearby_connections_tcp_socket_factory.h"
 
 #include <memory>

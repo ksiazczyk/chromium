@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for Nearby Share certificates
+summary: GN build file defining the certificates source set, the test_support fakes, and the unit_tests target with their dependencies.

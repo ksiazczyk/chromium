@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyShareDelegateImpl implementation
+// summary: Implements the delegate that connects the ChromeOS system tray to the Nearby Share service, including high visibility shutoff timing.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_share_delegate_impl.h"
 
 #include "ash/public/cpp/nearby_share_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConfirmationManager header
+// summary: Declares NearbyConfirmationManager, which implements the nearby_share mojom ConfirmationManager interface for a given share target.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_NEARBY_CONFIRMATION_MANAGER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_NEARBY_CONFIRMATION_MANAGER_H_
 

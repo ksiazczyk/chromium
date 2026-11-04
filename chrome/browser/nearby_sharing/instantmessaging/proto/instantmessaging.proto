@@ -4,6 +4,12 @@
 
 // Brought at CL 316140872
 
+// ---docerion
+// type: source
+// title: Protobuf definitions for Nearby Sharing instant messaging
+// summary: Defines proto3 messages for instant messaging requests and responses, including inbox messages, IDs, location hints, client info, and stream bodies.
+// ---
+
 syntax = "proto3";
 
 package chrome_browser_nearby_sharing_instantmessaging;

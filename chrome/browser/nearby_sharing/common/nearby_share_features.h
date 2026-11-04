@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share feature flag declarations
+// summary: Declares the Nearby Share feature flags and the functions that report whether each flag is enabled.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_COMMON_NEARBY_SHARE_FEATURES_H_
 #define CHROME_BROWSER_NEARBY_SHARING_COMMON_NEARBY_SHARE_FEATURES_H_
 

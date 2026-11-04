@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Nearby Share certificate manager class
+// summary: Declares a fake certificate manager and factory for tests, exposing call records and notification methods for verification.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_CERTIFICATES_FAKE_NEARBY_SHARE_CERTIFICATE_MANAGER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_CERTIFICATES_FAKE_NEARBY_SHARE_CERTIFICATE_MANAGER_H_
 

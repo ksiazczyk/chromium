@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyNotificationHandler header
+// summary: Declares NearbyNotificationHandler, a NotificationHandler subclass that processes Nearby Share notification clicks, closes, and settings.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_NEARBY_NOTIFICATION_HANDLER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_NEARBY_NOTIFICATION_HANDLER_H_
 

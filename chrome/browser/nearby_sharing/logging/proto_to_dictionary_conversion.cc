@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto to dictionary conversion implementation
+// summary: Implements functions that convert Nearby Share protos such as certificates, contacts and devices into readable dictionaries for logging, truncating and encoding sensitive fields.
+// ---
+
 #include "chrome/browser/nearby_sharing/logging/proto_to_dictionary_conversion.h"
 
 #include <string>

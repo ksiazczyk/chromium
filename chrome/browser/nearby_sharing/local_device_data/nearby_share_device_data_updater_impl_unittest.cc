@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share device data updater unit tests
+// summary: Unit tests verifying UpdateDevice requests, field masks, contacts, certificates, and timeout handling of the device data updater.
+// ---
+
 #include "chrome/browser/nearby_sharing/local_device_data/nearby_share_device_data_updater_impl.h"
 
 #include <algorithm>

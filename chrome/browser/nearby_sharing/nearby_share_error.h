@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share error enum for UMA logging
+// summary: Defines the NearbyShareError enum of error codes persisted to UMA logs for Nearby Share failures.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARE_ERROR_H_
 #define CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARE_ERROR_H_
 

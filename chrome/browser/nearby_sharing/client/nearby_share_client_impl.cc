@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyShareClient implementation
+// summary: Implements NearbyShareClientImpl, which fetches primary account access tokens and sends HTTP requests to the Nearby Share v1 endpoints.
+// ---
+
 #include "chrome/browser/nearby_sharing/client/nearby_share_client_impl.h"
 
 #include <memory>

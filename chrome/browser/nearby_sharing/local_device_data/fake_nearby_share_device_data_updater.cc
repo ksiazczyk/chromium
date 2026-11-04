@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Nearby Share device data updater implementation
+// summary: Implements the fake NearbyShareDeviceDataUpdater and its factory, which queue and complete requests for unit tests.
+// ---
+
 #include "chrome/browser/nearby_sharing/local_device_data/fake_nearby_share_device_data_updater.h"
 
 FakeNearbyShareDeviceDataUpdater::FakeNearbyShareDeviceDataUpdater(

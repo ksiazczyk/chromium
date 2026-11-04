@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyNotificationManager implementation
+// summary: Implements the Nearby Share notification manager that shows in-progress, transfer result, incoming share, and visibility reminder notifications.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_notification_manager.h"
 
 #include <string>

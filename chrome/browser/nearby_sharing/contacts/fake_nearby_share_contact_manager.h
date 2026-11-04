@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Nearby Share contact manager header
+// summary: Declares the fake contact manager and factory, exposing observer notification methods and recorded call data for unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_CONTACTS_FAKE_NEARBY_SHARE_CONTACT_MANAGER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_CONTACTS_FAKE_NEARBY_SHARE_CONTACT_MANAGER_H_
 

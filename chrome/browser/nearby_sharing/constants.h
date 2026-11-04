@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share timing constants
+// summary: Defines timeout and delay constants for Nearby Share, such as frame read timeouts, disconnection and rejection delays, and the minimum progress update frequency.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_CONSTANTS_H_
 #define CHROME_BROWSER_NEARBY_SHARING_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Receive messages express header
+// summary: Declares the ReceiveMessagesExpress session that opens the receive stream and parses incoming bytes into response messages.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_INSTANTMESSAGING_RECEIVE_MESSAGES_EXPRESS_H_
 #define CHROME_BROWSER_NEARBY_SHARING_INSTANTMESSAGING_RECEIVE_MESSAGES_EXPRESS_H_
 

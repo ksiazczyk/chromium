@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share device data updater RPC implementation
+// summary: Implements UpdateDevice RPC calls through NearbyShareClient with timeout handling and HTTP result metrics recording.
+// ---
+
 #include "chrome/browser/nearby_sharing/local_device_data/nearby_share_device_data_updater_impl.h"
 
 #include "base/memory/ptr_util.h"

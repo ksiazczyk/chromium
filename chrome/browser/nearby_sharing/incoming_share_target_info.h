@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncomingShareTargetInfo header
+// summary: Header defining IncomingShareTargetInfo, a move-only subclass of ShareTargetInfo that carries information about an incoming share target.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_INCOMING_SHARE_TARGET_INFO_H_
 #define CHROME_BROWSER_NEARBY_SHARING_INCOMING_SHARE_TARGET_INFO_H_
 

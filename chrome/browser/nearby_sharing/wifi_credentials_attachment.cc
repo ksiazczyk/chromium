@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wi-Fi credentials attachment implementation
+// summary: Implements WifiCredentialsAttachment, an attachment carrying Wi-Fi network credentials such as SSID and security type for Nearby Share.
+// ---
+
 #include "chrome/browser/nearby_sharing/wifi_credentials_attachment.h"
 
 #include <utility>

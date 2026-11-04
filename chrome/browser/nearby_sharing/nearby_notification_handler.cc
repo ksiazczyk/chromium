@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyNotificationHandler implementation
+// summary: Implements the NEARBY_SHARE notification handler that routes click and close events to delegates and opens Nearby Share settings.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_notification_handler.h"
 
 #include <utility>

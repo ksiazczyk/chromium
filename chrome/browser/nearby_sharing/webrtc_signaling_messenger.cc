@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC signaling messenger implementation
+// summary: Implements the mojo WebRtcSignalingMessenger that sends and receives WebRTC signaling messages via SendMessageExpress and ReceiveMessagesExpress sessions.
+// ---
+
 #include "chrome/browser/nearby_sharing/webrtc_signaling_messenger.h"
 
 #include "base/functional/callback_helpers.h"

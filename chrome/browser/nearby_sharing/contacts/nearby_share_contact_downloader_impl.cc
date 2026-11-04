@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share contact downloader HTTP implementation
+// summary: Downloads contacts page by page via NearbyShareClient HTTP calls, enforcing timeouts and recording download result and contact metrics.
+// ---
+
 #include "chrome/browser/nearby_sharing/contacts/nearby_share_contact_downloader_impl.h"
 
 #include <utility>

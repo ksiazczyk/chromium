@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share transfer profiler class declaration
+// summary: Declares the profiler that tracks sender and receiver event timestamps to compute transfer duration metrics.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARE_TRANSFER_PROFILER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARE_TRANSFER_PROFILER_H_
 

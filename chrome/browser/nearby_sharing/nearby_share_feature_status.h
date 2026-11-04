@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share enabled state enum and API
+// summary: Declares the NearbyShareEnabledState enum logged to UMA and the function that derives the enabled state from preferences.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARE_FEATURE_STATUS_H_
 #define CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARE_FEATURE_STATUS_H_
 

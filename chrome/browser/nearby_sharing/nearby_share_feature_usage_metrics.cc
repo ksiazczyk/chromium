@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share feature usage metrics implementation
+// summary: Implements feature usage metrics reporting for Nearby Share within the Standard Feature Usage Logging framework.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_share_feature_usage_metrics.h"
 #include "chrome/browser/nearby_sharing/common/nearby_share_prefs.h"
 #include "chrome/browser/nearby_sharing/nearby_share_feature_status.h"

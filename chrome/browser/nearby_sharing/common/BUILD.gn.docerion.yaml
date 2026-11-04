@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby Share common build targets
+summary: Defines the GN source sets, sources, and dependencies for the Nearby Share common code and its unit tests.

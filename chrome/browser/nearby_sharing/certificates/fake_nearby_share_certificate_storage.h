@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Nearby Share certificate storage class
+// summary: Declares a fake certificate storage and factory for tests, with structs capturing add, replace, and removal calls.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_CERTIFICATES_FAKE_NEARBY_SHARE_CERTIFICATE_STORAGE_H_
 #define CHROME_BROWSER_NEARBY_SHARING_CERTIFICATES_FAKE_NEARBY_SHARE_CERTIFICATE_STORAGE_H_
 

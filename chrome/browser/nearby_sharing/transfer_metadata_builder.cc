@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transfer metadata builder implementation
+// summary: Implements TransferMetadataBuilder, which assembles TransferMetadata objects with status, progress, token and originality fields for Nearby Share transfers.
+// ---
+
 #include "chrome/browser/nearby_sharing/transfer_metadata_builder.h"
 
 // static

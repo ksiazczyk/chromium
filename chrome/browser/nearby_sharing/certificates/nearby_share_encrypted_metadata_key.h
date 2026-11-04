@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share encrypted metadata key struct declaration
+// summary: Declares a struct that stores the salt and encrypted symmetric key used to encrypt Nearby Share user and device metadata.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_CERTIFICATES_NEARBY_SHARE_ENCRYPTED_METADATA_KEY_H_
 #define CHROME_BROWSER_NEARBY_SHARING_CERTIFICATES_NEARBY_SHARE_ENCRYPTED_METADATA_KEY_H_
 

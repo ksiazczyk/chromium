@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Initiation scanner feature usage metrics implementation
+// summary: Implements feature usage metrics for FastInitiationScanner, reporting eligibility and enabled state to the Standard Feature Usage Logging framework.
+// ---
+
 #include "chrome/browser/nearby_sharing/fast_initiation/fast_initiation_scanner_feature_usage_metrics.h"
 
 #include "chrome/browser/nearby_sharing/common/nearby_share_prefs.h"

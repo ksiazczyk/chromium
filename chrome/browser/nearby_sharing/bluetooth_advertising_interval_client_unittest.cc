@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth advertising interval client unit tests
+// summary: Unit tests verifying that BluetoothAdvertisingIntervalClient reduces the advertising interval, restores the default, and handles interval-setting errors using a mock Bluetooth adapter.
+// ---
+
 #include "chrome/browser/nearby_sharing/bluetooth_advertising_interval_client.h"
 
 #include "device/bluetooth/test/mock_bluetooth_adapter.h"

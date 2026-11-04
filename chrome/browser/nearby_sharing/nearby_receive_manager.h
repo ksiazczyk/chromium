@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyReceiveManager class header
+// summary: Declares the mojo receive manager bound in os-settings to enter high visibility mode and handle incoming share requests.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_NEARBY_RECEIVE_MANAGER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_NEARBY_RECEIVE_MANAGER_H_
 

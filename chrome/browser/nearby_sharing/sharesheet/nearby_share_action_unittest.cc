@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share action unit tests
+// summary: Unit tests for NearbyShareAction covering intent handling, attachment creation, and whether the action should be shown for various share cases.
+// ---
+
 #include "chrome/browser/nearby_sharing/sharesheet/nearby_share_action.h"
 
 #include <memory>

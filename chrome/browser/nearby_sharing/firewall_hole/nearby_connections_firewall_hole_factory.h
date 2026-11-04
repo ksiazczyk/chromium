@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Connections firewall hole factory declaration
+// summary: Declares NearbyConnectionsFirewallHoleFactory, the Mojo FirewallHoleFactory service whose firewall holes live as long as their Mojo remotes.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_FIREWALL_HOLE_NEARBY_CONNECTIONS_FIREWALL_HOLE_FACTORY_H_
 #define CHROME_BROWSER_NEARBY_SHARING_FIREWALL_HOLE_NEARBY_CONNECTIONS_FIREWALL_HOLE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share metrics helper functions implementation
+// summary: Implements helpers that map share targets and transfer statuses to platform, device relationship, and transfer result values.
+// ---
+
 #include "chrome/browser/nearby_sharing/metrics/metric_common.h"
 
 namespace nearby::share::metrics {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share overall share metrics logger header
+// summary: Declares NearbyShareMetricLogger, a NearbySharingService observer that tracks per-share-target timing, medium, and transfer state.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_METRICS_NEARBY_SHARE_METRIC_LOGGER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_METRICS_NEARBY_SHARE_METRIC_LOGGER_H_
 

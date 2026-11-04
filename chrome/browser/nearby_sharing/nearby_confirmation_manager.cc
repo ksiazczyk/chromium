@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConfirmationManager implementation
+// summary: Implements Accept, Reject, and Cancel handlers that forward share target confirmations to NearbySharingService with converted status callbacks.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_confirmation_manager.h"
 
 #include "base/functional/bind.h"

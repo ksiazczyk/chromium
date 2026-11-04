@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payload tracker implementation
+// summary: Implements PayloadTracker, which monitors payload transfer updates and reports progress, completion, and final metrics for Nearby Share transfers.
+// ---
+
 #include "chrome/browser/nearby_sharing/payload_tracker.h"
 
 #include "base/functional/callback.h"

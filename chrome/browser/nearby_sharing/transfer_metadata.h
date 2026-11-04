@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transfer Metadata Header
+// summary: Declares the TransferMetadata class holding status, progress, and UKey2 token data used to update the Nearby Share UI during transfers.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_TRANSFER_METADATA_H_
 #define CHROME_BROWSER_NEARBY_SHARING_TRANSFER_METADATA_H_
 

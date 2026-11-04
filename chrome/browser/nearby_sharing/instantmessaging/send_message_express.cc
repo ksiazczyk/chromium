@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send message express implementation
+// summary: Implements sending a message to the Instant Messaging API over HTTP, with network timeout, logging, and result metrics.
+// ---
+
 #include "chrome/browser/nearby_sharing/instantmessaging/send_message_express.h"
 
 #include <optional>

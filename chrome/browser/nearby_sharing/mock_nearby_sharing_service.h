@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockNearbySharingService header
+// summary: GMock implementation of NearbySharingService that stubs observer registration, transfer, and manager accessor methods for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_MOCK_NEARBY_SHARING_SERVICE_H_
 #define CHROME_BROWSER_NEARBY_SHARING_MOCK_NEARBY_SHARING_SERVICE_H_
 

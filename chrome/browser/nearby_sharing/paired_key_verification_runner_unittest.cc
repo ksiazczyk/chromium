@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paired key verification runner unit tests
+// summary: Unit tests for PairedKeyVerificationRunner using mock frame readers and fake connections to cover verification success, failure, and result merging.
+// ---
+
 #include "chrome/browser/nearby_sharing/paired_key_verification_runner.h"
 
 #include <stdint.h>

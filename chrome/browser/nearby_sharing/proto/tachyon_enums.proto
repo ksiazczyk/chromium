@@ -6,6 +6,12 @@
 // http://google3/media/webrtc/server/tachyon/proto/tachyon_enums.proto
 // Messages not used in Chrome have been omitted.
 
+// ---docerion
+// type: source
+// title: Tachyon protocol enum definitions
+// summary: Defines enums for API versions, platform types, location standards, ID types and ICE connectivity status for the Tachyon protocol.
+// ---
+
 syntax = "proto3";
 
 package nearbyshare.tachyon_proto;

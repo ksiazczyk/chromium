@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share contact record sorter implementation
+// summary: Implements locale-aware sorting of Nearby Share contact records by person name or email, email, phone number, and contact ID using an ICU collator.
+// ---
+
 #include "chrome/browser/nearby_sharing/contacts/nearby_share_contacts_sorter.h"
 
 #include <algorithm>

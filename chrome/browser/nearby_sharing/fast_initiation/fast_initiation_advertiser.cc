@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Initiation advertiser implementation
+// summary: Implements FastInitiationAdvertiser, which registers and unregisters Bluetooth advertisements carrying the Fast Initiation service UUID and service data payload.
+// ---
+
 #include "chrome/browser/nearby_sharing/fast_initiation/fast_initiation_advertiser.h"
 
 #include <string>

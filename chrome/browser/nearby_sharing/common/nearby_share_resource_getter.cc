@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share resource getter implementation
+// summary: Implements a singleton that returns the localized Nearby Share feature name and strings with that name substituted.
+// ---
+
 #include "chrome/browser/nearby_sharing/common/nearby_share_resource_getter.h"
 
 #include "build/branding_buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share feature status logic
+// summary: Computes the Nearby Share enabled state from preferences, accounting for onboarding and policy management.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_share_feature_status.h"
 #include "chrome/browser/nearby_sharing/common/nearby_share_prefs.h"
 #include "components/prefs/pref_service.h"

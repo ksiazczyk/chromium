@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File attachment unit tests
+// summary: Tests FileAttachment creation, moving attachments to share targets, and share type mapping for image, video, audio, PDF, and Google Apps file types.
+// ---
+
 #include "chrome/browser/nearby_sharing/file_attachment.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share attachment transfer metrics logger header
+// summary: Declares AttachmentMetricLogger, a NearbySharingService observer that records structured metrics for attachment transfers.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_METRICS_ATTACHMENT_METRIC_LOGGER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_METRICS_ATTACHMENT_METRIC_LOGGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share command-line switch definitions
+// summary: Defines the Nearby Share command-line switch names for overriding certificate validity period, device ID, Google API host, and number of private certificates.
+// ---
+
 #include "chrome/browser/nearby_sharing/common/nearby_share_switches.h"
 
 namespace switches {

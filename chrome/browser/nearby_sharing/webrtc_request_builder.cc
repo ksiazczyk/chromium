@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC request builder implementation
+// summary: Builds protobuf send and receive express requests for WebRTC signaling, including request headers, IDs, client info and location hints for Nearby Share.
+// ---
+
 #include "chrome/browser/nearby_sharing/webrtc_request_builder.h"
 
 #include "base/check.h"
