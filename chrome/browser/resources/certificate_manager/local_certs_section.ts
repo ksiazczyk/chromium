@@ -8,6 +8,12 @@
  * trusted roots for TLS server auth (e.g. roots imported from the platform).
  */
 
+// ---docerion
+// type: source
+// title: Local certificates section component
+// summary: Lit element showing local modifications to the user's trusted TLS roots, with certificate counts and platform certificate toggles.
+// ---
+
 import '/strings.m.js';
 import './certificate_manager_icons.html.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';

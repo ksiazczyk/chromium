@@ -14,6 +14,12 @@
  * ./certificate_manager.ts.
  */
 
+// ---docerion
+// type: source
+// title: Certificate subpage element
+// summary: Lit element showing a certificate subpage with a title, back navigation, and one or more certificate lists.
+// ---
+
 import '/strings.m.js';
 import './certificate_list.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';

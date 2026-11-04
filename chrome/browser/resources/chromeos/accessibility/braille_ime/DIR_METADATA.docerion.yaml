@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Braille IME directory ownership and bug tracking metadata
+summary: Declares the ChromeVox accessibility component, team email, and Buganizer component IDs used for this directory.

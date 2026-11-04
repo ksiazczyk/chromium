@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks page type definitions
+// summary: Defines TypeScript interfaces for bookmark nodes, selection, search, preferences, and the overall page state used across the bookmarks UI.
+// ---
+
 import type {PermanentFolderType} from './bookmarks_api.mojom-webui.js';
 import type {DropPosition, IncognitoAvailability, MenuSource} from './constants.js';
 

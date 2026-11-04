@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the certificate viewer dialog
+summary: CSS layout and styling for the certificate viewer dialog, including the tab box, hierarchy trees, field tables and export button.
+*/
+
 /* Using 100% width within body should exclude margins. */
 html,
 body {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FaceGaze MediaPipe tests
+// summary: Browser tests verifying that the MediaPipe FaceLandmarker can be created and is available for FaceGaze.
+// ---
+
 GEN_INCLUDE(['facegaze_test_base.js']);
 
 /** FazeGaze MediaPipe tests. */

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Magnifier common metadata
+summary: Shared directory metadata declaring the OS>Accessibility>Magnifier component, accessibility team email, and Buganizer component IDs.

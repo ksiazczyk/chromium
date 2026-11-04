@@ -7,6 +7,12 @@
  * easier.
  */
 
+// ---docerion
+// type: source
+// title: Browser proxy for the certificate viewer
+// summary: TypeScript browser proxy interface and implementation for trust state and certificate constraint changes, aiding testability.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface CertMetadataChangeResult {

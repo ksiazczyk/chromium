@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.base.json.
+type: config
+title: Base TypeScript configuration for accessibility resources
+summary: Base TypeScript configuration extending the shared Chromium tsconfig, allowing JS and disabling noUncheckedIndexedAccess.

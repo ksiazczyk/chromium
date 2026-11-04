@@ -1,0 +1,4 @@
+# Docerion header of select_to_speak_manifest.json.jinja2.
+type: config
+title: Select to Speak extension manifest template
+summary: Jinja2 template that generates the Select to Speak extension manifest with permissions, icons, and Google Docs content scripts.

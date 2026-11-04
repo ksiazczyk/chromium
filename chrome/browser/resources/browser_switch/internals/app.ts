@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser Switch internals app element
+// summary: Lit-based app element for the Browser Switch internals debug page that shows ruleset and site list tables, maps rulesets to policies, and checks entered URLs against the switch rules.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_input/cr_input.js';

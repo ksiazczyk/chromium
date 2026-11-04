@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds Internals app element logic
+// summary: Lit element that binds Mojo page handlers to trigger the Finds Service, fetch history JSON, copy it, and append log messages.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 
 import {assert} from '//resources/js/assert.js';

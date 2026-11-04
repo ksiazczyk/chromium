@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS magnifier implementation
+// summary: Main Magnifier class handling screen magnifier types, focus and caret following, mouse movement, and magnifier bounds updates from preferences.
+// ---
+
 import {AutomationPredicate} from '/common/automation_predicate.js';
 import {ChromeEventHandler} from '/common/chrome_event_handler.js';
 import {EventHandler} from '/common/event_handler.js';

@@ -6,6 +6,12 @@
  * @fileoverview Unit test for the Braille IME.
  */
 
+// ---docerion
+// type: test
+// title: Braille IME unit tests
+// summary: Tests the Braille IME using mock events, ports, and local storage, running through an e2e test base with a generated test extension.
+// ---
+
 GEN_INCLUDE(['../common/testing/e2e_test_base.js']);
 
 /**

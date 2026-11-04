@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promo card HTML template
+// summary: Lit HTML template for the promo card dialog showing title, description, action button with optional avatar and a close button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PromoCardElement} from './promo_card.js';

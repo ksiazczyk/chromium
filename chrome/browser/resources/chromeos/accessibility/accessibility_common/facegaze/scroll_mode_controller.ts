@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze scroll mode controller
+// summary: Handles scroll mode, scrolling when the cursor reaches screen edges and managing the cursor control pref.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 import {PrefNames} from './constants.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze offscreen webcam
+// summary: Manages the offscreen webcam connection and FaceLandmarker setup, including mocking support for tests.
+// ---
+
 import {ArrayBufferUtil} from '/common/array_buffer_util.js';
 import type {FaceLandmarkerOptions, FaceLandmarkerResult} from '/third_party/mediapipe/vision.js';
 import {FaceLandmarker} from 'chrome-extension://egfdjlfmgnehecnclamagfafdccgfndp/accessibility_common/third_party/mediapipe_task_vision/vision_bundle.mjs';

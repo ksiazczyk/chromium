@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edit dialog Lit template
+// summary: Lit HTML template for the bookmark edit dialog, rendering name and URL inputs together with save and cancel buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {BookmarksEditDialogElement} from './edit_dialog.js';

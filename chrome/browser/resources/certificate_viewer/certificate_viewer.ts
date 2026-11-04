@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate viewer dialog logic
+// summary: Main TypeScript logic that initializes the dialog, renders certificate hierarchy and field trees, and handles export and trust metadata.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_elements/cr_tab_box/cr_tab_box.js';
 import 'chrome://resources/cr_elements/cr_tree/cr_tree.js';

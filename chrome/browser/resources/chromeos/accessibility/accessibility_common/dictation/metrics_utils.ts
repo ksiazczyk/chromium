@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation metrics utilities
+// summary: Records Chrome metrics for Dictation, covering on-device versus network speech recognition, locale, listening duration, and macro and Pumpkin outcomes.
+// ---
+
 import type {Macro} from '/common/action_fulfillment/macros/macro.js';
 
 import SpeechRecognitionType = chrome.speechRecognitionPrivate.SpeechRecognitionType;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offscreen and service worker messenger
+// summary: Wraps extension messaging between the offscreen document and the service worker and manages offscreen document creation and readiness.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 import {ExtensionUtil} from '/common/extension_util.js';
 

@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Bookmark manager private API proxy
+// summary: Interface and implementation wrapping chrome.bookmarkManagerPrivate for drag-and-drop, clipboard operations and opening bookmarks in tabs, windows or tab groups.
+// ---
+
 import type {ChromeEvent} from '/tools/typescript/definitions/chrome_event.js';
 
 export interface OpenInNewTabParams {

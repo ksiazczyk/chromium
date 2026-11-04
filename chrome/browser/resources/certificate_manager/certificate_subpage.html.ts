@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate subpage template
+// summary: Lit HTML template rendering the subpage header with back button and its configured certificate lists.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CertificateSubpageElement} from './certificate_subpage.js';

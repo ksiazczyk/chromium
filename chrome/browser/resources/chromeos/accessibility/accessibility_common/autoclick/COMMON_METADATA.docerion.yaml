@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for autoclick
+summary: Defines the owning accessibility team email and Buganizer component IDs shared by the autoclick directory.

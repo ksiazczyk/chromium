@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog focus manager for bookmark dialogs
+// summary: Manages focus restoration for modal dialogs in the bookmark manager, returning focus to the originally focused element once the last dialog closes.
+// ---
+
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 
 import type {CrDialogElement} from 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';

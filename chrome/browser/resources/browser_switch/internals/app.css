@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Browser Switch internals page styles
+summary: Stylesheet for the Browser Switch internals WebUI, covering tables, cards, tooltips and dark mode.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   line-height: 154%;

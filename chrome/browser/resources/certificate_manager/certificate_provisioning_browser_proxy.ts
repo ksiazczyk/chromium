@@ -7,6 +7,12 @@
  * certificates" section to interact with certificate provisioining processes.
  */
 
+// ---docerion
+// type: source
+// title: Certificate provisioning browser proxy
+// summary: Browser proxy used on Chrome OS to refresh, update and reset client certificate provisioning processes from the manage certificates UI.
+// ---
+
 /**
  * The 'certificate-provisioning-processes-changed' event will have an array of
  * CertificateProvisioningProcesses as its argument. This typedef is currently

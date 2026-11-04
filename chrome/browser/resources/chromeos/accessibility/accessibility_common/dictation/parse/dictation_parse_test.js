@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation parse tests
+// summary: End-to-end dictation tests verifying that the input text and simple parse strategies map spoken commands to the correct macros, including RTL locale behavior.
+// ---
+
 GEN_INCLUDE(['../dictation_test_base.js']);
 
 /** Dictation tests for speech parsing. */

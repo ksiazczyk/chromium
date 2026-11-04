@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze metrics utilities
+// summary: Records the average FaceLandmarker latency per video frame as a Chrome metrics histogram.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provisioning details dialog element
+// summary: Lit element dialog that lets the user view details of an in-progress certificate provisioning process and trigger refresh or reset.
+// ---
+
 /**
  * @fileoverview 'certificate-provisioning-details-dialog' allows the user to
  * view the details of an in-progress certificate provisioning process.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA pointing to shared accessibility metadata
+summary: Points Chromium directory metadata to the shared ash accessibility COMMON_METADATA mixins.

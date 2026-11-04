@@ -8,6 +8,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Lit CSS styles for the app element
+summary: Styles the app element with card sections, input groups, monospace log and history views, and dark mode support.
+*/
+
 :host {
   --primary-color: var(--cr-link-color);
   --border-color: var(--cr-separator-color);

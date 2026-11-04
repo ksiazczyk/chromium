@@ -7,6 +7,12 @@
  * a dialog box that displays informational or error messages to the user.
  */
 
+// ---docerion
+// type: source
+// title: Certificate info dialog component
+// summary: Lit element that displays a dialog with informational or error messages and closes it when the user clicks OK.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_dialog/cr_dialog.js';
 

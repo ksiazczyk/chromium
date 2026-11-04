@@ -8,6 +8,12 @@
  * deleting a certificate.
  */
 
+// ---docerion
+// type: source
+// title: Certificate confirmation dialog element
+// summary: Defines the certificate-confirmation-dialog Lit element showing a title and message with OK and cancel buttons for operations like deleting a certificate.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_dialog/cr_dialog.js';
 

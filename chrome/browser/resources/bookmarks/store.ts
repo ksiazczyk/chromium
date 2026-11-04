@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Singleton store for bookmarks page state
+// summary: Provides a singleton datastore for the Bookmarks page whose state is publicly readable but can only be changed by dispatching actions through the reducer.
+// ---
+
 import {Store as CrUiStore} from 'chrome://resources/js/store.js';
 
 import {reduceAction} from './reducers.js';

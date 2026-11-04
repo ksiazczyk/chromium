@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation UI tests
+// summary: End-to-end tests for the Dictation bubble UI, checking visibility, icons, interim text, and hints.
+// ---
+
 GEN_INCLUDE(['dictation_test_base.js']);
 
 /** UI tests for Dictation. */

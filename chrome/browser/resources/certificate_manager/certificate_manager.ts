@@ -8,6 +8,12 @@
  * and Chrome Cert Management Enterprise policies launch.
  */
 
+// ---docerion
+// type: source
+// title: Certificate manager main component
+// summary: Main Lit element for the new Certificate Manager UI that manages TLS certificates with navigation, dialogs, and toasts.
+// ---
+
 import '/strings.m.js';
 import './certificate_list.js';
 import './certificate_confirmation_dialog.js';

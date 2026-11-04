@@ -1,0 +1,4 @@
+# Docerion header of certificate_manager.mojom.
+type: source
+title: Certificate manager Mojo interfaces
+summary: Mojo module defining certificate sources, summary info structs, metadata, and page handler interfaces for the Certificate Manager WebUI.

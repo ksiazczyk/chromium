@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit cr-page-host-style-lit certificate-manager-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the local certificates section
+summary: CSS styles for the local certificates section, including layout for the platform certificates toggle and enterprise icon.
+*/
+
 #importOsCerts {
   margin-inline-start: auto;
 }

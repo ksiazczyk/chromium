@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Certificate entry styles
+summary: CSS for the certificate entry row, laying out the certificate name and its SHA-256 hash input field.
+*/
+
 .cert-row {
   display: flex;
   border-top: none;

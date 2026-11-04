@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze gesture handler
+// summary: Converts detected facial gestures into macros such as mouse clicks, key presses, and dictation toggles.
+// ---
+
 import {CustomCallbackMacro} from '/common/action_fulfillment/macros/custom_callback_macro.js';
 import type {KeyCombination} from '/common/action_fulfillment/macros/key_press_macro.js';
 import {KeyPressMacro} from '/common/action_fulfillment/macros/key_press_macro.js';

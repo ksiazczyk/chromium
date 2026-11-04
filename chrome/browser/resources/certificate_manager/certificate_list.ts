@@ -11,6 +11,12 @@
  * ./certificate_manager.ts.
  */
 
+// ---docerion
+// type: source
+// title: Certificate list component
+// summary: Lit element that shows a certificate list with header, expander, import and export buttons, refreshing via the browser proxy.
+// ---
+
 
 import '/strings.m.js';
 import './certificate_entry.js';

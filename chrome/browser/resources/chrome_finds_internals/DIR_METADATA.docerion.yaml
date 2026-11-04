@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA with team and bug component
+summary: Declares the owning team email and Buganizer component for the Chrome Finds Internals directory.

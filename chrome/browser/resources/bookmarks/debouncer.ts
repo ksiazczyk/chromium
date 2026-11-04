@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debouncer utility
+// summary: Utility class that fires a callback after a restartable delay, supporting timeout resets, cancellation, completion state and a promise for awaiting the callback.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks module public exports
+// summary: Barrel module re-exporting the bookmark manager's elements, actions, reducers, proxies, types and utilities for use by tests and other consumers.
+// ---
+
 import './app.js';
 
 export {CrRouter} from '//resources/js/cr_router.js';

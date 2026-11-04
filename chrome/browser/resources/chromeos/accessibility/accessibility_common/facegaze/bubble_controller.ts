@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze bubble controller
+// summary: Manages the FaceGaze status bubble text, showing active states such as paused, scroll, dictation, and warnings.
+// ---
+
 import type {KeyPressMacro} from '/common/action_fulfillment/macros/key_press_macro.js';
 import type {Macro} from '/common/action_fulfillment/macros/macro.js';
 import {ToggleDirection} from '/common/action_fulfillment/macros/macro.js';

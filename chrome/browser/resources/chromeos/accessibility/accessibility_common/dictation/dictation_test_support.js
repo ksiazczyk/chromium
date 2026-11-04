@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation C++ test support
+// summary: JavaScript helper that lets C++ Dictation browser tests wait for focus, Pumpkin tagger readiness, and editable values.
+// ---
+
 /** A class that provides test support for C++ tests. */
 class DictationTestSupport {
   constructor() {

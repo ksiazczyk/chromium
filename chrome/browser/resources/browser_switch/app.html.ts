@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser switch app Lit template
+// summary: Returns the Lit HTML template with the domain icon, title and description for the browser switch app element.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {BrowserSwitchAppElement} from './app.js';

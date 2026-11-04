@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ChromeOS resources
+summary: Owners file delegating review approval to ash WebUI platform owners and ChromeOS build owners for about_os_credits.html.

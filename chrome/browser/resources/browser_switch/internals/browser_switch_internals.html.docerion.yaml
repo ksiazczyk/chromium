@@ -1,0 +1,4 @@
+# Docerion header of browser_switch_internals.html.
+type: source
+title: Legacy Browser Support internals page
+summary: HTML entry point that loads the app element for the Legacy Browser Support (LBS) internals page.

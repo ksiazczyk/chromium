@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command manager HTML template
+// summary: Lit HTML template for the bookmarks command manager, rendering the context action menu, the edit dialog and the open confirmation dialog.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {BookmarksCommandManagerElement} from './command_manager.js';

@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit certificate-manager-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Certificate list styles
+summary: Lit styles for the certificate list, covering header buttons, list title, empty state, and subpage padding.
+*/
+
 .header-buttons {
   margin-left: auto;
 }

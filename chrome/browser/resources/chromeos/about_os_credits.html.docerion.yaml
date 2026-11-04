@@ -1,0 +1,4 @@
+# Docerion header of about_os_credits.html.
+type: source
+title: ChromeOS OS credits page
+summary: Generated placeholder credits page listing packages and shared licenses used in Google ChromeOS, produced by the chromite licensing tools when a CrOS image is built.

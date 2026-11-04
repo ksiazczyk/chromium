@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation locale information
+// summary: Provides locale-related checks for Dictation, including smart editing support, RTL locales, UI language mapping, and command support.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 /** Contains all locale-related information for Dictation. */

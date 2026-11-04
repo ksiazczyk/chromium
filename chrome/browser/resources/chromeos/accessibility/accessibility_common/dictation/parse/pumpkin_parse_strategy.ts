@@ -7,6 +7,12 @@
  * semantic parser.
  */
 
+// ---docerion
+// type: source
+// title: PumpkinParseStrategy
+// summary: Parse strategy that installs Pumpkin data, communicates with the sandboxed tagger through an offscreen document, and converts tagged speech results into macros.
+// ---
+
 import {InputController} from '/common/action_fulfillment/input_controller.js';
 import {DeletePrevSentMacro} from '/common/action_fulfillment/macros/delete_prev_sent_macro.js';
 import {InputTextViewMacro} from '/common/action_fulfillment/macros/input_text_view_macro.js';

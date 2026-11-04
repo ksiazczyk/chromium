@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate confirmation dialog Lit template
+// summary: Lit HTML template for the dialog that asks the user to confirm or cancel a certificate operation such as deletion.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CertificateConfirmationDialogElement} from './certificate_confirmation_dialog.js';

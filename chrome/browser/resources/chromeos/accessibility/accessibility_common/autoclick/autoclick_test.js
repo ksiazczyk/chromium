@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autoclick end-to-end browser tests
+// summary: Runs browser tests for the automatic clicks feature using a mocked accessibilityPrivate API to verify scrollable highlighting.
+// ---
+
 GEN_INCLUDE(['../../common/testing/e2e_test_base.js']);
 GEN_INCLUDE(['../../common/testing/mock_accessibility_private.js']);
 

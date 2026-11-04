@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks command manager element
+// summary: Element that shows context menus and handles keyboard shortcuts for bookmark commands such as edit, delete, copy, cut, paste, sort and open.
+// ---
+
 /**
  * @fileoverview Element which shows context menus and handles keyboard
  * shortcuts.

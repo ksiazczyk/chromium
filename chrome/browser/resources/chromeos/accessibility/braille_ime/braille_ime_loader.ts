@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille IME entry point and initialization
+// summary: Creates a BrailleIme instance on globalThis and initializes it as the extension's service worker entry point.
+// ---
+
 import {BrailleIme} from './braille_ime.js';
 
 /**

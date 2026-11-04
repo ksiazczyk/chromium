@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Dictation directory metadata
+summary: Directory metadata that reuses the shared dictation COMMON_METADATA settings through a mixin.

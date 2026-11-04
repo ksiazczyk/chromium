@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared certificate list styles
+summary: Lit CSS styles shared by certificate lists, matching the list frame and item styling used in settings.
+*/
+
 /* .list-frame and .list-item match the styling in settings_shared_css. */
 .list-frame {
   align-items: center;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation input controller implementation
+// summary: Handles Dictation interaction with editable input fields, managing IME listeners, surrounding text, and waiting for automation and IME events.
+// ---
+
 import type {EditableNodeData} from '/common/action_fulfillment/input_controller.js';
 import {InputController} from '/common/action_fulfillment/input_controller.js';
 import {EventHandler} from '/common/event_handler.js';

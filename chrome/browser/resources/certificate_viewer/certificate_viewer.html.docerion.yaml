@@ -1,0 +1,4 @@
+# Docerion header of certificate_viewer.html.
+type: source
+title: Certificate viewer dialog page layout
+summary: HTML page for the certificate viewer dialog with general, details and modifications tabs, i18n placeholders and accessibility roles.

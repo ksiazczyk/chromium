@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile setup portal controller
+// summary: JavaScript controller that initializes the payment portal webview from cellular device info and toggles between the portal and offline status messages based on network reachability.
+// ---
+
 cr.define('mobile', function() {
   /** @enum {number} */
   const NetworkState = {UNKNOWN: 0, PORTAL_REACHABLE: 1, PORTAL_UNREACHABLE: 2};

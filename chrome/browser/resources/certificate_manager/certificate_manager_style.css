@@ -8,6 +8,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Certificate manager styles
+summary: Shared CSS styles for the certificate manager page, defining section titles, page titles, cards and link colors.
+*/
+
 .section-title {
   color: var(--cr-primary-text-color);
   font-size: 108%;

@@ -1,0 +1,4 @@
+# Docerion header of enhanced_network_tts_manifest.json.jinja2.
+type: config
+title: Enhanced network TTS extension manifest template
+summary: Jinja2 template that generates the Enhanced Network TTS extension manifest, listing remote TTS engine voices for many languages.

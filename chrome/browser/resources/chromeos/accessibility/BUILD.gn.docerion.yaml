@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ChromeOS accessibility extensions
+summary: Defines GN build targets and manifest variants for the ChromeOS accessibility extensions, including signing keys and guest and Manifest V3 variants.

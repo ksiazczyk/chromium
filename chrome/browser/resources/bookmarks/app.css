@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit cr-scrollable-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: App layout styles
+summary: Lit CSS styles for the app shell covering the splitter, sidebar, folder tree and list layout, with platform and dark mode adjustments.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   display: flex;

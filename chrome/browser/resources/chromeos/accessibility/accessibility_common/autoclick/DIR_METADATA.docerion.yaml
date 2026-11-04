@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for autoclick
+summary: Points to COMMON_METADATA as a mixin so the directory inherits the shared ownership and Buganizer settings.

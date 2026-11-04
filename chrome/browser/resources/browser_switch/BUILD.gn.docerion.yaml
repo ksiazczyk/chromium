@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser switch WebUI build rules
+summary: GN build rules that compile the browser switch WebUI HTML, TypeScript and CSS sources into a grd resource.

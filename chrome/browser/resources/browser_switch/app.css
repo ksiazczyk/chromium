@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Browser switch app styles
+summary: Lit style CSS defining the card layout, typography and icon sizing for the browser switch app element.
+*/
+
 :host {
   background-color: var(--cr-card-background-color);
   border-radius: var(--cr-card-border-radius);

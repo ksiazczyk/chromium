@@ -1,0 +1,4 @@
+# Docerion header of bookmarks.html.
+type: source
+title: Bookmarks WebUI entry page
+summary: HTML entry page for the bookmarks WebUI that defines the document shell, dark-mode styling and loads the bookmarks app script module.

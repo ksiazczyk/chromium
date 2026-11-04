@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the certificate viewer WebUI
+summary: GN build definition that compiles the certificate viewer WebUI TypeScript, CSS, HTML and dependencies.

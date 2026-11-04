@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag-and-drop manager for bookmarks
+// summary: Implements drag-and-drop for bookmarks, tracking and normalizing drag data, validating drop targets, and coordinating drops across folders and profiles.
+// ---
+
 import './folder_node.js';
 import './item.js';
 

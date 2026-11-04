@@ -9,6 +9,12 @@
  * #include=certificate-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Certificate provisioning details dialog styles
+summary: CSS styles for the certificate provisioning details dialog, covering label, value and button box layout.
+*/
+
 .button-box {
   align-items: center;
   display: flex;

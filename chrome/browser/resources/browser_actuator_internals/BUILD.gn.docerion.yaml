@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Browser Actuator Internals WebUI
+summary: GN build configuration that assembles the WebUI target from the HTML, CSS, and TypeScript sources together with generated Mojo bindings.

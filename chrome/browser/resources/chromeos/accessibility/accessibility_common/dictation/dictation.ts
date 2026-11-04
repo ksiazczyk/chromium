@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation main class
+// summary: Main class of the ChromeOS Dictation feature, coordinating speech recognition, input, UI, focus, and preference handling.
+// ---
+
 import {Context} from '/common/action_fulfillment/context_checker.js';
 import type {Macro} from '/common/action_fulfillment/macros/macro.js';
 import {MacroName} from '/common/action_fulfillment/macros/macro_names.js';

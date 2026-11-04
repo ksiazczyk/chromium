@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Chrome app manifest
+summary: Manifest for the Chrome app that defines its name, version, icons, a placeholder launch URL that is replaced by a special case, and launcher and new-tab-page visibility settings.

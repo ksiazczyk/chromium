@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Folder node Lit template
+// summary: Lit HTML template for a folder tree node, rendering the expand arrow, folder icon, label, and nested child folders.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {BookmarksFolderNodeElement} from './folder_node.js';

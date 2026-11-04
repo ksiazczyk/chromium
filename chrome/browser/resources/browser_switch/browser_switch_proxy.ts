@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser switch browser proxy
+// summary: Interface and implementation for sending launch-in-alternative-browser and new tab page messages to the browser.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /** @interface */

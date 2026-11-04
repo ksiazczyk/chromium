@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ChromeOS resources
+summary: Directory metadata file tagging the ChromeOS browser resources folder with the CHROME_OS OS tag.

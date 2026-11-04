@@ -1,0 +1,4 @@
+# Docerion header of chromevox_manifest.json.jinja2.
+type: config
+title: ChromeVox extension manifest template
+summary: Jinja2 template that generates the ChromeVox extension manifest with Manifest V2 and V3 variants, permissions, and Google Docs content scripts.
