@@ -1,3 +1,13 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval config for code coverage swarming output validator
+# summary: Defines promptfoo evaluation cases that verify the skill extracts task digests, audits remote Swarming outputs and CAS isolates, and replays tasks locally.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - depends_on /agents/prompts/eval/experimental-code-coverage-swarming-output-validator/setup_triage_state.patch
+#   - tests /agents/skills/experimental-code-coverage-swarming-output-validator/SKILL.md
+# ---
+
 description: >-
   Verify experimental-code-coverage-swarming-output-validator extracts task
   digests, audits remote swarming outputs, audits CAS input isolates, and

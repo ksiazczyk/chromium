@@ -1,3 +1,12 @@
+# ---docerion
+# type: config
+# title: Multi-agent engineering workflow eval config
+# summary: Promptfoo evaluation config that verifies the multi-agent-engineering-workflow skill triggers orchestration, handles environment discovery, and routes between FAST_PATH and RIGOR_PATH stages.
+# relations:
+#   - tests /agents/skills/multi-agent-engineering-workflow/SKILL.md
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: >-
   Verify multi-agent-engineering-workflow skill triggers as an orchestrator,
   investigates and defines project specifications, and routes to appropriate

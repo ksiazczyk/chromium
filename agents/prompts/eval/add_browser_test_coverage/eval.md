@@ -1,3 +1,11 @@
+---
+type: reference
+title: Eval spec for WebUSB browser test generation
+summary: Specifies owners, acceptance criteria and a sample diff for the eval that generates a WebUSB open/close browser test in usb_browsertest.cc.
+relations:
+  - references /content/browser/usb/usb_browsertest.cc
+---
+
 * Owners: jonathanjlee@google.com
 * Description: Generate a browser test from a description and existing tests.
 * Git-Revision: 4ea660843265a6544c61cc262e3efbc70869c2a4

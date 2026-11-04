@@ -1,3 +1,12 @@
+---
+type: guide
+title: Agent prompt for adding a Chromium feature flag
+summary: Instructs an agent step by step on adding a base::Feature flag to Chromium, including flag definition, about:flags exposure, and verification.
+relations:
+  - references /chrome/browser/flag-metadata.json
+  - references /docs/how_to_add_your_feature_flag.md
+---
+
 # Add feature flag
 
 ### Context

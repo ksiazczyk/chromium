@@ -1,3 +1,11 @@
+---
+type: readme
+title: Prompts directory overview
+summary: Explains the agents/prompts layout and how to assemble gemini-cli system instruction prompts from common prompts and templates.
+relations:
+  - references /.gemini/commands/README.md
+---
+
 # Prompts
 
 This directory contains a common prompt for Chromium, template prompts to teach

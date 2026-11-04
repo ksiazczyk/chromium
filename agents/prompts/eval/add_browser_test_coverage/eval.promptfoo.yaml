@@ -1,3 +1,13 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval config for browser test generation
+# summary: Configures the promptfoo evaluation with a Gemini provider, file-change checks and an LLM rubric that grades the generated browser test.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - references /content/browser/usb/usb_browsertest.cc
+#   - depends_on /agents/prompts/eval/add_browser_test_coverage/prompt.md
+# ---
+
 description: Generate a browser test from a description and existing tests.
 owner: bryankim@google.com
 prompts:

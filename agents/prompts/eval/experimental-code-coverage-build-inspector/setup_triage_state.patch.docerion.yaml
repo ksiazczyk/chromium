@@ -1,0 +1,6 @@
+# Docerion header of setup_triage_state.patch.
+type: data
+title: Triage state setup patch for evals
+summary: Patch that creates a scratch triage state JSON with bug ID, target files and builders used to set up the eval environment.
+relations:
+  - references /chrome/browser/ui/color/material_new_tab_page_color_mixer.cc

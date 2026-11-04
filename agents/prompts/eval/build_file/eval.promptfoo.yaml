@@ -1,3 +1,11 @@
+# ---docerion
+# type: config
+# title: Promptfoo evaluation config for build file task
+# summary: Promptfoo evaluation that verifies the correct target is found and built for a given file, using a Gemini provider and Python assertions on generated object files.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: >
   Verify that the correct target is found and built for
   the given file.

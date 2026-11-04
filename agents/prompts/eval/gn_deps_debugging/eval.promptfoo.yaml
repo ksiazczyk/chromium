@@ -1,3 +1,13 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval config for GN dependency debugging
+# summary: Promptfoo evaluation config that verifies agent fixes for a GN dependency debugging task, using a Gemini provider and Python assertions on the changed files.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - depends_on /agents/prompts/eval/gn_deps_debugging/missing_header_dep.patch
+#   - depends_on /agents/prompts/eval/gn_deps_debugging/prompt.md
+# ---
+
 description: Verify GN dependency debugging code changes.
 owner: huangkaixiang.1124@bytedance.com
 prompts:

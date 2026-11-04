@@ -1,3 +1,11 @@
+---
+type: data
+title: Agent prompt for fixing the broken DummyTest
+summary: Prompt telling an agent to build, run with the *DummyTest* filter, and fix the failing Blink test while keeping changes minimal and not uploading the change.
+relations:
+  - references /third_party/blink/renderer/core/css/css_math_expression_node_test.cc
+---
+
 I have a broken test I need to fix called "DummyTest" in
 third_party/blink/renderer/core/css/css_math_expression_node_test.cc. The test
 is part of the blink_unittest test target in out/Default. Can you compile and

@@ -1,3 +1,11 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval for locating a Chromium class file
+# summary: Promptfoo evaluation that checks the model names the correct Chromium C++ file implementing the mojo class ax::mojom::AccessibilityService.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: >
   Verify the correct file path is provided for searching a target
   class name in the Chromium code base.

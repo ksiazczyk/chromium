@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for prompt templates
+summary: Sets per-file code owners for the prompt templates, assigning crd.md to the remoting owners and ios.md to a specific reviewer.
+relations:
+  - references /remoting/OWNERS

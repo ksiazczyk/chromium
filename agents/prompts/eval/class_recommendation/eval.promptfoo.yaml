@@ -1,3 +1,11 @@
+# ---docerion
+# type: config
+# title: Promptfoo evaluation config for class name recommendation
+# summary: Promptfoo evaluation that prompts a Gemini model to list classes managing tab-scoped dialogs and asserts the output contains the expected class names.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: Recommendation for class names from a user prompt.
 owner: erikchen@
 prompts:

@@ -1,3 +1,12 @@
+---
+type: guide
+title: Annotated template for the common prompt
+summary: Template source of common.md with HTML comments documenting the reasoning behind each agent workflow rule.
+relations:
+  - references /agents/prompts/common.minimal.md
+  - references /agents/prompts/process_prompts.py
+---
+
 <!-- Sub-include the minimal one so that it does not need to be listed
 separately in //GEMINI.md. -->
 @./common.minimal.md

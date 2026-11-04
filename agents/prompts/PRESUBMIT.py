@@ -1,6 +1,15 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit check for agents/prompts
+# summary: Presubmit script that runs process_prompts.py in check mode to fail the change when generated .md prompt files are stale.
+# relations:
+#   - depends_on /agents/prompts/process_prompts.py
+# ---
+
 """Presubmit script for agents/prompts.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

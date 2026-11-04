@@ -1,0 +1,6 @@
+# Docerion header of fake_class.patch.
+type: data
+title: Patch adding FakeSimpleClass fixture files
+summary: Patch that adds fake_simple_class.h and .cc containing a nested NestedStruct and updates base/BUILD.gn, providing the fixture code the refactor evaluation modifies.
+relations:
+  - depends_on /base/logging.h

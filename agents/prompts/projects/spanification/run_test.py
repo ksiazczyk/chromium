@@ -1,6 +1,15 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Unit tests for the spanification runner
+# summary: Unit tests for run.py covering GEMINI.md editing, GN build directory setup, deterministic checks, and reviewer verdict handling.
+# relations:
+#   - tests /agents/prompts/projects/spanification/run.py
+# ---
+
 """Unit tests for run.py"""
 
 import unittest

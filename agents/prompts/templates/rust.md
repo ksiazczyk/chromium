@@ -1,3 +1,13 @@
+---
+type: guide
+title: Instructions for working with Rust in Chromium
+summary: Agent prompt template with guidance on Rust documentation, adding new crates via gnrt-generated BUILD.gn files, and updating crates in Chromium.
+relations:
+  - references /docs/rust/README.md
+  - references /third_party/rust/README-importing-new-crates.md
+  - references /tools/crates/create_update_cl.md
+---
+
 ## Instructions for working with Rust in Chromium
 
 ### Documentation

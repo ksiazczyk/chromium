@@ -1,3 +1,11 @@
+---
+type: plan
+title: 'Prompt: adapt a LUCI builder definition'
+summary: Task prompt instructing an agent to create the win-blink-asan-rel LUCI builder modeled on linux-blink-asan-rel and regenerate LUCI configuration.
+relations:
+  - references /docs/infra/new_builder.md
+---
+
 # Adapt a LUCI builder definition
 
 Before starting the main task, read `//docs/infra/new_builder.md`.

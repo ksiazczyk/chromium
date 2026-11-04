@@ -1,3 +1,13 @@
+---
+type: guide
+title: Instructions for using Swift in Chrome for iOS
+summary: Agent prompt template covering Swift build rules, C++ interop via modulemaps, and UI programming conventions for Chrome on iOS.
+relations:
+  - references /build/config/apple/swift_source_set.gni
+  - references /base/apple/swift_interop_util.h
+  - references /ios/chrome/test/swift_interop/BUILD.gn
+---
+
 # Instructions for using the swift programming language in Chrome for iOS.
 
 ## Build rules

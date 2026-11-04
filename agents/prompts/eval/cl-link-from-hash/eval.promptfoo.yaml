@@ -1,3 +1,11 @@
+# ---docerion
+# type: config
+# title: Promptfoo evaluation config for the cl-link-from-hash skill
+# summary: Defines promptfoo test cases that verify the cl-link-from-hash skill explains how to find a Gerrit CL link for a Chromium commit hash, including the git log command and chromium-review search URLs.
+# relations:
+#   - references /agents/testing/gemini_provider.py
+# ---
+
 description: Verify the cl-link-from-hash skill correctly explains how to get a CL link from a commit hash.
 prompts:
   - "{{query}}"

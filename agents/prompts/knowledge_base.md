@@ -1,3 +1,13 @@
+---
+type: reference
+title: Chromium development knowledge base meta prompt
+summary: Agentic RAG meta prompt that maps development topics like threading, prefs, metrics and UI strings to the Chromium docs to consult.
+relations:
+  - references /docs/threading_and_tasks.md
+  - references /docs/callback.md
+  - references /docs/imported/gn/style_guide.md
+---
+
 # Chromium Development Assistant - Meta Prompt
 
 This document contains Agentic RAG (Retrieval-Augmented Generation) guidance.

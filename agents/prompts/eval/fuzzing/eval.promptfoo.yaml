@@ -1,3 +1,13 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval config for SchemefulSite fuzz test task
+# summary: Defines a promptfoo evaluation that prompts an agent to write a fuzz test for schemeful_site_mojom_traits.cc and asserts the expected file changes, build steps, and tool usage.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - references /services/network/public/cpp/schemeful_site_mojom_traits.cc
+#   - references /services/BUILD.gn
+# ---
+
 description: Add a FUZZ_TEST for services/network/public/cpp/schemeful_site_mojom_traits.cc
 owner: jtoohill@google.com
 prompts:

@@ -1,3 +1,12 @@
+# ---docerion
+# type: config
+# title: Promptfoo evaluation config for feature flag addition
+# summary: Configures a promptfoo evaluation that runs the feature flag prompt through a Gemini provider and checks changed files, build success, and LLM rubric scoring.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - depends_on /agents/prompts/eval/feature_flags_add/eval_prompt.md
+# ---
+
 description: Add a feature flag to the Chrome binary.
 owner: wenyufu@chromium.org
 prompts:

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Desktop Chrome instructions
+summary: Agent prompt for desktop Chrome covering required design docs, typical build targets, running tests under Xvfb on Linux, and pixel test commands on Windows.
+relations:
+  - references /docs/chrome_browser_design_principles.md
+  - references /docs/ui/views/overview.md
+  - references /testing/xvfb.py
+---
+
 # Desktop Chrome Instructions
 
 Instructions that are relevant when targeting desktop platforms (when

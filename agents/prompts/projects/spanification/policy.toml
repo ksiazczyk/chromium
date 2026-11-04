@@ -1,3 +1,11 @@
+# ---docerion
+# type: config
+# title: Gemini CLI tool policy for spanification
+# summary: TOML policy allowing required tools and shell commands while denying grep and any unlisted commands during Gemini runs.
+# relations:
+#   - references /tools/autotest.py
+# ---
+
 # 1. Allow standard built-in and investigation tools
 [[rule]]
 toolName = [

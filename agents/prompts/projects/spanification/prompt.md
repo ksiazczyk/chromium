@@ -1,3 +1,11 @@
+---
+type: reference
+title: LLM prompt for fixing unsafe buffer usage
+summary: Task prompt directing Gemini to remove unsafe buffer opt-outs and refactor C++ code into safe, idiomatic span-based Chromium patterns.
+relations:
+  - references /tools/autotest.py
+---
+
 # LLM Prompt: Fix Unsafe Buffer Usage in Chromium
 
 **Role:** You are an expert C++ developer, specializing in memory safety and

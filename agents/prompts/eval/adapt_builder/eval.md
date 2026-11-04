@@ -1,3 +1,13 @@
+---
+type: note
+title: Eval result for adapting a LUCI builder definition
+summary: Records the outcome of the adapt_builder evaluation, listing modified and generated LUCI config files plus sample diffs for the new win-blink-asan-rel builder.
+relations:
+  - references /infra/config/generated/builder-owners/chrome-sanitizer-builder-owners@google.com.txt
+  - references /infra/config/generated/builders/gn_args_locations.json
+  - references /infra/config/generated/cq-usage/mega_cq_bots.txt
+---
+
 * Owners: jonathanjlee@google.com
 * Description: Define a LUCI builder in Starlark using an existing builder as a
   guide.

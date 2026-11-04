@@ -1,0 +1,4 @@
+# Docerion header of process_prompts.py.
+type: script
+title: Prompt template processor
+summary: Generates .md prompt files from .tmpl.md templates by removing HTML comments, with a --check mode that reports stale outputs.

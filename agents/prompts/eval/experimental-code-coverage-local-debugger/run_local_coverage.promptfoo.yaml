@@ -1,3 +1,13 @@
+# ---docerion
+# type: test
+# title: Run local coverage eval for experimental-code-coverage-local-debugger skill
+# summary: Promptfoo eval checking that the skill compiles the target binary and runs rapid local coverage via run_local_coverage.py with --binary and --source flags.
+# relations:
+#   - references /tools/code_coverage/run_local_coverage.py
+#   - depends_on /agents/testing/gemini_provider.py
+#   - depends_on /agents/prompts/eval/experimental-code-coverage-local-debugger/setup_triage_state.patch
+# ---
+
 description: >-
   Verify experimental-code-coverage-local-debugger skill compiles target test
   binary and runs rapid local coverage via run_local_coverage.py.

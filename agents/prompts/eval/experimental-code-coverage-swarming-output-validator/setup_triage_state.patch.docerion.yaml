@@ -1,0 +1,4 @@
+# Docerion header of setup_triage_state.patch.
+type: data
+title: Patch setting up the triage state fixture
+summary: Creates scratch/triage_state.json with the bug ID, target files, builders, test suites, and control build used to initialize the eval scenario.

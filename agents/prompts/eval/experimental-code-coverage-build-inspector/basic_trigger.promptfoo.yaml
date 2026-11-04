@@ -1,3 +1,13 @@
+# ---docerion
+# type: test
+# title: Basic trigger eval for code coverage build inspector
+# summary: Promptfoo eval verifying the skill triggers build inspection via inspect_coverage_build.py for a LUCI coverage build.
+# relations:
+#   - references /tools/code_coverage/inspect_coverage_build.py
+#   - depends_on /agents/testing/gemini_provider.py
+#   - depends_on /agents/prompts/eval/experimental-code-coverage-build-inspector/setup_triage_state.patch
+# ---
+
 description: >-
   Verify experimental-code-coverage-build-inspector skill triggers build
   inspection via inspect_coverage_build.py.

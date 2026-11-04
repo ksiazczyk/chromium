@@ -1,3 +1,13 @@
+# ---docerion
+# type: config
+# title: Promptfoo evaluation config for fixing a broken test
+# summary: Promptfoo configuration that applies the broken test patch, runs the fix_broken_test prompt through a Gemini provider, and asserts the DummyTest passes in blink_unittests.
+# relations:
+#   - references /agents/testing/gemini_provider.py
+#   - references /agents/prompts/eval/fix_broken_test/broken_test.patch
+#   - references /agents/prompts/eval/fix_broken_test/prompt.md
+# ---
+
 description: |
   Fix a broken DummyTest
 prompts:

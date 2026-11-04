@@ -1,3 +1,12 @@
+---
+type: guide
+title: Chrome for iOS instructions
+summary: Agent prompt for Chrome on iOS covering Objective-C++ file naming, output directories, build targets, and scripts for running unit and EG tests.
+relations:
+  - references /ios/tools/run_unittests.py
+  - references /ios/tools/run_egtests.py
+---
+
 # Chrome for iOS Instructions
 
 You are building specifically for **Chrome for iOS**. Most of the time your

@@ -1,3 +1,12 @@
+# ---docerion
+# type: config
+# title: Multi-agent-skill-trainer promptfoo evaluation config
+# summary: Defines promptfoo test cases verifying that the multi-agent-skill-trainer skill triggers correctly and covers Analyzer/Upgrader roles, training report output, verification gates, and training path selection.
+# relations:
+#   - tests /agents/skills/multi-agent-skill-trainer/SKILL.md
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: >-
   Verify multi-agent-skill-trainer skill triggers correctly for training and
   upgrading skills, using Analyzer and Upgrader roles.

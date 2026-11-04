@@ -1,3 +1,9 @@
+---
+type: guide
+title: JJ (Jujutsu) instructions
+summary: Agent prompt with brief Jujutsu instructions for starting and describing changes, viewing diffs, and finding the jj CLI reference documentation.
+---
+
 ## JJ Instructions
 
 ### CLI Reference

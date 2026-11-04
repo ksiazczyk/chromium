@@ -1,3 +1,13 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval config for find_implementation_file
+# summary: Promptfoo evaluation config that tests whether the agent can find the implementation file of a given header, asserting the answer contains the matching .cc path.
+# relations:
+#   - references /chrome/browser/ui/views/tabs/tab.h
+#   - depends_on /agents/testing/gemini_provider.py
+#   - references /chrome/browser/ui/views/tabs/tab.cc
+# ---
+
 description: Find the implementation of a header file.
 owner: dmurph@
 prompts:

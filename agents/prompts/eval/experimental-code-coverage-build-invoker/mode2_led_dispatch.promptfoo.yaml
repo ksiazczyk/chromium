@@ -1,3 +1,12 @@
+# ---docerion
+# type: test
+# title: 'Mode 2 eval: LED recipe and source CL dispatch'
+# summary: Promptfoo evaluation verifying the skill packages uncommitted recipe modifications with a source-side Gerrit CL using led get-builder, edit-recipe-bundle, edit-gerrit-cl, and launch mocks.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - depends_on /agents/prompts/eval/experimental-code-coverage-build-invoker/setup_triage_state.patch
+# ---
+
 description: >-
   Verify experimental-code-coverage-build-invoker skill packages uncommitted
   recipe modifications alongside source-side Gerrit CL using LED.

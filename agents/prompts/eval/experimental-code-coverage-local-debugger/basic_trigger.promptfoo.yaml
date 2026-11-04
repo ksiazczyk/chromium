@@ -1,3 +1,13 @@
+# ---docerion
+# type: test
+# title: Basic trigger eval for experimental-code-coverage-local-debugger skill
+# summary: Promptfoo eval verifying the skill invokes local UTR or run_local_coverage.py when local code coverage debugging is requested, with mocked vpython3 commands.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - depends_on /agents/prompts/eval/experimental-code-coverage-local-debugger/setup_triage_state.patch
+#   - references /tools/utr/run.py
+# ---
+
 description: >-
   Verify experimental-code-coverage-local-debugger skill triggers local UTR
   or coverage helper scripts when local code coverage debugging is requested.
