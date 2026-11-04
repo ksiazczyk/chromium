@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestOsSessionTracker class header
+// summary: Declares GuestOsSessionTracker, a keyed service that tracks running guest VMs and containers via Concierge and Cicerone signals and exposes lifecycle callbacks and guest info.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_SESSION_TRACKER_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_SESSION_TRACKER_H_
 

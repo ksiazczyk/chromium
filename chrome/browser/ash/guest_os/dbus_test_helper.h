@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake D-Bus client helper declarations
+// summary: Declares helpers that let test fixtures initialize fake VM D-Bus services and access the fakes with minimal boilerplate.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_DBUS_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_DBUS_TEST_HELPER_H_
 

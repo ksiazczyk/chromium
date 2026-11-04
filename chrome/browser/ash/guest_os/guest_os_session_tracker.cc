@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS session tracker implementation
+// summary: Tracks running guest OS VMs and containers by observing Concierge and Cicerone clients and exposing GuestInfo such as CID, IP address, and SFTP port.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_session_tracker.h"
 
 #include <memory>

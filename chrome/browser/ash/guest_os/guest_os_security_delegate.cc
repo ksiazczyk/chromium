@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS security delegate implementation
+// summary: Implements the guest OS Wayland security delegate that denies remote shell, restore info, and system modal access and reports the VM name.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_security_delegate.h"
 
 #include "base/functional/bind.h"

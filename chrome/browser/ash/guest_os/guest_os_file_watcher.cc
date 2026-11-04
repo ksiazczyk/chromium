@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS file watcher implementation
+// summary: Implements GuestOsFileWatcher, which watches shared files inside a guest VM via the Cicerone D-Bus service and forwards change signals to host callbacks.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_file_watcher.h"
 
 #include "base/functional/callback_helpers.h"

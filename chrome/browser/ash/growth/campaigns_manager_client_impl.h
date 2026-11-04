@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns manager client header
+// summary: Declares CampaignsManagerClientImpl, which provides locale, country, demo mode and component loading support to the growth campaigns manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GROWTH_CAMPAIGNS_MANAGER_CLIENT_IMPL_H_
 #define CHROME_BROWSER_ASH_GROWTH_CAMPAIGNS_MANAGER_CLIENT_IMPL_H_
 

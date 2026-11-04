@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open URL action performer header
+// summary: Declares OpenUrlActionPerformer, the growth framework action performer that opens a URL from campaign parameters.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GROWTH_OPEN_URL_ACTION_PERFORMER_H_
 #define CHROME_BROWSER_ASH_GROWTH_OPEN_URL_ACTION_PERFORMER_H_
 

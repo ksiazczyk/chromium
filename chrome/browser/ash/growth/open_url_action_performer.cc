@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open URL action performer implementation
+// summary: Implements the growth campaign open URL action, parsing URL and disposition parameters and opening the URL through the Ash new window delegate.
+// ---
+
 #include "chrome/browser/ash/growth/open_url_action_performer.h"
 
 #include <memory>

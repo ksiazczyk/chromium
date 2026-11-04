@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the HaTS notification controller
+// summary: Tests survey notification behavior across prioritized and non-prioritized HaTS scenarios, including cooldowns, product-specific data, and site context formatting.
+// ---
+
 #include "chrome/browser/ash/hats/hats_notification_controller.h"
 
 #include <memory>

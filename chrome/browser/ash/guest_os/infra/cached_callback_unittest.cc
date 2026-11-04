@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CachedCallback unit tests
+// summary: GTest suite covering initial state, success and failure propagation, object reuse after invalidation, and queueing of delayed callbacks.
+// ---
+
 #include "chrome/browser/ash/guest_os/infra/cached_callback.h"
 
 #include <atomic>

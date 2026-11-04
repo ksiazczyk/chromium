@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestOsSharePathFactory implementation
+// summary: Implements the profile-keyed factory that creates GuestOsSharePath instances, depending on Crostini, volume manager and Drive integration services.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_share_path_factory.h"
 
 #include "base/no_destructor.h"

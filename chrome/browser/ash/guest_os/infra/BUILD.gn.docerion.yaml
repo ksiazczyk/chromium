@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Guest OS infra build targets
+summary: GN build file defining the infra static library around cached_callback.h and the unit_tests source set with its test dependencies.

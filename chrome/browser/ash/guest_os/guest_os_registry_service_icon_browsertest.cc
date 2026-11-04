@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS registry service icon browser test
+// summary: Browser test that loads guest OS app icons through the registry service and validates compressed and SVG icon output using fake DBus clients.
+// ---
+
 #include <stddef.h>
 
 #include "base/check_deref.h"

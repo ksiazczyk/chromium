@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Campaigns manager client unit tests
+// summary: Unit tests for CampaignsManagerClientImpl covering component loading, impressions, dismissals and button press structured metrics.
+// ---
+
 #include <memory>
 #include <optional>
 

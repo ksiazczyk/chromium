@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS launcher API
+// summary: Declares the guest OS launcher functions for ensuring a VM is running and launching registered applications with success and failure callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_LAUNCHER_H_
 

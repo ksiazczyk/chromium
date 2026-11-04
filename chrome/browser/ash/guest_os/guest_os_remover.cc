@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS remover implementation
+// summary: Implements guest OS removal by stopping the VM, clearing registry and MIME type data, destroying the disk image, and resetting VM-specific preferences.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_remover.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HatsDialog unit tests
+// summary: Tests HatsDialog client action handling and answer parsing, verifying the expected UMA histogram samples for each survey workflow.
+// ---
+
 #include "chrome/browser/ash/hats/hats_dialog.h"
 
 #include <string>

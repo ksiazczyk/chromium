@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the HaTS directory
+summary: Directory metadata assigning Buganizer component 1032704 and the chromeos-hats team email for issue routing.

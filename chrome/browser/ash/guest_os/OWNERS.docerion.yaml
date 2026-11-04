@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Guest OS directory owners
+summary: Lists the code owners for the directory and routes .mojom files to the IPC security owners.

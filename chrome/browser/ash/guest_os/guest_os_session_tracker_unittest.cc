@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GuestOsSessionTracker unit tests
+// summary: Unit tests for GuestOsSessionTracker covering container registration on startup, removal on shutdown, and token lookup using fake Concierge and Cicerone clients.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_session_tracker.h"
 
 #include <optional>

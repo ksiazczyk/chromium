@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS preference registration
+// summary: Registers guest OS profile preferences for shared paths, MIME types, app registry, containers, terminal settings, and USB passthrough.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_pref_names.h"
 
 #include "components/pref_registry/pref_registry_syncable.h"

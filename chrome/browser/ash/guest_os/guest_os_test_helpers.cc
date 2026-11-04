@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS test helpers implementation
+// summary: Implements MockMountProvider, a test double for GuestOsMountProvider that returns fixed mount and container data.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_test_helpers.h"
 
 #include "chrome/browser/ash/crostini/crostini_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiActionPerformer implementation for campaign UI actions
+// summary: Implements the base action performer for showing UI elements such as nudges and notifications, notifying observers of impressions, dismissals and button presses.
+// ---
+
 #include "chrome/browser/ash/growth/ui_action_performer.h"
 
 #include "chrome/browser/ash/growth/metrics.h"

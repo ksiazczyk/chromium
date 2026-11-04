@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS file watcher unit tests
+// summary: Unit tests for GuestOsFileWatcher verifying watches are not triggered for mismatched owners or VMs and that the full watch lifecycle works.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_file_watcher.h"
 
 #include <memory>

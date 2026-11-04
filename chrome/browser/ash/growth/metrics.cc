@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Growth campaigns metrics implementation
+// summary: Records sparse histograms and structured CrOS events for campaign UI impressions, dismissals, and button presses.
+// ---
+
 #include "chrome/browser/ash/growth/metrics.h"
 
 #include "ash/constants/ash_features.h"

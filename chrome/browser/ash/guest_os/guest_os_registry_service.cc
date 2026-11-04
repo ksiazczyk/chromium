@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS registry service implementation
+// summary: Implements the registry service tracking installed guest OS applications, including icons, locale handling, and app launching by VM type.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_registry_service.h"
 
 #include <string>

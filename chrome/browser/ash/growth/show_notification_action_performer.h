@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Show notification action performer header
+// summary: Declares ShowNotificationActionPerformer and a notification delegate that invokes callbacks when a campaign notification is clicked or closed.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GROWTH_SHOW_NOTIFICATION_ACTION_PERFORMER_H_
 #define CHROME_BROWSER_ASH_GROWTH_SHOW_NOTIFICATION_ACTION_PERFORMER_H_
 

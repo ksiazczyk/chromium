@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the HaTS Finch helper
+// summary: Tests HatsFinchHelper handling of valid and invalid Finch parameters, survey cycle end date computation, and device selection per cycle.
+// ---
+
 #include "chrome/browser/ash/hats/hats_finch_helper.h"
 
 #include <map>

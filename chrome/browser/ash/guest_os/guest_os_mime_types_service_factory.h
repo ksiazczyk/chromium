@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS MIME types service factory header
+// summary: Declares the factory giving per-profile access to the GuestOsMimeTypesService keyed service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_MIME_TYPES_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_MIME_TYPES_SERVICE_FACTORY_H_
 

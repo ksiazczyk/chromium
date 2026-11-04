@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestOsSharePath class header
+// summary: Declares GuestOsSharePath, the keyed service that manages sharing host paths with guest VMs through seneschal and notifies observers of unshare events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_SHARE_PATH_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_SHARE_PATH_H_
 

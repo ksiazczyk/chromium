@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock UI performer observer
+// summary: Googlemock implementation of UiActionPerformer::Observer used to verify impression, dismissal and button-press callbacks in growth campaign tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GROWTH_MOCK_UI_PERFORMER_OBSERVER_H_
 #define CHROME_BROWSER_ASH_GROWTH_MOCK_UI_PERFORMER_OBSERVER_H_
 

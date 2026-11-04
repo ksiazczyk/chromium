@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for HaTS
+summary: Defines the HaTS static library sources and dependencies plus the unit test source set for the ChromeOS happiness tracking surveys.

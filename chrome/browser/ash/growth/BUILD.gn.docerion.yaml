@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Growth campaigns BUILD.gn build definition
+summary: Defines the growth static library and unit test source set with their sources and dependencies for the ChromeOS growth campaigns code.

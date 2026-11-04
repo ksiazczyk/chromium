@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UpdateUserPrefActionPerformer unit tests
+// summary: Unit tests for the update user preference action performer, covering set, clear, append and remove pref operations using testing profiles and fake user manager.
+// ---
+
 #include "chrome/browser/ash/growth/update_user_pref_action_performer.h"
 
 #include <memory>

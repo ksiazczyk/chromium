@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS MIME types service header
+// summary: Declares GuestOsMimeTypesService, a keyed service managing per-VM and container MIME type mappings persisted in preferences.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_MIME_TYPES_SERVICE_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_MIME_TYPES_SERVICE_H_
 

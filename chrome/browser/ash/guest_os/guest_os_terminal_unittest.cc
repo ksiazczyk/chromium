@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS terminal unit tests
+// summary: Unit tests for terminal URL generation, SSH shortcut IDs, container shortcut handling, and SSH connection listing.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_terminal.h"
 
 #include "base/json/json_reader.h"

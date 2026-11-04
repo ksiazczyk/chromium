@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiActionPerformer class and observer interface
+// summary: Declares the UiActionPerformer base class and its observer interface for growth campaign UI events like impressions, dismissals and button presses.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GROWTH_UI_ACTION_PERFORMER_H_
 #define CHROME_BROWSER_ASH_GROWTH_UI_ACTION_PERFORMER_H_
 

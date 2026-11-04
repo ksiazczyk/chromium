@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns manager client implementation
+// summary: Implements the browser-side campaigns manager client that loads the growth campaigns component and handles events, metrics and UI actions.
+// ---
+
 #include "chrome/browser/ash/growth/campaigns_manager_client_impl.h"
 
 #include <map>

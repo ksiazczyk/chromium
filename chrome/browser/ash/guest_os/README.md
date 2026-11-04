@@ -1,3 +1,9 @@
+---
+type: readme
+title: Guest OS
+summary: Describes the directory as shared code for Chrome OS guest VMs and containers and links to VM-specific code such as Crostini.
+---
+
 # Guest OS
 
 This directory contains code to interact with Chrome OS guest

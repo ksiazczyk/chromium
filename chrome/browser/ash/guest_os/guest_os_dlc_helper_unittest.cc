@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS DLC installation unit tests
+// summary: Unit tests for GuestOsDlcInstallation covering success, already-installed and installing states, retries on busy or internal errors, and giving up after max retries.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_dlc_helper.h"
 
 #include "base/functional/callback_helpers.h"

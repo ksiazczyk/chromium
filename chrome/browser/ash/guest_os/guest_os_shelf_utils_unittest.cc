@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS shelf utilities unit tests
+// summary: Unit tests for shelf app ID resolution, covering registry matching, Wayland and X11 window IDs, and unregistered app IDs.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_shelf_utils.h"
 
 #include <iterator>

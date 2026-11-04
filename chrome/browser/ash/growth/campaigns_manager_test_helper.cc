@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CampaignsManagerTestHelper implementation
+// summary: Implements the test helper that initializes and shuts down CampaignsManagerClientImpl with fake metrics, variations, and component manager dependencies.
+// ---
+
 #include "chrome/browser/ash/growth/campaigns_manager_test_helper.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateUserPrefActionPerformer class declaration
+// summary: Declares the action performer that runs update user preference actions for growth campaigns.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GROWTH_UPDATE_USER_PREF_ACTION_PERFORMER_H_
 #define CHROME_BROWSER_ASH_GROWTH_UPDATE_USER_PREF_ACTION_PERFORMER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HaTS survey configuration definitions
+// summary: Defines HatsConfig instances for each ChromeOS HaTS survey, pairing features, device thresholds and preference names for general, stability, performance, audio and other surveys.
+// ---
+
 #include "chrome/browser/ash/hats/hats_config.h"
 
 #include "ash/constants/ash_features.h"

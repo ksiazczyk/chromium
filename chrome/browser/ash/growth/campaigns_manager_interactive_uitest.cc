@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Campaigns manager interactive UI tests
+// summary: Interactive Ash UI tests that verify nudge and notification campaigns, including shelf and app window anchoring behavior.
+// ---
+
 #include <cassert>
 #include <string>
 

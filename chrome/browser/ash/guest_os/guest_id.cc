@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestId implementation
+// summary: Implements the GuestId struct with serialization, comparison, and helpers for storing and matching containers in preferences.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_id.h"
 
 #include <algorithm>

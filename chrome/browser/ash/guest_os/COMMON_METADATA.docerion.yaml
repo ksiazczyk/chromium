@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Guest OS common directory metadata
+summary: Maps the Guest OS directory to Buganizer components and records the owning team email address.

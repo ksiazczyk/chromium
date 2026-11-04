@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GuestOsSharePath unit tests
+// summary: Unit tests for GuestOsSharePath covering path sharing, persistence and unshare behavior with fake D-Bus, disk mount and volume manager services.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_share_path.h"
 
 #include "ash/constants/ash_features.h"

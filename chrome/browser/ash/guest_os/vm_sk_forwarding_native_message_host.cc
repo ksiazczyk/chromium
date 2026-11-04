@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key forwarding native message host implementation
+// summary: Implements a native messaging host that forwards one-off security key messages from Chrome or D-Bus to a Chrome extension and returns the extension's response.
+// ---
+
 #include "chrome/browser/ash/guest_os/vm_sk_forwarding_native_message_host.h"
 
 #include <utility>

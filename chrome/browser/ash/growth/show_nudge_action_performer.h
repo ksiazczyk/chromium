@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Show nudge action performer header
+// summary: Declares ShowNudgeActionPerformer, which shows anchored nudges for growth campaigns and observes widget visibility and activation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GROWTH_SHOW_NUDGE_ACTION_PERFORMER_H_
 #define CHROME_BROWSER_ASH_GROWTH_SHOW_NUDGE_ACTION_PERFORMER_H_
 

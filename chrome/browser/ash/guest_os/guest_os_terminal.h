@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS terminal header
+// summary: Declares terminal launch and URL generation helpers plus the TerminalSetting enum of user-modifiable terminal settings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_TERMINAL_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_TERMINAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns manager session header
+// summary: Declares CampaignsManagerSession, which tracks session state and app open context to conditionally trigger proactive growth campaigns.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GROWTH_CAMPAIGNS_MANAGER_SESSION_H_
 #define CHROME_BROWSER_ASH_GROWTH_CAMPAIGNS_MANAGER_SESSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CampaignsManagerSessionTabHelper header
+// summary: Declares CampaignsManagerSessionTabHelper, a WebContentsObserver that reacts to primary page changes for growth campaign sessions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GROWTH_CAMPAIGNS_MANAGER_SESSION_TAB_HELPER_H_
 #define CHROME_BROWSER_ASH_GROWTH_CAMPAIGNS_MANAGER_SESSION_TAB_HELPER_H_
 

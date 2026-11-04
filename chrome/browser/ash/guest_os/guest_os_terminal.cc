@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS terminal implementation
+// summary: Implements launching the Terminal system web app, including terminal URL generation, shortcut IDs, SSH connections, and menu items for guest OS containers.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_terminal.h"
 
 #include <string_view>

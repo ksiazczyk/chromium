@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key forwarding native message host declarations
+// summary: Declares the native message host class for one-off security key request-response exchanges with a Chrome extension, including factory methods for extension and D-Bus initiation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_VM_SK_FORWARDING_NATIVE_MESSAGE_HOST_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_VM_SK_FORWARDING_NATIVE_MESSAGE_HOST_H_
 

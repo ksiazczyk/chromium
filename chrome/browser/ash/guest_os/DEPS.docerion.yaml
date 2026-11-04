@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Guest OS include dependency rules
+summary: Specifies allowed include dependencies for the directory, with special rules for individual unittest files.

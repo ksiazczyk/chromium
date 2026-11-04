@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the guest_os static library
+summary: Defines the guest_os static library sources, dependencies, and circular include allowances for Chrome OS guest VM support.

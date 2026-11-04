@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns manager session tab helper
+// summary: WebContents observer that forwards primary page change notifications to the campaigns manager session.
+// ---
+
 #include "chrome/browser/ash/growth/campaigns_manager_session_tab_helper.h"
 
 #include <optional>

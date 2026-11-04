@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Show notification action performer unit tests
+// summary: Unit tests verifying notification display and click and close handling for the show notification action performer.
+// ---
+
 #include "chrome/browser/ash/growth/show_notification_action_performer.h"
 
 #include <memory>

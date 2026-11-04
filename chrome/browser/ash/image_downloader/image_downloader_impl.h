@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageDownloaderImpl class declaration
+// summary: Declares ImageDownloaderImpl, the ash::ImageDownloader implementation that downloads images for the active user profile and returns a null image when no active user exists.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_IMAGE_DOWNLOADER_IMAGE_DOWNLOADER_IMPL_H_
 #define CHROME_BROWSER_ASH_IMAGE_DOWNLOADER_IMAGE_DOWNLOADER_IMPL_H_
 
