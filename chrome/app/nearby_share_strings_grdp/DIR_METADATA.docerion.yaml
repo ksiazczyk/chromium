@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Nearby Share strings directory metadata
+summary: Chromium DIR_METADATA assigning the Nearby Share strings to Buganizer component 1131838 and the ChromeOS cross-device engineering team.

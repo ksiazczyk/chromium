@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for nearby_share_strings_grdp
+summary: Defines code ownership for this directory by pointing to chrome/browser/nearby_sharing/OWNERS.

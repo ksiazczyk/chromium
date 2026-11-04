@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Media Router strings directory metadata
+summary: Declares the Internals>Cast>UI monorail component and Buganizer component 1456910 for this directory.

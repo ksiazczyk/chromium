@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for media live preview strings
+summary: Delegates ownership of this directory to chrome/browser/ui/views/media_preview/OWNERS.

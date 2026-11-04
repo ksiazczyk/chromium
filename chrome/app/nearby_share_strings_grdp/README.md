@@ -1,3 +1,9 @@
+---
+type: readme
+title: Nearby Share Strings Context Images README
+summary: Explains that the directory stores SHA-1 hashes of context screenshots used to help translators translate Nearby Share UI strings, with a link to translation instructions.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 
