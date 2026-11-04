@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu manager test observer implementation
+// summary: Test helper that observes MenuManager storage reads and writes and waits for a given extension's menus to load.
+// ---
+
 #include "chrome/browser/extensions/menu_manager_test_observer.h"
 
 #include "content/public/browser/browser_thread.h"

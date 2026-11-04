@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CRX installer
+// summary: Declares a gmock-based CrxInstaller subclass that lets tests mock CRX installation and installer callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_MOCK_CRX_INSTALLER_H_
 #define CHROME_BROWSER_EXTENSIONS_MOCK_CRX_INSTALLER_H_
 

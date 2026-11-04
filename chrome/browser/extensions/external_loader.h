@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalLoader base class declaration
+// summary: Declares the ref-counted base class for loaders that gather external extension lists from sources such as registry, JSON files, or policy.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTERNAL_LOADER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTERNAL_LOADER_H_
 

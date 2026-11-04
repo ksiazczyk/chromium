@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin manager
+// summary: Registers and unregisters internal browser plugins for extensions with MIME type handlers as extensions load and unload.
+// ---
+
 #include "chrome/browser/extensions/plugin_manager.h"
 
 #include "base/files/file_path.h"

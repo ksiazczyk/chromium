@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wasm Chrome App browser tests
+// summary: Browser tests verifying that WebAssembly modules can be instantiated from fetch and from ArrayBuffer in Chrome Apps.
+// ---
+
 #include "chrome/browser/extensions/extension_browsertest.h"
 #include "content/public/test/browser_test.h"
 

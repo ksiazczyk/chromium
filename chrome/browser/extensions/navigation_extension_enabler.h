@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation extension enabler class declaration
+// summary: Declares NavigationExtensionEnabler, a WebContentsObserver that prompts to re-enable permission-escalated disabled extensions on navigation.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_NAVIGATION_EXTENSION_ENABLER_H_
 #define CHROME_BROWSER_EXTENSIONS_NAVIGATION_EXTENSION_ENABLER_H_
 

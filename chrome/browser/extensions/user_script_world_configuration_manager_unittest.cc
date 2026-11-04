@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User script world configuration manager unit tests
+// summary: Unit tests for UserScriptWorldConfigurationManager, checking that user script world configurations are cleared on extension update.
+// ---
+
 #include "extensions/browser/user_script_world_configuration_manager.h"
 
 #include "base/strings/stringprintf.h"

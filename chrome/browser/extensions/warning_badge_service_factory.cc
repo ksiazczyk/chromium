@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Warning badge service factory implementation
+// summary: Implements the profile-keyed service factory that creates WarningBadgeService instances for browser contexts.
+// ---
+
 #include "chrome/browser/extensions/warning_badge_service_factory.h"
 
 #include "chrome/browser/extensions/warning_badge_service.h"

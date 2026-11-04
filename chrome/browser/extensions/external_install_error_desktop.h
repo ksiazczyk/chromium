@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop external install error header
+// summary: Declares ExternalInstallErrorDesktop, which fetches webstore data and registers global errors to prompt users about externally installed extensions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTERNAL_INSTALL_ERROR_DESKTOP_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTERNAL_INSTALL_ERROR_DESKTOP_H_
 

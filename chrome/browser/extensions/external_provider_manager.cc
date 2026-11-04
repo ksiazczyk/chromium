@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalProviderManager implementation
+// summary: Implements the keyed service that manages the set of external extension providers and installs, updates, or uninstalls the extensions they provide.
+// ---
+
 #include "chrome/browser/extensions/external_provider_manager.h"
 
 #include <cstddef>

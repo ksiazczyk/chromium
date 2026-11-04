@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup helper implementation for extension packing and validation
+// summary: Implements StartupHelper routines that pack extensions into CRX files and validate CRX archives from command-line switches.
+// ---
+
 #include "chrome/browser/extensions/startup_helper.h"
 
 #include "base/command_line.h"

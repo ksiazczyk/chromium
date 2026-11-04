@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExternalProviderImpl unit tests
+// summary: Unit tests for ExternalProviderImpl covering external extension installation from files and update URLs, policy-driven installs, and provider update handling.
+// ---
+
 #include "chrome/browser/extensions/external_provider_impl.h"
 
 #include <memory>

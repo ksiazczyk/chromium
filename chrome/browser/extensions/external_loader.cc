@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalLoader base class implementation
+// summary: Implements the base class that hands loaded external extension preferences and updates to the owning external extension provider.
+// ---
+
 #include "chrome/browser/extensions/external_loader.h"
 
 #include "base/check_op.h"

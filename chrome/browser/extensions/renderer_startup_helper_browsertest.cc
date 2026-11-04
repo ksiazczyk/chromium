@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer startup helper browser tests
+// summary: Browser tests verifying extension renderer process initialization when the kInitialWebUIWithoutExtensions optimization loads a top-chrome WebUI without extensions.
+// ---
+
 #include "extensions/browser/renderer_startup_helper.h"
 
 #include "base/test/scoped_feature_list.h"

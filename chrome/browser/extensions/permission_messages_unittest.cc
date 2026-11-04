@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission messages unit tests
+// summary: Unit tests verifying that ChromePermissionMessageProvider produces correct, meaningful and properly coalesced permission messages for install, App Info and runtime prompts.
+// ---
+
 #include <stddef.h>
 
 #include <array>

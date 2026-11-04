@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zip file installer unit tests
+// summary: Unit tests for the Chrome extension zip file installer, verifying extension installation from zip files, install error reporting, and unzip file filtering behavior.
+// ---
+
 #include <memory>
 #include <vector>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestExtensionSystem fake for tests
+// summary: Implements a fake ExtensionSystem for TestingProfile, including a fake CWS info service and in-memory value stores.
+// ---
+
 #include "chrome/browser/extensions/test_extension_system.h"
 
 #include <memory>

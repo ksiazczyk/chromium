@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup helper CRX validation browser test
+// summary: Browser test checking that StartupHelper::ValidateCrx accepts known-good CRX files and rejects malformed ones with error messages.
+// ---
+
 #include "chrome/browser/extensions/startup_helper.h"
 
 #include <vector>

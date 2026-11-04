@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension options page browser test
+// summary: Browser test verifying that an extension with an options page shows an Options button on the extensions settings page and that clicking it opens the options page in a new tab.
+// ---
+
 #include <stddef.h>
 
 #include <string>

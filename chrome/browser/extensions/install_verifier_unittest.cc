@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install verifier unit tests
+// summary: Unit tests checking InstallVerifier behavior for extensions from the webstore versus other sources and policy-installed extensions.
+// ---
+
 #include "extensions/browser/install_verifier.h"
 
 #include "base/values.h"

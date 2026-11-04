@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension uninstall dialog browser tests
+// summary: Browser tests verifying the uninstall dialog behavior, including opening the extension's uninstall URL as the active tab and reporting abuse links.
+// ---
+
 #include "chrome/browser/extensions/extension_uninstall_dialog.h"
 
 #include <memory>

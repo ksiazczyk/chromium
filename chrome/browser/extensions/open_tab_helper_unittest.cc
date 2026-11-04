@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenTabHelper unit tests
+// summary: Unit test verifying that OpenTabHelper rejects split_with_tab_id requests that reference a tab in a standalone window controller.
+// ---
+
 #include "chrome/browser/extensions/open_tab_helper.h"
 
 #include <memory>

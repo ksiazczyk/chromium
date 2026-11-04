@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalProviderImpl class header
+// summary: Declares ExternalProviderImpl, the bridge between the extension system and an ExternalLoader, including CreateExternalProviders for all known external sources.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTERNAL_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTERNAL_PROVIDER_IMPL_H_
 

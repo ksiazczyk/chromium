@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension user script loader browser tests
+// summary: Browser tests covering migration of legacy dynamic content script entries in the user script loader's state store across browser restarts.
+// ---
+
 #include "extensions/browser/extension_user_script_loader.h"
 
 #include "base/one_shot_event.h"

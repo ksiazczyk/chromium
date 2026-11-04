@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalInstallManagerFactory class declaration
+// summary: Declares the ProfileKeyedServiceFactory that shares ExternalInstallManager instances between an incognito browser context and its original context.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTERNAL_INSTALL_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTERNAL_INSTALL_MANAGER_FACTORY_H_
 

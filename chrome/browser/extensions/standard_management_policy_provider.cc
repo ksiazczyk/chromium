@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standard management policy provider implementation
+// summary: Implements the management policy provider that decides whether users may load, install or modify extensions based on admin policy, component, policy and force-install locations.
+// ---
+
 #include "chrome/browser/extensions/standard_management_policy_provider.h"
 
 #include <string>

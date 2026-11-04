@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Docs Offline UKM browser tests
+// summary: Browser tests verifying UKM metrics are collected for scripts imported or fetched from the Google Docs Offline extension and not for other extensions.
+// ---
+
 #include "chrome/browser/extensions/extension_browsertest.h"
 #include "components/ukm/test_ukm_recorder.h"
 #include "content/public/test/browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install tracker factory implementation
+// summary: Implements a profile-keyed service factory that provides the InstallTracker for tracking extension install progress.
+// ---
+
 #include "chrome/browser/extensions/install_tracker_factory.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalProviderManagerFactory implementation
+// summary: Implements the ProfileKeyedServiceFactory that builds ExternalProviderManager instances and declares its dependencies on other extension service factories.
+// ---
+
 #include "chrome/browser/extensions/external_provider_manager_factory.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalProviderManager class header
+// summary: Declares ExternalProviderManager, a KeyedService that owns external extension providers and handles extension installs, updates, and uninstalls per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTERNAL_PROVIDER_MANAGER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTERNAL_PROVIDER_MANAGER_H_
 

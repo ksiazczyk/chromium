@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External install error browser test
+// summary: Browser test verifying global error UI for externally installed extensions, including unacknowledged disable reasons, install prompts, and shutdown behavior.
+// ---
+
 #include "chrome/browser/extensions/external_install_error.h"
 
 #include <memory>

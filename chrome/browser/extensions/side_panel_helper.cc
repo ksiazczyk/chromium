@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel helper implementation
+// summary: Implements SidePanelHelper, a WebContentsUserData that enables extension function dispatch for side panel WebUI views and resolves the browser window's extension window controller.
+// ---
+
 #include "chrome/browser/extensions/side_panel_helper.h"
 
 #include "base/check.h"

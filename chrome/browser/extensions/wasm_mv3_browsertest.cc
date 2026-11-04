@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wasm Manifest V3 browser tests
+// summary: Browser tests covering WebAssembly usage in Manifest V3 extensions, including service workers and interaction with the default extension CSP.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/test/browser_test.h"
 #include "extensions/buildflags/buildflags.h"

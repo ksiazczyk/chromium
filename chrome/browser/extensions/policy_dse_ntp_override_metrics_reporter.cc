@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy DSE NTP override metrics reporter
+// summary: Reports histograms about policy-installed extensions that override the default search engine or new tab page, including trust and install mode status.
+// ---
+
 #include "chrome/browser/extensions/policy_dse_ntp_override_metrics_reporter.h"
 
 #include "build/build_config.h"

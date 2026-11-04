@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowControllerList header
+// summary: Declares a singleton list of WindowControllers with add, remove, and lookup methods plus observer registration.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_WINDOW_CONTROLLER_LIST_H_
 #define CHROME_BROWSER_EXTENSIONS_WINDOW_CONTROLLER_LIST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web accessible resources browser tests
+// summary: Browser tests verifying that MV3 web accessible resources can be fetched, including dynamic URL behavior and channel restrictions.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/path_service.h"
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User script listener header
+// summary: Declares UserScriptListener, which delays resource loads until user scripts are ready, tracking per-profile URL patterns.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_USER_SCRIPT_LISTENER_H_
 #define CHROME_BROWSER_EXTENSIONS_USER_SCRIPT_LISTENER_H_
 

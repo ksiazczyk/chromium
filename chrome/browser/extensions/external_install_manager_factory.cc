@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalInstallManagerFactory implementation
+// summary: Implements the profile-keyed service factory that builds and provides ExternalInstallManager instances for browser contexts.
+// ---
+
 #include "chrome/browser/extensions/external_install_manager_factory.h"
 
 #include "base/check.h"

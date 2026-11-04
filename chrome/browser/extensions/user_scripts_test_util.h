@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User scripts test utility header
+// summary: Declares a test helper that allows or disallows the userScripts API for a given extension in a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_USER_SCRIPTS_TEST_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_USER_SCRIPTS_TEST_UTIL_H_
 

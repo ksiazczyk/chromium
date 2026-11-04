@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test extension menu icon loader
+// summary: Implements a counting test icon loader for extension context menu icons that delegates to the real loader while tracking load, get, and remove calls.
+// ---
+
 #include "chrome/browser/extensions/test_extension_menu_icon_loader.h"
 
 #include "chrome/browser/extensions/menu_manager.h"

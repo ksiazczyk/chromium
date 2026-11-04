@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installed extensions loader implementation
+// summary: Loads installed extensions from preferences at startup, handles corrupt extensions, and records extension and host permission metrics.
+// ---
+
 #include "chrome/browser/extensions/installed_loader.h"
 
 #include <stddef.h>

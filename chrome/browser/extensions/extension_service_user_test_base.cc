@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension service user test base implementation
+// summary: Implements a test base class that sets up test users and guest sessions, including ChromeOS fake user manager login support.
+// ---
+
 #include "chrome/browser/extensions/extension_service_user_test_base.h"
 
 #include <memory>

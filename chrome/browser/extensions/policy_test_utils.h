@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension policy test utilities declarations
+// summary: Declares test helpers for intercepting update manifest requests and setting the ExtensionInstallForcelist policy in extension tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_POLICY_TEST_UTILS_H_
 #define CHROME_BROWSER_EXTENSIONS_POLICY_TEST_UTILS_H_
 

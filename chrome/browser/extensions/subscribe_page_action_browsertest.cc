@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subscribe page action browser test
+// summary: Browser test exercising the feed subscribe page action extensions across valid and invalid feeds, URL decoding, and subscribe page rendering.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/memory/raw_ptr.h"
 #include "chrome/browser/extensions/extension_browsertest.h"

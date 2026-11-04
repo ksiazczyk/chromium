@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Initial external extension loader unit tests
+// summary: Unit tests checking that the loader produces webstore update URL prefs for valid extension IDs and ignores invalid ones.
+// ---
+
 #include "chrome/browser/extensions/initial_external_extension_loader.h"
 
 #include <string>

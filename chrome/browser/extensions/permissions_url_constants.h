@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions URL constants header
+// summary: Declares URL constants for runtime host permissions help, site permissions settings and toolbar access request help.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_PERMISSIONS_URL_CONSTANTS_H_
 #define CHROME_BROWSER_EXTENSIONS_PERMISSIONS_URL_CONSTANTS_H_
 

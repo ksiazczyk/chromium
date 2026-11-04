@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omaha attributes handler header
+// summary: Declares OmahaAttributesHandler and the ExtensionUpdateCheckDataKey enum for managing Omaha blocklist states in extension prefs.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_OMAHA_ATTRIBUTES_HANDLER_H_
 #define CHROME_BROWSER_EXTENSIONS_OMAHA_ATTRIBUTES_HANDLER_H_
 

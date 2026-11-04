@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webstore installer browser tests
+// summary: Browser tests for WebstoreInstaller covering inline installs, host permission handling and MV2 installer behavior against a fake webstore.
+// ---
+
 #include "extensions/browser/webstore_installer.h"
 
 #include <memory>

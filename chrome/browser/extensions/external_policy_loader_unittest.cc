@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExternalPolicyLoader unit tests
+// summary: Unit tests verifying that the policy-based external provider installs exactly the extensions listed in the policy force-install list.
+// ---
+
 #include "chrome/browser/extensions/external_policy_loader.h"
 
 #include <memory>

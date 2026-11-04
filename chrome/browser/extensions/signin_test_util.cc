@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in test utilities implementation
+// summary: Implements a helper that simulates an explicit browser sign-in through the extension install bubble, checking the recorded pref when DICE support is enabled.
+// ---
+
 #include "chrome/browser/extensions/signin_test_util.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension service test fixture with CRX install helpers
+// summary: Test fixture extending ExtensionServiceUserTestBase with helpers to pack, install, update, and uninstall extension CRX files in extension service tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_SERVICE_TEST_WITH_INSTALL_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_SERVICE_TEST_WITH_INSTALL_H_
 

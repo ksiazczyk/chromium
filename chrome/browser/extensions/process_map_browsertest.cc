@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process map browser tests
+// summary: Browser tests verifying the extension process map, including host permissions, content scripts, and process attribution for extension contexts.
+// ---
+
 #include "extensions/browser/process_map.h"
 
 #include <algorithm>

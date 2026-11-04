@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestExtensionEnvironment implementation
+// summary: Implements a minimal test environment providing profiles, extension services, and tabs for extension unit tests, including ChromeOS-specific setup.
+// ---
+
 #include "chrome/browser/extensions/test_extension_environment.h"
 
 #include <utility>

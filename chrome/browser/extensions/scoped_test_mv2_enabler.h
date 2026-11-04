@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped test MV2 enabler declaration
+// summary: Declares a scoped test utility that prevents MV2 extensions from being disabled on startup or blocked from installation without forcing MV2 deprecation field trials.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_SCOPED_TEST_MV2_ENABLER_H_
 #define CHROME_BROWSER_EXTENSIONS_SCOPED_TEST_MV2_ENABLER_H_
 

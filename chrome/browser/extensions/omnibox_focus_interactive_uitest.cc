@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox focus interactive UI tests
+// summary: Interactive tests checking omnibox focus behavior when new-tab-page replacement extensions navigate away from the new tab page.
+// ---
+
 #include <algorithm>
 #include <string_view>
 

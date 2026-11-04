@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension UI utilities implementation
+// summary: Implements checks for showing extensions in the app launcher and new tab page, resolving extension names for URLs, and review prompt eligibility.
+// ---
+
 #include "chrome/browser/extensions/extension_ui_util.h"
 
 #include "base/check.h"

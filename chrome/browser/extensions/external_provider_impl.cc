@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalProviderImpl implementation
+// summary: Implements the external extension provider that installs extensions reported by loaders such as preference files, policy, registry, and ChromeOS customization sources.
+// ---
+
 #include "chrome/browser/extensions/external_provider_impl.h"
 
 #include <stddef.h>

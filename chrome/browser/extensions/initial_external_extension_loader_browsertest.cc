@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Initial external extension loader browser tests
+// summary: Browser tests verifying the initial external extension install flow across browser restarts, including that external uninstalls are not reinstalled.
+// ---
+
 #include "chrome/browser/extensions/initial_external_extension_loader.h"
 
 #include <string>

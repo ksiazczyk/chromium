@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PackExtensionJob implementation
+// summary: Implements PackExtensionJob, which packs an extension directory into a CRX file on a background task runner and reports success or failure.
+// ---
+
 #include "chrome/browser/extensions/pack_extension_job.h"
 
 #include <memory>

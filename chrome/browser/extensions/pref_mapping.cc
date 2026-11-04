@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension preference to browser preference mapping
+// summary: Maps extension API preferences to browser preferences together with the permissions required to read or write them.
+// ---
+
 #include "chrome/browser/extensions/pref_mapping.h"
 
 #include <optional>

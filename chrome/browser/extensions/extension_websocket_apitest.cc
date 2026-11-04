@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension WebSocket API tests
+// summary: API tests checking that WebSocket activity extends the lifetime of service worker-based extensions using an embedded test WebSocket server.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/time/time.h"
 #include "base/timer/timer.h"

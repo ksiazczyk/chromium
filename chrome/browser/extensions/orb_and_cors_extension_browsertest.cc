@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ORB and CORS extension browser tests
+// summary: Browser test suite covering ORB and CORS behaviors for extensions, including permissions, incognito handling, and service workers.
+// ---
+
 #include <algorithm>
 #include <string>
 #include <string_view>

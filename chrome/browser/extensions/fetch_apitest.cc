@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: API test for extension fetch behavior
+// summary: Browser API test covering extension fetch requests, including CORS origin handling and cross-origin responses against an embedded test server.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/functional/bind.h"
 #include "base/path_service.h"

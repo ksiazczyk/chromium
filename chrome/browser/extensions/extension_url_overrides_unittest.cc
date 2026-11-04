@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension URL overrides unit tests
+// summary: Unit tests covering extension URL override registration, activation, observer notifications and favicon retrieval.
+// ---
+
 #include "chrome/browser/extensions/extension_url_overrides.h"
 
 #include <memory>

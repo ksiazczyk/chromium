@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowController implementation
+// summary: Implements window type filters and notification helpers that let the extension system interact with the enclosing browser window.
+// ---
+
 #include "chrome/browser/extensions/window_controller.h"
 
 #include <stddef.h>

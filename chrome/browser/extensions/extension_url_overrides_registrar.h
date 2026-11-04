@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension URL overrides registrar
+// summary: Declares the ExtensionUrlOverridesRegistrar BrowserContextKeyedAPI with observer notifications for override additions and removals.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_URL_OVERRIDES_REGISTRAR_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_URL_OVERRIDES_REGISTRAR_H_
 

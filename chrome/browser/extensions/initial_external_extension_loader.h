@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial external extension loader header
+// summary: Declares InitialExternalExtensionLoader, which manages initial external extension installation so it persists after first run.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_INITIAL_EXTERNAL_EXTENSION_LOADER_H_
 #define CHROME_BROWSER_EXTENSIONS_INITIAL_EXTERNAL_EXTENSION_LOADER_H_
 

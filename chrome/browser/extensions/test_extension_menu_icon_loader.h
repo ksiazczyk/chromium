@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test extension menu icon loader header
+// summary: Declares a test ExtensionMenuIconLoader that counts load, get, and remove icon calls for use in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_TEST_EXTENSION_MENU_ICON_LOADER_H_
 #define CHROME_BROWSER_EXTENSIONS_TEST_EXTENSION_MENU_ICON_LOADER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME handler options update unit test
+// summary: Unit test verifying that an extension update drops stored MIME handler options for MIME types the updated version no longer handles.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/values_test_util.h"
 #include "chrome/browser/extensions/extension_service_test_with_install.h"

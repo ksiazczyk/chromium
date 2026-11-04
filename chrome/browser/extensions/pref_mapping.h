@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefMapping class declaration
+// summary: Declares the PrefMapping singleton that links extension preferences to browser preferences, permissions, and value transformers.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_PREF_MAPPING_H_
 #define CHROME_BROWSER_EXTENSIONS_PREF_MAPPING_H_
 

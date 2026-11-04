@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension UI utilities header
+// summary: Declares UI helpers for extension visibility in the app launcher and new tab page, extension name lookup by URL, and review prompt eligibility.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_UI_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_UI_UTIL_H_
 

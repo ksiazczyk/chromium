@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension special storage policy unit tests
+// summary: Unit tests verifying granting, revoking, and notification behavior of the extension special storage policy.
+// ---
+
 #include "chrome/browser/extensions/extension_special_storage_policy.h"
 
 #include <stddef.h>

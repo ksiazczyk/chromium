@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension service user test base class header
+// summary: Declares a test base class that prepares testing profiles and, on ChromeOS, logs in fake users for extension service tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_SERVICE_USER_TEST_BASE_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_SERVICE_USER_TEST_BASE_H_
 

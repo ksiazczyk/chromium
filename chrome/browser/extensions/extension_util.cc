@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension utility functions implementation
+// summary: Implements Chrome-side extension utilities such as isolated storage checks, incognito and file access toggles, extension reloading, and extensions page URLs.
+// ---
+
 #include "chrome/browser/extensions/extension_util.h"
 
 #include <string_view>

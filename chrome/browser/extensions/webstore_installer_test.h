@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webstore installer test helper header
+// summary: Declares WebstoreInstallerTest, a browser test fixture configuring a fake webstore domain, CRX URL and install prompt auto-confirmation.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_WEBSTORE_INSTALLER_TEST_H_
 #define CHROME_BROWSER_EXTENSIONS_WEBSTORE_INSTALLER_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension view host factory browser tests
+// summary: Browser tests verifying that popup and side panel hosts created by the factory use the correct extension, profile, and view type.
+// ---
+
 #include "chrome/browser/extensions/extension_view_host_factory.h"
 
 #include <memory>

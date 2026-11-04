@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lazy background page browser tests
+// summary: Browser API tests covering lazy background page loading, lifecycle, and incognito behavior for extensions.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

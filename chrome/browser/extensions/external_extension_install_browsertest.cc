@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External extension install browser test
+// summary: Browser test verifying that an externally installed extension is disabled on update when its permissions increase, using packed CRX files and a mock provider.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/one_shot_event.h"
 #include "base/strings/stringprintf.h"

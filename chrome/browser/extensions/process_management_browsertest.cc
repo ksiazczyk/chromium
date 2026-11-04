@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension process management browser tests
+// summary: Browser tests checking how extension and Web Store pages are assigned to renderer processes, including site isolation and process sharing behavior.
+// ---
+
 #include <stddef.h>
 
 #include <tuple>

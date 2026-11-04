@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionTabUtil unit tests
+// summary: Unit tests verifying how tab info is scrubbed based on extension permissions, host permissions, and policy-blocked hosts.
+// ---
+
 #include "chrome/browser/extensions/extension_tab_util.h"
 
 #include "base/json/json_reader.h"

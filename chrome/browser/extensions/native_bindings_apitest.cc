@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native bindings API browser tests
+// summary: Browser tests verifying extension API availability, including developer-mode-restricted APIs such as chrome.debugger.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

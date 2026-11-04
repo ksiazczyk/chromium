@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pack extension startup browser test
+// summary: Browser test verifying that the --pack-extension startup switch packs an extension and exits with the expected success result code.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

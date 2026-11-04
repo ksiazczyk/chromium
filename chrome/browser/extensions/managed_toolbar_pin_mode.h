@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed toolbar pin mode enum
+// summary: Defines the ManagedToolbarPinMode enum describing policy-based behavior for pinning extensions to the toolbar, from unset to force-pinned.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_MANAGED_TOOLBAR_PIN_MODE_H_
 #define CHROME_BROWSER_EXTENSIONS_MANAGED_TOOLBAR_PIN_MODE_H_
 

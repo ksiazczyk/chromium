@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preinstalled extensions unit tests
+// summary: Unit tests verifying that the preinstalled extensions provider installs preinstalled apps only once and honors the install state preference.
+// ---
+
 #include "chrome/browser/extensions/preinstalled_extensions.h"
 
 #include <memory>

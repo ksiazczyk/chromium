@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension view host web modal handler header
+// summary: Declares a class that sets up web contents modal dialogs for ExtensionViewHost and implements the modal dialog manager delegate and host interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_VIEW_HOST_WEB_MODAL_HANDLER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_VIEW_HOST_WEB_MODAL_HANDLER_H_
 

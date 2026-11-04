@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension view host header
+// summary: Declares ExtensionViewHost, the ExtensionHost for extension popups and dialogs in the browser UI, together with its delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_VIEW_HOST_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_VIEW_HOST_H_
 

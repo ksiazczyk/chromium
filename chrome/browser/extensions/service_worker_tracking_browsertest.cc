@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker tracking browser tests
+// summary: Browser tests validating tracking of extension service workers, including start and stop state and running worker instance information.
+// ---
+
 #include <optional>
 #include <tuple>
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test observer for ExtensionActionDispatcher
+// summary: Implements a test helper that waits for extension action updates from the ExtensionActionDispatcher for a given extension and web contents.
+// ---
+
 #include "chrome/browser/extensions/test_extension_action_dispatcher_observer.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension view host factory header
+// summary: Declares ExtensionViewHostFactory, a utility class that creates popup and side panel hosts grouped into the appropriate SiteInstance for extension UI views.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_VIEW_HOST_FACTORY_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_VIEW_HOST_FACTORY_H_
 

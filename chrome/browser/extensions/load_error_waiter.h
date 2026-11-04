@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load error waiter class declaration
+// summary: Declares LoadErrorWaiter, an observer of LoadErrorReporter whose Wait method blocks until a load failure event is seen.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_LOAD_ERROR_WAITER_H_
 #define CHROME_BROWSER_EXTENSIONS_LOAD_ERROR_WAITER_H_
 

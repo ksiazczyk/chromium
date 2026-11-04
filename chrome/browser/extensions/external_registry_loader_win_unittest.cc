@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows external registry loader
+// summary: Verifies that calling StartLoading twice neither crashes nor overwrites previously loaded external extension preferences before LoadFinished consumes them.
+// ---
+
 #include "chrome/browser/extensions/external_registry_loader_win.h"
 
 #include "base/compiler_specific.h"

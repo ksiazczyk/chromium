@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension web storage durability browser tests
+// summary: Browser tests verifying how web storage such as local storage and IndexedDB on extension origins interacts with quota management and browsing data deletion.
+// ---
+
 #include <set>
 
 #include "base/functional/bind.h"

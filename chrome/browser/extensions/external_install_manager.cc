@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalInstallManager implementation
+// summary: Implements the per-profile manager that raises install alerts for externally installed extensions and tracks unacknowledged external extension IDs.
+// ---
+
 #include "chrome/browser/extensions/external_install_manager.h"
 
 #include <memory>

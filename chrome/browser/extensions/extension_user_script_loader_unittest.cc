@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension user script loader unit tests
+// summary: Unit tests for ExtensionUserScriptLoader covering script loading, load callbacks, and URL pattern handling.
+// ---
+
 #include "extensions/browser/extension_user_script_loader.h"
 
 #include <stddef.h>

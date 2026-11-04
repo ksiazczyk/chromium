@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User host restrictions browser tests
+// summary: Parameterized browser tests checking that extensions cannot run scripts on user-restricted sites when host permissions are withheld.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/bind.h"
 #include "base/test/scoped_feature_list.h"

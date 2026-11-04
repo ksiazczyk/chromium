@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webstore installer test helper
+// summary: Test fixture that fakes a webstore gallery on an embedded test server and can auto-accept or cancel install prompts for installer tests.
+// ---
+
 #include "chrome/browser/extensions/webstore_installer_test.h"
 
 #include <memory>

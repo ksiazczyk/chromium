@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offscreen document browser tests
+// summary: Browser tests for extension offscreen documents, covering creation, basic properties, and lifecycle behavior.
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/values_test_util.h"
 #include "chrome/browser/extensions/extension_apitest.h"

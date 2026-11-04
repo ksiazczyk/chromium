@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preinstalled extensions provider declarations
+// summary: Declares the preinstalled extensions provider and the persisted install state enum used to control default app installation.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_PREINSTALLED_EXTENSIONS_H_
 #define CHROME_BROWSER_EXTENSIONS_PREINSTALLED_EXTENSIONS_H_
 

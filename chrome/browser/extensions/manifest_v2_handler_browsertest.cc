@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest V2 handler browser tests
+// summary: Browser tests for ManifestV2Handler behavior around disabling and re-enabling Manifest V2 extensions, including pre-test setup flows.
+// ---
+
 #include "extensions/browser/manifest_v2_handler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenTabHelper implementation for opening tabs from extensions
+// summary: Implements OpenTabHelper, which finds or creates a suitable browser window and opens tabs for extension API functions such as tabs.create.
+// ---
+
 #include "chrome/browser/extensions/open_tab_helper.h"
 
 #include "base/strings/string_number_conversions.h"

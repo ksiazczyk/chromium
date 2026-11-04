@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing verdict handler class declaration
+// summary: Declares SafeBrowsingVerdictHandler, an ExtensionRegistryObserver that manages Safe Browsing blocklist and greylist state in extension preferences.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_SAFE_BROWSING_VERDICT_HANDLER_H_
 #define CHROME_BROWSER_EXTENSIONS_SAFE_BROWSING_VERDICT_HANDLER_H_
 

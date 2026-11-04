@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings override extension lookup header
+// summary: Declares functions returning the extension that overrides the homepage, New Tab page, startup pages, search engine, or proxy in a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_SETTINGS_API_HELPERS_H_
 #define CHROME_BROWSER_EXTENSIONS_SETTINGS_API_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for delegated feature availability checks
+// summary: Browser test checking that every extensions-system feature matches the expected hardcoded list of features requiring a delegated availability check.
+// ---
+
 #include "extensions/common/features/feature_provider.h"
 
 #include <algorithm>

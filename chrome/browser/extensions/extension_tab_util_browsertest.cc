@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionTabUtil browser tests
+// summary: Browser tests covering ExtensionTabUtil behaviors such as tab iteration, options page opening, and tab and window handling across profiles.
+// ---
+
 #include "chrome/browser/extensions/extension_tab_util.h"
 
 #include "base/run_loop.h"

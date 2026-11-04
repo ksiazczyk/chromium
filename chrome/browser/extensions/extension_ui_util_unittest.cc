@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension UI utilities unit tests
+// summary: Unit tests for extension UI helpers, including review prompt behavior across profile types, feature flags, and CWS info states.
+// ---
+
 #include "chrome/browser/extensions/extension_ui_util.h"
 
 #include <memory>

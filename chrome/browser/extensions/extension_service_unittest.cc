@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension service unit tests
+// summary: Unit tests covering extension install, update, uninstall, external providers, policies, and other ExtensionService behaviors.
+// ---
+
 #include "chrome/browser/extensions/extension_service.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared module service factory implementation
+// summary: Profile-keyed service factory that creates a SharedModuleService per browser context, with dependencies on the extension registry, registrar, updater and pending extension manager.
+// ---
+
 #include "chrome/browser/extensions/shared_module_service_factory.h"
 
 #include "base/memory/ptr_util.h"

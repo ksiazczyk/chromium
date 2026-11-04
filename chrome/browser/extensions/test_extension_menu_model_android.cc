@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android test extension menu model
+// summary: Implements a test ExtensionMenuModel for Android that exposes menu item lookup for use in context menu tests.
+// ---
+
 #include "chrome/browser/extensions/test_extension_menu_model_android.h"
 
 #include "chrome/browser/renderer_context_menu/context_menu_test_util.h"

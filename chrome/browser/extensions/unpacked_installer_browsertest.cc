@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unpacked installer browser tests
+// summary: Browser tests for command-line loading of unpacked extensions and recording of manifest settings override metrics.
+// ---
+
 #include "extensions/browser/unpacked_installer.h"
 
 #include "base/files/file_path.h"

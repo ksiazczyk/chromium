@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process utility browser tests
+// summary: Browser tests for process_util helpers, checking the persistent background page state across regular and incognito profiles.
+// ---
+
 #include "extensions/browser/process_util.h"
 
 #include "chrome/browser/extensions/extension_browsertest.h"

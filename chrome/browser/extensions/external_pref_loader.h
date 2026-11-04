@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalPrefLoader class header
+// summary: Declares ExternalPrefLoader, an external extension loader that reads registered external extensions from JSON preference files, with options such as admin-controlled paths and delayed ChromeOS loading.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTERNAL_PREF_LOADER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTERNAL_PREF_LOADER_H_
 

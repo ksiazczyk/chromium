@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestExtensionService test double
+// summary: Stub ExtensionServiceInterface implementation for tests whose methods report failures unless a subclass overrides them.
+// ---
+
 #include "chrome/browser/extensions/test_extension_service.h"
 
 #include "extensions/buildflags/buildflags.h"

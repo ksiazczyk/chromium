@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalPolicyLoader class declaration
+// summary: Declares the external loader that reads registered external extensions from extension management policies with forced or recommended installation types.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTERNAL_POLICY_LOADER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTERNAL_POLICY_LOADER_H_
 

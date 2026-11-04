@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared module service unit tests
+// summary: Unit tests for shared module handling, building extensions that import shared modules and verifying install, update and pending extension behavior through the extension service.
+// ---
+
 #include "extensions/browser/shared_module_service.h"
 
 #include <memory>

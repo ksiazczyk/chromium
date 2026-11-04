@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox navigation browser tests
+// summary: Browser test verifying that navigating to extension resource URLs such as popup.html from the omnibox loads successfully.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/extensions/extension_browsertest.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

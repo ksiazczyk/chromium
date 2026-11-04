@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in test utilities header
+// summary: Declares SimulateExplicitSignIn, a test helper that simulates explicit sign-in via the extension installed bubble and flips the pref recording the explicit sign-in.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_SIGNIN_TEST_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_SIGNIN_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestExtensionEnvironment header
+// summary: Declares TestExtensionEnvironment, a helper for creating extensions, packaged apps, and test tabs in extension-related unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_TEST_EXTENSION_ENVIRONMENT_H_
 #define CHROME_BROWSER_EXTENSIONS_TEST_EXTENSION_ENVIRONMENT_H_
 

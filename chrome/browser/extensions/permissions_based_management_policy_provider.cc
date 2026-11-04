@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions-based management policy provider
+// summary: Implements a management policy provider that blocks extension installs whose required permissions conflict with enterprise policy settings.
+// ---
+
 #include "chrome/browser/extensions/permissions_based_management_policy_provider.h"
 
 #include <string>

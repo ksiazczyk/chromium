@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore install with prompt implementation
+// summary: Implements WebstoreInstallWithPrompt, which installs a webstore extension after showing an install dialog anchored to a parent window.
+// ---
+
 #include "chrome/browser/extensions/webstore_install_with_prompt.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension utility functions header
+// summary: Declares Chrome-side extension utilities for storage isolation, force installation, incognito and file access settings, and developer mode.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_UTIL_H_
 

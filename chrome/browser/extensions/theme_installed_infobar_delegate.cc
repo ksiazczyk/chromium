@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme installed infobar delegate
+// summary: Shows an infobar on the last active tab when a theme is installed, letting the user undo back to the previous theme.
+// ---
+
 #include "chrome/browser/extensions/theme_installed_infobar_delegate.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User scripts test utility implementation
+// summary: Implements a test helper that enables or disables the userScripts API for an extension in a profile and flushes renderer IPCs for testing.
+// ---
+
 #include "chrome/browser/extensions/user_scripts_test_util.h"
 
 #include "base/feature_list.h"
