@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync feature enablement implementation
+// summary: Implements the check reporting whether tab group sync is enabled, clearing a legacy Android preference and exposing a JNI entry point for Android.
+// ---
+
 #include "chrome/browser/tab_group_sync/feature_utils.h"
 
 #include "build/build_config.h"

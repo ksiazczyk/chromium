@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageLoadingContext implementation
+// summary: Implements the storage loading context that records load warnings and reports them via a UMA histogram.
+// ---
+
 #include "chrome/browser/tab/storage_loading_context.h"
 
 #include <string>

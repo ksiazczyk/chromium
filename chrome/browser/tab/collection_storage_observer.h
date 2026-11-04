@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectionStorageObserver class declaration
+// summary: Declares an observer that mirrors TabStripCollection structure changes into the tab state storage service.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_COLLECTION_STORAGE_OBSERVER_H_
 #define CHROME_BROWSER_TAB_COLLECTION_STORAGE_OBSERVER_H_
 

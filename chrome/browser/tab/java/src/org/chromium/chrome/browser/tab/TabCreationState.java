@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCreationState annotation for tab creation states
+// summary: Defines an IntDef annotation enumerating the states in which a tab can be created, used for metric accounting such as restore reasons.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import androidx.annotation.IntDef;

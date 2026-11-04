@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStateStorageFlagHelper
+// summary: Helper that reads feature flag phases for SQLite tab state storage, indicating shadow, authoritative, migration, or rollback modes.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.build.annotations.NullMarked;

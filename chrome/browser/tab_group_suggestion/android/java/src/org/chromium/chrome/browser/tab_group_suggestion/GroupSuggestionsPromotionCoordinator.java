@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupSuggestionsPromotionCoordinator
+// summary: Sets up the group suggestions promotion UI by inflating the bottom sheet container and wiring the property model, binder, and mediator.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

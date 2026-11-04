@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SuggestionEventObserver
+// summary: Robolectric unit tests verifying that tab model, tab selection, and navigation events are forwarded to the group suggestions service.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion;
 
 import static org.junit.Assert.assertFalse;

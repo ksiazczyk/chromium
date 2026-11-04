@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab list index constants
+// summary: Declares the kNoTabIndex constant that marks the index of a non-existent tab.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_LIST_CONSTANTS_H_
 #define CHROME_BROWSER_TAB_LIST_CONSTANTS_H_
 

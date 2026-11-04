@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupSuggestionsPromotionBinder
+// summary: Binds group suggestions promotion property model values, such as texts and button listeners, to the corresponding views in the promo layout.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion;
 
 import android.widget.LinearLayout;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupSuggestionsButtonControllerImpl
+// summary: Implementation of the group suggestion button controller that caches per-window suggestions, validates them for tabs, performs tab grouping on click, and reports user responses to the backend.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion.toolbar;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedTabDataFactory interface
+// summary: Interface for creating PersistedTabData instances from serialized data, a storage backend and a storage identifier.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import org.chromium.base.Callback;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of chrome/browser/tab
+summary: Lists code owners for the tab directory, including a dedicated owner for tab persistence via a database.

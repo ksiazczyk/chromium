@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of the tab group sync delegate
+// summary: Implements TabGroupSyncDelegateAndroid, forwarding tab group sync delegate calls to a Java counterpart over JNI.
+// ---
+
 #include "chrome/browser/tab_group_sync/android/tab_group_sync_delegate_android.h"
 
 #include "base/android/jni_android.h"

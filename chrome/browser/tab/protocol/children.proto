@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'children.proto: Children message for tab storage'
+// summary: Defines the Children message that serializes a list of storage token IDs into a single database blob cell.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 

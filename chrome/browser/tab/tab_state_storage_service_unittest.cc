@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab state storage service unit tests
+// summary: Unit tests verifying ScopedBatch callback execution and nested batch lifetimes for the tab state storage service.
+// ---
+
 #include "chrome/browser/tab/tab_state_storage_service.h"
 
 #include <memory>

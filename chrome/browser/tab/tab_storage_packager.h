@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab storage packager interface
+// summary: Declares the TabStoragePackager interface for packaging tab and collection data into storage packages for background thread use.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_TAB_STORAGE_PACKAGER_H_
 #define CHROME_BROWSER_TAB_TAB_STORAGE_PACKAGER_H_
 

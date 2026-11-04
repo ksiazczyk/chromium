@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabDragStateData for tracking tab drag state
+// summary: Per-tab user data that tracks whether a tab is being dragged and exposes the state through a non-null observable supplier.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.base.UserData;

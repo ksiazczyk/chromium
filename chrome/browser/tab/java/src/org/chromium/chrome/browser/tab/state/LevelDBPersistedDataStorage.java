@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB-backed namespaced key-value data storage
+// summary: Per-profile LevelDB-backed storage mapping namespaced keys to byte arrays for persisted data, delegating to native code through JNI.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import androidx.annotation.MainThread;

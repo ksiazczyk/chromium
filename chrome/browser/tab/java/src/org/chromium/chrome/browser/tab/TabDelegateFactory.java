@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabDelegateFactory interface for creating tab delegates
+// summary: Interface for a factory that creates the delegates a Tab is initialized with, including web contents, navigation, context menu and browser controls delegates.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.build.annotations.NullMarked;

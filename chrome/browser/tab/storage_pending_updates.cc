@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StoragePendingUpdates implementation
+// summary: Implements update units that save nodes, payloads, children, and divergent children to the tab state database within transactions.
+// ---
+
 #include "chrome/browser/tab/storage_pending_updates.h"
 
 #include <memory>

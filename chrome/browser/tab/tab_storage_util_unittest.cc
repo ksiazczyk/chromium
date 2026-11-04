@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab storage utility unit tests
+// summary: Unit tests verifying collection type to storage type round trips and collection type classification.
+// ---
+
 #include "chrome/browser/tab/tab_storage_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

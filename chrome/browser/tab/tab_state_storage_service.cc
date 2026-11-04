@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab state storage service implementation
+// summary: Implements the keyed service that persists and restores tab state, mapping tab and collection handles to storage IDs and batching writes via ScopedBatch.
+// ---
+
 #include "chrome/browser/tab/tab_state_storage_service.h"
 
 #include <memory>

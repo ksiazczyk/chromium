@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupSyncUtilsUnitTest
+// summary: Robolectric unit tests for TabGroupSyncUtils, covering local tab group ID mapping and URL and title filtering behavior.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import static org.mockito.ArgumentMatchers.any;

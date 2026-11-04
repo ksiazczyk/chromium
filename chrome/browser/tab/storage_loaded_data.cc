@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageLoadedData implementation
+// summary: Implements building of data loaded from the tab state database, including tree traversal to order tabs and reconciliation of divergent nodes.
+// ---
+
 #include "chrome/browser/tab/storage_loaded_data.h"
 
 #include <memory>

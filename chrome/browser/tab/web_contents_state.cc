@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContents state serialization implementation
+// summary: Implements serialization and restoration of WebContents navigation history through pickled byte buffers shared with Java via JNI.
+// ---
+
 #include "chrome/browser/tab/web_contents_state.h"
 
 #include <cstddef>

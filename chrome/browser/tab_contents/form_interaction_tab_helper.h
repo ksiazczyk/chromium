@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form interaction tab helper interface
+// summary: Declares FormInteractionTabHelper, an unowned tab user data helper that reports whether a tab contains forms that were interacted with.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_CONTENTS_FORM_INTERACTION_TAB_HELPER_H_
 #define CHROME_BROWSER_TAB_CONTENTS_FORM_INTERACTION_TAB_HELPER_H_
 

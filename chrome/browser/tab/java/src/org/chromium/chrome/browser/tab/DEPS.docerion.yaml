@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the tab package
+summary: Defines allowed dependency include rules for the Chrome tab Java package, with specific exceptions for Tab, TabDelegateFactory and CurrentTabObserverTest.

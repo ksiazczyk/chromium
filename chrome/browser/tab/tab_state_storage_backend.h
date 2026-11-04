@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStateStorageBackend class declaration
+// summary: Declares the backend coordinating with the tab state storage layer, exposing atomic updates, node loading, clearing operations, and key management.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_TAB_STATE_STORAGE_BACKEND_H_
 #define CHROME_BROWSER_TAB_TAB_STATE_STORAGE_BACKEND_H_
 

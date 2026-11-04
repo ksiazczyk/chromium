@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group sync local-to-remote integration tests
+// summary: On-device sync integration tests checking that locally created tab groups are uploaded to sync, using the transit test framework.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import static org.junit.Assert.assertEquals;

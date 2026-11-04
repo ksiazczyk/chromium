@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI factory for the group suggestions service
+// summary: C++ JNI bridge that returns the profile-keyed GroupSuggestionsService instance to Java for the tab group suggestion feature.
+// ---
+
 #include "base/android/scoped_java_ref.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/visited_url_ranking/group_suggestions_service_factory.h"

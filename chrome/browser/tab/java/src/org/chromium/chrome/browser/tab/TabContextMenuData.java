@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContextMenuData
+// summary: Tab user data storing the touch position of the last shown context menu and exposing a supplier for the context menu visibility.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.graphics.Point;

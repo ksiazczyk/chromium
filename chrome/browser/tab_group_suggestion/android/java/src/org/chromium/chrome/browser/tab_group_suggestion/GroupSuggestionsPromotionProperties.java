@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupSuggestionsPromotionProperties
+// summary: Defines the property model keys for the group suggestions promotion UI, covering promo texts, suggested name, and accept and reject buttons.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion;
 
 import android.view.View.OnClickListener;

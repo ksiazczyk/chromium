@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for chrome/browser/tab
+summary: Tags the tab directory as Android platform in Chromium directory metadata.

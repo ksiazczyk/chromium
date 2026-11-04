@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestionEventObserver
+// summary: Observes tab model and hub events such as tab selection, addition, and closing to feed relevant signals to the group suggestions service.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

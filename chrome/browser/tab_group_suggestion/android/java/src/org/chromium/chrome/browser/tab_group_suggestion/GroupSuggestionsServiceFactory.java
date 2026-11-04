@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupSuggestionsServiceFactory
+// summary: Creates or retrieves a GroupSuggestionsService for a profile via JNI, enforcing feature availability and incognito restrictions with test overrides.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion;
 
 import org.jni_zero.JniType;

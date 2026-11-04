@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStateStorageBackend implementation
+// summary: Implements the tab state storage backend that runs database operations on a sequenced task runner, supporting updates, node loading, and priority boosting.
+// ---
+
 #include "chrome/browser/tab/tab_state_storage_backend.h"
 
 #include <string>

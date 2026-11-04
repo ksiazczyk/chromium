@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'tab_strip_collection_state.proto: TabStripCollectionState message'
+// summary: Defines the TabStripCollectionState message with window tag, tab model type, and active tab storage ID.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 

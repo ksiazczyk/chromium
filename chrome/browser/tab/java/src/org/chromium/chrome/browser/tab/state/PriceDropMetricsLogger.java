@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceDropMetricsLogger
+// summary: Records histograms for the price drops feature, classifying tabs by usage status and logging product page, price and price drop metrics.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import android.text.TextUtils;

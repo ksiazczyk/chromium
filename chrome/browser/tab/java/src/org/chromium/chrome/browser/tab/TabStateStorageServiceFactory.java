@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStateStorageServiceFactory
+// summary: Factory returning the profile-keyed TabStateStorageService and creating scoped batches for batched storage writes.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.chromium.chrome.browser.tab.TabStateStorageFlagHelper.isTabStorageEnabled;

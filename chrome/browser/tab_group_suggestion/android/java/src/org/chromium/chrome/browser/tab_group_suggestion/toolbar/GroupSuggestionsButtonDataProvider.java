@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupSuggestionsButtonDataProvider
+// summary: Defines the UI details and click handler for the tab grouping toolbar button, hiding it for already-grouped tabs and delegating clicks to the button controller.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion.toolbar;
 
 import android.content.Context;

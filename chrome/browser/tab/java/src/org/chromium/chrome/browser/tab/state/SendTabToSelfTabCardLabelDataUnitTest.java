@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self card label data unit tests
+// summary: Robolectric unit tests verifying label text, data and label expiration, and activation handling for SendTabToSelfTabCardLabelData.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.junit.Assert.assertEquals;

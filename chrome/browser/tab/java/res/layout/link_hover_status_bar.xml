@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Link hover status bar layout
+summary: Android layout XML defining a TextView that shows the hovered link URL in a small status bar at the bottom start of the screen.
+-->
+
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
   android:id="@+id/status_bar_text"
   android:layout_width="wrap_content"

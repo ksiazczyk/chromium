@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the tab_contents sources and tests
+summary: Defines GN source sets for the tab_contents public headers, implementation, unit tests and browser tests together with their build dependencies.

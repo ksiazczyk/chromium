@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabDestroyStatus enum
+// summary: Defines the TabDestroyStatus enum describing whether tab shutdown involved no shutdown, fast shutdown, or slow shutdown of WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_TAB_DESTROY_STATUS_H_
 #define CHROME_BROWSER_TAB_TAB_DESTROY_STATUS_H_
 

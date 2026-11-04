@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View-source browser tests
+// summary: Browser tests verifying that Chrome renders pages in view-source mode, covering titles, navigation, media and permissions policy behavior.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/callback_helpers.h"
 #include "base/memory/raw_ptr.h"

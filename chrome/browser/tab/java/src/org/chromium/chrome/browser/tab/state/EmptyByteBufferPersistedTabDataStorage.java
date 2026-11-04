@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyByteBufferPersistedTabDataStorage test mock
+// summary: Mock PersistedTabDataStorage for tests that returns an empty direct ByteBuffer, simulating the behaviour seen in crbug.com/40816362.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import org.chromium.base.Callback;

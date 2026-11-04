@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStateAttributes
+// summary: Tracks the dirtiness of a tab's saved state, notifies observers of changes, and supports batched edits and delayed low-priority saves.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import androidx.annotation.IntDef;

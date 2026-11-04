@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of TabRemoveReasonUtils deletion helpers
+// summary: Implements TabRemoveReasonUtils helpers that decide whether a tab or its WebContents will be deleted for a given TabRemovedReason.
+// ---
+
 #include "chrome/browser/tab_list/tab_removed_reason.h"
 
 bool TabRemoveReasonUtils::WillDeleteTab(TabRemovedReason removed_reason) {

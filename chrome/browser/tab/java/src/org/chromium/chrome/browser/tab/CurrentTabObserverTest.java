@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CurrentTabObserverTest
+// summary: Robolectric and Mockito tests verifying CurrentTabObserver attaches, detaches and notifies its observer across tab switches and null callbacks.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.mockito.Mockito.times;

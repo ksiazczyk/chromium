@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageLoadedData class and builder
+// summary: Declares StorageLoadedData, the data loaded from the tab state database, with a builder that assembles nodes and reconciles divergent nodes.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_STORAGE_LOADED_DATA_H_
 #define CHROME_BROWSER_TAB_STORAGE_LOADED_DATA_H_
 

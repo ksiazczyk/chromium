@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageRestoreOrchestratorFactory
+// summary: Java factory that builds the native StorageRestoreOrchestrator to restore a TabStripCollection from storage for a given profile and loaded data.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationTracker
+// summary: Tracks navigations initiated by sync so they are not reported back to sync, preventing notification loops.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import android.util.ArraySet;

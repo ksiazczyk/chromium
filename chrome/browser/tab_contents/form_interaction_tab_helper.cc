@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form interaction tab helper implementation
+// summary: Implements the PerformanceManager graph observer that keeps each tab's form interaction state in sync with page node events.
+// ---
+
 #include "chrome/browser/tab_contents/form_interaction_tab_helper.h"
 
 #include "base/check.h"

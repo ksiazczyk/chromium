@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupSuggestionsBottomSheetContent
+// summary: Implements BottomSheetContent to display a tab group suggestion in an Android bottom sheet, exposing the suggestion and its user response callback.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion;
 
 import android.content.Context;

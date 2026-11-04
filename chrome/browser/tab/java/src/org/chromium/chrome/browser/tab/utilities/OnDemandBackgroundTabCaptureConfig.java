@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-demand background tab capture configuration
+// summary: Holds feature flag checks and parameters for on-demand background tab loading and context capture, including concurrency limits and first-paint timing.
+// ---
+
 package org.chromium.chrome.browser.tab.utilities;
 
 import androidx.annotation.VisibleForTesting;

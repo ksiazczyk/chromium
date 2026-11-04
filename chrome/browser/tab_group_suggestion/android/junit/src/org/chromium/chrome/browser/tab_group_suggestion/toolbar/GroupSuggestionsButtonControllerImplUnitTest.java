@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GroupSuggestionsButtonControllerImpl
+// summary: JUnit and Robolectric tests verifying the Android group suggestions toolbar button controller, covering suggestion display checks and user response handling with mocked services and tabs.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion.toolbar;
 
 import static org.junit.Assert.assertEquals;

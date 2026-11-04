@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListInterface factory implementation
+// summary: Implements TabListInterface::From, which looks the interface up in a browser window's unowned user data host.
+// ---
+
 #include "chrome/browser/tab_list/tab_list_interface.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

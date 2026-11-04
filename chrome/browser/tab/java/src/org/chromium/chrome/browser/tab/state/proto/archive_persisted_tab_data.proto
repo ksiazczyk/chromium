@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Archive persisted tab data proto
+// summary: Defines the ArchivePersistedTabDataProto message storing the timestamp at which a tab was archived.
+// ---
+
 syntax = "proto2";
 
 package org.chromium.chrome.browser.tab.proto;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab storage type conversion utilities implementation
+// summary: Implements conversions between TabCollection types and TabStorageType and checks whether a storage type is a collection type.
+// ---
+
 #include "chrome/browser/tab/tab_storage_util.h"
 
 #include "base/containers/fixed_flat_set.h"

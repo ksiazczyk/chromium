@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncLocalObserver
+// summary: Observes local tab model changes and notifies sync, and runs the startup routine to reconcile local and synced tab groups.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import static org.chromium.build.NullUtil.assertNonNull;

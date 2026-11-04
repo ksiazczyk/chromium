@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-demand tab loading service
+// summary: Queues and monitors tabs that need on-demand loading, tracking load status and notifying registered callbacks with results such as success, failure, or cancellation.
+// ---
+
 package org.chromium.chrome.browser.tab.utilities;
 
 import android.util.SparseArray;

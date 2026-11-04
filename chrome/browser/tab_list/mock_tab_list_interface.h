@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockTabListInterface gmock header
+// summary: Declares a gmock implementation of TabListInterface for unit tests, including how to register it in the window's UnownedUserDataHost.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_LIST_MOCK_TAB_LIST_INTERFACE_H_
 #define CHROME_BROWSER_TAB_LIST_MOCK_TAB_LIST_INTERFACE_H_
 

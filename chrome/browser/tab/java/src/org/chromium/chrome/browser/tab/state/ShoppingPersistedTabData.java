@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping persisted tab data for price drops
+// summary: PersistedTabData for shopping websites that stores and tracks product price drops with feature parameters, metrics, and currency formatting.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

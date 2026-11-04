@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabAttributes per-tab attribute storage
+// summary: Per-tab user data providing a keyed map of attributes so other classes can store and read values without holding a direct reference to the tab.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.util.ArrayMap;

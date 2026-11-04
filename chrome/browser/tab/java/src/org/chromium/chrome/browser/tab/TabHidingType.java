@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabHidingType annotation for tab hiding reasons
+// summary: Defines an IntDef annotation enumerating the reasons a tab can be hidden, such as tab switch, activity hiding, reparenting or showing the tab switcher.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import androidx.annotation.IntDef;

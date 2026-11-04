@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation metrics recorder implementation
+// summary: Records histograms for committed main frame navigations, including scheme counts, site engagement level and third-party cookie blocking state.
+// ---
+
 #include "chrome/browser/tab_contents/navigation_metrics_recorder.h"
 
 #include "base/logging.h"

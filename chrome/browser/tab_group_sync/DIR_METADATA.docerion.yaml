@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Tab group sync directory metadata
+summary: Points to the shared metadata mixins of the saved tab groups component for this directory.

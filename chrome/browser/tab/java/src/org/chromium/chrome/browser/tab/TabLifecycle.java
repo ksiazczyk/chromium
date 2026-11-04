@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabLifecycle interface
+// summary: Interface defining tab lifecycle operations such as show, hide, closing state, and destroy.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.chromium.build.annotations.MockedInTests;

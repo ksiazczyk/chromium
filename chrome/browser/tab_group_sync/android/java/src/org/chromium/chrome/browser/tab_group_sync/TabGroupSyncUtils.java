@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncUtils
+// summary: Utility methods for tab group sync, including URL filtering for syncable content and removal of stale local tab group ID mappings.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import static org.chromium.chrome.browser.url_constants.UrlConstantResolver.getOriginalNtpGurl;

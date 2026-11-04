@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab state storage updater header
+// summary: Declares TabStateStorageUpdater, which atomically performs a batch of storage updates in the tab state database.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_TAB_STATE_STORAGE_UPDATER_H_
 #define CHROME_BROWSER_TAB_TAB_STATE_STORAGE_UPDATER_H_
 

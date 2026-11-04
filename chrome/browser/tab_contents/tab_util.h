@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab utility interface
+// summary: Declares tab_util::GetSiteInstanceForNewTab, which returns a SiteInstance for WebUI and app URLs when a new tab is opened.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_CONTENTS_TAB_UTIL_H_
 #define CHROME_BROWSER_TAB_CONTENTS_TAB_UTIL_H_
 

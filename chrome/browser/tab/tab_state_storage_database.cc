@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStateStorageDatabase implementation
+// summary: Implements SQLite-backed storage of tab nodes and divergent nodes, including schema creation, migrations up to version 4, and transactional node operations.
+// ---
+
 #include "chrome/browser/tab/tab_state_storage_database.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedCdn
+// summary: Tab user data that exposes the trusted CDN publisher URL and content publisher name for the current web contents, with activity-scoped publisher URL visibility.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import androidx.annotation.VisibleForTesting;

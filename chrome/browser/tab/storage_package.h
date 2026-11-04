@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StoragePackage interface
+// summary: Declares an interface for serializable storage packages that can also serialize the identity and order of their child collections.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_STORAGE_PACKAGE_H_
 #define CHROME_BROWSER_TAB_STORAGE_PACKAGE_H_
 

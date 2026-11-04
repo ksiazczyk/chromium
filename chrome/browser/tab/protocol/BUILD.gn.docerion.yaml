@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for tab protocol protobufs
+summary: Defines proto_library and proto_java_library targets that build the tab protocol .proto files for Chromium.

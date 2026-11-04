@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup reconciliation helper for tab group sync
+// summary: Reconciles remote tab group updates and deletions with the local model at startup and initializes tab ID mappings.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import org.chromium.base.metrics.RecordHistogram;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab state storage service header
+// summary: Declares the TabStateStorageService keyed service API for saving and loading tab state, including scoped batching, priority boosting, and storage ID mapping.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_TAB_STATE_STORAGE_SERVICE_H_
 #define CHROME_BROWSER_TAB_TAB_STATE_STORAGE_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payload encryption utilities implementation
+// summary: Implements key generation and sealing or opening of encrypted off-the-record payloads using AES-128-CTR-HMAC-SHA256 with a storage ID.
+// ---
+
 #include "chrome/browser/tab/payload_util.h"
 
 #include <optional>

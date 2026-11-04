@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync tab state class declaration
+// summary: Declares TabGroupSyncTabState, a WebContentsUserData that stores per-tab state for tabs in saved tab groups and restricts certain tab activities while attached.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_GROUP_SYNC_TAB_GROUP_SYNC_TAB_STATE_H_
 #define CHROME_BROWSER_TAB_GROUP_SYNC_TAB_GROUP_SYNC_TAB_STATE_H_
 

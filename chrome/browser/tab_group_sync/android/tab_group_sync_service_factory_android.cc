@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI glue for the tab group sync service factory
+// summary: Exposes the per-profile TabGroupSyncService instance to Java through a JNI factory call.
+// ---
+
 #include "chrome/browser/tab_group_sync/tab_group_sync_service_factory.h"
 
 #include "base/android/scoped_java_ref.h"

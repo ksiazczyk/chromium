@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupSuggestionsPromotionMediator
+// summary: Implements the promotion logic as a GroupSuggestionsService delegate, merging suggested tabs into groups on accept and reporting user responses.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

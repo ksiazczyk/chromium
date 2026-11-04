@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab state storage updater builder implementation
+// summary: Implements the builder that accumulates and deduplicates pending node, payload, and children updates into a TabStateStorageUpdater.
+// ---
+
 #include "chrome/browser/tab/tab_state_storage_updater_builder.h"
 
 #include <algorithm>

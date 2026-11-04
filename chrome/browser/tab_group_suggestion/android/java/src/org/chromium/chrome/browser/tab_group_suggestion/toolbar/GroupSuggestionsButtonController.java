@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupSuggestionsButtonController interface
+// summary: Interface for the controller managing the group suggestion toolbar button state, covering availability checks, shown, hidden, and clicked outcomes reported to the backend.
+// ---
+
 package org.chromium.chrome.browser.tab_group_suggestion.toolbar;
 
 import org.chromium.build.annotations.NullMarked;

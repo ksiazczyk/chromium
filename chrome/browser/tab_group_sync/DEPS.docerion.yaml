@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tab group sync include rules
+summary: Specifies allowed include dependencies for the tab group sync directory, with special rules for the service factory, Android code and Java test helpers.

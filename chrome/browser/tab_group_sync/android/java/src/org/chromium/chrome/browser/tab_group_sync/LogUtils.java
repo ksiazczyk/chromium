@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging utilities for tab group sync
+// summary: Provides a debug logging helper that only emits messages when asserts are enabled in the build config.
+// ---
+
 package org.chromium.chrome.browser.tab_group_sync;
 
 import org.chromium.base.Log;

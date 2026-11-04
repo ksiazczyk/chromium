@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'tab_state.proto: TabState message'
+// summary: Defines the TabState message with tab ID, parent, timestamps, web contents state, theme color, and other tab metadata.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 

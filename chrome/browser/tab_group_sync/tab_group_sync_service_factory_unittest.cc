@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group sync service factory unit tests
+// summary: Verifies that the TabGroupSyncService is created for regular profiles and not created for incognito profiles.
+// ---
+
 #include "chrome/browser/tab_group_sync/tab_group_sync_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupCollectionData struct
+// summary: Declares a struct holding deserialized tab group collection data such as group id, collapsed state, color, and title.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_TAB_GROUP_COLLECTION_DATA_H_
 #define CHROME_BROWSER_TAB_TAB_GROUP_COLLECTION_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync utilities implementation
+// summary: Implements TabGroupSyncUtils, which decides whether a navigation in a saved tab group is saveable and records UKM metrics for saved tab group navigations.
+// ---
+
 #include "chrome/browser/tab_group_sync/tab_group_sync_utils.h"
 
 #include "components/saved_tab_groups/public/tab_group_sync_metrics_logger.h"

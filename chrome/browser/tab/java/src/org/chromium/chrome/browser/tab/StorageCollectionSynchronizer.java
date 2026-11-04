@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageCollectionSynchronizer
+// summary: JNI-backed class that synchronizes TabStripCollection state with storage, handling full saves, tab and group payload saves and restore cancellation.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import org.jni_zero.JNINamespace;

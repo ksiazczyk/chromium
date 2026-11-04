@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS references for tab_list
+summary: Delegates code review ownership to the OWNERS files of chrome/browser/ui/tabs and components/tabs.

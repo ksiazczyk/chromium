@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android tab module
+summary: Defines build targets and source lists for the tab module's Java and C++ code in the Chrome browser.

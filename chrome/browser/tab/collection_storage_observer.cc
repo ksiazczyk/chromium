@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectionStorageObserver implementation
+// summary: Implements reactions to tab collection structure changes by saving, moving, or removing nodes in tab state storage.
+// ---
+
 #include "chrome/browser/tab/collection_storage_observer.h"
 
 #include "chrome/browser/tab/tab_state_storage_service.h"

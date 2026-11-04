@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StoragePendingUpdates declarations
+// summary: Declares pending update classes and unit types that create thread-agnostic database update units for saving or removing storage nodes.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_STORAGE_PENDING_UPDATES_H_
 #define CHROME_BROWSER_TAB_STORAGE_PENDING_UPDATES_H_
 

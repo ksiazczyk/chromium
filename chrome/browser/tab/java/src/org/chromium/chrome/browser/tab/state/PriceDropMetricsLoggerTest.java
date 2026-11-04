@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriceDropMetricsLoggerTest
+// summary: Robolectric tests verifying tab usage status classification and price drop histogram recording for PriceDropMetricsLogger.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.mockito.Mockito.doReturn;

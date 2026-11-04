@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageId type alias and conversion helpers
+// summary: Defines the StorageId alias for base::UnguessableToken and conversion functions between storage IDs, byte blobs, and Token protos.
+// ---
+
 #ifndef CHROME_BROWSER_TAB_STORAGE_ID_H_
 #define CHROME_BROWSER_TAB_STORAGE_ID_H_
 
