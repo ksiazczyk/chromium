@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory-mapped file core implementation
+// summary: Implements the platform-independent parts of base::MemoryMappedFile, including initialization from paths or open files and region validation.
+// ---
+
 #include "base/files/memory_mapped_file.h"
 
 #include <utility>

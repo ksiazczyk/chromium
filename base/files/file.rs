@@ -7,6 +7,12 @@
 //! NOTE: Try to avoid using this type for now, since it's early in
 //! development and may be replaced with `std::fs::File` in the future.
 
+// ---docerion
+// type: source
+// title: Rust wrapper for base::File
+// summary: Rust wrapper around the C++ base::File through a cxx bridge, converting between owned file descriptors or Windows handles and the C++ File type.
+// ---
+
 use std::fmt;
 #[cfg(target_family = "unix")]
 use std::os::fd::{FromRawFd, IntoRawFd, OwnedFd as OwnedPlatformFile};

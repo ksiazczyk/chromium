@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public interface for base hash functions
+// summary: Declares Hash, FastHash, PersistentHash, HashInts32/64, IntPairHash, and HashCombine helpers for general non-cryptographic hashing.
+// ---
+
 #ifndef BASE_HASH_HASH_H_
 #define BASE_HASH_HASH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intl profile watcher implementation
+// summary: Implements watching fuchsia.intl.PropertyProvider for changes and extracting primary time zone and locale IDs from the intl profile.
+// ---
+
 #include "base/fuchsia/intl_profile_watcher.h"
 
 #include <fuchsia/intl/cpp/fidl.h>

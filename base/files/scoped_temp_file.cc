@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTempFile implementation
+// summary: Implements the base::ScopedTempFile class, which creates a temporary file and deletes it on destruction, move assignment, or Reset.
+// ---
+
 #include "base/files/scoped_temp_file.h"
 
 #include <utility>

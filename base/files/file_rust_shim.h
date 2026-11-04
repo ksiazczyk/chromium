@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust shim header for base::File
+// summary: Declares functions to create a base::File from an owned raw handle or file descriptor and to take the raw handle back, for Rust interoperability.
+// ---
+
 #ifndef BASE_FILES_FILE_RUST_SHIM_H_
 #define BASE_FILES_FILE_RUST_SHIM_H_
 

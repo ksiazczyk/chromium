@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance tests for SHA-1 and FastHash
+// summary: Benchmarks SHA-1 and FastHash runtime and throughput over several buffer sizes and reports metrics through PerfResultReporter.
+// ---
+
 #include "base/hash/hash.h"
 
 #include <stddef.h>

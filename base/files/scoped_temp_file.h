@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTempFile class header
+// summary: Declares base::ScopedTempFile, an owned FilePath wrapper that attempts to delete its temporary file when the object goes out of scope.
+// ---
+
 #ifndef BASE_FILES_SCOPED_TEMP_FILE_H_
 #define BASE_FILES_SCOPED_TEMP_FILE_H_
 

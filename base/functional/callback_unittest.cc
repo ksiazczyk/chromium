@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Callback unit tests
+// summary: Unit tests for base callbacks covering types, default construction, null checks, equality, reset, move semantics, and thread behavior.
+// ---
+
 #include "base/functional/callback.h"
 
 #include <memory>

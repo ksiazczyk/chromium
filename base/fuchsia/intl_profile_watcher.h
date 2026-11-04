@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intl profile watcher header
+// summary: Declares FuchsiaIntlProfileWatcher, which notifies a callback on intl profile changes and provides time zone and locale ID accessors.
+// ---
+
 #ifndef BASE_FUCHSIA_INTL_PROFILE_WATCHER_H_
 #define BASE_FUCHSIA_INTL_PROFILE_WATCHER_H_
 

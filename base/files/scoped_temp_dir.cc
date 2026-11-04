@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTempDir implementation
+// summary: Implements creation, adoption, deletion, and release of temporary directories that are recursively removed when the object goes out of scope.
+// ---
+
 #include "base/files/scoped_temp_dir.h"
 
 #include "base/files/file_util.h"

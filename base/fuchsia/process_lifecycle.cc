@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia process lifecycle handler implementation
+// summary: Implements the ProcessLifecycle binding that consumes the PA_LIFECYCLE handle and runs a stop callback on graceful termination requests.
+// ---
+
 #include "base/fuchsia/process_lifecycle.h"
 
 #include <lib/async/default.h>

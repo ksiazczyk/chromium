@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of base hash functions
+// summary: Implements FastHash via CityHash, integer-pair hashing, and persistent hashing whose output is perturbed by a per-process random seed.
+// ---
+
 #include "base/hash/hash.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileProxy class declaration
+// summary: Declares the FileProxy class, which provides asynchronous access to a File by bouncing operations to a TaskRunner with callback-based results.
+// ---
+
 #ifndef BASE_FILES_FILE_PROXY_H_
 #define BASE_FILES_FILE_PROXY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Linux FD ownership tracking
+// summary: Tests basic ScopedFD ownership tracking and uses death tests to verify crashes on double ownership and unowned close when enforcement is enabled.
+// ---
+
 #include "base/files/scoped_file.h"
 
 #include "base/files/file_util.h"

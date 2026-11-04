@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Fuchsia base directory owners
+summary: Lists code owners for the Fuchsia base directory and routes filtered service directory changes to security owners.

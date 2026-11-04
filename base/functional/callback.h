@@ -6,6 +6,12 @@
 // base::{Once,Repeating}Callback or base::{Once,Repeating}Closure should
 // #include "base/functional/callback_forward.h" instead of this file.
 
+// ---docerion
+// type: source
+// title: OnceCallback and RepeatingCallback classes
+// summary: Defines the OnceCallback and RepeatingCallback classes that wrap runnables invoked later via Run(), with cancellation and conversion support.
+// ---
+
 #ifndef BASE_FUNCTIONAL_CALLBACK_H_
 #define BASE_FUNCTIONAL_CALLBACK_H_
 

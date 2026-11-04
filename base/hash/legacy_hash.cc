@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy CityHash v1.0.3 implementation
+// summary: Wraps the frozen CityHash v1.0.3 code to provide stable CityHash64 and CityHash64WithSeed results for legacy consumers.
+// ---
+
 #include "base/hash/legacy_hash.h"
 
 #include <cstdint>

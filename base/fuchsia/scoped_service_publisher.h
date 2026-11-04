@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped service publisher classes for Fuchsia
+// summary: Declares ScopedServicePublisher and ScopedNaturalServicePublisher templates that add FIDL service entries to outgoing directories or pseudo dirs and remove them on destruction.
+// ---
+
 #ifndef BASE_FUCHSIA_SCOPED_SERVICE_PUBLISHER_H_
 #define BASE_FUCHSIA_SCOPED_SERVICE_PUBLISHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android file opening header
+// summary: Declares OpenAndroidFileResult and OpenAndroidFile for opening Android content URI or virtual document path files with open flags and error reporting.
+// ---
+
 #ifndef BASE_FILES_FILE_ANDROID_H_
 #define BASE_FILES_FILE_ANDROID_H_
 

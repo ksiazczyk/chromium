@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows file access validation tests
+// summary: Parameterized Windows tests that exhaustively validate how access rights and sharing mode bits affect opening and operating on files.
+// ---
+
 #include <windows.h>
 
 #include <shlobj.h>

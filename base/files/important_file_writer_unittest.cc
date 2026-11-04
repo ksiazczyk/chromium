@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Important file writer unit tests
+// summary: Unit tests covering ImportantFileWriter's serialization, background writes, and before/after write callback behavior.
+// ---
+
 #include "base/files/important_file_writer.h"
 
 #include <optional>

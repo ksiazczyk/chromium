@@ -1,0 +1,4 @@
+# Docerion header of test.test-fidl.
+type: source
+title: Test FIDL protocol definition
+summary: Defines a discoverable TestInterface FIDL protocol with an Add method that returns the sum of two integers, used by Fuchsia test helpers.

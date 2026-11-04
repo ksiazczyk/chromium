@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS implementation of GetFileDriveInfo
+// summary: iOS stub of GetFileDriveInfo that reports no seek penalty and leaves the other drive information fields unset.
+// ---
+
 #include "base/files/drive_info.h"
 
 namespace base {

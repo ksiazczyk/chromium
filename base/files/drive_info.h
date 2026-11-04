@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveInfo struct for drive metadata
+// summary: Declares the DriveInfo struct holding optional drive attributes such as seek penalty, removability, size and USB connection, plus GetFileDriveInfo helpers.
+// ---
+
 #ifndef BASE_FILES_DRIVE_INFO_H_
 #define BASE_FILES_DRIVE_INFO_H_
 

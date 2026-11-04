@@ -1,0 +1,4 @@
+# Docerion header of callback_nocompile.nc.
+type: test
+title: Callback no-compile tests
+summary: No-compile test suite asserting that invalid callback usage, such as mismatched types and bad Then chaining, fails to compile with expected errors.

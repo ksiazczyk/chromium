@@ -5,6 +5,12 @@
 // This file contains utility functions and classes that help the
 // implementation, and management of the Callback objects.
 
+// ---docerion
+// type: source
+// title: Callback internal declarations
+// summary: Declares internal BindStateBase, BindStateHolder, and related types that provide type-erased, refcounted state for callback objects.
+// ---
+
 #ifndef BASE_FUNCTIONAL_CALLBACK_INTERNAL_H_
 #define BASE_FUNCTIONAL_CALLBACK_INTERNAL_H_
 

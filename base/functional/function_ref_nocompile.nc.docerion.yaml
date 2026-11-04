@@ -1,0 +1,4 @@
+# Docerion header of function_ref_nocompile.nc.
+type: test
+title: FunctionRef no-compile tests
+summary: No-compile test suite verifying that BindOnce and BindRepeating reject FunctionRef arguments because of potential lifetime concerns.

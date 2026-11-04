@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConcurrentCallbacks header
+// summary: Defines ConcurrentCallbacks, an alternative to BarrierCallback that hands out OnceCallbacks and runs a done callback after all of them have executed.
+// ---
+
 #ifndef BASE_FUNCTIONAL_CONCURRENT_CALLBACKS_H_
 #define BASE_FUNCTIONAL_CONCURRENT_CALLBACKS_H_
 

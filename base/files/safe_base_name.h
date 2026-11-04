@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBaseName class for IPC-safe file base names
+// summary: Declares the SafeBaseName class, a validated last path component that rejects absolute paths and parent directory references and is safe to pass over IPC.
+// ---
+
 #ifndef BASE_FILES_SAFE_BASE_NAME_H_
 #define BASE_FILES_SAFE_BASE_NAME_H_
 

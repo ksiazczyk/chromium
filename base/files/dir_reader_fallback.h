@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fallback directory reader for unsupported platforms
+// summary: Provides a no-op DirReaderFallback class used on platforms without a direct directory-reading implementation, always reporting invalid state and empty iteration.
+// ---
+
 #ifndef BASE_FILES_DIR_READER_FALLBACK_H_
 #define BASE_FILES_DIR_READER_FALLBACK_H_
 

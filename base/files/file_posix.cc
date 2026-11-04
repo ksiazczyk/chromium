@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX implementation of base::File
+// summary: Implements the base::File class operations such as open, read, write, seek and locking on POSIX platforms, with Android 64-bit offset and AIX compatibility handling.
+// ---
+
 #include "base/files/file.h"
 
 // The only 32-bit platform that uses this file is Android. On Android APIs

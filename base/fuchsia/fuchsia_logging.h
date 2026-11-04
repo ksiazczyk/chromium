@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia logging macros and helpers
+// summary: Declares the ZX_LOG family of macros that decode zx_status_t errors and helpers for formatting FIDL connection and method result errors.
+// ---
+
 #ifndef BASE_FUCHSIA_FUCHSIA_LOGGING_H_
 #define BASE_FUCHSIA_FUCHSIA_LOGGING_H_
 

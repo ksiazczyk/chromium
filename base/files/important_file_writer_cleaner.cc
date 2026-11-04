@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Important file writer cleaner implementation
+// summary: Implements the singleton cleaner that scans registered directories in a background task and deletes orphaned .tmp files left behind by ImportantFileWriter crashes.
+// ---
+
 #include "base/files/important_file_writer_cleaner.h"
 
 #include <algorithm>

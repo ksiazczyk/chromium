@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SHA-1 unit tests
+// summary: Unit tests that verify base SHA-1 hashing against FIPS 180-2 example vectors for both string and span inputs.
+// ---
+
 #include "base/hash/sha1.h"
 
 #include <cstdint>

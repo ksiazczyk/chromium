@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for base hash functions
+// summary: Verifies expected hash values for Hash, PersistentHash, and FastHash across strings, byte spans, lengths, and edge cases.
+// ---
+
 #include "base/hash/hash.h"
 
 #include <cstdint>

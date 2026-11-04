@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedClosureRunner implementation
+// summary: Implements ScopedClosureRunner, which runs and resets its held closure on destruction or replacement.
+// ---
+
 #include "base/functional/callback_helpers.h"
 
 namespace base {

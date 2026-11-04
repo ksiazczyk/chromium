@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IsBaseCallback unit tests
+// summary: Compile-time tests checking which types satisfy IsBaseCallback, including callbacks, their references, POD types, and std::function.
+// ---
+
 #include "base/functional/is_callback.h"
 
 #include <functional>

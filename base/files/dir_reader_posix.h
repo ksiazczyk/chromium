@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Posix directory reader dispatcher header
+// summary: Selects DirReaderLinux on Linux, ChromeOS and Android, or the fallback implementation elsewhere, as the DirReaderPosix type for memory-free directory reading.
+// ---
+
 #ifndef BASE_FILES_DIR_READER_POSIX_H_
 #define BASE_FILES_DIR_READER_POSIX_H_
 

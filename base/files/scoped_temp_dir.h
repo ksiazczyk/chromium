@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTempDir RAII temporary directory class
+// summary: Declares ScopedTempDir, an RAII wrapper that creates or adopts a temporary directory and recursively deletes it when the object is destroyed.
+// ---
+
 #ifndef BASE_FILES_SCOPED_TEMP_DIR_H_
 #define BASE_FILES_SCOPED_TEMP_DIR_H_
 

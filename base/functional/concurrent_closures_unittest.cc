@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConcurrentClosures unit tests
+// summary: Unit tests covering ConcurrentClosures behavior for empty use, closures run before and after Done(), and callbacks outliving the object.
+// ---
+
 #include "base/functional/concurrent_closures.h"
 
 #include <vector>

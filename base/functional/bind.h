@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::BindOnce and base::BindRepeating helpers
+// summary: Declares BindOnce and BindRepeating helpers for partial argument application when creating OnceCallback and RepeatingCallback objects.
+// ---
+
 #ifndef BASE_FUNCTIONAL_BIND_H_
 #define BASE_FUNCTIONAL_BIND_H_
 

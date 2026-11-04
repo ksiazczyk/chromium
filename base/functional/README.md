@@ -1,3 +1,11 @@
+---
+type: readme
+title: base/functional library
+summary: Explains what belongs in the base/functional library and its design and naming conventions for STL-like function objects.
+relations:
+  - references /base/README.md
+---
+
 # base/functional library
 
 [TOC]

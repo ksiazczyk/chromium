@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX memory-mapped file implementation
+// summary: Implements mmap-based file mapping on POSIX systems, handling page alignment, access protections, and region allocation.
+// ---
+
 #include "base/files/memory_mapped_file.h"
 
 #include <fcntl.h>

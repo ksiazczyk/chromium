@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia file utilities unit tests
+// summary: Unit tests for OpenDirectoryHandle covering existing, non-existent, and non-directory paths.
+// ---
+
 #include "base/fuchsia/file_utils.h"
 
 #include "base/files/file_util.h"

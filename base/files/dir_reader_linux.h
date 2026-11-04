@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux directory reader using getdents64
+// summary: Implements DirReaderLinux, which reads directory entries on Linux via the getdents64 syscall without allocating memory.
+// ---
+
 #ifndef BASE_FILES_DIR_READER_LINUX_H_
 #define BASE_FILES_DIR_READER_LINUX_H_
 

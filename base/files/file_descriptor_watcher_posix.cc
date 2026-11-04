@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX file descriptor watcher implementation
+// summary: Implements FileDescriptorWatcher on POSIX, watching file descriptors for readability or writability via the IO message pump and dispatching callbacks on the creating sequence.
+// ---
+
 #include "base/files/file_descriptor_watcher_posix.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped service binding classes for Fuchsia services
+// summary: Declares ScopedServiceBinding and ScopedNaturalServiceBinding templates that publish FIDL services in outgoing directories or pseudo dirs and support last-client callbacks.
+// ---
+
 #ifndef BASE_FUCHSIA_SCOPED_SERVICE_BINDING_H_
 #define BASE_FUCHSIA_SCOPED_SERVICE_BINDING_H_
 

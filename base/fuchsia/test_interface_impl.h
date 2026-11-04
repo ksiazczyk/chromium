@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test interface declarations
+// summary: Declares the HLCPP TestInterface server implementation and the VerifyTestInterface helper used to exercise TestInterface channels in tests.
+// ---
+
 #ifndef BASE_FUCHSIA_TEST_INTERFACE_IMPL_H_
 #define BASE_FUCHSIA_TEST_INTERFACE_IMPL_H_
 

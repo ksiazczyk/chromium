@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileEnumerator class header
+// summary: Declares the FileEnumerator class for enumerating files and directories in a path, with FileInfo metadata, file type flags and platform-specific members.
+// ---
+
 #ifndef BASE_FILES_FILE_ENUMERATOR_H_
 #define BASE_FILES_FILE_ENUMERATOR_H_
 

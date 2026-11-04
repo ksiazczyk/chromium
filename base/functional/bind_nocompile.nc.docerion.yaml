@@ -1,0 +1,4 @@
+# Docerion header of bind_nocompile.nc.
+type: test
+title: No-compile tests for base::Bind
+summary: No-compile test suite asserting that invalid Bind usages, such as wrong receiver types, fail to compile with expected error messages.

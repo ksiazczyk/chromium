@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedServiceBinding
+// summary: Unit tests for ScopedServiceBinding and ScopedSingleClientServiceBinding covering repeated connections, custom service names, debug services, and client limits.
+// ---
+
 #include "base/fuchsia/scoped_service_binding.h"
 
 #include <lib/sys/cpp/component_context.h>

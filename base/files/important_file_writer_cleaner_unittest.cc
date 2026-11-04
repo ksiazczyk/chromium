@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Important file writer cleaner unit tests
+// summary: Unit tests for the important file writer cleaner that removes stale temporary files, covering file age, prefixes, and multiple directories.
+// ---
+
 #include "base/files/important_file_writer_cleaner.h"
 
 #include <optional>

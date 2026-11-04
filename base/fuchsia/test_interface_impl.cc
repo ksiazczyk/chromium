@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test interface implementation and verification
+// summary: Implements the HLCPP TestInterface server and a VerifyTestInterface helper that checks a TestInterface channel returns the expected sum.
+// ---
+
 #include "base/fuchsia/test_interface_impl.h"
 
 #include <utility>

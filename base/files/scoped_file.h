@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped file descriptor and FILE handle types
+// summary: Declares ScopedFD and ScopedFILE RAII wrappers plus FD ownership tracking and enforcement APIs for Linux, ChromeOS, Android, and other POSIX platforms.
+// ---
+
 #ifndef BASE_FILES_SCOPED_FILE_H_
 #define BASE_FILES_SCOPED_FILE_H_
 

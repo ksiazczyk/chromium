@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedNaturalServiceBinding
+// summary: Unit tests verifying ScopedNaturalServiceBinding supports multiple simultaneous clients, custom discovery names, debug-directory publishing, and last-client callbacks.
+// ---
+
 #include <lib/async/default.h>
 #include <lib/sys/cpp/component_context.h>
 

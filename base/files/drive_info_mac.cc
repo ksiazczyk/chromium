@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS drive info via IOKit
+// summary: Implements GetIOObjectDriveInfo on macOS, querying IOKit registry properties to determine seek penalty, USB connection, CoreStorage and APFS characteristics of a drive.
+// ---
+
 #include "base/files/drive_info.h"
 
 #include <CoreFoundation/CoreFoundation.h>

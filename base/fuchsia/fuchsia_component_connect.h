@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia component connect helpers
+// summary: Declares Connect and ConnectAt template helpers mirroring Fuchsia's component::Connect for connecting protocols via the process service directory.
+// ---
+
 #ifndef BASE_FUCHSIA_FUCHSIA_COMPONENT_CONNECT_H_
 #define BASE_FUCHSIA_FUCHSIA_COMPONENT_CONNECT_H_
 

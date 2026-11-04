@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FIDL event handler unit tests
+// summary: Unit tests verifying that FIDL error event handlers log errors, exit the process, or invoke callbacks as expected.
+// ---
+
 #include "base/fuchsia/fidl_event_handler.h"
 
 #include <fidl/base.testfidl/cpp/fidl.h>

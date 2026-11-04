@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FSEvents-based file path watcher for macOS
+// summary: Implements recursive file path watching on macOS using the FSEvents API, including symlink resolution and event stream management.
+// ---
+
 #include "base/files/file_path_watcher_fsevents.h"
 
 #include <dispatch/dispatch.h>

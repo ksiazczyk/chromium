@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileDescriptorWatcher POSIX unit tests
+// summary: Unit tests for FileDescriptorWatcher covering readable and writable callbacks with an IO message pump on the main thread or a separate thread.
+// ---
+
 
 #include "base/files/file_descriptor_watcher_posix.h"
 

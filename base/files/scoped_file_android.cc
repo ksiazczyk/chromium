@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android fdsan integration for ScopedFD
+// summary: Implements ScopedFDCloseTraits acquire and release hooks using Android fdsan owner tags so file descriptor ownership is tracked by the platform.
+// ---
+
 #include "base/files/scoped_file.h"
 
 #include <stdint.h>

@@ -1,3 +1,12 @@
+---
+type: readme
+title: Hashing
+summary: Explains base::FastHash and base::PersistentHash, their stability guarantees, and warns that the MD5 and SHA-1 code here is not cryptographically secure.
+relations:
+  - documents /base/hash/hash.h
+  - references /crypto/hash.h
+---
+
 # Hashing
 
 A hash function turns a variable-length input (called the "message", usually

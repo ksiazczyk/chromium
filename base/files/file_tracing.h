@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File tracing macros
+// summary: Defines trace event macros that instrument file operations with path and size attributes using Perfetto tracing.
+// ---
+
 #ifndef BASE_FILES_FILE_TRACING_H_
 #define BASE_FILES_FILE_TRACING_H_
 

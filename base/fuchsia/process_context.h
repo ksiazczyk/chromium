@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process-wide Fuchsia component context API
+// summary: Declares functions to access and, for tests, replace the process-wide Fuchsia component context and incoming service directory.
+// ---
+
 #ifndef BASE_FUCHSIA_PROCESS_CONTEXT_H_
 #define BASE_FUCHSIA_PROCESS_CONTEXT_H_
 

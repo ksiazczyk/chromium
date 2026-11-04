@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows memory-mapped file implementation
+// summary: Implements file mapping on Windows using CreateFileMapping and MapViewOfFile, including executable image mapping for code prefetching.
+// ---
+
 #include "base/files/memory_mapped_file.h"
 
 #include <windows.h>

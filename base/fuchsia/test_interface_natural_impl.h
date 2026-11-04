@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test FIDL interface server and client helpers
+// summary: Declares a FIDL server implementation of the base.testfidl TestInterface plus helpers to connect a client and verify the TestInterface channel during tests.
+// ---
+
 #ifndef BASE_FUCHSIA_TEST_INTERFACE_NATURAL_IMPL_H_
 #define BASE_FUCHSIA_TEST_INTERFACE_NATURAL_IMPL_H_
 

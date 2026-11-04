@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DISALLOW_UNRETAINED macro header
+// summary: Defines the experimental DISALLOW_UNRETAINED() macro that lets types forbid base::Unretained() in callbacks, with guidance on safer alternatives.
+// ---
+
 #ifndef BASE_FUNCTIONAL_DISALLOW_UNRETAINED_H_
 #define BASE_FUNCTIONAL_DISALLOW_UNRETAINED_H_
 

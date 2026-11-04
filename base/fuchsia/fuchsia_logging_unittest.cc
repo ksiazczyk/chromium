@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia logging unit tests
+// summary: Tests that log messages reach the Fuchsia system log, multi-tag loggers via ScopedFxLogger, and the ZX_* logging macro behavior.
+// ---
+
 #include "base/fuchsia/fuchsia_logging.h"
 
 #include <fidl/base.testfidl/cpp/fidl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveInfo unit tests
+// summary: Unit test verifying that GetFileDriveInfo returns plausible drive information such as seek penalty, removability, media size, APFS status and BSD name across platforms.
+// ---
+
 #include "base/files/drive_info.h"
 
 #include "base/files/file_path.h"

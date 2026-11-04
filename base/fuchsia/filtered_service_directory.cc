@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filtered service directory implementation
+// summary: Implements a service directory that exposes a filtered subset of services from an underlying service directory.
+// ---
+
 #include "base/fuchsia/filtered_service_directory.h"
 
 #include <fidl/fuchsia.io/cpp/common_types.h>

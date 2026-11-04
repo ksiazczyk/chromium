@@ -99,6 +99,12 @@
 //    paths (sometimes)?", available at:
 //    http://blogs.msdn.com/oldnewthing/archive/2005/11/22/495740.aspx
 
+// ---docerion
+// type: source
+// title: FilePath class declaration
+// summary: Declares base::FilePath, a container for pathnames in the platform's native string type with string-based path operations that avoid filesystem access.
+// ---
+
 #ifndef BASE_FILES_FILE_PATH_H_
 #define BASE_FILES_FILE_PATH_H_
 

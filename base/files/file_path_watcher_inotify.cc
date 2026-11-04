@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inotify file path watcher for Linux
+// summary: Implements file path watching on Linux and similar systems with a shared inotify reader singleton that dispatches change events to watchers.
+// ---
+
 #include "base/files/file_path_watcher_inotify.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileDescriptorWatcher POSIX header
+// summary: Declares the FileDescriptorWatcher API, which invokes callbacks when POSIX file descriptors become readable or writable without blocking, using an IO task runner.
+// ---
+
 #ifndef BASE_FILES_FILE_DESCRIPTOR_WATCHER_POSIX_H_
 #define BASE_FILES_FILE_DESCRIPTOR_WATCHER_POSIX_H_
 

@@ -7,6 +7,12 @@
 // methods to Callback<> itself is unattractive (lots of extra code gets
 // generated).  Instead, consider adding methods here.
 
+// ---docerion
+// type: source
+// title: Callback helper utilities header
+// summary: Declares callback helper utilities such as SplitOnceCallback, ForwardRepeatingCallbacks, and IgnoreArgs for adapting and combining base callbacks.
+// ---
+
 #ifndef BASE_FUNCTIONAL_CALLBACK_HELPERS_H_
 #define BASE_FUNCTIONAL_CALLBACK_HELPERS_H_
 

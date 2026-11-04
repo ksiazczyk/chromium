@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia system info fetching and caching
+// summary: Implements fetching and caching of Fuchsia build info from fuchsia.buildinfo.Provider and synchronous retrieval of product info from fuchsia.hwinfo.Product.
+// ---
+
 #include "base/fuchsia/system_info.h"
 
 #include <fidl/fuchsia.buildinfo/cpp/fidl.h>

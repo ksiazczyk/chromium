@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback internal implementation
+// summary: Implements internal BindStateBase and BindStateHolder machinery, including refcount destruction and cancellation queries, used by the callback system.
+// ---
+
 #include "base/functional/callback_internal.h"
 
 #include <utility>

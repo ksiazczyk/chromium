@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConcurrentCallbacks unit tests
+// summary: Tests ConcurrentCallbacks behavior for empty use, callbacks run before and after Done, callbacks outliving the object, and const-reference arguments.
+// ---
+
 #include "base/functional/concurrent_callbacks.h"
 
 #include <vector>

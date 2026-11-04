@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FunctionRef unit tests
+// summary: Unit tests for base::FunctionRef covering lambdas, function pointers, functors, methods, construction rules, and convertible return types.
+// ---
+
 #include "base/functional/function_ref.h"
 
 #include <stdint.h>

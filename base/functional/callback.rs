@@ -11,6 +11,12 @@
 //! RustOnceClosure, call base::BindOnce with the closure and the `run`
 //! method.
 
+// ---docerion
+// type: source
+// title: RustOnceClosure for C++ interop
+// summary: Defines the RustOnceClosure type, logically equivalent to base::OnceClosure, exposed to C++ through a cxx bridge.
+// ---
+
 chromium::import! {
     "//base:scoped_refptr";
 }

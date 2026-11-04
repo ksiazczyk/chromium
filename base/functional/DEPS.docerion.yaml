@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: base/functional DEPS include rules
+summary: Defines include rules for the base/functional directory, permitting use of the Abseil function_ref header.

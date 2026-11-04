@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia system info API declarations
+// summary: Declares the base API for fetching and caching Fuchsia build info, retrieving product info, and resetting the cache for testing.
+// ---
+
 #ifndef BASE_FUCHSIA_SYSTEM_INFO_H_
 #define BASE_FUCHSIA_SYSTEM_INFO_H_
 

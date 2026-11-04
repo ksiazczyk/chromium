@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConcurrentClosures class header
+// summary: Declares base::ConcurrentClosures, which dispenses OnceClosures via CreateClosure() and runs a done closure after all prior closures have run.
+// ---
+
 #ifndef BASE_FUNCTIONAL_CONCURRENT_CLOSURES_H_
 #define BASE_FUNCTIONAL_CONCURRENT_CLOSURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia test log listener implementation
+// summary: Implements TestLogListenerSafe and SimpleTestLogListener test helpers that capture Fuchsia logger messages and wait for expected log entries.
+// ---
+
 #include "base/fuchsia/test_log_listener_safe.h"
 
 #include <lib/async/default.h>

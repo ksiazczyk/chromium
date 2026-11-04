@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilteredServiceDirectory header
+// summary: Declares a service directory that proxies requests to a restricted set of allowed Fuchsia services and exposes an outgoing directory for extra handlers.
+// ---
+
 #ifndef BASE_FUCHSIA_FILTERED_SERVICE_DIRECTORY_H_
 #define BASE_FUCHSIA_FILTERED_SERVICE_DIRECTORY_H_
 

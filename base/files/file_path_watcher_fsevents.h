@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FSEvents file path watcher header
+// summary: Declares FilePathWatcherFSEvents, the macOS FSEvents-based platform delegate for FilePathWatcher with recursive watch support.
+// ---
+
 #ifndef BASE_FILES_FILE_PATH_WATCHER_FSEVENTS_H_
 #define BASE_FILES_FILE_PATH_WATCHER_FSEVENTS_H_
 

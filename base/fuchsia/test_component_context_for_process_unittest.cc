@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test component context unit tests
+// summary: Unit tests verifying service injection, publication to the outgoing directory, and system-service exposure through TestComponentContextForProcess.
+// ---
+
 #include "base/fuchsia/test_component_context_for_process.h"
 
 #include <fidl/fuchsia.buildinfo/cpp/fidl.h>

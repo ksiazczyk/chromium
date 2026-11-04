@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS FilePathWatcher platform selection
+// summary: Selects the macOS watcher backend, using FSEvents for recursive watches and kqueue for non-recursive ones.
+// ---
+
 #include "base/files/file_path_watcher.h"
 
 #include <memory>

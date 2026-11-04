@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileProxy unit tests
+// summary: Unit tests for FileProxy covering create or open, temporary file creation, close, info, read and write operations via a dedicated file thread.
+// ---
+
 #include "base/files/file_proxy.h"
 
 #include <stddef.h>

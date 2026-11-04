@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Fuchsia logger implementation
+// summary: Implements ScopedFxLogger, creating Fuchsia loggers from LogSink connections with process-name tags and mapping Chromium severities to Fuchsia levels.
+// ---
+
 #include "base/fuchsia/scoped_fx_logger.h"
 
 #include <lib/component/incoming/cpp/protocol.h>

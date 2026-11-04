@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux file descriptor ownership tracking
+// summary: Tracks ScopedFD ownership in a fixed-size table, intercepts libc close() to crash on ownership violations, and provides enforcement and reset controls.
+// ---
+
 #include "base/files/scoped_file.h"
 
 #include <dlfcn.h>

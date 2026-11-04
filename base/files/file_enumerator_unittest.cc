@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileEnumerator unit tests
+// summary: Unit tests for FileEnumerator covering patterns, recursion, folder search policies, error policies, Android content URIs and file info accuracy.
+// ---
+
 #include "base/files/file_enumerator.h"
 
 #include <string>

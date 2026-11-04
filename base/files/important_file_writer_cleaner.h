@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Important file writer cleaner declaration
+// summary: Declares ImportantFileWriterCleaner, a singleton that removes forgotten .tmp files older than the current process from directories used for atomic file writes.
+// ---
+
 #ifndef BASE_FILES_IMPORTANT_FILE_WRITER_CLEANER_H_
 #define BASE_FILES_IMPORTANT_FILE_WRITER_CLEANER_H_
 

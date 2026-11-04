@@ -6,6 +6,12 @@
 // to construct special callbacks. This lives in its own file to avoid circular
 // dependencies.
 
+// ---docerion
+// type: source
+// title: Callback tag types
+// summary: Defines internal NullCallbackTag and DoNothingCallbackTag types used to construct special null and do-nothing callbacks.
+// ---
+
 #ifndef BASE_FUNCTIONAL_CALLBACK_TAGS_H_
 #define BASE_FUNCTIONAL_CALLBACK_TAGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Callback helpers unit tests
+// summary: Unit and compile-time tests for callback helpers, covering NullCallback, DoNothing tags, SplitOnceCallback, and IgnoreArgs behavior.
+// ---
+
 #include "base/functional/callback_helpers.h"
 
 #include <type_traits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for blocking test writes to special dirs
+// summary: Unit tests verifying that BlockTestsWritingToSpecialDirs blocks writes to special directories while still allowing writes under temp directories.
+// ---
+
 #include "base/files/block_tests_writing_to_special_dirs.h"
 
 #include "base/base_paths.h"

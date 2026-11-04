@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default Fuchsia job API
+// summary: Declares functions to get and set the default Zircon job and a scoped helper for replacing it in tests.
+// ---
+
 #ifndef BASE_FUCHSIA_DEFAULT_JOB_H_
 #define BASE_FUCHSIA_DEFAULT_JOB_H_
 

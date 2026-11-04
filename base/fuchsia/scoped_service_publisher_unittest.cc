@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedServicePublisher
+// summary: Unit tests verifying published services stay connected after the publisher is destroyed while new connection attempts fail with ZX_ERR_NOT_FOUND.
+// ---
+
 #include "base/fuchsia/scoped_service_publisher.h"
 
 #include <fuchsia/io/cpp/fidl.h>

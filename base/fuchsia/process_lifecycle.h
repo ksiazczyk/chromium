@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia process lifecycle handler
+// summary: Declares ProcessLifecycle, which registers a fuchsia.process.lifecycle.Lifecycle handler for Component Framework v2 stop requests.
+// ---
+
 #ifndef BASE_FUCHSIA_PROCESS_LIFECYCLE_H_
 #define BASE_FUCHSIA_PROCESS_LIFECYCLE_H_
 

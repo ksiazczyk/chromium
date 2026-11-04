@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust FFI bridge for FilePath
+// summary: Provides Rust bindings to the C++ base::FilePath via a cxx bridge, converting between Rust Path and FilePath on Unix and Windows.
+// ---
+
 use cxx::UniquePtr;
 use std::path::{Path, PathBuf};
 

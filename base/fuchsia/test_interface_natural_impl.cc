@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Natural FIDL test interface implementation
+// summary: Implements the natural FIDL TestInterface server plus helpers to create and verify fidl::Client connections to it.
+// ---
+
 #include "base/fuchsia/test_interface_natural_impl.h"
 
 #include <lib/async/default.h>

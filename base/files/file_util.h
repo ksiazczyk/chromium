@@ -5,6 +5,12 @@
 // This file contains utility functions for dealing with the local
 // filesystem.
 
+// ---docerion
+// type: source
+// title: Filesystem utility functions declaration
+// summary: Declares utility functions for the local filesystem, such as making absolute paths, computing directory size, and deleting files or paths recursively.
+// ---
+
 #ifndef BASE_FILES_FILE_UTIL_H_
 #define BASE_FILES_FILE_UTIL_H_
 
