@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert submenu view implementation
+// summary: Implements the bubble widget delegate view that lays out submenu items, styles the border, and computes desired bounds relative to its anchor.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_submenu_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_list_item_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_section_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_submenu_view.h"
 
 #include <memory>

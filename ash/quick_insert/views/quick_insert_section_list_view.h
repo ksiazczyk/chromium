@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert section list view class declaration
+// summary: Declares the view that displays Quick Insert sections in a vertical list, exposing navigation queries and section add, insert and clear operations.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SECTION_LIST_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SECTION_LIST_VIEW_H_
 

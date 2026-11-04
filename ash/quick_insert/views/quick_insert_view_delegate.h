@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert view delegate interface
+// summary: Defines the QuickInsertViewDelegate interface supplying categories, search and emoji results, result insertion, and editor or emoji picker actions.
+// relations:
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_VIEW_DELEGATE_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_VIEW_DELEGATE_H_
 

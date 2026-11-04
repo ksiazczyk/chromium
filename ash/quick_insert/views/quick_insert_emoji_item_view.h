@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Emoji Item View Header
+// summary: Declares the Quick Insert item view that displays a single emoji, emoticon, or symbol, with a style enum and a test-only text accessor.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/views/quick_insert_item_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_EMOJI_ITEM_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_EMOJI_ITEM_VIEW_H_
 

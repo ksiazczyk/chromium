@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert skeleton loader view implementation
+// summary: Implements the skeleton loader view, a repeating opacity animation that starts after a configurable delay and can be stopped to reset the view.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_skeleton_loader_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_skeleton_loader_view.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_skeleton_loader_view.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

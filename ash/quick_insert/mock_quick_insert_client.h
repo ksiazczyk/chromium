@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Quick Insert client header
+// summary: Declares a gmock-based mock of QuickInsertClient with mocked search, editor, file, favicon and history methods for unit tests.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+//   - implements /ash/quick_insert/quick_insert_client.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_MOCK_QUICK_INSERT_CLIENT_H_
 #define ASH_QUICK_INSERT_MOCK_QUICK_INSERT_CLIENT_H_
 

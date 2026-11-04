@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert emoji history model unit tests
+// summary: Unit tests verifying that the emoji history model returns, adds, and updates recent emoji entries in preferences.
+// relations:
+//   - tests /ash/quick_insert/model/quick_insert_emoji_history_model.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /base/json/values_util.h
+// ---
+
 #include "ash/quick_insert/model/quick_insert_emoji_history_model.h"
 
 #include "ash/constants/ash_pref_names.h"

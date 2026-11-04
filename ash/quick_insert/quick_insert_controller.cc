@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert controller implementation
+// summary: Implements the Quick Insert widget controller, handling toggling, search results, media insertion, the caps lock bubble, feature tour, and profile prefs.
+// relations:
+//   - implements /ash/quick_insert/quick_insert_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/clipboard/clipboard_history_util.h
+// ---
+
 #include "ash/quick_insert/quick_insert_controller.h"
 
 #include <algorithm>

@@ -1,0 +1,7 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Insert resources GN build file
+summary: Defines the grit target that compiles quick_insert_resources.grd into a header and pak file for ChromeOS.
+relations:
+  - depends_on /tools/grit/grit_rule.gni
+  - configures /ash/quick_insert/resources/quick_insert_resources.grd

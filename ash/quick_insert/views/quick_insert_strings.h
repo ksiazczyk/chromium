@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert strings header
+// summary: Declares helper functions that return labels, search field placeholder text, and section titles for Quick Insert categories and sections.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/model/quick_insert_search_results_section.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_STRINGS_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_STRINGS_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert Emoji Bar View Unit Tests
+// summary: Unit tests for the Quick Insert emoji bar view covering accessibility roles and names, GIF state, and creation of search result items.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_emoji_bar_view.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /ash/quick_insert/views/quick_insert_emoji_bar_view_delegate.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_emoji_bar_view.h"
 
 #include <memory>

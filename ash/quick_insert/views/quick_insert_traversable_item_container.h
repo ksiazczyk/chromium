@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert traversable item container interface
+// summary: Declares the interface Quick Insert item containers implement to support item traversal, exposing navigation to top, bottom, and neighboring items.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_TRAVERSABLE_ITEM_CONTAINER_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_TRAVERSABLE_ITEM_CONTAINER_H_
 

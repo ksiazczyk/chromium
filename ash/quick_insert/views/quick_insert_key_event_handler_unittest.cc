@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert key event handler unit tests
+// summary: Unit tests verifying key event handling for pseudo focus navigation, including arrow keys, Tab traversal, modifier keys and RTL behavior.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_key_event_handler.h
+//   - depends_on /ash/quick_insert/views/quick_insert_pseudo_focus_handler.h
+//   - depends_on /base/i18n/test/scoped_rtl_for_testing.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_key_event_handler.h"
 
 #include "ash/quick_insert/views/quick_insert_pseudo_focus_handler.h"

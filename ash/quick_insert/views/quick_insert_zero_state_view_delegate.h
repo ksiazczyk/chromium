@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert zero state view delegate interface
+// summary: Defines the QuickInsertZeroStateViewDelegate interface for category and result selection, suggested results, pseudo focus and caps lock state.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/quick_insert/quick_insert_category.h
+//   - references /ash/quick_insert/quick_insert_search_result.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_ZERO_STATE_VIEW_DELEGATE_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_ZERO_STATE_VIEW_DELEGATE_H_
 

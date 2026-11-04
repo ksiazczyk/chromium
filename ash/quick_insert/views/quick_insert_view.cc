@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert main view implementation
+// summary: Implements the main Quick Insert bubble view, wiring the search field, results, emoji bar, submenus, positioning, keyboard handling, and metrics.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_view.h"
 
 #include <algorithm>

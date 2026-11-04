@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert math search implementation
+// summary: Implements QuickInsertMathSearch and QuickInsertMathExamples, evaluating queries with the fend core library and returning math text results with a vector icon.
+// relations:
+//   - implements /ash/quick_insert/search/quick_insert_math_search.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /base/strings/utf_string_conversions.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_math_search.h"
 
 #include <optional>

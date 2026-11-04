@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert badge view
+// summary: Declares a badge view containing a label with an icon after it, built on BoxLayoutView with a view builder property for its text.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/gfx/geometry/size.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_BADGE_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_BADGE_VIEW_H_
 

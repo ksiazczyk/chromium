@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert emoji bar view header
+// summary: Declares the emoji bar view shown above the Quick Insert container, including search result handling and traversal support.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /ash/quick_insert/views/quick_insert_traversable_item_container.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_EMOJI_BAR_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_EMOJI_BAR_VIEW_H_
 

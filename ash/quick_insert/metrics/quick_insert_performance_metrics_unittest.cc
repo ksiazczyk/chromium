@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert performance metrics unit tests
+// summary: Unit tests verifying that Quick Insert performance metrics record input focus, search field, and results presentation latency histograms only while recording.
+// relations:
+//   - tests /ash/quick_insert/metrics/quick_insert_performance_metrics.h
+//   - depends_on /base/test/bind.h
+//   - depends_on /base/test/metrics/histogram_tester.h
+// ---
+
 #include "ash/quick_insert/metrics/quick_insert_performance_metrics.h"
 
 #include "base/scoped_observation.h"

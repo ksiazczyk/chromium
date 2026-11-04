@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for Quick Insert
+summary: Applies the shared COMMON_METADATA mixins to this directory.
+relations:
+  - references /ash/quick_insert/COMMON_METADATA

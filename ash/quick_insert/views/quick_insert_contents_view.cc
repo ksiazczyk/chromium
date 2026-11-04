@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert contents view implementation
+// summary: Implements the scrollable main contents view that hosts multiple pages with at most one page visible at a time.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_contents_view.h
+//   - depends_on /ash/controls/rounded_scroll_bar.h
+//   - depends_on /ash/quick_insert/views/quick_insert_style.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_contents_view.h"
 
 #include <limits>

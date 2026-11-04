@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert suggestions controller implementation
+// summary: Builds Quick Insert suggestion results such as new window items, caps lock toggle, editor rewrites, GIFs, and case transforms based on the current model state.
+// relations:
+//   - implements /ash/quick_insert/quick_insert_suggestions_controller.h
+//   - depends_on /ash/quick_insert/model/quick_insert_mode_type.h
+//   - depends_on /ash/quick_insert/model/quick_insert_model.h
+// ---
+
 #include "ash/quick_insert/quick_insert_suggestions_controller.h"
 
 #include <algorithm>

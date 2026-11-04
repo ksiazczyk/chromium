@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert editor search unit tests
+// summary: Unit tests for QuickInsertEditorSearch, verifying that editor action results match English and Japanese queries and that overly short strings produce no result.
+// relations:
+//   - tests /ash/quick_insert/search/quick_insert_editor_search.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_editor_search.h"
 
 #include <string>

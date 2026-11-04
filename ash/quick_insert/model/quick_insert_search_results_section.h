@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert search results section class declaration
+// summary: Declares QuickInsertSearchResultsSection and the QuickInsertSectionType enum used to group Quick Insert search results into sections such as clipboard, links, and GIFs.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /base/containers/span.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_MODEL_QUICK_INSERT_SEARCH_RESULTS_SECTION_H_
 #define ASH_QUICK_INSERT_MODEL_QUICK_INSERT_SEARCH_RESULTS_SECTION_H_
 

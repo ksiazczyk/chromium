@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert pseudo focus helpers implementation
+// summary: Applies, removes and acts on pseudo focus for Quick Insert views and finds the next pseudo focusable view in a direction.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_pseudo_focus.h
+//   - depends_on /ash/quick_insert/views/quick_insert_item_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_search_bar_textfield.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_pseudo_focus.h"
 
 #include "ash/quick_insert/views/quick_insert_item_view.h"

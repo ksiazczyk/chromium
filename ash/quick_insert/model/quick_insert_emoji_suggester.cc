@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert emoji suggester implementation
+// summary: Implements the emoji suggester that merges recent emoji history with a default emoji set to produce suggested emoji results.
+// relations:
+//   - implements /ash/quick_insert/model/quick_insert_emoji_suggester.h
+//   - depends_on /ash/quick_insert/model/quick_insert_emoji_history_model.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+// ---
+
 #include "ash/quick_insert/model/quick_insert_emoji_suggester.h"
 
 #include <algorithm>

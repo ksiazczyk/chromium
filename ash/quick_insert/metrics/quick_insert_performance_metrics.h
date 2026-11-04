@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert performance metrics class declaration
+// summary: Declares QuickInsertPerformanceMetrics, which records per-session latency metrics such as input readiness and presentation times for Quick Insert sessions.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_METRICS_QUICK_INSERT_PERFORMANCE_METRICS_H_
 #define ASH_QUICK_INSERT_METRICS_QUICK_INSERT_PERFORMANCE_METRICS_H_
 

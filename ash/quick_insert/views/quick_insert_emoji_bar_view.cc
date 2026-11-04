@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert emoji bar view implementation
+// summary: Implements the emoji bar that shows emoji, symbol, and emoticon search results with GIFs and more-emojis buttons.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_emoji_bar_view.h
+//   - depends_on /ash/ash_element_identifiers.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_emoji_bar_view.h"
 
 #include <memory>

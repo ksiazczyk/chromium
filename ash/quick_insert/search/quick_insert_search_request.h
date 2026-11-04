@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert search request class declaration
+// summary: Declares QuickInsertSearchRequest, which starts a search on construction, stops it on destruction, and routes provider results to callbacks.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_SEARCH_QUICK_INSERT_SEARCH_REQUEST_H_
 #define ASH_QUICK_INSERT_SEARCH_QUICK_INSERT_SEARCH_REQUEST_H_
 

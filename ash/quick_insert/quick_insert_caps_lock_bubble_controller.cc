@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert caps lock bubble controller implementation
+// summary: Implements the caps lock bubble controller that shows a state bubble near the caret on caps lock changes and closes it on input events or after a timeout.
+// relations:
+//   - depends_on /ash/quick_insert/quick_insert_caps_lock_bubble_controller.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/quick_insert/views/quick_insert_caps_lock_state_view.h
+// ---
+
 #include "ash/quick_insert/quick_insert_caps_lock_bubble_controller.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

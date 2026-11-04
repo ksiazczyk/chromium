@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert feature usage metrics class declaration
+// summary: Declares QuickInsertFeatureUsageMetrics, which tracks Quick Insert feature usage for the Standard Feature Usage Logging framework with start and stop usage methods.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /chromeos/ash/components/feature_usage/feature_usage_metrics.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_METRICS_QUICK_INSERT_FEATURE_USAGE_METRICS_H_
 #define ASH_QUICK_INSERT_METRICS_QUICK_INSERT_FEATURE_USAGE_METRICS_H_
 

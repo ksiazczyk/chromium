@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert search aggregator unit tests
+// summary: Parameterized unit tests for QuickInsertSearchAggregator covering section mapping for search sources, burn-in timing, result publishing, and deduplication behavior.
+// relations:
+//   - tests /ash/quick_insert/search/quick_insert_search_aggregator.h
+//   - depends_on /ash/quick_insert/model/quick_insert_search_results_section.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_search_aggregator.h"
 
 #include <optional>

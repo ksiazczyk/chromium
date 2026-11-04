@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickInsertItemWithSubmenuView implementation
+// summary: Implements the QuickInsertItemWithSubmenuView, a full-width vertical list item with a leading icon, label, and entries that open in a submenu.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_item_with_submenu_view.h
+//   - depends_on /ash/bubble/bubble_utils.h
+//   - depends_on /ash/quick_insert/views/quick_insert_item_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_item_with_submenu_view.h"
 
 #include <memory>

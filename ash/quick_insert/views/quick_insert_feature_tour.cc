@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Feature Tour Implementation
+// summary: Implements the Quick Insert first-use feature tour, showing a floating dialog widget once per profile via a pref and observing window activation.
+// relations:
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/quick_insert/views/quick_insert_feature_tour_dialog_view.h
+//   - depends_on /base/check_op.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_feature_tour.h"
 
 #include <memory>

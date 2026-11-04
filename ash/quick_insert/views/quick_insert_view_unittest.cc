@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert view unit tests
+// summary: Unit tests covering QuickInsertView behavior, including search results, emoji bar, pseudo focus, session metrics and accessibility interactions.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_view.h"
 
 #include <optional>

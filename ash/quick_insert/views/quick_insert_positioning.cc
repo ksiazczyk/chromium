@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert positioning implementation
+// summary: Computes the anchor bounds for the Quick Insert window, preferring padded caret bounds and falling back to the cursor point.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_positioning.h
+//   - depends_on /ui/gfx/geometry/outsets.h
+//   - depends_on /ui/gfx/geometry/point.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_positioning.h"
 
 #include "ui/gfx/geometry/outsets.h"

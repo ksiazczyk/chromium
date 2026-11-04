@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert paste request unit tests
+// summary: Unit tests verifying that the paste request pastes the clipboard item only when a new window gains focus and not after destruction.
+// relations:
+//   - tests /ash/quick_insert/quick_insert_paste_request.h
+//   - depends_on /ash/clipboard/test_support/mock_clipboard_history_controller.h
+//   - depends_on /base/unguessable_token.h
+// ---
+
 #include "ash/quick_insert/quick_insert_paste_request.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Caps Lock position enum
+// summary: Defines the QuickInsertCapsLockPosition enum for placing the Caps Lock result within the zero-state view.
+// ---
+
 #ifndef ASH_QUICK_INSERT_MODEL_QUICK_INSERT_CAPS_LOCK_POSITION_H_
 #define ASH_QUICK_INSERT_MODEL_QUICK_INSERT_CAPS_LOCK_POSITION_H_
 

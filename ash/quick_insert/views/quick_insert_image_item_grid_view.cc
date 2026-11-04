@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Image Item Grid View Implementation
+// summary: Implements a two-column table-layout grid container that arranges image items and supports directional item traversal for focus navigation.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_image_item_grid_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_image_item_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_item_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_image_item_grid_view.h"
 
 #include <algorithm>

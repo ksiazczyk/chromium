@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuickInsertItemView unit tests
+// summary: Unit tests verifying that QuickInsertItemView defaults to the normal state and shows a background only in the pseudo-focused state.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_item_view.h
+//   - depends_on /base/functional/callback_helpers.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_item_view.h"
 
 #include "base/functional/callback_helpers.h"

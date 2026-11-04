@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert emoji history model implementation
+// summary: Implements the emoji history model that reads and updates recent emoji, emoticon, symbol, and GIF history entries stored in user preferences.
+// relations:
+//   - implements /ash/quick_insert/model/quick_insert_emoji_history_model.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /base/check_deref.h
+// ---
+
 #include "ash/quick_insert/model/quick_insert_emoji_history_model.h"
 
 #include <string>

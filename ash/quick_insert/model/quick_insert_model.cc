@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert model implementation
+// summary: Implements QuickInsertModel, capturing input focus, selection, caps lock, and feature states to compute the available Quick Insert categories for the current mode.
+// relations:
+//   - implements /ash/quick_insert/model/quick_insert_model.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/quick_insert/model/quick_insert_mode_type.h
+// ---
+
 #include "ash/quick_insert/model/quick_insert_model.h"
 
 #include "ash/constants/ash_pref_names.h"

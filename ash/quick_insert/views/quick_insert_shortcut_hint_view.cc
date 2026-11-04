@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert shortcut hint view implementation
+// summary: Implements a view that displays keyboard shortcut hints for caps lock results, such as Alt+Launcher, Alt+Search, and Fn+Quick Insert.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_shortcut_hint_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_shortcut_hint_view.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_shortcut_hint_view.h"
 
 #include <memory>

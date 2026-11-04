@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert list item view header
+// summary: Declares QuickInsertListItemView, a list item view showing text or image contents with optional leading icon, secondary text, badge and file preview support.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/holding_space/holding_space_image.h
+//   - depends_on /ash/quick_insert/model/quick_insert_action_type.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_LIST_ITEM_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_LIST_ITEM_VIEW_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert case transformation declarations
+// summary: Declares functions that transform text to lower, upper, and title case for the Quick Insert feature.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_TRANSFORM_CASE_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_TRANSFORM_CASE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert async preview image view implementation
+// summary: Implements an image view that loads a file thumbnail asynchronously and displays it with rounded corners and aspect-ratio-preserving sizing.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_async_preview_image_view.h
+//   - implements /ash/quick_insert/views/quick_insert_async_preview_image_view.h
+//   - depends_on /ash/public/cpp/holding_space/holding_space_image.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_async_preview_image_view.h"
 
 #include <utility>

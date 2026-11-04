@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert copy media header
+// summary: Declares ClipboardDataFromMedia and CopyMediaToClipboard for converting rich media into clipboard data and copying it to the clipboard.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_rich_media.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_COPY_MEDIA_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_COPY_MEDIA_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert main container view implementation
+// summary: Implements the Quick Insert bubble's main container with rounded corners, shadow and background blur, delegating item traversal to the active page.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_main_container_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_contents_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_page_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_main_container_view.h"
 
 #include <memory>

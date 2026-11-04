@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert pseudo focus unit tests
+// summary: Tests that applying and removing pseudo focus on list items updates item state and trailing badge visibility.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_pseudo_focus.h
+//   - depends_on /ash/quick_insert/views/quick_insert_badge_view.h
+//   - tests /ash/quick_insert/views/quick_insert_list_item_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_pseudo_focus.h"
 
 #include "ash/quick_insert/views/quick_insert_badge_view.h"

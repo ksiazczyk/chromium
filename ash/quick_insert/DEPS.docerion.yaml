@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Quick Insert
+summary: Specifies the allowed include dependencies for the Quick Insert directory, such as ash resources and the endpoint fetcher component.

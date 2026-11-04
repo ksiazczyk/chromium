@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert asset fetcher implementation unit tests
+// summary: Unit tests for the asset fetcher implementation, using mock delegates and a test URL loader factory to cover GIF fetching and file thumbnails.
+// relations:
+//   - tests /ash/quick_insert/quick_insert_asset_fetcher_impl.h
+//   - depends_on /ash/public/cpp/image_util.h
+//   - depends_on /ash/public/cpp/test/in_process_data_decoder.h
+// ---
+
 #include "ash/quick_insert/quick_insert_asset_fetcher_impl.h"
 
 #include <string>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert widget unit tests
+// summary: Unit tests verifying QuickInsertWidget creation, view hierarchy, borders and behavior using a fake QuickInsertViewDelegate.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_widget.h
+//   - tests /ash/quick_insert/views/quick_insert_widget.h
+//   - depends_on /ash/quick_insert/metrics/quick_insert_session_metrics.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_widget.h"
 
 #include <memory>

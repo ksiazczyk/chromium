@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert test utility declarations
+// summary: Declares test helpers for reading clipboard contents and simulating clicks and key presses in Quick Insert tests.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/files/file_path.h
+//   - depends_on /ui/events/event_constants.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_TEST_UTIL_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_TEST_UTIL_H_
 

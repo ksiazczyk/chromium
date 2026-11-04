@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert pseudo focus handler interface
+// summary: Defines the interface for classes with pseudo focusable elements that can perform actions and move pseudo focus in four directions.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/views/quick_insert_pseudo_focus.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_PSEUDO_FOCUS_HANDLER_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_PSEUDO_FOCUS_HANDLER_H_
 

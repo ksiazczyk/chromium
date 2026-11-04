@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert caps lock bubble controller header
+// summary: Declares the caps lock bubble controller, which observes the IME keyboard and shows or dismisses a caps lock state bubble.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_CAPS_LOCK_BUBBLE_CONTROLLER_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_CAPS_LOCK_BUBBLE_CONTROLLER_H_
 

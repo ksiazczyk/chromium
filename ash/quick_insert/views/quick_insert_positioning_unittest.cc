@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert positioning unit tests
+// summary: Unit tests checking anchor bounds selection when caret bounds are inside or outside the focused window or are empty.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_positioning.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_positioning.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

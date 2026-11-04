@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert caps lock bubble controller unit tests
+// summary: Unit tests for the caps lock bubble controller, verifying bubble display in text fields, extended show time, and closing on input events.
+// relations:
+//   - tests /ash/quick_insert/quick_insert_caps_lock_bubble_controller.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/quick_insert/quick_insert_caps_lock_bubble_controller.h"
 
 #include "ash/shell.h"

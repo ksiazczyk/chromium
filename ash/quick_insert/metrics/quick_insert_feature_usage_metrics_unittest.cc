@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert feature usage metrics unit tests
+// summary: Unit tests verifying Quick Insert feature usage eligibility, accessibility, enabled state, and the recorded usage event and usage time histograms.
+// relations:
+//   - tests /ash/quick_insert/metrics/quick_insert_feature_usage_metrics.h
+//   - depends_on /base/test/metrics/histogram_tester.h
+//   - depends_on /base/test/task_environment.h
+// ---
+
 #include "ash/quick_insert/metrics/quick_insert_feature_usage_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

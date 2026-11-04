@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert editor search implementation
+// summary: Returns an editor search result for the given mode when the query has at least three characters, otherwise no result.
+// relations:
+//   - implements /ash/quick_insert/search/quick_insert_editor_search.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /base/check.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_editor_search.h"
 
 #include <optional>

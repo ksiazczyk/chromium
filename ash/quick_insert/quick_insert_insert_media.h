@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert insert media header
+// summary: Declares InputFieldSupportsInsertingMedia and InsertMediaToInputField for asynchronously inserting rich media into a text input client.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_rich_media.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_INSERT_MEDIA_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_INSERT_MEDIA_H_
 

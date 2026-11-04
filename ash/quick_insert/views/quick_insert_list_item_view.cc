@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert list item view implementation
+// summary: Implements the Quick Insert list item view with primary text or image, leading icon, secondary text, shortcut hints, badges and hover preview thumbnails.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_list_item_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_item_view.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_list_item_view.h"
 
 #include <memory>

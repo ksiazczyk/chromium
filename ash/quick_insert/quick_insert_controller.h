@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert controller interface
+// summary: Declares the QuickInsertController class that manages the Quick Insert widget, its browser client, prefs, and timing constants for search and insertion.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/metrics/quick_insert_feature_usage_metrics.h
+//   - depends_on /ash/quick_insert/metrics/quick_insert_session_metrics.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_CONTROLLER_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_CONTROLLER_H_
 

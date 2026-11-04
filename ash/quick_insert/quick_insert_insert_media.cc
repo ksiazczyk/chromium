@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert media insertion into input fields
+// summary: Inserts rich media into text input fields or web paste targets, handling local files as data URLs and site-specific rules for link titles.
+// relations:
+//   - implements /ash/quick_insert/quick_insert_insert_media.h
+//   - depends_on /ash/quick_insert/quick_insert_clipboard_insertion.h
+//   - depends_on /ash/quick_insert/quick_insert_copy_media.h
+// ---
+
 #include "ash/quick_insert/quick_insert_insert_media.h"
 
 #include <optional>

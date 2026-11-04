@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert page view implementation
+// summary: Implements metadata registration for QuickInsertPageView, the base view class for Quick Insert pages.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_page_view.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_page_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

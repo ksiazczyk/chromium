@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert link suggester implementation
+// summary: Implements the link suggester that queries recent browsing history and favicon images to propose shareable links while filtering personalized URLs.
+// relations:
+//   - implements /ash/quick_insert/model/quick_insert_link_suggester.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+// ---
+
 #include "ash/quick_insert/model/quick_insert_link_suggester.h"
 
 #include <algorithm>

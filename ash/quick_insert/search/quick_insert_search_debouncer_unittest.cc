@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert search debouncer unit tests
+// summary: Unit tests verifying that the debouncer triggers searches after the delay, cancels earlier requests and reports pending state.
+// relations:
+//   - tests /ash/quick_insert/search/quick_insert_search_debouncer.h
+//   - depends_on /base/test/task_environment.h
+//   - depends_on /base/test/test_future.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_search_debouncer.h"
 
 #include "base/test/task_environment.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert date search implementation
+// summary: Parses date expressions like today, tomorrow, days or weeks away and weekdays, returning formatted date results and suggested dates.
+// relations:
+//   - implements /ash/quick_insert/search/quick_insert_date_search.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /base/containers/fixed_flat_map.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_date_search.h"
 
 #include <map>

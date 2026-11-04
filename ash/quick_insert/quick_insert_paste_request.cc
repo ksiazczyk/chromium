@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert paste request implementation
+// summary: Implements a request that pastes a clipboard history item into the next window that gains focus via the clipboard history controller.
+// relations:
+//   - implements /ash/quick_insert/quick_insert_paste_request.h
+//   - depends_on /ash/public/cpp/clipboard_history_controller.h
+//   - depends_on /base/check_deref.h
+// ---
+
 #include "ash/quick_insert/quick_insert_paste_request.h"
 
 #include "ash/public/cpp/clipboard_history_controller.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert search controller unit tests
+// summary: Unit tests covering the search controller's search flow, burn-in timing, emoji search, GIF results and result callbacks using mock clients.
+// relations:
+//   - tests /ash/quick_insert/search/quick_insert_search_controller.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+//   - depends_on /ash/quick_insert/search/mock_search_quick_insert_client.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_search_controller.h"
 
 #include <array>

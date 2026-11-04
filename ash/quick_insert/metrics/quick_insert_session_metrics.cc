@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert session metrics implementation
+// summary: Implements Quick Insert session metrics, recording session outcomes, selected categories and results, search queries, and structured CrOS Picker events.
+// relations:
+//   - implements /ash/quick_insert/metrics/quick_insert_session_metrics.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+//   - depends_on /ui/base/ime/text_input_client.h
+// ---
+
 #include "ash/quick_insert/metrics/quick_insert_session_metrics.h"
 
 #include "ash/constants/ash_pref_names.h"

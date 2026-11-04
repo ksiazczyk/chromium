@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert list item container view implementation
+// summary: Implements a vertical container view for section list items, supporting traversal queries and adding list items or items with submenus.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_list_item_container_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_item_with_submenu_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_list_item_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_list_item_container_view.h"
 
 #include <algorithm>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert key event handler implementation
+// summary: Implements key event routing for Quick Insert pseudo focus, mapping arrow keys, Tab and Return to focus movement and activation with RTL-aware direction handling.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_key_event_handler.h
+//   - depends_on /ash/quick_insert/views/quick_insert_pseudo_focus.h
+//   - depends_on /ash/quick_insert/views/quick_insert_pseudo_focus_handler.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_key_event_handler.h"
 
 #include "ash/quick_insert/views/quick_insert_pseudo_focus.h"

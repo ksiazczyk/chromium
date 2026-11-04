@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert action type enum
+// summary: Defines the QuickInsertActionType enum listing possible actions for quick insert results such as do, insert, open, and create.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_MODEL_QUICK_INSERT_ACTION_TYPE_H_
 #define ASH_QUICK_INSERT_MODEL_QUICK_INSERT_ACTION_TYPE_H_
 

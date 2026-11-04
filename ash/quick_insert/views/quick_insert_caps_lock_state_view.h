@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert caps lock state bubble view header
+// summary: Declares the bubble view class that displays the Caps Lock state when toggled, anchored to the caret bounds.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/i18n/rtl.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_CAPS_LOCK_STATE_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_CAPS_LOCK_STATE_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert search aggregator implementation
+// summary: Implements QuickInsertSearchAggregator, mapping search sources to result sections, promoting best matches, deduplicating Drive links, and publishing results after burn-in.
+// relations:
+//   - implements /ash/quick_insert/search/quick_insert_search_aggregator.h
+//   - depends_on /ash/quick_insert/model/quick_insert_search_results_section.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_search_aggregator.h"
 
 #include <algorithm>

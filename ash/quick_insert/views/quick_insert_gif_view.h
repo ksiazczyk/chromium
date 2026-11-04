@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert GIF View Header
+// summary: Declares the QuickInsertGifView class, an image view that fetches GIF frames and a preview image and animates the frames while preserving aspect ratio.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_GIF_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_GIF_VIEW_H_
 

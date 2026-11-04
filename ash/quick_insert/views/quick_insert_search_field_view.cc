@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert search field view implementation
+// summary: Implements the Quick Insert search field view, laying out the back button, search textfield and clear button with debounced search callbacks and accessibility support.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_search_field_view.h
+//   - depends_on /ash/ash_element_identifiers.h
+//   - depends_on /ash/quick_insert/metrics/quick_insert_performance_metrics.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_search_field_view.h"
 
 #include <string>

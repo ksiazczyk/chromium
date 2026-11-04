@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert insert media request unit tests
+// summary: Parameterized tests for inserting text, images, and local files into the next focused input field, covering timeouts and unsupported fields.
+// relations:
+//   - tests /ash/quick_insert/quick_insert_insert_media_request.h
+//   - depends_on /ash/quick_insert/quick_insert_rich_media.h
+//   - depends_on /ash/quick_insert/quick_insert_web_paste_target.h
+// ---
+
 #include "ash/quick_insert/quick_insert_insert_media_request.h"
 
 #include <cstdint>

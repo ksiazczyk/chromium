@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert model unit tests
+// summary: Unit tests for QuickInsertModel covering category ordering and availability across focus, selection, editor, lobster, clipboard, GIF, and password field states.
+// relations:
+//   - tests /ash/quick_insert/model/quick_insert_model.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/quick_insert/model/quick_insert_mode_type.h
+// ---
+
 #include "ash/quick_insert/model/quick_insert_model.h"
 
 #include "ash/constants/ash_pref_names.h"

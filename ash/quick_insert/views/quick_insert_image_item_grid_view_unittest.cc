@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert Image Item Grid View Unit Tests
+// summary: Unit tests for the image item grid view covering item placement across columns, column balancing, width resizing, and item traversal.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_image_item_grid_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_gif_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_image_item_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_image_item_grid_view.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert search request implementation
+// summary: Implements a single Quick Insert search query, dispatching to omnibox, date, action, file, clipboard, editor, Lobster, math and GIF providers with query-time metrics.
+// relations:
+//   - implements /ash/quick_insert/search/quick_insert_search_request.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_search_request.h"
 
 #include <algorithm>

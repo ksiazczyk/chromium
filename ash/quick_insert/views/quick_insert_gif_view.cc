@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert GIF View Implementation
+// summary: Implements the Quick Insert GIF view, which fetches a preview image and animated frames, plays frames on a timer, and records fetch timing metrics.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_gif_view.h
+//   - depends_on /ash/public/cpp/image_util.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_gif_view.h"
 
 #include <optional>

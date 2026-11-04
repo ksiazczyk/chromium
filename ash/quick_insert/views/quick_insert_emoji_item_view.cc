@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Emoji Item View Implementation
+// summary: Implements the Quick Insert emoji item view that renders a single emoji, emoticon, or symbol label with style-specific fonts and accessibility names.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_emoji_item_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_item_view.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_emoji_item_view.h"
 
 #include <string>

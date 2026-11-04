@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Feature Tour Dialog View Header
+// summary: Declares the system dialog delegate view for the Quick Insert feature tour, including the editor status enum and test accessors for its controls.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/system_dialog_delegate_view.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_FEATURE_TOUR_DIALOG_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_FEATURE_TOUR_DIALOG_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert contents view unit tests
+// summary: Unit tests verifying that pages are added correctly and that setting the active page changes page visibility.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_contents_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_contents_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_style.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_contents_view.h"
 
 #include "ash/quick_insert/views/quick_insert_style.h"

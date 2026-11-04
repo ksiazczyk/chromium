@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert clipboard insertion interface
+// summary: Declares the InsertClipboardData function that pastes clipboard data into the focused window with an optional web paste step.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_CLIPBOARD_INSERTION_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_CLIPBOARD_INSERTION_H_
 

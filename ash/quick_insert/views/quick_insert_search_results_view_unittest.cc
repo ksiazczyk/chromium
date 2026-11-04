@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert search results view unit tests
+// summary: Unit tests for the Quick Insert search results view verifying section layout, result matching, no-results screens, loading animation and accessibility behavior.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_search_results_view.h
+//   - depends_on /ash/quick_insert/mock_quick_insert_asset_fetcher.h
+//   - depends_on /ash/quick_insert/model/quick_insert_search_results_section.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_search_results_view.h"
 
 #include <optional>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert submenu view header
+// summary: Declares the QuickInsertSubmenuView bubble view that shows results outside the main container and supports item traversal.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/quick_insert/views/quick_insert_traversable_item_container.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SUBMENU_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SUBMENU_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert asset fetcher implementation header
+// summary: Declares the delegate-based implementation of the Quick Insert asset fetcher for GIF and file thumbnail retrieval.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_asset_fetcher.h
+//   - implements /ash/quick_insert/quick_insert_asset_fetcher.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_ASSET_FETCHER_IMPL_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_ASSET_FETCHER_IMPL_H_
 

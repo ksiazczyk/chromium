@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert caps lock state bubble view implementation
+// summary: Implements the bubble view that shows the Caps Lock on or off state near the text caret, with arrow direction based on text direction.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_caps_lock_state_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_style.h
+//   - depends_on /base/check.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_caps_lock_state_view.h"
 
 #include <utility>

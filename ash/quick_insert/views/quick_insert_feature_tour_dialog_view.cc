@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Feature Tour Dialog View Implementation
+// summary: Implements the feature tour dialog with heading, body text, learn-more link, and close button, with text varying by editor eligibility and branding.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_feature_tour_dialog_view.h
+//   - depends_on /ash/style/close_button.h
+//   - depends_on /ash/style/typography.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_feature_tour_dialog_view.h"
 
 #include "ash/quick_insert/resources/grit/quick_insert_resources.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert case transformation implementation
+// summary: Implements locale-aware lower, upper, and title case transformations for selected text using ICU.
+// relations:
+//   - depends_on /ash/quick_insert/quick_insert_transform_case.h
+//   - depends_on /base/i18n/case_conversion.h
+//   - depends_on /base/i18n/unicodestring.h
+// ---
+
 #include "ash/quick_insert/quick_insert_transform_case.h"
 
 #include <string>

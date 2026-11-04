@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert mode type enum
+// summary: 'Defines the QuickInsertModeType enum describing how Quick Insert was triggered: unfocused, with or without selected text, or focused in a password field.'
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_MODEL_QUICK_INSERT_MODE_TYPE_H_
 #define ASH_QUICK_INSERT_MODEL_QUICK_INSERT_MODE_TYPE_H_
 

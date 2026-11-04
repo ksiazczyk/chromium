@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert bubble event filter implementation
+// summary: Implements an event filter that closes the Quick Insert widget when a click lands outside the widget and all of its child widgets.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_bubble_event_filter.h
+//   - depends_on /ash/bubble/bubble_event_filter.h
+//   - depends_on /ash/bubble/bubble_utils.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_bubble_event_filter.h"
 
 #include "ash/bubble/bubble_event_filter.h"

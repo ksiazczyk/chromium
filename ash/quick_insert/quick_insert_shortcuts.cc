@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Caps Lock shortcut resolution
+// summary: Resolves the Caps Lock shortcut variant for Quick Insert based on the keyboard's function key and meta key capabilities.
+// relations:
+//   - depends_on /ash/quick_insert/quick_insert_shortcuts.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/quick_insert/quick_insert_shortcuts.h"
 
 #include "ash/quick_insert/quick_insert_search_result.h"

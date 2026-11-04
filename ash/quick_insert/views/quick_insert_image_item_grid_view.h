@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Image Item Grid View Header
+// summary: Declares QuickInsertImageItemGridView, a container that displays image items in a two-column grid and implements the traversable item container interface.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/quick_insert/views/quick_insert_traversable_item_container.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_IMAGE_ITEM_GRID_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_IMAGE_ITEM_GRID_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert preview metadata unit tests
+// summary: Tests that preview descriptions prefer modified over accessed times and format the resulting date strings correctly.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_preview_metadata.h
+//   - depends_on /base/files/file.h
+//   - depends_on /base/time/time.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_preview_metadata.h"
 
 #include <memory>

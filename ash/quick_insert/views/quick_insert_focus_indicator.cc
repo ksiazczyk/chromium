@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Focus Indicator Implementation
+// summary: Implements painting of a rounded vertical focus indicator bar on a canvas for Quick Insert views.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_focus_indicator.h
+//   - depends_on /cc/paint/paint_flags.h
+//   - depends_on /ui/gfx/canvas.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_focus_indicator.h"
 
 #include "cc/paint/paint_flags.h"

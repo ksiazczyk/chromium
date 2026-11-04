@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert session metrics unit tests
+// summary: Unit tests verifying Quick Insert session metrics UMA outcome recording and structured CrOS Picker start and finish session events using a test metrics recorder.
+// relations:
+//   - tests /ash/quick_insert/metrics/quick_insert_session_metrics.h
+//   - depends_on /base/test/metrics/histogram_tester.h
+//   - depends_on /components/metrics/structured/test/test_structured_metrics_recorder.h
+// ---
+
 #include "ash/quick_insert/metrics/quick_insert_session_metrics.h"
 
 #include "ash/constants/ash_pref_names.h"

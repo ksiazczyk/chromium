@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Image Item Row View Implementation
+// summary: Implements a horizontal row view that displays image items with a leading icon and a more-items button for navigating to additional items.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_image_item_row_view.h
+//   - depends_on /ash/ash_element_identifiers.h
+//   - depends_on /ash/quick_insert/views/quick_insert_image_item_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_image_item_row_view.h"
 
 #include <algorithm>

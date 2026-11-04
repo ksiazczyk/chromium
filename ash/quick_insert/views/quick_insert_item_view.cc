@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickInsertItemView implementation
+// summary: Implements the base QuickInsertItemView button with focus indicator styles, pseudo-focus painting, rounded corner highlights, and submenu controller wiring.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_item_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_focus_indicator.h
+//   - depends_on /ash/quick_insert/views/quick_insert_submenu_controller.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_item_view.h"
 
 #include <memory>

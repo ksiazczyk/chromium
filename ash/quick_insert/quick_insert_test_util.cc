@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert test utility implementation
+// summary: Test helpers that read text, HTML, and file data from the clipboard and simulate mouse clicks and key presses on views and widgets.
+// relations:
+//   - depends_on /ash/quick_insert/quick_insert_test_util.h
+//   - depends_on /ui/base/clipboard/clipboard.h
+//   - depends_on /ui/base/clipboard/clipboard_buffer.h
+// ---
+
 #include "ash/quick_insert/quick_insert_test_util.h"
 
 #include <string>

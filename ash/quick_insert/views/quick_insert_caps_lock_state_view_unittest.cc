@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert caps lock state view unit tests
+// summary: Unit tests verifying the Caps Lock on and off icons and bubble alignment for left-to-right, right-to-left, and unknown text directions.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_caps_lock_state_view.h
+//   - depends_on /base/i18n/rtl.h
+//   - depends_on /base/i18n/test/scoped_rtl_for_testing.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_caps_lock_state_view.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

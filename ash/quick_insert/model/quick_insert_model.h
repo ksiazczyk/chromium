@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert model class declaration
+// summary: Declares the QuickInsertModel class, which stores input context and feature statuses and exposes available categories, mode, selected text, and caps lock state.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+//   - depends_on /ui/base/ime/text_input_type.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_MODEL_QUICK_INSERT_MODEL_H_
 #define ASH_QUICK_INSERT_MODEL_QUICK_INSERT_MODEL_H_
 

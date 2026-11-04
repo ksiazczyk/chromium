@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert feature usage metrics implementation
+// summary: Implements the Quick Insert delegate for the Standard Feature Usage Logging framework, recording usage events and usage time under the Picker feature name.
+// relations:
+//   - depends_on /ash/quick_insert/metrics/quick_insert_feature_usage_metrics.h
+//   - depends_on /chromeos/ash/components/feature_usage/feature_usage_metrics.h
+// ---
+
 #include "ash/quick_insert/metrics/quick_insert_feature_usage_metrics.h"
 
 #include <string_view>

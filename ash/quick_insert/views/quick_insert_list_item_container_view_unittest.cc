@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert list item container view unit tests
+// summary: Unit tests covering top, bottom, above and below item lookups, empty containers and item containment in the list item container view.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_list_item_container_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_list_item_view.h
+//   - depends_on /base/functional/callback_helpers.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_list_item_container_view.h"
 
 #include <memory>

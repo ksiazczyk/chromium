@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert category enum
+// summary: Defines the QuickInsertCategory enum listing searchable data types such as editor actions, links, emojis, clipboard, files, and date or unit calculations.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_CATEGORY_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_CATEGORY_H_
 

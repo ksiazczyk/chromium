@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for Quick Insert
+summary: Defines the shared Buganizer component ID used by the Quick Insert directory.

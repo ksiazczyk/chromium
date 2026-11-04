@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert Feature Tour Unit Tests
+// summary: Unit tests for the Quick Insert feature tour covering first-use display, complete and learn-more interactions, and Enter and Esc key handling.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_feature_tour.h
+//   - depends_on /ash/public/cpp/ash_prefs.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_feature_tour.h"
 
 #include "ash/public/cpp/ash_prefs.h"

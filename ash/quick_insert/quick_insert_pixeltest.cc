@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert pixel tests
+// summary: Pixel tests comparing the rendered Quick Insert widget in unfocused and focused modes, parameterized for RTL and LTR layouts.
+// relations:
+//   - tests /ash/quick_insert/quick_insert_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/public/cpp/ash_prefs.h
+// ---
+
 #include <memory>
 #include <string>
 
