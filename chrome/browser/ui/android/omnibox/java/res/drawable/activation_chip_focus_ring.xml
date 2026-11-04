@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Activation chip focus ring
+summary: Selector drawable that draws a rounded focus ring around the omnibox activation chip when it is selected.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:state_selected="true">
     <inset

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarNavigator
+// summary: Controller handling URL navigation from the omnibox, including override delegates, geolocation headers, post data, and tab load dispatching.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.chromium.build.NullUtil.assertNonNull;

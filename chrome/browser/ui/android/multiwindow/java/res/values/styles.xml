@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Multiwindow UI styles and themes
+summary: Defines dialog themes and instance switcher text styles for the multiwindow close confirm and rename window dialogs in Chrome for Android.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- The dim amount should match the alpha of modal_dialog_scrim_color. -->
     <style name="Theme.Chromium.Multiwindow.CloseConfirmDialog" parent="ThemeOverlay.Material3Expressive.Dialog">

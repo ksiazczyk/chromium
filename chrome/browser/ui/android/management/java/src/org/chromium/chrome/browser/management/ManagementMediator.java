@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagementMediator business logic for the management page
+// summary: Builds the management page property model from managed browser state, covering reporting, URL filtering, security events and learn-more links.
+// ---
+
 package org.chromium.chrome.browser.management;
 
 import android.content.Context;

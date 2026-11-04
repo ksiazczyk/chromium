@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Omnibox color resources
+summary: Defines Android color and macro resources for the omnibox UI, covering suggestion, location bar status, branded URL text, and incognito variants for light and dark themes.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Please see src/ui/android/java/res/values/colors.xml for the shared common colors. -->
 

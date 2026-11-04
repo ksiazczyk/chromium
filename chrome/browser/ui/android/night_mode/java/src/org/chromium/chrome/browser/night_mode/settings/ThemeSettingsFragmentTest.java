@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThemeSettingsFragmentTest
+// summary: Instrumentation tests for ThemeSettingsFragment covering theme selection and web content dark mode behavior with the feature flag enabled or disabled.
+// ---
+
 package org.chromium.chrome.browser.night_mode.settings;
 
 import static org.mockito.ArgumentMatchers.any;

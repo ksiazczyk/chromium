@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemeType annotation
+// summary: Defines the theme setting variations (system default, light, dark) used for histograms and matching native browser color scheme values.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarDragDropHandler
+// summary: Handles drag-and-drop events on the location bar, accepting text, image, and PDF drops and loading them as URLs with proper content URI permissions.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.app.Activity;

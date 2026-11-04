@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiInstanceManager
+// summary: Abstract manager for an activity's multi-instance mode, defining new-window and close-window source enums used for metrics.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.app.Activity;

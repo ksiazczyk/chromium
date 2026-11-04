@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Instance switcher list item layout
+summary: Row layout for instance switcher entries showing favicon, title, description, last-accessed time and action buttons such as close.
+-->
+
 <!-- This dialog's rows span the full width of the list and position
      their own favicon via instance_switcher_dialog_favicon_start_margin,
      matching instance_switcher_cmd_item, so the row opts out of the start

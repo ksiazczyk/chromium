@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsThemeClient
+// summary: JNI client that exposes night mode and force-dark web content state for a given WebContents to native code.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsDarkModeController
+// summary: Controls the auto-dark web content feature per site and globally through content settings, including UKM metric recording.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import android.content.Context;

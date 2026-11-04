@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OverrideUrlLoadingDelegateImplUnitTest
+// summary: Unit tests for OverrideUrlLoadingDelegateImpl covering grid tab switcher URL handling with and without a callback set.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.junit.Assert.assertFalse;

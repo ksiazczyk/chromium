@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance switcher item view binder
+// summary: Binder that applies instance switcher item properties to views, including favicon, title, description and button states.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox chip properties
+// summary: Defines the writable property keys for the omnibox chip component, covering available width, content description, icon, click callback and text.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.graphics.drawable.Drawable;

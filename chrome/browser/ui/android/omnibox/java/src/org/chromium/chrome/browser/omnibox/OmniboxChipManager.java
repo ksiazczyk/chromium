@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox chip manager
+// summary: Manages showing and hiding omnibox chips using collapsed and expanded toolbar width consumers based on available space.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.chromium.chrome.browser.omnibox.OmniboxChipProperties.CONTENT_DESC;

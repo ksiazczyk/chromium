@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for multiwindow issue tracking
+summary: Maps the directory to the MultiInstance monorail component, the Chrome Android team email and a Buganizer component for issue routing.

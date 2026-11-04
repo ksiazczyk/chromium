@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagementView rendering the management page UI
+// summary: ScrollView that renders the management page, including title, description, reporting explanations and threat protection sections.
+// ---
+
 package org.chromium.chrome.browser.management;
 
 import android.content.Context;

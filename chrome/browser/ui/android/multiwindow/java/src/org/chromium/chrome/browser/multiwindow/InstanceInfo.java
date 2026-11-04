@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance info data structure
+// summary: Struct holding ChromeTabbedActivity instance details such as IDs, type, URL, title, tab counts and timestamps for multi-instance support.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import androidx.annotation.IntDef;

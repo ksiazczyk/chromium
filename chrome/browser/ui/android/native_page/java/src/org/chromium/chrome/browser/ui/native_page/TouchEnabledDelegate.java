@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchEnabledDelegate interface
+// summary: Interface used by ContextMenuManager to disable touch events on the outer view while a context menu is open.
+// ---
+
 package org.chromium.chrome.browser.ui.native_page;
 
 import org.chromium.build.annotations.NullMarked;

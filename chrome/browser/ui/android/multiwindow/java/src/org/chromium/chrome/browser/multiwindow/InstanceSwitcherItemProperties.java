@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance switcher item properties
+// summary: Property keys defining the model properties for each instance item shown in the switcher UI.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.graphics.drawable.Drawable;

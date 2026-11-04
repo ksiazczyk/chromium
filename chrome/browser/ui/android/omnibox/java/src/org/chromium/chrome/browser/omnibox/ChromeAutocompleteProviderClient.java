@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAutocompleteProviderClient
+// summary: JNI entry points that expose eligible Chrome tabs to the native autocomplete provider client for tab matching.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlBarData – data for URL bar display
+// summary: Holds the data the omnibox URL bar needs to display its contents, including scheme handling, origin spans, and whether the URL should be shown.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.net.Uri;

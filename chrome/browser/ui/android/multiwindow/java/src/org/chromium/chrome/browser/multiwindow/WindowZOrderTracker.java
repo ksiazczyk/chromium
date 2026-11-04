@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowZOrderTracker
+// summary: Tracks the z-order of Chrome windows per display by observing activity focus and state changes, and emits related metrics.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.util.SparseArray;

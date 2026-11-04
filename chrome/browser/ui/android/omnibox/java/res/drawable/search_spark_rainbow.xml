@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Rainbow search spark drawable
+summary: Layer-list that layers the black search spark icon over the rainbow gradient circular background.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/search_spark_rainbow_background"/>
     <item

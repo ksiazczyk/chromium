@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Rename window dialog layout
+summary: Layout for the window rename dialog with a title input field and a save/cancel button bar.
+-->
+
 <org.chromium.chrome.browser.multiwindow.RenameWindowDialogView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Enterprise management page layout
+summary: Android XML layout for Chrome's ManagementView, defining the enterprise management page with title, description, learn-more link and browser reporting sections.
+-->
+
 <org.chromium.chrome.browser.management.ManagementView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

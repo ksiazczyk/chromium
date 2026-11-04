@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarLayout
+// summary: ConstraintLayout view representing the omnibox location bar where users type URLs and search terms, hosting the URL bar and action buttons.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.content.Context;

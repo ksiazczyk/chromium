@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Omnibox view ID resources
+summary: Declares Android view IDs used by omnibox components, including suggestion containers, the URL bar, and tags for view metadata and suggestion placement.
+-->
+
 <resources>
     <!-- Tags -->
     <item type="id" name="highlight_color"/>

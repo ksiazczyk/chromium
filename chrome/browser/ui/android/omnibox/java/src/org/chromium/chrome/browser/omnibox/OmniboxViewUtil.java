@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxViewUtil
+// summary: Utility helpers for the Omnibox view covering paste text sanitization, span equivalence checks and page classification checks.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.text.Spanned;

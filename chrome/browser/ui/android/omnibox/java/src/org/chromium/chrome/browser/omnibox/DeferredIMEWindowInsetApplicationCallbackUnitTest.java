@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeferredIMEWindowInsetApplicationCallbackUnitTest
+// summary: Robolectric unit tests verifying deferred IME window inset application, including keyboard show and hide animation handling and keyboard height reporting.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.junit.Assert.assertEquals;

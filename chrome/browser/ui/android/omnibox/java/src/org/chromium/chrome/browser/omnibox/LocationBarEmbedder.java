@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarEmbedder
+// summary: Interface letting the LocationBar request changes to and access views in the embedding view hierarchy, such as the suggestions container stub and fixed-height requests.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.transition.Transition;

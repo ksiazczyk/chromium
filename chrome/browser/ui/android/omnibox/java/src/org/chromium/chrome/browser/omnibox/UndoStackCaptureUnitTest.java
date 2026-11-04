@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UndoStackCaptureUnitTest
+// summary: Robolectric unit tests for UndoStackCapture verifying filter stripping, restoration, and nested capture behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.junit.Assert.assertEquals;

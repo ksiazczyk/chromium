@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBar selection controller
+// summary: Selection controller managing keyboard-driven selection of location bar views, skipping invisible views and tracking autocomplete list selection.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.chromium.build.NullUtil.assertNonNull;

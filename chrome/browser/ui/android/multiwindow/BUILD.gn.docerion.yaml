@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Chrome Android multiwindow UI
+summary: Defines the android_library, proto and resources build targets and their dependencies for the Chrome Android multiwindow UI code.

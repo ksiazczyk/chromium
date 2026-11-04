@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Fusebox slide-in-up animation
+summary: Android animation resource that slides the omnibox fusebox view in from the bottom using a short decelerate-cubic translate.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <translate
         android:fromYDelta="100%"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowOcclusionTracker
+// summary: Singleton that monitors the position, size, and z-order of Chrome windows to track and rate-limit occlusion calculations on Android.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.content.Context;

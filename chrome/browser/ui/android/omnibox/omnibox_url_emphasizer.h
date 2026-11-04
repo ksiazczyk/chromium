@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox URL emphasizer header
+// summary: Declares the OmniboxUrlEmphasizer helper class used for URL emphasis in the omnibox on Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_OMNIBOX_OMNIBOX_URL_EMPHASIZER_H_
 #define CHROME_BROWSER_UI_ANDROID_OMNIBOX_OMNIBOX_URL_EMPHASIZER_H_
 

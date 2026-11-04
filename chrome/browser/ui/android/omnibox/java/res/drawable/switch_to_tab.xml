@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Switch to tab icon
+summary: 18dp tinted vector icon of an arrow entering a tab outline used for the omnibox switch-to-tab suggestion.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
         android:width="18dp"
         android:height="18dp"

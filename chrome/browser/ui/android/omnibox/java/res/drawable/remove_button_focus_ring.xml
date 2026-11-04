@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Remove button focus ring drawable
+summary: Selector drawable that draws an oval focus ring around the omnibox attachment remove button when it is selected.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:state_selected="true">
     <inset android:inset="@dimen/fusebox_attachment_remove_highlight_inset">

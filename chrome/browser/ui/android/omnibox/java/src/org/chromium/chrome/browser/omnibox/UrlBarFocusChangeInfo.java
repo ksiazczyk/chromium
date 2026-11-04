@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlBarFocusChangeInfo
+// summary: Encapsulates a URL bar focus change, recording whether focus was gained and the directional traversal direction or absence thereof.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.view.View;

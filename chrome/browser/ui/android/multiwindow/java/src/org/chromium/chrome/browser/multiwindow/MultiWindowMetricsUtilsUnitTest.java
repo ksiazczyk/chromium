@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiWindowMetricsUtils unit tests
+// summary: Robolectric unit tests verifying windowing mode activity counting, duration recording and related metrics in MultiWindowMetricsUtils.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.junit.Assert.assertEquals;

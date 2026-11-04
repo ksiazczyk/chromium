@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window occlusion metrics
+// summary: Collects and records histograms for WindowOcclusionTracker, including calculation counts, results and durations.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import androidx.annotation.IntDef;

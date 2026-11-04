@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Inset wrapper around the round add icon
+summary: Inset drawable that wraps ic_add_round_20dp with 2dp insets on all sides to add spacing around the icon.
+-->
+
 <inset xmlns:android="http://schemas.android.com/apk/res/android"
     android:drawable="@drawable/ic_add_round_20dp"
     android:insetRight="2dp"

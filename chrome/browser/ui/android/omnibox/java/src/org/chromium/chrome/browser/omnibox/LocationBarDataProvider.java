@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarDataProvider interface
+// summary: Read-only interface supplying tab, page, security, and theme data to the location bar and its sub-components, with observers for state changes.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.content.res.ColorStateList;

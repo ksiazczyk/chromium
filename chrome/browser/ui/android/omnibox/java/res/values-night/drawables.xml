@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Night-mode drawable override for omnibox tile view icon background
+summary: Defines the dark-theme value of the omnibox tile view icon background drawable, mapping it to the oval_surface_1 drawable.
+-->
+
 <resources>
     <drawable name="tile_view_icon_background_modern_updated">@drawable/oval_surface_1</drawable>
 </resources>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance switcher actions delegate interface
+// summary: Interface defining instance switcher UI actions such as opening, closing and renaming instances and opening new windows.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import org.chromium.build.annotations.NullMarked;

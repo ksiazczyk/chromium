@@ -6,6 +6,13 @@ found in the LICENSE file.
 
 Ported from components/omnibox/browser/vector_icons/drive_forms_custom.icon.
 -->
+
+<!--docerion
+type: asset
+title: Google Forms colored vector icon 24dp
+summary: 24dp vector drawable of the purple Google Forms icon, ported from drive_forms_custom.icon for omnibox suggestions.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
     android:height="24dp"

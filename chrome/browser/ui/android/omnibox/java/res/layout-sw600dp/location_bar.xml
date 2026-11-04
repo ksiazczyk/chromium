@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!-- The location bar also know as URL bar -->
+
+<!--docerion
+type: source
+title: Tablet location bar layout
+summary: Android layout XML for the omnibox location bar on sw600dp (tablet) devices, composing the status, URL bar, action container, and fusebox includes plus a suggestions ViewStub.
+-->
+
 <merge xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     >

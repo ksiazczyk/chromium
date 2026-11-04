@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox chip view binder unit tests
+// summary: Robolectric unit tests checking that the binder applies text, available width, icon, content description and click callbacks to the chip view.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.junit.Assert.assertEquals;

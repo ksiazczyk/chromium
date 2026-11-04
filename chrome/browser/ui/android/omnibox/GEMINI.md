@@ -1,3 +1,9 @@
+---
+type: guide
+title: Omnibox developer and agent guidelines
+summary: Outlines architecture, subfolder responsibilities, Clank MVC coding standards, feature flag usage, and testing rules for the Chrome Android omnibox.
+---
+
 # Omnibox Developer & Agent Guidelines
 
 This document outlines the architectural patterns, coding standards, and testing guidelines for the Omnibox component in Chrome on Android.

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Focus state selector for full omnibox chip foreground
+summary: Selector drawable that draws an active focus outline around the full omnibox chip when focused.
+-->
+
 <selector
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_focused="true">

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox view util header
+// summary: Declares the OmniboxViewUtil helper class for omnibox view functionality on Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_OMNIBOX_OMNIBOX_VIEW_UTIL_H_
 #define CHROME_BROWSER_UI_ANDROID_OMNIBOX_OMNIBOX_VIEW_UTIL_H_
 

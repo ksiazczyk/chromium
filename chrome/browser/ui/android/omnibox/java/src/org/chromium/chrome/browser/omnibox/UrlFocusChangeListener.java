@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlFocusChangeListener interface
+// summary: Interface for listeners notified when the omnibox URL field gains or loses focus and when focus animations finish.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import org.chromium.build.annotations.NullMarked;

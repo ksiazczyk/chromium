@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlBarMediator
+// summary: Mediator that collects URL bar state and pushes updates to the UrlBar property model, handling text changes, display state, and text context menus.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlBarApi26
+// summary: UrlBar subclass that isolates newer Android API calls such as autofill structure handling to avoid verification errors on older Android versions.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.content.Context;

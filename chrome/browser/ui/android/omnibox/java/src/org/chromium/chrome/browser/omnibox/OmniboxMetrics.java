@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox metrics
+// summary: Collects and records omnibox-related histograms and timing metrics such as suggestion request durations, omnibox actions and search prefetch behaviour.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import androidx.annotation.IntDef;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Instance switcher dialog layout
+summary: Layout for the instance switcher dialog with active/inactive window tabs, instance lists, an empty-state view and an included command item.
+-->
+
 <org.chromium.components.browser_ui.widget.BoundedLinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

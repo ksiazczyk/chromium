@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxChipManager unit tests
+// summary: Espresso and Robolectric tests verifying chip placement, collapsed and expanded visibility states and width consumer behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static android.view.View.MeasureSpec.UNSPECIFIED;

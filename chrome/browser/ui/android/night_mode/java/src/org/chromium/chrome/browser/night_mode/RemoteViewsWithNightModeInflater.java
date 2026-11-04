@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote views with night mode inflater
+// summary: Inflates Android RemoteViews while enforcing the local night mode configuration when it differs from the system setting.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import android.content.Context;

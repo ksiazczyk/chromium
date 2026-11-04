@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlBarContextMenuHelper
+// summary: Helper that builds and shows the UrlBar context menu as a list menu, ordering items like undo, cut, copy, paste and go, and delegating selections to the view.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.content.res.Resources;

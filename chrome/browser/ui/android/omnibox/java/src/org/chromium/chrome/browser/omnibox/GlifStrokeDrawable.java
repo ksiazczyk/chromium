@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlifStrokeDrawable
+// summary: Drawable that renders a rotating rainbow line around the edge of its bounds using sharp and blurred stroke paints.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.animation.ObjectAnimator;

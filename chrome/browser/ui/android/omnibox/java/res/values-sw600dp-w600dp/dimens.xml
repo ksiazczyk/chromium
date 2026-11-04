@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Omnibox suggestion dropdown dimensions for 600dp screens
+summary: Defines dimension values such as dropdown side spacing, list top padding, and icon area size for the omnibox suggestion dropdown on 600dp screen configurations.
+-->
+
 <resources>
     <!--
     Additional space on the left and right side of the suggestions dropdown.

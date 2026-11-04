@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto dark feedback source
+// summary: Feedback source that reports whether auto dark mode for web content is enabled, skipping incognito profiles and cases where the feature is disabled.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import android.content.Context;

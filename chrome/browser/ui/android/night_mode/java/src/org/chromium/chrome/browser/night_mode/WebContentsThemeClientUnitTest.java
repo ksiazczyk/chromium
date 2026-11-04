@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsThemeClient unit tests
+// summary: Unit tests for WebContentsThemeClient covering null handling, night mode state, and feature flag combinations.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import static org.junit.Assert.assertFalse;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Round equals sign icon vector drawable
+summary: 24dp round equals-sign icon for the omnibox drawn with the active control and inverse icon theme colors.
+-->
+
 <vector
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:height="24dp" android:viewportHeight="36"

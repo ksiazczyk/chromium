@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardHideHelper
+// summary: Detects when the virtual keyboard is hidden by monitoring window layout changes so the omnibox can be unfocused.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.content.res.Configuration;

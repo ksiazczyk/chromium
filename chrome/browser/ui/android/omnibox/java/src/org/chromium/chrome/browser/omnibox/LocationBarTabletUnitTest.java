@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocationBarTablet unit tests
+// summary: Robolectric unit tests for the tablet location bar covering layout, overflow parameters, fusebox states and toast behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.junit.Assert.assertArrayEquals;

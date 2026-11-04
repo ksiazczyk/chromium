@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsDarkModeController unit tests
+// summary: Unit tests for WebContentsDarkModeController covering global settings, per-URL content settings, and night mode behavior with mocked dependencies.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import static org.mockito.ArgumentMatchers.anyBoolean;

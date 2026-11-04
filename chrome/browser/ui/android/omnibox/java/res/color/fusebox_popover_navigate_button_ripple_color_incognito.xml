@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Fusebox popover navigate button ripple color incognito
+summary: Android color selector defining the incognito ripple color and alpha for the Fusebox popover navigate button in pressed, focused, and hovered states.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:alpha="@dimen/fusebox_popover_navigate_button_pressed_alpha"

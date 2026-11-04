@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiInstancePersistentStoreUnitTest
+// summary: Robolectric unit tests covering the protobuf-backed global fields of the multi-instance persistent store.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.junit.Assert.assertEquals;

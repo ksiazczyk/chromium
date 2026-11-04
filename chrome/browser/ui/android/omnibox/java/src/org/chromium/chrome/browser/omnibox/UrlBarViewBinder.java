@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlBarViewBinder
+// summary: Binds UrlBar property model changes to the omnibox URL bar view state in Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

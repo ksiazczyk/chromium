@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global night mode state provider holder
+// summary: Singleton holder that supplies the app-wide NightModeStateProvider, falling back to a placeholder when night mode is unsupported or force-enabled.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import androidx.appcompat.app.AppCompatDelegate;

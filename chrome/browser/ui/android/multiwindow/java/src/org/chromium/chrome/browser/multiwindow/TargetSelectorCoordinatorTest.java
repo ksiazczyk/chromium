@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TargetSelectorCoordinator UI tests
+// summary: Espresso-based instrumentation tests exercising the move target selector dialog and its move-window behavior.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static androidx.test.espresso.Espresso.onView;

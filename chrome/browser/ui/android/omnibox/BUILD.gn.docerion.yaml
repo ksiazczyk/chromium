@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omnibox Android build configuration
+summary: Defines GN build targets for the Android omnibox, including the native source set and the Java android_library with its source list.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RadioButtonGroupThemePreference
+// summary: Android preference showing a radio button group for theme selection (System default, Light, Dark) with an optional checkbox to darken website contents.
+// ---
+
 package org.chromium.chrome.browser.night_mode.settings;
 
 import android.content.Context;

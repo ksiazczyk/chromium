@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewTabPageDelegate interface
+// summary: Interface giving the toolbar access to NewTabPage state such as visibility, search box bounds, scroll events and focus animation.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.graphics.Point;

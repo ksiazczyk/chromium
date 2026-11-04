@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemeSettingsFragment
+// summary: Settings fragment that manages the Chrome theme user settings, wiring the theme radio group preference and the darken websites feature flag.
+// ---
+
 package org.chromium.chrome.browser.night_mode.settings;
 
 import android.content.Context;

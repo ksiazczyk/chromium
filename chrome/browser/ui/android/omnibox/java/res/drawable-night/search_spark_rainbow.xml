@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Night mode search spark rainbow drawable
+summary: Android layer-list drawable for dark theme that layers the search spark rainbow background with a centered white search spark icon.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/search_spark_rainbow_background"/>
     <item

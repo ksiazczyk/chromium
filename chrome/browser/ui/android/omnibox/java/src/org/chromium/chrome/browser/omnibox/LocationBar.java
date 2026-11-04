@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBar interface
+// summary: Interface for the location bar container that holds the URL bar and SSL state for the current tab, exposing visual state, voice recognition, and omnibox access.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.view.View;

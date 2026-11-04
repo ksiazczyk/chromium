@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rename window dialog view
+// summary: Custom ScrollView content view for the rename window dialog that adjusts its measured width to fit within the parent dialog.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.content.Context;

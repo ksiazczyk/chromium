@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the Android management UI
+summary: GN build file defining the Java library, Android resources, and Robolectric unit tests for the browser management page.

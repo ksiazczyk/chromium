@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlBarContextMenuHelperUnitTest
+// summary: Robolectric unit tests for UrlBarContextMenuHelper covering menu item creation, filtering of non-allowed items, ordering, and click delegation.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.junit.Assert.assertEquals;

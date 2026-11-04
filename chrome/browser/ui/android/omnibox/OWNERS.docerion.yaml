@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Omnibox directory owners
+summary: Specifies code ownership for the directory, inheriting omnibox browser Android owners and adding per-file permission owners.

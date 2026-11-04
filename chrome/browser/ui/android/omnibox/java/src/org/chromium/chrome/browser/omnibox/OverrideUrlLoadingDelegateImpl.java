@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverrideUrlLoadingDelegateImpl
+// summary: Default delegate implementation that intercepts grid tab switcher URLs and invokes a callback instead of loading them.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.text.TextUtils;

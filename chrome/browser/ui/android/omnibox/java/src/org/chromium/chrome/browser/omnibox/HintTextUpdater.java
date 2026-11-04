@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HintTextUpdater
+// summary: Tracks omnibox state changes and computes the hint text to display, pushing updates back to the client through a callback.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import android.graphics.Paint;

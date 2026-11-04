@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiInstanceOrchestrator
+// summary: Interface orchestrating common multi-window tasks such as creating new windows and moving tabs between instances.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.app.Activity;

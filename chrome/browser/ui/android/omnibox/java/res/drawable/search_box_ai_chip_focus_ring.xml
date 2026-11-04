@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Search box AI chip focus ring drawable
+summary: Layer-list drawable providing the focused outline for the omnibox AI chip, including a GLIF border layer populated at runtime.
+-->
+
 <layer-list
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:paddingMode="stack">

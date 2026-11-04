@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Omnibox RTL drawable aliases
+summary: Defines right-to-left drawable aliases for omnibox suggestion icons, mapping the refine button and magnifier to RTL variants of the search icons.
+-->
+
 <resources>
     <drawable name="btn_suggestion_refine_up">@drawable/north_east_24dp</drawable>
     <drawable name="ic_suggestion_magnifier">@drawable/ic_search_24dp_rtl</drawable>

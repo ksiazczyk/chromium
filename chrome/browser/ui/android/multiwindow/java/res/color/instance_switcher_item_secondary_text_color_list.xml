@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Instance switcher item secondary text color list
+summary: Android color state list XML that sets the instance switcher item secondary text color, using an on-secondary-container color when selected and an on-surface color otherwise.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item
       android:state_selected="true"

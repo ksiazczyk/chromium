@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Management UI dimension resources
+summary: Defines Android dimension values such as paddings, margins, and logo sizes used by the Chrome management UI layouts.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- go/keep-sorted start group_start_regex=<dimen -->
     <dimen name="cm_browser_item_drawable_padding">18dp</dimen>

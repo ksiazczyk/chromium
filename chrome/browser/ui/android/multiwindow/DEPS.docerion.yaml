@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the multiwindow directory
+summary: Allows the multiwindow UI code to include the favicon Android component.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Omnibox Android dependency include rules
+summary: Declares the allowed include dependencies for the Android omnibox directory, listing permitted Chromium component and base paths.

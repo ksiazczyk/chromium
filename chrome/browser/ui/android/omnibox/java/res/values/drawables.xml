@@ -4,6 +4,13 @@ Copyright 2022 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Omnibox drawable aliases
+summary: Maps omnibox drawable resource names to existing drawables, such as the suggestion refine button, magnifier icon, and tile view icon background.
+-->
+
 <resources>
     <drawable name="btn_suggestion_refine_up">@drawable/north_west_24dp</drawable>
     <drawable name="ic_suggestion_magnifier">@drawable/ic_search_24dp</drawable>

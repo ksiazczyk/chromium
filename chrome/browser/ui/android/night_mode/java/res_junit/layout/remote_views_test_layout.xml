@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: Remote views test layout
+summary: Minimal Android layout with a ScrollView and an empty LinearLayout, provided as a JUnit test resource for remote views night mode testing.
+-->
+
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">

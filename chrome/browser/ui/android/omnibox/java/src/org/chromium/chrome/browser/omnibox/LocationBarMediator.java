@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarMediator
+// summary: Large mediator coordinating LocationBar behavior including animations, button visibility, Lens and voice entrypoints, fusebox integration, and user metrics.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static android.view.View.VISIBLE;

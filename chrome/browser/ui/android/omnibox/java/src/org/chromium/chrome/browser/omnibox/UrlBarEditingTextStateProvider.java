@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlBarEditingTextStateProvider interface
+// summary: Interface providing the URL bar editing text state, including selection indices, autocomplete eligibility, paste detection, and site search chip setting.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import org.chromium.build.annotations.NullMarked;

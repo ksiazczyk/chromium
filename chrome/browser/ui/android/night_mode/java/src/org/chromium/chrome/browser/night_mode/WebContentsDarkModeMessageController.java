@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsDarkModeMessageController
+// summary: Shows user education messages and dialogs that explain the auto-dark web contents feature and handle opt-in and opt-out flows.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import android.app.Activity;

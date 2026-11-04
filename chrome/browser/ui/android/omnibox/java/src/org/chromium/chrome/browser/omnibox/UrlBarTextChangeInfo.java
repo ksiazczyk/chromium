@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlBarTextChangeInfo
+// summary: Encapsulates details of a URL bar text change, using offsets and lengths to classify deletions, insertions, and replacements.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import org.chromium.build.annotations.NullMarked;

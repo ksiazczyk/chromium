@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote views with night mode inflater unit test
+// summary: Robolectric unit test verifying that RemoteViews inflation with enforced dark mode fails for views not annotated as remote views.
+// ---
+
 package org.chromium.chrome.browser.night_mode;
 
 import android.content.Context;

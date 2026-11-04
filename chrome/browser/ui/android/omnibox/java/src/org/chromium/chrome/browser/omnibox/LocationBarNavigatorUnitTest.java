@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocationBarNavigator unit tests
+// summary: Robolectric unit tests verifying LocationBarNavigator URL loading, tab handling and omnibox navigation behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static org.junit.Assert.assertEquals;

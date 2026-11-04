@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-instance data protobuf definition
+// summary: Defines proto3 messages for persisting Chrome multi-instance state, covering per-instance data, windowing mode data, startup policies, and crash recovery tracking.
+// ---
+
 syntax = "proto3";
 
 package org.chromium.chrome.browser.multiwindow;

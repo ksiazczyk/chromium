@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlBarUiTest – UI tests for UrlBar
+// summary: Instrumented UI tests exercising UrlBar rendering and interaction, including touch, keyboard, clipboard, and focus behavior.
+// ---
+
 package org.chromium.chrome.browser.omnibox;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

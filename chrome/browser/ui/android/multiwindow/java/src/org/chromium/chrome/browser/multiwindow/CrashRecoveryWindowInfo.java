@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash recovery window info
+// summary: Data holder for window ID and visibility of windows that require recovery after an app crash.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import org.chromium.build.annotations.NullMarked;
