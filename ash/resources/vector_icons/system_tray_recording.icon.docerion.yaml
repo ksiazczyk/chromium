@@ -1,0 +1,4 @@
+# Docerion header of system_tray_recording.icon.
+type: asset
+title: System tray recording icon
+summary: Vector icon of concentric circles in 32px and 16px variants representing the recording status indicator in the ChromeOS system tray.

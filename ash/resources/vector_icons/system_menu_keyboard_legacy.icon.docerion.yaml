@@ -1,0 +1,4 @@
+# Docerion header of system_menu_keyboard_legacy.icon.
+type: asset
+title: System menu legacy keyboard icon
+summary: Vector icon path data for the legacy keyboard glyph in the ChromeOS system menu, providing 40 and 20 pixel canvas variants.

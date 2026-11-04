@@ -1,0 +1,4 @@
+# Docerion header of system_menu_audio_output.icon.
+type: asset
+title: System menu audio output icon
+summary: Vector icon definition with path data for the system menu audio output glyph, drawn at 40 and 20 pixel canvas sizes for Chromium's Ash UI.

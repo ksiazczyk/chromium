@@ -1,0 +1,4 @@
+# Docerion header of quick_settings_circle_play.icon.
+type: asset
+title: Quick settings circle play vector icon
+summary: Defines the vector path data for a play triangle inside a circle, used as a quick settings icon in ChromeOS Ash.

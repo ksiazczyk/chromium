@@ -1,0 +1,4 @@
+# Docerion header of scanner.icon.
+type: asset
+title: Scanner icon
+summary: Vector path definition for a scanner icon combining a scan frame with a magnifier on a 20dp canvas.

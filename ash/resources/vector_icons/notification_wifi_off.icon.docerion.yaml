@@ -1,0 +1,4 @@
+# Docerion header of notification_wifi_off.icon.
+type: asset
+title: Notification Wi-Fi off vector icon
+summary: Vector icon definition drawing a crossed-out Wi-Fi symbol for the Wi-Fi off notification state in the ChromeOS Ash shell.

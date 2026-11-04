@@ -1,0 +1,4 @@
+# Docerion header of quick_insert_emoji.icon.
+type: asset
+title: Quick insert emoji icon
+summary: Vector icon definition for the quick insert menu that draws a smiley face representing the emoji picker in the ChromeOS Ash UI.

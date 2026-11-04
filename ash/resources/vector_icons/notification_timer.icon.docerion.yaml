@@ -1,0 +1,4 @@
+# Docerion header of notification_timer.icon.
+type: asset
+title: Notification timer vector icon
+summary: Vector icon definition drawing a stopwatch symbol used for timer notifications in the ChromeOS Ash shell.

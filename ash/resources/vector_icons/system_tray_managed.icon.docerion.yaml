@@ -1,0 +1,4 @@
+# Docerion header of system_tray_managed.icon.
+type: source
+title: System tray managed vector icon
+summary: Vector icon indicating a managed device for the system tray, drawn as path commands on a 20 dp canvas.

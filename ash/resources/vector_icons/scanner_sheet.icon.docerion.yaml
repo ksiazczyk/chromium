@@ -1,0 +1,4 @@
+# Docerion header of scanner_sheet.icon.
+type: asset
+title: Scanner sheet vector icon
+summary: Defines the vector path data for a sheet glyph with a plus sign, used by the ChromeOS scanner feature on a 20-unit canvas.

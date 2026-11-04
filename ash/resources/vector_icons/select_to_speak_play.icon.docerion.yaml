@@ -1,0 +1,4 @@
+# Docerion header of select_to_speak_play.icon.
+type: asset
+title: Select-to-Speak play icon
+summary: Defines the vector path data for a triangular play control used by the Select-to-Speak accessibility feature.

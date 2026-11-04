@@ -1,0 +1,4 @@
+# Docerion header of quick_settings_quick_share_contacts.icon.
+type: asset
+title: Quick Share contacts vector icon
+summary: Defines the vector path data for the Quick Share icon representing sharing restricted to contacts, used in ChromeOS quick settings.

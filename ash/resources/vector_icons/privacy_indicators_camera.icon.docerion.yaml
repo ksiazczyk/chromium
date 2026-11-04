@@ -1,0 +1,4 @@
+# Docerion header of privacy_indicators_camera.icon.
+type: asset
+title: Privacy indicators camera icon
+summary: Vector icon definition that draws a camera glyph used for Chrome OS privacy indicators, expressed as canvas path commands.

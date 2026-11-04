@@ -1,0 +1,4 @@
+# Docerion header of system_tray_notification_counter_plus.icon.
+type: asset
+title: System tray notification counter plus icon
+summary: Vector icon drawing a plus sign on a 20x20 canvas, used as the notification counter badge in the ChromeOS system tray.

@@ -1,0 +1,4 @@
+# Docerion header of select_to_speak_pause.icon.
+type: asset
+title: Select-to-Speak pause icon
+summary: Defines the vector path data for a two-bar pause control used by the Select-to-Speak accessibility feature.

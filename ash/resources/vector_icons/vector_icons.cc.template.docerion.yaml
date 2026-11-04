@@ -1,0 +1,7 @@
+# Docerion header of vector_icons.cc.template.
+type: source
+title: vector_icons.cc template
+summary: Template used to generate vector_icons.cc, expanding vector icon command macros into the ash namespace.
+relations:
+  - depends_on /components/vector_icons/cc_macros.h
+  - depends_on /ui/gfx/vector_icon_types.h
