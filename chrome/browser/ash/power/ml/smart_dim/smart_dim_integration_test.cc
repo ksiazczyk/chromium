@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart Dim integration tests
+// summary: Browser integration tests that request screen dim decisions from the ML service and verify Smart Dim component updater model downloads.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "base/command_line.h"
 #include "base/run_loop.h"

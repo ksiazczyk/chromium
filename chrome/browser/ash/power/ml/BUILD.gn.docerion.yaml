@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the power ML library and tests
+summary: Defines the ml static library plus browser test and unit test targets, listing their sources and dependencies.

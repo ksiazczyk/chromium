@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle event notifier header
+// summary: Declares IdleEventNotifier and its ActivityData struct, which collects activity features such as recent input counts and video state before idle events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_IDLE_EVENT_NOTIFIER_H_
 #define CHROME_BROWSER_ASH_POWER_ML_IDLE_EVENT_NOTIFIER_H_
 

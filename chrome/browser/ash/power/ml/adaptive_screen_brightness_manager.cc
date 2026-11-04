@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive screen brightness manager implementation
+// summary: Implements periodic and event-driven logging of screen brightness together with user activity, power, and video features for ChromeOS.
+// ---
+
 #include "chrome/browser/ash/power/ml/adaptive_screen_brightness_manager.h"
 
 #include <cmath>

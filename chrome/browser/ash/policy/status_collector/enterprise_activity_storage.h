@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseActivityStorage class header
+// summary: Declares EnterpriseActivityStorage, which filters and redacts stored activity periods according to users' reporting preferences.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_ENTERPRISE_ACTIVITY_STORAGE_H_
 #define CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_ENTERPRISE_ACTIVITY_STORAGE_H_
 

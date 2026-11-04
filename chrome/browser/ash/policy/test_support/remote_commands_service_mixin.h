@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote commands service test mixin for browser tests
+// summary: Declares the RemoteCommandsServiceMixin test utility for sending remote commands, controlling command IDs, and waiting for results or acknowledgements.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_TEST_SUPPORT_REMOTE_COMMANDS_SERVICE_MIXIN_H_
 #define CHROME_BROWSER_ASH_POLICY_TEST_SUPPORT_REMOTE_COMMANDS_SERVICE_MIXIN_H_
 

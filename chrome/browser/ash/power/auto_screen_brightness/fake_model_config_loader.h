@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake model config loader header
+// summary: Declares FakeModelConfigLoader, a test-only ModelConfigLoader that reports a configurable model config to registered observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_FAKE_MODEL_CONFIG_LOADER_H_
 #define CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_FAKE_MODEL_CONFIG_LOADER_H_
 

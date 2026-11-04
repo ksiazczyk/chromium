@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildActivityStorage class header
+// summary: Declares ChildActivityStorage, which stores child user activity periods in the pref service until a report is sent to the server.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_CHILD_ACTIVITY_STORAGE_H_
 #define CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_CHILD_ACTIVITY_STORAGE_H_
 

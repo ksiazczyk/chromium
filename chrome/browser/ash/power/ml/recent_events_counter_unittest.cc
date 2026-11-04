@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent events counter unit tests
+// summary: Tests RecentEventsCounter bucketing, stale bucket clearing, and event counts over rolling time windows.
+// ---
+
 #include "chrome/browser/ash/power/ml/recent_events_counter.h"
 
 #include "base/time/time.h"

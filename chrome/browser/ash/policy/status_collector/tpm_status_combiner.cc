@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TpmStatusCombiner implementation
+// summary: Implements combining TPM status, enrollment, dictionary attack and supported features D-Bus replies into a single TpmStatusInfo for reporting.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/tpm_status_combiner.h"
 
 #include <utility>

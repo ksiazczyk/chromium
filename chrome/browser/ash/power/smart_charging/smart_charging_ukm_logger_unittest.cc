@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SmartChargingUkmLogger
+// summary: Verifies that charging events and daily charge summaries are recorded correctly as UKM metrics.
+// ---
+
 #include "chrome/browser/ash/power/smart_charging/smart_charging_ukm_logger.h"
 
 #include "chrome/browser/ui/tabs/tab_ukm_test_helper.h"

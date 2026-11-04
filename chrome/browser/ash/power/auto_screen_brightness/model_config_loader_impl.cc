@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelConfigLoaderImpl implementation
+// summary: Reads model parameters from disk or device-specific paths, applies experiment flag overrides, and notifies observers of the resulting ModelConfig.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/model_config_loader_impl.h"
 
 #include <string>

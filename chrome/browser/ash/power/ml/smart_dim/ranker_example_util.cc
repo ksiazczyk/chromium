@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RankerExample feature access helper implementation
+// summary: Implements SafeGetFeature and GetFeatureValueAsFloat for looking up and reading scalar feature values from RankerExample protos.
+// ---
+
 #include "chrome/browser/ash/power/ml/smart_dim/ranker_example_util.h"
 
 namespace assist_ranker {

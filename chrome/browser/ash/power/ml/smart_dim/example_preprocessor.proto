@@ -1,5 +1,11 @@
 // Contains features required for Ranker model inference and training.
 
+// ---docerion
+// type: source
+// title: Example preprocessor config proto definition
+// summary: Defines the ExamplePreprocessorConfig protobuf with bucketizers, feature indices, normalizers and string conversions for Smart Dim preprocessing.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

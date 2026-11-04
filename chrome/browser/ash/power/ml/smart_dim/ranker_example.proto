@@ -4,6 +4,12 @@
 //
 // Contains features required for AssistRanker model inference and training.
 
+// ---docerion
+// type: source
+// title: RankerExample feature proto definitions
+// summary: Defines the RankerExample and Feature protobuf messages that carry input features for AssistRanker model inference and training.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

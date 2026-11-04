@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TpmStatusCombiner class declaration
+// summary: Declares a ref-counted combiner that aggregates multiple TPM-related D-Bus responses and invokes the receiver callback when all replies arrive.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_TPM_STATUS_COMBINER_H_
 #define CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_TPM_STATUS_COMBINER_H_
 

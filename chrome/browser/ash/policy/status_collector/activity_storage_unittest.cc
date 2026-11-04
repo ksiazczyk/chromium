@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActivityStorage unit tests
+// summary: Unit tests covering day boundaries, pruning, trimming, and overlap removal in ActivityStorage.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/activity_storage.h"
 
 #include <memory>

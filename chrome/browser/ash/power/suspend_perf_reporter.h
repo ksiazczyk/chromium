@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuspendPerfReporter header for post-resume UMA metrics
+// summary: Declares the SuspendPerfReporter class, which snapshots UMA histograms when powerd signals SuspendDone and reports the differences one minute after resume.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_SUSPEND_PERF_REPORTER_H_
 #define CHROME_BROWSER_ASH_POWER_SUSPEND_PERF_REPORTER_H_
 

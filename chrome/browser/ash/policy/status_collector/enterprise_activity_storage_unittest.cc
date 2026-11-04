@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EnterpriseActivityStorage unit tests
+// summary: Unit tests for EnterpriseActivityStorage covering filtered and redacted retrieval of stored activity periods.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/enterprise_activity_storage.h"
 
 #include <memory>

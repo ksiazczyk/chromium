@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo light provider implementation
+// summary: Implements LightProviderMojo, which connects to the ChromeOS sensor HAL over Mojo and forwards light sensor samples to the ALS reader.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/light_provider_mojo.h"
 
 #include <algorithm>

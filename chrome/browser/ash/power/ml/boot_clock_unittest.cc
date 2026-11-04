@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boot clock unit tests
+// summary: Tests that BootClock reports increasing time since boot in real time and advances correctly under mocked task time.
+// ---
+
 #include "chrome/browser/ash/power/ml/boot_clock.h"
 
 #include "base/test/task_environment.h"

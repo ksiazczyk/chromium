@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment test constants for the policy test server
+// summary: Defines inline test constants such as the test domain, serial number, brand code key, and hardware class used during enrollment testing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_TEST_SUPPORT_POLICY_TEST_SERVER_CONSTANTS_H_
 #define CHROME_BROWSER_ASH_POLICY_TEST_SUPPORT_POLICY_TEST_SERVER_CONSTANTS_H_
 

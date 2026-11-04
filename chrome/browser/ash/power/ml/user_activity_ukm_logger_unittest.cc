@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User activity UKM logger unit tests
+// summary: Tests that UserActivityUkmLoggerImpl records the expected bucketized UserActivity UKM metrics using a test UKM recorder.
+// ---
+
 #include "chrome/browser/ash/power/ml/user_activity_ukm_logger_impl.h"
 
 #include <memory>

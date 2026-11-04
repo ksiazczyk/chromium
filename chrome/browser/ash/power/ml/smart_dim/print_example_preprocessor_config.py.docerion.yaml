@@ -1,0 +1,4 @@
+# Docerion header of print_example_preprocessor_config.py.
+type: script
+title: Print example preprocessor config tool
+summary: Python script that prints feature names, types and bucket boundaries from an ExamplePreprocessorConfig protobuf file.

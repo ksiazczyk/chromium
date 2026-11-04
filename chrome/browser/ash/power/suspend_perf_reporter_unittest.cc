@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SuspendPerfReporter unit tests
+// summary: Unit tests verifying that SuspendPerfReporter correctly snapshots and reports UMA metrics one minute after resume, using a fake PowerManagerClient and HistogramTester.
+// ---
+
 #include "chrome/browser/ash/power/suspend_perf_reporter.h"
 
 #include <memory>

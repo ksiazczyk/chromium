@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceStatusCollector class header
+// summary: Declares DeviceStatusCollector and supporting types for collecting and summarizing enterprise-managed ChromeOS device status.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_DEVICE_STATUS_COLLECTOR_H_
 #define CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_DEVICE_STATUS_COLLECTOR_H_
 

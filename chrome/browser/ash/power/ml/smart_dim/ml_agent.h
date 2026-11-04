@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Dim ML agent class declaration
+// summary: Declares the SmartDimMlAgent singleton that requests dim decisions and manages the builtin and download workers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_ML_AGENT_H_
 #define CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_ML_AGENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemLogUploaderDelegate class declaration
+// summary: Declares SystemLogUploaderDelegate, the production implementation of SystemLogUploader::Delegate that loads logs from disk and creates upload jobs using a URL loader factory.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_UPLOADING_SYSTEM_LOG_UPLOADER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_POLICY_UPLOADING_SYSTEM_LOG_UPLOADER_DELEGATE_H_
 

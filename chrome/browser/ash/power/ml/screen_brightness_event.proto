@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen brightness event protobuf definition
+// summary: Defines protobuf messages for screen brightness features, labels and events used for logging and model inference in the adaptive screen brightness project.
+// ---
+
 syntax = "proto2";
 
 package ash.power.ml;

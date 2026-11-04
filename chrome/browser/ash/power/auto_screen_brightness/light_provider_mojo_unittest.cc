@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LightProviderMojo unit tests
+// summary: Unit tests for LightProviderMojo covering sensor connection, device selection, timeouts, and sample delivery using fake sensor server and devices.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/light_provider_mojo.h"
 
 #include <map>

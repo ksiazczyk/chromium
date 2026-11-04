@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded policy test server mixin for browser tests
+// summary: Declares the EmbeddedPolicyTestServerMixin class with capabilities and helpers to update device, user, and raw policies served by the embedded policy test server.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_TEST_SUPPORT_EMBEDDED_POLICY_TEST_SERVER_MIXIN_H_
 #define CHROME_BROWSER_ASH_POLICY_TEST_SUPPORT_EMBEDDED_POLICY_TEST_SERVER_MIXIN_H_
 

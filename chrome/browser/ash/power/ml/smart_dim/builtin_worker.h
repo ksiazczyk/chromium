@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Builtin worker class declaration
+// summary: Declares BuiltinWorker, a SmartDimWorker that uses a built-in preprocessor config and ML service model file.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_BUILTIN_WORKER_H_
 #define CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_BUILTIN_WORKER_H_
 

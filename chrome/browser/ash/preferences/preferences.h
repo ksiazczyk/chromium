@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preferences class interface for Chrome OS settings
+// summary: Declares the Preferences class that initializes OS settings from user preferences and reacts to preference and session changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PREFERENCES_PREFERENCES_H_
 #define CHROME_BROWSER_ASH_PREFERENCES_PREFERENCES_H_
 

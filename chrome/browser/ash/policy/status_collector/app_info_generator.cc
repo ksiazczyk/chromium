@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppInfoGenerator implementation
+// summary: Collects app inventory and usage data and converts app updates and activity into enterprise reporting protos.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/app_info_generator.h"
 
 #include "ash/constants/ash_pref_names.h"

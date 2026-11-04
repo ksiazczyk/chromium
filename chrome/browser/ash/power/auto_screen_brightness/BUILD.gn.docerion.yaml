@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for auto screen brightness
+summary: Defines the auto_screen_brightness static library sources and the unit_tests target together with their build dependencies.

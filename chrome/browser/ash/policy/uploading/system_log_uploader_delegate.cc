@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemLogUploaderDelegate implementation
+// summary: Implements the delegate that reads system log files from disk, redacts sensitive data, zips the logs, and creates upload jobs for the system log uploader.
+// ---
+
 #include "chrome/browser/ash/policy/uploading/system_log_uploader_delegate.h"
 
 #include <map>

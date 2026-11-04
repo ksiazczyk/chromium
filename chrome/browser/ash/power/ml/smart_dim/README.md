@@ -1,3 +1,11 @@
+---
+type: readme
+title: Smart Dim Model
+summary: Explains how the Smart Dim model predicts whether a screen dim should proceed, covering feature preprocessing and the public model interface.
+relations:
+  - documents /chrome/browser/ash/power/ml/smart_dim/print_example_preprocessor_config.py
+---
+
 # Smart Dim Model
 
 The Smart Dim Model is an experimental model used to predict whether an upcoming

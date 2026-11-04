@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gaussian trainer unit tests
+// summary: Unit tests covering GaussianTrainer parameter handling, outlier detection, and brightness curve training behavior.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/gaussian_trainer.h"
 
 #include "ash/constants/ash_features.h"

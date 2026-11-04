@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerMetricsReporter implementation
+// summary: Implements PowerMetricsReporter, which registers local state prefs and uses a daily event timer to report power-management-related metrics.
+// ---
+
 #include "chrome/browser/ash/power/power_metrics_reporter.h"
 
 #include "ash/constants/ash_pref_names.h"

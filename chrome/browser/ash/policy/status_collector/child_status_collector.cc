@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildStatusCollector implementation
+// summary: Implements collection of child user status reports on ChromeOS, including screen time tracking, OS version, and Android app status.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/child_status_collector.h"
 
 #include <stddef.h>

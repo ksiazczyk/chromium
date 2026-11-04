@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AlsReader
+// summary: Verifies that AlsReader notifies observers of lux updates and initialization status changes.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/als_reader.h"
 
 #include "chrome/browser/ash/power/auto_screen_brightness/fake_observer.h"

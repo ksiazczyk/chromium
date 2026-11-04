@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the embedded policy test server browser test mixin
+// summary: Implements EmbeddedPolicyTestServerMixin, setting up the embedded policy test server with signing keys, client registration, and fake attestation for browser tests.
+// ---
+
 #include "chrome/browser/ash/policy/test_support/embedded_policy_test_server_mixin.h"
 
 #include <cstdint>

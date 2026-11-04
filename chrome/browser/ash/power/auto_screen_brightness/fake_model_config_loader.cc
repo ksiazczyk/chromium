@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake model config loader implementation
+// summary: Implements FakeModelConfigLoader, which notifies observers of a pre-set model configuration for testing.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/fake_model_config_loader.h"
 
 namespace ash {

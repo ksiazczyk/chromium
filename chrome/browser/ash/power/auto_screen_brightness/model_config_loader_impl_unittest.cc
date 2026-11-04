@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model config loader implementation unit tests
+// summary: Unit tests for ModelConfigLoaderImpl that verify loading and parsing of brightness model parameters from files and field trial experiment configs.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/model_config_loader_impl.h"
 
 #include <map>

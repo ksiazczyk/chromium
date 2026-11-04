@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererFreezer class declarations
+// summary: Declares RendererFreezer and its Delegate interface for freezing Chrome renderers during suspend and thawing them after the system resumes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_RENDERER_FREEZER_H_
 #define CHROME_BROWSER_ASH_POWER_RENDERER_FREEZER_H_
 

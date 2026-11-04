@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart Dim ML agent unit tests
+// summary: Unit tests for SmartDimMlAgent covering dim decisions, thresholds and downloadable component updates using a fake ML service connection.
+// ---
+
 #include "chrome/browser/ash/power/ml/smart_dim/ml_agent.h"
 
 #include <memory>

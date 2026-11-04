@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuspendPerfReporter implementation
+// summary: Implements SuspendPerfReporter, which snapshots UMA histograms and reports performance metrics for one minute after the device resumes.
+// ---
+
 #include "chrome/browser/ash/power/suspend_perf_reporter.h"
 
 #include <string>

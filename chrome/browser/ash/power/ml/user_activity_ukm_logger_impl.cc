@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User activity UKM logger implementation
+// summary: Implements LogActivity by bucketizing user activity event features and recording them as UserActivity UKM metrics with a per-session sequence ID.
+// ---
+
 #include "chrome/browser/ash/power/ml/user_activity_ukm_logger_impl.h"
 
 #include <cmath>

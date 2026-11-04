@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Smart Dim DEPS include rules
+summary: Restricts include dependencies for the Smart Dim code and lists extra includes allowed for its integration test.

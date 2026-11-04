@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake brightness monitor header
+// summary: Declares FakeBrightnessMonitor, a test double for BrightnessMonitor that reports initialization and brightness events to observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_FAKE_BRIGHTNESS_MONITOR_H_
 #define CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_FAKE_BRIGHTNESS_MONITOR_H_
 

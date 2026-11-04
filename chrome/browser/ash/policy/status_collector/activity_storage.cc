@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityStorage implementation
+// summary: Implements storing, pruning, trimming, and overlap removal of daily activity periods in preferences for status reporting.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/activity_storage.h"
 
 #include <algorithm>

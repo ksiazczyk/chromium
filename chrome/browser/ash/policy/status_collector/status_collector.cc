@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusCollector base implementation
+// summary: Implements the StatusCollector base, its parameter struct and profile prefs, including lookup of the active kiosk device-local account and boot mode.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/status_collector.h"
 
 #include <memory>

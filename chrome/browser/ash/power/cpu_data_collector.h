@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU data collector class declaration
+// summary: Declares CpuDataCollector, which samples raw CPU idle and frequency state occupancy data from sysfs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_CPU_DATA_COLLECTOR_H_
 #define CHROME_BROWSER_ASH_POWER_CPU_DATA_COLLECTOR_H_
 

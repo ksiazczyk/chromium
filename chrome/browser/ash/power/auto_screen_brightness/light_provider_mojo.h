@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LightProviderMojo class header
+// summary: Declares LightProviderMojo, which registers as a sensor client with the Sensor Hal Dispatcher and fetches light sensor samples from the CrOS IIO Service for the AlsReader.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_LIGHT_PROVIDER_MOJO_H_
 #define CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_LIGHT_PROVIDER_MOJO_H_
 

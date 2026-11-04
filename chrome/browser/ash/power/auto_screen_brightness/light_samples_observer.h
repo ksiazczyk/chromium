@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LightSamplesObserver class header
+// summary: Declares LightSamplesObserver, a SensorDeviceSamplesObserver that receives light sensor samples from IIO Service and passes them to the AlsReader.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_LIGHT_SAMPLES_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_LIGHT_SAMPLES_OBSERVER_H_
 

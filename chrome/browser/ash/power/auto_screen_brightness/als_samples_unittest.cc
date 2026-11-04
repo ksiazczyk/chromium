@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ALS sample buffer unit tests
+// summary: Unit tests for AmbientLightSampleBuffer covering sample storage, horizon pruning, and average and standard deviation calculation.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/als_samples.h"
 
 #include <cmath>

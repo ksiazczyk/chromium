@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildStatusCollector class header
+// summary: Declares ChildStatusCollector, which gathers and summarizes the status of a child user session for ChromeOS enterprise reporting.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_CHILD_STATUS_COLLECTOR_H_
 #define CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_CHILD_STATUS_COLLECTOR_H_
 

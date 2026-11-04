@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brightness monitor implementation
+// summary: Implements BrightnessMonitor by observing PowerManagerClient and reporting stabilized user brightness changes after a configurable sample delay.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/brightness_monitor_impl.h"
 
 #include <algorithm>

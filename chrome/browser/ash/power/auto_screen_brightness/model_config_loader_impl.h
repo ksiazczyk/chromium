@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelConfigLoaderImpl class header
+// summary: Declares ModelConfigLoaderImpl, which loads model params from disk and experiment flags and offers a testing constructor with custom paths.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_MODEL_CONFIG_LOADER_IMPL_H_
 #define CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_MODEL_CONFIG_LOADER_IMPL_H_
 

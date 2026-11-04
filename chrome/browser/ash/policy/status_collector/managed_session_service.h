@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedSessionService class declaration
+// summary: Declares ManagedSessionService and its observer interface for login, logout, lock, unlock, suspend and session termination events in managed sessions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_MANAGED_SESSION_SERVICE_H_
 #define CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_MANAGED_SESSION_SERVICE_H_
 

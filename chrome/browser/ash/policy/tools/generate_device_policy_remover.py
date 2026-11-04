@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Device policy remover code generator
+# summary: Python script that reads ChromeDeviceSettingsProto descriptors and generates a C++ RemovePolicies function clearing specified device policy fields, mainly for the DeviceOffHours policy.
+# ---
+
 """Create function which removes the specified device policies
 from ChromeDeviceSettingsProto.
 This function is primarily intended to be used

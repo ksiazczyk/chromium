@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boot clock header
+// summary: Declares the BootClock class, which returns time since boot that keeps increasing during suspend and supports mocked time in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_BOOT_CLOCK_H_
 #define CHROME_BROWSER_ASH_POWER_ML_BOOT_CLOCK_H_
 

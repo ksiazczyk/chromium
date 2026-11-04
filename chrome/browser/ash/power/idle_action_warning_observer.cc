@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle action warning observer implementation
+// summary: Observes power manager idle action signals and shows, updates, or closes the idle logout warning dialog.
+// ---
+
 #include "chrome/browser/ash/power/idle_action_warning_observer.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the smart_charging directory
+summary: Lists the Chromium developer responsible for reviewing changes in the smart_charging directory.

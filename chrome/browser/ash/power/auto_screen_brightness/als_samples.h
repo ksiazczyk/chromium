@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALS sample buffer header
+// summary: Declares AmbientLightSampleBuffer, which stores recent ambient light samples within a time horizon and computes their average and standard deviation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_ALS_SAMPLES_H_
 #define CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_ALS_SAMPLES_H_
 

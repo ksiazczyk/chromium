@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient light sample buffer implementation
+// summary: Implements AmbientLightSampleBuffer, which stores recent ALS samples within a time horizon and computes their average and standard deviation.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/als_samples.h"
 
 #include <numeric>

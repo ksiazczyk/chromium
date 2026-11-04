@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Monotone cubic spline unit tests
+// summary: Unit tests verifying spline interpolation, monotonicity, string parsing and serialization behavior of MonotoneCubicSpline.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/monotone_cubic_spline.h"
 
 #include <algorithm>

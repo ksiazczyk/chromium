@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User activity event protobuf definition
+// summary: Defines the UserActivityEvent protobuf with features and labels for logged idle events used as training examples for user activity prediction.
+// ---
+
 syntax = "proto2";
 
 package ash.power.ml;

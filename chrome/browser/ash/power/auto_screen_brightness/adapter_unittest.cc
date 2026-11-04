@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Adapter
+// summary: Tests Adapter behavior using fake modeller, brightness monitor, light provider, and model config loader components.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/adapter.h"
 
 #include <map>

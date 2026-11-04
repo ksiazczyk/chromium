@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmartChargingUkmLogger class declaration
+// summary: Declares the logger that records smart charging events and charge history as UKM metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_SMART_CHARGING_SMART_CHARGING_UKM_LOGGER_H_
 #define CHROME_BROWSER_ASH_POWER_SMART_CHARGING_SMART_CHARGING_UKM_LOGGER_H_
 

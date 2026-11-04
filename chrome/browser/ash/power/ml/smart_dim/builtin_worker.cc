@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Builtin worker implementation
+// summary: Implements the Smart Dim worker that lazily loads the built-in 20190521 preprocessor config and ML service model.
+// ---
+
 #include "chrome/browser/ash/power/ml/smart_dim/builtin_worker.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Dim metrics enums and logging declarations
+// summary: Declares enums for model results, parameter results, load events, worker and version types plus the corresponding logging functions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_METRICS_H_
 #define CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_METRICS_H_
 

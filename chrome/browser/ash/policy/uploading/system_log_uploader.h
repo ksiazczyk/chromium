@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemLogUploader class declaration
+// summary: Declares SystemLogUploader and its Delegate interface for reading system logs, zipping them, and creating upload jobs, along with upload delay and header constants.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_UPLOADING_SYSTEM_LOG_UPLOADER_H_
 #define CHROME_BROWSER_ASH_POLICY_UPLOADING_SYSTEM_LOG_UPLOADER_H_
 

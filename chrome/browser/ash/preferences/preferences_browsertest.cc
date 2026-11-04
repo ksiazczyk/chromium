@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for preference to setting mapping
+// summary: Verifies that input device, keyboard auto-repeat, and language preferences are applied to Chrome OS settings across multi-user login scenarios.
+// ---
+
 #include <stddef.h>
 #include <sys/types.h>
 

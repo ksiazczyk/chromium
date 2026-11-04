@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdleActionWarningObserver class declarations
+// summary: Declares the IdleActionWarningObserver class, which listens for imminent idle action notifications from the power manager and shows a warning dialog to the user.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_IDLE_ACTION_WARNING_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POWER_IDLE_ACTION_WARNING_OBSERVER_H_
 

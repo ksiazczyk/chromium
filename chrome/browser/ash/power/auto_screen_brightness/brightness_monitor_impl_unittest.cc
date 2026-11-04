@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Brightness monitor implementation unit tests
+// summary: Tests BrightnessMonitorImpl initialization and user brightness change reporting using a fake power manager client and a test observer.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/brightness_monitor_impl.h"
 
 #include "ash/constants/ash_features.h"

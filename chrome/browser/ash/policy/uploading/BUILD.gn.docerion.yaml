@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the policy uploading library and unit tests
+summary: Defines the uploading static library with its sources and dependencies, plus the testonly unit_tests source set for the ChromeOS policy uploading code.

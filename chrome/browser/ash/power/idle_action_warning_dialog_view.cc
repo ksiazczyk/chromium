@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle action warning dialog implementation
+// summary: Implements a modal dialog that warns the idle logout action is imminent and updates a countdown title.
+// ---
+
 #include "chrome/browser/ash/power/idle_action_warning_dialog_view.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake brightness monitor for tests
+// summary: Provides a fake BrightnessMonitor that lets tests set the monitor status and trigger observer notifications on demand.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/fake_brightness_monitor.h"
 
 namespace ash {

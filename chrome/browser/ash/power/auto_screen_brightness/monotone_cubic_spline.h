@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MonotoneCubicSpline class declaration
+// summary: Declares the MonotoneCubicSpline class for creating, serializing and interpolating monotone cubic splines from non-decreasing control points.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_MONOTONE_CUBIC_SPLINE_H_
 #define CHROME_BROWSER_ASH_POWER_AUTO_SCREEN_BRIGHTNESS_MONOTONE_CUBIC_SPLINE_H_
 

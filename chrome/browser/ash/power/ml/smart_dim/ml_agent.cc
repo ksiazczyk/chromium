@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Dim ML agent implementation
+// summary: Implements the SmartDimMlAgent that builds RankerExamples from features and requests dim decision inference from the machine learning service.
+// ---
+
 #include "chrome/browser/ash/power/ml/smart_dim/ml_agent.h"
 
 #include <cstddef>

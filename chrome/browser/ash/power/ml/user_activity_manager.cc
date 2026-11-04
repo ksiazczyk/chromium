@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User activity manager implementation
+// summary: Implements logging of user activity events after idle detection, gathers features, requests smart dim model predictions and records UMA metrics.
+// ---
+
 #include "chrome/browser/ash/power/ml/user_activity_manager.h"
 
 #include <cmath>

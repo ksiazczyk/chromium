@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart Dim metadata parsing unit tests
+// summary: Unit tests verifying that valid and invalid Smart Dim model metadata JSON files are parsed correctly.
+// ---
+
 #include "chrome/browser/ash/power/ml/smart_dim/ml_agent_util.h"
 
 #include "base/containers/flat_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adapter implementation
+// summary: Implements the Adapter that tracks ambient light changes, decides when brightness should change, and instructs powerd to adjust screen brightness.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/adapter.h"
 
 #include <string>

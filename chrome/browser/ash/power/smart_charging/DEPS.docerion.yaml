@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for smart_charging
+summary: Restricts //chrome includes and whitelists the specific dependencies allowed for the smart_charging directory and its tests.

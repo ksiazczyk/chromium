@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart charging UKM logger implementation
+// summary: Logs user charging event features and charge history state to UKM metrics.
+// ---
+
 #include "chrome/browser/ash/power/smart_charging/smart_charging_ukm_logger.h"
 
 #include "chromeos/dbus/power_manager/charge_history_state.pb.h"
