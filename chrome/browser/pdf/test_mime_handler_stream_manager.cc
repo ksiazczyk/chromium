@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test MIME handler stream manager implementation for PDF tests
+// summary: Implements a test double of the MIME handler stream manager that lets PDF browser tests delay, wait for, and verify extension navigations and PDF loads.
+// ---
+
 #include "chrome/browser/pdf/test_mime_handler_stream_manager.h"
 
 #include <memory>

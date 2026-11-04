@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser bound key deleter service factory implementation
+// summary: Implements the profile keyed service factory that builds the Android or desktop deleter service, including the Mac secure payment confirmation keychain access group.
+// ---
+
 #include "chrome/browser/payments/browser_binding/browser_bound_key_deleter_service_factory.h"
 
 #include "base/no_destructor.h"

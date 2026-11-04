@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Journey logger browser test
+// summary: Browser test verifying PaymentRequest checkout funnel metrics recorded in histograms and UKM by the journey logger across checkout scenarios.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"
 #include "components/payments/core/journey_logger.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for payment handler just-in-time installation
+// summary: Browser tests covering just-in-time installation of payment apps, including successful payment, delegation, and rejection of invalid payment methods.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "build/build_config.h"
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expandable payment handler browser test
+// summary: Browser test covering expandable payment handlers, including rejection of HTTP-served apps, payment confirmation, cancellation, failure and the security icon.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"
 #include "content/public/test/browser_test.h"

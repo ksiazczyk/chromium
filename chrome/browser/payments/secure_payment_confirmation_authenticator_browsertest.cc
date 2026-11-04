@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secure Payment Confirmation authenticator browser tests
+// summary: End-to-end browser tests for Secure Payment Confirmation using a virtual FIDO authenticator to exercise payment credential creation and user verification flows.
+// ---
+
 #include "base/json/json_reader.h"
 #include "base/test/bind.h"
 #include "base/test/scoped_feature_list.h"

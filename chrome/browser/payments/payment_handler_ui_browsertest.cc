@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment handler UI browser tests
+// summary: Browser tests verifying that a page can open the payment handler UI multiple times and that PaymentRequest show() behaves correctly without user activation.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"
 #include "components/payments/core/error_strings.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android payments browser code
+summary: GN build configuration defining the service worker payment app bridge source set plus Robolectric JUnit test and test-support targets for Android payment code.

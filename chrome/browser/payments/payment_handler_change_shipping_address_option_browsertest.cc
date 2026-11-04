@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for payment handler shipping address and option changes
+// summary: Parameterized browser tests checking changeShippingAddress() and changeShippingOption() results returned by payment handlers against merchant responses.
+// ---
+
 #include <string>
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login state checker unit tests
+// summary: Unit tests for LoginStateChecker covering successful, failed, and error login check responses, retries, and histogram metrics.
+// ---
+
 #include "chrome/browser/password_manager/password_change/login_state_checker.h"
 
 #include "base/test/gmock_callback_support.h"

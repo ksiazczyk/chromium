@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android payment app factory browser tests
+// summary: Tests app store billing payment app discovery, including ignoring installed service worker apps and preferring Play Billing in trusted web activities.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/test/payments/payment_app_install_util.h"
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PDF browser build targets (BUILD.gn)
+summary: Defines GN source sets for the Chrome PDF browser code, preference names, the ChromeOS PDF service, and test support targets with their dependencies.

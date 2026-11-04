@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF find request manager browser tests
+// summary: Browser tests for find-in-page behavior in the PDF viewer, covering full-page and embedded PDFs including partial loading variants.
+// ---
+
 #include <string_view>
 
 #include "base/command_line.h"

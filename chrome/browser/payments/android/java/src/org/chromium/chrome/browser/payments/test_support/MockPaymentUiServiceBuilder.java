@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockPaymentUiServiceBuilder
+// summary: Mockito-based builder that creates a mocked PaymentUiService with configurable payment apps and UI results for use in payment tests.
+// ---
+
 package org.chromium.chrome.browser.payments.test_support;
 
 import org.mockito.Mockito;

@@ -4,6 +4,12 @@
 
 // This file contains utilities related to password store.
 
+// ---docerion
+// type: source
+// title: Password store metrics reporting header
+// summary: Declares DelayReportingPasswordStoreMetrics, which defers password store metric queries and reporting until after the hot phase of Chrome startup.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_PASSWORD_STORE_UTILS_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_PASSWORD_STORE_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Payments webapps directory metadata
+summary: Specifies the owning team email (pwa-dev@chromium.org) and public Buganizer component for the chrome/browser/payments/webapps directory.

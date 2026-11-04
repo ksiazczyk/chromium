@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sender service factory header
+// summary: Declares PasswordSenderServiceFactory, a profile-keyed service factory exposing GetForProfile for the outgoing password sharing service.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_PASSWORD_SENDER_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_PASSWORD_SENDER_SERVICE_FACTORY_H_
 

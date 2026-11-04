@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentHandlerToolbarMediator unit tests
+// summary: Robolectric tests verifying that PaymentHandlerToolbarMediator updates security icon and progress properties on security state changes and navigation events.
+// ---
+
 package org.chromium.chrome.browser.payments.handler.toolbar;
 
 import static org.mockito.ArgumentMatchers.any;

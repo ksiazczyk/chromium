@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChangePasswordFormFinder implementation
+// summary: Implements the search for a change password form, including page content capture, model queries, button actuation and detection metrics.
+// ---
+
 #include "chrome/browser/password_manager/password_change/change_password_form_finder.h"
 
 #include "base/barrier_closure.h"

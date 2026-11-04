@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Detached web contents implementation
+// summary: Creates an off-screen WebContents in a frameless widget so password change pages can be loaded invisibly to the user.
+// ---
+
 #include "chrome/browser/password_manager/password_change/detached_web_contents.h"
 
 #include "chrome/browser/profiles/profile.h"

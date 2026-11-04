@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TwaPackageHelper implementation
+// summary: Implements TwaPackageHelper, resolving on ChromeOS the Android package name of the Trusted Web Activity behind a web app window for payments flows.
+// ---
+
 #include "chrome/browser/payments/webapps/twa_package_helper.h"
 
 #include <utility>

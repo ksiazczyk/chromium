@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store backend factory implementation
+// summary: Creates platform-appropriate PasswordStoreBackend instances, choosing Android account or local backends or the desktop built-in backend backed by LoginDatabase.
+// ---
+
 #include "chrome/browser/password_manager/factories/password_store_backend_factory.h"
 
 #include "base/trace_event/trace_event.h"

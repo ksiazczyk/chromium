@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF extension test base implementation
+// summary: Implements the shared PDFExtensionTestBase fixture that sets up test servers and guest view or OOPIF managers for PDF extension browser tests.
+// ---
+
 #include "chrome/browser/pdf/pdf_extension_test_base.h"
 
 #include <memory>

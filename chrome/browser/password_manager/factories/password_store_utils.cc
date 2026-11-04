@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store metrics reporting implementation
+// summary: Implements delayed password store metrics reporting by attaching a StoreMetricsReporter helper to the profile 30 seconds after startup.
+// ---
+
 #include "chrome/browser/password_manager/factories/password_store_utils.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome PDF stream delegate header
+// summary: Declares ChromePdfStreamDelegate, the Chrome override of pdf::PdfStreamDelegate for URL mapping, stream info, and PDF frame navigation checks.
+// ---
+
 #ifndef CHROME_BROWSER_PDF_CHROME_PDF_STREAM_DELEGATE_H_
 #define CHROME_BROWSER_PDF_CHROME_PDF_STREAM_DELEGATE_H_
 

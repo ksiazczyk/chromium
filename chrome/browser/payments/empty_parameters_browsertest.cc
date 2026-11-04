@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Empty parameters browser test
+// summary: Browser test ensuring that creating a payment request with empty parameters does not crash the browser.
+// ---
+
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"
 #include "components/payments/content/service_worker_payment_app_finder.h"
 #include "components/payments/content/service_worker_payment_app_finder_test_api.h"

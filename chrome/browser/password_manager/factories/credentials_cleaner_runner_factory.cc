@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the credentials cleaner runner factory
+// summary: Provides per-profile CredentialsCleanerRunner instances that run password credential cleanup tasks.
+// ---
+
 #include "chrome/browser/password_manager/factories/credentials_cleaner_runner_factory.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capability delegation browser tests
+// summary: Browser tests for cross-origin payment requests using capability delegation, with the main cross-origin case disabled due to flakiness.
+// ---
+
 #include "base/command_line.h"
 #include "base/feature_list.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

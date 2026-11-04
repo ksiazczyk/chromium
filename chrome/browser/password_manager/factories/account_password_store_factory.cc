@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the account password store factory
+// summary: Builds Gaia-account-scoped PasswordStore instances per profile, including stats table cleanup for sync-to-signin migration on non-Android platforms.
+// ---
+
 #include "chrome/browser/password_manager/factories/account_password_store_factory.h"
 
 #include <memory>

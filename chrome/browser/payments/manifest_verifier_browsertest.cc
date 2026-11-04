@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest verifier browser test
+// summary: Browser test exercising the payment manifest verifier to check how installed payment apps are validated against their downloaded manifests.
+// ---
+
 #include "components/payments/content/manifest_verifier.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Colocated payment manifests browser test
+// summary: Browser test verifying that payment still works when the payment method manifest and web app manifest are colocated at the same /pay URL.
+// ---
+
 #include <string>
 
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"

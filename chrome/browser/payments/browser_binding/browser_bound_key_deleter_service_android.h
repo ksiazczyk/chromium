@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser bound key deleter service header
+// summary: Declares BrowserBoundKeyDeleterServiceAndroid, the Android implementation with test hooks for injecting an internal authenticator and passkey browser binder.
+// ---
+
 #ifndef CHROME_BROWSER_PAYMENTS_BROWSER_BINDING_BROWSER_BOUND_KEY_DELETER_SERVICE_ANDROID_H_
 #define CHROME_BROWSER_PAYMENTS_BROWSER_BINDING_BROWSER_BOUND_KEY_DELETER_SERVICE_ANDROID_H_
 

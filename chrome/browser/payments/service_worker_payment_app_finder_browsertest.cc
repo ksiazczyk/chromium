@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker payment app finder browser tests
+// summary: Browser tests verifying discovery and installation of service worker based payment apps through the ServiceWorkerPaymentAppFinder.
+// ---
+
 #include "components/payments/content/service_worker_payment_app_finder.h"
 
 #include <algorithm>

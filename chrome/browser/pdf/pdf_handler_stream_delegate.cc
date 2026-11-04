@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF handler stream delegate implementation
+// summary: Implements the MIME handler stream delegate for the built-in PDF viewer, handling postMessage setup, zoom levels, stream claiming, and save support.
+// ---
+
 #include "chrome/browser/pdf/pdf_handler_stream_delegate.h"
 
 #include "base/check.h"

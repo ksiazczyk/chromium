@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote actor credential permission client implementation
+// summary: Implements requests to the Agentic Permission Service that grant remote actors access to shared passwords.
+// ---
+
 #include "chrome/browser/password_manager/remote_actor/remote_actor_credential_permission_client.h"
 
 #include <memory>

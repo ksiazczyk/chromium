@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password reuse manager factory implementation
+// summary: Implements the factory that builds PasswordReuseManager per profile from the password stores and identity manager, including sign-in state metrics helpers.
+// ---
+
 #include "chrome/browser/password_manager/factories/password_reuse_manager_factory.h"
 
 #include <memory>

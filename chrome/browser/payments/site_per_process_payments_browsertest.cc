@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site-per-process payments browser tests
+// summary: Browser test checking that a PaymentRequest triggered in a cross-site iframe does not crash when site isolation is enabled.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test MIME handler stream manager header for PDF tests
+// summary: Declares TestMimeHandlerStreamManager, a test helper for controlling and waiting on MIME handler navigations when loading PDFs in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_PDF_TEST_MIME_HANDLER_STREAM_MANAGER_H_
 #define CHROME_BROWSER_PDF_TEST_MIME_HANDLER_STREAM_MANAGER_H_
 

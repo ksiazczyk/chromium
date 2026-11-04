@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the account password store factory
+// summary: Declares AccountPasswordStoreFactory, a refcounted keyed service factory that associates account-scoped PasswordStores with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_ACCOUNT_PASSWORD_STORE_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_ACCOUNT_PASSWORD_STORE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the field info manager factory
+// summary: Declares FieldInfoManagerFactory, which returns the FieldInfoManager associated with a profile, possibly null for incognito.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_FIELD_INFO_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_FIELD_INFO_MANAGER_FACTORY_H_
 

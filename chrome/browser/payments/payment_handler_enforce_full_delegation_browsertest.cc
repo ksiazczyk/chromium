@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the enforce full delegation feature
+// summary: Browser tests checking how the kEnforceFullDelegation feature flag affects which payment apps appear in the payment sheet under partial delegation.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"
 #include "components/payments/core/features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CanMakePayment event fields browser test
+// summary: Verifies that canmakepayment event details expose empty rather than defined top origin, request origin, method data, and modifiers fields.
+// ---
+
 #include <string>
 
 #include "base/test/scoped_feature_list.h"

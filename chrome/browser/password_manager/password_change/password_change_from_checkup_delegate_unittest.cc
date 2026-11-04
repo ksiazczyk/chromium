@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordChangeFromCheckupDelegate unit tests
+// summary: Unit tests for the checkup password change delegate, using a mock actuator to verify flow start, stop, and state change behavior.
+// ---
+
 #include "chrome/browser/password_manager/password_change/password_change_from_checkup_delegate.h"
 
 #include <memory>

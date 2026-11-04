@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login state checker implementation
+// summary: Implements LoginStateChecker, which verifies the user is signed in on the main tab before a password change flow and records login check metrics and errors.
+// ---
+
 #include "chrome/browser/password_manager/password_change/login_state_checker.h"
 
 #include "base/check_deref.h"

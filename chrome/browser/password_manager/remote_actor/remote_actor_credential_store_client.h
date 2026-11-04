@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote actor credential store client header
+// summary: Declares the client used by the sharing service to upload and delete remote actor credentials in the Passbox service via OAuth2-authenticated requests.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_REMOTE_ACTOR_REMOTE_ACTOR_CREDENTIAL_STORE_CLIENT_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_REMOTE_ACTOR_REMOTE_ACTOR_CREDENTIAL_STORE_CLIENT_H_
 

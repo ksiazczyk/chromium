@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF extension browser tests
+// summary: Large browser test suite for the PDF extension viewer covering loading, zoom, downloads, permissions, policies and viewer UI behavior.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

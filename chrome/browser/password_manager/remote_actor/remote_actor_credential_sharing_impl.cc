@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote actor credential sharing implementation
+// summary: Implements the Mojo handler that validates agent authentication requests, shows the credential selection dialog and shares passwords.
+// ---
+
 #include "chrome/browser/password_manager/remote_actor/remote_actor_credential_sharing_impl.h"
 
 #include "base/check.h"

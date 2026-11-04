@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromePaymentRequestFactoryTest
+// summary: Robolectric tests for ChromePaymentRequestFactory covering invalid payment requests for null frames, disabled payment policy and inactive lifecycle states.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import org.junit.Assert;

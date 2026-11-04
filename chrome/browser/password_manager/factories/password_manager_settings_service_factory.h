@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager settings service factory header
+// summary: Declares PasswordManagerSettingsServiceFactory, which provides the per-profile password manager settings service and its creation logic.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_PASSWORD_MANAGER_SETTINGS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_PASSWORD_MANAGER_SETTINGS_SERVICE_FACTORY_H_
 

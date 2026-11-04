@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser bound key deleter service
+// summary: Implements removal of invalid browser bound keys on Android by grouping stored BBK metadata and matching credentials through the internal authenticator.
+// ---
+
 #include "chrome/browser/payments/browser_binding/browser_bound_key_deleter_service_android.h"
 
 #include <algorithm>

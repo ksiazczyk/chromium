@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the bulk leak check service factory
+// summary: Declares BulkLeakCheckServiceFactory, which creates instances of BulkLeakCheckService per profile.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_BULK_LEAK_CHECK_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_BULK_LEAK_CHECK_SERVICE_FACTORY_H_
 

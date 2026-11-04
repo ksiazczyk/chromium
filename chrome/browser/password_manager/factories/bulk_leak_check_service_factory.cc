@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the bulk leak check service factory
+// summary: Creates a per-profile BulkLeakCheckService using the profile's identity manager and URL loader factory for password leak detection.
+// ---
+
 #include "chrome/browser/password_manager/factories/bulk_leak_check_service_factory.h"
 
 #include "base/no_destructor.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for password manager factories
+summary: Defines the GN source sets and dependencies for the password manager factory targets, including platform-conditional sources for Android and desktop.

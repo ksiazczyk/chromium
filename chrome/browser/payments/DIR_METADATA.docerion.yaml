@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for payments directory
+summary: Points the payments directory metadata to the shared payments COMMON_METADATA mixins.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote actor request helper header
+// summary: Declares the RemoteActorRequest helper that manages the OAuth2 token fetch and network request lifecycle for remote actor backend calls, with a sequence diagram.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_REMOTE_ACTOR_REMOTE_ACTOR_REQUEST_HELPER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_REMOTE_ACTOR_REMOTE_ACTOR_REQUEST_HELPER_H_
 

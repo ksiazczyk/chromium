@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptPasswordChangeActuator implementation
+// summary: Implements the actuator that performs password changes through DOM script-based form finding, filling, submission, and verification in a detached web contents.
+// ---
+
 #include "chrome/browser/password_manager/password_change/script_password_change_actuator.h"
 
 #include <algorithm>

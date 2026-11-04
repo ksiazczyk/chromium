@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store backend creation helper
+// summary: Declares CreatePasswordStoreBackend, which builds a password store backend for the profile or account store using prefs, OS crypt async, and the affiliation service.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_PASSWORD_STORE_BACKEND_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_PASSWORD_STORE_BACKEND_FACTORY_H_
 

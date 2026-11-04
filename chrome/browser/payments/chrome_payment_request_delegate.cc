@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome payment request delegate implementation
+// summary: Implements Chrome's payment request delegate, wiring dialogs, autofill data, address normalization, and secure payment confirmation services.
+// ---
+
 #include "chrome/browser/payments/chrome_payment_request_delegate.h"
 
 #include <utility>

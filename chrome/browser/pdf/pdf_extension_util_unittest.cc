@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF extension utility unit tests
+// summary: Unit tests for pdf_extension_util, covering feature-gated behavior such as PDF save to Drive availability for different ChromeOS user types.
+// ---
+
 #include "chrome/browser/pdf/pdf_extension_util.h"
 
 #include <memory>

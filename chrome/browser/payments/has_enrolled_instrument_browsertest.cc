@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: hasEnrolledInstrument browser test
+// summary: Browser test checking hasEnrolledInstrument() results across option variations with no handler, a just-in-time installable handler and an installed handler.
+// ---
+
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"
 #include "chrome/test/payments/personal_data_manager_test_util.h"
 #include "content/public/test/browser_test.h"

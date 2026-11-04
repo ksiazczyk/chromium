@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordChangeSubmissionVerifier implementation
+// summary: Verifies whether a password change submission succeeded by sending page content to the optimization guide model and recording outcome histograms and UKM metrics.
+// ---
+
 #include "chrome/browser/password_manager/password_change/password_change_submission_verifier.h"
 
 #include "base/metrics/histogram_functions.h"

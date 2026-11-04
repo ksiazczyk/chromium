@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for payment handler changePaymentMethod events
+// summary: Parameterized browser tests verifying how PaymentRequestEvent.changePaymentMethod() results depend on the merchant's paymentmethodchange handler behavior.
+// ---
+
 #include <string>
 
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"

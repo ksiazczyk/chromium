@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment method redirect browser test
+// summary: Browser test verifying that a payment method identifier can be an HTTP 301 permanent redirect to its subdomain.
+// ---
+
 #include <string>
 
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillContactUnitTest
+// summary: Robolectric unit tests verifying the isEqualOrSupersetOf behavior of AutofillContact for requested payer name, phone and email fields.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static org.mockito.ArgumentMatchers.anyInt;

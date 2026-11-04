@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model quality logs uploader unit tests
+// summary: Unit tests for ModelQualityLogsUploader verifying quality data for login check, open form, submit form, and verify submission steps in uploaded logs.
+// ---
+
 #include "chrome/browser/password_manager/password_change/model_quality_logs_uploader.h"
 
 #include <algorithm>

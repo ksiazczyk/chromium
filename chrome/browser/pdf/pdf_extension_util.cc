@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF extension utility implementation
+// summary: Implements utilities for the PDF viewer extension, including manifest generation, localized strings, resource lists and viewer events.
+// ---
+
 #include "chrome/browser/pdf/pdf_extension_util.h"
 
 #include <algorithm>

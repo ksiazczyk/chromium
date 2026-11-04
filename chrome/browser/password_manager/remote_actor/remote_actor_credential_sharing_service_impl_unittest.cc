@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote actor credential sharing service unit tests
+// summary: Unit tests covering factory instance creation, incognito behavior, and the SharePassword success and failure paths using mocked identity and network environments.
+// ---
+
 #include "chrome/browser/password_manager/remote_actor/remote_actor_credential_sharing_service_impl.h"
 
 #include "base/functional/bind.h"

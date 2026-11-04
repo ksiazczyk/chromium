@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebPaymentsObserver class header
+// summary: Declares WebPaymentsObserver, a WebContents observer measuring anonymized web payments metrics such as 3D-Secure challenge requests and responses.
+// ---
+
 #ifndef CHROME_BROWSER_PAYMENTS_WEB_PAYMENTS_OBSERVER_H_
 #define CHROME_BROWSER_PAYMENTS_WEB_PAYMENTS_OBSERVER_H_
 

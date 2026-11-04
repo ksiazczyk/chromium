@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager settings service factory implementation
+// summary: Implements the profile-keyed factory that creates PasswordManagerSettingsService instances, with Android-specific prefs handling and a sync service dependency.
+// ---
+
 #include "chrome/browser/password_manager/factories/password_manager_settings_service_factory.h"
 
 #include "base/trace_event/trace_event.h"

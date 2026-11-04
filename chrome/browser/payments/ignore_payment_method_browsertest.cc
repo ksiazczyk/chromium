@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ignore payment method browser test
+// summary: Browser test verifying that ignored payment methods are excluded from canMakePayment, hasEnrolledInstrument and payment handler launch results.
+// ---
+
 #include <string>
 
 #include "chrome/test/payments/payment_app_install_util.h"

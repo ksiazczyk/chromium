@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop browser bound key deleter service unit tests
+// summary: Unit tests verifying desktop deletion of browser bound keys via credential enumeration and stale-key expiration, using mock dependencies.
+// ---
+
 #include "chrome/browser/payments/browser_binding/browser_bound_key_deleter_service_desktop.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mime handler stream manager PDF unit tests
+// summary: Unit tests for PdfHandlerStreamDelegate and MimeHandlerStreamManager behavior during PDF navigations under the OOPIF feature.
+// ---
+
 #include <memory>
 
 #include "base/memory/weak_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequest factory for Chrome browser
+// summary: Creates PaymentRequest objects for renderer Mojo requests, enforcing permissions policy, recording CanMakePayment preference metrics, and supporting a testing factory override.
+// ---
+
 #include "chrome/browser/payments/payment_request_factory.h"
 
 #include <memory>

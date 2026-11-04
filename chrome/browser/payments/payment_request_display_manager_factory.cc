@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequestDisplayManagerFactory implementation
+// summary: Implements a profile-keyed service factory that provides a PaymentRequestDisplayManager per browser context, including incognito and guest profiles.
+// ---
+
 #include "chrome/browser/payments/payment_request_display_manager_factory.h"
 
 #include "components/payments/content/payment_request_display_manager.h"

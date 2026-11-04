@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker payment app JNI bridge
+// summary: JNI bridge that queries installed service worker payment apps and reports their names, scopes and icons to the Java layer on Android.
+// ---
+
 #include <set>
 #include <string>
 #include <utility>

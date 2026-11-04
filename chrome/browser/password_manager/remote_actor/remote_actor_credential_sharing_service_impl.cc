@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote actor credential sharing service implementation
+// summary: Implements the password sharing flow that uploads a credential to Passbox and then grants agent access via the permission service, logging failure reasons to histograms.
+// ---
+
 #include "chrome/browser/password_manager/remote_actor/remote_actor_credential_sharing_service_impl.h"
 
 #include <utility>

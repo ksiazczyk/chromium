@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the payment handler permission context
+// summary: Unit tests verifying PaymentHandlerPermissionContext behavior, such as denying permission for insecure origins while recording content settings.
+// ---
+
 #include "components/permissions/contexts/payment_handler_permission_context.h"
 
 #include <string>
