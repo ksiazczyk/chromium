@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network context prefetch implementation
+// summary: Builds resource requests that closely match what the renderer would send and issues subresource prefetches through the NetworkContext::Prefetch API.
+// ---
+
 #include "chrome/browser/predictors/perform_network_context_prefetch.h"
 
 #include <optional>

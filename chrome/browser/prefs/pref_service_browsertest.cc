@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pref service browser test for window placement
+// summary: Browser tests verifying that window placement is restored from the preferences file across restarts, using a copied test profile.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"

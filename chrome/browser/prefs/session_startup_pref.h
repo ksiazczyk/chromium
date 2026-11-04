@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionStartupPref
+// summary: Header defining the SessionStartupPref struct and helpers that control what Chrome opens at startup, including managed policy checks and pref registration.
+// ---
+
 #ifndef CHROME_BROWSER_PREFS_SESSION_STARTUP_PREF_H__
 #define CHROME_BROWSER_PREFS_SESSION_STARTUP_PREF_H__
 

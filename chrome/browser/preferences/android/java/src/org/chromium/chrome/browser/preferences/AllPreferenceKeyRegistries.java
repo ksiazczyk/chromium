@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllPreferenceKeyRegistries
+// summary: Initializes the known preference key registries for Chrome and cached flags SharedPreferences in builds with asserts enabled.
+// ---
+
 package org.chromium.chrome.browser.preferences;
 
 import static org.chromium.build.NullUtil.assertNonNull;

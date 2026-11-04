@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource prefetch predictor implementation
+// summary: Implements the resource prefetch predictor that learns redirect and origin statistics from navigation history to drive preconnect and prefetch decisions.
+// ---
+
 #include "chrome/browser/predictors/resource_prefetch_predictor.h"
 
 #include <map>

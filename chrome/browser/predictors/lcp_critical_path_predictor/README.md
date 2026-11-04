@@ -1,3 +1,9 @@
+---
+type: readme
+title: LCP Critical Path Predictor
+summary: Describes the browser-side LCP Critical Path Predictor implementation, its database, persister and keyed service classes.
+---
+
 # LCP Critical Path Predictor
 
 This directory implements the browser side of the [Largest Contentful Paint

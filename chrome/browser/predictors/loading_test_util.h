@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Loading predictor test utilities header
+// summary: Declares mock predictors and helpers for constructing test data such as redirect stats, origin stats, page request summaries, and preconnect predictions.
+// ---
+
 #ifndef CHROME_BROWSER_PREDICTORS_LOADING_TEST_UTIL_H_
 #define CHROME_BROWSER_PREDICTORS_LOADING_TEST_UTIL_H_
 

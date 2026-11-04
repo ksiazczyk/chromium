@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the prefs component
+summary: Maps the directory to the Internals>Preferences bug component and the chromium-dev team email for issue tracking.

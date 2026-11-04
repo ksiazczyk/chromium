@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP disk cache prewarm manager implementation
+// summary: Implements the manager that warms HTTP disk cache entries for top-frame main and subresources without network requests, processing jobs sequentially with a prewarm history.
+// ---
+
 #include "chrome/browser/predictors/lcp_critical_path_predictor/prewarm_http_disk_cache_manager.h"
 
 #include "base/functional/bind.h"

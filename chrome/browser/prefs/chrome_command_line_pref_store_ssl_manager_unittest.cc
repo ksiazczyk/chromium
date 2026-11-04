@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome command line pref store SSL manager tests
+// summary: Unit test checking that command line SSL version switches are honored and that they are not persisted into the preferences store.
+// ---
+
 #include "base/command_line.h"
 #include "base/memory/ref_counted.h"
 #include "chrome/browser/prefs/chrome_command_line_pref_store.h"

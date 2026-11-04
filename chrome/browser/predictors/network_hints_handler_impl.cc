@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network hints handler implementation
+// summary: Implements the NetworkHintsHandler Mojo interface to forward DNS prefetch and preconnect hints from renderers to the preconnect manager.
+// ---
+
 #include "chrome/browser/predictors/network_hints_handler_impl.h"
 
 #include <optional>

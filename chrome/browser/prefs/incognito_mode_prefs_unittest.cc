@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoModePrefs unit tests
+// summary: Unit tests verifying availability conversion, preference-driven availability, and that Enterprise Isolated Mode takes priority over incognito preferences.
+// ---
+
 #include "chrome/browser/prefs/incognito_mode_prefs.h"
 
 #include <optional>

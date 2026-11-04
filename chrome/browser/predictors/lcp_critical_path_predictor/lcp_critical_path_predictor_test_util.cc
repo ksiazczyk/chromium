@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helpers for building LcppData protobufs
+// summary: Provides helpers to populate LcppData protobuf buckets plus stream and equality operators for test assertions.
+// ---
+
 #include "chrome/browser/predictors/lcp_critical_path_predictor/lcp_critical_path_predictor_test_util.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedPreferencesMetricsTest
+// summary: Unit tests for SharedPreferencesMetrics covering histogram recording, cached flags counting, and entry size estimation.
+// ---
+
 package org.chromium.chrome.browser.preferences;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome pref service tests
+// summary: Unit tests verifying command line pref store updates and that profile preferences are correctly copied into Blink WebPreferences.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/utf_string_conversions.h"
 #include "build/build_config.h"

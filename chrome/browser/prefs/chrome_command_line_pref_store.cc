@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command-line switch to preference mapping
+// summary: Applies command-line switches such as proxy, SSL, language, and safe browsing settings to their corresponding preferences.
+// ---
+
 #include "chrome/browser/prefs/chrome_command_line_pref_store.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefMetricsService header
+// summary: Declares the PrefMetricsService keyed service responsible for recording prefs-related UMA statistics per profile.
+// ---
+
 #ifndef CHROME_BROWSER_PREFS_PREF_METRICS_SERVICE_H_
 #define CHROME_BROWSER_PREFS_PREF_METRICS_SERVICE_H_
 

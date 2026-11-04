@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoadingPredictorConfig unit tests
+// summary: Unit tests verifying when the loading predictor is enabled and preconnect is allowed based on preloading preferences and profile type.
+// ---
+
 #include "chrome/browser/predictors/loading_predictor_config.h"
 
 #include "chrome/browser/preloading/preloading_prefs.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch preference name constants
+// summary: Defines constants for the preference paths of the search prefetch cache, retry-after origins, and network prediction options.
+// ---
+
 #include "chrome/browser/prefetch/pref_names.h"
 
 namespace prefetch {

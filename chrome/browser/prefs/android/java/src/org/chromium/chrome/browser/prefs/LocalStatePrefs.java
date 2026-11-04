@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalStatePrefs
+// summary: Java helper that provides access to the Local State PrefService, tracks when native prefs are loaded, and notifies registered observers.
+// ---
+
 package org.chromium.chrome.browser.prefs;
 
 import org.jni_zero.CalledByNative;

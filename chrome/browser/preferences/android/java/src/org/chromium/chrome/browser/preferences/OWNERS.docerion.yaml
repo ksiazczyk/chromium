@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Defines per-file owners for simple additions and deprecations of preference keys, plus dedicated owners for MultiInstance files.

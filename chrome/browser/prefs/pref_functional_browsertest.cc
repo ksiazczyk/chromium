@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preferences functional browser tests
+// summary: In-process browser tests verifying functional behavior of preferences such as the download directory and image content settings.
+// ---
+
 #include <string>
 
 #include "base/files/file_util.h"

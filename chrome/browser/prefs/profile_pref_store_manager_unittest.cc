@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile pref store manager unit tests
+// summary: Unit tests for ProfilePrefStoreManager covering tracked preference protection, enforcement levels, resets, and store creation.
+// ---
+
 
 #include "chrome/browser/prefs/profile_pref_store_manager.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoadingPredictorTabHelper unit tests
+// summary: Unit tests for the tab helper's navigation and resource load handling, using mock collectors and a mock optimization guide service.
+// ---
+
 #include "chrome/browser/predictors/loading_predictor_tab_helper.h"
 
 #include "base/memory/raw_ptr.h"

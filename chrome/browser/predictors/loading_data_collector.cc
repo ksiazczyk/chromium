@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading data collector implementation
+// summary: Implements collection of page request summaries, classifying resource loads, preconnect and prefetch attempts by origin and MIME type for prediction learning.
+// ---
+
 #include "chrome/browser/predictors/loading_data_collector.h"
 
 #include <algorithm>

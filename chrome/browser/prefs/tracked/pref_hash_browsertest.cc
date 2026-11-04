@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tracked preference hash browser tests
+// summary: Browser tests verifying tracked preference integrity, histogram reporting, and hash store behavior, including extension prefs and platform-specific setup.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

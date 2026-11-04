@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading predictor feature flags
+// summary: Defines base::Feature flags and parameters controlling loading predictor behavior such as prefetching, preconnect, and optimization guide predictions.
+// ---
+
 #include "chrome/browser/predictors/predictors_features.h"
 
 #include "base/metrics/field_trial_params.h"

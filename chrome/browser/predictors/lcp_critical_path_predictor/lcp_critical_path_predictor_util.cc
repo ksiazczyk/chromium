@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LCP critical path predictor utility implementation
+// summary: Implements LCPP helper functions, including SQLite-backed frequency statistics and prediction of LCP element locators, fonts, preconnectable origins, and subresource URLs from past loads.
+// ---
+
 #include "chrome/browser/predictors/lcp_critical_path_predictor/lcp_critical_path_predictor_util.h"
 
 #include <string_view>

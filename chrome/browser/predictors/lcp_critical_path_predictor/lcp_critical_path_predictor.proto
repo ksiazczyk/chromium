@@ -4,6 +4,12 @@
 
 // Protocol buffers used for storing in SQLite.
 
+// ---docerion
+// type: source
+// title: Protobuf messages for LCP predictor SQLite storage
+// summary: Defines protobuf messages for storing LCP predictor statistics such as element locators, script, font and subresource URL frequencies in SQLite.
+// ---
+
 syntax = "proto2";
 
 package predictors;

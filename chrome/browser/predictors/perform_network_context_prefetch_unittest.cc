@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network context prefetch unit tests
+// summary: Unit tests using an embedded test server to verify that network context prefetch requests carry the expected headers and request fields.
+// ---
+
 #include "chrome/browser/predictors/perform_network_context_prefetch.h"
 
 #include <stdint.h>

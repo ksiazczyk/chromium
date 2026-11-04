@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionStartupPref unit tests
+// summary: Unit tests verifying default startup types across platforms, URL list fix-up, and that managed policy URLs override user preferences.
+// ---
+
 #include "chrome/browser/prefs/session_startup_pref.h"
 
 #include <memory>

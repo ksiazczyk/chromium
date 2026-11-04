@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preload Pages settings fragment tests
+// summary: UI tests verifying the Preload Pages radio button group, managed disclaimer text and consistency with the native state.
+// ---
+
 package org.chromium.chrome.browser.prefetch.settings;
 
 import static androidx.test.espresso.Espresso.onView;

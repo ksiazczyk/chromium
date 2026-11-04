@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome shared preferences JNI header
+// summary: Header declaring GetChromeSharedPreferences for native access to the SharedPreferences registered in ChromePreferenceKeys.java.
+// ---
+
 #ifndef CHROME_BROWSER_PREFERENCES_ANDROID_CHROME_SHARED_PREFERENCES_H_
 #define CHROME_BROWSER_PREFERENCES_ANDROID_CHROME_SHARED_PREFERENCES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromePreferenceKeysTest
+// summary: Verifies that ChromePreferenceKeys keys follow the required format, are not reused, and do not collide across registries or deprecated lists.
+// ---
+
 package org.chromium.chrome.browser.preferences;
 
 import static org.junit.Assert.assertEquals;

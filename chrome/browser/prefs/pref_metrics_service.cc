@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefMetricsService implementation
+// summary: Implements recording of UMA metrics about homepage, startup pages, and search engine types derived from profile preferences at launch.
+// ---
+
 #include "chrome/browser/prefs/pref_metrics_service.h"
 
 #include <string>

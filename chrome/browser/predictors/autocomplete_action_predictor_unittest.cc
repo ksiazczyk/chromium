@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autocomplete action predictor unit tests
+// summary: Unit tests for the autocomplete action predictor, verifying confidence-based actions, preloading predictions and UKM metric recording.
+// ---
+
 #include "chrome/browser/predictors/autocomplete_action_predictor.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource prefetch predictor class declaration
+// summary: Declares the ResourcePrefetchPredictor keyed service plus prediction structs for preconnect, prefetch and optimization guide results.
+// ---
+
 #ifndef CHROME_BROWSER_PREDICTORS_RESOURCE_PREFETCH_PREDICTOR_H_
 #define CHROME_BROWSER_PREDICTORS_RESOURCE_PREFETCH_PREDICTOR_H_
 

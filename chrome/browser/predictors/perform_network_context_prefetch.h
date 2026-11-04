@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network context prefetch header
+// summary: Declares PerformNetworkContextPrefetch, which prefetches a navigation's subresources inside the network service and skips incognito profiles.
+// ---
+
 #ifndef CHROME_BROWSER_PREDICTORS_PERFORM_NETWORK_CONTEXT_PREFETCH_H_
 #define CHROME_BROWSER_PREDICTORS_PERFORM_NETWORK_CONTEXT_PREFETCH_H_
 

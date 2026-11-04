@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autocomplete action predictor table unit tests
+// summary: Unit tests for the autocomplete action predictor database table, covering row lookup, add and update, deletion, and reopening the database.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

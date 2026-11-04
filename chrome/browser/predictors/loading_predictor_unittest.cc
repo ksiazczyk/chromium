@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoadingPredictor unit tests
+// summary: Unit tests for LoadingPredictor preconnect and preresolve behavior using a mocked PreconnectManager and a test configuration.
+// ---
+
 #include "chrome/browser/predictors/loading_predictor.h"
 
 #include <memory>

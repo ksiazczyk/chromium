@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network hints handler header
+// summary: Declares the browser-side handler that receives DNS prefetch and preconnect requests from renderers via the network hints Mojo interface.
+// ---
+
 #ifndef CHROME_BROWSER_PREDICTORS_NETWORK_HINTS_HANDLER_IMPL_H_
 #define CHROME_BROWSER_PREDICTORS_NETWORK_HINTS_HANDLER_IMPL_H_
 

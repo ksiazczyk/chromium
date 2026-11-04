@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for Preload Pages settings fragments
+// summary: Abstract base fragment that loads preference resources, sets the page title and adds a targeted help menu item for Preload Pages settings.
+// ---
+
 package org.chromium.chrome.browser.prefetch.settings;
 
 import android.os.Bundle;

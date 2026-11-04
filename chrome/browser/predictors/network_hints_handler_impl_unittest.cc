@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network hints handler unit tests
+// summary: Unit tests for the network hints handler, verifying DNS prefetch and preconnect behavior against a mocked preconnect manager.
+// ---
+
 #include "chrome/browser/predictors/network_hints_handler_impl.h"
 
 #include <memory>

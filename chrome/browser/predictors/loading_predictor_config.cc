@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading predictor config implementation
+// summary: Implements loading predictor configuration defaults from field trial parameters plus helpers for enabling the predictor and checking preconnect permission.
+// ---
+
 #include "chrome/browser/predictors/loading_predictor_config.h"
 
 #include "base/metrics/field_trial_params.h"

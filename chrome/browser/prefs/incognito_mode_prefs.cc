@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito mode prefs implementation
+// summary: Implements IncognitoModePrefs helpers that read and set incognito availability, honor parental controls and decide when incognito windows may open.
+// ---
+
 #include "chrome/browser/prefs/incognito_mode_prefs.h"
 
 #include <stdint.h>

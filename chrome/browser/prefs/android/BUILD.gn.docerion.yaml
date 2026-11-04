@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Android local state prefs
+summary: Defines GN targets that generate JNI headers for LocalStatePrefs, build the Java library, and compile the native JNI bridge.

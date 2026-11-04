@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyChromePreferenceKeys
+// summary: Collects in-use preference keys and prefixes that do not conform to the Chrome.[Feature].[Key] naming format.
+// ---
+
 package org.chromium.chrome.browser.preferences;
 
 import org.chromium.base.shared_preferences.KeyPrefix;

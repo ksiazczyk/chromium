@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome pref service factory tests
+// summary: Unit tests for the pref service factory covering tampered pref list access and clearing, and removal of account preferences files on Android.
+// ---
+
 #include "chrome/browser/prefs/chrome_pref_service_factory.h"
 
 #include "base/files/file_util.h"

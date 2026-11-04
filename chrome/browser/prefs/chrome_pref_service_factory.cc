@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome pref service factory implementation
+// summary: Implements creation and initialization of Chrome's local state and profile PrefService instances, including tracked preference validation and reset handling.
+// ---
+
 #include "chrome/browser/prefs/chrome_pref_service_factory.h"
 
 #include <stddef.h>

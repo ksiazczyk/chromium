@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Predictors directory metadata
+summary: Mixes in COMMON_METADATA so the directory inherits the shared bug tracking component settings.

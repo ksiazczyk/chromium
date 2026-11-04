@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Prefetch OWNERS file
+summary: Delegates code review ownership to the owners of components/no_state_prefetch.

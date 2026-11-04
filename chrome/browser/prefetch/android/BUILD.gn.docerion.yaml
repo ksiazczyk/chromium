@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android preload pages settings build targets
+summary: GN build file defining the Android Java library, tests, resources, and JNI headers for the Chrome preload pages settings UI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete action predictor implementation
+// summary: Implements the omnibox predictor that recommends prerender, preconnect or no action for autocomplete matches, using confidence cutoffs and a URL-keyed hit/miss database.
+// ---
+
 #include "chrome/browser/predictors/autocomplete_action_predictor.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Loading data collector unit tests
+// summary: Unit tests for the loading data collector, checking handled resource types, navigation recording and summary building using a mock resource prefetch predictor.
+// ---
+
 #include "chrome/browser/predictors/loading_data_collector.h"
 
 #include <iostream>

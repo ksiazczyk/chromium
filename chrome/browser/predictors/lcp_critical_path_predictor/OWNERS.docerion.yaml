@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for LCP Critical Path Predictor
+summary: Delegates code ownership to the blink renderer core LCP critical path predictor OWNERS file.

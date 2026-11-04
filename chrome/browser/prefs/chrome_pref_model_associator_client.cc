@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome pref model associator client implementation
+// summary: Implements merge logic for synced preferences, resolving conflicts for the network easter egg high score and ChromeOS session and accessibility prefs.
+// ---
+
 #include "chrome/browser/prefs/chrome_pref_model_associator_client.h"
 
 #include <cstdint>

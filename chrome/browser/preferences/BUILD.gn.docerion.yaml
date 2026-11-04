@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for Android preferences
+summary: Defines GN targets for the Android preferences Java library, generated preference name srcjars, JNI headers, native shared preferences code, and Robolectric tests.

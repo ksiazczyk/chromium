@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Loading predictor browser tests
+// summary: Browser tests exercising the loading predictor's preconnect, prefetch and prerender behavior across real navigation flows and feature configurations.
+// ---
+
 #include "chrome/browser/predictors/loading_predictor.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeprecatedChromePreferenceKeys
+// summary: Lists retired SharedPreferences keys and prefixes that were used in the past and must never be reused.
+// ---
+
 package org.chromium.chrome.browser.preferences;
 
 import org.chromium.base.shared_preferences.KeyPrefix;

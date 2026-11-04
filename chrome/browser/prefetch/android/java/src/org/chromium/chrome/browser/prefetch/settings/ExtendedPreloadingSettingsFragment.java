@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended preloading settings fragment
+// summary: Android settings fragment that displays the extended preloading preferences and uses property animation.
+// ---
+
 package org.chromium.chrome.browser.prefetch.settings;
 
 import org.chromium.build.annotations.NullMarked;

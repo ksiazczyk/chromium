@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchManager unit tests
+// summary: Unit tests for PrefetchManager covering prefetch jobs, delegate callbacks, and network context prefetch behavior.
+// ---
+
 #include "chrome/browser/predictors/prefetch_manager.h"
 
 #include <map>

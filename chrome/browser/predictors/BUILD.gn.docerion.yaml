@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Predictors BUILD.gn build definition
+summary: Defines GN targets for the predictors code, including the resource prefetch predictor proto and the config, predictors, impl and test_support source sets with their dependencies.

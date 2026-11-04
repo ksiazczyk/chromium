@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome command line pref store proxy tests
+// summary: Parameterized unit tests verifying how ChromeCommandLinePrefStore builds proxy configuration from command line switches such as proxy server, bypass list and no-proxy.
+// ---
+
 #include <gtest/gtest.h>
 #include <stddef.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentRendererPrefsManagerFactory header
+// summary: Declares the singleton ProfileKeyedServiceFactory that grants access to profile-specific PersistentRendererPrefsManager instances.
+// ---
+
 #ifndef CHROME_BROWSER_PREFS_PERSISTENT_RENDERER_PREFS_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_PREFS_PERSISTENT_RENDERER_PREFS_MANAGER_FACTORY_H_
 

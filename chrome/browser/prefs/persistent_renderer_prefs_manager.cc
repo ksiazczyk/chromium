@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentRendererPrefsManager implementation
+// summary: Implements the keyed service that persists renderer preferences such as view-source line wrapping into the profile PrefService and binds Mojo frame receivers.
+// ---
+
 #include "chrome/browser/prefs/persistent_renderer_prefs_manager.h"
 
 #include "chrome/browser/prefs/persistent_renderer_prefs_manager_factory.h"

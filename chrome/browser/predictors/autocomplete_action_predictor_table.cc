@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete action predictor table implementation
+// summary: Implements SQLite row operations for the network_action_predictor table, storing user text, URL and hit/miss counts on the database sequence.
+// ---
+
 #include "chrome/browser/predictors/autocomplete_action_predictor_table.h"
 
 #include <cstddef>

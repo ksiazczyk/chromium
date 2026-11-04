@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistentRendererPrefs unit tests
+// summary: Unit tests checking that renderer preference changes made through the persistent renderer prefs service are reflected in the backing profile's PrefService.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "chrome/browser/prefs/persistent_renderer_prefs_manager.h"
 #include "chrome/browser/profiles/profile.h"

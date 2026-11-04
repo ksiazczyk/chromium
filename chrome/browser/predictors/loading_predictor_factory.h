@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadingPredictorFactory class declaration
+// summary: Declares the LoadingPredictorFactory keyed service factory that provides profile-scoped access to the LoadingPredictor.
+// ---
+
 #ifndef CHROME_BROWSER_PREDICTORS_LOADING_PREDICTOR_FACTORY_H_
 #define CHROME_BROWSER_PREDICTORS_LOADING_PREDICTOR_FACTORY_H_
 

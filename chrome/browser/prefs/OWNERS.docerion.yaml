@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the prefs directory
+summary: Points to the components/prefs owners file and assigns a per-file owner for pref_service_incognito_allowlist.cc.
