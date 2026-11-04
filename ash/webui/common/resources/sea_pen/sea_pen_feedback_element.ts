@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sea Pen feedback element
+// summary: Polymer component that handles thumbs up and thumbs down feedback selection for Sea Pen thumbnails and emits selection change events.
+// ---
+
 /**
  * @fileoverview A polymer component that displays the feedback buttons.
  */

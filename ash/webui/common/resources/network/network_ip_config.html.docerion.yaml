@@ -1,0 +1,4 @@
+# Docerion header of network_ip_config.html.
+type: source
+title: IP configuration element template
+summary: HTML template for the IP configuration section with an automatic IP config toggle and editable network property fields.

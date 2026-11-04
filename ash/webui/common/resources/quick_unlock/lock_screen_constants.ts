@@ -6,6 +6,12 @@
  * @fileoverview Constants used for logging the pin unlock setup uma.
  */
 
+// ---docerion
+// type: source
+// title: Lock screen progress constants
+// summary: Defines the LockScreenProgress enum and a helper that records PIN unlock setup progress in UMA histograms.
+// ---
+
 /**
  * Name of the pin unlock setup uma histogram.
  */

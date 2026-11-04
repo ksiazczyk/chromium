@@ -1,0 +1,4 @@
+# Docerion header of apn_list_item.html.
+type: source
+title: APN list item template
+summary: HTML template for a single APN list row showing its name, connection status, and an action menu with details, enable, disable, and remove options.

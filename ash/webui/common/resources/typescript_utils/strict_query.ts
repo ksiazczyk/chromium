@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: strictQuery typed DOM element query helper
+// summary: Exports a strictQuery function that queries a selector on a root element and asserts the result exists and matches the expected constructor type.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 /**

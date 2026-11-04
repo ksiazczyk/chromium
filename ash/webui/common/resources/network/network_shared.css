@@ -12,6 +12,12 @@
 
 /* Common styles for network elements. */
 
+/*docerion
+type: source
+title: Shared styles for network elements
+summary: Common CSS styles for network UI elements, defining property boxes, attribute labels, and type icon sizing.
+*/
+
 :host {
   /* Margin for the show/hide password icon */
   --network-control-margin: 40px;

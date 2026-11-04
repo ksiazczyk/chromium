@@ -1,0 +1,4 @@
+# Docerion header of setup_succeeded_page.html.
+type: source
+title: Setup succeeded page template
+summary: HTML template for the success page shown after host setup, including the confirmation message and an SVG illustration.

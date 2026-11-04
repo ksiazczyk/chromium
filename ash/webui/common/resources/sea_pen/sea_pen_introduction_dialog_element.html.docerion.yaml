@@ -1,0 +1,4 @@
+# Docerion header of sea_pen_introduction_dialog_element.html.
+type: source
+title: SeaPen introduction dialog template
+summary: HTML template for the SeaPen introduction dialog, showing the title, body text, and close button in a cr-dialog.

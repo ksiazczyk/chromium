@@ -1,0 +1,4 @@
+# Docerion header of routine_group.html.
+type: source
+title: Routine group template
+summary: HTML template for a routine group that shows routines with result icons, result messages and a spinner while running.

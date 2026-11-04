@@ -6,6 +6,12 @@
  * @fileoverview A polymer component that displays Sea Pen chip text.
  */
 
+// ---docerion
+// type: source
+// title: Sea Pen chip text element
+// summary: Polymer component that displays Sea Pen chip text, splitting it into grapheme spans and animating letter transitions and underline width changes.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/polymer/v3_0/paper-spinner/paper-spinner-lite.js';
 

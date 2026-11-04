@@ -6,6 +6,12 @@
  * @fileoverview This component displays toast notifications to the user.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen toast element
+// summary: Polymer element that shows error toast notifications in the SeaPen UI and dispatches the dismiss error action.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 
 import {dismissSeaPenErrorAction} from './sea_pen_actions.js';

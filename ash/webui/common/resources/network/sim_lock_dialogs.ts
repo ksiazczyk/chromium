@@ -6,6 +6,12 @@
  * @fileoverview Polymer element containing all Sim lock dialogs
  */
 
+// ---docerion
+// type: source
+// title: SIM lock dialogs element
+// summary: Polymer element implementing SIM lock dialogs to enter, change, and unlock SIM PIN and PUK codes.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import '//resources/ash/common/cr_elements/icons.html.js';

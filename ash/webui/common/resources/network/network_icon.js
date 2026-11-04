@@ -7,6 +7,12 @@
  * state properties.
  */
 
+// ---docerion
+// type: source
+// title: Network icon Polymer element
+// summary: Polymer element that renders network icons from ONC state, selecting images by network type, signal strength, connection state, and hotspot info.
+// ---
+
 import './network_icons.html.js';
 import '//resources/ash/common/cr_elements/cr_hidden_style.css.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';

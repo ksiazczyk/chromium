@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Cellular unactivated icon
+summary: SVG icon showing a cellular signal triangle with a gear overlay, representing an unactivated cellular device.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
 <path d="M16.002 8.00201C16.3427 8.00201 16.6768 8.03042 17.002 8.08498V5.002C17.002 4.1111 15.9249 3.66493 15.2949 4.2949L4.2949 15.2949C3.66493 15.9249 4.1111 17.002 5.002 17.002H10.8046C10.2941 16.1195 10.002 15.0949 10.002 14.002C10.002 10.6883 12.6882 8.00201 16.002 8.00201Z"/>
 <path d="M15.5 14.5C16.0523 14.5 16.5 14.0523 16.5 13.5C16.5 12.9477 16.0523 12.5 15.5 12.5C14.9477 12.5 14.5 12.9477 14.5 13.5C14.5 14.0523 14.9477 14.5 15.5 14.5Z"/>

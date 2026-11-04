@@ -1,0 +1,4 @@
+# Docerion header of network_proxy.html.
+type: source
+title: Network proxy settings template
+summary: HTML template for the network proxy element, covering proxy type selection, PAC and WPAD settings, manual proxy inputs, and exclusion lists.

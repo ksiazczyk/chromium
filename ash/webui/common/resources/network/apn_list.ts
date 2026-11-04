@@ -7,6 +7,12 @@
  * APNs
  */
 
+// ---docerion
+// type: source
+// title: APN list element
+// summary: Polymer element that displays a list of cellular APNs and manages opening the APN detail and selection dialogs.
+// ---
+
 import '//resources/ash/common/cr_elements/localized_link/localized_link.js';
 import './network_shared.css.js';
 import '//resources/polymer/v3_0/iron-list/iron-list.js';

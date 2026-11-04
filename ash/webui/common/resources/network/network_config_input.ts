@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network config input element
+// summary: Polymer text input element for network configuration fields with policy indicator support and an Enter key event.
+// ---
+
 /**
  * @fileoverview Polymer element for network configuration input fields.
  */

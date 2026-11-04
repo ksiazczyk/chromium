@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Quick unlock OWNERS file
+summary: Points to the shared login lock owners list, delegating code review ownership of the quick unlock resources directory.

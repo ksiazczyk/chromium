@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: SeaPen WebUI build definition
+summary: GN build target that bundles SeaPen WebUI sources, static images, generated Mojo bindings, and dependencies for ChromeOS personalization and video conference backgrounds.

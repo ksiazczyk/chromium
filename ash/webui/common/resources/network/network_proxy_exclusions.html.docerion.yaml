@@ -1,0 +1,4 @@
+# Docerion header of network_proxy_exclusions.html.
+type: source
+title: Proxy exclusions template
+summary: HTML template listing proxy exclusion domains in a scrollable container with remove buttons for editable entries.

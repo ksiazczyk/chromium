@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for a group of diagnostic routines.
  */
 
+// ---docerion
+// type: source
+// title: Routine group element
+// summary: Defines the routine-group element that displays a group of diagnostic routines and computes group and per-routine icons from verdicts.
+// ---
+
 import '//resources/polymer/v3_0/paper-spinner/paper-spinner-lite.js';
 import './network_health_container.js';
 

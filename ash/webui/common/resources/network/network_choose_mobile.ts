@@ -7,6 +7,12 @@
  * mobile networks.
  */
 
+// ---docerion
+// type: source
+// title: Choose mobile network element
+// summary: Polymer element for scanning and selecting cellular mobile networks through the CrosNetworkConfig Mojo interface.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/md_select.css.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';

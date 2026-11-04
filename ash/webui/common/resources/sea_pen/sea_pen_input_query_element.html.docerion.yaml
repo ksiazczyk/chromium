@@ -1,0 +1,4 @@
+# Docerion header of sea_pen_input_query_element.html.
+type: source
+title: SeaPen input query element template
+summary: HTML template for the SeaPen text query input, providing the prompt textarea, gradient underline, and Inspire Me and search buttons.

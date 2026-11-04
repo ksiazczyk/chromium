@@ -1,0 +1,4 @@
+# Docerion header of pin_keyboard_icons.html.
+type: asset
+title: PIN keyboard SVG icon set
+summary: Defines an iron-iconset-svg with arrow-forward, backspace and visibility icons inlined from Polymer's iron-icons for use by the PIN keyboard.

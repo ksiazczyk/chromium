@@ -1,0 +1,4 @@
+# Docerion header of start_setup_page.html.
+type: source
+title: Start setup page template
+summary: HTML template for the start setup page with host device selection, feature details and a Lottie animation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo Mode untrusted page handler implementation
+// summary: Implements the Mojo page handler that toggles fullscreen, moves the app window between shell containers during the attract loop, and launches apps via the delegate.
+// ---
+
 #include "ash/webui/demo_mode_app_ui/demo_mode_untrusted_page_handler.h"
 
 #include "ash/constants/ash_features.h"

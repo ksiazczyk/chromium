@@ -6,6 +6,12 @@
  * @fileoverview A polymer component that displays SeaPen errors.
  */
 
+// ---docerion
+// type: source
+// title: Sea Pen error element
+// summary: Polymer component that maps Sea Pen status codes to localized error messages and matching error illustrations.
+// ---
+
 import 'chrome://resources/ash/common/personalization/personalization_shared_icons.html.js';
 import './sea_pen.css.js';
 

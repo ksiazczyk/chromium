@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen metrics logger
+// summary: Logs SeaPen user interactions such as template selection, thumbnail clicks, image setting and recent image menu actions as Chrome histograms.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {Query} from './constants.js';

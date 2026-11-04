@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo interface provider for MultiDevice setup
+// summary: Provides a singleton MojoInterfaceProvider that returns the MultiDeviceSetup Mojo remote for the setup WebUI.
+// ---
+
 import {MultiDeviceSetup, MultiDeviceSetupRemote} from 'chrome://resources/mojo/chromeos/ash/services/multidevice_setup/public/mojom/multidevice_setup.mojom-webui.js';
 
 /** @interface */

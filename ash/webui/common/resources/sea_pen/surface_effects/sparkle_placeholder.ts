@@ -6,6 +6,12 @@
  * @fileoverview Polymer element that displays a sparkle effect.
  */
 
+// ---docerion
+// type: source
+// title: Sparkle placeholder Polymer element
+// summary: Defines the sparkle-placeholder Polymer element that hosts the Sparkle renderer and configures colors, noise, and rendering based on active and dark mode state.
+// ---
+
 import 'chrome://resources/polymer/v3_0/iron-media-query/iron-media-query.js';
 
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

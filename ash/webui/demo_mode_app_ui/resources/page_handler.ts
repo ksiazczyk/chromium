@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo page handler for Demo Mode App UI
+// summary: Provides a Mojo-based handler that lets the Demo Mode App WebUI toggle fullscreen and launch apps via the browser process.
+// ---
+
 import {UntrustedPageHandlerFactory, UntrustedPageHandlerRemote} from './demo_mode_app_untrusted_ui.mojom-webui.js';
 
 /**

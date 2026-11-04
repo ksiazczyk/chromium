@@ -1,0 +1,4 @@
+# Docerion header of sea_pen_options_element.html.
+type: source
+title: SeaPen options element template
+summary: HTML template for the chip selector that lets users pick options to fill in a SeaPen template placeholder.

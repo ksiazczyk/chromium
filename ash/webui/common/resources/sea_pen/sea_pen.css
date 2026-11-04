@@ -6,6 +6,12 @@
  * #type=style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: SeaPen shared styles
+summary: CSS rules for SeaPen image grid selection, illustrations, fade-in animations, and the inspire-me search buttons.
+*/
+
 wallpaper-grid-item.sea-pen-image {
   --wallpaper-grid-item-width: 100%;
   height: 100%;

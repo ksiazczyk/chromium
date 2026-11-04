@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Start setup page element
+// summary: Polymer element for the first setup page that lists potential host devices and starts multi-device setup through the Mojo service.
+// ---
+
 import './icons.html.js';
 import './mojo_api.js';
 import './multidevice_setup_shared.css.js';

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the office fallback resources
+summary: Delegates ownership of the office fallback directory to the file manager OWNERS file.

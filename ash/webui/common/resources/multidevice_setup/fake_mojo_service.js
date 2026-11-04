@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake MultiDevice setup Mojo service
+// summary: Implements a fake MultiDeviceSetup Mojo service returning mock eligible host devices to support WebUI debugging and demos.
+// ---
+
 import {assertNotReached} from 'chrome://resources/ash/common/assert.js';
 
 /** @typedef {*} MultiDeviceSetupInterface */

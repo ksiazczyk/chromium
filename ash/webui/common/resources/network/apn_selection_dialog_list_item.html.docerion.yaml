@@ -1,0 +1,4 @@
+# Docerion header of apn_selection_dialog_list_item.html.
+type: source
+title: APN selection dialog list item template
+summary: HTML template with styles and markup for a selectable APN list item shown in the APN selection dialog.

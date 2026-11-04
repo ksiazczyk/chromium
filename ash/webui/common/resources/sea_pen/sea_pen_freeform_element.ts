@@ -6,6 +6,12 @@
  * @fileoverview A polymer element that displays the freeform subpage.
  */
 
+// ---docerion
+// type: source
+// title: Sea Pen freeform element
+// summary: Polymer element that manages the Sea Pen freeform subpage, including tab switching, sample prompt shuffling, and thumbnail state updates.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 import 'chrome://resources/ash/common/personalization/personalization_shared_icons.html.js';

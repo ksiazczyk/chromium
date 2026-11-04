@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut input Polymer element
+// summary: Polymer element that wraps a key event, maintaining its read-only and editable state while observing shortcut input events from a provider.
+// ---
+
 import './shortcut_input_key.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 

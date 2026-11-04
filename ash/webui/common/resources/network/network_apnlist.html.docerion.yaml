@@ -1,0 +1,4 @@
+# Docerion header of network_apnlist.html.
+type: source
+title: Network APN list element template
+summary: HTML template for the APN list element with an APN dropdown, custom APN property editor, attach APN toggle, and save button.

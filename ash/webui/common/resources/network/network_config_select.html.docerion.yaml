@@ -1,0 +1,4 @@
+# Docerion header of network_config_select.html.
+type: source
+title: network-config-select element template
+summary: HTML template for the network-config-select element, styling a labeled dropdown with a policy indicator for managed network properties.

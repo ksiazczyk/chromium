@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connectivity Diagnostics UI header
+// summary: Declares the Mojo WebUI controller class and its ChromeOS WebUI config, including callbacks for binding network diagnostics and health services.
+// ---
+
 #ifndef ASH_WEBUI_CONNECTIVITY_DIAGNOSTICS_CONNECTIVITY_DIAGNOSTICS_UI_H_
 #define ASH_WEBUI_CONNECTIVITY_DIAGNOSTICS_CONNECTIVITY_DIAGNOSTICS_UI_H_
 

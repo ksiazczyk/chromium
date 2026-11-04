@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sparkle WebGL surface effect renderer
+// summary: Implements the Sparkle class that renders the sparkle surface effect via WebGL, handling canvas setup, shader compilation, buffers, and rendering state.
+// ---
+
 import SPARKLE_SHADER_SOURCE from './sparkle_shader.js';
 import type {Vec4} from './utils.js';
 

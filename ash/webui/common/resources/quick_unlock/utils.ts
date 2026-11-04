@@ -9,6 +9,12 @@
  */
 
 
+// ---docerion
+// type: source
+// title: Quick Unlock Auth Setup Utilities
+// summary: Provides small utilities for auth factor setup in OS settings and OOBE, including an event type constant and a helper that dispatches an invalid auth token event on an element.
+// ---
+
 /**
  * Type of the event signalling that an auth token used for quickUnlockPrivate
  * and authFactorConfig is invalid.

@@ -1,0 +1,4 @@
+# Docerion header of sea_pen_templates_element.html.
+type: source
+title: SeaPen templates element template
+summary: HTML template for the SeaPen templates element, rendering a grid of wallpaper templates with hover-revealed title tokens.

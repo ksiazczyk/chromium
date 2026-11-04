@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for network password input fields.
  */
 
+// ---docerion
+// type: source
+// title: Network password input element
+// summary: Polymer element implementing a network password field with show/hide toggle, error message display, and policy indicator for managed networks.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import '//resources/ash/common/cr_elements/cr_icons.css.js';
 import '//resources/ash/common/cr_elements/cr_input/cr_input.js';

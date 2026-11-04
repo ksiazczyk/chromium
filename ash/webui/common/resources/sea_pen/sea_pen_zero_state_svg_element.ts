@@ -7,6 +7,12 @@
  * images element when the user just selects a template.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen zero state SVG element
+// summary: Polymer element that displays the zero-state illustration when the user has just selected a SeaPen template.
+// ---
+
 import {I18nMixin} from 'chrome://resources/ash/common/cr_elements/i18n_mixin.js';
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

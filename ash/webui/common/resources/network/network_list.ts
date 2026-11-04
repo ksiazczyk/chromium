@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for displaying a collapsable list of networks.
  */
 
+// ---docerion
+// type: source
+// title: Network list element
+// summary: Polymer element that displays a scrollable list of networks plus custom items, handling selection, focus, policy state, and activation availability.
+// ---
+
 import './network_list_item.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '//resources/polymer/v3_0/iron-flex-layout/iron-flex-layout-classes.js';

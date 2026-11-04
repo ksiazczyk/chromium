@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake shortcut input provider for testing
+// summary: Fake ShortcutInputProvider implementation that simulates key press and release events and notifies registered shortcut input observers.
+// ---
+
 import {FakeObservables} from '../fake_observables.js';
 
 import type {KeyEvent} from './input_device_settings.mojom-webui.js';

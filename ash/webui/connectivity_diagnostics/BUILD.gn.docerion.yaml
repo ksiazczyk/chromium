@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Connectivity Diagnostics BUILD.gn
+summary: GN build file defining the connectivity diagnostics static library, its sources, and its public and private dependencies.

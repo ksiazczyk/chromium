@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-device setup succeeded page element
+// summary: Polymer element for the final setup page that shows a success message and a link to open the multi-device settings.
+// ---
+
 import './multidevice_setup_shared.css.js';
 import './ui_page.js';
 import '//resources/ash/common/cr.m.js';

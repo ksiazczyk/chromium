@@ -7,6 +7,12 @@
  * post_message_api_request_handler.js is used from TypeScript files.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for RequestHandler
+// summary: Minimal TypeScript declarations for the request handler that dispatches postMessage API requests.
+// ---
+
 /** Handler for requests that come to the window containing the contents. */
 export class RequestHandler {
   constructor(

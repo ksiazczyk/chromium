@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Pausable Lottie wrapper element
+// summary: Polymer wrapper around the Lottie renderer that lets users pause and resume setup animations with a play/pause control.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import './icons.html.js';
 

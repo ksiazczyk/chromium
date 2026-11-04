@@ -7,6 +7,12 @@
  * interact with the browser. Used only on Chrome OS.
  */
 
+// ---docerion
+// type: source
+// title: SMB browser proxy for the add share dialog
+// summary: Helper object that lets the add SMB share dialog mount shares, start discovery, update credentials, and check prior mounts via the browser.
+// ---
+
 import {sendWithPromise} from '//resources/ash/common/cr.m.js';
 
 /**

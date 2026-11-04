@@ -1,0 +1,4 @@
+# Docerion header of shortcut_input.html.
+type: source
+title: Shortcut input element template
+summary: HTML template for the shortcut-input element, rendering edit and confirm views with modifier keys, separators, and the pending key.

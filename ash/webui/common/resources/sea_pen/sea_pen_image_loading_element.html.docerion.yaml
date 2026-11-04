@@ -1,0 +1,4 @@
+# Docerion header of sea_pen_image_loading_element.html.
+type: source
+title: Sea Pen image loading element template
+summary: HTML template showing a spinner and status text while a high resolution Sea Pen image is being created.

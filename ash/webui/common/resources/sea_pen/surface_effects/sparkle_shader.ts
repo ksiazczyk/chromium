@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sparkle fragment shader source
+// summary: Exports the GLSL fragment shader that draws the sparkle effect using triangle noise, turbulence, distortion, and configurable background and sparkle colors.
+// ---
+
 export default `#version 100
 precision mediump float;
 precision highp int;

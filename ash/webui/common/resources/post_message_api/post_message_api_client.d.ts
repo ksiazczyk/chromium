@@ -7,6 +7,12 @@
  * post_message_api_client.js is used from TypeScript files.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for PostMessageApiClient
+// summary: Minimal TypeScript declarations for the postMessage API client, used when the client is consumed from TypeScript files.
+// ---
+
 /**
  * Class that provides the functionality for talking to a PostMessageAPIServer
  * over the postMessage API.  This should be subclassed and the subclass should

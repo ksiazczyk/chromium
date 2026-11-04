@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake accelerator fetcher for shortcut input UI
+// summary: Fake AcceleratorFetcher implementation that lets tests mock accelerator updates, observer registration, and the meta key to display.
+// ---
+
 import {FakeMethodResolver} from '../fake_method_resolver.js';
 
 import type {AcceleratorAction} from './accelerator_actions.mojom-webui.js';

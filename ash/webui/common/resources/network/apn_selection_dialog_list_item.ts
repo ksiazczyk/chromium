@@ -7,6 +7,12 @@
  * List item that displays an APN a user may select to attempt to be used.
  */
 
+// ---docerion
+// type: source
+// title: APN selection dialog list item element
+// summary: Polymer list item element that displays a single APN with its display name and a checkmark when selected.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 

@@ -7,6 +7,12 @@
  * Dialog that displays APNs for a user to select to be attempted to be used.
  */
 
+// ---docerion
+// type: source
+// title: APN selection dialog element
+// summary: Polymer dialog element that lists known APNs for a cellular network and lets the user select one to attempt to use.
+// ---
+
 import '//resources/ash/common/cr_elements/localized_link/localized_link.js';
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

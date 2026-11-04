@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: SeaPen view transition styles
+summary: CSS keyframes and view-transition rules for forward and back page transitions in the SeaPen UI.
+*/
+
 @keyframes fade-up {
   from { opacity: 0; }
 }

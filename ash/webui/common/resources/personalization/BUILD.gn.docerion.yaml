@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Personalization common resources build target
+summary: GN build file that bundles the shared TypeScript, CSS, icons, and HTML resources for the ChromeOS personalization WebUI into a generated resource pack.

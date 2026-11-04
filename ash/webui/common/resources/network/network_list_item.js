@@ -7,6 +7,12 @@
  * in a list based on ONC state properties.
  */
 
+// ---docerion
+// type: source
+// title: Network list item element
+// summary: Polymer element that renders a network row in a list from ONC state properties, handling cellular and eSIM states, policy, buttons, and focus behavior.
+// ---
+
 import '//resources/polymer/v3_0/iron-flex-layout/iron-flex-layout-classes.js';
 import '//resources/polymer/v3_0/paper-spinner/paper-spinner-lite.js';
 import '//resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';

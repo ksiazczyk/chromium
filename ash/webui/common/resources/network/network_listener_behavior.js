@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network listener behavior
+// summary: Polymer behavior that registers a CrosNetworkConfigObserver with the mojo network config service and exposes overridable network state change callbacks.
+// ---
+
 /**
  * @fileoverview Polymer behavior for observing CrosNetworkConfigObserver
  * events.

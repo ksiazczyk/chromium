@@ -8,6 +8,12 @@
  * and existing networks.
  */
 
+// ---docerion
+// type: source
+// title: Network configuration element
+// summary: Polymer element that configures authentication and connection properties for new and existing WiFi, VPN, and other networks.
+// ---
+
 import '//resources/ash/common/cr_elements/action_link.css.js';
 import '//resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import '//resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';

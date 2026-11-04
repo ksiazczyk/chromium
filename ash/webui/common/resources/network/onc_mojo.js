@@ -8,6 +8,12 @@
  * strings and for debugging. They are not intended to be drectly user facing.
  */
 
+// ---docerion
+// type: source
+// title: ONC mojo type utilities
+// summary: Utilities supporting the network config mojom types, providing enum-to-string lookups, managed value helpers, and validation constants.
+// ---
+
 import {assert, assertNotReached} from '//resources/ash/common/assert.js';
 import {loadTimeData} from '//resources/ash/common/load_time_data.m.js';
 import {ActivationStateType, AuthenticationType, HiddenSsidMode, InhibitReason, MatchType, ProxyMode, SecurityType, SubjectAltName_Type, VpnType} from '//resources/mojo/chromeos/services/network_config/public/mojom/cros_network_config.mojom-webui.js';

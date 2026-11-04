@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Connectivity Diagnostics DEPS rules
+summary: Defines the allowed include rules for the directory, permitting network health public services and ChromeOS string headers.

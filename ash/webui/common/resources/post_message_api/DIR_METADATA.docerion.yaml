@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata
+summary: Chromium directory metadata that mixes in the common metadata from ash/child_accounts.

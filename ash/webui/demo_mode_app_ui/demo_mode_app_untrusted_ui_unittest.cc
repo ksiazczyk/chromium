@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo Mode app untrusted UI unit tests
+// summary: Unit tests verifying that resources are sourced from the component directory, covering query params, URL fragments, and protection against parent directory references.
+// ---
+
 #include "ash/webui/demo_mode_app_ui/demo_mode_app_untrusted_ui.h"
 
 #include <string>

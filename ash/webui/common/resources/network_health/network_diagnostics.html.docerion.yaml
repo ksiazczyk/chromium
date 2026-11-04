@@ -1,0 +1,4 @@
+# Docerion header of network_diagnostics.html.
+type: source
+title: Network diagnostics element template
+summary: HTML template for the network diagnostics element that renders routine groups for connection, WiFi, portal, gateway, firewall, DNS, Google services and ARC.

@@ -1,0 +1,4 @@
+# Docerion header of network_list_item.html.
+type: source
+title: Network list item element template
+summary: HTML template for the network list item, showing the network icon, title, sublabel, policy indicator, and disabled or eSIM pending states.

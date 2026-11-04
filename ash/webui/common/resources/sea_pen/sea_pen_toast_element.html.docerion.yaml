@@ -1,0 +1,4 @@
+# Docerion header of sea_pen_toast_element.html.
+type: source
+title: SeaPen toast element template
+summary: HTML template for the SeaPen toast element, showing an error message with an inverted-color dismiss button.

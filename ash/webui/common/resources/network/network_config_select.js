@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network configuration select Polymer element
+// summary: Polymer element implementing network configuration selection menus, including certificate lists, enum-to-string conversion, and policy-controlled disabling.
+// ---
+
 /**
  * @fileoverview Polymer element for network configuration selection menus.
  */

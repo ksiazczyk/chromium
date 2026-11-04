@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for displaying network nameserver options.
  */
 
+// ---docerion
+// type: source
+// title: Network nameservers settings element
+// summary: Polymer element for displaying and editing network nameserver options, supporting automatic, Google, and custom DNS configurations with policy handling.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_input/cr_input.js';
 import '//resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';
 import '//resources/ash/common/cr_elements/cr_radio_group/cr_radio_group.js';

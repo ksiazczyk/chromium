@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular network utilities
+// summary: Shared JavaScript helpers for cellular network state, SIM slot counts, and APN dialog modes used by ChromeOS network settings.
+// ---
+
 import '//resources/ash/common/network/onc_mojo.js';
 
 import {MojoInterfaceProviderImpl} from '//resources/ash/common/network/mojo_interface_provider.js';

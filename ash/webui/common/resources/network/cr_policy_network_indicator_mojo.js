@@ -7,6 +7,12 @@
  * properties.
  */
 
+// ---docerion
+// type: source
+// title: Policy network indicator element
+// summary: Polymer element that displays a policy indicator tooltip based on the policy source of a network property, such as user or device policy.
+// ---
+
 import '//resources/ash/common/cr_elements/policy/cr_tooltip_icon.js';
 import '//resources/ash/common/cr_elements/cr_hidden_style.css.js';
 

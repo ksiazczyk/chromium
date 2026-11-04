@@ -10,6 +10,12 @@
  *
  */
 
+// ---docerion
+// type: source
+// title: Setup PIN keyboard element implementation
+// summary: Implements the setup-pin-keyboard element for choosing a PIN, with complexity validation, problem messages and auth token handling for OS settings and OOBE.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import './pin_keyboard.js';
 

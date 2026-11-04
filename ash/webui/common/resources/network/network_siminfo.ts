@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for displaying and modifying cellular sim info.
  */
 
+// ---docerion
+// type: source
+// title: SIM info element
+// summary: Polymer element for displaying and modifying cellular SIM information, including SIM lock toggling, PIN changes, and unlock actions.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 import '//resources/ash/common/cr_elements/icons.html.js';
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';

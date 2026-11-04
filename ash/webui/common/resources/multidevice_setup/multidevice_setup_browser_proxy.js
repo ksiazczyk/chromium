@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for profile info and settings
+// summary: Defines the BrowserProxy interface and implementation that fetch the user's profile photo and email and open the MultiDevice settings page.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/ash/common/cr.m.js';
 
 /** @interface */

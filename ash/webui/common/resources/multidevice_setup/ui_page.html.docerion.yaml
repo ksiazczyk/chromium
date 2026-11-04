@@ -1,0 +1,4 @@
+# Docerion header of ui_page.html.
+type: source
+title: UI page template
+summary: HTML template defining the shared layout of all setup pages, with header, icon and content slots for horizontal and vertical orientations.

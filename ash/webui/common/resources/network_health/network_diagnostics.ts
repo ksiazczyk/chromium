@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network diagnostics Polymer element
+// summary: Defines the network-diagnostics element that runs network diagnostic routines via the mojo service and displays them grouped by category.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import './routine_group.js';
 

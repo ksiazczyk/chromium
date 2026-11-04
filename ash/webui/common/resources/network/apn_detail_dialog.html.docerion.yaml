@@ -1,0 +1,4 @@
+# Docerion header of apn_detail_dialog.html.
+type: source
+title: APN detail dialog template
+summary: HTML template for the dialog used to create, view, or edit cellular APNs, with inputs for APN, credentials, authentication type, and APN types.

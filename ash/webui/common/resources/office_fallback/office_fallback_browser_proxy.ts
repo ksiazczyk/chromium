@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the office fallback dialog
+// summary: Singleton TypeScript proxy that binds the Mojo page handler and exposes JSON-encoded dialog arguments to the WebUI.
+// ---
+
 import {PageHandlerFactory, PageHandlerRemote} from './office_fallback.mojom-webui.js';
 
 export abstract class OfficeFallbackBrowserProxy {

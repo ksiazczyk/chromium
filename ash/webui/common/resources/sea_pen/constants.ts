@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen constants, types, and template helpers
+// summary: Defines SeaPen types, template text parsing, suggestion strings, and metrics enums shared by the wallpaper and video conference background UIs.
+// ---
+
 import type {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 
 import {getVcBackgroundTemplates, getWallpaperTemplates} from './constants_generated.js';

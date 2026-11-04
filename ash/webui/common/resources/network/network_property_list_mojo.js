@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network property list element
+// summary: Polymer element that displays a list of network properties and supports inline editing for fields configured via editFieldTypes.
+// ---
+
 /**
  * @fileoverview Polymer element for displaying a list of network properties
  * in a list. This also supports editing fields inline for fields listed in

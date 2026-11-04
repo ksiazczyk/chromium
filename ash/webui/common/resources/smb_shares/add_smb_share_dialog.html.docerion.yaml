@@ -1,0 +1,4 @@
+# Docerion header of add_smb_share_dialog.html.
+type: source
+title: Template and styles for the add SMB share dialog
+summary: HTML template defining the layout, styling, and form controls of the add SMB share dialog.

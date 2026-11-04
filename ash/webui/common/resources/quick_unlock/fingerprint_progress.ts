@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint progress element implementation
+// summary: TypeScript implementation of the fingerprint-progress Polymer element that draws the scan progress circle and plays animations.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/polymer/v3_0/iron-media-query/iron-media-query.js';
 import './fingerprint_progress_icons.html.js';

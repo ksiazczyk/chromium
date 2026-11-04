@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut input utilities and key mappings
+// summary: Shared utilities defining key states, modifier enums and bit masks, meta key types, key-to-icon mappings, and helpers for building shortcut input keys.
+// ---
+
 import type {StandardAcceleratorProperties} from './accelerator_info.mojom-webui.js';
 import * as MetaKeyTypes from './meta_key.mojom-webui.js';
 import type {ShortcutInputKeyElement} from './shortcut_input_key.js';

@@ -1,0 +1,4 @@
+# Docerion header of network_config.html.
+type: source
+title: Network configuration element template
+summary: HTML template for the network configuration UI covering WiFi SSID, security, passphrase, and VPN settings.

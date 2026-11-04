@@ -1,0 +1,4 @@
+# Docerion header of network_icon.html.
+type: source
+title: network-icon element template
+summary: HTML template for the network-icon element with CSS masks for Wi-Fi, cellular, hotspot, VPN, and Ethernet icons plus roaming and security badges.

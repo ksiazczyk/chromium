@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the office fallback WebUI
+summary: Defines the build_webui target for the ChromeOS-only office fallback dialog, listing its static, web component, TypeScript and Mojo files plus TypeScript dependencies.

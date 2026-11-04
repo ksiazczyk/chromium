@@ -1,0 +1,4 @@
+# Docerion header of multidevice_setup.html.
+type: source
+title: Main template for MultiDevice setup element
+summary: Template composing the password, setup-succeeded, and start-setup pages with a shared button bar in the setup flow.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network health container element
+// summary: Defines the network-health-container element, a collapsible container with a label used to display network health information.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/ash/common/cr_elements/icons.html.js';
 

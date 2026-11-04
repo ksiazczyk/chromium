@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo mode app untrusted WebUI implementation
+// summary: Implements the untrusted WebUI controller for the demo mode app, enabling it only on devices in demo mode and serving resources from the demo mode component.
+// ---
+
 #include "ash/webui/demo_mode_app_ui/demo_mode_app_untrusted_ui.h"
 
 #include <memory>

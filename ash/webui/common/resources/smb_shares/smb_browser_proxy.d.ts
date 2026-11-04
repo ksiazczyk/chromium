@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type declarations for the SMB browser proxy
+// summary: Declares the SmbBrowserProxy interface and implementation plus the mount result and authentication method enums.
+// ---
+
 export enum SmbMountResult {
   SUCCESS = 0,
   UNKNOWN_FAILURE = 1,

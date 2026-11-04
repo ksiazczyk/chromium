@@ -1,0 +1,4 @@
+# Docerion header of sea_pen_recent_wallpapers_element.html.
+type: source
+title: SeaPen recent wallpapers element template
+summary: HTML template for the grid of recently used SeaPen wallpapers, including styling for the wallpaper info dialog.

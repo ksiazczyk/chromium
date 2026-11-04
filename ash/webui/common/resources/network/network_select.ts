@@ -7,6 +7,12 @@
  * networkConfig mojo API calls to populate it.
  */
 
+// ---docerion
+// type: source
+// title: Network select element
+// summary: Polymer element wrapping the network list and networkConfig mojo API calls to populate it, with periodic Wi-Fi scan support.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '//resources/polymer/v3_0/paper-progress/paper-progress.js';
 import './network_list.js';

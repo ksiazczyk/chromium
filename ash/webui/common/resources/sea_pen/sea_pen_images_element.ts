@@ -7,6 +7,12 @@
  * wallpapers.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen images element
+// summary: Polymer component that displays the result set of SeaPen wallpapers, handling thumbnail selection, loading placeholders, and feedback actions.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/personalization_shared_icons.html.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';

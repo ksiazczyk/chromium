@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for shortcut input UI
+summary: GN build target that copies generated Mojo TypeScript files into the preprocessed shortcut_input_ui resources, asserting the build is Chrome OS only.

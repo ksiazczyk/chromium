@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI page container behavior
+// summary: Polymer behavior providing translated button label properties and forward-navigation checks for the setup pages.
+// ---
+
 import {I18nBehavior} from 'chrome://resources/ash/common/i18n_behavior.js';
 
 /** @polymerBehavior */

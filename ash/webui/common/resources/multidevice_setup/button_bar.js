@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button bar element for MultiDevice setup
+// summary: Defines the button-bar Polymer element that fires forward, backward, and cancel navigation events for the setup WebUI.
+// ---
+
 import './multidevice_setup_shared.css.js';
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';

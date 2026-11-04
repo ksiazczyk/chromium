@@ -7,4 +7,10 @@
  * mojo_api.js is used from TypeScript files.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for mojo_api
+// summary: Minimal TypeScript declarations so that mojo_api.js can be consumed from TypeScript files.
+// ---
+
 export {};

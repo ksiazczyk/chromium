@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network health summary element
+// summary: Defines the network-health-summary element that fetches the network health snapshot every second and displays per-network details.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '../network/network_shared.css.js';
 

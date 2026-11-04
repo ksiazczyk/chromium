@@ -1,0 +1,4 @@
+# Docerion header of sparkle_placeholder.html.
+type: source
+title: Sparkle placeholder element template
+summary: HTML template for the sparkle-placeholder element, providing host and canvas styles plus a dark mode media query.
