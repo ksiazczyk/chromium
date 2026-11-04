@@ -1,0 +1,4 @@
+# Docerion header of IDS_ASH_VERSION_IN_LAUNCHER_MESSAGE.png.sha1.
+type: data
+title: SHA1 hash for version in launcher message screenshot
+summary: Stores the SHA-1 hash of the PNG screenshot for the version in launcher message string in the Ash string resources.
