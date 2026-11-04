@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor Picture-in-Picture overlay view binder
+// summary: Binds property model keys for title, status text, and visibility to the Actor Picture-in-Picture overlay view.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import static org.chromium.chrome.browser.actor.ui.ActorPictureInPictureOverlayProperties.STATUS_TEXT;

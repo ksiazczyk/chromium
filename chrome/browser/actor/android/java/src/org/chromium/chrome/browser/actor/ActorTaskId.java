@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTaskId
+// summary: Type-use annotation marking integer values that represent an actor task ID, including an invalid task ID constant.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static java.lang.annotation.ElementType.TYPE_USE;

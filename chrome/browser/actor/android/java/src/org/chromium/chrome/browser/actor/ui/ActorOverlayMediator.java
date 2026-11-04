@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor overlay mediator
+// summary: Mediator that observes tab, layout, browser controls, and omnibox focus state to update the Actor Overlay property model.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.content.Context;

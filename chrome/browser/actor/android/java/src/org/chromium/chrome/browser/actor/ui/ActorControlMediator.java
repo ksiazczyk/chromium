@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorControlMediator
+// summary: Mediator that applies peek view UI state, titles, and accessibility content descriptions to the actor control property model.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.content.Context;

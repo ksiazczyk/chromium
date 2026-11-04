@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the actor Android directory
+summary: Restricts which headers and directories the actor Android code may include during Chromium builds.

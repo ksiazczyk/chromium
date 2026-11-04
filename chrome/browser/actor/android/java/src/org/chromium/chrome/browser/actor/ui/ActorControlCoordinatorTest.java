@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorControlCoordinatorTest
+// summary: Robolectric unit tests for the Actor Control coordinator's peek view state handling and user actions.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import static org.junit.Assert.assertEquals;

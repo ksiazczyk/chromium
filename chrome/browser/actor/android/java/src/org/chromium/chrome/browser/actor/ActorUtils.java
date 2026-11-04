@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorUtils
+// summary: Utility methods for actor tasks, covering ongoing notification decisions, task state classification, and notification permission state.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import android.app.NotificationChannel;

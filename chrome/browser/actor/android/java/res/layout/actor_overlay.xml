@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Actor overlay layout
+summary: Android layout for the actor overlay, combining a scrim view with a ViewStub that lazily inflates the actor handoff button.
+-->
+
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/actor_overlay"

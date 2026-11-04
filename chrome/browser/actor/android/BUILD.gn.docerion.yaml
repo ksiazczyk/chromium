@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the actor Android Java library
+summary: Defines the android_library target listing actor Java sources and their dependencies for building the actor feature on Android.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor broadcast receiver for notification actions
+// summary: Broadcast receiver that applies pause and resume actions from Actor notifications to the matching task for the profile extracted from the intent.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import android.content.BroadcastReceiver;

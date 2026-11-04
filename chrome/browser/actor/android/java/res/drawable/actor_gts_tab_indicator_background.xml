@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Actor GTS tab indicator background drawable
+summary: Android shape drawable providing a rounded rectangle background with a 7dp corner radius and default background color for the actor GTS tab indicator.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
     <solid android:color="@macro/default_bg_color" />

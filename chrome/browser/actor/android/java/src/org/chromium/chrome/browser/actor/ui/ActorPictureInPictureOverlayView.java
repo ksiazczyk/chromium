@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor Picture-in-Picture overlay view
+// summary: Root Android view for the Actor Picture-in-Picture overlay, holding title and status text views populated during inflation.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.content.Context;

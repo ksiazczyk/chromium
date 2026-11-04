@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Actor dark theme color resources
+summary: Defines dark-mode color values for the Android actor UI, mapping button and icon button background colors to baseline and Material 3 dark palette colors.
+-->
+
 <resources>
     <color name="actor_view_button_background_color">@color/baseline_primary_80</color>
     <color name="actor_control_icon_button_background_color">@color/gm3_baseline_surface_container_high_dark</color>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor keyed service Android JNI bridge implementation
+// summary: Implements the native bridge that exposes the actor keyed service, its tasks and callbacks to Java on Android.
+// ---
+
 #include "chrome/browser/actor/android/actor_keyed_service_android.h"
 
 #include <vector>

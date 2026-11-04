@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorControlCoordinator
+// summary: Coordinates the Actor Control peek view in the tab bottom sheet, updating its content and actions based on tracked Actor task and GLIC state.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.text.TextUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor keyed service
+// summary: Java-side representation of the native ActorKeyedService that manages Actor task lifecycle, lookups, and observer notifications via JNI.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import android.text.TextUtils;

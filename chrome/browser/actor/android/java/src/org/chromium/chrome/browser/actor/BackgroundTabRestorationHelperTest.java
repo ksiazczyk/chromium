@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundTabRestorationHelperTest
+// summary: Robolectric unit tests for BackgroundTabRestorationHelper covering background tab interception and restoration behavior.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.junit.Assert.assertEquals;

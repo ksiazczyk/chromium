@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor overlay coordinator tests
+// summary: Robolectric unit tests for ActorOverlayCoordinator covering overlay visibility, margins, back press handling, and take-over button behavior.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import static org.mockito.ArgumentMatchers.any;

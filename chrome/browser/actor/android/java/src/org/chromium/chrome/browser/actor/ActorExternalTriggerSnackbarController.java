@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor external trigger snackbar controller
+// summary: Shows a persistent preparing-to-start snackbar when Chrome is foregrounded via a Glic external trigger, replacing it with an error snackbar on timeout.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import android.app.Activity;

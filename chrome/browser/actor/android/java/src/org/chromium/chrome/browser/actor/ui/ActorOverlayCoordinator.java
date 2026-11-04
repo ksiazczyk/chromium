@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorOverlayCoordinator
+// summary: Coordinates the Actor Overlay component, inflating the overlay and handoff button views and wiring model, snackbar, and back press handling.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import static java.util.Collections.emptySet;

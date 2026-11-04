@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor keyed service Android bridge header
+// summary: Declares ActorKeyedServiceAndroid, a per-profile JNI bridge for querying and controlling actor tasks from Java.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ANDROID_ACTOR_KEYED_SERVICE_ANDROID_H_
 #define CHROME_BROWSER_ACTOR_ANDROID_ACTOR_KEYED_SERVICE_ANDROID_H_
 

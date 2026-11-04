@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Actor picture-in-picture overlay layout
+summary: Android layout for the ActorPictureInPictureOverlayView showing a Chrome icon, title, and status text in the actor picture-in-picture overlay.
+-->
+
 <org.chromium.chrome.browser.actor.ui.ActorPictureInPictureOverlayView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

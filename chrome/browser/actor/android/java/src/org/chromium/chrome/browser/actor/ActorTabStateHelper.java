@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTabStateHelper
+// summary: Manages tab detachment and transitions from physical activities to offscreen background rendering for active actor tasks.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import org.chromium.base.Callback;

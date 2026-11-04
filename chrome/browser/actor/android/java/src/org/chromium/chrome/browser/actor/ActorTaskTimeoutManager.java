@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTaskTimeoutManager
+// summary: Monitors actor task state transitions and schedules Finch-configured timers that trigger warnings, pauses, and eventual task termination.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import android.os.Handler;

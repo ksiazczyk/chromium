@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor notification factory unit tests
+// summary: Unit tests for ActorNotificationFactory covering notification content and behavior across Actor task states.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.junit.Assert.assertEquals;

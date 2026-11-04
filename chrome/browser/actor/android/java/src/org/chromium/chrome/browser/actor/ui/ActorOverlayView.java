@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor overlay view
+// summary: Root FrameLayout for the Actor Overlay that draws glow and hover backgrounds and manages margins and touch behavior.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.content.Context;

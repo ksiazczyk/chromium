@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundTabPoolTest
+// summary: Robolectric unit tests for BackgroundTabPool covering live and placeholder tab handling, leases, and pool lifecycle behavior.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.junit.Assert.assertEquals;

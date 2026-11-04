@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor overlay view binder
+// summary: Binds Actor Overlay property model changes such as visibility, margins, and click listeners to the overlay container and view.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.view.View;

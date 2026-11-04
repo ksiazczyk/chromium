@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor overlay properties
+// summary: Defines the property model keys for the Actor Overlay, including visibility, margins, controls position, and click listeners.
+// ---
+
 package org.chromium.chrome.browser.actor.ui;
 
 import android.view.View;

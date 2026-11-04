@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorUiTabControllerAndroid implementation
+// summary: Implements the Android actor UI tab controller, forwarding tab UI state changes to Java and handling actor task pause, resume, and navigation deferral.
+// ---
+
 #include "chrome/browser/actor/android/ui/actor_ui_tab_controller_android.h"
 #include "url/android/gurl_android.h"
 

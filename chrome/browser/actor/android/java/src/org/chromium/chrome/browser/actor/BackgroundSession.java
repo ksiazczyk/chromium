@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundSession
+// summary: Data model representing a background actor session, holding per-tab data such as placeholder tab IDs, original indices, and window IDs.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import org.chromium.build.annotations.NullMarked;

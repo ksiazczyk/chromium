@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Actor picture-in-picture controller
+// summary: Manages picture-in-picture transitions for Actor tasks with priority over video PiP, using the AndroidX PiP Jetpack library.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

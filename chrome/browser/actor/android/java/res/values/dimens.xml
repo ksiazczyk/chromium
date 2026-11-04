@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Actor feature dimension resources
+summary: Dimension values for the Android actor UI, including picture-in-picture spacing, overlay buttons, and glow effects.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Picture-In-Picture -->
     <dimen name="actor_pip_padding_horizontal">16dp</dimen>

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Actor handoff button layout
+summary: Android layout for the ActorHandoffButtonView containing a MaterialButton that lets the user take over a task during actor handoff.
+-->
+
 <org.chromium.chrome.browser.actor.ui.ActorHandoffButtonView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/actor_handoff_button_container"

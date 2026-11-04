@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTaskHelper
+// summary: Helper that keeps the screen on while an actor task is active and coordinates offscreen rendering during activity lifecycle changes.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import android.app.Activity;
