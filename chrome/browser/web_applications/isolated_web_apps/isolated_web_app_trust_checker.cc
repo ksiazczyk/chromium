@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Trust Checker Implementation
+// summary: Implements checks for whether an IWA is trusted for operations like install, update, and resource loading, including developer mode, kiosk, and managed allowlist cases.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/isolated_web_app_trust_checker.h"
 
 #include <algorithm>

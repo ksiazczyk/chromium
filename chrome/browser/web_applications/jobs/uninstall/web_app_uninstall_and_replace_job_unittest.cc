@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app uninstall and replace job unit tests
+// summary: Unit tests for WebAppUninstallAndReplaceJob that verify app migration preserves OS integration state such as shortcut states, including a regression test for crbug.com/40170623.
+// ---
+
 #include "chrome/browser/web_applications/jobs/uninstall/web_app_uninstall_and_replace_job.h"
 
 #include <memory>

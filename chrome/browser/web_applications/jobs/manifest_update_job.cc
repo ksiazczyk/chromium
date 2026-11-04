@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestUpdateJob implementation
+// summary: Implements ManifestUpdateJob, which compares a fetched manifest against the installed app and silently applies changes or records pending update info.
+// ---
+
 #include "chrome/browser/web_applications/jobs/manifest_update_job.h"
 
 #include <algorithm>

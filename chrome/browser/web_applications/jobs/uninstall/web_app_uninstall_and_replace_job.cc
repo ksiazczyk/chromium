@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppUninstallAndReplaceJob implementation
+// summary: Implements WebAppUninstallAndReplaceJob, which uninstalls replaced apps or extensions and migrates OS attributes such as shortcuts and launcher state to the replacement app.
+// ---
+
 #include "chrome/browser/web_applications/jobs/uninstall/web_app_uninstall_and_replace_job.h"
 
 #include <string>

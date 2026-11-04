@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Copy Bundle to Cache Command Unit Tests
+// summary: Unit tests for the copy-bundle-to-cache command, covering both cache session types, bundle creation in an overridden cache directory, and error paths.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/copy_bundle_to_cache_command.h"
 
 #include "ash/constants/ash_paths.h"

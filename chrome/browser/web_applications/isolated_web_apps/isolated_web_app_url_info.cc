@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App URL info implementation
+// summary: Implements IsolatedWebAppUrlInfo, deriving origins, app IDs, web bundle IDs and storage partition configs from isolated-app URLs and IWA sources.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/isolated_web_app_url_info.h"
 
 #include <utility>

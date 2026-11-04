@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App Permissions Policy Browser Tests
+// summary: Browser tests checking that apps with invalid permissions policies fail installation and that declared policy features and allowlists are enforced in IWA frames.
+// ---
+
 #include "base/files/scoped_temp_file.h"
 #include "base/strings/string_util.h"
 #include "base/test/gmock_expected_support.h"

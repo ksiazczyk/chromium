@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MigrationTargetInstallJob unit tests
+// summary: Unit tests that run the migration target install job with fake provider infrastructure, covering new app installs and failure outcomes.
+// ---
+
 #include "chrome/browser/web_applications/jobs/migration_target_install_job.h"
 
 #include "base/test/bind.h"

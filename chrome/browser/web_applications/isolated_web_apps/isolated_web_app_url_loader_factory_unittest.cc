@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App URL loader factory unit tests
+// summary: Extensive unit tests for the isolated web app URL loader factory covering request handling, response headers and error cases.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

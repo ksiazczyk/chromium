@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IwaInstaller Implementation
+// summary: Implements the IwaInstaller flow that fetches the update manifest, downloads the signed web bundle, installs the IWA, and copies the bundle to the ChromeOS cache.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/policy/isolated_web_app_installer.h"
 
 #include <memory>

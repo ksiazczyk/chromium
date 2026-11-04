@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App error page browser tests
+// summary: Browser tests verifying that failed isolated web app navigations show the web app error page with the correct message for each network error code.
+// ---
+
 #include <string>
 #include <string_view>
 #include <utility>

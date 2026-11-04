@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Check Isolated Web App Bundle User Installability Command Unit Tests
+// summary: Unit tests verifying installability results for bundles against allowlists, blocklists, and installed app versions using test-signed bundles.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/check_isolated_web_app_bundle_user_installability_command.h"
 
 #include <memory>

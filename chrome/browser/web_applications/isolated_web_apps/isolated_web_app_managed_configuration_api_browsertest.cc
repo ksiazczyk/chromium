@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed Configuration API in Isolated Web App browser tests
+// summary: Browser tests verifying that the managed configuration API delivers policy-provided configuration data to isolated web apps from a test server.
+// ---
+
 #include <optional>
 
 #include "base/test/values_test_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App error page implementation
+// summary: Provides IWA-specific error page messages for network errors like invalid web bundles or apps installed in disabled dev mode.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/isolated_web_app_error_page.h"
 
 #include <string>

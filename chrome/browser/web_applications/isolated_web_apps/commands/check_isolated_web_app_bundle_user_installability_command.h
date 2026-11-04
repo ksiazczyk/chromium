@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Check Isolated Web App Bundle User Installability Command Header
+// summary: Declares the installability check command and the IsolatedInstallabilityCheckResult enum comparing bundle metadata versions against installed app versions.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_CHECK_ISOLATED_WEB_APP_BUNDLE_USER_INSTALLABILITY_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_CHECK_ISOLATED_WEB_APP_BUNDLE_USER_INSTALLABILITY_COMMAND_H_
 

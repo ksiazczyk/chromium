@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BundleVersionsStorage test helper
+// summary: Declares BundleVersionsStorage, which tracks bundles per web bundle ID and version and resolves update manifest and bundle URLs for tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_TEST_BUNDLE_VERSIONS_STORAGE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_TEST_BUNDLE_VERSIONS_STORAGE_H_
 

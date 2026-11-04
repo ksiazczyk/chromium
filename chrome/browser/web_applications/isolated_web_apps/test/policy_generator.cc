@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA force-install policy generator implementation
+// summary: Implements PolicyGenerator, which builds IsolatedWebAppInstallForceList policy entries for force-installing Isolated Web Apps in tests.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/test/policy_generator.h"
 
 #include "chrome/browser/web_applications/isolated_web_apps/test/policy_test_utils.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version Change Validator Implementation
+// summary: Implements validation of isolated web app version changes, rejecting disallowed downgrades and same-version updates.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/update/version_change_validator.h"
 
 namespace web_app {

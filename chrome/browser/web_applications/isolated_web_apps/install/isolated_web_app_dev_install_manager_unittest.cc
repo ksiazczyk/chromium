@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App Dev Install Manager Unit Tests
+// summary: Unit tests for developer-mode Isolated Web App installation, covering proxy URLs, bundle files, command line switches, and policy handling.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/install/isolated_web_app_dev_install_manager.h"
 
 #include <memory>

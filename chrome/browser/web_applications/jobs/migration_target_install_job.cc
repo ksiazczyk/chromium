@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MigrationTargetInstallJob implementation
+// summary: Implements MigrationTargetInstallJob, which installs the migration target app from a manifest or completes early if it is already installed.
+// ---
+
 #include "chrome/browser/web_applications/jobs/migration_target_install_job.h"
 
 #include "base/check.h"

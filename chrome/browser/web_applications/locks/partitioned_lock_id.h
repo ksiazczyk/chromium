@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionedLockId header
+// summary: Declares the PartitionedLockId struct identifying a lock by partition and key, with comparison, hashing and logging support.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_PARTITIONED_LOCK_ID_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_PARTITIONED_LOCK_ID_H_
 

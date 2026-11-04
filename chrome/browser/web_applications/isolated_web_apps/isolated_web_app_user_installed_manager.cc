@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App user installed manager implementation
+// summary: Implements the manager that installs user-initiated isolated web apps from the allowlist and uninstalls apps whose bundles become blocklisted.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/isolated_web_app_user_installed_manager.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust and signature verifier unit tests
+// summary: Unit tests for CheckTrustAndSignatures covering dev-mode proxy success, disabled dev mode failures, and non-proxy bundle IDs.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/trust_and_signature_verifier.h"
 
 #include <memory>

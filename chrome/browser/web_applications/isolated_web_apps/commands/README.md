@@ -1,3 +1,9 @@
+---
+type: readme
+title: Isolated Web App Commands Directory Overview
+summary: Describes the WebAppCommand implementations for Isolated Web Apps in this directory, grouping installation, update, verification, partition, browsing data, and cache cleanup commands.
+---
+
 # Isolated Web App Commands (`chrome/browser/web_applications/isolated_web_apps/commands`)
 
 This directory contains `WebAppCommand` implementations for Isolated Web Apps

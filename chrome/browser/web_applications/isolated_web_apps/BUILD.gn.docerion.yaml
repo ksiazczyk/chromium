@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN Build Targets for Isolated Web Apps
+summary: GN build file defining the isolated_web_apps and no_pwa_core_deps source sets with their sources, dependencies, visibility rules, and ChromeOS conditionals.

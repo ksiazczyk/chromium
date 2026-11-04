@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App update manager implementation
+// summary: Per-profile manager that schedules periodic update check and prepare tasks, reacts to key rotation, and coordinates apply tasks and ChromeOS notifications.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/update/isolated_web_app_update_manager.h"
 
 #include <algorithm>

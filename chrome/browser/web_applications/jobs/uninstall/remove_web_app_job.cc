@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveWebAppJob implementation
+// summary: Implements RemoveWebAppJob, which fully uninstalls a web app by removing OS integration, icons, storage and database entries, including cleanup for corrupted databases.
+// ---
+
 #include "chrome/browser/web_applications/jobs/uninstall/remove_web_app_job.h"
 
 #include <algorithm>

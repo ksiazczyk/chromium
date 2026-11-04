@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key Rotation Utility Header
+// summary: Declares the KeyRotationData struct and GetKeyRotationData helper for tracking rotated signing keys of isolated web apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_KEY_ROTATION_UTIL_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_KEY_ROTATION_UTIL_H_
 

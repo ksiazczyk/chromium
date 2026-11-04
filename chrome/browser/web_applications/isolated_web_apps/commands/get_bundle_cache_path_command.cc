@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get Bundle Cache Path Command Implementation
+// summary: Implements the command that resolves an Isolated Web App bundle's cache path, returning the requested version or the newest cached version and recording UMA metrics.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/get_bundle_cache_path_command.h"
 
 #include "base/files/file_enumerator.h"

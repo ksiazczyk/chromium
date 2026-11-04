@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed Web Bundle Metadata Fetching
+// summary: Implements fetching of signed web bundle metadata by running trust and signature checks and preparing install info for the installation UI.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/signed_web_bundle_metadata.h"
 
 #include <memory>

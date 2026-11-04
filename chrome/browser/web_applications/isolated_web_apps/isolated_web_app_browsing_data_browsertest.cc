@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App browsing data browser tests
+// summary: Browser tests verifying browsing data size reporting and data removal behavior for installed Isolated Web Apps.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

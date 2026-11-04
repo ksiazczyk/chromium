@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Isolated Web App test support build rules (BUILD.gn)
+summary: GN build file defining the testonly test_support source set for IWA runtime data provider mixins, excluded on Android to avoid duplicate-symbol link errors.

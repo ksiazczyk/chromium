@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install Isolated Web App Command Header
+// summary: Declares InstallIsolatedWebAppCommand plus its success and error result types for performing a full Isolated Web App installation under an AppLock.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_INSTALL_ISOLATED_WEB_APP_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_INSTALL_ISOLATED_WEB_APP_COMMAND_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: IWA Window Management GN Build Targets
+summary: Defines GN source sets for the window open permission service, its implementation, and platform-conditional browser test targets.

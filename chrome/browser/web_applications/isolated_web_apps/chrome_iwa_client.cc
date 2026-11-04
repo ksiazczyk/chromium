@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome IWA Client Implementation
+// summary: Implements ChromeIwaClient, resolving IWA resource requests with trust checks and serving generated install page content when apps are missing.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/chrome_iwa_client.h"
 
 #include <variant>

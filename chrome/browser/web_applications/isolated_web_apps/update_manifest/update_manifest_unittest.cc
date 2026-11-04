@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update Manifest unit tests
+// summary: Unit tests for UpdateManifest JSON parsing, error strings, and update channel creation, including valid and invalid channel names.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/update_manifest/update_manifest.h"
 
 #include <optional>

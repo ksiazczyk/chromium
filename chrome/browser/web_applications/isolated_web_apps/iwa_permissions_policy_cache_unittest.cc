@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA Permissions Policy Cache Unit Tests
+// summary: Unit tests verifying parsing of permissions policy manifests into cached policy entries for isolated web app origins.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/iwa_permissions_policy_cache.h"
 
 #include "base/test/gmock_expected_support.h"

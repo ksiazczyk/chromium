@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage Utilities Unit Tests
+// summary: Parameterized unit tests verifying bundle relocation into the profile's IWA directory and cleanup behavior for owned and unowned locations.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/storage_util.h"
 
 #include <string>

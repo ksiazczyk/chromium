@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App device attributes browser tests
+// summary: Parameterized browser tests for the navigator.managed device attributes API in Isolated Web Apps on ChromeOS, covering policy and affiliation.
+// ---
+
 #include <tuple>
 
 #include "base/strings/string_util.h"

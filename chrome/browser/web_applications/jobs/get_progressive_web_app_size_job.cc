@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetProgressiveWebAppSizeJob implementation
+// summary: Implements a job that computes the total on-disk storage used by an installed web app, combining icon storage with quota-managed browsing data and local storage for the app's origin.
+// ---
+
 #include "chrome/browser/web_applications/jobs/get_progressive_web_app_size_job.h"
 
 #include "base/strings/to_string.h"

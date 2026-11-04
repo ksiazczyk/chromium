@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version Change Validator Header
+// summary: Declares the version change validation result enum and the function that checks whether an isolated web app version change is allowed.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_UPDATE_VERSION_CHANGE_VALIDATOR_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_UPDATE_VERSION_CHANGE_VALIDATOR_H_
 

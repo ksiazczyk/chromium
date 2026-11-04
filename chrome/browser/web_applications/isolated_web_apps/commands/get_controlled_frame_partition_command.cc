@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get Controlled Frame Partition Command Implementation
+// summary: Implements lookup of the StoragePartitionConfig for a Controlled Frame partition, registering persistent partitions with the web app registry and saving in-memory ones.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/get_controlled_frame_partition_command.h"
 
 #include <optional>

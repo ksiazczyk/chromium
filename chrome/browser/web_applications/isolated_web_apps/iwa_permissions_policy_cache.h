@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA Permissions Policy Cache Header
+// summary: Declares the IwaPermissionsPolicyCache keyed service that caches permissions policies from IWA manifests per origin and exposes warning messages.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_IWA_PERMISSIONS_POLICY_CACHE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_IWA_PERMISSIONS_POLICY_CACHE_H_
 

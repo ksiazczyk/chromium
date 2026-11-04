@@ -1,0 +1,4 @@
+# Docerion header of key_distribution.textproto.
+type: data
+title: IWA key distribution preload data (textproto)
+summary: Text-format protobuf listing key rotations, special app permissions, and managed allowlist entries for isolated web apps, preloaded into the key distribution component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionedLock implementation
+// summary: Implements the move-only PartitionedLock granted-lock object, releasing its lock via callback on destruction or explicit Release().
+// ---
+
 #include "chrome/browser/web_applications/locks/partitioned_lock.h"
 
 #include <ostream>

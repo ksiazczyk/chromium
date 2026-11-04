@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy Bundle To Cache Command Implementation
+// summary: Implements a command that copies an installed IWA's owned bundle file into the session cache directory, reporting errors like failed directory creation or file copy.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/copy_bundle_to_cache_command.h"
 
 #include "base/files/file.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cleanup Bundle Cache Command Implementation
+// summary: Implements a command that deletes cached IWA bundle directories not in the keep list for a session type, logging failures and recording UMA metrics.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/cleanup_bundle_cache_command.h"
 
 #include <algorithm>

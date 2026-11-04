@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key Rotation Utility Implementation
+// summary: Computes key rotation data for a signed web bundle, checking whether the rotated key is present in the current installation or a pending update.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/key_rotation_util.h"
 
 #include <optional>

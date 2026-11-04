@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App Throttle Browser Tests
+// summary: Browser tests verifying that navigating to an installed IWA populates the permissions policy cache with the manifest-declared feature entries.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/isolated_web_app_throttle.h"
 
 #include "base/check_deref.h"

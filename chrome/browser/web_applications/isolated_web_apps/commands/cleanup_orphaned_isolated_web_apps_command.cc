@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cleanup Orphaned Isolated Web Apps Command Implementation
+// summary: Implements a command that finds and deletes IWA directories on disk that are no longer present in the registrar, such as after a crash during install or uninstall.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/cleanup_orphaned_isolated_web_apps_command.h"
 
 #include <algorithm>

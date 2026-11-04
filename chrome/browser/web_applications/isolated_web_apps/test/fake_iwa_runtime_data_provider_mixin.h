@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeIwaRuntimeDataProviderMixin
+// summary: Defines a browser test mixin alias that creates and injects a FakeIwaRuntimeDataProvider for configuring allowlists and key rotations in tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_TEST_FAKE_IWA_RUNTIME_DATA_PROVIDER_MIXIN_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_TEST_FAKE_IWA_RUNTIME_DATA_PROVIDER_MIXIN_H_
 

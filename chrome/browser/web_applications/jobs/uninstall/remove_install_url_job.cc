@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveInstallUrlJob implementation
+// summary: Implements RemoveInstallUrlJob, which finds the web app matching an install URL and removes that URL or delegates to RemoveInstallSourceJob when it is the only install URL.
+// ---
+
 #include "chrome/browser/web_applications/jobs/uninstall/remove_install_url_job.h"
 
 #include "base/strings/to_string.h"

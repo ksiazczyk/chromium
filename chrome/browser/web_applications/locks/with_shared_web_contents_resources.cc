@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WithSharedWebContentsResources mixin implementation
+// summary: Implements access to the shared web contents granted with a lock, storing weak pointers to the lock manager and the web contents.
+// ---
+
 #include "chrome/browser/web_applications/locks/with_shared_web_contents_resources.h"
 
 #include "base/memory/weak_ptr.h"

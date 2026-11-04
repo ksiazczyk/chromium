@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App uninstall browser tests
+// summary: Parameterized browser tests that install bundled isolated web apps in dev and prod modes and verify their uninstall behavior.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App Metrics Helper Unit Tests
+// summary: Unit tests verifying that the metrics helper reports UKM entries for installed sub app counts, sub app install results, and manifest update results.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/isolated_web_app_metrics_helper.h"
 
 #include "base/strings/string_number_conversions.h"

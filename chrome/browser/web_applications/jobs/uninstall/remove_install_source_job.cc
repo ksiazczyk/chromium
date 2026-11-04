@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveInstallSourceJob implementation
+// summary: Implements the RemoveInstallSourceJob that removes selected install managements from a web app and falls back to a full RemoveWebAppJob uninstall when no managements remain.
+// ---
+
 #include "chrome/browser/web_applications/jobs/uninstall/remove_install_source_job.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App Update Notification Service Unit Tests
+// summary: Unit tests verifying pending-update notifications appear when the inline update feature is enabled and are suppressed in kiosk sessions.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/update/isolated_web_app_update_notification_service.h"
 
 #include <memory>

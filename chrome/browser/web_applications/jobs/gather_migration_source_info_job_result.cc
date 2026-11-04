@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GatherMigrationSourceInfoJobResult implementation
+// summary: Implements the migration source info result struct, including its debug value serialization.
+// ---
+
 #include "chrome/browser/web_applications/jobs/gather_migration_source_info_job_result.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App update check and prepare task unit tests
+// summary: Unit tests covering update manifest fetching, version selection, and update preparation behavior of the check and prepare task.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/update/isolated_web_app_update_check_and_prepare_task.h"
 
 #include "base/containers/to_value_list.h"

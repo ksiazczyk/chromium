@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock and LockDescription base classes
+// summary: Declares the base lock interface with resource accessors and the LockDescription type hierarchy used to describe lock requests.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_LOCK_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_LOCK_H_
 

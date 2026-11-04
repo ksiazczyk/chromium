@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App URL loader factory browser tests
+// summary: Browser tests checking that the IWA URL loader factory loads resources from signed web bundles and reports errors for missing or invalid responses.
+// ---
+
 #include <memory>
 
 #include "base/strings/string_util.h"

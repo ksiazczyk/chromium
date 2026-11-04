@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GatherMigrationSourceInfoJob implementation
+// summary: Implements the job that gathers install state, display mode, run-on-OS-login mode and shortcut locations from a source app for migration.
+// ---
+
 #include "chrome/browser/web_applications/jobs/gather_migration_source_info_job.h"
 
 #include <utility>

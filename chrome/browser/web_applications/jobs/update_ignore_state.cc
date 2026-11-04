@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending update and migration ignore state helpers
+// summary: Marks a web app's pending update or pending migration as ignored in the registry and notifies observers of the state change.
+// ---
+
 #include "chrome/browser/web_applications/jobs/update_ignore_state.h"
 
 #include "base/time/clock.h"

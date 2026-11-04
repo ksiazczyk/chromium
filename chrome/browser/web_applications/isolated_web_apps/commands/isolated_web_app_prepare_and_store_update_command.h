@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Prepare And Store Update Command Header
+// summary: Declares IsolatedWebAppUpdatePrepareAndStoreCommand and its result and update-info types for preparing and storing a pending Isolated Web App update.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_ISOLATED_WEB_APP_PREPARE_AND_STORE_UPDATE_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_COMMANDS_ISOLATED_WEB_APP_PREPARE_AND_STORE_UPDATE_COMMAND_H_
 

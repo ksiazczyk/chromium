@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unframed display mode browser tests
+// summary: Browser tests verifying that Isolated Web Apps apply the unframed display override to matching pages via SafeUrlPattern manifest rules.
+// ---
+
 #include <optional>
 #include <string>
 #include <string_view>

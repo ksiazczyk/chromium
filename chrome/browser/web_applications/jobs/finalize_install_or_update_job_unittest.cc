@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FinalizeInstallOrUpdateJob unit tests
+// summary: Unit tests for FinalizeInstallOrUpdateJob covering install, silent update and OS integration behavior across platforms.
+// ---
+
 #include "chrome/browser/web_applications/jobs/finalize_install_or_update_job.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migration target install job result enum and callback
+// summary: Defines the MigrationTargetInstallJobResult enum with success and failure outcomes plus the completion callback for the migration target install job.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_MIGRATION_TARGET_INSTALL_JOB_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_MIGRATION_TARGET_INSTALL_JOB_RESULT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA Window Focus Browser Test
+// summary: Parameterized browser test checking window focus behavior for Isolated Web Apps under different window management permission states.
+// ---
+
 #include "base/test/gmock_expected_support.h"
 #include "base/test/run_until.h"
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

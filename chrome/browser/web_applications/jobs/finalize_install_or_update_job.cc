@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FinalizeInstallOrUpdateJob implementation
+// summary: Implements the job that finalizes web app installs and updates, covering manifest fields, OS integration, icons, scope extensions and uninstall paths.
+// ---
+
 #include "chrome/browser/web_applications/jobs/finalize_install_or_update_job.h"
 
 #include <map>

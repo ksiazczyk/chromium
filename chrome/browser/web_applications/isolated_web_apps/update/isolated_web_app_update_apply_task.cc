@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App update apply task implementation
+// summary: Applies a pending Isolated Web App update via the command scheduler and, on ChromeOS, copies the updated bundle to the bundle cache.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/update/isolated_web_app_update_apply_task.h"
 
 #include <memory>

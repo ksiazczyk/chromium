@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IwaCacheClient Unit Tests
+// summary: Parameterized unit tests checking that IWA bundle caching is enabled only for kiosk and Managed Guest Sessions and can be disabled via the feature flag.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/policy/isolated_web_app_cache_client.h"
 
 #include <memory>

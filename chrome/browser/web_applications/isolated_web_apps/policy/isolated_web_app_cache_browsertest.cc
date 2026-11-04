@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA Bundle Cache Browser Tests
+// summary: Browser tests verifying IWA bundle cache behavior for kiosk and Managed Guest Sessions on ChromeOS, covering caching, eviction, and policy-driven install flows.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

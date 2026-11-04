@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install Isolated Web App Command Unit Tests
+// summary: Unit tests for the Isolated Web App installation command, exercising trust verification, version expectations, icons, and error handling with fake provider dependencies.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/install_isolated_web_app_command.h"
 
 #include <memory>

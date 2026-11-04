@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionedLockHolder header
+// summary: Declares PartitionedLockHolder, the destination object that receives and holds locks granted by a PartitionedLockManager.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_PARTITIONED_LOCK_HOLDER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_PARTITIONED_LOCK_HOLDER_H_
 

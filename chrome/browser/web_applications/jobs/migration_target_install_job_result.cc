@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MigrationTargetInstallJobResult implementation
+// summary: Implements stream output for the MigrationTargetInstallJobResult enum values such as kAlreadyInstalled and kSuccessInstalled.
+// ---
+
 #include "chrome/browser/web_applications/jobs/migration_target_install_job_result.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestToWebAppInstallInfoJob implementation
+// summary: Implements the job that parses a web app manifest into a WebAppInstallInfo, including icon selection, localized value lookup, and display override handling.
+// ---
+
 #include "chrome/browser/web_applications/jobs/manifest_to_web_app_install_info_job.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App Performance Benchmarks
+// summary: Browser-based performance benchmarks measuring IWA installation, page load, and SignedWebBundleReader operations, with a full performance run mode for Pinpoint.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

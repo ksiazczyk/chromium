@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window Open Permission Service Delegate
+// summary: Implements the notification delegate that opens app settings on click and reports user acknowledgment or dismissal of the notification.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/window_management/isolated_web_apps_window_open_permission_service_delegate.h"
 
 #include "chrome/browser/profiles/profile.h"

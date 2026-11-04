@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetIsolatedWebAppSizeJob implementation
+// summary: Implements GetIsolatedWebAppSizeJob, which computes the total on-disk size of an installed isolated web app, including bundle size, icon storage, and StoragePartition browsing data usage.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/jobs/get_isolated_web_app_size_job.h"
 
 #include <cstdint>

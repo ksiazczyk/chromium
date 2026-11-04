@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedWebContentsLock implementation
+// summary: Implements SharedWebContentsLock, granting background web contents and shared web contents resources through the WebAppLockManager.
+// ---
+
 #include "chrome/browser/web_applications/locks/shared_web_contents_lock.h"
 
 #include <memory>

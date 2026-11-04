@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App trust checker unit tests
+// summary: Unit tests covering IsolatedWebAppTrustChecker install operation checks across allowlists, blocklists, policies and ChromeOS-specific keys.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/isolated_web_app_trust_checker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetProgressiveWebAppSizeJob header
+// summary: Declares the job class that calculates an installed web app's total on-disk size, covering web platform storage and Chrome-internal storage such as icons.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_GET_PROGRESSIVE_WEB_APP_SIZE_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_GET_PROGRESSIVE_WEB_APP_SIZE_JOB_H_
 

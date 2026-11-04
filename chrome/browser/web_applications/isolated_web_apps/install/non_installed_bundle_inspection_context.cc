@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-Installed Bundle Inspection Context Implementation
+// summary: Implements the WebContentsUserData that attaches an IWA source and operation to a WebContents during install, update, or metadata reading.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/install/non_installed_bundle_inspection_context.h"
 
 #include "components/webapps/isolated_web_apps/types/source.h"

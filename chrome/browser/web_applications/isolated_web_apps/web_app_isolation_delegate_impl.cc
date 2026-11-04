@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app isolation delegate implementation
+// summary: Implements the IWA isolation delegate that clears browsing data and bundles on uninstall, computes app size, and lists isolated storage paths.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/web_app_isolation_delegate_impl.h"
 
 #include <memory>

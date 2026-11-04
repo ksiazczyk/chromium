@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending update and migration ignore state declarations
+// summary: Declares helpers that record ignored pending update or migration state for a web app and notify observers, gated by a scheduler pass key.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_UPDATE_IGNORE_STATE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_UPDATE_IGNORE_STATE_H_
 

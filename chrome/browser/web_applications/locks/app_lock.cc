@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppLock implementation
+// summary: Implements AppLockDescription for single or multiple app ids and the AppLock grant logic that provides app resources.
+// ---
+
 #include "chrome/browser/web_applications/locks/app_lock.h"
 
 #include "chrome/browser/web_applications/locks/lock.h"

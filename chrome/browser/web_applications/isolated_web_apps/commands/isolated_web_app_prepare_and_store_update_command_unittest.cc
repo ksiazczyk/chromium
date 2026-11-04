@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the IWA prepare and store update command
+// summary: Unit tests for IsolatedWebAppUpdatePrepareAndStoreCommand, covering update bundle preparation, storage, and error handling for isolated web apps.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/commands/isolated_web_app_prepare_and_store_update_command.h"
 
 #include <memory>

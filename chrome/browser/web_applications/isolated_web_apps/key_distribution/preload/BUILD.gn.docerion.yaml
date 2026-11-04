@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: IWA key distribution preload build rules
+summary: GN build file that converts key_distribution.textproto into a binary pb and packages it with manifest.json as the IwaKeyDistribution component resources.

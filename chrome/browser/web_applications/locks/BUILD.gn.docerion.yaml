@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the locks directory
+summary: Defines GN source sets for the partitioned lock manager and its unit tests, listing public headers, sources and dependencies.

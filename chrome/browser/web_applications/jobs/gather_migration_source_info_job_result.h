@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GatherMigrationSourceInfoJobResult struct
+// summary: Declares the result struct holding install state, user display mode, run-on-OS-login mode and shortcut locations gathered during migration.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_GATHER_MIGRATION_SOURCE_INFO_JOB_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_GATHER_MIGRATION_SOURCE_INFO_JOB_RESULT_H_
 

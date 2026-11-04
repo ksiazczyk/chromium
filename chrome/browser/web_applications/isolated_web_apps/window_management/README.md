@@ -1,3 +1,13 @@
+---
+type: readme
+title: Isolated Web App Window Management
+summary: Describes the browser services and tests that implement window management capabilities for Isolated Web Apps.
+relations:
+  - documents /chrome/browser/web_applications/isolated_web_apps/window_management/isolated_web_apps_window_open_permission_service.cc
+  - documents /chrome/browser/web_applications/isolated_web_apps/window_management/isolated_web_apps_window_open_permission_service.h
+  - documents /chrome/browser/web_applications/isolated_web_apps/window_management/isolated_web_apps_window_open_permission_service_delegate.cc
+---
+
 # Isolated Web App Window Management (`chrome/browser/web_applications/isolated_web_apps/window_management`)
 
 This directory contains browser services and tests for window management

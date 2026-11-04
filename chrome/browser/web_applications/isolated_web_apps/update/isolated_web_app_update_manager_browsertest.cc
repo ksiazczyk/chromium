@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App Update Manager Browser Tests
+// summary: Browser tests exercising the isolated web app update manager end to end, covering update checks, bundle downloads, and apply flows.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/update/isolated_web_app_update_manager.h"
 
 #include <memory>

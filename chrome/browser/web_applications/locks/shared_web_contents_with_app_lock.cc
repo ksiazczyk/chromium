@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedWebContentsWithAppLock implementation
+// summary: Implements the lock description and grant logic for a lock that combines exclusive access to the shared web contents with locks on the given app ids.
+// ---
+
 #include "chrome/browser/web_applications/locks/shared_web_contents_with_app_lock.h"
 
 #include <memory>

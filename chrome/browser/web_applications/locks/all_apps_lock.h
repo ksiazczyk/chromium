@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllAppsLock class declaration
+// summary: Declares a lock covering all app ids in the WebAppProvider system, giving operations access to app subsystems via WithAppResources.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_ALL_APPS_LOCK_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_ALL_APPS_LOCK_H_
 

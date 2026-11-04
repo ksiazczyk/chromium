@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Non-Installed Bundle Inspection Context Unit Tests
+// summary: Tests creating the inspection context on a WebContents and reading back its IWA source and operation.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/install/non_installed_bundle_inspection_context.h"
 
 #include <memory>

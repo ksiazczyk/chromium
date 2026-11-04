@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA Key Distribution Component Installer Browser Tests
+// summary: End-to-end browser tests verifying the IwaKeyDistributionComponentInstallerPolicy, covering component readiness on registration and behavior of the preloaded key distribution component.
+// ---
+
 #include "chrome/browser/component_updater/iwa_key_distribution_component_installer.h"
 
 #include <array>

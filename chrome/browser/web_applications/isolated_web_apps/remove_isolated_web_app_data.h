@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remove Isolated Web App Data Header
+// summary: Declares functions to remove browsing data, reset content settings, and close and delete signed web bundle storage for isolated web apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_REMOVE_ISOLATED_WEB_APP_DATA_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_REMOVE_ISOLATED_WEB_APP_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionedLockManager implementation
+// summary: Implements PartitionedLockManager, granting shared and exclusive locks in request order and queuing requests per lock id.
+// ---
+
 #include "chrome/browser/web_applications/locks/partitioned_lock_manager.h"
 
 #include <memory>

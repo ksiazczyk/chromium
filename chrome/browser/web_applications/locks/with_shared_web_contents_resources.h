@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WithSharedWebContentsResources mixin for shared web contents access
+// summary: Declares a mixin class that provides lock holders with access to the shared web contents, CHECK-failing if accessed before the lock is granted.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_WITH_SHARED_WEB_CONTENTS_RESOURCES_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_WITH_SHARED_WEB_CONTENTS_RESOURCES_H_
 

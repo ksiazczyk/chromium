@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App link capturing browser tests
+// summary: Browser tests for navigation and link capturing into isolated web apps, covering launch handler client modes and web app origin associations.
+// ---
+
 #include <tuple>
 #include <vector>
 

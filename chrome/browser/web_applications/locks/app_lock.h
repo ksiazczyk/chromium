@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppLock class declaration
+// summary: Declares a lock for specific app ids, ensuring no other lock-compatible operations touch the same apps while it is held.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_APP_LOCK_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_LOCKS_APP_LOCK_H_
 

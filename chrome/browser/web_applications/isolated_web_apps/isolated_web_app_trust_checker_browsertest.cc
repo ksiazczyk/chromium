@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App trust checker browser tests
+// summary: Browser tests verifying that IsolatedWebAppTrustChecker allows installs from the user install allowlist and rejects blocklisted bundles.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/isolated_web_app_trust_checker.h"
 
 #include "base/test/gmock_expected_support.h"

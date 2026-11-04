@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link capturing preference updates
+// summary: Implements setting an app's link capturing user preference and disabling overlapping apps that explicitly capture links in the same scope.
+// ---
+
 #include "chrome/browser/web_applications/jobs/link_capturing.h"
 
 #include "base/values.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveInstallUrlJob class declaration
+// summary: Declares the RemoveInstallUrlJob uninstall job that removes an install URL from a web app, cascading to install source or full app removal when none remain.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_UNINSTALL_REMOVE_INSTALL_URL_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_UNINSTALL_REMOVE_INSTALL_URL_JOB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App Storage Utilities
+// summary: Implements copying or moving signed web bundles into a randomly named directory in the profile's IWA directory and cleaning up owned locations.
+// ---
+
 #include "chrome/browser/web_applications/isolated_web_apps/storage_util.h"
 
 #include <array>

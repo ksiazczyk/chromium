@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UninstallJob interface declaration
+// summary: Declares the UninstallJob interface with Start and uninstall_source methods that uninstall jobs implement for WebAppUninstallCommand.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_UNINSTALL_UNINSTALL_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_UNINSTALL_UNINSTALL_JOB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallPlaceholderJob implementation
+// summary: Implements the job that installs a placeholder app during externally managed installs when the target install URL fails to load, including custom icon download with retries.
+// ---
+
 #include "chrome/browser/web_applications/jobs/install_placeholder_job.h"
 
 #include <memory>

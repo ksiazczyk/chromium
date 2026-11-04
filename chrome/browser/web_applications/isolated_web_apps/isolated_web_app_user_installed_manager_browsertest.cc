@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App User Installed Manager Browser Tests
+// summary: Browser tests verifying that user-installed isolated web apps are closed and uninstalled after their bundle ID is blocklisted, in both normal and dev mode installs.
+// ---
+
 #include "base/test/gmock_expected_support.h"
 #include "base/test/test_future.h"
 #include "chrome/browser/ui/web_applications/test/isolated_web_app_test_utils.h"

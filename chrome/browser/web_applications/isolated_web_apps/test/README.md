@@ -1,3 +1,13 @@
+---
+type: readme
+title: Isolated Web App Browser Test Support
+summary: Describes the hermetic test builders, fakes, and utilities in this directory for testing Isolated Web Apps in unit_tests and browser_tests.
+relations:
+  - documents /chrome/browser/web_applications/isolated_web_apps/test/fake_iwa_runtime_data_provider_mixin.h
+  - documents /chrome/browser/web_applications/isolated_web_apps/test/isolated_web_app_builder.cc
+  - documents /chrome/browser/web_applications/isolated_web_apps/test/isolated_web_app_builder.h
+---
+
 # Isolated Web App Browser Test Support (`chrome/browser/web_applications/isolated_web_apps/test`)
 
 This directory provides hermetic test builders, fakes, and utilities for testing

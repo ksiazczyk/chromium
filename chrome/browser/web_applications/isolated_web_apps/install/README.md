@@ -1,3 +1,13 @@
+---
+type: readme
+title: Isolated Web App Installation
+summary: Describes the key components of the Isolated Web App installation directory, covering install sources, developer-mode installs, and non-installed bundle inspection.
+relations:
+  - references /chrome/browser/web_applications/isolated_web_apps/README.md
+  - references /chrome/browser/web_applications/isolated_web_apps/commands/README.md
+  - documents /chrome/browser/web_applications/isolated_web_apps/install/isolated_web_app_dev_install_manager.cc
+---
+
 # Isolated Web App Installation (`chrome/browser/web_applications/isolated_web_apps/install`)
 
 This directory implements installation entry points and developer-mode workflows

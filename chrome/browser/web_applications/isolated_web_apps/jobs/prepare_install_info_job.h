@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrepareInstallInfoJob header
+// summary: Declares PrepareInstallInfoJob, a job that loads the manifest from a signed web bundle and assembles WebAppInstallInfo, with error and failure types for the install flow.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_JOBS_PREPARE_INSTALL_INFO_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATED_WEB_APPS_JOBS_PREPARE_INSTALL_INFO_JOB_H_
 

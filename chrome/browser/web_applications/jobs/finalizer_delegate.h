@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FinalizerDelegate interface
+// summary: Declares an interface that lets external subsystems inject custom field configuration into finalize install and update jobs.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_FINALIZER_DELEGATE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_FINALIZER_DELEGATE_H_
 

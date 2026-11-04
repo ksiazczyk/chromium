@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MigrationTargetInstallJob header
+// summary: Declares MigrationTargetInstallJob, which converts a manifest to install info and installs the to-be-migrated app under the app lock.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_JOBS_MIGRATION_TARGET_INSTALL_JOB_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_JOBS_MIGRATION_TARGET_INSTALL_JOB_H_
 
