@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabListOnScrollListenerUnitTest
+// summary: Robolectric unit tests for TabListOnScrollListener covering posted updates and scroll callbacks that toggle the non-zero y-offset supplier.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

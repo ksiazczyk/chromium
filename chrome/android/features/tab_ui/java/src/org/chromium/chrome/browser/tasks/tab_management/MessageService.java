@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for tab switcher message services
+// summary: Base class for message services that queue tab switcher messages and convert data from external services into property models for the message card provider.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.view.View;

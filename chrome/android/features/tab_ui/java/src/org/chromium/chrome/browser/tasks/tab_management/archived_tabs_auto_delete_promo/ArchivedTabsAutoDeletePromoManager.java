@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Archived tabs auto-delete promo manager
+// summary: Checks eligibility conditions such as user preferences and archived tab count, then creates and shows the promo coordinator or destroys it when conditions are not met.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.archived_tabs_auto_delete_promo;
 
 import android.content.Context;

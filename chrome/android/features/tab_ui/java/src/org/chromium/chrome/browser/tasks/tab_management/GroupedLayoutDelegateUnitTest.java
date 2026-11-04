@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GroupedLayoutDelegate unit tests
+// summary: Robolectric unit tests for GroupedLayoutDelegate, covering tab group card handling, accessibility actions, and archived tab group behavior in the tab switcher.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

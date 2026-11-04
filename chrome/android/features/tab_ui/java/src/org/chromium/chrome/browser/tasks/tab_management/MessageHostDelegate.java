@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for message host delegates
+// summary: Interface for a UI component that registers message services and manages the lifecycle and display of their messages.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import org.chromium.build.annotations.NullMarked;

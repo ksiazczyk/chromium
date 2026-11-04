@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupSharedState int-def enum for tab group sharing states
+// summary: Defines an IntDef enum combining collaboration and visibility states so tab group operations can track sharing before it is shown to users.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color picker item view binder
+// summary: Creates and binds color item views, applying colors, click listeners, selection state, and radio-button-like visuals.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.color_picker;
 
 import static org.chromium.chrome.browser.tasks.tab_management.TabUiThemeProvider.getColorPickerDialogBackgroundColor;

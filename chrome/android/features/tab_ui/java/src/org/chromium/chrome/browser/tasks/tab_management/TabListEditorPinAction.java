@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListEditorPinAction
+// summary: Tab list editor action that pins or unpins the selected tabs, updating its state and icon based on whether the selection is pinned, unpinned, or mixed.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.Context;

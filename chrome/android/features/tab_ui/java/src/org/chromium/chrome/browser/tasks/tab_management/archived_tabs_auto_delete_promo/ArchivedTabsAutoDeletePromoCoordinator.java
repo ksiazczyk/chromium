@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Archived tabs auto-delete promo coordinator
+// summary: Coordinates the bottom sheet promo that lets users make a one-time decision about enabling auto-deletion of archived tabs, handling user choices, metrics, and cleanup.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.archived_tabs_auto_delete_promo;
 
 import android.content.Context;

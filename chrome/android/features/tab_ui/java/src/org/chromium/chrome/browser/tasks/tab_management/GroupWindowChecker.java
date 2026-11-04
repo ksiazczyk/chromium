@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checker for tab group window location and sync state
+// summary: Evaluates tab group state relative to the current tab model to determine whether groups reside in the current window, another window, or are hidden or closing.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.Context;

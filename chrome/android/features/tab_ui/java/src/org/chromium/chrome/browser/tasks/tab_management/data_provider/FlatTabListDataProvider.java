@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatTabListDataProvider
+// summary: TabListDataProvider implementation that filters tabs from a TabModel via a predicate and maintains a flat list of TabItem entries with observer notifications.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.data_provider;
 
 import org.chromium.base.Token;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Archived tabs auto-delete promo manager unit tests
+// summary: Robolectric unit tests for the promo manager, covering promo display when all conditions are met and suppression when any condition fails.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.archived_tabs_auto_delete_promo;
 
 import static org.mockito.ArgumentMatchers.any;

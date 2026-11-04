@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coordinator for the tab grid dialog
+// summary: Coordinates the tab grid dialog that shows a tab group's grid view, wiring up the toolbar, color picker, tab list editor, and shared image tiles.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assertNonNull;

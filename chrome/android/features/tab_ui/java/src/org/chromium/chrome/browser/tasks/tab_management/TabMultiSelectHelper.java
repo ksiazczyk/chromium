@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabMultiSelectHelper
+// summary: Helper centralizing tab multi-selection logic, including Ctrl+Click toggling, Shift+Click range selection, and anchor management, for tab strip implementations.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.view.KeyEvent;

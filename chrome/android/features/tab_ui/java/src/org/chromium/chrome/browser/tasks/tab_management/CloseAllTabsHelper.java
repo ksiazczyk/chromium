@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloseAllTabsHelper
+// summary: Helper that closes all tabs while hiding tab groups, handling pinned tab retention via a feature flag and restoration or deletion of archived tabs.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

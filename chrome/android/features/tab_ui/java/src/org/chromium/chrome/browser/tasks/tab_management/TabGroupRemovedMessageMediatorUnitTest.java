@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupRemovedMessageMediatorUnitTest
+// summary: Unit tests for TabGroupRemovedMessageMediator verifying message queuing for empty, irrelevant, and valid tab group removed messages.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

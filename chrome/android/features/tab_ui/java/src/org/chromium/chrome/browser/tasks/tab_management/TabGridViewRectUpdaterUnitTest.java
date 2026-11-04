@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGridViewRectUpdaterUnitTest
+// summary: Robolectric unit tests for TabGridViewRectUpdater verifying rect bounds refresh, scaling and change detection behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

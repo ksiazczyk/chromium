@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListLayoutDelegate
+// summary: Abstract delegate implementing TabGroupObserver and TabObserver callbacks for tab list layouts, with layout-specific subclasses overriding selected handlers.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

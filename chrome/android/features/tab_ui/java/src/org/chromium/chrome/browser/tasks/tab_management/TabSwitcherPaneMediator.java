@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab switcher pane mediator
+// summary: Mediator for the tab switcher pane coordinator, handling tab clicks, tab group dialogs, bottom sheet state, and back press behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

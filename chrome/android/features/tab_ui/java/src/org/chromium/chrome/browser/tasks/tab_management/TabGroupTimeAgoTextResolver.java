@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupTimeAgoTextResolver
+// summary: Resolves user-facing text describing how long ago a tab group was created or updated, using plural resources and a clock.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.res.Resources;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group color picker type annotation
+// summary: Defines an IntDef annotation enumerating the available tab group color picker types, currently containing only the TAB_GROUP variant.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.color_picker;
 
 import androidx.annotation.IntDef;

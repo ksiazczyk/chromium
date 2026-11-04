@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Archived tabs auto-delete promo sheet content
+// summary: Implements BottomSheetContent for the promo, providing the content view, high priority, accessibility strings, and swipe-to-dismiss behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.archived_tabs_auto_delete_promo;
 
 import android.content.Context;

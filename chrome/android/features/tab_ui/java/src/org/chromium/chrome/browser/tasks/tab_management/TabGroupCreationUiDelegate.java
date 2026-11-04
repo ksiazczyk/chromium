@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupCreationUiDelegate
+// summary: Handles the UI flow for creating a new tab group, creating a background tab, showing the naming dialog, and opening the tab group UI in the Hub.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

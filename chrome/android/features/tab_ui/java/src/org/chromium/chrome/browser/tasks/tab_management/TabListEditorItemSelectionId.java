@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListEditorItemSelectionId
+// summary: Value object that identifies a selection editor item by either a tab ID or a tab group sync ID with equality and hashing support.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import org.chromium.build.annotations.NullMarked;

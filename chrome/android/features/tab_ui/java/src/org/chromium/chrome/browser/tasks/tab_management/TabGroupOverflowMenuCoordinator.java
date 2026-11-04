@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupOverflowMenuCoordinator
+// summary: Abstract coordinator that builds and displays the overflow menu for tab groups in the tab grid dialog toolbar and GTS group cards.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.app.Activity;

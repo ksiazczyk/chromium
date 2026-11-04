@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListEditorProperties
+// summary: Property key definitions for the tab list editor, covering toolbar appearance, done button state, visibility, incognito mode, and creation mode.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.res.ColorStateList;

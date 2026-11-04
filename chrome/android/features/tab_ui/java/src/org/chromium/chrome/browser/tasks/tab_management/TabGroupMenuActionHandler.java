@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupMenuActionHandler
+// summary: Handles tab group related app menu actions, such as adding a tab to an existing group or creating a new one via a bottom sheet or dialog.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.Context;

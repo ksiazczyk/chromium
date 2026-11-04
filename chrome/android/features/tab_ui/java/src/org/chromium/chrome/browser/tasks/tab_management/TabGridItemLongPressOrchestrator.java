@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGridItemLongPressOrchestrator
+// summary: Orchestrates long-press events on tab grid RecyclerView items to distinguish drag gestures from long presses meant to trigger other actions such as context menus.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.view.View;

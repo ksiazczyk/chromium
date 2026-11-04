@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupHoverCardViewUnitTest
+// summary: Robolectric unit tests for TabGroupHoverCardView covering data binding, positioning, excess tab counts, and incognito color handling.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

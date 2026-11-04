@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherPaneUnitTest
+// summary: Robolectric unit tests for the tab switcher pane, covering pane behavior, feature flags, preferences, histograms, and user actions.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

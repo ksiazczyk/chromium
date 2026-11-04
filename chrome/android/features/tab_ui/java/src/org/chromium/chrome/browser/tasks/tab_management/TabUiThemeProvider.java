@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabUiThemeProvider
+// summary: Utility class providing theme colors and tint lists for Tab UI elements such as grid switcher backgrounds, hovered cards, and dialogs, with incognito variants.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.Context;

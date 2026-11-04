@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupCreationUiDelegateUnitTest
+// summary: Robolectric unit tests for TabGroupCreationUiDelegate, verifying the new tab group flow, tab creation failure handling, and opening the tab group UI.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.mockito.ArgumentMatchers.any;

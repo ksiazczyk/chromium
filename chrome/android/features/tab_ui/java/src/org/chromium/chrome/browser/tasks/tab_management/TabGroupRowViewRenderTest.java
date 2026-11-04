@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group row view render tests
+// summary: Render tests that verify the visual appearance of the tab group row view across property changes using the Chrome render test rule.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static com.google.common.truth.Truth.assertThat;

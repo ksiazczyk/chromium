@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupUiProperties
+// summary: Defines the PropertyKey list for the TabGroupUi model, covering visibility, colors, listeners, and scroll index.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.content.res.ColorStateList;

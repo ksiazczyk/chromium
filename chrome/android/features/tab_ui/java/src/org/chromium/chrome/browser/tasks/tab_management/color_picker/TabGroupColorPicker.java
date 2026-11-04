@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group color picker interface
+// summary: Defines the interface for the color picker UI, exposing the container view, color selection, and the selected color supplier.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.color_picker;
 
 import org.chromium.base.supplier.MonotonicObservableSupplier;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar view for the tab grid dialog
+// summary: Custom toolbar view for the tab grid dialog with back, new tab, and menu buttons, an editable group title, and a share button.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.annotation.SuppressLint;

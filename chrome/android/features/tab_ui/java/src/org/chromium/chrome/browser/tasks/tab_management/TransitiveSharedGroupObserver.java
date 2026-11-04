@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransitiveSharedGroupObserver for shared tab groups
+// summary: Wrapper around SharedGroupObserver that lets callers switch the observed tab group id while keeping a single set of observable suppliers for group state, members, and collaboration id.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

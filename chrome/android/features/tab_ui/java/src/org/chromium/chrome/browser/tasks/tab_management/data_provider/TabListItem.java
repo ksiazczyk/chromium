@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListItem
+// summary: Polymorphic item contract for visual row or card entries in a tab list surface, exposing selection state and a withSelected copy method.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.data_provider;
 
 import org.chromium.build.annotations.NullMarked;

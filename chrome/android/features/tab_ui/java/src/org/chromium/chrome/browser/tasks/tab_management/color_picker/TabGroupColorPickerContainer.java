@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group color picker container view
+// summary: Custom MaterialButtonToggleGroup that lays out color buttons in single, double, or dynamic rows and restores child button shapes.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.color_picker;
 
 import android.content.Context;

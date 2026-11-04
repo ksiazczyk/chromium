@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcherDragHandler
+// summary: Initiates tab drag and drop from the tab list coordinator and handles drag events, shadows, and drop behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.animation.ObjectAnimator;

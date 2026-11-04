@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListNotificationHandler
+// summary: Interface for updating tab strip notification bubbles and tab or tab group card labels in the tab list.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import org.chromium.base.Token;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListEditorRestoreArchivedTabsAction
+// summary: Menu-only tab list editor action that restores the selected archived tabs and tab groups through the archive delegate.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import org.chromium.build.annotations.NullMarked;

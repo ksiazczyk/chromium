@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corner int-def enum for the four corners of a rectangle
+// summary: Defines an IntDef annotation enumerating the four corners of a rectangle or square, ordered clockwise to match Android's corner conventions.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import androidx.annotation.IntDef;

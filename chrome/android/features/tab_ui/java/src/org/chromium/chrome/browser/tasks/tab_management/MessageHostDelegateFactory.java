@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for message host delegates
+// summary: Factory that builds a MessageHostDelegate which registers message service item types, layouts, and binders with a TabListCoordinator.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.annotation.SuppressLint;

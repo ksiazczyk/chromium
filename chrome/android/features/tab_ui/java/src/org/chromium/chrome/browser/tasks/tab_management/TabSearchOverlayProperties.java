@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSearchOverlayProperties
+// summary: Defines property keys and a default model for the tab search overlay, covering visibility, empty state, and dismiss callbacks.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.view.View.OnClickListener;

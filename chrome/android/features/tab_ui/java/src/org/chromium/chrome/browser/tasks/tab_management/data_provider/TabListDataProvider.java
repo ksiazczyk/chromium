@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListDataProvider
+// summary: Abstract base class that supplies TabListItem entries for tab list surfaces, managing TabModel attachment, item rebuilding, and observer notification.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.data_provider;
 
 import org.chromium.base.Callback;

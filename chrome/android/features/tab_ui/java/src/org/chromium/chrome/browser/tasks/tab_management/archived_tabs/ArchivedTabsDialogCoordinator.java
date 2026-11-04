@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchivedTabsDialogCoordinator
+// summary: Coordinator for Chrome on Android's archived tabs dialog, building the archived tab list UI with message cards, selection actions, back press handling, and metrics recording.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.archived_tabs;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

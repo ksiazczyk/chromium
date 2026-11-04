@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGridItemTouchHelperCallback
+// summary: ItemTouchHelper callback implementing swipe and drag logic for grid tab layouts, including ungroup bar updates and drops on the archival message card.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

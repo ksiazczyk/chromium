@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price drop text resolver
+// summary: Builds styled text for tab card labels showing old and new prices with strikethrough and color spans, handling RTL layout.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static android.text.Spanned.SPAN_EXCLUSIVE_EXCLUSIVE;

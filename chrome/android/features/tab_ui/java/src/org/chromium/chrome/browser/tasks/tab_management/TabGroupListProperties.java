@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group list properties
+// summary: Defines property keys for the tab group list UI, including scroll callbacks, containment, empty state visibility, sync, and tablet or landscape flags.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import androidx.core.util.Consumer;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color picker item view binder unit tests
+// summary: Robolectric tests verifying color item view creation, color binding, and selection behavior of the binder.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.color_picker;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

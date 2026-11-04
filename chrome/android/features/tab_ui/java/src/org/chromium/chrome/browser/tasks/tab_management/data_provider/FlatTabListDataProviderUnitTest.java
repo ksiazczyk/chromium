@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlatTabListDataProviderUnitTest
+// summary: Robolectric unit tests covering value semantics, lifecycle, reset, and observer behavior of FlatTabListDataProvider with and without filters.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.data_provider;
 
 import static org.junit.Assert.assertEquals;

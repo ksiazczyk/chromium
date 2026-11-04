@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group time-ago event
+// summary: Represents a timestamped event for a tab group, such as creation or update, used for showing time-ago information.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import androidx.annotation.IntDef;

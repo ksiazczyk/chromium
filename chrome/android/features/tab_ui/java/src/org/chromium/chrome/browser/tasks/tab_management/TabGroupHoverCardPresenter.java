@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupHoverCardPresenter
+// summary: Presenter that resolves tab group model data and binds formatted title, child tab titles, and excess tab count to TabGroupHoverCardView.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.text.TextUtils;

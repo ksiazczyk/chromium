@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconResolver interface for asynchronous tab favicon fetching
+// summary: Functional interface that asynchronously resolves the favicon drawable for a tab URL and delivers it through a callback.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.graphics.drawable.Drawable;

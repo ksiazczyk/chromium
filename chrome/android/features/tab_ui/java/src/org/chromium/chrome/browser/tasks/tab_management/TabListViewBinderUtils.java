@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListViewBinderUtils
+// summary: Shared static utilities for binding action buttons and attaching click, peripheral click, and long-press listeners to tab list items such as grid cards and vertical rows.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.graphics.drawable.Drawable;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripSnapshotter
+// summary: Observes the tab strip model list and produces comparable snapshot tokens used to decide when the bottom toolbar should capture a bitmap.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import androidx.recyclerview.widget.RecyclerView;

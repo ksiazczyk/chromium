@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabShareUtilsUnitTest
+// summary: Unit tests for TabShareUtils covering collaboration ID lookup, validation, and shared group state determination using Robolectric and Mockito.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertFalse;

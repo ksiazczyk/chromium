@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoTabSwitcherPane unit tests
+// summary: Robolectric unit tests for the incognito tab switcher pane, covering re-auth flows, tab closing, button data, and pane lifecycle behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

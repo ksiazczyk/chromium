@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchivedTabsMessageService
+// summary: Message service that surfaces information about archived tabs in the tab switcher, coordinating the archived tabs message card, dialogs and related tab model state.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

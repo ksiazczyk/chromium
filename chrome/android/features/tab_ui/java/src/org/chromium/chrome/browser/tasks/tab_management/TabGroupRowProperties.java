@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group row properties
+// summary: Defines the property keys used to display a single tab group row, including cluster data, title, color, timestamps, and menu actions.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import org.chromium.base.lifetime.Destroyable;

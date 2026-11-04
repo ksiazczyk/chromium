@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color picker item property model
+// summary: Defines the property keys and factory for the model of a single color entry in the color picker UI.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.color_picker;
 
 import org.chromium.build.annotations.NullMarked;

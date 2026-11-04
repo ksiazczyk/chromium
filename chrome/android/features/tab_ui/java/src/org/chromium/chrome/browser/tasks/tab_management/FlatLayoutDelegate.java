@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flat layout delegate for the tab list
+// summary: Implements the flat tab list layout type, computing tab insertion indices and handling tab group changes without displaying group headers.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import org.chromium.base.Token;

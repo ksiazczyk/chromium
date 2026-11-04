@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group color picker coordinator
+// summary: Builds color item models and views, wires them into the container, and sets up selection handling and accessibility behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.color_picker;
 
 import android.view.View;
