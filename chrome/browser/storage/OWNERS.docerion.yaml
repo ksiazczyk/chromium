@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the storage directory
+summary: Delegates directory ownership to the storage OWNERS file and assigns permission context files to the permissions owners.

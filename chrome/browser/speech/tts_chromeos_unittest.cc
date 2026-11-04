@@ -4,6 +4,12 @@
 
 // Unit tests for the TTS platform implementation in Chrome OS.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome OS TTS platform
+// summary: Unit tests verifying platform support behavior and voice ordering preferences of the Chrome OS TTS platform implementation.
+// ---
+
 #include "chrome/browser/speech/tts_chromeos.h"
 
 #include "ash/constants/ash_extension_constants.h"

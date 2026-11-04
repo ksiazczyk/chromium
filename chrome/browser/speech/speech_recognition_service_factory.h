@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition service factory header
+// summary: Declares SpeechRecognitionServiceFactory, a ProfileKeyedServiceFactory that returns the SpeechRecognitionService instance for a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_SPEECH_RECOGNITION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SPEECH_SPEECH_RECOGNITION_SERVICE_FACTORY_H_
 

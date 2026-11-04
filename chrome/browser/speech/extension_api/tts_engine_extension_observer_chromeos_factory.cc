@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS TTS engine extension observer factory implementation
+// summary: Implements the profile-keyed factory that builds a TtsEngineExtensionObserverChromeOS instance per profile.
+// ---
+
 #include "chrome/browser/speech/extension_api/tts_engine_extension_observer_chromeos_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

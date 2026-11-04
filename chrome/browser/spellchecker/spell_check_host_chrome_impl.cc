@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellCheckHostChromeImpl implementation
+// summary: Implements the Chrome-side SpellCheckHost Mojo service, handling spell check notifications, spelling service requests, and binder overrides for testing.
+// ---
+
 #include "chrome/browser/spellchecker/spell_check_host_chrome_impl.h"
 
 #include "base/functional/bind.h"

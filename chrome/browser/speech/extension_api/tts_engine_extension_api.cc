@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS engine extension API implementation
+// summary: Implements TTS engine extension events, voice validation, and the TtsExtensionEngine delegate used by the TTS controller.
+// ---
+
 #include "chrome/browser/speech/extension_api/tts_engine_extension_api.h"
 
 #include <stddef.h>

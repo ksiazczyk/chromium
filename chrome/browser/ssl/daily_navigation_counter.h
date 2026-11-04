@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Daily navigation counter interface
+// summary: Declares a class that counts navigations per day within a rolling window and periodically saves counts to a persisted dictionary for HTTPS-First Mode heuristics.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_DAILY_NAVIGATION_COUNTER_H_
 #define CHROME_BROWSER_SSL_DAILY_NAVIGATION_COUNTER_H_
 

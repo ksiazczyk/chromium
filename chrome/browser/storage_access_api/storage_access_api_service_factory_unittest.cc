@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage Access API service factory unit tests
+// summary: Tests that StorageAccessAPIServiceFactory creates a service for regular profiles and a separate instance for off-the-record profiles.
+// ---
+
 #include "chrome/browser/storage_access_api/storage_access_api_service_factory.h"
 
 #include "base/memory/raw_ptr.h"

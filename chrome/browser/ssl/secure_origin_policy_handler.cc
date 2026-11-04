@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure origin policy handler implementation
+// summary: Applies the unsafely-treat-insecure-origin-as-secure enterprise policy by copying its list value into the corresponding preference.
+// ---
+
 #include "chrome/browser/ssl/secure_origin_policy_handler.h"
 
 #include <string>

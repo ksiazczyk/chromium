@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stateful SSL host state delegate factory interface
+// summary: Declares the singleton factory associating StatefulSSLHostStateDelegate services with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_STATEFUL_SSL_HOST_STATE_DELEGATE_FACTORY_H_
 #define CHROME_BROWSER_SSL_STATEFUL_SSL_HOST_STATE_DELEGATE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellCheckInitializationHostImpl implementation
+// summary: Implements the Mojo host that initializes a renderer's spellchecker by forwarding dictionary requests to the SpellcheckService.
+// ---
+
 #include "chrome/browser/spellchecker/spell_check_initialization_host_impl.h"
 
 #include "chrome/browser/spellchecker/spellcheck_factory.h"

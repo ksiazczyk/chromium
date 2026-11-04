@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL config overlay implementation
+// summary: Implements SSLConfigOverlay, which applies per-context SSL config overrides and relays global config updates over Mojo.
+// ---
+
 #include "chrome/browser/ssl/ssl_config_overlay.h"
 
 #include "services/network/public/mojom/network_context.mojom.h"

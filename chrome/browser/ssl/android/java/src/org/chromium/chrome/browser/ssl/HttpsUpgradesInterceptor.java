@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS upgrades interceptor JNI interface
+// summary: Java interface to the C++ HTTPS upgrades interceptor that allows setting HTTP and HTTPS ports for testing.
+// ---
+
 package org.chromium.chrome.browser.ssl;
 
 import org.jni_zero.NativeMethods;

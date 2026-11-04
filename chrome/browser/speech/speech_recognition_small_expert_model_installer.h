@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition small expert model installer header
+// summary: Declares the installer class with install states, observer notifications, download progress handling and model path management for the small expert model.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_SPEECH_RECOGNITION_SMALL_EXPERT_MODEL_INSTALLER_H_
 #define CHROME_BROWSER_SPEECH_SPEECH_RECOGNITION_SMALL_EXPERT_MODEL_INSTALLER_H_
 

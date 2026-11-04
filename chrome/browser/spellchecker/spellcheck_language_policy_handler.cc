@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck language policy handler implementation
+// summary: Implements the SpellcheckLanguage policy handler that forces spellcheck dictionaries and warns about unknown or unsupported languages.
+// ---
+
 #include "chrome/browser/spellchecker/spellcheck_language_policy_handler.h"
 
 #include <utility>

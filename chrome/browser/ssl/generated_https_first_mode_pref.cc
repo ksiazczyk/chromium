@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated HTTPS-First Mode pref implementation
+// summary: Implements a generated settings-private preference that maps the HTTPS-First Mode setting selection onto underlying prefs, respecting Advanced Protection and enterprise policy.
+// ---
+
 #include "chrome/browser/ssl/generated_https_first_mode_pref.h"
 
 #include "base/feature_list.h"

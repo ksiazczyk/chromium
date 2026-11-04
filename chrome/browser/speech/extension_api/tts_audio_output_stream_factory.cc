@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS audio output stream factory implementation
+// summary: Implements a browser-hosted Mojo AudioStreamFactory that forwards output stream creation for TTS and rejects unsupported stream requests.
+// ---
+
 #include "chrome/browser/speech/extension_api/tts_audio_output_stream_factory.h"
 
 #include <optional>

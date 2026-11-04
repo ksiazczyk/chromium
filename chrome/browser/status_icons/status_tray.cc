@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusTray implementation
+// summary: Implements StatusTray methods for creating, tracking, and removing status icons owned by the tray.
+// ---
+
 #include "chrome/browser/status_icons/status_tray.h"
 
 #include <algorithm>

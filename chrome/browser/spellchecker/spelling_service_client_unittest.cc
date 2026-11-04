@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpellingServiceClient unit tests
+// summary: Unit tests for SpellingServiceClient that use a test URL loader factory to verify spelling service requests, response parsing, and corrected text results.
+// ---
+
 #include "components/spellcheck/browser/spelling_service_client.h"
 
 #include <stddef.h>

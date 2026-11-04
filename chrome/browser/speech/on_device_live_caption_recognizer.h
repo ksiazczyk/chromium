@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnDeviceLiveCaptionRecognizer class declaration
+// summary: Declares a browser-side recognizer that bridges Live Caption audio from renderer processes directly to OnDeviceModelService, avoiding an intermediate speech recognition utility process.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_ON_DEVICE_LIVE_CAPTION_RECOGNIZER_H_
 #define CHROME_BROWSER_SPEECH_ON_DEVICE_LIVE_CAPTION_RECOGNIZER_H_
 

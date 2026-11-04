@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome security state client header
+// summary: Declares the Chrome security state client that supplies a Chrome-specific security state model delegate.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_CHROME_SECURITY_STATE_CLIENT_H_
 #define CHROME_BROWSER_SSL_CHROME_SECURITY_STATE_CLIENT_H_
 

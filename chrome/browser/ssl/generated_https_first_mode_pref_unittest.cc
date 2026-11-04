@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generated HTTPS-First Mode preference unit tests
+// summary: Unit tests for the generated HTTPS-First Mode preference, covering sign-in state, Advanced Protection status changes, and pref observer behavior.
+// ---
+
 #include "chrome/browser/ssl/generated_https_first_mode_pref.h"
 
 #include <memory>

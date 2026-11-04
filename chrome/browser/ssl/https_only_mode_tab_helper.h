@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-Only Mode tab helper
+// summary: Per-tab helper that tracks HTTPS-Only Mode navigation metadata such as upgrade status, fallback URLs, and failed upgrade reasons.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_HTTPS_ONLY_MODE_TAB_HELPER_H_
 #define CHROME_BROWSER_SSL_HTTPS_ONLY_MODE_TAB_HELPER_H_
 

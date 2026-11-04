@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StatusIcon unit tests
+// summary: Unit tests verifying that StatusIcon observers are invoked on click events and no longer called after removal.
+// ---
+
 #include "chrome/browser/status_icons/status_icon.h"
 
 #include "base/compiler_specific.h"

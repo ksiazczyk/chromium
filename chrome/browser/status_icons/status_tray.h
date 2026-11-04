@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusTray class header
+// summary: Declares StatusTray, a cross-platform interface to the system status tray for adding and removing typed status icons.
+// ---
+
 #ifndef CHROME_BROWSER_STATUS_ICONS_STATUS_TRAY_H_
 #define CHROME_BROWSER_STATUS_ICONS_STATUS_TRAY_H_
 

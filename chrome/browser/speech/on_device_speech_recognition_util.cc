@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device speech recognition utilities
+// summary: Implements helpers that map speech recognition quality to on-device model features and compute availability status for a language via the optimization guide service.
+// ---
+
 #include "chrome/browser/speech/on_device_speech_recognition_util.h"
 
 #include <string>

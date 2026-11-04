@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL browser test utility declarations
+// summary: Declares auth state enums, security state check functions and platform capability queries used by SSL browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_SSL_BROWSERTEST_UTIL_H_
 #define CHROME_BROWSER_SSL_SSL_BROWSERTEST_UTIL_H_
 

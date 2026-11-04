@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage Access API browser tests
+// summary: End-to-end browser tests covering Storage Access API permission grants, renewals, content settings, and related browser behavior.
+// ---
+
 #include <initializer_list>
 #include <memory>
 #include <ranges>

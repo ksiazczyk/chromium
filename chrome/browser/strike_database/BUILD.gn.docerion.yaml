@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the strike_database browser layer
+summary: Defines the strike_database static library target, listing the factory sources and its dependencies on components/strike_database, content, and profiles.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition client browser interface factory header
+// summary: Declares the profile-keyed factory for getting or creating the speech recognition client browser interface from a profile.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_SPEECH_RECOGNITION_CLIENT_BROWSER_INTERFACE_FACTORY_H_
 #define CHROME_BROWSER_SPEECH_SPEECH_RECOGNITION_CLIENT_BROWSER_INTERFACE_FACTORY_H_
 

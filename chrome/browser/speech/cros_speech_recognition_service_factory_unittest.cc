@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrosSpeechRecognitionServiceFactory unit tests
+// summary: Unit test verifying that the CrosSpeechRecognitionService factory supplies a service instance for incognito profiles, with ChromeOS feature gating.
+// ---
+
 #include "chrome/browser/speech/cros_speech_recognition_service_factory.h"
 
 #include "build/build_config.h"

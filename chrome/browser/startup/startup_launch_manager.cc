@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup launch manager implementation
+// summary: Implements the manager that coordinates launch reasons, preference updates and infobar prompting for Chrome launch on startup.
+// ---
+
 #include "chrome/browser/startup/startup_launch_manager.h"
 
 #include <optional>

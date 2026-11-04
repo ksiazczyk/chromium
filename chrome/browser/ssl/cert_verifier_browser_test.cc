@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cert verifier browser test fixture implementation
+// summary: Implements the CertVerifierBrowserTest fixture setup that wires a mock certificate verifier into browser tests.
+// ---
+
 #include "chrome/browser/ssl/cert_verifier_browser_test.h"
 
 CertVerifierBrowserTest::CertVerifierBrowserTest() = default;

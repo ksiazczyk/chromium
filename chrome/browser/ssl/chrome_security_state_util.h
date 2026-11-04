@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome security state utility interface
+// summary: Declares functions that compute the visible security state and security level for a tab, plus a scoped test helper to override the malicious content status.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_CHROME_SECURITY_STATE_UTIL_H_
 #define CHROME_BROWSER_SSL_CHROME_SECURITY_STATE_UTIL_H_
 

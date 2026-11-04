@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTS extension API tests
+// summary: Extension API browser tests covering chrome.tts behavior with mock TTS platform and language status delegates.
+// ---
+
 #include <vector>
 
 #include "base/command_line.h"

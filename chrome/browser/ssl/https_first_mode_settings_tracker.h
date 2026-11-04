@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-First Mode service and setting enums
+// summary: Declares HTTPS-First Mode setting enums and the HttpsFirstModeService that tracks pref state, computes effective settings, and applies engagement heuristics.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_HTTPS_FIRST_MODE_SETTINGS_TRACKER_H_
 #define CHROME_BROWSER_SSL_HTTPS_FIRST_MODE_SETTINGS_TRACKER_H_
 

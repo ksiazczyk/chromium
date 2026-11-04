@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkSpeechRecognizer class declaration
+// summary: Declares NetworkSpeechRecognizer, a SpeechRecognizer wrapper that drives network-based speech recognition from the UI thread, handling setup, shutdown, results and error cases.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_NETWORK_SPEECH_RECOGNIZER_H_
 #define CHROME_BROWSER_SPEECH_NETWORK_SPEECH_RECOGNIZER_H_
 

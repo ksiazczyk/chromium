@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-First Mode settings tracker implementation
+// summary: Implements the per-profile HTTPS-First Mode service, including site engagement and typically secure user heuristics, metrics, and Enhanced bundle migration.
+// ---
+
 #include "chrome/browser/ssl/https_first_mode_settings_tracker.h"
 
 #include <string_view>

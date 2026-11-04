@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SCT Reporting Service Browser Tests
+// summary: Browser tests verifying SCT auditing report sending, sampling, and Certificate Transparency policy compliance across Google and non-Google logs.
+// ---
+
 #include "chrome/browser/ssl/sct_reporting_service.h"
 
 #include <memory>

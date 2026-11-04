@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome security blocking page factory implementation
+// summary: Implements Chrome's SecurityBlockingPageFactory, creating SSL, captive portal, bad clock, MITM, blocked interception, insecure form and HTTPS-only mode interstitial pages.
+// ---
+
 #include "chrome/browser/ssl/chrome_security_blocking_page_factory.h"
 
 #include "base/functional/bind.h"

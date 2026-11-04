@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL UI browser test base class header
+// summary: Defines the SSLUITestBase fixture with embedded HTTPS test servers and helpers shared by SSL UI browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_SSL_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_SSL_SSL_BROWSERTEST_BASE_H_
 

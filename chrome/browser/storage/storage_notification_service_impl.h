@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageNotificationServiceImpl class declaration
+// summary: Declares the keyed service that provides a thread-safe callback for storage pressure notifications and tracks when one was last sent.
+// ---
+
 #ifndef CHROME_BROWSER_STORAGE_STORAGE_NOTIFICATION_SERVICE_IMPL_H_
 #define CHROME_BROWSER_STORAGE_STORAGE_NOTIFICATION_SERVICE_IMPL_H_
 

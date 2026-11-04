@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup launch infobar manager interface
+// summary: Defines the interface for showing and closing launch-on-startup infobars, including observer registration and infobar types.
+// ---
+
 #ifndef CHROME_BROWSER_STARTUP_STARTUP_LAUNCH_INFOBAR_MANAGER_H_
 #define CHROME_BROWSER_STARTUP_STARTUP_LAUNCH_INFOBAR_MANAGER_H_
 

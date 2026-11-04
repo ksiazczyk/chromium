@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Known Interception Disclosure Message Delegate Unit Tests
+// summary: Unit tests verifying that the Android disclosure message is enqueued and that the seven-day cooldown activates on dismissal or primary action.
+// ---
+
 #include "chrome/browser/ssl/known_interception_disclosure_message_delegate.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition client browser interface implementation
+// summary: Implements the per-profile browser interface that tracks Live Caption preferences and SODA install state and notifies speech recognition availability observers.
+// ---
+
 #include "chrome/browser/speech/speech_recognition_client_browser_interface.h"
 
 #include <memory>

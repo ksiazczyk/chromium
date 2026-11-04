@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTPS-First Mode settings tracker unit tests
+// summary: Unit tests for HTTPS-First Mode settings, covering site engagement heuristics, typically secure user auto-enablement, and related metrics.
+// ---
+
 #include "chrome/browser/ssl/https_first_mode_settings_tracker.h"
 
 #include "base/json/values_util.h"

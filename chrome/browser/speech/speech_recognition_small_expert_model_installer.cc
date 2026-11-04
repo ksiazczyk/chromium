@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition small expert model installer implementation
+// summary: Implements download, install, uninstall and state tracking of the on-device Live Caption speech recognition small expert model via the Optimization Guide.
+// ---
+
 #include "chrome/browser/speech/speech_recognition_small_expert_model_installer.h"
 
 #include <algorithm>

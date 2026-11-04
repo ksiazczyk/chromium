@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck service implementation
+// summary: Implements the per-profile browser-side spellcheck service, managing dictionaries, preferences, metrics and platform spellchecker bindings.
+// ---
+
 #include "chrome/browser/spellchecker/spellcheck_service.h"
 
 #include <algorithm>

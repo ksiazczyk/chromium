@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stateful SSL host state delegate factory implementation
+// summary: Profile-keyed service factory that builds StatefulSSLHostStateDelegate instances tied to profiles and their content settings.
+// ---
+
 #include "chrome/browser/ssl/stateful_ssl_host_state_delegate_factory.h"
 
 #include <memory>

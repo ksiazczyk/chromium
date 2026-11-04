@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition recognizer client implementation
+// summary: Implements the browser-side wrapper around on-device speech recognition, handling audio parameters, SODA language availability, and recognition events.
+// ---
+
 #include "chrome/browser/speech/speech_recognition_recognizer_client_impl.h"
 
 #include <algorithm>

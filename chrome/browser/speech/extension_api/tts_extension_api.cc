@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS extension API implementation
+// summary: Implements the chrome.tts extension functions, event type conversion and utterance event dispatching in the browser.
+// ---
+
 #include "chrome/browser/speech/extension_api/tts_extension_api.h"
 
 #include <stddef.h>

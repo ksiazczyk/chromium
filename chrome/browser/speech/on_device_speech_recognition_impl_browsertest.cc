@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OnDeviceSpeechRecognitionImpl browser tests
+// summary: Browser tests exercising on-device speech recognition availability, installation and origin masking across languages with a test optimization guide service and embedded test server.
+// ---
+
 #include "chrome/browser/speech/on_device_speech_recognition_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL client auth requestor mock implementation
+// summary: Implements a mock SSL client auth requestor with a fake certificate delegate for testing selection flows.
+// ---
+
 #include "chrome/browser/ssl/ssl_client_auth_requestor_mock.h"
 
 #include <utility>

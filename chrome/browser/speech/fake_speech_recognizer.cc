@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeSpeechRecognizer implementation
+// summary: Implements FakeSpeechRecognizer, a test double that tracks audio capture state and delivers fake recognition results, errors, and stop events to the bound client.
+// ---
+
 #include "chrome/browser/speech/fake_speech_recognizer.h"
 
 #include "base/run_loop.h"

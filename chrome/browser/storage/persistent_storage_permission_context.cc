@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent storage permission context implementation
+// summary: Implements permission decisions for persistent storage, restricting grants to top-level origins and consulting bookmarks, engagement and cookie settings.
+// ---
+
 #include "chrome/browser/storage/persistent_storage_permission_context.h"
 
 #include <algorithm>

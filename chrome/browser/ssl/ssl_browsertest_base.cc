@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL UI browser test base fixture
+// summary: Implements SSLUITestBase, a shared fixture providing HTTPS and WebSocket test servers with varied certificate configurations for SSL browser tests.
+// ---
+
 #include "chrome/browser/ssl/ssl_browsertest_base.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS TTS engine extension API implementation
+// summary: Chrome OS implementation of TtsExtensionEngine that streams TTS audio buffers for playback and manages utterance state.
+// ---
+
 #include "chrome/browser/speech/extension_api/tts_engine_extension_api_chromeos.h"
 
 #include "ash/constants/ash_extension_constants.h"

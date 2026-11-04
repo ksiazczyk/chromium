@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS TTS controller delegate header
+// summary: Declares the TtsControllerDelegateChromeOSImpl singleton that manages Chrome-side logic for TTS and TTS engine extension APIs on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_TTS_CONTROLLER_DELEGATE_CHROMEOS_IMPL_H_
 #define CHROME_BROWSER_SPEECH_TTS_CONTROLLER_DELEGATE_CHROMEOS_IMPL_H_
 

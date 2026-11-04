@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition recognizer client browser tests
+// summary: Browser tests for recognizer client plumbing that use a fake speech recognition service, a mock delegate, and a mock audio system.
+// ---
+
 #include "chrome/browser/speech/speech_recognition_recognizer_client_impl.h"
 
 #include <map>

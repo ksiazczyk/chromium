@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-Only Mode tab helper
+// summary: Implements the per-tab helper that tracks HTTPS upgrade and fallback state and manages the Ask-before-HTTP dialog across navigations.
+// ---
+
 #include "chrome/browser/ssl/https_only_mode_tab_helper.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkSpeechRecognizer implementation
+// summary: Implements NetworkSpeechRecognizer, the server-based Web Speech recognizer whose event listener runs on the IO thread and reports results back to a UI-thread delegate.
+// ---
+
 #include "chrome/browser/speech/network_speech_recognizer.h"
 
 #include <stddef.h>

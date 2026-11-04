@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS speech recognition service implementation
+// summary: Implements the ChromeOS speech recognition service that binds Live Caption recognizers using SODA binaries and language pack paths.
+// ---
+
 #include "chrome/browser/speech/cros_speech_recognition_service.h"
 
 #include <memory>

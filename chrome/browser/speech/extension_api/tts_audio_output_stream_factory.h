@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS audio output stream factory class declaration
+// summary: Declares TtsAudioOutputStreamFactory, a browser-hosted AudioStreamFactory restricting TTS utility requests to audio playback streams only.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_EXTENSION_API_TTS_AUDIO_OUTPUT_STREAM_FACTORY_H_
 #define CHROME_BROWSER_SPEECH_EXTENSION_API_TTS_AUDIO_OUTPUT_STREAM_FACTORY_H_
 

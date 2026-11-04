@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage pressure notification service implementation
+// summary: Implements throttled storage pressure notifications, showing a storage pressure bubble on non-Android platforms with a command-line-configurable minimum interval.
+// ---
+
 #include "chrome/browser/storage/storage_notification_service_impl.h"
 
 #include "base/command_line.h"

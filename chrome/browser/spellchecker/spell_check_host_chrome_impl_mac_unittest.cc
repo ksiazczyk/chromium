@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for combining spell check results on Mac
+// summary: Unit test verifying that CombineResultsForTesting merges local and remote spell check results with the expected decorations and suggestions.
+// ---
+
 #include "chrome/browser/spellchecker/spell_check_host_chrome_impl.h"
 
 #include "base/strings/utf_string_conversions.h"

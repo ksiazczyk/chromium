@@ -1,6 +1,13 @@
 // Copyright 2012 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: SSL config service manager implementation
+// summary: Implements building SSL configurations from local state preferences, including cipher suite parsing, compliance regimes, and broadcasting updates to network contexts.
+// ---
+
 #include "chrome/browser/ssl/ssl_config_service_manager.h"
 
 #include <stdint.h>

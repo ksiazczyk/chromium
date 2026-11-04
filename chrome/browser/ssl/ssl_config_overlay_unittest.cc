@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL config overlay unit tests
+// summary: Unit tests verifying that per-network SSL config overrides are applied and broadcast to SSL config clients via mojo.
+// ---
+
 #include "chrome/browser/ssl/ssl_config_overlay.h"
 
 #include "base/test/bind.h"

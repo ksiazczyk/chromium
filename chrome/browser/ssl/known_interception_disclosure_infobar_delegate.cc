@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Known interception disclosure infobar delegate
+// summary: Implements the infobar delegate and cooldown logic that warn users when known certificate interception is detected.
+// ---
+
 #include "chrome/browser/ssl/known_interception_disclosure_infobar_delegate.h"
 
 #include <memory>

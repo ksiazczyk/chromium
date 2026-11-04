@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS TTS engine extension API declarations
+// summary: Declares TtsExtensionEngineChromeOS, the Chrome OS TTS engine delegate that observes TTS events and profile lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_EXTENSION_API_TTS_ENGINE_EXTENSION_API_CHROMEOS_H_
 #define CHROME_BROWSER_SPEECH_EXTENSION_API_TTS_ENGINE_EXTENSION_API_CHROMEOS_H_
 

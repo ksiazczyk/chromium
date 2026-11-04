@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCT Reporting Service (header)
+// summary: Declares the keyed service that observes Safe Browsing preference changes and configures SCT auditing in the network service.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_SCT_REPORTING_SERVICE_H_
 #define CHROME_BROWSER_SSL_SCT_REPORTING_SERVICE_H_
 

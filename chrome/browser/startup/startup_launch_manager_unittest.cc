@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup launch manager unit tests
+// summary: Unit tests for the startup launch manager covering feature configuration, preference handling and infobar display behavior.
+// ---
+
 #include "chrome/browser/startup/startup_launch_manager.h"
 
 #include <memory>

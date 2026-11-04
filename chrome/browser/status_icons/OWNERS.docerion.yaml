@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the status icons directory
+summary: Lists the owner responsible for reviewing changes to files in the status icons directory.

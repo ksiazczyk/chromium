@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stateful SSL host state delegate browser tests
+// summary: In-process browser tests verifying that certificate acceptance and denial decisions are recorded and queried correctly by the per-profile stateful SSL host state delegate.
+// ---
+
 #include "components/security_interstitials/content/stateful_ssl_host_state_delegate.h"
 
 #include <stdint.h>

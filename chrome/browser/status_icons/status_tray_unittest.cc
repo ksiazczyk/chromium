@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StatusTray unit tests
+// summary: Unit tests covering creation and removal of status icons using a mock StatusTray and mock status icon.
+// ---
+
 #include "chrome/browser/status_icons/status_tray.h"
 
 #include "base/compiler_specific.h"

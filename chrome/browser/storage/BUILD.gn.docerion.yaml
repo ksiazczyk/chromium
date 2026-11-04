@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the storage browser sources
+summary: Defines GN source sets for the storage browser code, its implementation, unit tests and browser tests, together with their dependencies.

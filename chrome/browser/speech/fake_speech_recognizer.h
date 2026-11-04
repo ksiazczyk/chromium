@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeSpeechRecognizer header
+// summary: Declares FakeSpeechRecognizer, a test double recognizer exposing capture state, device ID, audio parameters, and helpers for asserting speech recognition sessions in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_FAKE_SPEECH_RECOGNIZER_H_
 #define CHROME_BROWSER_SPEECH_FAKE_SPEECH_RECOGNIZER_H_
 

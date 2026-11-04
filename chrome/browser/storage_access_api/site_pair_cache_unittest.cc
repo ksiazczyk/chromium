@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SitePairCache unit tests
+// summary: Unit tests covering insertion, subdomains, ordering, opaque origins, hosts without registrable domains, and clearing of SitePairCache.
+// ---
+
 #include "chrome/browser/storage_access_api/site_pair_cache.h"
 
 #include <string_view>

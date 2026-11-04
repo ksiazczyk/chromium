@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-defaulted navigation SSL interstitial callbacks
+// summary: Implements the check that suppresses SSL interstitials for navigations defaulted to HTTPS via typed omnibox upgrades or HTTPS-Only Mode.
+// ---
+
 #include "chrome/browser/ssl/https_defaulted_callbacks.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom spellcheck dictionary class declaration
+// summary: Declares SpellcheckCustomDictionary, a syncable custom word dictionary with change, observer, and file-load result interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_SPELLCHECKER_SPELLCHECK_CUSTOM_DICTIONARY_H_
 #define CHROME_BROWSER_SPELLCHECKER_SPELLCHECK_CUSTOM_DICTIONARY_H_
 

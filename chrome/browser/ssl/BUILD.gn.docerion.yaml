@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the ssl browser sources
+summary: Defines the ssl and impl source sets, their public headers, and platform-conditional dependencies for the Chrome browser SSL code.

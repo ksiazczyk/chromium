@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the startup directory
+summary: Lists the email addresses of owners responsible for reviewing changes in the startup directory.

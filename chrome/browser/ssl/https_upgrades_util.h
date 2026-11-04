@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS upgrades utilities header
+// summary: Declares helpers for the HTTP allowlist policy, interstitial state, balanced mode checks, and HTTPS-First Mode UKM recording.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_HTTPS_UPGRADES_UTIL_H_
 #define CHROME_BROWSER_SSL_HTTPS_UPGRADES_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusIcon abstract interface
+// summary: Declares the abstract StatusIcon interface for tray icons covering image, tooltip, balloon, context menu and observer handling across platforms.
+// ---
+
 #ifndef CHROME_BROWSER_STATUS_ICONS_STATUS_ICON_H_
 #define CHROME_BROWSER_STATUS_ICONS_STATUS_ICON_H_
 

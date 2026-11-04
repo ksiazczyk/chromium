@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the status icons module
+summary: Defines GN source sets for the status icon headers, their platform implementation and the unit tests, with conditional Android exclusions.

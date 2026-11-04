@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTPS-First Mode settings fragment tests
+// summary: Instrumentation tests for the HTTPS-First Mode settings fragment, verifying the switch, variant radio buttons, and Advanced Protection enforcement states.
+// ---
+
 package org.chromium.chrome.browser.ssl;
 
 import androidx.preference.Preference;

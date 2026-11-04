@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-Only Mode controller client declaration
+// summary: Declares the controller client for HTTPS-Only Mode interstitial pages, which handles user proceed and go-back commands.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_HTTPS_ONLY_MODE_CONTROLLER_CLIENT_H_
 #define CHROME_BROWSER_SSL_HTTPS_ONLY_MODE_CONTROLLER_CLIENT_H_
 

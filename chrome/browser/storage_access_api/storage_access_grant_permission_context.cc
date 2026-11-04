@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage Access grant permission context implementation
+// summary: Implements the Storage Access API permission context that decides grant requests using first-party sets, implicit grant allowances, cookie settings, and interaction heuristics.
+// ---
+
 #include "chrome/browser/storage_access_api/storage_access_grant_permission_context.h"
 
 #include <algorithm>

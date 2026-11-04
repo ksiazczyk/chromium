@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosSpeechRecognitionServiceFactory header
+// summary: Declares CrosSpeechRecognitionServiceFactory, a ProfileKeyedServiceFactory that returns the CrosSpeechRecognitionService associated with a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_CROS_SPEECH_RECOGNITION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SPEECH_CROS_SPEECH_RECOGNITION_SERVICE_FACTORY_H_
 

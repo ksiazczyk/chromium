@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusIconMenuModel class declaration
+// summary: Declares a SimpleMenuModel subclass that tracks item state and delegate changes so platforms can refresh status icon menus when shown.
+// ---
+
 #ifndef CHROME_BROWSER_STATUS_ICONS_STATUS_ICON_MENU_MODEL_H_
 #define CHROME_BROWSER_STATUS_ICONS_STATUS_ICON_MENU_MODEL_H_
 

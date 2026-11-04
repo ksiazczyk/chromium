@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ask-before-HTTP dialog controller implementation
+// summary: Implements the controller that shows the Ask-before-HTTP warning dialog when HTTPS-First Mode falls back to HTTP, with platform-specific dialog handling.
+// ---
+
 #include "chrome/browser/ssl/ask_before_http_dialog_controller.h"
 
 #include <memory>

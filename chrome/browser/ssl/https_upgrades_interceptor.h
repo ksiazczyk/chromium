@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS upgrades interceptor header
+// summary: Declares the interceptor class that redirects HTTP navigation requests to HTTPS and handles fallback, with test hooks for ports.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_HTTPS_UPGRADES_INTERCEPTOR_H_
 #define CHROME_BROWSER_SSL_HTTPS_UPGRADES_INTERCEPTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS TTS controller delegate implementation
+// summary: Implements Chrome-side TTS controller delegate logic on ChromeOS, resolving preferred voices per language and applying rate, pitch, and volume defaults from user preferences.
+// ---
+
 #include "chrome/browser/speech/tts_controller_delegate_chromeos_impl.h"
 
 #include <stddef.h>

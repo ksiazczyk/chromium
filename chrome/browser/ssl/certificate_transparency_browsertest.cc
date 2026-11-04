@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate Transparency browser tests
+// summary: Browser tests verifying the SSL interstitial shown when a publicly trusted certificate issued after April 2018 fails Certificate Transparency enforcement.
+// ---
+
 #include <optional>
 #include <string_view>
 

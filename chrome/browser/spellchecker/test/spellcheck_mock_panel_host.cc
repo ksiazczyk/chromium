@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock spellcheck panel host implementation
+// summary: Implements the mock SpellCheckPanelHost that records spelling panel visibility and blocks on a RunLoop until the panel is shown during tests.
+// ---
+
 #include "chrome/browser/spellchecker/test/spellcheck_mock_panel_host.h"
 
 #include "base/run_loop.h"

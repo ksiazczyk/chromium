@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cert verifier browser test fixture header
+// summary: Declares a browser test fixture that lets tests force certificate verification results via a mock cert verifier.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_CERT_VERIFIER_BROWSER_TEST_H_
 #define CHROME_BROWSER_SSL_CERT_VERIFIER_BROWSER_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS upgrades navigation throttle header
+// summary: Declares the navigation throttle that observes upgraded HTTPS-First Mode navigations, times them out, and triggers the HTTP interstitial.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_HTTPS_UPGRADES_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_SSL_HTTPS_UPGRADES_NAVIGATION_THROTTLE_H_
 

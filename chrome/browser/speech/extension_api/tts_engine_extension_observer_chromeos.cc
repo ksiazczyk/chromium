@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS TTS engine extension observer implementation
+// summary: Manages keepalive counts for the Google speech synthesis extension and binds TTS playback streams for engine extensions on Chrome OS.
+// ---
+
 #include "chrome/browser/speech/extension_api/tts_engine_extension_observer_chromeos.h"
 
 #include <set>

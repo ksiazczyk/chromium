@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent storage permission context header
+// summary: Declares the PersistentStoragePermissionContext class that decides and updates persistent storage content settings for a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_STORAGE_PERSISTENT_STORAGE_PERMISSION_CONTEXT_H_
 #define CHROME_BROWSER_STORAGE_PERSISTENT_STORAGE_PERMISSION_CONTEXT_H_
 

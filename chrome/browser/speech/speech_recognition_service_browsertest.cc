@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition service browser tests
+// summary: Browser tests exercising the Chrome speech recognition service with fake audio input streams, shared memory regions, and SODA test data.
+// ---
+
 #include <algorithm>
 #include <string_view>
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome security state model delegate implementation
+// summary: Delegates security level, malicious content status and visible security state queries to the Chrome security state utility functions.
+// ---
+
 #include "chrome/browser/ssl/chrome_security_state_model_delegate.h"
 
 #include "chrome/browser/ssl/chrome_security_state_util.h"

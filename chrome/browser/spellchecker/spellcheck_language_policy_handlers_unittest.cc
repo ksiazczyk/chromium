@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spellcheck language policy handlers unit tests
+// summary: Parameterized unit tests covering the SpellcheckLanguage and SpellcheckLanguageBlocklist policy handlers and their interaction when a language is both blocked and forced.
+// ---
+
 // Chromium style is to have one unit test per one header file. However, the
 // applied blocked spellcheck language policy depends on the applied forced
 // language policy. If a language is both blocked and forced, forced wins. It is

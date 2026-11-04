@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage Access API service unit tests
+// summary: Unit tests verifying grant renewal and expiry timing and timer state of the Storage Access API service using mock time and testing profiles.
+// ---
+
 #include "chrome/browser/storage_access_api/storage_access_api_service_impl.h"
 
 #include "base/memory/raw_ptr.h"

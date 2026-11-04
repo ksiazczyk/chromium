@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SitePairCache implementation
+// summary: Implements insertion and clearing of origin and site pairs for the SitePairCache container.
+// ---
+
 #include "chrome/browser/storage_access_api/site_pair_cache.h"
 
 #include <utility>

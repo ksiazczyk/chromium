@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Known interception disclosure infobar browser tests
+// summary: Browser tests verifying the known interception disclosure infobar and Android message, including cooldown behavior after dismissal.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/functional/bind.h"
 #include "base/functional/callback_helpers.h"

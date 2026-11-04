@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck service factory class declaration
+// summary: Declares SpellcheckServiceFactory, the entry point into the spell check system that owns SpellcheckService objects per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_SPELLCHECKER_SPELLCHECK_FACTORY_H_
 #define CHROME_BROWSER_SPELLCHECKER_SPELLCHECK_FACTORY_H_
 

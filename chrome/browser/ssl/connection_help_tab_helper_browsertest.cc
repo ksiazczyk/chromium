@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection help tab helper browser tests
+// summary: Browser tests verifying the connection help redirect triggers only for certificate error interstitials on the help center page and not in other cases.
+// ---
+
 #include "chrome/browser/ssl/connection_help_tab_helper.h"
 
 #include "base/strings/utf_string_conversions.h"

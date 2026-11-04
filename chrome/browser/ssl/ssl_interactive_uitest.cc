@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL UI interactive browser tests with web apps
+// summary: Interactive browser tests checking SSL interstitial behavior in web app windows, including that proceeding opens the URL in a regular browser tab.
+// ---
+
 #include "chrome/browser/interstitials/security_interstitial_page_test_utils.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ssl/ssl_browsertest_base.h"

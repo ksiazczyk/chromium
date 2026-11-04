@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrosSpeechRecognitionService unit tests
+// summary: Parameterized unit test checking that binding an audio source fetcher forwards the expected mask-offensive-words setting to the ChromeOS recognizer for different client types.
+// ---
+
 #include "chrome/browser/speech/cros_speech_recognition_service.h"
 
 #include <memory>

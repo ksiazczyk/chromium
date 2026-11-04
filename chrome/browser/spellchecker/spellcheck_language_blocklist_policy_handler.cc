@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck language blocklist policy handler
+// summary: Applies the SpellcheckLanguageBlocklist policy by validating languages and setting the blocklisted dictionaries preference.
+// ---
+
 #include "chrome/browser/spellchecker/spellcheck_language_blocklist_policy_handler.h"
 
 #include <utility>

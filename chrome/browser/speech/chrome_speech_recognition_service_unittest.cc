@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome speech recognition service unit tests
+// summary: Unit tests for ChromeSpeechRecognitionService covering recognizer binding, availability observers, and live caption integration on non-ChromeOS platforms.
+// ---
+
 #include "chrome/browser/speech/chrome_speech_recognition_service.h"
 
 #include <memory>

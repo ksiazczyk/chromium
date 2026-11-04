@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome security state utility implementation
+// summary: Implements Chrome-specific security state computation, enriching the visible security state with Safe Browsing verdicts, safety tips, HTTPS-Only Mode upgrades, 2-QWAC certificates and mixed form policy.
+// ---
+
 #include "chrome/browser/ssl/chrome_security_state_util.h"
 
 #include <optional>

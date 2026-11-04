@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpellingRequest remote check unit tests
+// summary: Unit tests verifying how SpellingRequest converts remote spell check results for ASCII, non-ASCII, and surrogate pair text using parameterized test cases.
+// ---
+
 #include "chrome/browser/spellchecker/spelling_request.h"
 
 #include <memory>

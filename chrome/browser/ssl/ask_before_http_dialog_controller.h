@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ask-before-HTTP dialog controller header
+// summary: Declares the AskBeforeHttpDialogController class that manages the Ask-before-HTTP dialog per tab, including show, close, and test hooks.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_ASK_BEFORE_HTTP_DIALOG_CONTROLLER_H_
 #define CHROME_BROWSER_SSL_ASK_BEFORE_HTTP_DIALOG_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTPS-First Mode setting tests
+// summary: Instrumentation tests for the HTTPS-First Mode preference in the Privacy and security settings, covering balanced mode defaults and Advanced Protection behavior.
+// ---
+
 package org.chromium.chrome.browser.ssl;
 
 import static org.chromium.base.test.util.Batch.PER_CLASS;

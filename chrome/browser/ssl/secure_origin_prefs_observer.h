@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure origin prefs observer declaration
+// summary: Declares SecureOriginPrefsObserver, which translates the insecure-origin-as-secure pref into network allowlist state.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_SECURE_ORIGIN_PREFS_OBSERVER_H_
 #define CHROME_BROWSER_SSL_SECURE_ORIGIN_PREFS_OBSERVER_H_
 

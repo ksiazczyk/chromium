@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition test helper header
+// summary: Declares a helper letting tests set up on-device or network speech recognition and send fake results or errors while waiting for recognition events.
+// ---
+
 #ifndef CHROME_BROWSER_SPEECH_SPEECH_RECOGNITION_TEST_HELPER_H_
 #define CHROME_BROWSER_SPEECH_SPEECH_RECOGNITION_TEST_HELPER_H_
 

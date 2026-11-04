@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Known Interception Disclosure InfoBar Delegate (header)
+// summary: Declares the known interception disclosure cooldown singleton and infobar delegate that shows the disclosure UI when TLS interception is detected.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_KNOWN_INTERCEPTION_DISCLOSURE_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_SSL_KNOWN_INTERCEPTION_DISCLOSURE_INFOBAR_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup launch feature declarations
+// summary: Declares the Launch on Startup feature flags, mode and preference enums, parameter names and accessor functions.
+// ---
+
 #ifndef CHROME_BROWSER_STARTUP_STARTUP_FEATURES_H_
 #define CHROME_BROWSER_STARTUP_STARTUP_FEATURES_H_
 

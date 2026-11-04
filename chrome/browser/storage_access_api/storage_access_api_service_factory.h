@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageAccessAPIServiceFactory declaration
+// summary: Declares the singleton factory that owns StorageAccessAPIServiceImpl objects and associates them with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_STORAGE_ACCESS_API_STORAGE_ACCESS_API_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_STORAGE_ACCESS_API_STORAGE_ACCESS_API_SERVICE_FACTORY_H_
 

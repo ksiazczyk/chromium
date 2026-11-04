@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracking
+summary: Maps the status icons directory to the UI>Shell>StatusArea Monorail component and a Buganizer component id.

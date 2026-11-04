@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OnDeviceLiveCaptionRecognizer unit tests
+// summary: Unit tests covering audio forwarding, result handling and disconnect behavior of the on-device Live Caption recognizer using fake ASR stream and session bindings.
+// ---
+
 #include "chrome/browser/speech/on_device_live_caption_recognizer.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusIcon base class implementation
+// summary: Implements observer management, click and balloon event dispatch, context menu swapping and platform-specific stubs for the StatusIcon base class.
+// ---
+
 #include "chrome/browser/status_icons/status_icon.h"
 
 #include <utility>

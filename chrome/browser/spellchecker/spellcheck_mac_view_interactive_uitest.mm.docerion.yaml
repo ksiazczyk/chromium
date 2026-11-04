@@ -1,0 +1,4 @@
+# Docerion header of spellcheck_mac_view_interactive_uitest.mm.
+type: test
+title: Mac spellcheck panel interactive UI test
+summary: Interactive browser test verifying that the spelling panel becomes visible on macOS when the guess panel is shown.

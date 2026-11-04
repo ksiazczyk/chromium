@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL config service manager interface
+// summary: Declares the manager that supplies SSL configs to network contexts, registers preferences, and updates TLS trust anchor IDs.
+// ---
+
 #ifndef CHROME_BROWSER_SSL_SSL_CONFIG_SERVICE_MANAGER_H_
 #define CHROME_BROWSER_SSL_SSL_CONFIG_SERVICE_MANAGER_H_
 
