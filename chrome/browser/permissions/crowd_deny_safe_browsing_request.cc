@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrowdDenySafeBrowsingRequest implementation
+// summary: Implements the Safe Browsing notification abuse check that fetches a crowd deny verdict for an origin, with a two-second timeout and verdict reporting.
+// ---
+
 #include "chrome/browser/permissions/crowd_deny_safe_browsing_request.h"
 
 #include <utility>

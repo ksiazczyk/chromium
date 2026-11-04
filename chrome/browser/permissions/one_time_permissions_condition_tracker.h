@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time permissions condition tracker header
+// summary: Declares the ref-counted OneTimePermissionsConditionTracker and its per-origin factory used to track permission conditions such as active or backgrounded pages.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_ONE_TIME_PERMISSIONS_CONDITION_TRACKER_H_
 #define CHROME_BROWSER_PERMISSIONS_ONE_TIME_PERMISSIONS_CONDITION_TRACKER_H_
 

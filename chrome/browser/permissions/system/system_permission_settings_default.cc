@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default no-op system permission settings implementation
+// summary: Fallback PlatformHandle for platforms without OS permission integration, reporting all permissions as allowed and never prompting.
+// ---
+
 #include <utility>
 
 #include "base/functional/callback.h"

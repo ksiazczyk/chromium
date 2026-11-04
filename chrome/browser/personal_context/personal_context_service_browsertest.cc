@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the personal context service
+// summary: Tests PersonalContextServiceImpl against a mocked context memory service endpoint, including simulated network failures and histogram checks.
+// ---
+
 #include "components/personal_context/core/personal_context_service.h"
 
 #include <memory>

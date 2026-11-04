@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Picture-in-picture Android test build targets
+summary: GN build file defining Java test, JNI header, and native test support targets for Android auto picture-in-picture tests.

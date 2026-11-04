@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android quiet permission prompt model
+// summary: Builds the localized titles, descriptions, and button behaviors shown on Android's quiet permission prompt for notifications and geolocation based on the quiet UI reason.
+// ---
+
 #include "chrome/browser/permissions/quiet_permission_prompt_model_android.h"
 
 #include "base/notreached.h"

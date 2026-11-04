@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the personal context service factory
+// summary: Declares the PersonalContextServiceFactory singleton with per-profile access and a default testing factory.
+// ---
+
 #ifndef CHROME_BROWSER_PERSONAL_CONTEXT_PERSONAL_CONTEXT_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PERSONAL_CONTEXT_PERSONAL_CONTEXT_SERVICE_FACTORY_H_
 

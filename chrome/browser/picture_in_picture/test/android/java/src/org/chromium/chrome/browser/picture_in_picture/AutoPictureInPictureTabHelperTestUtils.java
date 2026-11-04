@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto Picture-in-Picture tab helper test utilities
+// summary: JNI utility class with helpers to initialize the C++ test harness, check audibility, and poll auto and manual Picture-in-Picture states.
+// ---
+
 package org.chromium.chrome.browser.picture_in_picture;
 
 import org.jni_zero.JNINamespace;

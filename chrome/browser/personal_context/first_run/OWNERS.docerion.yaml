@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for first_run
+summary: Delegates code ownership to the OWNERS file of components/personal_context/first_run.

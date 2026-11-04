@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DelegatedTaskRunner unit tests
+// summary: Unit tests for DelegatedTaskRunner covering binary lookup, verification, timeouts and exit code handling using a mock launcher and multiprocess helpers.
+// ---
+
 #include "chrome/browser/platform_experience/delegated_tasks/delegated_task_runner.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document PiP standalone window browser tests
+// summary: Browser tests for the Document PiP standalone window feature, covering window lifecycle behavior and extension-related interactions.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/memory/weak_ptr.h"
 #include "base/test/scoped_feature_list.h"

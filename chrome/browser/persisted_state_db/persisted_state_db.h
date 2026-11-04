@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedStateDB header for LevelDB tab state storage
+// summary: Declares PersistedStateDB, the LevelDB backend store for NonCriticalPersistedTabData key/value pairs, with save, load, delete, maintenance and destroy operations.
+// ---
+
 #ifndef CHROME_BROWSER_PERSISTED_STATE_DB_PERSISTED_STATE_DB_H_
 #define CHROME_BROWSER_PERSISTED_STATE_DB_PERSISTED_STATE_DB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-picture widget fade animator header
+// summary: Declares the fade animator shared by video and document picture-in-picture windows, noting fade-in is disabled on Windows for document PiP.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_WIDGET_FADE_ANIMATOR_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_WIDGET_FADE_ANIMATOR_H_
 

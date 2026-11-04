@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto Picture-in-Picture Safe Browsing checker unit tests
+// summary: Unit tests covering check cancellation, timeouts, and result reporting of the Safe Browsing checker client.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_picture_in_picture_safe_browsing_checker_client.h"
 
 #include "base/memory/ref_counted.h"

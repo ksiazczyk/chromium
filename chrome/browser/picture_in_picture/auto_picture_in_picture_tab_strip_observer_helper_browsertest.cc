@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto Picture-in-Picture tab strip observer helper browser tests
+// summary: Browser tests verifying the tab strip observer fires activation callbacks on tab switches, background tab opens, and when observing starts and stops.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_picture_in_picture_tab_strip_observer_helper.h"
 
 #include "base/test/mock_callback.h"

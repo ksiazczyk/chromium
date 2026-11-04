@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time permissions tracker implementation
+// summary: Implements the KeyedService that tracks one-time permission browsing states such as active pages, background timeouts, and media capture, notifying observers on expiry.
+// ---
+
 #include "chrome/browser/permissions/one_time_permissions_tracker.h"
 
 #include <array>

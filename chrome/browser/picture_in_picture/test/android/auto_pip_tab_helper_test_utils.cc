@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Auto picture-in-picture tab helper test utilities
+// summary: Native JNI bindings exposing AutoPictureInPictureTabHelper state and testing hooks, such as engagement, dismiss count, and camera or microphone use, to Android tests.
+// ---
+
 #include <memory>
 
 #include "base/android/jni_android.h"

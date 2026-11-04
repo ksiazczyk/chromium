@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prediction service browser tests
+// summary: Browser tests for the permissions prediction service covering model handlers, UI selection, metrics and prediction behavior.
+// ---
+
 #include "components/permissions/prediction_service/prediction_service.h"
 
 #include <variant>

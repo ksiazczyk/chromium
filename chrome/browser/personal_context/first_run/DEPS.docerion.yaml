@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for first_run
+summary: Grants the directory include access to components/personal_context/first_run.

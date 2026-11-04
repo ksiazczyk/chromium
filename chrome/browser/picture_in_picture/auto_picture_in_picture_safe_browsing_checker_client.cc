@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture Safe Browsing checker implementation
+// summary: Implements timed Safe Browsing blocklist checks that report whether a URL is safe for auto picture-in-picture.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_picture_in_picture_safe_browsing_checker_client.h"
 
 #include "base/metrics/histogram_functions.h"

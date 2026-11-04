@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passage embedder delegate unit tests
+// summary: Unit tests using a mock passage embedder to verify splitting text into passages of expected lengths and embedding computation callbacks.
+// ---
+
 #include "chrome/browser/permissions/prediction_service/passage_embedder_delegate.h"
 
 #include <memory>

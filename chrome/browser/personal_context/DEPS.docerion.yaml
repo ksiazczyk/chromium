@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for personal_context dependencies
+summary: Grants include access to components/personal_context/core and components/glic for code in this directory.

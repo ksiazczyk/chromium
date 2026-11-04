@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time permissions tracker factory implementation
+// summary: Implements the profile-keyed service factory that builds and provides the OneTimePermissionsTracker instance per browser context.
+// ---
+
 #include "chrome/browser/permissions/one_time_permissions_tracker_factory.h"
 
 #include "base/no_destructor.h"

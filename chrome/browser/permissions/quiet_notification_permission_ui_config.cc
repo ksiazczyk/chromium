@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quiet notification permission UI field trial configuration
+// summary: Implements accessors for field trial parameters controlling adaptive activation, crowd deny triggering, and abusive request handling of the quiet notification prompt UI.
+// ---
+
 #include "chrome/browser/permissions/quiet_notification_permission_ui_config.h"
 
 #include "base/metrics/field_trial_params.h"

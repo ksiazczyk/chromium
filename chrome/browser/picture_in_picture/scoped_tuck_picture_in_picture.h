@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTuckPictureInPicture class declaration
+// summary: Declares an RAII object that keeps new and existing picture-in-picture windows tucked to the side of the screen while alive.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_SCOPED_TUCK_PICTURE_IN_PICTURE_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_SCOPED_TUCK_PICTURE_IN_PICTURE_H_
 

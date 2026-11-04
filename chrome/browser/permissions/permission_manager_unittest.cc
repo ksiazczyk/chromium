@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission manager unit tests
+// summary: Unit tests for permission manager behavior, covering geolocation permissions, permissions policy frames and permission change callbacks.
+// ---
+
 #include "components/permissions/permission_manager.h"
 
 #include "base/test/test_future.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the personal context service factory
+// summary: Creates the profile-keyed PersonalContextServiceImpl when the kPersonalContext feature is enabled, wiring identity, sync, and eligibility dependencies.
+// ---
+
 #include "chrome/browser/personal_context/personal_context_service_factory.h"
 
 #include "base/feature_list.h"

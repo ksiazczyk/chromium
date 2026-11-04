@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Picture-in-Picture directory metadata
+summary: Points the directory to the common Blink picture-in-picture metadata mixins.

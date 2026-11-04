@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationsEngagementServiceFactory header
+// summary: Declares the factory providing per-profile NotificationsEngagementService instances for the browser context.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_NOTIFICATIONS_ENGAGEMENT_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PERMISSIONS_NOTIFICATIONS_ENGAGEMENT_SERVICE_FACTORY_H_
 

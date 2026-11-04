@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto picture-in-picture setting bubble implementation
+// summary: Implements the bubble dialog that presents auto picture-in-picture permission options such as allow once, allow on every visit, and block, with layout and styling constants.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_pip_setting_view.h"
 
 #include "base/strings/utf_string_conversions.h"

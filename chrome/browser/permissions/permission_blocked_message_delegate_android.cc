@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission blocked message delegate for Android implementation
+// summary: Implements the Android message UI for blocked notification permission requests, handling quiet and loud UI variants and user actions.
+// ---
+
 #include "chrome/browser/permissions/permission_blocked_message_delegate_android.h"
 
 #include <variant>

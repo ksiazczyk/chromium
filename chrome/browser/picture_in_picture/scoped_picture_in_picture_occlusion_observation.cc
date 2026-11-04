@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedPictureInPictureOcclusionObservation implementation
+// summary: Implements a scoped observation that watches the picture-in-picture occlusion tracker for a widget and forwards occlusion updates to an observer.
+// ---
+
 #include "chrome/browser/picture_in_picture/scoped_picture_in_picture_occlusion_observation.h"
 
 #include "chrome/browser/picture_in_picture/picture_in_picture_occlusion_observer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embedder delegate header
+// summary: Declares PassageEmbedderDelegate, which splits rendered text into passages, computes embeddings, and handles timeouts and fallback callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_PREDICTION_SERVICE_PASSAGE_EMBEDDER_DELEGATE_H_
 #define CHROME_BROWSER_PERMISSIONS_PREDICTION_SERVICE_PASSAGE_EMBEDDER_DELEGATE_H_
 

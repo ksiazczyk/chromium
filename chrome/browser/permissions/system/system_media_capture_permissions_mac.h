@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac system media capture permission API
+// summary: Declares functions to check and request macOS permissions for audio, video, screen capture and clipboard access.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_SYSTEM_SYSTEM_MEDIA_CAPTURE_PERMISSIONS_MAC_H_
 #define CHROME_BROWSER_PERMISSIONS_SYSTEM_SYSTEM_MEDIA_CAPTURE_PERMISSIONS_MAC_H_
 

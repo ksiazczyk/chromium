@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto Picture-in-Picture HaTS service browser tests
+// summary: Browser tests that verify the Auto PiP HaTS service is created only when the surveys feature is enabled, using a mock HaTS service.
+// ---
+
 #include "chrome/browser/picture_in_picture/hats/auto_picture_in_picture_hats_service.h"
 
 #include "base/test/scoped_feature_list.h"

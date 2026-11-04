@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the first_run source set
+summary: Defines the first_run source set with the service factory sources and dependencies on base, profiles, signin, keyed service, and personal context components.

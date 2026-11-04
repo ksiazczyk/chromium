@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto PiP tab model observer helper test utilities
+// summary: JNI utility class that exposes initialize, start, stop and destroy methods for testing the C++ AutoPictureInPictureTabModelObserverHelper logic.
+// ---
+
 package org.chromium.chrome.browser.picture_in_picture;
 
 import org.jni_zero.JNINamespace;

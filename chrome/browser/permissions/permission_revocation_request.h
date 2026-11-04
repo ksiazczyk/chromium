@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission revocation request header
+// summary: Declares the class that asynchronously revokes notification permissions for abusive origins, plus helpers for exempting origins from future revocations.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_PERMISSION_REVOCATION_REQUEST_H_
 #define CHROME_BROWSER_PERMISSIONS_PERMISSION_REVOCATION_REQUEST_H_
 

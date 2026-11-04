@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications permission revocation config header
+// summary: Declares the NotificationsPermissionRevocationConfig class with a static check for the abusive origin notification permission revocation feature.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_NOTIFICATIONS_PERMISSION_REVOCATION_CONFIG_H_
 #define CHROME_BROWSER_PERMISSIONS_NOTIFICATIONS_PERMISSION_REVOCATION_CONFIG_H_
 

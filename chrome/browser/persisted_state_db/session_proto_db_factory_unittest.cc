@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionProtoDBFactory unit tests
+// summary: Verifies that the factory returns nullptr for incognito profiles, the same instance for one profile and distinct instances for different profiles.
+// ---
+
 #include "chrome/browser/persisted_state_db/session_proto_db_factory.h"
 
 #include <memory>

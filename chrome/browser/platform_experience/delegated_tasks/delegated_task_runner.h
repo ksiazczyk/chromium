@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatedTaskRunner interface
+// summary: Declares DelegatedTaskRunner, its result struct and completion callback for executing one delegated task per runner lifecycle.
+// ---
+
 #ifndef CHROME_BROWSER_PLATFORM_EXPERIENCE_DELEGATED_TASKS_DELEGATED_TASK_RUNNER_H_
 #define CHROME_BROWSER_PLATFORM_EXPERIENCE_DELEGATED_TASKS_DELEGATED_TASK_RUNNER_H_
 

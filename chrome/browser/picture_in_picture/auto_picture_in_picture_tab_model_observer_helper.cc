@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture tab model observer helper implementation
+// summary: Android implementation of the auto Picture-in-Picture tab observer that tracks TabModel changes to detect when the observed WebContents becomes active or inactive.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_picture_in_picture_tab_model_observer_helper.h"
 
 #include "base/notimplemented.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PEH feature flags and field trial activation
+// summary: Defines platform experience helper feature flags and activates their field trials when a sentinel file exists in the user data directory.
+// ---
+
 #include "chrome/browser/platform_experience/features.h"
 
 #include "base/feature_list.h"

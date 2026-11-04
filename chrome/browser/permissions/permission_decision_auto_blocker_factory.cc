@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission decision auto blocker factory
+// summary: Implements the profile-keyed service factory that provides a PermissionDecisionAutoBlocker instance per profile.
+// ---
+
 #include "chrome/browser/permissions/permission_decision_auto_blocker_factory.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

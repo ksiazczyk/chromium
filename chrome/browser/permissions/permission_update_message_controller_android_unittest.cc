@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android permission update message controller unit tests
+// summary: Unit tests for the Android permission update message controller, using a mock message dispatcher bridge to check enqueue, dismiss and permission result flows.
+// ---
+
 #include "chrome/browser/permissions/permission_update_message_controller_android.h"
 
 #include "base/android/jni_android.h"

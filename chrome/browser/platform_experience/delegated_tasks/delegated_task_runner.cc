@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatedTaskRunner implementation
+// summary: Implements running delegated tasks via the PEH binary with path lookup, verification, version checks, timeouts and UMA telemetry.
+// ---
+
 #include "chrome/browser/platform_experience/delegated_tasks/delegated_task_runner.h"
 
 #include <windows.h>

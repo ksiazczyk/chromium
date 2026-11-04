@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA with memex team contact
+summary: Records the memex-team Google group as the owning team for this directory.

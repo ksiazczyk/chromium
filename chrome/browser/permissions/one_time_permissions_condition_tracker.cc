@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time permissions condition tracker implementation
+// summary: Implements a ref-counted per-origin condition tracker and its factory that invoke a callback with a configurable delay after the last reference is released.
+// ---
+
 #include "chrome/browser/permissions/one_time_permissions_condition_tracker.h"
 
 #include <utility>

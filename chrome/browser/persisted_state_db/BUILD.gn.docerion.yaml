@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for persisted_state_db
+summary: Defines the persisted_state_db source set and its unit tests, listing platform-specific sources and dependencies on commerce protos, LevelDB and keyed services.

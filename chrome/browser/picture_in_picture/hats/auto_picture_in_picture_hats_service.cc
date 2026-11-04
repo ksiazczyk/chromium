@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture HaTS service implementation
+// summary: Implements the keyed service that manages Happiness Tracking Surveys for automatic picture-in-picture, mapping prompt results to survey triggers and recording timing metrics.
+// ---
+
 #include "chrome/browser/picture_in_picture/hats/auto_picture_in_picture_hats_service.h"
 
 #include "base/functional/callback_helpers.h"

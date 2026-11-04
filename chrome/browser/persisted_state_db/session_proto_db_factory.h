@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionProtoDBFactory template for per-profile proto databases
+// summary: Declares the SessionProtoDBFactory template that builds one SessionProtoDB per profile and proto type, returning nullptr for incognito profiles.
+// ---
+
 #ifndef CHROME_BROWSER_PERSISTED_STATE_DB_SESSION_PROTO_DB_FACTORY_H_
 #define CHROME_BROWSER_PERSISTED_STATE_DB_SESSION_PROTO_DB_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto picture-in-picture setting overlay view implementation
+// summary: Implements the semi-transparent overlay view that hosts the auto picture-in-picture content setting bubble, with fade-in background, blur layer, and delayed bubble display on desktop.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_pip_setting_overlay_view.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto Picture-in-Picture HaTS test fixture declaration
+// summary: Declares the shared test fixture base class providing a mock HaTS service and feature list configuration for Auto PiP HaTS tests.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_HATS_AUTO_PICTURE_IN_PICTURE_HATS_TEST_BASE_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_HATS_AUTO_PICTURE_IN_PICTURE_HATS_TEST_BASE_H_
 

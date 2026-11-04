@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android permission update requester header
+// summary: Declares PermissionUpdateRequester, the native-side bridge to the Java class that requests missing Chrome app-level Android permissions after user interest.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_PERMISSION_UPDATE_REQUESTER_ANDROID_H_
 #define CHROME_BROWSER_PERMISSIONS_PERMISSION_UPDATE_REQUESTER_ANDROID_H_
 

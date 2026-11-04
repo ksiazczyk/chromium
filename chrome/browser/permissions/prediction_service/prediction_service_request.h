@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction service request class declaration
+// summary: Declares PredictionServiceRequest, a single request to the permissions prediction service that runs a callback with the lookup result and disallows copying.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_PREDICTION_SERVICE_PREDICTION_SERVICE_REQUEST_H_
 #define CHROME_BROWSER_PERMISSIONS_PREDICTION_SERVICE_PREDICTION_SERVICE_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crowd deny site reputation proto definitions
+// summary: Defines protobuf messages describing site notification reputation and the preloaded crowd deny data distributed via the component updater.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

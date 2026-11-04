@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android permission blocked dialog controller implementation
+// summary: Android JNI implementation of the permission blocked dialog controller that shows quiet-UI prompts and forwards user choices to its delegate.
+// ---
+
 #include "chrome/browser/permissions/permission_blocked_dialog_controller_android.h"
 
 #include "base/android/jni_string.h"

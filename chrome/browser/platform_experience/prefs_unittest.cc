@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PEH preference registration and overrides
+// summary: Verifies registration defaults and feature-driven overrides for platform experience helper preferences.
+// ---
+
 #include "chrome/browser/platform_experience/prefs.h"
 
 #include <memory>

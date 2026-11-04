@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for persisted_state_db
+summary: Lists ayman@chromium.org and davidjm@chromium.org as code owners for review approvals.

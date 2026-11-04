@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring PEH preference names
+// summary: Declares platform experience helper preference name constants and functions for registering and overriding prefs.
+// ---
+
 #ifndef CHROME_BROWSER_PLATFORM_EXPERIENCE_PREFS_H_
 #define CHROME_BROWSER_PLATFORM_EXPERIENCE_PREFS_H_
 

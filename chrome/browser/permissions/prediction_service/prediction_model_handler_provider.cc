@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PredictionModelHandlerProvider implementation
+// summary: Creates and manages prediction model handlers for notification and geolocation permission predictions, including the AIv4 handlers.
+// ---
+
 #include "chrome/browser/permissions/prediction_service/prediction_model_handler_provider.h"
 
 #include "base/check_is_test.h"

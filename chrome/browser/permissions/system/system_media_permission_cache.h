@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMediaPermissionCache class declaration
+// summary: Declares a reusable platform-agnostic cache of camera and microphone system permission states that listens for browser activation and refreshes via off-main-thread OS checks.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_SYSTEM_SYSTEM_MEDIA_PERMISSION_CACHE_H_
 #define CHROME_BROWSER_PERMISSIONS_SYSTEM_SYSTEM_MEDIA_PERMISSION_CACHE_H_
 

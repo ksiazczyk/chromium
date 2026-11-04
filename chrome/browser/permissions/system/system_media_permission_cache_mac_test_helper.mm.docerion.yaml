@@ -1,0 +1,4 @@
+# Docerion header of system_media_permission_cache_mac_test_helper.mm.
+type: test
+title: SystemMediaPermissionCacheMacTestHelper implementation
+summary: Implements the macOS test helper by faking AVFoundation authorization statuses through a MediaAuthorizationWrapper so tests can control camera and microphone access.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for persisted_state_db
+summary: Grants the directory include access to the leveldb_proto and session_proto_db components.

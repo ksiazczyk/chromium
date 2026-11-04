@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the auto picture-in-picture setting overlay view
+// summary: Unit tests verifying overlay initialization, background and blur layers, delayed bubble display, and event handling of the auto PiP setting overlay view.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_pip_setting_overlay_view.h"
 
 #include <memory>

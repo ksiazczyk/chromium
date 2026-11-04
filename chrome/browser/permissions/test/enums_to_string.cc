@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission prediction source enum to string helper implementation
+// summary: Implements ToString for permission prediction source enums, mapping each value to a readable name for test naming and logging.
+// ---
+
 #include "chrome/browser/permissions/test/enums_to_string.h"
 
 #include "base/containers/fixed_flat_map.h"

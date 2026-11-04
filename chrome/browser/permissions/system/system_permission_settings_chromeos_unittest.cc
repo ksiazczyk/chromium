@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS system permission settings browser test
+// summary: Parameterized in-process browser test verifying IsAllowed and IsDenied for camera, microphone and geolocation under Privacy Hub permission pref overrides.
+// ---
+
 #include "chrome/browser/permissions/system/system_permission_settings.h"
 
 #include <type_traits>

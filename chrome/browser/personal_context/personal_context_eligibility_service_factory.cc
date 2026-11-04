@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the eligibility service factory
+// summary: Builds the profile-keyed PersonalContextEligibilityServiceImpl using account settings, identity manager, prefs, GeoIP country code, and application locale.
+// ---
+
 #include "chrome/browser/personal_context/personal_context_eligibility_service_factory.h"
 
 #include "base/strings/string_util.h"

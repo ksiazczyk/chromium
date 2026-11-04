@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal context first run service factory implementation
+// summary: Implements the profile-keyed PersonalContextFirstRunServiceFactory, building a PersonalContextFirstRunServiceImpl for original profiles with eligibility, prefs, and identity dependencies.
+// ---
+
 #include "chrome/browser/personal_context/first_run/personal_context_first_run_service_factory.h"
 
 #include <memory>

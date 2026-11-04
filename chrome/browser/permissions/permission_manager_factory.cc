@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission manager factory implementation
+// summary: Builds the per-profile PermissionManager keyed service, wiring up permission contexts for geolocation, notifications, media, storage access and other content settings types.
+// ---
+
 #include "chrome/browser/permissions/permission_manager_factory.h"
 
 #include "build/build_config.h"

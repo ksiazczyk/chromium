@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemMediaPermissionCache unit tests
+// summary: Unit tests verifying the cache's initial indeterminate state, asynchronous refresh from thread pool checks, and fresh checks that bypass stale cached values.
+// ---
+
 #include "chrome/browser/permissions/system/system_media_permission_cache.h"
 
 #include <atomic>

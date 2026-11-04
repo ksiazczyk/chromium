@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture permission controller JNI bridge
+// summary: Android JNI bridge exposing auto picture-in-picture permission status, setting updates, and dismissal events to Java.
+// ---
+
 #include "base/android/jni_array.h"
 #include "base/android/jni_string.h"
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA helper recording picture-in-picture window duration
+// summary: Records UMA histograms of the total time spent in a picture-in-picture window whenever the window state changes.
+// ---
+
 #include "chrome/browser/picture_in_picture/picture_in_picture_window_manager_uma_helper.h"
 
 #include "base/metrics/histogram_macros.h"

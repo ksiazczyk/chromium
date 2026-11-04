@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android permission update requester
+// summary: Native counterpart of the Java PermissionUpdateRequester that triggers the Android runtime permission prompt and reports whether all permissions were granted.
+// ---
+
 #include "chrome/browser/permissions/permission_update_requester_android.h"
 
 #include "base/android/jni_array.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PEH field trial activation
+// summary: Tests that ActivateFieldTrials finalizes field trials only when the PEH sentinel file is present in the user data directory.
+// ---
+
 #include "chrome/browser/platform_experience/features.h"
 
 #include "base/feature_list.h"

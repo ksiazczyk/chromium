@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PictureInPictureWindowManager
+// summary: Tests window manager behavior with mock controllers, observers, and windows, covering tucking, disallow scopes, and UMA recording.
+// ---
+
 #include "chrome/browser/picture_in_picture/picture_in_picture_window_manager.h"
 
 #include <memory>

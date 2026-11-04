@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PEH preference registration and overrides
+// summary: Registers platform experience helper preferences and overrides them with feature flag values in local state.
+// ---
+
 #include "chrome/browser/platform_experience/prefs.h"
 
 #include "base/feature_list.h"

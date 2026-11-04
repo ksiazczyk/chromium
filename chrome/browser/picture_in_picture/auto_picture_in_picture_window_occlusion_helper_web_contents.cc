@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContents-based auto PiP occlusion helper implementation
+// summary: Implements the occlusion helper by mapping WebContents visibility changes to occlusion states for auto picture-in-picture.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_picture_in_picture_window_occlusion_helper_web_contents.h"
 
 #include "content/public/browser/web_contents.h"

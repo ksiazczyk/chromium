@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android permission update message controller header
+// summary: Declares PermissionUpdateMessageController, a WebContentsUserData that holds pending message delegates for requesting missing Android runtime permissions.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_PERMISSION_UPDATE_MESSAGE_CONTROLLER_ANDROID_H_
 #define CHROME_BROWSER_PERMISSIONS_PERMISSION_UPDATE_MESSAGE_CONTROLLER_ANDROID_H_
 

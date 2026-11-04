@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: One-time permissions tracker helper interactive UI test
+// summary: Interactive browser regression test verifying that discarding a tab during a pending navigation does not crash the one-time permissions helper.
+// ---
+
 #include "base/test/metrics/user_action_tester.h"
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/resource_coordinator/lifecycle_unit_state.mojom.h"

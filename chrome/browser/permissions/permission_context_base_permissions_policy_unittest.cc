@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission context base permissions policy tests
+// summary: Integration tests verifying that permission queries respect permissions policy settings through PermissionContextBase.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/with_feature_override.h"
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock platform handle for tests
+// summary: Declares a gmock-based PlatformHandle fake that stubs system permission queries, requests and observation for unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_SYSTEM_MOCK_PLATFORM_HANDLE_H_
 #define CHROME_BROWSER_PERMISSIONS_SYSTEM_MOCK_PLATFORM_HANDLE_H_
 

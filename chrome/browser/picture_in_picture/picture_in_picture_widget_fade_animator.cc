@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-picture widget fade animator implementation
+// summary: Implements fade-in show animations for video and document picture-in-picture windows, with cancellation support.
+// ---
+
 #include "chrome/browser/picture_in_picture/picture_in_picture_widget_fade_animator.h"
 
 #include "ui/views/widget/widget.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture tab observer helper base implementation
+// summary: Implements the base class for platform-specific auto Picture-in-Picture tab observers, running the activation callback when tab state changes.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_picture_in_picture_tab_observer_helper_base.h"
 
 AutoPictureInPictureTabObserverHelperBase::

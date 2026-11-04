@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal context first run service factory header
+// summary: Declares PersonalContextFirstRunServiceFactory, a ProfileKeyedServiceFactory exposing GetForProfile and GetInstance for the personal context first run service.
+// ---
+
 #ifndef CHROME_BROWSER_PERSONAL_CONTEXT_FIRST_RUN_PERSONAL_CONTEXT_FIRST_RUN_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PERSONAL_CONTEXT_FIRST_RUN_PERSONAL_CONTEXT_FIRST_RUN_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android permission update message delegate header
+// summary: Declares PermissionUpdateMessageDelegate, which shows message UI for missing Android runtime permissions and reports outcomes through callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_PERMISSION_UPDATE_MESSAGE_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_PERMISSIONS_PERMISSION_UPDATE_MESSAGE_DELEGATE_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission HaTS trigger unit tests
+// summary: Unit tests for the permissions prompt survey trigger helper, checking filter criteria such as action, request type, and release channel.
+// ---
+
 #include <optional>
 #include <variant>
 

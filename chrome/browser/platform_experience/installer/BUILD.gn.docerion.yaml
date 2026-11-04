@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Windows platform experience installer
+summary: Defines the installer_win source set and its unit tests for the Windows platform experience helper installer, with Chrome-branded Windows-only dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission blocked message delegate unit tests
+// summary: Unit tests for the Android permission blocked message delegate, covering quiet and loud UI behavior with mocked prompts and message dispatcher.
+// ---
+
 #include "chrome/browser/permissions/permission_blocked_message_delegate_android.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto Picture-in-Picture tab model observer helper unit tests
+// summary: Unit tests verifying the Android tab model observer helper updates activation state and ignores activation changes while a tab is being dragged.
+// ---
+
 #include "chrome/browser/picture_in_picture/auto_picture_in_picture_tab_model_observer_helper.h"
 
 #include "base/memory/raw_ptr.h"

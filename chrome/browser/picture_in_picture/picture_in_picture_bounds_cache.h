@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-Picture window bounds cache interface
+// summary: Declares a per-WebContents cache that stores recent picture-in-picture window bounds and reuses them when a site reopens a window of the same origin and size.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_BOUNDS_CACHE_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_PICTURE_IN_PICTURE_BOUNDS_CACHE_H_
 

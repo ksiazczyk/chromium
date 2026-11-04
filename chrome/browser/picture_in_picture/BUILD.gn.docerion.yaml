@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Picture-in-Picture GN build targets
+summary: GN build configuration defining the picture-in-picture source sets, platform-specific occlusion helper selection, and dependencies.

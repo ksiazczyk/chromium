@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin-keyed permission action service factory implementation
+// summary: Implements the profile-keyed factory that provides the origin-keyed permission action service for tracking permission actions during the session.
+// ---
+
 #include "chrome/browser/permissions/origin_keyed_permission_action_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

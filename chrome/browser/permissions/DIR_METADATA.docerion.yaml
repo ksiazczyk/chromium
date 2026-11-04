@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Permissions directory metadata
+summary: Declares the Chromium bug tracker component and team email for the browser permissions directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission revocation request implementation
+// summary: Revokes notification permissions for abusive or disruptive origins using Crowd Deny preload data and Safe Browsing verdicts, with exemption tracking in content settings.
+// ---
+
 #include "chrome/browser/permissions/permission_revocation_request.h"
 
 #include "base/metrics/histogram_functions.h"

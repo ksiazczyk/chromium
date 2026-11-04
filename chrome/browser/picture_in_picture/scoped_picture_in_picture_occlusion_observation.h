@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedPictureInPictureOcclusionObservation class declaration
+// summary: Declares a scoped helper that observes the picture-in-picture occlusion tracker for a widget and notifies an occlusion observer until destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_SCOPED_PICTURE_IN_PICTURE_OCCLUSION_OBSERVATION_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_SCOPED_PICTURE_IN_PICTURE_OCCLUSION_OBSERVATION_H_
 

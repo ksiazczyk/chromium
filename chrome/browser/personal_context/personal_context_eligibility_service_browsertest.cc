@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for personal context eligibility service
+// summary: Exercises PersonalContextEligibilityServiceImpl in browser tests with mock account settings and identity data for adult, underaged, and corporate users.
+// ---
+
 #include "components/personal_context/core/personal_context_eligibility_service.h"
 
 #include <memory>

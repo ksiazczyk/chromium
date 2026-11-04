@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Permissions OWNERS file
+summary: Points to the shared permissions owners list that defines approvers for changes in this directory.

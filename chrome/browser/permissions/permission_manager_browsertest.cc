@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission manager browser tests
+// summary: Browser tests for the Chrome permission manager, including a regression test for deleting an incognito profile with a service worker permission subscription.
+// ---
+
 #include "components/permissions/permission_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the picture-in-picture UMA helper
+// summary: Verifies histogram commits of picture-in-picture total time across enter, close, and repeated state changes using a test tick clock.
+// ---
+
 #include "chrome/browser/picture_in_picture/picture_in_picture_window_manager_uma_helper.h"
 
 #include "base/metrics/histogram_samples.h"

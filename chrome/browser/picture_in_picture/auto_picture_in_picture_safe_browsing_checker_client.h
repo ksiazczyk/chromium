@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Picture-in-Picture Safe Browsing checker client header
+// summary: Declares the fail-closed Safe Browsing URL safety checker client used by auto picture-in-picture.
+// ---
+
 #ifndef CHROME_BROWSER_PICTURE_IN_PICTURE_AUTO_PICTURE_IN_PICTURE_SAFE_BROWSING_CHECKER_CLIENT_H_
 #define CHROME_BROWSER_PICTURE_IN_PICTURE_AUTO_PICTURE_IN_PICTURE_SAFE_BROWSING_CHECKER_CLIENT_H_
 

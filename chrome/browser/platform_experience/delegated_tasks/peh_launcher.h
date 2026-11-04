@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PehLauncher interface
+// summary: Declares the PehLauncher interface for finding, verifying, versioning and launching the PEH binary, overridable in tests.
+// ---
+
 #ifndef CHROME_BROWSER_PLATFORM_EXPERIENCE_DELEGATED_TASKS_PEH_LAUNCHER_H_
 #define CHROME_BROWSER_PLATFORM_EXPERIENCE_DELEGATED_TASKS_PEH_LAUNCHER_H_
 

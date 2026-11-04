@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionsAiUiSelector unit tests
+// summary: Unit tests for PermissionsAiUiSelector covering prediction responses, histogram logging and quiet UI decisions.
+// ---
+
 #include "chrome/browser/permissions/prediction_service/permissions_ai_ui_selector.h"
 
 #include <algorithm>

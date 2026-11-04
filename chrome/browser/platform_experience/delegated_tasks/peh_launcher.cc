@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PehLauncher implementation
+// summary: Implements locating, trust verification, version lookup and launching of the Platform Experience Helper binary.
+// ---
+
 #include "chrome/browser/platform_experience/delegated_tasks/peh_launcher.h"
 
 #include <memory>

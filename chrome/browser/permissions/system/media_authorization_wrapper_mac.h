@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac media authorization wrapper interface
+// summary: Declares an interface wrapping AVFoundation media authorization status checks and access requests, enabling test mocking.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_SYSTEM_MEDIA_AUTHORIZATION_WRAPPER_MAC_H_
 #define CHROME_BROWSER_PERMISSIONS_SYSTEM_MEDIA_AUTHORIZATION_WRAPPER_MAC_H_
 

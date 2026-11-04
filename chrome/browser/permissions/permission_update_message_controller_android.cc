@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android permission update message controller
+// summary: Implements the controller that shows message UI for re-prompting missing Android runtime permissions for previously allowed content settings types.
+// ---
+
 #include "chrome/browser/permissions/permission_update_message_controller_android.h"
 
 #include <memory>

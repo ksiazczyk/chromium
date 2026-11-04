@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android quiet permission prompt model declaration
+// summary: Declares the struct describing Android quiet permission prompt UI labels and button behaviors, plus helpers to obtain the model and learn-more URL.
+// ---
+
 #ifndef CHROME_BROWSER_PERMISSIONS_QUIET_PERMISSION_PROMPT_MODEL_ANDROID_H_
 #define CHROME_BROWSER_PERMISSIONS_QUIET_PERMISSION_PROMPT_MODEL_ANDROID_H_
 

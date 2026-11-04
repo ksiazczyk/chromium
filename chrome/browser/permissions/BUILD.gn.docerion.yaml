@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Permissions BUILD.gn build file
+summary: Defines the permissions source set, listing its sources and build dependencies for Chrome's browser permission features.

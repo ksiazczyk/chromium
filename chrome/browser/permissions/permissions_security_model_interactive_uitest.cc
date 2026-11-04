@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permissions security model interactive UI tests
+// summary: Interactive browser tests covering Chrome's permissions security model, including blob and filesystem URLs, extension permission prompts, and quiet UI behavior.
+// ---
+
 #include <variant>
 
 #include "base/command_line.h"

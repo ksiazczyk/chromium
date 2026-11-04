@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-Picture window bounds cache implementation
+// summary: Implements a per-WebContents cache that remembers picture-in-picture window bounds so reopened windows restore their previous position and size.
+// ---
+
 #include "chrome/browser/picture_in_picture/picture_in_picture_bounds_cache.h"
 
 #include "content/public/browser/web_contents.h"
