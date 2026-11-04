@@ -1,0 +1,4 @@
+# Docerion header of file_handler_card.html.
+type: source
+title: File handler card template
+summary: HTML template and styles for the selectable file handler card showing an icon, title, description and selection visuals.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop node tests
+// summary: Tests DesktopNode construction, verifying that the desktop tree excludes back buttons and that children form a properly initialized loop of next and previous links.
+// ---
+
 GEN_INCLUDE(['../switch_access_e2e_test_base.js']);
 
 /** Test fixture for the desktop node. */

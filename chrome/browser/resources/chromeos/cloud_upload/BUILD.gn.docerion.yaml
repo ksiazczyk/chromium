@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the cloud upload WebUI
+summary: Defines the WebUI build target listing static assets, web components, TypeScript and Mojo files, dependencies and build settings.

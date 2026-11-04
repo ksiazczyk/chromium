@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome WebUI TypeScript logic
+// summary: TypeScript controller that requests a status update on load, applies cryptohome property values to page elements, and auto-reloads at a URL-specified interval.
+// ---
+
 import {addWebUiListener} from 'chrome://resources/js/cr.js';
 import {getRequiredElement} from 'chrome://resources/js/util.js';
 

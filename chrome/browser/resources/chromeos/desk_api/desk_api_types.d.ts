@@ -7,6 +7,12 @@
  * with extension.
  */
 
+// ---docerion
+// type: source
+// title: Bridge message and service worker type definitions
+// summary: Defines the request, response, sender, and service worker interfaces used by external parties to communicate with the extension.
+// ---
+
 import type {RequestType, ResponseType} from './message_type.js';
 import type {Desk, DeskApi, LaunchOptions, RemoveDeskOperands, SwitchDeskOperands, WindowProperties} from './types.js';
 

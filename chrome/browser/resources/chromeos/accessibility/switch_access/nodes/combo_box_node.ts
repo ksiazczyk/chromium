@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access combo box node
+// summary: Defines ComboBoxNode, which handles combo box interactions by incrementing and decrementing values with arrow keys and entering the group when the box expands.
+// ---
+
 import {AutomationPredicate} from '/common/automation_predicate.js';
 import {EventGenerator} from '/common/event_generator.js';
 import {KeyCode} from '/common/key_code.js';

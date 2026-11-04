@@ -1,0 +1,4 @@
+# Docerion header of fix_grd.py.
+type: script
+title: Enforce message text style in GRD files
+summary: Command-line tool that enforces message text style in .grd(p) files by removing trailing periods and unused messages.

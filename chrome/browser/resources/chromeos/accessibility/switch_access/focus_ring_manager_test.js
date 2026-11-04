@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus ring manager tests
+// summary: End-to-end tests verifying Switch Access focus ring behavior for back buttons, buttons, and groups, including primary and preview ring placement.
+// ---
+
 GEN_INCLUDE(['switch_access_e2e_test_base.js', 'test_utility.js']);
 
 /** Test fixture for the focus ring manager. */

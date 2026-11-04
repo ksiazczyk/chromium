@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install dialog element
+// summary: TypeScript custom element implementing the app-install-dialog UI, handling install, installing, installed and error states plus button actions.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_auto_img/cr_auto_img.js';
 import 'chrome://resources/cros_components/button/button.js';
 import '/strings.m.js';

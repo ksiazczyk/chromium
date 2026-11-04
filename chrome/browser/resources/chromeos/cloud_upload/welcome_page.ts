@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome page element
+// summary: Defines the custom element for the first setup page, listing required steps such as installing the Office web app and mounting ODFS.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '/strings.m.js';
 

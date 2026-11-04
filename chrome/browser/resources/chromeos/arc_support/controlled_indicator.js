@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled setting indicator component
+// summary: Implements a bubble button indicator that displays which entity controls a preference value.
+// ---
+
 cr.define('cr.ui', function() {
   /** @const */ const BubbleButton = cr.ui.BubbleButton;
 

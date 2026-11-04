@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: Crostini installer app template (app.html)
+summary: HTML template for the installer app with styles and views for the prompt, configure, installing, and error states, including username input and disk size selection.

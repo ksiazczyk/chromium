@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text navigation manager end-to-end tests
+// summary: End-to-end test fixture that verifies caret navigation and text selection actions behave correctly in editable text areas.
+// ---
+
 GEN_INCLUDE(['switch_access_e2e_test_base.js']);
 
 /** Text fixture for the text navigation manager. */

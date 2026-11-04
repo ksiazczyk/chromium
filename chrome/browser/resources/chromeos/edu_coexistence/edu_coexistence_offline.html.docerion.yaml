@@ -1,0 +1,4 @@
+# Docerion header of edu_coexistence_offline.html.
+type: source
+title: EDU Coexistence offline screen template
+summary: HTML template for the offline screen, showing a supervised user offline message with an action button inside the shared EDU Coexistence layout.

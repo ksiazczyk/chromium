@@ -1,0 +1,4 @@
+# Docerion header of office_setup_complete_page.html.
+type: source
+title: Office setup complete page template
+summary: HTML template for the page confirming OneDrive setup is complete, showing a success image and a done button.

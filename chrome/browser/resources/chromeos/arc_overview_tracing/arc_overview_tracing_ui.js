@@ -6,6 +6,12 @@
  * @fileoverview Overview Tracing UI.
  */
 
+// ---docerion
+// type: source
+// title: ARC overview tracing model views
+// summary: JavaScript that builds per-app overview cards and charts showing FPS, render quality, commit deviation, and power metrics.
+// ---
+
 /**
  * @type {Array<string>}.
  * List of available colors to be used in charts. Each model is associated with

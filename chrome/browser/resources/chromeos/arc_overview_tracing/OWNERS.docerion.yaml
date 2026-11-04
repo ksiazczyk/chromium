@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ARC overview tracing
+summary: Lists the code owners responsible for the ARC overview tracing directory.

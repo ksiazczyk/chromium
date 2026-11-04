@@ -1,0 +1,4 @@
+# Docerion header of add_supervision.html.
+type: source
+title: Add Supervision WebUI entry page
+summary: HTML entry page for the Add Supervision WebUI that loads shared styles and the add-supervision-app element.

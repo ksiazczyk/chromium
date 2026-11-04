@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Modal dialog root node
+// summary: Defines ModalDialogRootNode, which represents a group rooted at a modal dialog and sends an escape key press when Switch Access exits it.
+// ---
+
 import {EventGenerator} from '/common/event_generator.js';
 import {KeyCode} from '/common/key_code.js';
 

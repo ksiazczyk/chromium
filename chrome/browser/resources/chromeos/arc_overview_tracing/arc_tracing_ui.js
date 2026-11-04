@@ -6,6 +6,12 @@
  * @fileoverview ARC Graphics Tracing UI.
  */
 
+// ---docerion
+// type: source
+// title: ARC graphics tracing event rendering
+// summary: JavaScript that renders ARC graphics tracing models as zoomable event bands with tooltips and a detailed view.
+// ---
+
 // Namespace of SVG elements
 const svgNS = 'http://www.w3.org/2000/svg';
 

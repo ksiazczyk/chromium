@@ -1,0 +1,4 @@
+# Docerion header of office_pwa_install_page.html.
+type: source
+title: Office PWA install page template
+summary: HTML template for the page that guides users through installing the Microsoft 365 web app, with install and cancel buttons.

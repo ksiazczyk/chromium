@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access user command handler
+// summary: Maps Switch Access commands like select, next and previous to their handling functions.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 import {ActionManager} from './action_manager.js';

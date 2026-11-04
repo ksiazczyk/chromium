@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for drive_internals
+summary: Delegates code ownership for this directory to the shared file manager OWNERS file.

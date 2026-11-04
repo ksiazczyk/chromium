@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript base configuration
+summary: Extends Chromium's shared TypeScript base config and disables useDefineForClassFields for this extension.

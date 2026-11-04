@@ -6,6 +6,12 @@
  * @fileoverview Type declarations for Desk API
  */
 
+// ---docerion
+// type: source
+// title: Desk API type declarations
+// summary: Declares interfaces and callback types for desks, notifications and the Desk API used for dependency injection.
+// ---
+
 /**
  * Operands for removing desks.
  */

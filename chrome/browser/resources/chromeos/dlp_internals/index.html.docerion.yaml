@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: DLP Internals entry page
+summary: Entry HTML page titled Data Leak Prevention Policy that loads the dlp-internals-ui web component.

@@ -1,0 +1,4 @@
+# Docerion header of connect_onedrive.html.
+type: source
+title: Connect OneDrive dialog template
+summary: HTML template and styles for the OneDrive connection dialog, including install and success illustrations and an error message.

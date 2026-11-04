@@ -1,0 +1,4 @@
+# Docerion header of app_icon_resources.grd.
+type: config
+title: Chrome OS app icon badge resource definitions
+summary: GRD resource list defining scaled badge and mask images that are packaged into pak files for Chrome OS app icons.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab node tests
+// summary: E2E tests verifying tab node construction, close button discovery, drill-down grouping, and navigation between the tab, close button, and back button nodes.
+// ---
+
 GEN_INCLUDE(['../switch_access_e2e_test_base.js']);
 
 /** Test fixture for the tab node type. */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu manager
+// summary: Manages the Switch Access action menu, opening and closing it and tracking displayed actions, location, and the menu automation node.
+// ---
+
 import {ArrayUtil} from '/common/array_util.js';
 import {EventHandler} from '/common/event_handler.js';
 

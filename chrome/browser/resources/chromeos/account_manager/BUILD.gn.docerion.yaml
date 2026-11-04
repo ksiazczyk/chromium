@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Account manager WebUI build definition
+summary: GN build rules that assemble the ChromeOS account manager WebUI, listing static files, web components, TypeScript and CSS dependencies for the build_webui target.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager error screen Polymer element
+// summary: Defines the account-manager-error-screen Polymer element that displays an error icon, an error title, and body content.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';
 

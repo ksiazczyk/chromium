@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access loader
+// summary: Entry point that initializes all Switch Access components such as the navigator, action manager, and settings manager, then starts the feature.
+// ---
+
 import '/common/testing/test_import_manager.js';
 
 import {AsyncUtil} from '/common/async_util.js';

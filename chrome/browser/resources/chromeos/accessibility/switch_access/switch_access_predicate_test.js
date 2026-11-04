@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Switch Access predicate tests
+// summary: Browser tests verifying SwitchAccessPredicate behavior such as isInteresting and isActionable on sample accessibility trees.
+// ---
+
 GEN_INCLUDE(['switch_access_e2e_test_base.js']);
 
 /** Test fixture for the Switch Access predicates. */

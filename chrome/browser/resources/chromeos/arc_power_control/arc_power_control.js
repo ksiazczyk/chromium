@@ -6,6 +6,12 @@
  * @fileoverview ARC Power Control UI root element.
  */
 
+// ---docerion
+// type: source
+// title: ARC power control UI logic
+// summary: JavaScript for the ARC power control WebUI that manages power states and throttling modes and renders power, CPU and memory event bands.
+// ---
+
 /**
  * @type {Object}.
  * Currently loaded model.

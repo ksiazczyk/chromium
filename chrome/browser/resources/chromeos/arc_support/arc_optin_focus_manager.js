@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC Opt-In page focus manager
+// summary: Manages keyboard focus for the ARC Opt-In page, redirecting focus between the body and overlay pages.
+// ---
+
 /**
  * Manages focus for ARC OptIn page.
  * @constructor

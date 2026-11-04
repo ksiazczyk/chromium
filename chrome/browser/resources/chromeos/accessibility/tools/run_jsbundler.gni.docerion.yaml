@@ -1,0 +1,4 @@
+# Docerion header of run_jsbundler.gni.
+type: config
+title: GN template to run jsbundler in builds
+summary: GN template that runs jsbundler.py as a build action with configurable mode, sources, rewrite rules, and output destinations.

@@ -1,0 +1,4 @@
+# Docerion header of edu_coexistence_error.html.
+type: source
+title: EDU Coexistence error screen template
+summary: HTML template for the error screen, showing a supervised user error message with an action button inside the shared EDU Coexistence layout.

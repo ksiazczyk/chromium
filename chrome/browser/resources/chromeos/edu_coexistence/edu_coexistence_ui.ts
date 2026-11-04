@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EDU Coexistence sign-in UI element
+// summary: Polymer element that initializes the EDU Coexistence controller, hosts the sign-in webview and manages loading, error and GAIA flow states.
+// ---
+
 import './common.css.js';
 import './edu_coexistence_template.js';
 import './edu_coexistence_button.js';

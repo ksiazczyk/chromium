@@ -1,0 +1,4 @@
+# Docerion header of app_install_dialog.html.
+type: source
+title: App install dialog HTML template
+summary: HTML template with styles and markup for the ChromeOS app install dialog, covering title icons, app details, screenshots and error states.

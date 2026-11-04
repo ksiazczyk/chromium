@@ -6,6 +6,12 @@
  * @fileoverview The implementation of Notification API
  */
 
+// ---docerion
+// type: source
+// title: Notification API implementation
+// summary: Implements the Desk API notification interface by wrapping chrome.notifications create, clear and button click listener calls.
+// ---
+
 import type {ClickEventListener, NotificationApi, NotificationOptions, VoidCallback} from './types.js';
 
 /**

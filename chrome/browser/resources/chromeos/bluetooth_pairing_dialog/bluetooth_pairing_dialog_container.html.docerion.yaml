@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_pairing_dialog_container.html.
+type: source
+title: Bluetooth pairing dialog container page
+summary: Standalone container HTML page that sets ChromeOS styling variables and loads the bluetooth-pairing-dialog element for the WebUI dialog.

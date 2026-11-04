@@ -10,6 +10,12 @@
  * #include=cr-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared styles for account manager screens
+summary: Shared CSS layout and typography styles used by the account manager error and migration welcome screens.
+*/
+
 h1 {
   font-size: 2em;
   font-weight: normal;

@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: source
+title: App install WebUI main page
+summary: Entry HTML page for the app install WebUI that loads the required styles and the app-install-dialog element.

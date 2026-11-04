@@ -1,0 +1,4 @@
+# Docerion header of edu_coexistence_button.html.
+type: source
+title: Template of the edu-coexistence-button element
+summary: Polymer template rendering a cr-button with an optional icon and localized label for the flow's buttons.

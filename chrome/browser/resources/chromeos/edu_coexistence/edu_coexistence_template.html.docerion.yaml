@@ -1,0 +1,4 @@
+# Docerion header of edu_coexistence_template.html.
+type: source
+title: EDU Coexistence shared layout template
+summary: Shared HTML layout template providing a scrollable main content slot and a toggleable button footer slot for the EDU Coexistence screens.

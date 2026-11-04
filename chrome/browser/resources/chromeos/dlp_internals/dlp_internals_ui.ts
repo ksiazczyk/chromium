@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP Internals UI Polymer element
+// summary: TypeScript Polymer element that renders the DLP internals page and fetches clipboard, restriction, file and reporting data over Mojo.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_expand_button/cr_expand_button.js';
 import '//resources/ash/common/cr_elements/cr_tabs/cr_tabs.js';
 import '//resources/polymer/v3_0/iron-collapse/iron-collapse.js';

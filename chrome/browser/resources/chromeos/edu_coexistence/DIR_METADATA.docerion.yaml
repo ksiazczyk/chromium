@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Chromium metadata for the edu coexistence directory
+summary: Points to the child accounts COMMON_METADATA mixins that supply team and component metadata for this directory.

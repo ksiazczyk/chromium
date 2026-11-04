@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Desk API component extension
+summary: Defines GN targets that copy sources, compile the extension's TypeScript, bundle it with Closure, and package resources into a grit file.

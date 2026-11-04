@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EDU Coexistence shared template element
+// summary: Polymer element implementing the shared scrollable layout with a visibility toggle for the button footer, used by the EDU Coexistence screens.
+// ---
+
 import './common.css.js';
 
 import {CrScrollableMixin} from 'chrome://resources/ash/common/cr_elements/cr_scrollable_mixin.js';

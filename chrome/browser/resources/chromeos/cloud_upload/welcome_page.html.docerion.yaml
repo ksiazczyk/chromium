@@ -1,0 +1,4 @@
+# Docerion header of welcome_page.html.
+type: source
+title: Welcome page template
+summary: HTML template for the first page of the setup flow, showing the welcome title, description and get started and cancel buttons.

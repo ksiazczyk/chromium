@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App element controlling edu coexistence screens
+// summary: Polymer app element that switches between the online flow, offline and error screens based on connectivity and WebUI events.
+// ---
+
 import './common.css.js';
 import './edu_coexistence_template.js';
 import './edu_coexistence_button.js';

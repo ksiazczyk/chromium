@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bluetooth pairing dialog build configuration
+summary: GN build rules that compile the Bluetooth pairing dialog WebUI, listing its static files, TypeScript definitions and dependencies.

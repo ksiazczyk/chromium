@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload dialog controller
+// summary: Main dialog element that assembles the welcome, install, sign-in and completion pages, decides which to show and handles navigation and cancellation.
+// ---
+
 import './setup_cancel_dialog.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

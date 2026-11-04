@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App install WebUI build file
+summary: GN build configuration defining the build_webui target that compiles the ChromeOS app install dialog resources with its Mojo and TypeScript dependencies.

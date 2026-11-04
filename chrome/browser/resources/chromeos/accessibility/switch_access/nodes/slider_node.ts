@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slider node
+// summary: Defines SliderNode, which focuses sliders and simulates left and right arrow key presses to increment or decrement custom sliders unsupported by the automation API.
+// ---
+
 import {EventGenerator} from '/common/event_generator.js';
 import {KeyCode} from '/common/key_code.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account migration welcome app element
+// summary: Defines the account-migration-welcome Polymer element that shows the migration message for a user email and starts re-authentication on confirm.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '/strings.m.js';
 import './account_manager_shared.css.js';

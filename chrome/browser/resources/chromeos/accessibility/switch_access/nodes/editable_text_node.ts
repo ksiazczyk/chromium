@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access editable text node
+// summary: Implements EditableTextNode, which handles text field actions such as opening the keyboard, dictation, cursor movement, text selection and clipboard operations.
+// ---
+
 import {EventGenerator} from '/common/event_generator.js';
 import {EventHandler} from '/common/event_handler.js';
 import {KeyCode} from '/common/key_code.js';

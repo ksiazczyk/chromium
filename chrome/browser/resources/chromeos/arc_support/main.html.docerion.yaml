@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: source
+title: Main page of the ARC opt-in UI
+summary: Main HTML page that loads the UI scripts and styles and defines the terms of service, preference checkboxes and overlay markup.

@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Crostini installer entry page (index.html)
+summary: Entry HTML page for the installer WebUI that loads the app module and hosts the crostini-installer-app element.

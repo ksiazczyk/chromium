@@ -1,0 +1,4 @@
+# Docerion header of generate_message_formatting_data.gni.
+type: config
+title: GN template for message formatting data generation
+summary: GN template that wires the generate_message_formatting_data.py script into builds to produce message formatting data files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Switch Access E2E test base
+// summary: Base test fixture that configures Switch Access preferences and provides node-finding and focus-waiting helpers for end-to-end browser tests.
+// ---
+
 GEN_INCLUDE([
   '../common/testing/assert_additions.js',
   '../common/testing/e2e_test_base.js',

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigator singleton access
+// summary: Provides static access to the item and point scan manager singletons, initializing them from the desktop automation node.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 import {ItemScanManager} from './item_scan_manager.js';

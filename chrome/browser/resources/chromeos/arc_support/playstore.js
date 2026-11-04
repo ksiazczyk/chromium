@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Play Store terms script
+// summary: Script that inspects the Play Store terms document, locates its footer and language/zone select, and navigates to terms matching the requested language and country code.
+// ---
+
 /**
  * Returns the Play Store footer element that can be detected by id or class
  * name.

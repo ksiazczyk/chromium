@@ -1,0 +1,4 @@
+# Docerion header of account_manager_error.html.
+type: source
+title: Account manager error page
+summary: HTML entry page that hosts the account-manager-error element for the secondary accounts disabled error screen.

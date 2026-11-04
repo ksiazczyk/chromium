@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: Chrome URLs disabled page HTML
+summary: HTML template for the ChromeOS page shown when Chrome URL pages are disabled, rendering a disabled header, title and message with localized strings and inline styling.

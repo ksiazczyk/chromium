@@ -1,0 +1,4 @@
+# Docerion header of base_setup_page.html.
+type: source
+title: Base setup page template
+summary: HTML template and styles providing the shared dialog layout, content slots and button styling used by all setup flow pages.

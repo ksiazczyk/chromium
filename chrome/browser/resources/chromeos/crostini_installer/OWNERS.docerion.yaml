@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the Crostini installer directory
+summary: Delegates code ownership for this directory to the shared guest OS OWNERS file.

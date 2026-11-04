@@ -1,0 +1,4 @@
+# Docerion header of generate_deps.py.
+type: script
+title: Generate Closure deps.js from JavaScript files
+summary: Generates a deps.js file from a list of JavaScript files by scanning Closure-style provide and require calls.

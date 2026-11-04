@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigator interfaces
+// summary: Defines abstract interfaces for item and point navigation, specifying methods for moving focus, entering groups, and point scanning.
+// ---
+
 import type {constants} from '/common/constants.js';
 
 import type {SAChildNode, SANode, SARootNode} from './nodes/switch_access_node.js';

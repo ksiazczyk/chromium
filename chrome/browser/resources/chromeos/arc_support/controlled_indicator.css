@@ -4,6 +4,12 @@
 
 /* Controlled setting indicator and bubble. */
 
+/*docerion
+type: source
+title: Controlled setting indicator styles
+summary: Styles indicators and bubbles showing when settings are controlled by policy, extension, owner, or custodian.
+*/
+
 .controlled-setting-with-label input:disabled + span {
   color: #999;
 }

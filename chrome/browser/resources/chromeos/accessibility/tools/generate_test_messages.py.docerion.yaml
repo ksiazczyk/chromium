@@ -1,0 +1,4 @@
+# Docerion header of generate_test_messages.py.
+type: script
+title: Generate test_messages.js from extension message JSON
+summary: Generates test_messages.js from an extension message JSON file, optionally gzip-compressed, for use in tests.

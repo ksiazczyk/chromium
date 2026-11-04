@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enums for Desk API requests, responses, and events
+// summary: Defines enums for request types, response types, and desk event types used in the extension's messaging protocol.
+// ---
+
 /**
  * Enum of the Request type that will be sent to the extension.
  */

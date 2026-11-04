@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text navigation manager for Switch Access
+// summary: Manages caret movement and text selection in editable fields, supporting jumps, character, word, and line navigation for Switch Access.
+// ---
+
 import {EventGenerator} from '/common/event_generator.js';
 import {EventHandler} from '/common/event_handler.js';
 import {KeyCode} from '/common/key_code.js';

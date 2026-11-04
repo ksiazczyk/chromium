@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Overlay styles
+summary: Styles the cr.ui overlay dialog, including the shield, page layout, action areas, close button, and animations.
+*/
+
 /* The shield that overlays the background. */
 .overlay {
   -webkit-box-align: center;

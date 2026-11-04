@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager error app element
+// summary: Defines the account-manager-error Polymer element that loads error strings from loadTimeData and closes the dialog through the browser proxy.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '/strings.m.js';
 import './account_manager_shared.css.js';

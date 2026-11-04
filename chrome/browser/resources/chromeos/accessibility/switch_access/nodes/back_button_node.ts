@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access back button node
+// summary: Defines BackButtonNode, which handles the Switch Access back button behavior, including showing the back button bubble, tracking location changes and performing the select action.
+// ---
+
 import {EventHandler} from '/common/event_handler.js';
 import {RepeatedEventHandler} from '/common/repeated_event_handler.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';

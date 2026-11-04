@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Basic node tests
+// summary: End-to-end tests for the Switch Access node wrapper, covering root tree building, group detection, node equality and equivalence behavior.
+// ---
+
 GEN_INCLUDE(['../switch_access_e2e_test_base.js']);
 
 /** Test fixture for the node wrapper type. */

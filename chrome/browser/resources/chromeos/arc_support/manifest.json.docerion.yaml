@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Play Store app manifest
+summary: Chrome app manifest declaring the background script, permissions, icons, name, version and key for the Play Store support app.

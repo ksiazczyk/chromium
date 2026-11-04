@@ -1,0 +1,4 @@
+# Docerion header of file_handler_page.html.
+type: source
+title: File handler page template
+summary: HTML template and styles for the dialog where users pick their preferred office file handler, with a listbox of options and cancel and open buttons.

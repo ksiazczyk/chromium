@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Group node tests
+// summary: Tests GroupNode behavior when child nodes are removed, checking that group locations remain valid after a child's underlying automation node is cleared.
+// ---
+
 GEN_INCLUDE(['../switch_access_e2e_test_base.js']);
 
 /** Test fixture for the node wrapper type. */

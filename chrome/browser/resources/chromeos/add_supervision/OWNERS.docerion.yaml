@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for add_supervision
+summary: Delegates code ownership for this directory to the OWNERS file of the Add Supervision WebUI backend.

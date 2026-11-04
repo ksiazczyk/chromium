@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Arc input overlay OWNERS
+summary: Lists the code owners responsible for reviewing changes to the arc_input_overlay resources directory.

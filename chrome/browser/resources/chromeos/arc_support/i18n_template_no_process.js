@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deprecated i18n template engine
+// summary: Deprecated template engine that applies i18n-content, i18n-options and i18n-values attributes from load time data to the DOM.
+// ---
+
 /** @typedef {Document|DocumentFragment|Element} */
 let ProcessingRoot;
 
