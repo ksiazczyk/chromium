@@ -4,6 +4,12 @@
 
 // IWYU pragma: private, include "base/memory/raw_ptr_exclusion.h"
 
+// ---docerion
+// type: source
+// title: RAW_PTR_EXCLUSION macro for raw_ptr enforcement
+// summary: Defines the RAW_PTR_EXCLUSION macro that marks fields as excluded from raw_ptr<T> usage enforcement by the Chromium Clang plugin, disabled in official builds.
+// ---
+
 #ifndef PARTITION_ALLOC_POINTERS_RAW_PTR_EXCLUSION_H_
 #define PARTITION_ALLOC_POINTERS_RAW_PTR_EXCLUSION_H_
 

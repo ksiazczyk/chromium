@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe math shared implementation with fallback fast operations
+// summary: Header providing non-optimized fallback implementations of checked and clamped arithmetic fast operations for PartitionAlloc's safe math, selected when compiler overflow builtins are unavailable.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_NUMERICS_SAFE_MATH_SHARED_IMPL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_NUMERICS_SAFE_MATH_SHARED_IMPL_H_
 

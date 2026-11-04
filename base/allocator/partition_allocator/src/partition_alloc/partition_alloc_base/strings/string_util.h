@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String utility function declarations
+// summary: Declares FindLastOf and FindLastNotOf helpers for locating the last matching or non-matching character in a C string.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_STRINGS_STRING_UTIL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_STRINGS_STRING_UTIL_H_
 

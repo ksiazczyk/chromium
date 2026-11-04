@@ -7,6 +7,12 @@
 // optimize reasonably, even in non-official release builds. Please do not
 // change the `CHECK()` calls back to `CHECK_op()` calls.
 
+// ---docerion
+// type: source
+// title: Checked contiguous iterators for span
+// summary: Defines CheckedContiguousIterator, a bounds-checked contiguous iterator used by span, using PA_BASE_CHECK to terminate on invalid iterator operations.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_CONTAINERS_CHECKED_ITERATORS_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_CONTAINERS_CHECKED_ITERATORS_H_
 

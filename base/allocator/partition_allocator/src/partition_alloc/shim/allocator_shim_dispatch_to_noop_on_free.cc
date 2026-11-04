@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator shim no-op on free dispatch implementation
+// summary: Implements an allocator dispatch whose free functions are no-ops, inserted at shutdown to prevent hangs during process teardown.
+// ---
+
 #include "partition_alloc/shim/allocator_shim_dispatch_to_noop_on_free.h"
 
 #include <cstddef>

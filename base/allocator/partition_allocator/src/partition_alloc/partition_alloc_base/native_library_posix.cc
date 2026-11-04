@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX native library loading implementation
+// summary: Implements native library loading and symbol lookup on POSIX systems with dlopen and dlsym, including the prefer-own-symbols option.
+// ---
+
 #include "partition_alloc/partition_alloc_base/native_library.h"
 
 #include <dlfcn.h>

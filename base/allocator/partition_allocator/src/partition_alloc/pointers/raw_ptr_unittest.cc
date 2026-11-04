@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: raw_ptr unit tests
+// summary: Unit tests for raw_ptr and raw_ref covering size and trivial-copyability guarantees, unwrap semantics, dangling pointer detection, and hookable and ASan variants.
+// ---
+
 #include "partition_alloc/pointers/raw_ptr.h"
 
 #include <array>

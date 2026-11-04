@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows pseudo handle utility
+// summary: Header providing an inline IsPseudoHandle helper that detects Windows pseudo handle values such as the current process and thread handles.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_WIN_WINDOWS_HANDLE_UTIL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_WIN_WINDOWS_HANDLE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetPageSize declaration for PartitionAlloc base memory
+// summary: Declares GetPageSize, which returns the number of bytes in a memory page, noting that mincore() may use a different page size on some platforms such as iOS.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_MEMORY_PAGE_SIZE_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_MEMORY_PAGE_SIZE_H_
 

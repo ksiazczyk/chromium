@@ -12,6 +12,12 @@
 // stub.
 // See https://bugs.llvm.org/show_bug.cgi?id=45400.
 
+// ---docerion
+// type: source
+// title: x64 assembly pushing callee-saved registers for stack scanning
+// summary: Defines the PAPushAllRegistersAndIterateStack routine in inline x86-64 assembly, with Windows and SysV/macOS variants, so callee-saved registers are on the stack for conservative stack scanning.
+// ---
+
 // _WIN64 Defined as 1 when the compilation target is 64-bit ARM or x64.
 // Otherwise, undefined.
 #ifdef _WIN64

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NoDestructor unit tests
+// summary: Verifies that NoDestructor-backed statics return the same instance across calls and hold the expected values.
+// ---
+
 #include <vector>
 
 #include "partition_alloc/partition_alloc_base/compiler_specific.h"

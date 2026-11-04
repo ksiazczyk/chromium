@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protection key (pkey) support implementation
+// summary: Implements Linux and ChromeOS protection key syscall wrappers, PKRU register access, and a scope that temporarily lifts pkey write restrictions.
+// ---
+
 #include "partition_alloc/thread_isolation/pkey.h"
 
 #include "partition_alloc/buildflags.h"

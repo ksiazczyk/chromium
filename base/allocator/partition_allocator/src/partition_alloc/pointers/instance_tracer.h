@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstanceTracer header for raw_ptr owner tracking
+// summary: Declares the InstanceTracer class that assigns owner IDs to raw_ptr instances and exposes stack trace lookups for dangling references, with a no-op fallback when the buildflag is disabled.
+// ---
+
 #ifndef PARTITION_ALLOC_POINTERS_INSTANCE_TRACER_H_
 #define PARTITION_ALLOC_POINTERS_INSTANCE_TRACER_H_
 

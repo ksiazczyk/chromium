@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PA_NOTREACHED macro for unreachable code
+// summary: Defines a macro that crashes, using async-signal-safe failure reporting where available, when supposedly unreachable code paths are hit.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_NOTREACHED_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_NOTREACHED_H_
 

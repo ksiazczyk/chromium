@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GTest utility macros for DCHECK and CHECK death tests
+// summary: Header providing PA_EXPECT/ASSERT_DCHECK_DEATH, CHECK_DEATH and NOTREACHED_DEATH macros that wrap GTest death tests, with fallbacks for builds where death tests are unsupported.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_TEST_GTEST_UTIL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_TEST_GTEST_UTIL_H_
 

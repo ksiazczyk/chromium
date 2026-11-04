@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default dispatch to Apple zoned malloc
+// summary: Implements the allocator shim's default dispatch that forwards malloc, calloc, realloc, free and related calls to Apple malloc zone functions.
+// ---
+
 #include <utility>
 
 #include "partition_alloc/shim/allocator_interception_apple.h"

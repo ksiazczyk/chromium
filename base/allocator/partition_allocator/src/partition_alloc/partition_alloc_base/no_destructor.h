@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoDestructor helper for static variables
+// summary: Template wrapper that suppresses the destructor of function-local static variables with non-trivial destructors, with usage caveats and examples.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_NO_DESTRUCTOR_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_NO_DESTRUCTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shim allocation entry points for the allocator shim
+// summary: Defines inline Shim* functions that route malloc and new symbols through the allocator dispatch chain, included once by the allocator_shim*.cc files.
+// ---
+
 #ifdef PARTITION_ALLOC_SHIM_SHIM_ALLOC_FUNCTIONS_H_
 #error This header is meant to be included only once by allocator_shim*.cc
 #endif

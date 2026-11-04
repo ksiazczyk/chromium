@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: raw_ref unit tests
+// summary: Unit tests and compile-time static assertions verifying raw_ref construction, assignment, triviality, and runtime behavior against the raw_ptr implementation.
+// ---
+
 #include "partition_alloc/pointers/raw_ref.h"
 
 #include <functional>

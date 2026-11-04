@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedCFTypeRef smart pointer for CoreFoundation objects
+// summary: Defines ScopedCFTypeRef, a std::unique_ptr-like owner of CoreFoundation objects with configurable retain-on-initialization behavior.
+// ---
+
 
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_APPLE_SCOPED_CFTYPEREF_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_APPLE_SCOPED_CFTYPEREF_H_

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator shim entry point
+// summary: Routes intercepted malloc and operator new calls through the shim, selecting platform-specific symbol override headers at build time.
+// ---
+
 #include "partition_alloc/shim/allocator_shim.h"
 
 #include <unistd.h>

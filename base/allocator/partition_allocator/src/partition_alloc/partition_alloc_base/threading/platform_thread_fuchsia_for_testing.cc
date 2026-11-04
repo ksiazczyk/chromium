@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia threading support for PartitionAlloc tests
+// summary: Provides empty test threading hooks and a default thread stack size of zero for Fuchsia.
+// ---
+
 #include <pthread.h>
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log message class declarations
+// summary: Declares the LogMessage class, log severity constants, and the log message handler interface for PartitionAlloc logging.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_LOG_MESSAGE_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_LOG_MESSAGE_H_
 

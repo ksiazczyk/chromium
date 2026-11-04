@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MoveOnlyInt test helper class
+// summary: Defines a move-only integer wrapper class with comparison operators, designed for testing containers in the PartitionAlloc base tests.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_TEST_MOVE_ONLY_INT_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_TEST_MOVE_ONLY_INT_H_
 

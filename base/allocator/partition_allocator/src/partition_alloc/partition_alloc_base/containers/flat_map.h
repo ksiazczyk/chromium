@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: flat_map sorted-vector map container
+// summary: Declares flat_map, a std::map-like container backed by a sorted vector through flat_tree, offering good locality and low overhead but O(n) inserts and removals.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_CONTAINERS_FLAT_MAP_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_CONTAINERS_FLAT_MAP_H_
 

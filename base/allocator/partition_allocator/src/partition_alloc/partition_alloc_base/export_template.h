@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macros for explicit template instantiations
+// summary: Provides PA_EXPORT_TEMPLATE_DECLARE and DEFINE macros for applying component export macros to explicit template instantiations across GCC and MSVC.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_EXPORT_TEMPLATE_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_EXPORT_TEMPLATE_H_
 

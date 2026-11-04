@@ -1,0 +1,4 @@
+# Docerion header of allocator_interception_apple.mm.
+type: source
+title: Apple malloc zone interception implementation
+summary: Implements macOS allocation interception by patching default and purgeable malloc zones plus Core Foundation and Objective-C allocation paths.

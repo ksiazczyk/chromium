@@ -13,6 +13,12 @@
 // Calling convention source:
 // https://en.wikipedia.org/wiki/Calling_convention#ARM_(A64)
 
+// ---docerion
+// type: source
+// title: ARM64 assembly to push callee-saved registers for stack scanning
+// summary: Inline ARM64 assembly defining PAPushAllRegistersAndIterateStack, which pushes callee-saved registers onto the stack for conservative stack scanning in PartitionAlloc, with Apple and Windows symbol variants.
+// ---
+
 asm(
 #if defined(__APPLE__)
     ".globl _PAPushAllRegistersAndIterateStack            \n"

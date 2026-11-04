@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String utility functions implementation
+// summary: Implements FindLastOf and FindLastNotOf helpers that search a C string backwards for the last character in or not in a given set.
+// ---
+
 #include "partition_alloc/partition_alloc_base/strings/string_util.h"
 
 #include <cstring>

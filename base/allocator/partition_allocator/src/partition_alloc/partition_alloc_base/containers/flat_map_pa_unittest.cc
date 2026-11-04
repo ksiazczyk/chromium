@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for flat_map
+// summary: Gtest suite for flat_map covering constructors, move semantics, and basic operations, with most behavior exercised through the flat_tree tests.
+// ---
+
 #include <string>
 #include <string_view>
 #include <type_traits>

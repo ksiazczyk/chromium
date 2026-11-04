@@ -1,0 +1,4 @@
+# Docerion header of platform_thread_apple_for_testing.mm.
+type: source
+title: Apple threading support for PartitionAlloc tests
+summary: Implements Apple test threading helpers, initializing Foundation for multithreading and computing default pthread stack sizes.

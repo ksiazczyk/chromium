@@ -5,6 +5,12 @@
 // Its purpose is to preempt the Libc symbols for malloc/new so they call the
 // shim layer entry points.
 
+// ---docerion
+// type: source
+// title: Alloc token libc symbol overrides
+// summary: Defines __alloc_token_malloc and related symbols that preempt libc and operator new entry points to route tokenized allocations through the shim.
+// ---
+
 #ifdef PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_ALLOC_TOKEN_SYMBOLS_H_
 #error This header is meant to be included only once by allocator_shim.cc
 #endif

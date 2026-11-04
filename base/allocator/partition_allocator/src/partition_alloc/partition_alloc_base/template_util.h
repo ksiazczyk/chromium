@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template utilities for type traits
+// summary: Provides type traits and helpers including is_iterator, priority_tag for overload ordering, and an implementation of C++23 std::is_scoped_enum.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_TEMPLATE_UTIL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_TEMPLATE_UTIL_H_
 

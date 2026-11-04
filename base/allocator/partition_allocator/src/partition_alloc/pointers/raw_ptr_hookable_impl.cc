@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hookable raw_ptr hooks implementation
+// summary: Implements default no-op raw_ptr hooks plus functions to get, install, and reset the global hook set used by the hookable raw_ptr implementation.
+// ---
+
 #include "partition_alloc/pointers/raw_ptr_hookable_impl.h"
 
 #include <atomic>

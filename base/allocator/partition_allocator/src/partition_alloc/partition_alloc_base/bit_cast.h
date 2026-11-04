@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'bit_cast.h: constexpr bit-cast helper'
+// summary: Header providing a constexpr bit_cast template equivalent to C++20 std::bit_cast, restricted to trivially copyable non-pointer, non-reference types.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_BIT_CAST_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_BIT_CAST_H_
 

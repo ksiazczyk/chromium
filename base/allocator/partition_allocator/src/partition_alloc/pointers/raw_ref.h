@@ -4,6 +4,12 @@
 
 // IWYU pragma: private, include "base/memory/raw_ref.h"
 
+// ---docerion
+// type: source
+// title: raw_ref smart reference for non-null pointers
+// summary: Declares raw_ref<T>, a non-null smart reference with use-after-free protection that combines std::reference_wrapper behavior with raw_ptr safety.
+// ---
+
 #ifndef PARTITION_ALLOC_POINTERS_RAW_REF_H_
 #define PARTITION_ALLOC_POINTERS_RAW_REF_H_
 

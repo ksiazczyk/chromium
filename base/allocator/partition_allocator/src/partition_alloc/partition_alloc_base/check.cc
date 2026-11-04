@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'check.cc: check error implementation'
+// summary: Implements the CheckError classes backing CHECK, DCHECK, PCHECK and NotImplemented, logging failure details and crashing for fatal checks.
+// ---
+
 #include "partition_alloc/partition_alloc_base/check.h"
 
 #include "partition_alloc/buildflags.h"

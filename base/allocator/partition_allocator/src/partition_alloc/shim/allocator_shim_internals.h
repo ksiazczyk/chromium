@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator shim export macros and internals
+// summary: Defines the SHIM_ALWAYS_EXPORT macro and __THROW compatibility handling so shim symbols are exported correctly across platforms.
+// ---
+
 #ifndef PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_INTERNALS_H_
 #define PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_INTERNALS_H_
 

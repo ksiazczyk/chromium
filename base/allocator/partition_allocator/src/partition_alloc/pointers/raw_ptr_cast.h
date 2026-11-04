@@ -4,6 +4,12 @@
 
 // IWYU pragma: private, include "base/memory/raw_ptr_cast.h"
 
+// ---docerion
+// type: source
+// title: Explicit cast wrappers bypassing raw_ptr checks
+// summary: Provides unsafe_raw_ptr_static_cast, reinterpret_cast and bit_cast wrappers that explicitly allowlist casts which would otherwise be rejected by the clang plugin raw_ptr checks.
+// ---
+
 #ifndef PARTITION_ALLOC_POINTERS_RAW_PTR_CAST_H_
 #define PARTITION_ALLOC_POINTERS_RAW_PTR_CAST_H_
 

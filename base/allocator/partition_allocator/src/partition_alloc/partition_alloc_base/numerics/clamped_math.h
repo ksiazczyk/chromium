@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClampedNumeric saturating arithmetic header
+// summary: Public header defining the ClampedNumeric class template whose arithmetic saturates to type limits instead of reporting overflow.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_NUMERICS_CLAMPED_MATH_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_NUMERICS_CLAMPED_MATH_H_
 

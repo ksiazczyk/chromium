@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator shim API header
+// summary: Declares the allocator shim API, describing dispatch chain routing, OOM behavior configuration, and unchecked allocation functions.
+// ---
+
 #ifndef PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_H_
 #define PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_H_
 

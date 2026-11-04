@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple malloc zone function storage
+// summary: Stores and manages the original malloc zone function tables on Apple platforms so the shim can dispatch back to replaced zones.
+// ---
+
 #include "partition_alloc/shim/malloc_zone_functions_apple.h"
 
 #include <atomic>

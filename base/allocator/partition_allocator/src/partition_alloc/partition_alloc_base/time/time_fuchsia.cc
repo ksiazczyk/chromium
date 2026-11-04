@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'time_fuchsia.cc: Fuchsia Zircon clock implementation'
+// summary: Implements the time classes on Fuchsia using Zircon clocks, including zx_time and zx_duration conversions and thread runtime ticks via zx_object_get_info.
+// ---
+
 #include "partition_alloc/partition_alloc_base/time/time.h"
 
 #include <threads.h>

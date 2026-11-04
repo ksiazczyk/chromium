@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackupRefPtr raw_ptr implementation
+// summary: Implements acquire, release and dangling-report logic for the BackupRefPtr raw_ptr variant, managing refcounts and quarantine frees through PartitionAlloc slot metadata.
+// ---
+
 #include "partition_alloc/pointers/raw_ptr_backup_ref_impl.h"
 
 #include <cstdint>

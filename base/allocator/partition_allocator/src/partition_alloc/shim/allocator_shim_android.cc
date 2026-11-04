@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator shim for Android
+// summary: Android-specific allocator shim setup that overrides C++ and linker-wrapped malloc symbols and cross-checks that exceptions and memory tools are disabled.
+// ---
+
 #include "partition_alloc/shim/allocator_shim.h"
 
 #include <unistd.h>

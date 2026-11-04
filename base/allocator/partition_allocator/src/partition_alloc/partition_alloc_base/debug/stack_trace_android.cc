@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: stack_trace_android.cc
+// summary: Collects stack traces on Android via _Unwind_Backtrace and formats stack frames for logging, including .apk module offsets.
+// ---
+
 #include "partition_alloc/partition_alloc_base/debug/stack_trace.h"
 
 #include <unistd.h>

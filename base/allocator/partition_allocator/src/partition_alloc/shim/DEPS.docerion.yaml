@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS rules for allocator shim migration
+summary: Chromium DEPS rules that temporarily allow extra includes for allocator shim unit tests while the shim code is being migrated into partition_allocator.

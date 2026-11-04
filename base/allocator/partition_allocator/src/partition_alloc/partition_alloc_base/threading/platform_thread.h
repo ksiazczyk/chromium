@@ -6,6 +6,12 @@
 // the low-level platform-specific abstraction to the OS's threading interface.
 // You should instead be using a message-loop driven Thread, see thread.h.
 
+// ---docerion
+// type: source
+// title: PlatformThread interface for low-level OS threading
+// summary: Declares the PlatformThread API plus thread ID and handle types that abstract the OS threading interface across platforms.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_THREADING_PLATFORM_THREAD_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_THREADING_PLATFORM_THREAD_H_
 

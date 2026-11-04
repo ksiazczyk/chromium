@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: stack_trace_posix.cc
+// summary: Implements POSIX stack trace support, including async-signal-safe parsing of /proc maps lines and symbolized stack output for Linux and Apple platforms.
+// ---
+
 #include "partition_alloc/partition_alloc_base/debug/stack_trace.h"
 
 #include <fcntl.h>

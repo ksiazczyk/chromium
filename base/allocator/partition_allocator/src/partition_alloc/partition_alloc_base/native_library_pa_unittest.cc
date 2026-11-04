@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native library loading unit tests
+// summary: Tests that loading a nonexistent library fails and that the optional error out-parameter may be null.
+// ---
+
 #include "partition_alloc/partition_alloc_base/files/file_path.h"
 #include "partition_alloc/partition_alloc_base/native_library.h"
 #include "testing/gtest/include/gtest/gtest.h"

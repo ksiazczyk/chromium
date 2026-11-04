@@ -5,6 +5,12 @@
 // Its purpose is to preempt the Libc symbols for malloc/new so they call the
 // shim layer entry points.
 
+// ---docerion
+// type: source
+// title: Libc malloc symbol overrides for the allocator shim
+// summary: Preempts libc allocation symbols such as malloc, free, and realloc so they call the allocator shim entry points.
+// ---
+
 #ifdef PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_OVERRIDE_LIBC_SYMBOLS_H_
 #error This header is meant to be included only once by allocator_shim.cc
 #endif

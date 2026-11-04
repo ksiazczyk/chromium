@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'compiler_specific.h: compiler annotation macros'
+// summary: Header with compiler feature detection and annotation macros such as PA_NOINLINE, PA_ALWAYS_INLINE and PA_HAS_BUILTIN for Clang, GCC and MSVC.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_COMPILER_SPECIFIC_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_COMPILER_SPECIFIC_H_
 

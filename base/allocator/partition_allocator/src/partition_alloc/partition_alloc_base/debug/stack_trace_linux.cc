@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: stack_trace_linux.cc
+// summary: Provides the Linux CollectStackTrace implementation that uses frame-pointer tracing to stay async-signal safe and avoid malloc inside the allocator.
+// ---
+
 #include "partition_alloc/partition_alloc_base/debug/stack_trace.h"
 
 #include "partition_alloc/build_config.h"

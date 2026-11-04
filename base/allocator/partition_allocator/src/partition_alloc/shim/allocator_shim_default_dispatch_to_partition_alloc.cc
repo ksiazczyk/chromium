@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default dispatch to PartitionAlloc
+// summary: Implements the allocator shim's default dispatch that routes malloc-family calls into PartitionAlloc roots, including partition configuration and leak handling.
+// ---
+
 #include "partition_alloc/shim/allocator_shim_default_dispatch_to_partition_alloc.h"
 
 #include <array>

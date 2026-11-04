@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread isolation write protection implementation
+// summary: Implements write protection of thread-isolated globals and memory using pkeys or read-only pages, plus an mprotect wrapper with thread isolation.
+// ---
+
 #include "partition_alloc/thread_isolation/thread_isolation.h"
 
 #include "partition_alloc/buildflags.h"

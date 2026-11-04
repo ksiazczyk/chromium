@@ -7,3 +7,9 @@
 // If raw_ptr target's sources has only header files, no object
 // files will be generated and we will see the following error:
 // "lld_link:error: <root>: undefined symbol: _DllMainCRTStartup."
+
+// ---docerion
+// type: source
+// title: empty.cc placeholder translation unit for raw_ptr.dll
+// summary: Placeholder translation unit built with the noop raw_ptr implementation so the raw_ptr target produces object files and avoids a DllMainCRTStartup linker error.
+// ---

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TruncatingStringPrintf header for PartitionAlloc base strings
+// summary: Declares TruncatingStringPrintf, a printf-style formatter that truncates results longer than 255 characters, for PartitionAlloc's internal base strings library.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_STRINGS_STRINGPRINTF_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_STRINGS_STRINGPRINTF_H_
 

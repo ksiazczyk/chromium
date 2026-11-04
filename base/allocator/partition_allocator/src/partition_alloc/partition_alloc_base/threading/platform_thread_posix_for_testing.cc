@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX implementation of PlatformThreadForTesting
+// summary: Implements pthread-based thread creation, joining and yielding used by PartitionAlloc tests on POSIX platforms.
+// ---
+
 #include <pthread.h>
 #include <sched.h>
 #include <sys/time.h>

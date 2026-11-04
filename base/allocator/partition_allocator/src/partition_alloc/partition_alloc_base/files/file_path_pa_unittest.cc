@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilePath unit tests
+// summary: Unit tests for the FilePath class, using table-driven cases to verify path operations such as Append across Windows and POSIX path conventions.
+// ---
+
 #include <cstddef>
 #include <sstream>
 

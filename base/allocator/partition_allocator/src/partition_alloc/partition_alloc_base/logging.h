@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging macros and severity API
+// summary: Defines the PA_LOG, PA_DLOG, and PA_VLOG macro families with severity and verbosity controls for PartitionAlloc logging.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_LOGGING_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_LOGGING_H_
 

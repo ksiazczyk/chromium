@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia logging header with PA_ZX macros
+// summary: Declares the ZxLogMessage class and the PA_ZX_LOG, PA_ZX_CHECK and related macros that log Zircon errors with decoded status values.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_FUCHSIA_FUCHSIA_LOGGING_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_FUCHSIA_FUCHSIA_LOGGING_H_
 

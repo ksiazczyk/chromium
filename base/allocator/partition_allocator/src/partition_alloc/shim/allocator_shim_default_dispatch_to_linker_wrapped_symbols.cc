@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default dispatch to linker-wrapped libc symbols
+// summary: Implements the allocator shim's default dispatch that routes allocations to the real libc functions when using link-time -Wl,-wrap symbol wrapping.
+// ---
+
 #include <malloc.h>
 
 #include "partition_alloc/build_config.h"

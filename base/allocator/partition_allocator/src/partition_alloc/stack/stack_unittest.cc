@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartitionAlloc stack unit tests
+// summary: Unit tests verifying that PartitionAlloc stack iteration finds values on the stack, including unaligned and register-spilled cases.
+// ---
+
 #include "partition_alloc/stack/stack.h"
 
 #include <memory>

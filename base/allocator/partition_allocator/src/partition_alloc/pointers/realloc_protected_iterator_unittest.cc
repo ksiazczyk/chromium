@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReallocProtectedIterator unit tests
+// summary: GTest suite covering hot-path forwarding, copy and move lifecycle, no-op behavior for non-BRP backings, and quarantine behavior of the realloc protected iterator.
+// ---
+
 #include "partition_alloc/pointers/realloc_protected_iterator.h"
 
 #include <algorithm>

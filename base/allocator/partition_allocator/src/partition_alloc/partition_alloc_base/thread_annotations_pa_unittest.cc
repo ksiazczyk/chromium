@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for thread annotations
+// summary: Exercises lock acquisition and release patterns with explicit and scoped locks to validate the thread annotation macros at runtime.
+// ---
+
 #include "partition_alloc/partition_alloc_base/thread_annotations.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

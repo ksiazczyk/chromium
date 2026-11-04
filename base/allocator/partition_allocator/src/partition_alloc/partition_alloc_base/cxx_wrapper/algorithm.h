@@ -5,6 +5,12 @@
 // This is a header which wraps algorithm to avoid missing
 // libcpp_verbose_abort().
 
+// ---docerion
+// type: source
+// title: PartitionAlloc base C++ algorithm wrapper header
+// summary: Wraps the standard <algorithm> header so that on Windows component builds libc++ verbose aborts are redirected to PartitionAlloc's raw check failure handler, avoiding a libc++ DLL dependency.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_CXX_WRAPPER_ALGORITHM_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_CXX_WRAPPER_ALGORITHM_H_
 

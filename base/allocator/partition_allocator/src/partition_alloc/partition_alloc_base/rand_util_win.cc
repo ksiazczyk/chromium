@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows random bytes utility implementation
+// summary: Implements RandBytes for Windows by lazily loading ProcessPrng from bcryptprimitives.dll to generate cryptographically secure random bytes.
+// ---
+
 #include "partition_alloc/partition_alloc_base/rand_util.h"
 
 #include <windows.h>

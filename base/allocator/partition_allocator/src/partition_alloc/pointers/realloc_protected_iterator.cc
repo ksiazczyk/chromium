@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Realloc protected iterator backing slot helpers
+// summary: Implements WrapBackingSlot and UnwrapBackingSlot, which pin and release BRP-protected allocation slots backing iterators and crash if the backing was freed during iteration.
+// ---
+
 #include "partition_alloc/pointers/realloc_protected_iterator.h"
 
 #include <optional>

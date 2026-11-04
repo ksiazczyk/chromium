@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: proc_maps_linux.cc
+// summary: Reads /proc/self/maps with gate VMA handling and parses its contents into MappedMemoryRegion entries on Linux, ChromeOS, and Android.
+// ---
+
 #include "partition_alloc/partition_alloc_base/debug/proc_maps_linux.h"
 
 #include <fcntl.h>

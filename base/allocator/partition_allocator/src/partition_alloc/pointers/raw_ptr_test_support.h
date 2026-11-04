@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock matcher for counting raw_ptr counters
+// summary: Provides a GMock CountersMatch matcher and expectation struct for verifying operation counts recorded by the RawPtrCountingImplForTest implementation.
+// ---
+
 #ifndef PARTITION_ALLOC_POINTERS_RAW_PTR_TEST_SUPPORT_H_
 #define PARTITION_ALLOC_POINTERS_RAW_PTR_TEST_SUPPORT_H_
 

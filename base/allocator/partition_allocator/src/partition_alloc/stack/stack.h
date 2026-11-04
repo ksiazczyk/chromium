@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc stack visitation interface
+// summary: Declares the Stack class, StackVisitor interface, stack pointer helpers and StackTopRegistry that tracks per-thread stack tops in PartitionAlloc.
+// ---
+
 #ifndef PARTITION_ALLOC_STACK_STACK_H_
 #define PARTITION_ALLOC_STACK_STACK_H_
 

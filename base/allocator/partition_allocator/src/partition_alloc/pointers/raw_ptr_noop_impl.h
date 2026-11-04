@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op raw_ptr implementation
+// summary: Declares RawPtrNoOpImpl, a no-op raw_ptr implementation that passes pointers through unchanged without protection, used where instrumentation is disabled.
+// ---
+
 #ifndef PARTITION_ALLOC_POINTERS_RAW_PTR_NOOP_IMPL_H_
 #define PARTITION_ALLOC_POINTERS_RAW_PTR_NOOP_IMPL_H_
 

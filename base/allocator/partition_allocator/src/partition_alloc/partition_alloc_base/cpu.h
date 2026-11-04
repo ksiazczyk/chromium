@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU class header for processor feature queries
+// summary: Declares the CPU class that queries processor details such as signature, stepping, and instruction set support including SSE, AVX, MTE, BTI, and PKU.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_CPU_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_CPU_H_
 

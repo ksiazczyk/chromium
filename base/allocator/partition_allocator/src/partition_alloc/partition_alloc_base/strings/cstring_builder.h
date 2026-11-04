@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CStringBuilder class declaration
+// summary: Declares CStringBuilder, an ostringstream-like builder that writes into a fixed 256-byte stack buffer to produce C strings without heap allocation.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_STRINGS_CSTRING_BUILDER_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_STRINGS_CSTRING_BUILDER_H_
 

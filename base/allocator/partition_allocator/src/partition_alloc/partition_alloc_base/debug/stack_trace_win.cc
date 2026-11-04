@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows stack trace collection and printing
+// summary: Implements Windows-specific stack trace collection via CaptureStackBackTrace and prints stack frames with module names and offsets for PartitionAlloc's base debug utilities.
+// ---
+
 #include "partition_alloc/partition_alloc_base/debug/stack_trace.h"
 
 #include <windows.h>

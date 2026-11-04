@@ -1,0 +1,4 @@
+# Docerion header of raw_ref_nocompile.nc.
+type: test
+title: raw_ref no-compile tests
+summary: No-compile test suite asserting that raw_ref conversions may add but not remove the kMayDangle trait or other raw_ptr traits.

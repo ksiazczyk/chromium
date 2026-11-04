@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX implementation of PlatformThread
+// summary: Implements current thread ID, thread reference and sleep for POSIX platforms including Linux, Android, Apple and Fuchsia.
+// ---
+
 #include "partition_alloc/partition_alloc_base/threading/platform_thread.h"
 
 #include <pthread.h>

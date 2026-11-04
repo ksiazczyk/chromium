@@ -7,6 +7,12 @@
 // Instead, consider using a message-loop driven base::Thread, see
 // base/threading/thread.h.
 
+// ---docerion
+// type: source
+// title: PlatformThreadRef class header for thread identity checks
+// summary: Defines a lightweight PlatformThreadRef class in PartitionAlloc's base library for fast thread identity comparison and debugging, produced by PlatformThread::CurrentRef().
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_THREADING_PLATFORM_THREAD_REF_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_THREADING_PLATFORM_THREAD_REF_H_
 

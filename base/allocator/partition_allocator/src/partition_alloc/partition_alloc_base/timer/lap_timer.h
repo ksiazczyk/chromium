@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LapTimer class declaration
+// summary: Declares the LapTimer class used to compute average times per lap in perf tests, with configurable warmup laps, time limit, check interval, and a choice of thread-tick or wall-clock timing.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_TIMER_LAP_TIMER_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_TIMER_LAP_TIMER_H_
 

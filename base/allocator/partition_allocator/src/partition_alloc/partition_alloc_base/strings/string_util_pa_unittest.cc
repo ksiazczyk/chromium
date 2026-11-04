@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String utility unit tests
+// summary: Unit tests verifying FindLastOf and FindLastNotOf behavior across matching, non-matching and empty character sets.
+// ---
+
 #include "partition_alloc/build_config.h"
 #include "partition_alloc/partition_alloc_base/strings/string_util.h"
 #include "testing/gtest/include/gtest/gtest.h"

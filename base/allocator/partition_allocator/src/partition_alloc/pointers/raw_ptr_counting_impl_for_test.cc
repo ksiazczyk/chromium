@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Counter definitions for test counting raw_ptr implementation
+// summary: Defines the static operation counters for RawPtrCountingImplForTest that track wrap, release, dereference, comparison and duplication calls in tests.
+// ---
+
 #include "partition_alloc/pointers/raw_ptr_counting_impl_for_test.h"
 
 int base::test::RawPtrCountingImplForTest::wrap_raw_ptr_cnt = INT_MIN;

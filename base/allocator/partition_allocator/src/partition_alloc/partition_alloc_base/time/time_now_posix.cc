@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'time_now_posix.cc: POSIX current-time implementation'
+// summary: Implements current wall-clock, monotonic and thread CPU time on POSIX platforms other than Fuchsia and Mac, using gettimeofday and clock_gettime with safe timespec conversion.
+// ---
+
 #include <sys/time.h>
 
 #include <cstdint>

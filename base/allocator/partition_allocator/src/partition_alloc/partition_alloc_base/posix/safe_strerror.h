@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe strerror declarations for thread-safe error messages
+// summary: Declares safe, portable alternatives to strerror and strerror_r that produce null-terminated error messages without changing errno.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_POSIX_SAFE_STRERROR_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_POSIX_SAFE_STRERROR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of PlatformThread
+// summary: Implements PlatformThread for Windows, providing current thread id, ref, and handle lookups plus a Sleep loop that repeatedly calls ::Sleep to reach the requested duration.
+// ---
+
 #include "partition_alloc/partition_alloc_base/threading/platform_thread.h"
 
 #include <windows.h>

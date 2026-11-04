@@ -7,6 +7,12 @@
 // optimize reasonably, even in non-official release builds. Please do not
 // change the `CHECK()` calls back to `CHECK_op()` calls.
 
+// ---docerion
+// type: source
+// title: span non-owning contiguous view container
+// summary: Defines span, a lightweight bounds-checked non-owning view of contiguous elements intended for parameters and locals, with checks on out-of-bounds access.
+// ---
+
 #if defined(__clang__)
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wgcc-compat"

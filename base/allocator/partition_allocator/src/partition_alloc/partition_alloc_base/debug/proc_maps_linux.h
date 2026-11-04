@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: proc_maps_linux.h
+// summary: Declares the MappedMemoryRegion struct plus ReadProcMaps and ParseProcMaps, explaining the seq_file limitations of atomically reading procfs maps.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_DEBUG_PROC_MAPS_LINUX_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_DEBUG_PROC_MAPS_LINUX_H_
 

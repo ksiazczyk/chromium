@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test-only counting implementation for raw_ptr
+// summary: Test-only raw_ptr implementation extending RawPtrNoOpImpl with static counters that track wrap, unwrap, swap, and other pointer operations for verification in tests.
+// ---
+
 #ifndef PARTITION_ALLOC_POINTERS_RAW_PTR_COUNTING_IMPL_FOR_TEST_H_
 #define PARTITION_ALLOC_POINTERS_RAW_PTR_COUNTING_IMPL_FOR_TEST_H_
 

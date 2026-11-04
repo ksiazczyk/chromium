@@ -31,6 +31,12 @@
 // will only increase the system-wide timer if we're not running on battery
 // power.
 
+// ---docerion
+// type: source
+// title: 'time_win.cc: Windows clock implementation'
+// summary: Implements the time classes on Windows using FILETIME, QueryPerformanceCounter and timeGetTime, with detailed comments on timer precision trade-offs and battery-aware timer resolution.
+// ---
+
 #include "partition_alloc/partition_alloc_base/time/time.h"
 
 #include <windows.foundation.h>

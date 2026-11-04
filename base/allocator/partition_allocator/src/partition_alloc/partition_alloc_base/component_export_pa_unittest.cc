@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'component_export_pa_unittest.cc: component export tests'
+// summary: GoogleTest unit tests verifying PA_INSIDE_COMPONENT_IMPL evaluates correctly for defined, empty, zero, arbitrary and undefined component macros.
+// ---
+
 #include "partition_alloc/partition_alloc_base/component_export.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

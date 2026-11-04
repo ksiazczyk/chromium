@@ -1,0 +1,4 @@
+# Docerion header of ios_util.mm.
+type: source
+title: iOS OS version check implementation
+summary: Implements IsRunningOnOrLater by caching the current operating system version numbers from SysInfo and comparing them against the requested major, minor, and bug fix versions.

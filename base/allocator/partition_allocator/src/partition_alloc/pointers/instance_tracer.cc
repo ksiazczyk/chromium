@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstanceTracer implementation for raw_ptr owner tracking
+// summary: Implements InstanceTracer, recording owner IDs, slot counts and stack traces of raw_ptr instances so stack traces can be retrieved for dangling references.
+// ---
+
 #include "partition_alloc/pointers/instance_tracer.h"
 
 #include <atomic>

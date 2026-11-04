@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clang and GCC safe math fast ops
+// summary: Compiler-builtin fast paths for checked and clamped arithmetic using overflow builtins, dispatching to ARM assembly where available.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_NUMERICS_SAFE_MATH_CLANG_GCC_IMPL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_NUMERICS_SAFE_MATH_CLANG_GCC_IMPL_H_
 

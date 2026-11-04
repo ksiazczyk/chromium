@@ -1,0 +1,4 @@
+# Docerion header of win_handle_types_list.inc.
+type: source
+title: List of Windows handle types
+summary: Include fragment listing Windows handle types such as HDC, HKEY and HWND, expanded via the PA_WINDOWS_HANDLE_TYPE macro and intentionally lacking header guards.

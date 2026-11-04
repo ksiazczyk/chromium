@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hookable raw_ptr implementation header
+// summary: Declares the RawPtrHooks structure and RawPtrHookableImpl template that invoke installable hooks on raw_ptr operations, used for BRP-ASan instrumentation.
+// ---
+
 #ifndef PARTITION_ALLOC_POINTERS_RAW_PTR_HOOKABLE_IMPL_H_
 #define PARTITION_ALLOC_POINTERS_RAW_PTR_HOOKABLE_IMPL_H_
 

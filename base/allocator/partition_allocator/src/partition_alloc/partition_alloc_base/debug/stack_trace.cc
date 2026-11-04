@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: stack_trace.cc
+// summary: Implements shared stack tracing logic, including frame-pointer unwinding, stack scanning, stack end detection, and ARM pointer authentication stripping.
+// ---
+
 #include "partition_alloc/partition_alloc_base/debug/stack_trace.h"
 
 #include <cstdint>

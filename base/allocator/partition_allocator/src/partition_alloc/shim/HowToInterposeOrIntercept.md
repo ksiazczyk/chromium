@@ -1,3 +1,12 @@
+---
+type: guide
+title: How to interpose or intercept malloc
+summary: Explains the platform-specific techniques PartitionAlloc uses to intercept malloc calls, including link-time rewriting, weak symbol overriding, and Apple malloc zones.
+relations:
+  - documents /base/allocator/partition_allocator/src/partition_alloc/shim/allocator_shim_override_linker_wrapped_symbols.h
+  - references /base/allocator/partition_allocator/src/partition_alloc/BUILD.gn
+---
+
 # Malloc interposition / interception
 
 ## Platforms and how to interpose / intercept

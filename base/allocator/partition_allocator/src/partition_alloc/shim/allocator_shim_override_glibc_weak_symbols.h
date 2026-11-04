@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glibc weak symbol overrides for the allocator shim
+// summary: Overrides glibc weak malloc hooks and __libc allocation symbols so calls made inside glibc route through the allocator shim.
+// ---
+
 #ifdef PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_OVERRIDE_GLIBC_WEAK_SYMBOLS_H_
 #error This header is meant to be included only once by allocator_shim.cc
 #endif

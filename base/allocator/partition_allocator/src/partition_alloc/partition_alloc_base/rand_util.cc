@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Random number utility implementation
+// summary: Implements RandUint64, uniform RandGenerator, and the XorShift128+ based InsecureRandomGenerator used by PartitionAlloc.
+// ---
+
 #include "partition_alloc/partition_alloc_base/rand_util.h"
 
 #include <climits>

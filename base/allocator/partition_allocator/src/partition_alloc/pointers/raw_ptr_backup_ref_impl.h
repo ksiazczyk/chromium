@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackupRefPtr raw_ptr implementation header
+// summary: Declares the RawPtrBackupRefImpl template implementing BackupRefPtr semantics for raw_ptr, including refcounting requirements, pool checks and out-of-bounds pointer handling.
+// ---
+
 #ifndef PARTITION_ALLOC_POINTERS_RAW_PTR_BACKUP_REF_IMPL_H_
 #define PARTITION_ALLOC_POINTERS_RAW_PTR_BACKUP_REF_IMPL_H_
 

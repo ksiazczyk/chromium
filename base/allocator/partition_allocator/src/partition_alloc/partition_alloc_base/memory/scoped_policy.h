@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ownership policy enum for scoped objects
+// summary: Defines the OwnershipPolicy enum with ASSUME and RETAIN values describing whether a scoped object takes over an existing ownership claim or retains the object.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_MEMORY_SCOPED_POLICY_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_MEMORY_SCOPED_POLICY_H_
 

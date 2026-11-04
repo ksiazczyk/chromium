@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: flat_tree sorted-vector tree implementation
+// summary: Implements flat_tree, the sorted-vector backing store for flat_set and flat_map, including sorted_unique construction, lookup, and key-extraction helpers.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_CONTAINERS_FLAT_TREE_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_CONTAINERS_FLAT_TREE_H_
 
