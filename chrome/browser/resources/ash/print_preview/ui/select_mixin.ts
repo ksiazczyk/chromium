@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Select mixin for print preview settings
+// summary: Polymer mixin that debounces select changes so settings sections can process new select values without immediately regenerating the print preview.
+// ---
+
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {Debouncer, dedupingMixin, timeOut} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

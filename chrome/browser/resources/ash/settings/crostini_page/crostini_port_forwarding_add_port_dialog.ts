@@ -8,6 +8,12 @@
  * fields and clicking add.
  */
 
+// ---docerion
+// type: source
+// title: Crostini port forwarding add port dialog
+// summary: Dialog component in Chrome OS settings that lets users add a new Crostini port forwarding rule by entering port number, label, protocol and target container.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

@@ -1,0 +1,4 @@
+# Docerion header of destination_list_item_cros.html.
+type: source
+title: ChromeOS print preview destination list item template
+summary: HTML template for the ChromeOS destination list item, adding printer status text and configuration in-progress or failed messages.

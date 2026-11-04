@@ -1,0 +1,4 @@
+# Docerion header of settings_slider_row.html.
+type: source
+title: settings-slider-row template
+summary: HTML template composing a settings-row with a slotted settings-slider-v2 control and bindings for slider range and display options.

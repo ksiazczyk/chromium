@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview number settings section element
+// summary: Implements the print-preview-number-settings-section element that provides validated numeric input handling for settings such as copies.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 import './print_preview_shared.css.js';
 import './print_preview_vars.css.js';

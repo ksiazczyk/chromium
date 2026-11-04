@@ -10,6 +10,12 @@
  * #include=cr-hidden-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Destination list item shared styles
+summary: Shared CSS styles for print preview destination list items, covering layout, icon sizing and the extension indicator with dark mode support.
+*/
+
 :host {
   align-items: center;
   cursor: default;

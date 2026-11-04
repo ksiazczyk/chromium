@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings radio group element
+// summary: Defines the settings-radio-group element that wraps cr-radio-group to control a preference, with an option to defer applying the pref change.
+// ---
+
 /**
  * @fileoverview
  * `settings-radio-group` wraps cr-radio-group and set of radio-buttons that

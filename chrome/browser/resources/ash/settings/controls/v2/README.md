@@ -1,3 +1,9 @@
+---
+type: readme
+title: Settings Components V2 README
+summary: Describes the objective and usage of the Settings Components V2 library of UI components for building ChromeOS Settings pages.
+---
+
 # Settings Components V2
 
 - Contact: cros-settings@google.com

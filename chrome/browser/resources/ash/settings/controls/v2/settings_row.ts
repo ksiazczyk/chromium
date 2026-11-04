@@ -45,6 +45,12 @@
  *   </settings-row>
  */
 
+// ---docerion
+// type: source
+// title: settings-row element
+// summary: Defines the foundational settings-row component used directly or as a base for more complex row types like toggles and sliders.
+// ---
+
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 import {BaseRowMixin} from './base_row_mixin.js';

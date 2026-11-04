@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for ChromeOS Settings SWA
+summary: Defines the GN build targets, static files and web component file lists for the ChromeOS Settings web UI.

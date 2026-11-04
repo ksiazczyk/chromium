@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immutable 2D size class
+// summary: Defines an immutable Size class with width and height getters and equality comparison for two-dimensional dimensions.
+// ---
+
 export class Size {
   private width_: number;
   private height_: number;

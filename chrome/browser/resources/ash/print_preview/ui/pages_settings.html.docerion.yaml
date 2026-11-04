@@ -1,0 +1,4 @@
+# Docerion header of pages_settings.html.
+type: source
+title: Print preview pages settings template
+summary: HTML template for choosing all, odd, even or custom page ranges, with a collapsible custom range input.

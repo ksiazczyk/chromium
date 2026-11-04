@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview margin control element
+// summary: Custom element implementing an interactive margin control with positioning, textbox value handling, and measurement system support.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input_style.css.js';
 import '/strings.m.js';

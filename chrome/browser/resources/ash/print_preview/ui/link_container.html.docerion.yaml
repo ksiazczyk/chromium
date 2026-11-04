@@ -1,0 +1,4 @@
+# Docerion header of link_container.html.
+type: source
+title: Print preview link container template
+summary: Template for the link container that shows the open-system-dialog link with an icon button and throbber.

@@ -1,0 +1,4 @@
+# Docerion header of destination_dialog_cros.html.
+type: source
+title: ChromeOS print preview destination dialog template
+summary: HTML template for the ChromeOS destination dialog with print server selection, search box, destination list, printer setup assistance, and dialog buttons.

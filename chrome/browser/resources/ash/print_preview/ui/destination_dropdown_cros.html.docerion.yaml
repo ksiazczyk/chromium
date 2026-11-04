@@ -1,0 +1,4 @@
+# Docerion header of destination_dropdown_cros.html.
+type: source
+title: Print preview destination dropdown template for ChromeOS
+summary: HTML template for the ChromeOS print preview destination dropdown, defining its styling, dark mode colors, dropdown menu and accessibility attributes.

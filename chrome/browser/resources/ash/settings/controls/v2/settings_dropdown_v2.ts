@@ -26,6 +26,12 @@
  *   <settings-dropdown-v2>
  */
 
+// ---docerion
+// type: source
+// title: settings-dropdown-v2 element
+// summary: Defines the settings-dropdown-v2 dropdown element with option handling, change events, and pref support with or without a pref object.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';

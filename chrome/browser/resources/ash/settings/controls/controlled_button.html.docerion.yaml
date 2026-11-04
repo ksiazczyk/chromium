@@ -1,0 +1,4 @@
+# Docerion header of controlled_button.html.
+type: source
+title: Controlled button template
+summary: HTML template and styles for the controlled-button settings element, including layout, disabled states and the pref policy indicator.

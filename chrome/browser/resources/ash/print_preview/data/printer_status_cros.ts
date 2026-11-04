@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Printer status enums and helpers
+// summary: Defines printer status reason, severity, state and print outcome enums kept in sync with ChromeOS C++ counterparts, plus helpers to surface the most relevant status reason.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 /**

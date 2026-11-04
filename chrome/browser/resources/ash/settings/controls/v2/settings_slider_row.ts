@@ -41,6 +41,12 @@
  *   <settings-slider-row>
  */
 
+// ---docerion
+// type: source
+// title: Settings slider row component
+// summary: Defines the settings-slider-row element that wraps a settings row with a slotted settings-slider-v2 control, usable with or without prefs.
+// ---
+
 import './settings_slider_v2.js';
 import './settings_row.js';
 

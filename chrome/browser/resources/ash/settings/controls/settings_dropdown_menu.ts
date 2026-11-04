@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings dropdown menu element
+// summary: Defines the settings-dropdown-menu element that binds a select control to a preference, supporting dictionary prefs and a not-found custom option.
+// ---
+
 /**
  * 'settings-dropdown-menu' is a control for displaying options
  * in the settings.

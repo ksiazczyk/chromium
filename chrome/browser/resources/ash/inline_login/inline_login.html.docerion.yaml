@@ -1,0 +1,4 @@
+# Docerion header of inline_login.html.
+type: source
+title: Inline login page entry HTML
+summary: Entry HTML page for the inline login WebUI that loads shared styles and hosts the inline-login-app element.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time zone subpage element
+// summary: Polymer element for the timezone subpage, handling auto-detection options, geolocation warnings and dialogs, and system timezone permissions.
+// ---
+
 /**
  * @fileoverview 'timezone-subpage' is the collapsible section containing
  * time zone settings.

@@ -1,0 +1,4 @@
+# Docerion header of signin_blocked_by_policy_page.html.
+type: source
+title: Sign-in blocked by policy page template
+summary: HTML template for the signin-blocked-by-policy-page element showing an explanatory message and illustration when sign-in is blocked by policy.

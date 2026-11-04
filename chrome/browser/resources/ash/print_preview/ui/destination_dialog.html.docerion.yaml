@@ -1,0 +1,4 @@
+# Docerion header of destination_dialog.html.
+type: source
+title: Print preview destination dialog template
+summary: HTML template for the print preview destination search dialog with a search box, destination list, and manage and cancel buttons.

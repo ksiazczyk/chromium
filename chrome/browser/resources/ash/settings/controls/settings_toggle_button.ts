@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings toggle button element logic
+// summary: TypeScript for the settings-toggle-button element, a toggle that controls a supplied preference with ARIA labels, learn-more links and policy handling.
+// ---
+
 /**
  * @fileoverview
  * `settings-toggle-button` is a toggle that controls a supplied preference.

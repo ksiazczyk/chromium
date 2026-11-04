@@ -1,0 +1,4 @@
+# Docerion header of welcome_page_app.html.
+type: source
+title: Account manager welcome page template
+summary: HTML template for the Chrome OS inline login welcome dialog, showing a welcome title and body, a themed image, and a skip checkbox.

@@ -1,0 +1,4 @@
+# Docerion header of date_time_settings_card.html.
+type: source
+title: Date and time settings card template
+summary: HTML template for the date-time settings card, showing the auto-detect toggle or timezone link row, the 24-hour clock toggle, and the set date/time row.

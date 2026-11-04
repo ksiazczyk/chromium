@@ -1,0 +1,4 @@
+# Docerion header of icons.html.
+type: asset
+title: Print preview SVG icon set
+summary: Defines the iron-iconset-svg icons used across the print preview UI, including duplex, save-to-drive, and printer status variants.

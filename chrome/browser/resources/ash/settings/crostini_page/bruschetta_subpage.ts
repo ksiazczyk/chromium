@@ -8,6 +8,12 @@
  * (third-party VMs).
  */
 
+// ---docerion
+// type: source
+// title: Bruschetta subpage element
+// summary: Implements the settings subpage for managing Bruschetta third-party VMs, including mic permission confirmation and uninstall handling.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import '../settings_shared.css.js';
 import '../guest_os/guest_os_confirmation_dialog.js';

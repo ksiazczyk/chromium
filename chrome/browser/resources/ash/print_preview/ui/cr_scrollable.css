@@ -13,6 +13,12 @@
  * and bottom elements show either a border or a shadow when the cr-scrollable
  * element is scrollable in their respective directions. */
 
+/*docerion
+type: source
+title: Cr scrollable shared styles
+summary: Shared CSS classes that make an element scrollable and show borders or shadows anchored at the top and bottom when content overflows.
+*/
+
 .cr-scrollable {
   anchor-name: --cr-scrollable;
   anchor-scope: --cr-scrollable;

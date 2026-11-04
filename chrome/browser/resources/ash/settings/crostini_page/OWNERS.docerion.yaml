@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates code ownership of the crostini_page folder to the shared guest OS OWNERS file.

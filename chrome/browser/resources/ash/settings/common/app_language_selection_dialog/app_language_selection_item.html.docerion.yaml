@@ -1,0 +1,4 @@
+# Docerion header of app_language_selection_item.html.
+type: source
+title: App language selection item template
+summary: HTML template for a single language row in the app language selection dialog, showing the display text and a check icon when selected.

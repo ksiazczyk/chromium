@@ -8,6 +8,12 @@
  * settings.
  */
 
+// ---docerion
+// type: source
+// title: Date and time settings card element
+// summary: Polymer element implementing the date and time settings card, with pref bindings, deep linking, child-account handling, and navigation to the timezone subpage.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/ash/common/cr_elements/policy/cr_policy_indicator.js';
 import 'chrome://resources/ash/common/cr_elements/policy/cr_policy_pref_indicator.js';

@@ -9,6 +9,12 @@
  * user action recording.
  */
 
+// ---docerion
+// type: source
+// title: User action recording for ChromeOS Settings
+// summary: Provides functions to record user actions such as clicks, navigation, and setting changes, with a hook to inject a recorder for testing.
+// ---
+
 import type {Setting} from './mojom-webui/setting.mojom-webui.js';
 import type {SettingChangeValue, UserActionRecorderInterface} from './mojom-webui/user_action_recorder.mojom-webui.js';
 import {UserActionRecorder} from './mojom-webui/user_action_recorder.mojom-webui.js';

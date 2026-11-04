@@ -32,6 +32,12 @@
  *   <settings-dropdown-row>
  */
 
+// ---docerion
+// type: source
+// title: settings-dropdown-row element
+// summary: Defines the settings-dropdown-row component that wraps a settings-row with a dropdown control, usable with or without prefs.
+// ---
+
 import './settings_dropdown_v2.js';
 import './settings_row.js';
 

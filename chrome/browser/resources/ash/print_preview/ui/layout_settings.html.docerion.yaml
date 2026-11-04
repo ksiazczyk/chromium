@@ -1,0 +1,4 @@
+# Docerion header of layout_settings.html.
+type: source
+title: Print preview layout settings template
+summary: Template for the layout settings section offering a portrait or landscape orientation select.

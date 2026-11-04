@@ -14,6 +14,12 @@
 
 /* Common styles for Material Design settings. */
 
+/*docerion
+type: source
+title: Shared styles for ChromeOS Settings
+summary: Common Material Design styles for settings boxes, lists, toggles, buttons and links shared across the ChromeOS Settings UI.
+*/
+
 /* Prevent action-links from being selected to avoid accidental
  * selection when trying to click it. */
 a[is=action-link] {

@@ -7,6 +7,12 @@
  * `chrome/browser/resources/inline_login/inline_login_app.js`
  */
 
+// ---docerion
+// type: source
+// title: Sign-in error page element
+// summary: Implements the signin-error-page Polymer element that renders the signinError view of the inline login dialog.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://chrome-signin/account_manager_shared.css.js';
 

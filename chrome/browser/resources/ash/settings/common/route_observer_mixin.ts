@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Route observer mixin
+// summary: Polymer mixin that registers an element with the router and invokes currentRouteChanged on route changes.
+// ---
+
 import {assertNotReached} from 'chrome://resources/js/assert.js';
 import {dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

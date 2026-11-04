@@ -7,6 +7,12 @@
  * element to back-end data from the store.
  */
 
+// ---docerion
+// type: source
+// title: App Management store mixin
+// summary: Defines a Polymer StoreClient mixin that connects front-end elements to the App Management store and initializes store listeners.
+// ---
+
 import {makeStoreClientMixin} from 'chrome://resources/ash/common/cr_elements/store_client/store_client.js';
 import type {StoreClientInterface} from 'chrome://resources/ash/common/cr_elements/store_client/store_client.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local and extension destination parsers
+// summary: Parses native local printer and extension printer information into Destination objects for use by the print preview.
+// ---
+
 import {assertNotReached} from 'chrome://resources/js/assert.js';
 import {isChromeOS} from 'chrome://resources/js/platform.js';
 

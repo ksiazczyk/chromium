@@ -8,6 +8,12 @@
  * the store.
  */
 
+// ---docerion
+// type: source
+// title: App Management store
+// summary: Defines the singleton AppManagementStore and the page state types for the App Management settings page.
+// ---
+
 import type {App} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 import {createEmptyState} from 'chrome://resources/cr_components/app_management/util.js';
 import {Store} from 'chrome://resources/js/store.js';

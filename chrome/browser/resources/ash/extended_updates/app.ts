@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Extended updates app element
+// summary: Polymer element that shows the extended updates opt-in dialog, adapts to window orientation and color changes, and forwards enable, cancel and opt-in actions to the browser proxy.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';

@@ -1,0 +1,4 @@
+# Docerion header of settings_dropdown_v2.html.
+type: source
+title: settings-dropdown-v2 template
+summary: HTML template rendering a styled select element with a policy pref indicator and a repeated list of dropdown options.

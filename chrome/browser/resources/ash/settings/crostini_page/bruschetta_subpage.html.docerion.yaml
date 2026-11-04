@@ -1,0 +1,4 @@
+# Docerion header of bruschetta_subpage.html.
+type: source
+title: Bruschetta subpage template
+summary: HTML template for the Bruschetta settings subpage with shared USB devices, shared paths, microphone permission toggle and remove controls.

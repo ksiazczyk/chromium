@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview search box element
+// summary: Polymer element providing the print preview search box, turning the entered search term into a sanitized regular expression for matching.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_icons.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';

@@ -8,6 +8,12 @@
  * will be displayed.
  */
 
+// ---docerion
+// type: source
+// title: Lock screen state mixin for settings pages
+// summary: Polymer mixin that determines the current lock screen unlock type, caches PIN availability, and helps enable or disable the lock screen.
+// ---
+
 
 import type {I18nMixinInterface} from 'chrome://resources/ash/common/cr_elements/i18n_mixin.js';
 import {I18nMixin} from 'chrome://resources/ash/common/cr_elements/i18n_mixin.js';

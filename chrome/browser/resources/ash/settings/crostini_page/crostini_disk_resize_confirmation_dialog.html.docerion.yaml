@@ -1,0 +1,4 @@
+# Docerion header of crostini_disk_resize_confirmation_dialog.html.
+type: source
+title: Disk resize confirmation dialog template
+summary: HTML template for the dialog confirming a Crostini disk resize before reserving the new size.

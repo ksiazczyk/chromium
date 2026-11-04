@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview PDF plugin proxy
+// summary: TypeScript interface and implementation that wrap the PDF viewer plugin used to render print previews.
+// ---
+
 import type {PdfPlugin} from 'chrome://print/pdf/pdf_scripting_api.js';
 import {pdfCreateOutOfProcessPlugin} from 'chrome://print/pdf/pdf_scripting_api.js';
 import {assert} from 'chrome://resources/js/assert.js';

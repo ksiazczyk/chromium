@@ -1,0 +1,4 @@
+# Docerion header of crostini_disk_resize_dialog.html.
+type: source
+title: Crostini disk resize dialog template
+summary: HTML template for the Crostini disk resize dialog with a size slider and loading, unsupported, error and resizing states.

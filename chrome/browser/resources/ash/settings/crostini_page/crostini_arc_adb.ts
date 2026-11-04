@@ -7,6 +7,12 @@
  * 'crostini-arc-adb' is the ARC adb sideloading subpage for Crostini.
  */
 
+// ---docerion
+// type: source
+// title: Crostini ARC adb subpage element
+// summary: Implements the ARC adb sideloading subpage for Crostini, handling toggle state, policy restrictions and powerwash requirements.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 import 'chrome://resources/ash/common/cr_elements/policy/cr_policy_indicator.js';

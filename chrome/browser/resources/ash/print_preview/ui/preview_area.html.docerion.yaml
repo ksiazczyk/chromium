@@ -1,0 +1,4 @@
+# Docerion header of preview_area.html.
+type: source
+title: Print preview area template
+summary: HTML template for the preview area with loading overlay messages, plugin wrapper and margin control container.

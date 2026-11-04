@@ -1,0 +1,4 @@
+# Docerion header of crostini_port_forwarding_add_port_dialog.html.
+type: source
+title: Crostini add port forwarding dialog template
+summary: HTML template for the dialog to add a forwarded port with port number, protocol, container and label inputs.

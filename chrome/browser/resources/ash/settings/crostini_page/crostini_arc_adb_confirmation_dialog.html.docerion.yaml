@@ -1,0 +1,4 @@
+# Docerion header of crostini_arc_adb_confirmation_dialog.html.
+type: source
+title: ARC adb confirmation dialog template
+summary: HTML template for the dialog confirming enabling or disabling adb sideloading before a restart.

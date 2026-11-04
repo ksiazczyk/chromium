@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview destination list element
+// summary: TypeScript Polymer element that renders and filters the print preview destination list, handling search queries, loading state and list height updates.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_hidden_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';

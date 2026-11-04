@@ -1,0 +1,4 @@
+# Docerion header of duplex_settings.html.
+type: source
+title: Template for the print preview duplex settings section
+summary: HTML template for the duplex settings section with a two-sided printing checkbox and a long- or short-edge dropdown.

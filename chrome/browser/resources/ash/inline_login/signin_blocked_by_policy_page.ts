@@ -7,6 +7,12 @@
  * `chrome/browser/resources/inline_login/inline_login_app.js`
  */
 
+// ---docerion
+// type: source
+// title: Sign-in blocked by policy page element
+// summary: Implements the signin-blocked-by-policy-page Polymer element, building sanitized body text from the user email, hosted domain and device type.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://chrome-signin/account_manager_shared.css.js';
 

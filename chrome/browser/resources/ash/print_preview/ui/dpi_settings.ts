@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview DPI settings element
+// summary: Implements the print-preview-dpi-settings element that labels DPI options and resets incompatible sticky settings to the printer default.
+// ---
+
 import './print_preview_shared.css.js';
 import './settings_section.js';
 import '/strings.m.js';

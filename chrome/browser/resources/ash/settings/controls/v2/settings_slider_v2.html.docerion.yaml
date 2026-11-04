@@ -1,0 +1,4 @@
+# Docerion header of settings_slider_v2.html.
+type: source
+title: Settings slider v2 template
+summary: HTML template for the settings-slider-v2 element, styling the slider and rendering min and max labels with a policy pref indicator.

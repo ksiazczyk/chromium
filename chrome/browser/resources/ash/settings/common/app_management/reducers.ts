@@ -9,6 +9,12 @@
  * calls.
  */
 
+// ---docerion
+// type: source
+// title: App Management reducers
+// summary: Contains pure reducer functions that produce new App Management page state in response to dispatched actions.
+// ---
+
 import type {App} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 import {assertNotReached} from 'chrome://resources/js/assert.js';
 

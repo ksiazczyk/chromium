@@ -1,0 +1,4 @@
+# Docerion header of number_settings_section.html.
+type: source
+title: Print preview number settings section template
+summary: HTML template for the print preview numeric settings section, providing a validated cr-input number field with min and max bounds.

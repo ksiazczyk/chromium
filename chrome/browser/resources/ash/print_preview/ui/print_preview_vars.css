@@ -7,6 +7,12 @@
  * #import=chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Print preview CSS variables
+summary: Defines CSS custom properties for print preview layout dimensions, colors, and dark mode theming.
+*/
+
 html {
   --print-preview-row-height: 38px;
   --print-preview-sidebar-width: 384px;

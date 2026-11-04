@@ -15,6 +15,12 @@
  * visible page.
  */
 
+// ---docerion
+// type: source
+// title: Top-level page availability for ChromeOS Settings
+// summary: Single source of truth defining which top-level settings pages are available to the user, derived from the existence of their routes.
+// ---
+
 import {Section} from './mojom-webui/routes.mojom-webui.js';
 import {routes} from './router.js';
 

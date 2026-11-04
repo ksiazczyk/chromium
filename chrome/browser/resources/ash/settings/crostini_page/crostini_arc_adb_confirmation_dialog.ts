@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC adb confirmation dialog element
+// summary: Implements the confirmation dialog for enabling or disabling adb sideloading and records the resulting setting change.
+// ---
+
 /**
  * @fileoverview 'settings-crostini-arc-adb-confirmation-dialog' is a component
  * to confirm for enabling or disabling adb sideloading. After the confirmation,

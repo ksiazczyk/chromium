@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview duplex settings element
+// summary: Implements the print-preview-duplex-settings element that toggles duplex printing and selects long- or short-edge binding, honoring policies.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_hidden_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';

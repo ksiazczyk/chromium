@@ -1,0 +1,4 @@
+# Docerion header of settings_dropdown_row.html.
+type: source
+title: settings-dropdown-row template
+summary: HTML template composing a settings-row with a slotted settings-dropdown-v2 control bound to label, pref, value, and options.

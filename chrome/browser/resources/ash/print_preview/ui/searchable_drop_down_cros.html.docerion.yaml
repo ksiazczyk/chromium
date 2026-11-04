@@ -1,0 +1,4 @@
+# Docerion header of searchable_drop_down_cros.html.
+type: source
+title: Searchable drop down element template
+summary: HTML template and styles for the CrOS searchable drop-down element, defining the input field, dropdown list items and loading spinner appearance.

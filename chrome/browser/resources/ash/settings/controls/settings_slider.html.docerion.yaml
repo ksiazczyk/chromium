@@ -1,0 +1,4 @@
+# Docerion header of settings_slider.html.
+type: source
+title: Settings slider element template
+summary: HTML template for the settings-slider element, laying out the cr-slider with a policy pref indicator and min/max labels.

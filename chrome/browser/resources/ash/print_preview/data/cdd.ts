@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDD print capability types
+// summary: Defines TypeScript interfaces and enums describing printer capabilities in a Cloud Device Description (CDD), covering color, duplex, copies, media size and type, DPI, orientation and vendor capabilities.
+// ---
+
 interface OptionWithDefault {
   is_default?: boolean;
 }

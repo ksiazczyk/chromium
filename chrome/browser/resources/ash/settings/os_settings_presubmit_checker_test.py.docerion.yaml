@@ -1,0 +1,4 @@
+# Docerion header of os_settings_presubmit_checker_test.py.
+type: test
+title: Unit tests for the ChromeOS Settings presubmit checker
+summary: Unit tests verifying that the presubmit checker flags addSingletonGetter, legacy Polymer syntax and scheme-relative URLs correctly.

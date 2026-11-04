@@ -1,0 +1,4 @@
+# Docerion header of pages_per_sheet_settings.html.
+type: source
+title: Print preview pages per sheet settings template
+summary: HTML template with a select dropdown offering 1, 2, 4, 6, 9 or 16 pages per printed sheet.

@@ -1,0 +1,4 @@
+# Docerion header of extension_controlled_indicator.html.
+type: source
+title: Extension controlled indicator template
+summary: HTML template for the extension-controlled-indicator element showing the extension icon, label and manage or disable buttons.

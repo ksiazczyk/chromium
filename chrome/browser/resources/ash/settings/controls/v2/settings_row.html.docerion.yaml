@@ -1,0 +1,4 @@
+# Docerion header of settings_row.html.
+type: source
+title: settings-row template
+summary: HTML template laying out the row icon, label, sublabel, learn-more link, and a slotted control for settings rows.

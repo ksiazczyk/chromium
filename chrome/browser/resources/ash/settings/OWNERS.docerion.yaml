@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ChromeOS Settings
+summary: Lists main owners and per-file owners for reviewing OS Settings changes, including icon changes per subdirectory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advanced options settings element
+// summary: Polymer element implementing the advanced options settings section, toggling the advanced settings dialog for the selected destination.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import './advanced_settings_dialog.js';
 import './print_preview_shared.css.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inline login browser proxy
+// summary: Defines the browser proxy interface and implementation that send messages such as initialize, completeLogin and dialogClose to the inline login handler.
+// ---
+
 import type {AuthCompletedCredentials} from 'chrome://chrome-signin/gaia_auth_host/authenticator.js';
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 

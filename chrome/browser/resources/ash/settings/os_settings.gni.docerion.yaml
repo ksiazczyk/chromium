@@ -1,0 +1,4 @@
+# Docerion header of os_settings.gni.
+type: config
+title: GN import with TypeScript definition files for os-settings
+summary: GN import file listing the TypeScript definition files used when building the ChromeOS Settings WebUI, plus a branded-build dummy definition.

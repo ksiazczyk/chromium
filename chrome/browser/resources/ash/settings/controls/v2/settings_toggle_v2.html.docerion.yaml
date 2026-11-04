@@ -1,0 +1,4 @@
+# Docerion header of settings_toggle_v2.html.
+type: source
+title: Settings toggle v2 template
+summary: HTML template for the settings-toggle-v2 element, laying out a cr-toggle with a policy pref indicator.

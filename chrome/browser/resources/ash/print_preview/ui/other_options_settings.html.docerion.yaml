@@ -1,0 +1,4 @@
+# Docerion header of other_options_settings.html.
+type: source
+title: Print preview other options settings template
+summary: HTML template that renders checkboxes for header and footer, CSS backgrounds, rasterize and selection-only print options.

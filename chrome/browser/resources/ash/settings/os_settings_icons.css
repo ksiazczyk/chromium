@@ -8,6 +8,12 @@
  * #import=chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Icon styles for ChromeOS Settings icon buttons
+summary: CSS that maps cr-icon-button classes to os-settings SVG images and secondary button icon colors.
+*/
+
 cr-icon-button.icon-add-circle {
   --cr-icon-button-fill-color: var(--cros-button-icon-color-secondary);
   --cr-icon-image: url(chrome://os-settings/images/icon_add_circle.svg);

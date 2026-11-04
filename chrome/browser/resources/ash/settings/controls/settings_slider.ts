@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings slider element logic
+// summary: TypeScript for the settings-slider element that maps a cr-slider's linear UI range to real preference values, supporting ticks and scale.
+// ---
+
 /**
  * @fileoverview
  * settings-slider wraps a cr-slider. It maps the slider's values from a

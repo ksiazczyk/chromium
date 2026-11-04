@@ -7,6 +7,12 @@
  * to install and uninstall Crostini.
  */
 
+// ---docerion
+// type: source
+// title: Crostini browser proxy
+// summary: Browser proxy used by the Linux Apps settings section to install and uninstall Crostini and manage VMs, ports and disks.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 
 import {sendWithPromise} from 'chrome://resources/js/cr.js';

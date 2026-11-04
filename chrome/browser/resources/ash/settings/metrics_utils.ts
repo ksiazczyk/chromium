@@ -6,6 +6,12 @@
  * @fileoverview Utility functions for settings metrics
  */
 
+// ---docerion
+// type: source
+// title: Settings metrics utilities and pref mapping
+// summary: Utility functions and a preference-to-setting map used to record metrics for ChromeOS Settings changes.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {Setting} from './mojom-webui/setting.mojom-webui.js';

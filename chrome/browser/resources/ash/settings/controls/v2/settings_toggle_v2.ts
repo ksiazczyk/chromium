@@ -59,6 +59,12 @@
  *   <settings-toggle-v2>
  */
 
+// ---docerion
+// type: source
+// title: Settings toggle v2 component
+// summary: Defines the settings-toggle-v2 element wrapping cr-toggle, supporting pref-bound, no-set-pref and inverted usage.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import 'chrome://resources/ash/common/cr_elements/policy/cr_policy_pref_indicator.js';

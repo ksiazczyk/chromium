@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inline login app element
+// summary: Implements the inline-login-app Polymer element that manages sign-in views, the Gaia authenticator and browser proxy interactions for ChromeOS sign-in flows.
+// ---
+
 import 'chrome://resources/polymer/v3_0/paper-spinner/paper-spinner-lite.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';

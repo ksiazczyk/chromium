@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printable area model
+// summary: Defines a PrintableArea class holding the origin and size of a document page's printable area, with equality comparison.
+// ---
+
 import type {Coordinate2d} from './coordinate2d.js';
 import type {Size} from './size.js';
 

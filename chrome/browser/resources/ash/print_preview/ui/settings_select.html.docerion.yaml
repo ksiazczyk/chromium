@@ -1,0 +1,4 @@
+# Docerion header of settings_select.html.
+type: source
+title: Settings select element template
+summary: HTML template for the print preview settings select, rendering a styled dropdown of printer capability options.

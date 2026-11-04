@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview pages per sheet settings element
+// summary: Polymer element that binds the pages-per-sheet dropdown to the pagesPerSheet print setting.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';
 import './print_preview_shared.css.js';
 import './settings_section.js';

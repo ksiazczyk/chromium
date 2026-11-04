@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview scaling settings element
+// summary: Implements the print preview scaling settings section with fit-to-page, fit-to-paper and custom scale options, including a custom input field for PDFs.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';
 import 'chrome://resources/polymer/v3_0/iron-collapse/iron-collapse.js';
 import './number_settings_section.js';
