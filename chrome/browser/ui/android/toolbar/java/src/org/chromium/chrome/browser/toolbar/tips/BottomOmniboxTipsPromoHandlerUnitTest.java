@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomOmniboxTipsPromoHandlerUnitTest
+// summary: Robolectric unit tests for BottomOmniboxTipsPromoHandler covering promo data strings and resources, settings navigation on promo acceptance, and the bottom omnibox status signal.
+// ---
+
 package org.chromium.chrome.browser.toolbar.tips;
 
 import static org.junit.Assert.assertEquals;

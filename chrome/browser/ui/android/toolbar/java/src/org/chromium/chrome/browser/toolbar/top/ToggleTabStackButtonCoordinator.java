@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToggleTabStackButtonCoordinator
+// summary: Root component managing the tab switcher button on the toolbar, including tab count updates, notification dots, and user education promos.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import static org.chromium.build.NullUtil.assertNonNull;

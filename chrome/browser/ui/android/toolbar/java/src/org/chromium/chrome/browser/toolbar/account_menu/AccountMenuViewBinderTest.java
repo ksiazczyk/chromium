@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountMenuViewBinderTest
+// summary: Robolectric unit tests verifying how the account menu view binder applies properties to menu item views.
+// ---
+
 package org.chromium.chrome.browser.toolbar.account_menu;
 
 import static org.junit.Assert.assertEquals;

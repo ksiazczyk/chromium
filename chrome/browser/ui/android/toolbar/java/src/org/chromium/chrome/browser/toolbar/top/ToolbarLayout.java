@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarLayout base class
+// summary: Base layout class with shared logic for top toolbar layouts, coordinating navigation buttons, location bar and theme colors.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.content.Context;

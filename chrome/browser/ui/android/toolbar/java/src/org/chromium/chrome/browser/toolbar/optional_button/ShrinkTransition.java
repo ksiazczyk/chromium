@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShrinkTransition - scale animation for view visibility changes
+// summary: Defines a Visibility transition that animates a view's scaleX and scaleY toward 0 when disappearing and toward 1 when appearing, resetting the scale after disappear animations.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import android.animation.Animator;

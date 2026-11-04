@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionActionListAnchoredModelListTest
+// summary: Robolectric unit tests verifying anchor placeholders and synchronization between the source and anchored extension action lists.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import static org.junit.Assert.assertEquals;

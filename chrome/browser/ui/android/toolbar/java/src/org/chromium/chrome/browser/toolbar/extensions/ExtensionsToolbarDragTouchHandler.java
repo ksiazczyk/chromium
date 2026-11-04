@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions toolbar drag touch handler
+// summary: Custom DragTouchHandler that enables horizontal dragging of toolbar extension actions, animates drag elevation, and clamps icons within RecyclerView bounds.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.animation.AnimatorSet;

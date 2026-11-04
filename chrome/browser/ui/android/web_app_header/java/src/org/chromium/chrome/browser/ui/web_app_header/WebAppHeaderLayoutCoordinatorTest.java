@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppHeaderLayoutCoordinatorTest
+// summary: Robolectric unit tests for WebAppHeaderLayoutCoordinator covering header behavior, theming, and control interactions.
+// ---
+
 package org.chromium.chrome.browser.ui.web_app_header;
 
 import static org.junit.Assert.assertEquals;

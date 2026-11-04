@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Forward button OWNERS
+summary: Lists the code owners responsible for the forward button component and inherits reviewers from the parent toolbar OWNERS file.

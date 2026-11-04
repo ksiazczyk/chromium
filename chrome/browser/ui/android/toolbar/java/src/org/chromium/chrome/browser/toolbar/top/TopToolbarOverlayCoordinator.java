@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopToolbarOverlayCoordinator
+// summary: Coordinator for the composited top toolbar overlay, exposing a SceneOverlay that renders the toolbar texture during layout animations.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.content.Context;

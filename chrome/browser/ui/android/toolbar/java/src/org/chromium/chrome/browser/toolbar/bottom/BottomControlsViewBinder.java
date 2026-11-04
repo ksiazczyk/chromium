@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom controls view binder
+// summary: Binds bottom controls PropertyModel changes to the Android view and composited scene layer, updating height, offsets, visibility, padding, and shadow.
+// ---
+
 package org.chromium.chrome.browser.toolbar.bottom;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppHeaderDelegate
+// summary: Public interface for manipulating web app header state, such as disabling and re-enabling header controls via tokens.
+// ---
+
 package org.chromium.chrome.browser.ui.web_app_header;
 
 import static org.chromium.ui.util.TokenHolder.INVALID_TOKEN;

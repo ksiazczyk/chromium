@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuButtonMediator
+// summary: Mediator that listens for menu button state changes and drives the property model backing the MenuButton view, including badge, theme and visibility updates.
+// ---
+
 package org.chromium.chrome.browser.toolbar.menu_button;
 
 import static org.chromium.build.NullUtil.assertNonNull;

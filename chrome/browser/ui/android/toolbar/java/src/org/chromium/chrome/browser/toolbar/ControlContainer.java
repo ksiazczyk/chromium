@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ControlContainer
+// summary: Interface defining the responsibilities of the browser controls layout container, including toolbar initialization, progress bar info, layout params, and touch observers.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarTabController interface
+// summary: Interface defining toolbar-triggered tab actions such as stop or reload, back and forward navigation in new tabs or windows, and opening the homepage.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import org.chromium.build.annotations.NullMarked;

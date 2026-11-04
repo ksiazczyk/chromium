@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninButtonViewBinder
+// summary: Binds sign-in button property model changes to view updates such as visibility, avatar image, tint, and click listeners.
+// ---
+
 package org.chromium.chrome.browser.toolbar.signin_button;
 
 import android.view.View;

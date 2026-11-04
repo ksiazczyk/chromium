@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: ToolbarTabletUnitTest
+// summary: Robolectric unit tests for the tablet toolbar, verifying component ordering, visibility and resize behavior.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import static android.view.View.MeasureSpec.EXACTLY;

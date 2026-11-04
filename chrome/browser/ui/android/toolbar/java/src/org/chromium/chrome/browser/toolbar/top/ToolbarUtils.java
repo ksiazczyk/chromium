@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ToolbarUtils
+// summary: Utility class defining toolbar component IDs, ranked component ordering and shared helpers such as icon ripple selection.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.animation.ObjectAnimator;

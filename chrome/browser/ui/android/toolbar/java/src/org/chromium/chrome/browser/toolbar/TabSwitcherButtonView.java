@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcherButtonView
+// summary: Android button view used for the bottom toolbar tab switcher, drawing a tab switcher drawable that updates with tab count and tint.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.content.Context;

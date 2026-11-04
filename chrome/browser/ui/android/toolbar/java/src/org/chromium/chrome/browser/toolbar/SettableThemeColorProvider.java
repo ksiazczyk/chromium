@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettableThemeColorProvider
+// summary: Deprecated ThemeColorProvider that exposes the primary color and tint it is manually set to, without any tracking logic of its own.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.content.Context;

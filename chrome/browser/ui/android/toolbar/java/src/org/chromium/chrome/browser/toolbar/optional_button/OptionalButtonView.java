@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionalButtonView - animated toolbar button view
+// summary: Implements the toolbar button view that performs animated transitions between icons, including width and visibility transitions and a text bubble fallback used for CCT.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

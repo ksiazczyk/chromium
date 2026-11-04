@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Radio button group adaptive toolbar preference
+// summary: Preference showing a radio button group for selecting the adaptive toolbar button variant, tracking availability of options and recording user actions.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

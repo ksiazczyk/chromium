@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewShiftingActionBarDelegate
+// summary: Action bar delegate that shifts a toolbar view's top margin as the action bar appears and toggles the background view's visibility.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.view.View;

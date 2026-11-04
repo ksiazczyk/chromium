@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninButtonMediator
+// summary: Implements sign-in button behavior, reacting to profile, sign-in, and sync state and launching sign-in and account flows.
+// ---
+
 package org.chromium.chrome.browser.toolbar.signin_button;
 
 import static org.chromium.build.NullUtil.assertNonNull;

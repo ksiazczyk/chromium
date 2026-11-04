@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions menu properties
+// summary: Defines property model keys for the extensions menu, covering pages, zero state, pinning, and site settings visibility.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.view.View.OnClickListener;

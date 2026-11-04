@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarProgressBarAnimatingView
+// summary: Animating image view drawn over the progress bar that plays a shimmer animation when the progress bar stays static for a while.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.animation.Animator;

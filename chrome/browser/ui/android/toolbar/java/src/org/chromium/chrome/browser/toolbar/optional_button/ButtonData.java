@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ButtonData interface and ButtonSpec
+// summary: Interface for the data needed to show an optional toolbar button, including the ButtonSpec class describing rarely changing button properties.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import android.content.res.Resources;

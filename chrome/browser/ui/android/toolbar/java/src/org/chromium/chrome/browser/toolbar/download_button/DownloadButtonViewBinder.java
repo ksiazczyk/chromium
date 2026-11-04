@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadButtonViewBinder
+// summary: Binds property model changes for the download button to the corresponding view updates.
+// ---
+
 package org.chromium.chrome.browser.toolbar.download_button;
 
 import android.view.View;

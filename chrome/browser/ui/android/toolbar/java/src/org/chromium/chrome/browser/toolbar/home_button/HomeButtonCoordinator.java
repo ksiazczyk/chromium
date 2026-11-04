@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HomeButtonCoordinator
+// summary: Root MVC component for the toolbar home button that owns its long-press context menu, click handling, and theme and incognito tinting.
+// ---
+
 package org.chromium.chrome.browser.toolbar.home_button;
 
 import android.content.Context;

@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Extensions menu coordinator unit tests
+// summary: Robolectric unit tests covering the extensions menu coordinator's button behavior, menu interactions, and feature engagement.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import static org.junit.Assert.assertEquals;

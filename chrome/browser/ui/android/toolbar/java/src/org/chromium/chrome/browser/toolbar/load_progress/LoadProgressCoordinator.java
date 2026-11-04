@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadProgressCoordinator
+// summary: Coordinator for the toolbar load progress bar that owns the model, mediator and view binder and wires them together.
+// ---
+
 package org.chromium.chrome.browser.toolbar.load_progress;
 
 import org.chromium.base.supplier.NullableObservableSupplier;

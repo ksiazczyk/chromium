@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninButtonView
+// summary: Frame layout view hosting the avatar and sign-in text buttons, with workarounds for an Android view structure traversal bug.
+// ---
+
 package org.chromium.chrome.browser.toolbar.signin_button;
 
 import android.content.Context;

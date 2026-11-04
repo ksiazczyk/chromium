@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions menu mediator tests
+// summary: Robolectric unit tests for the extensions menu mediator, covering menu model updates and context menu actions.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import static org.junit.Assert.assertEquals;

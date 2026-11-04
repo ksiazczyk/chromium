@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionalButtonCoordinator
+// summary: Coordinator for the optional toolbar button that binds the mediator and view and drives icon swap, show, hide and action chip transitions.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

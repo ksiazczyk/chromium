@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MenuButtonMediator unit tests
+// summary: Robolectric unit tests verifying MenuButtonMediator behavior for badges, theme properties, visibility and fullscreen tokens.
+// ---
+
 package org.chromium.chrome.browser.toolbar.menu_button;
 
 import static org.junit.Assert.assertEquals;

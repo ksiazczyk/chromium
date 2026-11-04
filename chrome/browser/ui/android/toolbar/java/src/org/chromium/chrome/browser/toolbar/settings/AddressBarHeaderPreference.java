@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bar header preference showing toolbar position
+// summary: Android preference that renders a header above the address bar preference and updates the toolbar position image when the toolbar-anchored setting changes.
+// ---
+
 package org.chromium.chrome.browser.toolbar.settings;
 
 import android.content.Context;

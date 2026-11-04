@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom controls property keys
+// summary: Defines the writable PropertyModel keys for the bottom controls, covering view height, padding, offsets, visibility, obscuring, offset tag, and shadow.
+// ---
+
 package org.chromium.chrome.browser.toolbar.bottom;
 
 import org.chromium.build.annotations.NullMarked;

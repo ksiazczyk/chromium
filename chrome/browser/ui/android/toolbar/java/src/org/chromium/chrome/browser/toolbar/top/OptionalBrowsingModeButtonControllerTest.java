@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optional browsing mode button controller tests
+// summary: Robolectric unit tests for OptionalBrowsingModeButtonController covering optional button selection, visibility and observer handling.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import static org.junit.Assert.assertEquals;

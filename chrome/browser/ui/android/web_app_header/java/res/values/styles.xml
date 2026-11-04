@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Header button style resources
+summary: Defines an Android style for web app header buttons, setting their background, size from a theme attribute, and image scale type.
+-->
+
 <resources>
     <style name="HeaderButton">
         <item name="android:background">@drawable/default_icon_background</item>

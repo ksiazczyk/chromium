@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadProgressProperties
+// summary: Defines the property keys and completion state annotation used by the load progress bar's property model.
+// ---
+
 package org.chromium.chrome.browser.toolbar.load_progress;
 
 import androidx.annotation.IntDef;

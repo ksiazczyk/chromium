@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionalButtonViewTest - unit tests for OptionalButtonView
+// summary: Robolectric unit tests for OptionalButtonView covering transitions, transition callbacks, icon tinting, and button behavior with mocked animation checkers.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

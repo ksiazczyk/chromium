@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConstraintsCheckerTest
+// summary: Robolectric unit tests verifying ConstraintsChecker's resource request scheduling on controls unlock and its locked-state checks.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.junit.Assert.assertEquals;

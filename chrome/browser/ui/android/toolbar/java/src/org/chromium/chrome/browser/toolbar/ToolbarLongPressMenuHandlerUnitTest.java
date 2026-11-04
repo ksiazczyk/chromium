@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolbarLongPressMenuHandlerUnitTest
+// summary: Robolectric unit tests for the toolbar long press menu handler, covering menu items, clipboard copy, and feature-dependent behavior.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.junit.Assert.assertEquals;

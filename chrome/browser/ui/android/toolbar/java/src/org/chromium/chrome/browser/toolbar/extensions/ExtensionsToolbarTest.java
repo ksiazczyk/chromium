@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions toolbar end-to-end test
+// summary: End-to-end Espresso test for the extension toolbar on Desktop Android, covering menu, actions, and site permissions behavior.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import static androidx.test.espresso.Espresso.onView;

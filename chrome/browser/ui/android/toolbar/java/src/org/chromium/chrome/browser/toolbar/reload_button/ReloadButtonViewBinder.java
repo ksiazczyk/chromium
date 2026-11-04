@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reload button view binder
+// summary: Binds changes in the reload button property model to the underlying ImageButton, updating listeners, visibility, tint, padding, and other view state.
+// ---
+
 package org.chromium.chrome.browser.toolbar.reload_button;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopToolbarOverlayMediator
+// summary: Business logic driving the top toolbar's composited texture, tracking browser controls, layout state, theme color and progress bar drawing info.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.animation.TimeAnimator;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Web app header Android layout
+summary: Android layout resource for the web app header, defining back and refresh buttons, the origin label, window controls overlay toggle, extensions toolbar stub and menu button.
+-->
+
 <org.chromium.chrome.browser.ui.web_app_header.WebAppHeaderLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/web_app_header_layout"

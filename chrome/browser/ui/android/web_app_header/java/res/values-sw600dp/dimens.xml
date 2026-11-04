@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Web app header dimensions for tablet screens (sw600dp)
+summary: Android resource file defining dimension values for the web app header, such as minimum header height and button size, used on 600dp-wide tablet screens.
+-->
+
 <resources>
     <dimen name="web_app_header_min_height">40dp</dimen>
     <dimen name="header_button_size">48dp</dimen>

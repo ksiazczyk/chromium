@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadProgressRingDrawable
+// summary: Custom drawable rendering the circular download progress ring, scanning animation, and concurrent download count badge around the button icon.
+// ---
+
 package org.chromium.chrome.browser.toolbar.download_button;
 
 import android.animation.ValueAnimator;

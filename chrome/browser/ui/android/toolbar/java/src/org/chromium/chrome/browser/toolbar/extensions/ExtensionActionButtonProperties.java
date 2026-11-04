@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionButtonProperties
+// summary: Defines the property keys describing an extension action button's state, including icon, ID, draggability and listeners.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.graphics.Bitmap;

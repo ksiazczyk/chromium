@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuUiState
+// summary: Holds the UI state for decorating the main menu, covering the optional menu item state and the menu button decoration state.
+// ---
+
 package org.chromium.chrome.browser.toolbar.menu_button;
 
 import org.chromium.build.annotations.NullMarked;

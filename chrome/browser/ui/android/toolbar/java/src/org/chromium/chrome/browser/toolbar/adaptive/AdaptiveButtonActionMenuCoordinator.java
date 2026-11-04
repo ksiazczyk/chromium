@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive button action menu coordinator
+// summary: Coordinator for the adaptive toolbar button that builds the long-press popup menu or shows an anchored toast.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

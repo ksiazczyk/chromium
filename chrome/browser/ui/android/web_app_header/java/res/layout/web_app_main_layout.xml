@@ -5,6 +5,12 @@
   ~ found in the LICENSE file.
   -->
 
+<!--docerion
+type: source
+title: Web app main Android layout
+summary: Android layout resource that hosts the web app header via a ViewStub, the web app content area and a tablet find toolbar stub.
+-->
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
              android:layout_width="match_parent"
              android:layout_height="match_parent">

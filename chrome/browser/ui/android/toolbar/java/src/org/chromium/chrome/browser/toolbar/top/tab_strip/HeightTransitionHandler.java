@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeightTransitionHandler
+// summary: Manages tab strip height transitions triggered by window resizing or entering and exiting desktop windowing mode, including deferred and suppressed transitions.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top.tab_strip;
 
 import android.os.Handler;

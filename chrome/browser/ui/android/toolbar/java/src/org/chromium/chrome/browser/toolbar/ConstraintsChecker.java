@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConstraintsChecker
+// summary: Watches the browser controls constraints supplier and requests a dynamic resource capture from ViewResourceAdapter once the controls unlock.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.os.Handler;

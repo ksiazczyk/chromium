@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripTransitionCoordinator
+// summary: Coordinates tab strip visibility and height updates for the Android toolbar, requesting height transitions and observing desktop windowing app header state.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top.tab_strip;
 
 import android.content.ComponentCallbacks;

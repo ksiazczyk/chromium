@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TopToolbarOverlayMediatorTest
+// summary: Robolectric tests for the top toolbar overlay mediator, verifying offsets, visibility, theme colors and progress bar updates.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import static org.junit.Assert.assertEquals;

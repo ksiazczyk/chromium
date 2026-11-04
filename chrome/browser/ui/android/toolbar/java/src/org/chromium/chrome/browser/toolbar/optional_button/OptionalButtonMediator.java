@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionalButtonMediator
+// summary: Mediator that pushes optional button state such as button data, colors, padding and transition callbacks into the property model.
+// ---
+
 package org.chromium.chrome.browser.toolbar.optional_button;
 
 import android.content.res.ColorStateList;

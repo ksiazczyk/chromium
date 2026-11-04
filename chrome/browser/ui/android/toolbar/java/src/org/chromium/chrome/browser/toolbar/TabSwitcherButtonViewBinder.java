@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcherButtonViewBinder
+// summary: View binder that pushes tab switcher button property model changes, like tab count, listeners, tint, and enabled state, onto the Android view.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ForwardButtonCoordinator for the tablet toolbar forward button
+// summary: Root component managing the forward button on the tablet toolbar, exposing its public API, state, theming, incognito updates, and navigation popup behavior.
+// ---
+
 package org.chromium.chrome.browser.toolbar.forward_button;
 
 import android.animation.ObjectAnimator;

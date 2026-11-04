@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionListRecyclerView
+// summary: Horizontal RecyclerView for extension action buttons that hides buttons exceeding the available width and manages animations.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.content.Context;

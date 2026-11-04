@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive toolbar header preference
+// summary: Custom Android Preference that renders a styled card header for the adaptive toolbar settings page, using semantic colors and a card background.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive.settings;
 
 import android.content.Context;

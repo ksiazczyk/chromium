@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions menu view binder
+// summary: Binds extensions menu properties to views, handling page transitions, zero state, and animated layout changes.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.content.Context;

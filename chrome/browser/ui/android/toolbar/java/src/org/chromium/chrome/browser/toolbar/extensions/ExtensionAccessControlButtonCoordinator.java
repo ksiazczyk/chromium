@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionAccessControlButtonCoordinator
+// summary: Coordinator for the toolbar button that lets extensions request access to the current site, wiring the mediator and view binder.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.widget.TextView;

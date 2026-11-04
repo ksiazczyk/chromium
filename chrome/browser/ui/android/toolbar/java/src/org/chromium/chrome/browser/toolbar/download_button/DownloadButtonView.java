@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadButtonView
+// summary: Toolbar view container hosting the download button icon, its progress ring foreground, and the download count badge.
+// ---
+
 package org.chromium.chrome.browser.toolbar.download_button;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions menu mediator
+// summary: Mediator that observes extension changes and updates the extensions menu model, including site permissions and host access requests.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.content.Context;

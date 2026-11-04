@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopToolbarSceneLayer
+// summary: SceneLayer view piece of the toolbar overlay that pushes toolbar texture and progress bar properties to native rendering through JNI.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import org.jni_zero.JNINamespace;

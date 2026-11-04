@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionHoverCardProperties
+// summary: Defines the property keys for the extension action hover card model, covering title, site access, and policy text.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadProgressViewBinder
+// summary: View binder that applies property model changes to the ToolbarProgressBar view, such as start, finish and progress updates.
+// ---
+
 package org.chromium.chrome.browser.toolbar.load_progress;
 
 import org.chromium.build.annotations.NullMarked;

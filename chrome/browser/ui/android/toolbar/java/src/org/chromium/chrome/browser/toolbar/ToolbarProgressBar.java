@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarProgressBar
+// summary: Toolbar progress bar that animates loading progress smoothly and switches to an indeterminate animation when progress stalls for five seconds.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.animation.Animator;

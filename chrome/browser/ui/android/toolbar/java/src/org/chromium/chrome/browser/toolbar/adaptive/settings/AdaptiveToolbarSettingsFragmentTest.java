@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Adaptive toolbar settings fragment tests
+// summary: Robolectric tests with Mockito mocks verifying the behavior of the adaptive toolbar settings fragment, including switch state and radio button selection.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive.settings;
 
 import static org.junit.Assert.assertEquals;

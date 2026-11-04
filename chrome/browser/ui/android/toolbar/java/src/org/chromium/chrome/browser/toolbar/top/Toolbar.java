@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar
+// summary: Interface for outside packages to interact with the top toolbar, exposing location bar rects, texture capture mode, and reload button visibility.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.graphics.Rect;

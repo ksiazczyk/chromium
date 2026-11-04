@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ToolbarChildButton abstract base class
+// summary: Abstract base class for top toolbar button views, providing shared visibility handling based on available width.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.content.Context;

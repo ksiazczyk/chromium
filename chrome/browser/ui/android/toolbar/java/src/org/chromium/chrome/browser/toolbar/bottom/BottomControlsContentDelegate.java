@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom controls content delegate interface
+// summary: Interface for the bottom controls content UI, defining native initialization, destruction, scroll behavior, and background color for implementations.
+// ---
+
 package org.chromium.chrome.browser.toolbar.bottom;
 
 import androidx.annotation.ColorInt;

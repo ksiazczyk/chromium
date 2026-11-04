@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadProgressMediator
+// summary: Mediator that observes the current tab's loading state and updates the load progress bar's property model accordingly.
+// ---
+
 package org.chromium.chrome.browser.toolbar.load_progress;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

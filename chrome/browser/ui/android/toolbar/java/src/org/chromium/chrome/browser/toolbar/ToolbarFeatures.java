@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarFeatures utility class
+// summary: Utility class exposing toolbar feature and parameter checks, such as the navigation list menu, AI overlay dialog, and app header customization support.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import android.os.Build.VERSION;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar capture readiness result
+// summary: Holds whether the toolbar is ready for a capture together with the allow or block reason used for metrics reporting.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import androidx.annotation.IntDef;

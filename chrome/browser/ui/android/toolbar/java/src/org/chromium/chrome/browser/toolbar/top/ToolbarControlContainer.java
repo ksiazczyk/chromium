@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarControlContainer
+// summary: View container for the top toolbar that manages layout, progress bar, browser controls state, gestures and capture readiness.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import static org.chromium.build.NullUtil.assertNonNull;

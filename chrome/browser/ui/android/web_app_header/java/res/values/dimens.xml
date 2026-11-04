@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Web app header dimension resources
+summary: Defines Android dimension resources for the web app header, including header heights and button sizes for phone and desktop layouts.
+-->
+
 <resources>
     <dimen name="web_app_header_min_height">0dp</dimen>
     <dimen name="header_button_size">48dp</dimen>

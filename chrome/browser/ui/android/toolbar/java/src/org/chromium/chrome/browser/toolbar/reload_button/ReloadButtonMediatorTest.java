@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reload button mediator tests
+// summary: Robolectric unit tests for the reload button mediator covering reload and stop behavior, toasts, visibility, and tab state changes.
+// ---
+
 package org.chromium.chrome.browser.toolbar.reload_button;
 
 import static org.junit.Assert.assertEquals;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for web app header
+summary: Records the owning team email pwa-dev@chromium.org, the Buganizer component, and Android as the OS for this directory.

@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: IncognitoIndicatorCoordinator
+// summary: Coordinates the incognito indicator on the Android top toolbar, managing its visibility, theming, popup menu, and in-product help.
+// ---
+
 package org.chromium.chrome.browser.toolbar.incognito;
 
 import static android.view.View.GONE;

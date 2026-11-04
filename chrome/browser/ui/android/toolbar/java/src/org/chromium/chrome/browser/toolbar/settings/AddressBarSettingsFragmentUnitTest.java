@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AddressBarSettingsFragment
+// summary: Robolectric unit tests verifying AddressBarSettingsFragment behavior, including highlighted options, foldable preference state, and toolbar position persistence.
+// ---
+
 package org.chromium.chrome.browser.toolbar.settings;
 
 import static org.junit.Assert.assertEquals;

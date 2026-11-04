@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadButtonCoordinatorTest
+// summary: Robolectric unit tests covering the download button coordinator and mediator, including visibility, tinting, and state updates.
+// ---
+
 package org.chromium.chrome.browser.toolbar.download_button;
 
 import static org.junit.Assert.assertEquals;

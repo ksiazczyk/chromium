@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions menu button view binder
+// summary: Binds extensions menu button properties such as visibility and background resource to the toolbar button view.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.view.View;

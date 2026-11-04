@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions toolbar properties
+// summary: Defines writable property keys for the extensions toolbar, covering request access button visibility, count, click listener, content description, and menu button background.
+// ---
+
 package org.chromium.chrome.browser.toolbar.extensions;
 
 import android.view.View;

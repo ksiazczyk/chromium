@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone toolbar capture state token
+// summary: Stores the phone toolbar's current state so old and new states can be compared to decide whether a new bitmap capture is warranted.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.content.res.ColorStateList;

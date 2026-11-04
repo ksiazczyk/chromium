@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists the code owners for the top toolbar directory, with per-file owner rules for incognito switch and tab switcher files.
