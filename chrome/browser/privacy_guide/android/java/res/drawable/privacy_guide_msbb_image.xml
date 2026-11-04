@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Privacy guide MSBB illustration
+summary: Vector illustration with a search magnifier over a page, shown on the make searches and browsing better page.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="VectorRaster"

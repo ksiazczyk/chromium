@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Guide fragment UI tests
+// summary: Instrumentation tests for the Android Privacy Guide fragment, verifying its UI behavior, navigation, preferences and related settings with Espresso, Mockito and Chromium test utilities.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import static androidx.test.espresso.Espresso.onView;

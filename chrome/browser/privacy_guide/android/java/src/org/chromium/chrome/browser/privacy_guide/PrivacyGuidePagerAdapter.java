@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Guide pager adapter
+// summary: Creates and orders the fragments shown as privacy guide steps in the ViewPager based on which steps should be displayed.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Privacy Guide build configuration
+summary: GN build file defining the privacy_guide static library and, on Android, Java enum generation from privacy_guide.h.

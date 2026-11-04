@@ -4,6 +4,12 @@
 //
 // Sync protocol for sending reset reports.
 
+// ---docerion
+// type: source
+// title: Reset report protocol buffer definition
+// summary: Defines the protobuf message for Chrome reset reports, covering startup preferences, homepage, search engine, extensions, shortcuts, and the reset request origin.
+// ---
+
 syntax = "proto2";
 
 package reset_report;

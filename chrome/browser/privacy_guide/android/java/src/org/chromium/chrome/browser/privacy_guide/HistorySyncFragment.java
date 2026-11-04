@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistorySyncFragment
+// summary: Fragment for the History Sync step of the Privacy Guide with a switch that toggles history and tabs sync and records metrics on changes.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import static org.chromium.chrome.browser.privacy_guide.PrivacyGuideUtils.canUpdateHistorySyncValue;

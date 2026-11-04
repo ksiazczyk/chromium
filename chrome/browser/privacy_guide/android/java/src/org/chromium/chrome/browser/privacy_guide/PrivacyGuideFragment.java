@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivacyGuideFragment
+// summary: Main fragment hosting the Privacy Guide walkthrough, coordinating its step pages, ViewPager2 navigation, bottom sheet and metrics.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import static org.chromium.chrome.browser.privacy_guide.PrivacyGuideUtils.getFragmentFocusViewId;

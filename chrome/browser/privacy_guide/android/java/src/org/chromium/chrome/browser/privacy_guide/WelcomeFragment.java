@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Guide welcome page
+// summary: Fragment that inflates the welcome page of the privacy guide and adjusts the scroll view's focusability.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import android.os.Bundle;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox JNI bridge for Related Website Sets
+// summary: Java bridge exposing native Privacy Sandbox configuration to the Android UI, covering Related Website Sets data access state, policy management, and owner lookup per profile.
+// ---
+
 package org.chromium.chrome.browser.privacy_sandbox;
 
 import org.jni_zero.JniType;

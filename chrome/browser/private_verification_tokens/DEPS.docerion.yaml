@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for private verification tokens
+summary: Grants the directory include access to private verification tokens common and mojom code and to content settings browser components.

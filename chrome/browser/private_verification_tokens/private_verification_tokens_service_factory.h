@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens service factory header
+// summary: Declares the profile-keyed service factory that provides per-profile access to the private verification tokens service and global issuer config accessors.
+// ---
+
 #ifndef CHROME_BROWSER_PRIVATE_VERIFICATION_TOKENS_PRIVATE_VERIFICATION_TOKENS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PRIVATE_VERIFICATION_TOKENS_PRIVATE_VERIFICATION_TOKENS_SERVICE_FACTORY_H_
 

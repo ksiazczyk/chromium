@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookiesFragmentTest
+// summary: Robolectric tests for CookiesFragment verifying cookie controls mode, cookie settings state, and related user actions in the Privacy Guide.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import static org.junit.Assert.assertFalse;

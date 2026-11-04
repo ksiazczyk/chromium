@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MSBBFragment
+// summary: Fragment for the MSBB step of the Privacy Guide with a switch that toggles URL-keyed anonymized data collection and records metrics on changes.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import android.os.Bundle;

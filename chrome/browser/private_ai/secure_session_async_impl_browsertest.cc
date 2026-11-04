@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the async secure session implementation
+// summary: End-to-end browser tests of the async secure session Noise handshake and bidirectional encryption against a test server session.
+// ---
+
 #include "components/private_ai/secure_session_async_impl.h"
 
 #include <stdint.h>

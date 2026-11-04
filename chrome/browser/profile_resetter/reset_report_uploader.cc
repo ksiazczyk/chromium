@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reset report uploader implementation
+// summary: Uploads serialized Chrome reset reports to Google's client report endpoint, with a traffic annotation noting the user must actively consent to sending the data.
+// ---
+
 #include "chrome/browser/profile_resetter/reset_report_uploader.h"
 
 #include <string>

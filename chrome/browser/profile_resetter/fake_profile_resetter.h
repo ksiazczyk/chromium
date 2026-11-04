@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake profile resetter interface for tests
+// summary: Declares FakeProfileResetter, a test double of ProfileResetter that records how many resets were requested.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILE_RESETTER_FAKE_PROFILE_RESETTER_H_
 #define CHROME_BROWSER_PROFILE_RESETTER_FAKE_PROFILE_RESETTER_H_
 

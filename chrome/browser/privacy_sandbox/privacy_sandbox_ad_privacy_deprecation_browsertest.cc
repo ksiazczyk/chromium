@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Sandbox ad privacy deprecation browser tests
+// summary: Browser tests verifying that the ad privacy deprecation feature resets related preferences to false and redirects deprecated ad privacy settings routes to the main settings page.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

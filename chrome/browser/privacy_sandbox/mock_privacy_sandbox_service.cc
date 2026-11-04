@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Privacy Sandbox service implementation
+// summary: Implements the gmock-based MockPrivacySandboxService and a factory that builds it as a KeyedService for use in tests.
+// ---
+
 #include "chrome/browser/privacy_sandbox/mock_privacy_sandbox_service.h"
 
 #include "components/keyed_service/core/keyed_service.h"

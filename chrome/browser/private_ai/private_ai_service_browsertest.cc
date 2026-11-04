@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the private AI service
+// summary: Browser tests for the per-profile private AI service, covering token fetch behavior across account changes with a test identity environment.
+// ---
+
 #include "components/private_ai/private_ai_service.h"
 
 #include "base/base64.h"

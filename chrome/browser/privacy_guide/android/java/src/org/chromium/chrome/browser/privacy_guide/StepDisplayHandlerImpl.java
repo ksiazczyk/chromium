@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Step display handler implementation
+// summary: Computes the visibility of the history sync, Safe Browsing and cookies steps from the profile's settings and policies.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import static org.chromium.chrome.browser.privacy_guide.PrivacyGuideUtils.canUpdateHistorySyncValue;

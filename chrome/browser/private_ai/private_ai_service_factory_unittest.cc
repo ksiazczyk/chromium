@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PrivateAiServiceFactory
+// summary: Unit tests checking that the private AI service is created when the feature flag is enabled and skipped for incognito or disabled flags.
+// ---
+
 #include "chrome/browser/private_ai/private_ai_service_factory.h"
 
 #include <optional>

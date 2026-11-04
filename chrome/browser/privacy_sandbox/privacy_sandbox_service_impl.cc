@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivacySandboxServiceImpl implementation
+// summary: Implements PrivacySandboxService, managing Related Website Sets preferences, cookie-blocking state and startup UMA logging.
+// ---
+
 #include "chrome/browser/privacy_sandbox/privacy_sandbox_service_impl.h"
 
 #include <optional>

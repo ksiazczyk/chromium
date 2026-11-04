@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Triggered profile resetter factory declaration
+// summary: Declares the ProfileKeyedServiceFactory that provides per-profile access to the TriggeredProfileResetter service.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILE_RESETTER_TRIGGERED_PROFILE_RESETTER_FACTORY_H_
 #define CHROME_BROWSER_PROFILE_RESETTER_TRIGGERED_PROFILE_RESETTER_FACTORY_H_
 

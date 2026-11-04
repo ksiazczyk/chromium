@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Privacy Sandbox Android build targets
+summary: GN build file defining JNI header generation and Java library targets for the Android Privacy Sandbox bridge, including a test support library.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference for the private_ai browser directory
+summary: Delegates reviewer approval for this directory to the owners list of components/private_ai.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resettable settings snapshot class declaration
+// summary: Declares the ResettableSettingsSnapshot class that records profile settings at construction, compares snapshots, and serializes reports to protobuf.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILE_RESETTER_RESETTABLE_SETTINGS_SNAPSHOT_H_
 #define CHROME_BROWSER_PROFILE_RESETTER_RESETTABLE_SETTINGS_SNAPSHOT_H_
 

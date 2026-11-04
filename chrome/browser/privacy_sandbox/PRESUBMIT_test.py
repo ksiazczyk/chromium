@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Privacy Sandbox presubmit check tests
+# summary: Unit tests for the presubmit check that flags Android XML elements missing android:id attributes, covering no files, single, and multiple violations.
+# ---
+
 import os
 import sys
 import unittest

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for private_insights
+summary: Grants this directory permission to include headers from the components/private_insights component.

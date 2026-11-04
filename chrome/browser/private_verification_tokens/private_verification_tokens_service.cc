@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens service implementation
+// summary: Implements the browser service that fetches, stores, lists and deletes private verification tokens, including error mapping and off-the-record issuer tracking.
+// ---
+
 #include "chrome/browser/private_verification_tokens/private_verification_tokens_service.h"
 
 #include <map>

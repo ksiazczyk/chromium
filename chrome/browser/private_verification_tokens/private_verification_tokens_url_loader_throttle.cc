@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader throttle for private verification tokens
+// summary: Implements a network throttle that triggers token issuance for browser-initiated requests and attaches redemption token headers when conditions are met.
+// ---
+
 #include "chrome/browser/private_verification_tokens/private_verification_tokens_url_loader_throttle.h"
 
 #include <utility>

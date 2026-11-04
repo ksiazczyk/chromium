@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for private verification tokens
+summary: Delegates ownership review to the OWNERS file of components/private_verification_tokens.

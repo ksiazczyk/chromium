@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake profile resetter implementation for tests
+// summary: Implements a test fake of ProfileResetter that counts reset invocations and immediately runs the completion callback.
+// ---
+
 #include "chrome/browser/profile_resetter/fake_profile_resetter.h"
 
 #include "build/build_config.h"

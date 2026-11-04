@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Privacy guide tablet dimens resource
+summary: Defines the bottom bar vertical margin dimension used by the Android privacy guide UI on tablet-sized (sw600dp) screens.
+-->
+
 <resources>
     <dimen name="bottom_bar_marginVertical">16dp</dimen>
 </resources>

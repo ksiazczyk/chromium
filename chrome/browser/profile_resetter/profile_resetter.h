@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileResetter class header
+// summary: Declares the ProfileResetter class with Resettable flags for restoring profile settings damaged by malware or bad user settings, including ChromeOS-specific resets.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILE_RESETTER_PROFILE_RESETTER_H_
 #define CHROME_BROWSER_PROFILE_RESETTER_PROFILE_RESETTER_H_
 

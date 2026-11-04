@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrivacySandboxServiceImpl unit tests
+// summary: Tests PrivacySandboxServiceImpl behavior, covering Related Website Sets preferences and first-party-sets state metrics.
+// ---
+
 #include "chrome/browser/privacy_sandbox/privacy_sandbox_service_impl.h"
 
 #include <memory>

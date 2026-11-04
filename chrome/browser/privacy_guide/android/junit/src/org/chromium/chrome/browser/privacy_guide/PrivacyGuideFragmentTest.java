@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrivacyGuideFragmentTest
+// summary: Robolectric tests for PrivacyGuideFragment covering step navigation and interactions with the various privacy settings bridges.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import static org.junit.Assert.assertEquals;

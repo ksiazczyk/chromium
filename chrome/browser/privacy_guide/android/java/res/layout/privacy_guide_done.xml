@@ -4,6 +4,13 @@ Copyright 2022 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Privacy Guide done step layout
+summary: Android layout for the Privacy Guide completion screen with a done illustration, title, description and a web and app activity link button.
+-->
+
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"

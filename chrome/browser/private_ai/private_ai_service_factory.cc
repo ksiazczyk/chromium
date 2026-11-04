@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the PrivateAiServiceFactory keyed service factory
+// summary: Implements the profile-keyed factory that builds PrivateAiService with network and Oak session drivers, blind sign auth, and channel gating.
+// ---
+
 #include "chrome/browser/private_ai/private_ai_service_factory.h"
 
 #include <optional>

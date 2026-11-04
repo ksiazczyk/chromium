@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the PrivateAiServiceFactory keyed service factory
+// summary: Declares the PrivateAiServiceFactory keyed service factory and helpers for obtaining the service and network context getters.
+// ---
+
 #ifndef CHROME_BROWSER_PRIVATE_AI_PRIVATE_AI_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PRIVATE_AI_PRIVATE_AI_SERVICE_FACTORY_H_
 

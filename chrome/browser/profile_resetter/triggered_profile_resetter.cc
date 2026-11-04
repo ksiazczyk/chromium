@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Triggered profile resetter base implementation
+// summary: Implements the platform-independent parts of the TriggeredProfileResetter service, including trigger state accessors and tool name retrieval.
+// ---
+
 #include "chrome/browser/profile_resetter/triggered_profile_resetter.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Privacy Guide code owners
+summary: Lists the directory owners and delegates per-file ownership for cookies fragments and privacy_guide.h to the privacy sandbox team.

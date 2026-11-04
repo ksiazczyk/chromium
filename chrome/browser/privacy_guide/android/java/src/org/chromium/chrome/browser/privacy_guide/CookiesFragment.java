@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookiesFragment
+// summary: Fragment controlling the Cookies step of the Android Privacy Guide, letting users allow or block third-party cookies and recording metrics on changes.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import android.os.Bundle;

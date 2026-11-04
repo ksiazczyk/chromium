@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrivateAI WebSocket client manual browser test
+// summary: Manual browser test that sends a text request through the PrivateAI service's WebSocket client using feature parameters and logs the response for verification.
+// ---
+
 #include "base/strings/strcat.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/test/test_future.h"

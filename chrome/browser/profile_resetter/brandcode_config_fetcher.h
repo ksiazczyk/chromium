@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brandcode config fetcher interface
+// summary: Declares BrandcodeConfigFetcher, which downloads and parses XML containing brandcoded default settings and reports the result through a caller-provided callback.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILE_RESETTER_BRANDCODE_CONFIG_FETCHER_H_
 #define CHROME_BROWSER_PROFILE_RESETTER_BRANDCODE_CONFIG_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile resetter unit tests
+// summary: Unit tests covering profile resetting of search engines, homepage, startup pages, extensions, themes, NTP customizations, and Windows shortcuts.
+// ---
+
 #include "chrome/browser/profile_resetter/profile_resetter.h"
 
 #include <stddef.h>

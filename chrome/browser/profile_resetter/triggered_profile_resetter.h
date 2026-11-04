@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Triggered profile resetter class declaration
+// summary: Declares the keyed service that detects reset triggers set by third-party tools, documenting the registry-based API for anti-virus and cleaner tools.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILE_RESETTER_TRIGGERED_PROFILE_RESETTER_H_
 #define CHROME_BROWSER_PROFILE_RESETTER_TRIGGERED_PROFILE_RESETTER_H_
 

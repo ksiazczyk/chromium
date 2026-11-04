@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafeBrowsingFragmentTest
+// summary: Robolectric tests for SafeBrowsingFragment verifying the enhanced and standard protection radio buttons and related user actions.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import static org.junit.Assert.assertEquals;
