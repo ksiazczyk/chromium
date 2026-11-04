@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Periodic metrics service implementation
+// summary: Implements hourly recording of kiosk RAM and swap usage percentage histograms during a kiosk session.
+// ---
+
 #include "chrome/browser/ash/app_mode/metrics/periodic_metrics_service.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low disk metrics service implementation
+// summary: Implements tracking of kiosk low disk space notifications and reporting severity histograms plus the previous session's highest severity.
+// ---
+
 #include "chrome/browser/ash/app_mode/metrics/low_disk_metrics_service.h"
 
 #include <algorithm>

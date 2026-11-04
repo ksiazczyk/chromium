@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Weekly interval timer unit tests
+// summary: Unit tests for WeeklyIntervalTimer that verify interval start callbacks and scheduling using mock time and a fake power manager client.
+// ---
+
 #include "chrome/browser/ash/app_mode/auto_sleep/weekly_interval_timer.h"
 
 #include <cstddef>

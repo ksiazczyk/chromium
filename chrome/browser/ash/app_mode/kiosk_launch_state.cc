@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk launch state crash key
+// summary: Maps kiosk launch states to readable strings and sets the kiosk-launch-state crash key used in crash reports.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_launch_state.h"
 
 #include <string>

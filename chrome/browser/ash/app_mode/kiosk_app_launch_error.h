@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app launch error interface
+// summary: Defines the KioskAppLaunchError class with its UMA error enum and static APIs to save, read, and report kiosk launch errors.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_LAUNCH_ERROR_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_LAUNCH_ERROR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk accessibility extension browser tests
+// summary: Browser tests checking ChromeVox accessibility extension behavior and storage within kiosk sessions across app types and manifest versions.
+// ---
+
 #include <string>
 #include <string_view>
 #include <tuple>

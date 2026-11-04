@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk identity browser tests
+// summary: Browser tests verifying service account identity and OAuth token flows for Kiosk apps using FakeGaia and the device OAuth2 token service.
+// ---
+
 #include <cstddef>
 #include <memory>
 #include <optional>

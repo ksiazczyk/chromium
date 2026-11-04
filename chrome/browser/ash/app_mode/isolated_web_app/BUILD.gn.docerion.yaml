@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for the kiosk isolated web app library
+summary: Defines static libraries for kiosk IWA code and policy utilities plus a unit test target, with their GN dependencies.

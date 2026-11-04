@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk session plugin handler delegate interface
+// summary: Defines the delegate interface for deciding which plugins to handle and reacting when plugins hang.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_SESSION_PLUGIN_HANDLER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_SESSION_PLUGIN_HANDLER_DELEGATE_H_
 

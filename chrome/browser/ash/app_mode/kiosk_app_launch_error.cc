@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app launch error handling implementation
+// summary: Maps kiosk launch error codes to localized messages and persists launch errors, cryptohome failures, and user cancellations in local state prefs.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_launch_error.h"
 
 #include <optional>

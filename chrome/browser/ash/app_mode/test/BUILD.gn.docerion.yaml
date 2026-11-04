@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Kiosk app mode test build configuration
+summary: Defines the browser_tests source set and test_support static library that build the kiosk app mode browser tests and their helpers.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Kiosk web app BUILD.gn build definition
+summary: Defines the web_app static library plus unit and browser test targets and their dependencies for ChromeOS kiosk web apps.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk ARCVM app service factory implementation
+// summary: Implements the profile-keyed factory that creates and associates KioskArcvmAppService instances with browser contexts in Ash kiosk mode.
+// ---
+
 #include "chrome/browser/ash/app_mode/arcvm_app/kiosk_arcvm_app_service_factory.h"
 
 #include "base/check.h"

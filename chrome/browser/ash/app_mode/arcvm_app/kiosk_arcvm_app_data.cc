@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskArcvmAppData implementation
+// summary: Implements caching of ARCVM kiosk app data such as name and icon in local state, including icon decode and cache updates.
+// ---
+
 #include "chrome/browser/ash/app_mode/arcvm_app/kiosk_arcvm_app_data.h"
 
 #include <optional>

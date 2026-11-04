@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk web app offline enabled policy browser test
+// summary: Browser test verifying the KioskWebAppOfflineEnabled policy for Kiosk web apps and isolated web apps, including network screen behavior.
+// ---
+
 #include <cstddef>
 #include <optional>
 #include <string>

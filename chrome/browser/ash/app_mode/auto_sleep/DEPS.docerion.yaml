@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for auto_sleep
+summary: Sets include rules that block //chrome dependencies and list allowed exceptions for the auto_sleep directory and its tests.

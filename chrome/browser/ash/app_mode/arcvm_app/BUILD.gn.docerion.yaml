@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: arcvm_app build targets
+summary: Defines the arcvm_app static library and its unit_tests source_set, listing sources and Chromium dependencies.

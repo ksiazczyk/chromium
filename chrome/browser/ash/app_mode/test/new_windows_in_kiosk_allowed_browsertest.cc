@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New windows in Kiosk allowed policy browser test
+// summary: Browser test verifying the NewWindowsInKioskAllowed policy controls whether Kiosk web apps may open, close or hide new browser windows.
+// ---
+
 #include <algorithm>
 #include <cstddef>
 #include <string>

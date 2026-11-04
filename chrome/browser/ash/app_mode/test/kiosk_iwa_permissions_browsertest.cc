@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk IWA permissions browser test
+// summary: Browser tests verifying permissions behavior for kiosk-launched isolated web apps, including controlled frame elements and direct sockets under permissions policy.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

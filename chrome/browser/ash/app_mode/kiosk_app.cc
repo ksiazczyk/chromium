@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app value class implementation
+// summary: Implements the KioskApp constructor and copy and move operations, enforcing that web app kiosk entries always carry a URL.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk network state observer header
+// summary: Declares KioskNetworkStateObserver, which copies the active WiFi configuration to the device level under a kiosk policy with limited retry attempts.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_NETWORK_STATE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_NETWORK_STATE_OBSERVER_H_
 

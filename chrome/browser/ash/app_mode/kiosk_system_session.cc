@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk system session implementation
+// summary: Implements KioskSystemSession, initializing kiosk services such as accessibility, metrics, network observation and app update handling.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_system_session.h"
 
 #include <memory>

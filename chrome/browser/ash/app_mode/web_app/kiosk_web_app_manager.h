@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskWebAppManager class header
+// summary: Declares KioskWebAppManager, the manager of web kiosk apps, with prefs registration, app lookups, and update observation APIs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_WEB_APP_KIOSK_WEB_APP_MANAGER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_WEB_APP_KIOSK_WEB_APP_MANAGER_H_
 

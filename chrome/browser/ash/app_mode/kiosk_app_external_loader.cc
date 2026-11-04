@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskAppExternalLoader implementation
+// summary: Implements an extensions external loader that registers with the broker and sends primary or secondary kiosk app install data to the loader owner.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_external_loader.h"
 
 #include <memory>

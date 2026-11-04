@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk browser logs collector implementation
+// summary: Implements KioskBrowserLogsCollector, which observes browser tabs through BrowserController and attaches web contents observers to collect console logs during kiosk sessions.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_browser_logs_collector.h"
 
 #include <memory>

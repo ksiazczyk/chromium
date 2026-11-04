@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk web contents observer implementation
+// summary: Implements a WebContentsObserver that forwards console messages to a kiosk app-level logging callback.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_web_contents_observer.h"
 
 #include <cstdint>

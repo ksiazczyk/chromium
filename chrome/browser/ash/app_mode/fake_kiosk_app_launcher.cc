@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake kiosk app launcher implementation
+// summary: Implements FakeKioskAppLauncher, a stub kiosk launcher that records observer registrations and initialize, network-ready and launch calls for tests.
+// ---
+
 #include "chrome/browser/ash/app_mode/fake_kiosk_app_launcher.h"
 #include "chrome/browser/ash/app_mode/kiosk_app_launcher.h"
 

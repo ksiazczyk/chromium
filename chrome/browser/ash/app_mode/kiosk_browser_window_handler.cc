@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk browser window handler implementation
+// summary: Implements KioskBrowserWindowHandler, which triages new browser windows opened during kiosk sessions, records metrics and closes disallowed windows.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_browser_window_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskArcvmAppLauncher implementation
+// summary: Launches an Android kiosk app, observes task and window creation, and pins the matching app window fullscreen.
+// ---
+
 // TODO(crbug.com/418858226): Add tests for this file.
 #include "chrome/browser/ash/app_mode/arcvm_app/kiosk_arcvm_app_launcher.h"
 

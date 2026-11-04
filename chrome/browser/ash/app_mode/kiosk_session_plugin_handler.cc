@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk session plugin handler implementation
+// summary: Implements the kiosk session plugin handler that watches WebContents and reports hung plugins to its delegate.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_session_plugin_handler.h"
 
 #include <algorithm>

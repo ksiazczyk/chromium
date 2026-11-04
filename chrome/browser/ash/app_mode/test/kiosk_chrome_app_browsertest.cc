@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk Chrome app browser tests
+// summary: Browser tests verifying generic Chrome app behavior in Kiosk, including policy-based installation, full-screen app windows, and auto-launch with zero delay.
+// ---
+
 #include <cstddef>
 #include <optional>
 #include <string>

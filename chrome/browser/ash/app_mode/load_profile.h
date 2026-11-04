@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk profile loading API
+// summary: Declares LoadProfile with result types and replaceable callbacks for cryptohome checks, sign-in and session start.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_LOAD_PROFILE_H_
 #define CHROME_BROWSER_ASH_APP_MODE_LOAD_PROFILE_H_
 

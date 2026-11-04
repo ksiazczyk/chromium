@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk browser test utility functions
+// summary: Declares shared helper functions for Kiosk browser tests, covering app launch, session waits, install checks and cached app versions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_TEST_KIOSK_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_APP_MODE_TEST_KIOSK_TEST_UTILS_H_
 

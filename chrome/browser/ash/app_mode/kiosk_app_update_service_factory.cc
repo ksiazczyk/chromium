@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app update service factory
+// summary: Profile-keyed service factory that creates KioskAppUpdateService instances when Chrome runs in forced app mode.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_update_service_factory.h"
 
 #include <memory>

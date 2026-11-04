@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Weekly interval timer class header
+// summary: Declares the WeeklyIntervalTimer class and its factory, which fires a callback at the start of a weekly time interval and adapts to timezone changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_AUTO_SLEEP_WEEKLY_INTERVAL_TIMER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_AUTO_SLEEP_WEEKLY_INTERVAL_TIMER_H_
 

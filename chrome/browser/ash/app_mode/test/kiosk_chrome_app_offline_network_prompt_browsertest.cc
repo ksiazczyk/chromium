@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk Chrome app offline network prompt browser tests
+// summary: Parametrized browser tests verifying the DeviceLocalAccountPromptForNetworkWhenOffline policy for Chrome apps in Kiosk sessions.
+// ---
+
 #include <cstddef>
 #include <optional>
 #include <string>

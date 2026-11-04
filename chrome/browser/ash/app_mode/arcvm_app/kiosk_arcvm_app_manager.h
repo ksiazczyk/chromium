@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskArcvmAppManager class declaration
+// summary: Declares the manager that keeps track of Android apps to launch in kiosk mode, resolves apps by account and handles removed apps.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_ARCVM_APP_KIOSK_ARCVM_APP_MANAGER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_ARCVM_APP_KIOSK_ARCVM_APP_MANAGER_H_
 

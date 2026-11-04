@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk external update validator
+// summary: Declares the validator that unpacks and validates external kiosk CRX files, plus the delegate interface for unpack and copy results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_EXTERNAL_UPDATE_VALIDATOR_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_EXTERNAL_UPDATE_VALIDATOR_H_
 

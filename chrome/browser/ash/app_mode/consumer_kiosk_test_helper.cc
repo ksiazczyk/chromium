@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Consumer kiosk test helper implementation
+// summary: Implements test helpers that add, remove, and set auto-launch for consumer kiosk Chrome apps via device local account settings.
+// ---
+
 #include "chrome/browser/ash/app_mode/consumer_kiosk_test_helper.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk web contents observer unit tests
+// summary: Unit tests verifying that console messages added to web contents are captured with level, line, source and stack trace.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_web_contents_observer.h"
 
 #include <cstdint>

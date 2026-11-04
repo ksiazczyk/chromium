@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KioskIwaData unit tests
+// summary: Tests KioskIwaData creation, covering failures for empty or bad bundle ids, invalid URLs, channels, and pinned versions.
+// ---
+
 #include "chrome/browser/ash/app_mode/isolated_web_app/kiosk_iwa_data.h"
 
 #include <optional>

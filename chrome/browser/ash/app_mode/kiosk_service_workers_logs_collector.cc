@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk service workers logs collector implementation
+// summary: Implements collecting service worker console messages and forwarding them to the kiosk app-level logs saver.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_service_workers_logs_collector.h"
 
 #include <cstdint>

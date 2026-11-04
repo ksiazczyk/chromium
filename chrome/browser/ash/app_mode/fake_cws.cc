@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Chrome Web Store update server implementation
+// summary: Implements FakeCWS, an embedded test server handler that serves canned web store update check responses, CRX downloads and app details for kiosk tests.
+// ---
+
 #include "chrome/browser/ash/app_mode/fake_cws.h"
 
 #include <cstddef>

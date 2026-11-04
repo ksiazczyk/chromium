@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Chrome Web Store update server interface
+// summary: Declares FakeCWS, a test double that answers web store update checks and app detail queries from an embedded test server, in public or private store mode.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_FAKE_CWS_H_
 #define CHROME_BROWSER_ASH_APP_MODE_FAKE_CWS_H_
 

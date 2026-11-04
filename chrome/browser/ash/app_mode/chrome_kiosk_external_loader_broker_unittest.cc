@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeKioskExternalLoaderBroker unit tests
+// summary: Unit tests for ChromeKioskExternalLoaderBroker verifying observer notifications for primary and secondary app install data.
+// ---
+
 #include "chrome/browser/ash/app_mode/chrome_kiosk_external_loader_broker.h"
 
 #include "base/test/repeating_test_future.h"

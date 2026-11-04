@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk system session header
+// summary: Declares KioskSystemSession, which maintains system-level services like accessibility, metrics and crash recovery for a kiosk session.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_SYSTEM_SESSION_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_SYSTEM_SESSION_H_
 

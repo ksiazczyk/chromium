@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk IWA browser tests
+// summary: Browser tests verifying that an Isolated Web App installs and launches in Kiosk and that its origin receives unlimited storage.
+// ---
+
 #include <string_view>
 
 #include "chrome/browser/ash/app_mode/test/kiosk_mixin.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk external update validator implementation
+// summary: Implements copying external kiosk CRX files and unpacking them via SandboxedUnpacker to validate updates, reporting success or failure to the delegate.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_external_update_validator.h"
 
 #include "base/files/file_util.h"

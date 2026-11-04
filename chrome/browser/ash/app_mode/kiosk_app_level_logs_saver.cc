@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app level logs saver implementation
+// summary: Saves kiosk web app console messages to syslog by severity, formatting source, line number and stack traces, and discards logs beyond 3000 entries per session.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_level_logs_saver.h"
 
 #include <cstddef>

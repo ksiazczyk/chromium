@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the weekly scheduled suspend controller
+// summary: In-process browser tests exercising scheduled suspend in kiosk sessions using mock time and a test policy builder.
+// ---
+
 #include "chrome/browser/ash/app_mode/auto_sleep/device_weekly_scheduled_suspend_controller.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the weekly scheduled suspend controller
+// summary: Parameterized unit tests simulating kiosk, managed guest session, and regular logins to verify scheduled suspend behavior.
+// ---
+
 #include "chrome/browser/ash/app_mode/auto_sleep/device_weekly_scheduled_suspend_controller.h"
 
 #include <cstddef>

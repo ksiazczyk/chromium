@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk settings navigation throttle header
+// summary: Declares a navigation throttle that limits navigations in kiosk settings windows to allowed settings page URLs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_SETTINGS_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_SETTINGS_NAVIGATION_THROTTLE_H_
 

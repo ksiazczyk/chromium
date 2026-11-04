@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app update service header
+// summary: Declares KioskAppUpdateService, a keyed service that observes extension updates, reboot requests and kiosk cache updates to force restarts in app mode.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_UPDATE_SERVICE_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_UPDATE_SERVICE_H_
 

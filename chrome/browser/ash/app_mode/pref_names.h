@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk mode preference name declarations
+// summary: Declares the kiosk mode preference name constant used to track cryptohomes pending removal.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_PREF_NAMES_H_
 #define CHROME_BROWSER_ASH_APP_MODE_PREF_NAMES_H_
 

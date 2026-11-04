@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk web app launcher base implementation
+// summary: Implements the shared base launcher that initializes App Service and launches installed web kiosk apps.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_web_app_launcher_base.h"
 
 #include <memory>

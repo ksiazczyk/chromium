@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk network state observer implementation
+// summary: Implements exposing the active kiosk WiFi configuration to device level when the WiFi credentials scope change policy is enabled.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_network_state_observer.h"
 
 #include <optional>

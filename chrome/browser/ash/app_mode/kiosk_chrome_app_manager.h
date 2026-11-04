@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk Chrome app manager
+// summary: Declares KioskChromeAppManager, which manages cached kiosk Chrome app data, external cache downloads and primary app update results for kiosk sessions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_CHROME_APP_MANAGER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_CHROME_APP_MANAGER_H_
 

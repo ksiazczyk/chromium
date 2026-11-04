@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk network state observer browser tests
+// summary: Browser tests verifying the WiFi exposure behavior of KioskNetworkStateObserver under the credentials scope change policy using stub shill networks.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_network_state_observer.h"
 
 #include <cstddef>

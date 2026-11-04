@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake CWS Chrome app options implementation
+// summary: Implements helpers returning CwsChromeAppOption values for fake Chrome Web Store kiosk apps used to configure KioskMixin in tests.
+// ---
+
 #include "chrome/browser/ash/app_mode/test/fake_cws_chrome_apps.h"
 
 #include <string_view>

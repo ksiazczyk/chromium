@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk external updater
+// summary: Declares KioskExternalUpdater, which observes disk mount events, validates external kiosk app updates, and installs them into the local cache.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_EXTERNAL_UPDATER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_EXTERNAL_UPDATER_H_
 

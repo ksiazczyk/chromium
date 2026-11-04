@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk ARCVM app manager browser tests
+// summary: Browser tests for KioskArcvmAppManager covering ARCVM kiosk app list updates and observer notifications.
+// ---
+
 #include "chrome/browser/ash/app_mode/arcvm_app/kiosk_arcvm_app_manager.h"
 
 #include <memory>

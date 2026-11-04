@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk service workers logs collector header
+// summary: Declares KioskServiceWorkersLogsCollector, which observes service worker console messages and forwards them to a kiosk logging callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_SERVICE_WORKERS_LOGS_COLLECTOR_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_SERVICE_WORKERS_LOGS_COLLECTOR_H_
 

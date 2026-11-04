@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app launcher observer notifications
+// summary: Implements the KioskAppLauncher observer list that dispatches app launch lifecycle events such as installing, prepared, launched, and launch failed.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_launcher.h"
 
 #include <optional>

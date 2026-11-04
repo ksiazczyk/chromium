@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk troubleshooting controller implementation
+// summary: Implements the controller that watches the kiosk troubleshooting tools policy and shuts down the kiosk browser session when the policy is disabled.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_troubleshooting_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

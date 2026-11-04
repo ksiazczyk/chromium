@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk app level logs browser tests
+// summary: Browser tests verifying kiosk app log collection for web and Chrome apps with the application log collection policy enabled or disabled.
+// ---
+
 #include <optional>
 #include <string>
 

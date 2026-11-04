@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk troubleshooting controller header
+// summary: Declares KioskTroubleshootingController, which determines whether kiosk troubleshooting tools are enabled based on a dynamically refreshed policy preference.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_TROUBLESHOOTING_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_TROUBLESHOOTING_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeKioskAppLauncher implementation
+// summary: Implements the launcher that runs pre-launch checks for a kiosk Chrome app, enables secondary apps, and launches the app while waiting for its app window.
+// ---
+
 #include "chrome/browser/ash/app_mode/chrome_kiosk_app_launcher.h"
 
 #include "base/check_deref.h"

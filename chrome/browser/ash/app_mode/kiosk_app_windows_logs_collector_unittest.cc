@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk app windows logs collector unit tests
+// summary: Unit tests for KioskAppWindowsLogsCollector that create Chrome app windows and verify console log messages are collected with correct source, line number and severity.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_windows_logs_collector.h"
 
 #include <memory>

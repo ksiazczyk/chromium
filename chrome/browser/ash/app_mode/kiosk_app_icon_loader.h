@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskAppIconLoader class header
+// summary: Declares KioskAppIconLoader, which loads a locally stored icon file, decodes it, and reports the result through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_ICON_LOADER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_ICON_LOADER_H_
 

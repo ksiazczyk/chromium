@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk test helper implementation
+// summary: Implements static helpers that temporarily set kiosk launch test overrides, such as skipping the splash screen wait, blocking app launch, and blocking exit on failure.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_test_helper.h"
 
 #include "base/auto_reset.h"

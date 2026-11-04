@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device weekly scheduled suspend controller implementation
+// summary: Implements the controller that suspends devices in kiosk, managed guest session, or login screen sessions per the weekly suspend policy.
+// ---
+
 #include "chrome/browser/ash/app_mode/auto_sleep/device_weekly_scheduled_suspend_controller.h"
 
 #include <algorithm>

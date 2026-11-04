@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk browser logs collector unit tests
+// summary: Unit tests for KioskBrowserLogsCollector verifying that console messages from tabs across multiple browsers are observed and reported with expected fields.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_browser_logs_collector.h"
 
 #include <memory>

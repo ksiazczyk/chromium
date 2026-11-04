@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskIwaData implementation
+// summary: Implements creation and validation of kiosk isolated web app data from policy, checking bundle id, URL, channel, and version.
+// ---
+
 #include "chrome/browser/ash/app_mode/isolated_web_app/kiosk_iwa_data.h"
 
 #include <memory>

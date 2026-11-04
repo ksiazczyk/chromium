@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Kiosk test directory owners
+summary: Inherits the app mode OWNERS file and assigns isolated web app related test files to a specific owner.

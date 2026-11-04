@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device weekly scheduled suspend policy handler header
+// summary: Declares the policy handler that enforces the policy schema and maps valid schedules to the kDeviceWeeklyScheduledSuspend pref.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_AUTO_SLEEP_DEVICE_WEEKLY_SCHEDULED_SUSPEND_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_AUTO_SLEEP_DEVICE_WEEKLY_SCHEDULED_SUSPEND_POLICY_HANDLER_H_
 

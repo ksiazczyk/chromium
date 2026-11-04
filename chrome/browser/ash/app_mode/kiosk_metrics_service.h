@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk metrics service
+// summary: Declares KioskMetricsService and the KioskSessionState enum used to accumulate and record kiosk session UMA histograms.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_METRICS_SERVICE_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_METRICS_SERVICE_H_
 

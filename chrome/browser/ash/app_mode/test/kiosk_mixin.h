@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KioskMixin test helper header
+// summary: Declares the KioskMixin class and its app option variants used to set up realistic kiosk mode browser tests for ChromeOS Ash.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_TEST_KIOSK_MIXIN_H_
 #define CHROME_BROWSER_ASH_APP_MODE_TEST_KIOSK_MIXIN_H_
 

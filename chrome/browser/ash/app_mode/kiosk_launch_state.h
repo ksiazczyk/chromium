@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk launch state enum
+// summary: Declares the KioskLaunchState enum and helpers to record the current kiosk launch phase as a crash key.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_LAUNCH_STATE_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_LAUNCH_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk Chrome app manager implementation
+// summary: Implements KioskChromeAppManager, which manages cached kiosk Chrome app data, CRX downloads through the external cache and app updates for kiosk sessions.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_chrome_app_manager.h"
 
 #include <stddef.h>

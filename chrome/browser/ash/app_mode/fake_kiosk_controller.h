@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake kiosk controller interface
+// summary: Declares FakeKioskController, a fake KioskController whose instantiation automatically installs it as the singleton returned by KioskController::Get().
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_FAKE_KIOSK_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_FAKE_KIOSK_CONTROLLER_H_
 

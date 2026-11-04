@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeKioskAppLauncher unit tests
+// summary: Unit tests for ChromeKioskAppLauncher covering pre-launch checks, secondary app handling, and kiosk app launch behavior.
+// ---
+
 #include "chrome/browser/ash/app_mode/chrome_kiosk_app_launcher.h"
 
 #include <memory>

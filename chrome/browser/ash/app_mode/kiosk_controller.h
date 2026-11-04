@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk controller interface
+// summary: Public KioskController interface for launching and managing kiosk sessions, querying configured kiosk apps and handling session lifecycle events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_CONTROLLER_H_
 

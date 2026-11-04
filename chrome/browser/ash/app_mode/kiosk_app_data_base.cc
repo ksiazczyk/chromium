@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskAppDataBase implementation
+// summary: Implements shared helpers that save, load and clear cached kiosk app name and icon data in local state preferences, including icon file writing.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_data_base.h"
 
 #include <cstddef>

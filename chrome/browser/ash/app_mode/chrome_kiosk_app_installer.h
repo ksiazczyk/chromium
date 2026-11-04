@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeKioskAppInstaller class header
+// summary: Declares ChromeKioskAppInstaller, which installs a kiosk app's primary and secondary extensions, tracks install stages, and reports install success or failure.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_CHROME_KIOSK_APP_INSTALLER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_CHROME_KIOSK_APP_INSTALLER_H_
 

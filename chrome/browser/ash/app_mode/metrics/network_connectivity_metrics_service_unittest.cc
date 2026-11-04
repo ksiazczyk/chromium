@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NetworkConnectivityMetricsService
+// summary: Unit tests simulating network success and failure states to verify network drop counting and histogram reporting.
+// ---
+
 #include "chrome/browser/ash/app_mode/metrics/network_connectivity_metrics_service.h"
 
 #include "ash/constants/ash_pref_names.h"

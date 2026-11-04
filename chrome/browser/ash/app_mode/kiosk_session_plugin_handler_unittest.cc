@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk session plugin handler unit tests
+// summary: Tests that the plugin handler tracks WebContents observers as they are added and destroyed.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_session_plugin_handler.h"
 
 #include "chrome/browser/ash/app_mode/kiosk_session_plugin_handler_delegate.h"

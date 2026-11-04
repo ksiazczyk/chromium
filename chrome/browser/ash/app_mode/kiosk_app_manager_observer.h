@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app manager observer interface
+// summary: Defines KioskAppManagerObserver, a CheckedObserver interface with callbacks for app data changes, load failures, cache updates, settings changes and session initialization.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_MANAGER_OBSERVER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_MANAGER_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network state test mixin header
+// summary: Declares a browser test mixin wrapping NetworkStateTestHelper to toggle network online and offline states, starting offline by default.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_TEST_NETWORK_STATE_MIXIN_H_
 #define CHROME_BROWSER_ASH_APP_MODE_TEST_NETWORK_STATE_MIXIN_H_
 

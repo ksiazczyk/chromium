@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskControllerImpl implementation
+// summary: Implements KioskControllerImpl, which launches kiosk sessions for Chrome, web, isolated web and ARCVM apps and coordinates the kiosk system session.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_controller_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app update install gate
+// summary: Decides whether kiosk app extension installs proceed immediately or are delayed based on first install and platform version compliance.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_update_install_gate.h"
 
 #include "base/logging.h"

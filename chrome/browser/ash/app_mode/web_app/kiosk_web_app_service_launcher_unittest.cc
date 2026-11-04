@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk web app service launcher unit tests
+// summary: Unit tests for the Ash kiosk web app service launcher, using mocks and fakes to verify app installation, preparation and launch behavior.
+// ---
+
 #include "chrome/browser/ash/app_mode/web_app/kiosk_web_app_service_launcher.h"
 
 #include <sys/types.h>

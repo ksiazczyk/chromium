@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk web app update observer class
+// summary: Declares an observer that persists through a kiosk session and forwards web app updates to a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_WEB_APP_UPDATE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_WEB_APP_UPDATE_OBSERVER_H_
 

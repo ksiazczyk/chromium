@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeKioskExternalLoaderBroker implementation
+// summary: Implements the singleton broker that builds external loader prefs and forwards primary and secondary kiosk app install data to registered observers.
+// ---
+
 #include "chrome/browser/ash/app_mode/chrome_kiosk_external_loader_broker.h"
 
 #include <string>

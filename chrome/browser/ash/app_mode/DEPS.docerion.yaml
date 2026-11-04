@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Include rules defining allowed dependencies for the app_mode directory, with special rules for tests and specific files.

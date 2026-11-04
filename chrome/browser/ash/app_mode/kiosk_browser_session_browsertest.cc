@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk browser session browser tests
+// summary: In-process browser tests for KioskBrowserSession covering Chrome app, web app and IWA kiosk sessions, window handling, exit behavior and metrics.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_browser_session.h"
 
 #include <memory>

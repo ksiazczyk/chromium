@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk splash screen browser tests
+// summary: Parameterized browser tests covering kiosk splash screen launch flows for web and Chrome apps, including offline-enabled launches and the login feedback dialog.
+// ---
+
 #include <cstddef>
 #include <optional>
 #include <vector>

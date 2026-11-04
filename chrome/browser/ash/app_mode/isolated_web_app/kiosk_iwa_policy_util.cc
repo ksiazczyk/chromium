@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk IWA policy utilities implementation
+// summary: Implements helpers that parse kiosk Isolated Web App policy values such as update channel and pinned version, and retrieve update data for the IWA running in the current kiosk session.
+// ---
+
 #include "chrome/browser/ash/app_mode/isolated_web_app/kiosk_iwa_policy_util.h"
 
 #include <optional>

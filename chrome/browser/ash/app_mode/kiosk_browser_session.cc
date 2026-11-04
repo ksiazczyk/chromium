@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk browser session implementation
+// summary: Implements KioskBrowserSession, which maintains kiosk sessions, watches app windows, dumps plugin processes on crash and reboots the device when needed.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_browser_session.h"
 
 #include <errno.h>

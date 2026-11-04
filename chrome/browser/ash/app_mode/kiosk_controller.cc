@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk controller implementation
+// summary: Implements the KioskController singleton, registering local state and profile prefs for the Chrome app, web app, isolated web app and ARCVM kiosk managers.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_controller.h"
 
 #include "base/check.h"

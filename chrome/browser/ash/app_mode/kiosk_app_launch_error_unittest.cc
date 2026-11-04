@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk app launch error unit tests
+// summary: Unit tests verifying the mapping of kiosk launch error codes to messages and the saving of launch errors in local state.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_app_launch_error.h"
 
 #include <string>

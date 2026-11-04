@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app service launcher header
+// summary: Declares KioskAppServiceLauncher, which checks app readiness in the App Service registry, launches the kiosk app and notifies callers when the app is launched or visible.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_SERVICE_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_APP_MODE_KIOSK_APP_SERVICE_LAUNCHER_H_
 

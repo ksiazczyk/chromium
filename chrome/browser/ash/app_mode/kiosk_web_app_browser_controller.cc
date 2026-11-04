@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk web app browser controller implementation
+// summary: Implements the browser UI controller for web kiosk apps, providing a fullscreen browser without tab strip or navigation bar and exposing app icon, name, start URL, and scope information.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_web_app_browser_controller.h"
 
 #include <optional>

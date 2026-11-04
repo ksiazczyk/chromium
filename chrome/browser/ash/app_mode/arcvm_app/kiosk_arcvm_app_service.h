@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KioskArcvmAppService class declaration
+// summary: Declares the keyed service that monitors ARCVM session state and launches or stops the kiosk app as preconditions change.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_ARCVM_APP_KIOSK_ARCVM_APP_SERVICE_H_
 #define CHROME_BROWSER_ASH_APP_MODE_ARCVM_APP_KIOSK_ARCVM_APP_SERVICE_H_
 

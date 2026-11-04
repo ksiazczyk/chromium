@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake CWS browser test mixin interface
+// summary: Declares FakeCwsMixin, a browser test mixin that owns and configures a FakeCWS instance and exposes the configured update URL.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_MODE_FAKE_CWS_MIXIN_H_
 #define CHROME_BROWSER_ASH_APP_MODE_FAKE_CWS_MIXIN_H_
 

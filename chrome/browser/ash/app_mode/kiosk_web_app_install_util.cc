@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk web app install utility
+// summary: Provides helpers to determine the install state of a kiosk web app and to install it via the web app provider, handling placeholder apps created for authentication redirects.
+// ---
+
 #include "chrome/browser/ash/app_mode/kiosk_web_app_install_util.h"
 
 #include <optional>

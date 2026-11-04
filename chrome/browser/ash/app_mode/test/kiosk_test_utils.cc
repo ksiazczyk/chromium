@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk test utilities implementation
+// summary: Implements shared helpers for kiosk browser tests, such as waiting for kiosk launch, launching apps, and inspecting installed apps and sessions.
+// ---
+
 #include "chrome/browser/ash/app_mode/test/kiosk_test_utils.h"
 
 #include <optional>
