@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoUtils
+// summary: Utility helpers for LogoView that compute doodle and logo margins, heights and layout parameters.
+// ---
+
 package org.chromium.chrome.browser.logo;
 
 import android.content.Context;

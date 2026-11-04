@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurveyThrottler
+// summary: Decides whether a survey can be shown by applying throttling criteria and a probability dice roll, recording filtering results.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import androidx.annotation.IntDef;

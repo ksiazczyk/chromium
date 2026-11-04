@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionBrowserWindowHelperBridgeFactory
+// summary: Stub factory that returns null for the extension browser window helper bridge when it is not compiled into the build.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions.browser_window_helper;
 
 import org.chromium.build.annotations.NullMarked;

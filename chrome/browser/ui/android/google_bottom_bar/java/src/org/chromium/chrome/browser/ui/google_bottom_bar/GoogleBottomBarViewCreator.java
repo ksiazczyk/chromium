@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Bottom Bar view creator
+// summary: Builds the Google Bottom Bar view from the configuration, adding buttons, searchbox, and right-side buttons based on the variant layout.
+// ---
+
 package org.chromium.chrome.browser.ui.google_bottom_bar;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

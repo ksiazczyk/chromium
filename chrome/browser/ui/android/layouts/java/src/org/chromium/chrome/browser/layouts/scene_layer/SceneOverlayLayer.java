@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneOverlayLayer abstract base class for scene overlays
+// summary: Abstract extension of SceneLayer for scene overlays that requires subclasses to set a content tree inside the scene overlay tree.
+// ---
+
 package org.chromium.chrome.browser.layouts.scene_layer;
 
 import org.chromium.build.annotations.NullMarked;

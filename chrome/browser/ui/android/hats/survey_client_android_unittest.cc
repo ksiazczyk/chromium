@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Survey Client Android Unit Tests
+// summary: Unit tests for SurveyClientAndroid that exercise survey launching and acceptance with a custom test survey UI delegate and Java test survey factory.
+// ---
+
 #include "chrome/browser/ui/android/hats/survey_client_android.h"
 
 #include <memory>

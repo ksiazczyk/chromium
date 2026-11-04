@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DoodleCache
+// summary: Singleton cache that stores the search provider doodle for one hour to avoid unnecessary network requests and animations across NTP instances.
+// ---
+
 package org.chromium.chrome.browser.logo;
 
 import androidx.annotation.VisibleForTesting;

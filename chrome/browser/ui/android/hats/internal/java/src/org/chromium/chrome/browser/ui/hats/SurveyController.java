@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurveyController interface
+// summary: Interface for downloading surveys and showing them when available, with expiry checks and resource cleanup.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import android.app.Activity;

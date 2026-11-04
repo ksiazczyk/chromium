@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Survey Config Holder JNI Implementation
+// summary: Implements SurveyConfigHolder, which loads active survey configs by trigger and pushes them to the Java side through JNI for the Android HaTS integration.
+// ---
+
 #include "chrome/browser/ui/android/hats/survey_config_android.h"
 
 #include <optional>

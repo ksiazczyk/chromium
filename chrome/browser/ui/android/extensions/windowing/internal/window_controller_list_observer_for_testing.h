@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowControllerListObserverForTesting and test event enum declaration
+// summary: Declares the singleton test observer for the WindowControllerList and the ExtensionInternalWindowEventForTesting enum relayed to Java integration tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_EXTENSIONS_WINDOWING_INTERNAL_WINDOW_CONTROLLER_LIST_OBSERVER_FOR_TESTING_H_
 #define CHROME_BROWSER_UI_ANDROID_EXTENSIONS_WINDOWING_INTERNAL_WINDOW_CONTROLLER_LIST_OBSERVER_FOR_TESTING_H_
 

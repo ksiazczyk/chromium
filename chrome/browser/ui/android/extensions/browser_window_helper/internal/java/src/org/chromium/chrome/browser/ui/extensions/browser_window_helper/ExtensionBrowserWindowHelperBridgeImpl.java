@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionBrowserWindowHelperBridgeImpl
+// summary: Java-side JNI implementation of the extension browser window helper bridge that creates and destroys the native counterpart on task add and feature removal.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions.browser_window_helper;
 
 import org.jni_zero.CalledByNative;

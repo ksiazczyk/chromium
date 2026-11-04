@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android survey client header
+// summary: Declares SurveyClientAndroid, the C++ equivalent of the Java SurveyClient, with methods to launch and destroy surveys.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_HATS_SURVEY_CLIENT_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_HATS_SURVEY_CLIENT_ANDROID_H_
 

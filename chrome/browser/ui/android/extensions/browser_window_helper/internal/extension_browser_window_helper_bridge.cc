@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension browser window helper bridge implementation
+// summary: Native JNI implementation that creates and destroys the C++ ExtensionBrowserWindowHelperBridge owned by its Java counterpart for browser windows.
+// ---
+
 #include "chrome/browser/ui/android/extensions/browser_window_helper/internal/extension_browser_window_helper_bridge.h"
 
 #include <jni.h>

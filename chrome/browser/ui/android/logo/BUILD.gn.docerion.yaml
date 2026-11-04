@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Android logo UI component
+summary: Defines the native source set, Java library, JNI headers, resources and Robolectric test targets for the Chrome Android logo feature.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension install dialog implementation
+// summary: Implements the Android extension install dialog, showing permission prompts through a Java bridge and reporting accept, cancel, dismiss, and store link events.
+// ---
+
 #include "chrome/browser/ui/android/extensions/extension_install_dialog_view_android.h"
 
 #include <jni.h>

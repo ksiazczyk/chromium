@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Bottom Bar config creator tests
+// summary: Robolectric unit tests for BottomBarConfigCreator covering button configuration, variant layouts, and default search engine checks.
+// ---
+
 package org.chromium.chrome.browser.ui.google_bottom_bar;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension test utility JNI bindings
+// summary: Implements JNI helpers for Android tests to load unpacked extensions and enable, disable, uninstall or inspect installed extensions.
+// ---
+
 #include <string>
 
 #include "base/android/callback_android.h"

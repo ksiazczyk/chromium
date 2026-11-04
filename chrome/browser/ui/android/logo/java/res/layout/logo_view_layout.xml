@@ -4,6 +4,13 @@ Copyright 2022 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Logo view layout
+summary: Android layout XML defining the LogoContainerView with a search provider LogoView and a LoadingView for the new tab page logo.
+-->
+
 <org.chromium.chrome.browser.logo.LogoContainerView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

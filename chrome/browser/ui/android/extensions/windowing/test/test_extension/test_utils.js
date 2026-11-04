@@ -5,6 +5,12 @@
 
 // --- Custom Test Functions ---
 
+// ---docerion
+// type: test
+// title: Test Utilities for Window Focus Checks
+// summary: Provides helper functions like testFocusChange that can be called from the Service Worker DevTools console to focus and unfocus a window and log the results.
+// ---
+
 // Test function to verify window focus behavior.
 // Call this directly from the Service Worker DevTools console:
 // testFocusChange(123);

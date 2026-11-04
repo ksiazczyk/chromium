@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SurveyUiDelegateBridge: JNI glue between C++ and Java survey UI delegate'
+// summary: JNI bridge that lets native C++ code create and drive a Java SurveyUiDelegate for showing or dismissing survey invitations.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

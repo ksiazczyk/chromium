@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extensions toolbar JNI bridge header
+// summary: Declares the JNI bridge for the Android extensions toolbar, including popup triggering, key handling and view model callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_EXTENSIONS_EXTENSIONS_TOOLBAR_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_EXTENSIONS_EXTENSIONS_TOOLBAR_ANDROID_H_
 

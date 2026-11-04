@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsMenuBridge
+// summary: JNI bridge that supplies native extensions menu data to the Java UI, including menu entries, action icons, site permissions state and action execution.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import android.graphics.Bitmap;

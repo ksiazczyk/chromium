@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsMenuButtonState
+// summary: Java model holding the tooltip, accessible text and icon that make up the visual state of the extensions menu button, populated from native via JNI.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import android.graphics.Bitmap;

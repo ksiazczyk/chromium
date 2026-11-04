@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutManagerProvider
+// summary: Retrieves, attaches, and detaches the shared LayoutManager instance via unowned user data on a WindowAndroid.
+// ---
+
 package org.chromium.chrome.browser.layouts;
 
 import org.chromium.base.UnownedUserDataKey;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension browser window helper bridge class declaration
+// summary: Declares the native bridge class that owns a cross-platform ExtensionBrowserWindowHelper and manages its lifecycle with the browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_EXTENSIONS_BROWSER_WINDOW_HELPER_INTERNAL_EXTENSION_BROWSER_WINDOW_HELPER_BRIDGE_H_
 #define CHROME_BROWSER_UI_ANDROID_EXTENSIONS_BROWSER_WINDOW_HELPER_INTERNAL_EXTENSION_BROWSER_WINDOW_HELPER_BRIDGE_H_
 

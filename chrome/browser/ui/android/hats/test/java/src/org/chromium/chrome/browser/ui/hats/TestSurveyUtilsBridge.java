@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSurveyUtilsBridge JNI bridge for native survey testing
+// summary: JNI-called helper that lets C++ code set up and reset the survey testing environment and query the last shown trigger ID, while Java tests use TestSurveyComponentRule instead.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import org.jni_zero.CalledByNative;

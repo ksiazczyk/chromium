@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Google bottom bar UI
+summary: Defines the Android Java library, resource targets, and Robolectric unit test targets for the Google bottom bar feature, along with their dependencies.

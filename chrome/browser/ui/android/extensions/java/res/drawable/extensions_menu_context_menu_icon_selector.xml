@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Extensions menu context menu icon selector
+summary: Selector drawable that swaps the more-vert icon for a keep icon when an extension is pinned.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Show the "keep icon" when the extension is pinned (activated state)
         and the button is not in an "active" state (pressed, hovered, focused,

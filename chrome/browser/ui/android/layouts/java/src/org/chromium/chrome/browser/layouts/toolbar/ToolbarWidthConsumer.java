@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarWidthConsumer interface for toolbar width allocation
+// summary: Java interface that toolbar components implement to report visibility and consume available toolbar width, optionally with animation support.
+// ---
+
 package org.chromium.chrome.browser.layouts.toolbar;
 
 import android.animation.Animator;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Survey configuration mirrored from native code
+// summary: Java equivalent of the native survey config exposing trigger IDs, probability, PSD fields, and browser type and profile age requirements for HaTS surveys.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import android.text.TextUtils;

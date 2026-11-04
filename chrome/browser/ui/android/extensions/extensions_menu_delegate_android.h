@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extensions menu delegate header
+// summary: Declares the JNI bridge class implementing Android extensions menu UI logic and its view model delegate and observer callbacks.
+// ---
+
 #include <string>
 
 #include "base/android/jni_android.h"

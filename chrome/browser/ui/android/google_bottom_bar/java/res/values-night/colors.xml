@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Google bottom bar night mode colors
+summary: Defines the dark-mode search box background color for the Google bottom bar using a Material 3 baseline dark surface color.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <color name="google_bottom_bar_searchbox_background_color">@color/gm3_baseline_surface_container_highest_dark</color>
 </resources>

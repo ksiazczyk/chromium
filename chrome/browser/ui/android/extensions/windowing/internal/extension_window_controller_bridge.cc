@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionWindowControllerBridge native implementation
+// summary: Implements the JNI natives for ExtensionWindowControllerBridge, creating the native bridge and forwarding task bounds and focus changes to the extension window controller.
+// ---
+
 #include "chrome/browser/ui/android/extensions/windowing/internal/extension_window_controller_bridge.h"
 
 #include <jni.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android delegate for the extension side panel coordinator
+// summary: Implements the Android delegate for ExtensionSidePanelCoordinator, creating side panel hosts and native views and closing side panel entries.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_side_panel_coordinator.h"
 
 #include <memory>

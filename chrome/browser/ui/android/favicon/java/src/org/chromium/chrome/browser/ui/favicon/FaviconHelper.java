@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconHelper
+// summary: Java helper that requests favicon images for page URLs from the native favicon service and generates default favicon bitmaps, including incognito and NTP variants.
+// ---
+
 package org.chromium.chrome.browser.ui.favicon;
 
 import android.content.Context;

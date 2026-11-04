@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurveyClientBridge unit tests
+// summary: Robolectric unit tests verifying survey client creation and survey display through the JNI bridge.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import static org.junit.Assert.assertEquals;

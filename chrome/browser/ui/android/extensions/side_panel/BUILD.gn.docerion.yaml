@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for extension side panel Android Java targets
+summary: Defines the public Java library and android_library_factory targets for the ExtensionSidePanelManagerBridge and its factory in the Android side panel directory.

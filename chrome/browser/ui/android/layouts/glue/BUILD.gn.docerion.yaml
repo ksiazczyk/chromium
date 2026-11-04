@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build file defining the Android library target for the layouts glue Java sources, with visibility rules and dependencies on the layouts and UI Android libraries.

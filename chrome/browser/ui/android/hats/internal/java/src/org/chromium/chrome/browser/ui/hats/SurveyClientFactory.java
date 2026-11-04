@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurveyClientFactory
+// summary: Singleton factory that creates survey clients and tracks the user's usage and crash reporting permission.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import android.text.TextUtils;

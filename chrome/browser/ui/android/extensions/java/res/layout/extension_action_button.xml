@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Extension action button layout
+summary: Android layout for the extension toolbar action button, a hoverable ListMenuButton that opens the extension's list menu.
+-->
+
 <org.chromium.ui.listmenu.ListMenuButton
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

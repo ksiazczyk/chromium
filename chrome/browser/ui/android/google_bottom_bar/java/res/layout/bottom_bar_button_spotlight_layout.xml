@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bottom bar button spotlight layout
+summary: Android ImageButton layout for a spotlight bottom bar button with fixed size, centered icon, and action bar item background.
+-->
+
 <ImageButton xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="@dimen/google_bottom_bar_button_size"
     android:layout_height="@dimen/google_bottom_bar_button_size"

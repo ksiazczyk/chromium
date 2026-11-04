@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android extensions UI
+summary: Defines GN build targets for the Android extensions UI, including a headers-only public target, the native extensions source set, and the Java extension UI library.

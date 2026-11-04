@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompositorModelChangeProcessor unit tests
+// summary: Robolectric unit tests verifying binding and frame request behavior of CompositorModelChangeProcessor, including excluded property keys.
+// ---
+
 package org.chromium.chrome.browser.layouts;
 
 import static org.mockito.ArgumentMatchers.any;

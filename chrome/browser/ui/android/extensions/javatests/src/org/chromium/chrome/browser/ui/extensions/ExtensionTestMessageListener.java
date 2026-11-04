@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionTestMessageListener
+// summary: Test helper wrapping the native extensions::ExtensionTestMessageListener to wait for and reply to chrome.test messages sent by extensions.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import org.jni_zero.JNINamespace;

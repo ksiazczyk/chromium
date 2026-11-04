@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionDeveloperPrivateBridge JNI implementation
+// summary: Implements the JNI entry point that forwards extension site settings requests from C++ to the Java ExtensionDeveloperPrivateBridge.
+// ---
+
 #include "chrome/browser/ui/android/extensions/extension_developer_private_bridge.h"
 
 #include "base/android/jni_android.h"

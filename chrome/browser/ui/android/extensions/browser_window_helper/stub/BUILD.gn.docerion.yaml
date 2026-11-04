@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Stub BUILD.gn for extension browser window helper
+summary: GN build file defining a stub android_library target that replaces the internal browser window helper Java target when that target is not compiled into the build.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Bottom Bar coordinator tests
+// summary: Robolectric unit tests for GoogleBottomBarCoordinator covering feature enablement, button updates, and histogram logging.
+// ---
+
 package org.chromium.chrome.browser.ui.google_bottom_bar;
 
 import static org.junit.Assert.assertEquals;

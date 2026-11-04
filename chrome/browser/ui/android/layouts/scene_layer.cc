@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native SceneLayer implementation
+// summary: Implements the native SceneLayer that wraps a cc::slim::Layer, binds to its Java counterpart via JNI, and handles detach, removal, and destruction.
+// ---
+
 #include "chrome/browser/ui/android/layouts/scene_layer.h"
 
 #include "cc/slim/layer.h"

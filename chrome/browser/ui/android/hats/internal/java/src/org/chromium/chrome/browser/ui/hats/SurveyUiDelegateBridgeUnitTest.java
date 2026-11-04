@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurveyUiDelegateBridge unit tests
+// summary: Robolectric unit tests verifying SurveyUiDelegateBridge creation from native pointers and messages and its survey invitation behavior.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import static org.junit.Assert.assertNotNull;

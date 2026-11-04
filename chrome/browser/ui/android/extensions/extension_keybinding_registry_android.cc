@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension keybinding registry implementation
+// summary: Implements the Android extension keybinding registry that populates commands, registers accelerators, and handles key down events for extension actions.
+// ---
+
 #include "chrome/browser/ui/android/extensions/extension_keybinding_registry_android.h"
 
 #include "base/functional/bind.h"

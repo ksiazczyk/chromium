@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSidePanelManagerBridgeImpl
+// summary: Implements the extension side panel manager bridge, creating and destroying the corresponding native bridge on task lifecycle events.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions.side_panel;
 
 import org.jni_zero.CalledByNative;

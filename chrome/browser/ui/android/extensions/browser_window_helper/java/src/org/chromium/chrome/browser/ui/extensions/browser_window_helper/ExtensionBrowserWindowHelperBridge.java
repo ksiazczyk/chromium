@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionBrowserWindowHelperBridge
+// summary: Java bridge interface for the native extensions::ExtensionBrowserWindowHelper, extending ChromeAndroidTaskFeature so its lifecycle stays in sync with a ChromeAndroidTask.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions.browser_window_helper;
 
 import org.chromium.build.annotations.NullMarked;

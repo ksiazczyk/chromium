@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsToolbarBridge
+// summary: JNI bridge letting the Android UI interact with extension toolbar actions, covering action lookup, icons, pinned action IDs, draggability and observer notifications.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import android.graphics.Bitmap;

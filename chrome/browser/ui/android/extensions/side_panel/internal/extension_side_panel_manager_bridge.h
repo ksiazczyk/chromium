@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension side panel manager bridge declaration
+// summary: Declares the native bridge that owns a window-scoped ExtensionSidePanelManager and manages its lifecycle alongside the Java bridge.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_EXTENSIONS_SIDE_PANEL_INTERNAL_EXTENSION_SIDE_PANEL_MANAGER_BRIDGE_H_
 #define CHROME_BROWSER_UI_ANDROID_EXTENSIONS_SIDE_PANEL_INTERNAL_EXTENSION_SIDE_PANEL_MANAGER_BRIDGE_H_
 

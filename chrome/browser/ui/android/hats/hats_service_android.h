@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android HaTS service header
+// summary: Declares HatsServiceAndroid, a per-profile service that decides when surveys should be shown and manages delayed survey tasks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_HATS_HATS_SERVICE_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_HATS_HATS_SERVICE_ANDROID_H_
 

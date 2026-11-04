@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorAnimator
+// summary: Animator class for driving browser compositor animations with durations, delays, interpolators, and listeners.
+// ---
+
 package org.chromium.chrome.browser.layouts.animation;
 
 import android.animation.Animator;

@@ -1,0 +1,4 @@
+# Docerion header of test_extension_setup.sh.
+type: script
+title: Test extension setup script for Desktop Android
+summary: Shell script that validates a Desktop Android build, installs the Chrome and CustomTabsClientExample APKs, and pushes the test extension to a connected device.

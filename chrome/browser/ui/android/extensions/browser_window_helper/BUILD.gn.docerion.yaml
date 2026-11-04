@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android browser window helper
+summary: Defines the public Java library and android_library_factory targets that build the ExtensionBrowserWindowHelper bridge and its factory for Android.

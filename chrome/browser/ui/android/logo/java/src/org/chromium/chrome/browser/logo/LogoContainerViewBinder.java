@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoContainerViewBinder
+// summary: View binder that maps LogoProperties keys to updates on the LogoContainerView, such as alpha, margins, visibility, and logo changes.
+// ---
+
 package org.chromium.chrome.browser.logo;
 
 import android.view.View;

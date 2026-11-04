@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Survey UI Delegate JNI Bridge Implementation
+// summary: Implements the SurveyUiDelegateAndroid JNI bridge that creates Java-side delegates for showing or dismissing survey invitation messages.
+// ---
+
 #include "chrome/browser/ui/android/hats/survey_ui_delegate_android.h"
 
 #include "base/logging.h"

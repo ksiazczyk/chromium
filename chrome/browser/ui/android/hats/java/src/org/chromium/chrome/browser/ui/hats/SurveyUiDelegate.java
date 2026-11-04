@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurveyUiDelegate interface for survey invitation UI
+// summary: Interface representing the survey invitation UI, letting features customize presentation with callbacks for accepted, declined, and failed outcomes.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import org.chromium.build.annotations.NullMarked;

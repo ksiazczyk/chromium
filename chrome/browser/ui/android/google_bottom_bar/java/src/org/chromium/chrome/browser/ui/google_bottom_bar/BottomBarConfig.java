@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Bottom Bar configuration model
+// summary: Defines the BottomBarConfig container holding variant layout types, button IDs, spotlight button, button list, and bar height for the Google Bottom Bar.
+// ---
+
 package org.chromium.chrome.browser.ui.google_bottom_bar;
 
 import android.app.PendingIntent;

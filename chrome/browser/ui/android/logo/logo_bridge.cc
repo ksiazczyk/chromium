@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ implementation of the LogoBridge JNI bridge
+// summary: Implements the native side of LogoBridge, converting search provider logos to Java objects and forwarding availability events to Java observers.
+// ---
+
 #include "chrome/browser/ui/android/logo/logo_bridge.h"
 
 #include <jni.h>

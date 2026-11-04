@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Extensions empty state color resources
+summary: Defines color resources for the extensions empty state UI, referencing Material palette colors for gradient, primary, background, and stroke values.
+-->
+
 <resources>
     <color name="empty_state_extensions_gradient_start">@color/material_primary_90</color>
     <color name="empty_state_extensions_gradient_end">@color/material_secondary_90</color>

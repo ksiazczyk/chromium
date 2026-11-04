@@ -1,3 +1,9 @@
+---
+type: readme
+title: chrome.windows Test Extension README
+summary: Instructions for building the desktop Android APK and loading the chrome.windows test extension onto a device via adb push and developer mode.
+---
+
 # `chrome.windows` Test Extension
 
 This folder contains a test extension for `chrome.windows` APIs.

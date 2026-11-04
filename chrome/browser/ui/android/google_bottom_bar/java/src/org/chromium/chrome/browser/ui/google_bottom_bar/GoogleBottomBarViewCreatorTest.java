@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GoogleBottomBarViewCreatorTest
+// summary: Unit tests for GoogleBottomBarViewCreator, covering bottom bar button creation, variant layouts, and histogram logging in Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.ui.google_bottom_bar;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action context menu bridge header
+// summary: Declares the bridge class that manages the extension context menu model and menu model bridge for Android toolbar actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_EXTENSIONS_EXTENSION_ACTION_CONTEXT_MENU_BRIDGE_H_
 #define CHROME_BROWSER_UI_ANDROID_EXTENSIONS_EXTENSION_ACTION_CONTEXT_MENU_BRIDGE_H_
 

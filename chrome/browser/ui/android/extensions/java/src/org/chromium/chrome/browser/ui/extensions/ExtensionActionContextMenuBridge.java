@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionContextMenuBridge
+// summary: JNI bridge that owns the model backing the toolbar extension action's context menu and cleans up its native counterpart on destroy.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import org.jni_zero.JNINamespace;

@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: ExtensionWindowControllerBridgeIntegrationTest
+// summary: JUnit integration tests verifying that the extension window controller bridge is attached to Chrome Android tasks and behaves correctly across activities and window changes.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions.windowing;
 
 import static org.junit.Assert.assertEquals;

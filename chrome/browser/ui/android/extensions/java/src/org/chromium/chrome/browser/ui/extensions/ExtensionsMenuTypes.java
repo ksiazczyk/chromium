@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsMenuTypes
+// summary: Defines Java types mirroring the C++ ExtensionsMenuViewModel structures, such as menu entry and site settings state, for passing menu data across the JNI boundary.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import android.graphics.Bitmap;

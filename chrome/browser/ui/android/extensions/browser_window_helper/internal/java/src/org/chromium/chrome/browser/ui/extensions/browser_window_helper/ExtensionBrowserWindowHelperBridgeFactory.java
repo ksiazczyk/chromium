@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionBrowserWindowHelperBridgeFactory
+// summary: Factory that creates the internal ExtensionBrowserWindowHelperBridge implementation, returning the impl class for extension browser window support.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions.browser_window_helper;
 
 import org.chromium.build.annotations.NullMarked;

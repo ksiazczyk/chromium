@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionSidePanelContents unit tests
+// summary: Robolectric unit tests for ExtensionSidePanelContents, covering creation failure cases with null context or intent request tracker and successful setup with delegates and ThinWebView attachment.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions.side_panel;
 
 import static org.junit.Assert.assertEquals;

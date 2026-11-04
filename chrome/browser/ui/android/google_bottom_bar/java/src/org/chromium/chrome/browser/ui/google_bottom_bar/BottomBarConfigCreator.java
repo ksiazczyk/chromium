@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Google Bottom Bar config creator
+// summary: Creates a BottomBarConfig from intent params and custom button parameters, mapping supported custom button IDs to bottom bar buttons.
+// ---
+
 package org.chromium.chrome.browser.ui.google_bottom_bar;
 
 import static org.chromium.chrome.browser.preferences.ChromePreferenceKeys.IS_CHROME_DEFAULT_SEARCH_ENGINE_GOOGLE;

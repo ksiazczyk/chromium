@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension side panel contents class declaration
+// summary: Declares ExtensionSidePanelContentsAndroid, the native view class bridging ExtensionViewHost to the Java side panel contents with observer support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_EXTENSIONS_SIDE_PANEL_INTERNAL_EXTENSION_SIDE_PANEL_CONTENTS_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_EXTENSIONS_SIDE_PANEL_INTERNAL_EXTENSION_SIDE_PANEL_CONTENTS_ANDROID_H_
 

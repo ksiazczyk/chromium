@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the directory
+summary: Declares the monorail component UI>Browser>Mobile>CustomTabs, the Android OS, and the public buganizer component for issues in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Java test support for extension window controller bridge native unit tests
+// summary: Java helper invoked by native code to instantiate and exercise ExtensionWindowControllerBridgeImpl in the extension_window_controller_bridge_unittest.cc tests.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions.windowing;
 
 import android.graphics.Rect;

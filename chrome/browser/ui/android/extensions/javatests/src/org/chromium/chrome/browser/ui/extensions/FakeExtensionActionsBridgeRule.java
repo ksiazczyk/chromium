@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeExtensionActionsBridgeRule
+// summary: JUnit rule that installs and uninstalls a FakeExtensionActionsBridge around each test.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import org.junit.rules.ExternalResource;

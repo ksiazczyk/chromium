@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for chrome/browser/ui/android/lens
+summary: Lists huangs@chromium.org as the code owner for the Lens Android UI directory.

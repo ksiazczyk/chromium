@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for extension windowing native unit test support
+summary: Defines a test-only Android library and JNI generation that let native unit tests exercise the extension windowing controller bridge.

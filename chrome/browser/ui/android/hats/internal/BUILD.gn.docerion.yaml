@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for HaTS survey client internals
+summary: Defines GN build targets for the HaTS survey client Java library, its survey controller library, JNI header generation, and Robolectric unit tests in Chromium's Android UI.

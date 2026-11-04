@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionUtilBridge
+// summary: JNI bridge with static extension utilities such as locating or creating files under Downloads and fetching omnibox icons.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions;
 
 import android.content.ContentResolver;

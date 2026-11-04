@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google bottom bar intent params protobuf definition
+// summary: Defines the GoogleBottomBarIntentParams protobuf message used to pass encoded buttons and variant layout settings to the Google bottom bar UI.
+// ---
+
 syntax = "proto2";
 
 package org.chromium.chrome.browser.ui.google_bottom_bar.proto;

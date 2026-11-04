@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for survey config creation
+// summary: Unit test verifying that the demo survey config is read with the expected probability and product-specific data fields.
+// ---
+
 package org.chromium.chrome.browser.ui.hats;
 
 import androidx.test.filters.SmallTest;

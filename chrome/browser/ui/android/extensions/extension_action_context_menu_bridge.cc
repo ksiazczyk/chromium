@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action context menu bridge implementation
+// summary: Implements the JNI bridge that builds and exposes the context menu model for extension toolbar actions on Android.
+// ---
+
 #include "chrome/browser/ui/android/extensions/extension_action_context_menu_bridge.h"
 
 #include "base/android/jni_android.h"

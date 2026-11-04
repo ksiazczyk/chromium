@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay controller Android implementation
+// summary: Implements the native side of the Android Lens overlay coordinator, capturing renderer surface screenshots and forwarding results to the Java UI.
+// ---
+
 #include "chrome/browser/ui/android/lens/lens_overlay_controller_android.h"
 
 #include "base/android/jni_android.h"

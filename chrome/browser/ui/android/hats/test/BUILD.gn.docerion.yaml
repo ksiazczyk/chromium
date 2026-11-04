@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for HaTS survey test support
+summary: Defines test-only Java and C++ targets plus JNI header generation for the HaTS survey testing utilities in Chromium.

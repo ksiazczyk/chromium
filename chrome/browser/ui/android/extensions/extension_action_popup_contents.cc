@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action popup contents implementation
+// summary: Implements the native contents of an extension popup on Android, hosting the extension WebContents and bridging it to the Java UI.
+// ---
+
 #include "chrome/browser/ui/android/extensions/extension_action_popup_contents.h"
 
 #include "base/android/jni_string.h"

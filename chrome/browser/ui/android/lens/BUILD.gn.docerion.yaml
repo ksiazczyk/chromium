@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Lens overlay Android UI
+summary: Defines GN build targets for the Android Lens overlay, including JNI header generation, the native source set, the Java library, and Robolectric unit tests.

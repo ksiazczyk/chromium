@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the HaTS Android directory
+summary: Points to the shared HaTS and Chrome survey OWNERS files that govern reviews in this directory.

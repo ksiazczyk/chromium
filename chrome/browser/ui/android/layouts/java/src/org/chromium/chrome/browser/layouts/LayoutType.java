@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutType
+// summary: IntDef annotation defining bit flag constants for layout types such as browsing, hub, toolbar swipe, and simple animation.
+// ---
+
 package org.chromium.chrome.browser.layouts;
 
 import androidx.annotation.IntDef;

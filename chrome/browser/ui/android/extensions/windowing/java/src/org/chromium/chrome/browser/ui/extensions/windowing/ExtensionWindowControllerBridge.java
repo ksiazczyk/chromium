@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionWindowControllerBridge
+// summary: Java interface providing access to cross-platform extension windowing code, extending ChromeAndroidTaskFeature so instances share the ChromeAndroidTask lifecycle.
+// ---
+
 package org.chromium.chrome.browser.ui.extensions.windowing;
 
 import org.chromium.build.annotations.NullMarked;

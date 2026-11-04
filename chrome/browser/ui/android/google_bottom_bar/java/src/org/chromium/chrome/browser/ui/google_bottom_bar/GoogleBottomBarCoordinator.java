@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Bottom Bar coordinator
+// summary: Coordinator for the Google Bottom Bar module that checks feature flags, exposes supported custom button IDs, and initializes the view.
+// ---
+
 package org.chromium.chrome.browser.ui.google_bottom_bar;
 
 import android.app.Activity;
