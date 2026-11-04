@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device connection tracker implementation
+// summary: Implements DeviceConnectionTracker, which tracks per-origin device connection counts for a profile and updates the system tray icon accordingly.
+// ---
+
 #include "chrome/browser/device_notifications/device_connection_tracker.h"
 
 #include <algorithm>

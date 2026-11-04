@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceAuthAvailabilityCheckerBridgeTest
+// summary: Robolectric unit tests verifying the biometric availability status reporting and testing override of DeviceAuthAvailabilityCheckerBridge.
+// ---
+
 package org.chromium.chrome.browser.device_reauth;
 
 import static org.junit.Assert.assertEquals;

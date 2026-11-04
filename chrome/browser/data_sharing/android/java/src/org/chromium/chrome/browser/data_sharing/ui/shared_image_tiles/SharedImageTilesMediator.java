@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageTilesMediator
+// summary: Placeholder mediator meant to hold the logic that updates the shared image tiles model state and reacts to clicks, currently left as a TODO.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.shared_image_tiles;
 
 import org.chromium.build.annotations.NullMarked;

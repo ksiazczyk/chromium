@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser features unit tests
+// summary: Unit tests verifying default browser feature flag behavior, including prompt surfaces, sticky modal, setter selection, and OS notification settings across platforms.
+// ---
+
 #include "chrome/browser/default_browser/default_browser_features.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed configuration service unit tests
+// summary: Unit tests covering service creation, observer change notifications, single-observer behavior, and restrictions in incognito or isolated profiles.
+// ---
+
 #include "chrome/browser/device_api/managed_configuration_service.h"
 
 #include <memory>

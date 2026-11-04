@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorMac interface header
+// summary: Declares an interface for checking biometric availability and performing non-biometric user authentication on macOS.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_MAC_AUTHENTICATOR_MAC_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_MAC_AUTHENTICATOR_MAC_H_
 

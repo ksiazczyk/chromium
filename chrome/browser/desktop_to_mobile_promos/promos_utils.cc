@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of desktop to iOS promo utilities
+// summary: Implements promo eligibility checks with impression limits, cooldowns and opt-out rules, plus histogram recording and pref updates for desktop to iOS promos.
+// ---
+
 #include "chrome/browser/desktop_to_mobile_promos/promos_utils.h"
 
 #include <algorithm>

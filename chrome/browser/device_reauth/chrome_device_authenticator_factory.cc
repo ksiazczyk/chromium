@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome device authenticator factory implementation
+// summary: Implements the ChromeDeviceAuthenticatorFactory, a profile-keyed service factory that creates platform-specific device authenticators and availability checkers.
+// ---
+
 #include "chrome/browser/device_reauth/chrome_device_authenticator_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

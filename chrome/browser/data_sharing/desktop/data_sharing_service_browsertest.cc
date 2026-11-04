@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the data sharing service
+// summary: Browser tests verifying group reads by ID and by access token through the data sharing service, skipped in branded builds.
+// ---
+
 #include "components/data_sharing/public/data_sharing_service.h"
 
 #include "base/run_loop.h"

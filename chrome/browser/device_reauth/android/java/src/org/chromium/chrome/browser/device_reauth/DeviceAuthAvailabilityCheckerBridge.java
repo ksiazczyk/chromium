@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthAvailabilityCheckerBridge
+// summary: Static helpers that check biometric and screen lock availability via Android system services and expose the results to native code through JNI.
+// ---
+
 package org.chromium.chrome.browser.device_reauth;
 
 import android.app.KeyguardManager;

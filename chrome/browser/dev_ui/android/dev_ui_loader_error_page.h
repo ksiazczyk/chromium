@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevUI loader error page header
+// summary: Declares BuildErrorPageHtml, which produces the HTML shown when loading a DevUI page fails.
+// ---
+
 #ifndef CHROME_BROWSER_DEV_UI_ANDROID_DEV_UI_LOADER_ERROR_PAGE_H_
 #define CHROME_BROWSER_DEV_UI_ANDROID_DEV_UI_LOADER_ERROR_PAGE_H_
 

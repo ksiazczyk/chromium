@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser notification observer
+// summary: Observes default browser state changes and displays a system notification with action buttons when Chrome loses its default browser status.
+// ---
+
 #include "chrome/browser/default_browser/default_browser_notification_observer.h"
 
 #include <optional>

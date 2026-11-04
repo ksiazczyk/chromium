@@ -1,0 +1,4 @@
+# Docerion header of device_authenticator_mac.mm.
+type: source
+title: DeviceAuthenticatorMac implementation
+summary: Implements macOS reauthentication with Touch ID or asynchronous password fallback, including metrics, validity handling and cancellation.

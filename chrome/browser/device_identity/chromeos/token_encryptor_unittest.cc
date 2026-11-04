@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Token encryptor unit tests
+// summary: Unit tests verifying round-trip encryption and decryption with the system salt and the no-op behavior outside of ChromeOS.
+// ---
+
 #include "chrome/browser/device_identity/chromeos/token_encryptor.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceOAuth2TokenStoreDesktop class header
+// summary: Declares the desktop implementation of DeviceOAuth2TokenStore that encrypts and persists the CBCM service account refresh token and email in Local State prefs.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_IDENTITY_DEVICE_OAUTH2_TOKEN_STORE_DESKTOP_H_
 #define CHROME_BROWSER_DEVICE_IDENTITY_DEVICE_OAUTH2_TOKEN_STORE_DESKTOP_H_
 

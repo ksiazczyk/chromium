@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser changed notification handler implementation
+// summary: Implements show, close, and click handling for the default browser changed OS notification, forwarding events to a per-notification controller.
+// ---
+
 #include "chrome/browser/default_browser/default_browser_changed_notification_handler.h"
 
 #include "base/functional/callback_helpers.h"

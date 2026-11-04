@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser controller implementation
+// summary: Implements the controller that bridges UI entrypoints to default browser setters and records shown, interaction, and result metrics.
+// ---
+
 #include "chrome/browser/default_browser/default_browser_controller.h"
 
 #include <string>

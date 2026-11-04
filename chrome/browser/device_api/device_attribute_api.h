@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device attribute API interface
+// summary: Declares the DeviceAttributeApi interface and its DeviceAttributeApiImpl implementation used to serve device attribute values to the DeviceAPIService.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_API_DEVICE_ATTRIBUTE_API_H_
 #define CHROME_BROWSER_DEVICE_API_DEVICE_ATTRIBUTE_API_H_
 

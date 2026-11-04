@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal collaboration data service factory implementation
+// summary: Implements the profile-keyed factory that builds a PersonalCollaborationDataServiceImpl with a sync processor when the data sharing features are enabled.
+// ---
+
 #include "chrome/browser/data_sharing/personal_collaboration_data/personal_collaboration_data_service_factory.h"
 
 #include <memory>

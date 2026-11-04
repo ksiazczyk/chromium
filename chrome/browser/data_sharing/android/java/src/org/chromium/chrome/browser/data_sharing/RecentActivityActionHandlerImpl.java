@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent activity action handler implementation
+// summary: Handles recent activity actions for shared tab groups, including focusing and reopening tabs, opening the tab group edit dialog and managing sharing.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

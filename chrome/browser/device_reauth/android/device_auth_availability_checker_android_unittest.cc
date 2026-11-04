@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Android device auth availability checker
+// summary: Unit tests for the Android availability checker that use a mock bridge to verify biometric and screen lock availability results and status mapping.
+// ---
+
 #include "chrome/browser/device_reauth/android/device_auth_availability_checker_android.h"
 
 #include <memory>

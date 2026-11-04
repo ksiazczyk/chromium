@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows device authenticator
+// summary: Tests DeviceAuthenticatorWin authentication flows, reauthentication skipping within the validity period, and metrics using a mocked system authenticator and histogram tester.
+// ---
+
 #include "chrome/browser/device_reauth/win/device_authenticator_win.h"
 
 #include <memory>

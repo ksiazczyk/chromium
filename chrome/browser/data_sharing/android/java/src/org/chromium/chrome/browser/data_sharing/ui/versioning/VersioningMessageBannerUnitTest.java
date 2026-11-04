@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VersioningMessageBannerUnitTest
+// summary: Robolectric unit tests verifying banner display conditions, including off-the-record profiles and backend show decisions.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.versioning;
 
 import static org.junit.Assert.assertEquals;

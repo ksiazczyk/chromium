@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent activity list mediator unit tests
+// summary: Robolectric unit tests for the recent activity list mediator, verifying list population, favicons, avatars and click handling.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.recent_activity;
 
 import static org.mockito.ArgumentMatchers.any;

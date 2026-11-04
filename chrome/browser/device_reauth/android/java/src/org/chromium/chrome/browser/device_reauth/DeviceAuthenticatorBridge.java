@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthenticatorBridge
+// summary: JNI bridge that forwards device authentication requests from native code to DeviceAuthenticatorController and reports authentication results back to C++.
+// ---
+
 package org.chromium.chrome.browser.device_reauth;
 
 import androidx.fragment.app.FragmentActivity;

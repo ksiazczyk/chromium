@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome device authenticator factory header
+// summary: Declares the ChromeDeviceAuthenticatorFactory, a ProfileKeyedServiceFactory providing static methods to create device authenticators per platform.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_CHROME_DEVICE_AUTHENTICATOR_FACTORY_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_CHROME_DEVICE_AUTHENTICATOR_FACTORY_H_
 

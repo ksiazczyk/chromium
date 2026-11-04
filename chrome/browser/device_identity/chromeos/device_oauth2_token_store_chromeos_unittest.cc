@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS device OAuth2 token store unit tests
+// summary: Unit tests for the ChromeOS device OAuth2 token store covering token loading, saving and robot account handling with fake cryptohome and settings services.
+// ---
+
 #include "chrome/browser/device_identity/chromeos/device_oauth2_token_store_chromeos.h"
 
 #include "base/files/file_util.h"

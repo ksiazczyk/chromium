@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device auth availability checker implementation
+// summary: Implements the Android device auth availability checker, using a JNI bridge to report biometric and screen lock availability and map it to biometric status values.
+// ---
+
 #include "chrome/browser/device_reauth/android/device_auth_availability_checker_android.h"
 
 #include <utility>

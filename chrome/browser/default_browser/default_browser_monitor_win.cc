@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows default browser monitor
+// summary: Windows implementation of DefaultBrowserMonitor that watches the http and https UserChoice registry keys and notifies observers on each change.
+// ---
+
 #include "chrome/browser/default_browser/default_browser_monitor.h"
 
 #include <windows.h>

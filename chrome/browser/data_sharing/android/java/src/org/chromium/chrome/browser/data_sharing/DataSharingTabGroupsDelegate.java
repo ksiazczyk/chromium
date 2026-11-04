@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingTabGroupsDelegate
+// summary: Interface for tab group actions such as opening a shared group, showing tabs, launching intents, and creating share sheet preview bitmaps.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import android.content.Context;

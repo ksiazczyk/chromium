@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DeviceAuthenticatorChromeOS
+// summary: Unit tests covering authentication flows, cancellation, validity periods and availability checks with a mock system authenticator.
+// ---
+
 #include "chrome/browser/device_reauth/chromeos/device_authenticator_chromeos.h"
 
 #include "ash/constants/ash_features.h"

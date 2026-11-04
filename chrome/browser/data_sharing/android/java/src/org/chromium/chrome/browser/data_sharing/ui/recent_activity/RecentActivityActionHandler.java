@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentActivityActionHandler click event interface
+// summary: Interface for handling click events on recent activity rows, such as focusing or reopening tabs and opening group dialogs.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.recent_activity;
 
 import org.chromium.build.annotations.NullMarked;

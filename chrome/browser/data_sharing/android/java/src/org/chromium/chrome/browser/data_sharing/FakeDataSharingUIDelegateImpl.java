@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake data sharing UI delegate implementation
+// summary: Fake implementation of DataSharingUIDelegate that records create, join and manage UI configs and returns stub avatar bitmaps for testing data sharing flows.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

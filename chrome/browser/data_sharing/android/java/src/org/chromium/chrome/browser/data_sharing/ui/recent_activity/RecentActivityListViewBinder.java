@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentActivityListViewBinder
+// summary: Binds recent activity row properties to their views, setting the title, description and timestamp text, favicon and avatar images, and the click listener.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.recent_activity;
 
 import static org.chromium.chrome.browser.data_sharing.ui.recent_activity.RecentActivityListProperties.AVATAR_PROVIDER;

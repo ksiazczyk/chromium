@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows availability checker
+// summary: Tests DeviceAuthAvailabilityCheckerWin biometric and screen lock availability logic and availability caching with a mocked system authenticator and histogram checks.
+// ---
+
 #include "chrome/browser/device_reauth/win/device_auth_availability_checker_win.h"
 
 #include <memory>

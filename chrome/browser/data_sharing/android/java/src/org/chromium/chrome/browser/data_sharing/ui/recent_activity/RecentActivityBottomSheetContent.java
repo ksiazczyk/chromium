@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent activity bottom sheet content
+// summary: Implements the bottom sheet content that displays the list of recent activities for a collaboration, with accessibility strings and lifecycle settings.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.recent_activity;
 
 import android.content.Context;

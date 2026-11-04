@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed configuration API factory header
+// summary: Declares ManagedConfigurationAPIFactory, a ProfileKeyedServiceFactory providing per-profile access to the ManagedConfigurationAPI service.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_API_MANAGED_CONFIGURATION_API_FACTORY_H_
 #define CHROME_BROWSER_DEVICE_API_MANAGED_CONFIGURATION_API_FACTORY_H_
 

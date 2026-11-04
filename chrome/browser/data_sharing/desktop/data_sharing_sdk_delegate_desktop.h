@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop data sharing SDK delegate header
+// summary: Declares the desktop DataSharingSDKDelegate class that gives the data sharing service access to SDK operations via the WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_DATA_SHARING_DESKTOP_DATA_SHARING_SDK_DELEGATE_DESKTOP_H_
 #define CHROME_BROWSER_DATA_SHARING_DESKTOP_DATA_SHARING_SDK_DELEGATE_DESKTOP_H_
 

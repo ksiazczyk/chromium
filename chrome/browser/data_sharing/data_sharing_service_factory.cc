@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing service factory implementation
+// summary: Builds the profile-keyed DataSharingService with platform specific UI and SDK delegates, falling back to an empty service when disabled.
+// ---
+
 #include "chrome/browser/data_sharing/data_sharing_service_factory.h"
 
 #include <memory>

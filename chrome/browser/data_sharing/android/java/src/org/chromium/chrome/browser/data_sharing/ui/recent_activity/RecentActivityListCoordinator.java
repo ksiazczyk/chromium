@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent activity list coordinator
+// summary: Coordinates the recent activity UI by managing the bottom sheet and building the list of recent activities with favicon and avatar providers.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.recent_activity;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab grid dialog share bottom sheet content
+// summary: Bottom sheet content that presents the data sharing share sheet within the tab grid dialog, with high priority and wrap-content height.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device system tray icon unit tests
+// summary: Implements shared unit test logic for device system tray icons, including testing profiles, extensions, and connection scenarios.
+// ---
+
 #include "chrome/browser/device_notifications/device_system_tray_icon_unittest.h"
 
 #include <memory>

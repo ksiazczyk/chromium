@@ -1,0 +1,4 @@
+# Docerion header of authenticator_mac.mm.
+type: source
+title: AuthenticatorMac implementation
+summary: Implements biometric and screen-lock availability checks via LocalAuthentication and delegates password authentication to password manager utilities.

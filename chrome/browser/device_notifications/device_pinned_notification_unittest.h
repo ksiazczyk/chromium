@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device pinned notification test base class declaration
+// summary: Declares a test base class for verifying pinned device notification behavior through the notification display service.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_NOTIFICATIONS_DEVICE_PINNED_NOTIFICATION_UNITTEST_H_
 #define CHROME_BROWSER_DEVICE_NOTIFICATIONS_DEVICE_PINNED_NOTIFICATION_UNITTEST_H_
 

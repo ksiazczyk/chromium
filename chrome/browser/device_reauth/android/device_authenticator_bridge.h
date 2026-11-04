@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device authenticator bridge interface and enums
+// summary: Defines the C++ to Java bridge interface for biometric authentication plus the DeviceAuthUIResult and BiometricsAvailability enums shared with Java.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_ANDROID_DEVICE_AUTHENTICATOR_BRIDGE_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_ANDROID_DEVICE_AUTHENTICATOR_BRIDGE_H_
 

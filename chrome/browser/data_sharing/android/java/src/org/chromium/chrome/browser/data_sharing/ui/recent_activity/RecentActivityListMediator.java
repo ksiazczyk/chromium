@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent activity list mediator
+// summary: Core business logic that populates the recent activity list model from the messaging backend and reacts to tab group sync changes.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.recent_activity;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

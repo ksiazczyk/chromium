@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Data Sharing Android ID Resources
+summary: Declares the see_full_activity menu item ID for the Android data sharing UI.
+-->
+
 <resources>
     <!-- Menu IDs -->
     <item type="id" name="see_full_activity" />

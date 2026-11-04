@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageTilesConfig
+// summary: Styling configuration for the shared image tiles UI, holding sizes, colors and text style, with a builder that defaults to dynamic colors and 28dp tiles.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.shared_image_tiles;
 
 import android.content.Context;

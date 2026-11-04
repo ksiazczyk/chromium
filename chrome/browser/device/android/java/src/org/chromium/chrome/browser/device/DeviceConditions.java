@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceConditions
+// summary: Captures a snapshot of the device's network and power conditions, including power connection, battery percentage, connection type, power save mode and screen state.
+// ---
+
 package org.chromium.chrome.browser.device;
 
 import android.app.KeyguardManager;

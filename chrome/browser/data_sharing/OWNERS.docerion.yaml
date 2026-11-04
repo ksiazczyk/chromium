@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the data_sharing directory
+summary: Lists code owners for the directory, including the shared component owners file and reviewers for Android UI changes.

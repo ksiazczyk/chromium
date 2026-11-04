@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data sharing navigation throttle unit tests
+// summary: Unit tests verifying when the throttle intercepts renderer and browser initiated navigations using a mock collaboration service.
+// ---
+
 #include "chrome/browser/data_sharing/data_sharing_navigation_throttle.h"
 
 #include "base/test/scoped_feature_list.h"

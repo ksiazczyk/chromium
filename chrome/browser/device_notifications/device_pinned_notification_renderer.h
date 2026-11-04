@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device pinned notification renderer class declaration
+// summary: Declares DevicePinnedNotificationRenderer, a tray icon renderer that shows pinned notifications while devices are being accessed.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_NOTIFICATIONS_DEVICE_PINNED_NOTIFICATION_RENDERER_H_
 #define CHROME_BROWSER_DEVICE_NOTIFICATIONS_DEVICE_PINNED_NOTIFICATION_RENDERER_H_
 

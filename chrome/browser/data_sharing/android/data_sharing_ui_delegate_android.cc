@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native implementation of the Android data sharing UI delegate
+// summary: Implements DataSharingUIDelegateAndroid, lazily creating its Java counterpart and forwarding intercepted share URLs to Java.
+// ---
+
 #include "chrome/browser/data_sharing/android/data_sharing_ui_delegate_android.h"
 
 #include "base/android/jni_string.h"

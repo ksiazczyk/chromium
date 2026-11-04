@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop device OAuth2 token store implementation
+// summary: Implements encrypted storage of the CBCM service account refresh token and email in local state prefs for desktop platforms.
+// ---
+
 #include "chrome/browser/device_identity/device_oauth2_token_store_desktop.h"
 
 #include <string>

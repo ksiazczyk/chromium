@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser controller unit tests
+// summary: Unit tests verifying controller metrics for shown, ignored, dismissed, and accepted outcomes using a mock default browser setter.
+// ---
+
 #include "chrome/browser/default_browser/default_browser_controller.h"
 
 #include <memory>

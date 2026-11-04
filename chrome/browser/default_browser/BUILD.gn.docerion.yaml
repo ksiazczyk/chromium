@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Default browser build targets
+summary: Defines GN build targets for the default browser module, including the main source set, test support, unit tests, and browser tests.

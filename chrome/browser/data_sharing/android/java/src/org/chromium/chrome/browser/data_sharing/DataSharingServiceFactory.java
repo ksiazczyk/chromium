@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingServiceFactory
+// summary: Factory that creates or retrieves the DataSharingService for a given profile via JNI, with support for overriding the service in tests.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import org.jni_zero.JniType;

@@ -1,0 +1,4 @@
+# Docerion header of device_auth_availability_checker_mac_unittest.mm.
+type: test
+title: DeviceAuthAvailabilityCheckerMac unit tests
+summary: Parameterized tests verifying biometric and screen-lock availability results, histogram logging and pref updates using a mock authenticator.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for desktop to mobile promos
+summary: Defines the utils source set and the non-Android unit_tests target with their sources and dependencies for the desktop to mobile promos code.

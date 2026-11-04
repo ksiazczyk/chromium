@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing service factory header
+// summary: Declares a profile-keyed factory that returns the DataSharingService for a profile, providing an empty implementation when the feature is disabled.
+// ---
+
 #ifndef CHROME_BROWSER_DATA_SHARING_DATA_SHARING_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_DATA_SHARING_DATA_SHARING_SERVICE_FACTORY_H_
 

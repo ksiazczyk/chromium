@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthAvailabilityCheckerChromeOS class declaration
+// summary: Declares the ChromeOS availability checker that reports whether biometrics or PIN authentication can be used for device reauth.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_CHROMEOS_DEVICE_AUTH_AVAILABILITY_CHECKER_CHROMEOS_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_CHROMEOS_DEVICE_AUTH_AVAILABILITY_CHECKER_CHROMEOS_H_
 

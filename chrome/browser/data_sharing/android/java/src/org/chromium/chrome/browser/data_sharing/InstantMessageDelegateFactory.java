@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instant message delegate factory
+// summary: Factory that creates and provides a profile-scoped InstantMessageDelegateImpl wired to the messaging, data sharing and tab group sync services.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

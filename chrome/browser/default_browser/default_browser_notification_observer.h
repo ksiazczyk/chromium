@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser notification observer header
+// summary: Declares DefaultBrowserNotificationObserver, which listens for default browser state changes and shows a notification when Chrome is no longer the default.
+// ---
+
 #ifndef CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_BROWSER_NOTIFICATION_OBSERVER_H_
 #define CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_BROWSER_NOTIFICATION_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing navigation utils implementation
+// summary: Implements a singleton that tracks the most recent user interaction per WebContents to decide when a gesture has expired.
+// ---
+
 #include "chrome/browser/data_sharing/data_sharing_navigation_utils.h"
 
 #include <algorithm>

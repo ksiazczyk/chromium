@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device status icon renderer implementation
+// summary: Implements the status tray icon renderer that shows device connection counts per profile and handles menu commands and profile name changes.
+// ---
+
 #include "chrome/browser/device_notifications/device_status_icon_renderer.h"
 
 #include "base/i18n/message_formatter.h"

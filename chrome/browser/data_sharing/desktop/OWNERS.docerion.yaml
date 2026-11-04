@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Data sharing desktop OWNERS file
+summary: Points to the data sharing WebUI OWNERS file to define the approvers for the desktop data sharing directory.

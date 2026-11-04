@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome device authenticator factory unit tests
+// summary: Unit tests for ChromeDeviceAuthenticatorFactory verifying authentication validity periods and per-profile reauthentication behavior.
+// ---
+
 #include "chrome/browser/device_reauth/chrome_device_authenticator_factory.h"
 
 #include "base/test/scoped_feature_list.h"

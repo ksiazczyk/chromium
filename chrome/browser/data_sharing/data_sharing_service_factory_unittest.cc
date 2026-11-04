@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data sharing service factory unit tests
+// summary: Unit tests verifying the factory returns the real service when the feature is enabled, an empty service when disabled, and an empty service in incognito.
+// ---
+
 #include "chrome/browser/data_sharing/data_sharing_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell integration default browser setter class declaration
+// summary: Declares ShellIntegrationDefaultBrowserSetter, which sets Chrome as default directly on Mac and Linux and opens the Windows Settings panel on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_DEFAULT_BROWSER_SETTERS_SHELL_INTEGRATION_DEFAULT_BROWSER_SETTER_H_
 #define CHROME_BROWSER_DEFAULT_BROWSER_SETTERS_SHELL_INTEGRATION_DEFAULT_BROWSER_SETTER_H_
 

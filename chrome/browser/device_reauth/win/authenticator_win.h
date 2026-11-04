@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows authenticator interface and result enums
+// summary: Declares the AuthenticatorWinInterface for OS-level authentication and enums for biometric availability and Windows Hello authentication results that are persisted to logs.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_WIN_AUTHENTICATOR_WIN_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_WIN_AUTHENTICATOR_WIN_H_
 

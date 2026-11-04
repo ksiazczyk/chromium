@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VersioningModalDialogUnitTest
+// summary: Robolectric unit tests verifying dialog button behavior, dismissal handling, and custom message support for the versioning update dialog.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.versioning;
 
 import static org.junit.Assert.assertEquals;

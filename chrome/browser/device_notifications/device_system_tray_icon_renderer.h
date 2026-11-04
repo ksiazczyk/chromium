@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device system tray icon renderer interface
+// summary: Declares the abstract renderer interface for the device system tray icon, covering profile add, remove, and connection update notifications.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_NOTIFICATIONS_DEVICE_SYSTEM_TRAY_ICON_RENDERER_H_
 #define CHROME_BROWSER_DEVICE_NOTIFICATIONS_DEVICE_SYSTEM_TRAY_ICON_RENDERER_H_
 

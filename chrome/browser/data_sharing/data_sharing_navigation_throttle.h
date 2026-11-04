@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing navigation throttle header
+// summary: Declares the DataSharingNavigationThrottle class that can block navigations for data sharing related URLs.
+// ---
+
 #ifndef CHROME_BROWSER_DATA_SHARING_DATA_SHARING_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_DATA_SHARING_DATA_SHARING_NAVIGATION_THROTTLE_H_
 

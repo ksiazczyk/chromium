@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingTabManager
+// summary: Coordinates data sharing UI flows for shared tab groups, handling create, join, manage, and preview flows together with collaboration services.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.chromium.build.NullUtil.assertNonNull;

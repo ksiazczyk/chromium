@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingIntentUtils
+// summary: Utility for building intents that launch the data sharing invitation flow or open the manage UI for a synced tab group.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import android.content.Context;

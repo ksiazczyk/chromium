@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS device OAuth2 token store implementation
+// summary: Implements the ChromeOS device OAuth2 token store that loads, stores and saves encrypted device-level refresh tokens in local state or a file.
+// ---
+
 #include "chrome/browser/device_identity/chromeos/device_oauth2_token_store_chromeos.h"
 
 #include <optional>

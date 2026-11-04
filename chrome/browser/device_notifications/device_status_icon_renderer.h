@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device status icon renderer header
+// summary: Declares the DeviceStatusIconRenderer class that renders the device status tray icon, builds its menu, and observes profile attribute changes.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_NOTIFICATIONS_DEVICE_STATUS_ICON_RENDERER_H_
 #define CHROME_BROWSER_DEVICE_NOTIFICATIONS_DEVICE_STATUS_ICON_RENDERER_H_
 

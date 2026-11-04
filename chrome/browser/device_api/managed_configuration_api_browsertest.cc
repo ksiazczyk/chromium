@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed configuration API browser tests
+// summary: Browser tests exercising managed configuration fetching, storage updates, and change notifications for origins using an embedded test server.
+// ---
+
 #include "chrome/browser/device_api/managed_configuration_api.h"
 
 #include <atomic>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for data sharing conversion utilities
+// summary: Verifies that group data, members and former members are correctly converted from mojom types to protobuf messages.
+// ---
+
 #include "chrome/browser/data_sharing/desktop/data_sharing_conversion_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

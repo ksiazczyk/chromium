@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser changed notification handler header
+// summary: Declares the notification handler class that manages the default browser changed notification and the lifecycle of its controller.
+// ---
+
 #ifndef CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_BROWSER_CHANGED_NOTIFICATION_HANDLER_H_
 #define CHROME_BROWSER_DEFAULT_BROWSER_DEFAULT_BROWSER_CHANGED_NOTIFICATION_HANDLER_H_
 

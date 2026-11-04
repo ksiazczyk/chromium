@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migratable sync service coordinator factory header
+// summary: Declares the singleton ProfileKeyedServiceFactory that provides per-profile access to the MigratableSyncServiceCoordinator.
+// ---
+
 #ifndef CHROME_BROWSER_DATA_SHARING_MIGRATION_MIGRATABLE_SYNC_SERVICE_COORDINATOR_FACTORY_H_
 #define CHROME_BROWSER_DATA_SHARING_MIGRATION_MIGRATABLE_SYNC_SERVICE_COORDINATOR_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows device authenticator implementation
+// summary: Implements DeviceAuthenticatorWin, which triggers Windows Hello or password authentication, caches biometric availability, and records authentication time and metrics.
+// ---
+
 #include "chrome/browser/device_reauth/win/device_authenticator_win.h"
 
 #include "base/functional/bind.h"

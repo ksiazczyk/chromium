@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Data Sharing Android Style Resources
+summary: Defines a bold small text appearance style for shared image tiles in the Android data sharing UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="TextAppearance.SharedImageTilesSmall">
         <item name="android:textSize">@dimen/small_shared_image_tiles_text_size</item>

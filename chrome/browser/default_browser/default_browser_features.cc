@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser feature flags implementation
+// summary: Implements feature flag checks, prompt surface selection, and setter type resolution, including Windows-specific locale and sticky modal logic.
+// ---
+
 #include "chrome/browser/default_browser/default_browser_features.h"
 
 #include <array>

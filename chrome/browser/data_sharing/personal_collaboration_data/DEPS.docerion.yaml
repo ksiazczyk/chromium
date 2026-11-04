@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for personal_collaboration_data
+summary: Restricts dependencies of this directory, allowing only the internal PersonalCollaborationDataServiceImpl header for service construction.

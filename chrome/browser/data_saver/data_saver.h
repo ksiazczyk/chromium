@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data Saver header
+// summary: Declares the data_saver namespace functions for checking, caching and overriding the Data Saver enabled state.
+// ---
+
 #ifndef CHROME_BROWSER_DATA_SAVER_DATA_SAVER_H_
 #define CHROME_BROWSER_DATA_SAVER_DATA_SAVER_H_
 

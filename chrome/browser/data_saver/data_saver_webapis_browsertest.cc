@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data Saver Web APIs browser tests
+// summary: Browser tests verifying the NetInfo saveData attribute reflects the Data Saver state, including toggling and incognito behavior.
+// ---
+
 #include <memory>
 #include <string>
 

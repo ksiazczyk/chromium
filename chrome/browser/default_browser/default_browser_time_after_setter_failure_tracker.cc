@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time after setter failure tracker implementation
+// summary: Implements TimeAfterSetterFailureTracker, recording histograms for whether the default browser was set and the elapsed time after a setter failure.
+// ---
+
 #include "chrome/browser/default_browser/default_browser_time_after_setter_failure_tracker.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device OAuth2 token service factory implementation
+// summary: Creates and manages the DeviceOAuth2TokenService singleton, selecting a platform-specific token store for ChromeOS or desktop.
+// ---
+
 #include "chrome/browser/device_identity/device_oauth2_token_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataSharingAvatarProviderUnitTest
+// summary: Unit tests verifying that DataSharingAvatarProvider requests avatar bitmaps through the UI delegate and delivers drawables via callback.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.mockito.ArgumentMatchers.notNull;

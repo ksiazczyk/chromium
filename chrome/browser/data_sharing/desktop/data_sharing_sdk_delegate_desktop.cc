@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop data sharing SDK delegate implementation
+// summary: Implements the desktop DataSharingSDKDelegate, routing SDK operations such as reading groups and leaving groups through the data sharing WebUI.
+// ---
+
 #include "chrome/browser/data_sharing/desktop/data_sharing_sdk_delegate_desktop.h"
 
 #include "base/notimplemented.h"

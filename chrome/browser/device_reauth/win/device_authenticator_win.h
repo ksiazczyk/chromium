@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows device authenticator interface
+// summary: Declares DeviceAuthenticatorWin, which authenticates users via Windows Hello or screen lock and caches biometric availability for device reauthentication flows.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_WIN_DEVICE_AUTHENTICATOR_WIN_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_WIN_DEVICE_AUTHENTICATOR_WIN_H_
 

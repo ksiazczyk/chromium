@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataSharingFaviconProviderUnitTest
+// summary: Unit tests verifying that DataSharingFaviconProvider delegates favicon fetching to BulkFaviconUtil and returns the resulting drawable.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.mockito.ArgumentMatchers.any;

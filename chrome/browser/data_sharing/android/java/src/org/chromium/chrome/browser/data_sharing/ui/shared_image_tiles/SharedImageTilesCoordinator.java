@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageTilesCoordinator
+// summary: Coordinator that builds the shared image tiles view, wires the model and binder, and fetches member avatar images for a given collaboration ID.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.shared_image_tiles;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

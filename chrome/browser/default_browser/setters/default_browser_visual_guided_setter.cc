@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser visual guided setter implementation
+// summary: Implements the Windows visual guided setter that opens the default browser visual guide page in a new tab and reports completion based on tab and default browser state changes.
+// ---
+
 #include "chrome/browser/default_browser/setters/default_browser_visual_guided_setter.h"
 
 #include <utility>

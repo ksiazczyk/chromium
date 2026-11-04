@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows device auth availability checker interface
+// summary: Declares DeviceAuthAvailabilityCheckerWin, which checks Windows Hello biometric and screen lock or PIN availability using AuthenticatorWinInterface and caches the expensive result.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_REAUTH_WIN_DEVICE_AUTH_AVAILABILITY_CHECKER_WIN_H_
 #define CHROME_BROWSER_DEVICE_REAUTH_WIN_DEVICE_AUTH_AVAILABILITY_CHECKER_WIN_H_
 

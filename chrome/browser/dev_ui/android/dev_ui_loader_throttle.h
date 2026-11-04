@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevUI loader navigation throttle header
+// summary: Declares DevUiLoaderThrottle, a navigation throttle that installs the DevUI DFM on demand and then resumes or cancels the navigation.
+// ---
+
 #ifndef CHROME_BROWSER_DEV_UI_ANDROID_DEV_UI_LOADER_THROTTLE_H_
 #define CHROME_BROWSER_DEV_UI_ANDROID_DEV_UI_LOADER_THROTTLE_H_
 

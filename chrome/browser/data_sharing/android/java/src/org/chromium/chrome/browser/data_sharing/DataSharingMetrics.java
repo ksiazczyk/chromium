@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingMetrics
+// summary: Records data sharing flow metrics such as join and share action states as enumerated histograms on Android.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for desktop to iOS promo utilities
+// summary: Declares the promo prefs config struct, histogram enums and functions for showing promos, recording interactions and registering profile prefs.
+// ---
+
 #ifndef CHROME_BROWSER_DESKTOP_TO_MOBILE_PROMOS_PROMOS_UTILS_H_
 #define CHROME_BROWSER_DESKTOP_TO_MOBILE_PROMOS_PROMOS_UTILS_H_
 

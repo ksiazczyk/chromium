@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device status icon test base header
+// summary: Declares the shared test base for device status icon unit tests, with helpers to check menu items and icon visibility.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_NOTIFICATIONS_DEVICE_STATUS_ICON_UNITTEST_H_
 #define CHROME_BROWSER_DEVICE_NOTIFICATIONS_DEVICE_STATUS_ICON_UNITTEST_H_
 

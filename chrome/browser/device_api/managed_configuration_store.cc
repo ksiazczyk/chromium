@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed configuration store implementation
+// summary: Implements the LevelDB-backed per-origin store that reads, writes, and prunes managed configuration policy values and reports whether they changed.
+// ---
+
 #include "chrome/browser/device_api/managed_configuration_store.h"
 
 #include <utility>

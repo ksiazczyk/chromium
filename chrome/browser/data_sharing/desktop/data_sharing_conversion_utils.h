@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing group data conversion utilities header
+// summary: Declares functions that convert data sharing group members and group data from mojom types to protobuf messages.
+// ---
+
 #ifndef CHROME_BROWSER_DATA_SHARING_DESKTOP_DATA_SHARING_CONVERSION_UTILS_H_
 #define CHROME_BROWSER_DATA_SHARING_DESKTOP_DATA_SHARING_CONVERSION_UTILS_H_
 

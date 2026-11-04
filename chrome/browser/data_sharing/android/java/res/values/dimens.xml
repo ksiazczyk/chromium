@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Data Sharing Android Dimension Resources
+summary: Defines dimension values for the recent activity screen, shared image tiles, and shared tab group favicon sizes.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- go/keep-sorted start group_start_regex=<dimen -->
     <!-- Dimens for recent activity screen -->

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device attribute API implementation
+// summary: Implements DeviceAttributeApiImpl, returning ChromeOS device attributes such as directory ID, hostname, serial number, asset ID and annotated location.
+// ---
+
 #include "chrome/browser/device_api/device_attribute_api.h"
 
 #include "base/functional/callback.h"

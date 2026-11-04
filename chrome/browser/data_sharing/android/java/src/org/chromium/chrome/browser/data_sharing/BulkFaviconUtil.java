@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BulkFaviconUtil
+// summary: Utility class that fetches favicons in bulk for a list of URLs, providing bitmaps or drawables with fallback icons for missing favicons.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import android.content.Context;

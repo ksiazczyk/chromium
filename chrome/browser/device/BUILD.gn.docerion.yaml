@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Chrome device Java code
+summary: Defines the Android Java library for device classes and the Robolectric JUnit test target for DeviceConditionsTest, along with their dependencies.

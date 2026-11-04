@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device notifications test utilities
+// summary: Provides mock implementations of the device system tray icon and connection tracker to support unit tests for device notifications.
+// ---
+
 #ifndef CHROME_BROWSER_DEVICE_NOTIFICATIONS_DEVICE_TEST_UTILS_H_
 #define CHROME_BROWSER_DEVICE_NOTIFICATIONS_DEVICE_TEST_UTILS_H_
 

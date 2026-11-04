@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device OAuth2 token service implementation
+// summary: Implements fetching and validating OAuth2 access tokens with the device-level refresh token obtained during enterprise enrollment.
+// ---
+
 #include "chrome/browser/device_identity/device_oauth2_token_service.h"
 
 #include <string>

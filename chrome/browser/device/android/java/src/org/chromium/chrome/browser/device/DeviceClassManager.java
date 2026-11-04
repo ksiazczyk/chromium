@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceClassManager
+// summary: Singleton that enables or disables Chrome features such as animations, prerendering, toolbar swipe and fullscreen based on device class, low-end detection and command line flags.
+// ---
+
 package org.chromium.chrome.browser.device;
 
 import org.chromium.base.CommandLine;

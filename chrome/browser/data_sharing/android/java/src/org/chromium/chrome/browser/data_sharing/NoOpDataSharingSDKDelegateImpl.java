@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op data sharing SDK delegate
+// summary: Stub implementation of DataSharingSDKDelegate whose group operations asynchronously report failure, used where the real SDK backend is unavailable.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import org.chromium.base.Callback;

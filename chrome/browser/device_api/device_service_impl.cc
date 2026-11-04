@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Device service implementation
+// summary: Implements the browser-side mojo DeviceAPIService backing the navigator.managed web API, enforcing permission, kiosk origin and trust checks before serving attributes.
+// ---
+
 #include "chrome/browser/device_api/device_service_impl.h"
 
 #include <functional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DeviceAuthAvailabilityCheckerChromeOS
+// summary: Unit tests verifying biometric and PIN availability checks, pref caching and histogram reporting using a mock authenticator.
+// ---
+
 #include "chrome/browser/device_reauth/chromeos/device_auth_availability_checker_chromeos.h"
 
 #include <memory>

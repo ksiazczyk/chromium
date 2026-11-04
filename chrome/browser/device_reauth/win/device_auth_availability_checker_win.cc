@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows device auth availability checker implementation
+// summary: Implements the Windows availability checker that caches biometric availability in local state prefs and reports the PasswordManager.BiometricAvailabilityWin histogram.
+// ---
+
 #include "chrome/browser/device_reauth/win/device_auth_availability_checker_win.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingAvatarProvider
+// summary: Provider that fetches avatar drawables for group members from the data sharing backend for the recent activity list.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import android.content.Context;

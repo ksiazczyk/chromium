@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Data sharing BUILD.gn build targets
+summary: Defines GN build targets for the browser data sharing code, including Android Java libraries, resources, and their dependencies.

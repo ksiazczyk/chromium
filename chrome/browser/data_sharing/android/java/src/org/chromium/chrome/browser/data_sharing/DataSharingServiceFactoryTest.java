@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataSharingServiceFactoryTest
+// summary: Instrumented tests verifying that DataSharingServiceFactory returns the configured test service or the real service for a profile.
+// ---
+
 package org.chromium.chrome.browser.data_sharing;
 
 import static org.chromium.base.test.util.Batch.PER_CLASS;

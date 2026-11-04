@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageTilesProperties
+// summary: Defines the property keys for the shared image tiles model, covering loading state, view config, icon and remaining tile counts and manage tile visibility.
+// ---
+
 package org.chromium.chrome.browser.data_sharing.ui.shared_image_tiles;
 
 import org.chromium.build.annotations.NullMarked;

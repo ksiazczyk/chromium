@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser monitor implementation
+// summary: Implements the base DefaultBrowserMonitor, handling observer registration and notification when the system default browser setting changes.
+// ---
+
 #include "chrome/browser/default_browser/default_browser_monitor.h"
 
 #include <utility>
