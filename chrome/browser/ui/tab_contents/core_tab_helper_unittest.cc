@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CoreTabHelper image processing unit tests
+// summary: Unit tests verifying that CoreTabHelper downscales and encodes bitmaps as JPEG or WebP with the expected dimensions, content types, and latency log entries.
+// ---
+
 #include "chrome/browser/ui/tab_contents/core_tab_helper.h"
 
 #include "base/test/scoped_feature_list.h"

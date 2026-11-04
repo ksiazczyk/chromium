@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pin infobar preferences implementation
+// summary: Records when the pin infobar was last shown and decides whether to show it again based on a reprompt cooldown and a maximum prompt count.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/pin_infobar/pin_infobar_prefs.h"
 
 #include "base/feature_list.h"

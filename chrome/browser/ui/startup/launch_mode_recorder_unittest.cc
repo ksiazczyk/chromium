@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Launch mode recorder unit tests
+// summary: Unit tests verifying launch mode computation and Launch.Mode2 histogram recording across command line switches and platform-specific shortcut locations.
+// ---
+
 #include "chrome/browser/ui/startup/launch_mode_recorder.h"
 
 #include <optional>

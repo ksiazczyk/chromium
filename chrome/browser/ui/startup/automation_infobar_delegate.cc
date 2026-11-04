@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation infobar delegate implementation
+// summary: Implements the infobar delegate that warns users the browser is controlled by an automated test, shown at critical security priority without animation.
+// ---
+
 #include "chrome/browser/ui/startup/automation_infobar_delegate.h"
 
 #include <memory>

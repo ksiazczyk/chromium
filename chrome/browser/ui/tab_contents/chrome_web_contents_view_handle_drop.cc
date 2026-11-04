@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome web contents view drop handling implementation
+// summary: Implements shared drop handling for WebContents views, including enterprise content analysis of dropped files and ChromeOS fusebox path substitution.
+// ---
+
 #include "chrome/browser/ui/tab_contents/chrome_web_contents_view_handle_drop.h"
 
 #include <algorithm>

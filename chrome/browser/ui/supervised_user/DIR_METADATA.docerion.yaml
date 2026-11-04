@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for supervised_user UI
+summary: Points the folder to shared supervised_user metadata mixins for ChromeOS and common components.

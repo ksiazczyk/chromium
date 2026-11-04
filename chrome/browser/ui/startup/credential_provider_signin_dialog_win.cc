@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential provider sign-in dialog implementation
+// summary: Implements the Windows GCPW sign-in dialog that shows a Gaia sign-in page and writes the sign-in result as JSON to an inherited stdout handle.
+// ---
+
 #include "chrome/browser/ui/startup/credential_provider_signin_dialog_win.h"
 
 #include <windows.h>

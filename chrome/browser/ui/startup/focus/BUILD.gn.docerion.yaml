@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the focus startup feature
+summary: Defines the focus source set plus unit and browser test targets with their dependencies, asserting desktop-only support.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome web contents view drop handling header
+// summary: Declares HandleOnPerformingDrop, the shared entry point for platform WebContentsViewDelegate drop implementations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TAB_CONTENTS_CHROME_WEB_CONTENTS_VIEW_HANDLE_DROP_H_
 #define CHROME_BROWSER_UI_TAB_CONTENTS_CHROME_WEB_CONTENTS_VIEW_HANDLE_DROP_H_
 

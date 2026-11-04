@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pin infobar controller implementation
+// summary: Implements the controller that shows the pin-to-taskbar infobar when Chrome is the default browser but not pinned, including experimental message variants and user interaction metrics.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/pin_infobar/pin_infobar_controller.h"
 
 #include <utility>

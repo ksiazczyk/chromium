@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser prompt preferences helpers
+// summary: Implements resetting and updating local-state preferences that track when default browser prompts were last declined and how often.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_prompt_prefs.h"
 
 #include "chrome/browser/browser_process.h"

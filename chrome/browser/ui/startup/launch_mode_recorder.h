@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch mode recorder header
+// summary: Defines the LaunchMode enum of launch buckets and declares functions to compute and record the launch mode from the command line and process state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_LAUNCH_MODE_RECORDER_H_
 #define CHROME_BROWSER_UI_STARTUP_LAUNCH_MODE_RECORDER_H_
 

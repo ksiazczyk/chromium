@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch URL validation declarations
+// summary: Declares ValidateLaunchUrlWebSafe and ValidateLaunchUrlWebUnsafe, which validate URLs passed at startup or from external system events such as command lines and OS intents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_URL_UTIL_H_
 #define CHROME_BROWSER_UI_STARTUP_URL_UTIL_H_
 

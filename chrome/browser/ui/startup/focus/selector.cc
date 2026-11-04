@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selector implementation
+// summary: Implements the Selector class and ParseSelectors, which parse comma-separated URL selectors into exact or prefix matchers for tab and app window focusing.
+// ---
+
 #include "chrome/browser/ui/startup/focus/selector.h"
 
 #include "base/strings/string_split.h"

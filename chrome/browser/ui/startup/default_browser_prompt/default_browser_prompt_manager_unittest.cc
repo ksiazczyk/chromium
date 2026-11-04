@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser prompt manager unit tests
+// summary: Unit tests verifying when the default browser prompt manager shows an infobar or another prompt surface based on declined-time and declined-count preferences.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_prompt_manager.h"
 
 #include <optional>

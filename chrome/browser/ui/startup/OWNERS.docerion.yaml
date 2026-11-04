@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Startup UI code owners file
+summary: Lists the code owners for the startup UI directory, with per-file ownership delegated for credential provider and startup launch files.

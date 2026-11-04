@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install blocked by parent dialog implementation
+// summary: Implements the modal dialog notifying users that extension installation or enabling is blocked by a parent, using Family Link iconography.
+// ---
+
 #include "chrome/browser/ui/supervised_user/extension_install_blocked_by_parent_dialog.h"
 
 #include <string>

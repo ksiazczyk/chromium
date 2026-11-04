@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential provider sign-in dialog test data
+// summary: Implements shared test data storage with expected sign-in, token, and fetch results used by credential provider dialog tests.
+// ---
+
 #include "chrome/browser/ui/startup/credential_provider_signin_dialog_win_test_data.h"
 
 #include <string>

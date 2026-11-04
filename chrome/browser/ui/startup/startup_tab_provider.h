@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup tab provider interface
+// summary: Declares the StartupTabProvider virtual interface and its implementation that supply the sets of tabs to show at startup for given policies, allowing faking in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_STARTUP_TAB_PROVIDER_H_
 #define CHROME_BROWSER_UI_STARTUP_STARTUP_TAB_PROVIDER_H_
 

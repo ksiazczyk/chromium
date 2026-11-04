@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential provider sign-in info fetcher interface
+// summary: Declares the fetcher class that gathers full name, MDM id token, token handle, and scoped access token for Windows credential provider sign-in.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_CREDENTIAL_PROVIDER_SIGNIN_INFO_FETCHER_WIN_H_
 #define CHROME_BROWSER_UI_STARTUP_CREDENTIAL_PROVIDER_SIGNIN_INFO_FETCHER_WIN_H_
 

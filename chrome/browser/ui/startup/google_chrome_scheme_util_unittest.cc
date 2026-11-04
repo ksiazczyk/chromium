@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Chrome scheme util unit tests
+// summary: Unit tests verifying StripGoogleChromeScheme strips the google-chrome or chromium scheme prefix, including case-insensitive, opaque, and malformed separator variants.
+// ---
+
 #include "chrome/browser/ui/startup/google_chrome_scheme_util.h"
 
 #include "base/files/file_path.h"

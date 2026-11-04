@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for sync UI directory
+summary: Lists the code owners for the sync UI directory, referencing the components/sync owners file and msarda@chromium.org.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup infobar utilities header
+// summary: Declares AddInfoBarsIfNecessary, which adds startup infobars to the selected tab of the given browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_INFOBAR_UTILS_H_
 #define CHROME_BROWSER_UI_STARTUP_INFOBAR_UTILS_H_
 

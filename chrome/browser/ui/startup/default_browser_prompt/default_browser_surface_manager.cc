@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser surface manager implementation
+// summary: Implements the base manager that shows and closes default browser prompts across browser windows, including Windows taskbar pinning and accept, retry, and dismiss handling.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_surface_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Match candidate implementation
+// summary: Implements URL canonicalization, app manifest ID matching, and MRU ordering for tabs and app windows that match a focus selector.
+// ---
+
 #include "chrome/browser/ui/startup/focus/match_candidate.h"
 
 #include "base/strings/string_util.h"

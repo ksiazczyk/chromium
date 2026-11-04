@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pin infobar delegate implementation
+// summary: Implements the confirm infobar delegate that customizes the pin-to-taskbar infobar's icon, message, and button behavior and records user interaction metrics.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/pin_infobar/pin_infobar_delegate.h"
 
 #include <memory>

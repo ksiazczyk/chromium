@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup browser creator implementation unit tests
+// summary: Unit tests for StartupBrowserCreatorImpl that verify startup tab assembly from distribution first run, reset trigger, pinned, preferences, new tab page, command line and new features sources using fake tab providers.
+// ---
+
 #include "chrome/browser/ui/startup/startup_browser_creator_impl.h"
 
 #include "base/command_line.h"

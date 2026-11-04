@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Match candidate interface
+// summary: Declares the MatchCandidate struct and the MatchTab function that matches a tab or app window against a selector.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_FOCUS_MATCH_CANDIDATE_H_
 #define CHROME_BROWSER_UI_STARTUP_FOCUS_MATCH_CANDIDATE_H_
 

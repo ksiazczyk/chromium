@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FirstRunService unit tests
+// summary: Unit tests verifying ShouldOpenFirstRun logic and populating the profile name from the primary account during first run.
+// ---
+
 #include "chrome/browser/ui/startup/first_run_service.h"
 
 #include "base/files/file_path.h"

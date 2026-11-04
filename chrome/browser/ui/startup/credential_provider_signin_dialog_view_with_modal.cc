@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential provider sign-in dialog view with modal implementation
+// summary: Implements a web dialog view for credential provider sign-in that hosts web contents modal dialogs and suppresses creation of new web contents windows.
+// ---
+
 #include "chrome/browser/ui/startup/credential_provider_signin_dialog_view_with_modal.h"
 
 #include "base/logging.h"

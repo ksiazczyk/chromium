@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pin infobar preferences unit tests
+// summary: Unit tests verifying that infobar shows are recorded and that the cooldown and maximum prompt count logic suppresses repeat prompts, using mock time.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/pin_infobar/pin_infobar_prefs.h"
 
 #include "base/feature_list.h"

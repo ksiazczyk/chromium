@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Chrome scheme utility implementation
+// summary: Implements stripping of the direct launch scheme prefix from startup command-line arguments and extraction of the wrapped inner URL, gated by the kGoogleChromeScheme feature flag.
+// ---
+
 #include "chrome/browser/ui/startup/google_chrome_scheme_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser bubble dialog interactive UI tests
+// summary: Interactive browser tests that show the bubble dialog with and without taskbar pinning, take screenshots and verify button interactions.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_bubble_dialog.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup launch infobar delegate implementation
+// summary: Implements the confirm infobar delegate for the Start Chrome with Windows feature, providing opt-in and opt-out messages, buttons and styling.
+// ---
+
 #include "chrome/browser/ui/startup/startup_launch_infobar_delegate.h"
 
 #include <memory>

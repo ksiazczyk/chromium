@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup infobar observer unit tests
+// summary: Unit tests for StartupInfoBarObserver covering callback deferral for empty browsers, triggering on tab insertion, and tab strip destruction handling.
+// ---
+
 #include "chrome/browser/ui/startup/startup_infobar_observer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync passphrase dialog browser tests
+// summary: Interactive browser tests exercising the sync passphrase dialog UI, including button enablement, wrong passphrase retry handling and screenshots.
+// ---
+
 #include "chrome/browser/ui/sync/sync_passphrase_dialog.h"
 
 #include <string>

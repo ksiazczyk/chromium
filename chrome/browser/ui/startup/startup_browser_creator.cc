@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup browser creator implementation
+// summary: Implements startup browser creation, processing the command line and launching the first browser windows and profiles.
+// ---
+
 #include "chrome/browser/ui/startup/startup_browser_creator.h"
 
 #include <stddef.h>

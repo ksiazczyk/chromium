@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the focus handler
+// summary: Unit tests covering focus request parsing, result statuses, and JSON result string creation.
+// ---
+
 #include "chrome/browser/ui/startup/focus/focus_handler.h"
 
 #include <memory>

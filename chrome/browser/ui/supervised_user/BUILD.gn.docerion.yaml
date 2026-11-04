@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for supervised_user UI
+summary: GN build file defining the supervised_user source set and a browser_tests target for the parent-blocked extension dialog.

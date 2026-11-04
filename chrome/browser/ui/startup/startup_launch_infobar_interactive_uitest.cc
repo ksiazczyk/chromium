@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup launch infobar interactive UI tests
+// summary: Interactive browser tests verifying opt-in and opt-out startup launch infobar display, button interactions, preference updates and histogram logging.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"
 #include "build/branding_buildflags.h"

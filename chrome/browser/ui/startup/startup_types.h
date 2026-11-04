@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup process and first run enums
+// summary: Defines the IsProcessStartup and IsFirstRun enums that describe how a browser session is being created at startup.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_STARTUP_TYPES_H_
 #define CHROME_BROWSER_UI_STARTUP_STARTUP_TYPES_H_
 

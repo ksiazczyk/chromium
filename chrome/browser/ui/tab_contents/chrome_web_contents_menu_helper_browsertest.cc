@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome web contents menu helper browser tests
+// summary: Browser tests verifying that context menu access properties are added or withheld according to the default search provider preference.
+// ---
+
 #include "chrome/browser/ui/tab_contents/chrome_web_contents_menu_helper.h"
 
 #include "base/memory/raw_ptr.h"

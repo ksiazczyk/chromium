@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent permission dialog API
+// summary: Declares the ParentPermissionDialog API that prompts a child user's parents for approval via Google password reauthentication, with usage examples.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SUPERVISED_USER_PARENT_PERMISSION_DIALOG_H_
 #define CHROME_BROWSER_UI_SUPERVISED_USER_PARENT_PERMISSION_DIALOG_H_
 

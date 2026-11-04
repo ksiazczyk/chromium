@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install blocked by parent dialog API
+// summary: Declares the function to show the parent-blocked extension dialog and the action enum distinguishing add and enable attempts.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SUPERVISED_USER_EXTENSION_INSTALL_BLOCKED_BY_PARENT_DIALOG_H_
 #define CHROME_BROWSER_UI_SUPERVISED_USER_EXTENSION_INSTALL_BLOCKED_BY_PARENT_DIALOG_H_
 

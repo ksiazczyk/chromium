@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app startup launch handling header
+// summary: Declares the web app launch handling API, including the persisted OpenMode enum, MaybeHandleWebAppLaunch, FinalizeWebAppLaunch and testing callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_WEB_APP_STARTUP_UTILS_H_
 #define CHROME_BROWSER_UI_STARTUP_WEB_APP_STARTUP_UTILS_H_
 

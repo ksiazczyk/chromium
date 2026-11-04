@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First run test utilities implementation
+// summary: Implements helpers to simulate first run state via command line flags and a browser test base class for FirstRunService tests.
+// ---
+
 #include "chrome/browser/ui/startup/first_run_test_util.h"
 
 #include "base/test/bind.h"

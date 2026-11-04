@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome web contents view delegate factory header
+// summary: Declares the CreateWebContentsViewDelegate factory that builds the Chrome WebContents view delegate for a given WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TAB_CONTENTS_CHROME_WEB_CONTENTS_VIEW_DELEGATE_H_
 #define CHROME_BROWSER_UI_TAB_CONTENTS_CHROME_WEB_CONTENTS_VIEW_DELEGATE_H_
 

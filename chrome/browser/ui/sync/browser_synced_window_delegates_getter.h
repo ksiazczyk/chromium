@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSyncedWindowDelegatesGetter class declaration
+// summary: Declares BrowserSyncedWindowDelegatesGetter, the desktop SyncedWindowDelegatesGetter that exposes synced window delegates for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SYNC_BROWSER_SYNCED_WINDOW_DELEGATES_GETTER_H_
 #define CHROME_BROWSER_UI_SYNC_BROWSER_SYNCED_WINDOW_DELEGATES_GETTER_H_
 

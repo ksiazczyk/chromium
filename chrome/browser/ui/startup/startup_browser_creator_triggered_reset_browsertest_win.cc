@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Triggered profile reset startup browser test for Windows
+// summary: Windows browser test verifying that a triggered profile reset during startup opens the reset settings page, using a mock triggered profile resetter.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

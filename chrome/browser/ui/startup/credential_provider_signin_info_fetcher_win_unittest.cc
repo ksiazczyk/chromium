@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential provider sign-in info fetcher unit tests
+// summary: Unit tests for the sign-in info fetcher that stub network responses with a test URL loader factory and verify the fetch results.
+// ---
+
 #include "chrome/browser/ui/startup/credential_provider_signin_info_fetcher_win.h"
 
 #include <string>

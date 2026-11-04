@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL launch validation unit tests
+// summary: Unit tests for ValidateLaunchUrlWebUnsafe and ValidateLaunchUrlWebSafe, covering http, https, file, about, chrome, javascript, chrome-native, content and data schemes across platforms.
+// ---
+
 #include "chrome/browser/ui/startup/url_util.h"
 
 #include "base/test/gmock_expected_support.h"

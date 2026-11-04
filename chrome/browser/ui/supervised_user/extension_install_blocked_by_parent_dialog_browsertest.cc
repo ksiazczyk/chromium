@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for the parent-blocked extension dialog
+// summary: Dialog browser test that invokes and verifies the blocked-by-parent dialog for both extension and app types.
+// ---
+
 #include "chrome/browser/ui/supervised_user/extension_install_blocked_by_parent_dialog.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser surface manager unit tests
+// summary: Tests that the surface manager only shows prompts for valid browser windows, excluding incognito, guest, and enterprise-isolated profiles.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_surface_manager.h"
 
 #include <memory>

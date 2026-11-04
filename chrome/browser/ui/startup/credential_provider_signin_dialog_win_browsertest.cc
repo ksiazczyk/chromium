@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential provider sign-in dialog browser tests
+// summary: Browser tests exercising the GCPW sign-in dialog, covering dialog loading and handling of sign-in completion messages.
+// ---
+
 #include "chrome/browser/ui/startup/credential_provider_signin_dialog_win.h"
 
 #include "base/command_line.h"

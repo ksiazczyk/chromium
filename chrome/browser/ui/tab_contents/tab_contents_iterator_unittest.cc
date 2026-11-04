@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab contents iterator unit tests with mock tabs and windows
+// summary: Unit tests using mock tabs and browser windows to verify ForEachTabInterface iteration, tab counting, and weak-pointer handling when tabs are removed mid-iteration.
+// ---
+
 #include "chrome/browser/ui/tab_contents/tab_contents_iterator.h"
 
 #include <algorithm>

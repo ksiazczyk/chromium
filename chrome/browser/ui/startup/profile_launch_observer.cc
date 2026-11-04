@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile launch observer
+// summary: Tracks which profiles have launched and opened windows so the chosen profile can be activated during startup.
+// ---
+
 #include "chrome/browser/ui/startup/profile_launch_observer.h"
 
 #include "base/functional/bind.h"

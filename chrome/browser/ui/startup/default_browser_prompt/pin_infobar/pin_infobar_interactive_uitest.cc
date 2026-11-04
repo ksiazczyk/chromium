@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pin infobar interactive UI tests
+// summary: Interactive browser tests verifying the pin-to-taskbar infobar shows and hides on accept or dismiss, stays visible in fullscreen, and behaves across windows under both infobar frameworks.
+// ---
+
 #include <vector>
 
 #include "base/test/bind.h"

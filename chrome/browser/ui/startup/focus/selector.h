@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selector header
+// summary: Declares the Selector struct and SelectorType enum, and documents parsing of exact and wildcard URL selectors used to match tabs or app windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_FOCUS_SELECTOR_H_
 #define CHROME_BROWSER_UI_STARTUP_FOCUS_SELECTOR_H_
 

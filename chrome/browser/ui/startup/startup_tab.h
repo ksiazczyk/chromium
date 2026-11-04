@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupTab struct definition
+// summary: Defines the StartupTab struct holding a URL, tab type and untrusted-launch flag, plus the CommandLineTabsPresent enum for startup command-line tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_STARTUP_TAB_H_
 #define CHROME_BROWSER_UI_STARTUP_STARTUP_TAB_H_
 

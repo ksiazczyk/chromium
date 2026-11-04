@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app info recorder utilities header
+// summary: Declares WriteWebAppsToFile, which writes open and installed web apps for a given profile, or all profiles, to an output file.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_WEB_APP_INFO_RECORDER_UTILS_H_
 #define CHROME_BROWSER_UI_STARTUP_WEB_APP_INFO_RECORDER_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus result file writer interface
+// summary: Declares functions that create a JSON string for a focus result and write it to a file.
+// ---
+
 #ifndef CHROME_BROWSER_UI_STARTUP_FOCUS_FOCUS_RESULT_FILE_WRITER_H_
 #define CHROME_BROWSER_UI_STARTUP_FOCUS_FOCUS_RESULT_FILE_WRITER_H_
 

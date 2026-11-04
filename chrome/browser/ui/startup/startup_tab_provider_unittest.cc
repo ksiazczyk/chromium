@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup tab provider unit tests
+// summary: Unit tests verifying StartupTabProviderImpl behavior for initial preference tabs, reset triggers, pinned tabs and other startup tab policies.
+// ---
+
 #include "chrome/browser/ui/startup/startup_tab_provider.h"
 
 #include "base/command_line.h"

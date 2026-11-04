@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app info recorder utilities implementation
+// summary: Collects open and installed web apps for one or all profiles and serializes them to a specified output file, keeping the browser alive during the write.
+// ---
+
 #include "chrome/browser/ui/startup/web_app_info_recorder_utils.h"
 
 #include <memory>

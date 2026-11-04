@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the focus handler
+// summary: In-process browser tests verifying tab focusing, URL canonicalization, and app window matching behavior.
+// ---
+
 #include "chrome/browser/ui/startup/focus/focus_handler.h"
 
 #include <memory>

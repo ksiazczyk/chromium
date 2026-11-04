@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser modal dialog manager implementation
+// summary: Implements the modal dialog prompt surface, showing and closing per-window dialog widgets and reporting the entrypoint type.
+// ---
+
 #include "chrome/browser/ui/startup/default_browser_prompt/default_browser_modal_dialog_manager.h"
 
 #include "base/functional/bind.h"

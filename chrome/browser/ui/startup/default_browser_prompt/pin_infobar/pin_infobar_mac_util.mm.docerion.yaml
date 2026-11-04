@@ -1,0 +1,4 @@
+# Docerion header of pin_infobar_mac_util.mm.
+type: source
+title: Pin infobar Mac Dock utilities implementation
+summary: Implements the Mac helpers by checking the Dock state and adding the Chrome bundle icon to the Dock.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MatchCandidate unit tests
+// summary: Unit tests verifying MatchCandidate ordering by most-recently-used time, app window priority over regular tabs, and tab index tiebreakers.
+// ---
+
 #include "chrome/browser/ui/startup/focus/match_candidate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSCryptAsync availability infobar delegate
+// summary: Implements the infobar shown when OSCryptAsync is unavailable, offering a browser relaunch to restore keychain access.
+// ---
+
 #include "chrome/browser/ui/startup/oscryptasync_availability_infobar_delegate.h"
 
 #include <memory>
