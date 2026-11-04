@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Chromium metadata file assigning the directory to the UI>Settings monorail component and a Buganizer component ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome file system delegate implementation
+// summary: Implements the Chrome-specific FileSystemDelegate with default directories, managed save-as paths, select file dialogs, and ChromeOS error strings.
+// ---
+
 #include "chrome/browser/extensions/api/file_system/chrome_file_system_delegate.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityGetAuthTokenFunction implementation
+// summary: Implements the identity.getAuthToken extension function, covering non-interactive, interactive consent, and sign-in OAuth 2 token flows.
+// ---
+
 #include "chrome/browser/extensions/api/identity/identity_get_auth_token_function.h"
 
 #include <algorithm>

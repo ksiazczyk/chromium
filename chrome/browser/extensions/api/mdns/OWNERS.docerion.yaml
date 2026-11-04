@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the mdns API directory
+summary: Lists the reviewers responsible for changes to the mdns extension API directory.

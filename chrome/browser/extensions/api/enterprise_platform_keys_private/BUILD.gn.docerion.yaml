@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for enterprise_platform_keys_private
+summary: GN build file defining source sets for the enterprise platform keys private API and its browser tests with their dependencies.

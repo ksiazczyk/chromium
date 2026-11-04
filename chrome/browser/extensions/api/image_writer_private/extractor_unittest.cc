@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extractor unit tests
+// summary: Unit tests checking zip, tar and xz file type detection, including files with misleading extensions.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/files/scoped_temp_dir.h"
 #include "chrome/browser/extensions/api/image_writer_private/tar_extractor.h"

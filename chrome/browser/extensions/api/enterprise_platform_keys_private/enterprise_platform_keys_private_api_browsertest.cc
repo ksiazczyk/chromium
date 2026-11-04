@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the enterprise.platformKeysPrivate API
+// summary: Browser tests covering extension allowlist enforcement and successful key challenge responses using a mocked TPM challenger.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_platform_keys_private/enterprise_platform_keys_private_api.h"
 
 #include <utility>

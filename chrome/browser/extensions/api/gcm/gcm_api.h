@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM extension API function declarations
+// summary: Declares the GCM API extension function classes and the GcmJsEventRouter that dispatches GCM events to extensions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_GCM_GCM_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_GCM_GCM_API_H_
 

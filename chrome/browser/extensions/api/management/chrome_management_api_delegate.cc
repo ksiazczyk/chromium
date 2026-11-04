@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome management API delegate implementation
+// summary: Implements Chrome-specific delegate logic for the extensions management API, including re-enable install prompts and uninstall dialog handling.
+// ---
+
 #include "chrome/browser/extensions/api/management/chrome_management_api_delegate.h"
 
 #include <memory>

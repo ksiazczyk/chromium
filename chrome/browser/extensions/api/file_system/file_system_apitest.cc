@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the chrome.fileSystem API
+// summary: Browser tests exercising the chrome.fileSystem API, including chooseEntry flows, saved file entries, and last chosen directory handling for platform apps.
+// ---
+
 #include "apps/saved_files_service.h"
 #include "base/files/file_util.h"
 #include "base/functional/bind.h"

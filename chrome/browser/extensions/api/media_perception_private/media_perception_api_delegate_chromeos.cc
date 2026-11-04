@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS media perception API delegate implementation
+// summary: Implements the ChromeOS media perception API delegate, loading rtanalytics light or full components and binding the video source provider.
+// ---
+
 #include "chrome/browser/extensions/api/media_perception_private/media_perception_api_delegate_chromeos.h"
 
 #include <string>

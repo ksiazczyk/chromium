@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NSS-based API tests for enterprise platform keys
+// summary: Extension API tests that exercise enterprise platform keys against NSS user and system token slots using a dedicated test extension.
+// ---
+
 #include <cryptohi.h>
 #include <stddef.h>
 

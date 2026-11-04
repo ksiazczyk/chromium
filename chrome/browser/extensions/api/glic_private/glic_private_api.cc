@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic private extension API implementation
+// summary: Implements the glicPrivate extension functions, including state queries, prompt invocation, and conversation tab activation.
+// ---
+
 #include "chrome/browser/extensions/api/glic_private/glic_private_api.h"
 
 #include <algorithm>

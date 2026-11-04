@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise WebRTC API observer class declarations
+// summary: Declares the EnterpriseWebrtcApiObserver keyed service and its factory, which bridge WebRtcDiagnostics events to extension events.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_WEBRTC_ENTERPRISE_WEBRTC_API_OBSERVER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_WEBRTC_ENTERPRISE_WEBRTC_API_OBSERVER_H_
 

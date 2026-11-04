@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the input_ime API folder
+summary: Points the directory metadata to the shared ChromeOS input method mixins so the folder inherits common metadata.

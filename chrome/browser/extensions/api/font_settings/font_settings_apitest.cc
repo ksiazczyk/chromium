@@ -4,6 +4,12 @@
 
 // Font Settings Extension API browser tests.
 
+// ---docerion
+// type: test
+// title: Font Settings Extension API browser tests
+// summary: Browser tests exercising the fontSettings extension API on standard, incognito, and generic font family profiles.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/common/pref_names.h"

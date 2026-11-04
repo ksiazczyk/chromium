@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for enterprise platform keys
+summary: Defines GN source sets for the enterprise platform keys API and registry utility together with their build dependencies and ChromeOS-only assertions.

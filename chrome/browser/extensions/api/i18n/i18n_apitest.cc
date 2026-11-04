@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension i18n API browser tests
+// summary: Browser tests for the chrome.i18n extension API, covering basic message loading, messages.json updates after extension reload, and detectLanguage with callbacks and promises.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"
 #include "base/files/scoped_temp_dir.h"

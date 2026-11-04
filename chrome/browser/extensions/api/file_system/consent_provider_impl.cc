@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consent provider implementation
+// summary: Implements the consent flow for chrome.fileSystem.requestFileSystem, including allowlisted component apps, kiosk checks, and dialog result handling.
+// ---
+
 #include "chrome/browser/extensions/api/file_system/consent_provider_impl.h"
 
 #include <memory>

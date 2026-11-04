@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionTokenKey implementation
+// summary: Implements the ExtensionTokenKey struct that identifies token requests by extension ID, account, and OAuth scopes, with ordering support.
+// ---
+
 #include "chrome/browser/extensions/api/identity/extension_token_key.h"
 
 #include <tuple>

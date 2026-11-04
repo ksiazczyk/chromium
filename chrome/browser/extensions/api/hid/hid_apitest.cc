@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID extension API browser tests
+// summary: Browser tests for the chrome.hid extension API that use a fake HID manager and sample report descriptors to simulate devices and verify enumeration and report communication.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

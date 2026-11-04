@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise reporting private browser tests
+// summary: Browser tests for the enterpriseReportingPrivate extension API covering service provider configuration, client certificates, and policy behavior across platforms.
+// ---
+
 #include "chrome/common/extensions/api/enterprise_reporting_private.h"
 
 #include <string_view>

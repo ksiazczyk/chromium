@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for chrome.fileSystem API helper methods
+// summary: Unit tests for static helper methods of the chrome.fileSystem chooseEntry function, covering how accept options are turned into file type info for dialogs.
+// ---
+
 #include "extensions/browser/api/file_system/file_system_api.h"
 
 #include <stddef.h>

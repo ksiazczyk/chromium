@@ -5,6 +5,12 @@
 // Defines the classes to realize the Font Settings Extension API as specified
 // in the extension API JSON.
 
+// ---docerion
+// type: source
+// title: Font Settings Extension API class declarations
+// summary: Declares the FontSettingsAPI profile-keyed service and the extension function classes for getting, setting, and clearing font preferences.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_FONT_SETTINGS_FONT_SETTINGS_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_FONT_SETTINGS_FONT_SETTINGS_API_H_
 

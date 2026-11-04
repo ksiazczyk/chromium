@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthFlow browser tests
+// summary: Browser tests covering WebAuthFlow window creation, navigation observation, infobar behavior and silent-mode failures across platforms including Android.
+// ---
+
 #include "chrome/browser/extensions/api/identity/web_auth_flow.h"
 
 #include "base/strings/strcat.h"

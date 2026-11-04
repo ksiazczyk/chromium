@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Identity API browser tests
+// summary: Extension API browser tests exercising chrome.identity behaviors such as getAuthToken, getAccounts, and web auth flows in a full browser test environment.
+// ---
+
 #include <memory>
 #include <optional>
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise networking attributes API header
+// summary: Declares the GetNetworkDetails extension function class for the enterprise.networkingAttributes API.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_NETWORKING_ATTRIBUTES_ENTERPRISE_NETWORKING_ATTRIBUTES_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_NETWORKING_ATTRIBUTES_ENTERPRISE_NETWORKING_ATTRIBUTES_API_H_
 

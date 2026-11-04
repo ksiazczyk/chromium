@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for the mediaPerceptionPrivate extension API
+// summary: Extension API browser test that exercises the mediaPerceptionPrivate API using a fake delegate and fake media analytics client on ChromeOS.
+// ---
+
 #include "base/auto_reset.h"
 #include "base/command_line.h"
 #include "base/functional/bind.h"

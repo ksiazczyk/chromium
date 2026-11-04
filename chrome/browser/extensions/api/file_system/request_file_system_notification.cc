@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification for auto-granted file system access
+// summary: Implements showing a notification with the extension's icon when file system access is automatically granted via chrome.fileSystem.requestFileSystem.
+// ---
+
 #include "chrome/browser/extensions/api/file_system/request_file_system_notification.h"
 
 #include <string>

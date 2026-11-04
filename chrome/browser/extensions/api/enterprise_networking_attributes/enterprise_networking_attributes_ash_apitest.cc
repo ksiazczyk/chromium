@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the enterprise networking attributes API
+// summary: Ash browser tests that stub Shill network state and verify getNetworkDetails results and error cases for affiliated and unaffiliated users.
+// ---
+
 #include <memory>
 #include <string>
 

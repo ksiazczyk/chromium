@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity API error message constants
+// summary: Defines constant error message strings for the chrome.identity API, such as invalid client ID, user not signed in, off-the-record restrictions, and web auth flow errors.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_CONSTANTS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_CONSTANTS_H_
 

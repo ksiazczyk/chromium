@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS Keychain data helper implementation
+// summary: Implements macOS Keychain helpers that write generic password items and verify keychain unlock status for enterprise reporting.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_reporting_private/keychain_data_helper_mac.h"
 
 #include <CoreFoundation/CoreFoundation.h>

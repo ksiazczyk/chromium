@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device signals to extension API conversion utilities implementation
+// summary: Converts device signal options and aggregation responses into enterprise_reporting_private API types, encoding hashes and mapping collection errors for each platform.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_reporting_private/conversion_utils.h"
 
 #include <algorithm>

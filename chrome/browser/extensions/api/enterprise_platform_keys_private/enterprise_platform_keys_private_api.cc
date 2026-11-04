@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the enterprise.platformKeysPrivate API
+// summary: Implements extension functions that challenge TPM machine and user keys for enterprise attestation, enforcing extension allowlists.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_platform_keys_private/enterprise_platform_keys_private_api.h"
 
 #include "base/base64.h"

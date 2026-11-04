@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the GCM extension API
+summary: Defines the gcm source set, listing the GCM extension API sources and their build dependencies.

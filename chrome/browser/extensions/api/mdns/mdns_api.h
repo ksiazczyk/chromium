@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MDnsAPI class declaration for the chrome.mdns extension API
+// summary: Declares MDnsAPI, a BrowserContextKeyedAPI that observes extension event listeners and forwards mDNS service events to registered extensions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_MDNS_MDNS_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_MDNS_MDNS_API_H_
 

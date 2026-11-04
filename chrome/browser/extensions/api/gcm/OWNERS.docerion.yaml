@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file referencing GCM driver owners
+summary: Delegates ownership of this directory to the OWNERS file of components/gcm_driver.

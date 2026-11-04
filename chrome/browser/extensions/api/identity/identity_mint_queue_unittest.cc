@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IdentityMintRequestQueue unit tests
+// summary: Unit tests verifying serial, parallel, multi-key, and empty-queue behavior of IdentityMintRequestQueue.
+// ---
+
 #include "chrome/browser/extensions/api/identity/identity_mint_queue.h"
 
 #include <memory>

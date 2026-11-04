@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the extension action API
+summary: Defines the extension_action source set with its sources and build dependencies for the Chromium build.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM extension API function implementation
+// summary: Implements the gcm.register, gcm.unregister and gcm.send extension functions with parameter validation and GCM result to error mapping.
+// ---
+
 #include "chrome/browser/extensions/api/gcm/gcm_api.h"
 
 #include <stddef.h>

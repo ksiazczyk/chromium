@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for image writer private extension API
+// summary: Runs extension API browser tests for listing devices and writing images, using fake storage device lists and a simulated utility client for progress events.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/strings/pattern.h"
 #include "build/build_config.h"

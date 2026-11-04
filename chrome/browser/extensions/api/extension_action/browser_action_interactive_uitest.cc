@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for browser actions
+// summary: Interactive browser tests exercising browser action popups, zoom, downloads and window interactions.
+// ---
+
 #include <array>
 #include <memory>
 

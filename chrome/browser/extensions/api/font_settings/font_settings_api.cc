@@ -4,6 +4,12 @@
 
 // Font Settings Extension API implementation.
 
+// ---docerion
+// type: source
+// title: Font Settings Extension API implementation
+// summary: Implements the fontSettings extension API functions, font preference path handling, and font name validation for Chrome profiles.
+// ---
+
 #include "chrome/browser/extensions/api/font_settings/font_settings_api.h"
 
 #include <stddef.h>

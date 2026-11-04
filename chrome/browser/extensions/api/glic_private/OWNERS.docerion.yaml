@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer to the Glic directory
+summary: Delegates code ownership and review for this directory to the Glic browser OWNERS file.

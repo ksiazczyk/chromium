@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic private API test base header
+// summary: Declares the GlicPrivateApiTestBase fixture with helpers for identity setup and mock prompt response interceptors.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_GLIC_PRIVATE_GLIC_PRIVATE_API_TEST_BASE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_GLIC_PRIVATE_GLIC_PRIVATE_API_TEST_BASE_H_
 

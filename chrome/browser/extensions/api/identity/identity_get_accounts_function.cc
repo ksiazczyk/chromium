@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: getAccounts function implementation
+// summary: Implements the identity.getAccounts extension function, returning the primary account first followed by secondary accounts that have refresh tokens.
+// ---
+
 #include "chrome/browser/extensions/api/identity/identity_get_accounts_function.h"
 
 #include <memory>

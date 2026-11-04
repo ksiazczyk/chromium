@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image writer test utilities
+// summary: Implements test support for image writer tests, including MockOperationManager, FakeImageWriterClient and a fake Chrome OS image burner client.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/test_utils.h"
 
 #include <string.h>

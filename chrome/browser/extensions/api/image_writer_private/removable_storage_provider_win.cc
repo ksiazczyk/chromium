@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows removable storage provider
+// summary: Enumerates removable storage devices on Windows using SetupAPI and device I/O control calls to collect disk geometry, capacity and device properties.
+// ---
+
 // devguid requires Windows.h be imported first.
 #include "chrome/browser/extensions/api/image_writer_private/removable_storage_provider.h"
 

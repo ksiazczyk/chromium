@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise reporting private extension API implementation
+// summary: Implements the enterprise.reportingPrivate extension functions for device ID, persistent secrets, device data, signal collection and security event reporting.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_reporting_private/enterprise_reporting_private_api.h"
 
 #include <memory>

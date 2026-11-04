@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GaiaRemoteConsentFlow browser tests
+// summary: Browser tests exercising the Gaia remote consent flow end to end against a fake Gaia server with cookie and profile setup.
+// ---
+
 #include "chrome/browser/extensions/api/identity/gaia_remote_consent_flow.h"
 
 #include <optional>

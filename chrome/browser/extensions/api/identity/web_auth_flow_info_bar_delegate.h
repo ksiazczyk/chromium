@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthFlow infobar delegate header
+// summary: Declares the infobar delegate used by extension web auth flows to display explanatory text with the extension name while the flow is active.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IDENTITY_WEB_AUTH_FLOW_INFO_BAR_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IDENTITY_WEB_AUTH_FLOW_INFO_BAR_DELEGATE_H_
 

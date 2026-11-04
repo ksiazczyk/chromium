@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Destroy partitions operation implementation
+// summary: Implements the operation that erases partition tables by writing a blank dummy image to the selected storage device.
+// ---
+
 #include <string.h>
 
 #include "base/files/file_util.h"

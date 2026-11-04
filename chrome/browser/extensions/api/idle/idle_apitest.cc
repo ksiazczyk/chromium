@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the extensions idle API
+// summary: Runs browser tests for the chrome.idle extension API, using a test idle provider to exercise query state, detection interval, and auto-lock delay behavior.
+// ---
+
 #include <memory>
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History extension API implementation
+// summary: Implements the chrome.history extension API, including search, add, delete, and visit functions plus event dispatching for history changes.
+// ---
+
 #include "chrome/browser/extensions/api/history/history_api.h"
 
 #include <memory>

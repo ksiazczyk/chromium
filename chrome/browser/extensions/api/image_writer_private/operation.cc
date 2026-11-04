@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image write operation base class implementation
+// summary: Implements the Operation base class covering stage tracking, archive extraction for zip, tar, and xz images, writing, verification, and error handling.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/operation.h"
 
 #include <string_view>

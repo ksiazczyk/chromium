@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCM extension API browser tests
+// summary: Extension API tests that exercise GCM events and send error handling against a fake GCM profile service.
+// ---
+
 #include <algorithm>
 
 #include "base/functional/bind.h"

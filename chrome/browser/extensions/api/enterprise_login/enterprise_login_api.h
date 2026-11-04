@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the enterprise login exit managed guest session function
+// summary: Declares the EnterpriseLoginExitCurrentManagedGuestSessionFunction extension function class.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_LOGIN_ENTERPRISE_LOGIN_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_LOGIN_ENTERPRISE_LOGIN_API_H_
 

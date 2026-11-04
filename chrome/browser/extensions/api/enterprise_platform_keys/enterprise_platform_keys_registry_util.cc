@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile preference registration for enterprise platform keys
+// summary: Registers the attestation extension allowlist profile preference used by the enterprise platform keys API.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_platform_keys/enterprise_platform_keys_registry_util.h"
 
 #include "chrome/common/pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: feedbackPrivate extension API browser test
+// summary: Runs the basic extension API test for the feedbackPrivate API, asserting extensions are enabled since the API is unsupported on desktop Android.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/test/browser_test.h"
 #include "extensions/browser/api/feedback_private/feedback_private_api.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the enterprise login exit managed guest session function
+// summary: Verifies the function errors outside managed guest sessions and clears the login API data pref before exiting.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_login/enterprise_login_api.h"
 
 #include <string>

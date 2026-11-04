@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XZ extractor unit tests
+// summary: Unit tests for the XZ extractor's progress handling, covering zero total bytes and totals exceeding INT64_MAX to guard against crashes.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/xz_extractor.h"
 
 #include <limits>

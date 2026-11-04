@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS non-native file system delegate header
+// summary: Declares the Chrome OS implementation of the NonNativeFileSystemDelegate interface used by the extension file handlers API.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_FILE_HANDLERS_NON_NATIVE_FILE_SYSTEM_DELEGATE_CHROMEOS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_FILE_HANDLERS_NON_NATIVE_FILE_SYSTEM_DELEGATE_CHROMEOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Experimental actor extension API implementation
+// summary: Implements experimentalActor extension functions for creating and stopping actor tasks, performing actions, and serializing the actor journal to file.
+// ---
+
 #include "chrome/browser/extensions/api/experimental_actor/experimental_actor_api.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management API browser tests
+// summary: Browser tests for the chrome.management API covering enable, uninstall and Chrome Apps deprecation behavior across background page types.
+// ---
+
 #include "extensions/browser/api/management/management_api.h"
 
 #include "base/auto_reset.h"

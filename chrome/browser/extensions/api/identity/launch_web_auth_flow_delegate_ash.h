@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash launchWebAuthFlow delegate header
+// summary: Declares LaunchWebAuthFlowDelegateAsh, the ChromeOS Ash implementation of the LaunchWebAuthFlowDelegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IDENTITY_LAUNCH_WEB_AUTH_FLOW_DELEGATE_ASH_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IDENTITY_LAUNCH_WEB_AUTH_FLOW_DELEGATE_ASH_H_
 

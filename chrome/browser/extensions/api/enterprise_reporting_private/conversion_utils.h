@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device signals to extension API conversion utilities header
+// summary: Declares conversion helpers between device_signals component types and the extension API for file system, settings, antivirus and hotfix signals.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_REPORTING_PRIVATE_CONVERSION_UTILS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_REPORTING_PRIVATE_CONVERSION_UTILS_H_
 

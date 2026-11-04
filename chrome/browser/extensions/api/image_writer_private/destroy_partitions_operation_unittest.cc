@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destroy partitions operation unit tests
+// summary: Unit test verifying the destroy partitions operation reports write and verify progress and completes without errors.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/destroy_partitions_operation.h"
 #include "base/functional/bind.h"
 #include "base/run_loop.h"

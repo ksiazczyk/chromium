@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Font name validation unit tests
+// summary: Unit tests verifying that IsValidFontName accepts valid font names and rejects injection-prone, non-UTF-8, or oversized strings.
+// ---
+
 #include "chrome/browser/extensions/api/font_settings/font_settings_api.h"
 
 #include <string>

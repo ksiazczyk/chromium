@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance ID extension API implementation
+// summary: Implements the chrome.instanceID extension functions getID, getCreationTime, getToken, deleteToken and deleteID, mapping InstanceID results to extension error messages and blocking incognito use.
+// ---
+
 #include "chrome/browser/extensions/api/instance_id/instance_id_api.h"
 
 #include "base/functional/bind.h"

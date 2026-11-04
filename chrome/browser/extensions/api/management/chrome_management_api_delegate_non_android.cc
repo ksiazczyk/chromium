@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-Android management API delegate implementation
+// summary: Implements desktop platform delegate behavior for the management API, covering app launching, app shortcuts, app-for-link creation and web app installation.
+// ---
+
 #include <memory>
 #include <utility>
 

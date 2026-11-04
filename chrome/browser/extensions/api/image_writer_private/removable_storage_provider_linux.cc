@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux removable storage provider
+// summary: Linux implementation that enumerates removable block devices via udev and reads block sizes from sysfs to build the device list.
+// ---
+
 #include <stdint.h>
 
 #include "base/files/file_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XZ extractor implementation
+// summary: Implements extraction of .tar.xz image archives by delegating the actual extraction to a file utility service running in a utility process.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/xz_extractor.h"
 
 #include <limits>

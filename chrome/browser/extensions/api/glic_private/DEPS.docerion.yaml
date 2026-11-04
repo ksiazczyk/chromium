@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for glic_private
+summary: Grants this API directory include access to the components/endpoint_fetcher dependency.

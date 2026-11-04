@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise WebRTC API observer implementation
+// summary: Implements the per-profile keyed service that forwards WebRTC diagnostics peer connection events to extensions and stops capture when extensions unload.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_webrtc/enterprise_webrtc_api_observer.h"
 
 #include <memory>

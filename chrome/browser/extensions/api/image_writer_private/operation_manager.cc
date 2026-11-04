@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Operation manager implementation
+// summary: Implements the per-profile manager that starts, cancels and routes image writer operations such as write from URL or file and partition destruction.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/operation_manager.h"
 
 #include <utility>

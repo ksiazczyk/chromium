@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: getAccounts function declaration
+// summary: Declares the IdentityGetAccountsFunction extension function backing the identity.getAccounts API method.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_GET_ACCOUNTS_FUNCTION_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_GET_ACCOUNTS_FUNCTION_H_
 

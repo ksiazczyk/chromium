@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the experimental AI data extension API
+// summary: Implements extension functions that collect AI page content, screenshots, and tab data for allowlisted extensions, including validation, error handling, and option conversion.
+// ---
+
 #include "chrome/browser/extensions/api/experimental_ai_data/experimental_ai_data_api.h"
 
 #include <cstdint>

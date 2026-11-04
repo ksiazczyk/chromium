@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZIP extractor class declaration
+// summary: Declares the extractor that supports unpacking zip-archived OS images and manages its own lifetime during extraction.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IMAGE_WRITER_PRIVATE_ZIP_EXTRACTOR_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IMAGE_WRITER_PRIVATE_ZIP_EXTRACTOR_H_
 

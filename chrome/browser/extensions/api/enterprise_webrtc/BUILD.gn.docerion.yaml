@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enterprise WebRTC extension API build configuration
+summary: Defines the enterprise_webrtc source_set, listing its sources and build dependencies for the extensions build.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for the experimentalActor extension API
+// summary: Extension API test that creates an actor task, performs create-tab and navigate actions via protobuf payloads, and verifies the resulting tab state.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/common/chrome_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash launchWebAuthFlow delegate browser tests
+// summary: Browser tests verifying the window bounds returned by the Ash launchWebAuthFlow delegate for empty, unrecognized, and ODFS extension IDs.
+// ---
+
 #include "chrome/browser/extensions/api/identity/launch_web_auth_flow_delegate_ash.h"
 
 #include "ash/constants/ash_extension_constants.h"

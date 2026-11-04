@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthFlow implementation
+// summary: Implements WebAuthFlow, which runs the identity web auth flow by loading a provider URL in a popup or tab with infobar, timeout, and navigation handling.
+// ---
+
 #include "chrome/browser/extensions/api/identity/web_auth_flow.h"
 
 #include <memory>

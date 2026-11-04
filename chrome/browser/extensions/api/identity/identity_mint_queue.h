@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityMintRequestQueue header
+// summary: Declares IdentityMintRequestQueue, which serializes getAuthToken requests to limit GAIA traffic and consolidate UI pop-ups.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_MINT_QUEUE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_IDENTITY_IDENTITY_MINT_QUEUE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Operation manager unit tests
+// summary: Unit tests verifying that write-from-file and destroy-partitions operations can be started and cancelled through the operation manager.
+// ---
+
 #include "chrome/browser/extensions/api/image_writer_private/operation_manager.h"
 
 #include <memory>

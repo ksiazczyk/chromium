@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Defines the directory's code owners by including the settings UI and components/language OWNERS files.

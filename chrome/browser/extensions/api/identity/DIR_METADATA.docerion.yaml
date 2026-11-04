@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Identity API directory metadata
+summary: Metadata file specifying the monorail component, team email, and Buganizer component for the identity API directory.
