@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_lv.xtb.
+type: data
+title: ChromeOS accessibility strings (Latvian)
+summary: Latvian translation bundle with localized ChromeOS accessibility strings for ChromeVox commands, gestures, and interface messages in XTB format.

@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_mr.xtb.
+type: data
+title: Accessibility strings in Marathi
+summary: Marathi XTB translation bundle providing localized ChromeVox and ChromeOS accessibility interface strings.

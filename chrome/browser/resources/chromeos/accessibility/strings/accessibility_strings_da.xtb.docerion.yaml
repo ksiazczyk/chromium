@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_da.xtb.
+type: data
+title: Danish ChromeOS accessibility strings
+summary: XML translation bundle providing Danish localized strings for ChromeOS accessibility features such as ChromeVox commands, gestures, and tutorials.

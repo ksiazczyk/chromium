@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_zh-TW.xtb.
+type: data
+title: ChromeOS accessibility strings in Chinese (Taiwan)
+summary: XML translation bundle with ChromeVox and ChromeOS accessibility UI strings localized into Traditional Chinese for Taiwan.

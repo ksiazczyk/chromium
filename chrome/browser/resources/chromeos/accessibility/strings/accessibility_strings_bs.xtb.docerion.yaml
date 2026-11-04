@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_bs.xtb.
+type: data
+title: Bosnian ChromeOS accessibility strings
+summary: XML translation bundle providing Bosnian localized strings for ChromeOS accessibility features such as ChromeVox commands, gestures, and tutorials.

@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_bn.xtb.
+type: data
+title: Bengali accessibility string translations
+summary: Xtb translation bundle with Bengali translations of ChromeOS accessibility strings, including ChromeVox commands, gestures, and tutorial text.

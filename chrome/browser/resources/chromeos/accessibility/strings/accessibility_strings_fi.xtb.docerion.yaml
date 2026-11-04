@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_fi.xtb.
+type: data
+title: Finnish accessibility strings translation bundle
+summary: Finnish translation bundle with ChromeVox accessibility strings for ChromeOS, covering keyboard shortcuts, gestures, colors, and tutorial messages.

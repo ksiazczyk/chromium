@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_ro.xtb.
+type: data
+title: Romanian accessibility strings translation bundle
+summary: XML translation bundle with ChromeOS accessibility (ChromeVox) UI strings localized into Romanian.

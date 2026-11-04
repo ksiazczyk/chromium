@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_id.xtb.
+type: data
+title: Indonesian ChromeVox accessibility strings
+summary: Indonesian XTB translation bundle with localized ChromeVox accessibility strings for ChromeOS, covering keyboard commands, touch gestures, colors, and tutorial messages.

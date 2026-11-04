@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_ko.xtb.
+type: data
+title: ChromeOS accessibility strings (Korean)
+summary: Korean translation bundle with localized ChromeOS accessibility strings for ChromeVox commands, gestures, and interface messages in XTB format.

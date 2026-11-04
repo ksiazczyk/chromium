@@ -1,0 +1,4 @@
+# Docerion header of facegaze_strings.grdp.
+type: data
+title: FaceGaze string resources
+summary: GRIT part defining FaceGaze UI strings, including the enable confirmation dialog and descriptions of facial-gesture macro actions.

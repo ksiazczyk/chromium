@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_eu.xtb.
+type: data
+title: Basque accessibility strings translation bundle
+summary: Basque translation bundle with ChromeVox accessibility strings for ChromeOS, covering keyboard shortcuts, gestures, colors, and tutorial messages.

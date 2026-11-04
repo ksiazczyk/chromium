@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_hy.xtb.
+type: data
+title: Armenian ChromeVox accessibility strings
+summary: Armenian XTB translation bundle with localized ChromeVox accessibility strings for ChromeOS, covering keyboard commands, touch gestures, colors, and tutorial messages.
