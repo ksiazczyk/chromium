@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks tab relevance model executor implementation
+// summary: Implements TFLite preprocessing and postprocessing that populates float input tensors and reads the single relevance score output for the tab relevance model.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_context_model_executor.h"
 
 #include <algorithm>

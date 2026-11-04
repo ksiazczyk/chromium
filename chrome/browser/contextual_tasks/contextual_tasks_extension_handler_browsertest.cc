@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks extension handler browser tests
+// summary: Browser tests exercising the Contextual Tasks extension handler across tabs, sessions, Lens overlay interactions and permission prompts.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_extension_handler.h"
 
 #include <map>

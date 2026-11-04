@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame internal API implementation
+// summary: Implements internal Controlled Frame extension functions for creating and updating context menu items and for enabling or disabling client hints on the web view guest.
+// ---
+
 #include "chrome/browser/controlled_frame/api/controlled_frame_internal_api.h"
 
 #include <memory>

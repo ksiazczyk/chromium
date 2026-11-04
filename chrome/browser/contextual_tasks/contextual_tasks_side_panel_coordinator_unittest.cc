@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks side panel coordinator unit tests
+// summary: Unit tests for the contextual tasks side panel coordinator using mocked services, tab interfaces, and browser window features.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_side_panel_coordinator.h"
 
 #include <memory>

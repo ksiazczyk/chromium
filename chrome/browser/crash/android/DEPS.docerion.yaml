@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Android crash folder
+summary: Grants this directory permission to include code from components/crash/android.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks Web View Unit Tests
+// summary: Unit tests for the contextual tasks web view, exercising background configuration, ghost loader visibility, file selection, and navigation with mock services.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_web_view.h"
 
 #include <memory>

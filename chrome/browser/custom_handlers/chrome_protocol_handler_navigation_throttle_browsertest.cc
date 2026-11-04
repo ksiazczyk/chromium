@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the protocol handler navigation throttle
+// summary: In-process browser tests verifying confirmation and permission handling for unconfirmed extension protocol handlers during navigation.
+// ---
+
 #include "chrome/browser/custom_handlers/chrome_protocol_handler_registry_delegate.h"
 #include "chrome/browser/custom_handlers/protocol_handler_registry_factory.h"
 #include "chrome/browser/profiles/profile.h"

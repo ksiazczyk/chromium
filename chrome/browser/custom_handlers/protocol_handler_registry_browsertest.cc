@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol handler registry browser tests
+// summary: Browser tests for Chrome's protocol handler registry, covering handler registration, OS-level default client behavior, permissions, and isolated web app interactions.
+// ---
+
 #include "components/custom_handlers/protocol_handler_registry.h"
 
 #include <memory>

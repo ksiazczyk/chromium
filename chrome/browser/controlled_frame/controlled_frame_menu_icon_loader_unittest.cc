@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame menu icon loader unit tests
+// summary: Unit tests for the Controlled Frame menu icon loader, using an installed Isolated Web App and the extensions menu manager.
+// ---
+
 #include "chrome/browser/controlled_frame/controlled_frame_menu_icon_loader.h"
 
 #include <string_view>

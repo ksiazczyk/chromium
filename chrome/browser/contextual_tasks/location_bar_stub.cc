@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocationBarStub implementation
+// summary: Implements a no-op LocationBar stub whose methods return null or default values where a full location bar is not needed.
+// ---
+
 #include "chrome/browser/contextual_tasks/location_bar_stub.h"
 
 #include "chrome/browser/ui/views/bubble_anchor_util_views.h"

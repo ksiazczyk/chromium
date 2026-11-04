@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search AI mode promo tab helper interactive UI tests
+// summary: Interactive UI tests verifying the sign-in promo flow, cobrowse triggering, and post-sign-in search loading for the promo tab helper.
+// ---
+
 #include "chrome/browser/contextual_tasks/search_ai_mode_promo_tab_helper.h"
 
 #include <string_view>

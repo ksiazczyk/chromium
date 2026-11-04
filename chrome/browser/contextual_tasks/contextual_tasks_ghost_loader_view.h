@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks ghost loader view header
+// summary: Declares ContextualTasksGhostLoaderView, a WebView subclass that overlays placeholder loading cards on the side panel results web contents.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_GHOST_LOADER_VIEW_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_GHOST_LOADER_VIEW_H_
 

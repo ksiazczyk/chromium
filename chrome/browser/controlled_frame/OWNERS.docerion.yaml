@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Controlled Frame browser directory owners
+summary: Delegates ownership and review approval for this directory to the shared OWNERS file in chrome/common/controlled_frame.

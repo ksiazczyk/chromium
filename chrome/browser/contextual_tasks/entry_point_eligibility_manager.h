@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntryPointEligibilityManager header
+// summary: Declares the per-browser-window manager that decides whether contextual tasks entry points are eligible to be shown.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_ENTRY_POINT_ELIGIBILITY_MANAGER_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_ENTRY_POINT_ELIGIBILITY_MANAGER_H_
 

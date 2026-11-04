@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Critical actions include rules (DEPS)
+summary: Restricts includes in the critical_actions directory to approved Chromium dependencies, with extra rules for unittest files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped test driver proxy header
+// summary: Declares ScopedTestDriverProxy, a partial testdriver.js implementation that lets Chrome browser tests drive WPT-style actions.
+// ---
+
 #ifndef CHROME_BROWSER_CONTROLLED_FRAME_SCOPED_TEST_DRIVER_PROXY_H_
 #define CHROME_BROWSER_CONTROLLED_FRAME_SCOPED_TEST_DRIVER_PROXY_H_
 

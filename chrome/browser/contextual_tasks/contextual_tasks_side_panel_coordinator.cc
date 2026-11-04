@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks side panel coordinator implementation
+// summary: Large coordinator implementation that ties together the contextual tasks side panel, active task context, permissions, auto suggestions, entry point eligibility, and WebUI interactions.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_side_panel_coordinator.h"
 
 #include <algorithm>

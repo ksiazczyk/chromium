@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks bridge unit tests
+// summary: Unit tests for ContextualTasksBridge that exercise bridge behavior using mock contextual tasks and UI services.
+// ---
+
 #include "chrome/browser/contextual_tasks/android/contextual_tasks_bridge.h"
 
 #include <memory>

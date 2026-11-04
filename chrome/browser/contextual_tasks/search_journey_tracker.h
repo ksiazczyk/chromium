@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search journey tracker class declaration
+// summary: Declares the profile-keyed service that keeps a bounded ring buffer of copy hashes and correlates them with search navigations from other tabs.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_SEARCH_JOURNEY_TRACKER_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_SEARCH_JOURNEY_TRACKER_H_
 

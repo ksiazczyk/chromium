@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks service factory header
+// summary: Declares the ProfileKeyedServiceFactory that provides a per-profile ContextualTasksService instance, returning an empty service for incognito and guest profiles.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_SERVICE_FACTORY_H_
 

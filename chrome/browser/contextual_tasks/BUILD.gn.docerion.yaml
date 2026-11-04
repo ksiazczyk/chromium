@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for contextual tasks
+summary: Defines GN source sets, sources and dependencies for the contextual tasks browser code, including platform and extension conditionals.

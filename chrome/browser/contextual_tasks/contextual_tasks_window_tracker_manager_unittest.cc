@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextualTasksWindowTrackerManager unit tests
+// summary: Unit tests covering adding and removing trackers and matching and associating pending trackers for opened windows.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_window_tracker_manager.h"
 
 #include "chrome/browser/contextual_tasks/contextual_tasks_types.h"

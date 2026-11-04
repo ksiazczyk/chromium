@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks location bar implementation
+// summary: Implements a custom LocationBar for the side panel toolbar that drives permission chips and the WebUI permission dashboard for active task content.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_location_bar.h"
 
 #include <utility>

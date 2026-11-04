@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks Android JNI utilities
+// summary: Exposes the contextual tasks UI enabled flag to Java through a JNI binding for Android.
+// ---
+
 #include "components/contextual_tasks/public/features.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

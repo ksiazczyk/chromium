@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocationBarStub class declaration
+// summary: Declares LocationBarStub, a helper that stubs out all unused LocationBar methods so subclasses only implement what they need.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_LOCATION_BAR_STUB_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_LOCATION_BAR_STUB_H_
 

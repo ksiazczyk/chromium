@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search journey tab feature browser tests
+// summary: Browser tests for the search journey tab feature, covering clipboard copy observation and cross-tab search journey behavior with the ABA search journeys feature enabled.
+// ---
+
 #include "chrome/browser/contextual_tasks/search_journey_tab_feature.h"
 
 #include <memory>

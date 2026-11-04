@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame client certificate browser tests
+// summary: Browser tests for client certificate selection in controlled frames using a stub client cert store and auto-select certificate settings.
+// ---
+
 #include <memory>
 #include <string_view>
 #include <utility>

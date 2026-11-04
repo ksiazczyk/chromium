@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Android crash browser Java library
+summary: Defines an android_library target for ApplicationStatusTracker.java with dependencies on base and the crash components Android Java code.

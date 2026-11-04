@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks control coordinator unit tests
+// summary: Robolectric tests verifying coordinator initialization, click handling, task title updates, and native object destruction.
+// ---
+
 package org.chromium.chrome.browser.contextual_tasks.ui;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks tab visit tracker implementation
+// summary: Tracks how long a tab stays in the foreground, recording current and last visit durations and time since last activity.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_tab_visit_tracker.h"
 
 #include "base/time/default_tick_clock.h"

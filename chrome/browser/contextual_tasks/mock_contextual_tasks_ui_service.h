@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock contextual tasks UI service
+// summary: GMock stub of ContextualTasksUiService that fakes task UI behaviour such as URL checks, side panel launches, and feedback UI for tests.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_MOCK_CONTEXTUAL_TASKS_UI_SERVICE_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_MOCK_CONTEXTUAL_TASKS_UI_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of contextual_tasks_types.mojom.
+type: source
+title: Contextual tasks tab selection mode enum
+summary: Defines the TabSelectionMode Mojo enum listing the scoring strategies used to select tabs as context.

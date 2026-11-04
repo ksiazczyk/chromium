@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame test base implementation
+// summary: Implements the shared browser test base that configures channels, features, and flags and installs Isolated Web Apps for tests.
+// ---
+
 #include "chrome/browser/controlled_frame/controlled_frame_test_base.h"
 
 #include <memory>

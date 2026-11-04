@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame media permission cache unit tests
+// summary: Unit tests covering adding and checking cached permissions and cache clearing on camera, microphone, and unrelated content setting changes.
+// ---
+
 #include "chrome/browser/controlled_frame/controlled_frame_media_permission_cache.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

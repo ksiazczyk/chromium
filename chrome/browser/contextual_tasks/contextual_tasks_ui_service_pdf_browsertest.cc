@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks UI service PDF browser tests
+// summary: Browser tests verifying that Contextual Tasks PDF citation clicks seek within the PDF viewer instead of navigating, and open a new tab when the citation is not handled.
+// ---
+
 #include <vector>
 
 #include "base/test/run_until.h"

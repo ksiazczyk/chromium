@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks extension service worker handler implementation
+// summary: Implements Mojo handling for the Contextual Tasks extension service worker, routing document-scoped search messages to web contents user data.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_extension_service_worker_handler.h"
 
 #include <utility>

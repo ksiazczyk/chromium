@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame permission request test base header
+// summary: Declares test case structs, parameter sets, and the shared base class for Controlled Frame permission request tests.
+// ---
+
 #ifndef CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_PERMISSION_REQUEST_TEST_BASE_H_
 #define CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_PERMISSION_REQUEST_TEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock mock of ContextualTasksPanelHost
+// summary: Declares a gmock mock of ContextualTasksPanelHost with mocked observer, show, close and suppression methods plus WebContents access.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_MOCK_CONTEXTUAL_TASKS_PANEL_HOST_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_MOCK_CONTEXTUAL_TASKS_PANEL_HOST_H_
 

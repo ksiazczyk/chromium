@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks tab relevance model handler unit tests
+// summary: Unit tests for the tab relevance model handler using a test Optimization Guide model provider and a bundled test TFLite model.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_context_model_handler.h"
 
 #include "base/files/file_util.h"

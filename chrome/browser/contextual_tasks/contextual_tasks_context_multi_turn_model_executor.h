@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks multi-turn model executor header
+// summary: Declares the multi-turn tab relevance model executor with structured input and output types holding pre-padded embedding vectors and similarity scores.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_CONTEXT_MULTI_TURN_MODEL_EXECUTOR_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_CONTEXT_MULTI_TURN_MODEL_EXECUTOR_H_
 

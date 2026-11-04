@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks auto suggestion manager implementation
+// summary: Implements management of the current tab suggestion and a blocklist of dismissed URLs, recording user metrics for re-added active tabs.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_auto_suggestion_manager.h"
 
 #include "base/metrics/histogram_functions.h"

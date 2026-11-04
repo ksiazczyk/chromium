@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame permission request test base implementation
+// summary: Implements shared helpers, test parameters, and setup logic for Controlled Frame permission request browser tests.
+// ---
+
 #include "chrome/browser/controlled_frame/controlled_frame_permission_request_test_base.h"
 
 #include <memory>

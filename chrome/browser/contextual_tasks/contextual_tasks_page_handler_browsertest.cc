@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks page handler browser tests
+// summary: Browser tests for the contextual tasks page handler using mocked services and a test WebUI.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_page_handler.h"
 
 #include <memory>

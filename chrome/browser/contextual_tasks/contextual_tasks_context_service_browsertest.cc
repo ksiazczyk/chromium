@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks context service browser tests
+// summary: Browser tests for the contextual tasks context service, covering tab relevance, page embeddings, and context model behavior across profiles and tabs.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_context_service.h"
 
 #include "base/command_line.h"

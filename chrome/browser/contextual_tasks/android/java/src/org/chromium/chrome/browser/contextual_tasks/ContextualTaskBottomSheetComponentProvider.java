@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks bottom sheet component provider
+// summary: Implements CoBrowseComponentProvider for Contextual Tasks, creating the bottom sheet content and the control coordinator peek view manager on behalf of native code.
+// ---
+
 package org.chromium.chrome.browser.contextual_tasks;
 
 import android.view.View;

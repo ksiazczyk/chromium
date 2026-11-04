@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualTasksWindowTracker implementation
+// summary: Implements tracking of a contextual task window, watching tab detach and window close with a timeout and exposing open URL params.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_window_tracker.h"
 
 #include "base/task/sequenced_task_runner.h"

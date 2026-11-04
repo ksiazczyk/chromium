@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Contextual Tasks eligibility manager
+// summary: Unit tests covering eligibility outcomes for sign-in state, AIM eligibility, cookie jar contents and context sharing settings.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_eligibility_manager.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks cookie synchronizer header
+// summary: Declares a helper that syncs cookies to the webview storage partition as a signin partition delegate and identity manager observer.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_COOKIE_SYNCHRONIZER_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_COOKIE_SYNCHRONIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks auto suggestion manager header
+// summary: Declares SuggestedTabInfo and the platform-agnostic manager class that tracks auto-suggested tabs and their dismissal blocklist.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_AUTO_SUGGESTION_MANAGER_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_AUTO_SUGGESTION_MANAGER_H_
 

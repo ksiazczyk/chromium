@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks desktop side panel host implementation
+// summary: Implements the desktop-specific contextual tasks panel host that registers the contextual tasks entry in the side panel registry and manages showing, closing, and WebContents lifecycle.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_panel_host_desktop.h"
 
 #include "chrome/browser/contextual_tasks/active_task_context_provider.h"

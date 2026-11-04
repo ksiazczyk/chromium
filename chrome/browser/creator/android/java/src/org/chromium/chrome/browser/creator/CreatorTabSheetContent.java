@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreatorTabSheetContent
+// summary: Android class implementing BottomSheetContent that shows creator tab web content with a toolbar, favicon, share and close controls inside a bottom sheet in Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.creator;
 
 import android.content.Context;

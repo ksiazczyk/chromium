@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome protocol handler registry delegate implementation
+// summary: Implements the OS-dependent registry delegate for external handler registration and default protocol client handling via shell integration.
+// ---
+
 #include "chrome/browser/custom_handlers/chrome_protocol_handler_registry_delegate.h"
 
 #include <utility>

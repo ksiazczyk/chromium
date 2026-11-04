@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks navigation throttle implementation
+// summary: Implements a navigation throttle that intercepts navigations to AI pages for the Contextual Tasks feature.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_navigation_throttle.h"
 
 #include "base/functional/bind.h"

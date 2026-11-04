@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalActionFactory implementation
+// summary: Implements the profile keyed service factory that builds a CriticalActionService with a SQLite database path, background task runner, and history service.
+// ---
+
 #include "chrome/browser/critical_actions/critical_action_factory.h"
 
 #include "base/feature_list.h"

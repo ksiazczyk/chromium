@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks interactive test base header
+// summary: Declares the shared base class and test doubles for Contextual Tasks interactive UI tests, with sign-in state control and mock AIM page constants.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_INTERACTIVE_TEST_BASE_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_INTERACTIVE_TEST_BASE_H_
 

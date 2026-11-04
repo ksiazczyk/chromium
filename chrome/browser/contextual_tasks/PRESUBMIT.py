@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for contextual tasks
+# summary: Presubmit script warning when new methods or functions are added to the deprecated contextual_tasks_ui.cc unless a bypass footer is present.
+# ---
+
 """Presubmit script for chrome/browser/contextual_tasks.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

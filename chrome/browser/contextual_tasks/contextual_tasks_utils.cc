@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks Utilities Implementation
+// summary: Implements helper functions for the contextual tasks feature, covering URL checks, eligibility, entry points, metrics recording, and context sharing across desktop and Android.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_utils.h"
 
 #include <algorithm>

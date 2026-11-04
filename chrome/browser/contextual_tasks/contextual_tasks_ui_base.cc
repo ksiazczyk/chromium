@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks WebUI base controller implementation
+// summary: Implements the shared base WebUI controller that registers data sources and handles toolbar Mojo requests for contextual tasks.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_ui_base.h"
 
 #include <string_view>

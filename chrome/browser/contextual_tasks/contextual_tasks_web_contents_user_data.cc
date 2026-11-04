@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks WebContents User Data Implementation
+// summary: Implements per-WebContents user data that manages task IDs, input state models, extension frames, identity state, and context uploads for the contextual tasks feature.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_web_contents_user_data.h"
 
 #include <algorithm>

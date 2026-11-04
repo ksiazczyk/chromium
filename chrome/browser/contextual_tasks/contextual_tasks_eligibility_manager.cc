@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks eligibility manager implementation
+// summary: Implements eligibility checks for Contextual Tasks based on sign-in state, AIM eligibility and context sharing preferences, notifying listeners when eligibility changes.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_eligibility_manager.h"
 
 #include "chrome/browser/contextual_tasks/contextual_tasks_ui_service.h"

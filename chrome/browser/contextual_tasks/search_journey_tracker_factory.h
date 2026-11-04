@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search journey tracker factory declaration
+// summary: Declares the ProfileKeyedServiceFactory that provides per-profile SearchJourneyTracker instances.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_SEARCH_JOURNEY_TRACKER_FACTORY_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_SEARCH_JOURNEY_TRACKER_FACTORY_H_
 

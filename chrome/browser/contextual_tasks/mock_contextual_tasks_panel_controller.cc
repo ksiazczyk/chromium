@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockContextualTasksPanelController implementation
+// summary: Implements the mock panel controller, optionally registering itself as unowned user data on a browser window.
+// ---
+
 #include "chrome/browser/contextual_tasks/mock_contextual_tasks_panel_controller.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

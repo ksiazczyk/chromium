@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search journey tracker implementation
+// summary: Implements cross-tab search journey tracking by hashing normalized copied text and correlating it with committed Google search queries in other tabs.
+// ---
+
 #include "chrome/browser/contextual_tasks/search_journey_tracker.h"
 
 #include <string>

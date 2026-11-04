@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Tasks UI service test base implementation
+// summary: Implements the fake eligibility manager, mock UI service for URL interception and shared test fixture used by Contextual Tasks UI service tests.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_ui_service_test_base.h"
 
 #include <utility>

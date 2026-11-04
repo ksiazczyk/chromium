@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame media access handler interface
+// summary: Declares the MediaAccessHandler subclass that supports and checks camera and microphone requests from Controlled Frame web view guests.
+// ---
+
 #ifndef CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_MEDIA_ACCESS_HANDLER_H_
 #define CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_MEDIA_ACCESS_HANDLER_H_
 

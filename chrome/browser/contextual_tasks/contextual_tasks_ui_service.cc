@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks UI service implementation
+// summary: Implements the per-profile service coordinating AI thread side panel instances, handling tab switching, navigations, eligibility, metrics, and cookie synchronization.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_ui_service.h"
 
 #include <optional>

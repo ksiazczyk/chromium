@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash upload list factory implementation
+// summary: Implements CreateCrashUploadList, returning the Android, ChromeOS, or Crashpad-plus-text-log upload list depending on the platform.
+// ---
+
 #include "chrome/browser/crash_upload_list/crash_upload_list.h"
 
 #include "base/files/file_path.h"

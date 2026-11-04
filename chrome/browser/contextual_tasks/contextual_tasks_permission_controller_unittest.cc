@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the contextual tasks permission controller
+// summary: Unit tests covering location bar registration across multiple WebContents, dashboard chip state reflection, and update behavior of the permission controller.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_permission_controller.h"
 
 #include "base/test/bind.h"

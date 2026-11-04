@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks Web View Implementation
+// summary: Implements the views-based web view hosting the contextual tasks panel UI, including background color configuration, ghost loader, media access, and navigation handling.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_web_view.h"
 
 #include <optional>

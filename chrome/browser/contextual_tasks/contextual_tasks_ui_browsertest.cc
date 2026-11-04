@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks UI browser tests
+// summary: Browser tests covering the contextual tasks WebUI, side panel behavior, permission chips, and composebox interactions.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_ui.h"
 
 #include "base/functional/bind.h"

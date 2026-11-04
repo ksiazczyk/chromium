@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the desktop contextual tasks panel host
+// summary: Unit tests verifying show, animation, suppression, and observer behavior of the desktop panel host using mocked browser window and side panel UI.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_panel_host_desktop.h"
 
 #include <memory>

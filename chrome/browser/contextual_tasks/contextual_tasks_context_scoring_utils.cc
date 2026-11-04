@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks context scoring utilities implementation
+// summary: Implements heuristic tab scoring using probabilistic OR, harmonic mean, lexical title matches, and engagement signals such as recency and visit duration.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_context_scoring_utils.h"
 
 #include <cmath>

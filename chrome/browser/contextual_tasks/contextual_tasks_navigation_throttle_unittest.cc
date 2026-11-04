@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks navigation throttle unit tests
+// summary: Unit tests covering interception behavior of the contextual tasks navigation throttle, including about:blank and data URLs.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_navigation_throttle.h"
 
 #include "base/run_loop.h"

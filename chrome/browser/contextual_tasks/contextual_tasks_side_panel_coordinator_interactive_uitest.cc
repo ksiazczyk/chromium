@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks side panel coordinator interactive UI tests
+// summary: Interactive UI tests for the contextual tasks side panel coordinator, covering panel opening, tab interactions, and histogram metrics.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_side_panel_coordinator.h"
 
 #include "base/check_deref.h"

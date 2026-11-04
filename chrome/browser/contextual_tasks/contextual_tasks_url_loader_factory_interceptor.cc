@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks URL loader factory interceptor
+// summary: Intercepts URLLoaderFactory creation for Contextual Tasks guest frames to attach OAuth Authorization headers, with domain allow and deny lists and CORS preflight retry.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_url_loader_factory_interceptor.h"
 
 #include "base/memory/self_deleting.h"

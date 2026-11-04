@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame media permission cache interface
+// summary: Declares a KeyedService that caches granted media permissions per embedder and requesting origin and observes content setting changes.
+// ---
+
 #ifndef CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_MEDIA_PERMISSION_CACHE_H_
 #define CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_MEDIA_PERMISSION_CACHE_H_
 

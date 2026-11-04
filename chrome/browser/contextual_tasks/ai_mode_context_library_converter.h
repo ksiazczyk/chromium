@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI mode context library converter header
+// summary: Declares ConvertAiModeContextToUrlResources overloads that turn AI mode context library messages into UrlResource lists using local tab contexts.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_AI_MODE_CONTEXT_LIBRARY_CONVERTER_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_AI_MODE_CONTEXT_LIBRARY_CONVERTER_H_
 

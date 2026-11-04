@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS crash upload list declaration
+// summary: Declares CrashUploadListChromeOS and its CrashUploadInfo, which adds a ChromeOS-specific fatal crash type to upload entries.
+// ---
+
 #ifndef CHROME_BROWSER_CRASH_UPLOAD_LIST_CRASH_UPLOAD_LIST_CHROMEOS_H_
 #define CHROME_BROWSER_CRASH_UPLOAD_LIST_CRASH_UPLOAD_LIST_CHROMEOS_H_
 

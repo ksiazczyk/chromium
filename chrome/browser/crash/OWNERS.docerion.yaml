@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for chrome/browser/crash
+summary: Delegates code ownership of the crash browser directory by pointing to components/crash/android/OWNERS.

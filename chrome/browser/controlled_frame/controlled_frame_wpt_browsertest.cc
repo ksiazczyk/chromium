@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame WPT browser tests
+// summary: Runs Web Platform Tests for Controlled Frame APIs as Chrome browser tests, wrapping WPT test files with a harness and reporting results.
+// ---
+
 #include <memory>
 #include <string>
 

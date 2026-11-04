@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks multi-turn model handler implementation
+// summary: Implements the Optimization Guide model handler that batches tab signals, pads embeddings to model dimensions, and executes the multi-turn tab relevance model for conversation threads.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_context_multi_turn_model_handler.h"
 
 #include <utility>

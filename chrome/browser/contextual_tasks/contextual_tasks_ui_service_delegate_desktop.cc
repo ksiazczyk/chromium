@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop delegate for the Contextual Tasks UI service
+// summary: Implements the desktop platform delegate that opens the AI feedback page, leaving the undo snackbar and voice recognition methods unimplemented.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_ui_service_delegate_desktop.h"
 
 #include "chrome/browser/feedback/public/feedback_source.h"

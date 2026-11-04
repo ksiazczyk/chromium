@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic linkout handler class declaration
+// summary: Declares the GlicLinkoutHandler singleton, a ChatLinkoutHandler subclass that opens Gemini conversations inside the Glic sidebar panel.
+// ---
+
 #ifndef CHROME_BROWSER_CRITICAL_ACTIONS_GLIC_LINKOUT_HANDLER_H_
 #define CHROME_BROWSER_CRITICAL_ACTIONS_GLIC_LINKOUT_HANDLER_H_
 

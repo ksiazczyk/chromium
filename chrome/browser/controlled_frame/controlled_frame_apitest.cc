@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame API browser tests
+// summary: Large browser test suite exercising Controlled Frame API behaviors such as webRequest events, service workers, and expected element properties.
+// ---
+
 #include <memory>
 #include <string>
 

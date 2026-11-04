@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestOpenerUserData WebContents tag class
+// summary: Declares a WebContentsUserData tag that marks a WebContents as a dummy opener intercepting and routing window.open postMessages to guest views.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_GUEST_OPENER_USER_DATA_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_GUEST_OPENER_USER_DATA_H_
 

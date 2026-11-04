@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search AI mode sign-in promo tab helper
+// summary: Declares a tab helper that observes navigations and identity changes to show a search AI mode sign-in promo for signed-out users.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_SEARCH_AI_MODE_PROMO_TAB_HELPER_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_SEARCH_AI_MODE_PROMO_TAB_HELPER_H_
 

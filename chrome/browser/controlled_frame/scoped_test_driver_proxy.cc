@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped test driver proxy implementation
+// summary: Implements ScopedTestDriverProxy, which forwards testdriver.js actions from the tested page to DevTools commands for Chrome browser tests.
+// ---
+
 #include "chrome/browser/controlled_frame/scoped_test_driver_proxy.h"
 
 #include <optional>

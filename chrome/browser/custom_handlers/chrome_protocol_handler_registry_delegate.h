@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome protocol handler registry delegate header
+// summary: Declares the Chrome delegate implementing ProtocolHandlerRegistry::Delegate with preferences and shell integration support.
+// ---
+
 #ifndef CHROME_BROWSER_CUSTOM_HANDLERS_CHROME_PROTOCOL_HANDLER_REGISTRY_DELEGATE_H_
 #define CHROME_BROWSER_CUSTOM_HANDLERS_CHROME_PROTOCOL_HANDLER_REGISTRY_DELEGATE_H_
 

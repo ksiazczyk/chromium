@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks extension config provider implementation
+// summary: Registers load-time data and JS error reporting settings for the Contextual Tasks component extension via the extension config map.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_extension_config_provider.h"
 
 #include <memory>

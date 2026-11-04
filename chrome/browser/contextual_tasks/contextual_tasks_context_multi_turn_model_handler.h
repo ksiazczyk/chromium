@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks multi-turn model handler header
+// summary: Declares the model handler for the multi-turn tab relevance model, including asynchronous batch execution for conversation thread tab signals.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_CONTEXT_MULTI_TURN_MODEL_HANDLER_H_
 #define CHROME_BROWSER_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_CONTEXT_MULTI_TURN_MODEL_HANDLER_H_
 

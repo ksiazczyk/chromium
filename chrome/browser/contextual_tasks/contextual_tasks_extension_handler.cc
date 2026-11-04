@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks extension handler implementation
+// summary: Implements the Mojo handler bridging the Contextual Tasks extension document to composebox and searchbox functionality, tabs, Lens overlay and metrics.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_extension_handler.h"
 
 #include <algorithm>

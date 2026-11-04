@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Crash upload list build targets (BUILD.gn)
+summary: Defines the crash_upload_list static library with platform-specific sources and dependencies, plus the ChromeOS unit_tests source set.

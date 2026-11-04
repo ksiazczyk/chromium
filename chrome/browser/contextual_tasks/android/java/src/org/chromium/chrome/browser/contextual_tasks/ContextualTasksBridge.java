@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks Java bridge
+// summary: Java bridge for Contextual Tasks owned by the activity's TabbedRootUiCoordinator, managing its native JNI counterpart, task attachment and undo-close snackbars.
+// ---
+
 package org.chromium.chrome.browser.contextual_tasks;
 
 import android.app.Activity;

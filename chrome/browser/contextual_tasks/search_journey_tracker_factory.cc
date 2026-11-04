@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search journey tracker factory implementation
+// summary: Implements the profile-keyed service factory that creates SearchJourneyTracker instances when the ABA search journeys feature is enabled.
+// ---
+
 #include "chrome/browser/contextual_tasks/search_journey_tracker_factory.h"
 
 #include <memory>

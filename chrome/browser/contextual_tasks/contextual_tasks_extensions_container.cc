@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks extensions container implementation
+// summary: Implements the extensions menu and toolbar action container scoped to the Contextual Tasks side panel WebContents and anchored to its toolbar.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_extensions_container.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual tasks context scoring utilities unit tests
+// summary: Unit tests verifying tab scoring from embedding, lexical, and engagement signals, including combined, missing-signal, and edge-case score calculations.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_context_scoring_utils.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame media permission cache factory interface
+// summary: Declares the ProfileKeyedServiceFactory giving access to the per-profile Controlled Frame media permission cache instance.
+// ---
+
 #ifndef CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_MEDIA_PERMISSION_CACHE_FACTORY_H_
 #define CHROME_BROWSER_CONTROLLED_FRAME_CONTROLLED_FRAME_MEDIA_PERMISSION_CACHE_FACTORY_H_
 

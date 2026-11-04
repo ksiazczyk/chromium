@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks context signal utilities implementation
+// summary: Implements text normalization, tokenization, and stop-word-aware word matching and counting helpers used for context signals.
+// ---
+
 #include "chrome/browser/contextual_tasks/contextual_tasks_context_signal_utils.h"
 
 #include <algorithm>

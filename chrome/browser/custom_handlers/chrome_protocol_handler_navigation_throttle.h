@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome protocol handler navigation throttle header
+// summary: Declares the navigation throttle subclass that prompts the user to confirm a custom handler registered by an extension.
+// ---
+
 #ifndef CHROME_BROWSER_CUSTOM_HANDLERS_CHROME_PROTOCOL_HANDLER_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_CUSTOM_HANDLERS_CHROME_PROTOCOL_HANDLER_NAVIGATION_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS crash upload list unit tests
+// summary: Parameterized unit tests verifying that CrashUploadListChromeOS parses fatal_crash_type values into the expected FatalCrashType.
+// ---
+
 #include "chrome/browser/crash_upload_list/crash_upload_list_chromeos.h"
 
 #include <optional>

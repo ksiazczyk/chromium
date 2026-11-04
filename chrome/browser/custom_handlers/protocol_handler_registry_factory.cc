@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handler registry factory implementation
+// summary: Implements the ProtocolHandlerRegistryFactory keyed service, building a per-profile registry with a Chrome delegate and handling OTR profile prefs and isolation.
+// ---
+
 #include "chrome/browser/custom_handlers/protocol_handler_registry_factory.h"
 
 #include <memory>

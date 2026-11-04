@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for contextual tasks
+summary: Restricts allowed includes for the directory and bans TabStripModel to keep the code platform-agnostic, with an allowlist for legacy files.
