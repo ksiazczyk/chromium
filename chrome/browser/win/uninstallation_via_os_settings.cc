@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings uninstall registration implementation
+// summary: Registers and removes uninstall entries in the Windows registry so programs appear in Programs and Features, recording registry error result metrics.
+// ---
+
 #include "chrome/browser/win/uninstallation_via_os_settings.h"
 
 #include <windows.h>

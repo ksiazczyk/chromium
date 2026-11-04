@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Third-party metrics recorder implementation
+// summary: Implements recording of metrics and crash keys listing unsigned third-party modules loaded into Chrome on Windows.
+// ---
+
 #include "chrome/browser/win/conflicts/third_party_metrics_recorder.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated browser support unit tests
+// summary: Unit tests for isolated browser support covering isolation state changes, app-bound encryption re-encryption, and isolated process launching with mocks.
+// ---
+
 #include "chrome/browser/win/isolated_browser/isolated_browser_support.h"
 
 #include <objbase.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows app icon accessor declarations
+// summary: Declares functions to retrieve the application icon as HICON handles, icon sizes, and a full image family.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_APP_ICON_H_
 #define CHROME_BROWSER_WIN_APP_ICON_H_
 

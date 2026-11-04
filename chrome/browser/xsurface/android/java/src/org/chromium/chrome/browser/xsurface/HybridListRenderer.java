@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HybridListRenderer interface for mixed-view list rendering
+// summary: Interface for a renderer that mixes externally provided views with native Android views in a RecyclerView, covering binding, updates and surface lifecycle callbacks.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import android.view.View;

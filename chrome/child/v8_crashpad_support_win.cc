@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 crashpad support setup on Windows
+// summary: Registers a V8 unhandled exception callback that routes exceptions to Crashpad on 64-bit Windows builds.
+// ---
+
 #include "chrome/child/v8_crashpad_support_win.h"
 
 #include "build/build_config.h"

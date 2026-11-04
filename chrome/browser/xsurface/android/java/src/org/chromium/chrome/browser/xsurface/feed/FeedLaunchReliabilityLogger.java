@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedLaunchReliabilityLogger
+// summary: Interface for logging latency and availability signals across the feed launch flow, from UI start and cache reads to above-the-fold rendering.
+// ---
+
 package org.chromium.chrome.browser.xsurface.feed;
 
 import androidx.annotation.IntDef;

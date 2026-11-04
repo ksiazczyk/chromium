@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReliabilityLoggingTestUtil
+// summary: Interface giving integration tests access to recently sent reliability logging flows so they can be verified.
+// ---
+
 package org.chromium.chrome.browser.xsurface.feed;
 
 import org.jspecify.annotations.NullMarked;

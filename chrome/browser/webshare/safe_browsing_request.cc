@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingRequest implementation
+// summary: Implements a Safe Browsing download-URL check for shared files with a two-second timeout and result histogram logging.
+// ---
+
 #include "chrome/browser/webshare/safe_browsing_request.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for allowed dependencies
+summary: Grants this directory include access to chrome_elf third-party DLLs headers and the util_win service implementation header.

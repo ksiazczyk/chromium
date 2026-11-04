@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows utility service launcher header
+// summary: Declares functions that spawn isolated Windows utility and processor metrics service processes tied to the returned Mojo remote's lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_UTIL_WIN_SERVICE_H_
 #define CHROME_BROWSER_WIN_UTIL_WIN_SERVICE_H_
 

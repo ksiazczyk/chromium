@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XSurfaceHooks interface
+// summary: Java interface providing access to internal XSurface implementations, with an isEnabled check and a factory method for creating a ProcessScope from dependencies.
+// ---
+
 package org.chromium.chrome.browser.xsurface_provider.hooks;
 
 import org.chromium.build.annotations.NullMarked;

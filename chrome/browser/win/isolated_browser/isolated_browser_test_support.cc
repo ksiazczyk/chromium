@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated browser test support implementation
+// summary: Implements the test environment that installs a test Elevation Service and spawns multiprocess test children through the isolated launch path.
+// ---
+
 #include "chrome/browser/win/isolated_browser/isolated_browser_test_support.h"
 
 #include <objbase.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JumpListFactory header
+// summary: Declares the JumpListFactory keyed service factory and its GetForProfile accessor for obtaining a profile's JumpList.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_JUMPLIST_FACTORY_H_
 #define CHROME_BROWSER_WIN_JUMPLIST_FACTORY_H_
 

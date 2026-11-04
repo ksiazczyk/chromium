@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShowShareUIForWindowOperation implementation
+// summary: Implements the operation that shows the Windows share UI for a given window, fetching DataTransferManager handles and registering data requested handlers.
+// ---
+
 #include "chrome/browser/webshare/win/show_share_ui_for_window_operation.h"
 
 #include <EventToken.h>

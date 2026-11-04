@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleInspector class header
+// summary: Declares ModuleInspector, a ModuleDatabaseObserver that inspects modules via the UtilWin service and reports results through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_CONFLICTS_MODULE_INSPECTOR_H_
 #define CHROME_BROWSER_WIN_CONFLICTS_MODULE_INSPECTOR_H_
 

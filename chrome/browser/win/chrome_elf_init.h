@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome ELF initialization header
+// summary: Declares the browser blocklist field trial constants and functions to initialize Chrome ELF and set up the blocklist beacon on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_CHROME_ELF_INIT_H_
 #define CHROME_BROWSER_WIN_CHROME_ELF_INIT_H_
 

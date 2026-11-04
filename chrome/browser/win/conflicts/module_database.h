@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module database class declaration
+// summary: Declares ModuleDatabase, which maintains a map of all modules loaded across Chrome processes and coordinates their inspection.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_CONFLICTS_MODULE_DATABASE_H_
 #define CHROME_BROWSER_WIN_CONFLICTS_MODULE_DATABASE_H_
 

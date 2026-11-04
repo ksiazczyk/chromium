@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows browser running-instance detection implementation
+// summary: Implements detection of an already running browser instance via a secured global named event, plus NT path conversion helpers.
+// ---
+
 #include "chrome/browser/win/browser_util.h"
 
 #include <windows.h>

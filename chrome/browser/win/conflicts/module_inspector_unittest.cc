@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Module inspector unit tests
+// summary: Unit tests for ModuleInspector, covering module inspection and recovery when the UtilWin utility process crashes.
+// ---
+
 #include "chrome/browser/win/conflicts/module_inspector.h"
 
 #include <memory>

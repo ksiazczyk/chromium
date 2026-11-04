@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer downloader controller implementation
+// summary: Implements the UI-thread coordinator that runs eligibility checks, builds channel-specific installer download URLs and manages the infobar.
+// ---
+
 #include "chrome/browser/win/installer_downloader/installer_downloader_controller.h"
 
 #include <memory>

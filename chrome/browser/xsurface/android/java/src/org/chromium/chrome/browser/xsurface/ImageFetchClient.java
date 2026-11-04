@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetchClient interface for image HTTP requests
+// summary: Interface for sending cancelable HTTP GET requests and asynchronously receiving response bytes via callbacks, intended only for fetching images.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import org.jspecify.annotations.NullMarked;

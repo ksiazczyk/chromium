@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake IAsyncOperationWithProgress for tests
+// summary: Header for a templated fake of IAsyncOperationWithProgress that completes with results or error codes for use in Web Share GTests.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_WIN_FAKE_IASYNC_OPERATION_WITH_PROGRESS_H_
 #define CHROME_BROWSER_WEBSHARE_WIN_FAKE_IASYNC_OPERATION_WITH_PROGRESS_H_
 

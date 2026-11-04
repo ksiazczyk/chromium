@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleInspector implementation
+// summary: Implements queued, one-by-one module inspection in a utility process with a persistent inspection results cache that is read from and flushed to disk.
+// ---
+
 #include "chrome/browser/win/conflicts/module_inspector.h"
 
 #include <utility>

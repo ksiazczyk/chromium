@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDataWriterFactory implementation
+// summary: Implements a fake IDataWriter and its factory that validate write, flush and store usage patterns in Web Share tests.
+// ---
+
 #include "chrome/browser/webshare/win/fake_data_writer_factory.h"
 
 #include <robuffer.h>

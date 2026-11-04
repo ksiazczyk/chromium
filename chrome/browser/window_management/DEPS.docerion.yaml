@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Per-file include rules for window management tests
+summary: DEPS file granting the window management test sources permission to include additional Chromium headers.

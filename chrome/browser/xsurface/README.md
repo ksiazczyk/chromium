@@ -1,3 +1,9 @@
+---
+type: readme
+title: xsurface README
+summary: Describes the external surface feature, noting the directory mostly defines interfaces whose implementation lives downstream.
+---
+
 This feature provides the conceptual ability to create and host a surface that
 is configured externally, an "external surface". Some off device source will
 build and assemble content into opaque data from the client's perspective. When

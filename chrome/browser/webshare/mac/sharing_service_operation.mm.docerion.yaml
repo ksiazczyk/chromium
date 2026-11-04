@@ -1,0 +1,4 @@
+# Docerion header of sharing_service_operation.mm.
+type: source
+title: SharingServiceOperation implementation for navigator.share() on macOS
+summary: Implements SharingServiceOperation, preparing directories and storing shared files, denying file shares in incognito or isolated mode after a random delay, and invoking the native macOS share picker.

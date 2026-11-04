@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrepareDirectoryTask implementation
+// summary: Implements a task that creates a directory for shared files, removes stale shared files, and verifies sufficient free disk space.
+// ---
+
 #include "chrome/browser/webshare/prepare_directory_task.h"
 
 #include "base/check.h"

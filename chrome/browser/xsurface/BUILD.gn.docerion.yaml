@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the xsurface Java library
+summary: Defines the android_library GN target that builds the xsurface Java interface sources and their AndroidX dependencies.

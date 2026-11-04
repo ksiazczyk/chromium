@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SharingServiceOperation incognito file sharing denial
+// summary: Unit tests covering SharingServiceOperation behavior, including cancellation of file shares in incognito and enterprise isolated mode after a random visible delay.
+// ---
+
 #include "chrome/browser/webshare/mac/sharing_service_operation.h"
 
 #include "base/files/safe_base_name.h"

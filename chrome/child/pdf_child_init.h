@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for PDF child GDI font patching
+// summary: Declares MaybePatchGdiGetFontData, which optionally patches GDI's GetFontData for use by PDFium, and requires PDF support to be enabled.
+// ---
+
 #ifndef CHROME_CHILD_PDF_CHILD_INIT_H_
 #define CHROME_CHILD_PDF_CHILD_INIT_H_
 

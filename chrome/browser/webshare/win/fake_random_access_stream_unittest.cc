@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the fake random access stream
+// summary: GTest suite checking fake stream behavior for invalid seeks, use after close and competing asynchronous read, write and flush calls.
+// ---
+
 #include "chrome/browser/webshare/win/fake_random_access_stream.h"
 
 #include <wrl/event.h>

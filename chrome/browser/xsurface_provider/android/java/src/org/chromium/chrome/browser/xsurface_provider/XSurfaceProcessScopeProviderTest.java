@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XSurfaceProcessScopeProviderTest
+// summary: Mockito-based Robolectric tests checking that getProcessScope returns null without hooks, delegates to hooks, and reuses the cached scope.
+// ---
+
 package org.chromium.chrome.browser.xsurface_provider;
 
 import static org.junit.Assert.assertEquals;

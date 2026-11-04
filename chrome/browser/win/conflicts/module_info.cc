@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module info structures implementation
+// summary: Implements ModuleInfoKey, ModuleInspectionResult and ModuleInfoData, including populating inspection results from files on disk and converting short paths to long paths.
+// ---
+
 #include "chrome/browser/win/conflicts/module_info.h"
 
 #include <windows.h>

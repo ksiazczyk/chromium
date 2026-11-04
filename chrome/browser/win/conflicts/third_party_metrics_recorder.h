@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Third-party metrics recorder header
+// summary: Declares ThirdPartyMetricsRecorder, a ModuleDatabaseObserver that records metrics about third-party modules loaded into Chrome.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_CONFLICTS_THIRD_PARTY_METRICS_RECORDER_H_
 #define CHROME_BROWSER_WIN_CONFLICTS_THIRD_PARTY_METRICS_RECORDER_H_
 

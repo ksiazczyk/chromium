@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamType annotation with feed stream type constants
+// summary: Deprecated IntDef annotation enumerating stream types such as for-you, web feed, single web feed and supervised user feed for xsurface surfaces.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import androidx.annotation.IntDef;

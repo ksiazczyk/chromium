@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated browser test support API
+// summary: Declares the test environment class and helper for spawning isolated multiprocess test children using the test Elevation Service.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_ISOLATED_BROWSER_ISOLATED_BROWSER_TEST_SUPPORT_H_
 #define CHROME_BROWSER_WIN_ISOLATED_BROWSER_ISOLATED_BROWSER_TEST_SUPPORT_H_
 

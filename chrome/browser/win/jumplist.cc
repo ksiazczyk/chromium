@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JumpList implementation for Windows
+// summary: Implements the JumpList KeyedService that observes recently closed tabs, top sites, and policies to update the Windows application JumpList with most-visited, recently-closed, and task items.
+// ---
+
 #include "chrome/browser/win/jumplist.h"
 
 #include <memory>

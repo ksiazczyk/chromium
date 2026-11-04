@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System info provider interface
+// summary: Abstract interface over OS and OneDrive queries for Win11 hardware and OS eligibility so they can be mocked in unit and end-to-end tests.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_INSTALLER_DOWNLOADER_SYSTEM_INFO_PROVIDER_H_
 #define CHROME_BROWSER_WIN_INSTALLER_DOWNLOADER_SYSTEM_INFO_PROVIDER_H_
 

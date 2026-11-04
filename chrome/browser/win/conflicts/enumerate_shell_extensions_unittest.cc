@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell extension enumeration unit tests
+// summary: Unit tests that register fake shell extensions in an overridden registry and verify the enumeration finds them correctly.
+// ---
+
 #include "chrome/browser/win/conflicts/enumerate_shell_extensions.h"
 
 #include <algorithm>

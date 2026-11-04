@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharesheetClient implementation for ChromeOS Web Share
+// summary: Implements the ChromeOS navigator.share() client that prepares share directories, stores shared files, and shows them via the sharesheet service.
+// ---
+
 #include "chrome/browser/webshare/chromeos/sharesheet_client.h"
 
 #include <memory>

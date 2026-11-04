@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud synced folder checker implementation
+// summary: Detects whether OneDrive syncs the user's Desktop or Documents folders by reading the Windows storage provider state property.
+// ---
+
 #include "chrome/browser/win/cloud_synced_folder_checker.h"
 
 #include <shlobj.h>

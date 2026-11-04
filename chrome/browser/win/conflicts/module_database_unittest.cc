@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Module database unit tests
+// summary: Unit tests verifying that ModuleDatabase consistently tracks module loads, process types and idle behavior.
+// ---
+
 #include "chrome/browser/win/conflicts/module_database.h"
 
 #include <memory>

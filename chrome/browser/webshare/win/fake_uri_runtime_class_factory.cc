@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake URI runtime class factory implementation
+// summary: Implements a fake IUriRuntimeClass that only supports get_RawUri, plus its factory, for use in Web Share GTests.
+// ---
+
 #include "chrome/browser/webshare/win/fake_uri_runtime_class_factory.h"
 
 #include <string>

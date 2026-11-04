@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the installer downloader controller
+// summary: Verifies controller behavior using a mocked model, download manager, web contents and infobar callbacks.
+// ---
+
 #include "chrome/browser/win/installer_downloader/installer_downloader_controller.h"
 
 #include <memory>

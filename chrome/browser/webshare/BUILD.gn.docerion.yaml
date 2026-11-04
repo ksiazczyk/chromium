@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Web Share implementation
+summary: Defines GN build targets for the browser-side Web Share implementation, including storage tasks, platform-specific share operations, and browser tests.

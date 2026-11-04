@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RegistryWatcher unit tests
+// summary: Unit tests verifying that the RegistryWatcher callback fires on a single key change, on any of multiple key changes, and does not fire without a change.
+// ---
+
 #include "chrome/browser/win/registry_watcher.h"
 
 #include <string>

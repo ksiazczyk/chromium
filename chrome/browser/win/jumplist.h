@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JumpList class header
+// summary: Declares the JumpList class, its update state machine, and the policy for queueing notifications while updates run off the UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_JUMPLIST_H_
 #define CHROME_BROWSER_WIN_JUMPLIST_H_
 

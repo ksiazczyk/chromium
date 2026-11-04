@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer downloader infobar delegate implementation
+// summary: Implements the confirm infobar delegate that shows the installer downloader banner with localized text, icon, and accept and close callbacks.
+// ---
+
 #include "chrome/browser/win/installer_downloader/installer_downloader_infobar_delegate.h"
 
 #include <memory>

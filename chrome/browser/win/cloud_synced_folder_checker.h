@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud synced folder checker header
+// summary: Declares CloudSyncStatus and functions to evaluate OneDrive sync status and whether files or folders are managed by a cloud storage provider.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_CLOUD_SYNCED_FOLDER_CHECKER_H_
 #define CHROME_BROWSER_WIN_CLOUD_SYNCED_FOLDER_CHECKER_H_
 

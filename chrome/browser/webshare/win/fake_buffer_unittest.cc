@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeBuffer unit tests
+// summary: Unit tests verifying FakeBuffer's capacity, length validation and raw byte access behavior.
+// ---
+
 #include "chrome/browser/webshare/win/fake_buffer.h"
 
 #include <wrl/implements.h>

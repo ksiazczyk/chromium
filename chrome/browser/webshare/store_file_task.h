@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Store file task header
+// summary: Declares StoreFileTask, which stores a single shared file under a given filename and decreases the tracked available space.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_STORE_FILE_TASK_H_
 #define CHROME_BROWSER_WEBSHARE_STORE_FILE_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data writer factory for Web Share tests
+// summary: Declares FakeDataWriterFactory, a fake IDataWriterFactory that creates data writers with checks for unflushed writers, for use in Web Share GTests.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_WIN_FAKE_DATA_WRITER_FACTORY_H_
 #define CHROME_BROWSER_WEBSHARE_WIN_FAKE_DATA_WRITER_FACTORY_H_
 

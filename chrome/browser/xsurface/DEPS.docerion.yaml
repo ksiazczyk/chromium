@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for xsurface
+summary: Sets noparent to true with an empty include rule list, isolating the directory from parent dependency restrictions.

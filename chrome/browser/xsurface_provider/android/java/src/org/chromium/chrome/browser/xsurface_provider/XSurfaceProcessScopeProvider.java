@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XSurfaceProcessScopeProvider
+// summary: Holds and lazily creates a ProcessScope singleton by loading XSurfaceHooks and a dependency provider factory through service loaders.
+// ---
+
 package org.chromium.chrome.browser.xsurface_provider;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

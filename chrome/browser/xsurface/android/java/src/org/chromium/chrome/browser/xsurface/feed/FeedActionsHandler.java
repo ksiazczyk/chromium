@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedActionsHandler
+// summary: Interface implemented in Chromium that exposes feed calling points such as loading more content, dismissing cards, showing snackbars, sharing, and sending feedback.
+// ---
+
 package org.chromium.chrome.browser.xsurface.feed;
 
 import android.view.View;

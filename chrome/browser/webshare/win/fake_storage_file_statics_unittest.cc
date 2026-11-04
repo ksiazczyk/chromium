@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the fake storage file statics
+// summary: GTest suite exercising fake storage file creation, writing bytes to streamed files and verifying write and flush completion.
+// ---
+
 #include "chrome/browser/webshare/win/fake_storage_file_statics.h"
 
 #include <wrl/event.h>

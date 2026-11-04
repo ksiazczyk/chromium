@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for isolated browser support
+summary: GN build configuration defining the isolated browser support, test support, unit test, and browser test source sets with their dependencies.

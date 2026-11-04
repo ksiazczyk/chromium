@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Installer downloader GN build targets
+summary: Defines the source sets, dependencies and test targets for the Windows-only installer downloader feature.

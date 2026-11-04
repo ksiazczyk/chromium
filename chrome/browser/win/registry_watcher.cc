@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistryWatcher implementation
+// summary: Watches HKEY_CURRENT_USER registry keys and runs a one-shot callback when any watched key changes, stopping all other watches first.
+// ---
+
 #include "chrome/browser/win/registry_watcher.h"
 
 #include <memory>

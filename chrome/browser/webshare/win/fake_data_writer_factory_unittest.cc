@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the fake data writer factory
+// summary: GTest suite verifying fake data writer behavior, including racing StoreAsync calls and failures for unstored or unflushed bytes.
+// ---
+
 #include "chrome/browser/webshare/win/fake_data_writer_factory.h"
 
 #include <wrl/event.h>

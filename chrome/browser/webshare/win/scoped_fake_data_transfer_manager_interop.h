@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped fake data transfer manager interop header
+// summary: Declares a scoped helper that creates and registers a fake DataTransferManagerInterop, letting GTests simulate the Windows APIs used by the Share contract.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_WIN_SCOPED_FAKE_DATA_TRANSFER_MANAGER_INTEROP_H_
 #define CHROME_BROWSER_WEBSHARE_WIN_SCOPED_FAKE_DATA_TRANSFER_MANAGER_INTEROP_H_
 

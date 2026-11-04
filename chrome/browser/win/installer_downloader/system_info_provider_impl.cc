@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System info provider implementation
+// summary: Implements Win11 hardware checks, OneDrive sync status evaluation, and OS version detection via kernel32.dll version to avoid spoofed version reports.
+// ---
+
 #include "chrome/browser/win/installer_downloader/system_info_provider_impl.h"
 
 #include "base/win/hardware_check.h"

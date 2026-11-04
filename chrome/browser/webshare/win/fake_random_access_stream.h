@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake random access stream for Web Share tests
+// summary: Declares FakeRandomAccessStream, a fake IRandomAccessStream with input and output stream support and a close callback for GTests.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_WIN_FAKE_RANDOM_ACCESS_STREAM_H_
 #define CHROME_BROWSER_WEBSHARE_WIN_FAKE_RANDOM_ACCESS_STREAM_H_
 

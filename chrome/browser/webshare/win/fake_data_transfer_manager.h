@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDataTransferManager class declaration
+// summary: Declares FakeDataTransferManager, an IDataTransferManager test double that captures DataRequested content and exposes invoker callbacks for GTests.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_WIN_FAKE_DATA_TRANSFER_MANAGER_H_
 #define CHROME_BROWSER_WEBSHARE_WIN_FAKE_DATA_TRANSFER_MANAGER_H_
 

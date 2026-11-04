@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDataTransferManagerInterop class declaration
+// summary: Declares the IDataTransferManagerInterop test double with behavior options for ShowShareUIForWindow and per-window manager tracking for GTests.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_WIN_FAKE_DATA_TRANSFER_MANAGER_INTEROP_H_
 #define CHROME_BROWSER_WEBSHARE_WIN_FAKE_DATA_TRANSFER_MANAGER_INTEROP_H_
 

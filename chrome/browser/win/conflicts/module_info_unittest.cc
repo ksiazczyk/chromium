@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModuleInfo unit tests
+// summary: Tests InspectModule against kernel32.dll, code ID generation and normalization of inspection results such as paths and version strings.
+// ---
+
 #include "chrome/browser/win/conflicts/module_info.h"
 
 #include <memory>

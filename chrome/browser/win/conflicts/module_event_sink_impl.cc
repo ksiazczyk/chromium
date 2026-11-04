@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module event sink implementation
+// summary: Handles module load events from remote processes by reading module path, size and time date stamp before forwarding them to the ModuleDatabase.
+// ---
+
 #include "chrome/browser/win/conflicts/module_event_sink_impl.h"
 
 #include <windows.h>

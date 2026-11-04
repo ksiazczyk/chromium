@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for Windows DLL conflict detection
+summary: Defines GN build targets for the module info source set, a test-only conflicts DLL and the unit tests for this directory.

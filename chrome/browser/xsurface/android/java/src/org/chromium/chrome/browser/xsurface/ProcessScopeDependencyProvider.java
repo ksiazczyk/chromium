@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessScopeDependencyProvider interface for app-level xsurface dependencies
+// summary: Interface implemented in Chromium that supplies application-level dependencies to external surfaces, including context, experiment ids, feature state, logging, image fetching, task posting and library resolution.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import android.content.Context;

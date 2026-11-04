@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JumpList file deletion utilities
+// summary: Provides Windows helpers that delete JumpList icon files and directories with limits on deletions and failures, clearing read-only attributes as needed.
+// ---
+
 #include "chrome/browser/win/jumplist_file_util.h"
 
 #include <windows.h>

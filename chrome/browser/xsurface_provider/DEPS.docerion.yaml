@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for xsurface_provider
+summary: Grants the directory include access to chrome/browser/xsurface/android.

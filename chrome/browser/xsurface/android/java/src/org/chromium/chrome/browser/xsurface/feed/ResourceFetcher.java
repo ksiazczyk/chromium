@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceFetcher
+// summary: Interface providing network fetching for feed resources, defining request and response data structures with a callback for responses.
+// ---
+
 package org.chromium.chrome.browser.xsurface.feed;
 
 import org.jspecify.annotations.NullMarked;

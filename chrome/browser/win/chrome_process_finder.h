@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome process finder header
+// summary: Declares functions to locate a running Chrome window and notify it with the new process's command line, plus the NotifyChromeResult enum.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_CHROME_PROCESS_FINDER_H_
 #define CHROME_BROWSER_WIN_CHROME_PROCESS_FINDER_H_
 

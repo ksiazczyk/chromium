@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingServiceOperation header for navigator.share() on macOS
+// summary: Declares SharingServiceOperation, the macOS implementation of navigator.share() that validates data, prepares directories for shared files, and shows the native NSSharingServicePicker.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_MAC_SHARING_SERVICE_OPERATION_H_
 #define CHROME_BROWSER_WEBSHARE_MAC_SHARING_SERVICE_OPERATION_H_
 

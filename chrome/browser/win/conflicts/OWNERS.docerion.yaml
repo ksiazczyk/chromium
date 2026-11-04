@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the conflicts directory
+summary: Lists pmonette@chromium.org as the owner who must review changes in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedNetworkRequestReliabilityLogger
+// summary: Interface for logging latency and availability signals for feed network requests, covering feed query and actions upload request flows.
+// ---
+
 package org.chromium.chrome.browser.xsurface.feed;
 
 import org.jspecify.annotations.NullMarked;

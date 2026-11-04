@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer downloader preference names
+// summary: Defines local-state preference name constants that track infobar show counts, display suppression, eligibility bypass for testing, and re-engagement cycle state.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_INSTALLER_DOWNLOADER_INSTALLER_DOWNLOADER_PREF_NAMES_H_
 #define CHROME_BROWSER_WIN_INSTALLER_DOWNLOADER_INSTALLER_DOWNLOADER_PREF_NAMES_H_
 

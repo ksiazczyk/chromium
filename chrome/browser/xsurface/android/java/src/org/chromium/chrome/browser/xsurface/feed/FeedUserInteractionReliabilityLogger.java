@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedUserInteractionReliabilityLogger
+// summary: Interface for logging reliability of user interactions with feed items, including stream open and close, view visibility, and pagination events.
+// ---
+
 package org.chromium.chrome.browser.xsurface.feed;
 
 import android.view.View;

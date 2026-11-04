@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer downloader model implementation
+// summary: Implements the installer downloader model with Windows and OneDrive eligibility probing, background installer download, and failure reason metrics.
+// ---
+
 #include "chrome/browser/win/installer_downloader/installer_downloader_model_impl.h"
 
 #include <algorithm>

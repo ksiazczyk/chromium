@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListContentManager interface for RecyclerView content
+// summary: Interface modeled after RecyclerView.Adapter that provides native and external views to a surface-controlled RecyclerView, with observer registration and cleanup.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import android.view.View;

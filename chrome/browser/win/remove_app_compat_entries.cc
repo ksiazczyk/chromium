@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App compatibility registry entry removal
+// summary: Removes Windows application compatibility mode layer entries for a program from the AppCompatFlags Layers registry key, deleting the value when no layers remain.
+// ---
+
 #include "chrome/browser/win/remove_app_compat_entries.h"
 
 #include <algorithm>

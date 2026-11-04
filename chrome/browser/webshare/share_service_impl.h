@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share service header
+// summary: Declares ShareServiceImpl, the Web Share limits on shared file count and total size, and the WebShare.ApiCount UMA metric name.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_SHARE_SERVICE_IMPL_H_
 #define CHROME_BROWSER_WEBSHARE_SHARE_SERVICE_IMPL_H_
 

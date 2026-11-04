@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows browser running-instance detection declarations
+// summary: Declares IsBrowserAlreadyRunning, which checks for a running chrome.exe browser process using a cached global event handle.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_BROWSER_UTIL_H_
 #define CHROME_BROWSER_WIN_BROWSER_UTIL_H_
 

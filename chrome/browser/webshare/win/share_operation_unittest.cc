@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ShareOperation
+// summary: Contains unit tests for ShareOperation that use fake Windows components to verify sharing of text, URLs, and files through the Windows share flow.
+// ---
+
 #include "chrome/browser/webshare/win/share_operation.h"
 
 #include <wrl/event.h>

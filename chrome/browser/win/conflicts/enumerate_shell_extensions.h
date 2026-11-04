@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell extension enumeration API
+// summary: Declares functions to find installed Windows shell extensions by enumerating the registry, returning module paths and image metadata via callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_CONFLICTS_ENUMERATE_SHELL_EXTENSIONS_H_
 #define CHROME_BROWSER_WIN_CONFLICTS_ENUMERATE_SHELL_EXTENSIONS_H_
 

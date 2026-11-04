@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoggingParameters interface for logging settings
+// summary: Interface defining the parameters necessary for logging, such as account name, client instance ID and whether logging and view action recording are enabled.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import org.jspecify.annotations.NullMarked;

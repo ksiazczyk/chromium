@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Windows browser code
+summary: Sets include rules permitting elevation service headers plus chrome_elf and test support includes for specific files in this directory.

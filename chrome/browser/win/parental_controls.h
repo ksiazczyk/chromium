@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinParentalControls struct and API declarations
+// summary: Declares the WinParentalControls struct with restriction, logging and web filter flags, plus functions to initialize and retrieve the cached parental controls state.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_PARENTAL_CONTROLS_H_
 #define CHROME_BROWSER_WIN_PARENTAL_CONTROLS_H_
 

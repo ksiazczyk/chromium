@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentKeyValueCache interface for disk-backed cache
+// summary: Interface for a simple key-value cache that persists data on disk and automatically evicts old entries, supporting lookup, put and evict operations.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import org.jspecify.annotations.NullMarked;

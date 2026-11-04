@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JumpList update utility
+// summary: Implements MostVisitedItemsUnchanged, which compares current JumpList shell link items against the most-visited URL list to detect changes.
+// ---
+
 #include "chrome/browser/win/jumplist_update_util.h"
 
 #include <algorithm>

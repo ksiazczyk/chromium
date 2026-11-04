@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for Windows browser sources
+summary: Defines GN source sets for Windows browser code, grouping public headers, jumplist headers, and implementation sources with their build dependencies.

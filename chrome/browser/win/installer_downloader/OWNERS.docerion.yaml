@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the installer downloader folder
+summary: Lists the reviewers responsible for approving changes in the installer_downloader directory.

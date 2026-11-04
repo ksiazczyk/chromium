@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows utility service launcher
+// summary: Launches isolated Windows utility and processor metrics service processes and returns Mojo remotes for their interfaces.
+// ---
+
 #include "chrome/browser/win/util_win_service.h"
 
 #include "chrome/grit/generated_resources.h"

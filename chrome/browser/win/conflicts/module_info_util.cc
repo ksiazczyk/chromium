@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module info utility functions implementation
+// summary: Implements Windows helpers for extracting certificate information, reading PE image headers, and collapsing paths using environment variable prefixes.
+// ---
+
 #include "chrome/browser/win/conflicts/module_info_util.h"
 
 #include <windows.h>

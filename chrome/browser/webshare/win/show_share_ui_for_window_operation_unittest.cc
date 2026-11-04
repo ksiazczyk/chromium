@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShowShareUIForWindowOperation unit tests
+// summary: Unit tests for ShowShareUIForWindowOperation covering async success, failure and timeout behavior using a fake DataTransferManager interop.
+// ---
+
 #include "chrome/browser/webshare/win/show_share_ui_for_window_operation.h"
 
 #include <shlobj.h>

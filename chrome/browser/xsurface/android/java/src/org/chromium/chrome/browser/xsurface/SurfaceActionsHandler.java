@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceActionsHandler interface for Chromium calling points
+// summary: Interface implemented in Chromium that lets an external surface open URLs in various modes, show or dismiss bottom sheets, update user profiles on link clicks and start sign-in flows.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GDI GetFontData patching for PDFium on Windows
+// summary: Patches GDI's GetFontData in Windows print compositor and PDF conversion utility processes so PDFium font loading can pre-cache fonts via the child thread.
+// ---
+
 #include "chrome/child/pdf_child_init.h"
 
 #include "build/build_config.h"

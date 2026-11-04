@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake storage file statics for Web Share tests
+// summary: Declares FakeStorageFileStatics, a fake IStorageFileStatics providing streamed file creation methods for use in GTests.
+// ---
+
 #ifndef CHROME_BROWSER_WEBSHARE_WIN_FAKE_STORAGE_FILE_STATICS_H_
 #define CHROME_BROWSER_WEBSHARE_WIN_FAKE_STORAGE_FILE_STATICS_H_
 

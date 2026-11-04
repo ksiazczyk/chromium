@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module database observer interfaces
+// summary: Defines the ModuleDatabaseObserver interface for new module, module load and idle notifications, plus the observer registration event source.
+// ---
+
 #ifndef CHROME_BROWSER_WIN_CONFLICTS_MODULE_DATABASE_OBSERVER_H_
 #define CHROME_BROWSER_WIN_CONFLICTS_MODULE_DATABASE_OBSERVER_H_
 

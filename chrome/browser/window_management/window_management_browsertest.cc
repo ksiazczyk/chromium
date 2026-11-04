@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window management browser tests
+// summary: Browser tests for window management features, using a fake screen to override the current display and an HTTPS test server for secure contexts.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"
 #include "chrome/browser/ui/browser_window.h"

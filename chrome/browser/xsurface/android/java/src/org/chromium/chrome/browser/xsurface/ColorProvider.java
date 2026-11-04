@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ColorProvider interface supplying Chrome colors to xsurface
+// summary: Interface supplying Chrome-specific colors to xsurface to support dynamic themes, loosely mimicking the Material Next dynamic color tokens.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import org.jspecify.annotations.NullMarked;

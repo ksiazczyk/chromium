@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareOperation Windows implementation
+// summary: Implements the Windows Web Share operation, packaging shared title, text, URL, and files into a Windows data package and driving the share flow via WinRT APIs.
+// ---
+
 #include "chrome/browser/webshare/win/share_operation.h"
 
 #include <shlobj.h>

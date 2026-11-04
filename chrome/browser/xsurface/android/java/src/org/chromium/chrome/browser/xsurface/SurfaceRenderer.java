@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceRenderer interface for rendering server-provided bytes
+// summary: Interface that turns externally provided byte streams into Android views and updates a card renderer with shared data bytes.
+// ---
+
 package org.chromium.chrome.browser.xsurface;
 
 import android.view.View;

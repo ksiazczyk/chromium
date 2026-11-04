@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake random access stream implementation
+// summary: Implements the fake IRandomAccessStream used in Web Share tests, covering size, seek, read, write, flush and close operations.
+// ---
+
 #include "chrome/browser/webshare/win/fake_random_access_stream.h"
 
 #include <robuffer.h>
