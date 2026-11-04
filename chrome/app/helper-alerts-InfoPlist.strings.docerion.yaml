@@ -1,0 +1,4 @@
+# Docerion header of helper-alerts-InfoPlist.strings.
+type: data
+title: Alerts helper display name strings
+summary: Localized plist providing the CFBundleDisplayName for the alert notification helper bundle.

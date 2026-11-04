@@ -5,6 +5,12 @@
 // The entry point for all Mac Chromium processes, including the outer app
 // bundle (browser) and helper app (renderer and friends).
 
+// ---docerion
+// type: source
+// title: Mac executable main entry point in C
+// summary: Entry point for Mac Chromium processes that runs ChromeMain and includes padding workarounds for SecCode issues in fat binaries.
+// ---
+
 #include <stdlib.h>
 
 #include "build/branding_buildflags.h"

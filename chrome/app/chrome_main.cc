@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMain browser entry point implementation
+// summary: Implements the ChromeMain entry point for Windows and POSIX, initializing install state and storing the initial browser command line.
+// ---
+
 #include "chrome/app/chrome_main.h"
 
 #include <stdint.h>

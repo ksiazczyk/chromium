@@ -1,0 +1,4 @@
+# Docerion header of chrome_renderer_dll.ver.
+type: config
+title: Renderer DLL version metadata
+summary: Defines the internal and original file names used for the Chrome renderer DLL version resource.

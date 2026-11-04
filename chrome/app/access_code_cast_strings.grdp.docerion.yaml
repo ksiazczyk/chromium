@@ -1,0 +1,4 @@
+# Docerion header of access_code_cast_strings.grdp.
+type: data
+title: Access Code Cast string resources
+summary: Grit part defining UI strings, labels, and error messages for the access code cast feature, included from generated_resources.grd.

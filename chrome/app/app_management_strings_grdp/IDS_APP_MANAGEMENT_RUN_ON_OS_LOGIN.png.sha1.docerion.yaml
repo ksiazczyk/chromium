@@ -1,0 +1,4 @@
+# Docerion header of IDS_APP_MANAGEMENT_RUN_ON_OS_LOGIN.png.sha1.
+type: asset
+title: SHA1 checksum for IDS_APP_MANAGEMENT_RUN_ON_OS_LOGIN image
+summary: Stores the SHA1 hash of the PNG image used for the run on OS login string in the app management UI resources.

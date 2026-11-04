@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Access code cast strings OWNERS file
+summary: OWNERS file that delegates code ownership to the access code cast WebUI directory under chrome/browser/ui/webui.

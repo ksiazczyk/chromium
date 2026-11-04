@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome main delegate implementation
+// summary: Implements Chrome's ContentMainDelegate, handling startup, process launching, crash reporting, resource loading and early initialization across platforms.
+// ---
+
 #include "chrome/app/chrome_main_delegate.h"
 
 #include <stddef.h>

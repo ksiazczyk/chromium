@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows delay-load failure hook
+// summary: Installs a delay-load failure hook for the main executable that routes failures to common crash-report handling, with a function to disable the hooks.
+// ---
+
 #include "chrome/app/delay_load_failure_hook_win.h"
 
 // windows.h needs to be included before delayimp.h.

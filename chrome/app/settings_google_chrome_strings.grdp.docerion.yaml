@@ -1,0 +1,4 @@
+# Docerion header of settings_google_chrome_strings.grdp.
+type: data
+title: Google Chrome settings strings
+summary: Grit part with Google Chrome-branded strings for the Settings UI, including about page, update status, ChromeOS Flex, and default browser texts.

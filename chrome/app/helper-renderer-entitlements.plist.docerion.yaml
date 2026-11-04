@@ -1,0 +1,4 @@
+# Docerion header of helper-renderer-entitlements.plist.
+type: config
+title: Renderer helper process entitlements
+summary: macOS entitlements plist granting the renderer helper process permission to use just-in-time compilation.

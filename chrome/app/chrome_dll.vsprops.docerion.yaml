@@ -1,0 +1,4 @@
+# Docerion header of chrome_dll.vsprops.
+type: config
+title: Chrome DLL Visual Studio property sheet
+summary: Visual Studio property sheet configuring preprocessor defines and linker settings such as delay-loaded DLLs for building chrome.dll.

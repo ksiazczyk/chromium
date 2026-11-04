@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the bookmarks string image hashes
+summary: Grants per-file approval for all .png.sha1 files in this directory to any reviewer.

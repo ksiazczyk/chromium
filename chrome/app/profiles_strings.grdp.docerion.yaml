@@ -1,0 +1,4 @@
+# Docerion header of profiles_strings.grdp.
+type: data
+title: Profiles strings
+summary: Grit part with strings for the profile avatar menu, covering guest, incognito, isolated mode, sync errors, and signin states.

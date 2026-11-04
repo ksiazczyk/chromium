@@ -1,0 +1,4 @@
+# Docerion header of helper-Info.plist.
+type: config
+title: Mac helper app Info.plist
+summary: Property list with bundle metadata for the Chromium helper app on macOS, including quarantine, minimum system version and UI element settings.

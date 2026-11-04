@@ -1,0 +1,4 @@
+# Docerion header of skills_strings.grdp.
+type: data
+title: Skills feature UI strings
+summary: Grit part with localized UI strings for the Skills feature, including toast messages, app menu items, accessibility labels, and Skills page and error page text.

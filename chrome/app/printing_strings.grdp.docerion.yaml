@@ -1,0 +1,4 @@
+# Docerion header of printing_strings.grdp.
+type: data
+title: Printing strings
+summary: Grit part with strings for the printing service and print preview dialog, including destination, page range, and layout options.

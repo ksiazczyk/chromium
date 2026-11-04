@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI onload initialization
+// summary: Implements OnJNIOnLoadInit, which runs content JNI initialization and installs the Android Chrome main delegate.
+// ---
+
 #include "chrome/app/android/chrome_jni_onload.h"
 
 #include "chrome/app/android/chrome_main_delegate_android.h"

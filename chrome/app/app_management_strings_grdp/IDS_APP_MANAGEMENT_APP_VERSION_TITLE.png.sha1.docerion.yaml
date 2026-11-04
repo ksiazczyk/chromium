@@ -1,0 +1,4 @@
+# Docerion header of IDS_APP_MANAGEMENT_APP_VERSION_TITLE.png.sha1.
+type: data
+title: App version title image SHA1 hash
+summary: Contains the SHA1 hash of the PNG image associated with the app version title string in the Chrome app management UI.

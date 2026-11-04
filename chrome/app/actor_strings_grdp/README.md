@@ -1,3 +1,9 @@
+---
+type: readme
+title: Actor strings image hash directory README
+summary: Explains that the directory stores image SHA-1 hashes used to give translators context for UI strings, with a link to instructions.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

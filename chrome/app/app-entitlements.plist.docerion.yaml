@@ -1,0 +1,4 @@
+# Docerion header of app-entitlements.plist.
+type: config
+title: macOS sandbox entitlements for the app
+summary: Grants macOS sandbox entitlements for device and personal information access such as camera, audio input, Bluetooth, USB, printing, location and photos.

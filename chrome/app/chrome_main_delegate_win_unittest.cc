@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows unit tests for Chrome main delegate
+// summary: Windows tests checking chrome.exe version switch output and death checks for child module switches in BasicStartupComplete.
+// ---
+
 #include "chrome/app/chrome_main_delegate.h"
 
 #include <windows.h>

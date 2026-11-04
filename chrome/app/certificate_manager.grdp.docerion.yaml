@@ -1,0 +1,4 @@
+# Docerion header of certificate_manager.grdp.
+type: asset
+title: Certificate Manager UI strings
+summary: Grit part providing strings for the certificate manager settings page, covering client, local, platform and Chrome Root Store certificate tabs.

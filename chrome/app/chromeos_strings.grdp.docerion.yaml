@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings.grdp.
+type: data
+title: ChromeOS-specific UI strings
+summary: Grit partial defining ChromeOS-specific UI strings for notifications, wallpaper errors, multi-device setup, and other ChromeOS features.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows main DLL loader implementation
+// summary: Loads chrome.dll on Windows, prereads the module, configures PGO profiling, and launches the Chrome entry point.
+// ---
+
 #include "chrome/app/main_dll_loader_win.h"
 
 #include <windows.h>

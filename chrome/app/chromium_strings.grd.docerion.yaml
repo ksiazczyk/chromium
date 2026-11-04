@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings.grd.
+type: data
+title: Chromium distribution-specific strings
+summary: Grit resource file defining distribution-specific branded strings and locale pak outputs, to be kept in sync with google_chrome_strings.grd.

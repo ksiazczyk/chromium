@@ -1,0 +1,4 @@
+# Docerion header of sharesheet_strings.grdp.
+type: data
+title: Sharesheet UI strings
+summary: Grit-part XML with UI strings for the sharesheet bubble, app list labels and copy-to-clipboard actions.

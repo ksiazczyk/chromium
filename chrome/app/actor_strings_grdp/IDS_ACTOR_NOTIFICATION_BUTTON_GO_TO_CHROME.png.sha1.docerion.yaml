@@ -1,0 +1,4 @@
+# Docerion header of IDS_ACTOR_NOTIFICATION_BUTTON_GO_TO_CHROME.png.sha1.
+type: data
+title: SHA1 checksum for the go-to-Chrome notification button image
+summary: Stores the SHA1 hash of the IDS_ACTOR_NOTIFICATION_BUTTON_GO_TO_CHROME.png image so tooling can detect changes to the rendered button text.

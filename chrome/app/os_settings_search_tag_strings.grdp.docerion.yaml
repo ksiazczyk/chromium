@@ -1,0 +1,4 @@
+# Docerion header of os_settings_search_tag_strings.grdp.
+type: data
+title: ChromeOS settings search tag strings
+summary: Grit part with search tags and alternate phrases used by ChromeOS settings search to route users to network and other settings pages.

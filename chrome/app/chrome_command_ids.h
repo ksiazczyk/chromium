@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser command ID definitions
+// summary: Header defining IDC_* command identifiers for browser menus and actions, used by Windows RC files, Mac NIB files and other platforms.
+// ---
+
 #ifndef CHROME_APP_CHROME_COMMAND_IDS_H_
 #define CHROME_APP_CHROME_COMMAND_IDS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of media_live_preview_strings.grdp.
+type: data
+title: Media live preview strings
+summary: Grit part with UI strings for the camera and microphone live preview, including accessibility labels and device messages.

@@ -1,0 +1,4 @@
+# Docerion header of chromeos_shared_strings.grdp.
+type: data
+title: ChromeOS shared UI strings
+summary: Grit partial with ChromeOS-specific UI strings for settings, PIN request dialogs, file system permission prompts, and Office file handling, shared between Ash and Lacros.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LLVM PGO profile utility declarations
+// summary: Declares the ProfileProcessType enum and functions that set per-process LLVM PGO profile filenames.
+// ---
+
 #ifndef CHROME_APP_LLVM_PROFILE_UTIL_H_
 #define CHROME_APP_LLVM_PROFILE_UTIL_H_
 

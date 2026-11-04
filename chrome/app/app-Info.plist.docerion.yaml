@@ -1,0 +1,4 @@
+# Docerion header of app-Info.plist.
+type: config
+title: macOS Info.plist for the Chrome app bundle
+summary: Property list defining the macOS app bundle metadata, supported document types, icon, identifier, and browser capabilities.

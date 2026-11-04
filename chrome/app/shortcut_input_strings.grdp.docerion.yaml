@@ -1,0 +1,4 @@
+# Docerion header of shortcut_input_strings.grdp.
+type: data
+title: Shortcut input UI strings
+summary: Grit-part XML with prompts, status text and error messages for entering and clearing keyboard shortcuts.

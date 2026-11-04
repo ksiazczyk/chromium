@@ -1,0 +1,4 @@
+# Docerion header of FirstRun.
+type: data
+title: First-run marker file
+summary: Tiny marker file containing only the text 'krome', matching the FirstRun sentinel file convention in the app directory.

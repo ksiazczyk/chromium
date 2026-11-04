@@ -1,0 +1,4 @@
+# Docerion header of chrome_exe.ver.
+type: config
+title: chrome_exe version resource definitions
+summary: Defines version information variables such as internal name and original filename for the chrome.exe executable.

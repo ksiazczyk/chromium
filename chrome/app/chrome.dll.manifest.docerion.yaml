@@ -1,0 +1,4 @@
+# Docerion header of chrome.dll.manifest.
+type: config
+title: Windows manifest for chrome.dll
+summary: Windows application manifest declaring the Microsoft Common Controls assembly dependency for the Chrome DLL.

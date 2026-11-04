@@ -6,6 +6,12 @@
 // The entry point for all Mac Chromium processes, including the outer app
 // bundle (browser) and helper app (renderer, plugin, and friends).
 
+// ---docerion
+// type: source
+// title: Mac executable main entry point in C++
+// summary: Entry point for Mac Chromium processes, handling helper executables, crash reporting, and Mach-O slice padding workarounds.
+// ---
+
 #include <dlfcn.h>
 #include <errno.h>
 #include <libgen.h>

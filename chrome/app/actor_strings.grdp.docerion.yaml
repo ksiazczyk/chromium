@@ -1,0 +1,4 @@
+# Docerion header of actor_strings.grdp.
+type: data
+title: Actor task string resources
+summary: Grit part defining UI strings for the Gemini actor task features, such as handoff controls, task list bubbles, nudges, and toasts.

@@ -1,0 +1,4 @@
+# Docerion header of chrome_binaries.vsprops.
+type: config
+title: Visual Studio property sheet for Chrome binaries
+summary: Legacy Visual Studio property sheet configuring delay-loaded DLLs, subsystem and resource compiler include paths for Chrome binaries.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the chrome/app directory
+summary: Defines GN build targets for Chrome's app directory, including the crash reporter client, command ID header, Windows resources, test support, and grit string generation.

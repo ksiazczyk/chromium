@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup timestamps struct
+// summary: Header defining a StartupTimestamps struct that records exe entry ticks and Windows preread begin and end times.
+// ---
+
 #ifndef CHROME_APP_STARTUP_TIMESTAMPS_H_
 #define CHROME_APP_STARTUP_TIMESTAMPS_H_
 

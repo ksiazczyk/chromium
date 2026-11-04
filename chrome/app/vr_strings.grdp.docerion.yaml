@@ -1,0 +1,4 @@
+# Docerion header of vr_strings.grdp.
+type: data
+title: VR UI strings
+summary: Grit-part XML with UI strings for VR permission and usage indicator bubbles on desktop and Android.

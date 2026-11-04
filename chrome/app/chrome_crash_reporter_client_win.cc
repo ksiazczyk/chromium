@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows crash reporter client implementation
+// summary: Implements the Windows crash reporter client, initializing Crashpad per process and providing crash dump locations, product info, and dump sizing.
+// ---
+
 // TODO(ananta/scottmg)
 // Add test coverage for Crashpad.
 #include "chrome/app/chrome_crash_reporter_client_win.h"

@@ -1,0 +1,4 @@
+# Docerion header of glic_strings.grdp.
+type: data
+title: Glic and Gemini UI strings
+summary: Grit part with Glic feature strings such as task bubble text, tooltips, status icon menus and offline notices, included from generated_resources.grd.

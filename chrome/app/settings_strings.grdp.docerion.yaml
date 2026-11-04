@@ -1,0 +1,4 @@
+# Docerion header of settings_strings.grdp.
+type: data
+title: Settings UI strings
+summary: Grit-part XML with localized UI strings for the Chrome Settings pages, including buttons, headings and relaunch dialogs.

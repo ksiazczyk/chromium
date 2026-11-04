@@ -1,0 +1,4 @@
+# Docerion header of media_router_strings.grdp.
+type: data
+title: Media Router strings
+summary: Grit part with UI strings for the Media Router, covering cast modes, menus, tooltips, and casting issue messages.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for actor strings image hashes
+summary: Delegates ownership of this directory to the Chrome actor and Glic Android teams via file references.

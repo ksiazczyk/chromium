@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ExitCodeWatcher class header
+// summary: Declares the ExitCodeWatcher class that watches a process exit code and records it in a histogram, with initialize, start, and stop methods.
+// ---
+
 #ifndef CHROME_APP_EXIT_CODE_WATCHER_WIN_H_
 #define CHROME_APP_EXIT_CODE_WATCHER_WIN_H_
 

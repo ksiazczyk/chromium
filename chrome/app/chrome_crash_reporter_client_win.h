@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows crash reporter client interface
+// summary: Declares the Windows ChromeCrashReporterClient class, including process-wide crash reporting initialization and crash reporter client overrides.
+// ---
+
 #ifndef CHROME_APP_CHROME_CRASH_REPORTER_CLIENT_WIN_H_
 #define CHROME_APP_CHROME_CRASH_REPORTER_CLIENT_WIN_H_
 
