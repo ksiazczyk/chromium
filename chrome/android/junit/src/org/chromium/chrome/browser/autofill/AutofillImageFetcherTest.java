@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillImageFetcherTest
+// summary: Robolectric unit tests for AutofillImageFetcher covering image fetching, retry on failure, and observer notifications.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.junit.Assert.assertEquals;

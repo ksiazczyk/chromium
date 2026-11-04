@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IntentHandler Robolectric tests
+// summary: Robolectric tests for IntentHandler covering intent dispatch and URL acceptance rules without requiring the native library.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

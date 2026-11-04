@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HeadlessTabCreatorUnitTest
+// summary: Robolectric unit tests for HeadlessTabCreator verifying frozen and new tab creation without web contents and that disabled creators throw.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.junit.Assert.assertFalse;

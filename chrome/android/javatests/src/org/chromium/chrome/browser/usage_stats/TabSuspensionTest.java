@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab suspension integration tests
+// summary: Integration tests for PageViewObserver and SuspendedTab, exercising tab suspension and media behavior in Chrome's usage stats feature.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import static org.junit.Assert.assertEquals;

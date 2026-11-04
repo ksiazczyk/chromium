@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Share instrumentation tests
+// summary: Instrumented Android test suite verifying Web Share (navigator.share) behavior in Chrome, using test pages served by an embedded test server.
+// ---
+
 package org.chromium.chrome.browser.webshare;
 
 import android.content.Intent;

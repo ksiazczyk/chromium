@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeTabbedActivity Cardboard VR test rule
+// summary: JUnit test rule extending ChromeTabbedActivityTestRule with Cardboard VR setup, opening a ChromeTabbedActivity on a blank page with the DON flow disabled.
+// ---
+
 package org.chromium.chrome.browser.vr.rules;
 
 import org.junit.runner.Description;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar data provider tests
+// summary: Instrumentation tests verifying that ToolbarDataProvider returns the primary OTR profile for incognito tabs and the regular profile otherwise.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.junit.Assert.assertFalse;

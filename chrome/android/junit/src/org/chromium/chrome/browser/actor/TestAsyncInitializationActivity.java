@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Minimal AsyncInitializationActivity test stub
+// summary: Minimal concrete AsyncInitializationActivity used by Robolectric tests where production code requires that activity type without native initialization.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import org.chromium.base.supplier.OneshotSupplier;

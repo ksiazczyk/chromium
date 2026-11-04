@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UndoBarControllerTest
+// summary: Android instrumented tests for the UndoBarController, covering tab close undo snackbar behavior, undo histograms, and tab model interactions.
+// ---
+
 package org.chromium.chrome.browser.undo_tab_close_snackbar;
 
 import static org.junit.Assert.assertEquals;

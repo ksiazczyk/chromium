@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bottom sheet controller instrumentation tests
+// summary: Instrumentation tests verifying that the bottom sheet is shown and hidden correctly in response to various browser events, using a dedicated test sheet and controller.
+// ---
+
 package org.chromium.chrome.browser.widget.bottomsheet;
 
 import static org.junit.Assert.assertEquals;

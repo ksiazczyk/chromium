@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual card unenrollment dialog tests
+// summary: Robolectric unit tests for the virtual card unenrollment dialog, checking confirm and cancel callbacks and the learn-more link launching a custom tab.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static com.google.common.truth.Truth.assertThat;

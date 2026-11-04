@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BrowserExitReasonTracker
+// summary: Unit tests for BrowserExitReasonTracker covering session exit reason recording, PID storage, and pre-Android-R behavior for session restore after a crash.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

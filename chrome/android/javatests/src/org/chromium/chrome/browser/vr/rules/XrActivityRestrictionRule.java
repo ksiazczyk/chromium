@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrActivityRestrictionRule test rule
+// summary: JUnit rule that skips tests when the current XR test rule's activity is not among the activities allowed by the XrActivityRestriction annotation.
+// ---
+
 package org.chromium.chrome.browser.vr.rules;
 
 import org.junit.Assume;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArTestRuleUtils
+// summary: Utility class for applying AR test rules in Chrome Android tests, including AR playback dataset handling and default test rule parameterization for supported activities.
+// ---
+
 package org.chromium.chrome.browser.vr.util;
 
 import org.junit.Assert;

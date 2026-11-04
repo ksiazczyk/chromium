@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Server card editor tests
+// summary: Robolectric unit tests for the server (wallet) credit card editor in autofill settings, covering card editing, virtual card enrollment links, and legal messages.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static androidx.test.espresso.Espresso.onView;

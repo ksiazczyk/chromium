@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Chromium directory metadata applying the autofill common metadata mixins to this test directory.

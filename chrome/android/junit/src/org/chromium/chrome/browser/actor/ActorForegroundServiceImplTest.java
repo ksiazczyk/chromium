@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorForegroundServiceImpl unit tests
+// summary: Robolectric unit tests for ActorForegroundServiceImpl verifying foreground service lifecycle, stop reasons, and UMA histograms.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import android.app.Notification;

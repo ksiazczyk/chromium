@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for tab_activity_glue unit tests
+summary: Delegates reviewer ownership to the OWNERS file of the corresponding main source directory for tab_activity_glue.

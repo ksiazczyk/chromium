@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: appmenu OWNERS
+summary: Points to the OWNERS file of the corresponding Java appmenu source directory so ownership is shared between the test and source folders.

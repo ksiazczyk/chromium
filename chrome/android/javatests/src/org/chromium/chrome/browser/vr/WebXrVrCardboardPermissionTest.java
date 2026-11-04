@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR Cardboard permission tests
+// summary: End-to-end tests covering permission prompt scenarios for WebXR Cardboard sessions, such as denied permissions blocking session creation and prompt persistence.
+// ---
+
 package org.chromium.chrome.browser.vr;
 
 import static org.chromium.chrome.browser.vr.XrTestFramework.PAGE_LOAD_TIMEOUT_S;

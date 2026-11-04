@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppHeaderLayoutBrowserTest
+// summary: Browser tests for the web app header layout coordinator, covering app header behavior in desktop windowing and trusted web activities on tablets and desktops.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static org.junit.Assert.assertFalse;

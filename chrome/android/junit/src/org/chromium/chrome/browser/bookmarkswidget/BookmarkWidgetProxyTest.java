@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkWidgetProxyTest
+// summary: Robolectric unit tests verifying that bookmark widget launch intents are untrusted and mutable, and that safe URLs are relayed with trusted extras while attacker-injected extras are dropped.
+// ---
+
 package org.chromium.chrome.browser.bookmarkswidget;
 
 import static org.junit.Assert.assertEquals;

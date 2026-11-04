@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch-to-fill credit card bottom sheet integration tests
+// summary: Integration tests for the Chrome Android touch-to-fill payments bottom sheet, verifying credit card autofill from a web form through the bottom sheet UI.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.payments;
 
 import static org.junit.Assert.assertTrue;

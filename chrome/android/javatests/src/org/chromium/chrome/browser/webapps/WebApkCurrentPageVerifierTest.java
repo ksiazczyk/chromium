@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAPK current page verifier tests
+// summary: Instrumentation tests verifying that CurrentPageVerifier succeeds for pages inside the WebAPK scope and fails for same-origin pages outside it.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.junit.Assert.assertEquals;

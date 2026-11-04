@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GracefulShutdownServiceImpl unit tests
+// summary: Unit tests for the graceful shutdown service covering foreground service startup, start failures, and shutdown status histogram recording.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

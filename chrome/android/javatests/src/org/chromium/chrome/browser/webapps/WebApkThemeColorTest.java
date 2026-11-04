@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAPK theme color tests
+// summary: Tests status bar and theme color handling for WebAPK activities when EXTRA_THEME_COLOR is supplied in the launch intent.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Intent;

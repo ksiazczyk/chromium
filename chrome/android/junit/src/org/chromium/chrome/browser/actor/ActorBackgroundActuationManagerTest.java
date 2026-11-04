@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorBackgroundActuationManager unit tests
+// summary: Robolectric unit tests for ActorBackgroundActuationManager covering background tab actuation, message outcomes, and related tab model behavior.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static org.junit.Assert.assertEquals;

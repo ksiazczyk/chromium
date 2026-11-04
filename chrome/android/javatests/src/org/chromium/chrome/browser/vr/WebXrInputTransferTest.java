@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR input transfer tests
+// summary: Instrumentation tests checking that input transfer to Viz is blocked during a WebXR AR session, using gesture listeners and touch events to detect scrolling.
+// ---
+
 package org.chromium.chrome.browser.vr;
 
 import static org.chromium.chrome.browser.vr.WebXrArTestFramework.PAGE_LOAD_TIMEOUT_S;

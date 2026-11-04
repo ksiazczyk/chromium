@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR AR test framework
+// summary: AR-specific implementation of the WebXR test framework that enters and exits WebXR AR sessions and handles permission prompts during instrumentation tests.
+// ---
+
 package org.chromium.chrome.browser.vr;
 
 import org.chromium.chrome.browser.vr.util.PermissionUtils;

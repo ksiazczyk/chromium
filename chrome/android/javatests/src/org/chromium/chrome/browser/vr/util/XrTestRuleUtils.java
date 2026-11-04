@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrTestRuleUtils
+// summary: Utility class for XR test rules, providing default rule parameterization, activity restriction rule wrapping, and activity enum to string conversion for Chrome XR tests.
+// ---
+
 package org.chromium.chrome.browser.vr.util;
 
 import org.junit.Assert;

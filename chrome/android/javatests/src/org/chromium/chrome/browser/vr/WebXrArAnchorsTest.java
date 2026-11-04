@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXrArAnchorsTest
+// summary: End-to-end instrumentation tests for WebXR AR anchor creation, free-floating anchors, and anchor state updates.
+// ---
+
 package org.chromium.chrome.browser.vr;
 
 import static org.chromium.chrome.browser.vr.WebXrArTestFramework.PAGE_LOAD_TIMEOUT_S;

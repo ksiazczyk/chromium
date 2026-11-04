@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Status Bar Color Controller Test
+// summary: Android instrumentation tests for Chrome's StatusBarColorController, verifying status bar and scrim colors across pages, NTP, and toolbar theming scenarios.
+// ---
+
 package org.chromium.chrome.browser.ui.system;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

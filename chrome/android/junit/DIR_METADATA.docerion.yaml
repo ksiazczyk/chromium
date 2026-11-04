@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for issue tracking
+summary: Maps the junit directory to the Monorail component UI>Browser>Mobile and a Buganizer component for issue tracking.

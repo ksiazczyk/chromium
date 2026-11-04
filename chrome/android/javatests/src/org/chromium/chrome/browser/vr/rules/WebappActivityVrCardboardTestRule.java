@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappActivity VR Cardboard JUnit test rule
+// summary: JUnit test rule extending WebappActivityTestRule that runs Cardboard VR tests by opening a WebappActivity on a blank page with additional setup.
+// ---
+
 package org.chromium.chrome.browser.vr.rules;
 
 import org.junit.runner.Description;

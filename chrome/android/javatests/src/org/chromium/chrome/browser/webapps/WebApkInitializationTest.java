@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAPK activity initialization tests
+// summary: Instrumentation tests checking that expected controllers and lifecycle components are constructed when a WebAPK activity is launched.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.mockito.ArgumentMatchers.isA;

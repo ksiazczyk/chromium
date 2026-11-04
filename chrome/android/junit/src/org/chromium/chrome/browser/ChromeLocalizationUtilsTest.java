@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for ChromeLocalizationUtils
+// summary: Tests for ChromeLocalizationUtils computing UI language availability and correctness statuses used for localization reporting.
+// ---
+
 package org.chromium.chrome.browser;
 
 import org.junit.Assert;

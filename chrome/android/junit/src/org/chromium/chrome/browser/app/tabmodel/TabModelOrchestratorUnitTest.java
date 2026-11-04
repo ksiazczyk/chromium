@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabModelOrchestrator unit tests
+// summary: Robolectric unit tests verifying that TabModelOrchestrator wires the tab model selector and persistent store and publishes startup tab count information.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.junit.Assert.assertEquals;

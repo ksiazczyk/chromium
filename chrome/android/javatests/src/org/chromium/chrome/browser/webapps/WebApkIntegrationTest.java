@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAPK feature integration tests
+// summary: Integration tests for the WebAPK feature, covering deep link launching, activity startup behavior, and related web app activity flows.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static androidx.test.espresso.Espresso.onView;

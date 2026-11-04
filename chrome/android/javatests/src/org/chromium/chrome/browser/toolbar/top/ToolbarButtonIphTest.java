@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar button IPH tests
+// summary: Integration tests for in-product help bubbles shown on toolbar buttons, using a mocked feature engagement tracker.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import static androidx.test.espresso.assertion.ViewAssertions.matches;

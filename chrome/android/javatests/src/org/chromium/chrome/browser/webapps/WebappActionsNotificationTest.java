@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webapp actions notification tests
+// summary: Tests the standalone web app notification from WebappActionsNotificationManager, including its share and open-in-Chrome actions.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.app.Instrumentation.ActivityMonitor;

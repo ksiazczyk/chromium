@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for bottom sheet tests
+summary: Delegates code ownership of the bottom sheet tests to the shared OWNERS file of the browser_ui bottomsheet Android component.

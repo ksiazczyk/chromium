@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddToHomescreenInstallTest
+// summary: Instrumentation tests for the add-to-homescreen install flow, mocking the dialog and checking install paths and histograms for pages with and without a manifest.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Context;

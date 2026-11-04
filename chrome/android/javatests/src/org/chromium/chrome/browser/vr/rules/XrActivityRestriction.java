@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrActivityRestriction annotation
+// summary: Runtime annotation that restricts which ChromeActivity types a VR/XR test runs in, effective only with XrActivityRestrictionRule present.
+// ---
+
 package org.chromium.chrome.browser.vr.rules;
 
 import androidx.annotation.IntDef;

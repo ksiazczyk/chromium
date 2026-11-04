@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the about_settings test directory
+summary: Points to the COMMON_METADATA mixin of the about_settings source directory to inherit its directory metadata.

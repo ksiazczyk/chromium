@@ -4,6 +4,12 @@
 
 // generate_java_test.py
 
+// ---docerion
+// type: test
+// title: AboutSettingsBridgeTest
+// summary: JUnit unit tests for AboutSettingsBridge that verify application version and OS version retrieval using mocked native methods.
+// ---
+
 package org.chromium.chrome.browser.about_settings;
 
 import static org.junit.Assert.assertEquals;

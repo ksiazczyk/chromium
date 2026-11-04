@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStateStore unit tests
+// summary: Robolectric unit tests covering TabStateStore tab state persistence, load warnings, store migration, and window cleanup behavior.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the flags package
+summary: Chromium OWNERS file that redirects reviewer ownership to the OWNERS file of the corresponding Java source flags directory.

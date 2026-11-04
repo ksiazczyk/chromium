@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill save IBAN bottom sheet content unit tests
+// summary: Robolectric unit tests verifying AutofillSaveIbanBottomSheetContent behavior such as toolbar, priority, and height modes.
+// ---
+
 package org.chromium.chrome.browser.autofill.iban;
 
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillVcnEnrollBottomSheetLifecycle
+// summary: Robolectric unit tests checking when the enrollment bottom sheet lifecycle can begin and end, including layout state and tab model supplier observation.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import static org.junit.Assert.assertFalse;

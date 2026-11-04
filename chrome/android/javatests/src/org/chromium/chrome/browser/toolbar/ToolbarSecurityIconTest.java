@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Toolbar security icon tests
+// summary: Instrumentation tests for the toolbar security icon across connection security levels and malicious content statuses.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.junit.Assert.assertEquals;

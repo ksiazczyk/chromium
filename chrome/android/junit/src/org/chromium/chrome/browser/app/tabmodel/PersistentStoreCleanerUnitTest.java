@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistentStoreCleanerUnitTest
+// summary: Robolectric unit tests for PersistentStoreCleaner covering cleanup of legacy and SQLite tab stores across regular, archived, and Custom Tab models.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.junit.Assert.assertArrayEquals;

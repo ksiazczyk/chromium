@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockCertVerifierRuleAndroid JUnit rule for forced cert results
+// summary: JUnit test rule that loads the native library and forces a chosen certificate verification result for Android tests through a native mock verifier.
+// ---
+
 package org.chromium.chrome.browser.test;
 
 import org.jni_zero.NativeMethods;

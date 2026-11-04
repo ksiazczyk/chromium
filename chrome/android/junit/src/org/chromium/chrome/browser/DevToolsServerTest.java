@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DevToolsServer
+// summary: Unit tests for DevToolsServer verifying remote debugging enablement, security options, and preference change observation.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.mockito.ArgumentMatchers.anyBoolean;

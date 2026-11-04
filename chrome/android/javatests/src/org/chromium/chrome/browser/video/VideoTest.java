@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'VideoTest: HTML5 video playback tests for Chrome Android'
+// summary: Instrumented JUnit test suite that loads an HTML5 video page on a test server and verifies playback by checking tab title updates from ready_to_play to ended.
+// ---
+
 package org.chromium.chrome.browser.video;
 
 import android.os.Build;

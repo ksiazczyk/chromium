@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webapp splash screen homescreen icon tests
+// summary: Tests splash screens that use an icon supplied through the intent extra, verifying the fallback icon dimensions.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.graphics.drawable.BitmapDrawable;

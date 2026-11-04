@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webapp splash screen icon tests
+// summary: Tests splash screens with an icon registered in WebappRegistry, verifying the displayed splash icon size.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.graphics.drawable.BitmapDrawable;

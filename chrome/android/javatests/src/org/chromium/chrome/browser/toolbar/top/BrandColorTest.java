@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Brand color toolbar tests
+// summary: Instrumentation tests verifying that the toolbar's primary color follows a page's theme-color meta tag.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import android.graphics.Color;

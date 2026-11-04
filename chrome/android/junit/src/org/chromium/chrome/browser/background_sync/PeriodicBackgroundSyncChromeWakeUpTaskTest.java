@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PeriodicBackgroundSyncChromeWakeUpTaskTest
+// summary: JUnit tests for PeriodicBackgroundSyncChromeWakeUpTask, checking task start behavior and rescheduling under varying network conditions.
+// ---
+
 package org.chromium.chrome.browser.background_sync;
 
 import static org.junit.Assert.assertEquals;

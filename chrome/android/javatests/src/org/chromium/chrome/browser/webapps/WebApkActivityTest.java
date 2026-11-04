@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkActivityTest
+// summary: Instrumentation tests for the WebAPK WebappActivity, including launching and navigating outside the WebAPK scope with toolbar behavior checks.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.junit.Assert.assertEquals;

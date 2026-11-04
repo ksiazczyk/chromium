@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundSyncGooglePlayServicesCheckerTest
+// summary: JUnit tests verifying that background sync should be disabled depending on Google Play Services availability.
+// ---
+
 package org.chromium.chrome.browser.background_sync;
 
 import static org.junit.Assert.assertFalse;

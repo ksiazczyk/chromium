@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automotive back button toolbar coordinator unit test
+// summary: Robolectric unit test for the automotive back button toolbar coordinator, covering fullscreen observer behavior, back press handling, and edge swipe toolbar interactions.
+// ---
+
 package org.chromium.chrome.browser.automotivetoolbar;
 
 import static org.mockito.Mockito.verify;

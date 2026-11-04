@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LinkHoverStatusBarCoordinatorTest
+// summary: Instrumented tests verifying that the link hover status bar appears with the hovered URL on desktop form factor and does not show without a mouse.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static androidx.test.espresso.Espresso.onView;

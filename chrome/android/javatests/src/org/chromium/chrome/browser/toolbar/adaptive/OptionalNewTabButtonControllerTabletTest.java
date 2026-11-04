@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optional new tab button controller tablet test
+// summary: Instrumented tests verifying that the optional new tab toolbar button is hidden on tablets in both portrait and landscape orientations.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

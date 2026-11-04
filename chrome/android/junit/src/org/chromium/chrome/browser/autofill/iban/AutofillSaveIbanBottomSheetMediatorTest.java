@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill save IBAN bottom sheet mediator unit tests
+// summary: Robolectric unit tests for AutofillSaveIbanBottomSheetMediator, verifying prompt display, hiding, and histogram logging.
+// ---
+
 package org.chromium.chrome.browser.autofill.iban;
 
 import static org.mockito.ArgumentMatchers.any;

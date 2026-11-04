@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VrTestRule interface for VR test rules
+// summary: Interface implemented by VR test rules, enabling conditional skipping with XrActivityRestrictionRule and fake head pose tracker setup, with a DON flow check.
+// ---
+
 package org.chromium.chrome.browser.vr.rules;
 
 /**

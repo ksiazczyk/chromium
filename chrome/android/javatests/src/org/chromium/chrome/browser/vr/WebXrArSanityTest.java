@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXrArSanityTest
+// summary: End-to-end sanity tests checking that AR sessions remain stable with all AR-related features enabled over short and long recordings.
+// ---
+
 package org.chromium.chrome.browser.vr;
 
 import static org.chromium.chrome.browser.vr.WebXrArTestFramework.PAGE_LOAD_TIMEOUT_S;

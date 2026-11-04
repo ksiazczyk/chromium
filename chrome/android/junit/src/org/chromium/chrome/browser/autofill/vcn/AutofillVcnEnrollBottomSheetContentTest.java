@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillVcnEnrollBottomSheetContent
+// summary: Robolectric unit tests verifying bottom sheet content behavior such as scroll offset, dismissal, priority, swipe handling, handlebar and accessibility strings.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrTestFramework
+// summary: Core framework for XR instrumentation tests, coordinating Java-side actions with JavaScript test steps running in the browser.
+// ---
+
 package org.chromium.chrome.browser.vr;
 
 import static org.chromium.chrome.browser.url_constants.UrlConstantResolver.getOriginalNativeBookmarksUrl;

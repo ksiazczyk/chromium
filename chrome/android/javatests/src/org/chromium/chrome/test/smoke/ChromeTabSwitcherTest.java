@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Android tab switcher smoke test
+// summary: Large UI smoke test that launches Chrome on Android, switches tabs through the tab switcher UI, and guards against crash-on-launch regressions.
+// ---
+
 package org.chromium.chrome.test.smoke;
 
 import static com.google.common.truth.Truth.assertThat;

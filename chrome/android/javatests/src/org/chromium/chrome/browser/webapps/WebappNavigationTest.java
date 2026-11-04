@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webapp navigation tests
+// summary: Tests web navigations originating from a WebappActivity, including theme color and short-edges cutout behavior.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.junit.Assert.assertEquals;

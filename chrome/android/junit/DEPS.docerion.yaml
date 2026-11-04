@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Chrome Android JUnit tests
+summary: Defines include rules listing the Chromium directories and files that code in the junit test directory is allowed to depend on.

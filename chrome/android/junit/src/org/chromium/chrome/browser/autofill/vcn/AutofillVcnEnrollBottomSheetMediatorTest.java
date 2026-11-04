@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillVcnEnrollBottomSheetMediator
+// summary: Robolectric unit tests for the mediator controlling show, hide, accept and cancel of the enrollment bottom sheet, including loading state and histogram metrics.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import static org.junit.Assert.assertTrue;

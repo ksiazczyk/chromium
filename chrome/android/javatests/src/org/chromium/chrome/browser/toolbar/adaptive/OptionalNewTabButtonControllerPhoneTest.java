@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optional new tab button controller phone test
+// summary: Instrumented tests verifying the optional new tab toolbar button behavior on phones, including opening a new tab in portrait orientation.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive;
 
 import static androidx.test.espresso.action.ViewActions.click;

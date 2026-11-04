@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabActivity Cardboard VR test rule
+// summary: JUnit test rule extending CustomTabActivityTestRule with Cardboard VR setup, opening a CustomTabActivity on a blank page with the DON flow disabled.
+// ---
+
 package org.chromium.chrome.browser.vr.rules;
 
 import androidx.test.core.app.ApplicationProvider;

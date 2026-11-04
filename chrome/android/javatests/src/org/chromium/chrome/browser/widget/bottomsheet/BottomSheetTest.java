@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bottom sheet behavior tests
+// summary: Instrumentation tests for the bottom sheet's functionality on phones, including content priority, sheet state changes, back press handling and gesture behavior.
+// ---
+
 package org.chromium.chrome.browser.widget.bottomsheet;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeRobolectricTestRunner test runner
+// summary: Robolectric test runner that initializes and resets Chrome globals such as ColdStartTracker and DisplayAndroidManager between tests.
+// ---
+
 package org.chromium.chrome.browser;
 
 import androidx.annotation.NonNull;

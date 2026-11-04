@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupUsageTracker unit tests
+// summary: Robolectric unit tests for TabGroupUsageTracker verifying histogram recording of regular and incognito tab group counts on create and resume.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.mockito.ArgumentMatchers.any;

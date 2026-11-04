@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LaunchIntentDispatcher unit tests
+// summary: Unit tests for LaunchIntentDispatcher covering launch intent routing, custom tabs, trusted web activities, and multi-window launch behavior.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

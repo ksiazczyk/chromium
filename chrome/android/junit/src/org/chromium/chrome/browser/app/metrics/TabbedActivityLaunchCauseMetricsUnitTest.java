@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabbedActivityLaunchCauseMetricsUnitTest
+// summary: Robolectric unit tests for TabbedActivityLaunchCauseMetrics, checking that launch causes such as open-in-browser intents are recorded correctly in histograms.
+// ---
+
 package org.chromium.chrome.browser.app.metrics;
 
 import android.app.Activity;

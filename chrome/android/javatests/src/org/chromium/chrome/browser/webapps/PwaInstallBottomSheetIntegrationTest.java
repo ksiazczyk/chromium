@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PwaInstallBottomSheetIntegrationTest
+// summary: Integration tests for the PWA install bottom sheet UI and its interaction with vertical scroll offset.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static androidx.test.espresso.Espresso.onView;

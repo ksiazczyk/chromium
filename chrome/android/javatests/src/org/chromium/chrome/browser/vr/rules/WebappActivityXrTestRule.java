@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappActivity XR JUnit test rule
+// summary: JUnit test rule extending WebappActivityTestRule that starts a WebappActivity on a blank page for XR tests.
+// ---
+
 package org.chromium.chrome.browser.vr.rules;
 
 import org.chromium.chrome.browser.vr.rules.XrActivityRestriction.SupportedActivity;

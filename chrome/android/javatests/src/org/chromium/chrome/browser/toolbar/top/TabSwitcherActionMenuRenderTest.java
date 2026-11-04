@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab switcher action menu render tests
+// summary: Parameterized render tests for the tab switcher long-press menu popup, run in both day and night mode variants.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import static android.view.ViewGroup.LayoutParams.WRAP_CONTENT;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillSaveCardBottomSheetContent
+// summary: Robolectric unit tests checking the save-card bottom sheet content's views, scroll offsets, custom lifecycle, swipe-to-dismiss, height modes, and accessibility strings.
+// ---
+
 package org.chromium.chrome.browser.autofill.save_card;
 
 import static org.hamcrest.MatcherAssert.assertThat;

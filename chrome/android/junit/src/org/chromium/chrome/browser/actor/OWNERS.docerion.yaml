@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the actor test folder
+summary: Delegates code ownership for this test directory to the OWNERS file at chrome/browser/actor/android/OWNERS.

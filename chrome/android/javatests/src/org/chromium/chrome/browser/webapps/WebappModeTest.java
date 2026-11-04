@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webapp activity launch mode tests
+// summary: Tests that WebappActivity instances are launched and managed correctly, accounting for differences across Android versions.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.app.Activity;

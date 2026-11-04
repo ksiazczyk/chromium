@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStateThemeResourceProvider unit tests
+// summary: Robolectric unit tests for TabStateThemeResourceProvider checking when the incognito theme overlay is used across browsing and non-browsing layouts.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertFalse;

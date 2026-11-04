@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrTestRule interface
+// summary: Interface implemented by XR test rules so they can be conditionally skipped in combination with XrActivityRestrictionRule.
+// ---
+
 package org.chromium.chrome.browser.vr.rules;
 
 import org.chromium.chrome.browser.vr.rules.XrActivityRestriction.SupportedActivity;

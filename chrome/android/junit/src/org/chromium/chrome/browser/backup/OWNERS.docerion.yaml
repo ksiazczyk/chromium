@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates code ownership for the backup test folder to the OWNERS file in the main backup source directory.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the tracing test directory
+summary: Delegates ownership of the Android tracing tests to the owners listed in the OWNERS file of the corresponding tracing source directory.

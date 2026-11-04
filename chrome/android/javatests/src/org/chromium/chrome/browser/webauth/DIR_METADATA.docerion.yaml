@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebAuthn test directory metadata
+summary: Chromium directory metadata assigning the Blink>WebAuthentication component, the identity team email, and a Buganizer component ID.

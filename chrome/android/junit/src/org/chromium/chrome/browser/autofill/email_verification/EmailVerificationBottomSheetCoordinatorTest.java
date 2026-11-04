@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmailVerificationBottomSheetCoordinatorTest
+// summary: Robolectric unit tests for EmailVerificationBottomSheetCoordinator, verifying that the bottom sheet is shown, hidden, and destroyed with the expected delegate callbacks.
+// ---
+
 package org.chromium.chrome.browser.autofill.email_verification;
 
 import static org.junit.Assert.assertEquals;

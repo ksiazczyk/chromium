@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeTabbedActivity XR test rule
+// summary: JUnit test rule extending ChromeTabbedActivityTestRule with XR setup, opening a ChromeTabbedActivity on a blank page.
+// ---
+
 package org.chromium.chrome.browser.vr.rules;
 
 import org.chromium.chrome.browser.vr.rules.XrActivityRestriction.SupportedActivity;

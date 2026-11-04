@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'WebauthnTestUtils: shared WebAuthn test utilities'
+// summary: Shared helpers and mock classes such as MockIntentSender and incognito WebContents used across Chrome Android WebAuthn unit tests.
+// ---
+
 package org.chromium.chrome.browser.webauth;
 
 import static com.google.common.truth.Truth.assertThat;

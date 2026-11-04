@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillVcnEnrollBottomSheetCoordinator
+// summary: Robolectric unit tests for the coordinator that shows the virtual card enrollment bottom sheet and handles accept and cancel interactions.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import static org.junit.Assert.assertTrue;

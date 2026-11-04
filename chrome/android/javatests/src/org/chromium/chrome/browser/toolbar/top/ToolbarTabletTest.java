@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tablet toolbar tests
+// summary: Instrumentation and render tests for the tablet toolbar, including omnibox button focus and home button removal features.
+// ---
+
 package org.chromium.chrome.browser.toolbar.top;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkAllTabsHandlerUnitTest
+// summary: Robolectric unit tests for BookmarkAllTabsHandler, covering menu and keyboard action handling, null model and selector cases, and the resulting histograms and user actions.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertFalse;

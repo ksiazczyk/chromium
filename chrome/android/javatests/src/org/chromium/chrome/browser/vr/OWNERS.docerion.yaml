@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Points to the shared VR Java OWNERS file that lists the code owners for this test directory.

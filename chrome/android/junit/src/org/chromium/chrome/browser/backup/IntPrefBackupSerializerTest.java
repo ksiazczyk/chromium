@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IntPrefBackupSerializer unit tests
+// summary: Robolectric unit tests verifying that IntPrefBackupSerializer correctly serializes and deserializes allowlisted integer preferences, such as the sync-to-signin migration state.
+// ---
+
 package org.chromium.chrome.browser.backup;
 
 import static org.junit.Assert.assertEquals;

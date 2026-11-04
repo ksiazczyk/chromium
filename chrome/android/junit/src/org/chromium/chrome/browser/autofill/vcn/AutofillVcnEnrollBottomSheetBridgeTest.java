@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillVcnEnrollBottomSheetBridge
+// summary: Robolectric unit tests for the native bridge of the virtual card enrollment bottom sheet, covering feature flags, image fetching, legal message links and Custom Tabs opening.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import static org.hamcrest.MatcherAssert.assertThat;

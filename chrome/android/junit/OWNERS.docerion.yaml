@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Chrome Android JUnit directory
+summary: Lists owners responsible for reviewing changes in the junit directory, inheriting from chrome/android/OWNERS with a per-file rule for BUILD.gn.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'AuthenticatorTest: navigator.credentials test suite'
+// summary: Test suite that exercises navigator.credentials WebAuthn flows in a browser tab using an embedded test server and a mocked Fido2CredentialRequest.
+// ---
+
 package org.chromium.chrome.browser.webauth;
 
 import static org.mockito.ArgumentMatchers.any;

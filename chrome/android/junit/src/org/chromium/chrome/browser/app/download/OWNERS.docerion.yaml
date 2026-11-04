@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Download OWNERS
+summary: Designates code owners for the download directory by including the OWNERS file from components/download.

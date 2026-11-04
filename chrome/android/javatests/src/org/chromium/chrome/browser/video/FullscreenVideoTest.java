@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'FullscreenVideoTest: fullscreen video tests for Chrome Android'
+// summary: Instrumented JUnit test suite verifying Chrome Android fullscreen video behavior, including exiting fullscreen via back button without URL change and correct fullscreen dimension propagation.
+// ---
+
 package org.chromium.chrome.browser.video;
 
 import android.graphics.Rect;

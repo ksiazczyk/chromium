@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First Run Experience navigator for Chrome smoke tests
+// summary: Utility class that clicks through Chrome's First Run Experience pages during UI smoke tests, handling sign-in skip and continue buttons, Play Services update alerts, and detecting FRE completion via the URL bar.
+// ---
+
 package org.chromium.chrome.test.smoke.utilities;
 
 import org.chromium.base.Log;

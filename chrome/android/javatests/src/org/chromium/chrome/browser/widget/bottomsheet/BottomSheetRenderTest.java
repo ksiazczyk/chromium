@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bottom sheet render tests
+// summary: Render tests covering bottom sheet desktop popup, handlebar, close button, trimmed bounds, wrap-content and glow visual treatments across night and light mode parameters.
+// ---
+
 package org.chromium.chrome.browser.widget.bottomsheet;
 
 import static org.junit.Assert.assertEquals;

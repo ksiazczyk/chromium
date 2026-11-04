@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillImageFetcherUtilsTest
+// summary: Unit tests for AutofillImageFetcherUtils covering Pix account image URL formatting and image treatment such as borders and rounded corners.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.junit.Assert.assertEquals;

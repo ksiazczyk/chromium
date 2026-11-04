@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'GetMatchingCredentialsDelegateTest: credential lookup tests'
+// summary: Unit tests for GetMatchingCredentialIdsDelegate verifying matching WebAuthn credential ID lookups against mocked Fido2 API responses.
+// ---
+
 package org.chromium.chrome.browser.webauth;
 
 import android.content.Context;

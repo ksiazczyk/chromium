@@ -1,3 +1,12 @@
+---
+type: reference
+title: XR Instrumentation Test Deep Dive
+summary: Explains the internal design of the XR instrumentation test framework, including naming, hierarchy, parameterization, and rules.
+relations:
+  - references /chrome/android/javatests/src/org/chromium/chrome/browser/vr/README.md
+  - references /chrome/android/javatests/src/org/chromium/chrome/browser/vr/adding_new_tests.md
+---
+
 # XR Instrumentation Test Deep Dive
 
 ## Introduction

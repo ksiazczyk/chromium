@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappActivity AR test rule
+// summary: JUnit test rule extending WebappActivityTestRule with AR-only setup, opening a WebappActivity for AR tests.
+// ---
+
 package org.chromium.chrome.browser.vr.rules;
 
 import org.junit.runner.Description;

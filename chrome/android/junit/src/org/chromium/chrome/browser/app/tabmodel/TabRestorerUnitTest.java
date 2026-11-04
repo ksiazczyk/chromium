@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabRestorer unit tests
+// summary: Robolectric unit tests covering TabRestorer behavior for restoring saved tab states, including background tab pools, storage batches, and notification handling.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.junit.Assert.assertEquals;

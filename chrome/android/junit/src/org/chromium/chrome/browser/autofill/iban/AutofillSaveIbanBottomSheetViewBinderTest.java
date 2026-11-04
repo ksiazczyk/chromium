@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Autofill save IBAN bottom sheet view binder unit tests
+// summary: Robolectric unit tests verifying that save IBAN bottom sheet model properties are bound to the correct view elements.
+// ---
+
 package org.chromium.chrome.browser.autofill.iban;
 
 import static org.hamcrest.CoreMatchers.equalTo;

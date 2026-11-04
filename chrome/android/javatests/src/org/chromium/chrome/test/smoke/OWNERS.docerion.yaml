@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Chrome Android smoke tests
+summary: Lists the owners responsible for reviewing changes to the Chrome Android smoke test directory.
