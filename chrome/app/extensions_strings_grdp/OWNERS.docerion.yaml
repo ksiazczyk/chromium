@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Extensions strings directory OWNERS file
+summary: Permissive OWNERS file that lists all reviewers as approvers for the extensions strings resources.
