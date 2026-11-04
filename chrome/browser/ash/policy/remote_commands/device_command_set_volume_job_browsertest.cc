@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Set volume job browser tests
+// summary: Browser tests that send set volume remote commands through the embedded policy test server and verify successful results, including handling of 64-bit command IDs.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_policy_cros_browser_test.h"
 #include "chrome/browser/ash/policy/test_support/embedded_policy_test_server_mixin.h"
 #include "chrome/browser/ash/policy/test_support/remote_commands_service_mixin.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OffHours proto parser unit tests
+// summary: Unit tests that verify extraction of weekly time intervals, timezone handling, and ignored policy proto tags from the DeviceOffHours proto across timezones such as GMT and America/Los_Angeles.
+// ---
+
 #include "chrome/browser/ash/policy/off_hours/off_hours_proto_parser.h"
 
 #include <array>

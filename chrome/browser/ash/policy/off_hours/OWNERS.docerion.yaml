@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the off_hours directory
+summary: Lists poromov@chromium.org as the code owner responsible for reviewing changes in this directory.

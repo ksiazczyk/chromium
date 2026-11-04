@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRD remote command utility functions
+// summary: Implements helpers for CRD remote commands, including kiosk session detection and checks whether the device is in a policy-managed network environment.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/crd_remote_command_utils.h"
 
 #include <vector>

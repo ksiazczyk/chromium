@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ChromeOS network config for tests
+// summary: Provides a fake CrosNetworkConfig implementation and a network builder used to simulate networks in tests.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/fake_cros_network_config.h"
 
 #include "base/strings/stringprintf.h"

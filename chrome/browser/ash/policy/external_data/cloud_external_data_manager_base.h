@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for cloud external data managers
+// summary: Declares the common base class for cloud external data managers used by user and device-local account specializations, covering download scheduling, verification, caching and retrieval.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_CLOUD_EXTERNAL_DATA_MANAGER_BASE_H_
 #define CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_CLOUD_EXTERNAL_DATA_MANAGER_BASE_H_
 

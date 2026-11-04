@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartCrdSessionJobDelegate interface for CRD session jobs
+// summary: Declares the StartCrdSessionJobDelegate abstract interface that handles communication with the remoting code to start and end CRD sessions, including session parameters, request origins, and result callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_START_CRD_SESSION_JOB_DELEGATE_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_START_CRD_SESSION_JOB_DELEGATE_H_
 

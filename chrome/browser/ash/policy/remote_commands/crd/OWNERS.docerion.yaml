@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the CRD directory
+summary: Delegates code ownership to the kiosk OWNERS file and links an internal issue tracker for reporting problems.

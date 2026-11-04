@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemUse24HourClock policy browser test
+// summary: Browser test verifying that the SystemUse24HourClock device policy controls the system clock and system tray 24-hour clock setting.
+// ---
+
 #include "ash/constants/ash_switches.h"
 #include "ash/public/cpp/system_tray_test_api.h"
 #include "base/command_line.h"

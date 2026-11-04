@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ADB sideloading allowance mode policy handler
+// summary: Verifies notification and powerwash behavior of the ADB sideloading policy handler using fake settings, user manager, and power manager clients.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/adb_sideloading_allowance_mode_policy_handler.h"
 
 #include <memory>

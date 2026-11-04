@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-screen capture policy handler unit tests
+// summary: Parameterized unit tests checking that MultiScreenCaptureAllowedForUrls values are validated and policy errors reported for invalid entries.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/multi_screen_capture_policy_handler.h"
 
 #include <memory>

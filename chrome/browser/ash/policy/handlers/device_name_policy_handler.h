@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device name policy handler header
+// summary: Declares DeviceNamePolicyHandler, which observes the DeviceHostname setting and calls NetworkStateHandler::SetHostname based on the device name policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_DEVICE_NAME_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_DEVICE_NAME_POLICY_HANDLER_H_
 

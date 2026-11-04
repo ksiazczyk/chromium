@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote activity notification controller header
+// summary: Declares the controller that tracks and shows the remote-admin-was-present notification on the login or lock screen after CRD sessions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_REMOTE_ACTIVITY_NOTIFICATION_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_REMOTE_ACTIVITY_NOTIFICATION_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device policy cloud external data manager
+// summary: Implements the external data manager for device policy, setting up the on-disk resource cache and data store with a test-only cache size override.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/device_policy_cloud_external_data_manager.h"
 
 #include <stdint.h>

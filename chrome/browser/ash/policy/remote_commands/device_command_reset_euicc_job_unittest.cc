@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device command reset EUICC job unit tests
+// summary: Unit tests for the EUICC reset remote command job, using fake Hermes and Shill clients to verify profile removal, job status and histograms.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_reset_euicc_job.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceWiFiAllowed policy handler header
+// summary: Declares the handler that observes the DeviceWiFiAllowed setting and updates the list of prohibited network technologies.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_DEVICE_WIFI_ALLOWED_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_DEVICE_WIFI_ALLOWED_HANDLER_H_
 

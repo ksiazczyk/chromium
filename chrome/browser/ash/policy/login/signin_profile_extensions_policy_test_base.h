@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in profile extensions policy test base header
+// summary: Declares a device policy browser test base class for testing sign-in profile apps and extensions installed through device policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_LOGIN_SIGNIN_PROFILE_EXTENSIONS_POLICY_TEST_BASE_H_
 #define CHROME_BROWSER_ASH_POLICY_LOGIN_SIGNIN_PROFILE_EXTENSIONS_POLICY_TEST_BASE_H_
 

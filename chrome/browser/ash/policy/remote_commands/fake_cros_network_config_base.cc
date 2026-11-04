@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ChromeOS network config base implementation
+// summary: Implements a CrosNetworkConfig fake base whose methods are NOTREACHED stubs for tests to override selectively.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/fake_cros_network_config_base.h"
 #include "base/notreached.h"
 

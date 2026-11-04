@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffHours policy applier implementation
+// summary: Applies the OffHours policy to device settings protos by removing the policies named in ignored_policy_proto_tags.
+// ---
+
 #include "chrome/browser/ash/policy/off_hours/off_hours_policy_applier.h"
 
 #include "chrome/browser/ash/policy/core/device_policy_remover.h"

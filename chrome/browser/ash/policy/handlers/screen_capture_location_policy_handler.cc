@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen capture location policy handler
+// summary: Implements the ScreenCaptureLocation policy handler that validates the policy value and applies it as the capture mode save path when the SkyVault feature is enabled.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/screen_capture_location_policy_handler.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC user remote command job header
+// summary: Declares UserCommandArcJob, a RemoteCommandJob that runs ARC commands for a user profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_USER_COMMAND_ARC_JOB_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_USER_COMMAND_ARC_JOB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRD UMA logger
+// summary: Header for a helper class that logs CRD session launch results as UMA metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_CRD_UMA_LOGGER_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_CRD_UMA_LOGGER_H_
 

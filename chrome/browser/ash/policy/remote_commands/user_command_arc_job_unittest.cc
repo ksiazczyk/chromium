@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserCommandArcJob unit tests
+// summary: Unit tests that build UserCommandArcJob instances and verify command execution through a fake ARC policy bridge.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/user_command_arc_job.h"
 
 #include <memory>

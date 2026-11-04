@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake screenshot delegate implementation
+// summary: Implements a fake screenshot delegate that allows screenshots and fakes upload jobs for remote command tests.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/fake_screenshot_delegate.h"
 
 #include <string>

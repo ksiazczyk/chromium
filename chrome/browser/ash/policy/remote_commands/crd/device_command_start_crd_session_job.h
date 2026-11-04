@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device command start CRD session job header
+// summary: Declares the remote command job that starts a Chrome Remote Desktop host and returns an access code for kiosk, affiliated user, and managed guest sessions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_DEVICE_COMMAND_START_CRD_SESSION_JOB_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_DEVICE_COMMAND_START_CRD_SESSION_JOB_H_
 

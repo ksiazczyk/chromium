@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ApplyOffHoursPolicyToProto
+// summary: Verifies that applying the OffHours policy removes ignored policies such as guest mode and allow new users from the device settings proto.
+// ---
+
 #include "chrome/browser/ash/policy/off_hours/off_hours_policy_applier.h"
 
 #include <array>

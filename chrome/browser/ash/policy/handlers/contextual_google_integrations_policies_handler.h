@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Google integrations policies handler header
+// summary: Declares the schema-validating handler for the ContextualGoogleIntegrationsEnabled and ContextualGoogleIntegrationsConfiguration policies.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_CONTEXTUAL_GOOGLE_INTEGRATIONS_POLICIES_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_CONTEXTUAL_GOOGLE_INTEGRATIONS_POLICIES_HANDLER_H_
 

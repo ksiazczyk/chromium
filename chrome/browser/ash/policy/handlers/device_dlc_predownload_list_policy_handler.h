@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device DLC predownload list policy handler header
+// summary: Declares the handler that predownloads DLCs set by the DeviceDlcPredownloadList policy, after OOBE and whenever the policy is updated.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_DEVICE_DLC_PREDOWNLOAD_LIST_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_DEVICE_DLC_PREDOWNLOAD_LIST_POLICY_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Buganizer component metadata for off_hours
+summary: Maps the directory to internal and public Buganizer components used for issue tracking.

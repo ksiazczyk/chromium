@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the cloud external data policy observer
+// summary: Implements the observer that watches external data policy references for logged-in users and device-local accounts and notifies a delegate when references change.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/cloud_external_data_policy_observer.h"
 
 #include <memory>

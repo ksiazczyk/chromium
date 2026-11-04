@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in profile extensions policy browser tests
+// summary: Browser tests checking that only allowlisted apps and extensions are force-installed and run in the sign-in profile via device policy.
+// ---
+
 #include <memory>
 #include <string>
 

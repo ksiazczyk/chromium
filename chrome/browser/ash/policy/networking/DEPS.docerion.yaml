@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Ash policy networking
+summary: 'Restricts and grants #include dependencies for the directory, with special rules for test files.'

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Get available diagnostic routines job unit tests
+// summary: Unit tests for the get available routines remote command job, using a fake cros_healthd to verify the returned routines payload.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_get_available_routines_job.h"
 
 #include <memory>

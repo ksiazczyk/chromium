@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Start CRD session remote command job
+// summary: Implements the remote command that starts Chrome Remote Desktop sessions, enforcing idleness, policy, and session duration limits.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/device_command_start_crd_session_job.h"
 
 #include <iomanip>

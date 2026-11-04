@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of external data policy handling
+summary: Describes the directory's role in handling policies with external data, the STRING, JSON and EXTERNAL policy formats, and the retrieval, verification and caching responsibilities.
+---
+
 chrome/browser/ash/policy/external_data
 ============================================
 

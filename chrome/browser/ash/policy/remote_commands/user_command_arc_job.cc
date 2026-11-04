@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC user remote command job
+// summary: Remote command job that forwards USER_ARC_COMMAND payloads to the ARC policy bridge and reports success or failure.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/user_command_arc_job.h"
 
 #include <utility>

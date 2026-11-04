@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for CRD remote commands
+summary: GN build configuration that defines the crd static library, test support and unit test targets for the CRD remote commands.

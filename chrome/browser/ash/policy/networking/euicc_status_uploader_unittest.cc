@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eUICC status uploader unit tests
+// summary: Unit tests for EuiccStatusUploader covering upload requests, retries, and status serialization using a fake cloud policy client.
+// ---
+
 #include "chrome/browser/ash/policy/networking/euicc_status_uploader.h"
 
 #include <algorithm>

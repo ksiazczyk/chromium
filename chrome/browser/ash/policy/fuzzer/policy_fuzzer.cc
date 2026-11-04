@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy fuzzer for ChromeOS device and cloud policy
+// summary: libFuzzer entry point that feeds protobuf-encoded device and cloud policies through ChromeOS policy decoding and handlers.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_paths.h"

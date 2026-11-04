@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device login screen policy browser test
+// summary: Browser tests verifying that device login screen policies surface as managed preferences in the signin profile.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_pref_names.h"

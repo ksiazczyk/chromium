@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen capture location policy handler header
+// summary: Declares the ScreenCaptureLocationPolicyHandler class that checks and applies the ScreenCaptureLocation policy to preferences.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_SCREEN_CAPTURE_LOCATION_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_SCREEN_CAPTURE_LOCATION_POLICY_HANDLER_H_
 

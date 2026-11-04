@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device print servers external data handler unit tests
+// summary: Unit tests verifying that fetched device print servers policy data reaches the print servers provider with expected servers.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/handlers/device_print_servers_external_data_handler.h"
 
 #include <memory>

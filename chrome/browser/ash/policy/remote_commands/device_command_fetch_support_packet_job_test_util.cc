@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fetch support packet job test utilities
+// summary: Implements test helpers that build fetch support packet command payloads and capture log upload events on a fake reporting storage.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_fetch_support_packet_job_test_util.h"
 
 #include <algorithm>

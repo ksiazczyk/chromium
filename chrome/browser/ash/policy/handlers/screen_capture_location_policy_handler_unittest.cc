@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen capture location policy handler unit tests
+// summary: Unit tests covering validation and application of the ScreenCaptureLocation policy, including invalid values, parameterized valid locations, and the disabled SkyVault feature.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/screen_capture_location_policy_handler.h"
 
 #include <memory>

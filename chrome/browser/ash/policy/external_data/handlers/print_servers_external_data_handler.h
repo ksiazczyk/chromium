@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print servers external data handler header
+// summary: Declares the handler that observes the ExternalPrintServers user policy and forwards fetched data to the print servers provider.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_PRINT_SERVERS_EXTERNAL_DATA_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_PRINT_SERVERS_EXTERNAL_DATA_HANDLER_H_
 

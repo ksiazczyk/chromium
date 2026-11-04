@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System proxy handler
+// summary: Observes the SystemProxySettings device policy and forwards proxy enablement, credentials, and auth schemes to the SystemProxyManager.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/system_proxy_handler.h"
 
 #include <string>

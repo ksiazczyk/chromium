@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set volume remote command job implementation
+// summary: Implements the set volume remote command job that parses the volume field and applies the output volume and mute state through CrasAudioHandler.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_set_volume_job.h"
 
 #include <memory>

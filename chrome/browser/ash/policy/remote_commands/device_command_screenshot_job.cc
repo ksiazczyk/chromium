@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot remote command job implementation
+// summary: Implements the remote command job that captures screenshots of attached screens and uploads the collected PNG data to the upload URL given in the command payload.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_screenshot_job.h"
 
 #include <fstream>

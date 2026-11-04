@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the policy login directory
+summary: Restricts and allows Chromium includes for this directory, listing permitted dependencies and test-specific exceptions.

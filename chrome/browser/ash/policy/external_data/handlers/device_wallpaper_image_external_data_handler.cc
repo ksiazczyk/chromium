@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device wallpaper image external data handler implementation
+// summary: Stores the fetched device wallpaper image file path in local state prefs and clears it when the policy data is removed.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/handlers/device_wallpaper_image_external_data_handler.h"
 
 #include <utility>

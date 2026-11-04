@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared CRD session implementation unit tests
+// summary: Unit tests for SharedCrdSessionImpl verifying access code delivery, session parameter mapping, and termination behavior.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/shared_crd_session_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System proxy handler unit tests
+// summary: Unit tests for SystemProxyHandler covering policy-driven proxy enablement and credential configuration using fake D-Bus and network test helpers.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/system_proxy_handler.h"
 
 #include <memory>

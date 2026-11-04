@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock to single user manager header
+// summary: Declares the manager that observes session state, ARC, and VM events to lock the device to a single user mount when policy requires it.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_LOCK_TO_SINGLE_USER_MANAGER_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_LOCK_TO_SINGLE_USER_MANAGER_H_
 

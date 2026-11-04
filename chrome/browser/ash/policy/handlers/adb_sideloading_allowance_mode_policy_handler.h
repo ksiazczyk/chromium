@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB sideloading allowance mode policy handler header
+// summary: Declares the handler class, its allowance mode enum, and callbacks for checking sideloading status and showing policy change notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_ADB_SIDELOADING_ALLOWANCE_MODE_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_ADB_SIDELOADING_ALLOWANCE_MODE_POLICY_HANDLER_H_
 

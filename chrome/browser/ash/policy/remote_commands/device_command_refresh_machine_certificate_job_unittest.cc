@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device command refresh machine certificate job unit tests
+// summary: Unit tests for the machine certificate refresh remote command job, covering expiration ages and behavior when the certificate uploader is missing or fails.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_refresh_machine_certificate_job.h"
 
 #include <memory>

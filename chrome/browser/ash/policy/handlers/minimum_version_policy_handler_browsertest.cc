@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Minimum version policy handler browser tests
+// summary: Browser tests verifying DeviceMinimumVersion policy behavior, including update-required screens, kiosk mode, version warnings, and session restarts on ChromeOS.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/minimum_version_policy_handler.h"
 
 #include <optional>

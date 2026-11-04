@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Run diagnostic routine remote command job header
+// summary: Declares a remote command job that runs a cros_healthd diagnostic routine on the device, parsing the routine enum and parameter fields from the command payload.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_RUN_ROUTINE_JOB_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_RUN_ROUTINE_JOB_H_
 

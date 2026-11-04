@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device dock MAC address source handler unit tests
+// summary: Unit tests verifying the dock MAC address handler updates the USB Ethernet MAC address source only for trusted settings and valid policy values.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/device_dock_mac_address_source_handler.h"
 
 #include <memory>

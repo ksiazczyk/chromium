@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared CRD session implementation
+// summary: Implements SharedCrdSession by mapping session parameters and delegating CRD host startup and termination to the StartCrdSessionJobDelegate.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/shared_crd_session_impl.h"
 
 #include <memory>

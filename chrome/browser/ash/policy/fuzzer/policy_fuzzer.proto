@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf input definition for the policy fuzzer
+// summary: Defines PolicyFuzzerProto, wrapping Chrome device settings and cloud policy settings as fuzzer input.
+// ---
+
 syntax = "proto3";
 
 package policy;

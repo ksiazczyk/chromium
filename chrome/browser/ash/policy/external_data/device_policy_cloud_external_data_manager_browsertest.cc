@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device policy cloud external data manager browser test
+// summary: Browser test verifying that external data referenced by device policies such as DevicePrinters is downloaded, cached and updated within size limits.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/device_policy_cloud_external_data_manager.h"
 
 #include <memory>

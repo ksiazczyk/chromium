@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRD OAuth token fetcher declarations
+// summary: Declares the CrdOAuthTokenFetcher interface along with real and fake implementations used to obtain tokens for CRD sessions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_CRD_OAUTH_TOKEN_FETCHER_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_CRD_OAUTH_TOKEN_FETCHER_H_
 

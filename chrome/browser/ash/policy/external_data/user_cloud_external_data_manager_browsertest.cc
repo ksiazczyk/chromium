@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User cloud external data manager browser test
+// summary: Browser test verifying that external data referenced by user policies, such as the wallpaper image, is fetched and exposed through the policy service.
+// ---
+
 #include <memory>
 #include <string>
 

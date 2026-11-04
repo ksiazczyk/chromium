@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceCloudExternalDataPolicyHandler base class header
+// summary: Declares the base class for handlers of per-device external policy resources such as wallpaper or printers configuration.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_DEVICE_CLOUD_EXTERNAL_DATA_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_HANDLERS_DEVICE_CLOUD_EXTERNAL_DATA_POLICY_HANDLER_H_
 

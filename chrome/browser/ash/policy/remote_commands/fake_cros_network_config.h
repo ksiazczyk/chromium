@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ChromeOS network config header
+// summary: Declares FakeCrosNetworkConfig, ScopedFakeCrosNetworkConfig and NetworkBuilder test helpers for network state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_FAKE_CROS_NETWORK_CONFIG_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_FAKE_CROS_NETWORK_CONFIG_H_
 

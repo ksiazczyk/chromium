@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRD support host observer proxy
+// summary: Header for a proxy that forwards remoting SupportHostObserver Mojo events to registered CRD session observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_CRD_SUPPORT_HOST_OBSERVER_PROXY_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_CRD_CRD_SUPPORT_HOST_OBSERVER_PROXY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRD support host observer proxy implementation
+// summary: Implements the proxy that translates Chrome Remote Desktop support host events into CRD session observer notifications.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/crd_support_host_observer_proxy.h"
 
 #include "base/functional/bind.h"

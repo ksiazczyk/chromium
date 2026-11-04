@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preconfigured desk templates external data handler implementation
+// summary: Implements the handler that forwards fetched preconfigured desk templates policy data to DesksClient and removes templates per account.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/handlers/preconfigured_desk_templates_external_data_handler.h"
 
 #include <utility>

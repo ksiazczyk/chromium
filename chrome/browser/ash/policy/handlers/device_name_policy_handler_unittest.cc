@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device name policy handler unit tests
+// summary: Unit tests for DeviceNamePolicyHandler covering managed and unmanaged devices, hostname templates, and the user-configurable hostname setting.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/device_name_policy_handler.h"
 
 #include "ash/constants/ash_features.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the policy external data library
+summary: Defines the GN targets for the ChromeOS policy external data static library, its test support, and its unit and browser test suites with their dependencies.

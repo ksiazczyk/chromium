@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device cloud external data policy observer class
+// summary: Declares DeviceCloudExternalDataPolicyObserver, which observes a device policy's external data reference and emits notifications when it is set, cleared or fetched.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_DEVICE_CLOUD_EXTERNAL_DATA_POLICY_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_DEVICE_CLOUD_EXTERNAL_DATA_POLICY_OBSERVER_H_
 

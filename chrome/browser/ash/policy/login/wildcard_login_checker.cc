@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wildcard login checker implementation
+// summary: Implements online verification of whether wildcard login is allowed by fetching OAuth tokens and user info to detect hosted domain users.
+// ---
+
 #include "chrome/browser/ash/policy/login/wildcard_login_checker.h"
 
 #include <memory>

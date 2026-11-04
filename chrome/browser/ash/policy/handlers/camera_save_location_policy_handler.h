@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraSaveLocation policy handler header
+// summary: Declares the CameraSaveLocationPolicyHandler class that checks and applies the CameraSaveLocation policy to ChromeOS preferences.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_CAMERA_SAVE_LOCATION_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_CAMERA_SAVE_LOCATION_POLICY_HANDLER_H_
 

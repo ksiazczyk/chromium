@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device command run routine job implementation
+// summary: Implements the remote command job that runs cros_healthd diagnostic routines, parsing the routine enum and parameters from the command payload.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_run_routine_job.h"
 
 #include <memory>

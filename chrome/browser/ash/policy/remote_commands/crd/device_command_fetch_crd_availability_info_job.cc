@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch CRD availability info remote command job
+// summary: Implements the FETCH_CRD_AVAILABILITY_INFO remote command that reports device idle time and supported CRD session types.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/crd/device_command_fetch_crd_availability_info_job.h"
 
 #include <cstdint>

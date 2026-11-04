@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the policy fuzzer
+summary: Sets include rules that restrict //chrome dependencies and allow the fuzzer directory's required ChromeOS policy includes.

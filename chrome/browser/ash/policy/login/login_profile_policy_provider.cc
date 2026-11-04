@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login profile policy provider implementation
+// summary: Maps device login screen policies to corresponding user policies for the signin, lock screen and lock screen app profiles.
+// ---
+
 #include "chrome/browser/ash/policy/login/login_profile_policy_provider.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device dock MAC address source handler header
+// summary: Declares DeviceDockMacAddressHandler, which observes the DeviceDockMacAddressSource device setting and updates the shill Ethernet MAC address source property.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_HANDLERS_DEVICE_DOCK_MAC_ADDRESS_SOURCE_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_HANDLERS_DEVICE_DOCK_MAC_ADDRESS_SOURCE_HANDLER_H_
 

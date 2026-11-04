@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login policy test base header
+// summary: Declares LoginPolicyTestBase, a base class for tests that need policy applied prior to user login.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_LOGIN_LOGIN_POLICY_TEST_BASE_H_
 #define CHROME_BROWSER_ASH_POLICY_LOGIN_LOGIN_POLICY_TEST_BASE_H_
 

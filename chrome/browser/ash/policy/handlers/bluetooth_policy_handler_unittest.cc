@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Bluetooth policy handler
+// summary: Tests Bluetooth policy handling with a mock adapter, covering allow, service allowlist, pairing, and login state changes.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/bluetooth_policy_handler.h"
 
 #include <utility>

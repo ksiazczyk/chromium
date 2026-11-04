@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Minimum version policy handler unit tests
+// summary: Unit tests for MinimumVersionPolicyHandler covering version requirements, warning periods, and update-required behavior with fake network and update engine clients.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/minimum_version_policy_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blocking login browser test
+// summary: Parametrized browser tests checking that sign-in blocks until device policy is fetched and enrollment locking completes.
+// ---
+
 #include <string>
 #include <vector>
 

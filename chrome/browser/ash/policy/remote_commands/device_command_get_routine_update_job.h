@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get diagnostic routine update job class header
+// summary: Declares the RemoteCommandJob subclass that forwards commands to an existing diagnostic routine and returns routine updates.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_GET_ROUTINE_UPDATE_JOB_H_
 #define CHROME_BROWSER_ASH_POLICY_REMOTE_COMMANDS_DEVICE_COMMAND_GET_ROUTINE_UPDATE_JOB_H_
 

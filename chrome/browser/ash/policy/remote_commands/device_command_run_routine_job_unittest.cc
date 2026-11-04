@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Run routine job unit tests
+// summary: Unit tests for the run routine remote command job, covering command payload generation, routine-specific parameter fields, and result reporting for diagnostic routines.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_run_routine_job.h"
 
 #include <limits>

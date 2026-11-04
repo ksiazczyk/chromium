@@ -1,0 +1,4 @@
+# Docerion header of ARC_OWNERS.
+type: config
+title: ARC_OWNERS
+summary: Lists the owners responsible for reviewing changes to ARC user remote command files in this directory.

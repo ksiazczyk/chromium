@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get diagnostic routine update remote command job
+// summary: Implements the remote command job that sends a command to a running diagnostic routine and reports its progress and status as JSON.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_get_routine_update_job.h"
 
 #include <memory>

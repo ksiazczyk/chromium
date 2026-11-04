@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device policy cloud external data manager class
+// summary: Declares DevicePolicyCloudExternalDataManager, which downloads, verifies and caches external data referenced by device policies on Chrome OS.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_DEVICE_POLICY_CLOUD_EXTERNAL_DATA_MANAGER_H_
 #define CHROME_BROWSER_ASH_POLICY_EXTERNAL_DATA_DEVICE_POLICY_CLOUD_EXTERNAL_DATA_MANAGER_H_
 

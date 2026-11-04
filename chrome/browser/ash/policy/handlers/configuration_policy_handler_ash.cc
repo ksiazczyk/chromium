@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash configuration policy handlers implementation
+// summary: Implements ChromeOS-specific configuration policy handlers that validate policies and map them to preferences, including power management delays, screen magnifier, and network settings.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/configuration_policy_handler_ash.h"
 
 #include <stdint.h>

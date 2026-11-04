@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch status remote command job implementation
+// summary: Implements the DEVICE_FETCH_STATUS remote command that triggers immediate device status and system log uploads.
+// ---
+
 #include "chrome/browser/ash/policy/remote_commands/device_command_fetch_status_job.h"
 
 #include <memory>

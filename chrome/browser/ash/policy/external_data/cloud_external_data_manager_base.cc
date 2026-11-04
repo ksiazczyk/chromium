@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the base cloud external data manager
+// summary: Implements the backend that downloads, verifies, caches and retrieves external data referenced by cloud policies, limiting parallel fetches and handling metadata updates.
+// ---
+
 #include "chrome/browser/ash/policy/external_data/cloud_external_data_manager_base.h"
 
 #include <stddef.h>

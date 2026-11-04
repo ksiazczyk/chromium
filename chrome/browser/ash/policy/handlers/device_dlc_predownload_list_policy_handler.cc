@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device DLC predownload list policy handler implementation
+// summary: Implements decoding of the DeviceDlcPredownloadList policy into DLC IDs and triggers installation of the listed DLCs through the DLC service.
+// ---
+
 #include "device_dlc_predownload_list_policy_handler.h"
 
 #include <memory>

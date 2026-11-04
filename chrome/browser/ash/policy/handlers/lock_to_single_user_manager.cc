@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock to single user manager implementation
+// summary: Locks the device to a single user mount until reboot according to the DeviceRebootOnUserSignout policy and VM or ARC session events.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/lock_to_single_user_manager.h"
 
 #include "base/check_deref.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the policy external data handlers
+summary: Defines the handlers static library and its unit_tests source_set, listing sources and dependencies for the external data handlers.

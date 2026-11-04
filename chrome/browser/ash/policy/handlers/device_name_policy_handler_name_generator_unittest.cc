@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hostname name generator unit tests
+// summary: Unit tests for FormatHostname covering placeholder substitution, invalid characters, first-character rules, and the 63-character hostname length limit.
+// ---
+
 #include "chrome/browser/ash/policy/handlers/device_name_policy_handler_name_generator.h"
 
 #include <string_view>
