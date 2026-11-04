@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledWebappProvider class declaration
+// summary: Declares an observable content settings provider that supplies read-only rules for installed web app notification and geolocation permissions across partitions.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAPPS_INSTALLABLE_INSTALLED_WEBAPP_PROVIDER_H_
 #define CHROME_BROWSER_WEBAPPS_INSTALLABLE_INSTALLED_WEBAPP_PROVIDER_H_
 

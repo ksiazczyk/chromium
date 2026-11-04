@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android native IDP fetcher browser tests
+// summary: Android browser tests verifying that the native IDP fetcher resolves the test IDP origin and fetches accounts, tokens, headers, and sequential requests.
+// ---
+
 #include "chrome/browser/webid/android_native_idp_fetcher.h"
 
 #include <memory>

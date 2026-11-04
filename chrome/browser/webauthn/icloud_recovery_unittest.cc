@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iCloud recovery unit tests
+// summary: Unit tests for recovering passkey security-domain secrets from iCloud Keychain recovery keys, using a fake keychain to verify key matching and version selection.
+// ---
+
 #include "chrome/browser/webauthn/icloud_recovery.h"
 
 #include <cstdint>

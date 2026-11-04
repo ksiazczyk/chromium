@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local credential management interface
+// summary: Declares CredentialComparator and the LocalCredentialManagement interface for enumerating, deleting and editing credentials on platform authenticators.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_LOCAL_CREDENTIAL_MANAGEMENT_H_
 #define CHROME_BROWSER_WEBAUTHN_LOCAL_CREDENTIAL_MANAGEMENT_H_
 

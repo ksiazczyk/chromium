@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS iCloud Keychain passkey check header
+// summary: Declares the macOS helper that reports whether iCloud Keychain is configured for passkeys, plus a scoped override for testing.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_CHROME_AUTHENTICATOR_REQUEST_DELEGATE_MAC_H_
 #define CHROME_BROWSER_WEBAUTHN_CHROME_AUTHENTICATOR_REQUEST_DELEGATE_MAC_H_
 

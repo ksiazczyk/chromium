@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS local credential management implementation
+// summary: macOS implementation of LocalCredentialManagement that enumerates, deletes and edits Touch ID credentials through the macOS credential store.
+// ---
+
 #include "chrome/browser/webauthn/local_credential_management_mac.h"
 
 #include "base/functional/bind.h"

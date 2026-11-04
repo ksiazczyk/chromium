@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledWebappGeolocationBridge class declaration
+// summary: Declares the Android bridge implementing the Geolocation Mojo interface for installed web apps, handling location updates, overrides, and permission revocation via JNI.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAPPS_INSTALLABLE_INSTALLED_WEBAPP_GEOLOCATION_BRIDGE_H_
 #define CHROME_BROWSER_WEBAPPS_INSTALLABLE_INSTALLED_WEBAPP_GEOLOCATION_BRIDGE_H_
 

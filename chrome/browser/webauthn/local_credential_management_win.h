@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows local credential management
+// summary: Declares LocalCredentialManagementWin, the Windows implementation for checking, enumerating, deleting and editing local platform credentials.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_LOCAL_CREDENTIAL_MANAGEMENT_WIN_H_
 #define CHROME_BROWSER_WEBAUTHN_LOCAL_CREDENTIAL_MANAGEMENT_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePasswordCredentialFetcher header
+// summary: Declares a fake PasswordCredentialFetcher for tests with setters for passwords, callback timing, and date-last-used tracking.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_FAKE_PASSWORD_CREDENTIAL_FETCHER_H_
 #define CHROME_BROWSER_WEBAUTHN_FAKE_PASSWORD_CREDENTIAL_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows App Runtime installer implementation
+// summary: Installs the Windows App Runtime package via the Store install control API, records install state UMA metrics, and persists package dependency preferences.
+// ---
+
 #include "chrome/browser/webnn/win_app_runtime_installer.h"
 
 #include <windows.h>

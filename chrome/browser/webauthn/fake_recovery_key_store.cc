@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake recovery key store implementation
+// summary: Implements a fake recovery key store that intercepts network requests, records uploaded vaults, and supports cohort changes for passkey testing.
+// ---
+
 #include "chrome/browser/webauthn/fake_recovery_key_store.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immediate request rate limiter service factory
+// summary: Implements a profile-keyed service factory that builds and provides a per-profile WebAuthn ImmediateRequestRateLimiter instance.
+// ---
+
 #include "chrome/browser/webauthn/immediate_request_rate_limiter_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

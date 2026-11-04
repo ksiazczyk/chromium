@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeMagicArch test helper header
+// summary: Declares FakeMagicArch, a test double for the accounts.google.com recovery service that validates generated vaults and recovers secrets with a PIN.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_FAKE_MAGIC_ARCH_H_
 #define CHROME_BROWSER_WEBAUTHN_FAKE_MAGIC_ARCH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iCloud Keychain recovery header
+// summary: Declares the ICloudRecovery class, error enum, and result types for recovering the passkeys security domain secret via iCloud Keychain.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_ICLOUD_RECOVERY_H_
 #define CHROME_BROWSER_WEBAUTHN_ICLOUD_RECOVERY_H_
 

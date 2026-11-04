@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappsClientAndroid header for the Android web apps client
+// summary: Declares the Android-specific WebappsClient singleton covering install sources, app banners, WebAPK and shortcut installs, and ML promotion hooks.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAPPS_WEBAPPS_CLIENT_ANDROID_H_
 #define CHROME_BROWSER_WEBAPPS_WEBAPPS_CLIENT_ANDROID_H_
 

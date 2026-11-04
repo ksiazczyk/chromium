@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Federated identity IdP sign-in status context unit tests
+// summary: Unit tests for the IdP sign-in status context, covering sign-in status updates, multiple IdPs, account storage, and expiration.
+// ---
+
 #include "chrome/browser/webid/federated_identity_identity_provider_signin_status_context.h"
 
 #include <memory>

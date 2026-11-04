@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for webdata_services
+summary: Delegates directory ownership to the OWNERS file of components/webdata_services.

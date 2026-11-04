@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator transport alias header
+// summary: Header that aliases AuthenticatorTransport to the FIDO transport protocol type from the device/fido component.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_AUTHENTICATOR_TRANSPORT_H_
 #define CHROME_BROWSER_WEBAUTHN_AUTHENTICATOR_TRANSPORT_H_
 

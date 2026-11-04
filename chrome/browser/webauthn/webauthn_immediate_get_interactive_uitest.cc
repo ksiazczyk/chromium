@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn immediate get interactive UI tests
+// summary: Interactive browser tests for the WebAuthn immediate get assertion flow using the combined passkey selector and PIN sheet UI.
+// ---
+
 #include <string>
 
 #include "base/base64url.h"

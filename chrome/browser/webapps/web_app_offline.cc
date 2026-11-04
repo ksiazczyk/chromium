@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app default offline page logic
+// summary: Builds the default offline error page for web apps and logs metrics on how long it is shown and why it closes.
+// ---
+
 #include "chrome/browser/webapps/web_app_offline.h"
 
 #include "base/metrics/histogram_macros.h"

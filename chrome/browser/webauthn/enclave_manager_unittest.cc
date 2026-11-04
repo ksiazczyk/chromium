@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EnclaveManager unit tests
+// summary: Unit tests covering EnclaveManager registration, key storage, GPM PIN recovery, and enclave passkey operations using fake security domain and recovery key store services.
+// ---
+
 #include "chrome/browser/webauthn/enclave_manager.h"
 
 #include <array>

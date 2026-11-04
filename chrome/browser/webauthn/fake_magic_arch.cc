@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeMagicArch implementation for tests
+// summary: Implements a test fake of the Magic Arch account recovery service, recovering security domain secrets from a fake recovery key store using a GPM PIN.
+// ---
+
 #include "chrome/browser/webauthn/fake_magic_arch.h"
 
 #include <algorithm>

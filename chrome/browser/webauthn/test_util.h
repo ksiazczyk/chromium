@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn test utilities header
+// summary: Declares test constants and helpers for starting a test enclave service and overriding enclave identity in WebAuthn tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_TEST_UTIL_H_
 #define CHROME_BROWSER_WEBAUTHN_TEST_UTIL_H_
 

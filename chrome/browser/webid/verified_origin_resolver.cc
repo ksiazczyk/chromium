@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verified origin resolver implementation
+// summary: Implements JNI-based resolution of a FedCM identity provider origin to a verified Android package and bound service name.
+// ---
+
 #include "chrome/browser/webid/verified_origin_resolver.h"
 
 #include "base/android/jni_android.h"

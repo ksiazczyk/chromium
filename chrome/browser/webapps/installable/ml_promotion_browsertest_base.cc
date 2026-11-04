@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ML promotion browser test base implementation
+// summary: Implements the shared fixture for ML install promotion browser tests, setting up an HTTPS test server, mock certificate verification, and a mock segmentation service.
+// ---
+
 #include "chrome/browser/webapps/installable/ml_promotion_browsertest_base.h"
 
 #include <memory>

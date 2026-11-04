@@ -1,0 +1,4 @@
+# Docerion header of unexportable_key_utils_mac_unittest.mm.
+type: test
+title: macOS unexportable key utils unit tests
+summary: Unit tests verifying WebAuthn unexportable key provider selection on macOS with Secure Enclave and the software key fallback flag.

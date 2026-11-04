@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated identity IdP sign-in status context header
+// summary: Declares the context that stores whether the browser observed the user signing into an identity provider via the IdP-SignIn-Status HTTP header.
+// ---
+
 #ifndef CHROME_BROWSER_WEBID_FEDERATED_IDENTITY_IDENTITY_PROVIDER_SIGNIN_STATUS_CONTEXT_H_
 #define CHROME_BROWSER_WEBID_FEDERATED_IDENTITY_IDENTITY_PROVIDER_SIGNIN_STATUS_CONTEXT_H_
 

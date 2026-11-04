@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoginStatusServiceTest
+// summary: On-device instrumentation tests verifying that the FedCM LoginStatusService is discoverable, exported, and can bind and set login status on a real Android device.
+// ---
+
 package org.chromium.chrome.browser.webid;
 
 import static org.junit.Assert.assertFalse;

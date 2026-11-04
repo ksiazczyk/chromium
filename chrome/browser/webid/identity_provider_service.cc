@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity provider service implementation
+// summary: Implements the JNI-backed service that connects to Android identity provider apps and fetches FedCM identity data.
+// ---
+
 #include "chrome/browser/webid/identity_provider_service.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 Android module implementation
+// summary: Implements the Android caBLEv2 authenticator module, covering GCM cloud message registration, work-profile prefs, and CBOR conversion of Play Services linking data.
+// ---
+
 #include "chrome/browser/webauthn/android/cable_module_android.h"
 
 #include <variant>

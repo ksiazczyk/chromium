@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android TouchToFill credential sorter declaration
+// summary: Declares SortTouchToFillCredentials, which orders TouchToFill credentials on Android where all passkeys are treated the same.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_ANDROID_CREDENTIAL_SORTER_ANDROID_H_
 #define CHROME_BROWSER_WEBAUTHN_ANDROID_CREDENTIAL_SORTER_ANDROID_H_
 

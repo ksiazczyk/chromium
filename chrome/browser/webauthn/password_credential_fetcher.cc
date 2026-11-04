@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordCredentialFetcher implementation
+// summary: Fetches stored password credentials for a render frame and URL through the password manager and updates date-last-used for credentials that are used.
+// ---
+
 #include "chrome/browser/webauthn/password_credential_fetcher.h"
 
 #include <iterator>

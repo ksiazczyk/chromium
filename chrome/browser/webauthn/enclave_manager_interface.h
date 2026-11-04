@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnclaveManagerInterface for passkey enclave state
+// summary: Defines the keyed service interface for enclave registration checks, GPM PIN availability reporting, key storage outcomes, and observer notifications used by passkey enclave clients.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_ENCLAVE_MANAGER_INTERFACE_H_
 #define CHROME_BROWSER_WEBAUTHN_ENCLAVE_MANAGER_INTERFACE_H_
 

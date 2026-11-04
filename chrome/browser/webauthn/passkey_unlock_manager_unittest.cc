@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasskeyUnlockManager unit tests
+// summary: Unit tests covering PasskeyUnlockManager readiness and error states across enclave manager, passkey model, and sync service configurations.
+// ---
+
 #include "chrome/browser/webauthn/passkey_unlock_manager.h"
 
 #include <string>

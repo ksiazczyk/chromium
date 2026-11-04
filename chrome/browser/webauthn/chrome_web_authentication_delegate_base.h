@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeWebAuthenticationDelegateBase header
+// summary: Declares ChromeWebAuthenticationDelegateBase, the shared base class of content::WebAuthenticationDelegate for Android and desktop platforms.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_CHROME_WEB_AUTHENTICATION_DELEGATE_BASE_H_
 #define CHROME_BROWSER_WEBAUTHN_CHROME_WEB_AUTHENTICATION_DELEGATE_BASE_H_
 

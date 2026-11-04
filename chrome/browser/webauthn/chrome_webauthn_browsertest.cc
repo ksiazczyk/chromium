@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn browser tests
+// summary: Browser tests exercising Chrome's WebAuthn request flows, including passkey UI, permission chips, ambient login, and isolated web app scenarios.
+// ---
+
 #include <memory>
 #include <sstream>
 #include <vector>

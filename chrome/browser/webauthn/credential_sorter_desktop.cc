@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop mechanism sorting implementation
+// summary: Implements SortMechanisms for desktop by classifying dialog mechanisms as GPM passkeys, platform passkeys, or passwords and applying the deduplication logic for modal and ambient presentations.
+// ---
+
 #include "chrome/browser/webauthn/credential_sorter_desktop.h"
 
 #include <string>

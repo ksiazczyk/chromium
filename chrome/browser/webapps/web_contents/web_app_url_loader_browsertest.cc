@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app URL loader browser tests
+// summary: Browser tests for WebAppUrlLoader that verify URL loading and comparison behavior, including redirects, using an embedded test server and mock host resolver.
+// ---
+
 #include "components/webapps/browser/web_contents/web_app_url_loader.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: caBLE registration state unit tests
+// summary: Unit tests for RegistrationState that use fake registration and system interface objects to verify registration and sync-readiness behavior.
+// ---
+
 #include "chrome/browser/webauthn/android/cable_registration_state.h"
 
 #include "base/functional/callback.h"

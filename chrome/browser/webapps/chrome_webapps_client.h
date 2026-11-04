@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeWebappsClient class declaration
+// summary: Declares the abstract WebappsClient implementation providing functionality common to desktop and Android Chrome.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAPPS_CHROME_WEBAPPS_CLIENT_H_
 #define CHROME_BROWSER_WEBAPPS_CHROME_WEBAPPS_CLIENT_H_
 

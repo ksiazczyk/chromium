@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ML promotion browser test base declaration
+// summary: Declares the shared browser test fixture for ML install promotion tests, with helpers for installing apps and overriding the segmentation platform service.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAPPS_INSTALLABLE_ML_PROMOTION_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_WEBAPPS_INSTALLABLE_ML_PROMOTION_BROWSERTEST_BASE_H_
 

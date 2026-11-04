@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account-keyed permission context unit tests
+// summary: Unit tests for the account-keyed federated identity permission context covering key format compatibility, separators, granting, and revocation.
+// ---
+
 #include "chrome/browser/webid/federated_identity_account_keyed_permission_context.h"
 
 #include <memory>

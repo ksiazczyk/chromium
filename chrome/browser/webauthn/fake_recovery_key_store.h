@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake recovery key store interface
+// summary: Declares the FakeRecoveryKeyStore interface for faking recovery key store network responses, vault recording, and error injection in tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_FAKE_RECOVERY_KEY_STORE_H_
 #define CHROME_BROWSER_WEBAUTHN_FAKE_RECOVERY_KEY_STORE_H_
 

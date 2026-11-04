@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAuthenticatorConfirmationFactory
+// summary: Factory that creates a CreateConfirmationUiDelegate showing the Incognito confirmation bottom sheet for WebAuthn credential creation in incognito web contents.
+// ---
+
 package org.chromium.chrome.browser.webauthn;
 
 import org.chromium.build.annotations.NullMarked;

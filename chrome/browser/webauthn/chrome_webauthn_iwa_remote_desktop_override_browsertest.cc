@@ -4,6 +4,12 @@
 // This test is not executed on Android because Isolated Web Apps (IWAs)
 // are not supported on Android.
 
+// ---docerion
+// type: test
+// title: IWA remote desktop override browser tests
+// summary: Browser tests verifying the remote desktop client override extension for WebAuthn in Isolated Web Apps, parameterized by enterprise affiliation.
+// ---
+
 #include "base/strings/string_util.h"
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"

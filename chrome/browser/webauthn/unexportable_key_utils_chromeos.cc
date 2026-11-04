@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS user-verifying key provider
+// summary: Implements the ChromeOS user-verifying key provider that shows an Ash authentication dialog before signing with an unexportable key.
+// ---
+
 #include "chrome/browser/webauthn/unexportable_key_utils.h"
 
 #include <cstdint>

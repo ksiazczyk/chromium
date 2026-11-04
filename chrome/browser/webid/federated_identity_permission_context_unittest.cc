@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Federated identity permission context unit tests
+// summary: Unit tests verifying granting, checking and revoking federated identity sharing permissions on a testing profile.
+// ---
+
 #include "chrome/browser/webid/federated_identity_permission_context.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPM enclave transaction implementation
+// summary: Implements GPMEnclaveTransaction, which dispatches a single MakeCredential or GetAssertion request to the enclave authenticator with PIN and UV handling.
+// ---
+
 #include "chrome/browser/webauthn/gpm_enclave_transaction.h"
 
 #include <algorithm>

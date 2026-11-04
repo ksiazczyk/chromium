@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn autofill interactive UI tests
+// summary: Interactive browser tests verifying WebAuthn credential suggestions in the autofill popup, including sync, sign-in, and GPM enclave integration.
+// ---
+
 #include <memory>
 #include <string>
 #include <variant>

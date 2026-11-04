@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnclaveManagerFactory implementation
+// summary: Implements the profile-keyed factory that creates an EnclaveManager per profile, wiring identity manager and network context dependencies, with a URL loader override for testing.
+// ---
+
 #include "chrome/browser/webauthn/enclave_manager_factory.h"
 
 #include "base/memory/scoped_refptr.h"

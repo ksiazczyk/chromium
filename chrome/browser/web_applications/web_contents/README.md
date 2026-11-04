@@ -1,3 +1,13 @@
+---
+type: readme
+title: WebAppProvider Web Contents Subsystem
+summary: Documents the web contents subsystem that wraps content::WebContents interactions behind fakeable classes, covering usage, architecture, and testing guidance.
+relations:
+  - references /chrome/browser/web_applications/README.md
+  - references /chrome/browser/web_applications/commands/README.md
+  - references /chrome/browser/web_applications/locks/README.md
+---
+
 # [WebAppProvider](../README.md) > Web Contents Subsystem
 
 ## Overview

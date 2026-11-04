@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnclaveManager header for passkey enclave state
+// summary: Declares EnclaveManager, the per-profile service that stores and manages passkey enclave state, watches the primary account, and produces wrapped security domain secrets and signing callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_ENCLAVE_MANAGER_H_
 #define CHROME_BROWSER_WEBAUTHN_ENCLAVE_MANAGER_H_
 

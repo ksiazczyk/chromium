@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android native IDP fetcher header
+// summary: Declares the AndroidNativeIdpFetcher class implementing content's NativeIdpFetcher for requests to Android native identity providers.
+// ---
+
 #ifndef CHROME_BROWSER_WEBID_ANDROID_NATIVE_IDP_FETCHER_H_
 #define CHROME_BROWSER_WEBID_ANDROID_NATIVE_IDP_FETCHER_H_
 

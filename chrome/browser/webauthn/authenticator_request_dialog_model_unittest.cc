@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Authenticator request dialog model unit tests
+// summary: Unit tests for the WebAuthn authenticator request dialog model, covering transport availability, step transitions, and observer behavior.
+// ---
+
 #include "chrome/browser/webauthn/authenticator_request_dialog_model.h"
 
 #include <algorithm>

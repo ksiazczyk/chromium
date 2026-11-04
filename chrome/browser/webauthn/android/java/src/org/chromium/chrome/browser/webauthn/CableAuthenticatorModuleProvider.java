@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CableAuthenticatorModuleProvider
+// summary: Supplies caBLE linking information to the native side, checking Bluetooth, screen lock, notification, work profile, and Google Play Services support.
+// ---
+
 package org.chromium.chrome.browser.webauthn;
 
 import android.app.KeyguardManager;

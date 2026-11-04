@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator request dialog controller implementation
+// summary: Implements the WebAuthn UI flow state machine, handling passkeys, PIN entry, BLE, enclave transactions and metrics for the request dialog.
+// ---
+
 #include "chrome/browser/webauthn/authenticator_request_dialog_controller.h"
 
 #include <algorithm>

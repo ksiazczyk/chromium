@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebID build configuration (BUILD.gn)
+summary: Defines GN build targets for the browser WebID code, including Android Java libraries, JNI headers, Robolectric and instrumentation tests, and the main source set.

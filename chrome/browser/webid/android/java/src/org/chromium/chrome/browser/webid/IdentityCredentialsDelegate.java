@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate dispatching digital credential requests
+// summary: Dispatches digital credential get and create requests to the presentation and creation delegates for the WebID feature.
+// ---
+
 package org.chromium.chrome.browser.webid;
 
 import org.chromium.base.Promise;

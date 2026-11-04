@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebAuthn request delegate declaration
+// summary: Declares WebAuthnRequestDelegateAndroid, a per-document helper that caches callbacks completing WebAuthn get requests when a user picks a credential in TouchToFill.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_ANDROID_WEBAUTHN_REQUEST_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_WEBAUTHN_ANDROID_WEBAUTHN_REQUEST_DELEGATE_ANDROID_H_
 

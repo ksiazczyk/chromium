@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave manager implementation
+// summary: Implements the Chrome enclave manager for GPM enclave passkeys, covering recovery key store connections, encryption with OSCrypt, identity tokens, metrics, and local state persistence.
+// ---
+
 #include "chrome/browser/webauthn/enclave_manager.h"
 
 #include <algorithm>

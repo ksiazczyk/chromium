@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated identity IdP sign-in status context implementation
+// summary: Implements storage of IdP sign-in status observed via the IdP-SignIn-Status header, including stored accounts and expiration handling.
+// ---
+
 #include "chrome/browser/webid/federated_identity_identity_provider_signin_status_context.h"
 
 #include <optional>

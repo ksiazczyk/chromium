@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enclave authenticator test base implementation
+// summary: Implements shared infrastructure for enclave authenticator browser tests, setting up the sync test server, fake enclave and security domain services, and platform fakes.
+// ---
+
 #include "chrome/browser/webauthn/enclave_authenticator_browsertest_base.h"
 
 #include <memory>

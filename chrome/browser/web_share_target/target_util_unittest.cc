@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Share Target request body unit tests
+// summary: Unit tests verifying multipart and URL-encoded body computation, covering invalid inputs, file parts, and text parts.
+// ---
+
 #include "chrome/browser/web_share_target/target_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app offline page interface
+// summary: Declares functions that provide web app manifest info for the offline page and track its visibility.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAPPS_WEB_APP_OFFLINE_H_
 #define CHROME_BROWSER_WEBAPPS_WEB_APP_OFFLINE_H_
 

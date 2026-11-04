@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge to the GMS Identity Credentials Manager
+// summary: Issues digital identity requests to the GMS Identity Credentials Manager on behalf of native code and maps credential exceptions to metric statuses.
+// ---
+
 package org.chromium.chrome.browser.webid;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

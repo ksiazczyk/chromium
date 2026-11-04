@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeWebappsClient implementation
+// summary: Implements shared webapps client behavior such as secure origin checks, security level lookup and infobar manager access.
+// ---
+
 #include "chrome/browser/webapps/chrome_webapps_client.h"
 
 #include "base/logging.h"

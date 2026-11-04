@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorReference implementation
+// summary: Implements constructors and move semantics for AuthenticatorReference, which identifies a discovered authenticator.
+// ---
+
 #include "chrome/browser/webauthn/authenticator_reference.h"
 
 #include <string_view>

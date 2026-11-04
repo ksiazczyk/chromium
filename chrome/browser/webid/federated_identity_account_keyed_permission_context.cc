@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account-keyed federated identity permission context implementation
+// summary: Implements storage of FedCM permission grants keyed by relying party, identity provider, and account, persisted via host content settings.
+// ---
+
 #include "chrome/browser/webid/federated_identity_account_keyed_permission_context.h"
 
 #include <algorithm>

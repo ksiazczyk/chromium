@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLE registration state header
+// summary: Declares RegistrationState, a singleton holding linking and sync FCM registrations with a mockable SystemInterface used to abstract the rest of the system.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_ANDROID_CABLE_REGISTRATION_STATE_H_
 #define CHROME_BROWSER_WEBAUTHN_ANDROID_CABLE_REGISTRATION_STATE_H_
 

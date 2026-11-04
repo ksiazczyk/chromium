@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for webdata_services
+summary: Lists the headers and directories that files in this folder are allowed to include.

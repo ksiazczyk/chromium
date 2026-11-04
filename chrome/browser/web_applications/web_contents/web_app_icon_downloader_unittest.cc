@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppIconDownloader unit tests
+// summary: Unit tests for WebAppIconDownloader covering simple downloads, favicon handling, HTTP status results, timeouts, and page change cancellation via WebContentsTester.
+// ---
+
 #include "chrome/browser/web_applications/web_contents/web_app_icon_downloader.h"
 
 #include <stddef.h>

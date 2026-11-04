@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated identity permission context implementation
+// summary: Implements the main FedCM permission context that combines account sharing permissions, IdP sign-in status, and IdP registration sub-contexts.
+// ---
+
 #include "chrome/browser/webid/federated_identity_permission_context.h"
 
 #include "base/memory/scoped_refptr.h"

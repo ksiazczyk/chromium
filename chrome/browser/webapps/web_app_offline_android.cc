@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android offline page info via WebApkDataProvider
+// summary: Android implementation that fetches WebAPK short name and icon over JNI to populate the default offline error page.
+// ---
+
 #include "chrome/browser/webapps/web_app_offline.h"
 
 #include <string>

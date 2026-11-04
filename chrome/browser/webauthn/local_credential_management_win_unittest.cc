@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows local credential management
+// summary: Unit tests for LocalCredentialManagementWin covering credential detection, enumeration and preference caching using a fake Windows WebAuthn API.
+// ---
+
 #include "chrome/browser/webauthn/local_credential_management_win.h"
 
 #include <cstdint>

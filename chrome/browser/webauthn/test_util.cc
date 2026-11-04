@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn test utilities implementation
+// summary: Implements helpers that launch a test WebAuthn enclave service and provide test credential data for enclave tests.
+// ---
+
 #include "test_util.h"
 
 #include <array>

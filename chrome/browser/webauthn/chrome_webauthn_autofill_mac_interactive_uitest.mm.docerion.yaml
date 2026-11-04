@@ -1,0 +1,4 @@
+# Docerion header of chrome_webauthn_autofill_mac_interactive_uitest.mm.
+type: test
+title: WebAuthn autofill Mac interactive UI tests
+summary: Interactive browser tests for conditional WebAuthn autofill on macOS using a fake Touch ID keychain environment.

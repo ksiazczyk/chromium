@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CMTG device key provider factory header
+// summary: Declares CmtgDeviceKeyProviderFactory, a keyed service factory exposing per-profile CMTG device key providers.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_CMTG_DEVICE_KEY_PROVIDER_FACTORY_H_
 #define CHROME_BROWSER_WEBAUTHN_CMTG_DEVICE_KEY_PROVIDER_FACTORY_H_
 

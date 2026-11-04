@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Federated embedder login request unit tests
+// summary: Unit tests for FederatedEmbedderLoginRequest covering persistence across navigation, timeout behavior, repeated set calls, and terminal continuation.
+// ---
+
 #include "content/public/browser/webid/federated_embedder_login_request.h"
 
 #include "base/functional/callback_helpers.h"

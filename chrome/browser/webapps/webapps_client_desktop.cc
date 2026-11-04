@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop implementation of the Chrome web apps client
+// summary: Implements the desktop WebappsClient, including logic for detecting conflicts with existing web app installations and accessing the segmentation platform service.
+// ---
+
 #include "chrome/browser/webapps/webapps_client_desktop.h"
 
 #include "base/check_is_test.h"

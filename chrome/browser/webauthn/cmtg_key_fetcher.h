@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CMTG key fetcher header
+// summary: Declares CmtgKeyFetcher, which fetches CMTG device keys with timeout handling and records blocking latency metrics.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_CMTG_KEY_FETCHER_H_
 #define CHROME_BROWSER_WEBAUTHN_CMTG_KEY_FETCHER_H_
 

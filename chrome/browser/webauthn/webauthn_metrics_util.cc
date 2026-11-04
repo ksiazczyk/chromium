@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn metrics recording implementation
+// summary: Implements histogram recording for WebAuthn events such as GPM credential flows, onboarding, recovery and conditional UI passkey counts.
+// ---
+
 #include "chrome/browser/webauthn/webauthn_metrics_util.h"
 
 #include "base/metrics/histogram_functions.h"

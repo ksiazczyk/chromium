@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the installable manager
+// summary: Browser tests that verify installable web app criteria, manifest and icon handling, display overrides and related metrics for the InstallableManager.
+// ---
+
 #include "components/webapps/browser/installable/installable_manager.h"
 
 #include <memory>

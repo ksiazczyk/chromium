@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Identity provider service browser tests
+// summary: Browser tests covering connecting to a test Android IdP service, fetching data, origin resolution and disconnect handling.
+// ---
+
 #include "chrome/browser/webid/identity_provider_service.h"
 
 #include "base/test/scoped_feature_list.h"

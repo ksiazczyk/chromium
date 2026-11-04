@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ML install promotion browser tests
+// summary: Browser tests for the ML-driven installability promotion, covering segmentation service interactions, UKM logging, site quality metrics, and install dialog behavior.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

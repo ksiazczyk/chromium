@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Authenticator request scheduler unit tests
+// summary: Unit tests verifying that only one authenticator request runs per WebContents, including fenced frame and prerendering cases.
+// ---
+
 #include "chrome/browser/webauthn/authenticator_request_scheduler.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential comparator implementation
+// summary: Implements CredentialComparator, which orders local WebAuthn credentials by eTLD+1, reversed RP ID labels, user name and credential ID.
+// ---
+
 #include "chrome/browser/webauthn/local_credential_management.h"
 
 #include <string_view>

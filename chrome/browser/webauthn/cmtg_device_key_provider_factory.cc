@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CMTG device key provider factory
+// summary: Implements a per-profile keyed service factory that builds Cryptauth-backed CMTG device key providers for WebAuthn.
+// ---
+
 #include "chrome/browser/webauthn/cmtg_device_key_provider_factory.h"
 
 #include <memory>

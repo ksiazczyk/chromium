@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledWebappGeolocationContext implementation
+// summary: Implements the geolocation context that binds geolocation bridges for installed web apps and manages permission updates, connection errors, and position overrides.
+// ---
+
 #include "chrome/browser/webapps/installable/installed_webapp_geolocation_context.h"
 
 #include <utility>

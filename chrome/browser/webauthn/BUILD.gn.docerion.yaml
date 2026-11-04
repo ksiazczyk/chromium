@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebAuthn BUILD.gn build targets
+summary: Defines GN source sets and platform-conditional dependencies for the Chrome WebAuthn browser code on desktop and Android.

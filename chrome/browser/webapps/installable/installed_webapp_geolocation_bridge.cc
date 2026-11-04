@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android geolocation provider for installed web apps
+// summary: Implements a Mojo geolocation provider for installed web apps such as Trusted Web Activities, forwarding location updates through an Android JNI bridge.
+// ---
+
 #include "chrome/browser/webapps/installable/installed_webapp_geolocation_bridge.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn preference name declarations
+// summary: Declares WebAuthn preference name constants, including ones mapped to enterprise policies for remote requests and desktop origins.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_WEBAUTHN_PREF_NAMES_H_
 #define CHROME_BROWSER_WEBAUTHN_WEBAUTHN_PREF_NAMES_H_
 

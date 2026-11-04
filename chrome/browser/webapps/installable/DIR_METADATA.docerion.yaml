@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking and team metadata for installable web apps
+summary: Declares the Monorail component, PWA development team email and Buganizer component used for issues in this directory.

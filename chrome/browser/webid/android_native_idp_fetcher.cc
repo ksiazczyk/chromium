@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android native IDP fetcher implementation
+// summary: Implements fetching requests from a native Android identity provider by resolving the verified origin, connecting to the IDP service, and dispatching the fetch.
+// ---
+
 #include "chrome/browser/webid/android_native_idp_fetcher.h"
 
 #include <utility>

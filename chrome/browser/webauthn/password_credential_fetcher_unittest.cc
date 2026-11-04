@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordCredentialFetcher unit tests
+// summary: Unit tests for PasswordCredentialFetcher covering fetched password results and date-last-used updates using mocked password stores.
+// ---
+
 #include "chrome/browser/webauthn/password_credential_fetcher.h"
 
 #include <memory>

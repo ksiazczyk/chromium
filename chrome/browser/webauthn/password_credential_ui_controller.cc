@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordCredentialUIController implementation
+// summary: Implements UI handling for password credentials in the WebAuthn dialog, including optional OS-level re-authentication before filling.
+// ---
+
 #include "chrome/browser/webauthn/password_credential_ui_controller.h"
 
 #if !BUILDFLAG(IS_ANDROID)

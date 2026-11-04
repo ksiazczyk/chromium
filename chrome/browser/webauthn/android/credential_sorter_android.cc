@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch to Fill credential sorter for Android
+// summary: Sorts Touch to Fill credentials by treating passkey and password credentials uniformly through shared sorting traits for immediate UI mode.
+// ---
+
 #include "chrome/browser/webauthn/android/credential_sorter_android.h"
 
 #include <string>

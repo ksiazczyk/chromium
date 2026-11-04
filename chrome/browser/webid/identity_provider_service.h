@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity provider service declaration
+// summary: Declares a C++ class that connects to Android IdP bound services via the org.w3.FedCM intent to fetch identity data for FedCM.
+// ---
+
 #ifndef CHROME_BROWSER_WEBID_IDENTITY_PROVIDER_SERVICE_H_
 #define CHROME_BROWSER_WEBID_IDENTITY_PROVIDER_SERVICE_H_
 

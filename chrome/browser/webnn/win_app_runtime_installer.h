@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows App Runtime installer API
+// summary: Declares the entry point that schedules Windows App Runtime installation when WebNN features are enabled on Windows 11 24H2 and later.
+// ---
+
 #ifndef CHROME_BROWSER_WEBNN_WIN_APP_RUNTIME_INSTALLER_H_
 #define CHROME_BROWSER_WEBNN_WIN_APP_RUNTIME_INSTALLER_H_
 

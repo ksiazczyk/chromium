@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn switch name declarations
+// summary: Header declaring the WebAuthn switch name constants, with comments explaining the additional origin for remote proxied requests, enterprise attestation origins, and the Magic Arch domain.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_WEBAUTHN_SWITCHES_H_
 #define CHROME_BROWSER_WEBAUTHN_WEBAUTHN_SWITCHES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android TouchToFill credential sorter
+// summary: Unit tests covering SortTouchToFillCredentials, including empty lists, single credentials, and passkey-versus-password deduplication by recency.
+// ---
+
 #include "chrome/browser/webauthn/android/credential_sorter_android.h"
 
 #include "base/test/scoped_feature_list.h"

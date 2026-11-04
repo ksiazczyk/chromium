@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake security domain service implementation
+// summary: Implements a fake Security Domain Service that answers network requests, records members, and simulates failures and PIN member changes for tests.
+// ---
+
 #include "chrome/browser/webauthn/fake_security_domain_service.h"
 
 #include <algorithm>

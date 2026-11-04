@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn metrics enums and declarations
+// summary: Declares enums and functions for WebAuthn metrics histograms covering GPM events, onboarding and combined selector actions.
+// ---
+
 #ifndef CHROME_BROWSER_WEBAUTHN_WEBAUTHN_METRICS_UTIL_H_
 #define CHROME_BROWSER_WEBAUTHN_WEBAUTHN_METRICS_UTIL_H_
 

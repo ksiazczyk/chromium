@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enclave keys waiter implementation
+// summary: Implements a helper that observes the enclave manager and runs a RunLoop until out-of-context passkey recovery completes, returning the outcome.
+// ---
+
 #include "chrome/browser/webauthn/enclave_keys_waiter.h"
 
 #include "base/functional/callback.h"

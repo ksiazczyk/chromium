@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome authenticator request delegate implementation
+// summary: Implements the Chrome-side delegate for WebAuthn requests, wiring transports, preferences, sync, password credentials and metrics into the content layer.
+// ---
+
 #include "chrome/browser/webauthn/chrome_authenticator_request_delegate.h"
 
 #include <algorithm>

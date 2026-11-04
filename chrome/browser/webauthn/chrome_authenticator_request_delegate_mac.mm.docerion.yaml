@@ -1,0 +1,4 @@
+# Docerion header of chrome_authenticator_request_delegate_mac.mm.
+type: source
+title: macOS iCloud Keychain passkey check implementation
+summary: Implements the macOS check for iCloud Keychain passkey support using Apple APIs with an iCloud Drive fallback and a test override.

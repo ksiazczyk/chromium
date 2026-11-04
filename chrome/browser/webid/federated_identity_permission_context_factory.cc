@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated identity permission context factory implementation
+// summary: Profile-keyed service factory that creates and provides the FederatedIdentityPermissionContext instance for each browser context.
+// ---
+
 #include "chrome/browser/webid/federated_identity_permission_context_factory.h"
 
 #include "base/no_destructor.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebAuthn Android BUILD.gn build definition
+summary: Defines the Android WebAuthn Java library, JNI header generation, and resources targets with their dependencies for the Chrome browser build.

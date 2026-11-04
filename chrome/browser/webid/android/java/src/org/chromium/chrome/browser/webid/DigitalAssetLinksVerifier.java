@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital Asset Links verifier for Android packages and web origins
+// summary: Utility that verifies use_as_origin Digital Asset Links between Android packages and a web origin and reports the first verified package.
+// ---
+
 package org.chromium.chrome.browser.webid;
 
 import androidx.browser.customtabs.CustomTabsService;

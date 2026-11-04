@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows local credential management implementation
+// summary: Windows implementation of LocalCredentialManagement that enumerates platform credentials via the WinWebAuthn API and caches credential presence in profile prefs.
+// ---
+
 #include "chrome/browser/webauthn/local_credential_management_win.h"
 
 #include "base/functional/bind.h"

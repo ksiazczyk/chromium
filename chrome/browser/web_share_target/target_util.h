@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Share Target request body utility declarations
+// summary: Declares the percent-escaping and multipart or URL-encoded POST body computation helpers for the web_share_target namespace.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_SHARE_TARGET_TARGET_UTIL_H_
 #define CHROME_BROWSER_WEB_SHARE_TARGET_TARGET_UTIL_H_
 
