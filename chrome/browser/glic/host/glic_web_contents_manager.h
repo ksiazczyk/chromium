@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicWebContentsManager interface
+// summary: Abstract interface managing the lifecycle, presentation, and client routing of the WebContents backing a Glic panel, with WebUI and no-webview implementations.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_WEB_CONTENTS_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_WEB_CONTENTS_MANAGER_H_
 

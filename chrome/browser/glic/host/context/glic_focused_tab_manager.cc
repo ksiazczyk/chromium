@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicFocusedTabManager implementation
+// summary: Implements the focused tab manager, tracking the focused tab of the focused browser and notifying about focused tab and data changes.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_focused_tab_manager.h"
 
 #include <optional>

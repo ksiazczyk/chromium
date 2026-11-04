@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic sharing utilities header
+// summary: Declares sharing validity helpers and a tracker that monitors the active tab for a profile and notifies subscribers of changes.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_SHARING_UTILS_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_SHARING_UTILS_H_
 

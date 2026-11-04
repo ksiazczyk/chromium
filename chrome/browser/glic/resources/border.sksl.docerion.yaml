@@ -1,0 +1,4 @@
+# Docerion header of border.sksl.
+type: source
+title: Glic border shader
+summary: SkSL shader that draws the Glic window border with dark and light colors, corner radii, insets and emphasis-driven opacity falloff.

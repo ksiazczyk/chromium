@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic guest observer header
+// summary: Declares GlicGuestObserver, a WebContentsObserver that enforces guest policies such as autoplay and Mojo JS bindings and maintains host and container associations.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_GUEST_OBSERVER_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_GUEST_OBSERVER_H_
 

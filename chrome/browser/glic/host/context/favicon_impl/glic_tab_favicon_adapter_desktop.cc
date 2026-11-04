@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop Glic tab favicon adapter implementation
+// summary: Desktop FaviconAdapter implementation that tracks ContentFaviconDriver updates and handles WebContents swaps to keep favicons current.
+// ---
+
 #include "chrome/browser/glic/host/context/favicon_impl/glic_tab_favicon_adapter_desktop.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for triggering proto converters
+// summary: Declares functions that convert GlicExperimentalTriggering protobufs to domain requests and responses and back for transmission.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_EXPERIMENTAL_TRIGGERING_GLIC_EXPERIMENTAL_TRIGGERING_CONVERTERS_H_
 #define CHROME_BROWSER_GLIC_EXPERIMENTAL_TRIGGERING_GLIC_EXPERIMENTAL_TRIGGERING_CONVERTERS_H_
 

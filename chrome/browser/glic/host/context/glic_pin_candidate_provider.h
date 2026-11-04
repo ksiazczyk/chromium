@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic pin candidate provider interface
+// summary: Glic-internal interface for subscribing to pin candidate changes through a Mojo observer.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_PIN_CANDIDATE_PROVIDER_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_PIN_CANDIDATE_PROVIDER_H_
 

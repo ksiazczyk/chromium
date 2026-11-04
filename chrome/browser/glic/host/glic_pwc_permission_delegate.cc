@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicPwcPermissionDelegate implementation
+// summary: Maps Glic preferences to permission results for the Glic guest web contents, covering microphone, geolocation, and clipboard in NoWebview mode.
+// ---
+
 #include "chrome/browser/glic/host/glic_pwc_permission_delegate.h"
 
 #include <string_view>

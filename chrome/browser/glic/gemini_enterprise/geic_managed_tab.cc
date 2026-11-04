@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GEiC managed tab implementation
+// summary: Implements opening, reusing, and closing a tab on behalf of the GEiC web client, checking origins against the tab's auth purpose.
+// ---
+
 #include "chrome/browser/glic/gemini_enterprise/geic_managed_tab.h"
 
 #include <memory>

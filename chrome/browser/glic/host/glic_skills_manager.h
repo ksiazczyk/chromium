@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicSkillsManager interface header
+// summary: Declares the host-scoped GlicSkillsManager interface for binding skills Mojo sessions, updating skill previews, launching skills dialogs and showing manage or browse skills UI.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_SKILLS_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_SKILLS_MANAGER_H_
 

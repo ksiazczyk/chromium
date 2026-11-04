@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicPwcPolicyDelegate implementation
+// summary: Implements the policy delegate for Glic NoWebview mode, checking guest origin navigation, capability origins, and insecure dev origins under --glic-dev.
+// ---
+
 #include "chrome/browser/glic/host/glic_pwc_policy_delegate.h"
 
 #include "base/command_line.h"

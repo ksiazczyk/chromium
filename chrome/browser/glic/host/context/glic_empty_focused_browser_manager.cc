@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic empty focused browser manager implementation
+// summary: Implements a no-op focused browser manager that returns no browser and ignores focused and active browser callback registrations.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_empty_focused_browser_manager.h"
 
 namespace glic {

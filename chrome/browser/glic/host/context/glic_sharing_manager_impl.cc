@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic sharing manager implementation
+// summary: Implements the Glic sharing manager that fetches tab context and image bytes, checks sharing eligibility and delegates to focused tab managers.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_sharing_manager_impl.h"
 
 #include <cstdint>

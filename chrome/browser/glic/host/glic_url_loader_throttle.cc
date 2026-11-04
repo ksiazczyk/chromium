@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic URL loader throttle implementation
+// summary: Implements a URL loader throttle that injects Glic HTTP request headers, including onboarding headers, on guest requests in NoWebview mode.
+// ---
+
 #include "chrome/browser/glic/host/glic_url_loader_throttle.h"
 
 #include "base/check.h"

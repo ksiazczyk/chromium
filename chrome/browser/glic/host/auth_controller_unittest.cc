@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthController unit tests
+// summary: Unit tests for AuthController covering cookie sync triggers and auth outcomes using a fake cookie synchronizer and identity test environment.
+// ---
+
 #include "chrome/browser/glic/host/auth_controller.h"
 
 #include "base/memory/weak_ptr.h"

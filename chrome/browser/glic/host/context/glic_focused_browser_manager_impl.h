@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicFocusedBrowserManagerImpl header
+// summary: Declares GlicFocusedBrowserManagerImpl, the production focused browser manager that observes browser collections and widget state.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_FOCUSED_BROWSER_MANAGER_IMPL_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_FOCUSED_BROWSER_MANAGER_IMPL_H_
 

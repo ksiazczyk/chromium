@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic share image handler header
+// summary: Declares GlicShareImageHandler, which captures images shared via the context menu and sends them to the web client as additional context.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_SHARE_IMAGE_HANDLER_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_SHARE_IMAGE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental opt-in UI host desktop implementation
+// summary: Implements the desktop Glic experimental opt-in UI host, managing the Views dialog widget, tab activation and link opening in new tabs.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <vector>

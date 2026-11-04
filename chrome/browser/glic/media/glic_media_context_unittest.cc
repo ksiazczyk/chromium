@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicMediaContext unit tests
+// summary: Unit tests for GlicMediaContext covering transcript chunk handling, media session interaction, and histogram metrics using mock speech recognition results.
+// ---
+
 #include "chrome/browser/glic/media/glic_media_context.h"
 
 #include <vector>

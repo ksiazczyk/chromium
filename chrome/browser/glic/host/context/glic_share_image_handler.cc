@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic share image handler implementation
+// summary: Implements sharing of context menu images with the Glic web client, including thumbnail capture, clipboard policy checks and metrics.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_share_image_handler.h"
 
 #include "base/feature_list.h"

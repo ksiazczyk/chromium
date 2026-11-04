@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Glic profile logo artwork
+summary: SVG logo combining a swoosh outline with a Google-style camera mark, used as the Glic profile logo resource.
+-->
+
 <svg width="114" height="58" viewBox="0 0 114 58" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_25130_39836)">
 <path d="M84.5319 1.82165C104.89 2.90005 111.937 18.4514 111.937 28.57C111.937 43.4104 99.7552 55.3907 86.4895 55.6979C69.9052 56.0819 61.757 45.0122 57.0589 28.57C52.6701 13.2029 44.2051 0.884303 26.9675 1.82165C13.1531 2.57286 1.97095 15.0463 2.11947 28.57C2.24828 40.2995 10.1454 54.7379 29.525 55.6979" stroke="url(#paint0_linear_25130_39836)" stroke-width="3.23617" stroke-linecap="round" stroke-linejoin="round"/>

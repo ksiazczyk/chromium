@@ -1,0 +1,4 @@
+# Docerion header of glic_features.mojom.
+type: source
+title: Glic feature flags in Mojo
+summary: Defines Glic Mojo feature flags such as multi-tab support, actor tab context, and tab activation, together with their default states.

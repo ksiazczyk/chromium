@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor window management tool interactive UI tests
+// summary: Interactive browser tests for actor window management actions such as creating, activating and closing windows.
+// ---
+
 #include "base/task/current_thread.h"
 #include "build/build_config.h"
 #include "chrome/browser/actor/actor_test_util.h"

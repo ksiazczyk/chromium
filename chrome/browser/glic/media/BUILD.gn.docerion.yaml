@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for Glic media sources
+summary: Defines the media source set and unit test targets for the Glic media code, with transcription-related sources and tests excluded on Android.

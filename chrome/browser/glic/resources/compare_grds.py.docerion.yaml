@@ -1,0 +1,4 @@
+# Docerion header of compare_grds.py.
+type: script
+title: GRD comparison script
+summary: Python script that checks two .grd files have matching structure and resource names, writing a stamp file on success and printing an error otherwise.

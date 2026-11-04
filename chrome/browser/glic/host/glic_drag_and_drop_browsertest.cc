@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic drag and drop browser test
+// summary: Browser tests simulating file and text drag-and-drop into the Glic guest, parameterized over webview and non-webview variants.
+// ---
+
 #include "base/files/scoped_temp_dir.h"
 #include "base/test/run_until.h"
 #include "base/threading/thread_restrictions.h"

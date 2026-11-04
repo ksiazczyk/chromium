@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor media control tool interactive UI tests
+// summary: Interactive browser tests verifying the actor media control tool for play, pause and seek actions on page media elements.
+// ---
+
 #include "chrome/browser/actor/actor_test_util.h"
 #include "chrome/browser/glic/host/glic_actor_interactive_uitest_common.h"
 #include "components/actor/public/mojom/actor_types.mojom.h"

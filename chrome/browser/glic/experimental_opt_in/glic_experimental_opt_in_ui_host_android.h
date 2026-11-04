@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental opt-in UI host Android header
+// summary: Declares the Android implementation of the Glic experimental opt-in UI host, bridging the native host to the Java dialog coordinator.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_EXPERIMENTAL_OPT_IN_GLIC_EXPERIMENTAL_OPT_IN_UI_HOST_ANDROID_H_
 #define CHROME_BROWSER_GLIC_EXPERIMENTAL_OPT_IN_GLIC_EXPERIMENTAL_OPT_IN_UI_HOST_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicMediaPageCache header
+// summary: Declares GlicMediaPageCache, a linked-list based cache for pages with media context, with an Entry base class that tracks cache membership.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_MEDIA_GLIC_MEDIA_PAGE_CACHE_H_
 #define CHROME_BROWSER_GLIC_MEDIA_GLIC_MEDIA_PAGE_CACHE_H_
 

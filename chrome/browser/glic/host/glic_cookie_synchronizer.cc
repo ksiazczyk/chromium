@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic cookie synchronizer implementation
+// summary: Implements syncing sign-in cookies from the main profile partition to the Glic webview partition, with timeouts, metrics, and cookie clearing tasks.
+// ---
+
 #include "chrome/browser/glic/host/glic_cookie_synchronizer.h"
 
 #include <cstdint>

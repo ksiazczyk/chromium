@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic active instance sharing manager implementation
+// summary: Implements the sharing manager that delegates to the active Glic instance's manager only when the profile has Glic enabled and consented.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_active_instance_sharing_manager.h"
 
 #include "chrome/browser/glic/public/glic_enabling.h"

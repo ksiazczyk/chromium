@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicPwcPermissionDelegate unit tests
+// summary: Unit tests verifying that the Glic permission delegate grants or denies microphone, geolocation, and clipboard permissions based on preferences.
+// ---
+
 #include "chrome/browser/glic/host/glic_pwc_permission_delegate.h"
 
 #include "chrome/browser/glic/glic_pref_names.h"

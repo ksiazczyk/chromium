@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic warming scheduler declaration
+// summary: Declares GlicWarmingScheduler, which runs warming tasks when the browser is idle via Performance Manager or after a fixed delay.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_WARMING_SCHEDULER_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_WARMING_SCHEDULER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic sharing manager coordinator header
+// summary: Declares GlicSharingManagerCoordinator, which selects the active Glic sharing manager implementation based on instance state.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_SHARING_MANAGER_COORDINATOR_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_SHARING_MANAGER_COORDINATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic WebContents warming pool implementation
+// summary: Implements the pool that pre-warms Glic WebContents, including reload-after-expiry behavior, memory pressure handling, and warming pool metrics.
+// ---
+
 #include "chrome/browser/glic/host/glic_web_contents_warming_pool.h"
 
 #include "base/feature_list.h"

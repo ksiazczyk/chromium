@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic overlay WebUI controller header
+// summary: Declares the WebUI controller for the Glic overlay surface, which shows loading skeletons and error or offline panels in NoWebview mode while the guest page runs in a separate privileged WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_OVERLAY_UI_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_OVERLAY_UI_H_
 

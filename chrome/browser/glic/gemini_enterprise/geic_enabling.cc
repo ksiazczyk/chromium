@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GEiC enabling configuration implementation
+// summary: Resolves and latches the per-profile GEiC guest URL from the command line, enterprise policy, and Finch, validating and canonicalizing URLs.
+// ---
+
 #include "chrome/browser/glic/gemini_enterprise/geic_enabling.h"
 
 #include <algorithm>

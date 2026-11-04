@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicPageHandler implementation
+// summary: Implements the browser-side handler for Mojo requests from the Glic WebUI, covering zoom, panel state, sign-in, link opening, resizing, and client load errors.
+// ---
+
 #include "chrome/browser/glic/host/glic_page_handler.h"
 
 #include <cmath>

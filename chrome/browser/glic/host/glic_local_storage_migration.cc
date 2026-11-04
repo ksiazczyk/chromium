@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic local storage migration implementation
+// summary: Migrates Glic guest LocalStorage entries into a JSON-backed dictionary pref, decoding Blink DOM storage format prefixes for UTF-16 and Latin-1 values.
+// ---
+
 #include "chrome/browser/glic/host/glic_local_storage_migration.h"
 
 #include <algorithm>

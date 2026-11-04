@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic URL loader throttle declaration
+// summary: Declares the GlicURLLoaderThrottle and a proxying URL loader factory that add Glic custom headers to guest and subresource requests.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_URL_LOADER_THROTTLE_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_URL_LOADER_THROTTLE_H_
 

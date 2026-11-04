@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic page features manager
+// summary: Declares a WebContents observer that detects and caches lightweight page features like the YouTube Ask button.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_PAGE_FEATURES_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_PAGE_FEATURES_MANAGER_H_
 

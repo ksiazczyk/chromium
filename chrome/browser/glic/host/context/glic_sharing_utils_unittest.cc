@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic sharing utilities unit tests
+// summary: Unit tests verifying tab sharing validity for HTTP, file, new tab and Context Hub topic URLs across desktop and Android builds.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_sharing_utils.h"
 
 #include "build/build_config.h"

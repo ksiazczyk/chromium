@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicMediaContext class declaration
+// summary: Declares GlicMediaContext and its TranscriptChunk structure for storing timestamped media transcript chunks per rendered document.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_MEDIA_GLIC_MEDIA_CONTEXT_H_
 #define CHROME_BROWSER_GLIC_MEDIA_GLIC_MEDIA_CONTEXT_H_
 

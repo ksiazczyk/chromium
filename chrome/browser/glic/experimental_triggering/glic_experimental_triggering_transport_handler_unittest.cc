@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic experimental triggering transport handler unit tests
+// summary: Unit tests for the transport handler, covering message parsing, coordinator dispatch, response sending and metrics logging with mock sessions.
+// ---
+
 #include "chrome/browser/glic/experimental_triggering/glic_experimental_triggering_transport_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic theme utility header
+// summary: Declares GetGlicBackgroundColor, a helper returning the kColorGlicBackground color for a given profile and UI color provider.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_THEME_UTIL_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_THEME_UTIL_H_
 

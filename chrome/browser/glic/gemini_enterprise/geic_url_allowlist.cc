@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GEiC host allowlist implementation
+// summary: Checks whether a URL host is an allowed Gemini Enterprise host, covering fixed Gemini and cloud hosts plus the Finch-configured guest host.
+// ---
+
 #include "chrome/browser/glic/gemini_enterprise/geic_url_allowlist.h"
 
 #include <string_view>

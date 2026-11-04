@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic local storage migration unit tests
+// summary: Unit tests verifying that Glic local storage keys are migrated correctly from the Glic storage partition into client data storage.
+// ---
+
 #include "chrome/browser/glic/host/glic_local_storage_migration.h"
 
 #include <cstdint>

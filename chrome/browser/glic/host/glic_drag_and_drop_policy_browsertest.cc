@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic drag and drop policy browser test
+// summary: Browser tests verifying that enterprise DLP content analysis and realtime reporting are triggered when files are dragged and dropped into Glic.
+// ---
+
 #include "base/containers/span.h"
 #include "base/files/scoped_temp_dir.h"
 #include "base/functional/bind.h"

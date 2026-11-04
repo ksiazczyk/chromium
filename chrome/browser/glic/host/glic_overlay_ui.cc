@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic overlay WebUI controller
+// summary: Implements the WebUI controller for the Glic overlay, wiring localized strings, data sources and permission checks for the show-error feature.
+// ---
+
 #include "chrome/browser/glic/host/glic_overlay_ui.h"
 
 #include <utility>

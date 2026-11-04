@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic Gemini Enterprise manager browser tests
+// summary: Browser tests covering sign-in and auth tab open and close lifecycles, tab reuse and focus restoration.
+// ---
+
 #include "chrome/browser/glic/gemini_enterprise/glic_gemini_enterprise_manager.h"
 
 #include <memory>

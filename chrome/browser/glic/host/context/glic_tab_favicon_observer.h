@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab favicon observer header
+// summary: Declares GlicTabFaviconObserver, which watches tabs for favicon changes and forwards updates to subscribed Mojo receivers until the tab is gone.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_TAB_FAVICON_OBSERVER_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_TAB_FAVICON_OBSERVER_H_
 

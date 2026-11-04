@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic zoom controller unit tests
+// summary: Unit tests verifying zoom stepping, clamping at limits, preference persistence, and metrics recording for the Glic zoom controller.
+// ---
+
 #include "chrome/browser/glic/host/glic_zoom_controller.h"
 
 #include "base/test/metrics/histogram_tester.h"

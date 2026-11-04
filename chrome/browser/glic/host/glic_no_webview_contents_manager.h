@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic no-webview contents manager header
+// summary: Declares the manager hosting the Glic guest WebContents in a PrivilegedWebContents plus the loading and error overlay WebContents and its guest states.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_NO_WEBVIEW_CONTENTS_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_NO_WEBVIEW_CONTENTS_MANAGER_H_
 

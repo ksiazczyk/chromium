@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicEmptyPinnedTabManager header
+// summary: Declares GlicEmptyPinnedTabManager, a no-op pinned tab manager that disables pinning and reports zero pinned tabs.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_EMPTY_PINNED_TAB_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_EMPTY_PINNED_TAB_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaTranscriptProviderImpl implementation
+// summary: Implements the optimization guide media transcript provider by returning transcript chunks from GlicMediaContext for a given render frame.
+// ---
+
 #include "chrome/browser/glic/media/media_transcript_provider_impl.h"
 
 #include "chrome/browser/glic/media/glic_media_context.h"

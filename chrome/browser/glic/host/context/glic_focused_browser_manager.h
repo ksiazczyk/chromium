@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicFocusedBrowserManager interface
+// summary: Defines the abstract GlicFocusedBrowserManager interface that tracks which browser window is focused and exposes focus change callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_FOCUSED_BROWSER_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_FOCUSED_BROWSER_MANAGER_H_
 

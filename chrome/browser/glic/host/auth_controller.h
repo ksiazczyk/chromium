@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthController header
+// summary: Declares AuthController, which decides when to refresh sign-in cookies for the Glic webview, plus related histogram enums.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_AUTH_CONTROLLER_H_
 #define CHROME_BROWSER_GLIC_HOST_AUTH_CONTROLLER_H_
 

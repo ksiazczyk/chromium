@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic file picker browser test
+// summary: Browser tests verifying the file picker opens correctly within the narrow Glic side panel, with and without the no-webview feature.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

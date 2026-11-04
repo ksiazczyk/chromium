@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic focus browser test
+// summary: Regression browser tests checking that the Glic client page gains focus on panel open and invoke, and loses focus when the omnibox is focused.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/glic/public/glic_invoke_options.h"
 #include "chrome/browser/glic/public/glic_keyed_service.h"

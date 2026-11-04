@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor autofill disabled UI test
+// summary: Verifies that form filling actions are rejected with invalid arguments when the Glic actor autofill feature is disabled.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/glic/host/glic_actor_interactive_uitest_common.h"
 #include "chrome/common/chrome_features.h"

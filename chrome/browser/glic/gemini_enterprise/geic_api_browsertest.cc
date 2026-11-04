@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GEiC API browser tests
+// summary: Browser tests that run JavaScript API tests for GEiC sign-in and auth tab flows with the kGeic feature and guest URL switch enabled.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/glic/gemini_enterprise/geic_enabling.h"

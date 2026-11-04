@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic guest API source header
+// summary: Declares GetGuestAPISource and feature parameters controlling the JavaScript injected into Glic guest frames.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GUEST_SOURCE_H_
 #define CHROME_BROWSER_GLIC_HOST_GUEST_SOURCE_H_
 

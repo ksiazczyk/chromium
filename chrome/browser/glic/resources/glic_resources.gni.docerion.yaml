@@ -1,0 +1,4 @@
+# Docerion header of glic_resources.gni.
+type: config
+title: Glic resources build arguments
+summary: GN import file declaring the enable_glic_internal_resources build argument that controls Glic internal resources.

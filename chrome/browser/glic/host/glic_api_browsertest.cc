@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic API browser tests
+// summary: Large browser test suite exercising the Glic API, covering invocation, enabling, auth and related services.
+// ---
+
 #include <cstdint>
 #include <optional>
 #include <string>

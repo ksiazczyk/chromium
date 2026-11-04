@@ -1,0 +1,4 @@
+# Docerion header of glic.mojom.
+type: source
+title: Glic Mojo interface definitions
+summary: Defines the Mojo API used by the Glic web client, including actor task states, error reasons, settings and input reaction types.

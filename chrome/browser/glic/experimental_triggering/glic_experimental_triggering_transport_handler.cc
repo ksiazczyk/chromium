@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental triggering transport handler implementation
+// summary: Parses GlicExperimentalTriggering proto messages from BrowserActuator transport sessions and dispatches them to the coordinator, sending back responses.
+// ---
+
 #include "chrome/browser/glic/experimental_triggering/glic_experimental_triggering_transport_handler.h"
 
 #include <memory>

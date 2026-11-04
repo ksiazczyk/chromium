@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic guest actionable mark observer
+// summary: Observes guest page load metrics for the gemini.interactive performance mark and reports the time at which the web client becomes actionable.
+// ---
+
 #include "chrome/browser/glic/host/glic_guest_actionable_mark_observer.h"
 
 #include <memory>

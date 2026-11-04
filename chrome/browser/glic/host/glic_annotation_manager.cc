@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic annotation manager implementation
+// summary: Implements scroll-to and highlight annotation handling for the Glic focused tab, including PDF support.
+// ---
+
 #include "chrome/browser/glic/host/glic_annotation_manager.h"
 
 #include <optional>

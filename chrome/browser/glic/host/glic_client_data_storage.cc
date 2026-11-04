@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic client data storage implementation
+// summary: Implements in-memory key-value storage for the Glic web client with size limits, observer notifications, and delayed persistence to prefs.
+// ---
+
 #include "chrome/browser/glic/host/glic_client_data_storage.h"
 
 #include <cstddef>

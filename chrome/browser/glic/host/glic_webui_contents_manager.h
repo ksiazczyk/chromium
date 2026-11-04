@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic WebUI contents manager declarations
+// summary: Declares the GlicWebContentsManager implementation that hosts the guest client in a WebUI webview, tracking navigation, load, and actuation state.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_WEBUI_CONTENTS_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_WEBUI_CONTENTS_MANAGER_H_
 

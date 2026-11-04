@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic no-webview contents manager browser tests
+// summary: Browser tests covering guest loading, error panels, admin policy restrictions, and structured metrics for the no-webview contents manager.
+// ---
+
 #include "chrome/browser/glic/host/glic_no_webview_contents_manager.h"
 
 #include <algorithm>

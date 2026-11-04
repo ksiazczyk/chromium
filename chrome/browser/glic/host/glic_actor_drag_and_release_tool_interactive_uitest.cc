@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor drag and release tool interactive UI tests
+// summary: Interactive browser tests verifying the actor drag-and-release tool, covering range input dragging and mouse event sequences across device scale factors.
+// ---
+
 #include "base/i18n/number_formatting.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/actor/actor_test_util.h"

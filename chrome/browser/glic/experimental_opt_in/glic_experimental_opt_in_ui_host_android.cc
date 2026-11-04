@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental opt-in UI host Android implementation
+// summary: Implements the Android Glic experimental opt-in UI host, showing the dialog via a Java coordinator and handling tab selection and link opening.
+// ---
+
 #include "chrome/browser/glic/experimental_opt_in/glic_experimental_opt_in_ui_host.h"
 
 #include <memory>

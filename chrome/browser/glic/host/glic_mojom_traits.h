@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic Mojo traits mappings for screenshot options
+// summary: Defines StructTraits and EnumTraits mapping screenshot options, image formats, and compression quality between Glic mojom and page content annotations types.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_MOJOM_TRAITS_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_MOJOM_TRAITS_H_
 

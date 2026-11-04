@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic theme utility implementation
+// summary: Resolves the Glic background color from the profile's theme service and color provider, choosing dark or light mode on desktop and falling back to the given provider on Android.
+// ---
+
 #include "chrome/browser/glic/host/glic_theme_util.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic no-webview contents manager implementation
+// summary: Implements the manager that hosts the Glic overlay UI without a webview, covering navigation, bootstrap messaging, sign-in, permissions and usage metrics.
+// ---
+
 #include "chrome/browser/glic/host/glic_no_webview_contents_manager.h"
 
 #include <utility>

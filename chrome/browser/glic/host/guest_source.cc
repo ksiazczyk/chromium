@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic guest API source builder
+// summary: Builds the JavaScript source injected into Glic guest frames, combining load-time configuration, feature parameters, and the client bundle.
+// ---
+
 #include "chrome/browser/glic/host/guest_source.h"
 
 #include "base/command_line.h"

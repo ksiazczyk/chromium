@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicEmptyFocusedTabManager header
+// summary: Declares GlicEmptyFocusedTabManager, a no-op implementation of the focused tab manager interface that reports no focused tab.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_EMPTY_FOCUSED_TAB_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_EMPTY_FOCUSED_TAB_MANAGER_H_
 

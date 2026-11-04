@@ -1,0 +1,4 @@
+# Docerion header of glic_webui.mojom.
+type: source
+title: Glic WebUI Mojo interfaces
+summary: Mojo definitions for the Glic WebUI covering profile ready state, zoom actions, guest page types, web client state, and preload handling.

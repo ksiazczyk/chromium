@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic Gemini Enterprise manager header
+// summary: Declares the GlicGeminiEnterpriseManager class that serves sign-in and auth tab Mojo requests for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GEMINI_ENTERPRISE_GLIC_GEMINI_ENTERPRISE_MANAGER_H_
 #define CHROME_BROWSER_GLIC_GEMINI_ENTERPRISE_GLIC_GEMINI_ENTERPRISE_MANAGER_H_
 

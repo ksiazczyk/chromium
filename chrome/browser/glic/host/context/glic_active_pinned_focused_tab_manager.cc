@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic active pinned focused tab manager implementation
+// summary: Implements a focused tab manager that treats the active tab as focused only when it is pinned for sharing and valid for sharing.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_active_pinned_focused_tab_manager.h"
 
 #include "chrome/browser/glic/host/context/glic_sharing_utils.h"

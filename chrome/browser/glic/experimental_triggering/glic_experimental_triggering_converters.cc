@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Converters between triggering protos and domain types
+// summary: Implements conversions between GlicExperimentalTriggering protobufs and domain request, response, and task metadata types.
+// ---
+
 #include "chrome/browser/glic/experimental_triggering/glic_experimental_triggering_converters.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor general interactive UI tests
+// summary: Interactive browser tests covering general Glic actor behavior such as click actions, annotated page content hit testing, and multi-step task execution.
+// ---
+
 #include <optional>
 #include <sstream>
 #include <utility>

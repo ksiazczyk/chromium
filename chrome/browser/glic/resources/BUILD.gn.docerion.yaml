@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Glic browser resources build file
+summary: GN build rules that package Glic resources with grit, run the GRD comparison check for branded builds, and build the browser_resources source set.

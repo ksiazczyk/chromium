@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic Host class declaration
+// summary: Declares the Glic Host class that owns the main Glic WebUI and web client, with embedder and instance delegate interfaces for resizing, tabs, and conversations.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_HOST_H_
 #define CHROME_BROWSER_GLIC_HOST_HOST_H_
 

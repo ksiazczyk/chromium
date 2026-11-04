@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic pin candidate comparator implementation
+// summary: Implements ranking of pin candidate tabs by title query match quality with last active time as tie-breaker.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_pin_candidate_comparator.h"
 
 #include <tuple>

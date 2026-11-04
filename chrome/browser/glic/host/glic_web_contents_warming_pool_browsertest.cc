@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic WebContents warming pool browser tests
+// summary: Browser tests verifying warming pool behaviors such as cold warming, backfill warming, and profile-related scenarios under feature parameters.
+// ---
+
 #include "chrome/browser/glic/host/glic_web_contents_warming_pool.h"
 
 #include <utility>

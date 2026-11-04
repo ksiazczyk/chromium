@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for triggering proto converters
+// summary: Unit tests covering conversion of GlicExperimentalTriggering protobufs to and from domain request and response types, including payment metadata.
+// ---
+
 #include "chrome/browser/glic/experimental_triggering/glic_experimental_triggering_converters.h"
 
 #include <variant>

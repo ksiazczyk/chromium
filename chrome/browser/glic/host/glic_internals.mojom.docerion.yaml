@@ -1,0 +1,4 @@
+# Docerion header of glic_internals.mojom.
+type: source
+title: Glic internals Mojo definitions
+summary: Defines Mojo structs and enums describing Glic profile enablement, actuation eligibility, guest URL configuration, and tiered rollout info for the internals WebUI.

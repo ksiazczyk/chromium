@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental opt-in dialog view implementation
+// summary: Implements the tab-modal dialog view that hosts the opt-in webview, handling auto-resize and accessibility announcements.
+// ---
+
 #include "chrome/browser/glic/experimental_opt_in/glic_experimental_opt_in_dialog_view.h"
 
 #include <memory>

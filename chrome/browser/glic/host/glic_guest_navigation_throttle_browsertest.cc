@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic guest navigation throttle browser test
+// summary: Browser tests verifying the throttle cancels disallowed guest navigations, including subframe-driven about:blank main frame navigations.
+// ---
+
 #include "chrome/browser/glic/host/glic_guest_navigation_throttle.h"
 
 #include <memory>

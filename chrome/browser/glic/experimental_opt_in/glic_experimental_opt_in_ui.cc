@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental opt-in WebUI controller implementation
+// summary: Implements the Glic experimental opt-in WebUI controller, registering the data source and building the triggering opt-in URL from feature flags or command-line overrides.
+// ---
+
 #include "chrome/browser/glic/experimental_opt_in/glic_experimental_opt_in_ui.h"
 
 #include "base/command_line.h"

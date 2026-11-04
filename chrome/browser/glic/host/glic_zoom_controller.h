@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicZoomController class declaration
+// summary: Declares GlicZoomController, which manages zoom scaling, persistence, and isolation for the Glic guest WebContents via temporary zoom levels.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_ZOOM_CONTROLLER_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_ZOOM_CONTROLLER_H_
 

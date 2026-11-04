@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic page context fetcher implementation
+// summary: Implements fetching of Glic page context, including screenshots, annotated content, and chained progress listeners for tabs.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_page_context_fetcher.h"
 
 #include <stdint.h>

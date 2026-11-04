@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicFocusedBrowserManagerImpl implementation
+// summary: Implements the focused browser manager, tracking focused, active and candidate browser windows and notifying observers of focus changes.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_focused_browser_manager_impl.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic guest observer unit tests
+// summary: Unit tests verifying autoplay is granted only for allowed guest origins on primary main frames and that no-webview navigation and load metrics are recorded.
+// ---
+
 #include "chrome/browser/glic/host/glic_guest_observer.h"
 
 #include "base/test/metrics/histogram_tester.h"

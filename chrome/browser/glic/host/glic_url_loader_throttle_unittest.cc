@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic URL loader throttle unit tests
+// summary: Unit tests verifying Glic header injection, onboarding header values, and SSR feature gating in the URL loader throttle.
+// ---
+
 #include "chrome/browser/glic/host/glic_url_loader_throttle.h"
 
 #include <optional>

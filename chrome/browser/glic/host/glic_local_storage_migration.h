@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic local storage migration header
+// summary: Declares a one-time migration of Glic local storage keys from the Glic storage partition into client data storage, skipped when disabled by flags or already done.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_LOCAL_STORAGE_MIGRATION_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_LOCAL_STORAGE_MIGRATION_H_
 

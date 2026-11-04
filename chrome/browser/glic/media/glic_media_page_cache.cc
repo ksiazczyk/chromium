@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicMediaPageCache implementation
+// summary: Implements GlicMediaPageCache entry lifecycle, placing entries at the front of the linked list and removing them safely from the cache.
+// ---
+
 #include "chrome/browser/glic/media/glic_media_page_cache.h"
 
 #include "base/check_op.h"

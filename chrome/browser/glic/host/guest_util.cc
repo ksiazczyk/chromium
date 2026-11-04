@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic guest utilities implementation
+// summary: Implements utilities for preparing and identifying the Glic guest WebContents, including guest URLs, origin checks, and storage partition setup.
+// ---
+
 #include "chrome/browser/glic/host/guest_util.h"
 
 #include <algorithm>

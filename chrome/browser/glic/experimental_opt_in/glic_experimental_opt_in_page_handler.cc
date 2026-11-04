@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental opt-in page handler implementation
+// summary: Implements the WebUI page handler that applies opt-in preferences, syncs cookies to the webview partition and opens validated Google links.
+// ---
+
 #include "chrome/browser/glic/experimental_opt_in/glic_experimental_opt_in_page_handler.h"
 
 #include "chrome/browser/glic/experimental_opt_in/glic_experimental_opt_in_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic Host implementation for the main Glic WebUI and web client
+// summary: Implements the Glic Host class that owns the WebUI containing the main Glic UI and web client, including embedder delegates and host lifetime metrics.
+// ---
+
 #include "chrome/browser/glic/host/host.h"
 
 #include <algorithm>

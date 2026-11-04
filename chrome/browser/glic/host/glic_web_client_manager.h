@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic web client manager header
+// summary: Declares GlicWebClientManager, a WebContentsObserver that owns the web client, tracks guest navigation and process state, and reports lifecycle events to a delegate.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_WEB_CLIENT_MANAGER_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_WEB_CLIENT_MANAGER_H_
 

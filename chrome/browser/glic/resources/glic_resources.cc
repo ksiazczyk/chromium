@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic resource ID mapping implementation
+// summary: Implements glic::GetResourceID, which remaps Glic resource IDs to their V2 asset variants when the kGlicAssetsV2 feature is enabled.
+// ---
+
 #include "chrome/browser/glic/resources/glic_resources.h"
 
 #include "chrome/browser/glic/resources/grit/glic_browser_resources.h"

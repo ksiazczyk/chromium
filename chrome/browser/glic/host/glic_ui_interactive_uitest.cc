@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic UI interactive tests
+// summary: Interactive UI tests covering Glic WebUI state transitions, loading and connectivity behavior, and the context access indicator.
+// ---
+
 #include "chrome/browser/glic/host/glic_ui.h"
 
 #include <sstream>

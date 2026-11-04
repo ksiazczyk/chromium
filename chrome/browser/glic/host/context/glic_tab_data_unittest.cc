@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic tab data unit tests
+// summary: Unit tests for FaviconEquals, checking favicon image comparison for identical images and differences in color space, size, and pixels.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_tab_data.h"
 
 #include <string_view>

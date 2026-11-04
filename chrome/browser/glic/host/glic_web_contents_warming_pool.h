@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic WebContents warming pool declarations
+// summary: Declares the pool that pre-warms Glic WebContents in the background to reduce perceived latency when opening the Glic UI, with status and metrics enums.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_WEB_CONTENTS_WARMING_POOL_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_WEB_CONTENTS_WARMING_POOL_H_
 

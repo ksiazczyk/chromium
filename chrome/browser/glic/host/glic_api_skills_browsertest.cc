@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic API skills browser test
+// summary: Browser tests verifying the Glic web client API for skills, covering skill retrieval and previews through the skills service with the skills feature enabled.
+// ---
+
 #include <optional>
 #include <string>
 #include <vector>

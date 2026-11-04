@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic overlay browser tests
+// summary: Browser tests verifying that the Glic overlay UI instantiates, applies loading and error states, and hides the show-error button by default.
+// ---
+
 #include <string>
 #include <vector>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicPwcPolicyDelegate header
+// summary: Declares the PwcPolicyDelegate implementation that answers navigation and capability questions from the Glic guest origin allowlist.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_PWC_POLICY_DELEGATE_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_PWC_POLICY_DELEGATE_H_
 

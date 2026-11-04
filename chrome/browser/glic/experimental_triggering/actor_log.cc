@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental triggering actor journal logging
+// summary: Implements logging of Glic experimental triggering protos to the actor journal, converting task update states, data types and request payload cases into readable strings.
+// ---
+
 #include "chrome/browser/glic/experimental_triggering/actor_log.h"
 
 #include <string>

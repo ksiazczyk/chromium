@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic visibility browser tests
+// summary: Browser tests checking Glic window and WebContents visibility states, with detailed diagnostics for occlusion-related failures.
+// ---
+
 #include <string>
 #include <utility>
 #include <vector>

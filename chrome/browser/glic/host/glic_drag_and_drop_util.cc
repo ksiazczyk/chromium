@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic drag and drop utility
+// summary: Implements tracking of web drag eligibility and source metadata, and triggers the Glic Invoke API when dragged content is dropped onto a target.
+// ---
+
 #include "chrome/browser/glic/host/glic_drag_and_drop_util.h"
 
 #include <optional>

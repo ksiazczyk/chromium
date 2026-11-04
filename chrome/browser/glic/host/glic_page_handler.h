@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicPageHandler header
+// summary: Declares the GlicPageHandler class that handles Mojo requests from the Glic WebUI and observes the Glic host for panel and ready-state changes.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_PAGE_HANDLER_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_PAGE_HANDLER_H_
 

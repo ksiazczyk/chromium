@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Glic experimental opt-in directory
+summary: Sets code owners for the directory and requires security owner review for Mojom files.

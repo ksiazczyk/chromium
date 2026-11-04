@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental triggering transport handler declarations
+// summary: Declares the transport handler and factory that route experimental triggering messages over BrowserActuator transport sessions to the coordinator.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_EXPERIMENTAL_TRIGGERING_GLIC_EXPERIMENTAL_TRIGGERING_TRANSPORT_HANDLER_H_
 #define CHROME_BROWSER_GLIC_EXPERIMENTAL_TRIGGERING_GLIC_EXPERIMENTAL_TRIGGERING_TRANSPORT_HANDLER_H_
 

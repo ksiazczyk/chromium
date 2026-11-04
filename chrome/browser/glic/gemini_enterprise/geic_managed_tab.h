@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GEiC managed tab API
+// summary: Declares GeicManagedTab, which tracks one tab for sign-in or connector OAuth flows and restores focus on close.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GEMINI_ENTERPRISE_GEIC_MANAGED_TAB_H_
 #define CHROME_BROWSER_GLIC_GEMINI_ENTERPRISE_GEIC_MANAGED_TAB_H_
 

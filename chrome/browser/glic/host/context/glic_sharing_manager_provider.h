@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicSharingManagerProvider interface header
+// summary: Defines an interface for classes that provide a Glic sharing manager and pin candidate provider, hiding whether the manager is instance-bound.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_SHARING_MANAGER_PROVIDER_H_
 #define CHROME_BROWSER_GLIC_HOST_CONTEXT_GLIC_SHARING_MANAGER_PROVIDER_H_
 

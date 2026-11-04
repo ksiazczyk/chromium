@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic web client access interface
+// summary: Declares the GlicWebClientAccess interface that lets browser code outside the WebUI handler open, close, and communicate with the Glic web client panel.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_HOST_GLIC_WEB_CLIENT_ACCESS_H_
 #define CHROME_BROWSER_GLIC_HOST_GLIC_WEB_CLIENT_ACCESS_H_
 

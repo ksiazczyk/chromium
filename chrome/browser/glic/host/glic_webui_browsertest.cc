@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic WebUI browser tests
+// summary: Browser tests for the Glic WebUI host page, including revocation of Glic API access when the guest navigates to an untrusted origin.
+// ---
+
 #include "base/process/kill.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"

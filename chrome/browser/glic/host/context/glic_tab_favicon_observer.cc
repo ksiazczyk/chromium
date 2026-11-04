@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab favicon observer implementation
+// summary: Implements per-tab observers that subscribe Mojo receivers to favicon change notifications and schedule delayed cleanup when tabs disconnect or close.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_tab_favicon_observer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic guest observer implementation
+// summary: Implements an observer for the Glic guest WebContents that grants autoplay to allowed guest origins, enables Mojo JS bindings, and records navigation and load timing metrics.
+// ---
+
 #include "chrome/browser/glic/host/glic_guest_observer.h"
 
 #include <tuple>

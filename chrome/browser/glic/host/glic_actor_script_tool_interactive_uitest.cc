@@ -4,6 +4,12 @@
 
 // TODO(crbug.com/537846557): Migrate this test suite to GlicBrowserTest.
 
+// ---docerion
+// type: test
+// title: Glic actor script tool interactive UI tests
+// summary: Interactive browser tests verifying the actor script tools, checking valid and error results reported through the actions result and page content.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/actor/actor_test_util.h"
 #include "chrome/browser/glic/host/glic_actor_interactive_uitest_common.h"

@@ -1,3 +1,11 @@
+---
+type: readme
+title: Gemini Enterprise in Glic
+summary: Explains the directory's purpose, its relation to GEaaT and GEiC, auth tab management responsibilities, the cross-repo redirector contract, and ownership.
+relations:
+  - references /chrome/browser/geic/OWNERS
+---
+
 # Gemini Enterprise in Glic
 
 This directory (`//chrome/browser/glic/gemini_enterprise`) provides the

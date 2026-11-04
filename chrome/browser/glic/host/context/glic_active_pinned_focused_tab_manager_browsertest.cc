@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Glic active pinned focused tab manager
+// summary: Browser tests checking that focused tab state accounts for both active tab changes and pinned-for-sharing status.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_active_pinned_focused_tab_manager.h"
 
 #include "base/functional/callback_helpers.h"

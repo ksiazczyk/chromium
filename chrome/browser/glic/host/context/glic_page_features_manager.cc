@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic page features manager implementation
+// summary: Implements detection and caching of lightweight page features, such as the YouTube Ask button, on a per-tab basis.
+// ---
+
 #include "chrome/browser/glic/host/context/glic_page_features_manager.h"
 
 #include <algorithm>
