@@ -1,0 +1,4 @@
+# Docerion header of IDS_IWA_INSTALLER_INSTALL_FAILED_BUNDLE_NOT_ON_USER_INSTALL_ALLOWLIST_MESSAGE.png.sha1.
+type: data
+title: SHA1 placeholder hash for IWA installer not-on-allowlist message
+summary: Holds the SHA1 hash of the placeholder PNG for the message shown when an Isolated Web App bundle is not on the user install allowlist.

@@ -1,0 +1,4 @@
+# Docerion header of IDS_FORCED_SAVE_TO_CLOUD_DESCRIPTION.png.sha1.
+type: data
+title: SHA-1 checksum for forced save to cloud description image
+summary: Stores the SHA-1 hash of the PNG placeholder for the forced save-to-cloud description string in generated_resources_grd.

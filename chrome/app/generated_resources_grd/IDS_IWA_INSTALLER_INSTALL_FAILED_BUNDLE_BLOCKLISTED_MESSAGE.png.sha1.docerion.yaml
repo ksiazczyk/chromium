@@ -1,0 +1,4 @@
+# Docerion header of IDS_IWA_INSTALLER_INSTALL_FAILED_BUNDLE_BLOCKLISTED_MESSAGE.png.sha1.
+type: data
+title: SHA1 placeholder hash for IWA installer bundle blocklisted message
+summary: Holds the SHA1 hash of the placeholder PNG for the Isolated Web App installer message shown when an install fails because the bundle is blocklisted.
