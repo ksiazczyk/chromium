@@ -1,0 +1,4 @@
+# Docerion header of cr_radio_group.html.
+type: source
+title: cr-radio-group element template
+summary: HTML template for the cr-radio-group element, defining host styles for item padding and the disabled state plus a slot for the radio buttons.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityFeatures class declaration
+// summary: Declares the AccessibilityFeatures class, which exposes accessibility feature state to WebUI clients through Mojo observers.
+// ---
+
 #ifndef ASH_WEBUI_COMMON_BACKEND_ACCESSIBILITY_FEATURES_H_
 #define ASH_WEBUI_COMMON_BACKEND_ACCESSIBILITY_FEATURES_H_
 

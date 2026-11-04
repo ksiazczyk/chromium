@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeObservables type declarations
+// summary: Declares the FakeObservables class for registering fake observable methods, delivering observation data, and triggering callbacks on intervals.
+// ---
+
 export class FakeObservables<T = any> {
   register(methodName: string): void;
   registerObservableWithArg(methodName: string): void;

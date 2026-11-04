@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI syslog emitter helper
+// summary: TypeScript module that lets WebUIs emit SYSLOG messages directly, exposing loginSyslog and forwarding prefixed messages through the WebUiSyslogEmitter mojo remote.
+// ---
+
 import {WebUiSyslogEmitter, WebUiSyslogEmitterRemote} from './webui_syslog_emitter.mojom-webui.js';
 
 // This file provides a way to emit SYSLOGs directly from a WebUI.

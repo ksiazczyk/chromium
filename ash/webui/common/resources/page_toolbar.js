@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page toolbar Polymer element
+// summary: Defines the page-toolbar custom element for WebUI pages, with title, narrow-layout and search properties and a menu-tap event.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icons.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

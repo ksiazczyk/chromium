@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_pairing_request_code_page.html.
+type: source
+title: Bluetooth pairing request code page template
+summary: HTML template for the pairing page that asks the user to enter a device PIN or passkey in an input field.

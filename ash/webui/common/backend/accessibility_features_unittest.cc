@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessibilityFeatures unit tests
+// summary: Checks that observers are notified when spoken feedback or magnifier settings change the force hidden elements visible state.
+// ---
+
 #include "ash/webui/common/backend/accessibility_features.h"
 
 #include "ash/accessibility/accessibility_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake CrosHotspotConfig implementation for tests
+// summary: Fake CrosHotspotConfig Mojo implementation that lets tests set hotspot info, state, allow status, client count, and control results.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {FakeMethodResolver} from '../fake_method_resolver.js';

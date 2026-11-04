@@ -1,3 +1,9 @@
+---
+type: readme
+title: cr-tab-box element README
+summary: Documents the cr-tab-box custom element for simple tabbed UIs in debug pages, with example usage and key differences from the Polymer-based cr-tabs.
+---
+
 # cr-tab-box
 
 cr-tab-box is a non-Polymer custom element that can be used to create a simple

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ash WebUI common backend build configuration
+summary: Defines the static backend library and unit test source set for the ash WebUI common backend, listing their sources and dependencies.

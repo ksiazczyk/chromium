@@ -7,6 +7,12 @@
  * UI element used to display Bluetooth device icon.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth device icon element
+// summary: Polymer element that displays a Bluetooth device icon, mapping device types to icons or falling back to a default image URL.
+// ---
+
 import './bluetooth_icons.html.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 

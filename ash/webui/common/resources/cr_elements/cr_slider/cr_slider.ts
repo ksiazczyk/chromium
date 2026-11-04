@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-slider web component implementation
+// summary: Implements the cr-slider Polymer element for selecting a value from a continuous or discrete range, with ticks, keyboard handling and ARIA support.
+// ---
+
 /**
  * @fileoverview 'cr-slider' is a slider component used to select a number from
  * a continuous or discrete range of numbers.

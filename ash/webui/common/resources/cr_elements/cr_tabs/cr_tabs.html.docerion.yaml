@@ -1,0 +1,4 @@
+# Docerion header of cr_tabs.html.
+type: source
+title: cr-tabs HTML template with tab styles
+summary: HTML template for the cr-tabs Polymer element, defining its CSS styling, tab rendering, selection indicator, and accessibility attributes.

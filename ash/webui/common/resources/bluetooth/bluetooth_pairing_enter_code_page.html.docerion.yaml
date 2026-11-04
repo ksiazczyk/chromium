@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_pairing_enter_code_page.html.
+type: source
+title: Bluetooth pairing enter code page template
+summary: HTML template for the pairing page where a displayed passkey or PIN code is typed in, with styled key boxes.

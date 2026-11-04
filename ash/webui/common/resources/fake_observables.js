@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake observables helper class
+// summary: Helper class for faking asynchronous observables that register observers and notify them with queued data on demand or on a fixed interval.
+// ---
+
 import {assert} from 'chrome://resources/ash/common/assert.js';
 
 // TODO(gavindodd): Currently the addObserver and setObservableData do not

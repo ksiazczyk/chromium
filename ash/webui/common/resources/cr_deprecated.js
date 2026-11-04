@@ -7,6 +7,12 @@
  * JavaScript users. Do not use this file in new code.
  */
 
+// ---docerion
+// type: source
+// title: Legacy cr library helper functions
+// summary: Provides leftover cr functions such as event dispatch and property descriptors for legacy JavaScript users and should not be used in new code.
+// ---
+
 import {assertNotReached} from '//resources/ash/common/assert.js';
 
 /**

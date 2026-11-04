@@ -1,0 +1,4 @@
+# Docerion header of keyboard_icons.html.
+type: asset
+title: Keyboard icon SVG sprite
+summary: SVG icon set (iron-iconset-svg) defining keyboard-related icons such as arrows, backspace, and brightness controls for the keyboard diagram UI.

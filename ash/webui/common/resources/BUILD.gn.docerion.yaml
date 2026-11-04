@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for ash WebUI common resources
+summary: Defines GN targets listing web components, TypeScript sources, and generated resources for the ChromeOS ash common WebUI.

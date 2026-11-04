@@ -1,0 +1,4 @@
+# Docerion header of cr_expand_button.html.
+type: source
+title: cr-expand-button HTML template
+summary: HTML template for the cr-expand-button element, defining its styles, label slot, and icon button markup.

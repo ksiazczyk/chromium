@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUiSyslogEmitter class declaration
+// summary: Declares the WebUiSyslogEmitter mojo handler that emits syslog messages sent from WebUIs.
+// ---
+
 #ifndef ASH_WEBUI_COMMON_BACKEND_WEBUI_SYSLOG_EMITTER_H_
 #define ASH_WEBUI_COMMON_BACKEND_WEBUI_SYSLOG_EMITTER_H_
 

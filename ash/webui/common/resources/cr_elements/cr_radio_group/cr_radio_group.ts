@@ -5,6 +5,12 @@
 // Forked from
 // ui/webui/resources/cr_elements/cr_radio_group/cr_radio_group.ts
 
+// ---docerion
+// type: source
+// title: cr-radio-group element implementation
+// summary: Implements the cr-radio-group Polymer web component with selection tracking, keyboard and RTL-aware arrow navigation, and disabled-state handling for its radio buttons.
+// ---
+
 import '../cr_radio_button/cr_radio_button.js';
 import '../cr_shared_vars.css.js';
 

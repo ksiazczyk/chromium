@@ -6,6 +6,12 @@
  * @fileoverview Constants used in cellular setup flow.
  */
 
+// ---docerion
+// type: source
+// title: Cellular setup types and enums
+// summary: Constants for the cellular setup flow, including page name, button state, and button enums plus the button bar state interface.
+// ---
+
 export enum CellularSetupPageName {
   ESIM_FLOW_UI = 'esim-flow-ui',
   PSIM_FLOW_UI = 'psim-flow-ui',

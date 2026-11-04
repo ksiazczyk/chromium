@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base page element
+// summary: Polymer base element with the common template used by all cellular setup flow sub-pages.
+// ---
+
 /** Base template with elements common to all Cellular Setup flow sub-pages. */
 import './cellular_setup_icons.html.js';
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';

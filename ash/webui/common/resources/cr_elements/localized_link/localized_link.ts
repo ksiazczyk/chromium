@@ -22,6 +22,12 @@
  * Forked from ui/webui/resources/ash/common/cr_elements/localized_link/localized_link.ts
  */
 
+// ---docerion
+// type: source
+// title: localized-link Polymer element implementation
+// summary: Implements the localized-link Polymer element that renders a localized string containing up to one anchor tag with aria-labelledby accessibility labeling and a plain-text fallback.
+// ---
+
 import '../cr_shared_vars.css.js';
 import '../cr_shared_style.css.js';
 

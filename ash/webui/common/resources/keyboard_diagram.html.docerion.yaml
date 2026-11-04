@@ -1,0 +1,4 @@
+# Docerion header of keyboard_diagram.html.
+type: source
+title: Keyboard diagram template and styles
+summary: HTML template and CSS grid styles that lay out the ChromeOS keyboard diagram, with adjustments for ANSI, ISO, JIS and split modifier layouts.

@@ -1,0 +1,4 @@
+# Docerion header of cr_drawer.html.
+type: source
+title: cr-drawer element HTML template
+summary: Template and styles for the cr-drawer web component, defining the sliding dialog, header with product logo slot, and body slot.

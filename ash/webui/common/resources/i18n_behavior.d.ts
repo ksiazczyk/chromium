@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: I18nBehavior type declarations
+// summary: TypeScript declarations for the I18nBehavior interface providing localized string lookup and substitution helpers for Polymer elements.
+// ---
+
 import type {SanitizeInnerHtmlOpts} from './parse_html_subset.js';
 
 export interface I18nBehavior {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Carrier provisioning page element
+// summary: Implements the cellular setup subpage that loads the carrier provisioning portal in a webview and manages loading, error, and reset states.
+// ---
+
 /**
  * Carrier Provisioning subpage in Cellular Setup flow. This element contains a
  * webview element that loads the carrier's provisioning portal. It also has an

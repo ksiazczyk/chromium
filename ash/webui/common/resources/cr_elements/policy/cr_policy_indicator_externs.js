@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: CrPolicyIndicatorElement externs
+// summary: Minimal Closure externs declaring CrPolicyIndicatorElement for places in the code that still use JavaScript instead of TypeScript.
+// ---
+
 /**
  * @constructor
  * @extends {HTMLElement}

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cellular setup WebUI build target
+summary: GN build definition listing static assets, web components, and TypeScript sources for the cellular setup UI.

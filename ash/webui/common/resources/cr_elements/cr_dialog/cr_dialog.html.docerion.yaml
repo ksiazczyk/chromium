@@ -1,0 +1,4 @@
+# Docerion header of cr_dialog.html.
+type: source
+title: cr-dialog component template
+summary: Defines the styling and layout for the cr-dialog modal component, including title, body, button container, and footer slots, backdrop, scroll shadows, and dark or forced-colors mode adjustments.

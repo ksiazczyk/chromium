@@ -1,0 +1,4 @@
+# Docerion header of cr_toolbar_selection_overlay.html.
+type: source
+title: cr-toolbar-selection-overlay element template
+summary: HTML template with styles and markup for the selection overlay showing the number of selected items, a cancel button, and a content slot.

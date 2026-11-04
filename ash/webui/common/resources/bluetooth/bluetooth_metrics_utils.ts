@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth UI metrics utilities
+// summary: Defines enums and helper functions for recording Bluetooth UI surface and Fast Pair saved devices metrics via chrome.metricsPrivate.
+// ---
+
 /**
  * These values are persisted to logs and should not be renumbered or reused.
  * See tools/metrics/histograms/metadata/bluetooth/enums.xml.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Hotspot WebUI resources build file
+summary: GN build rule that copies the generated hotspot mojo TypeScript file into the preprocessed WebUI resources for Chrome OS only.

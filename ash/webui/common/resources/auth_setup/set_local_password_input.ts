@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set local password input element
+// summary: Polymer element providing new-password and confirm-password fields with validation through the PasswordFactorEditor mojo service.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import './auth_setup_icons.html.js';

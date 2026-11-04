@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: CrTooltipIconElement externs
+// summary: Declares the CrTooltipIconElement constructor as a minimal externs file for Closure type checking in code that still uses JavaScript.
+// ---
+
 /**
  * @constructor
  * @extends {HTMLElement}

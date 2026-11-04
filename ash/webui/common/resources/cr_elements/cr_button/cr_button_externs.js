@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: CrButtonElement externs for JavaScript callers
+// summary: Provides minimal Closure externs declaring CrButtonElement and its disabled property for code that still uses JavaScript instead of TypeScript.
+// ---
+
 /**
  * @constructor
  * @extends {HTMLElement}

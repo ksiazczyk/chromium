@@ -33,6 +33,12 @@
  * '#cr-container-shadow-[top/bottom].has-shadow', or define their own styles.
  */
 
+// ---docerion
+// type: source
+// title: Mixin adding scroll-dependent drop shadows to containers
+// summary: Polymer mixin that inserts and toggles top and bottom drop shadow elements on a scrolling container based on scroll position.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

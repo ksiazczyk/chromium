@@ -1,0 +1,4 @@
+# Docerion header of keyboard_key.html.
+type: source
+title: Keyboard key component template
+summary: HTML template and styles for the keyboard-key element that renders a single key with responsive sizing and pressed, tested, and disabled states.

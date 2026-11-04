@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: CrToggleElement externs for JavaScript
+// summary: Minimal Closure externs declaring the CrToggleElement HTMLElement constructor for code that still uses JavaScript instead of TypeScript.
+// ---
+
 /**
  * @constructor
  * @extends {HTMLElement}

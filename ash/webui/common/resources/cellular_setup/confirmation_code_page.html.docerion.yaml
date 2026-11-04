@@ -1,0 +1,4 @@
+# Docerion header of confirmation_code_page.html.
+type: source
+title: Confirmation code page template
+summary: HTML template for the eSIM confirmation code page, showing an input for the code required to install a profile.

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared style for the hidden attribute
+summary: Shared CSS rule that hides elements marked with the hidden attribute so stylesheets need not include iron-positioning.
+*/
+
 /* Included here so we don't have to include "iron-positioning" in every
  * stylesheet. See crbug.com/498405. */
 [hidden],

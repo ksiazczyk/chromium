@@ -1,0 +1,4 @@
+# Docerion header of cr_tooltip_icon.html.
+type: source
+title: cr-tooltip-icon element template
+summary: HTML template combining an iron-icon and paper-tooltip with Chrome OS styling for the cr-tooltip-icon element.

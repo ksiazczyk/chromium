@@ -6,6 +6,12 @@
 // ui/webui/resources/js/promise_resolver.ts, and is maintained only for
 // legacy Closure Compiler users.
 
+// ---docerion
+// type: source
+// title: PromiseResolver helper class (deprecated)
+// summary: Helper class that creates a promise which can be resolved or rejected later; deprecated in favor of the TypeScript version for legacy Closure users.
+// ---
+
 import {assertNotReached} from 'chrome://resources/ash/common/assert.js';
 
 /**

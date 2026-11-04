@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeMethodResolver
+// summary: Helper class that manages a map of fake async API methods, resolving their promises with configured results for use in tests.
+// ---
+
 import {assert} from 'chrome://resources/ash/common/assert.js';
 import {PromiseResolver} from './promise_resolver.js';
 

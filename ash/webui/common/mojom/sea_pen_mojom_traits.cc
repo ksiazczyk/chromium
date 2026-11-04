@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen MantaStatusCode enum traits implementation
+// summary: Implements conversions between the manta and mojom MantaStatusCode enums for Mojo serialization.
+// ---
+
 #include "ash/webui/common/mojom/sea_pen_mojom_traits.h"
 
 #include "ash/webui/common/mojom/sea_pen.mojom-shared.h"

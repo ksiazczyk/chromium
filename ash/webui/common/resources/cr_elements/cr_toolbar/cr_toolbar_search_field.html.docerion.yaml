@@ -1,0 +1,4 @@
+# Docerion header of cr_toolbar_search_field.html.
+type: source
+title: cr-toolbar-search-field element template
+summary: HTML template with styles and markup for the toolbar search field, including search icon, prompt, input, clear button, and loading spinner.

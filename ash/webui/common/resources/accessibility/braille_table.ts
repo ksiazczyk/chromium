@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille table interface and Japanese Tenji table
+// summary: Defines the BrailleTable interface for ChromeVox braille tables and the custom Japanese Tenji braille table constant.
+// ---
+
 /**
  * Represents a braille table used in ChromeVox, either from liblouis or a
  * custom table.

@@ -7,6 +7,12 @@
  * Page in eSIM Setup flow that displays a choice of available eSIM Profiles.
  */
 
+// ---docerion
+// type: source
+// title: Profile discovery list page element
+// summary: Implements the eSIM setup page that lists available profiles for selection, focuses the first item, and warns when the device is carrier locked.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '//resources/polymer/v3_0/iron-list/iron-list.js';
 import '//resources/ash/common/cr_elements/localized_link/localized_link.js';

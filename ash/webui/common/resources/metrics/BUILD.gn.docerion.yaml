@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for WebUI structured metrics resources
+summary: GN build file that copies generated structured metrics mojo and TypeScript files into the ChromeOS WebUI preprocessed metrics resources directory.

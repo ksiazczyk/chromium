@@ -8,6 +8,12 @@
    * (animated PNG) images.
    */
 
+// ---docerion
+// type: source
+// title: 'CrPngBehavior: convert image sequences to animated PNG'
+// summary: JavaScript module providing CrPngBehavior to convert image sequences into APNG (animated PNG) images, with PNG encoding constants and a CRC table.
+// ---
+
   /**
    * PNG frame delay fraction numerator.
    * @const

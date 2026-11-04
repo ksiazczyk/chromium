@@ -7,6 +7,12 @@
  * UI element which shows a loading spinner.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth pairing spinner page element
+// summary: Polymer element that displays a loading spinner page during the Bluetooth pairing flow.
+// ---
+
 import '//resources/polymer/v3_0/paper-spinner/paper-spinner-lite.js';
 import './bluetooth_base_page.js';
 

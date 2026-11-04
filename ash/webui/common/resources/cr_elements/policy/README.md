@@ -1,3 +1,13 @@
+---
+type: readme
+title: Policy indicators
+summary: Explains when policy indicators are shown and how to reuse the cr-policy-indicator elements and behavior in WebUI pages.
+relations:
+  - references /ash/webui/common/resources/cr_elements/icons.html
+  - references /ash/webui/common/resources/cr_elements/policy/cr_policy_pref_indicator.html
+  - references /ash/webui/common/resources/cr_elements/policy/cr_policy_pref_indicator.ts
+---
+
 # Policy indicators
 
 Settings that can't be controlled by the current user often show an icon and a

@@ -7,6 +7,12 @@
  * Root UI element for Bluetooth pairing dialog.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth pairing dialog root element
+// summary: Root Polymer element for the Bluetooth pairing dialog, handling discovery, pairing delegates, key entry and subpage navigation.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import './bluetooth_pairing_device_selection_page.js';
 import './bluetooth_pairing_enter_code_page.js';

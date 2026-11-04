@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth pairing device selection page element
+// summary: Polymer UI element that lists discovered Bluetooth devices and initiates pairing to a selected device.
+// ---
+
 /**
  * @fileoverview
  * UI element to show a list of discovered Bluetooth devices and initiate

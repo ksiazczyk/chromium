@@ -11,6 +11,12 @@
  * #include=cr-hidden-style cr-icons
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared CSS styles for cr-elements WebUI components
+summary: Defines common style modules for cr-elements, covering scrollable borders, container shadows, rows, separators, typography, tooltips and vertical tabs.
+*/
+
 html,
 :host {
   --scrollable-border-color: var(--google-grey-300);

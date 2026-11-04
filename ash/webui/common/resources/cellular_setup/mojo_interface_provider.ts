@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo interface provider for cellular setup remotes
+// summary: Provides access to the CellularSetup and ESimManager Mojo remotes, observer registration, and test overrides for the cellular setup web UI.
+// ---
+
 import type {CellularSetupInterface} from '//resources/mojo/chromeos/ash/services/cellular_setup/public/mojom/cellular_setup.mojom-webui.js';
 import {CellularSetup} from '//resources/mojo/chromeos/ash/services/cellular_setup/public/mojom/cellular_setup.mojom-webui.js';
 import type {ESimManagerInterface, ESimManagerObserverInterface, ESimManagerObserverRemote} from '//resources/mojo/chromeos/ash/services/cellular_setup/public/mojom/esim_manager.mojom-webui.js';

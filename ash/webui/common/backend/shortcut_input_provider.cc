@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShortcutInputProvider implementation for shortcut input events
+// summary: Implements the mojo ShortcutInputProvider that forwards shortcut key press and release events to WebUI observers for shortcut customization.
+// ---
+
 #include "ash/webui/common/backend/shortcut_input_provider.h"
 
 #include "ash/accelerators/accelerator_controller_impl.h"

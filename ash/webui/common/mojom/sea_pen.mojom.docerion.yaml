@@ -1,0 +1,4 @@
+# Docerion header of sea_pen.mojom.
+type: source
+title: SeaPen wallpaper Mojo definitions
+summary: Defines structs, enums and interfaces for SeaPen AI wallpaper queries, thumbnails, history, feedback and wallpaper updates.

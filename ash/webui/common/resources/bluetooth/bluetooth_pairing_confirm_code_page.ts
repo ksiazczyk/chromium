@@ -8,6 +8,12 @@
  * during Bluetooth device pairing.
  */
 
+// ---docerion
+// type: source
+// title: Pairing confirm code page element
+// summary: Polymer element shown during Bluetooth pairing when a passkey must be confirmed, dispatching a confirm-code event on pair.
+// ---
+
 import './bluetooth_base_page.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '//resources/ash/common/cr_elements/cr_input/cr_input.js';

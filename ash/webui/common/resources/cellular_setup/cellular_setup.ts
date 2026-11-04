@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular setup root element
+// summary: Root Polymer element for the cellular setup flow, wrapping the pSIM and eSIM flows and handling page navigation, retry, cancel, and focus events.
+// ---
+
 /**
  * @fileoverview Root element for the cellular setup flow. This element wraps
  * the psim setup flow, esim setup flow, and setup flow selection page.

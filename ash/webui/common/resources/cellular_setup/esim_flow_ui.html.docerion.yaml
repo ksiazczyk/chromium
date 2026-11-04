@@ -1,0 +1,4 @@
+# Docerion header of esim_flow_ui.html.
+type: source
+title: eSIM flow UI template
+summary: Polymer template for the eSIM setup flow that switches between loading, consent, profile discovery, activation code, confirmation code, and final pages.

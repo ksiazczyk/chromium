@@ -1,0 +1,4 @@
+# Docerion header of cr_policy_indicator.html.
+type: source
+title: cr-policy-indicator element template
+summary: HTML template for the cr-policy-indicator element, rendering a tooltip icon that is hidden when the indicator is not visible.

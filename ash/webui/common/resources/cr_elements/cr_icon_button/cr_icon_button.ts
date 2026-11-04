@@ -46,6 +46,12 @@
  * the |ironIcon| property to a comma-delimited list of keys.
  */
 
+// ---docerion
+// type: source
+// title: cr-icon-button element implementation
+// summary: TypeScript implementation of the cr-icon-button Polymer element, supporting cr-icons and iron-icons, ripple effects, keyboard activation and disabled state.
+// ---
+
 import '../cr_shared_vars.css.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 

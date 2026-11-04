@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrSearchFieldMixin for incremental search
+// summary: Polymer mixin implementing incremental search field behavior, including value management and debounced search events whose delay shrinks with query length.
+// ---
+
 /**
  * Helper functions for implementing an incremental search field. See
  * <settings-subpage-search> for a simple implementation.

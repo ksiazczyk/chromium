@@ -1,0 +1,4 @@
+# Docerion header of page_toolbar.html.
+type: source
+title: Page toolbar template and styles
+summary: HTML template and styles for the page-toolbar element, showing a title heading, optional menu button, and slotted toolbar content.

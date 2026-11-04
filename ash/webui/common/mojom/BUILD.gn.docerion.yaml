@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mojom build targets for ash WebUI common
+summary: GN build file defining the mojom targets for common ash WebUI interfaces, including dependencies and SeaPen C++ typemaps.

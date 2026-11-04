@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoConnectivityProvider singleton for Passpoint service access
+// summary: TypeScript singleton wrapper around the Passpoint connectivity service that lazily provides the remote and allows injecting a fake implementation for tests.
+// ---
+
 import type {PasspointServiceInterface} from './passpoint.mojom-webui.js';
 import {PasspointService} from './passpoint.mojom-webui.js';
 

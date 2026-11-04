@@ -1,0 +1,4 @@
+# Docerion header of cr_slider.html.
+type: source
+title: cr-slider component template and styles
+summary: HTML template and CSS for the cr-slider web component, defining its track, knob, markers and label appearance in light and dark mode.

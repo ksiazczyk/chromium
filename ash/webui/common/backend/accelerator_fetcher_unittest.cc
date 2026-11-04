@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AcceleratorFetcher unit tests
+// summary: Verifies that AcceleratorFetcher notifies observers with the correct accelerators when accelerator configurations are updated.
+// ---
+
 #include "ash/webui/common/backend/accelerator_fetcher.h"
 
 #include <memory>

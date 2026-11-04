@@ -1,0 +1,4 @@
+# Docerion header of cr_card_radio_button.html.
+type: source
+title: cr-card-radio-button template
+summary: HTML template for the card-style radio button element, defining its card layout, checkmark icon, ripple, and dark mode and RTL styling.

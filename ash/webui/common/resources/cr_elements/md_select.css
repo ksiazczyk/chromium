@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Material Design select styles
+summary: Styles the md-select dropdown with ChromeOS colors, dark mode, Chrome Refresh 2023, disabled and forced-colors handling.
+*/
+
 .md-select {
   --md-arrow-width: 10px;
   --md-select-bg-color: var(--cros-sys-input_field_on_base);

@@ -8,6 +8,12 @@
  * #import=./cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for navigation menu items
+summary: Styles navigation menu items with sizing, hover, selected, focus and dark mode appearances.
+*/
+
 .cr-nav-menu-item {
   --iron-icon-fill-color: var(--google-grey-700);
   /* Sizes icons for iron-icons. */

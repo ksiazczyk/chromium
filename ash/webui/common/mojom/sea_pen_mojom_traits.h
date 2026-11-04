@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen MantaStatusCode enum traits declaration
+// summary: Declares the EnumTraits specialization mapping MantaStatusCode between manta and mojom types.
+// ---
+
 #ifndef ASH_WEBUI_COMMON_MOJOM_SEA_PEN_MOJOM_TRAITS_H_
 #define ASH_WEBUI_COMMON_MOJOM_SEA_PEN_MOJOM_TRAITS_H_
 

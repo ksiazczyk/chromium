@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-card-radio-button element
+// summary: TypeScript module defining the cr-card-radio-button custom element, a card-styled radio button that shows a checkmark when selected.
+// ---
+
 /**
  * @fileoverview
  * 'cr-card-radio-button' is a radio button in the style of a card. A checkmark

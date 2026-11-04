@@ -8,6 +8,12 @@
  * #import=./cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for action link elements
+summary: Styles the action-link custom element with link coloring, pointer cursor and a disabled state.
+*/
+
 [is='action-link'] {
   cursor: pointer;
   display: inline-block;

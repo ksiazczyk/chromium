@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_device_battery_info.html.
+type: source
+title: Bluetooth device battery info template
+summary: Polymer template that shows a single battery percentage or separate left bud, case, and right bud battery percentages.

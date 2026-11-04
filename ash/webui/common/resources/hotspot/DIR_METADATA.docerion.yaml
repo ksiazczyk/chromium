@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Hotspot directory metadata
+summary: Declares the Buganizer component and owning team email for the hotspot resources directory.

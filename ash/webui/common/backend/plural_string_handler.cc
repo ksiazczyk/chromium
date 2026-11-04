@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PluralStringHandler implementation
+// summary: Implements a WebUI message handler that returns localized pluralized strings for registered string names and counts.
+// ---
+
 #include "ash/webui/common/backend/plural_string_handler.h"
 
 #include "base/check.h"

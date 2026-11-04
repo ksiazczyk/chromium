@@ -11,6 +11,12 @@
  * ui/webui/resources/cr_elements/cr_search_field/cr_search_field.ts
  */
 
+// ---docerion
+// type: source
+// title: cr-search-field element implementation
+// summary: Defines the cr-search-field Polymer custom element, a simple search field built on CrSearchFieldMixin with autofocus and clear-button handling.
+// ---
+
 import '../cr_icon_button/cr_icon_button.js';
 import '../cr_input/cr_input.js';
 import '../cr_input/cr_input_style.css.js';

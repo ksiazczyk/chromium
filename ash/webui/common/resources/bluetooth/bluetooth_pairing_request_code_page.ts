@@ -8,6 +8,12 @@
  * during Bluetooth device pairing.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth pairing request code page element
+// summary: Polymer element that requests a PIN or passkey from the user during Bluetooth device pairing and reports the entered code.
+// ---
+
 import './bluetooth_base_page.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '//resources/ash/common/cr_elements/cr_input/cr_input.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard key element implementation
+// summary: Implements the keyboard-key Polymer element that visually represents a single key with a main glyph and up to four corner glyphs for the keyboard diagram.
+// ---
+
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';
 import './keyboard_icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

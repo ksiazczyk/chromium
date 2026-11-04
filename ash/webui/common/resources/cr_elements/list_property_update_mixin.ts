@@ -15,6 +15,12 @@
  * containing information about all the edits is sent to the polyer object.
  */
 
+// ---docerion
+// type: source
+// title: List property update mixin for Polymer
+// summary: Polymer mixin that updates list properties with minimal calculated splices so bound dom-repeat and iron-list elements avoid full re-rendering.
+// ---
+
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {calculateSplices, dedupingMixin} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

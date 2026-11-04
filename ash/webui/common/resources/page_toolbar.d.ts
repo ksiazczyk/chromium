@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page toolbar element type declarations
+// summary: TypeScript declarations for the page-toolbar element, describing its title, narrow layout flag, and menu tap handling.
+// ---
+
 import type {LegacyElementMixin} from 'chrome://resources/polymer/v3_0/polymer/lib/legacy/legacy-element-mixin.js';
 
 interface PageToolbarElement extends LegacyElementMixin, HTMLElement {

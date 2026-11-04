@@ -8,6 +8,12 @@
  * profile.
  */
 
+// ---docerion
+// type: source
+// title: Profile discovery list item element
+// summary: Defines the list item element that displays details of an eSIM profile within the profile discovery list page.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '//resources/polymer/v3_0/iron-flex-layout/iron-flex-layout-classes.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';

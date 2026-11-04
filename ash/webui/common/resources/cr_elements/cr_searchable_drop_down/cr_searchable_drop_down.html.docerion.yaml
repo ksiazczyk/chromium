@@ -1,0 +1,4 @@
+# Docerion header of cr_searchable_drop_down.html.
+type: source
+title: cr-searchable-drop-down HTML template
+summary: HTML template for the cr-searchable-drop-down Polymer component, defining its styles and markup for the search input, dropdown icon, loading spinner, and suggestion list.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for WebUI logging resources
+summary: GN build file that asserts Chrome OS and copies the generated WebUI syslog emitter mojom TypeScript file into the preprocessed logging resources directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShortcutInputProvider class declaration
+// summary: Declares the ShortcutInputProvider class that relays shortcut input events over mojo to WebUIs such as the Shortcut Customization and Settings SWAs.
+// ---
+
 #ifndef ASH_WEBUI_COMMON_BACKEND_SHORTCUT_INPUT_PROVIDER_H_
 #define ASH_WEBUI_COMMON_BACKEND_SHORTCUT_INPUT_PROVIDER_H_
 

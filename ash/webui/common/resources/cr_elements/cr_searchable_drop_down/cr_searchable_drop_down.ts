@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-searchable-drop-down component implementation
+// summary: TypeScript implementation of the cr-searchable-drop-down Polymer element, a search box with a suggestions dropdown, handling items, value, invalid state, error messages, and loading display.
+// ---
+
 /**
  * @fileoverview 'cr-searchable-drop-down' implements a search box with a
  * suggestions drop down.

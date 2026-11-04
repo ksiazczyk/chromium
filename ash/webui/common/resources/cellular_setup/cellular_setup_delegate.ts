@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular setup delegate interface
+// summary: Interface that lets embedders customize cellular setup UI behavior, such as whether the page title and cancel button are shown.
+// ---
+
 /**
  * Interface which provides alternate UI behaviors for the Cellular Setup
  * flows.

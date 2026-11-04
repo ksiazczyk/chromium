@@ -1,0 +1,4 @@
+# Docerion header of cellular_setup.html.
+type: source
+title: Cellular setup root element template
+summary: HTML template for the cellular-setup root element that switches between the pSIM and eSIM setup flows and hosts the shared button bar.

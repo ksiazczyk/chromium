@@ -21,6 +21,12 @@
  * Forked from  ui/webui/resources/cr_elements/cr_lottie/cr_lottie.ts
  */
 
+// ---docerion
+// type: source
+// title: cr-lottie Polymer element for playing Lottie animations
+// summary: TypeScript implementation of the cr-lottie element, a Polymer wrapper that plays Lottie animations on a worker thread via an offscreen canvas and fires lifecycle events.
+// ---
+
 import {assert, assertNotReached} from '//resources/js/assert.js';
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

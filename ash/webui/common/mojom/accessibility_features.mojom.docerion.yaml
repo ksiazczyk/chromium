@@ -1,0 +1,4 @@
+# Docerion header of accessibility_features.mojom.
+type: source
+title: AccessibilityFeatures Mojo interfaces
+summary: Defines interfaces to observe accessibility features such as ChromeVox that force hidden UI elements to be visible.

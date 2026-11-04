@@ -1,0 +1,4 @@
+# Docerion header of profile_discovery_list_item.html.
+type: source
+title: Profile discovery list item template
+summary: Polymer template styling a selectable list item that shows an eSIM profile name with a checkmark icon when selected.

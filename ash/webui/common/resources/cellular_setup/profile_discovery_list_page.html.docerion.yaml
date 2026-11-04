@@ -1,0 +1,4 @@
+# Docerion header of profile_discovery_list_page.html.
+type: source
+title: Profile discovery list page template
+summary: Polymer template for the eSIM profile selection page with a scrollable iron-list of profiles and a carrier lock warning.

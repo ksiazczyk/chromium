@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrDrawerElement Polymer component
+// summary: Implements the cr-drawer element that slides a dialog drawer in and out, with open, close, cancel, and event dispatching behavior.
+// ---
+
 import '../cr_shared_vars.css.js';
 
 import {assertNotReached} from '//resources/js/assert.js';

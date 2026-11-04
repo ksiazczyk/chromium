@@ -1,0 +1,4 @@
+# Docerion header of cr_policy_pref_indicator.html.
+type: source
+title: cr-policy-pref-indicator element template
+summary: HTML template for the cr-policy-pref-indicator element, rendering a tooltip icon with exported tooltip part when the indicator is visible.

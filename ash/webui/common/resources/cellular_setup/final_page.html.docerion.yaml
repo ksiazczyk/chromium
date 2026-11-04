@@ -1,0 +1,4 @@
+# Docerion header of final_page.html.
+type: source
+title: Final page template
+summary: Polymer template for the cellular setup final page, showing success or error illustrations with dark mode and jelly illustration support.

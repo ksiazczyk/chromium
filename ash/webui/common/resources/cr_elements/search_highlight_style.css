@@ -8,6 +8,12 @@
  * #import=./cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Search highlight bubble styles
+summary: Styles the search-bubble element used to highlight search results, including its yellow background and pointing arrow.
+*/
+
 .search-bubble {
   --search-bubble-color: #ffeb3b;  /* --paper-yellow-500 */
   position: absolute;

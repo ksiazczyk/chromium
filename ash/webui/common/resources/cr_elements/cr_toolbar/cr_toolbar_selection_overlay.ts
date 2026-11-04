@@ -17,6 +17,12 @@
  *    cr_elements/cr_toolbar/cr_toolbar_selection_overlay.ts
  */
 
+// ---docerion
+// type: source
+// title: CrToolbarSelectionOverlayElement web component
+// summary: Defines the cr-toolbar-selection-overlay element that shows selected item counts with cancel and delete actions and accessibility announcements.
+// ---
+
 import '../cr_button/cr_button.js';
 import '../cr_icon_button/cr_icon_button.js';
 import '../cr_shared_vars.css.js';

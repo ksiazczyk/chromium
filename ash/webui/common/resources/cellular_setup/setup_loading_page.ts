@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Setup loading page element
+// summary: Polymer element for the cellular setup loading subpage that displays a loading animation or a SIM detection error image.
+// ---
+
 /**
  * Loading subpage in Cellular Setup flow that shows an in progress operation or
  * an error. This element contains error image asset and loading animation.

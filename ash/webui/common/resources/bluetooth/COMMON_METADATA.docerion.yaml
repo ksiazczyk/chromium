@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Bluetooth pairing UI common metadata
+summary: Repository metadata specifying the buganizer component and owning team email for the Bluetooth pairing UI directory.

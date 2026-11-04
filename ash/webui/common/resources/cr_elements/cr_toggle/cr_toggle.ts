@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-toggle on/off switch component
+// summary: TypeScript implementation of the cr-toggle Polymer element, an on/off switch that fires change events only on user interaction via click, drag, or keyboard.
+// ---
+
 /**
  * Number of pixels required to move to consider the pointermove event as
  * intentional.

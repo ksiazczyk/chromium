@@ -6,6 +6,13 @@
  *
  * Forked from ui/webui/resources/cr_elements/cr_toast/cr_toast.ts
  */
+
+// ---docerion
+// type: source
+// title: cr-toast lightweight toast element
+// summary: Defines the cr-toast Polymer element, a lightweight toast that shows content, auto-hides after a configurable duration, and manages screen reader announcements.
+// ---
+
 import '../cr_shared_vars.css.js';
 
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

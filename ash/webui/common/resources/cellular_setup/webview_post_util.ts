@@ -8,6 +8,12 @@
  *  New UI: cr_components/chromeos/cellular_setup/cellular_setup.html
  */
 
+// ---docerion
+// type: source
+// title: Webview POST utility
+// summary: Utility that initializes a webview with a POST request so carrier payment portal forms receive device data during activation.
+// ---
+
 declare global {
   interface HTMLElementEventMap {
     'loadcommit': CommitEvent;

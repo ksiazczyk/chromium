@@ -1,3 +1,9 @@
+---
+type: readme
+title: ChromeOS Bluetooth Pairing UI
+summary: Describes the Bluetooth pairing UI elements in this directory and their use of the CrosBluetoothConfig mojo API.
+---
+
 # ChromeOS Bluetooth Pairing UI
 
 This directory contains Bluetooth pairing UI polymer elements used to display

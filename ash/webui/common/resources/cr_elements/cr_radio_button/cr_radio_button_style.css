@@ -10,6 +10,12 @@
  * #css_wrapper_metadata_end */
 
 
+/*docerion
+type: source
+title: cr-radio-button shared style
+summary: Shared CSS for radio button elements, defining colors, disc and ink sizes, ripple, dark mode, forced colors, and disabled states.
+*/
+
 /* Common radio-button styling for Material Design WebUI. */
 :host {
   --cr-radio-button-checked-color: var(--google-blue-600);

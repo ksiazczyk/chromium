@@ -6,6 +6,12 @@
 // "class PromiseResolver {...}", instead of
 // "var PromiseResolver = class {...}".
 
+// ---docerion
+// type: source
+// title: Type declarations for PromiseResolver
+// summary: Declares the PromiseResolver class API exposing a promise plus resolve and reject methods with fulfillment tracking.
+// ---
+
 export class PromiseResolver<T> {
   readonly isFulfilled: boolean;
   readonly promise: Promise<T>;

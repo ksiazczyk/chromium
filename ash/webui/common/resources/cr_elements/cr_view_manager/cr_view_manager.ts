@@ -5,6 +5,12 @@
 // Forked from
 // ui/webui/resources/cr_elements/cr_view_manager/cr_view_manager.ts
 
+// ---docerion
+// type: source
+// title: cr_view_manager.ts
+// summary: Defines the CrViewManagerElement Polymer component that switches between slotted views using enter and exit animations such as fade and slide.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

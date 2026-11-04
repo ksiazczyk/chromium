@@ -1,0 +1,4 @@
+# Docerion header of cr_search_field.html.
+type: source
+title: cr-search-field component template
+summary: HTML template for the cr-search-field element, styling and laying out the search icon, cr-input search box, and clear button.

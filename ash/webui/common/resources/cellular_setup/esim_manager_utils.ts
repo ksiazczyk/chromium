@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: eSIM manager utilities
+// summary: Helper functions that fetch EUICCs and eSIM profiles, filter out pending profiles, and look up profiles by ICCID through the ESimManager Mojo interface.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 import type {ESimProfileProperties, ESimProfileRemote, EuiccRemote} from '//resources/mojo/chromeos/ash/services/cellular_setup/public/mojom/esim_manager.mojom-webui.js';
 import {ProfileState} from '//resources/mojo/chromeos/ash/services/cellular_setup/public/mojom/esim_manager.mojom-webui.js';

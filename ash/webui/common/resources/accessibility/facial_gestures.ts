@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FacialGesture enum for FaceGaze
+// summary: Defines the FacialGesture enum listing the facial gestures supported by FaceGaze, to be kept in sync with related definitions elsewhere.
+// ---
+
 /**
  * The facial gestures that are supported by FaceGaze. New values should also
  * be added to FacialGesturesToMediapipeGestures in

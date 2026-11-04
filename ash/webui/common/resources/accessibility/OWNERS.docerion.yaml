@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file pointing to ash accessibility owners
+summary: Delegates ownership of this accessibility resources directory to the owners of ash/accessibility.

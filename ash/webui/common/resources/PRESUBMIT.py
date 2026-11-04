@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for Common UI
+# summary: Runs the semantic CSS color checker on uploaded and committed changes to enforce approved colors and dark-mode-friendly variables.
+# ---
+
 """Presubmit script for Common UI.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

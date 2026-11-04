@@ -8,6 +8,12 @@
  * Forked from ui/webui/resources/cr_elements/cr_toast/cr_toast_manager.ts
  */
 
+// ---docerion
+// type: source
+// title: cr-toast-manager singleton toast element
+// summary: Defines the cr-toast-manager singleton element that shows toasts with a label or collapsible string pieces and optional slotted content like an undo button.
+// ---
+
 import './cr_toast.js';
 import '../cr_hidden_style.css.js';
 

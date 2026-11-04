@@ -15,6 +15,12 @@
  * typechecked with closure compiler.
  */
 
+// ---docerion
+// type: source
+// title: EventTracker
+// summary: Class that tracks added DOM event listeners so they can be removed selectively or all at once; deprecated in favor of the TypeScript version.
+// ---
+
 export class EventTracker {
   /**
    * Create an EventTracker to track a set of events.

@@ -1,0 +1,4 @@
+# Docerion header of cr_toggle.html.
+type: source
+title: cr_toggle.html template and styles
+summary: HTML template defining the styles and theming variables for the cr-toggle on/off switch, including dark mode, disabled, and forced-colors handling.

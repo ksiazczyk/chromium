@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: Closure externs for LocalizedLinkElement
+// summary: Minimal externs declaring the LocalizedLinkElement constructor and its localizedString property for code that still uses JavaScript instead of TypeScript.
+// ---
+
 /**
  * @constructor
  * @extends {HTMLElement}

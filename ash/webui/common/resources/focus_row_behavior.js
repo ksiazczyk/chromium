@@ -6,6 +6,12 @@
 // has not yet finished migrating to TypeScript/Polymer class based syntax. New
 // code should use focus_row_mixin.ts.
 
+// ---docerion
+// type: source
+// title: FocusRowBehavior Polymer behavior (deprecated)
+// summary: Deprecated Polymer behavior that encapsulates mouse and keyboard focus controls for iron-list row items; new code should use focus_row_mixin.ts.
+// ---
+
 // clang-format off
 import {afterNextRender} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {assert} from 'chrome://resources/ash/common/assert.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bluetooth WebUI GN build file
+summary: GN build file that copies generated Bluetooth mojo TypeScript files into the preprocessed WebUI resources directory.

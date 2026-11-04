@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation selector Polymer element
+// summary: Implements the navigation-selector Polymer element, a side bar navigation component populated from an array of SelectorItem entries.
+// ---
+
 import './navigation_icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_expand_button/cr_expand_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

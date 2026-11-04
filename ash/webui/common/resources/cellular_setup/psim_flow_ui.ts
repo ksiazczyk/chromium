@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: pSIM setup flow UI element
+// summary: Polymer element implementing the pSIM activation flow with UI states, timeouts, flow result enums, and setup metrics reporting.
+// ---
+
 import './setup_loading_page.js';
 import './provisioning_page.js';
 import './final_page.js';

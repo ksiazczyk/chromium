@@ -1,0 +1,4 @@
+# Docerion header of base_page.html.
+type: source
+title: Base page template
+summary: HTML template providing the shared title, message, and page body slot for cellular setup sub-pages.

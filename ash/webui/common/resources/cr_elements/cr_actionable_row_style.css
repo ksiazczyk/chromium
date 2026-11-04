@@ -8,6 +8,12 @@
  * #import=./cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared styles for cr-actionable-row elements
+summary: Provides shared styles for actionable rows, including hover and active backgrounds and disabled handling.
+*/
+
 :host {
   align-items: center;
   align-self: stretch;

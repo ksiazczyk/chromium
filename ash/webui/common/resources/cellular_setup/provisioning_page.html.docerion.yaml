@@ -1,0 +1,4 @@
+# Docerion header of provisioning_page.html.
+type: source
+title: Provisioning page template
+summary: Polymer template for the carrier provisioning page showing a loading spinner, the carrier portal container, or an error illustration with dark mode support.

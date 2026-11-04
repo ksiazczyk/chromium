@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation view panel Polymer element
+// summary: Implements the navigation-view-panel Polymer element that wires pages to the navigation selector and handles toolbar, banner, and drawer behavior.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_drawer/cr_drawer.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';

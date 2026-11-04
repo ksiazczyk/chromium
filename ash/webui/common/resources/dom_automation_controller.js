@@ -7,6 +7,12 @@
  * browsertests.
  */
 
+// ---docerion
+// type: source
+// title: DomAutomationController extern
+// summary: Declares the window.domAutomationController extern used to send JSON results to the browser during browsertests.
+// ---
+
 /** @constructor */
 function DomAutomationController() {}
 

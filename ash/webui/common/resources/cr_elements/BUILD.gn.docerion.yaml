@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for ash common cr_elements resources
+summary: Defines the GN build target that bundles cr_elements web components, TypeScript mixins, icons and CSS into the ash common WebUI resources.

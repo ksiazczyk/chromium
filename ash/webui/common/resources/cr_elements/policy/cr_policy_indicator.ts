@@ -8,6 +8,12 @@
  * ui/webui/resources/cr_elements/policy/cr_policy_indicator.ts
  */
 
+// ---docerion
+// type: source
+// title: cr-policy-indicator element
+// summary: Polymer element that shows a policy indicator icon and computes its tooltip text from the indicator type and controlling source name.
+// ---
+
 import '../cr_hidden_style.css.js';
 import './cr_tooltip_icon.js';
 
