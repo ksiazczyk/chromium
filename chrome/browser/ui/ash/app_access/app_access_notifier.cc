@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App access notifier implementation
+// summary: Implements AppAccessNotifier, which tracks apps accessing the camera or microphone and notifies privacy indicators and the camera privacy controller.
+// ---
+
 #include "chrome/browser/ui/ash/app_access/app_access_notifier.h"
 
 #include <algorithm>

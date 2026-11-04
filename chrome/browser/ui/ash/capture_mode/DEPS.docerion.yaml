@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Capture mode include rules
+summary: 'Specifies allowed and forbidden #include dependencies for the capture_mode directory, with extra rules for test files.'

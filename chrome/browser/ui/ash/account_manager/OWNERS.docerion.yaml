@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegation to the account manager component
+summary: Delegates ownership and review for this directory to the ChromeOS Ash account manager component OWNERS file.

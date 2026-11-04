@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New properties
+// summary: Defines the view state annotation with hidden, overview and detail values plus the property key used by the What's New page model.
+// ---
+
 package org.chromium.chrome.browser.ui.android.whats_new;
 
 import androidx.annotation.IntDef;

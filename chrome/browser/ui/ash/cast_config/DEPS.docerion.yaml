@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for cast_config
+summary: Sets include rules that block general Chrome dependencies while allowing the specific media router and profile includes this directory needs.

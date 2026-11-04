@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account data class for FedCM account selection
+// summary: Java model of a selectable account in the FedCM account selection sheet, holding identity, pictures, sign-in state and IDP data, populated from native via JNI.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid.data;
 
 import android.graphics.Bitmap;

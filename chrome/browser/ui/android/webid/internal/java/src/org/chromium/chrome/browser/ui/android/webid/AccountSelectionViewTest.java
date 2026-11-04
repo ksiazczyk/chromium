@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountSelectionViewTest
+// summary: Parameterized Robolectric view tests verifying that account selection model changes are reflected in the sheet for each RP mode.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static org.junit.Assert.assertEquals;

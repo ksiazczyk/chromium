@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch most visited provider header
+// summary: Declares the BirchMostVisitedProvider class that supplies the most visited URL for the birch feature.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_MOST_VISITED_PROVIDER_H_
 #define CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_MOST_VISITED_PROVIDER_H_
 

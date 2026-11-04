@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFakeAccountManagerDialog class declaration
+// summary: Declares a scoped test helper that installs a FakeAccountManagerDialog on a profile's dialog coordinator and resets the test callbacks to null on destruction.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_ACCOUNT_MANAGER_SCOPED_FAKE_ACCOUNT_MANAGER_DIALOG_H_
 #define CHROME_BROWSER_UI_ASH_ACCOUNT_MANAGER_SCOPED_FAKE_ACCOUNT_MANAGER_DIALOG_H_
 

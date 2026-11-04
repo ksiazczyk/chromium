@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountSelectionButtonModeIntegrationTest
+// summary: Integration tests checking that active mode account selection API calls end up rendering the expected bottom sheet views and histograms.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static androidx.test.espresso.Espresso.onView;

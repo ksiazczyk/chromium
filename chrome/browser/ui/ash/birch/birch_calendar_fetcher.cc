@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch calendar fetcher implementation
+// summary: Implements the Birch calendar fetcher, sending authenticated Google Calendar API requests to retrieve events for the user's primary account.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_calendar_fetcher.h"
 
 #include <string>

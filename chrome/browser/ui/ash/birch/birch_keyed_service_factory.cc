@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch keyed service factory implementation
+// summary: Implements the profile keyed service factory that builds BirchKeyedService instances for regular profiles only.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_keyed_service_factory.h"
 
 #include <memory>

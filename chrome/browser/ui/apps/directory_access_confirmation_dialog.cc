@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Directory access confirmation dialog implementation
+// summary: Implements a tab-modal dialog that asks users to confirm an app's request for read-only or writable directory access.
+// ---
+
 #include "chrome/browser/ui/apps/directory_access_confirmation_dialog.h"
 
 #include <memory>

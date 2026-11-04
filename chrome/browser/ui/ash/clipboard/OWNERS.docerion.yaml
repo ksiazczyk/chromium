@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer to ash clipboard owners
+summary: Delegates ownership of this directory to the owners listed in ash/clipboard/OWNERS.

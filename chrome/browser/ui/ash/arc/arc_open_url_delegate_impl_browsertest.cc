@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcOpenUrlDelegateImpl browser tests
+// summary: Browser tests verifying that ArcOpenUrlDelegateImpl opens web apps, URLs and OS Settings pages correctly from ARC.
+// ---
+
 #include "chrome/browser/ui/ash/arc/arc_open_url_delegate_impl.h"
 
 #include <algorithm>

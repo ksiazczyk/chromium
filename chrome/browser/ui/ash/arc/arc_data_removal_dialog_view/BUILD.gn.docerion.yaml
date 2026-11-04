@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: arc_data_removal_dialog_view BUILD.gn
+summary: Defines the static_library build target for the ARC data removal dialog view and lists its source and dependency targets.

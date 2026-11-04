@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch test helper declarations
+// summary: Declares test helpers for accessing the birch chip bar and disabling data type preferences, used by Birch tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_TEST_UTIL_H_
 #define CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_TEST_UTIL_H_
 

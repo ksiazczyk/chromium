@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome tab strip delegate implementation
+// summary: Implements ChromeTabStripDelegate, building a tab info list for a browser window while skipping incognito windows.
+// ---
+
 #include "chrome/browser/ui/ash/boca/chrome_tab_strip_delegate.h"
 
 #include "ash/public/cpp/tab_strip_delegate.h"

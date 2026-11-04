@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAnimationProvider class header
+// summary: Declares the BrowserAnimationProvider base class used to declaratively define animation specifications, sequence params, and histogram prefixes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANIMATION_BROWSER_ANIMATION_PROVIDER_H_
 #define CHROME_BROWSER_UI_ANIMATION_BROWSER_ANIMATION_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager dialog coordinator implementation
+// summary: Implements showing the add-account and reauth dialogs, records metrics for the source and result, and reports the upsertion outcome to callers.
+// ---
+
 #include "chrome/browser/ui/ash/account_manager/account_manager_dialog_coordinator.h"
 
 #include <string>

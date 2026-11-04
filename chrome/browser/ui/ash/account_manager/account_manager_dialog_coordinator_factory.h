@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager dialog coordinator factory interface
+// summary: Declares the singleton ProfileKeyedServiceFactory giving per-profile access to the account manager dialog coordinator.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_ACCOUNT_MANAGER_ACCOUNT_MANAGER_DIALOG_COORDINATOR_FACTORY_H_
 #define CHROME_BROWSER_UI_ASH_ACCOUNT_MANAGER_ACCOUNT_MANAGER_DIALOG_COORDINATOR_FACTORY_H_
 

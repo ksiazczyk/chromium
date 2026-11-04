@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch keyed service implementation
+// summary: Implements the birch keyed service that manages all birch data providers, favicon lookups, and removed item storage.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_keyed_service.h"
 
 #include <memory>

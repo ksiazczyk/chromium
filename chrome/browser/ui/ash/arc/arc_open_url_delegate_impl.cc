@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcOpenUrlDelegateImpl implementation
+// summary: Implements arc::OpenUrlDelegate to open URLs, web apps, Chrome pages and intents from ARC within Chrome on ChromeOS.
+// ---
+
 #include "chrome/browser/ui/ash/arc/arc_open_url_delegate_impl.h"
 
 #include <memory>

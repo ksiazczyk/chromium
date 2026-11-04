@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Capture mode build targets
+summary: Defines the capture_mode static library and the browser_tests target for the ChromeOS capture mode feature, listing sources and dependencies.

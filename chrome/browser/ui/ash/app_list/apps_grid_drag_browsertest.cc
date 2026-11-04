@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Apps grid drag reorder browser tests
+// summary: Browser tests verifying that app list items can be reordered by mouse drag in the bubble apps grid.
+// ---
+
 #include <memory>
 
 #include "ash/app_list/views/apps_grid_view_test_api.h"

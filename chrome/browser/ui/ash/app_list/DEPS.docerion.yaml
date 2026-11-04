@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App list directory include dependency rules
+summary: DEPS file blocking //chrome dependencies for ChromeOS while granting specific include allowances for app list tests and a temporary Chrome Apps deprecation workaround.

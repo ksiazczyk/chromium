@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Back gesture build targets
+summary: Defines the back gesture static library and its browser test source set, listing sources and dependencies for the ChromeOS back gesture feature.

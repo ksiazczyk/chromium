@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAppWindowClient header for app window creation
+// summary: Declares ChromeAppWindowClient, Chrome's AppWindowClient implementation with platform-specific native window creation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_APPS_CHROME_APP_WINDOW_CLIENT_H_
 #define CHROME_BROWSER_UI_APPS_CHROME_APP_WINDOW_CLIENT_H_
 

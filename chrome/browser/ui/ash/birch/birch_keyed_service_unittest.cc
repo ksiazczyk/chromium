@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch keyed service unit tests
+// summary: Unit tests for the birch keyed service, covering providers such as recent tabs, self share, and lost media with fake sync services.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_keyed_service.h"
 
 #include <memory>

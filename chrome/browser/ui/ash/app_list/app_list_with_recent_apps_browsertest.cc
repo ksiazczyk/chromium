@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list recent apps browser tests
+// summary: Browser tests verifying recent apps in the bubble app list, including mouse click activation metrics and recent apps shown in tablet mode after clearing search.
+// ---
+
 #include "ash/public/cpp/test/app_list_test_api.h"
 #include "ash/public/cpp/test/shell_test_api.h"
 #include "base/memory/raw_ptr.h"

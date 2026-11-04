@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the app icon color cache directory
+summary: Restricts dependencies on //chrome for ChromeOS and allows only the directory's own includes and profile dependencies.

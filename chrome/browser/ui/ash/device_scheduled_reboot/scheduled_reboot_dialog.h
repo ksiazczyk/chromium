@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduled reboot dialog header
+// summary: Declares the ScheduledRebootDialog class, a modal bubble whose window title counts down minutes or seconds until the scheduled reboot.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_DEVICE_SCHEDULED_REBOOT_SCHEDULED_REBOOT_DIALOG_H_
 #define CHROME_BROWSER_UI_ASH_DEVICE_SCHEDULED_REBOOT_SCHEDULED_REBOOT_DIALOG_H_
 

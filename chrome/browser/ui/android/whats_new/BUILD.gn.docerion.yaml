@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: What's New Android UI GN build targets
+summary: Defines GN targets for the Chrome Android What's New UI, including feature list and UI Java libraries, Android resources, and Robolectric unit tests with their dependencies.

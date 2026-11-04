@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Unit tests for the scheduled reboot dialog
+// summary: Unit tests verifying the dialog's countdown window title updates under mock time and that closing the dialog clears its delegate.
+// ---
+
 #include "chrome/browser/ui/ash/device_scheduled_reboot/scheduled_reboot_dialog.h"
 
 #include <memory>

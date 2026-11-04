@@ -1,3 +1,9 @@
+---
+type: readme
+title: Account Selection Android Feature
+summary: Explains the MVC architecture of the internal Account Selection component, covering model, controller and view parts.
+---
+
 # Account Selection Android Feature
 
 This folder contains the internal parts of the Account Selection component.

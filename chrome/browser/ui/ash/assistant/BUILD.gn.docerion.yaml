@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the assistant browser delegate
+summary: Defines the assistant static library and unit test targets with their sources and dependencies for ChromeOS.

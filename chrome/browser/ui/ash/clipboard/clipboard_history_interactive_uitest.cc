@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard history interactive UI tests
+// summary: Interactive UI tests verifying HTML image rendering in the clipboard history menu, run separately to avoid interference from parallel browser tests.
+// ---
+
 #include <list>
 
 #include "ash/clipboard/clipboard_history_controller_impl.h"

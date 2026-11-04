@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/browser/ui/ash dependencies
+summary: Restricts includes to ash and blocks chrome dependencies, with per-file exceptions for tests and projector clients.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountSelectionIntegrationTest
+// summary: Parameterized integration tests verifying that account selection API calls render a view for both passive and active relying party modes.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static androidx.test.espresso.assertion.ViewAssertions.matches;

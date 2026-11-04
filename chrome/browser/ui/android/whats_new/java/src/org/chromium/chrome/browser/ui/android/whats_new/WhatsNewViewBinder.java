@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New view binder
+// summary: Binds the What's New property model to the bottom sheet content by forwarding view state changes.
+// ---
+
 package org.chromium.chrome.browser.ui.android.whats_new;
 
 import org.chromium.build.annotations.NullMarked;

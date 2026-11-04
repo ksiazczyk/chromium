@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch file suggest provider class declaration
+// summary: Declares the birch file suggest provider, which observes file suggestion changes and supplies items to the BirchModel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_FILE_SUGGEST_PROVIDER_H_
 #define CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_FILE_SUGGEST_PROVIDER_H_
 

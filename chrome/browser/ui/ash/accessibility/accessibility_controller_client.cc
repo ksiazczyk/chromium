@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityControllerClient implementation
+// summary: Implements the ash accessibility controller client, mapping accessibility alerts to Chrome resources and handling sounds, gestures, dictation and spoken feedback.
+// ---
+
 #include "chrome/browser/ui/ash/accessibility/accessibility_controller_client.h"
 
 #include "ash/accessibility/accessibility_controller.h"

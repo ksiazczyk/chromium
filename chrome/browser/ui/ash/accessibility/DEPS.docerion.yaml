@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the accessibility directory
+summary: Restricts ChromeOS dependencies on //chrome and lists allowed accessibility includes plus per-file exceptions.

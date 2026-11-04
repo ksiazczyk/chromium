@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountSelectionComponent interface for WebID account selection
+// summary: Defines the interface for the WebID account selection component, including delegate callbacks for account selection, dismissal, IDP login, and native app token results.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import org.chromium.blink.mojom.RpContext;

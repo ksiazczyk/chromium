@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome desks utilities header
+// summary: Declares desks utility functions for attaching tab groups and setting pinned tabs, plus a toast name constant.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_DESKS_CHROME_DESKS_UTIL_H_
 #define CHROME_BROWSER_UI_ASH_DESKS_CHROME_DESKS_UTIL_H_
 

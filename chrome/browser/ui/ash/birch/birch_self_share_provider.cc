@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchSelfShareProvider implementation
+// summary: Supplies tabs shared to self via ChromeSync as Birch items, refreshing cached entries and filtering out opened or expired ones.
+// ---
+
 #include "chrome/browser/ui/ash/birch/birch_self_share_provider.h"
 
 #include "ash/birch/birch_item.h"

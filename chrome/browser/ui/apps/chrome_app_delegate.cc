@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app delegate implementation for extension app windows
+// summary: Implements ChromeAppDelegate, handling URL opening, file choosers, media access, keep-alive, zoom, and picture-in-picture for extension app windows.
+// ---
+
 #include "chrome/browser/ui/apps/chrome_app_delegate.h"
 
 #include <memory>

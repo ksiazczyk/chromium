@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchReleaseNotesProvider class declaration
+// summary: Declares BirchReleaseNotesProvider, a BirchDataProvider that supplies release notes items for the first session after an update.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_RELEASE_NOTES_PROVIDER_H_
 #define CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_RELEASE_NOTES_PROVIDER_H_
 

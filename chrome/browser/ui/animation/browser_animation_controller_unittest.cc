@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser animation controller unit tests
+// summary: Contains unit tests covering groups, motions, sequences, keyframes, segments, snaps, and controller behavior using a test animation provider.
+// ---
+
 #include "chrome/browser/ui/animation/browser_animation_controller.h"
 
 #include <concepts>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Boca library build definition
+summary: Defines the boca static library and its browser_tests source set, listing their sources and dependencies.

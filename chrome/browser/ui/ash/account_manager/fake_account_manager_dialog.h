@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake account manager dialog interface
+// summary: Declares a profile-free stand-in for the account manager dialog UI used to drive coordinator unit tests, with accessors to recorded calls.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_ACCOUNT_MANAGER_FAKE_ACCOUNT_MANAGER_DIALOG_H_
 #define CHROME_BROWSER_UI_ASH_ACCOUNT_MANAGER_FAKE_ACCOUNT_MANAGER_DIALOG_H_
 

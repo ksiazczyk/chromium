@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Account selection data sharing consent layout
+summary: Defines the text view used to display the user data sharing consent notice in the account selection sheet.
+-->
+
 <org.chromium.ui.widget.TextViewWithClickableSpans
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture mode delegate browser tests
+// summary: Browser tests for ChromeCaptureModeDelegate covering saved-file redirection and finalization, including OneDrive and OCR-related behavior.
+// ---
+
 #include "chrome/browser/ui/ash/capture_mode/chrome_capture_mode_delegate.h"
 
 #include <optional>

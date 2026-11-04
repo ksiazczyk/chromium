@@ -1,3 +1,11 @@
+---
+type: readme
+title: WebID Android Feature
+summary: Describes the Android WebID account selection UI, its folder structure, test targets, and example usage of the component.
+relations:
+  - references /chrome/browser/ui/android/webid/internal/README.md
+---
+
 # WebID Android Feature
 
 This folder contains the Android UI implementation for the WebID feature.

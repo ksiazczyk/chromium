@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list search browser tests
+// summary: Browser tests that search for system web apps in the launcher, verify search box activation and result lists, and click top search results.
+// ---
+
 #include "ash/app_list/app_list_controller_impl.h"
 #include "ash/app_list/app_list_public_test_util.h"
 #include "ash/app_list/test/app_list_test_helper.h"

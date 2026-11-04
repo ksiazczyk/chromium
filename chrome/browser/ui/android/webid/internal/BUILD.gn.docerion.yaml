@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Account Selection Android component build configuration
+summary: GN build rules defining the Java library, JNI generation and Android resources for the Account Selection UI component.

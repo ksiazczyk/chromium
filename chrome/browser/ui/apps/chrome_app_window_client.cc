@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app window client implementation
+// summary: Implements the ChromeAppWindowClient singleton that creates app windows and native app windows and opens DevTools for app web contents.
+// ---
+
 #include "chrome/browser/ui/apps/chrome_app_window_client.h"
 
 #include <memory>

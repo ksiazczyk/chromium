@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sunfish browser tests for the search results view
+// summary: Browser tests verifying Sunfish search results view behavior, such as creating the view, opening links in new tabs, and recording click histograms.
+// ---
+
 #include <string>
 
 #include "ash/capture_mode/capture_mode_controller.h"

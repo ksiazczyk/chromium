@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountSelectionControllerTest
+// summary: Parameterized Robolectric tests for the account selection controller covering header, account, and dialog model updates across RP modes and feature flags.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static org.junit.Assert.assertEquals;

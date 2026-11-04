@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAcceleratorPrefsDelegate implementation
+// summary: Implements IsUserEnterpriseManaged by checking the logged-in user's profile policy connector through the user manager.
+// ---
+
 #include "chrome/browser/ui/ash/accelerator/chrome_accelerator_prefs_delegate.h"
 
 #include "chrome/browser/policy/profile_policy_connector.h"

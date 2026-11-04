@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: arc_data_removal_dialog_view DEPS
+summary: Sets include rules that forbid //chrome dependencies by default while allowing specific app list and ARC session includes for ChromeOS.

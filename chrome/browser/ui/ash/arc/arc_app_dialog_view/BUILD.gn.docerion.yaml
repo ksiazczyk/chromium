@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for arc_app_dialog_view
+summary: GN build file defining the arc_app_dialog_view static library and its browser test source set together with their dependencies.

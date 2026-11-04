@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome saved desk delegate unit tests
+// summary: Unit tests for ChromeSavedDeskDelegate covering app launch data, desk models, and window persistence using fake profiles.
+// ---
+
 #include "chrome/browser/ui/ash/desks/chrome_saved_desk_delegate.h"
 
 #include "ash/public/cpp/ash_public_export.h"

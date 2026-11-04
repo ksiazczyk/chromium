@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Account selection continue button layout
+summary: Defines the filled continue button shown at the bottom of the WebID account selection sheet.
+-->
+
 <org.chromium.ui.widget.ButtonCompat
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:descendantFocusability="blocksDescendants"

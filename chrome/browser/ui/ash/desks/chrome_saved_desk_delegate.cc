@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome saved desk delegate implementation
+// summary: Implements the Chrome-side saved desk delegate that launches apps from saved desks, resolves icons, and checks app availability.
+// ---
+
 #include "chrome/browser/ui/ash/desks/chrome_saved_desk_delegate.h"
 
 #include "ash/constants/chrome_webui_url_constants.h"

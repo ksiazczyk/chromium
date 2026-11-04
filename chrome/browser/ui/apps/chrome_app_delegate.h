@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAppDelegate header for app window behavior
+// summary: Declares ChromeAppDelegate, the Chrome implementation of extensions::AppDelegate that customizes app window behavior per profile.
+// ---
+
 #ifndef CHROME_BROWSER_UI_APPS_CHROME_APP_DELEGATE_H_
 #define CHROME_BROWSER_UI_APPS_CHROME_APP_DELEGATE_H_
 

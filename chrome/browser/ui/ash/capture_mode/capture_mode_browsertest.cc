@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture mode browser tests
+// summary: Browser tests for ChromeOS capture mode covering DLP screenshot restrictions, video recording, Projector integration, and file saving.
+// ---
+
 #include "ash/capture_mode/capture_mode_test_util.h"
 #include "ash/capture_mode/capture_mode_types.h"
 #include "ash/constants/ash_features.h"

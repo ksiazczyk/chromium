@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant browser delegate implementation
+// summary: Implements the Assistant browser delegate, opening URLs and checking eligibility for the Assistant new entry point with histogram logging.
+// ---
+
 #include "chrome/browser/ui/ash/assistant/assistant_browser_delegate_impl.h"
 
 #include <string>

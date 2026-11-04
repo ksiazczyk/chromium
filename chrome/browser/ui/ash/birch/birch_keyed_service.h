@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch keyed service class declaration
+// summary: Declares the birch keyed service, a keyed service that manages data providers for the birch feature and exposes them via BirchClient.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_KEYED_SERVICE_H_
 #define CHROME_BROWSER_UI_ASH_BIRCH_BIRCH_KEYED_SERVICE_H_
 

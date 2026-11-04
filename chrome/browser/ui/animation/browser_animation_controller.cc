@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser animation controller implementation
+// summary: Implements the browser-window-level controller that coordinates multi-view animations, handles transitions, and logs FPS histograms.
+// ---
+
 #include "chrome/browser/ui/animation/browser_animation_controller.h"
 
 #include <algorithm>

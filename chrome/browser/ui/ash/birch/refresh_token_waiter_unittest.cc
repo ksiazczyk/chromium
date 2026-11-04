@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RefreshTokenWaiter unit tests
+// summary: Unit tests verifying that RefreshTokenWaiter invokes its callback immediately when tokens are loaded and after token load otherwise.
+// ---
+
 #include "chrome/browser/ui/ash/birch/refresh_token_waiter.h"
 
 #include "chrome/browser/signin/identity_manager_factory.h"

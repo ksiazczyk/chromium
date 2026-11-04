@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn test targets for clipboard history
+summary: Defines test-only source sets and dependencies for the clipboard history interactive UI tests and browser tests.

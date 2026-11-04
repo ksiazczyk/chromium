@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AssistantBrowserDelegateImpl
+// summary: Unit tests for AssistantBrowserDelegateImpl covering new entry point eligibility and session setup with fake user manager and web app providers.
+// ---
+
 #include "chrome/browser/ui/ash/assistant/assistant_browser_delegate_impl.h"
 
 #include <memory>

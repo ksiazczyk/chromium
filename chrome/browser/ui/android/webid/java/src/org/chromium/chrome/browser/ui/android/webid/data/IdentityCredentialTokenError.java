@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityCredentialTokenError data class
+// summary: Represents an identity credential token error, carrying the error code and URL for display in the FedCM error dialog.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid.data;
 
 import org.jni_zero.CalledByNative;

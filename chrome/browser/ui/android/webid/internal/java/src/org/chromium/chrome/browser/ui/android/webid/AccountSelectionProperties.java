@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountSelectionProperties
+// summary: Defines the property keys and data classes that reflect the state of the AccountSelection UI components for the MVC pattern.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import android.content.Context;

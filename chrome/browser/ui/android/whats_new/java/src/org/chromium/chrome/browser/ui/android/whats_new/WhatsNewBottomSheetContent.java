@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New bottom sheet content
+// summary: Implements the BottomSheetContent for the What's New page, switching between overview and detail views and handling back presses.
+// ---
+
 package org.chromium.chrome.browser.ui.android.whats_new;
 
 import android.content.Context;

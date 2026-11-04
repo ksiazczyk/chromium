@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Birch include dependency rules
+summary: Specifies allowed include dependencies for the Birch directory, with special rules for the keyed service factory and test files.

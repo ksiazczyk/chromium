@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessibilityControllerClient unit tests
+// summary: Verifies accessibility controller client callbacks such as alerts, earcons, gestures and dictation toggling using a fake client.
+// ---
+
 #include "chrome/browser/ui/ash/accessibility/accessibility_controller_client.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App access notifier class declaration
+// summary: Declares AppAccessNotifier, an observer of app capability access, session state, and user sessions that reports camera and microphone usage per active user.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_APP_ACCESS_APP_ACCESS_NOTIFIER_H_
 #define CHROME_BROWSER_UI_ASH_APP_ACCESS_APP_ACCESS_NOTIFIER_H_
 

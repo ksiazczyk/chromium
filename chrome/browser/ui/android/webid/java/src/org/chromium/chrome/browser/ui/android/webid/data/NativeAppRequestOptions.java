@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeAppRequestOptions data class
+// summary: Carries the FedCM request parameters a native identity provider app needs to render the account chooser and issue assertion tokens in place of the id_assertion_endpoint.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid.data;
 
 import org.jni_zero.CalledByNative;

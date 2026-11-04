@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebID Android include rules
+summary: Lists the allowed include and dependency paths for the WebID Android UI folder used by Chromium dependency checks.

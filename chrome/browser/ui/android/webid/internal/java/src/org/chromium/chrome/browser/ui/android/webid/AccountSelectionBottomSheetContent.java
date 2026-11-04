@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountSelectionBottomSheetContent
+// summary: Implements the bottom sheet content container for the federated account selection UI, tuning visible account counts, sheet type, and back press behavior per relying party mode.
+// ---
+
 package org.chromium.chrome.browser.ui.android.webid;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

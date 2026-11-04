@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAcceleratorPrefsDelegate class declaration
+// summary: Declares the Chrome implementation of ash::AcceleratorPrefsDelegate that reports whether the user is enterprise managed.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_ACCELERATOR_CHROME_ACCELERATOR_PREFS_DELEGATE_H_
 #define CHROME_BROWSER_UI_ASH_ACCELERATOR_CHROME_ACCELERATOR_PREFS_DELEGATE_H_
 

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Browser Animation Controller
+summary: Explains the Browser Animation Controller system, covering motivation, terminology, defining animations and sequences, histogram logging, and best practices.
+relations:
+  - documents /chrome/browser/ui/animation/browser_animation_types.h
+  - references /ui/base/identifier/README.md
+  - references /ui/base/unowned_user_data/README.md
+---
+
 # Browser Animation Controller
 
 This is a browser-window-level service which coordinates multi-View and

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome tab strip delegate header
+// summary: Declares ChromeTabStripDelegate, an ash::TabStripDelegate that returns tab info for a given aura window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_BOCA_CHROME_TAB_STRIP_DELEGATE_H_
 #define CHROME_BROWSER_UI_ASH_BOCA_CHROME_TAB_STRIP_DELEGATE_H_
 

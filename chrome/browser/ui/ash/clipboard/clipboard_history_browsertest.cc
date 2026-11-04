@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard history browser tests
+// summary: Browser tests for the Ash clipboard history feature covering menu behavior, clipboard data handling, user sessions, and lock screens.
+// ---
+
 #include "ash/clipboard/clipboard_history.h"
 
 #include <iterator>

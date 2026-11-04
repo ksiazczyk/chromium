@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WhatsNewFeature interface for What's New page entries
+// summary: Defines the interface for an entry in the What's New page, exposing the feature type, name, title, description and icon resource.
+// ---
+
 package org.chromium.chrome.browser.ui.android.whats_new.features;
 
 import android.content.Context;

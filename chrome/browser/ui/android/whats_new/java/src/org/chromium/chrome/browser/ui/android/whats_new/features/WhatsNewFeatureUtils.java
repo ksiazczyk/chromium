@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WhatsNewFeatureUtils for What's New feature types
+// summary: Tracks features added to What's New, defines the WhatsNewType annotation and maps a feature type to its corresponding WhatsNewFeature.
+// ---
+
 package org.chromium.chrome.browser.ui.android.whats_new.features;
 
 import androidx.annotation.IntDef;

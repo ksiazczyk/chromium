@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the Chrome desks library
+summary: Defines the desks static library sources and dependencies plus unit and browser test targets for ChromeOS desk templates.
