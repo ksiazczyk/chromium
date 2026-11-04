@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync service implementation test harness
+// summary: Implements the harness that automates sync setup, signin, auth error states and waiting for clients to reach a common state.
+// ---
+
 #include "chrome/browser/sync/test/integration/sync_service_impl_harness.h"
 
 #include <cstddef>

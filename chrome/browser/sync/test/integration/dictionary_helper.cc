@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictionary sync integration test helper implementation
+// summary: Implements helpers to add, remove, and verify custom spellcheck dictionary words across sync test profiles and the fake server.
+// ---
+
 #include "chrome/browser/sync/test/integration/dictionary_helper.h"
 
 #include <set>

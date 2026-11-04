@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web apps sync test base header
+// summary: Declares WebAppsSyncTestBase, the SyncTest-derived base class shared by web app sync integration tests.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_WEB_APPS_SYNC_TEST_BASE_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_WEB_APPS_SYNC_TEST_BASE_H_
 

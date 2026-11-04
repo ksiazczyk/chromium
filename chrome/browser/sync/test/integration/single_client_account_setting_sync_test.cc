@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client account setting sync tests
+// summary: Browser tests verifying ACCOUNT_SETTING sync behavior, including the wallet privacy contextual surfacing setting, in both normal and transport sync modes.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"
 #include "chrome/browser/account_settings/account_setting_service_factory.h"

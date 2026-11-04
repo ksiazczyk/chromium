@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device pref tracker factory header
+// summary: Declares CrossDevicePrefTrackerFactory, a singleton ProfileKeyedServiceFactory managing one CrossDevicePrefTracker per profile for sharing non-syncing prefs across devices.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_PREFS_CROSS_DEVICE_PREF_TRACKER_CROSS_DEVICE_PREF_TRACKER_FACTORY_H_
 #define CHROME_BROWSER_SYNC_PREFS_CROSS_DEVICE_PREF_TRACKER_CROSS_DEVICE_PREF_TRACKER_FACTORY_H_
 

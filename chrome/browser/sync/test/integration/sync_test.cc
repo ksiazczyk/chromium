@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncTest base class implementation
+// summary: Implements the SyncTest browser test base class that sets up profiles, fake or live sync servers, and client harnesses for sync integration tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/sync_test.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Updated progress marker checker implementation
+// summary: Implements a status change checker that waits until sync progress markers are updated, all local changes are committed, and the engine is initialized.
+// ---
+
 #include "chrome/browser/sync/test/integration/updated_progress_marker_checker.h"
 
 #include "base/functional/bind.h"

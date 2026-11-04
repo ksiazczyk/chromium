@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client device info sync integration tests
+// summary: Browser tests for single-client device info syncing, covering hardware class, cache GUIDs, interested data types, and device statistics.
+// ---
+
 #include <string>
 
 #include "base/containers/span.h"

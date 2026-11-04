@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client history sync integration tests
+// summary: Browser tests covering single-client history sync, including visit specifics, redirect chains, referrer URLs, and session duration metrics.
+// ---
+
 #include "base/path_service.h"
 #include "base/strings/string_number_conversions.h"
 #include "base/strings/stringprintf.h"

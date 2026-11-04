@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client web apps sync test
+// summary: Defines TwoClientWebAppsSyncTest, verifying web app installation, display mode changes and sync behaviour between two synced profiles.
+// ---
+
 #include <string>
 
 #include "base/functional/bind.h"

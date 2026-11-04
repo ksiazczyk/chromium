@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn credentials sync test helper implementation
+// summary: Implements checkers for passkey sync tests that wait for datatype activation, local and server passkey matches, and observed passkey model changes.
+// ---
+
 #include "chrome/browser/sync/test/integration/webauthn_credentials_helper.h"
 
 #include <vector>

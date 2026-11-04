@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InvalidationsStatusChecker implementation
+// summary: Implements a test status change checker that waits until sync invalidations (notifications_enabled) reach the expected enabled or disabled state.
+// ---
+
 #include "chrome/browser/sync/test/integration/invalidations/invalidations_status_checker.h"
 
 #include "components/sync/service/sync_service_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncSessionsRouterTabHelper browser tests
+// summary: In-process browser tests verifying that the router tab helper notifies the sessions router of local tab modifications, language detection, and related tab events.
+// ---
+
 #include "base/functional/callback.h"
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"

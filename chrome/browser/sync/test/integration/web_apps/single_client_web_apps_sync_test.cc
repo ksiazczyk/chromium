@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client web apps sync test
+// summary: Browser tests verifying web app sync behavior for a single client, covering install states, icons, and sync entity verification.
+// ---
+
 #include <utility>
 
 #include "base/containers/span.h"

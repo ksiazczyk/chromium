@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync integration test utilities
+// summary: Implements helpers to set custom themes, check fake server entity counts and detect E2E-mode allowlisted tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/sync_integration_test_util.h"
 
 #include <string>

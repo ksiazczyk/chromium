@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client app list sync tests
+// summary: Browser tests verifying app list synchronization between two client profiles, covering app enable/disable states, incognito settings, and default app removal.
+// ---
+
 #include <stddef.h>
 
 #include "base/one_shot_event.h"

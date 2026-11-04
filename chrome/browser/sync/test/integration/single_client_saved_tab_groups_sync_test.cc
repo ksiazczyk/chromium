@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client saved tab groups sync integration tests
+// summary: Browser tests verifying saved tab group creation, updates and server-injected groups sync correctly through the tab group sync service.
+// ---
+
 #include <algorithm>
 
 #include "base/uuid.h"

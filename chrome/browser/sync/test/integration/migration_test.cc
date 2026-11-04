@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync data type migration integration tests
+// summary: Integration tests that trigger and verify migration of sync data types such as bookmarks and preferences against a fake server.
+// ---
+
 #include <memory>
 #include <optional>
 #include <tuple>

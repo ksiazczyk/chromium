@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC package sync test helper header
+// summary: Declares SyncArcPackageHelper, which installs and verifies ARC package sync state across test profiles and enables or disables the ARC service.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_ARC_PACKAGE_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_ARC_PACKAGE_HELPER_H_
 

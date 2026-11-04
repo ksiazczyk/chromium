@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client device info sync tests
+// summary: Browser tests verifying device info synchronization between two clients, including deletion of device info on other clients after sign-out.
+// ---
+
 #include <string>
 
 #include "base/memory/raw_ptr.h"

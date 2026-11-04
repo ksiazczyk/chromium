@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client history delete directives sync integration tests
+// summary: Browser tests verifying that history delete directives are committed to the fake server and that matching local history entries are removed.
+// ---
+
 #include <stddef.h>
 
 #include "base/memory/raw_ptr.h"

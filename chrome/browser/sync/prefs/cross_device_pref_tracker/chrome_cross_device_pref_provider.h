@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome cross-device pref provider header
+// summary: Declares ChromeCrossDevicePrefProvider, the Chrome implementation of CrossDevicePrefProvider that exposes tracked profile and local-state prefs.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_PREFS_CROSS_DEVICE_PREF_TRACKER_CHROME_CROSS_DEVICE_PREF_PROVIDER_H_
 #define CHROME_BROWSER_SYNC_PREFS_CROSS_DEVICE_PREF_TRACKER_CHROME_CROSS_DEVICE_PREF_PROVIDER_H_
 

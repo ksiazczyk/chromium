@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client wallet credential sync integration test
+// summary: Integration test verifying AUTOFILL_WALLET_CREDENTIAL sync, including server CVC entries and wallet credentials, across sync transport and full sync modes.
+// ---
+
 #include "base/notreached.h"
 #include "base/test/test_future.h"
 #include "build/build_config.h"

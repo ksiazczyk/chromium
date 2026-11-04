@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Committed nudged changes checker implementation
+// summary: Implements a status checker that blocks until all nudged sync changes have been committed to the server.
+// ---
+
 #include "chrome/browser/sync/test/integration/committed_all_nudged_changes_checker.h"
 
 #include "components/sync/service/sync_service_impl.h"

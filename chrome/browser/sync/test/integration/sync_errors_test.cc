@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync errors integration tests
+// summary: Browser tests covering sync error scenarios such as throttled data types, auth errors, engine stops and user event commits.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/test/bind.h"
 #include "base/time/time.h"

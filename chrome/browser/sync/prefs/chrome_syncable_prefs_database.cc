@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome syncable prefs database implementation
+// summary: Implements the ChromeSyncablePrefsDatabase by mapping Chrome-specific preference names to syncable pref IDs and metadata, including platform-specific entries for ChromeOS and extensions.
+// ---
+
 #include "chrome/browser/sync/prefs/chrome_syncable_prefs_database.h"
 
 #include <string_view>

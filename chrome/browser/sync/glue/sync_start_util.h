@@ -5,6 +5,12 @@
 // Various utilities for kicking off sync initialization from data types or
 // other services.
 
+// ---docerion
+// type: source
+// title: Sync start utility declaration
+// summary: Declares GetFlareForSyncableService, a helper letting SyncableServices request immediate sync startup from any thread.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_GLUE_SYNC_START_UTIL_H_
 #define CHROME_BROWSER_SYNC_GLUE_SYNC_START_UTIL_H_
 

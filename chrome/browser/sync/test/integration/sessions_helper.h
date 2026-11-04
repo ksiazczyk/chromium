@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sessions sync test helpers
+// summary: Declares helper functions for manipulating and verifying synced sessions, windows and tabs in multi-profile sync integration tests.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_SESSIONS_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_SESSIONS_HELPER_H_
 

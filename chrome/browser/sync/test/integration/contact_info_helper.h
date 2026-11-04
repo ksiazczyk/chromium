@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contact info sync integration test helper interface
+// summary: Declares helpers and a checker for verifying autofill address profiles during contact info sync integration tests.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_CONTACT_INFO_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_CONTACT_INFO_HELPER_H_
 

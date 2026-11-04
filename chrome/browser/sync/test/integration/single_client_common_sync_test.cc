@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client common sync integration tests
+// summary: Browser tests for common sync behaviors such as tombstones, cache GUID persistence, GetUpdates origins, and policy-driven data type controls.
+// ---
+
 #include "base/containers/enum_set.h"
 #include "base/feature_list.h"
 #include "base/files/file_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension setting data type controller implementation
+// summary: Implements a controller that processes extension and app settings sync data on the extensions background task runner.
+// ---
+
 #include "chrome/browser/sync/glue/extension_setting_data_type_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Apps sync test base class
+// summary: Declares AppsSyncTestBase, a SyncTest subclass that overrides the Windows start menu directory to avoid extension shortcuts during tests.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_APPS_SYNC_TEST_BASE_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_APPS_SYNC_TEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved tab groups sync test helper implementation
+// summary: Implements checkers for saved tab group existence, absence, counts and specifics used in tab group sync integration tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/saved_tab_groups_helper.h"
 
 #include <vector>

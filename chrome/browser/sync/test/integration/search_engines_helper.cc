@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engines sync test helper implementation
+// summary: Implements helpers that add, edit, delete and compare search engine data across sync test profiles and the fake server.
+// ---
+
 #include "chrome/browser/sync/test/integration/search_engines_helper.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contact info sync integration test helper implementation
+// summary: Implements helpers to build account autofill profiles and wait for address data changes in contact info sync tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/contact_info_helper.h"
 
 #include "chrome/browser/autofill/personal_data_manager_factory.h"

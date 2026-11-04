@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local sync browser tests
+// summary: Browser tests verifying basic local sync backend functionality used for enterprise roaming profiles on Windows, Mac, and Linux.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

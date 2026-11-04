@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync GCM driver for instance ID implementation
+// summary: Implements a fake GCM driver for Instance ID that pretends message encryption succeeded, for use in sync integration tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/fake_sync_gcm_driver_for_instance_id.h"
 
 #include "base/files/file_path.h"

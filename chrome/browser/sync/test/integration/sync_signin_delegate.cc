@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync signin delegate factory
+// summary: Creates fake or live signin delegates for sync tests, selecting the Android or desktop implementation per platform.
+// ---
+
 #include "chrome/browser/sync/test/integration/sync_signin_delegate.h"
 
 #include <memory>

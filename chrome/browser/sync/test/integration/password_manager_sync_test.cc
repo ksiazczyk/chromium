@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager sync integration tests
+// summary: Browser tests verifying password sync behavior across profiles, including account and profile password stores, encryption, and enterprise policies.
+// ---
+
 #include <memory>
 #include <string>
 

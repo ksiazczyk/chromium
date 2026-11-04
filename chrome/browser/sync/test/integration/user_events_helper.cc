@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User events sync test helper implementation
+// summary: Implements creation of test user event specifics and a checker that waits until server-side USER_EVENTS entities match the expected set of events.
+// ---
+
 #include "chrome/browser/sync/test/integration/user_events_helper.h"
 
 #include <algorithm>

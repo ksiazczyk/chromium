@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the sync glue directory
+summary: DEPS file restricting includes in chrome/browser/sync/glue by disallowing dependencies on components/sync/engine and components/sync/sessions.

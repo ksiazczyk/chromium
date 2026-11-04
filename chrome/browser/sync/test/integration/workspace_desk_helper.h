@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Workspace desk sync test helper header
+// summary: Declares desk sync checkers for workspace desk integration tests that wait on desk UUID additions, updates, deletions, and desk model readiness.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_WORKSPACE_DESK_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_WORKSPACE_DESK_HELPER_H_
 

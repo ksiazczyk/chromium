@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client WebAuthn credentials sync integration tests
+// summary: Browser tests verifying passkey additions and deletions sync and converge between two clients.
+// ---
+
 #include "base/location.h"
 #include "chrome/browser/sync/test/integration/multi_client_status_change_checker.h"
 #include "chrome/browser/sync/test/integration/sync_datatype_helper.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks sync integration test helper implementation
+// summary: Implements helpers to create, modify and verify bookmark models across profiles in Chromium sync integration tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/bookmarks_helper.h"
 
 #include <stddef.h>

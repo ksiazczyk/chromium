@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password sharing invitation test helper implementation
+// summary: Implements helpers to create and decrypt encrypted password sharing invitations for cross-user sharing tests using the sync cryptographer.
+// ---
+
 #include "chrome/browser/sync/test/integration/password_sharing_invitation_helper.h"
 
 #include <memory>

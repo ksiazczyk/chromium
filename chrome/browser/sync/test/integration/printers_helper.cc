@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printers sync integration test helper implementation
+// summary: Implements utilities to create, add, remove, and compare synced printers in ChromeOS printer stores for sync integration tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/printers_helper.h"
 
 #include <algorithm>

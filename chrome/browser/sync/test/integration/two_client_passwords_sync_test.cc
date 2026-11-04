@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client passwords sync integration tests
+// summary: Browser tests that verify password syncing between two clients, covering adding, updating and removing credentials, password stores and passphrase encryption.
+// ---
+
 #include <stdint.h>
 
 #include <limits>

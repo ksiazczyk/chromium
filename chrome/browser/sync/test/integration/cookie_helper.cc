@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signin cookie test helper implementation
+// summary: Implements functions to add and delete the SAPISID signin cookie on a profile for sync integration tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/cookie_helper.h"
 
 #include "base/run_loop.h"

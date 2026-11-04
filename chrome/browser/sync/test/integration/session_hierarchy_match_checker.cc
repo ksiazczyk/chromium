@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session hierarchy match checker implementation
+// summary: Implements a status checker that blocks until the fake server records a sessions hierarchy identical to the one given in the constructor.
+// ---
+
 #include "chrome/browser/sync/test/integration/session_hierarchy_match_checker.h"
 
 SessionHierarchyMatchChecker::SessionHierarchyMatchChecker(

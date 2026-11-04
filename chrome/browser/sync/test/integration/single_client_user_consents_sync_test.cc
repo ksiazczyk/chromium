@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client user consents sync integration test
+// summary: Parameterized browser tests verifying that user consents are recorded and uploaded to the fake server in sync and transport modes.
+// ---
+
 #include <stdint.h>
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Await match status change checker implementation
+// summary: Implements a checker that runs a custom callback condition to decide when sync test profiles have matched.
+// ---
+
 #include "chrome/browser/sync/test/integration/await_match_status_change_checker.h"
 
 #include "chrome/browser/sync/test/integration/sync_datatype_helper.h"

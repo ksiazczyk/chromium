@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync data type enable and disable integration tests
+// summary: Tests enabling and disabling sync data types, verifying GetUpdates requests, progress markers, and histogram behavior.
+// ---
+
 #include <memory>
 
 #include "base/run_loop.h"

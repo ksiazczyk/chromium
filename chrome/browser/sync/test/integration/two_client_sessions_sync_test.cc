@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client sessions sync integration tests
+// summary: Browser tests checking that open tabs, windows, and foreign sessions sync and converge between two clients.
+// ---
+
 #include <string>
 
 #include "base/strings/stringprintf.h"

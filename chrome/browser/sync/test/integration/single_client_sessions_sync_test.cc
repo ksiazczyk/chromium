@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client sessions sync integration tests
+// summary: Browser tests verifying session and tab data syncs to the fake server, covering tab open, close, navigation and session header entities.
+// ---
+
 #include "base/base64.h"
 #include "base/containers/to_vector.h"
 #include "base/memory/raw_ptr.h"

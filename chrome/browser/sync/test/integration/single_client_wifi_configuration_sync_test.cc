@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client WiFi configuration sync integration test
+// summary: Integration test verifying WiFi configuration sync, including keystore-encrypted server entities and local availability via Shill network state.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

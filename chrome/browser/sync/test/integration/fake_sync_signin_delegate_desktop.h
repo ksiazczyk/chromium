@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake desktop sign-in delegate for sync tests
+// summary: Declares a SyncSigninDelegate that signs test profiles in to sync using fake servers on desktop platforms.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_FAKE_SYNC_SIGNIN_DELEGATE_DESKTOP_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_FAKE_SYNC_SIGNIN_DELEGATE_DESKTOP_H_
 

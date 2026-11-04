@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client OS preferences sync integration tests
+// summary: ChromeOS-specific browser tests that verify OS preferences such as shelf alignment sync between two clients, including bidirectional changes and syncing with browser sync disabled.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "ash/public/cpp/shelf_prefs.h"
 #include "base/test/metrics/histogram_tester.h"

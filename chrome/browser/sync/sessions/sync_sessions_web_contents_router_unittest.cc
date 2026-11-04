@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncSessionsWebContentsRouter unit tests
+// summary: Unit tests checking when the router fires the injected start sync flare on tab modification and load completed events.
+// ---
+
 #include "chrome/browser/sync/sessions/sync_sessions_web_contents_router.h"
 
 #include "base/functional/bind.h"

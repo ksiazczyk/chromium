@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Workspace desk sync test helper implementation
+// summary: Implements checkers that wait for a desk UUID to be added, updated, or deleted in the desk model and for the desk model to become ready.
+// ---
+
 #include "chrome/browser/sync/test/integration/workspace_desk_helper.h"
 
 #include <sstream>

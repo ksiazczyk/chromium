@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session hierarchy match checker
+// summary: Declares a single-client status checker that waits until the fake server's sessions hierarchy matches an expected hierarchy.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_SESSION_HIERARCHY_MATCH_CHECKER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_SESSION_HIERARCHY_MATCH_CHECKER_H_
 

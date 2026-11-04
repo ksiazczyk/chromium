@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client send tab to self sync integration tests
+// summary: Browser tests verifying sending tabs to target devices, including shared form fields, user events and send tab to self UI behavior in single-client sync.
+// ---
+
 #include <memory>
 #include <string_view>
 

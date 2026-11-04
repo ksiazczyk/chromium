@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Web apps sync test directory owners
+summary: Delegates ownership of the web apps sync integration test directory to the owners of chrome/browser/web_applications.

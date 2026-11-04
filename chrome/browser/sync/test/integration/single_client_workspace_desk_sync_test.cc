@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client workspace desk sync integration test
+// summary: Integration test verifying WORKSPACE_DESK sync of desk templates, including download status and disabling desk sync by turning off tab sync.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/public/cpp/desk_template.h"
 #include "base/test/bind.h"

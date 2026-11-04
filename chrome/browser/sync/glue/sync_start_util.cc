@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync start utility implementation
+// summary: Implements a StartSyncFlare callback that posts to the UI thread and requests sync startup for a data type on the given profile.
+// ---
+
 #include "chrome/browser/sync/glue/sync_start_util.h"
 
 #include "base/files/file_path.h"

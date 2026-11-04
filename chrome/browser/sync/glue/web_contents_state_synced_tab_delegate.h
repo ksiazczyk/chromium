@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents state synced tab delegate header
+// summary: Declares WebContentsStateSyncedTabDelegate, a temporary tab delegate representing an Android placeholder tab's restored web contents.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_GLUE_WEB_CONTENTS_STATE_SYNCED_TAB_DELEGATE_H_
 #define CHROME_BROWSER_SYNC_GLUE_WEB_CONTENTS_STATE_SYNCED_TAB_DELEGATE_H_
 

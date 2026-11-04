@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync app list test helper implementation
+// summary: Implements a singleton helper that sets up profiles and verifies app list consistency across profiles, including moving apps between folders, in sync integration tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/sync_app_list_helper.h"
 
 #include <map>

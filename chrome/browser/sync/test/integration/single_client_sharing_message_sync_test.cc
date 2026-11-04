@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client sharing message sync integration tests
+// summary: Browser tests verifying sharing message commits, auth error token retry handling and disabling of the sharing message data type in single-client sync.
+// ---
+
 #include <algorithm>
 #include <vector>
 

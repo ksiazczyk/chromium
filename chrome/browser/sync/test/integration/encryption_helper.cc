@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Encryption and trusted vault test helper implementation
+// summary: Sets up fake trusted vault retrieval and recoverability pages on the test server and implements encryption-related checkers.
+// ---
+
 #include "chrome/browser/sync/test/integration/encryption_helper.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop live sync sign-in delegate implementation
+// summary: Implements UI-based sign-in, sync confirmation, and sign-out for live desktop sync tests using GAIA credentials from command-line switches.
+// ---
+
 #include "chrome/browser/sync/test/integration/live_sync_signin_delegate_desktop.h"
 
 #include "base/check_deref.h"

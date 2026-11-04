@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android synced tab delegate implementation
+// summary: Implements SyncedTabDelegateAndroid, adapting Android tabs, including placeholder tabs without web contents, for session sync.
+// ---
+
 #include "chrome/browser/sync/glue/synced_tab_delegate_android.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client extensions sync integration tests
+// summary: Parameterized browser tests verifying single-client sync of extensions, checking server extension IDs against a fake server across sync setup modes.
+// ---
+
 #include <string>
 #include <vector>
 

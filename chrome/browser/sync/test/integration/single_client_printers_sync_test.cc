@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client printers sync integration tests
+// summary: Browser tests verifying that adding, editing and removing ChromeOS printers syncs correctly with the fake server in a single-client setup.
+// ---
+
 #include <stddef.h>
 
 #include "chrome/browser/ash/printing/printers_sync_bridge.h"

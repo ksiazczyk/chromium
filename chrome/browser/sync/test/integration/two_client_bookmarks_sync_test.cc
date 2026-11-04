@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client bookmarks sync tests
+// summary: Extensive browser tests verifying bookmark synchronization between two clients, covering folders, favicons, ordering, encryption, and managed bookmarks.
+// ---
+
 #include <stddef.h>
 
 #include <array>

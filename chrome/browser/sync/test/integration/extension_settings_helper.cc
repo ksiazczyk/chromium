@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension settings sync test helper implementation
+// summary: Implements helpers to read, write, and compare extension settings across profiles in sync integration tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/extension_settings_helper.h"
 
 #include <memory>

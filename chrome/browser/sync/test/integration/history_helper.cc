@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History helper implementation for sync integration tests
+// summary: Implements helpers that query client history databases and provide readable printing of history protobufs and visit rows for sync test matchers.
+// ---
+
 #include "chrome/browser/sync/test/integration/history_helper.h"
 
 #include <memory>

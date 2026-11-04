@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client dictionary sync integration tests
+// summary: Browser tests that verify spellcheck dictionary entries sync between two clients, covering add, remove and simultaneous changes across sync setup modes.
+// ---
+
 #include "base/strings/string_number_conversions.h"
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"

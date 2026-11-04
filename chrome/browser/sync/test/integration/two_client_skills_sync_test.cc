@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client skills sync integration tests
+// summary: Browser tests verifying that skills data matches across two synced clients using a dedicated skills match checker.
+// ---
+
 #include <string>
 #include <vector>
 

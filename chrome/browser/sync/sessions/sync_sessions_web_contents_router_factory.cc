@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: SyncSessionsWebContentsRouterFactory implementation
+// summary: Implements the ProfileKeyedServiceFactory that provides a per-profile SyncSessionsWebContentsRouter instance via GetForProfile.
+// ---
+
 #include "chrome/browser/sync/sessions/sync_sessions_web_contents_router_factory.h"
 
 #include "base/no_destructor.h"

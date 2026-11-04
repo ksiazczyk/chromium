@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client app settings sync tests
+// summary: Browser tests verifying that the APP_SETTINGS data type activates and deactivates together with the Apps user selection across platforms.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"
 #include "chrome/browser/sync/test/integration/apps_sync_test_base.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncSessionsRouterTabHelper unit tests
+// summary: Unit tests using a fake event handler to verify the tab helper ignores subframe navigations and notifies the router of tab modifications and closures.
+// ---
+
 #include "chrome/browser/sync/sessions/sync_sessions_router_tab_helper.h"
 
 #include <memory>

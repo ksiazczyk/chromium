@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync extension helper implementation
+// summary: Implements a singleton helper to install, uninstall, enable and compare extensions across profiles in sync integration tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/sync_extension_helper.h"
 
 #include <list>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client autofill profile sync integration tests
+// summary: Browser tests covering single-client autofill profile syncing, including behavior when autofill is disabled or the account name profile is hidden.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/signin/identity_manager_factory.h"

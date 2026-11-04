@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill sync test helper interface
+// summary: Declares autofill_helper functions and checkers for managing and comparing autofill data in sync integration tests.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_AUTOFILL_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_AUTOFILL_HELPER_H_
 

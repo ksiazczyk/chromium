@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared tab group data test helpers
+// summary: Declares GMock matchers and status checkers that wait for shared tab group sync state on services and the fake server to match expectations.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_SHARED_TAB_GROUP_DATA_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_SHARED_TAB_GROUP_DATA_HELPER_H_
 

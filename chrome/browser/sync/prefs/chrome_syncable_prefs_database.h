@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSyncablePrefsDatabase class declaration
+// summary: Declares the ChromeSyncablePrefsDatabase class that provides syncable preference metadata and combines the common cross-platform syncable prefs database.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_PREFS_CHROME_SYNCABLE_PREFS_DATABASE_H_
 #define CHROME_BROWSER_SYNC_PREFS_CHROME_SYNCABLE_PREFS_DATABASE_H_
 

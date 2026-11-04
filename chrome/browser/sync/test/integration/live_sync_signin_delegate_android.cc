@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android live sync sign-in delegate implementation
+// summary: Implements sign-in, sync confirmation, and sign-out for live Android sync tests using GAIA credentials passed via command-line switches.
+// ---
+
 #include "chrome/browser/sync/test/integration/live_sync_signin_delegate_android.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading list sync test helper implementation
+// summary: Implements helpers and checkers that verify reading list URLs and titles on the fake server and in the local model during sync tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/reading_list_helper.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync engine stopped checker
+// summary: Header for a test checker that waits for the sync engine to stop and keeps the SyncStatus snapshot from that moment.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_ENGINE_STOPPED_CHECKER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_ENGINE_STOPPED_CHECKER_H_
 

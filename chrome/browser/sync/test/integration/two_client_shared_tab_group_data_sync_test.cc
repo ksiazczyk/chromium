@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client shared tab group data sync integration tests
+// summary: Browser tests verifying that saved and shared tab groups sync between two client profiles, including collaboration setup.
+// ---
+
 #include <optional>
 #include <vector>
 

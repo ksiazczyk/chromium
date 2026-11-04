@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync exponential backoff integration tests
+// summary: Browser tests verifying the sync client applies exponential backoff while offline and recovers once the network returns.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"

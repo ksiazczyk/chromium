@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client password sharing policy tests
+// summary: Browser tests verifying that the PasswordSharingEnabled policy activates or deactivates the incoming and outgoing password sharing sync data types.
+// ---
+
 #include "chrome/browser/sync/test/integration/sync_service_impl_harness.h"
 #include "chrome/browser/sync/test/integration/sync_test.h"
 #include "components/policy/core/browser/browser_policy_connector.h"

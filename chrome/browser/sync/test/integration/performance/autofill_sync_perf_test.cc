@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill sync performance test
+// summary: Browser performance test that measures sync cycle times for adding, updating and deleting autofill profiles and autocomplete keys across two synced clients.
+// ---
+
 #include <stddef.h>
 
 #include "base/strings/string_number_conversions.h"

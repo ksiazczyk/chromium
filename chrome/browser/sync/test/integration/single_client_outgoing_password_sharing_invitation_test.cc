@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client outgoing password sharing invitation tests
+// summary: Browser tests verifying creation and commitment of outgoing password sharing invitations to the fake server for selected recipients.
+// ---
+
 #include <array>
 #include <string>
 #include <vector>

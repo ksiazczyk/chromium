@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android synced window delegates getter implementation
+// summary: Implements SyncedWindowDelegatesGetterAndroid, collecting synced window delegates from Android tab models and finding them by session ID.
+// ---
+
 #include "chrome/browser/sync/glue/synced_window_delegates_getter_android.h"
 
 #include "chrome/browser/ui/android/tab_model/tab_model.h"

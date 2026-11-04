@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync sign-in delegate for Android implementation
+// summary: Implements an Android sign-in delegate that fakes sign-in, sync confirmation and sign-out for predefined consumer, enterprise and google.com test accounts.
+// ---
+
 #include "chrome/browser/sync/test/integration/fake_sync_signin_delegate_android.h"
 
 #include <optional>

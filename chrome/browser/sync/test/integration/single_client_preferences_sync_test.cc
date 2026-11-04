@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client preferences sync integration tests
+// summary: Browser tests covering preference and priority preference syncing, including account storage, policies, histograms and pref value conversion for single-client sync.
+// ---
+
 #include <map>
 
 #include "base/files/file_util.h"

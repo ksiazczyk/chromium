@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client valuables sync integration test
+// summary: Browser integration test verifying that AUTOFILL_VALUABLE syncs loyalty cards and AutofillAI entity instances such as vehicles between client and fake server.
+// ---
+
 #include <variant>
 #include <vector>
 

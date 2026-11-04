@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync datatype helper header
+// summary: Declares AssociateWithTest and test accessors that link the per-datatype sync test helpers to the active SyncTest instance.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_DATATYPE_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_DATATYPE_HELPER_H_
 

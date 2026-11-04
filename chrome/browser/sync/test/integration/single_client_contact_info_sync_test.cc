@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client contact info sync integration tests
+// summary: Browser tests for single-client contact info syncing, including unknown protobuf fields, address handling, and encryption scenarios.
+// ---
+
 #include <string>
 
 #include "base/strings/utf_string_conversions.h"

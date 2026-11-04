@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallet sync test helper implementation
+// summary: Implements helpers for autofill wallet sync tests, including default credit card data, server card setup, and comparison utilities for payments profiles.
+// ---
+
 #include "chrome/browser/sync/test/integration/wallet_helper.h"
 
 #include <stddef.h>

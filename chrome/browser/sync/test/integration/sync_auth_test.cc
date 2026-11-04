@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync authentication integration tests
+// summary: Browser tests covering sync behavior under auth errors, access token propagation and sync-transport-only modes, including waiting for auth errors and progress markers.
+// ---
+
 #include "base/strings/strcat.h"
 #include "base/strings/stringprintf.h"
 #include "base/test/metrics/histogram_tester.h"
