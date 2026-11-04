@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MirrorLayer class header
+// summary: Declares the MirrorLayer class, a layer that mirrors the contents of another Layer and prevents mirroring of ancestors.
+// ---
+
 #ifndef CC_LAYERS_MIRROR_LAYER_H_
 #define CC_LAYERS_MIRROR_LAYER_H_
 

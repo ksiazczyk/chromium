@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NinePatchLayerImpl rendering implementation
+// summary: Implements the compositor-side nine patch layer, generating patches via NinePatchGenerator and appending texture draw quads to the render pass.
+// ---
+
 #include "cc/layers/nine_patch_layer_impl.h"
 
 #include <memory>

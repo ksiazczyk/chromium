@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Events metrics manager implementation
+// summary: Implements EventsMetricsManager's scoped monitors that track which handled events caused frame updates and manage saved event metrics.
+// ---
+
 #include "cc/metrics/events_metrics_manager.h"
 
 #include <algorithm>

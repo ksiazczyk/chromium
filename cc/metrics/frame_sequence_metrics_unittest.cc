@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameSequenceMetrics unit tests
+// summary: Unit tests for FrameSequenceMetrics covering metric merging, reporting thresholds and checkerboarding histogram output.
+// ---
+
 #include "cc/metrics/frame_sequence_metrics.h"
 
 #include <utility>

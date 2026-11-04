@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubmitInfo implementation
+// summary: Implements constructors and move operations for the struct holding frame submission information.
+// ---
+
 #include "cc/metrics/submit_info.h"
 
 #include <optional>

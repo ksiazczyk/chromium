@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileDisplayLayerImpl implementation
+// summary: Implements the compositor-side tile display layer, managing tilings, tile contents, damage recording, and coverage iteration for rendering.
+// ---
+
 #include "cc/layers/tile_display_layer_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSequenceTrackerCollection implementation
+// summary: Implements FrameSequenceTrackerCollection, managing frame tracker lifecycles, smooth-thread history and notification of begin-frame events.
+// ---
+
 #include "cc/metrics/frame_sequence_tracker_collection.h"
 
 #include <utility>

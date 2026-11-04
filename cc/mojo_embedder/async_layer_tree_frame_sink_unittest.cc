@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AsyncLayerTreeFrameSink unit tests
+// summary: Unit tests for AsyncLayerTreeFrameSink covering connection errors, frame sink loss, and begin frame behavior using fake clients and test context providers.
+// ---
+
 #include "cc/mojo_embedder/async_layer_tree_frame_sink.h"
 
 #include <cstdint>

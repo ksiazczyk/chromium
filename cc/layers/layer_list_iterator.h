@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer tree iterator declarations
+// summary: Declares iterator classes for visiting a layer tree in drawing order, including const and reverse variants.
+// ---
+
 #ifndef CC_LAYERS_LAYER_LIST_ITERATOR_H_
 #define CC_LAYERS_LAYER_LIST_ITERATOR_H_
 

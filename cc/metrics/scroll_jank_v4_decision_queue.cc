@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollJankV4DecisionQueue implementation
+// summary: Implements ScrollJankV4DecisionQueue, buffering synthetic-only frames and delivering ordered jank decisions to a result consumer.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_decision_queue.h"
 
 #include <utility>

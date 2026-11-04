@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo embedder export macros
+// summary: Defines the CC_MOJO_EMBEDDER_EXPORT macro for symbol export and import in component builds across platforms.
+// ---
+
 #ifndef CC_MOJO_EMBEDDER_MOJO_EMBEDDER_EXPORT_H_
 #define CC_MOJO_EMBEDDER_MOJO_EMBEDDER_EXPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom metrics recorder implementation
+// summary: Implements the CustomMetricRecorder singleton that lets embedders customize how cc event latency metrics are reported.
+// ---
+
 #include "cc/metrics/custom_metrics_recorder.h"
 
 #include "base/check_op.h"

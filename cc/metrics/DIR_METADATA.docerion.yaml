@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for cc/metrics
+summary: Maps the cc/metrics directory to the Internals>GPU>Metrics Monorail component and a Buganizer component ID for issue routing.

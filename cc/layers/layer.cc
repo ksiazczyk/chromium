@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base Layer class implementation
+// summary: Implements the main-thread Layer base class, covering layer tree structure, property tree indices, dirty property tracking and pushing properties to LayerImpl during commit.
+// ---
+
 #include "cc/layers/layer.h"
 
 #include <stddef.h>

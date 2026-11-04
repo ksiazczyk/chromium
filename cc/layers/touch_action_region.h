@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchActionRegion class declaration
+// summary: Declares TouchActionRegion, a map from touch actions to regions with queries for allowed touch actions and iteration support.
+// ---
+
 #ifndef CC_LAYERS_TOUCH_ACTION_REGION_H_
 #define CC_LAYERS_TOUCH_ACTION_REGION_H_
 

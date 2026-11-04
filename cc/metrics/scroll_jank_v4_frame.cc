@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll jank v4 frame implementation
+// summary: Implements the ScrollJankV4Frame struct, including conversions from viz and dispatch begin frame args and constructors for stages and scroll updates.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_frame.h"
 
 #include <algorithm>

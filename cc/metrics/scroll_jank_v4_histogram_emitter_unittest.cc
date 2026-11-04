@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scroll jank v4 histogram emitter unit tests
+// summary: Unit tests verifying that the scroll jank v4 histogram emitter produces the expected fixed-window and per-scroll UMA histograms for janky and non-janky frames.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_histogram_emitter.h"
 
 #include <memory>

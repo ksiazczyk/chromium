@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollJankV4Decider class declaration
+// summary: Declares ScrollJankV4Decider, which classifies damaging and real versus synthetic scroll update frames and decides jank for the v4 metric.
+// ---
+
 #ifndef CC_METRICS_SCROLL_JANK_V4_DECIDER_H_
 #define CC_METRICS_SCROLL_JANK_V4_DECIDER_H_
 

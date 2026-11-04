@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NinePatchLayerImpl class header
+// summary: Declares the compositor-side NinePatchLayerImpl, which applies nine patch layout parameters, copies properties, and appends quads for rendering.
+// ---
+
 #ifndef CC_LAYERS_NINE_PATCH_LAYER_IMPL_H_
 #define CC_LAYERS_NINE_PATCH_LAYER_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of render_surface_reason.mojom.
+type: source
+title: RenderSurfaceReason enum for effect nodes
+summary: Mojom enum mapping to cc::RenderSurfaceReason that lists the reasons an effect node requires a render surface, such as filters, opacity, masks, and clips.

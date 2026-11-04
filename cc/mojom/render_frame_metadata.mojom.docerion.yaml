@@ -1,0 +1,4 @@
+# Docerion header of render_frame_metadata.mojom.
+type: source
+title: RenderFrameMetadata Mojom definitions
+summary: Mojom definitions for RenderFrameMetadata and related structs carrying browser controls, delegated ink, selection, and surface information between renderer and browser.

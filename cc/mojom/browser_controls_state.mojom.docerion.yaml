@@ -1,0 +1,4 @@
+# Docerion header of browser_controls_state.mojom.
+type: source
+title: Mojom enum BrowserControlsState
+summary: Defines the cc.mojom BrowserControlsState enum with shown, hidden, and both values for browser controls.

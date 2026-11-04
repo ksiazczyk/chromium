@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawProperties header
+// summary: Declares DrawProperties, holding transforms, opacity, occlusion, and clip rects that layers compute before drawing.
+// ---
+
 #ifndef CC_LAYERS_DRAW_PROPERTIES_H_
 #define CC_LAYERS_DRAW_PROPERTIES_H_
 

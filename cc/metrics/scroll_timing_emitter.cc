@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollTimingEmitter implementation
+// summary: Implements conversion of the scroll jank v4 frame lifecycle into finalized ScrollTimingInfo records for the Performance Scroll Timing API, including segment extension and flushing.
+// ---
+
 #include "cc/metrics/scroll_timing_emitter.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UIResourceLayerImpl unit tests
+// summary: Unit tests verifying quad generation, blending and draw behavior of the compositor-side UI resource layer using fake host and resource fixtures.
+// ---
+
 #include "cc/layers/ui_resource_layer_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll jank v4 processor class declaration
+// summary: Declares ScrollJankV4Processor, which calculates the scroll lifecycle for presented frames, sets scroll jank v4 results, and optionally dispatches scroll timing emission.
+// ---
+
 #ifndef CC_METRICS_SCROLL_JANK_V4_PROCESSOR_H_
 #define CC_METRICS_SCROLL_JANK_V4_PROCESSOR_H_
 

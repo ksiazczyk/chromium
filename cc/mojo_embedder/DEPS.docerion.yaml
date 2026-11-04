@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cc/mojo_embedder
+summary: Sets include rules allowing gpu/ipc/client, mojo public bindings, and viz compositing mojom headers in this directory.

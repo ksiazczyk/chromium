@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll jank v4 result and jank reason definitions
+// summary: Defines the JankReason enum and ScrollJankV4Result struct describing why and by how many vsyncs a scroll update frame was delayed for the scroll jank v4 metric.
+// ---
+
 #ifndef CC_METRICS_SCROLL_JANK_V4_RESULT_H_
 #define CC_METRICS_SCROLL_JANK_V4_RESULT_H_
 

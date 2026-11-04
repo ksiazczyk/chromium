@@ -1,0 +1,4 @@
+# Docerion header of layer_tree_debug_state.mojom.
+type: source
+title: Layer tree debug state Mojom definition
+summary: Defines a Mojom struct mirroring cc::LayerTreeDebugState with flags for debug borders, paint rects, and rendering stats.

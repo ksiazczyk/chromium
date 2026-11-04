@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scrollbar layer unit tests
+// summary: Unit tests for scrollbar layers covering solid color, painted, and nine-patch thumb variants using fake scrollbars and layer tree test infrastructure.
+// ---
+
 #include <stddef.h>
 
 #include <array>

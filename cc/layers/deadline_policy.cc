@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeadlinePolicy implementation
+// summary: Implements DeadlinePolicy factory methods and its string representation for compositor frame activation deadlines.
+// ---
+
 #include "cc/layers/deadline_policy.h"
 
 #include <limits>

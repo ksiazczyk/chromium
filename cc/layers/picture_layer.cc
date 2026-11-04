@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture layer implementation
+// summary: Implements the main-thread PictureLayer that records content from a ContentLayerClient into a recording source and stages raster sources for commit to the impl side.
+// ---
+
 #include "cc/layers/picture_layer.h"
 
 #include <memory>

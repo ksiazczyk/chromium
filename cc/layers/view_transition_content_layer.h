@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTransitionContentLayer class header
+// summary: Declares a layer that renders a view transition element texture cached in the Viz process, tracking live content and max extents.
+// ---
+
 #ifndef CC_LAYERS_VIEW_TRANSITION_CONTENT_LAYER_H_
 #define CC_LAYERS_VIEW_TRANSITION_CONTENT_LAYER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollJankV4DecisionQueue class declaration
+// summary: Declares ScrollJankV4DecisionQueue and its ResultConsumer interface for processing scroll update frames in order under the v4 metric.
+// ---
+
 #ifndef CC_METRICS_SCROLL_JANK_V4_DECISION_QUEUE_H_
 #define CC_METRICS_SCROLL_JANK_V4_DECISION_QUEUE_H_
 

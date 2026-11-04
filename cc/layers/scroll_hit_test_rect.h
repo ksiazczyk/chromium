@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollHitTestRect struct header
+// summary: Stores the element id of a scroll node together with its hit test rect in layer space for compositor hit testing.
+// ---
+
 #ifndef CC_LAYERS_SCROLL_HIT_TEST_RECT_H_
 #define CC_LAYERS_SCROLL_HIT_TEST_RECT_H_
 

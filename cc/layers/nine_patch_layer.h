@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NinePatchLayer class header
+// summary: Declares the NinePatchLayer class that renders a UI resource image as a nine-patch with configurable border, aperture, center fill, and layer occlusion.
+// ---
+
 #ifndef CC_LAYERS_NINE_PATCH_LAYER_H_
 #define CC_LAYERS_NINE_PATCH_LAYER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer selection bound Mojom traits implementation
+// summary: 'Implements deserialization of LayerSelectionBound and LayerSelection Mojom data into their cc:: counterparts.'
+// ---
+
 #include "cc/mojom/layer_selection_bound_mojom_traits.h"
 
 namespace mojo {

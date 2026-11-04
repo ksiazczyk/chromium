@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SolidColorLayerImpl class header
+// summary: Declares the SolidColorLayerImpl class that appends solid color draw quads during rendering.
+// ---
+
 #ifndef CC_LAYERS_SOLID_COLOR_LAYER_IMPL_H_
 #define CC_LAYERS_SOLID_COLOR_LAYER_IMPL_H_
 

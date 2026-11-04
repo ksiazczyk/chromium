@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for cc/mojom
+summary: Assigns review of mojom files and mojom traits files to the IPC security owners with no parent delegation.

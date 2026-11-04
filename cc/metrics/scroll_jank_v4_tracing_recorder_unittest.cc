@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scroll jank v4 tracing recorder unit tests
+// summary: Unit tests verifying the trace events and Perfetto slices emitted by the scroll jank v4 tracing recorder using trace processor queries.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_tracing_recorder.h"
 
 #include <optional>

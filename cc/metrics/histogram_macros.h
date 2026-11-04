@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Percentage histogram macros for cc/metrics
+// summary: Defines a macro that standardizes percentage histograms in cc/metrics with a fixed range of 1 to 101 and 102 buckets.
+// ---
+
 #ifndef CC_METRICS_HISTOGRAM_MACROS_H_
 #define CC_METRICS_HISTOGRAM_MACROS_H_
 

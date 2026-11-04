@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor frame reporter
+// summary: Declares CompositorFrameReporter, which tracks and reports the duration of each stage in the compositor frame pipeline to UMA and tracing.
+// ---
+
 #ifndef CC_METRICS_COMPOSITOR_FRAME_REPORTER_H_
 #define CC_METRICS_COMPOSITOR_FRAME_REPORTER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for cc/metrics
+summary: Sets per-file owner requirements so changes to ukm_smoothness_data.h and shared_metrics_buffer.h need IPC security owners approval.

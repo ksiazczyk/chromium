@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Solid color layer impl unit tests
+// summary: Unit tests for SolidColorLayerImpl verifying quad tiling coverage, background color, opacity, and render surface opacity in appended quads.
+// ---
+
 #include "cc/layers/solid_color_layer_impl.h"
 
 #include <stddef.h>

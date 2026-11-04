@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Effect tree layer list iterator class declaration
+// summary: Declares EffectTreeLayerListIterator, which traverses layers and render surfaces in front-to-back order via the effect tree, with states for layers, target and contributing surfaces.
+// ---
+
 #ifndef CC_LAYERS_EFFECT_TREE_LAYER_LIST_ITERATOR_H_
 #define CC_LAYERS_EFFECT_TREE_LAYER_LIST_ITERATOR_H_
 

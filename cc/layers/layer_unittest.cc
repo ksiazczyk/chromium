@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer unit tests
+// summary: Unit tests for the cc Layer class covering property change flags, tree synchronization, and layer tree host interactions.
+// ---
+
 #include "cc/layers/layer.h"
 
 #include <stddef.h>

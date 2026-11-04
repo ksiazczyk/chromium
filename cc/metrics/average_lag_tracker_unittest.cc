@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AverageLagTracker
+// summary: Verifies AverageLagTracker histogram reporting for scroll begin and update events, including prediction-related buckets, using synthetic events.
+// ---
+
 #include "cc/metrics/average_lag_tracker.h"
 
 #include <memory>

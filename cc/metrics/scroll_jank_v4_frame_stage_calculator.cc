@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll jank v4 frame stage calculator implementation
+// summary: Calculates scroll jank v4 frame stages from event metrics using scroll IDs, filtering ineligible updates and emitting traces plus a subsampled diagnostic UMA histogram.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_frame_stage_calculator.h"
 
 #include <algorithm>

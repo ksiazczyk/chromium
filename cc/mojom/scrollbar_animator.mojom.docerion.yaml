@@ -1,0 +1,4 @@
+# Docerion header of scrollbar_animator.mojom.
+type: source
+title: ScrollbarAnimator Mojom enum
+summary: Defines a Mojom enum mirroring LayerTreeSettings::ScrollbarAnimator with no animator, Android overlay, and Aura overlay scrollbar variants.

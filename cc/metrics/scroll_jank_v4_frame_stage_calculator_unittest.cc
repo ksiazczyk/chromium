@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scroll jank v4 frame stage calculator unit tests
+// summary: Tests stage calculation for regular, overlapping, and late scroll updates, result ID assignment, and the diagnostic UMA histogram gated by the v4 feature flag.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_frame_stage_calculator.h"
 
 #include <cstdint>

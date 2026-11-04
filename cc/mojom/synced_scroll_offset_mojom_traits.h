@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedScrollOffset Mojom traits
+// summary: Declares StructTraits that serialize a scoped_refptr cc::SyncedScrollOffset to and from its Mojom struct using the active tree's current offset.
+// ---
+
 #ifndef CC_MOJOM_SYNCED_SCROLL_OFFSET_MOJOM_TRAITS_H_
 #define CC_MOJOM_SYNCED_SCROLL_OFFSET_MOJOM_TRAITS_H_
 

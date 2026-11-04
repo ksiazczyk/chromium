@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor frame reporting controller
+// summary: Declares CompositorFrameReportingController, which manages simultaneous CompositorFrameReporter instances when the compositor has high latency.
+// ---
+
 #ifndef CC_METRICS_COMPOSITOR_FRAME_REPORTING_CONTROLLER_H_
 #define CC_METRICS_COMPOSITOR_FRAME_REPORTING_CONTROLLER_H_
 

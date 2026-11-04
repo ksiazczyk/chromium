@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppendQuadsContext implementation
+// summary: Implements the constructors and destructor of the AppendQuadsContext struct used when layers append quads.
+// ---
+
 #include "cc/layers/append_quads_context.h"
 
 #include <utility>

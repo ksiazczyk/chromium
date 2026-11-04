@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer selection bound Mojom traits
+// summary: Declares StructTraits serializing cc::LayerSelectionBound and cc::LayerSelection to and from their Mojom representations.
+// ---
+
 #ifndef CC_MOJOM_LAYER_SELECTION_BOUND_MOJOM_TRAITS_H_
 #define CC_MOJOM_LAYER_SELECTION_BOUND_MOJOM_TRAITS_H_
 

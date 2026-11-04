@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollbarAnimator Mojom traits
+// summary: Converts the ScrollbarAnimator enum between cc::LayerTreeSettings and its Mojom representation for Mojo serialization.
+// ---
+
 #ifndef CC_MOJOM_SCROLLBAR_ANIMATOR_MOJOM_TRAITS_H_
 #define CC_MOJOM_SCROLLBAR_ANIMATOR_MOJOM_TRAITS_H_
 

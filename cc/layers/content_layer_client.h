@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentLayerClient interface
+// summary: Defines the interface clients implement to paint layer content into a DisplayItemList and report background filling.
+// ---
+
 #ifndef CC_LAYERS_CONTENT_LAYER_CLIENT_H_
 #define CC_LAYERS_CONTENT_LAYER_CLIENT_H_
 

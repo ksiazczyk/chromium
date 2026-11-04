@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextureLayer implementation
+// summary: Main-thread implementation of TextureLayer, managing transferable resources, UV transforms, blend and opacity settings, and client updates for texture-backed layers.
+// ---
+
 #include "cc/layers/texture_layer.h"
 
 #include <memory>

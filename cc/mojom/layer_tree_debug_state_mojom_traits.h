@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer tree debug state Mojom traits
+// summary: Serializes cc::LayerTreeDebugState to and from its Mojom representation, rejecting negative raster scale factors.
+// ---
+
 #ifndef CC_MOJOM_LAYER_TREE_DEBUG_STATE_MOJOM_TRAITS_H_
 #define CC_MOJOM_LAYER_TREE_DEBUG_STATE_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScrollJankV4Decider unit tests
+// summary: Extensive unit tests covering ScrollJankV4Decider jank decisions for damaging, non-damaging, real and synthetic scroll update frames.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_decider.h"
 
 #include <optional>

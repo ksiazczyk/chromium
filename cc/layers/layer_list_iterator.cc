@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer tree iterator implementation
+// summary: Implements forward, const, and reverse iterators that traverse a tree of layers in drawing order using parent and child links.
+// ---
+
 #include "cc/layers/layer_list_iterator.h"
 
 #include "cc/layers/layer.h"

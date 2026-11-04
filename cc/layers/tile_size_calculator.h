@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileSizeCalculator class declaration
+// summary: Declares TileSizeCalculator, which caches and recomputes picture layer tile sizes only when affecting parameters change.
+// ---
+
 #ifndef CC_LAYERS_TILE_SIZE_CALCULATOR_H_
 #define CC_LAYERS_TILE_SIZE_CALCULATOR_H_
 

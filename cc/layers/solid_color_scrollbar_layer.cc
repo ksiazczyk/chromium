@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Solid color scrollbar layer implementation
+// summary: Implements the main-thread SolidColorScrollbarLayer, including layer reuse, opacity handling, and thumb color updates for overlay scrollbars.
+// ---
+
 #include "cc/layers/solid_color_scrollbar_layer.h"
 
 #include <memory>

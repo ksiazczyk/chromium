@@ -1,0 +1,4 @@
+# Docerion header of browser_controls_offset_tag_modifications.mojom.
+type: source
+title: Mojom definition of BrowserControlsOffsetTagModifications
+summary: Defines the cc.mojom struct mirroring cc::BrowserControlsOffsetTagModifications, holding offset tags plus additional top and bottom control heights.

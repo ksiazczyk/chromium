@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedMetricsBuffer template for cross-process metric transport
+// summary: Defines a sequence-lock-protected template struct for copying metrics between processes via shared memory.
+// ---
+
 #ifndef CC_METRICS_SHARED_METRICS_BUFFER_H_
 #define CC_METRICS_SHARED_METRICS_BUFFER_H_
 

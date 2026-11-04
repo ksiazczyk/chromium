@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchActionRegion implementation
+// summary: Implements per-touch-action region tracking and computes the allowed touch action for a given rectangle by intersecting overlapping regions.
+// ---
+
 #include "cc/layers/touch_action_region.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of paint_flags.mojom.
+type: source
+title: Paint flags Mojom types for filter quality and dynamic range
+summary: Mojom definitions for the FilterQuality enum and the DynamicRangeLimit struct used with paint flags.

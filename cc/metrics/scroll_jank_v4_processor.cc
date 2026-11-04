@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll jank v4 processor implementation
+// summary: Implements the processor that computes the shared scroll lifecycle for presented frames, decides jank under the kScrollJankV4Metric feature, and feeds the histogram emitter and tracing recorder.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_processor.h"
 
 #include <memory>

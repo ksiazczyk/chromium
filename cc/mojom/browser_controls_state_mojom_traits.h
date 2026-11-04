@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser controls state Mojom traits
+// summary: Maps the cc::BrowserControlsState enum between native C++ and its Mojom representation for Mojo serialization.
+// ---
+
 #ifndef CC_MOJOM_BROWSER_CONTROLS_STATE_MOJOM_TRAITS_H_
 #define CC_MOJOM_BROWSER_CONTROLS_STATE_MOJOM_TRAITS_H_
 

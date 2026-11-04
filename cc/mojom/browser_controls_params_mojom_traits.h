@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo StructTraits for BrowserControlsParams
+// summary: Maps between cc::BrowserControlsParams and its mojom representation using a mojo StructTraits specialization.
+// ---
+
 #ifndef CC_MOJOM_BROWSER_CONTROLS_PARAMS_MOJOM_TRAITS_H_
 #define CC_MOJOM_BROWSER_CONTROLS_PARAMS_MOJOM_TRAITS_H_
 

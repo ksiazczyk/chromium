@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AverageLagTrackingManager class declaration
+// summary: Declares a helper that decouples EventMetrics from AverageLagTracker, queueing scroll events by frame token until presentation feedback.
+// ---
+
 #ifndef CC_METRICS_AVERAGE_LAG_TRACKING_MANAGER_H_
 #define CC_METRICS_AVERAGE_LAG_TRACKING_MANAGER_H_
 

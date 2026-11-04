@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NinePatchThumbScrollbarLayerImpl implementation
+// summary: Implements the compositor-side nine patch thumb scrollbar layer, appending thumb and track-and-buttons quads from UI resources during drawing.
+// ---
+
 #include "cc/layers/nine_patch_thumb_scrollbar_layer_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scroll jank v4 frame unit tests
+// summary: Tests BeginFrameArgsForScrollJank conversions from viz and dispatch args and the stream output of real and synthetic scroll update stages.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_frame.h"
 
 #include <sstream>

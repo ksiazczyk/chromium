@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cc/metrics
+summary: Restricts includes in the cc/metrics directory, allowing only the device base one_writer_seqlock header as an extra dependency.

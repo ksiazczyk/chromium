@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollJankOsReporter interface
+// summary: Declares the abstract ScrollJankOsReporter interface used to report total and janky frame counts to the OS.
+// ---
+
 #ifndef CC_METRICS_SCROLL_JANK_OS_REPORTER_H_
 #define CC_METRICS_SCROLL_JANK_OS_REPORTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollSequenceTracker implementation
+// summary: Implements tracking of the most recent scroll begin event's generated and arrival timestamps and whether any scroll update has arrived since, handling null metrics gracefully.
+// ---
+
 #include "cc/metrics/scroll_sequence_tracker.h"
 
 #include "base/time/time.h"

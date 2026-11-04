@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MirrorLayerImpl class header
+// summary: Declares the compositor-side mirror layer that renders another layer's render pass via a CompositorRenderPassDrawQuad.
+// ---
+
 #ifndef CC_LAYERS_MIRROR_LAYER_IMPL_H_
 #define CC_LAYERS_MIRROR_LAYER_IMPL_H_
 

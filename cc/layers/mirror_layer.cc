@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MirrorLayer implementation
+// summary: Implements the main-thread mirror layer that references another layer to mirror its contents and pushes the mirrored layer id to the impl side.
+// ---
+
 #include <utility>
 
 #include "cc/layers/mirror_layer.h"

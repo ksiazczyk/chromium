@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerImpl unit tests
+// summary: Unit tests verifying that LayerImpl property change tracking and draw property update flags behave correctly for pending and active trees.
+// ---
+
 #include "cc/layers/layer_impl.h"
 
 #include <algorithm>

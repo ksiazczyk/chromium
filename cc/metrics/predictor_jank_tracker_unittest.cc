@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PredictorJankTracker unit tests
+// summary: Unit tests verifying PredictorJankTracker scroll jank histogram reporting for fast and slow scrolls with and without missed vsyncs.
+// ---
+
 #include "cc/metrics/predictor_jank_tracker.h"
 
 #include <array>

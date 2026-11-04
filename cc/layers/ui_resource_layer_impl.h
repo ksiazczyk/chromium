@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIResourceLayerImpl class header
+// summary: Declares the compositor-side UI resource layer holding a resource ID, image bounds and UV transform, with quad appending and tracing overrides.
+// ---
+
 #ifndef CC_LAYERS_UI_RESOURCE_LAYER_IMPL_H_
 #define CC_LAYERS_UI_RESOURCE_LAYER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AverageLagTracker implementation
+// summary: Implements tracking of touch scroll events and computation of AverageLagPresentation UMA metrics, with and without scroll prediction.
+// ---
+
 #include "cc/metrics/average_lag_tracker.h"
 
 #include <algorithm>

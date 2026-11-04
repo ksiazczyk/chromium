@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Events metrics manager unit tests
+// summary: Unit tests for EventsMetricsManager covering saving, taking, and dropping event metrics for scoped event handling.
+// ---
+
 #include "cc/metrics/events_metrics_manager.h"
 
 #include <array>

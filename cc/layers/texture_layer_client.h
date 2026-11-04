@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextureLayerClient interface
+// summary: Interface for TextureLayer clients that supply a transferable resource and release callback when a new frame is available.
+// ---
+
 #ifndef CC_LAYERS_TEXTURE_LAYER_CLIENT_H_
 #define CC_LAYERS_TEXTURE_LAYER_CLIENT_H_
 

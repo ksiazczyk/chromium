@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameInfo implementation
+// summary: Implements the FrameInfo class, including merging of main- and compositor-thread frame states and checks for dropped updates affecting smoothness.
+// ---
+
 #include "cc/metrics/frame_info.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Solid color scrollbar layer impl implementation
+// summary: Implements the impl-thread solid color scrollbar layer, computing thumb geometry and appending solid color draw quads for the scrollbar thumb.
+// ---
+
 #include "cc/layers/solid_color_scrollbar_layer_impl.h"
 
 #include <algorithm>

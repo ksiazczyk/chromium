@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture layer class declaration
+// summary: Declares the PictureLayer class, a Layer that records display lists via a ContentLayerClient and manages invalidation, recording source updates, and backdrop filter masks.
+// ---
+
 #ifndef CC_LAYERS_PICTURE_LAYER_H_
 #define CC_LAYERS_PICTURE_LAYER_H_
 

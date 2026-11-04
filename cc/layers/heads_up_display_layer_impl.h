@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heads-up display layer impl class declaration
+// summary: Declares HeadsUpDisplayLayerImpl, the impl-side HUD layer handling quad appending, HUD texture updates, Web Vitals debug rects and resource management.
+// ---
+
 #ifndef CC_LAYERS_HEADS_UP_DISPLAY_LAYER_IMPL_H_
 #define CC_LAYERS_HEADS_UP_DISPLAY_LAYER_IMPL_H_
 

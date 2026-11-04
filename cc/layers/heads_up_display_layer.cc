@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heads-up display layer implementation
+// summary: Implements the main-thread HUD layer, managing its typeface, Web Vitals debug rects, paused debugger message, and sizing relative to the device viewport and scale factors.
+// ---
+
 #include "cc/layers/heads_up_display_layer.h"
 
 #include <algorithm>

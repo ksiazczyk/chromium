@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PredictorJankTracker implementation
+// summary: Implements scroll jank detection by comparing screen displacement across three consecutive frames against experimentally derived thresholds and reporting jank metrics.
+// ---
+
 #include "cc/metrics/predictor_jank_tracker.h"
 #include <algorithm>
 #include <cmath>

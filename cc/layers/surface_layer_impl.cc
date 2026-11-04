@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface layer impl implementation
+// summary: Implements the impl-thread SurfaceLayer, setting surface ranges and deadlines and appending surface draw quads with submission state callbacks.
+// ---
+
 #include "cc/layers/surface_layer_impl.h"
 
 #include <stdint.h>

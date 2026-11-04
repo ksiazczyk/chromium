@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer property push performance test
+// summary: Performance test measuring the throughput of Layer::PushPropertiesTo with and without property changes using a lap timer.
+// ---
+
 #include "cc/layers/layer.h"
 
 #include "base/task/single_thread_task_runner.h"

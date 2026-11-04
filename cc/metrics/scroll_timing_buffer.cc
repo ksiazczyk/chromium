@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollTimingBuffer implementation
+// summary: Implements a shared-memory ring buffer that pushes scroll timing records using seqlock writes, plus a read-only consumer that safely reads new records since its last read.
+// ---
+
 #include "cc/metrics/scroll_timing_buffer.h"
 
 #include <algorithm>

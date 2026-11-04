@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileBasedLayerImpl template base class
+// summary: Template base class for tile-manipulating layer impls such as PictureLayerImpl, handling tile quads, damage rects, cull rects, and append-quads scale tracking.
+// ---
+
 #ifndef CC_LAYERS_TILE_BASED_LAYER_IMPL_H_
 #define CC_LAYERS_TILE_BASED_LAYER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Solid color scrollbar layer impl unit tests
+// summary: Tests occlusion behavior of the solid color scrollbar layer impl, checking thumb quad output under no, full, and partial occlusion.
+// ---
+
 #include "cc/layers/solid_color_scrollbar_layer_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor timing history implementation
+// summary: Implements CompositorTimingHistory, which records rolling durations of compositor stages such as commit, activate, and draw for latency estimation and UMA reporting.
+// ---
+
 #include "cc/metrics/compositor_timing_history.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AverageLagTracker class declaration
+// summary: Declares the AverageLagTracker class, its event info structures, and methods for computing and reporting average lag metrics for scroll events.
+// ---
+
 #ifndef CC_METRICS_AVERAGE_LAG_TRACKER_H_
 #define CC_METRICS_AVERAGE_LAG_TRACKER_H_
 

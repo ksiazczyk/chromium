@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Events metrics manager interface
+// summary: Declares EventsMetricsManager, which tracks active event handling scopes per thread to determine which events led to a frame update.
+// ---
+
 #ifndef CC_METRICS_EVENTS_METRICS_MANAGER_H_
 #define CC_METRICS_EVENTS_METRICS_MANAGER_H_
 

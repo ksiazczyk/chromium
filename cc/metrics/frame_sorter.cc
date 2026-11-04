@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSorter implementation
+// summary: Implements FrameSorter, which tracks pending compositor frames, merges frame results, and reports dropped, partial and presented frame counts to observers.
+// ---
+
 #include "cc/metrics/frame_sorter.h"
 
 #include <algorithm>

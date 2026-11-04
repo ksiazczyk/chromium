@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Painted scrollbar layer implementation
+// summary: Implements the main-thread PaintedScrollbarLayer that paints scrollbar thumb and track into UI resources and pushes scrollbar properties to the impl-side layer during commit.
+// ---
+
 #include "cc/layers/painted_scrollbar_layer.h"
 
 #include <algorithm>

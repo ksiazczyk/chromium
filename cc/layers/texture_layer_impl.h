@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextureLayerImpl class declaration
+// summary: Declares TextureLayerImpl, the compositor-side layer that draws a transferable resource and tracks resource state, UV settings, and HDR metadata.
+// ---
+
 #ifndef CC_LAYERS_TEXTURE_LAYER_IMPL_H_
 #define CC_LAYERS_TEXTURE_LAYER_IMPL_H_
 

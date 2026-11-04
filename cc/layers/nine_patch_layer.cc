@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NinePatchLayer implementation
+// summary: Implements the main-thread nine-patch layer, managing aperture, border, fill center, and occlusion properties pushed to the impl layer.
+// ---
+
 #include "cc/layers/nine_patch_layer.h"
 
 #include "base/trace_event/trace_event.h"

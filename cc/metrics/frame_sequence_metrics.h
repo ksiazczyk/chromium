@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSequenceMetrics declaration
+// summary: Declares FrameSequenceMetrics and the FrameSequenceTrackerType enum used to report smoothness metrics for animations, scrolls and other frame sequences.
+// ---
+
 #ifndef CC_METRICS_FRAME_SEQUENCE_METRICS_H_
 #define CC_METRICS_FRAME_SEQUENCE_METRICS_H_
 

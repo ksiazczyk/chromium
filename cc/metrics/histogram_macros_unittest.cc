@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram macro unit tests
+// summary: Tests that the percentage histogram macro handles overflow buckets correctly and produces samples identical to base::UmaHistogramPercentage.
+// ---
+
 #include "cc/metrics/histogram_macros.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollJankV4Decider implementation
+// summary: Implements ScrollJankV4Decider logic that decides whether frames with real or synthetic scroll updates were janky under the scroll jank v4 metric.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_decider.h"
 
 #include <algorithm>

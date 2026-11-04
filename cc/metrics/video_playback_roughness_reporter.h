@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoPlaybackRoughnessReporter class declaration
+// summary: Declares a reporter that groups frames into windows and reports 95th-percentile roughness measurements.
+// ---
+
 #ifndef CC_METRICS_VIDEO_PLAYBACK_ROUGHNESS_REPORTER_H_
 #define CC_METRICS_VIDEO_PLAYBACK_ROUGHNESS_REPORTER_H_
 

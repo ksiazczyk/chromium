@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTransitionContentLayerImpl implementation
+// summary: Implements compositor-side drawing of view transition content, computing actual extents and appending shared element or solid color quads.
+// ---
+
 #include "cc/layers/view_transition_content_layer_impl.h"
 
 #include "base/check.h"

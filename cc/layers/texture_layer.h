@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextureLayer class declaration
+// summary: Declares TextureLayer, a layer that displays a client-provided transferable resource in GPU or software compositing, including its thread-safe resource holder.
+// ---
+
 #ifndef CC_LAYERS_TEXTURE_LAYER_H_
 #define CC_LAYERS_TEXTURE_LAYER_H_
 

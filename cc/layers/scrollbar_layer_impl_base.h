@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollbarLayerImplBase class header
+// summary: Declares the impl-side scrollbar layer base class with geometry setters, thumb quad computation, and overlay scrollbar behavior.
+// ---
+
 #ifndef CC_LAYERS_SCROLLBAR_LAYER_IMPL_BASE_H_
 #define CC_LAYERS_SCROLLBAR_LAYER_IMPL_BASE_H_
 

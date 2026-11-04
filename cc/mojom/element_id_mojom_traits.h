@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementId Mojom traits
+// summary: Converts cc::ElementId objects to and from their Mojom wire format, handling invalid and deleted element IDs.
+// ---
+
 #ifndef CC_MOJOM_ELEMENT_ID_MOJOM_TRAITS_H_
 #define CC_MOJOM_ELEMENT_ID_MOJOM_TRAITS_H_
 

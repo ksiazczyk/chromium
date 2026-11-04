@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NinePatchThumbScrollbarLayer implementation
+// summary: Implements the main-thread layer for composited overlay scrollbars with a nine-patch thumb, painting resources and pushing thumb, track, and aperture properties to the impl side.
+// ---
+
 #include "cc/layers/nine_patch_thumb_scrollbar_layer.h"
 
 #include <algorithm>

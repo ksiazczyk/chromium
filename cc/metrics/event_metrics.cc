@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event metrics implementation
+// summary: Implements EventMetrics and its scroll and pinch subclasses, defining interesting event types and histogram bucketing for scroll latency metrics.
+// ---
+
 #include "cc/metrics/event_metrics.h"
 
 #include <algorithm>

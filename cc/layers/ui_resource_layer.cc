@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIResourceLayer implementation
+// summary: Implements a layer that displays UI resources or bitmaps, handling resource IDs, UV coordinates, and property pushing to the impl side.
+// ---
+
 #include "cc/layers/ui_resource_layer.h"
 
 #include "base/trace_event/trace_event.h"

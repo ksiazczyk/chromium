@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollTimingEmitter class declaration
+// summary: Declares a read-only consumer of scroll jank v4 timelines that finalizes scroll segments into ScrollTimingInfo records without owning or modifying event metrics.
+// ---
+
 #ifndef CC_METRICS_SCROLL_TIMING_EMITTER_H_
 #define CC_METRICS_SCROLL_TIMING_EMITTER_H_
 

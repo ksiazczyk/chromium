@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LatencyData implementation
+// summary: Implements the LatencyData struct's constructor, destructor and move operations used for event latency reporting.
+// ---
+
 #include "cc/metrics/latency_data.h"
 
 namespace cc {

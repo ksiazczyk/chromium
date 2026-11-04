@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface layer impl class declaration
+// summary: Declares the impl-side surface layer with surface range, deadline, hit-testable and reflection flags, and LayerImpl overrides for drawing.
+// ---
+
 #ifndef CC_LAYERS_SURFACE_LAYER_IMPL_H_
 #define CC_LAYERS_SURFACE_LAYER_IMPL_H_
 

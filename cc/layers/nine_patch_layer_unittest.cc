@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NinePatchLayer unit tests
+// summary: Unit tests checking that the main-thread NinePatchLayer draws content once aperture, UI resource, and center fill properties are set.
+// ---
+
 #include "cc/layers/nine_patch_layer.h"
 
 #include "cc/animation/animation_host.h"

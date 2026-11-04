@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scroll jank v4 decision queue unit tests
+// summary: Unit tests for the scroll jank v4 decision queue, verifying frame results, missed vsync counts, and result consumer callbacks with mock and forwarding consumers.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_decision_queue.h"
 
 #include <memory>

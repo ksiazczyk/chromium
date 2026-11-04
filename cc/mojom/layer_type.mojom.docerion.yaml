@@ -1,0 +1,4 @@
+# Docerion header of layer_type.mojom.
+type: source
+title: LayerType enum for cc::LayerImpl subclasses
+summary: Mojom enum that enumerates the concrete cc::LayerImpl subclasses, including solid color, picture, scrollbar, video, and view transition content layers.

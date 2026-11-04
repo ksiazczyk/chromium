@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viewport unit tests
+// summary: Unit tests verifying when viewport scrolling should be animated based on scroll deltas in the Viewport class.
+// ---
+
 #include "cc/layers/viewport.h"
 
 #include <stddef.h>

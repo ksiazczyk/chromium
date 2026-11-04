@@ -1,3 +1,9 @@
+---
+type: readme
+title: cc/mojom overview
+summary: Explains that cc/mojom hosts the mojom typemaps for cc types used in mojo APIs and points to cc/ipc for legacy Chrome IPC validators.
+---
+
 # cc/mojom
 
 [TOC]

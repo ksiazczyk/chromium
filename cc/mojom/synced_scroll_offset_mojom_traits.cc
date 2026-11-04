@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedScrollOffset Mojom traits implementation
+// summary: Implements deserialization of a SyncedScrollOffset Mojom struct into a new cc::SyncedScrollOffset with the given current scroll offset.
+// ---
+
 #include "cc/mojom/synced_scroll_offset_mojom_traits.h"
 
 #include <utility>

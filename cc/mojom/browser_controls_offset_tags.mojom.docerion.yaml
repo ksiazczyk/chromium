@@ -1,0 +1,4 @@
+# Docerion header of browser_controls_offset_tags.mojom.
+type: source
+title: Mojom definition of BrowserControlsOffsetTags
+summary: Defines the cc.mojom struct holding viz offset tags for the top controls, content, and bottom controls.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchActionRegion unit tests
+// summary: Unit tests verifying allowed touch action results for overlapping regions, empty maps, single entries, and stylus-specific actions.
+// ---
+
 #include "cc/layers/touch_action_region.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

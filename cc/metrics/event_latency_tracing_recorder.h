@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event latency tracing recorder interface
+// summary: Declares EventLatencyTracingRecorder with static helpers that name and record EventLatency trace events for input events.
+// ---
+
 #ifndef CC_METRICS_EVENT_LATENCY_TRACING_RECORDER_H_
 #define CC_METRICS_EVENT_LATENCY_TRACING_RECORDER_H_
 

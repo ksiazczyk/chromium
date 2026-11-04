@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for paint flags types
+// summary: Header defining EnumTraits for FilterQuality and StructTraits for DynamicRangeLimit that map cc::PaintFlags types to their Mojom forms.
+// ---
+
 #ifndef CC_MOJOM_PAINT_FLAGS_MOJOM_TRAITS_H_
 #define CC_MOJOM_PAINT_FLAGS_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileSizeCalculator implementation
+// summary: Calculates tile sizes for picture layers, applying device scale adjustments, GPU raster rounding, and alignment constraints.
+// ---
+
 #include "cc/layers/tile_size_calculator.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event metrics class declarations
+// summary: Declares EventMetrics classes carrying per-event data and dispatch stage timestamps used by CompositorFrameReporter to generate event latency metrics.
+// ---
+
 #ifndef CC_METRICS_EVENT_METRICS_H_
 #define CC_METRICS_EVENT_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecordingSource unit tests
+// summary: Tests RecordingSource recording behavior including discardable image maps and invalidation of recorded bounds.
+// ---
+
 #include <array>
 #include <vector>
 

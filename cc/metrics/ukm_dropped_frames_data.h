@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmDroppedFramesData struct declaration
+// summary: Declares the PercentDroppedFrames4 UKM metric data and its shared-memory buffer alias.
+// ---
+
 #ifndef CC_METRICS_UKM_DROPPED_FRAMES_DATA_H_
 #define CC_METRICS_UKM_DROPPED_FRAMES_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heads-up display layer class declaration
+// summary: Declares HeadsUpDisplayLayer plus WebVitalMetricType and WebVitalsDebugRect, defining the main-thread layer that hosts the compositor's debug heads-up display.
+// ---
+
 #ifndef CC_LAYERS_HEADS_UP_DISPLAY_LAYER_H_
 #define CC_LAYERS_HEADS_UP_DISPLAY_LAYER_H_
 

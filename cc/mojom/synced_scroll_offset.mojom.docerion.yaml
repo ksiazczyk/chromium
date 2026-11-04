@@ -1,0 +1,4 @@
+# Docerion header of synced_scroll_offset.mojom.
+type: source
+title: SyncedScrollOffset Mojom struct
+summary: Defines a Mojom struct holding the current value of a cc::SyncedScrollOffset as a gfx PointF scroll offset.

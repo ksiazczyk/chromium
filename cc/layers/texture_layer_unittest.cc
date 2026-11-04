@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextureLayer unit tests
+// summary: Extensive unit tests for TextureLayer covering resource setting, commit behavior, sync tokens, and software and GPU compositing paths.
+// ---
+
 #include "cc/layers/texture_layer.h"
 
 #include <stddef.h>
