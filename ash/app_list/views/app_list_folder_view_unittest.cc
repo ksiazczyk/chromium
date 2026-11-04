@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list folder view unit tests
+// summary: Unit tests for AppListFolderView verifying scroll view size caps for large folders, accessibility announcements on close, and expanded or collapsed accessible states.
+// relations:
+//   - tests /ash/app_list/views/app_list_folder_view.h
+//   - depends_on /ash/app_list/test/app_list_test_helper.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/app_list/views/app_list_folder_view.h"
 
 #include <utility>

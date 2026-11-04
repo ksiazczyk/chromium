@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ghost image view header
+// summary: Declares GhostImageView, an image view showing where a dragged app or folder will drop in the app list grid, with fade animations.
+// relations:
+//   - depends_on /ash/app_list/views/apps_grid_view.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_GHOST_IMAGE_VIEW_H_
 #define ASH_APP_LIST_VIEWS_GHOST_IMAGE_VIEW_H_
 

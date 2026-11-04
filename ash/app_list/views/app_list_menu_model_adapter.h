@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListMenuModelAdapter class header
+// summary: Declares AppListMenuModelAdapter, which wraps app context menu operations in the app list, building and running menus and recording launch and usage histograms.
+// relations:
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/app_menu/app_menu_model_adapter.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_MENU_MODEL_ADAPTER_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_MENU_MODEL_ADAPTER_H_
 

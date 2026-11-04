@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App icon load helper class declaration
+// summary: Declares AppIconLoadHelper, a helper that watches a single app list item or a folder's top items and runs a callback to load icons when needed.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_item.h
+//   - depends_on /ash/app_list/model/app_list_item_list.h
+//   - depends_on /ash/app_list/model/app_list_item_list_observer.h
+// ---
+
 #ifndef ASH_APP_LIST_MODEL_APP_ICON_LOAD_HELPER_H_
 #define ASH_APP_LIST_MODEL_APP_ICON_LOAD_HELPER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentAppsView implementation
+// summary: Implements the recent apps row in the app list, building app icons from zero-state search results with a mostly stub grid delegate.
+// relations:
+//   - depends_on /ash/app_list/views/recent_apps_view.h
+//   - implements /ash/app_list/views/recent_apps_view.h
+//   - depends_on /ash/app_list/app_list_util.h
+// ---
+
 #include "ash/app_list/views/recent_apps_view.h"
 
 #include <algorithm>

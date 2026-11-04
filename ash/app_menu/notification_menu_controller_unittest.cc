@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationMenuController unit tests
+// summary: Unit tests verifying that NotificationMenuController adds, updates, and removes notification menu entries as MessageCenter notifications change.
+// relations:
+//   - tests /ash/app_menu/notification_menu_controller.h
+//   - depends_on /ash/app_menu/app_menu_model_adapter.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/app_menu/notification_menu_controller.h"
 
 #include "ash/app_menu/app_menu_model_adapter.h"

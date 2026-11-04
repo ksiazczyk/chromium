@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list bubble view unit tests
+// summary: Unit tests for AppListBubbleView covering search results, continue section, recent apps, folder behavior, animations, and accessibility.
+// relations:
+//   - tests /ash/app_list/views/app_list_bubble_view.h
+//   - depends_on /ash/app_list/app_list_bubble_presenter.h
+//   - depends_on /ash/app_list/test/app_list_test_helper.h
+// ---
+
 #include "ash/app_list/views/app_list_bubble_view.h"
 
 #include <list>

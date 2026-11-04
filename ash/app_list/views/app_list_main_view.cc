@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list main view implementation
+// summary: Implements the main app list view shown for signed-in users, wiring the search box, contents view, and apps pagination model.
+// relations:
+//   - implements /ash/app_list/views/app_list_main_view.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+// ---
+
 #include "ash/app_list/views/app_list_main_view.h"
 
 #include <algorithm>

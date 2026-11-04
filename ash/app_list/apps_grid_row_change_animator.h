@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apps grid row change animator declaration
+// summary: Declares AppsGridRowChangeAnimator, which tracks layer copies for app grid item row change animations and supports cancellation.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_APP_LIST_APPS_GRID_ROW_CHANGE_ANIMATOR_H_
 #define ASH_APP_LIST_APPS_GRID_ROW_CHANGE_ANIMATOR_H_
 

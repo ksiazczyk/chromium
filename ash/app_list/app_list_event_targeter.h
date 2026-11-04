@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListEventTargeter class header
+// summary: Declares AppListEventTargeter, a window targeter that prevents routing events to sub-windows so they are handled in the app list context.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/aura/window_targeter.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_EVENT_TARGETER_H_
 #define ASH_APP_LIST_APP_LIST_EVENT_TARGETER_H_
 

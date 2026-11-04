@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list utility functions
+// summary: Implements app list helpers for key event handling, folder item checks, textfield focus traversal, icon painting, and accessibility.
+// relations:
+//   - implements /ash/app_list/app_list_util.h
+//   - depends_on /ash/app_list/model/app_list_folder_item.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+// ---
+
 #include "ash/app_list/app_list_util.h"
 
 #include "ash/app_list/model/app_list_folder_item.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResult class declaration
+// summary: Declares SearchResult, a model of a search result with icon, title, details, tags, actions, rating, and display score metadata.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_model_export.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #ifndef ASH_APP_LIST_MODEL_SEARCH_SEARCH_RESULT_H_
 #define ASH_APP_LIST_MODEL_SEARCH_SEARCH_RESULT_H_
 

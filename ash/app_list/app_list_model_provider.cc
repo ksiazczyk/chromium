@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list model provider implementation
+// summary: Implements the global AppListModelProvider singleton that stores the active app list, search, and quick app access models and notifies observers when they change.
+// relations:
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /base/check.h
+//   - depends_on /base/check_op.h
+// ---
+
 #include "ash/app_list/app_list_model_provider.h"
 
 #include "base/check.h"

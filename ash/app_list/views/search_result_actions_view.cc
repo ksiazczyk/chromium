@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result actions view implementation
+// summary: Implements the view that renders a search result's actions as a horizontally laid out button strip, including long-press gesture activation for action buttons.
+// relations:
+//   - implements /ash/app_list/views/search_result_actions_view.h
+//   - depends_on /ash/app_list/views/search_result_actions_view_delegate.h
+//   - depends_on /ash/app_list/views/search_result_view.h
+// ---
+
 #include "ash/app_list/views/search_result_actions_view.h"
 
 #include <stddef.h>

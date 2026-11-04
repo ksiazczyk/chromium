@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification item view implementation
+// summary: Implements the view rendering a notification's title, message, and icon in the app context menu, with slide-out gesture support.
+// relations:
+//   - depends_on /ash/app_menu/notification_item_view.h
+//   - depends_on /ash/public/cpp/app_menu_constants.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/app_menu/notification_item_view.h"
 
 #include "ash/public/cpp/app_menu_constants.h"

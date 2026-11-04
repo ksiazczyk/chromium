@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListNudgeController class header
+// summary: Declares the controller that coordinates app list toast nudge views, covering reorder nudges, the privacy notice, and tutorial nudges with their pref updates.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+//   - depends_on /components/prefs/scoped_user_pref_update.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_NUDGE_CONTROLLER_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_NUDGE_CONTROLLER_H_
 

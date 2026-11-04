@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppsContainerView unit tests
+// summary: Unit tests for the apps container covering continue section visibility, pagination, folder handling, gradient masks and related animations.
+// relations:
+//   - tests /ash/app_list/views/apps_container_view.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/model/app_list_test_model.h
+// ---
+
 #include "ash/app_list/views/apps_container_view.h"
 
 #include "ash/app_list/app_list_controller_impl.h"

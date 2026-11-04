@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultImageListView implementation
+// summary: Implements the image search result list view that shows a titled horizontal strip of image results with file metadata labels in the launcher search UI.
+// relations:
+//   - implements /ash/app_list/views/search_result_image_list_view.h
+//   - depends_on /ash/app_list/views/search_result_image_view.h
+//   - depends_on /ash/public/cpp/app_list/app_list_config.h
+// ---
+
 #include "ash/app_list/views/search_result_image_list_view.h"
 
 #include <algorithm>

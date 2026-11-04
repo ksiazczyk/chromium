@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list public test utility declarations
+// summary: Declares test helpers that decide between bubble and fullscreen app list and fetch launcher views and search box state for tests.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_PUBLIC_TEST_UTIL_H_
 #define ASH_APP_LIST_APP_LIST_PUBLIC_TEST_UTIL_H_
 

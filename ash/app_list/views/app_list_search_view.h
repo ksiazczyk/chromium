@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListSearchView class header
+// summary: Declares AppListSearchView, which holds the scrolling search result containers below the app list search box and manages result selection and page animations.
+// relations:
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/views/search_result_container_view.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_SEARCH_VIEW_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_SEARCH_VIEW_H_
 

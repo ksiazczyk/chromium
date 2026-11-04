@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationOverflowView unit tests
+// summary: Unit tests verifying that NotificationOverflowView adds and removes notification icons correctly and shows the overflow icon once more than the maximum number of icons is reached.
+// relations:
+//   - tests /ash/app_menu/notification_overflow_view.h
+//   - depends_on /ash/public/cpp/app_menu_constants.h
+//   - depends_on /base/strings/string_number_conversions.h
+// ---
+
 #include "ash/app_menu/notification_overflow_view.h"
 
 #include <string>

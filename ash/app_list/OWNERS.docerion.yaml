@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: App List owners
+summary: OWNERS file listing the email addresses of the developers responsible for reviewing changes to the app_list directory.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list main view interface
+// summary: Declares AppListMainView, the signed-in app list view that hosts the contents view and handles search box delegate events.
+// relations:
+//   - depends_on /ash/app_list/model/search/search_model.h
+//   - implements /ash/app_list/views/search_box_view_delegate.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_MAIN_VIEW_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_MAIN_VIEW_H_
 

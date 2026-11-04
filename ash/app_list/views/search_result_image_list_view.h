@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultImageListView class header
+// summary: Declares SearchResultImageListView, a search result container that displays a horizontal strip of SearchResultImageViews inside the AppListSearchView.
+// relations:
+//   - depends_on /ash/app_list/views/search_result_container_view.h
+//   - depends_on /ash/app_list/views/search_result_image_view.h
+//   - depends_on /ash/app_list/views/search_result_image_view_delegate.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_RESULT_IMAGE_LIST_VIEW_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_RESULT_IMAGE_LIST_VIEW_H_
 

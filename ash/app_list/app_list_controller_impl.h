@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListControllerImpl class header
+// summary: Declares AppListControllerImpl, which owns the app list model, implements the AppListController interface for Chrome, and controls the home launcher in tablet mode.
+// relations:
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/app_list/app_list_view_delegate.h
+//   - depends_on /ash/app_list/app_waiter.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_CONTROLLER_IMPL_H_
 #define ASH_APP_LIST_APP_LIST_CONTROLLER_IMPL_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list search view implementation
+// summary: Implements AppListSearchView, a scrolling container of search result lists with keyboard result selection, animations, and accessibility notifications.
+// relations:
+//   - implements /ash/app_list/views/app_list_search_view.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/app_list_view_delegate.h
+// ---
+
 #include "ash/app_list/views/app_list_search_view.h"
 
 #include <algorithm>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollableAppsGridView implementation
+// summary: Implements the single-page scrolling apps grid for the clamshell bubble launcher, including tile layout and drag auto-scroll.
+// relations:
+//   - depends_on /ash/app_list/views/scrollable_apps_grid_view.h
+//   - depends_on /ash/app_list/app_list_view_delegate.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+// ---
+
 #include "ash/app_list/views/scrollable_apps_grid_view.h"
 
 #include <memory>

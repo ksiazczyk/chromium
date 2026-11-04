@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list presenter event filter implementation
+// summary: Implements a pre-target event filter that manages keyboard traversal mode and closes the app list presenter on clicks, taps, or gestures outside the launcher.
+// relations:
+//   - implements /ash/app_list/app_list_presenter_event_filter.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/app_list_presenter_impl.h
+// ---
+
 #include "ash/app_list/app_list_presenter_event_filter.h"
 
 #include <memory>

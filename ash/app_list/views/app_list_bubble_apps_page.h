@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list bubble apps page class declaration
+// summary: Declares AppListBubbleAppsPage, the bubble launcher's default page containing recent task suggestions and the grid of all apps.
+// relations:
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/app_list_view_provider.h
+//   - depends_on /ash/app_list/views/app_list_nudge_controller.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_BUBBLE_APPS_PAGE_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_BUBBLE_APPS_PAGE_H_
 

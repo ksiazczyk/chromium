@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Continue section view implementation
+// summary: Implements the Continue section of the bubble launcher, showing suggested tasks with a privacy notice toast and visibility handling.
+// relations:
+//   - depends_on /ash/app_list/views/continue_section_view.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+// ---
+
 #include "ash/app_list/views/continue_section_view.h"
 
 #include <algorithm>

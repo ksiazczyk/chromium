@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contents view header
+// summary: Declares ContentsView, which manages launcher pages, page switching with animation, and search result visibility within the app list.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+//   - depends_on /ash/public/cpp/pagination/pagination_model.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_CONTENTS_VIEW_H_
 #define ASH_APP_LIST_VIEWS_CONTENTS_VIEW_H_
 

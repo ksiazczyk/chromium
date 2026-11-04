@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Folder background view header
+// summary: Declares FolderBackgroundView, an invisible view that closes the opened folder when the user clicks or taps outside it in the fullscreen app list.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_FOLDER_BACKGROUND_VIEW_H_
 #define ASH_APP_LIST_VIEWS_FOLDER_BACKGROUND_VIEW_H_
 

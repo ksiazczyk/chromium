@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: App menu directory bug tracking metadata
+summary: Maps the app_menu directory to the UI>Shell>Shelf monorail component and a Buganizer component ID for issue routing.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultListView class declaration
+// summary: Declares SearchResultListView, a container view that displays search results as a list of SearchResultView rows grouped by typed result categories.
+// relations:
+//   - depends_on /ash/app_list/views/search_result_container_view.h
+//   - depends_on /ash/app_list/views/search_result_view.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_RESULT_LIST_VIEW_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_RESULT_LIST_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultListView implementation
+// summary: Implements the search result list view that displays categorized lists of launcher search results with title labels, layout and selection handling.
+// relations:
+//   - implements /ash/app_list/views/search_result_list_view.h
+//   - depends_on /ash/app_list/views/search_result_list_view.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+// ---
+
 #include "ash/app_list/views/search_result_list_view.h"
 
 #include <algorithm>

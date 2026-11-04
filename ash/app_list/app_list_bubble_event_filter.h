@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list bubble event filter header
+// summary: Declares AppListBubbleEventFilter, which triggers a callback when events occur outside the app list bubble widget.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/bubble/bubble_event_filter.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_BUBBLE_EVENT_FILTER_H_
 #define ASH_APP_LIST_APP_LIST_BUBBLE_EVENT_FILTER_H_
 

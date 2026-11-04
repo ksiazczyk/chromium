@@ -1,0 +1,7 @@
+# Docerion header of vector_icons.cc.template.
+type: source
+title: Template for generated vector_icons.cc
+summary: Template from which vector_icons.cc is generated, declaring app list vector icons in the app_list namespace with a unique icon ID prefix.
+relations:
+  - depends_on /components/vector_icons/cc_macros.h
+  - depends_on /ui/gfx/vector_icon_types.h

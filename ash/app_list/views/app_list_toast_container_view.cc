@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListToastContainerView implementation
+// summary: Implements the app list toast container view that shows toasts such as the reorder nudge, handling sort order changes, keyboard focus movement, context menus, and accessibility announcements.
+// relations:
+//   - implements /ash/app_list/views/app_list_toast_container_view.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/app_list_util.h
+// ---
+
 #include "ash/app_list/views/app_list_toast_container_view.h"
 
 #include <memory>

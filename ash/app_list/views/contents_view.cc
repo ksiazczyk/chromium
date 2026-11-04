@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contents view implementation
+// summary: Implements the view that manages and animates transitions between launcher pages such as the apps grid and search results in the app list.
+// relations:
+//   - implements /ash/app_list/views/contents_view.h
+//   - depends_on /ash/app_list/app_list_view_delegate.h
+//   - depends_on /ash/app_list/views/app_list_main_view.h
+// ---
+
 #include "ash/app_list/views/contents_view.h"
 
 #include <algorithm>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultInlineIconView implementation
+// summary: Implements a rounded bubble view that shows either a vector icon or iconified text, with styling variants for modifier keys in search result details.
+// relations:
+//   - implements /ash/app_list/views/search_result_inline_icon_view.h
+//   - depends_on /ash/app_list/app_list_util.h
+//   - depends_on /ash/public/cpp/ash_typography.h
+// ---
+
 #include "ash/app_list/views/search_result_inline_icon_view.h"
 
 #include <algorithm>

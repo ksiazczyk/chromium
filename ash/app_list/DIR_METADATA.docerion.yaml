@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: App List directory metadata
+summary: DIR_METADATA file mapping the app_list directory to the chromeos-launcher team email and its bug tracking components.

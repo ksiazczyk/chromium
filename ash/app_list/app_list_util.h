@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list utility declarations
+// summary: Declares app list helper functions for arrow key events, folder items, textfield traversal, icon backgrounds, focus bars, and prefs.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/keycodes/keyboard_codes.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_UTIL_H_
 #define ASH_APP_LIST_APP_LIST_UTIL_H_
 

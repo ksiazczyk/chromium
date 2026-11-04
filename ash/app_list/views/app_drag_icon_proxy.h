@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App drag icon proxy class declaration
+// summary: Declares AppDragIconProxy, which manages the drag image widget, shadow, and animations for app icons dragged in the app list or shelf.
+// relations:
+//   - depends_on /ash/style/system_shadow.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /ui/gfx/geometry/vector2d.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_DRAG_ICON_PROXY_H_
 #define ASH_APP_LIST_VIEWS_APP_DRAG_ICON_PROXY_H_
 

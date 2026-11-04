@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list item list header
+// summary: Declares AppListItemList, which manages app list items, their position ordinals and observer notifications for add, remove and move events.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_item_list_observer.h
+//   - depends_on /ash/app_list/model/app_list_model_export.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_APP_LIST_MODEL_APP_LIST_ITEM_LIST_H_
 #define ASH_APP_LIST_MODEL_APP_LIST_ITEM_LIST_H_
 

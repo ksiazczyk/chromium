@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBoxModel class declaration
+// summary: Declares SearchBoxModel, which holds search box state such as the search engine flag, Gemini icon button, and Sunfish button visibility.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_model_export.h
+//   - depends_on /base/observer_list.h
+//   - depends_on /ui/gfx/image/image.h
+// ---
+
 #ifndef ASH_APP_LIST_MODEL_SEARCH_SEARCH_BOX_MODEL_H_
 #define ASH_APP_LIST_MODEL_SEARCH_SEARCH_BOX_MODEL_H_
 

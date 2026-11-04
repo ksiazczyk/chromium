@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationMenuHeaderView class declaration
+// summary: Declares the header view that displays the Notifications title and a counter of active notifications for the app.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_APP_MENU_NOTIFICATION_MENU_HEADER_VIEW_H_
 #define ASH_APP_MENU_NOTIFICATION_MENU_HEADER_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopIconAnimationView class declaration
+// summary: Declares TopIconAnimationView and its observer interface for animating top item icons during folder open and close transitions in the Ash app list.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/observer_list.h
+//   - depends_on /base/observer_list_types.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_TOP_ICON_ANIMATION_VIEW_H_
 #define ASH_APP_LIST_VIEWS_TOP_ICON_ANIMATION_VIEW_H_
 

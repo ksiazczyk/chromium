@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAppListClient implementation
+// summary: Implements a test AppListClient fake that records searches, activations, icon loads and other calls for ash app list unit tests.
+// relations:
+//   - implements /ash/app_list/test_app_list_client.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+// ---
+
 #include "ash/app_list/test_app_list_client.h"
 
 #include <utility>

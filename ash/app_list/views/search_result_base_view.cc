@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result base view implementation
+// summary: Implements the base class for views that observe and display a search result, covering selection state, accessible names, default actions, and result action handling.
+// relations:
+//   - implements /ash/app_list/views/search_result_base_view.h
+//   - depends_on /ash/app_list/model/search/search_result.h
+//   - depends_on /ash/app_list/views/search_result_actions_view.h
+// ---
+
 #include "ash/app_list/views/search_result_base_view.h"
 
 #include "ash/app_list/model/search/search_result.h"

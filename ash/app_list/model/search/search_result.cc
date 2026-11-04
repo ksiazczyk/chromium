@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResult implementation
+// summary: Implements SearchResult setters for icon, title, details, tags, rating, price, and other metadata, notifying observers on each change.
+// relations:
+//   - depends_on /ash/app_list/model/search/search_result.h
+//   - implements /ash/app_list/model/search/search_result.h
+//   - depends_on /ash/app_list/model/search/search_result_observer.h
+// ---
+
 #include "ash/app_list/model/search/search_result.h"
 
 #include <map>

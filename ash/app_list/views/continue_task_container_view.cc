@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Continue task container view implementation
+// summary: Implements the container that lays out continue task views in a grid and animates updates to the displayed task results.
+// relations:
+//   - depends_on /ash/app_list/views/continue_task_container_view.h
+//   - depends_on /ash/app_list/app_list_view_delegate.h
+//   - depends_on /ash/app_list/model/search/search_model.h
+// ---
+
 #include "ash/app_list/views/continue_task_container_view.h"
 
 #include <algorithm>

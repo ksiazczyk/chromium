@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App List include rules
+summary: DEPS file listing the directories that code in ash/app_list may include, such as ash resources and strings, ui views, skia, and mojo.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultPageDialogController implementation
+// summary: Implements the controller that shows, resets, and closes dialogs anchored within the app list search UI.
+// relations:
+//   - depends_on /ash/app_list/views/search_result_page_dialog_controller.h
+//   - depends_on /ash/app_list/views/search_result_page_anchored_dialog.h
+//   - depends_on /ui/views/widget/widget.h
+// ---
+
 #include "ash/app_list/views/search_result_page_dialog_controller.h"
 
 #include <utility>

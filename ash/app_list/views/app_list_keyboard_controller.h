@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list keyboard controller interface
+// summary: Declares the shared keyboard traversal logic used by AppListBubbleAppsPage and AppsContainerView to move focus among recents, toasts, and the apps grid.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - references /ash/app_list/views/app_list_bubble_apps_page.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_KEYBOARD_CONTROLLER_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_KEYBOARD_CONTROLLER_H_
 

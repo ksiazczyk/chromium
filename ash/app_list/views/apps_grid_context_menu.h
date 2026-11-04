@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apps grid context menu class declaration
+// summary: Declares the context menu controller for the apps grid responsible for building, showing, canceling and executing reorder menu commands.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/menus/simple_menu_model.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APPS_GRID_CONTEXT_MENU_H_
 #define ASH_APP_LIST_VIEWS_APPS_GRID_CONTEXT_MENU_H_
 

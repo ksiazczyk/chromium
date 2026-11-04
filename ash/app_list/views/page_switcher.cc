@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageSwitcher implementation
+// summary: Implements the app list page switcher, a strip of round buttons that mirrors a PaginationModel and switches to the corresponding page when clicked.
+// relations:
+//   - implements /ash/app_list/views/page_switcher.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/public/cpp/pagination/pagination_model.h
+// ---
+
 #include "ash/app_list/views/page_switcher.h"
 
 #include <algorithm>

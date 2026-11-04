@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppListView unit tests
+// summary: Unit tests covering app list view behavior, including layout metrics, pagination, search results, folders, and keyboard navigation.
+// relations:
+//   - tests /ash/app_list/views/app_list_view.h
+//   - depends_on /ash/app_list/app_list_test_view_delegate.h
+//   - depends_on /ash/app_list/model/app_list_test_model.h
+// ---
+
 #include "ash/app_list/views/app_list_view.h"
 
 #include <stddef.h>

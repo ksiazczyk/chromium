@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App drag icon proxy implementation
+// summary: Implements the drag image widget shown while an app or folder icon is dragged in the app list or shelf, including shadow, blur, scaling, and animation handling.
+// relations:
+//   - implements /ash/app_list/views/app_drag_icon_proxy.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/drag_drop/drag_image_view.h
+// ---
+
 #include "ash/app_list/views/app_drag_icon_proxy.h"
 
 #include <memory>

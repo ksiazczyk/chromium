@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification menu controller implementation
+// summary: Implements the controller that observes MessageCenter, syncs an app's notifications into the context menu, and handles activation and removal.
+// relations:
+//   - implements /ash/app_menu/notification_menu_controller.h
+//   - depends_on /ash/app_menu/app_menu_model_adapter.h
+//   - depends_on /ash/app_menu/notification_menu_view.h
+// ---
+
 #include "ash/app_menu/notification_menu_controller.h"
 
 #include "ash/app_menu/app_menu_model_adapter.h"

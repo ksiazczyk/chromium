@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list item list observer header
+// summary: Declares the observer interface notified when app list items are added to, removed from or moved within an item list.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_model_export.h
+//   - depends_on /base/observer_list_types.h
+// ---
+
 #ifndef ASH_APP_LIST_MODEL_APP_LIST_ITEM_LIST_OBSERVER_H_
 #define ASH_APP_LIST_MODEL_APP_LIST_ITEM_LIST_OBSERVER_H_
 

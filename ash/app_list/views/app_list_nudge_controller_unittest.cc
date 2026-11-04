@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppListNudgeController unit tests
+// summary: Tests that the reorder nudge shows only a limited number of times, stops after reordering, and that privacy notice prefs and toast visibility are updated correctly.
+// relations:
+//   - tests /ash/app_list/views/app_list_nudge_controller.h
+//   - depends_on /ash/app_list/test/app_list_test_helper.h
+//   - depends_on /ash/app_list/views/app_list_bubble_apps_page.h
+// ---
+
 #include "ash/app_list/views/app_list_nudge_controller.h"
 
 #include <memory>

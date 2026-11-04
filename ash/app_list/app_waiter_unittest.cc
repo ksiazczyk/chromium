@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App waiter unit tests
+// summary: Unit tests covering AppWaiter when the registry cache or app name becomes available before or after waiting starts.
+// relations:
+//   - tests /ash/app_list/app_waiter.h
+//   - depends_on /ash/app_list/app_waiter.h
+//   - depends_on /base/test/test_future.h
+// ---
+
 #include "ash/app_list/app_waiter.h"
 
 #include <memory>

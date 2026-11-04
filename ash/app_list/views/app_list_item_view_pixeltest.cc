@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list item view pixel tests
+// summary: Pixel tests that verify AppListItemView rendering across configurations such as tablet mode, dense UI, RTL, new installs, notifications, and promise icons.
+// relations:
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+//   - depends_on /ash/app_list/model/app_list_test_model.h
+// ---
+
 #include <memory>
 #include <string>
 #include <tuple>

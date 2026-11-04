@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list item list implementation
+// summary: Implements AppListItemList, an ordered, observable list of app list items that handles lookup, movement, and sync ordinal position updates.
+// relations:
+//   - implements /ash/app_list/model/app_list_item_list.h
+//   - depends_on /ash/app_list/model/app_list_item_list.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+// ---
+
 #include "ash/app_list/model/app_list_item_list.h"
 
 #include <algorithm>

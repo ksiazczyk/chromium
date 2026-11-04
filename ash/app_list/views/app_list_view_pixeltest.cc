@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppListView pixel tests
+// summary: Pixel tests verifying the rendered appearance of the app list view across RTL, system blur, and other display variants using Ash pixel test infrastructure.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_item.h
+//   - depends_on /ash/app_list/model/app_list_test_model.h
+//   - depends_on /ash/app_list/model/search/test_search_result.h
+// ---
+
 #include "ash/app_list/model/app_list_item.h"
 #include "ash/app_list/model/app_list_test_model.h"
 #include "ash/app_list/model/search/test_search_result.h"

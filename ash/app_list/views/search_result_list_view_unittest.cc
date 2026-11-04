@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchResultListView unit tests
+// summary: Unit tests for SearchResultListView covering list types, result activation, and layout of the default and answer card list views.
+// relations:
+//   - tests /ash/app_list/views/search_result_list_view.h
+//   - depends_on /ash/app_list/views/search_result_list_view.h
+//   - depends_on /ash/app_list/app_list_test_view_delegate.h
+// ---
+
 #include "ash/app_list/views/search_result_list_view.h"
 
 #include <stddef.h>

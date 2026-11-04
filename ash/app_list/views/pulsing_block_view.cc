@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulsingBlockView implementation
+// summary: Implements the pulsing block placeholder view shown while app list content loads, using background blur and a repeating opacity animation.
+// relations:
+//   - implements /ash/app_list/views/pulsing_block_view.h
+//   - depends_on /ash/style/dark_light_mode_controller_impl.h
+//   - depends_on /ash/style/style_util.h
+// ---
+
 #include "ash/app_list/views/pulsing_block_view.h"
 
 #include <stddef.h>

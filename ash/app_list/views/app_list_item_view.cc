@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list item view implementation
+// summary: Implements AppListItemView, the app icon and title button used in the apps grid, with dragging, context menus, progress indicators, and animations.
+// relations:
+//   - depends_on /ash/app_list/views/app_list_item_view.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+// ---
+
 #include "ash/app_list/views/app_list_item_view.h"
 
 #include <algorithm>

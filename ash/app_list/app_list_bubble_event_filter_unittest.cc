@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list bubble event filter unit tests
+// summary: Unit tests for AppListBubbleEventFilter verifying that clicks or taps on the status area do not trigger the close callback, parameterized for mouse and touch events.
+// relations:
+//   - tests /ash/app_list/app_list_bubble_event_filter.h
+//   - depends_on /ash/root_window_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/app_list/app_list_bubble_event_filter.h"
 
 #include <memory>

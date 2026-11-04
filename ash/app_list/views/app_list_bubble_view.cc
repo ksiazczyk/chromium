@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list bubble view implementation
+// summary: Implements AppListBubbleView, the bubble-style ChromeOS launcher container hosting the apps page, search page, and folder view, with show/hide animations and drag-and-drop handling.
+// relations:
+//   - implements /ash/app_list/views/app_list_bubble_view.h
+//   - depends_on /ash/app_list/views/app_list_a11y_announcer.h
+//   - depends_on /ash/app_list/views/app_list_bubble_apps_page.h
+// ---
+
 #include "ash/app_list/views/app_list_bubble_view.h"
 
 #include <algorithm>

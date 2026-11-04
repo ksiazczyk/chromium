@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultImageView class header
+// summary: Declares SearchResultImageView, a search result base view that displays an unlabeled image result with layout configuration and drag support.
+// relations:
+//   - depends_on /ash/app_list/model/search/search_result.h
+//   - depends_on /ash/app_list/views/search_result_base_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_RESULT_IMAGE_VIEW_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_RESULT_IMAGE_VIEW_H_
 

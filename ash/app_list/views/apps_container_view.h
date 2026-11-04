@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppsContainerView class declaration
+// summary: Declares AppsContainerView, the app list page holding the root apps grid, folder view, continue section and recent apps, with layout margin and state update APIs.
+// relations:
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/app_list_view_provider.h
+//   - depends_on /ash/app_list/model/app_list_folder_item.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APPS_CONTAINER_VIEW_H_
 #define ASH_APP_LIST_VIEWS_APPS_CONTAINER_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationMenuView class declaration
+// summary: Declares the view that displays notification items inside a MenuItemView, with APIs to add, update, and remove notifications and a delegate interface.
+// relations:
+//   - depends_on /ash/app_menu/app_menu_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_APP_MENU_NOTIFICATION_MENU_VIEW_H_
 #define ASH_APP_MENU_NOTIFICATION_MENU_VIEW_H_
 

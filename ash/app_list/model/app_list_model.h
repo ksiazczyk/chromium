@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list model header
+// summary: Declares AppListModel, the main model for the app list that holds the items and folders displayed in the grid view.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_item_list.h
+//   - implements /ash/app_list/model/app_list_item_list_observer.h
+//   - depends_on /ash/app_list/model/app_list_model_export.h
+// ---
+
 #ifndef ASH_APP_LIST_MODEL_APP_LIST_MODEL_H_
 #define ASH_APP_LIST_MODEL_APP_LIST_MODEL_H_
 

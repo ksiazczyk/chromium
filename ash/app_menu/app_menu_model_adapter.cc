@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu model adapter implementation
+// summary: Implements running, canceling, and command execution for app context menus, recording UMA histograms by app and device mode.
+// relations:
+//   - depends_on /ash/app_menu/app_menu_model_adapter.h
+//   - depends_on /ash/app_menu/notification_menu_controller.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/app_menu/app_menu_model_adapter.h"
 
 #include <memory>

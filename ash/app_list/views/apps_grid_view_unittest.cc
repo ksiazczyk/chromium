@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Apps grid view unit tests
+// summary: Unit tests for the Ash app list apps grid view, covering pagination, folders, drag and drop, keyboard navigation, and related app list views.
+// relations:
+//   - tests /ash/app_list/views/apps_grid_view.h
+//   - depends_on /ash/app_list/views/apps_grid_view_test_api.h
+// ---
+
 #include "ash/app_list/views/apps_grid_view.h"
 
 #include <stddef.h>

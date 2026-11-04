@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list item unit tests
+// summary: Unit test verifying that setting and clearing the new-install flag on an app list item notifies observers.
+// relations:
+//   - tests /ash/app_list/model/app_list_item.h
+//   - depends_on /ash/app_list/model/app_list_item_observer.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/app_list/model/app_list_item.h"
 
 #include "ash/app_list/model/app_list_item_observer.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list test view delegate implementation
+// summary: Implements a concrete AppListViewDelegate for unit tests, wired to test models and counting search result opens and dismissals.
+// relations:
+//   - implements /ash/app_list/app_list_test_view_delegate.h
+//   - depends_on /ash/app_list/model/app_list_model.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+// ---
+
 #include "ash/app_list/app_list_test_view_delegate.h"
 
 #include <string>

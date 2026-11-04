@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App waiter implementation
+// summary: Implements AppWaiter, which observes the app registry cache until the given app loads with a non-empty name, then runs its callback.
+// relations:
+//   - depends_on /ash/app_list/app_waiter.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+//   - depends_on /ash/app_list/model/app_list_model.h
+// ---
+
 #include "ash/app_list/app_waiter.h"
 
 #include <optional>

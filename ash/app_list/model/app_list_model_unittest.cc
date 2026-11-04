@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list model unit tests
+// summary: Unit tests for AppListModel covering item addition, removal, updates, folder moves, and observer notifications using a test observer and the app list test model.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_model.h
+//   - depends_on /ash/app_list/model/app_list_folder_item.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+// ---
+
 #include "ash/app_list/model/app_list_model.h"
 
 #include <stddef.h>

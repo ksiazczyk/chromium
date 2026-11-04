@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list search box view class declaration
+// summary: Declares SearchBoxView, a SearchBoxViewBase subclass that manages the search textfield, placeholder text, result selection controller, and query change notifications for the app list.
+// relations:
+//   - depends_on /ash/search_box/search_box_view_base.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/model/search/search_box_model_observer.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_BOX_VIEW_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_BOX_VIEW_H_
 

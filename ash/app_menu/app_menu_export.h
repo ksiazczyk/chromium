@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu export macro header
+// summary: Defines the APP_MENU_EXPORT macro so app_menu module symbols are exported to consumers in component builds.
+// ---
+
 #ifndef ASH_APP_MENU_APP_MENU_EXPORT_H_
 #define ASH_APP_MENU_APP_MENU_EXPORT_H_
 

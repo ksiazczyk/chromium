@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list feature usage metrics
+// summary: Records feature usage metrics for the clamshell and tablet mode launchers, tracking eligibility and usage sessions via FeatureUsageMetrics.
+// relations:
+//   - depends_on /ash/app_list/app_list_feature_usage_metrics.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/app_list/app_list_feature_usage_metrics.h"
 
 #include <memory>

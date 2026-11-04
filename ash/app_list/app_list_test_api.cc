@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list test API implementation
+// summary: Implements the app list test API used by tests to inspect and interact with launcher models, apps grids, folders and search views.
+// relations:
+//   - implements /ash/public/cpp/test/app_list_test_api.h
+//   - depends_on /ash/app_list/app_list_bubble_presenter.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+// ---
+
 #include "ash/public/cpp/test/app_list_test_api.h"
 
 #include <string>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list search box view implementation
+// summary: Implements the Chrome OS app list search box view, handling query changes, placeholder text, icons, context menus, painting, and styling for bubble and fullscreen launchers.
+// relations:
+//   - implements /ash/app_list/views/search_box_view.h
+// ---
+
 #include "ash/app_list/views/search_box_view.h"
 
 #include <algorithm>

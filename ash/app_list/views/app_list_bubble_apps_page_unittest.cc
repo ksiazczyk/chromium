@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list bubble apps page unit tests
+// summary: Unit tests covering the bubble apps page, including app sorting and reorder animations, focus handling, toasts, and layer cleanup.
+// relations:
+//   - tests /ash/app_list/views/app_list_bubble_apps_page.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+// ---
+
 #include "ash/app_list/views/app_list_bubble_apps_page.h"
 
 #include <utility>

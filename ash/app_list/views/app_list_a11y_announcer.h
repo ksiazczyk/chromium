@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list accessibility announcer class declaration
+// summary: Declares AppListA11yAnnouncer, a wrapper around a view that verbalizes app list events like folder creation and grid reordering for accessibility.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_A11Y_ANNOUNCER_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_A11Y_ANNOUNCER_H_
 

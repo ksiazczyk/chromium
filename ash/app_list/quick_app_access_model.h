@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickAppAccessModel declaration
+// summary: Declares QuickAppAccessModel, which stores the current quick app id and notifies observers about show state and icon changes.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_item_observer.h
+//   - depends_on /ash/public/cpp/app_list/app_list_controller_observer.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ASH_APP_LIST_QUICK_APP_ACCESS_MODEL_H_
 #define ASH_APP_LIST_QUICK_APP_ACCESS_MODEL_H_
 

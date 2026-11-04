@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list presenter event filter
+// summary: Declares AppListPresenterEventFilter, an event handler that closes the fullscreen launcher when clicks, taps or keys occur outside the app list.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_PRESENTER_EVENT_FILTER_H_
 #define ASH_APP_LIST_APP_LIST_PRESENTER_EVENT_FILTER_H_
 

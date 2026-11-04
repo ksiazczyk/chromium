@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSearchResult class declaration
+// summary: Declares TestSearchResult, a no-op SearchResult subclass used as a test helper in app list tests.
+// relations:
+//   - depends_on /ash/app_list/model/search/search_result.h
+// ---
+
 #ifndef ASH_APP_LIST_MODEL_SEARCH_TEST_SEARCH_RESULT_H_
 #define ASH_APP_LIST_MODEL_SEARCH_TEST_SEARCH_RESULT_H_
 

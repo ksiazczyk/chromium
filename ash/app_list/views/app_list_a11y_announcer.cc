@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list accessibility announcer implementation
+// summary: Sends accessibility announcements for app list events such as launcher shown, notification badges, folder drops, keyboard foldering, and grid reorders.
+// relations:
+//   - implements /ash/app_list/views/app_list_a11y_announcer.h
+//   - depends_on /ui/base/l10n/l10n_util.h
+//   - depends_on /ui/views/accessibility/view_accessibility.h
+// ---
+
 #include "ash/app_list/views/app_list_a11y_announcer.h"
 
 #include <memory>

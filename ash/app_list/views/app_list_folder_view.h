@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list folder view header
+// summary: Declares AppListFolderView, the view showing folder contents via an apps grid, including its animation interface and show, hide, and close handling.
+// relations:
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/model/app_list_model_observer.h
+//   - depends_on /ash/app_list/views/apps_grid_view.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_FOLDER_VIEW_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_FOLDER_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list context menu model adapter implementation
+// summary: Implements the menu adapter for app list context menus, recording UMA histograms for menu sources and app launches when menus close.
+// relations:
+//   - implements /ash/app_list/views/app_list_menu_model_adapter.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+// ---
+
 #include "ash/app_list/views/app_list_menu_model_adapter.h"
 
 #include <utility>

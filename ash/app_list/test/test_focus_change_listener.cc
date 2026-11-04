@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFocusChangeListener implementation
+// summary: Implements a views focus change listener that registers with a focus manager and counts focus changes for use in app list tests.
+// relations:
+//   - implements /ash/app_list/test/test_focus_change_listener.h
+//   - depends_on /ash/app_list/test/app_list_test_helper.h
+//   - depends_on /ash/app_list/views/apps_grid_view.h
+// ---
+
 #include "ash/app_list/test/test_focus_change_listener.h"
 
 #include "ash/app_list/test/app_list_test_helper.h"

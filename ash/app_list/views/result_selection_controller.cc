@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResultSelectionController implementation
+// summary: Implements keyboard-driven selection movement and reset logic for search results across result containers in the app list.
+// relations:
+//   - depends_on /ash/app_list/views/result_selection_controller.h
+//   - depends_on /ash/app_list/app_list_util.h
+//   - depends_on /ash/app_list/views/search_result_container_view.h
+// ---
+
 #include "ash/app_list/views/result_selection_controller.h"
 
 #include <utility>

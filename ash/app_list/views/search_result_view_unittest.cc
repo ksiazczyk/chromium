@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search result view unit tests
+// summary: Unit tests for the Ash app list SearchResultView, covering answer card and default result views, title and details label text, multiline heights, and preferred height.
+// relations:
+//   - tests /ash/app_list/views/search_result_view.h
+//   - depends_on /ash/app_list/model/search/test_search_result.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+// ---
+
 #include "ash/app_list/views/search_result_view.h"
 
 #include <memory>

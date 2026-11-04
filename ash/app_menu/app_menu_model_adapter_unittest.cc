@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu model adapter unit tests
+// summary: Unit tests covering menu opening, command execution, menu closing behavior, and submenu handling for AppMenuModelAdapter.
+// relations:
+//   - tests /ash/app_menu/app_menu_model_adapter.h
+//   - depends_on /ash/public/cpp/app_menu_constants.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/app_menu/app_menu_model_adapter.h"
 
 #include <memory>

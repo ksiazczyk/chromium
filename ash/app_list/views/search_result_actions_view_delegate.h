@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result actions view delegate interface
+// summary: Defines the SearchResultActionsViewDelegate interface for action button activation and querying whether the associated search result is hovered or selected.
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_RESULT_ACTIONS_VIEW_DELEGATE_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_RESULT_ACTIONS_VIEW_DELEGATE_H_
 

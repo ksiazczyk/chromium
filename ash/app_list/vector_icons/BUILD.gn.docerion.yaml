@@ -1,0 +1,6 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for app list vector icons
+summary: GN build file that aggregates the app list .icon sources and builds them into a static library for ChromeOS app list search.
+relations:
+  - depends_on /components/vector_icons/vector_icons.gni

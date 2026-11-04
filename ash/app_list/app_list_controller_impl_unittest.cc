@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list controller implementation unit tests
+// summary: Unit tests for AppListControllerImpl covering app list visibility, home launcher behavior, sorting, badges, and interactions with shelf and overview.
+// relations:
+//   - tests /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/app_list_badge_controller.h
+//   - depends_on /ash/app_list/app_list_bubble_presenter.h
+// ---
+
 #include "ash/app_list/app_list_controller_impl.h"
 
 #include <memory>

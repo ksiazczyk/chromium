@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list bubble presenter implementation
+// summary: Implements the bubble launcher UI for clamshell mode, handling showing and hiding the bubble, work area and size computations, and event filtering.
+// relations:
+//   - implements /ash/app_list/app_list_bubble_presenter.h
+//   - depends_on /ash/app_list/app_list_bubble_event_filter.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+// ---
+
 #include "ash/app_list/app_list_bubble_presenter.h"
 
 #include <algorithm>

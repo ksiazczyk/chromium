@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppListMenuModelAdapter unit tests
+// summary: Unit tests verifying that the app list menu model adapter enables the notification container command and records context menu and app launch histograms in clamshell and tablet modes.
+// relations:
+//   - tests /ash/app_list/views/app_list_menu_model_adapter.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+// ---
+
 #include "ash/app_list/views/app_list_menu_model_adapter.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationMenuView unit tests
+// summary: Unit tests for NotificationMenuView covering notification item add, update, and removal, overflow behavior, and slide-out interactions.
+// relations:
+//   - tests /ash/app_menu/notification_menu_view.h
+//   - depends_on /ash/app_menu/notification_menu_view_test_api.h
+//   - depends_on /ui/views/test/views_test_base.h
+// ---
+
 #include "ash/app_menu/notification_menu_view.h"
 
 #include "ash/app_menu/notification_item_view.h"

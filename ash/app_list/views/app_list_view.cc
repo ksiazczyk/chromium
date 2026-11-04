@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListView implementation
+// summary: Implements the top-level app list view and widget controller, managing showing and closing the launcher, page reset timers, focus traversal, and state animation metrics.
+// relations:
+//   - implements /ash/app_list/views/app_list_view.h
+//   - depends_on /ash/app_list/app_list_event_targeter.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+// ---
+
 #include "ash/app_list/views/app_list_view.h"
 
 #include <algorithm>

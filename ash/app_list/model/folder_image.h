@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Folder image header
+// summary: Declares FolderImage and FolderImageObserver, which dynamically generate a folder icon from contained items and support updates during item drag operations.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_item_list_observer.h
+//   - depends_on /ash/app_list/model/app_list_item_observer.h
+//   - depends_on /ash/app_list/model/app_list_model_export.h
+// ---
+
 #ifndef ASH_APP_LIST_MODEL_FOLDER_IMAGE_H_
 #define ASH_APP_LIST_MODEL_FOLDER_IMAGE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification item view header
+// summary: Declares NotificationItemView, the view holding a single notification's details and identifier within the app menu.
+// relations:
+//   - depends_on /ash/app_menu/app_menu_export.h
+//   - depends_on /ash/app_menu/notification_menu_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_APP_MENU_NOTIFICATION_ITEM_VIEW_H_
 #define ASH_APP_MENU_NOTIFICATION_ITEM_VIEW_H_
 

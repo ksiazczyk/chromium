@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationOverflowView implementation
+// summary: Implements the overflow row that shows icons for notifications not currently displayed, capped with a more-options overflow icon.
+// relations:
+//   - implements /ash/app_menu/notification_overflow_view.h
+//   - depends_on /ash/public/cpp/app_menu_constants.h
+//   - depends_on /ui/base/ui_base_features.h
+// ---
+
 #include "ash/app_menu/notification_overflow_view.h"
 
 #include <algorithm>

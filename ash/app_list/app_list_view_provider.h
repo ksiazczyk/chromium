@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list view provider interface
+// summary: Defines an interface abstracting clamshell bubble and fullscreen tablet launchers, exposing continue, recent apps, toast, and apps grid views.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_VIEW_PROVIDER_H_
 #define ASH_APP_LIST_APP_LIST_VIEW_PROVIDER_H_
 

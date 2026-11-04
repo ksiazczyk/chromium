@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list item view header
+// summary: Declares AppListItemView, the button view showing an app icon and title, supporting drag states, context menus, and keyboard selection via the grid delegate.
+// relations:
+//   - depends_on /ash/app_list/grid_index.h
+//   - depends_on /ash/app_list/model/app_icon_load_helper.h
+//   - depends_on /ash/app_list/model/app_list_item_observer.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_ITEM_VIEW_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_ITEM_VIEW_H_
 

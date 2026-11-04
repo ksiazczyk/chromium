@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListPage base class header
+// summary: Declares AppListPage, the base views::View subclass for app list pages, defining show, hide, animation, opacity, bounds, and focus hooks used by ContentsView.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_PAGE_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_PAGE_H_
 
