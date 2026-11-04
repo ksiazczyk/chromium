@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for site settings tests
+summary: Metadata file applying the common site settings metadata mixin from components/browser_ui to this test directory.

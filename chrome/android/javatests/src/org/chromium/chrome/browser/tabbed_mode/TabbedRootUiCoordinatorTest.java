@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabbedRootUiCoordinatorTest
+// summary: Android instrumentation tests for TabbedRootUiCoordinator, covering bookmark bar visibility, adaptive toolbar, metrics session stats, send-tab-to-self, and related root UI behavior.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withText;

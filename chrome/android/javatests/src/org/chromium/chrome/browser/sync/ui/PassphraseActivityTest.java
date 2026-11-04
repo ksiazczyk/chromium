@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PassphraseActivityTest
+// summary: Android instrumentation tests for PassphraseActivity, covering callback handling after backgrounding and launching the passphrase dialog for signed-in users.
+// ---
+
 package org.chromium.chrome.browser.sync.ui;
 
 import android.content.ComponentName;

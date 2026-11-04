@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Survey test OWNERS pointer
+summary: Points to the main Chrome survey OWNERS file so this test directory inherits the same code ownership and reviewer list.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search index validator for settings tests
+// summary: Test helper that verifies a settings preference screen matches the settings search index, exposed via SettingsSearchTestUtils.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.content.Context;

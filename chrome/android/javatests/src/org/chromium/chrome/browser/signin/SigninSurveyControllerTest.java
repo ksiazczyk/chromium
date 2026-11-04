@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninSurveyControllerTest
+// summary: Android instrumentation tests for SigninSurveyController, verifying that sign-in surveys are shown and accepted from entry points such as FRE, bookmarks, and the NTP.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import androidx.test.filters.MediumTest;

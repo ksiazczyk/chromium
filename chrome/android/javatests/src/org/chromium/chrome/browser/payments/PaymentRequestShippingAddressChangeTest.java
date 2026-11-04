@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shipping address change test
+// summary: Android integration test verifying that only a redacted shipping address is sent to the merchant when the user changes the shipping address selection.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

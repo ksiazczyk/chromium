@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSigninLoadingDialogTest
+// summary: Integration tests for the web sign-in loading dialog, covering dialog display, timers, sign-in tracker callbacks, and related histograms via mocked bridges.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import static androidx.test.espresso.Espresso.onView;

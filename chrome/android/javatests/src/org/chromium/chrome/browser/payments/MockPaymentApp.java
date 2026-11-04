@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock payment app for tests
+// summary: Mock PaymentApp implementation used by payment tests to simulate a payment app with configurable supported methods, delegations, and instrument details.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import android.graphics.drawable.Drawable;

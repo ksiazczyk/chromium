@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MostVisitedSitesMetadataUtils instrumentation tests
+// summary: Instrumentation tests verifying that most visited site suggestion metadata is saved to and restored from file consistently, including exception handling and pending task behavior.
+// ---
+
 package org.chromium.chrome.browser.suggestions.mostvisited;
 
 import static org.junit.Assert.assertEquals;

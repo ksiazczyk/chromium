@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request test for phone number and free shipping
+// summary: Instrumentation test verifying a merchant that requests a phone number with free shipping, including submitted data and Payment Request events metrics.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

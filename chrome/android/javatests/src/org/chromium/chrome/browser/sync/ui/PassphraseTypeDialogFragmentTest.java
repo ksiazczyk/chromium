@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PassphraseTypeDialogFragmentTest
+// summary: Espresso and render tests verifying that PassphraseTypeDialogFragment shows the correct keystore and custom passphrase encryption options.
+// ---
+
 package org.chromium.chrome.browser.sync.ui;
 
 import static androidx.test.espresso.Espresso.onView;

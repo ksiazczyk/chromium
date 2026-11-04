@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie controls bridge tests
+// summary: Integration tests for CookieControlsBridge, verifying cookie controls visibility, enforcement, and third-party cookie blocking state.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import static org.junit.Assert.assertEquals;

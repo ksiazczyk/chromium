@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabViewManager margin tests
+// summary: Android instrumentation tests for TabViewManagerImpl, verifying that controller margins are correctly applied to the view provided by a TabViewProvider.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.content.Context;

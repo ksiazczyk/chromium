@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabModelImplTest legacy tab model tests
+// summary: Legacy instrumentation tests for the precursor of TabCollectionTabModelImpl that remain applicable, with new tests directed to TabCollectionTabModelImplTest instead.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withText;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request test for paying via Bob Pay payment app
+// summary: Instrumentation test verifying payment via the Bob Pay app, including rejection when no payment methods are supported and behavior after the UI is dismissed.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

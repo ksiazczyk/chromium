@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request multiple contact details test
+// summary: Android integration test covering contact detail selection when the user has multiple complete and incomplete contact profiles.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android payment app finder integration tests
+// summary: Integration tests for the Android payment app finder, covering app discovery, manifest downloading and parsing, and payment app creation via a simulated package manager.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static com.google.common.truth.Truth.assertThat;

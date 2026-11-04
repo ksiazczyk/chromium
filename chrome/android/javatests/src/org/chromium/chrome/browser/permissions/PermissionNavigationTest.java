@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionNavigationTest
+// summary: Android instrumentation tests checking that modal permission prompts and queued requests are dismissed on navigation, including dismissal metric coverage.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import android.view.View;

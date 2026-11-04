@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequestIncompleteEmailTest
+// summary: Instrumented test for a merchant requesting an email address when the user has an invalid email stored, verifying validation failures and cancelling the payment flow.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

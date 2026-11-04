@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsState restore tests
+// summary: Android instrumentation tests verifying that TabState is restored from disk properly, including tolerance of corrupted tab state files without crashing.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import androidx.test.core.app.ApplicationProvider;

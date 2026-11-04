@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Undo and restore tests for TabModel
+// summary: Instrumentation tests verifying undo of tab closing and restoring of tabs in the Chrome TabModel, including tab switcher and multi-activity scenarios.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertArrayEquals;

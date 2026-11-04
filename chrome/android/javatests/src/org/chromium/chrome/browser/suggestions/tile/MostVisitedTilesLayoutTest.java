@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MostVisitedTilesLayoutTest
+// summary: Instrumentation tests for the MostVisitedTilesLayout on Chrome's Android New Tab Page, covering orientation, night mode, and render behavior.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import static android.content.res.Configuration.ORIENTATION_LANDSCAPE;

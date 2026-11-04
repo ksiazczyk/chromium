@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PreviewTabTest
+// summary: Instrumentation tests for Chrome's Preview Tab, also known as the Ephemeral Tab, covering opening, closing, and interactions.
+// ---
+
 package org.chromium.chrome.browser.previewtab;
 
 import android.view.ViewGroup;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for read_later tests
+summary: OWNERS file that delegates ownership of the read_later test directory to the owners of chrome/browser/reading_list.

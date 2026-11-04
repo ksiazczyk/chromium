@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManageSyncSettingsWithFakeSyncServiceImplTest
+// summary: Tests for the Manage Sync settings screen using a fake sync service implementation, covering error dialogs and trusted vault interactions.
+// ---
+
 package org.chromium.chrome.browser.sync.settings;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contact details and free shipping integration test
+// summary: Integration test for a merchant requesting payer name, email and phone with free shipping, checking submitted data and event metrics.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

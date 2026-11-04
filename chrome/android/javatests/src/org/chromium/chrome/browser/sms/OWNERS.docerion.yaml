@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the WebOTP Service API test directory
+summary: Ownership file that delegates code review ownership to the OWNERS file of content/browser/sms.

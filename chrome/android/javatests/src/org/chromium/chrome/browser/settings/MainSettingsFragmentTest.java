@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main settings fragment tests
+// summary: Espresso instrumentation tests for the main Chrome Android settings fragment and its preference entries.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static androidx.test.espresso.Espresso.onView;

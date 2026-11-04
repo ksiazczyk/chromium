@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings page back button tests
+// summary: Integration tests focused on back button navigation behavior in the settings page on desktop form factors.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static androidx.test.espresso.Espresso.onView;

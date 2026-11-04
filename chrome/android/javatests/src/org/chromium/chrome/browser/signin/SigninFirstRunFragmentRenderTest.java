@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Sign-in first run fragment render tests
+// summary: Parameterized render tests capturing the appearance of the sign-in first run fragment across devices and configurations.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import static androidx.test.espresso.Espresso.onView;

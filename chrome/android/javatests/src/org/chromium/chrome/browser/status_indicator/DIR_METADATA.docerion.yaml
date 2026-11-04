@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Status indicator tests directory metadata
+summary: Points to the common metadata mixins defined for the status indicator source directory.

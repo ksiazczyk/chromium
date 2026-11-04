@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy settings fragment tests
+// summary: Espresso tests for Chrome's Privacy and security settings fragment covering preference states, histograms, user actions and rendering.
+// ---
+
 package org.chromium.chrome.browser.privacy.settings;
 
 import static androidx.test.espresso.Espresso.onView;

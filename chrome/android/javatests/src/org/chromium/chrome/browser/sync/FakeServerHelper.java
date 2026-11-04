@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync server helper for tests
+// summary: Java wrapper around the native sync FakeServer that lets tests create, query and modify fake server entities from any thread.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import com.google.protobuf.InvalidProtocolBufferException;

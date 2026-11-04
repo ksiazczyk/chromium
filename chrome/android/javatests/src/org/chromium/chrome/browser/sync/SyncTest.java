@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync test suite
+// summary: Instrumentation tests for core sync behavior such as stop-and-clear, stopping and restarting sync, and passphrase state.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import androidx.test.filters.LargeTest;

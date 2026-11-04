@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OtrProfileIdTest
+// summary: Instrumentation tests verifying OtrProfileId for regular, primary and non-primary off-the-record profiles, including serialization round trips.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import static com.google.common.truth.Truth.assertThat;

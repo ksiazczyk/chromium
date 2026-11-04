@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRulesetPublisher
+// summary: Java helper that creates and publishes test rulesets for Subresource Filter instrumentation tests over JNI.
+// ---
+
 package org.chromium.chrome.browser.subresource_filter;
 
 import org.jni_zero.CalledByNative;

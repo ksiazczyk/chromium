@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Open tabs sync test suite
+// summary: Instrumentation tests verifying the sessions (open tabs) sync data type against a fake sync server.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import android.util.Pair;

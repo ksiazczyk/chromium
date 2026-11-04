@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountManagementFragmentTest
+// summary: Instrumentation tests for the AccountManagementFragment sync settings screen, covering UI behavior, histograms and render tests with parameterized account sources.
+// ---
+
 package org.chromium.chrome.browser.sync.settings;
 
 import static androidx.test.espresso.Espresso.onView;

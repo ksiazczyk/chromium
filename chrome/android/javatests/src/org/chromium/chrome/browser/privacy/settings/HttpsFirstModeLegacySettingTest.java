@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTPS-First Mode legacy setting tests
+// summary: Instrumentation tests for the legacy HTTPS-First Mode preference in Chrome's Privacy and security settings with the balanced mode feature disabled.
+// ---
+
 package org.chromium.chrome.browser.privacy.settings;
 
 import static org.chromium.base.test.util.Batch.PER_CLASS;

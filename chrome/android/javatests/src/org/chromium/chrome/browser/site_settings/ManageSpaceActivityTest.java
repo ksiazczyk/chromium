@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manage space activity tests
+// summary: Instrumentation tests for ManageSpaceActivity, covering the clear buttons, confirmation dialogs, and site data clearing.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import static androidx.test.espresso.Espresso.onView;

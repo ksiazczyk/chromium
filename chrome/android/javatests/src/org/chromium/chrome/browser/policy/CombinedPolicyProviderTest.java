@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CombinedPolicyProviderTest
+// summary: Android instrumentation tests verifying that CombinedPolicyProvider notifies tabs and terminates incognito sessions when a policy provider disables incognito mode.
+// ---
+
 package org.chromium.chrome.browser.policy;
 
 import static org.chromium.chrome.test.util.ChromeTabUtils.getTabCountOnUiThread;

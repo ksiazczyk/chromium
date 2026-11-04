@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome site settings delegate tests
+// summary: Instrumentation tests for Chrome's SiteSettingsDelegate implementation, covering fallback favicon loading and browsing data behavior.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import static com.google.common.truth.Truth.assertThat;

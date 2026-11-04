@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GoogleServicesSettingsTest
+// summary: Espresso tests for the Google services settings screen in Chrome for Android, verifying preferences, snackbars and price tracking features.
+// ---
+
 package org.chromium.chrome.browser.sync.settings;
 
 import static androidx.test.espresso.Espresso.onView;

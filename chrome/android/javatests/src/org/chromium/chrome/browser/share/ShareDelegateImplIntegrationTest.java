@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShareDelegateImplIntegrationTest
+// summary: Integration tests for the share menu, verifying that the visible page URL rather than the canonical URL is shared.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import androidx.test.filters.SmallTest;

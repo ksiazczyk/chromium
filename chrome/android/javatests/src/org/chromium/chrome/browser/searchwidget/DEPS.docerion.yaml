@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the searchwidget tests
+summary: Grants the searchwidget tests include access to the omnibox AutocompleteMatchBuilder test helper.

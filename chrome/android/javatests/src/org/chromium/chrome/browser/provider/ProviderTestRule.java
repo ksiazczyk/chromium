@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JUnit test rule for Chrome's content provider tests
+// summary: JUnit rule that sets up a local ChromeBrowserProvider with a mock content resolver in an isolated context for use by the provider tests.
+// ---
+
 package org.chromium.chrome.browser.provider;
 
 import android.content.ContentProvider;

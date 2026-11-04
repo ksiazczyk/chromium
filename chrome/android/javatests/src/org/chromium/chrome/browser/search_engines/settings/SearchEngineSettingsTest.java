@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchEngineSettingsTest
+// summary: Instrumentation tests for the Chrome Android Search Engine Settings, covering search engine preference selection and related settings behavior.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings;
 
 import static androidx.test.espresso.Espresso.onView;

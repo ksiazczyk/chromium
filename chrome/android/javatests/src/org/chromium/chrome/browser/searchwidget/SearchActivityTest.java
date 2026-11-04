@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchActivityTest
+// summary: Instrumentation tests for SearchActivity covering omnibox suggestions, voice search, metrics, and activity launch behavior.
+// ---
+
 package org.chromium.chrome.browser.searchwidget;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Show promise empty lists test
+// summary: Android integration test verifying that a show promise resolving with empty display items, modifiers, and shipping options clears the payment request data.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

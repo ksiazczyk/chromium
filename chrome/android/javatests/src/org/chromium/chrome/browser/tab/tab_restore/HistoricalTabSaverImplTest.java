@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistoricalTabSaverImplTest
+// summary: End-to-end instrumented tests for HistoricalTabSaverImpl covering saving of recently closed tabs, groups and bulk events and their interaction with the TabRestoreService.
+// ---
+
 package org.chromium.chrome.browser.tab.tab_restore;
 
 import static com.google.common.truth.Truth.assertThat;

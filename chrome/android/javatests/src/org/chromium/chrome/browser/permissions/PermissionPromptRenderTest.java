@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionPromptRenderTest
+// summary: Parameterized render tests for permission prompt dialogs across night mode and constrained screen configurations.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import android.annotation.SuppressLint;

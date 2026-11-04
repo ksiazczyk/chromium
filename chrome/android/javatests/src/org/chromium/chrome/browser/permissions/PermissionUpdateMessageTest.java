@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionUpdateMessageTest
+// summary: Android instrumentation tests for the permission update message, covering geolocation and media stream permission updates with a fake permission delegate.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import static org.chromium.components.permissions.PermissionUtil.getGeolocationType;

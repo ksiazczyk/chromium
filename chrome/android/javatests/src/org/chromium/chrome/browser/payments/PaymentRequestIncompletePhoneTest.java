@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment Request incomplete phone number integration test
+// summary: Android integration test checking Payment Request behavior when the stored contact phone number is invalid, covering editor validation errors and cancelling edits.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

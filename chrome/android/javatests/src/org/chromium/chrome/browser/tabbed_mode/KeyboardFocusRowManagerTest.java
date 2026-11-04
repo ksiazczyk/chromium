@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyboardFocusRowManagerTest
+// summary: Android instrumentation tests for KeyboardFocusRowManager in Chrome tabbed mode, covering keyboard focus row behavior with modal dialogs, the bookmark bar, and obscuring targets.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CaptivePortalTest
+// summary: Android instrumentation tests for the captive portal interstitial, verifying interstitial display and UMA event recording for SSL error handling.
+// ---
+
 package org.chromium.chrome.browser.ssl;
 
 import androidx.annotation.IntDef;

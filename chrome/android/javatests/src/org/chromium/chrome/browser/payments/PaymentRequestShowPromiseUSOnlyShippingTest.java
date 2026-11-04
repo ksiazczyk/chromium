@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Show promise US-only shipping test
+// summary: Android integration test verifying the show promise flow with shipping restricted to US addresses, covering cases that cannot ship and can ship with fast or slow apps.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabContextMenuItemDelegateTest
+// summary: Integration tests for TabContextMenuItemDelegate, covering context menu actions such as bookmarking, copy link, and multi-window behaviors.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static androidx.test.espresso.intent.Intents.intended;

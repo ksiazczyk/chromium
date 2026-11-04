@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequestEmailAndPhoneTest
+// summary: Instrumented test covering a merchant that requests both email address and phone number, using several autofill profile variants to exercise contact detail selection and payment flows.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import android.os.Build;

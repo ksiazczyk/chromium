@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Explicit passphrase platform client integration test
+// summary: Integration test checking that the platform client is invoked when a correct or wrong decryption passphrase is set during sign-in.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import static org.mockito.ArgumentMatchers.eq;

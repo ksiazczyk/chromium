@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIDI permission request tests
+// summary: Instrumentation test verifying the MIDI permission request dialog, currently disabled due to a tracked bug.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import androidx.test.filters.MediumTest;

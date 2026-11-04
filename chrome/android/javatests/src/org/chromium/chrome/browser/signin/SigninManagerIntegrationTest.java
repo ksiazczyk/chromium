@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in manager integration tests
+// summary: Integration tests for SigninManager and IdentityManager covering account updates, sign-in, and sign-out with native initialization.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import static org.junit.Assert.assertEquals;

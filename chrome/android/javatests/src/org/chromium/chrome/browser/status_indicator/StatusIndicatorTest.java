@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Status indicator integration tests
+// summary: Espresso-based integration tests for the Chrome for Android status indicator, covering StatusIndicatorCoordinator and TabbedRootUiCoordinator behavior.
+// ---
+
 package org.chromium.chrome.browser.status_indicator;
 
 import static androidx.test.espresso.Espresso.onView;

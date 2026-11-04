@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShoppingPersistedTabDataTestUtils
+// summary: Shared helper class providing mock shopping service responses, constants and factory methods for ShoppingPersistedTabData test classes in Chrome Android tab state tests.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import static org.mockito.ArgumentMatchers.any;

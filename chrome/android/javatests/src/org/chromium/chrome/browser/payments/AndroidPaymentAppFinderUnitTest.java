@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android payment app finder unit tests
+// summary: Unit tests for the native Android payment app finder, mocking package manager and web data services to verify payment app detection and payment intent handling.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static com.google.common.truth.Truth.assertThat;

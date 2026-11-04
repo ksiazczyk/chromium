@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the provider test directory
+summary: Points to the OWNERS file of the corresponding Chrome provider source directory to inherit review ownership for these tests.

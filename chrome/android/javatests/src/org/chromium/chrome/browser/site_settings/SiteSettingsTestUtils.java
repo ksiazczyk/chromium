@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteSettingsTestUtils
+// summary: Utility functions for testing Site Settings, such as launching settings menus, category pages and single-website preference screens.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninCheckerTest
+// summary: Instrumented tests verifying the sign-in checks Chrome performs at start-up or when device accounts change, including child account sign-in and cases where sign-in is not allowed.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import static org.mockito.ArgumentMatchers.any;

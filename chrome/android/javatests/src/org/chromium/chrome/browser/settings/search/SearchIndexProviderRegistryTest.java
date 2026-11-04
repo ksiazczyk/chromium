@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search index provider registry test
+// summary: Verifies that the Settings Search Index builds for all registered fragments without crashing, that their XML resources exist, and that XML fragment links map to registered providers.
+// ---
+
 package org.chromium.chrome.browser.settings.search;
 
 import static org.junit.Assert.fail;

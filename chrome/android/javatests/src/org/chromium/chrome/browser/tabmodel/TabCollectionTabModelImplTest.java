@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabCollectionTabModelImplTest
+// summary: Large integration test suite for TabCollectionTabModelImpl covering tab groups, group titles, merging, undo, and model behavior.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withText;

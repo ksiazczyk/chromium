@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS redirect for segmentation platform tests
+summary: Redirects code ownership of the javatests segmentation platform directory to the OWNERS file in the corresponding Java source directory.

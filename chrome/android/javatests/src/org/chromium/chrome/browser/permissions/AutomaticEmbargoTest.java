@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automatic embargo permission tests
+// summary: Instrumentation tests verifying the automatic embargo logic that suppresses repeated permission prompts after multiple dismissals for geolocation, notifications, MIDI, and media.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import androidx.test.filters.LargeTest;

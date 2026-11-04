@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequestEmailAndFreeShippingTest
+// summary: Instrumented test checking that a merchant requiring an email address with free shipping receives the email and address on payment and that PaymentRequest.Events metrics are logged.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

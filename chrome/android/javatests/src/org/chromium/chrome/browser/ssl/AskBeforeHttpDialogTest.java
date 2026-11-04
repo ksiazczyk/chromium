@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AskBeforeHttpDialogTest
+// summary: Android instrumentation tests for the HTTPS First Mode ask-before-HTTP dialog, covering dialog display, go-back behavior, and related decision histograms.
+// ---
+
 package org.chromium.chrome.browser.ssl;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestDesktopSiteTest
+// summary: Phone-only instrumentation tests for the request desktop site user flows, covering app menu actions, content settings, and related histograms.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import androidx.test.filters.SmallTest;

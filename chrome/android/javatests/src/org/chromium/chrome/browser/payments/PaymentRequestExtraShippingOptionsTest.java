@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequestExtraShippingOptionsTest
+// summary: Instrumented test verifying that a merchant providing shipping options without requesting a shipping address receives correct payment information when the user pays.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.filters.MediumTest;

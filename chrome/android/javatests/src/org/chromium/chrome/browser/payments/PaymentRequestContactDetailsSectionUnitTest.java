@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContactDetailsSection unit test
+// summary: Unit test for the ContactDetailsSection UI class, covering contact list creation and ordering of profiles by completeness.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import androidx.test.core.app.ApplicationProvider;

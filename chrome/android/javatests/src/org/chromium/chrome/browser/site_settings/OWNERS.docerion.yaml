@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for site settings tests
+summary: Owners file that defers review ownership to the shared site settings OWNERS file in components/browser_ui.

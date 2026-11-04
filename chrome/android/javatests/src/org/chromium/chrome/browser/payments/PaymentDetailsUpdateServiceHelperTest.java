@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentDetailsUpdateServiceHelper tests
+// summary: Tests for PaymentDetailsUpdateServiceHelper, verifying that payment apps can update shipping addresses, options, and payment details through the update service.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import android.content.ComponentName;

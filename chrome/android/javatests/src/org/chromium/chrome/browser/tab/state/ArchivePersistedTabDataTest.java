@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArchivePersistedTabData tests
+// summary: Instrumentation tests verifying the archived timestamp handling and restore behaviour of ArchivePersistedTabData on a tab.
+// ---
+
 package org.chromium.chrome.browser.tab.state;
 
 import androidx.test.filters.SmallTest;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the tasks tests directory
+summary: Delegates reviewer ownership for the tasks test directory to the OWNERS file of the corresponding tasks source directory.

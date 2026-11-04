@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteSettingsCookiesTest
+// summary: Instrumentation tests for cookie settings in Chrome's Site Settings, covering cookie controls, third-party cookie preferences and related UI behavior.
+// ---
+
 package org.chromium.chrome.browser.site_settings;
 
 import static androidx.test.espresso.Espresso.onView;

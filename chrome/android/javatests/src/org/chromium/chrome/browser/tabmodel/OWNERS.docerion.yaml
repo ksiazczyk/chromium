@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for tabmodel tests
+summary: Points to the parent tabmodel OWNERS file and assigns per-file owners for the multi-instance migration and tab model merging tests.

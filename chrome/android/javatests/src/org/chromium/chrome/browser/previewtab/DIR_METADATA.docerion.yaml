@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Directory metadata assigning the previewtab tests to the UI>Browser>Mobile>PreviewTab component with team email and Buganizer component ID.

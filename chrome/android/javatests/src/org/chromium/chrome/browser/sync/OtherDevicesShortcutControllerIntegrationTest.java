@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Other devices shortcut controller integration test
+// summary: Integration tests for the OtherDevicesShortcutController dynamic shortcut behavior driven by synced remote device data.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import android.content.Context;

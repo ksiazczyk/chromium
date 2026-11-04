@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printing Controller Tests for Chrome on Android
+// summary: Instrumentation tests for Chrome on Android's printing controller, exercising PDF generation and print document adapter layout and write callbacks via the Android print framework.
+// ---
+
 package org.chromium.chrome.browser.printing;
 
 import static org.junit.Assert.assertFalse;

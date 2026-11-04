@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shape Detection API Android tests
+// summary: Android instrumentation test verifying barcode and text detection via the Shape Detection API, using an embedded test server and tab title checks.
+// ---
+
 package org.chromium.chrome.browser.shape_detection;
 
 

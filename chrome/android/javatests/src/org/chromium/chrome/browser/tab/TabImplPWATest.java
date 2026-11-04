@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabImplPWATest
+// summary: Instrumentation test verifying that a tab launched inside a trusted web activity is reported as being in a PWA rather than the browser.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.junit.Assert.assertFalse;

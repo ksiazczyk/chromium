@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PushMessagingTest
+// summary: Android instrumentation tests for the Push API and its integration with the Notifications API in Chrome.
+// ---
+
 package org.chromium.chrome.browser.push_messaging;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

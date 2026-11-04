@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileResolverTest
+// summary: Instrumentation tests for ProfileResolver covering profile resolution and tokenization across regular and off-the-record profiles on the UI thread.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

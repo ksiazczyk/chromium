@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark URI tests for Chrome's Android content provider
+// summary: JUnit tests that exercise the bookmarks URI of Chrome's Android provider public API, covering insert, query, and update of bookmark entries.
+// ---
+
 package org.chromium.chrome.browser.provider;
 
 import android.content.ContentValues;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bottom sheet sign-in and history sync integration tests
+// summary: Instrumentation tests covering the bottom sheet sign-in and history sync flows, including UI behavior, metrics, and account handling.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import static androidx.test.espresso.Espresso.onView;

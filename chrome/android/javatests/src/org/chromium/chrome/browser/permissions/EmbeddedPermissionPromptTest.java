@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded permission prompt tests
+// summary: Instrumentation tests verifying embedded permission prompt dialogs, including geolocation prompts and related survey behavior, within web content on Android.
+// ---
+
 package org.chromium.chrome.browser.permissions;
 
 import static org.junit.Assert.assertEquals;

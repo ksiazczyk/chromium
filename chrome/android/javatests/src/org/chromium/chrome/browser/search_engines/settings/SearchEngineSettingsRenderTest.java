@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchEngineSettingsRenderTest
+// summary: Render tests for the Chrome Android Search Engine Settings screen, using mocked template URL services and feature flags to verify the settings UI rendering.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings;
 
 import static org.mockito.Mockito.doReturn;

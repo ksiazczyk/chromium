@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Chromium OWNERS file that delegates reviewer ownership to the OWNERS file of the corresponding tab_restore source directory.

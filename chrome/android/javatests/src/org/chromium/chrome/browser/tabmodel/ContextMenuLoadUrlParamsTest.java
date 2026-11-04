@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextMenuLoadUrlParamsTest
+// summary: Instrumented tests verifying the URL load parameters set when navigations are triggered from the context menu.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static androidx.test.espresso.intent.Intents.intended;

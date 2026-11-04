@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-column settings tests
+// summary: Parameterized tests for the multi-column settings layout, covering both account facade and identity manager sources.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.junit.Assert.assertEquals;

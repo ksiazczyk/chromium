@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deterministic simulation test for tab collection model
+// summary: Manually run randomized simulation test for TabCollectionTabModelImpl that seeks input sequences which could cause crashes or unrecoverable states.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import android.util.Pair;

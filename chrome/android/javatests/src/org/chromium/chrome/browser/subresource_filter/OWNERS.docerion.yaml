@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Owners file that delegates review ownership to the components/subresource_filter OWNERS file.

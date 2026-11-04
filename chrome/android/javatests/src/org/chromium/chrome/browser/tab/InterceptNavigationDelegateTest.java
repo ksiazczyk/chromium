@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InterceptNavigationDelegateTest
+// summary: Android instrumentation tests for InterceptNavigationDelegate, covering navigations triggered by timers, user gestures, XHR callbacks, image onload, and prerendering.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import androidx.test.core.app.ApplicationProvider;

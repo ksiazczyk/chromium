@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RepostFormWarningTest
+// summary: Android instrumentation tests verifying that form resubmission warning dialogs are correctly displayed and handled during POST navigations and reloads.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import androidx.test.filters.MediumTest;

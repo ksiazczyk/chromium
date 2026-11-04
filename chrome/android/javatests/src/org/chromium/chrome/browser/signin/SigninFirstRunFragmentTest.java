@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in first run fragment tests
+// summary: Instrumentation tests for the first run sign-in fragment, covering UI interactions, preferences, and sign-in flow behavior.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import static androidx.test.espresso.Espresso.onView;

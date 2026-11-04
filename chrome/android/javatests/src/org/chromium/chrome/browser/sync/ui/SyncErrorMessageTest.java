@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncErrorMessageTest
+// summary: Espresso, mock-based and render tests for SyncErrorMessage covering sync error banners, user actions and navigation to sync settings.
+// ---
+
 package org.chromium.chrome.browser.sync.ui;
 
 import static androidx.test.espresso.action.ViewActions.click;

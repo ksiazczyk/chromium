@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment manifest verifier test
+// summary: Instrumentation test for the payment app manifest verifier, mocking the downloader, parser and package manager to check manifest verification callbacks.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import android.content.pm.ActivityInfo;
