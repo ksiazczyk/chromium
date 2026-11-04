@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InfoBarSpec unit tests
+// summary: Unit tests verifying InfoBarSpec builder defaults and custom configuration of buttons, callbacks, result reporting, and browser filters.
+// ---
+
 #include "chrome/browser/infobars/infobar_spec.h"
 
 #include <optional>

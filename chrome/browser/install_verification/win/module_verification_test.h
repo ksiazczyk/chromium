@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModuleVerificationTest fixture declaration
+// summary: Declares the ModuleVerificationTest gtest base fixture with helpers to fetch loaded module info and report module IDs.
+// ---
+
 #ifndef CHROME_BROWSER_INSTALL_VERIFICATION_WIN_MODULE_VERIFICATION_TEST_H_
 #define CHROME_BROWSER_INSTALL_VERIFICATION_WIN_MODULE_VERIFICATION_TEST_H_
 

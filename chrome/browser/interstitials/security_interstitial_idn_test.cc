@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security interstitial IDN test helper
+// summary: Browser test helper that verifies security interstitials display decoded IDN hostnames such as президент.рф instead of punycode.
+// ---
+
 #include "chrome/browser/interstitials/security_interstitial_idn_test.h"
 
 #include "base/strings/stringprintf.h"

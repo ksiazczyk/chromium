@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleInfo struct for loaded module address ranges
+// summary: Defines the ModuleInfo struct representing a loaded module's address range, with sorting by base address and address containment checks.
+// ---
+
 #ifndef CHROME_BROWSER_INSTALL_VERIFICATION_WIN_MODULE_INFO_H_
 #define CHROME_BROWSER_INSTALL_VERIFICATION_WIN_MODULE_INFO_H_
 

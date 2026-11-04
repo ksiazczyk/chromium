@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security interstitial IDN test base class
+// summary: Declares a browser test base class that creates security interstitials with IDN URLs and verifies the IDN names are properly decoded.
+// ---
+
 #ifndef CHROME_BROWSER_INTERSTITIALS_SECURITY_INTERSTITIAL_IDN_TEST_H_
 #define CHROME_BROWSER_INTERSTITIALS_SECURITY_INTERSTITIAL_IDN_TEST_H_
 

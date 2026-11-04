@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetLoadedModules helper implementation
+// summary: Implements GetLoadedModules, which snapshots the current process's loaded modules and fills a set of ModuleInfo entries.
+// ---
+
 #include "chrome/browser/install_verification/win/module_verification_common.h"
 
 #include "base/win/win_util.h"

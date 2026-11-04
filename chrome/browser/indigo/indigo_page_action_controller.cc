@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo page action controller implementation
+// summary: Implements the Indigo page action controller, managing entry points, image replacement, toolbar display, onboarding, toasts, and metrics for the feature.
+// ---
+
 #include "chrome/browser/indigo/indigo_page_action_controller.h"
 
 #include <memory>

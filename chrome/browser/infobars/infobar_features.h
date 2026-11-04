@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar feature flags
+// summary: Declares the centralized infobar framework feature flag, its migration parameters, and the IsInfoBarMigrated helper for checking migration status.
+// ---
+
 #ifndef CHROME_BROWSER_INFOBARS_INFOBAR_FEATURES_H_
 #define CHROME_BROWSER_INFOBARS_INFOBAR_FEATURES_H_
 

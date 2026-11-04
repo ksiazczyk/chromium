@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo image replacement manager implementation
+// summary: Manages groups of image replacements per page, generating a replacement image from the primary replacement's original image bytes.
+// ---
+
 #include "chrome/browser/indigo/indigo_image_replacement_manager.h"
 
 #include "base/check.h"

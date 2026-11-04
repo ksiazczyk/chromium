@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo menu model header
+// summary: Declares IndigoMenuModel, the menu model and delegate backing the Indigo anchored message menu.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_INDIGO_MENU_MODEL_H_
 #define CHROME_BROWSER_INDIGO_INDIGO_MENU_MODEL_H_
 

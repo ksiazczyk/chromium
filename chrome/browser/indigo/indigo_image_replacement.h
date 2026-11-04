@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo image replacement class declaration
+// summary: Declares IndigoImageReplacement, which stores data for one image replacement managed by IndigoImageReplacementManager.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_INDIGO_IMAGE_REPLACEMENT_H_
 #define CHROME_BROWSER_INDIGO_INDIGO_IMAGE_REPLACEMENT_H_
 

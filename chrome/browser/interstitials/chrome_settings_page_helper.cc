@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome settings page helper implementation
+// summary: Implements the helper that opens Safe Browsing enhanced and advanced protection settings pages from security interstitials on desktop and Android.
+// ---
+
 #include "chrome/browser/interstitials/chrome_settings_page_helper.h"
 
 #if BUILDFLAG(IS_ANDROID)

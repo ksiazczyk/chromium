@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm infobar creation helper
+// summary: Creates confirm infobars, using ConfirmInfoBar views on desktop platforms and plain infobars on Android.
+// ---
+
 #include "chrome/browser/infobars/confirm_infobar_creator.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InfoBarResponder test helper header
+// summary: Declares InfoBarResponder, a test helper that asynchronously responds to the first shown infobar with a ConfirmInfoBarDelegate by accepting, denying, or dismissing it.
+// ---
+
 #ifndef CHROME_BROWSER_INFOBARS_TEST_SUPPORT_INFOBAR_RESPONDER_H_
 #define CHROME_BROWSER_INFOBARS_TEST_SUPPORT_INFOBAR_RESPONDER_H_
 

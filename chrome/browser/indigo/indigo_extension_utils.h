@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo extension utilities declaration
+// summary: Declares helpers that return the Indigo extension manifest, localized strings, and resource paths for the image replacement extension.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_INDIGO_EXTENSION_UTILS_H_
 #define CHROME_BROWSER_INDIGO_INDIGO_EXTENSION_UTILS_H_
 

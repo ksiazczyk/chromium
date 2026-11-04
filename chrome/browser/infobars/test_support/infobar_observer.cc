@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InfoBarObserver implementation
+// summary: Implements a test-only observer that waits for infobar added, removed, or replaced events and quits its run loop when the expected event occurs.
+// ---
+
 #include "chrome/browser/infobars/test_support/infobar_observer.h"
 
 InfoBarObserver::InfoBarObserver(infobars::InfoBarManager* manager, Type type)

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for invalidation
+summary: Defines GN source_set targets for the invalidation factory, its implementation, and ChromeOS-only browser tests with their dependencies.

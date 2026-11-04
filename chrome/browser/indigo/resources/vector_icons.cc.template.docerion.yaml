@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.cc.template.
+type: source
+title: Indigo vector_icons.cc template
+summary: Template used to generate the Indigo vector_icons.cc source, with a placeholder where the aggregated icon definitions are inserted.

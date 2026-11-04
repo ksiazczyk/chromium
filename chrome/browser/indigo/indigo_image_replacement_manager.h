@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo image replacement manager declaration
+// summary: Declares IndigoImageReplacementManager, a PageUserData coordinating primary and non-primary image replacements and cached generated images.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_INDIGO_IMAGE_REPLACEMENT_MANAGER_H_
 #define CHROME_BROWSER_INDIGO_INDIGO_IMAGE_REPLACEMENT_MANAGER_H_
 

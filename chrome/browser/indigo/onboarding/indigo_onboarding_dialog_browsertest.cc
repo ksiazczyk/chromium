@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Indigo onboarding dialog
+// summary: Interactive browser tests verifying that the onboarding dialog shows and closes with the expected size and focus and that its requests carry the intended header.
+// ---
+
 #include "chrome/browser/indigo/onboarding/indigo_onboarding_dialog.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo metrics implementation
+// summary: Records UMA histograms and user actions for Indigo entry points shown and clicked, API HTTP response statuses, and related usage metrics.
+// ---
+
 #include "chrome/browser/indigo/indigo_metrics.h"
 
 #include "base/check.h"

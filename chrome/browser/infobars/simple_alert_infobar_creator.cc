@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple alert infobar creator implementation
+// summary: Creates a simple alert infobar with its delegate and adds it to the given content infobar manager on non-Android platforms.
+// ---
+
 #include "chrome/browser/infobars/simple_alert_infobar_creator.h"
 
 #include <memory>

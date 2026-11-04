@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: indigo_config.proto
+// summary: Protobuf definition of the IndigoConfig and PageHeuristicConfig messages that configure Indigo page analysis, including allowed origins and keyword lists.
+// ---
+
 syntax = "proto3";
 
 package chrome.aix.indigo;

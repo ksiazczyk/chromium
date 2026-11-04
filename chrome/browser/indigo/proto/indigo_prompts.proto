@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: indigo_prompts.proto
+// summary: Protobuf definition of the IndigoPrompt and IndigoPrompts messages that hold versioned prompt identifiers and instruction texts for Indigo.
+// ---
+
 syntax = "proto3";
 
 package chrome.aix.indigo;

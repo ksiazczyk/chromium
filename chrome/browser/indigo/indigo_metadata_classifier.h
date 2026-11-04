@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo metadata classifier header
+// summary: Declares IndigoMetadataClassifier, which classifies product metadata across DOMContentLoaded, onload, and deadline milestones to gate Indigo eligibility.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_INDIGO_METADATA_CLASSIFIER_H_
 #define CHROME_BROWSER_INDIGO_INDIGO_METADATA_CLASSIFIER_H_
 

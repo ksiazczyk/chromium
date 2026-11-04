@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indigo metadata classifier unit tests
+// summary: Unit tests for the metadata classifier using a fake DocumentMetadata mojo interface and mock time to cover keyword matching, retries, and deadline behavior.
+// ---
+
 #include "chrome/browser/indigo/indigo_metadata_classifier.h"
 
 #include <memory>

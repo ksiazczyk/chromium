@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake API test server interface
+// summary: Declares FakeApi with helpers to wait for requests and send success or error responses from a mock Indigo API.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_FAKE_API_H_
 #define CHROME_BROWSER_INDIGO_FAKE_API_H_
 

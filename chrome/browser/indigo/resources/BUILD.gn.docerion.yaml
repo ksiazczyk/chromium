@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Indigo resources build targets (BUILD.gn)
+summary: Defines GN targets that build Indigo strings, browser resource packs, and vector icons via grit, with separate internal branded variants.

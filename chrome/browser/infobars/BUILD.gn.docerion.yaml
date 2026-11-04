@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Infobars build targets
+summary: Defines GN build targets for the desktop infobar framework, including the infobars source set, test support, unit tests, and browser tests.

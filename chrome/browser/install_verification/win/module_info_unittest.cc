@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ModuleInfo
+// summary: Unit tests verifying ModuleInfo ordering by base address and its ContainsAddress behavior across module boundaries.
+// ---
+
 #include "chrome/browser/install_verification/win/module_info.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

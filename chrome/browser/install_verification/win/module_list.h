@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleList class declaration
+// summary: Declares ModuleList, a manager for HMODULEs built from a loaded module snapshot that releases the modules when destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_INSTALL_VERIFICATION_WIN_MODULE_LIST_H_
 #define CHROME_BROWSER_INSTALL_VERIFICATION_WIN_MODULE_LIST_H_
 

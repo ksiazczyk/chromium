@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indigo metrics unit tests
+// summary: Unit tests verifying that Indigo entry point shows, clicks, and transformation triggers record the expected histograms and user actions.
+// ---
+
 #include "chrome/browser/indigo/indigo_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

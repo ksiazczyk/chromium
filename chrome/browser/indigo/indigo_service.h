@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo service header
+// summary: Declares the IndigoService keyed service with eligibility structs, change callbacks, and API client access for the Indigo feature.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_INDIGO_SERVICE_H_
 #define CHROME_BROWSER_INDIGO_INDIGO_SERVICE_H_
 

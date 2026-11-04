@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo metadata classifier implementation
+// summary: Implements staged schema.org product metadata extraction and keyword classification for the primary page, with retry and max-wait timers across page load milestones.
+// ---
+
 #include "chrome/browser/indigo/indigo_metadata_classifier.h"
 
 #include <utility>

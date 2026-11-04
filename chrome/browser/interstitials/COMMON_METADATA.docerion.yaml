@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the interstitials directory
+summary: Chromium metadata assigning the UI>Browser>Interstitials component, the security-enamel team email, and a Buganizer component to this directory.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for infobars
+summary: Maps the directory to the UI>Browser>Infobars monorail component and a public Buganizer component for issue routing.

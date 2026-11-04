@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile invalidation provider factory implementation
+// summary: Implements the per-profile factory that builds invalidation listeners on top of GCM and instance ID, returning no provider for ChromeOS login and guest profiles.
+// ---
+
 #include "chrome/browser/invalidation/profile_invalidation_provider_factory.h"
 
 #include <stdint.h>

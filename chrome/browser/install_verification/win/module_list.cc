@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleList implementation
+// summary: Implements ModuleList, which add-refs modules from a loaded module snapshot, frees them on destruction, and collects module name and address info.
+// ---
+
 #include "chrome/browser/install_verification/win/module_list.h"
 
 #include <Psapi.h>

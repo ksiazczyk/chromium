@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Install verification dependency rules
+summary: Restricts include dependencies for this directory to install_verification and base.

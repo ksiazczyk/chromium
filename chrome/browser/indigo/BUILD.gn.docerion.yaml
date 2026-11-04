@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for the indigo feature
+summary: Defines GN build targets, proto libraries and dependencies for the indigo browser feature, including a test_support set.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome settings page helper interface
+// summary: Declares ChromeSettingsPageHelper, which opens Chrome settings pages from security interstitials with platform-specific behavior.
+// ---
+
 #ifndef CHROME_BROWSER_INTERSTITIALS_CHROME_SETTINGS_PAGE_HELPER_H_
 #define CHROME_BROWSER_INTERSTITIALS_CHROME_SETTINGS_PAGE_HELPER_H_
 
