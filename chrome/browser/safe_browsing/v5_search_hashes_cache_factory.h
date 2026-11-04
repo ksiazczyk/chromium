@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 search hashes cache factory header
+// summary: Declares the V5SearchHashesCacheFactory singleton that owns one V5SearchHashesCache per active profile, including off-the-record profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_V5_SEARCH_HASHES_CACHE_FACTORY_H_
 #define CHROME_BROWSER_SAFE_BROWSING_V5_SEARCH_HASHES_CACHE_FACTORY_H_
 

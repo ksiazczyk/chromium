@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EnhancedSafeBrowsingTipsPromoHandler unit tests
+// summary: Robolectric unit tests verifying the Enhanced Safe Browsing tips promo data strings and that accepting the promo opens Safe Browsing settings with the tips notification access point.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing.tips;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromePasswordProtectionService
+// summary: Unit tests for ChromePasswordProtectionService covering password reuse warnings, enterprise reporting, prefs, and metrics with mocked dependencies.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_password_protection_service.h"
 
 #include <memory>

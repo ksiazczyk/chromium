@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network context service declaration
+// summary: Declares NetworkContextService, a keyed service providing the Safe Browsing network context and URL loader factory for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_NETWORK_CONTEXT_SERVICE_H_
 #define CHROME_BROWSER_SAFE_BROWSING_NETWORK_CONTEXT_SERVICE_H_
 

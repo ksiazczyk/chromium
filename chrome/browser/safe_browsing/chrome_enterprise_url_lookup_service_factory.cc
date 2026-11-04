@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise real-time URL lookup service factory implementation
+// summary: Implements the profile-keyed factory that builds enterprise real-time URL lookup services, including guest and isolated mode support.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_enterprise_url_lookup_service_factory.h"
 
 #include "chrome/browser/browser_process.h"

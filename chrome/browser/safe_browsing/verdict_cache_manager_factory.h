@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verdict cache manager factory header
+// summary: Declares the VerdictCacheManagerFactory singleton that owns one VerdictCacheManager per active profile, with separate instances for incognito mode.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_VERDICT_CACHE_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_SAFE_BROWSING_VERDICT_CACHE_MANAGER_FACTORY_H_
 

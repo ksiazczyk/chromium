@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop safe browsing services delegate declaration
+// summary: Declares ServicesDelegateDesktop, the desktop implementation of ServicesDelegate owning download protection, incident reporting, and database manager services.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_SERVICES_DELEGATE_DESKTOP_H_
 #define CHROME_BROWSER_SAFE_BROWSING_SERVICES_DELEGATE_DESKTOP_H_
 

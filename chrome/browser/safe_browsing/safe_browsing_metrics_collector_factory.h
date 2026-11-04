@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing metrics collector factory header
+// summary: Declares the singleton factory that owns a SafeBrowsingMetricsCollector per profile and returns null in Incognito mode.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_SAFE_BROWSING_METRICS_COLLECTOR_FACTORY_H_
 #define CHROME_BROWSER_SAFE_BROWSING_SAFE_BROWSING_METRICS_COLLECTOR_FACTORY_H_
 

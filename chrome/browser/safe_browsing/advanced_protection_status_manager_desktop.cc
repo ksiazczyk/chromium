@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop advanced protection status manager
+// summary: Desktop implementation that refreshes Advanced Protection status from the signed-in account, records UMA, and schedules periodic refreshes.
+// ---
+
 #include "chrome/browser/safe_browsing/advanced_protection_status_manager_desktop.h"
 
 #include "base/command_line.h"

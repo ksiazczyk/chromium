@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deep scanning request unit tests
+// summary: Unit tests covering deep scanning request behavior for downloads and save packages, including policy settings, uploads, and event reporting.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/deep_scanning_request.h"
 
 #include <algorithm>

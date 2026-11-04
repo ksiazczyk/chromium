@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromePasswordProtectionServiceFactory implementation
+// summary: Builds a per-profile ChromePasswordProtectionService and declares dependencies on history, sync, signin, and password store services.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_password_protection_service_factory.h"
 
 #include "chrome/browser/browser_process.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Safe Browsing UI manager delegate implementation
+// summary: Implements Chrome embedder logic for SafeBrowsingUIManager, covering interstitial extension events, locale, history, ping manager, and metrics access.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_ui_manager_delegate.h"
 
 #include "base/feature_list.h"

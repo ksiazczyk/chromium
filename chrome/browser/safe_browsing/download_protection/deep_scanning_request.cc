@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deep scanning request implementation
+// summary: Implements uploading downloaded files to Safe Browsing for deep scanning, handling policy settings, reporting, and scan result callbacks.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/deep_scanning_request.h"
 
 #include <memory>

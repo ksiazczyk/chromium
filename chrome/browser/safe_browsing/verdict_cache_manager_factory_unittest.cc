@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Verdict cache manager factory unit tests
+// summary: Unit tests checking that off-the-record profiles receive distinct VerdictCacheManager instances from regular profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/verdict_cache_manager_factory.h"
 
 #include "chrome/test/base/testing_profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromePasswordProtectionService implementation
+// summary: Implements the Chrome-level password protection service that detects password reuse on phished sites and drives warnings, change-password UI, and enterprise reporting.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_password_protection_service.h"
 
 #include <algorithm>

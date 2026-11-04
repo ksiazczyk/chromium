@@ -4,6 +4,12 @@
 //
 // Utilities for the SafeBrowsing download protection unit tests.
 
+// ---docerion
+// type: test
+// title: Header for download protection test utilities
+// summary: Declares the ReadTestCertificate helper used by Safe Browsing download protection unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOWNLOAD_PROTECTION_UNITTEST_UTIL_H_
 #define CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOWNLOAD_PROTECTION_UNITTEST_UTIL_H_
 

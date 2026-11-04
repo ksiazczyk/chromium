@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the download protection service
+// summary: In-process browser tests verifying download protection behavior, including checking downloaded zip file hashes against a blocklist.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_protection_service.h"
 
 #include <string_view>

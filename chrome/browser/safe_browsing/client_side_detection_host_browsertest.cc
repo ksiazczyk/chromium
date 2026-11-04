@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client side detection host browser tests
+// summary: Browser tests for Chrome's client side detection host, covering phishing reports, interstitials, permissions, and Safe Browsing integration.
+// ---
+
 #include "components/safe_browsing/content/browser/client_side_detection_host.h"
 
 #include "base/compiler_specific.h"

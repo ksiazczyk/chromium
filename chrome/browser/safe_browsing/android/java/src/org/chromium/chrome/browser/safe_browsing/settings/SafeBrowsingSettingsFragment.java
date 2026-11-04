@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingSettingsFragment
+// summary: Main Safe Browsing settings fragment that shows the protection mode radio group, state summaries, metrics and managed-preference handling.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing.settings;
 
 import android.content.Context;

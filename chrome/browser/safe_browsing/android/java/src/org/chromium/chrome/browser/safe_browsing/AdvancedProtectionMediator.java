@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdvancedProtectionMediator
+// summary: Observes Android-OS advanced-protection state changes, updates cached preferences, records startup histograms and shows a message banner linking to privacy settings.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

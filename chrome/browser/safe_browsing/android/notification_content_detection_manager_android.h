@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification content detection manager header
+// summary: Declares the suspicious notification warning interaction enum plus functions for updating suspicious notification IDs and logging unsubscribe UKM.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_ANDROID_NOTIFICATION_CONTENT_DETECTION_MANAGER_ANDROID_H_
 #define CHROME_BROWSER_SAFE_BROWSING_ANDROID_NOTIFICATION_CONTENT_DETECTION_MANAGER_ANDROID_H_
 

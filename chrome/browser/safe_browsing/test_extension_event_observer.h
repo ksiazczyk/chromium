@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test extension event observer header
+// summary: Declares a test event observer that records the latest SafeBrowsingPrivate extension event and verifies security interstitial event arguments, plus a router builder for tests.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_TEST_EXTENSION_EVENT_OBSERVER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_TEST_EXTENSION_EVENT_OBSERVER_H_
 

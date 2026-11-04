@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client side detection intelligent scan delegate unit tests
+// summary: Unit tests for the Android intelligent scan delegate covering scan request eligibility, quota limits, remote model execution, and scam warning behavior.
+// ---
+
 #include "chrome/browser/safe_browsing/android/client_side_detection_intelligent_scan_delegate_android.h"
 
 #include "base/test/gmock_callback_support.h"

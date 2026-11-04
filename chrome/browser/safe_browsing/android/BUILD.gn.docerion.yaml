@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing Android build configuration
+summary: Defines GN targets, JNI header generation, Java library sources, and dependencies for Safe Browsing on Android.

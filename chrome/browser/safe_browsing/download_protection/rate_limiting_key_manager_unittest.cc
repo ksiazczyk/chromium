@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RateLimitingKeyManager unit tests
+// summary: Tests key uniqueness, stability before expiry, regeneration after expiry and independence between manager instances using mock time.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/rate_limiting_key_manager.h"
 
 #include "base/test/task_environment.h"

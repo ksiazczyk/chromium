@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Safe Browsing include rules
+summary: Defines allowed include dependencies for the directory, with a specific rule for the advanced protection unittest.

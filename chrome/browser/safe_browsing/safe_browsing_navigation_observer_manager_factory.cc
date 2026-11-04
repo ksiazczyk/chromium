@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing navigation observer manager factory
+// summary: Implements the per-browser-context factory that builds SafeBrowsingNavigationObserverManager service instances.
+// ---
+
 #include "chrome/browser/safe_browsing/safe_browsing_navigation_observer_manager_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

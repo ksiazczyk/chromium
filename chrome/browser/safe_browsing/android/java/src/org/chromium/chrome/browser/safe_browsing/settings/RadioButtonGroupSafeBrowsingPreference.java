@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RadioButtonGroupSafeBrowsingPreference
+// summary: Custom radio button group preference for selecting between enhanced, standard and no Safe Browsing protection, with highlight animation and details listener.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing.settings;
 
 import android.animation.ArgbEvaluator;

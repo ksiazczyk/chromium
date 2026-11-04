@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download protection service implementation
+// summary: Implements the download protection service that checks client downloads against Safe Browsing servers and integrates deep scanning and enterprise connectors.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_protection_service.h"
 
 #include <algorithm>

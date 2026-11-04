@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop Safe Browsing HaTS delegate unit tests
+// summary: Unit tests verifying the desktop HaTS delegate launches red warning surveys with correctly filtered product-specific data, using a mock HaTS service.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_safe_browsing_hats_delegate_desktop.h"
 
 #include <memory>

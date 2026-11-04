@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AdvancedProtectionMediatorIntegrationTest
+// summary: Integration tests verifying that advanced-protection UMA histograms are recorded on Chrome startup when the OS setting is enabled or disabled.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import androidx.test.filters.MediumTest;

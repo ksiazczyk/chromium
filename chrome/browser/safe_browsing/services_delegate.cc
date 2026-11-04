@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe browsing services delegate base implementation
+// summary: Implements the base ServicesDelegate constructor and shutdown behavior for organizing safe browsing services across build configurations.
+// ---
+
 #include "chrome/browser/safe_browsing/services_delegate.h"
 
 #include <memory>

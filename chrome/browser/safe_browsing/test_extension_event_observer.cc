@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test extension event observer implementation
+// summary: Implements a test observer that captures broadcast SafeBrowsingPrivate extension events such as interstitial shown and password reuse, and verifies their arguments in tests.
+// ---
+
 #include "chrome/browser/safe_browsing/test_extension_event_observer.h"
 
 #include "base/strings/string_number_conversions.h"

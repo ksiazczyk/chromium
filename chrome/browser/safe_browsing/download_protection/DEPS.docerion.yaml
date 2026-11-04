@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for download protection tests
+summary: Grants test files in this directory additional include permissions for network context and document analysis service headers.

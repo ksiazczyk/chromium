@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client side detection service factory unit test
+// summary: Unit test verifying that the client-side detection service is not created for incognito profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/client_side_detection_service_factory.h"
 
 #include "chrome/test/base/testing_profile.h"

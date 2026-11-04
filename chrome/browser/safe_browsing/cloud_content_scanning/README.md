@@ -1,3 +1,9 @@
+---
+type: readme
+title: Cloud content scanning directory overview
+summary: Explains that the directory holds cloud scanning code shared between upload and download scanning, and points feature-specific code to other directories.
+---
+
 This directory includes cloud scanning code that is shared across user uploads
 and user downloads scanning features. This includes:
   * Chrome Enterprise Connectors that scan content.

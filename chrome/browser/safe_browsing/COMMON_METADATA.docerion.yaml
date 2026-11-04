@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Safe Browsing directory metadata
+summary: Declares the issue tracker component, team email, and Buganizer component for the Safe Browsing directory.

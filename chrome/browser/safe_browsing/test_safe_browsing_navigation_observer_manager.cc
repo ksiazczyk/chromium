@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test navigation observer manager implementation
+// summary: Implements a test manager that creates Safe Browsing navigation observers for WebContents, including tabs inserted into the tab strip during tests.
+// ---
+
 #include "chrome/browser/safe_browsing/test_safe_browsing_navigation_observer_manager.h"
 
 #include <memory>

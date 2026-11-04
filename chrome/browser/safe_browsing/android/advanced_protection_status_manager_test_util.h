@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Advanced protection status test utility header
+// summary: Declares SetAdvancedProtectionStateForTesting to set the OS advanced protection state in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_ANDROID_ADVANCED_PROTECTION_STATUS_MANAGER_TEST_UTIL_H_
 #define CHROME_BROWSER_SAFE_BROWSING_ANDROID_ADVANCED_PROTECTION_STATUS_MANAGER_TEST_UTIL_H_
 

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Safe Browsing Enhanced Protection preference screen
+summary: Defines the Android preference screen layout for the Safe Browsing Enhanced Protection settings page, with descriptive bullets and a learn-more entry.
+-->
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system access write check class declaration
+// summary: Declares CheckFileSystemAccessWriteRequest, which applies download protection checks to writes made through the File System Access API.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_CHECK_FILE_SYSTEM_ACCESS_WRITE_REQUEST_H_
 #define CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_CHECK_FILE_SYSTEM_ACCESS_WRITE_REQUEST_H_
 

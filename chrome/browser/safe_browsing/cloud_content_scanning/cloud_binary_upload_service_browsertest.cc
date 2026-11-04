@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the cloud binary upload service
+// summary: Browser tests verifying access token inclusion and request handling across managed user, device and affiliation scenarios.
+// ---
+
 #include "chrome/browser/safe_browsing/cloud_content_scanning/cloud_binary_upload_service.h"
 
 #include "base/test/test_future.h"

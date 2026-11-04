@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Safe Browsing Android directory owners
+summary: Lists code owners for the directory, including per-file owner rules for download protection, notification content detection, and suspicious site files.

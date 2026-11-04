@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing Settings Fragment Tests
+// summary: Android instrumentation tests for the main Safe Browsing settings fragment, checking radio button states and native Safe Browsing state.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing.settings;
 
 import static androidx.test.espresso.Espresso.onIdle;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V5 search hashes cache factory unit tests
+// summary: Unit tests verifying the factory provides V5SearchHashesCache instances for regular, incognito, and guest profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/v5_search_hashes_cache_factory.h"
 
 #include "chrome/test/base/testing_browser_process.h"

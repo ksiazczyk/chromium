@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Real-time URL lookup service browser tests
+// summary: Browser tests exercising the real-time URL lookup service against a local HTTPS test server with identity test environment.
+// ---
+
 #include "components/safe_browsing/core/browser/realtime/url_lookup_service.h"
 
 #include "base/metrics/field_trial.h"

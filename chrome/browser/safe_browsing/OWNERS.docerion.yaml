@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Safe Browsing code owners
+summary: Lists directory owners and per-file reviewer assignments for interstitials, client side detection, extensions telemetry, and metrics changes.

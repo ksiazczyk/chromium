@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromePasswordReuseDetectionManagerClient class declaration
+// summary: Declares ChromePasswordReuseDetectionManagerClient, a WebContentsUserData that manages password reuse detection and observes input, signin, and password manager events.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_CHROME_PASSWORD_REUSE_DETECTION_MANAGER_CLIENT_H_
 #define CHROME_BROWSER_SAFE_BROWSING_CHROME_PASSWORD_REUSE_DETECTION_MANAGER_CLIENT_H_
 

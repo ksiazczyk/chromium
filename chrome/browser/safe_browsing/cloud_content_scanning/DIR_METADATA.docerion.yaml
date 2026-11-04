@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for Safe Browsing cloud content scanning
+summary: Configures Monorail and Buganizer components for the directory, with an override routing deep scan files to the Enterprise Connectors team.

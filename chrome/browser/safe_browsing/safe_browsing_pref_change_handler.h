@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing pref change handler header
+// summary: Declares the handler that notifies users of Safe Browsing protection setting changes via platform-specific toasts or modals.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_SAFE_BROWSING_PREF_CHANGE_HANDLER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_SAFE_BROWSING_PREF_CHANGE_HANDLER_H_
 

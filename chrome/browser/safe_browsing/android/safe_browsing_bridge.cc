@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing JNI bridge
+// summary: JNI bridge exposing Safe Browsing settings such as state, extended reporting opt-in, policy management, and hash real-time lookup eligibility to Java.
+// ---
+
 #include "base/android/jni_string.h"
 #include "base/files/file_path.h"
 // NOTE: This target is transitively depended on by //chrome/browser and thus

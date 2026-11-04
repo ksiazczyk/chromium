@@ -6,6 +6,12 @@
 // threat urls.  It then uses a real browser to go to these urls, and sends
 // "goback" or "proceed" commands and verifies they work.
 
+// ---docerion
+// type: test
+// title: Safe Browsing blocking page browser tests
+// summary: Browser tests using a fake Safe Browsing service to visit known-threat URLs and verify that interstitial go back and proceed commands work.
+// ---
+
 #include "components/safe_browsing/content/browser/safe_browsing_blocking_page.h"
 
 #include <algorithm>

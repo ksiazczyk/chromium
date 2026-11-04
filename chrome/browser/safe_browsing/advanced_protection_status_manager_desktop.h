@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop advanced protection status manager header
+// summary: Declares the desktop implementation of AdvancedProtectionStatusManager that tracks whether a signed-in profile is under advanced protection.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_ADVANCED_PROTECTION_STATUS_MANAGER_DESKTOP_H_
 #define CHROME_BROWSER_SAFE_BROWSING_ADVANCED_PROTECTION_STATUS_MANAGER_DESKTOP_H_
 

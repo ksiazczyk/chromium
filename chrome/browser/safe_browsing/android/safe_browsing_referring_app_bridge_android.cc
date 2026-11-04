@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing referring app bridge JNI implementation
+// summary: Android JNI bridge that retrieves referring app info, including optional WebAPK details, and records timing histograms.
+// ---
+
 #include "chrome/browser/safe_browsing/android/safe_browsing_referring_app_bridge_android.h"
 
 #include "base/android/jni_android.h"

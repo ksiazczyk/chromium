@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Safe Browsing interstitial controller client
+// summary: Declares the embedder-specific client for the Safe Browsing interstitial page controller with Chrome-specific proceed behavior.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_CHROME_CONTROLLER_CLIENT_H_
 #define CHROME_BROWSER_SAFE_BROWSING_CHROME_CONTROLLER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android download protection delegate implementation
+// summary: Implements the Android download protection delegate, including APK download check enablement, sampling rates, request URL construction, and rate limiting key handling.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_protection_delegate_android.h"
 
 #include <algorithm>

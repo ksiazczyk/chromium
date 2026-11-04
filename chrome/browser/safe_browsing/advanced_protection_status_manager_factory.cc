@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advanced protection status manager factory implementation
+// summary: Implements the profile-keyed service factory that creates the Android or desktop advanced protection status manager for each profile.
+// ---
+
 #include "chrome/browser/safe_browsing/advanced_protection_status_manager_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

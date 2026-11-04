@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phishy interaction tracker implementation
+// summary: Implements PhishyInteractionTracker, recording clicks, key presses and paste events on pages reached after bypassing a Safe Browsing interstitial and logging UMA metrics after inactivity.
+// ---
+
 #include "chrome/browser/safe_browsing/phishy_interaction_tracker.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing pref change handler Android unit tests
+// summary: Unit tests for the Android Safe Browsing pref change handler, covering TabModelList observer management and interactions with the tailored security service.
+// ---
+
 #include "chrome/browser/safe_browsing/safe_browsing_pref_change_handler.h"
 
 #include "base/memory/raw_ptr.h"

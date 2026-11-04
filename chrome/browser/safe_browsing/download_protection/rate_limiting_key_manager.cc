@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RateLimitingKeyManager implementation
+// summary: Implements generation and expiry handling of pseudonymous rate limiting keys derived by hashing a stable input with a random nonce.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/rate_limiting_key_manager.h"
 
 #include <algorithm>

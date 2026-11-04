@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing protocol config provider header
+// summary: Declares functions returning the Safe Browsing request client name and the default SB protocol config struct.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_CHROME_SB_PROTOCOL_CONFIG_PROVIDER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_CHROME_SB_PROTOCOL_CONFIG_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android client-side detection intelligent scan delegate
+// summary: Performs scam detection intelligent scans through the optimization guide remote model executor with a daily scan quota.
+// ---
+
 #include "chrome/browser/safe_browsing/android/client_side_detection_intelligent_scan_delegate_android.h"
 
 #include "base/json/values_util.h"

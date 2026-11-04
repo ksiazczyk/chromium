@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdvancedProtectionStatusManagerTestUtil
+// summary: Test utility that lets native code install a mock OsAdditionalSecurityProvider with a chosen advanced-protection state.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import org.jni_zero.CalledByNativeForTesting;

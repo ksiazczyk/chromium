@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Advanced protection status manager factory unit tests
+// summary: Verifies that the advanced protection status manager factory returns the same service instance for regular and off-the-record profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/advanced_protection_status_manager_factory.h"
 
 #include "chrome/test/base/testing_profile.h"

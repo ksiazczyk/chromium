@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome client side detection host delegate implementation
+// summary: Implements the Chrome delegate that supplies Safe Browsing services and profile information to the client side detection host.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_client_side_detection_host_delegate.h"
 
 #include "base/metrics/histogram_macros.h"

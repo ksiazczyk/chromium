@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network context service implementation
+// summary: Implements the per-profile service that manages a dedicated Safe Browsing network context so its cookies are not shared with regular browsing.
+// ---
+
 #include "chrome/browser/safe_browsing/network_context_service.h"
 
 #include "base/feature_list.h"

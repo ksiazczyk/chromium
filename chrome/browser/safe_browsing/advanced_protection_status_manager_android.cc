@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android advanced protection status manager
+// summary: Android implementation that queries Advanced Protection status through a JNI bridge and reacts to OS setting changes.
+// ---
+
 #include "chrome/browser/safe_browsing/advanced_protection_status_manager_android.h"
 
 #include <jni.h>

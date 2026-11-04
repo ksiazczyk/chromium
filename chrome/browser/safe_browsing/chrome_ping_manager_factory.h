@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome ping manager factory header
+// summary: Declares ChromePingManagerFactory, a profile-keyed service factory for the Safe Browsing PingManager, plus a testing helper that allows the ping manager in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_CHROME_PING_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_SAFE_BROWSING_CHROME_PING_MANAGER_FACTORY_H_
 

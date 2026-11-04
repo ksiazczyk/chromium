@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network context service factory implementation
+// summary: Implements the keyed service factory that creates NetworkContextService instances, redirecting incognito, guest and Ash internals profiles to the original profile.
+// ---
+
 #include "chrome/browser/safe_browsing/network_context_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

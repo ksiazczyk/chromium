@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security settings bundle toast helper class declaration
+// summary: Declares SecuritySettingsBundleToastHelper, a per-profile helper managing the migration toast for security settings bundling with retry constants and testing hooks.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_SECURITY_SETTINGS_BUNDLE_TOAST_HELPER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_SECURITY_SETTINGS_BUNDLE_TOAST_HELPER_H_
 

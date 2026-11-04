@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download item metadata implementation
+// summary: Implements DownloadItemMetadata, exposing download item details such as paths, hash, danger type, and obfuscation state for deep scanning and enterprise reporting.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_item_metadata.h"
 
 #include "chrome/browser/download/chrome_download_manager_delegate.h"

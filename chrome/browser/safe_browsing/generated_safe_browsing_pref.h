@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated Safe Browsing preference header
+// summary: Declares a generated preference exposing the effective Safe Browsing setting state, including management state, for WebUI settings controls.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_GENERATED_SAFE_BROWSING_PREF_H_
 #define CHROME_BROWSER_SAFE_BROWSING_GENERATED_SAFE_BROWSING_PREF_H_
 

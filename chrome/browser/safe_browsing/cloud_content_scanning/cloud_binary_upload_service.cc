@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud binary upload service implementation
+// summary: Implements the Chrome-side cloud binary upload service, deciding when access tokens may be attached to deep scanning requests.
+// ---
+
 #include "chrome/browser/safe_browsing/cloud_content_scanning/cloud_binary_upload_service.h"
 
 #include <algorithm>

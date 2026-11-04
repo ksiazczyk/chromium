@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise real-time URL lookup service unit tests
+// summary: Unit tests for the enterprise real-time URL lookup service using mocked referrer chain providers, token fetchers and test URL loaders.
+// ---
+
 #include "components/safe_browsing/core/browser/realtime/chrome_enterprise_url_lookup_service.h"
 
 #include "base/functional/bind.h"

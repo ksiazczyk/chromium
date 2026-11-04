@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced Safe Browsing tips promo handler
+// summary: Supplies the Enhanced Safe Browsing tip promo bottom sheet content and navigates the user to the Safe Browsing settings page when the promo is accepted.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing.tips;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

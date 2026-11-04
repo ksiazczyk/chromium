@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome client-side detection host delegate browser test
+// summary: In-process browser tests verifying referrer chain attribution recorded by the navigation observer for the client-side detection host delegate.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_client_side_detection_host_delegate.h"
 
 #include <memory>

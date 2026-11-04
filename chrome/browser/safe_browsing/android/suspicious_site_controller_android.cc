@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspicious site warning controller implementation
+// summary: Tab helper that shows and manages the suspicious site warning dialog, tracking user choices, allowlisting and metrics.
+// ---
+
 #include "chrome/browser/safe_browsing/android/suspicious_site_controller_android.h"
 
 #include <utility>

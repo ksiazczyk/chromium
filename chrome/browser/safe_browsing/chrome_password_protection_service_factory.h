@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromePasswordProtectionServiceFactory class declaration
+// summary: Declares the ProfileKeyedServiceFactory singleton that owns one ChromePasswordProtectionService per profile, including Incognito instances.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_CHROME_PASSWORD_PROTECTION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SAFE_BROWSING_CHROME_PASSWORD_PROTECTION_SERVICE_FACTORY_H_
 

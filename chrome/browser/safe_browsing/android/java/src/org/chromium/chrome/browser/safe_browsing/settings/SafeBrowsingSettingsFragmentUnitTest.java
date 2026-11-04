@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafeBrowsingSettingsFragmentUnitTest
+// summary: Robolectric unit tests for SafeBrowsingSettingsFragment, covering the enhanced protection highlight animation with a mocked Safe Browsing bridge.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing.settings;
 
 import static org.junit.Assert.assertEquals;

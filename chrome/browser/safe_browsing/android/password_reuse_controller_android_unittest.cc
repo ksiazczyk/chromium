@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password reuse controller unit tests
+// summary: Unit tests for the Android password reuse controller verifying warning actions and dialog button text, including automotive-specific behavior.
+// ---
+
 #include "chrome/browser/safe_browsing/android/password_reuse_controller_android.h"
 
 #include <memory>

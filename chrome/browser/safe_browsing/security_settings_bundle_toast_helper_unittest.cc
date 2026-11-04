@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security settings bundle toast helper unit tests
+// summary: Unit tests verifying when the security settings bundle migration toast is shown or skipped, state transitions, and related histogram logging.
+// ---
+
 #include "chrome/browser/safe_browsing/security_settings_bundle_toast_helper.h"
 
 #include "base/metrics/histogram_functions.h"

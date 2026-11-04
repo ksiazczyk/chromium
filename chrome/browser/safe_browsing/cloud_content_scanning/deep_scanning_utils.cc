@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deep scanning utilities implementation
+// summary: Implements a helper that builds content analysis responses with DLP and malware triggered rules for use in tests.
+// ---
+
 #include "chrome/browser/safe_browsing/cloud_content_scanning/deep_scanning_utils.h"
 
 #include <algorithm>

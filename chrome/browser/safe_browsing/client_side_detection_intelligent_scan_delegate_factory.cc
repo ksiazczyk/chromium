@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intelligent scan delegate factory implementation
+// summary: Profile-keyed service factory that builds the desktop or Android intelligent scan delegate depending on the platform.
+// ---
+
 #include "chrome/browser/safe_browsing/client_side_detection_intelligent_scan_delegate_factory.h"
 
 #include "build/buildflag.h"

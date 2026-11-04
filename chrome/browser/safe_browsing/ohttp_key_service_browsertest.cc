@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OHTTP key service browser test
+// summary: Browser test verifying the Safe Browsing OHTTP key service enables and disables itself based on the variations country, with CN disabling lookups and US re-enabling them.
+// ---
+
 #include "components/safe_browsing/core/browser/hashprefix_realtime/ohttp_key_service.h"
 
 #include "base/metrics/field_trial.h"

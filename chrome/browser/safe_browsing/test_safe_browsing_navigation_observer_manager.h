@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test navigation observer manager header
+// summary: Declares a test Safe Browsing navigation observer manager and an inner contents creation observer used to attach navigation observers in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_TEST_SAFE_BROWSING_NAVIGATION_OBSERVER_MANAGER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_TEST_SAFE_BROWSING_NAVIGATION_OBSERVER_MANAGER_H_
 

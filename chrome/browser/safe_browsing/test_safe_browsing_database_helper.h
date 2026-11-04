@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test Safe Browsing database helper header
+// summary: Declares TestSafeBrowsingDatabaseHelper, which updates Safe Browsing lists to match URLs and supports V4 and V5 full-hash request mocking in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_TEST_SAFE_BROWSING_DATABASE_HELPER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_TEST_SAFE_BROWSING_DATABASE_HELPER_H_
 

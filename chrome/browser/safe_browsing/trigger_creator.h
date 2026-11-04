@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trigger creator header
+// summary: Declares TriggerCreator, which manages creation and ownership of individual Safe Browsing triggers for a tab.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_TRIGGER_CREATOR_H_
 #define CHROME_BROWSER_SAFE_BROWSING_TRIGGER_CREATOR_H_
 

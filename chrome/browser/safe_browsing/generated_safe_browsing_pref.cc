@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated Safe Browsing preference
+// summary: Implements the generated.safe_browsing preference that maps the effective Safe Browsing state onto the underlying enabled, enhanced and reporting prefs.
+// ---
+
 #include "chrome/browser/safe_browsing/generated_safe_browsing_pref.h"
 
 #include <utility>

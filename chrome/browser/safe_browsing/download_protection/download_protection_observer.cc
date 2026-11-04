@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download protection observer implementation
+// summary: Observes download events and reports dangerous download warnings and bypass events to enterprise reporting routers.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_protection_observer.h"
 
 #include "base/strings/string_number_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the hash realtime service factory
+// summary: Tests that the factory creates a service for regular profiles and returns null for incognito and guest mode profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/hash_realtime_service_factory.h"
 
 #include "chrome/browser/safe_browsing/test_safe_browsing_service.h"

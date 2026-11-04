@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Safe Browsing HaTS survey delegate header
+// summary: Declares the Android SafeBrowsingHatsDelegate subclass that launches red warning surveys and supports test hooks.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_ANDROID_CHROME_SAFE_BROWSING_HATS_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_SAFE_BROWSING_ANDROID_CHROME_SAFE_BROWSING_HATS_DELEGATE_ANDROID_H_
 

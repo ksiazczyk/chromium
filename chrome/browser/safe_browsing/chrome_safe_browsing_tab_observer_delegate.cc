@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Safe Browsing tab observer delegate implementation
+// summary: Implements the Chrome delegate for SafeBrowsingTabObserver, supplying profile prefs, the client-side detection service, and host creation behind Safe Browsing build flags.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_safe_browsing_tab_observer_delegate.h"
 
 #include "chrome/browser/browser_process.h"

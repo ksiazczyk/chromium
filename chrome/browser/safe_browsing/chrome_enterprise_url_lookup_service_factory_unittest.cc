@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise real-time URL lookup service factory unit tests
+// summary: Unit tests verifying the factory is disabled for incognito but enabled for guest mode and enterprise isolated mode profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_enterprise_url_lookup_service_factory.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download protection metrics data header
+// summary: Declares a helper attached to download items that records the Android download protection outcome enum and logs it once to an UMA histogram.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_ANDROID_DOWNLOAD_PROTECTION_METRICS_DATA_H_
 #define CHROME_BROWSER_SAFE_BROWSING_ANDROID_DOWNLOAD_PROTECTION_METRICS_DATA_H_
 

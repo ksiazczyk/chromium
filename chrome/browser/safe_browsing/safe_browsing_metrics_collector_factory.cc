@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing metrics collector factory
+// summary: Implements the per-profile factory that creates SafeBrowsingMetricsCollector service instances for browser contexts.
+// ---
+
 #include "chrome/browser/safe_browsing/safe_browsing_metrics_collector_factory.h"
 
 #include "chrome/browser/browser_process.h"

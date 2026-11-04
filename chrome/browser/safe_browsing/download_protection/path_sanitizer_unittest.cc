@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PathSanitizer unit tests
+// summary: Tests that PathSanitizer strips the home directory from paths inside it and leaves paths outside the home directory unchanged.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/path_sanitizer.h"
 
 #include <vector>

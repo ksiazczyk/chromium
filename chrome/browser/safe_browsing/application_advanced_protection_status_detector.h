@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application advanced protection status detector header
+// summary: Declares the application-wide detector that monitors per-profile advanced protection status and notifies status observers.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_APPLICATION_ADVANCED_PROTECTION_STATUS_DETECTOR_H_
 #define CHROME_BROWSER_SAFE_BROWSING_APPLICATION_ADVANCED_PROTECTION_STATUS_DETECTOR_H_
 

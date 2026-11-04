@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download item metadata header
+// summary: Declares DownloadItemMetadata, the DeepScanningMetadata implementation that wraps a download item and creates download requests and observations for deep scanning.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOWNLOAD_ITEM_METADATA_H_
 #define CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOWNLOAD_ITEM_METADATA_H_
 
