@@ -1,0 +1,4 @@
+# Docerion header of chrome_events_win.rc.
+type: source
+title: Chrome ETW events Windows resource script
+summary: Windows resource script that embeds the ETW message table MSG00001.bin and the WEVT_TEMPLATE event manifest binary for Chrome's Windows event tracing.
