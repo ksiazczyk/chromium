@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppLaunchHandler implementation
+// summary: Implements launching apps from restore data and observing app readiness updates in the app registry.
+// ---
+
 #include "chrome/browser/ash/app_restore/app_launch_handler.h"
 
 #include <utility>

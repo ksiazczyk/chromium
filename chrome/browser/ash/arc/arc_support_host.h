@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC support host header
+// summary: Declares ArcSupportHost, the native interface to the ARC support app, including UI page, error type and delegate definitions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ARC_SUPPORT_HOST_H_
 #define CHROME_BROWSER_ASH_ARC_ARC_SUPPORT_HOST_H_
 

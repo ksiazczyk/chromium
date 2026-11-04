@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ARC extensions directory
+summary: Restricts includes by blocking //chrome dependencies except chrome/browser/ash/arc, with a test-only exception allowing chrome/browser/profiles in fake_arc_support.cc.

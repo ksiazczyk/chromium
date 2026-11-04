@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ARC Bluetooth build definition (BUILD.gn)
+summary: Defines the bluetooth static library and the unit_tests source set with their sources and dependencies.

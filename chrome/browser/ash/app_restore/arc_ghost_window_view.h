@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC ghost window view header
+// summary: Declares ArcGhostWindowView, the overlay view showing an app icon and throbber on ARC ghost windows until the real task window launches.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_ARC_GHOST_WINDOW_VIEW_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_ARC_GHOST_WINDOW_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC migration guide notification unit tests
+// summary: Verifies that the migration guide notification shows different messages depending on whether the battery level is high or low.
+// ---
+
 #include "chrome/browser/ash/arc/arc_migration_guide_notification.h"
 
 #include <memory>

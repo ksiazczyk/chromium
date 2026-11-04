@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK install and update metrics recording
+// summary: Records UMA histograms for the results of installing and updating WebAPKs in ChromeOS apps.
+// ---
+
 #include "chrome/browser/ash/apps/webapk/webapk_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

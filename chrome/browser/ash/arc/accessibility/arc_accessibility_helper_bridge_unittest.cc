@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC accessibility helper bridge
+// summary: Unit tests covering accessibility events, notification surfaces, and native ChromeVox ARC support using test event routers and fakes.
+// ---
+
 #include "chrome/browser/ash/arc/accessibility/arc_accessibility_helper_bridge.h"
 
 #include <memory>

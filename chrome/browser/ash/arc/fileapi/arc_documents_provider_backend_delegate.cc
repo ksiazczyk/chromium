@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC documents provider backend delegate implementation
+// summary: Implements the ARC documents provider file system backend delegate, providing the async file util, stream readers and writers, and watcher manager.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_backend_delegate.h"
 
 #include <utility>

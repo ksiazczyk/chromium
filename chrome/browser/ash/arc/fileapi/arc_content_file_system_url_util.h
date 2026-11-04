@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC content file system URL conversion utilities header
+// summary: 'Declares helpers to escape, unescape, and convert ARC content URLs between ARC container URLs, externalfile: URLs, and file system paths.'
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_CONTENT_FILE_SYSTEM_URL_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_CONTENT_FILE_SYSTEM_URL_UTIL_H_
 

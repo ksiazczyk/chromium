@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Full restore service unit tests
+// summary: Unit tests covering FullRestoreService behavior, including restore prefs, sync of startup settings, and session restore flows.
+// ---
+
 #include "chrome/browser/ash/app_restore/full_restore_service.h"
 
 #include <memory>

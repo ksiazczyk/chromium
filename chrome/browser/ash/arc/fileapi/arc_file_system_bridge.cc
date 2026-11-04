@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC file system bridge implementation
+// summary: Implements the KeyedService that handles file system IPC from the ARC container, including read requests, watchers, Fusebox monikers and media store events.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_file_system_bridge.h"
 
 #include <fcntl.h>

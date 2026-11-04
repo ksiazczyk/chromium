@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC accessibility tree tracker unit tests
+// summary: Unit tests for ArcAccessibilityTreeTracker covering task and AX tree lifecycle, window tracking, accessibility events and TalkBack state dispatch.
+// ---
+
 #include "chrome/browser/ash/arc/accessibility/arc_accessibility_tree_tracker.h"
 
 #include "ash/public/cpp/app_types_util.h"

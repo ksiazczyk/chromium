@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc documents provider file system URL utilities
+// summary: Declares ResolveToContentUrlOnIOThread, which converts a storage FileSystemURL into an ARC content URL on the IO thread.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_DOCUMENTS_PROVIDER_FILE_SYSTEM_URL_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_DOCUMENTS_PROVIDER_FILE_SYSTEM_URL_UTIL_H_
 

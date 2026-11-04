@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC accessibility geometry utilities header
+// summary: Declares helpers to scale Android pixel rectangles to Chrome pixels and to compute the window height offset in DIP.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ACCESSIBILITY_GEOMETRY_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_ACCESSIBILITY_GEOMETRY_UTIL_H_
 

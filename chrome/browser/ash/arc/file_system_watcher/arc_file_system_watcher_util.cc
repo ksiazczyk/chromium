@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC file system watcher utility implementation
+// summary: Implements helpers for converting ChromeOS paths to Android paths and defines the set of media file extensions supported by Android MediaScanner.
+// ---
+
 #include "chrome/browser/ash/arc/file_system_watcher/arc_file_system_watcher_util.h"
 
 #include "base/containers/fixed_flat_set.h"

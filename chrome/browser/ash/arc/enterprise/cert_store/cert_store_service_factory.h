@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertStoreServiceFactory header
+// summary: Declares the singleton CertStoreServiceFactory, a ProfileKeyedServiceFactory that provides per-profile CertStoreService instances for the ARC enterprise cert store.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ENTERPRISE_CERT_STORE_CERT_STORE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_ARC_ENTERPRISE_CERT_STORE_CERT_STORE_SERVICE_FACTORY_H_
 

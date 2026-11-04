@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC documents provider file stream writer
+// summary: Declares ArcDocumentsProviderFileStreamWriter, which writes files in ARC documents providers by delegating to the content file system stream writer.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_DOCUMENTS_PROVIDER_FILE_STREAM_WRITER_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_DOCUMENTS_PROVIDER_FILE_STREAM_WRITER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the app_restore library
+summary: Defines the app_restore static library with its source files and build dependencies for ChromeOS.

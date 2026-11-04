@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApkWebAppService implementation
+// summary: Implements the keyed service that syncs ARC APK packages with web apps, tracking mappings in the web_app_apks pref dictionary.
+// ---
+
 #include "chrome/browser/ash/apps/apk_web_app_service.h"
 
 #include <map>

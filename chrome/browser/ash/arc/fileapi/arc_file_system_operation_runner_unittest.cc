@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC file system operation runner unit tests
+// summary: Unit tests for ArcFileSystemOperationRunner covering deferred operations, content URL accessibility, and the allowlist cache behavior.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_file_system_operation_runner.h"
 
 #include <string.h>

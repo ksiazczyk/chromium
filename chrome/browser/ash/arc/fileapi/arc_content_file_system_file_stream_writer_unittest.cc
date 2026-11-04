@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC content file system file stream writer unit tests
+// summary: Unit tests for ArcContentFileSystemFileStreamWriter that use a fake ARC file system instance to exercise writing, flushing, and file content verification.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_content_file_system_file_stream_writer.h"
 
 #include <memory>

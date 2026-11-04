@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcSupportHost unit tests
+// summary: Unit tests for ArcSupportHost covering terms of service and error delegate interactions with a fake support UI.
+// ---
+
 #include "chrome/browser/ash/arc/arc_support_host.h"
 
 #include <vector>

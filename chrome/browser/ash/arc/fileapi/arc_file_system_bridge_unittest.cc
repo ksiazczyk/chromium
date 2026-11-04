@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC file system bridge unit tests
+// summary: Unit tests for ArcFileSystemBridge covering read requests, file metadata lookups, watchers and media store URI events using fake ARC and DBus clients.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_file_system_bridge.h"
 
 #include <utility>

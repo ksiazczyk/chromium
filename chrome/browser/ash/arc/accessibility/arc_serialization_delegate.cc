@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ARC serialization delegate implementation
+// summary: Implements PopulateBounds for Android accessibility nodes, converting Android pixel bounds into Chrome-relative bounds for AXNodeData.
+// ---
+
 #include "chrome/browser/ash/arc/accessibility/arc_serialization_delegate.h"
 
 #include "chrome/browser/ash/arc/accessibility/geometry_util.h"

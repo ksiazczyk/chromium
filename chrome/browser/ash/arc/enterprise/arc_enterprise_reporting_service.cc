@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC enterprise reporting service implementation
+// summary: Implements ArcEnterpriseReportingService, a keyed service that reports Cloud DPC operation timings to UMA histograms via the ARC enterprise reporting bridge.
+// ---
+
 #include "chrome/browser/ash/arc/enterprise/arc_enterprise_reporting_service.h"
 
 #include <utility>

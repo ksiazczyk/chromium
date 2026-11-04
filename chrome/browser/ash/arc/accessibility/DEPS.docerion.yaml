@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ARC accessibility
+summary: DEPS file restricting includes for the directory, allowing only listed //chrome dependencies and extra rules for test files.

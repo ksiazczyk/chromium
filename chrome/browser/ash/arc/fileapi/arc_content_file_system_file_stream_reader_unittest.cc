@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC content file system file stream reader unit tests
+// summary: Unit tests for ArcContentFileSystemFileStreamReader that verify reading data from seekable files and pipes exposed through a fake ARC file system instance.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_content_file_system_file_stream_reader.h"
 
 #include <string.h>

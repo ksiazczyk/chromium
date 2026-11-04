@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app queue restore handler implementation
+// summary: Implements queue-based restoration of ARC apps at system startup, throttling launches by memory pressure, CPU usage, and app readiness.
+// ---
+
 #include "chrome/browser/ash/app_restore/arc_app_queue_restore_handler.h"
 
 #include <list>

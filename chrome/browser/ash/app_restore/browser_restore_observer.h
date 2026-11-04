@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser restore observer
+// summary: Declares an observer that restores URLs based on the on-startup setting after a new browser is added to the browser list.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_BROWSER_RESTORE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_BROWSER_RESTORE_OBSERVER_H_
 

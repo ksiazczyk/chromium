@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC content URL allowlist
+// summary: Implements a persistent SQL-backed allowlist with an LRU cache that records and checks which ARC content URLs have been granted access.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_content_url_allowlist.h"
 
 #include "base/files/file_util.h"

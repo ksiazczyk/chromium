@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcDocumentsProviderRootMap implementation
+// summary: Implements the keyed service that registers media view roots and parses and looks up ArcDocumentsProviderRoot instances for Documents Provider URLs.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_root_map.h"
 
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_root.h"

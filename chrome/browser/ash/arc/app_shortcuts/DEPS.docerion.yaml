@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC app shortcuts
+summary: Sets include rules that block ChromeOS dependencies on //chrome while allowing specific app_service and arc includes, with extra rules for tests.

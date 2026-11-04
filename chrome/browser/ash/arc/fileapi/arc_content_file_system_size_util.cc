@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC content file system truncate utility
+// summary: Implements TruncateOnIOThread, which opens a write file session for an ARC content URL and truncates the underlying file to the requested length.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_content_file_system_size_util.h"
 
 #include "base/task/thread_pool.h"

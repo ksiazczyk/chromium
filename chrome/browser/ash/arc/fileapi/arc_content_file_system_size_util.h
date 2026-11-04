@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC content file system truncate utility header
+// summary: Declares TruncateOnIOThread and the TruncateCallback type used to truncate files in the ARC content file system.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_CONTENT_FILE_SYSTEM_SIZE_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_CONTENT_FILE_SYSTEM_SIZE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC documents provider utilities unit tests
+// summary: Unit tests covering path component escaping, mount path computation, URL parsing and MIME type helpers for the ARC documents provider file system.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_util.h"
 
 #include "base/files/file_path.h"

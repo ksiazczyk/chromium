@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC file selector handler
+// summary: Implements handling of Android file selection requests by showing Chrome select file dialogs and returning selected content URLs to ARC.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_select_files_handler.h"
 
 #include <utility>

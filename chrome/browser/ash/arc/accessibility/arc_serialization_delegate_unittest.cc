@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC serialization delegate unit tests
+// summary: Unit tests verifying bounds population for root and non-root accessibility nodes using test tree sources and exo shell surfaces.
+// ---
+
 #include "chrome/browser/ash/arc/accessibility/arc_serialization_delegate.h"
 
 #include <memory>

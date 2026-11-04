@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ARC support class declaration
+// summary: Declares FakeArcSupport, a test double emulating the ARC support Chrome app with button click methods, preference toggles, and page change observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_EXTENSIONS_FAKE_ARC_SUPPORT_H_
 #define CHROME_BROWSER_ASH_ARC_EXTENSIONS_FAKE_ARC_SUPPORT_H_
 

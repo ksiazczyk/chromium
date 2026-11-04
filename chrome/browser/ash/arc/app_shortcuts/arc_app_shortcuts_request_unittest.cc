@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app shortcuts request unit tests
+// summary: Unit tests for ArcAppShortcutsRequest that verify the shortcut items and labels returned for a package using a testing profile.
+// ---
+
 #include "chrome/browser/ash/arc/app_shortcuts/arc_app_shortcuts_request.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the ARC directory
+summary: Lists the include dependencies allowed for files in the ARC directory, with per-file exceptions for tests and support code.

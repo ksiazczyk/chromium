@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App restore test utilities implementation
+// summary: Implements test utilities for app restore, including exo window creation, test ARC app lists, and a launch info save waiter.
+// ---
+
 #include "chrome/browser/ash/app_restore/app_restore_test_util.h"
 
 #include "ash/shell.h"

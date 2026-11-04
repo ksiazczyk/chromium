@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app window integration test
+// summary: Browser integration test that logs in, boots ARC, installs a test APK and verifies an ARC app window is created.
+// ---
+
 #include "chrome/browser/ash/login/test/session_manager_state_waiter.h"
 #include "chrome/test/base/chromeos/crosier/ash_integration_test.h"
 #include "chrome/test/base/chromeos/crosier/chromeos_integration_arc_mixin.h"

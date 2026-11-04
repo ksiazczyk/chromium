@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC accessibility tree tracker implementation
+// summary: Implements ArcAccessibilityTreeTracker, which maps Android accessibility trees to exo windows and surfaces on ChromeOS, handling tasks, notifications, input method windows and native ChromeVox support.
+// ---
+
 #include "chrome/browser/ash/arc/accessibility/arc_accessibility_tree_tracker.h"
 
 #include <map>

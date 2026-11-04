@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK manifest population helper
+// summary: Fills a WebAPK WebAppManifest proto from web app registrar data, including share target details but excluding icons.
+// ---
+
 #include "chrome/browser/ash/apps/webapk/webapk_utils.h"
 
 #include "chrome/browser/web_applications/web_app_provider.h"

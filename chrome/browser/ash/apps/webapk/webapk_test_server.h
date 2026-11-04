@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WebAPK server class declaration
+// summary: Declares the WebApkTestServer class that fakes WebAPK server responses and exposes the last received request for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_TEST_SERVER_H_
 #define CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_TEST_SERVER_H_
 

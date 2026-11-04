@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC file selector handler unit tests
+// summary: Unit tests for ArcSelectFilesHandler covering dialog types, JavaScript element queries, and selection result matching.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_select_files_handler.h"
 
 #include <string>

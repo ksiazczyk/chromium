@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC Bluetooth bridge unit tests
+// summary: Tests ArcBluetoothBridge against fake BlueZ DBus clients, covering discovery, GATT, and device flows.
+// ---
+
 #include "chrome/browser/ash/arc/bluetooth/arc_bluetooth_bridge.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc documents provider utility functions
+// summary: Implements helpers for the ARC Documents Provider integration, including path component escaping and Android MIME type to file extension mappings.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_util.h"
 
 #include <algorithm>

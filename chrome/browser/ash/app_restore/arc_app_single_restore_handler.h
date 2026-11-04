@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app single restore handler header
+// summary: Declares the handler that restores a single ARC app with a ghost window directly from the given launch parameters.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_ARC_APP_SINGLE_RESTORE_HANDLER_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_ARC_APP_SINGLE_RESTORE_HANDLER_H_
 

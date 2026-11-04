@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC file system operation runner utilities
+// summary: Implements helpers that post ARC file system operations from the IO thread to the UI thread and dispatch them to ArcFileSystemOperationRunner.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_file_system_operation_runner_util.h"
 
 #include <utility>

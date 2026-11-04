@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC content file system file stream writer implementation
+// summary: Implements storage::FileStreamWriter for the ARC content file system, opening file sessions via ARC and performing write, seek, flush, and cancel operations.
+// ---
+
 
 #include "chrome/browser/ash/arc/fileapi/arc_content_file_system_file_stream_writer.h"
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the Chrome OS apps platform
+summary: Defines the apps static library plus browser test and unit test targets for the APK web app code and its dependencies.

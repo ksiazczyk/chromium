@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC error notification bridge implementation
+// summary: Implements ArcErrorNotificationBridge, which creates Chrome notifications for ARC errors and relays user clicks and closes back to ARC via mojo.
+// ---
+
 #include "chrome/browser/ash/arc/error_notification/arc_error_notification_bridge.h"
 
 #include "ash/public/cpp/notification_utils.h"

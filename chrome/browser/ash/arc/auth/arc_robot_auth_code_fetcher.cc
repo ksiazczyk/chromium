@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcRobotAuthCodeFetcher implementation
+// summary: Implements ArcRobotAuthCodeFetcher, which requests a robot auth code from the device management server for ARC kiosk mode sign-in.
+// ---
+
 #include "chrome/browser/ash/arc/auth/arc_robot_auth_code_fetcher.h"
 
 #include <string>

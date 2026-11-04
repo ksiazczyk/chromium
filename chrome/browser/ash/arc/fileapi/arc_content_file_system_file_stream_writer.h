@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC content file system file stream writer header
+// summary: Declares ArcContentFileSystemFileStreamWriter, a FileStreamWriter that writes to ARC content URLs and supports write, cancel, and flush operations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_CONTENT_FILE_SYSTEM_FILE_STREAM_WRITER_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_CONTENT_FILE_SYSTEM_FILE_STREAM_WRITER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC ghost window handler implementation
+// summary: Implements ArcGhostWindowHandler, which launches, tracks, reuses, and closes ARC ghost windows during full restore session handling.
+// ---
+
 #include "chrome/browser/ash/app_restore/arc_ghost_window_handler.h"
 
 #include "chrome/browser/ash/app_list/arc/arc_app_utils.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for ARC app shortcuts
+summary: Defines the app_shortcuts static library and unit_tests source set for the ARC app shortcuts code, listing sources and build dependencies.

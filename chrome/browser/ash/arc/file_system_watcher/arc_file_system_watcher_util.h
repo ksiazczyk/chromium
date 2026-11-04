@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC file system watcher utility declarations
+// summary: Declares path conversion helpers for removable media and a check for Android-supported media file extensions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILE_SYSTEM_WATCHER_ARC_FILE_SYSTEM_WATCHER_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_FILE_SYSTEM_WATCHER_ARC_FILE_SYSTEM_WATCHER_UTIL_H_
 

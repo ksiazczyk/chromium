@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC content URL allowlist declaration
+// summary: Declares ArcContentUrlAllowlist, which grants and checks access to Android content URLs via an in-memory LRU cache with a persistent SQLite database fallback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_CONTENT_URL_ALLOWLIST_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_CONTENT_URL_ALLOWLIST_H_
 

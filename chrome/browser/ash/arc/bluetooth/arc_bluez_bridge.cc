@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC BlueZ bridge implementation
+// summary: Implements the BlueZ-specific ArcBluetoothBridge subclass, including SDP record handling and adapter access.
+// ---
+
 #include "chrome/browser/ash/arc/bluetooth/arc_bluez_bridge.h"
 
 #include <bluetooth/bluetooth.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcFlossBridge unit tests
+// summary: Unit test fixture for the Floss ARC Bluetooth bridge that enables the Floss feature flag and sets up a test D-Bus environment before constructing the bridge.
+// ---
+
 #include "chrome/browser/ash/arc/bluetooth/arc_floss_bridge.h"
 
 #include <memory>

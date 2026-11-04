@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore app launch handler implementation
+// summary: Reads full restore data and relaunches apps and browsers according to user preference or restore choice, recording restore-related metrics.
+// ---
+
 #include "chrome/browser/ash/app_restore/full_restore_app_launch_handler.h"
 
 #include <set>

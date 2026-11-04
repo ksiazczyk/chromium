@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC ghost window handler unit tests
+// summary: Unit tests verifying ArcGhostWindowHandler initialization and how pending window info records override bounds for different window states.
+// ---
+
 #include "chrome/browser/ash/app_restore/arc_ghost_window_handler.h"
 #include <memory>
 #include <optional>

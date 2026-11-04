@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC error notification item implementation
+// summary: Implements ArcErrorNotificationItem, a mojo remote that lets ARC close its error notification and deletes itself when the mojo connection closes.
+// ---
+
 #include "chrome/browser/ash/arc/error_notification/arc_error_notification_item.h"
 
 namespace arc {

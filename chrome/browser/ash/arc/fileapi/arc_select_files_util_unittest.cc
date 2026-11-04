@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC select files utility unit tests
+// summary: Unit tests for picker package exclusion and Android activity to file path conversion helpers.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_select_files_util.h"
 
 #include "base/files/file_path.h"

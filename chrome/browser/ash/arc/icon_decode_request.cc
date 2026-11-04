@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon decode request implementation
+// summary: Implements safe asynchronous decoding of ARC support icons, falling back to bundled resources when decoding fails.
+// ---
+
 #include "chrome/browser/ash/arc/icon_decode_request.h"
 
 #include <memory>

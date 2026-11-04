@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC opt-in UMA enums
+// summary: Defines the enums used as buckets for ARC opt-in and provisioning UMA histograms, which must stay in sync with histograms.xml.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ARC_OPTIN_UMA_H_
 #define CHROME_BROWSER_ASH_ARC_ARC_OPTIN_UMA_H_
 

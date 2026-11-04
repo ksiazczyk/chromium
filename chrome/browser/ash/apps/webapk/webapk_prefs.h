@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated WebAPK profile prefs API
+// summary: Declares functions to register and manage the generated_webapks preferences, including lookup, removal and update-needed marking.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_PREFS_H_
 #define CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_PREFS_H_
 

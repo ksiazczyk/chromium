@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC accessibility utility implementation
+// summary: Implements helpers that detect ARC or ghost windows and find the nearest ARC ancestor window by walking up the aura window hierarchy.
+// ---
+
 #include "chrome/browser/ash/arc/accessibility/arc_accessibility_util.h"
 
 #include <optional>

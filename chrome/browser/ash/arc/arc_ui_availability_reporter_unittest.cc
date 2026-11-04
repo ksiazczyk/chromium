@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcUiAvailabilityReporter unit tests
+// summary: Unit tests verifying ARC UI availability histograms are reported when app and intent helper instances connect.
+// ---
+
 #include "chrome/browser/ash/arc/arc_ui_availability_reporter.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Full restore policy browser test
+// summary: Parametrized browser tests checking that the FullRestoreEnabled and GhostWindowEnabled policies enable or disable the full restore service and ARC ghost window handler.
+// ---
+
 #include <memory>
 
 #include "ash/constants/ash_switches.h"

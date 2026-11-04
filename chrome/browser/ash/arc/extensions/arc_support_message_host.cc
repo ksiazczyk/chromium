@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC support message host implementation
+// summary: Implements the native message host that routes JSON messages between the arc_support Chrome app and the ARC support host via ArcSessionManager.
+// ---
+
 #include "chrome/browser/ash/arc/extensions/arc_support_message_host.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC Bluetooth bridge implementation
+// summary: Implements the ArcBluetoothBridge keyed service that bridges ChromeOS Bluetooth adapters, devices, and GATT operations to Android.
+// ---
+
 #include "chrome/browser/ash/arc/bluetooth/arc_bluetooth_bridge.h"
 
 #include <bluetooth/bluetooth.h>

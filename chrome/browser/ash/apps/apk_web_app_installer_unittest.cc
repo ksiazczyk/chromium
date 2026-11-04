@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ApkWebAppInstaller unit tests
+// summary: Unit tests using a fake installer subclass to verify icon decoding and the install flow, including insufficient-data failure cases.
+// ---
+
 #include "chrome/browser/ash/apps/apk_web_app_installer.h"
 
 #include <memory>

@@ -4,6 +4,12 @@
 //
 // Utilities for ARC documents provider file system.
 
+// ---docerion
+// type: source
+// title: ARC documents provider file system utilities
+// summary: Declares helpers for mounting, path parsing, URL building, escaping and document naming in the ARC documents provider file system.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_DOCUMENTS_PROVIDER_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_DOCUMENTS_PROVIDER_UTIL_H_
 

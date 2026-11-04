@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC accessibility tree tracker header
+// summary: Declares ArcAccessibilityTreeTracker, which maps Android accessibility trees to exo windows and surfaces, defining tree key types, tree maps and ChromeVox support APIs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ACCESSIBILITY_ARC_ACCESSIBILITY_TREE_TRACKER_H_
 #define CHROME_BROWSER_ASH_ARC_ACCESSIBILITY_ARC_ACCESSIBILITY_TREE_TRACKER_H_
 

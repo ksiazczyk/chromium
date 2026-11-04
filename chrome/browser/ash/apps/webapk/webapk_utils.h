@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK manifest population helper declaration
+// summary: Declares PopulateWebApkManifest, which builds a WebAPK manifest proto for an app from its registrar information.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_UTILS_H_
 #define CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_UTILS_H_
 

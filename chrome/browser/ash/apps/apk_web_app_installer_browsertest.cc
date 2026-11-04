@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ApkWebAppInstaller browser tests
+// summary: In-process browser tests covering APK web app installation, shelf pinning and uninstall flows using ARC and web app test support.
+// ---
+
 #include "chrome/browser/ash/apps/apk_web_app_installer.h"
 
 #include <algorithm>

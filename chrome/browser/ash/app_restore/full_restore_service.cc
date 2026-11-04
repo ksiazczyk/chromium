@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore service
+// summary: Implements FullRestoreService, which restores app launches and app windows from the previous session on ChromeOS sign-in.
+// ---
+
 #include "chrome/browser/ash/app_restore/full_restore_service.h"
 
 #include <algorithm>

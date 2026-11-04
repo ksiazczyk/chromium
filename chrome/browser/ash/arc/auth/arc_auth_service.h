@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAuthService header
+// summary: Declares ArcAuthService, a keyed service implementing ARC authorization as the mojom AuthHost with observer and delegate interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_AUTH_ARC_AUTH_SERVICE_H_
 #define CHROME_BROWSER_ASH_ARC_AUTH_ARC_AUTH_SERVICE_H_
 

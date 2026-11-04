@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC boot phase monitor bridge unit tests
+// summary: Unit tests for ArcBootPhaseMonitorBridge that use fake ARC session, DBus, and profile test environments to exercise its behavior.
+// ---
+
 #include "chrome/browser/ash/arc/boot_phase_monitor/arc_boot_phase_monitor_bridge.h"
 
 #include <memory>

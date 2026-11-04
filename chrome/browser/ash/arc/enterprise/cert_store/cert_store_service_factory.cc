@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertStoreServiceFactory implementation
+// summary: Implements the profile-keyed service factory that builds CertStoreService instances per browser context and depends on the NSS service factory.
+// ---
+
 #include "chrome/browser/ash/arc/enterprise/cert_store/cert_store_service_factory.h"
 
 #include "chrome/browser/ash/arc/enterprise/cert_store/cert_store_service.h"

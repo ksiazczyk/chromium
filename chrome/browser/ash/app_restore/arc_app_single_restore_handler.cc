@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app single restore handler implementation
+// summary: Implements restoration of a single ARC app by launching it together with its ghost window once the shelf and app are ready.
+// ---
+
 #include "chrome/browser/ash/app_restore/arc_app_single_restore_handler.h"
 
 #include "base/task/single_thread_task_runner.h"

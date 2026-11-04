@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC file system mounter
+// summary: Declares ArcFileSystemMounter, a KeyedService that mounts and unmounts ARC file systems.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_FILE_SYSTEM_MOUNTER_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_FILE_SYSTEM_MOUNTER_H_
 

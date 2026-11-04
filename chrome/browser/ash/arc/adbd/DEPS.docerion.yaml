@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ARC adbd directory
+summary: Restricts ChromeOS dependencies on //chrome and grants the include exceptions needed by this directory and its unit tests.

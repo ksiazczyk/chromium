@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the ARC fileapi directory
+summary: Lists code owners for the directory, naming djacobo as primary for arc_documents_provider files.

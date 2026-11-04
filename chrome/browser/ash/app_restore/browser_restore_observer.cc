@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser restore observer implementation
+// summary: Implements an observer that restores startup URLs when a new browser is created, respecting profile type, session restore state, and startup preferences.
+// ---
+
 #include "chrome/browser/ash/app_restore/browser_restore_observer.h"
 
 #include <optional>

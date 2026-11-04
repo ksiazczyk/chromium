@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC support message host
+// summary: Verifies sending and receiving JSON messages through ArcSupportMessageHost using fake client and observer implementations.
+// ---
+
 #include "chrome/browser/ash/arc/extensions/arc_support_message_host.h"
 
 #include <memory>

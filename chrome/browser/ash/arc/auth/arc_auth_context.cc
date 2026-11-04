@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAuthContext implementation
+// summary: Implements ArcAuthContext, which waits for an account refresh token with a timeout and creates access token fetchers for ARC auth flows.
+// ---
+
 #include "chrome/browser/ash/arc/auth/arc_auth_context.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAuthContext header
+// summary: Declares ArcAuthContext, a helper that prepares OAuth refresh token state and creates access token fetchers for a given account.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_AUTH_ARC_AUTH_CONTEXT_H_
 #define CHROME_BROWSER_ASH_ARC_AUTH_ARC_AUTH_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC opt-in UMA metrics
+// summary: Reports UMA histograms for ARC opt-in actions, cancel reasons, flow results, provisioning status and enabled state by user type.
+// ---
+
 #include "chrome/browser/ash/arc/arc_optin_uma.h"
 
 #include <string>

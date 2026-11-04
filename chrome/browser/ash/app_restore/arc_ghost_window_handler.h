@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC ghost window handler header
+// summary: Declares ArcGhostWindowHandler, which controls ARC ghost windows and notifies observers about app connection and window state updates.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_ARC_GHOST_WINDOW_HANDLER_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_ARC_GHOST_WINDOW_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser restore observer unit tests
+// summary: Unit tests checking that URLs can be restored for regular profiles but not for incognito profiles.
+// ---
+
 #include "chrome/browser/ash/app_restore/browser_restore_observer.h"
 
 #include "base/memory/raw_ptr.h"

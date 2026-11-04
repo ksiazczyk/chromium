@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAuthService implementation
+// summary: Implements ArcAuthService, the browser-side ARC authorization service handling account info requests, sign-in results, metrics, and account migration.
+// ---
+
 #include "chrome/browser/ash/arc/auth/arc_auth_service.h"
 
 #include <optional>

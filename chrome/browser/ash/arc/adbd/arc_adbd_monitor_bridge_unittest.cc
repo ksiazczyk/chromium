@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcAdbdMonitorBridge unit tests
+// summary: Tests the adbd monitor bridge using fake Upstart, Concierge and adbd monitor instances, covering start and stop behavior of the ARC VM adbd daemon.
+// ---
+
 #include "chrome/browser/ash/arc/adbd/arc_adbd_monitor_bridge.h"
 
 #include <memory>

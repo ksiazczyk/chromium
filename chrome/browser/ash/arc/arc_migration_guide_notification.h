@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC migration guide notification header
+// summary: Declares the user-scoped notification ID and the function that shows the ARC file system migration guide notification.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ARC_MIGRATION_GUIDE_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_ARC_ARC_MIGRATION_GUIDE_NOTIFICATION_H_
 

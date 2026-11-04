@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ARC accessibility
+summary: Lists the owners of the directory and references the shared ui/accessibility OWNERS file.

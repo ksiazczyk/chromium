@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcDocumentsProviderRootMapFactory implementation
+// summary: Implements the ProfileKeyedServiceFactory that builds ArcDocumentsProviderRootMap instances for ARC-enabled browser contexts.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_root_map_factory.h"
 
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_root_map.h"

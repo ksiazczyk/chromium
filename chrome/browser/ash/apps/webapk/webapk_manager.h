@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkManager class declaration
+// summary: Declares WebApkManager, which observes app and ARC session changes to queue WebAPK installs, updates, and uninstalls.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_MANAGER_H_
 #define CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC content file system URL utility unit tests
+// summary: 'Unit tests verifying round-trip conversion between ARC URLs and externalfile: URLs, plus FileSystemURL and path to ARC URL conversions.'
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_content_file_system_url_util.h"
 
 #include "base/strings/utf_string_conversions.h"

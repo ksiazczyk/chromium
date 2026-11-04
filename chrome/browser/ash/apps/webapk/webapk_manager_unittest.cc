@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkManager unit tests
+// summary: Unit tests for WebApkManager verifying WebAPK install, update, and uninstall behavior across policy and ARC state changes.
+// ---
+
 #include "chrome/browser/ash/apps/webapk/webapk_manager.h"
 
 #include <memory>

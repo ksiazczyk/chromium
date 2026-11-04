@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApkWebAppInstaller implementation
+// summary: Implements installing ARC app metadata and icons as a local web app, validating URLs, decoding icons and reporting install results.
+// ---
+
 #include "chrome/browser/ash/apps/apk_web_app_installer.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore service header
+// summary: Declares FullRestoreService, a keyed service that restores app launchings and app windows, with a delegate for the ash shell.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_FULL_RESTORE_SERVICE_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_FULL_RESTORE_SERVICE_H_
 

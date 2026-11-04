@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAdbdMonitorBridge implementation
+// summary: Implements the browser-side keyed service that checks developer mode and adbd.json conditions to start or stop the ARC VM adbd daemon over D-Bus.
+// ---
+
 #include "chrome/browser/ash/arc/adbd/arc_adbd_monitor_bridge.h"
 
 #include <stdint.h>

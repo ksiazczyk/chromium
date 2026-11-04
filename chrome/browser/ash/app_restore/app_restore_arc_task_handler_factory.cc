@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRestoreArcTaskHandlerFactory implementation
+// summary: Builds the per-profile AppRestoreArcTaskHandler service when ARC is allowed for the profile.
+// ---
+
 #include "chrome/browser/ash/app_restore/app_restore_arc_task_handler_factory.h"
 
 #include "chrome/browser/apps/app_service/app_service_proxy_factory.h"

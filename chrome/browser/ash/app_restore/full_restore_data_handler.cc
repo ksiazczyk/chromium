@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore data handler implementation
+// summary: Removes an app's restore data when the app is uninstalled, by observing the App Registry Cache.
+// ---
+
 #include "chrome/browser/ash/app_restore/full_restore_data_handler.h"
 
 #include "chrome/browser/apps/app_service/app_service_proxy.h"
