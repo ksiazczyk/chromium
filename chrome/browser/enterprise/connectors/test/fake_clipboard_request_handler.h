@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake clipboard request handler
+// summary: Declares a fake clipboard request handler used to intercept clipboard content analysis uploads in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_FAKE_CLIPBOARD_REQUEST_HANDLER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_FAKE_CLIPBOARD_REQUEST_HANDLER_H_
 

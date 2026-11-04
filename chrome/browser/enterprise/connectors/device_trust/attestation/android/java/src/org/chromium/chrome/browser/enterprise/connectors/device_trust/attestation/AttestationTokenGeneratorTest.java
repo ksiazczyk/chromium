@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AttestationTokenGeneratorTest
+// summary: Robolectric unit tests covering the default and mock delegates, token generation results, cache pre-warming, and exception handling in the token generator.
+// ---
+
 package org.chromium.chrome.browser.enterprise.connectors.device_trust.attestation;
 
 import static org.junit.Assert.assertArrayEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped key rotation command factory implementation
+// summary: Implements a test-scoped factory that injects mock key rotation commands or forces invalid command creation during tests.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/commands/scoped_key_rotation_command_factory.h"
 
 #include <memory>

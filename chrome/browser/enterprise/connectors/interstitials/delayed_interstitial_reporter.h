@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedInterstitialReporter class declaration
+// summary: Declares DelayedInterstitialReporter, a WebContents observer that waits for load completion before reporting enterprise interstitial events with the tab title.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_INTERSTITIALS_DELAYED_INTERSTITIAL_REPORTER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_INTERSTITIALS_DELAYED_INTERSTITIAL_REPORTER_H_
 

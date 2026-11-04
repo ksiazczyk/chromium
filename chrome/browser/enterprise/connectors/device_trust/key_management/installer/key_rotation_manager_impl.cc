@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyRotationManagerImpl rotation logic
+// summary: Implements key rotation by generating and storing new key pairs, building upload requests, and handling DM server responses with rollback on failure.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/installer/key_rotation_manager_impl.h"
 
 #include <memory>

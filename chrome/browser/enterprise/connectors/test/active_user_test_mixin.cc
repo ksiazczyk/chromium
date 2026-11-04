@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Active user test mixin implementation
+// summary: Implements a browser test mixin that fakes Gaia sign-in and cookies so DLP tests can verify the active content area user identity.
+// ---
+
 #include "chrome/browser/enterprise/connectors/test/active_user_test_mixin.h"
 
 #include "base/strings/strcat.h"

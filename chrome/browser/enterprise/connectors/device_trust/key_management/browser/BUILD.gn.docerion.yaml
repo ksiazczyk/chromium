@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Device Trust key management browser
+summary: GN build file defining the browser source set, test support mocks, and unit test targets for Device Trust key management.

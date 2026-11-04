@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deep scanning test utilities
+// summary: Declares the EventReportValidator and helpers for asserting expected sensitive data, unscanned file, and dangerous download events in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_DEEP_SCANNING_TEST_UTILS_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_DEEP_SCANNING_TEST_UTILS_H_
 

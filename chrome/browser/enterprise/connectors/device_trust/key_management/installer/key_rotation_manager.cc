@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyRotationManager factory implementations
+// summary: Implements KeyRotationManager factory methods that create instances or return stored ones, including testing variants with injected delegates.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/installer/key_rotation_manager.h"
 
 #include <memory>

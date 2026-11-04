@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyUploadRequest class for key creation and rotation
+// summary: Declares KeyUploadRequest, which builds serialized device management requests for public key creation and rotation uploads to the DM server.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_CORE_NETWORK_KEY_UPLOAD_REQUEST_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_CORE_NETWORK_KEY_UPLOAD_REQUEST_H_
 

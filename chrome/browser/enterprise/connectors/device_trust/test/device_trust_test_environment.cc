@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device Trust test environment implementation
+// summary: Implements the shared key management test environment, using an in-memory key persistence delegate with configurable upload results and expected DM tokens.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/test/device_trust_test_environment.h"
 
 #include <string_view>

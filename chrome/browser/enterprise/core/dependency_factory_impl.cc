@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DependencyFactoryImpl implementation
+// summary: Implements DependencyFactoryImpl, which returns the profile's user cloud policy manager for the enterprise dependency factory.
+// ---
+
 #include "chrome/browser/enterprise/core/dependency_factory_impl.h"
 
 #include "chrome/browser/profiles/profile.h"

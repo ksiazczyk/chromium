@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Windows network fetcher
+summary: Defines Windows-only source sets for the network fetcher and its gmock test support, listing public headers, sources and dependencies.

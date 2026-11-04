@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceTrustKeyManagerAndroid class declaration
+// summary: Declares the Android DeviceTrustKeyManager subclass that signs payloads via attestation tokens or falls back to unsigned responses when the feature is disabled.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_ANDROID_DEVICE_TRUST_KEY_MANAGER_ANDROID_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_ANDROID_DEVICE_TRUST_KEY_MANAGER_ANDROID_H_
 

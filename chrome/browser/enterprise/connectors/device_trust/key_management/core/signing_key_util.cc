@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persisted signing key loading utility
+// summary: Implements LoadPersistedKey, which loads the permanent device trust signing key pair through the key persistence delegate factory.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/signing_key_util.h"
 
 #include "base/check.h"

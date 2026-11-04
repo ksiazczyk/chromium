@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise block and warn page unit tests
+// summary: Tests that enterprise block and warn interstitial pages are shown and record the expected decision metrics, including custom message handling.
+// ---
+
 #include "chrome/browser/enterprise/connectors/interstitials/enterprise_block_page.h"
 #include "chrome/browser/enterprise/connectors/interstitials/enterprise_warn_page.h"
 

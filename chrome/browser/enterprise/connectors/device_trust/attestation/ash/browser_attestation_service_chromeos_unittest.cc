@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser attestation service ChromeOS unit tests
+// summary: Tests the browser attestation service on ChromeOS with the Flex attester for enrolled and unenrolled device flows.
+// ---
+
 #include "components/enterprise/device_trust/core/attestation/browser_attestation_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash attestation policy observer implementation
+// summary: Implements the observer that asks the ash attestation service to prepare its key when an inline device trust policy is enabled.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/ash/ash_attestation_policy_observer.h"
 
 #include "base/check.h"

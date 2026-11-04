@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows key network delegate implementation
+// summary: Implements the Windows KeyNetworkDelegate that uploads the browser public key to the DM server with exponential backoff retries and retry metrics.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/network/win_key_network_delegate.h"
 
 #include <memory>

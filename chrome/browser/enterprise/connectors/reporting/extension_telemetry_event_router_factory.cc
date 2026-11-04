@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension telemetry event router factory
+// summary: Implements the profile keyed service factory that creates the extension telemetry event router, gated by enterprise isolated mode features.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/extension_telemetry_event_router_factory.h"
 
 #include "base/feature_list.h"

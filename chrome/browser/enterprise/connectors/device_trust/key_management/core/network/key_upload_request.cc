@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyUploadRequest implementation for DM upload requests
+// summary: Implements building and validating browser public key upload requests, including signing with the new or old key pair and mapping signature algorithms to key types.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/network/key_upload_request.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise warn controller client declaration
+// summary: Declares the class that handles commands, such as going back and proceeding, from the enterprise warn interstitial page.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_INTERSTITIALS_ENTERPRISE_WARN_CONTROLLER_CLIENT_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_INTERSTITIALS_ENTERPRISE_WARN_CONTROLLER_CLIENT_H_
 

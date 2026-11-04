@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enterprise connectors test support build definition
+summary: GN build file defining the testonly test_support source set with deep scanning, reporting, and cloud or local content analysis test helpers.

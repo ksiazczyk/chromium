@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped key persistence delegate factory implementation
+// summary: Implements a test factory that creates mocked hardware and EC key persistence delegates backed by generated signing keys.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/persistence/scoped_key_persistence_delegate_factory.h"
 
 #include <utility>

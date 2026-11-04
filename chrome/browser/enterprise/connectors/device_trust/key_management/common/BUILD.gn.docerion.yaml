@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device Trust key management common build definition
+summary: GN build file defining the common source_set target that publicly exposes key_types.h for Device Trust key management.

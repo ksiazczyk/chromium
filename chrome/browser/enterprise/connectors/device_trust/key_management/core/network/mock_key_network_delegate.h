@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockKeyNetworkDelegate gmock header
+// summary: Declares a gmock implementation of the KeyNetworkDelegate interface for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_CORE_NETWORK_MOCK_KEY_NETWORK_DELEGATE_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_CORE_NETWORK_MOCK_KEY_NETWORK_DELEGATE_H_
 

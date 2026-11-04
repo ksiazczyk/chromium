@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device Trust browser test base implementation
+// summary: Implements the base class for Device Trust browser tests, serving attestation redirect pages from an embedded test server and verifying attestation and key rotation metrics.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/test/device_trust_browsertest_base.h"
 
 #include <utility>

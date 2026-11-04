@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device trust service factory implementation
+// summary: Implements the per-profile DeviceTrustService factory, wiring attestation, signals and policy services with platform-specific code for ChromeOS and other platforms.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/device_trust_service_factory.h"
 
 #include <vector>

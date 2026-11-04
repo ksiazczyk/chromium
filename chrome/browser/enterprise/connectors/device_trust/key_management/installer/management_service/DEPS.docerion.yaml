@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Mojo embedder headers
+summary: Grants this directory include access to Mojo core embedder headers used for IPC setup.

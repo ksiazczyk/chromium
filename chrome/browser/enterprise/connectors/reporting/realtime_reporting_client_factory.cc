@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RealtimeReportingClient factory implementation
+// summary: Implements the per-profile keyed service factory that creates RealtimeReportingClient instances for browser contexts.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/realtime_reporting_client_factory.h"
 
 #include "chrome/browser/enterprise/connectors/connectors_service.h"

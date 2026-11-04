@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockWinNetworkFetcherFactory class
+// summary: Declares a gmock implementation of WinNetworkFetcherFactory that mocks CreateNetworkFetcher for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_CORE_NETWORK_FETCHER_MOCK_WIN_NETWORK_FETCHER_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_CORE_NETWORK_FETCHER_MOCK_WIN_NETWORK_FETCHER_FACTORY_H_
 

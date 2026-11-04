@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyRotationLauncher implementation
+// summary: Implements LaunchKeyRotation by validating DM token storage and management service, building the DM server URL, and triggering the key rotation command.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/key_rotation_launcher_impl.h"
 
 #include <optional>

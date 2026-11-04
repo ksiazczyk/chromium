@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rotate util unit tests
+// summary: Unit tests for the device trust key rotation utility, covering command-line rotation switches, DM server URL handling, and management service error metrics using mocked network and persistence delegates.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/installer/management_service/rotate_util.h"
 
 #include <memory>

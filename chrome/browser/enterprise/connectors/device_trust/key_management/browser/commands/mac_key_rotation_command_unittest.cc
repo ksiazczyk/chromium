@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac key rotation command unit tests
+// summary: Unit tests for the macOS key rotation command, covering handshake timeouts, upload results and rotation status histograms using mocked Secure Enclave, network and persistence delegates.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/commands/mac_key_rotation_command.h"
 
 #include <string>

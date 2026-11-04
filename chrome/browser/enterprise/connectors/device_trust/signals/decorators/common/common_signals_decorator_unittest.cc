@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common signals decorator unit tests
+// summary: Verifies that common signals are populated and latency histograms are logged, including a second run exercising the cache.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/signals/decorators/common/common_signals_decorator.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseWarnPage implementation for enterprise warning interstitial
+// summary: Implements the warning interstitial shown when an enterprise-managed browser flags a URL, populating its strings and handling user commands such as proceed, go back, and help.
+// ---
+
 #include "chrome/browser/enterprise/connectors/interstitials/enterprise_warn_page.h"
 
 #include <utility>

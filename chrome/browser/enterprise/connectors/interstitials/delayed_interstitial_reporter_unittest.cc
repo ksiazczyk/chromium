@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delayed interstitial reporter unit tests
+// summary: Unit tests for DelayedInterstitialReporter covering title extraction, truncation limits, navigation degradation, WebContents destruction and bypass behavior.
+// ---
+
 #include "chrome/browser/enterprise/connectors/interstitials/delayed_interstitial_reporter.h"
 
 #include "base/functional/bind.h"

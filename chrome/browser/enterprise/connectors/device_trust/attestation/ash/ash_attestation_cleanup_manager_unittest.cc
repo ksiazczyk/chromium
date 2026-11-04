@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash attestation cleanup manager unit tests
+// summary: Verifies with fake clients that DTC attestation keys are deleted on user removal only on unmanaged devices.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/attestation/ash/ash_attestation_cleanup_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped key rotation command factory
+// summary: Declares a scoped KeyRotationCommandFactory override that supplies mock commands or null commands for testing.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_BROWSER_COMMANDS_SCOPED_KEY_ROTATION_COMMAND_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_BROWSER_COMMANDS_SCOPED_KEY_ROTATION_COMMAND_FACTORY_H_
 

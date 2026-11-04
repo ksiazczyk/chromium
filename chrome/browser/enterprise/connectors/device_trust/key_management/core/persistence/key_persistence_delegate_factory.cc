@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key persistence delegate factory implementation
+// summary: Implements the singleton factory that creates the platform-specific key persistence delegate and supports test instance overrides.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/persistence/key_persistence_delegate_factory.h"
 
 #include "base/no_destructor.h"

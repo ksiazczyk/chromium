@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttestationTokenResult
+// summary: Result holder for attestation token generation that carries an optional token byte array or error message across the JNI boundary to native code.
+// ---
+
 package org.chromium.chrome.browser.enterprise.connectors.device_trust.attestation;
 
 import org.jni_zero.CalledByNative;

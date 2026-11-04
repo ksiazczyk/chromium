@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common signals decorator implementation
+// summary: Collects common device trust signals such as OS, browser version and device name, caching hardware model and manufacturer info.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/signals/decorators/common/common_signals_decorator.h"
 
 #include "base/functional/bind.h"

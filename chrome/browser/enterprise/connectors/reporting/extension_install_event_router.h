@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install event router header
+// summary: Declares the ExtensionInstallEventRouter keyed service and its factory for observing and uploading extension install events.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_EXTENSION_INSTALL_EVENT_ROUTER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_EXTENSION_INSTALL_EVENT_ROUTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake files request handler
+// summary: Declares a fake files request handler for tests that intercepts file uploads with a configurable fake upload callback.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_FAKE_FILES_REQUEST_HANDLER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_FAKE_FILES_REQUEST_HANDLER_H_
 

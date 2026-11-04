@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DeviceTrustKeyManagerImpl
+// summary: Unit tests covering key loading, rotation, signing, metrics, and permanent failure behavior of DeviceTrustKeyManagerImpl using mock loader and launcher.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/device_trust_key_manager_impl.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deep scanning test utilities implementation
+// summary: Implements test utilities such as the event report validator that checks expected deep scanning, DLP, and realtime reporting events.
+// ---
+
 #include "chrome/browser/enterprise/connectors/test/deep_scanning_test_utils.h"
 
 #include <memory>

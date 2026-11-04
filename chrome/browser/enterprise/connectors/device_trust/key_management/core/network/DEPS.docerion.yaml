@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for key management network
+summary: Grants this directory include access to components/winhttp so the public key can be sent to the DM server on Windows.

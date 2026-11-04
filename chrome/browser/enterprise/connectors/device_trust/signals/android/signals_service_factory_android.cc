@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device trust signals service factory
+// summary: Android implementation of CreateSignalsService that builds the device trust signals service from the profile's signals aggregator, since Android has no platform-specific signals decorator.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/signals/signals_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlexAttester unit tests
+// summary: Unit tests verifying that FlexAttester decorates key info correctly for enterprise-managed and unmanaged ChromeOS Flex devices.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/attestation/ash/flex_attester.h"
 
 #include <memory>

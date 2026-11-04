@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the EC signing key
+// summary: Verifies that EC signing keys produce verifiable signatures and keep algorithm and public key after wrapping and unwrapping.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/ec_signing_key.h"
 
 #include <memory>

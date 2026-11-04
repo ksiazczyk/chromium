@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for KeyLoaderImpl
+// summary: Unit tests verifying key loading and synchronization, including DM token handling, upload results, and synchronization error metrics.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/key_loader.h"
 
 #include <optional>

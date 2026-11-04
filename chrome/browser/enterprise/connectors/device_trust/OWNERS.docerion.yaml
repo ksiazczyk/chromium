@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Device Trust owners
+summary: Delegates code ownership review to the components/device_signals OWNERS file.

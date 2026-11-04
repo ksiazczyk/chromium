@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Secure Enclave client for tests
+// summary: Defines a gmock mock of the SecureEnclaveClient interface for use in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_CORE_MAC_MOCK_SECURE_ENCLAVE_CLIENT_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_CORE_MAC_MOCK_SECURE_ENCLAVE_CLIENT_H_
 

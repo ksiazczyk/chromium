@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure Enclave signing key implementation
+// summary: Implements a crypto::UnexportableSigningKey backed by a Secure Enclave key, providing signing, public key export, and key metadata.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/mac/secure_enclave_signing_key.h"
 
 #include <Security/Security.h>

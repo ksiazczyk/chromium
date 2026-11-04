@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporting context implementation
+// summary: Implements the CrashReportingContext singleton that polls the crashpad database and uploads new browser crash events to the enterprise realtime reporting server.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/crash_reporting_context.h"
 
 #include "base/command_line.h"

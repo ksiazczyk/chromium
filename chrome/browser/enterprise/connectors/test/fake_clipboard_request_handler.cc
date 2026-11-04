@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake clipboard request handler implementation
+// summary: Implements a fake clipboard request handler that routes clipboard deep scanning uploads to a fake content analysis delegate during tests.
+// ---
+
 #include "chrome/browser/enterprise/connectors/test/fake_clipboard_request_handler.h"
 
 #include "base/task/single_thread_task_runner.h"

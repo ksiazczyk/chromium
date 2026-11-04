@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux key persistence delegate unit tests
+// summary: Unit tests covering Linux key storage, loading, trust level validation, error metrics, and permission handling.
+// ---
+
 
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/persistence/linux_key_persistence_delegate.h"
 

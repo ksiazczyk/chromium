@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise block page class declaration
+// summary: Declares EnterpriseBlockPage, the interstitial page shown when a suspicious URL must be blocked per rules configured by an enterprise managed browser admin.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_INTERSTITIALS_ENTERPRISE_BLOCK_PAGE_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_INTERSTITIALS_ENTERPRISE_BLOCK_PAGE_H_
 

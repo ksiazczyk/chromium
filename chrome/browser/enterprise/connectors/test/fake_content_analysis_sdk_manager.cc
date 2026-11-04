@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake content analysis SDK manager implementation
+// summary: Implements a test manager that creates fake SDK clients with configurable statuses instead of connecting to a real agent.
+// ---
+
 #include "chrome/browser/enterprise/connectors/test/fake_content_analysis_sdk_manager.h"
 #include "chrome/browser/enterprise/connectors/test/fake_content_analysis_sdk_client.h"
 

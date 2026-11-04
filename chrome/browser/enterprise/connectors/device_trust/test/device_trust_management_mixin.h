@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device Trust management mixin
+// summary: Declares the DeviceTrustConnectorState struct and a browser test mixin for toggling management states, inline policies and consent in Device Trust tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_TEST_DEVICE_TRUST_MANAGEMENT_MIXIN_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_TEST_DEVICE_TRUST_MANAGEMENT_MIXIN_H_
 

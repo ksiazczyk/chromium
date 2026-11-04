@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows key rotation command implementation
+// summary: Implements the Windows key rotation command that runs the elevated Google Update app command to rotate the device trust signing key and reports metrics.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/commands/win_key_rotation_command.h"
 
 #include <comutil.h>

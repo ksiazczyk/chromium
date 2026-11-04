@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android attestation token client implementation
+// summary: Implements the native client that generates Device Trust attestation tokens by calling the Java AttestationTokenGenerator over JNI on a thread pool worker, with error logging and cache pre-warming.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/attestation/android/android_attestation_token_client.h"
 
 #include <optional>

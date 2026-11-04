@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MojoKeyNetworkDelegate
+// summary: Unit tests for MojoKeyNetworkDelegate covering successful, sequential and parallel public key upload requests with a test URL loader factory.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/network/mojo_key_network_delegate.h"
 
 #include <memory>

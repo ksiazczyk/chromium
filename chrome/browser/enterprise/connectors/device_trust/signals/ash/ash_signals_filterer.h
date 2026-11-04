@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshSignalsFilterer class declaration
+// summary: Declares the AshSignalsFilterer class, which removes or modifies signals in the device trust signal payload depending on the ChromeOS Ash device context.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_SIGNALS_ASH_ASH_SIGNALS_FILTERER_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_SIGNALS_ASH_ASH_SIGNALS_FILTERER_H_
 

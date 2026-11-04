@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyRotationLauncher factory
+// summary: Provides the KeyRotationLauncher::Create factory that instantiates a KeyRotationLauncherImpl with DM token storage and device management service.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/key_rotation_launcher.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportingEventRouter factory implementation
+// summary: Implements the browser-context keyed service factory that builds ReportingEventRouter instances backed by the realtime reporting client.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/reporting_event_router_factory.h"
 
 #include "base/no_destructor.h"

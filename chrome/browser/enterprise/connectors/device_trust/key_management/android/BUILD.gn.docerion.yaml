@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android device trust key manager
+summary: Defines GN source sets for the Android DeviceTrustKeyManager implementation and its unit tests, listing sources and dependencies.

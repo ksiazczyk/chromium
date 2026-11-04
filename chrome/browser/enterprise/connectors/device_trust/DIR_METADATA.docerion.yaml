@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Device Trust directory metadata
+summary: Points the directory metadata to the shared device signals COMMON_METADATA mixins.

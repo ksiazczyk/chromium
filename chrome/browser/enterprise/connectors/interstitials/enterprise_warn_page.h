@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseWarnPage class declaration
+// summary: Declares the EnterpriseWarnPage class responsible for showing and hiding the warning interstitial displayed for suspicious URLs under enterprise admin-configured rules.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_INTERSTITIALS_ENTERPRISE_WARN_PAGE_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_INTERSTITIALS_ENTERPRISE_WARN_PAGE_H_
 

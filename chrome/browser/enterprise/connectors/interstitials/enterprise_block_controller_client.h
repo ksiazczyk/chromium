@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise block controller client declaration
+// summary: Declares the class that handles commands, such as going back, from the enterprise block interstitial page.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_INTERSTITIALS_ENTERPRISE_BLOCK_CONTROLLER_CLIENT_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_INTERSTITIALS_ENTERPRISE_BLOCK_CONTROLLER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinuxKeyRotationCommand interface
+// summary: Declares the Linux KeyRotationCommand implementation that launches a rotation process and shares the browser's URL loader factory via Mojo.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_BROWSER_COMMANDS_LINUX_KEY_ROTATION_COMMAND_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_BROWSER_COMMANDS_LINUX_KEY_ROTATION_COMMAND_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux key persistence delegate implementation
+// summary: Stores, loads, and rotates device trust signing keys in a locked, permission-checked key file on Linux.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/persistence/linux_key_persistence_delegate.h"
 
 #include <fcntl.h>

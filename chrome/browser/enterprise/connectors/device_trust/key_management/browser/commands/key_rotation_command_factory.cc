@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyRotationCommandFactory implementation
+// summary: Implements the singleton factory that creates the platform-specific key rotation command for Windows, Linux or Mac and allows overriding the instance for testing.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/commands/key_rotation_command_factory.h"
 
 #include <memory>

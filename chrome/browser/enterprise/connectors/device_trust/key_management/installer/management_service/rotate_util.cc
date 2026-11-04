@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device trust key rotation command utility
+// summary: Decodes and validates rotation command line arguments and runs the device trust key rotation via the rotation manager.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/installer/management_service/rotate_util.h"
 
 #include <memory>

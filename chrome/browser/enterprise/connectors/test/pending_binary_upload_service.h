@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pending binary upload service test fake
+// summary: Declares a fake BinaryUploadService that keeps uploaded requests pending so tests can inspect them and control when and how they complete.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_PENDING_BINARY_UPLOAD_SERVICE_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_PENDING_BINARY_UPLOAD_SERVICE_H_
 

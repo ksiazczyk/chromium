@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for ash device trust unit tests
+summary: Defines the unit_tests source set for the ash attestation policy observer together with its Chromium and gtest dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload key status parsing utilities
+// summary: Maps HTTP response codes from key upload requests to UploadKeyStatus values, treating 409 as a key conflict.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/network/util.h"
 
 namespace enterprise_connectors {

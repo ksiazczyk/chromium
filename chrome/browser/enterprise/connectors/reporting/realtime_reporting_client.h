@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RealtimeReportingClient header for profile-based event reporting
+// summary: Declares the profile-scoped realtime reporting client that uploads enterprise browser events to the Chrome reporting server API.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_REALTIME_REPORTING_CLIENT_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_REALTIME_REPORTING_CLIENT_H_
 

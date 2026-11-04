@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signing key pair implementation
+// summary: Implements the constructor and destructor of SigningKeyPair, which stores a signing key together with its trust level.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/signing_key_pair.h"
 
 using BPKUR = enterprise_management::BrowserPublicKeyUploadRequest;

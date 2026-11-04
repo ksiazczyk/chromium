@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttestationTokenGenerator
+// summary: Entry point for Android attestation token generation that delegates to a downstream implementation or a default fallback and exposes JNI hooks for native callers.
+// ---
+
 package org.chromium.chrome.browser.enterprise.connectors.device_trust.attestation;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure Enclave client factory and key label helpers
+// summary: Implements client creation, test instance injection and mapping between key types and Device Trust signing key labels.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/mac/secure_enclave_client.h"
 
 #include <algorithm>

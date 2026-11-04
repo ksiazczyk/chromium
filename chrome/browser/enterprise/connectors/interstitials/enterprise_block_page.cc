@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise block interstitial page implementation
+// summary: Implements the interstitial page shown when a URL is blocked under enterprise admin rules, populating strings and handling user commands and metrics.
+// ---
+
 #include "chrome/browser/enterprise/connectors/interstitials/enterprise_block_page.h"
 
 #include <utility>

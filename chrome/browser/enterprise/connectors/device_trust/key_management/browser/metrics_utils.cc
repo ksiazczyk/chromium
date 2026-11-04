@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust key metrics helpers
+// summary: Logs histograms for key trust level, key type, key loading results, rotation results, synchronization errors, and signature latency.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/metrics_utils.h"
 
 #include "base/metrics/histogram_functions.h"

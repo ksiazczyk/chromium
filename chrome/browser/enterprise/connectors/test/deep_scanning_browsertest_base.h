@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deep scanning browser test base
+// summary: Declares the base class for deep scanning browser tests with helpers for fake delegates, temporary test files, and quit closures.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_DEEP_SCANNING_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_TEST_DEEP_SCANNING_BROWSERTEST_BASE_H_
 

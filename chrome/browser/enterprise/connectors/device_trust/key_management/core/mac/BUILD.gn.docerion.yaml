@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Secure Enclave key management on mac
+summary: Defines the mac, test_support and unit_tests source sets with their sources, dependencies and Apple frameworks for Secure Enclave key management.

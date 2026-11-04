@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LoadPersistedKey signing key utilities
+// summary: Verifies that LoadPersistedKey correctly loads hardware-backed and EC signing key pairs using mocked key persistence delegates and validates trust level, public key extraction, and signing.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/signing_key_util.h"
 
 #include <vector>

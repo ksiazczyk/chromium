@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshSignalsFilterer implementation for ChromeOS Ash
+// summary: Implements the Ash signals filterer, removing stable device identifiers such as serial number, MAC addresses and IMEI from the signal payload when the device is not enterprise managed.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/signals/ash/ash_signals_filterer.h"
 
 #include "chromeos/ash/components/install_attributes/install_attributes.h"

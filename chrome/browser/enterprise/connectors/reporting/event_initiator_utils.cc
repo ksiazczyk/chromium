@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event initiator utils implementation
+// summary: Implements GetExtensionInitiatorInfo, mapping extension manifest locations and building extension info for downloads initiated through the chrome.downloads API.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/event_initiator_utils.h"
 
 #include <optional>

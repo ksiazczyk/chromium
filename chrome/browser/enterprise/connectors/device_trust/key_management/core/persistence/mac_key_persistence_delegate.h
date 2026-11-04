@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac key persistence delegate interface
+// summary: Declares the macOS KeyPersistenceDelegate implementation backed by Secure Enclave hardware keys.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_CORE_PERSISTENCE_MAC_KEY_PERSISTENCE_DELEGATE_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_CORE_PERSISTENCE_MAC_KEY_PERSISTENCE_DELEGATE_H_
 

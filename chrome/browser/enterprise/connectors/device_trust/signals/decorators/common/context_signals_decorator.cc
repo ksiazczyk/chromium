@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context signals decorator implementation
+// summary: Fills device trust signals with context info such as affiliation IDs, Safe Browsing settings and DNS servers from ContextInfoFetcher.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/signals/decorators/common/context_signals_decorator.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinuxKeyRotationCommand implementation
+// summary: Implements the Linux key rotation command that launches the management service binary with rotation parameters and passes network support over a Mojo pipe.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/browser/commands/linux_key_rotation_command.h"
 
 #include <string>

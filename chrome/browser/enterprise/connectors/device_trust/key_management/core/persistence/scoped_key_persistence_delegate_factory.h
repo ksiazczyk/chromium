@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped key persistence delegate factory
+// summary: Test-only factory that mocks signing key persistence, including an in-memory storage variant so tests avoid real key storage.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_CORE_PERSISTENCE_SCOPED_KEY_PERSISTENCE_DELEGATE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_KEY_MANAGEMENT_CORE_PERSISTENCE_SCOPED_KEY_PERSISTENCE_DELEGATE_FACTORY_H_
 

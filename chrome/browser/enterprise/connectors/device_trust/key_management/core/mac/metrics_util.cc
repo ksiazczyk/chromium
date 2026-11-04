@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure Enclave key operation metrics implementation
+// summary: Records UMA histograms for Secure Enclave keychain operation statuses and OSStatus error codes on macOS.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/core/mac/metrics_util.h"
 
 #include "base/metrics/histogram_functions.h"

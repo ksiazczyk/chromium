@@ -1,0 +1,4 @@
+# Docerion header of secure_enclave_client_impl.mm.
+type: source
+title: Secure Enclave client implementation for macOS keychain keys
+summary: Implements the Secure Enclave client that creates, copies, signs with, and deletes Device Trust signing keys in the macOS keychain.

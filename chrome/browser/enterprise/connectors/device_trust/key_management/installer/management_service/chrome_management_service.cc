@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeManagementService implementation
+// summary: Implements the management service that checks binary group permissions and drives device trust key rotation over Mojo IPC.
+// ---
+
 #include "chrome/browser/enterprise/connectors/device_trust/key_management/installer/management_service/chrome_management_service.h"
 
 #include <grp.h>

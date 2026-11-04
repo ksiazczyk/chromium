@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension telemetry event router unit tests
+// summary: Unit tests that verify telemetry reports for cookies, remote hosts, tabs, DOM access and script injection signals are uploaded correctly.
+// ---
+
 #include "chrome/browser/enterprise/connectors/reporting/extension_telemetry_event_router.h"
 
 #include "base/memory/raw_ptr.h"

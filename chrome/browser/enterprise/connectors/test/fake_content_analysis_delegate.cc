@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake content analysis delegate implementation
+// summary: Implements a fake content analysis delegate that simulates scan results, dialog state, and analysis request counts for tests.
+// ---
+
 #include "chrome/browser/enterprise/connectors/test/fake_content_analysis_delegate.h"
 
 #include <optional>
