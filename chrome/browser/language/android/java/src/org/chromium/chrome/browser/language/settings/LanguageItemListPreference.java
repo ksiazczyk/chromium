@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageItemListPreference
+// summary: Preference that launches a LanguageItemListFragment and shows a summary of the first languages in the list.
+// ---
+
 package org.chromium.chrome.browser.language.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

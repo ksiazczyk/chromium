@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManualFillingComponent interface for the non-popup filling UI
+// summary: Defines the component handling the manual filling UI, including soft keyboard control, accessory sheet data providers, suggestions, and observer callbacks.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import android.graphics.RectF;

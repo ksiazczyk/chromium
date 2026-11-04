@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserInfoField
+// summary: Represents a selectable or non-selectable accessory suggestion such as a username or card number, created via JNI from native code.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.data;
 
 import org.jni_zero.CalledByNative;

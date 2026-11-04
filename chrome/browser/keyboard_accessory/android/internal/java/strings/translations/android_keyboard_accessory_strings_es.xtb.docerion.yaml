@@ -1,0 +1,4 @@
+# Docerion header of android_keyboard_accessory_strings_es.xtb.
+type: data
+title: Android keyboard accessory strings in Spanish
+summary: Spanish translation bundle with localized keyboard accessory UI strings for autofill suggestions, passkeys, passwords, addresses and payment methods.

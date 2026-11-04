@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardAccessoryData
+// summary: Defines data classes such as Tab used to pass tab and item information into the Android keyboard accessory component.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.data;
 
 import android.view.ViewGroup;

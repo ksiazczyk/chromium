@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for keyboard accessory Android
+summary: DEPS file listing the component directories that this Android keyboard accessory directory is allowed to include from.

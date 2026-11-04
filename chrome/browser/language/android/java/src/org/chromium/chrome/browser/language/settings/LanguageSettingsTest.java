@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LanguageSettingsTest
+// summary: Espresso UI tests for the Languages settings screen, restricted to phone form factors.
+// ---
+
 package org.chromium.chrome.browser.language.settings;
 
 import static androidx.test.espresso.Espresso.onView;

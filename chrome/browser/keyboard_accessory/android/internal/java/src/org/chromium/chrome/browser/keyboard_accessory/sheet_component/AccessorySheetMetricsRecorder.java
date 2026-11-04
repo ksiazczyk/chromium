@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessorySheetMetricsRecorder
+// summary: Stateless helper that observes accessory sheet property models to record metrics about sheet opens, closes and tab triggers.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_component;
 
 import static org.chromium.chrome.browser.keyboard_accessory.AccessorySheetTrigger.MANUAL_OPEN;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure password filling warning dialog utility
+// summary: Android utility class that displays an alert dialog warning the user when a password is about to be filled into a non-secure text field.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.utils;
 
 import android.app.Activity;

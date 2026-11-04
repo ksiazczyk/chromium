@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate bridge for Android tabs
+// summary: Bridge class that lets Android code access native code to translate tabs and manage target languages.
+// ---
+
 package org.chromium.chrome.browser.translate;
 
 import static org.chromium.build.NullUtil.assertNonNull;

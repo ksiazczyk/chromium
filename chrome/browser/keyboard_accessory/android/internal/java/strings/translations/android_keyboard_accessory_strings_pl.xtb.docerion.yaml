@@ -1,0 +1,4 @@
+# Docerion header of android_keyboard_accessory_strings_pl.xtb.
+type: data
+title: Android keyboard accessory strings (Polish)
+summary: Polish XTB translation bundle with localized strings for the Android keyboard accessory, covering autofill suggestions, passwords, passkeys, and payment methods.

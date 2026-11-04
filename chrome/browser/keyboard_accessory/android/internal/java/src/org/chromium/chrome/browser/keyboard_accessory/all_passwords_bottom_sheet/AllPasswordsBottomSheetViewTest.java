@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: All passwords bottom sheet view tests
+// summary: Robolectric tests verifying that model changes in the all passwords bottom sheet, such as visibility and credential entries, are reflected in the displayed sheet UI.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.all_passwords_bottom_sheet;
 
 import static org.hamcrest.MatcherAssert.assertThat;

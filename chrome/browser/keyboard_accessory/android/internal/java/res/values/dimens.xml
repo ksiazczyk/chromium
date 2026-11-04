@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Keyboard accessory dimension values
+summary: Defines Android dimension resources (dp values) for the autofill keyboard accessory bar, chips, sheets, and the all-passwords bottom sheet in Chrome for Android.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Autofill keyboard accessory dimensions -->
     <!-- TODO: crbug.com/385172647 - Remove redesign suffix from all dimensions. -->

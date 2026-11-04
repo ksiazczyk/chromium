@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguagesManager for Chrome Android language settings
+// summary: Manages language details for Chrome's language settings, fetching language lists from native and logging UMA metrics for settings actions.
+// ---
+
 package org.chromium.chrome.browser.language.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual filling utilities
+// summary: Helper that builds AccessorySheetData from user info entries and footer commands for display in the manual filling UI.
+// ---
+
 #include "chrome/browser/keyboard_accessory/android/manual_filling_utils.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password accessory controller implementation
+// summary: Implements the password accessory controller, refreshing password suggestions, handling generation requests, and updating the credential manager re-entry UI.
+// ---
+
 #include "chrome/browser/keyboard_accessory/android/password_accessory_controller_impl.h"
 
 #include <algorithm>

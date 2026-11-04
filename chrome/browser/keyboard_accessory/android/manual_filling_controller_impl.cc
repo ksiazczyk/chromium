@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual filling controller implementation
+// summary: Implements the manual filling controller, managing filling sources, focused field handling, accessory actions, and showing or hiding the Android keyboard accessory UI.
+// ---
+
 #include "chrome/browser/keyboard_accessory/android/manual_filling_controller_impl.h"
 
 #include <inttypes.h>

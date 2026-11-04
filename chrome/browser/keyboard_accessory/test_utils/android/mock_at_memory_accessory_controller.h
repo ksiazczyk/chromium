@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock at-memory accessory controller header
+// summary: GMock mock of AtMemoryAccessoryController stubbing sheet data, passkey selection and availability checks for tests.
+// ---
+
 #ifndef CHROME_BROWSER_KEYBOARD_ACCESSORY_TEST_UTILS_ANDROID_MOCK_AT_MEMORY_ACCESSORY_CONTROLLER_H_
 #define CHROME_BROWSER_KEYBOARD_ACCESSORY_TEST_UTILS_ANDROID_MOCK_AT_MEMORY_ACCESSORY_CONTROLLER_H_
 

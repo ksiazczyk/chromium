@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlLanguageHistogramFactory header
+// summary: Declares the ProfileKeyedServiceFactory that associates a UrlLanguageHistogram instance with each browser context.
+// ---
+
 #ifndef CHROME_BROWSER_LANGUAGE_URL_LANGUAGE_HISTOGRAM_FACTORY_H_
 #define CHROME_BROWSER_LANGUAGE_URL_LANGUAGE_HISTOGRAM_FACTORY_H_
 

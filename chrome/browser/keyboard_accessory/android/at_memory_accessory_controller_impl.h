@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory accessory controller implementation header
+// summary: Declares AtMemoryAccessoryControllerImpl, a WebContentsUserData that implements the AtMemory accessory controller interface and its AccessoryController overrides.
+// ---
+
 #ifndef CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_AT_MEMORY_ACCESSORY_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_AT_MEMORY_ACCESSORY_CONTROLLER_IMPL_H_
 

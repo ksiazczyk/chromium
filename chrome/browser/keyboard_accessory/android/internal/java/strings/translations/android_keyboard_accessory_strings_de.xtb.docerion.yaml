@@ -1,0 +1,4 @@
+# Docerion header of android_keyboard_accessory_strings_de.xtb.
+type: data
+title: Android keyboard accessory strings in German
+summary: German translation bundle with localized keyboard accessory UI strings for autofill suggestions, passkeys, passwords, addresses and payment methods.

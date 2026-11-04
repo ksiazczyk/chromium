@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address accessory controller implementation header
+// summary: Declares the per-tab address accessory controller implementation, which observes the profile's address data manager and forwards filling requests.
+// ---
+
 #ifndef CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_ADDRESS_ACCESSORY_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_ADDRESS_ACCESSORY_CONTROLLER_IMPL_H_
 

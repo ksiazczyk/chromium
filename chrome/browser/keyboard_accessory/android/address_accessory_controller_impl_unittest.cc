@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address accessory controller unit tests
+// summary: Unit tests for the Android keyboard accessory address controller, verifying sheet data construction, filling actions, and source availability with test autofill infrastructure.
+// ---
+
 #include "chrome/browser/keyboard_accessory/android/address_accessory_controller_impl.h"
 
 #include <algorithm>

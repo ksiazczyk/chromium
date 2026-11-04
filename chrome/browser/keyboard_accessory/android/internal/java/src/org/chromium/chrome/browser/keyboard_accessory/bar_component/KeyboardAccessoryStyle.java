@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardAccessoryStyle
+// summary: Encapsulates styling properties of the keyboard accessory view, distinguishing docked and undocked (floating) layouts with offsets, max width and notch position.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.bar_component;
 
 import androidx.annotation.IntDef;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Keyboard accessory shadow shape drawable
+summary: Android shape drawable that renders the keyboard accessory background using the default background color and the keyboard accessory corner radius.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <solid android:color="@macro/default_bg_color" />
     <corners android:radius="@dimen/keyboard_accessory_corner_radius" />

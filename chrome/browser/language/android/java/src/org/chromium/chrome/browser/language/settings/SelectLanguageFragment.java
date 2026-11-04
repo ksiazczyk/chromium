@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectLanguageFragment language picker
+// summary: Abstract settings fragment with a searchable language list, subclassed per selection kind to pick languages for the various language lists.
+// ---
+
 package org.chromium.chrome.browser.language.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

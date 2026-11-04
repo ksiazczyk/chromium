@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AllPasswordsBottomSheetRenderTest
+// summary: Render tests that screenshot the all passwords bottom sheet in default, RTL and night mode variants and compare them against gold images.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.all_passwords_bottom_sheet;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

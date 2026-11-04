@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake TranslateBridge JNI implementation
+// summary: Fake implementation of the TranslateBridge native methods that simulates language preferences and translation state for testing.
+// ---
+
 package org.chromium.chrome.browser.translate;
 
 import org.chromium.chrome.browser.language.settings.LanguageItem;

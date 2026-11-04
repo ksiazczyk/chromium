@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceptLanguagesServiceFactory implementation
+// summary: Implements the keyed service factory that builds an AcceptLanguagesService per browser context from profile preferences.
+// ---
+
 #include "chrome/browser/language/accept_languages_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

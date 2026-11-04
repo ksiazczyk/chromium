@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlLanguageHistogramFactory unit tests
+// summary: Unit test verifying that the URL language histogram keyed service is created for regular profiles but not for incognito profiles.
+// ---
+
 #include "chrome/browser/language/url_language_histogram_factory.h"
 
 #include "chrome/test/base/testing_profile.h"

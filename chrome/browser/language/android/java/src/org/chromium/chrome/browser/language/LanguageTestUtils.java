@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageTestUtils
+// summary: Test utilities that initialize and clear the Android ResourceBundle with a fixed list of test locales for Robolectric language tests.
+// ---
+
 package org.chromium.chrome.browser.language;
 
 import org.chromium.ui.base.ResourceBundle;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageListBaseAdapter
+// summary: RecyclerView adapter base class that manages and displays language rows with drag reordering and per-row menu buttons.
+// ---
+
 package org.chromium.chrome.browser.language.settings;
 
 

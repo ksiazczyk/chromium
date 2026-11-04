@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessory controller interface
+// summary: Interface for type-specific manual filling controllers, such as password or credit card, that interact with the generic manual filling controller.
+// ---
+
 #ifndef CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_ACCESSORY_CONTROLLER_H_
 #define CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_ACCESSORY_CONTROLLER_H_
 

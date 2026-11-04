@@ -1,0 +1,4 @@
+# Docerion header of android_keyboard_accessory_strings_fr.xtb.
+type: data
+title: Android keyboard accessory strings in French
+summary: French translation bundle with UI strings for Chrome's Android keyboard accessory, covering passkeys, passwords, addresses, and payment autofill suggestions.

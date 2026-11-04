@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock payment method accessory controller header
+// summary: Declares a gmock mock of PaymentMethodAccessoryController for Android keyboard accessory tests, stubbing sheet data, filling, passkey, and toggle handling methods.
+// ---
+
 #ifndef CHROME_BROWSER_KEYBOARD_ACCESSORY_TEST_UTILS_ANDROID_MOCK_PAYMENT_METHOD_ACCESSORY_CONTROLLER_H_
 #define CHROME_BROWSER_KEYBOARD_ACCESSORY_TEST_UTILS_ANDROID_MOCK_PAYMENT_METHOD_ACCESSORY_CONTROLLER_H_
 

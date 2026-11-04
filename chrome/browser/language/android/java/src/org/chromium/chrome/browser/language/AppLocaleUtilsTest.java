@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App locale utilities tests
+// summary: Robolectric tests for AppLocaleUtils covering getting, setting and comparing the app language preference and supported UI language checks.
+// ---
+
 package org.chromium.chrome.browser.language;
 
 import org.junit.After;

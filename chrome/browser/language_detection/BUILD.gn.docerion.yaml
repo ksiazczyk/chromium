@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Language detection BUILD.gn build targets
+summary: GN build file defining source sets for the language detection model service factory and its browser tests with their dependencies.

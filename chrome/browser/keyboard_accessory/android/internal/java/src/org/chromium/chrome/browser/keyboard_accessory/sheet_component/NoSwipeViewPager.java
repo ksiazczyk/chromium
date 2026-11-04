@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoSwipeViewPager
+// summary: ViewPager subclass that disables swiping and smooth scrolling and manually measures content height for the accessory sheet's dynamic positioning.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_component;
 
 import android.annotation.SuppressLint;

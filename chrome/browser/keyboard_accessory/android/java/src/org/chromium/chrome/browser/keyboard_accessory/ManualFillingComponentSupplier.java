@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supplier and UnownedUserData manager for ManualFillingComponent
+// summary: Manages the UnownedUserData key that stores and retrieves the ManualFillingComponent supplier associated with a WindowAndroid.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import org.chromium.base.UnownedUserDataHost;

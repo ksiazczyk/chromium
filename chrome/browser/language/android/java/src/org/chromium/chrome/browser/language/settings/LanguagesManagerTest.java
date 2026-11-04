@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LanguagesManagerTest
+// summary: Robolectric unit tests verifying that LanguagesManager retrieves, filters and orders language lists obtained from native.
+// ---
+
 package org.chromium.chrome.browser.language.settings;
 
 import android.text.TextUtils;

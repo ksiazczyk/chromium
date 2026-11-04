@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardAccessoryChipGroup
+// summary: Groups autofill suggestion chips in the keyboard accessory bar and limits the width of leading chips so the next chip peeks on screen, hinting that the bar is scrollable.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.bar_component;
 
 import android.content.Context;

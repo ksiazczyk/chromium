@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageBridge class header
+// summary: Declares the LanguageBridge class, which provides a blocking call to fetch ULP languages for an account from the device.
+// ---
+
 #ifndef CHROME_BROWSER_LANGUAGE_ANDROID_LANGUAGE_BRIDGE_H_
 #define CHROME_BROWSER_LANGUAGE_ANDROID_LANGUAGE_BRIDGE_H_
 

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Address accessory sheet tab layout
+summary: Defines the scrollable tab view layout used to display saved addresses in the keyboard accessory sheet.
+-->
+
 <org.chromium.chrome.browser.keyboard_accessory.sheet_tabs.AccessorySheetTabView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/addresses_sheet"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageBridge native JNI implementation
+// summary: Implements the native side of the LanguageBridge JNI, converting device locales into language tags and reading ULP languages from profile preferences.
+// ---
+
 #include "chrome/browser/language/android/language_bridge.h"
 
 #include "base/android/jni_string.h"

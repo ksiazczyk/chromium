@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App locale utilities
+// summary: Utility class for overriding the Android application language, managing the app language preference and system-managed locales.
+// ---
+
 package org.chromium.chrome.browser.language;
 
 import android.app.LocaleManager;

@@ -1,0 +1,4 @@
+# Docerion header of android_keyboard_accessory_strings_mk.xtb.
+type: data
+title: Android keyboard accessory strings (Macedonian)
+summary: Macedonian XTB translation bundle with localized strings for the Android keyboard accessory, covering passkeys, passwords, addresses, payment methods, and autofill suggestions.

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Keyboard accessory sheet IBAN info tab layout
+summary: Android layout for the IBAN info tab in the keyboard accessory sheet, showing the IBAN as an input chip next to an icon.
+-->
+
 <org.chromium.chrome.browser.keyboard_accessory.sheet_tabs.IbanAccessoryInfoView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

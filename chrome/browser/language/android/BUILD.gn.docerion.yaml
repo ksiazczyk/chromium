@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Chrome Android language Java targets
+summary: Defines GN android_library targets for the Chrome Android language module, listing Java sources for locale utilities, language settings, and translate bridges with their dependencies.

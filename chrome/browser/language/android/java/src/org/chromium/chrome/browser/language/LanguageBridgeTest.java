@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language bridge tests
+// summary: Robolectric tests for LanguageBridge's top ULP base language matching, using a fake JNI bridge with various language lists.
+// ---
+
 package org.chromium.chrome.browser.language;
 
 import org.junit.Assert;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock password accessory controller implementation
+// summary: Provides the default constructor and destructor for the MockPasswordAccessoryController gmock class.
+// ---
+
 #include "chrome/browser/keyboard_accessory/test_utils/android/mock_password_accessory_controller.h"
 
 MockPasswordAccessoryController::MockPasswordAccessoryController() = default;

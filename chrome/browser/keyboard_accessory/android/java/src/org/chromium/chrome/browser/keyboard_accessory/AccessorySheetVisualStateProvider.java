@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessory sheet visual state provider interface
+// summary: Observable interface that lets observers be notified of accessory sheet visibility and background color changes in the keyboard accessory UI.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import androidx.annotation.ColorInt;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates review ownership for this test utils directory to the keyboard accessory Android OWNERS file.

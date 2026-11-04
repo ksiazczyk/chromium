@@ -1,0 +1,4 @@
+# Docerion header of android_keyboard_accessory_strings_be.xtb.
+type: data
+title: Android keyboard accessory strings (Belarusian)
+summary: Belarusian translation bundle with localized Android keyboard accessory UI strings for autofill, passkeys, passwords, addresses, and payment suggestions in Chrome.

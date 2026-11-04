@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for keyboard accessory Android test mocks
+summary: Defines a testonly source_set bundling the mock accessory controllers and their dependencies on base, autofill and gmock.

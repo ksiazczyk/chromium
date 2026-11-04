@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for keyboard accessory Android
+summary: OWNERS file assigning per-file owners, including autofill and password specialists, for the directory's C++ and build files.

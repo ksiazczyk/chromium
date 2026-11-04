@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard accessory button group view
+// summary: Implements the linear layout that renders sheet opener buttons in the keyboard accessory, creating image buttons and notifying listeners of clicks.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.button_group_component;
 
 import android.content.Context;

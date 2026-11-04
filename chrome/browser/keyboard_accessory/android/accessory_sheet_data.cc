@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessory sheet data implementation
+// summary: Implements the accessory sheet data model, including builders for sheet fields, user info and promo code entries shown in the manual fallback UI.
+// ---
+
 #include "chrome/browser/keyboard_accessory/android/accessory_sheet_data.h"
 
 #include <algorithm>

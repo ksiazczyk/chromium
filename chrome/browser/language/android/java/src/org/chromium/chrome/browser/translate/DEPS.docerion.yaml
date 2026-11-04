@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the translate package
+summary: Defines allowed Java dependencies for the translate package, permitting imports from content_public.

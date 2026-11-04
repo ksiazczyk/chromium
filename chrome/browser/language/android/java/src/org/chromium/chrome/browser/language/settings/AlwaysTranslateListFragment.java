@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlwaysTranslateListFragment
+// summary: Settings fragment for managing the list of languages that are always translated, handling add and remove actions and recording usage metrics.
+// ---
+
 package org.chromium.chrome.browser.language.settings;
 
 import android.content.Context;

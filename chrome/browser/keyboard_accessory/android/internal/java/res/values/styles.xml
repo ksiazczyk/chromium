@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Keyboard accessory styles
+summary: Defines Android style resources for the keyboard accessory, including dismiss button themes and two-line chip variants for payments, loyalty cards, and home/work addresses.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="TextAppearance.DividerText" parent="TextAppearance.TextLarge.Secondary">
         <item name="android:textColor">@color/baseline_neutral_70</item>

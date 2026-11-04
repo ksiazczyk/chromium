@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Accessory sheet header layout
+summary: Defines the accessory sheet header with a show-keyboard button and a title text view for the keyboard accessory sheet.
+-->
+
 <merge xmlns:android="http://schemas.android.com/apk/res/android">
 
     <ImageView

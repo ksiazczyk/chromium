@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Keyboard accessory Android test BUILD.gn
+summary: GN build definition for a test-only Android library providing the AllPasswordsBottomSheetTestHelper and its dependencies.

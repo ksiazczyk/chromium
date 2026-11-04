@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessorySheetProperties
+// summary: Defines the property keys describing the accessory sheet's view state, such as tabs, visibility, dimensions and shadows, plus a default model builder.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_component;
 
 import org.chromium.build.annotations.NullMarked;

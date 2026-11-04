@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the browser language folder
+summary: Points the chrome/browser/language directory to the shared language component metadata mixins.

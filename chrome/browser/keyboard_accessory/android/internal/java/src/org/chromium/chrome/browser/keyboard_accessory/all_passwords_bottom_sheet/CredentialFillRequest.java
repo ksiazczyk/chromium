@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential fill request data holder
+// summary: Bundles a selected credential with a flag indicating whether password filling was requested, for passing fill requests within the bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.all_passwords_bottom_sheet;
 
 import org.chromium.build.annotations.NullMarked;

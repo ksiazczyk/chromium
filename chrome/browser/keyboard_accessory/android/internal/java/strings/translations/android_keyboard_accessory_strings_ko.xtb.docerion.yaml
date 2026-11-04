@@ -1,0 +1,4 @@
+# Docerion header of android_keyboard_accessory_strings_ko.xtb.
+type: data
+title: Android keyboard accessory strings (Korean)
+summary: Korean XTB translation bundle with localized strings for the Android keyboard accessory, covering passkeys, passwords, addresses, payment methods, and autofill suggestions.
