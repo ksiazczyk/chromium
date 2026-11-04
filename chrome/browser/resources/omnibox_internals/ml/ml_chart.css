@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the ML chart element
+summary: Minimal stylesheet that displays the ML chart element inline.
+*/
+
 :host {
   display: inline-block;
 }

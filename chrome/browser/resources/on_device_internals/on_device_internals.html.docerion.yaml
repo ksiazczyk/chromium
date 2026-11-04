@@ -1,0 +1,4 @@
+# Docerion header of on_device_internals.html.
+type: source
+title: On-device Internals page shell
+summary: Entry HTML page for the On-device Internals WebUI that loads the app module and hosts the on-device-internals-app element with dark mode support.

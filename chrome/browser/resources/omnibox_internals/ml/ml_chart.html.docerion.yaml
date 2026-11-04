@@ -1,0 +1,4 @@
+# Docerion header of ml_chart.html.
+type: source
+title: Template for the ML chart element
+summary: HTML template providing the 600 by 600 canvas on which the ML chart element draws.

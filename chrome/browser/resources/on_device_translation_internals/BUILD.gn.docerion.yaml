@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for on device translation internals WebUI
+summary: Defines the WebUI build for the on device translation internals page, listing TypeScript sources, the static HTML entry, Mojo bindings and Lit dependencies.

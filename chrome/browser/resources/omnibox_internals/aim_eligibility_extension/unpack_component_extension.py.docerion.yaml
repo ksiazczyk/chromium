@@ -1,0 +1,4 @@
+# Docerion header of unpack_component_extension.py.
+type: script
+title: Python script to unpack component extension resources from a .grd file
+summary: Parses .grd includes, copies resources into the output folder, removes stale files, and writes a Ninja depfile for the unpack step.

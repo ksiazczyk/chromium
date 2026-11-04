@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Password manager app element
+// summary: Implements the main password manager app element with routing, drawer, toast, and page selection for the Chrome password manager UI.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_drawer/cr_drawer.js';
 import 'chrome://resources/cr_elements/cr_page_selector/cr_page_selector.js';

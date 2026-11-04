@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer list section template
+// summary: Lit HTML template rendering the section header, collapsible item list, and zero state content for an organizer list section.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OrganizerListSectionElement} from './organizer_list_section.js';

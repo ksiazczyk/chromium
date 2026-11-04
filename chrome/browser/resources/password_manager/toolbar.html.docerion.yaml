@@ -1,0 +1,4 @@
+# Docerion header of toolbar.html.
+type: source
+title: Toolbar HTML template
+summary: HTML template for the password manager toolbar, laying out the search toolbar, product logo and help button.

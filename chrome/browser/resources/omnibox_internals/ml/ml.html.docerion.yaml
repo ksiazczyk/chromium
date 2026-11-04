@@ -1,0 +1,4 @@
+# Docerion header of ml.html.
+type: source
+title: Omnibox ML debug page
+summary: Entry HTML page for the Omnibox ML debug page that loads the styles and hosts the ml-ui element.

@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared CSS variables
+summary: Defines CSS custom properties for layout dimensions, spacing and error colors, including dark mode overrides.
+*/
+
 html {
   --card-max-width: 960px;
   --side-bar-width: 300px;

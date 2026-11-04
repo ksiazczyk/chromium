@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password saving policy utility
+// summary: Utility that determines whether enforced admin policy blocks saving new passwords, ignoring recommended policies and extension-controlled preferences.
+// ---
+
 /**
  * Returns true if a mandatory admin policy turns off
  * `credentials_enable_service`, which blocks saving new passwords.

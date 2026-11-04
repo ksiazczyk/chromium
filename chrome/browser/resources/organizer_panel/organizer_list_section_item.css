@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Organizer list section item styles
+summary: Styles for section items built on cr-url-list-item, including layout, trailing icons, and hover-revealed action button behavior.
+*/
+
 :host {
   display: block;
 }

@@ -6,6 +6,12 @@
  * @fileoverview PasswordPreviewItem represents one row in a list of passwords.
  */
 
+// ---docerion
+// type: source
+// title: Password preview item element
+// summary: Polymer element representing one row in a list of passwords, with a checkbox, site favicon, username, and password visibility toggle.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icons.css.js';
 import 'chrome://resources/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';

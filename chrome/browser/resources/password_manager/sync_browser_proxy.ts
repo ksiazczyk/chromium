@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync browser proxy
+// summary: Browser proxy exposing trusted vault banner state, sync and account info, local password counts, batch upload entry points and the passkey unlock flow to the WebUI.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 // WARNING: Keep synced with

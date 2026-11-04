@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the AIM eligibility app
+// summary: Lit template rendering eligibility checks for policy, default search engine and server responses, with request, view, draft and save controls.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {AimEligibilityAppElement} from './app.js';

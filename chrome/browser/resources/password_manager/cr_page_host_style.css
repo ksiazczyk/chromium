@@ -12,6 +12,12 @@
  * imported independently and applied directly to the :host element without
  * having to import other shared CSS. */
 
+/*docerion
+type: source
+title: Shared host styles for WebUI pages
+summary: Provides common CSS properties for WebUI page or dialog hosts, kept separate so they can be imported independently.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   line-height: 154%; /* Apply 20px default line-height to all text. */

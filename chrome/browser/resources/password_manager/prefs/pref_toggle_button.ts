@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pref toggle button element
+// summary: Polymer web component implementing a toggle that controls a browser preference, with policy indicator support and optional validation before changes.
+// ---
+
 /**
  * @fileoverview
  * `pref-toggle-button` is a toggle that controls a supplied preference.

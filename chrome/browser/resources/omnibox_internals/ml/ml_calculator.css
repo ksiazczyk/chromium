@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the ML calculator element
+summary: Styles the signal input rows, score display and buttons of the ML calculator element.
+*/
+
 :host {
   display: inline-block;
   width: 400px;

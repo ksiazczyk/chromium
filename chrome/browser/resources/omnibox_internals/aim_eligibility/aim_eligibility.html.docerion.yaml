@@ -1,0 +1,4 @@
+# Docerion header of aim_eligibility.html.
+type: source
+title: HTML entry page for the AIM eligibility UI
+summary: Entry HTML document that loads base styles and the app module and hosts the aim-eligibility-app custom element.

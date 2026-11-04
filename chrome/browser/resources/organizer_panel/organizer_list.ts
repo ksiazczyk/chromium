@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer list element
+// summary: Lit custom element that renders the organizer list, manages its sections, and provides expand, collapse, and all-hidden tracking across sections.
+// ---
+
 import './organizer_list_section.js';
 import './organizer_zero_state.js';
 

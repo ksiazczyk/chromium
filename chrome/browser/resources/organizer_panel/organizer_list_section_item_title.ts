@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer list section item title element
+// summary: Lit element that renders the title parts of an organizer list section item with search highlight support.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 import type {TemplateResult} from '//resources/lit/v3_0/lit.rollup.js';
 import type {Range} from '/tab_group_shared/search.js';

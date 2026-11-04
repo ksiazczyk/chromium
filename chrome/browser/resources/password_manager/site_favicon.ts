@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site favicon custom element
+// summary: Polymer element that displays a site's favicon for a given URL, downloading it and falling back to an origin-based cached icon when loading fails.
+// ---
+
 /**
  * @fileoverview 'site-favicon' is the section to display the favicon given the
  * |url| which can be used to download favicon. If downloading fails |origin|

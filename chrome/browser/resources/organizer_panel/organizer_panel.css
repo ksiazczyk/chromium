@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Organizer panel page styles
+summary: Base page styles for the organizer panel WebUI that make the background transparent and prevent overflow and overscroll.
+*/
+
 html,
 body {
   background-color: transparent;

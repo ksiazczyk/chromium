@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ML UI element
+// summary: Custom element that assembles the ML scoring page, wiring the calculator, chart and table to a shared browser proxy.
+// ---
+
 import '/strings.m.js';
 import './ml_calculator.js';
 import './ml_table.js';

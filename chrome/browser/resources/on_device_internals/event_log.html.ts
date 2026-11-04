@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event log HTML template
+// summary: Lit HTML template for the on-device-internals-event-log element, rendering a table of event log messages with time, source links, and a dump button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OnDeviceInternalsEventLogElement} from './event_log.js';

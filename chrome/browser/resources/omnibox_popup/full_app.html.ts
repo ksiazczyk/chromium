@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full popup app Lit template
+// summary: Lit HTML template that renders the omnibox popup searchbox for the full WebUI popup app.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OmniboxFullAppElement} from './full_app.js';

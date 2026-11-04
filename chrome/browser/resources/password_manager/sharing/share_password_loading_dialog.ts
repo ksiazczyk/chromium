@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sharing loading dialog element
+// summary: Custom element defining the loading dialog with a title header and spinner shown during the sharing flow.
+// ---
+
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import '../cr_spinner_style.css.js';
 import '../shared_style.css.js';

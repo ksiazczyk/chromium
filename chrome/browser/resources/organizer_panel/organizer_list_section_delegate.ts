@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer list section delegate interfaces
+// summary: Defines the OrganizerListSectionClient and OrganizerListSectionDelegate interfaces that connect sections to their data models and item event handlers.
+// ---
+
 import type {TemplateResult} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OrganizerListSectionItem} from './organizer_list_section_item.js';

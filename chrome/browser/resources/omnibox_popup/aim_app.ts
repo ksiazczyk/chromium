@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standalone AI Mode popup app element
+// summary: Lit element that wires the composebox to the browser-side handler of the standalone AI Mode popup, forwarding Page callbacks and composebox events.
+// ---
+
 import './omnibox_composebox.js';
 import '/strings.m.js';
 

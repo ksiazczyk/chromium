@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Organizer zero state styles
+summary: Styles the organizer panel zero-state element, defining the layout and secondary-text appearance of the zero-state text.
+*/
+
 :host {
   display: block;
 }

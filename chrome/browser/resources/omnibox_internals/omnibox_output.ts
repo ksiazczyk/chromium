@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox output results display component
+// summary: Web component that renders autocomplete responses as result groups and applies display inputs, filtering and selection for the omnibox internals debug page.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {OmniboxElement} from './omnibox_element.js';

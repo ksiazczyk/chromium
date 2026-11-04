@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-Device Internals app element with tab navigation
+// summary: Defines the on-device-internals-app Lit element that switches between the Tools, Event Logs and Broker State tabs.
+// ---
+
 
 import './broker_state.js';
 import './event_log.js';

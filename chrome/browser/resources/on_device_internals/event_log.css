@@ -9,6 +9,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Event log styles for On-device Internals
+summary: Styles the event log table of the On-device Internals page, defining column widths and text wrapping for time, source location, and message columns.
+*/
+
 th,
 td {
   overflow: auto;

@@ -10,6 +10,12 @@
  * #include=composebox-shared-style omnibox-popup-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Contextual entrypoint styles
+summary: Lit CSS for the omnibox popup contextual entrypoint, styling the context menu container, entrypoint button hover state and Lens icon layout.
+*/
+
 :host {
   display: block;
 }

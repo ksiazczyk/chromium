@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the organizer list element
+// summary: Lit template that renders the section delegates with separators and a zero-state message when no results match.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OrganizerListElement} from './organizer_list.js';

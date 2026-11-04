@@ -1,0 +1,4 @@
+# Docerion header of passkey_details_card.html.
+type: source
+title: Passkey details card template
+summary: HTML template for the passkey details card showing display name, username, affiliated domains, and edit and delete passkey dialogs.

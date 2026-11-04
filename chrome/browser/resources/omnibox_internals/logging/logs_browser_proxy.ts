@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the omnibox logs WebUI
+// summary: Singleton BrowserProxy that creates and exposes the Mojo page handler and callback router used by the logging page.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './logs.mojom-webui.js';
 
 export class BrowserProxy {

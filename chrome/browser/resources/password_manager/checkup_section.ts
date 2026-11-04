@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Checkup section element
+// summary: Polymer element that runs and displays the password check status with counts of compromised, reused and weak passwords and navigation to details.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/cr_elements/cr_icons.css.js';

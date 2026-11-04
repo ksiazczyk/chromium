@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styling for omnibox output result groups
+summary: Stylesheet for the results group tables, covering headers, cells, hover and eliding behavior, and icons in the omnibox internals output.
+*/
+
 :host {
   --header-color: #555;
   display: inline-block;

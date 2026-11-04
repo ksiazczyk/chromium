@@ -6,6 +6,12 @@
  * @fileoverview Element which shows and controls password sharing dialogs.
  */
 
+// ---docerion
+// type: source
+// title: Password sharing flow controller element
+// summary: Polymer element that drives the password sharing dialog flow through fetching, error, family picker, and confirmation states.
+// ---
+
 import './share_password_family_picker_dialog.js';
 import './share_password_loading_dialog.js';
 import './share_password_error_dialog.js';

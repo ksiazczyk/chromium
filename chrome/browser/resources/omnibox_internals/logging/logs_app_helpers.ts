@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter dropdown helper for the logs UI
+// summary: Exports renderDropdown, which builds checkbox lists used to filter log messages by tag, source or proto.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 export function renderDropdown(

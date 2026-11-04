@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move passwords dialog element
+// summary: Polymer element implementing the move-to-account dialog, moving selected passwords via the password manager and recording metrics.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import '../shared_style.css.js';

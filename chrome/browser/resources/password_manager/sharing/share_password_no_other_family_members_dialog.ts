@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No other family members dialog element
+// summary: Custom element for the dialog shown when no other family members exist, recording metrics for invite link and button clicks.
+// ---
+
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import './metrics_utils.js';

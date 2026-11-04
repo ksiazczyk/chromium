@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer list section item template
+// summary: Lit HTML template rendering a cr-url-list-item with title, description, prefix icons or stacked favicons, trailing icon, and hover action button.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OrganizerListSectionItemElement} from './organizer_list_section_item.js';

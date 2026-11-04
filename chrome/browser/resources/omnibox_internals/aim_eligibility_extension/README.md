@@ -1,3 +1,12 @@
+---
+type: readme
+title: Locally testing the AIM eligibility component extension
+summary: Step-by-step instructions to build, deploy, verify, and uninstall the AIM eligibility component extension via the component updater on macOS.
+relations:
+  - references /chrome/browser/resources/omnibox_internals/aim_eligibility_extension/manifest.json
+  - references /chrome/browser/resources/omnibox_internals/aim_eligibility_extension/BUILD.gn
+---
+
 Instructions to locally test the AIM Eligibility component extension via the Component Updater on macOS.
 
 ## 1. Enable the Feature

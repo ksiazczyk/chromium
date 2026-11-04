@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Passwords section element
+// summary: Implements the saved passwords list section, managing password groups, search filtering, dialogs, and notification cards.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';
 import 'chrome://resources/cr_elements/cr_shared_style.css.js';

@@ -1,0 +1,4 @@
+# Docerion header of ml_calculator.html.
+type: source
+title: Template for the ML calculator element
+summary: HTML template showing signal inputs, the score, the model version and copy and clear buttons.

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Omnibox ML debug page styles
+summary: Defines theme CSS variables and light and dark color schemes shared across the Omnibox ML debug page.
+*/
+
 body {
   --start-lightness: 100%;
   --dir-lightness: -1%;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogsAppElement Lit component for omnibox logs
+// summary: Implements the logs-app element that receives event log messages, converts Mojo times and filters them by tag, source and proto type.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 import type {Time} from '//resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';
 

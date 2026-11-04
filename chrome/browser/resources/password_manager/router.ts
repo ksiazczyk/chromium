@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager page router
+// summary: Defines pages, routes and a Router singleton that manages URL paths, history and route observers for the Password Manager WebUI.
+// ---
+
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

@@ -1,0 +1,4 @@
+# Docerion header of trusted_vault_error_dialog.html.
+type: source
+title: Trusted vault error dialog template
+summary: HTML template for the trusted vault error dialog, showing a promo image and offering to verify identity to regain access.

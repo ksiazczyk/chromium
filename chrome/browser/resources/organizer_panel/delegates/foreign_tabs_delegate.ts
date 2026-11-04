@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Foreign tabs delegate for the organizer panel
+// summary: Implements the organizer panel section delegate that lists tabs open on other devices and opens them through the browser proxy on click.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 

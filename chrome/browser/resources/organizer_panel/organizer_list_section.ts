@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer list section element
+// summary: Lit custom element implementing an organizer list section with search-filtered items, expansion state, and section state updates via the browser proxy.
+// ---
+
 import '//resources/cr_elements/cr_collapse/cr_collapse.js';
 import './organizer_list_section_header.js';
 import './organizer_list_section_item.js';

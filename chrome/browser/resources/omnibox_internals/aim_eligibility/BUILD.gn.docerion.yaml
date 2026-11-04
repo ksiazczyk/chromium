@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the AIM eligibility WebUI
+summary: Defines the WebUI build target bundling the HTML, CSS, TypeScript sources, Lit and Mojo dependencies for the omnibox internals AIM eligibility page.

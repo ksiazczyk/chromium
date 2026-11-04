@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full WebUI omnibox popup app element
+// summary: Lit element that renders the full WebUI omnibox popup, painting its own background, rounded corners and shadow when enabled and preventing blur when clicking non-focusable areas.
+// ---
+
 import './omnibox_popup_searchbox.js';
 import '/strings.m.js';
 

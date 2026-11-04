@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer list section item element and model types
+// summary: Defines the organizer-list-section-item Lit element plus model interfaces for items, icons, hover action buttons, and search highlighting in the organizer panel.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '//resources/cr_elements/cr_url_list_item/cr_url_list_item.js';

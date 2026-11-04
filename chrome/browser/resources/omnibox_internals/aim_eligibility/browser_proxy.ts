@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo browser proxy for the AIM eligibility page
+// summary: Singleton proxy that sets up the page handler remote and callback router for Mojo communication between the page and the browser.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './aim_eligibility.mojom-webui.js';
 
 export class BrowserProxy {

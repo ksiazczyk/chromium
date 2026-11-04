@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager module exports
+// summary: Entry module that re-exports the password manager WebUI elements, dialogs, proxies, and types in one place.
+// ---
+
 import './password_manager_app.js';
 
 export {SettingsPrefsElement} from '/shared/settings/prefs/prefs.js';

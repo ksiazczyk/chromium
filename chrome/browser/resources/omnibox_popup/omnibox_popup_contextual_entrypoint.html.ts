@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual entrypoint Lit template
+// summary: Lit HTML template for the omnibox popup contextual entrypoint, conditionally rendering the entrypoint button, current tab chip and Lens search chip or icon.
+// ---
+
 import {hasAllowedInputs} from '//resources/cr_components/composebox/common.js';
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 

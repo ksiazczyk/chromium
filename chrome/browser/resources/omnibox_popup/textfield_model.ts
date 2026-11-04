@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Textfield edit model with undo and redo
+// summary: TypeScript model implementing text edits with mergeable undo and redo support for the omnibox popup textfield.
+// ---
+
 export interface SelectionRange {
   start: number;
   end: number;

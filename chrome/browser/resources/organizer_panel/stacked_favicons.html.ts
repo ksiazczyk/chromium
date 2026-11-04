@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stacked favicons HTML template
+// summary: Lit HTML template for the stacked-favicons element, rendering two overlapping favicon images from the element's URL properties.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {StackedFaviconsElement} from './stacked_favicons.js';

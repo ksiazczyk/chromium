@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the omnibox popup
+summary: Points to the shared omnibox component metadata mixins that apply to this directory.

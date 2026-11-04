@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for on_device_internals
+summary: Delegates code ownership for this directory to the services/on_device_model OWNERS file.

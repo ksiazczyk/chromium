@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the Omnibox ML debug page
+// summary: Forwards autocomplete and ML responses, the model version and cached ML score requests between the browser and the debug UI.
+// ---
+
 import type {AutocompleteControllerType, AutocompleteMatch, OmniboxInternalsPageHandlerRemote, OmniboxResponse, Signals} from '../omnibox_internals.mojom-webui.js';
 import {OmniboxInternalsPageCallbackRouter, OmniboxInternalsPageHandler} from '../omnibox_internals.mojom-webui.js';
 import {MlVersionObj} from '../omnibox_util.js';

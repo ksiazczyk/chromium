@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager toolbar element
+// summary: Toolbar element that keeps the search field in sync with the router, navigates to the passwords page on search and opens the help URL.
+// ---
+
 import './shared_style.css.js';
 import 'chrome://resources/cr_elements/cr_drawer/cr_drawer.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';

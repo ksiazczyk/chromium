@@ -1,0 +1,4 @@
+# Docerion header of icons.html.
+type: asset
+title: Organizer panel icon set
+summary: Defines the organizer-panel cr-iconset with inline SVG icon paths used by the WebUI.

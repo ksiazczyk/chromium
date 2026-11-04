@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Add password dialog logic
+// summary: Polymer element implementing the add password dialog, including metrics enums for credential additions and password note actions.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';

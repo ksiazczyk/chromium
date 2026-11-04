@@ -1,0 +1,4 @@
+# Docerion header of checkup_list_item.html.
+type: source
+title: Checkup list item template
+summary: HTML template for a single insecure credential row showing site, username, password and change-password buttons.

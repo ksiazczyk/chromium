@@ -1,0 +1,4 @@
+# Docerion header of checkup_section.html.
+type: source
+title: Password checkup section template
+summary: HTML template for the password checkup overview with status banner, spinner and result link rows for compromised, reused and weak passwords.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer zero state element
+// summary: Defines the organizer-zero-state Lit custom element that displays empty-state text in the organizer panel.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {getCss} from './organizer_zero_state.css.js';

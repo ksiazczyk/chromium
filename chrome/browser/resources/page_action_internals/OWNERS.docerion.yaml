@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Page action internals owners
+summary: Owners file that delegates review responsibility to the shared page action OWNERS list.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the On-Device Internals app shell
+// summary: Renders the app shell template with tabs and a page selector hosting the tools, event log and broker state sections.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OnDeviceInternalsAppElement} from './app.js';

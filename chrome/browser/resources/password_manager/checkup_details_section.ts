@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Checkup details section element
+// summary: Polymer element implementing the checkup details view, including credential lists, muting and change-password state handling.
+// ---
+
 import 'chrome://resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';
 import 'chrome://resources/cr_elements/cr_expand_button/cr_expand_button.js';

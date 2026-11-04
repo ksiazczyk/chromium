@@ -1,0 +1,4 @@
+# Docerion header of page_action_internals.html.
+type: source
+title: Page Action Internals WebUI page
+summary: HTML shell for the Page Action Internals WebUI that sets basic styling and loads the custom app element together with its module script.

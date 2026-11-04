@@ -1,0 +1,4 @@
+# Docerion header of delete_passkey_dialog.html.
+type: source
+title: Delete passkey dialog template
+summary: HTML template for the confirmation dialog shown before deleting a passkey, with cancel and delete buttons.

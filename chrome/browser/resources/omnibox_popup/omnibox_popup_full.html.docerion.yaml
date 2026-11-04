@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_full.html.
+type: source
+title: Full omnibox popup WebUI page
+summary: HTML entry page that loads theme styles and mounts the full omnibox popup app element.

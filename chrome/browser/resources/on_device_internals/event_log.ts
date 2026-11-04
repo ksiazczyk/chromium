@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event log WebUI element
+// summary: Lit element that displays on-device model event log messages, converts mojo times to JS dates, links to Chromium source locations, and dumps logs to a file.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

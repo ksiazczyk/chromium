@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ML table element
+// summary: Custom element that populates the ML scoring table with autocomplete matches and copies match details and scoring signals to the clipboard.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of on_device_translation_internals.html.
+type: source
+title: Host page for on device translation internals WebUI
+summary: HTML shell page that hosts the on-device-translation-internals-app element and loads the app module script.

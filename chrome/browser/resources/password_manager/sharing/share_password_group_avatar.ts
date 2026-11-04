@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group avatar element for shared password recipients
+// summary: Custom element that renders family member profile images in a group avatar and computes profile image URLs and overflow counts.
+// ---
+
 import 'chrome://resources/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/cr_elements/cr_auto_img/cr_auto_img.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the AIM eligibility extension WebUI build
+summary: Defines GN targets that rewrite Mojo imports, generate the manifest resource bundle, build the WebUI, and unpack the extension.

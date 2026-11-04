@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxElement base class for custom elements
+// summary: Abstract HTMLElement subclass that loads shadow DOM templates and offers element query helpers for omnibox-internals components.
+// ---
+
 /**
  * Helper class to be used as the super class of all custom elements in
  * chrome://omnibox-internals.

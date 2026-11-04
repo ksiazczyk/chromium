@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open tabs delegate for the organizer panel
+// summary: Supplies the open tabs section of the organizer panel, modeling single and split tabs, tracking tab change updates, and switching to tabs on click.
+// ---
+
 import '../icons.html.js';
 import '/tab_group_shared/tab_group_dot.js';
 

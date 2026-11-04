@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete passkey dialog logic
+// summary: Polymer element implementing the delete passkey confirmation dialog, removing the credential via the password manager proxy and dispatching a passkey-removed event.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import '../shared_style.css.js';

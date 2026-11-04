@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App element for on device translation internals WebUI
+// summary: Implements the Lit app element that tracks language pack statuses via the Mojo callback router and triggers package installation or uninstallation.
+// ---
+
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 

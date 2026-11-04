@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the organizer panel WebUI
+summary: Defines the build_webui target listing TypeScript, CSS, and icon files plus Mojo bindings and optimization settings for the organizer panel.

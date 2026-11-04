@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the organizer panel
+summary: References the OWNERS file that lists code owners for the organizer panel WebUI directory.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.webmanifest.
+type: config
+title: Password Manager web app manifest
+summary: Web app manifest for the Password Manager WebUI defining its localized name, icon, standalone display mode, start path, identifier, and scope.

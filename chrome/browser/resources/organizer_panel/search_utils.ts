@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search utilities for multi-part fields
+// summary: Provides search over records with multi-part string fields, slicing match ranges per part and rendering highlighted text with bold wrappers.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 import type {TemplateResult} from '//resources/lit/v3_0/lit.rollup.js';
 import type {Range, SearchOptions as SharedSearchOptions} from '/tab_group_shared/search.js';

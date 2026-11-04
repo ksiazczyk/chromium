@@ -1,0 +1,4 @@
+# Docerion header of ml_ui.html.
+type: source
+title: ML UI template
+summary: HTML template for the ML scoring page, combining the calculator, chart and table with a warning when ML URL scoring is disabled.

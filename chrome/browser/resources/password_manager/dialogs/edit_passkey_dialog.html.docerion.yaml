@@ -1,0 +1,4 @@
+# Docerion header of edit_passkey_dialog.html.
+type: source
+title: Edit passkey dialog template
+summary: HTML template for the dialog that edits a passkey's username and display name, listing its affiliated sites.

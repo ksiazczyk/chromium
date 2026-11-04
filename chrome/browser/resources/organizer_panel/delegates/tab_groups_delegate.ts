@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab groups delegate for the organizer panel
+// summary: Supplies the tab groups section of the organizer panel, listing groups, reacting to group changes, offering group creation, and showing context menus.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '/tab_group_shared/tab_group_dot.js';
 import '../organizer_list_section_item.js';
