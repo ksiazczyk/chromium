@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk preview view class declaration
+// summary: Declares DeskPreviewView, the button view showing mirrored desk contents in a mini view, with its layer hierarchy, shadows, and highlight overlay support.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_PREVIEW_VIEW_H_
 #define ASH_WM_DESKS_DESK_PREVIEW_VIEW_H_
 

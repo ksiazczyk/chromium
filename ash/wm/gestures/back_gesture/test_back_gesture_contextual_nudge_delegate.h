@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test back gesture contextual nudge delegate header
+// summary: Declares the test delegate used to simulate navigation tracking for the back gesture contextual nudge controller.
+// ---
+
 #ifndef ASH_WM_GESTURES_BACK_GESTURE_TEST_BACK_GESTURE_CONTEXTUAL_NUDGE_DELEGATE_H_
 #define ASH_WM_GESTURES_BACK_GESTURE_TEST_BACK_GESTURE_CONTEXTUAL_NUDGE_DELEGATE_H_
 

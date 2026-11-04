@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coral chip button class declaration
+// summary: Declares CoralChipButton, a BirchChipButton subclass for coral items that manages title loading animation, border animation, and the tab app selection widget.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_CORAL_CHIP_BUTTON_H_
 #define ASH_WM_OVERVIEW_BIRCH_CORAL_CHIP_BUTTON_H_
 

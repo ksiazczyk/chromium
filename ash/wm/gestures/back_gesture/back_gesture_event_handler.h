@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back gesture event handler
+// summary: Declares the Ash event handler that recognizes left-edge swipe back gestures in tablet mode and drives the affordance and contextual nudge.
+// ---
+
 #ifndef ASH_WM_GESTURES_BACK_GESTURE_BACK_GESTURE_EVENT_HANDLER_H_
 #define ASH_WM_GESTURES_BACK_GESTURE_BACK_GESTURE_EVENT_HANDLER_H_
 

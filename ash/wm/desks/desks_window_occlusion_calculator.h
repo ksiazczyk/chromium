@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesksWindowOcclusionCalculator class declaration
+// summary: Declares DesksWindowOcclusionCalculator, which computes cached window occlusion states for desk mini views via synchronous occlusion snapshots.
+// ---
+
 #ifndef ASH_WM_DESKS_DESKS_WINDOW_OCCLUSION_CALCULATOR_H_
 #define ASH_WM_DESKS_DESKS_WINDOW_OCCLUSION_CALCULATOR_H_
 

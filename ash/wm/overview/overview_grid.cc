@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview grid implementation
+// summary: Implements the per-root-window overview grid that positions window items and hosts desks bar, split view indicators, birch bar, and saved desk UI elements.
+// ---
+
 #include "ash/wm/overview/overview_grid.h"
 
 #include <algorithm>

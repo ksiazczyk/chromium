@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk library view implementation
+// summary: Implements the saved desk library widget content that lays out grids of saved desks, shows empty-state labels, and animates Save & Recall desk launches.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_library_view.h"
 
 #include "ash/controls/rounded_scroll_bar.h"

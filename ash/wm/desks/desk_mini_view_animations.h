@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk mini view animations declarations
+// summary: Declares animation helper functions for desk mini views and the desk bar, covering desk addition, removal, reordering, and zero-state to expanded-state transitions.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_MINI_VIEW_ANIMATIONS_H_
 #define ASH_WM_DESKS_DESK_MINI_VIEW_ANIMATIONS_H_
 

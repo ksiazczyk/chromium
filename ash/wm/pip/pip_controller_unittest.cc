@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PipController unit tests
+// summary: Unit tests verifying PipController behavior such as target window assignment, bounds updates, tuck and untuck handling, and PiP resizing.
+// ---
+
 #include "ash/wm/pip/pip_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch animation utilities header
+// summary: Declares functions to fetch Lottie animation data by resource ID and compute playback configs for looping Birch animations.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_BIRCH_ANIMATION_UTILS_H_
 #define ASH_WM_OVERVIEW_BIRCH_BIRCH_ANIMATION_UTILS_H_
 

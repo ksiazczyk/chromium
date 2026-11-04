@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desk switch animator test API implementation
+// summary: Implements helpers that expose RootWindowDeskSwitchAnimator internals such as animation and screenshot layers, desk index, and screenshot callbacks for tests.
+// ---
+
 #include "ash/wm/desks/root_window_desk_switch_animator_test_api.h"
 
 #include "ash/wm/desks/root_window_desk_switch_animator.h"

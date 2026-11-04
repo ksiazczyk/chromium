@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipPositioner class declaration
+// summary: Declares PipPositioner, a set of static helpers that compute resting, dragging, dismissal, and snap-fraction bounds for picture-in-picture windows.
+// ---
+
 #ifndef ASH_WM_PIP_PIP_POSITIONER_H_
 #define ASH_WM_PIP_PIP_POSITIONER_H_
 

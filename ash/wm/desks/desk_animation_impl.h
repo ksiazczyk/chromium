@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk activation and removal animation declarations
+// summary: Declares the DeskActivationAnimation and DeskRemovalAnimation classes that animate desk activation switches and desk removals.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_ANIMATION_IMPL_H_
 #define ASH_WM_DESKS_DESK_ANIMATION_IMPL_H_
 

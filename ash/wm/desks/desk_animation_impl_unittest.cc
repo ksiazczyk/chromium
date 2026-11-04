@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desk animation unit tests
+// summary: Unit tests for desk activation animations covering swipe edge cases, external displays, and visible desk change counting, including regression tests for known crashes.
+// ---
+
 #include "ash/wm/desks/desk_animation_impl.h"
 
 #include "ash/shell.h"

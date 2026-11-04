@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk icon view implementation
+// summary: Implements SavedDeskIconView, which renders individual app icons or favicons for saved desks with count labels, default icons, and overflow handling.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_icon_view.h"
 
 #include <cstddef>

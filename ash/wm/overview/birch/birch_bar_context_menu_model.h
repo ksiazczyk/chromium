@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch bar context menu model header
+// summary: Declares the Birch bar context menu model with command IDs and collapsed versus expanded menu types.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_BIRCH_BAR_CONTEXT_MENU_MODEL_H_
 #define ASH_WM_OVERVIEW_BIRCH_BIRCH_BAR_CONTEXT_MENU_MODEL_H_
 

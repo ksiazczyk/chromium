@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch privacy nudge controller declaration
+// summary: Declares BirchPrivacyNudgeController, which shows a nudge encouraging users to open the birch chip context menu to control suggestion data types.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_BIRCH_PRIVACY_NUDGE_CONTROLLER_H_
 #define ASH_WM_OVERVIEW_BIRCH_BIRCH_PRIVACY_NUDGE_CONTROLLER_H_
 

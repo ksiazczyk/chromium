@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OverviewGridTestApi class declaration
+// summary: Declares a test API giving tests access to OverviewGrid internals like bounds, scroll offset, birch bar views, and the save desk button container.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_GRID_TEST_API_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_GRID_TEST_API_H_
 

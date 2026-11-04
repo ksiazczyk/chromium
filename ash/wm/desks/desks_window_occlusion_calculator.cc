@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desks window occlusion calculator implementation
+// summary: Implements the calculator that snapshots and caches window occlusion states for desk containers using the aura window occlusion tracker.
+// ---
+
 #include "ash/wm/desks/desks_window_occlusion_calculator.h"
 
 #include <memory>

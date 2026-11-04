@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview UI task pool header
+// summary: Declares OverviewUiTaskPool, which schedules caller-provided UI thread tasks at times unlikely to disrupt an ongoing animation, with an optional initial blackout period.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_UI_TASK_POOL_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_UI_TASK_POOL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch bar view header
+// summary: Declares BirchBarView, a container holding up to four birch chips with responsive row layout, loading states, and relayout callbacks.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_BIRCH_BAR_VIEW_H_
 #define ASH_WM_OVERVIEW_BIRCH_BIRCH_BAR_VIEW_H_
 

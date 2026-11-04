@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk name view class declaration
+// summary: Declares DeskNameView, a label-styled textfield that allows modifying the name of its associated desk.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_NAME_VIEW_H_
 #define ASH_WM_DESKS_DESK_NAME_VIEW_H_
 

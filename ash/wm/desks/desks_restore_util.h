@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk restore preferences declarations
+// summary: Declares desks_restore_util functions to register profile prefs and update desk names, GUIDs, metrics, and active desk prefs, with a clock override for testing.
+// ---
+
 #ifndef ASH_WM_DESKS_DESKS_RESTORE_UTIL_H_
 #define ASH_WM_DESKS_DESKS_RESTORE_UTIL_H_
 

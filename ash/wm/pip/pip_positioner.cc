@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipPositioner implementation
+// summary: Implements PipPositioner, computing drag bounds, dismissal positions, resting positions, and snap fractions for picture-in-picture windows.
+// ---
+
 #include "ash/wm/pip/pip_positioner.h"
 
 #include <algorithm>

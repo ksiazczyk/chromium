@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab app selection view implementation
+// summary: Implements the scrollable selection view where users pick tabs and apps to move to a new desk, including item views, close buttons, and a user feedback view.
+// ---
+
 #include "ash/wm/overview/birch/tab_app_selection_view.h"
 
 #include "ash/birch/birch_coral_provider.h"

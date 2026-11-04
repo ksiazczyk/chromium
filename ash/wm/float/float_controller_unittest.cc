@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FloatController
+// summary: Extensive unit tests covering float toggling, tucking, magnetism, desks, education nudges, and float metrics histograms.
+// ---
+
 #include "ash/wm/float/float_controller.h"
 
 #include <algorithm>

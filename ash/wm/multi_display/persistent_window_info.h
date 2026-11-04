@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent window info class declaration
+// summary: Declares the data a window carries for persistent placement across multi-display and screen rotation scenarios.
+// ---
+
 #ifndef ASH_WM_MULTI_DISPLAY_PERSISTENT_WINDOW_INFO_H_
 #define ASH_WM_MULTI_DISPLAY_PERSISTENT_WINDOW_INFO_H_
 

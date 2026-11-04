@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview controller implementation
+// summary: Implements OverviewController, which starts and ends overview sessions, manages occlusion pausing, and chooses enter and exit animation types.
+// ---
+
 #include "ash/wm/overview/overview_controller.h"
 
 #include <algorithm>

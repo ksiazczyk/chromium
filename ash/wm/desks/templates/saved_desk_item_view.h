@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk item view class
+// summary: Declares the button view representing a single saved desk in the grid, with hover-revealed delete and launch actions and an editable name field.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_SAVED_DESK_ITEM_VIEW_H_
 #define ASH_WM_DESKS_TEMPLATES_SAVED_DESK_ITEM_VIEW_H_
 

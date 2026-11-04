@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved desk test helper implementation
+// summary: Implements SavedDeskTestHelper, which sets up a desk model, admin template service, app registry caches, and pref service for saved desk unit tests.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_test_helper.h"
 
 #include "ash/public/cpp/test/test_saved_desk_delegate.h"

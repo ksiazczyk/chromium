@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview grid event handler implementation
+// summary: Implements pre-target event handling for the overview grid, exiting overview on clicks or taps and scrolling or flinging the tablet overview layout.
+// ---
+
 #include "ash/wm/overview/overview_grid_event_handler.h"
 
 #include "ash/app_list/app_list_controller_impl.h"

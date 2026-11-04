@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the ash float directory
+summary: Defines the owning team email, Buganizer components, and Monorail component for the ash/wm/float directory.

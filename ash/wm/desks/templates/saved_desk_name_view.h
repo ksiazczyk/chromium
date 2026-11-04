@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk name view class
+// summary: Declares a label-styled textfield for editing saved desk names, including temporary name handling and preferred size updates.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_SAVED_DESK_NAME_VIEW_H_
 #define ASH_WM_DESKS_TEMPLATES_SAVED_DESK_NAME_VIEW_H_
 

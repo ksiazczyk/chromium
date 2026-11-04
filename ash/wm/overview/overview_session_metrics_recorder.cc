@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview session metrics recorder implementation
+// summary: Implements per-session recording of overview metrics, including start and end actions, presentation time, desk count, and desk bar visibility.
+// ---
+
 #include "ash/wm/overview/overview_session_metrics_recorder.h"
 
 #include "ash/shell.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk mini view animations implementation
+// summary: Implements animations for desk mini views and the desk bar, including add, remove, reorder, zero-state transitions, and library button shift animations.
+// ---
+
 #include "ash/wm/desks/desk_mini_view_animations.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of coral_border.json.
+type: asset
+title: Coral border Lottie animation
+summary: Lottie animation JSON describing the animated border shown by the coral loading UI, packaged as IDR_CORAL_BORDER_ANIMATION.

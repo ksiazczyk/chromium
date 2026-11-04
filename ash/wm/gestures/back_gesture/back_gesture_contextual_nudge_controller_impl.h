@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back gesture contextual nudge controller class declaration
+// summary: Declares the controller that observes sessions, display, window activation and shelf config to time the back gesture nudge.
+// ---
+
 #ifndef ASH_WM_GESTURES_BACK_GESTURE_BACK_GESTURE_CONTEXTUAL_NUDGE_CONTROLLER_IMPL_H_
 #define ASH_WM_GESTURES_BACK_GESTURE_BACK_GESTURE_CONTEXTUAL_NUDGE_CONTROLLER_IMPL_H_
 

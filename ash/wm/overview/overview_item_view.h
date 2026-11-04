@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewItemView class declaration
+// summary: Declares OverviewItemView, a WindowMiniView that covers the overview window, provides an overview-only header with close button and forwards events to its delegate.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_ITEM_VIEW_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_ITEM_VIEW_H_
 

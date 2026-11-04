@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent window info implementation
+// summary: Builds persistent window info capturing window bounds and display state for later restoration.
+// ---
+
 #include "ash/wm/multi_display/persistent_window_info.h"
 
 #include "ash/wm/window_state.h"

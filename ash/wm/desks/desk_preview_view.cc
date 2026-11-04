@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk preview view implementation
+// summary: Implements the view that mirrors and paints a desk's contents in its mini view, including wallpaper rendering, rounded corners, shadows, and highlight overlays.
+// ---
+
 #include "ash/wm/desks/desk_preview_view.h"
 
 #include <algorithm>

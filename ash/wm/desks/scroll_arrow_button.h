@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll arrow button class declaration
+// summary: Declares ScrollArrowButton, a button for the scrollable desks bar that scrolls on hover or press using a repeating timer and supports RTL layouts.
+// ---
+
 #ifndef ASH_WM_DESKS_SCROLL_ARROW_BUTTON_H_
 #define ASH_WM_DESKS_SCROLL_ARROW_BUTTON_H_
 

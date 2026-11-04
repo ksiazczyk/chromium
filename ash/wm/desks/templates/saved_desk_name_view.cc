@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk name view implementation
+// summary: Implements the large desk textfield used to display and edit a saved desk name, configuring its focus ring and gesture handling.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_name_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

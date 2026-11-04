@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PipPositioner unit tests
+// summary: Parameterized unit tests checking that PipPositioner clamps drags to the movement area and handles dismissal and work area changes across displays.
+// ---
+
 #include "ash/wm/pip/pip_positioner.h"
 
 #include <memory>

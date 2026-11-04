@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch privacy nudge controller unit tests
+// summary: Unit tests verifying the privacy nudge shows by default and is suppressed after the context menu opens, when shown recently, or after three showings.
+// ---
+
 #include "ash/wm/overview/birch/birch_privacy_nudge_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

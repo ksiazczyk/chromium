@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WmGestureHandler class declaration
+// summary: Declares WmGestureHandler, which processes touchpad scroll events to switch desks, enter or exit overview mode, and move the overview focus ring.
+// ---
+
 #ifndef ASH_WM_GESTURES_WM_GESTURE_HANDLER_H_
 #define ASH_WM_GESTURES_WM_GESTURE_HANDLER_H_
 

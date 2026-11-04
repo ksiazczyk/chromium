@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped overview hide windows
+// summary: Declares ScopedOverviewHideWindows, an aura::WindowObserver that hides windows in overview mode and restores their previous visibility on exit.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_SCOPED_OVERVIEW_HIDE_WINDOWS_H_
 #define ASH_WM_OVERVIEW_SCOPED_OVERVIEW_HIDE_WINDOWS_H_
 

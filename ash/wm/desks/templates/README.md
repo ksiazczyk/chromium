@@ -1,3 +1,9 @@
+---
+type: readme
+title: Saved Desks
+summary: Explains the Saved Desks features Desk Templates and Save and Recall, covering the user journey, desk storage model, library page, app launching, and differences between the two features.
+---
+
 # Saved Desks
 
 Saved Desks refers to any features which involve saving the active desk with all

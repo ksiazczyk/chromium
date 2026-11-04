@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipController class declaration
+// summary: Declares the PipController class that manages the picture-in-picture window, its tuck state, bounds updates, and size switching handler.
+// ---
+
 #ifndef ASH_WM_PIP_PIP_CONTROLLER_H_
 #define ASH_WM_PIP_PIP_CONTROLLER_H_
 

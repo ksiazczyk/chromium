@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back gesture contextual nudge controller unit tests
+// summary: Unit tests covering when the contextual nudge is shown, cancelled and logged across users, sessions and tablet mode transitions.
+// ---
+
 #include "ash/wm/gestures/back_gesture/back_gesture_contextual_nudge_controller_impl.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewGroupItem implementation
+// summary: Implements OverviewGroupItem, the composite overview item representing a two-window snap group in overview mode, managing its child items, stacking, opacity and drag behavior.
+// ---
+
 #include "ash/wm/overview/overview_group_item.h"
 
 #include <algorithm>

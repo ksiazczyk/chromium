@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview session implementation
+// summary: Implements the overview session that arranges windows into a grid for selection, handling desks, split view, saved desks, and drag interactions.
+// ---
+
 #include "ash/wm/overview/overview_session.h"
 
 #include <algorithm>

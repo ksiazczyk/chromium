@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restore data collector class declaration
+// summary: Declares RestoreDataCollector, which collects app launch data from the active desk and returns it as a DeskTemplate via a callback.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_RESTORE_DATA_COLLECTOR_H_
 #define ASH_WM_DESKS_TEMPLATES_RESTORE_DATA_COLLECTOR_H_
 

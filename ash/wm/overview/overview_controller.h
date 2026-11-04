@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview controller
+// summary: Declares OverviewController, which manages overview sessions that display all windows for selection, including occlusion pausing and observer APIs.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_CONTROLLER_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_CONTROLLER_H_
 

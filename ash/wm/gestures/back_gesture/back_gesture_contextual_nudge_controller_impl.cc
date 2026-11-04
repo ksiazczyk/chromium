@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back gesture contextual nudge controller implementation
+// summary: Decides when to show or hide the back gesture contextual nudge based on session state, tablet mode, shelf config and window navigation.
+// ---
+
 #include "ash/wm/gestures/back_gesture/back_gesture_contextual_nudge_controller_impl.h"
 
 #include "ash/controls/contextual_tooltip.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desks test utilities implementation
+// summary: Implements test helpers for activating, creating, and removing desks, waiting for desk switch animations, and simulating touchpad scroll gestures in Ash tests.
+// ---
+
 #include "ash/wm/desks/desks_test_util.h"
 
 #include "ash/shell.h"

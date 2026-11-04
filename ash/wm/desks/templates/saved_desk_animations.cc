@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk layer fade animations
+// summary: Implements linear fade in and fade out animations for saved desk UI layers, with an option to set opacity immediately without animating.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_animations.h"
 
 #include "base/functional/callback_helpers.h"

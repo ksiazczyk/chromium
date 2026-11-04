@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back gesture affordance implementation
+// summary: Implements the on-screen affordance view, ripple and arrow animations shown while the user drags from the edge to go back.
+// ---
+
 #include "ash/wm/gestures/back_gesture/back_gesture_affordance.h"
 
 #include <algorithm>

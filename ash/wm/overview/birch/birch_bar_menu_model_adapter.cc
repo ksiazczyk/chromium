@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch bar menu model adapter implementation
+// summary: Implements the birch bar menu model adapter that appends context menu items with custom widgets such as switch buttons and checkboxes.
+// ---
+
 #include "ash/wm/overview/birch/birch_bar_menu_model_adapter.h"
 
 #include <utility>

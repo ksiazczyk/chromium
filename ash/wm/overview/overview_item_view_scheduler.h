@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview item view initialization scheduler declaration
+// summary: Declares ScheduleOverviewItemViewInitialization, which defers overview item view initialization for performance until the item widget becomes visible or a free UI period occurs.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_ITEM_VIEW_SCHEDULER_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_ITEM_VIEW_SCHEDULER_H_
 

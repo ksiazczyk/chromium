@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped float container stacker
+// summary: Declares a helper that keeps dragged overview items visible by temporarily restacking the float container during window drags.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_SCOPED_FLOAT_CONTAINER_STACKER_H_
 #define ASH_WM_OVERVIEW_SCOPED_FLOAT_CONTAINER_STACKER_H_
 

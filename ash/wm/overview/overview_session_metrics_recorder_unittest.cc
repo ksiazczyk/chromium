@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview session metrics recorder unit tests
+// summary: Unit tests verifying that overview session metrics such as start and end actions, desk count, desk bar visibility, and presentation time are recorded.
+// ---
+
 #include "ash/wm/overview/overview_session_metrics_recorder.h"
 
 #include "ash/public/cpp/overview_test_api.h"

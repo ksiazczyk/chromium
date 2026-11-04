@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewItemBase interface declaration
+// summary: Declares the OverviewItemBase interface implemented by OverviewItem, OverviewGroupItem and OverviewDropTarget, which OverviewGrid creates and owns for overview mode items.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_ITEM_BASE_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_ITEM_BASE_H_
 

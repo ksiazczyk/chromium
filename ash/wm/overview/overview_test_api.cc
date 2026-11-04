@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview test API implementation
+// summary: Implements OverviewTestApi, which starts and ends overview mode for tests, waits for enter or exit animations to complete, and reports overview item information.
+// ---
+
 #include "ash/public/cpp/overview_test_api.h"
 
 #include "ash/shell.h"

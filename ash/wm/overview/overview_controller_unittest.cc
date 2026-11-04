@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview controller unit tests
+// summary: Unit tests for OverviewController covering overview enter and exit, animation states, observers, and metrics recording.
+// ---
+
 #include "ash/wm/overview/overview_controller.h"
 
 #include <array>

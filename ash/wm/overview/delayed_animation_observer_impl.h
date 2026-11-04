@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delayed animation observer class declarations
+// summary: Declares ForceDelayObserver and the enter and exit animation observers used to delay overview tasks until animations complete.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_DELAYED_ANIMATION_OBSERVER_IMPL_H_
 #define ASH_WM_OVERVIEW_DELAYED_ANIMATION_OBSERVER_IMPL_H_
 

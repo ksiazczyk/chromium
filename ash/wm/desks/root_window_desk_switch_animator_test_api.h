@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desk switch animator test API declaration
+// summary: Declares a test API class giving tests access to RootWindowDeskSwitchAnimator internals, including animation layers, screenshot layers, and animator type.
+// ---
+
 #ifndef ASH_WM_DESKS_ROOT_WINDOW_DESK_SWITCH_ANIMATOR_TEST_API_H_
 #define ASH_WM_DESKS_ROOT_WINDOW_DESK_SWITCH_ANIMATOR_TEST_API_H_
 

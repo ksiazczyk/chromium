@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview grid test API implementation
+// summary: Implements test helpers that expose OverviewGrid internals such as birch chips and the save desk button container for use in tests.
+// ---
+
 #include "ash/wm/overview/overview_grid_test_api.h"
 
 #include "ash/wm/desks/templates/saved_desk_save_desk_button.h"

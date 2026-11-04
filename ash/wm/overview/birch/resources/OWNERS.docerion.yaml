@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for coral resources
+summary: Points to the shared ash/resources OWNERS file for reviewer ownership of this directory.

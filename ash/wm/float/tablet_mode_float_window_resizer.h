@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode float window resizer declaration
+// summary: Declares a WindowResizer subclass that handles drag, fling, and swipe gestures for floated windows in tablet mode.
+// ---
+
 #ifndef ASH_WM_FLOAT_TABLET_MODE_FLOAT_WINDOW_RESIZER_H_
 #define ASH_WM_FLOAT_TABLET_MODE_FLOAT_WINDOW_RESIZER_H_
 

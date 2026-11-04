@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch chip context menu model implementation
+// summary: Builds the right-click menu for birch chips, adding hide-suggestion, coral desk, customize and feedback commands depending on the chip's suggestion type.
+// ---
+
 #include "ash/wm/overview/birch/birch_chip_context_menu_model.h"
 
 #include <utility>

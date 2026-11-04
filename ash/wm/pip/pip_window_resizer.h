@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-Picture window resizer class declaration
+// summary: Declares PipWindowResizer, which controls resizing of picture-in-picture windows, including snapping to work area edges and swipe-to-dismiss.
+// ---
+
 #ifndef ASH_WM_PIP_PIP_WINDOW_RESIZER_H_
 #define ASH_WM_PIP_PIP_WINDOW_RESIZER_H_
 

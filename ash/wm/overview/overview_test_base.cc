@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview test base fixture implementation
+// summary: Implements the OverviewTestBase fixture with helpers to enter and leave tablet mode, click windows, inspect overview items, and check overview histograms in tests.
+// ---
+
 #include "ash/wm/overview/overview_test_base.h"
 
 #include <algorithm>

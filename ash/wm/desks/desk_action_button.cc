@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk action button implementation
+// summary: Implements action buttons on desk mini views for the context menu, closing a desk, and combining desks, with visibility rules per type.
+// ---
+
 #include "ash/wm/desks/desk_action_button.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

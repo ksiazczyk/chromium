@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch chip button class declaration
+// summary: Declares BirchChipButton, a compact Ash view showing a birch suggestion item's icon, title, subtitle and optional addon view, with context menu command handling.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_BIRCH_CHIP_BUTTON_H_
 #define ASH_WM_OVERVIEW_BIRCH_BIRCH_CHIP_BUTTON_H_
 

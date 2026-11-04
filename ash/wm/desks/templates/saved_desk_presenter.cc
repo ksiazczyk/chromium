@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk presenter implementation
+// summary: Implements the controller that saves, shows, and launches saved desks from the overview library, including toasts, desk removal, and duplicate name handling.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_presenter.h"
 
 #include <algorithm>

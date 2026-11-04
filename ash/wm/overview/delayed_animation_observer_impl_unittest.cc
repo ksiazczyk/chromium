@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delayed animation observer unit tests
+// summary: Tests ForceDelayObserver timing and enter and exit animation observer completion using mock time and a test overview delegate.
+// ---
+
 #include "ash/wm/overview/delayed_animation_observer_impl.h"
 
 #include <memory>

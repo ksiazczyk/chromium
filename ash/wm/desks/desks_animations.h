@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk animation function declarations
+// summary: Declares PerformHitTheWallAnimation and PerformWindowMoveToDeskAnimation, which provide visual feedback when switching desks or moving windows between desks.
+// ---
+
 #ifndef ASH_WM_DESKS_DESKS_ANIMATIONS_H_
 #define ASH_WM_DESKS_DESKS_ANIMATIONS_H_
 

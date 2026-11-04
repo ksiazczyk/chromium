@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk grid view implementation
+// summary: Implements the grid view that displays up to six saved desk items with alphabetical sorting, add and delete animations, and landscape or portrait layout modes.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_grid_view.h"
 
 #include <algorithm>

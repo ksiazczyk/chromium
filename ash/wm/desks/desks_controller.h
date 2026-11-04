@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesksController class declaration
+// summary: Declares DesksController and its observer interface for managing virtual desks and their windows, including the DeskCloseType enum used when removing desks.
+// ---
+
 #ifndef ASH_WM_DESKS_DESKS_CONTROLLER_H_
 #define ASH_WM_DESKS_DESKS_CONTROLLER_H_
 

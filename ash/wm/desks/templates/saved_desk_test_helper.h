@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved desk test helper class declaration
+// summary: Declares SavedDeskTestHelper, a SessionObserver that creates a desk model and provides utilities used by saved desk unit tests.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_SAVED_DESK_TEST_HELPER_H_
 #define ASH_WM_DESKS_TEMPLATES_SAVED_DESK_TEST_HELPER_H_
 

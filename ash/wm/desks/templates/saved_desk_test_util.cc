@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved desk test utilities implementation
+// summary: Implements test APIs for the saved desk presenter, library view, grid view, and item view, including waiters for animations, dialogs, and model readiness.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_test_util.h"
 
 #include "ash/shell.h"

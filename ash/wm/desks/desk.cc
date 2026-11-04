@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual desk implementation
+// summary: Implements the Desk class that tracks windows per desk, manages desk containers, moves windows between desks, and records usage metrics.
+// ---
+
 #include "ash/wm/desks/desk.h"
 
 #include <absl/cleanup/cleanup.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back gesture contextual nudge implementation
+// summary: Implements the sliding nudge UI with circle and label that teaches users the in-app-to-home back gesture in tablet mode.
+// ---
+
 #include "ash/wm/gestures/back_gesture/back_gesture_contextual_nudge.h"
 
 #include "ash/controls/contextual_tooltip.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk bar view base class declaration
+// summary: Declares DeskBarViewBase, the common base for overview and desk button desk bars, with state, buttons, mini views and widget creation helpers.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_BAR_VIEW_BASE_H_
 #define ASH_WM_DESKS_DESK_BAR_VIEW_BASE_H_
 

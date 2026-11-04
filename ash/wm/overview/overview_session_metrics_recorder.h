@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview session metrics recorder class
+// summary: Declares OverviewSessionMetricsRecorder, an OverviewObserver that records metrics and trace events for a single overview mode session.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_SESSION_METRICS_RECORDER_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_SESSION_METRICS_RECORDER_H_
 

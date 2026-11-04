@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cleanup animation observer class declaration
+// summary: Declares CleanupAnimationObserver, which holds a widget until its exit animation finishes and handles root window shutdown.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_CLEANUP_ANIMATION_OBSERVER_H_
 #define ASH_WM_OVERVIEW_CLEANUP_ANIMATION_OBSERVER_H_
 

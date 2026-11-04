@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-display metrics controller implementation
+// summary: Implements tracking of window moves and resizes after display rotation or work area changes to record usage histograms.
+// ---
+
 #include "ash/wm/multi_display/multi_display_metrics_controller.h"
 
 #include "ash/shell.h"

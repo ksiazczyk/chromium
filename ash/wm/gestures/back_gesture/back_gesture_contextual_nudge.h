@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back gesture contextual nudge class declaration
+// summary: Declares the BackGestureContextualNudge class that shows, cancels or fades out the back gesture nudge animation and reports whether it counted as shown.
+// ---
+
 #ifndef ASH_WM_GESTURES_BACK_GESTURE_BACK_GESTURE_CONTEXTUAL_NUDGE_H_
 #define ASH_WM_GESTURES_BACK_GESTURE_BACK_GESTURE_CONTEXTUAL_NUDGE_H_
 

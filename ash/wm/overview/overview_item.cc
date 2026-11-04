@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewItem implementation
+// summary: Implements OverviewItem, which represents a single window in overview mode, handling its item widget UI, animations, dragging, closing, shadows and window observation.
+// ---
+
 #include "ash/wm/overview/overview_item.h"
 
 #include <utility>

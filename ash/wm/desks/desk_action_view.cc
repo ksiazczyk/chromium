@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskActionView implementation
+// summary: Implements the view hosting context menu and close desk action buttons for a desk mini view, with a blurred rounded background and focus change handling.
+// ---
+
 #include "ash/wm/desks/desk_action_view.h"
 
 #include "ash/constants/ash_features.h"

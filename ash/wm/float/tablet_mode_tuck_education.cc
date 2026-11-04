@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode tuck education nudge implementation
+// summary: Shows a timed educational nudge and bounce animation teaching users how to tuck floated windows, tracked by profile prefs.
+// ---
+
 #include "ash/wm/float/tablet_mode_tuck_education.h"
 
 #include "ash/session/session_controller_impl.h"

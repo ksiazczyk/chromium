@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview window drag controller unit tests
+// summary: Unit tests for the overview window drag controller covering snap, desk drop, and drag-to-close flows in clamshell and tablet modes.
+// ---
+
 #include "ash/wm/overview/overview_window_drag_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back gesture event handler implementation
+// summary: Handles edge swipe events to start, update and complete the back gesture, including swipes from the split view divider and exclusion zones.
+// ---
+
 #include "ash/wm/gestures/back_gesture/back_gesture_event_handler.h"
 
 #include <string_view>

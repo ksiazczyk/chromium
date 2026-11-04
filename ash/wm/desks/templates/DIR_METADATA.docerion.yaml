@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Saved Desks directory metadata
+summary: Specifies the owning team email and Buganizer components for the saved desks templates directory.

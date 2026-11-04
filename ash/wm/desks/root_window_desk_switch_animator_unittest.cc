@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Root window desk switch animator unit tests
+// summary: Unit tests verifying animation layer sizes, screenshot handling, and visible bounds of desk switch animations using the animator test API.
+// ---
+
 #include "ash/wm/desks/root_window_desk_switch_animator.h"
 
 #include <memory>

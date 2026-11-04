@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk name view implementation
+// summary: Implements the centered textfield used to display and edit a desk's name, scrolling its mini view into view when focused.
+// ---
+
 #include "ash/wm/desks/desk_name_view.h"
 
 #include <memory>

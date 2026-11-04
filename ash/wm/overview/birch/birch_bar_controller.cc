@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch bar controller implementation
+// summary: Implements the Birch bar controller that tracks suggestion preferences, fetches model data, and manages bar views in overview.
+// ---
+
 #include "ash/wm/overview/birch/birch_bar_controller.h"
 
 #include <utility>

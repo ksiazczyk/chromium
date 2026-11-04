@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskButton implementation
+// summary: Implements the shelf desk button that shows the active desk name, opens the desk bar on click, and handles layout, context menus, and accessibility.
+// ---
+
 #include "ash/wm/desks/desk_button/desk_button.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual desk class declaration
+// summary: Declares the Desk class representing a virtual desk, including its types, observers, and content update notification handling.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_H_
 #define ASH_WM_DESKS_DESK_H_
 

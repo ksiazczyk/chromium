@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: saved_desk_util.h
+// summary: Declares utility functions for saved desks, covering desks templates enablement, save desk option visibility, app ID lookup, and template window activation ordering.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_SAVED_DESK_UTIL_H_
 #define ASH_WM_DESKS_TEMPLATES_SAVED_DESK_UTIL_H_
 

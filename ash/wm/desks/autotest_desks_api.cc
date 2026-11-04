@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autotest desks API implementation
+// summary: Implements the autotest API for creating, activating, and removing virtual desks, using animation observers to chain and complete desk switches.
+// ---
+
 #include "ash/public/cpp/autotest_desks_api.h"
 
 #include "ash/shell.h"

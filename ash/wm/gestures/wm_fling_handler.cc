@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WmFlingHandler implementation
+// summary: Implements the window manager fling handler that steps a FlingCurve on compositor animation ticks to drive fling scrolling with decayed velocity.
+// ---
+
 #include "ash/wm/gestures/wm_fling_handler.h"
 
 #include "ui/aura/window.h"

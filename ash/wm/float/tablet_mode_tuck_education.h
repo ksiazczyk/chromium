@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabletModeTuckEducation class header
+// summary: Declares the TabletModeTuckEducation class, which shows a nudge and bounce animation educating users about the tuck gesture for floated windows in tablet mode, with preference-based limits.
+// ---
+
 #ifndef ASH_WM_FLOAT_TABLET_MODE_TUCK_EDUCATION_H_
 #define ASH_WM_FLOAT_TABLET_MODE_TUCK_EDUCATION_H_
 

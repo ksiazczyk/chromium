@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cleanup animation observer unit tests
+// summary: Tests creation, animation completion, and shutdown behavior of CleanupAnimationObserver using a test overview delegate and widgets.
+// ---
+
 #include "ash/wm/overview/cleanup_animation_observer.h"
 
 #include <utility>

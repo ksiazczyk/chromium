@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch chip button base implementation
+// summary: Implements shared styling for birch chip buttons, including rounded corners, background colors, highlight borders and focus ring setup.
+// ---
+
 #include "ash/wm/overview/birch/birch_chip_button_base.h"
 
 #include "ash/style/style_util.h"

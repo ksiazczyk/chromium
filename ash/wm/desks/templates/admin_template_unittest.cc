@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Admin template launch tracker unit tests
+// summary: Unit tests for the admin template launch tracker, covering window update merging and window bounds placement using a mock saved desk delegate.
+// ---
+
 #include <string_view>
 
 #include "ash/public/cpp/desk_template.h"

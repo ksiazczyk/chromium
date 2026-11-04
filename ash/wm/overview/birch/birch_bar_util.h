@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch bar utility header
+// summary: Declares birch bar helper functions for creating chip addon buttons, weather temperature views, and converting command IDs to suggestion types.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_BIRCH_BAR_UTIL_H_
 #define ASH_WM_OVERVIEW_BIRCH_BIRCH_BAR_UTIL_H_
 

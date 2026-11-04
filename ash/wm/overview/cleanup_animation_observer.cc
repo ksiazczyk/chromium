@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cleanup animation observer implementation
+// summary: Implements an observer that keeps a widget alive until its animation completes, then deletes it or lets the overview delegate destroy it.
+// ---
+
 #include "ash/wm/overview/cleanup_animation_observer.h"
 
 #include <utility>

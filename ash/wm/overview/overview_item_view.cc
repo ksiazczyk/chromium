@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewItemView implementation
+// summary: Implements OverviewItemView, the view covering an overview window that provides the header, close button, preview mirror, accessibility names and event handling.
+// ---
+
 #include "ash/wm/overview/overview_item_view.h"
 
 #include <algorithm>

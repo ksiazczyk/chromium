@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab app selection host implementation
+// summary: Implements the widget that hosts the tab app selection view, handling slide in and out, dismissal on outside clicks, key events, and accessibility overrides.
+// ---
+
 #include "ash/wm/overview/birch/tab_app_selection_host.h"
 
 #include "ash/accessibility/scoped_a11y_override_window_setter.h"

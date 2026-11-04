@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk bar view class declaration
+// summary: Declares DeskBarView, the desk bar containing desk thumbnails, new desk and library buttons triggered by the desk button on the shelf.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_BAR_VIEW_H_
 #define ASH_WM_DESKS_DESK_BAR_VIEW_H_
 

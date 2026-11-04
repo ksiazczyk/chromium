@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview UI task pool implementation
+// summary: Implements a task pool that runs low-priority UI thread tasks during idle gaps between compositor frames so ongoing overview animations stay smooth.
+// ---
+
 #include "ash/wm/overview/overview_ui_task_pool.h"
 
 #include "base/functional/bind.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Picture-in-Picture directory owners
+summary: Lists takise@chromium.org as the code owner for the picture-in-picture window manager directory.

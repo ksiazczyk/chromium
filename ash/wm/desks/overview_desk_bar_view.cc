@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview desk bar view implementation
+// summary: Implements the desk bar shown at the top of overview mode, sizing it to the full available width and providing available bounds for desk mini views and buttons.
+// ---
+
 #include "ash/wm/desks/overview_desk_bar_view.h"
 
 #include "ash/ash_element_identifiers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskActionContextMenu implementation
+// summary: Implements the context menu for a desk mini view, offering save as template, save for later, combine desks, and close all options with icons, tooltips, and metrics.
+// ---
+
 #include "ash/wm/desks/desk_action_context_menu.h"
 
 #include <string>

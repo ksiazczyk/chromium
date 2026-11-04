@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll arrow button implementation
+// summary: Implements the arrow buttons that scroll the desks bar, painting the vector icon and triggering repeated scrolling while hovered or pressed.
+// ---
+
 #include "ash/wm/desks/scroll_arrow_button.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

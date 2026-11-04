@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview mode animation and transition enums
+// summary: Defines enums for overview animation types, transition states, and the various ways overview mode can be entered or exited.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_TYPES_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_TYPES_H_
 

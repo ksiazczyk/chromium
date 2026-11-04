@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped float container stacker implementation
+// summary: Implements restacking of the float container below desk containers while overview items are dragged and restoring it afterwards.
+// ---
+
 #include "ash/wm/overview/scoped_float_container_stacker.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

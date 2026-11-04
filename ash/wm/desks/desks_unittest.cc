@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desks unit tests
+// summary: Large unit test suite covering desk creation, activation, removal, naming, desk bar and mini view UI, and related overview behavior in the Ash desks feature.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <memory>

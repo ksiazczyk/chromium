@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview event handler delegate interface
+// summary: Defines an interface for handling mouse and gesture events forwarded from overview item views in the Ash window overview.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_EVENT_HANDLER_DELEGATE_H_
 #define ASH_WM_OVERVIEW_EVENT_HANDLER_DELEGATE_H_
 

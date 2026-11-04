@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskAnimationBase implementation
+// summary: Implements shared launch, screenshot, and overview gating logic for desk switch animations, including throughput tracking and occlusion tracker pausing.
+// ---
+
 #include "ash/wm/desks/desk_animation_base.h"
 
 #include "ash/constants/ash_features.h"

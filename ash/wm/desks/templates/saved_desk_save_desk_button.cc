@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save desk button implementation
+// summary: Implements SavedDeskSaveDeskButton, a pill button used to save desks as templates or for later, with focus ring, border, and background blur styling.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_save_desk_button.h"
 
 #include "ash/public/cpp/desk_template.h"

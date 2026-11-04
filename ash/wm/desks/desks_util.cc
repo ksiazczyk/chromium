@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desks utility functions implementation
+// summary: Implements desks_util helpers that map desk container windows and IDs, enforce the maximum desk count, and determine window desk membership in Ash.
+// ---
+
 #include "ash/wm/desks/desks_util.h"
 
 #include <array>

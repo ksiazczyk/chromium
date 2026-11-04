@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save desk button container implementation
+// summary: Implements the horizontal container holding the save-desk-as-template and save-desk-for-later buttons, updating their enabled state and tooltips and reacting to accessibility changes.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_save_desk_button_container.h"
 
 #include <array>

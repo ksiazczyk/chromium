@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk metrics recording
+// summary: Implements histogram recording for saved desk actions such as delete, launch, new, and replace, selecting names by desk template type.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_metrics_util.h"
 
 #include <tuple>

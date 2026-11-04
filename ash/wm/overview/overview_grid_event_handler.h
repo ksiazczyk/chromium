@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewGridEventHandler class declaration
+// summary: Declares a pre-target event handler that exits overview on mouse or touch release and supports scrolling and flinging through the tablet overview grid.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_GRID_EVENT_HANDLER_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_GRID_EVENT_HANDLER_H_
 

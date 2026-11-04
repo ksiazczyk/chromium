@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk drag proxy class declaration
+// summary: Declares DeskDragProxy, a helper widget showing the preview of a dragged desk with states for drag start, movement and snap back.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_DRAG_PROXY_H_
 #define ASH_WM_DESKS_DESK_DRAG_PROXY_H_
 

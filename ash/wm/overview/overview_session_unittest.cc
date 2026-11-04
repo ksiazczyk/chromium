@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview session unit tests
+// summary: Extensive unit tests for the overview session covering window selection, desks, split view, drag behavior, and related overview functionality.
+// ---
+
 #include "ash/wm/overview/overview_session.h"
 
 #include <algorithm>

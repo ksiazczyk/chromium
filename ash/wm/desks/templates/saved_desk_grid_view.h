@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk grid view
+// summary: Declares SavedDeskGridView, a view showing a grid of saved desk items with entry sorting, updates, deletion, and animated layout support.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_SAVED_DESK_GRID_VIEW_H_
 #define ASH_WM_DESKS_TEMPLATES_SAVED_DESK_GRID_VIEW_H_
 

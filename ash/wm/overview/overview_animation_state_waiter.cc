@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview animation state waiter implementation
+// summary: Implements a self-deleting observer that runs a callback when the overview enter or exit animation completes, used by testing APIs.
+// ---
+
 #include "ash/wm/overview/overview_animation_state_waiter.h"
 
 #include "ash/shell.h"

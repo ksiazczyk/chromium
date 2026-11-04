@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Picture-in-Picture window unit tests
+// summary: Unit tests for picture-in-picture window behavior in Ash, covering activation rules and keyboard navigation between PIP and other windows.
+// ---
+
 #include "ash/wm/pip/pip_window_resizer.h"
 
 #include <string>

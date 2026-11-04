@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview test base fixture header
+// summary: Declares OverviewTestBase, the base test fixture for overview mode tests, with helpers for tablet mode, unsnappable window creation, item inspection, and histogram checks.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_TEST_BASE_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_TEST_BASE_H_
 

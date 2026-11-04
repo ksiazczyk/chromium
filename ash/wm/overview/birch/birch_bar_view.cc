@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch bar view implementation
+// summary: Implements the birch bar container view that arranges up to four chips responsively and drives chip loading, fading, and sliding animations.
+// ---
+
 #include "ash/wm/overview/birch/birch_bar_view.h"
 
 #include <array>
