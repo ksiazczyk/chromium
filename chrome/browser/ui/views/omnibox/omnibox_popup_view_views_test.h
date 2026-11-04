@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox popup views test fixture header
+// summary: Declares OmniboxPopupViewViewsTest, the base browser-test fixture providing helpers to access omnibox views, popup widgets, and theme settings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_POPUP_VIEW_VIEWS_TEST_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_POPUP_VIEW_VIEWS_TEST_H_
 

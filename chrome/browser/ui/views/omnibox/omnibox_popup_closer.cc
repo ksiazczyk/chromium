@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup closer implementation
+// summary: Implements OmniboxPopupCloser, which closes the omnibox popup on events such as outside mouse clicks, logging close reasons and respecting permission prompt blockers.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_popup_closer.h"
 
 #include "base/logging.h"

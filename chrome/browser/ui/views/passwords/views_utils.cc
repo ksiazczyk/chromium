@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password views shared utility implementations
+// summary: Implements shared helpers for Chrome's password UI, including circular avatar images, Google Password Manager footer labels, and username/password credential rows.
+// ---
+
 #include "chrome/browser/ui/views/passwords/views_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action container view implementation
+// summary: Implements the capsule container that hosts page action views, managing flex layout, chip ordering, icon spacing, and elevated background styling.
+// ---
+
 #include "chrome/browser/ui/views/page_action/page_action_container_view.h"
 
 #include <memory>

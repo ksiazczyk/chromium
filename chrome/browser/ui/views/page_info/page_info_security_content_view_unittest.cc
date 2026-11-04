@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page info security content view unit tests
+// summary: Unit tests for PageInfoSecurityContentView covering QWAC certificate rows, subtitles, and accessibility behavior.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_security_content_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI Page Action Control Header
+// summary: Declares WebUIPageActionControl, which observes per-tab page action models, notifies the WebUI of state changes, and routes clicks and chip events back to ActionItems.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAGE_ACTION_WEBUI_PAGE_ACTION_CONTROL_H_
 #define CHROME_BROWSER_UI_VIEWS_PAGE_ACTION_WEBUI_PAGE_ACTION_CONTROL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordBubbleViewTestBase implementation
+// summary: Implements the test fixture that wires up test profiles, web contents, and mocked password UI controllers for bubble view tests.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_bubble_view_test_base.h"
 
 #include "chrome/browser/ui/passwords/manage_passwords_ui_controller.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for overlay UI views
+summary: Defines the overlay, impl and unit_tests source sets with their sources and dependencies for the picture-in-picture overlay window views.

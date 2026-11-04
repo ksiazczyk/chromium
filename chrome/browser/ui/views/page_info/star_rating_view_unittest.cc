@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Star rating view unit tests
+// summary: Unit tests verifying the star icons and label text shown for various rating values.
+// ---
+
 #include "chrome/browser/ui/views/page_info/star_rating_view.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

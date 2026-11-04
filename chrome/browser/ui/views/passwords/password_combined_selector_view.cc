@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password combined selector view implementation
+// summary: Implements the dialog view that lists saved credentials with radio buttons for account selection, including custom radio button grouping, avatars and scrolling.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_combined_selector_view.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxPopupAimPresenter header
+// summary: Declares OmniboxPopupAimPresenter, which presents the AI Mode compose plate in the omnibox popup and manages focus restoration after file selection dialogs close.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_POPUP_AIM_PRESENTER_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_POPUP_AIM_PRESENTER_H_
 

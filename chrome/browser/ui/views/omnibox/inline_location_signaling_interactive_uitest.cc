@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline location signaling interactive UI tests
+// summary: Interactive browser tests for omnibox inline location suggestions, covering geolocation headers, permissions, and expected suggestion results.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

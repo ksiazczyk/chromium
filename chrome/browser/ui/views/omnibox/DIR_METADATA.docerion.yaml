@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Omnibox views directory metadata
+summary: Points the directory metadata to the shared omnibox mixins in components/omnibox.

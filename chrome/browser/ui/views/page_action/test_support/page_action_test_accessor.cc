@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action test accessor implementation
+// summary: Implements the test accessor that inspects and drives page action views, models and WebUI controls for both native and WebUI toolbars.
+// ---
+
 #include "chrome/browser/ui/views/page_action/test_support/page_action_test_accessor.h"
 
 #include <optional>

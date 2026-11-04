@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspicious site bubble view class declaration
+// summary: Declares the bubble anchored to the location bar that warns about suspicious sites and offers safety actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAGE_INFO_SUSPICIOUS_SITE_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PAGE_INFO_SUSPICIOUS_SITE_BUBBLE_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordBubbleViewBase implementation
+// summary: Implements the base class that creates, shows, activates, and closes the appropriate manage-passwords bubble for a tab's password UI state.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_bubble_view_base.h"
 
 #include "base/functional/bind.h"

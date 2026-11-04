@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage passwords details view implementation
+// summary: Implements the details view showing a credential's username, password and note with copy and edit controls for the manage passwords bubble.
+// ---
+
 #include "chrome/browser/ui/views/passwords/manage_passwords_details_view.h"
 
 #include <memory>

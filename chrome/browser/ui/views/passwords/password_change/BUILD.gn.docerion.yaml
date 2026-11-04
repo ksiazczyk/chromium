@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password change views build configuration
+summary: GN build file defining source sets for the password change toast and the successful password change view with their dependencies.

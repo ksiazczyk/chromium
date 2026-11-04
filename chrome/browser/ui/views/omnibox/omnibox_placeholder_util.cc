@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox placeholder text utility implementation
+// summary: Computes the omnibox placeholder text, choosing between keyword, AI Mode, Contextual Tasks and default search provider placeholders with impression limits.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_placeholder_util.h"
 
 #include <string>

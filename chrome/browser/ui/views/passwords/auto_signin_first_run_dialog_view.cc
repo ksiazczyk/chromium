@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto sign-in first run dialog view implementation
+// summary: Implements the first-run dialog explaining automatic sign-in, wiring OK and turn-off buttons to the credential manager dialog controller.
+// ---
+
 #include "chrome/browser/ui/views/passwords/auto_signin_first_run_dialog_view.h"
 
 #include <memory>

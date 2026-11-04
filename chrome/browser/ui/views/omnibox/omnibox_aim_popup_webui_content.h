@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox AIM popup WebUI content
+// summary: Declares the WebUI content view for the AIM omnibox popup, covering the popup clear flow, input application, focus handling and context menus.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_AIM_POPUP_WEBUI_CONTENT_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_AIM_POPUP_WEBUI_CONTENT_H_
 

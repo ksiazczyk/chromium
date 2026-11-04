@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account chooser dialog view implementation
+// summary: Implements the modal account chooser dialog that lets users pick a credential to sign in with, driven by the credential manager dialog controller.
+// ---
+
 #include "chrome/browser/ui/views/passwords/account_chooser_dialog_view.h"
 
 #include <algorithm>

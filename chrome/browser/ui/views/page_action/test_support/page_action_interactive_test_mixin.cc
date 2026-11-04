@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action interactive test mixin implementation
+// summary: Defines the polling state identifier kPageActionButtonVisible used by the page action interactive test mixin.
+// ---
+
 #include "chrome/browser/ui/views/page_action/test_support/page_action_interactive_test_mixin.h"
 
 #include "ui/base/interaction/state_observer.h"

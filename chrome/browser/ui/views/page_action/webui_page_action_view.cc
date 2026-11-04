@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI Page Action View Implementation
+// summary: Implements the WebUI-backed page action view, resolving bubble anchors, tooltips, accessible names, and visibility through the owning WebUIPageActionControl.
+// ---
+
 #include "chrome/browser/ui/views/page_action/webui_page_action_view.h"
 
 #include "base/notreached.h"

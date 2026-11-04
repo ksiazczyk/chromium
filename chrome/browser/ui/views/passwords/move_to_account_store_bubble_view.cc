@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move to account store bubble view implementation
+// summary: Implements the bubble that asks the user to move a locally saved profile credential to their account store, including the illustrated moving banner.
+// ---
+
 #include "chrome/browser/ui/views/passwords/move_to_account_store_bubble_view.h"
 
 #include "base/functional/bind.h"

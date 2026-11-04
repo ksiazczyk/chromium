@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox suggestion button row browser tests
+// summary: Browser test with screenshot verification of the suggestion button row UI, covering tab switch and action buttons in the omnibox popup.
+// ---
+
 #include "base/memory/scoped_refptr.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/ui/browser_window.h"

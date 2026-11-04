@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox AIM popup browser tests
+// summary: Browser tests for the AIM omnibox popup covering eligibility service mocking, permission prompts, and file selection flows.
+// ---
+
 #include "base/auto_reset.h"
 #include "base/callback_list.h"
 #include "base/functional/callback_helpers.h"

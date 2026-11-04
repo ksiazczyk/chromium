@@ -1,3 +1,9 @@
+---
+type: readme
+title: Omnibox views overview
+summary: Explains the two omnibox popup implementations (views and WebUI) and the cutout that lets the omnibox textfield peek through.
+---
+
 The current implementation of the views omnibox is complex.
 
 When a user types in the omnibox, a popup is shown. There are two

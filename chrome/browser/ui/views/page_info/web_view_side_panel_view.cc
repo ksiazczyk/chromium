@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web view side panel view implementation
+// summary: Implements the side panel view that hosts a WebView with a loading screen, handles navigation requests, and cleans up URL parameters before opening pages in the browser.
+// ---
+
 #include "chrome/browser/ui/views/page_info/web_view_side_panel_view.h"
 
 #include <string_view>

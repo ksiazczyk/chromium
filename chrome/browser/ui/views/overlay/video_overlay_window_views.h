@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoOverlayWindowViews header for the video Picture-in-Picture overlay window
+// summary: Declares the Views-based desktop video overlay window class, its playback controls, display observation, and Picture-in-Picture window behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OVERLAY_VIDEO_OVERLAY_WINDOW_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_OVERLAY_VIDEO_OVERLAY_WINDOW_VIEWS_H_
 

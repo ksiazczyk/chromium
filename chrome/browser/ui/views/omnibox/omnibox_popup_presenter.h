@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxPopupPresenter header
+// summary: Declares OmniboxPopupPresenter, a presenter subclass that shows a single WebUI in the omnibox popup and overrides show, hide, and layout behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_POPUP_PRESENTER_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_POPUP_PRESENTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action interactive test mixin
+// summary: Template mixin for interactive browser tests offering helpers to wait for page action visibility, invoke actions, and check chip or icon states.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAGE_ACTION_TEST_SUPPORT_PAGE_ACTION_INTERACTIVE_TEST_MIXIN_H_
 #define CHROME_BROWSER_UI_VIEWS_PAGE_ACTION_TEST_SUPPORT_PAGE_ACTION_INTERACTIVE_TEST_MIXIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox context menu implementation
+// summary: Implements the omnibox context menu, building and running the menu views with sizing, shadows and usage histogram logging.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_context_menu.h"
 
 #include <algorithm>

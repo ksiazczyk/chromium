@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox AIM popup WebUI content implementation
+// summary: Implements the WebUI content for the AIM popup, handling popup clearing, context menu closure, and draft input transfer to background tabs.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_aim_popup_webui_content.h"
 
 #include <string_view>

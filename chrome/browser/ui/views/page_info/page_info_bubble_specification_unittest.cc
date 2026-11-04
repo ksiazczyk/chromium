@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page info bubble specification unit tests
+// summary: Unit tests for the page info bubble specification builder covering defaults, extension menu callbacks, and invalid specifications.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_bubble_specification.h"
 
 #include <memory>

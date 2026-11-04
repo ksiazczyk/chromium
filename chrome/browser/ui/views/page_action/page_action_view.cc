@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action view implementation
+// summary: Implements the PageActionView icon-label bubble that displays a page action, handling animations, anchored messages, ink drops, and accessibility.
+// ---
+
 #include "chrome/browser/ui/views/page_action/page_action_view.h"
 
 #include <algorithm>

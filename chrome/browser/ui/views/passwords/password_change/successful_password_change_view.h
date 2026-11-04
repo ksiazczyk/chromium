@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Successful password change view header
+// summary: Declares the bubble view displayed when the password change flow finishes successfully, including element IDs for tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PASSWORDS_PASSWORD_CHANGE_SUCCESSFUL_PASSWORD_CHANGE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PASSWORDS_PASSWORD_CHANGE_SUCCESSFUL_PASSWORD_CHANGE_VIEW_H_
 

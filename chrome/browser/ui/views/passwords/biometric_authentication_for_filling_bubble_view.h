@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Biometric authentication for filling bubble view header
+// summary: Declares the bubble view that prompts the user to enable biometric authentication before passwords are filled.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PASSWORDS_BIOMETRIC_AUTHENTICATION_FOR_FILLING_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PASSWORDS_BIOMETRIC_AUTHENTICATION_FOR_FILLING_BUBBLE_VIEW_H_
 

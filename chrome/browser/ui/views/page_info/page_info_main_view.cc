@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info main view implementation
+// summary: Implements the main page info view with security information, permission rows, cookies button and merchant trust sections.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_main_view.h"
 
 #include <memory>

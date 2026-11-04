@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web view side panel view class declaration
+// summary: Declares WebViewSidePanelView, a side panel view that owns a WebView, observes and delegates WebContents events, and opens requested URLs in the browser.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAGE_INFO_WEB_VIEW_SIDE_PANEL_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PAGE_INFO_WEB_VIEW_SIDE_PANEL_VIEW_H_
 

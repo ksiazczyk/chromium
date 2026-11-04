@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup native widget for macOS header
+// summary: Declares the OmniboxPopupNSWindow interface and a factory returning a NativeWidget whose NSWindow proxies window-management accessibility to the parent browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_POPUP_NATIVE_WIDGET_MAC_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_POPUP_NATIVE_WIDGET_MAC_H_
 

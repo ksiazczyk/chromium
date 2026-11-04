@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security information view class declaration
+// summary: Declares the view representing the page info bubble header with the site identity check status and security details.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAGE_INFO_SECURITY_INFORMATION_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PAGE_INFO_SECURITY_INFORMATION_VIEW_H_
 

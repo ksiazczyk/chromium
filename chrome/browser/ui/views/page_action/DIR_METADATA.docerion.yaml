@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory Metadata for Page Action Views
+summary: Points to the shared COMMON_METADATA mixins from the page_action directory for this folder's metadata.

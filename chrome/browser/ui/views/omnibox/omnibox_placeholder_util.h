@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox placeholder text utility header
+// summary: Declares helpers to compute and show omnibox placeholder text, including AI Mode and Contextual Tasks variants and AIM hint impression limits.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_PLACEHOLDER_UTIL_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_PLACEHOLDER_UTIL_H_
 

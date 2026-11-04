@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suspicious site bubble view unit tests
+// summary: Unit tests verifying the suspicious site bubble's elements and behavior using a test web contents.
+// ---
+
 #include "chrome/browser/ui/views/page_info/suspicious_site_bubble_view.h"
 
 #include <memory>

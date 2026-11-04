@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared passwords notification view unit tests
+// summary: Unit tests for the shared passwords notification bubble's buttons and navigation behavior.
+// ---
+
 #include "chrome/browser/ui/views/passwords/shared_passwords_notification_view.h"
 
 #include <memory>

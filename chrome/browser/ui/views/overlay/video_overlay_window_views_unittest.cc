@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoOverlayWindowViews unit tests
+// summary: Unit tests for the video overlay window covering its buttons, sizing, live caption dialog, and Picture-in-Picture window behaviors.
+// ---
+
 #include "chrome/browser/ui/views/overlay/video_overlay_window_views.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxTextView implementation
+// summary: Implements OmniboxTextView, a render-text view that draws styled suggestion text with classifications, theme colors, and optional multiline wrapping.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_text_view.h"
 
 #include <limits.h>

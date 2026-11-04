@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toggle microphone button implementation
+// summary: Implements the Picture-in-Picture overlay button that mutes or unmutes the microphone, updating its icon and tooltip accordingly.
+// ---
+
 #include "chrome/browser/ui/views/overlay/toggle_microphone_button.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

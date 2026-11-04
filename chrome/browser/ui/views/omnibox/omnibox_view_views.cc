@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxViewViews implementation
+// summary: Implements OmniboxViewViews, the Views text field for the omnibox, handling editing, selection, per-tab state, popups, and clipboard behavior.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_view_views.h"
 
 #include <algorithm>

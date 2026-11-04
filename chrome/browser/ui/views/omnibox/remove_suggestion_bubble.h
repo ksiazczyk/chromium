@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remove suggestion bubble API
+// summary: Declares ShowRemoveSuggestion, which shows a confirmation bubble for deleting an omnibox suggestion and runs a closure when the user confirms.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_REMOVE_SUGGESTION_BUBBLE_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_REMOVE_SUGGESTION_BUBBLE_H_
 

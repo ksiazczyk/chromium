@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Merchant trust side panel coordinator browser tests
+// summary: Browser tests for the merchant trust side panel coordinator using a mocked merchant trust service and an embedded HTTPS test server.
+// ---
+
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/page_info/merchant_trust_service_factory.h"

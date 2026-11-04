@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suspicious site bubble view browser tests
+// summary: Browser tests checking that the suspicious site bubble shows, anchors and blocks the tab, and that mark as safe works.
+// ---
+
 #include "chrome/browser/ui/views/page_info/suspicious_site_bubble_view.h"
 
 #include "base/run_loop.h"

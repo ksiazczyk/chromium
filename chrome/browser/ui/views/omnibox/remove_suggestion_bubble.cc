@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remove suggestion bubble implementation
+// summary: Implements the confirmation bubble shown when removing an omnibox suggestion, displaying the search provider name and match contents.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/remove_suggestion_bubble.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock anchored message delegate
+// summary: Declares a gmock mock of the anchored message bubble delegate with stubbed chip click, close, expand and collapse callbacks for tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAGE_ACTION_TEST_SUPPORT_MOCK_ANCHORED_MESSAGE_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_PAGE_ACTION_TEST_SUPPORT_MOCK_ANCHORED_MESSAGE_DELEGATE_H_
 

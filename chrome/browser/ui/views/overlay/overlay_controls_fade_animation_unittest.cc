@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay controls fade animation unit test
+// summary: Unit test verifying that the fade animation animates view layer opacity and visibility correctly for both hide and show transitions.
+// ---
+
 #include "chrome/browser/ui/views/overlay/overlay_controls_fade_animation.h"
 
 #include "chrome/test/views/chrome_views_test_base.h"

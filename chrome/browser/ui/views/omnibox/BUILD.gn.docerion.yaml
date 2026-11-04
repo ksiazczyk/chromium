@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omnibox views build configuration (BUILD.gn)
+summary: Defines the omnibox and impl source sets with their public headers, sources, and dependencies for the views omnibox UI.

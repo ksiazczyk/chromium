@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox match cell view implementation
+// summary: Implements the suggestion row cell that renders icons, contents, descriptions and answer, calculator or entity images for omnibox popup matches.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_match_cell_view.h"
 
 #include <algorithm>

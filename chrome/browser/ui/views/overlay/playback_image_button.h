@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playback image button header
+// summary: Declares PlaybackImageButton, a resizable overlay window button with play, pause and replay states driven by the video overlay window's playback state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OVERLAY_PLAYBACK_IMAGE_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_OVERLAY_PLAYBACK_IMAGE_BUTTON_H_
 

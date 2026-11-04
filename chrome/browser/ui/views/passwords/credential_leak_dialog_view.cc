@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential leak dialog view implementation
+// summary: Implements the tab-modal dialog prompt shown when saved credentials are detected in a leak, including widget creation and focus handling.
+// ---
+
 #include "chrome/browser/ui/views/passwords/credential_leak_dialog_view.h"
 
 #include <memory>

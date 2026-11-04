@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full WebUI omnibox popup view implementation
+// summary: Implements OmniboxPopupViewFullWebUI, which drives the full WebUI omnibox popup by syncing native omnibox state, focus, keyword models, and tab state to the WebUI.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_popup_view_full_webui.h"
 
 #include <algorithm>

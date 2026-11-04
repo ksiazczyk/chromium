@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup view for BrowserView header
+// summary: Declares OmniboxPopupViewBrowserView, which renders the full WebUI omnibox popup inside BrowserView and tracks the popup frame safely during shutdown.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_POPUP_VIEW_BROWSER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_POPUP_VIEW_BROWSER_VIEW_H_
 

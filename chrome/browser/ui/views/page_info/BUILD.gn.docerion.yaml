@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page info views build configuration
+summary: Defines the GN source sets, public headers, and dependencies for the page_info views UI code in Chrome's browser UI.

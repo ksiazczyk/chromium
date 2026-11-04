@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info permission content view implementation
+// summary: Implements the permissions subpage view with icon, title, state toggle, remember checkbox, manage button and file system access panel.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_permission_content_view.h"
 
 #include <algorithm>

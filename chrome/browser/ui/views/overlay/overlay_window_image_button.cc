@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay window image button base implementation
+// summary: Implements the base image button for Picture-in-Picture overlay windows, configuring centered vector icons, ink drop color, circular highlight and a hand cursor.
+// ---
+
 #include "chrome/browser/ui/views/overlay/overlay_window_image_button.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

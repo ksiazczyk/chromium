@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info navigation handler interface
+// summary: Defines an interface for navigating between page info pages such as main, security, permission, cookies and merchant trust pages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAGE_INFO_PAGE_INFO_NAVIGATION_HANDLER_H_
 #define CHROME_BROWSER_UI_VIEWS_PAGE_INFO_PAGE_INFO_NAVIGATION_HANDLER_H_
 

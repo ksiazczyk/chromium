@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox header view implementation
+// summary: Implements the section header row in the native omnibox popup, with label styling and insets aligned to match cells.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_header_view.h"
 
 #include "base/functional/bind.h"

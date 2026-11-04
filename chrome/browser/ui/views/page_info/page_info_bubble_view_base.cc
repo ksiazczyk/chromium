@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info bubble view base implementation
+// summary: Implements the shared bubble base class, including per-WebContents tracking that closes an existing page info bubble when a new one opens.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_bubble_view_base.h"
 
 #include "chrome/browser/ui/page_info/page_info_dialog.h"

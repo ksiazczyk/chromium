@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reference to picture-in-picture owners
+summary: Delegates code ownership of the overlay directory to the picture-in-picture Blink module OWNERS file.

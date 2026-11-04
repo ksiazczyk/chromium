@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay window live caption dialog implementation
+// summary: Implements the overlay window's live caption dialog with live caption and live translate toggles, a target language combobox, metrics logging and preference observation.
+// ---
+
 #include "chrome/browser/ui/views/overlay/overlay_window_live_caption_dialog.h"
 
 #include "base/metrics/histogram_functions.h"

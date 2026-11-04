@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox context menu mixin implementation
+// summary: Implements shared omnibox context menu behavior, including textfield items, clipboard inspection and omnibox-specific commands.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_context_menu_mixin.h"
 
 #include <utility>

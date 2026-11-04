@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI read-only omnibox implementation
+// summary: Implements a read-only omnibox view for the WebUI toolbar, handling selection, context menus, preference changes, and URL display updates.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/webui_readonly_omnibox.h"
 
 #include <algorithm>

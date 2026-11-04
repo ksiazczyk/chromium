@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordAddUsernameView implementation
+// summary: Implements the bubble view that lets users add a missing username to a saved credential, with username and password fields and save controls.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_add_username_view.h"
 
 #include "base/functional/callback.h"

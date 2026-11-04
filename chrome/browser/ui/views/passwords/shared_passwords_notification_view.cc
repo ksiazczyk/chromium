@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared passwords notification bubble view implementation
+// summary: Implements the bubble notifying users that credentials for a site were received via the password sharing feature.
+// ---
+
 #include "chrome/browser/ui/views/passwords/shared_passwords_notification_view.h"
 
 #include <memory>

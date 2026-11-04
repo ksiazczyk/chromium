@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup presenter base implementation
+// summary: Implements the base presenter that manages the widget and WebUI content for the omnibox popup, covering show/hide, focus, bounds syncing, and permission observation.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_popup_presenter_base.h"
 
 #include <optional>

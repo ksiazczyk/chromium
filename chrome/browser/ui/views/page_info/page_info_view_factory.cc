@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info view factory implementation
+// summary: Implements the factory that builds page info bubble views, subpages, separators, labels, and icons.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_view_factory.h"
 
 #include <memory>

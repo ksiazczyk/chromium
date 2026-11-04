@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox full popup WebUI content
+// summary: Declares the WebUI content view for the full omnibox popup with context menu request handling and widget activation hooks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_FULL_POPUP_WEBUI_CONTENT_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_FULL_POPUP_WEBUI_CONTENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay controls fade animation implementation
+// summary: Implements a 250 ms linear animation that fades overlay window controls in or out by adjusting view layer opacity and visibility.
+// ---
+
 #include "chrome/browser/ui/views/overlay/overlay_controls_fade_animation.h"
 
 #include "ui/compositor/layer.h"

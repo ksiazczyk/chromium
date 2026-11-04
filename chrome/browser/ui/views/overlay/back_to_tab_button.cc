@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-to-tab overlay button implementation
+// summary: Implements the picture-in-picture back-to-tab image button with icon, accessibility name, tooltip and window-relative positioning.
+// ---
+
 #include "chrome/browser/ui/views/overlay/back_to_tab_button.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxPopupFullPresenter implementation
+// summary: Implements OmniboxPopupFullPresenter, which shows a full WebUI omnibox popup with input row and suggestions, handling metrics, focus, and widget lifecycle details.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_popup_full_presenter.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Caption button for the Picture-in-Picture overlay window
+// summary: Implements the overlay window Live Caption button, toggling ink drop highlight and accessibility expanded state while the Live Caption dialog is open.
+// ---
+
 #include "chrome/browser/ui/views/overlay/overlay_window_live_caption_button.h"
 
 #include "chrome/grit/generated_resources.h"

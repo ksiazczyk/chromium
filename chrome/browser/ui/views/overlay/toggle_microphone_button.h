@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toggle microphone button class declaration
+// summary: Declares ToggleMicrophoneButton, an overlay window image button for muting and unmuting the microphone in Picture-in-Picture sessions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OVERLAY_TOGGLE_MICROPHONE_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_OVERLAY_TOGGLE_MICROPHONE_BUTTON_H_
 

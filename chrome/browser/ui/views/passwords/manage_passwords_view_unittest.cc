@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manage passwords view unit tests
+// summary: Unit tests for the manage passwords bubble view covering the title, details layout in single-credential mode, and view element identifiers.
+// ---
+
 #include "chrome/browser/ui/views/passwords/manage_passwords_view.h"
 
 #include "base/memory/weak_ptr.h"

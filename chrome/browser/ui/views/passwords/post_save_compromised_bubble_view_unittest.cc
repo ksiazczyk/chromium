@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Post save compromised bubble view unit tests
+// summary: Unit tests for the post-save compromised bubble in safe and more-to-fix states.
+// ---
+
 #include "chrome/browser/ui/views/passwords/post_save_compromised_bubble_view.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video overlay window views implementation
+// summary: Implements the Views-based Picture-in-Picture video overlay window, wiring up playback, resize, caption, and camera or microphone controls.
+// ---
+
 #include "chrome/browser/ui/views/overlay/video_overlay_window_views.h"
 
 #include <memory>

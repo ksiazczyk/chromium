@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayWindowImageButton class header
+// summary: Declares the base views::ImageButton subclass shared by Picture-in-Picture overlay window buttons, overriding cursor behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OVERLAY_OVERLAY_WINDOW_IMAGE_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_OVERLAY_OVERLAY_WINDOW_IMAGE_BUTTON_H_
 

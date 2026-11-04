@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox full popup WebUI content implementation
+// summary: Implements the WebUI content view for the full omnibox popup, including popup clearing and deferred context menu requests.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_full_popup_webui_content.h"
 
 #include <memory>

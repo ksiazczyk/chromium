@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup tab selection listener header
+// summary: Declares OmniboxPopupTabSelectionListener, a TabStripModelObserver that notifies the popup WebUI content host when tab selection changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_POPUP_TAB_SELECTION_LISTENER_H_
 #define CHROME_BROWSER_UI_VIEWS_OMNIBOX_OMNIBOX_POPUP_TAB_SELECTION_LISTENER_H_
 

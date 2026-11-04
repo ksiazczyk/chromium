@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the page_info views folder
+summary: Lists code owners for the directory and assigns safety tip files to a specific owner.

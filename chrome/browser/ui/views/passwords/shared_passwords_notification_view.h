@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared passwords notification bubble view header
+// summary: Declares the bubble notifying users about credentials received via the password sharing feature.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PASSWORDS_SHARED_PASSWORDS_NOTIFICATION_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PASSWORDS_SHARED_PASSWORDS_NOTIFICATION_VIEW_H_
 

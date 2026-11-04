@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI Page Action Control Unit Tests
+// summary: Unit tests for WebUIPageActionControl using mock tab and browser interfaces to verify model observation, state updates, clicks, and chip visibility behavior.
+// ---
+
 #include "chrome/browser/ui/views/page_action/webui_page_action_control.h"
 
 #include <memory>

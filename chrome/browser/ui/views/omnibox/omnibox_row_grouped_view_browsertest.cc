@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox row grouped view browser tests
+// summary: Browser tests verifying animation and grouping of contextual search suggestions in the omnibox popup's grouped row view.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_row_grouped_view.h"
 
 #include "base/test/scoped_feature_list.h"

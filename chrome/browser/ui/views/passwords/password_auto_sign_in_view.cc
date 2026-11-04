@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordAutoSignInView implementation
+// summary: Implements the auto sign-in toast bubble that shows the credential used for automatic sign-in and closes after a timeout.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_auto_sign_in_view.h"
 
 #include <memory>

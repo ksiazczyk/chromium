@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox popup views interactive UI tests
+// summary: Interactive browser tests checking that the location bar background matches the popup and that clicks on inactive areas close the popup.
+// ---
+
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"
 #include "chrome/browser/ui/views/frame/tab_strip_region_view.h"

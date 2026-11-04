@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-to-tab label button implementation
+// summary: Implements the labelled back-to-tab button with rounded background, elided origin text and centering within the overlay window.
+// ---
+
 #include "chrome/browser/ui/views/overlay/back_to_tab_label_button.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi Icon Button Declaration
+// summary: Declares MultiIconButton, a views button that displays one or more icons up to a limit and updates its background on state changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PAGE_ACTION_MULTI_ICON_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_PAGE_ACTION_MULTI_ICON_BUTTON_H_
 

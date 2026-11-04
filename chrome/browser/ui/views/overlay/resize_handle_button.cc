@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize handle button implementation
+// summary: Implements the Picture-in-Picture resize handle, positioning and rotating its icon per window quadrant and mapping quadrants to window hit-test components.
+// ---
+
 #include "chrome/browser/ui/views/overlay/resize_handle_button.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

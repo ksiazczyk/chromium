@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage passwords page action controller implementation
+// summary: Implements the controller that updates the manage passwords toolbar page action's visibility, icon, and tooltip based on the password manager UI state.
+// ---
+
 #include "chrome/browser/ui/views/passwords/manage_passwords_page_action_controller.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

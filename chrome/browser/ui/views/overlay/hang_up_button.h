@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HangUpButton class header
+// summary: Declares the HangUpButton overlay window image button, including bounds-change handling and image updates for the Picture-in-Picture hang up control.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_OVERLAY_HANG_UP_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_OVERLAY_HANG_UP_BUTTON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox full popup WebUI content browser tests
+// summary: Browser tests verifying that pending context menu requests in the full WebUI omnibox popup are dropped on focus, hide, clear and deactivation.
+// ---
+
 #include "chrome/browser/ui/views/omnibox/omnibox_full_popup_webui_content.h"
 
 #include "base/test/run_until.h"

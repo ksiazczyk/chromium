@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Successful password change view unit test
+// summary: Unit tests for the success bubble layout, manage passwords button click and password reveal via the eye icon with authentication.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_change/successful_password_change_view.h"
 
 #include <string>

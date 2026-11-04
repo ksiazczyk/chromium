@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page info bubble view unit tests
+// summary: Unit tests for the page info bubble view covering permissions, cookies, security content, merchant trust and privacy sandbox behavior.
+// ---
+
 #include "chrome/browser/ui/views/page_info/page_info_bubble_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaunch Chrome password bubble view
+// summary: Implements the bubble view that prompts the user to relaunch Chrome, wiring accept and cancel callbacks to its RelaunchChromeBubbleController.
+// ---
+
 #include "chrome/browser/ui/views/passwords/password_relaunch_chrome_view.h"
 
 #include "base/functional/bind.h"

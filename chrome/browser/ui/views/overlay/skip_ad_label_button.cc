@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skip ad label button implementation
+// summary: Implements the Picture-in-Picture skip ad label button, covering its positioning, visibility handling, themed background and border, and accessibility naming.
+// ---
+
 #include "chrome/browser/ui/views/overlay/skip_ad_label_button.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"
