@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory pressure listener unit tests
+// summary: Unit tests covering memory pressure notification delivery, suppression tokens, simulated notifications, and subscription during active pressure using mock listeners.
+// ---
+
 #include "base/memory/memory_pressure_listener.h"
 
 #include <optional>

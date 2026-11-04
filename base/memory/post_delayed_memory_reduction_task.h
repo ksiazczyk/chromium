@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API for posting delayed memory reduction tasks
+// summary: Declares PostDelayedMemoryReductionTask, PostOnFreezeTask and OneShotDelayedBackgroundTimer for scheduling memory reduction work that Android may run early before freezing.
+// ---
+
 #ifndef BASE_MEMORY_POST_DELAYED_MEMORY_REDUCTION_TASK_H_
 #define BASE_MEMORY_POST_DELAYED_MEMORY_REDUCTION_TASK_H_
 

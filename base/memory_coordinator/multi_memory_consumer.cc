@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiMemoryConsumer registration implementation
+// summary: Implements synchronous and asynchronous registration helpers that forward memory limit updates and release notifications for multiple named interventions to a MultiMemoryConsumer.
+// ---
+
 #include "base/memory_coordinator/multi_memory_consumer.h"
 
 #include "base/check.h"

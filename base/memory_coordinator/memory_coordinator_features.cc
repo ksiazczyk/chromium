@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory coordinator feature flag definitions
+// summary: Defines the kStatefulMemoryPressure and kLRUCacheMemoryConsumer base features, with stateful memory pressure enabled by default on Windows, Mac, and Linux.
+// ---
+
 #include "base/memory_coordinator/memory_coordinator_features.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX page size implementation
+// summary: Implements GetPageSize on POSIX systems using sysconf(_SC_PAGESIZE) or getpagesize().
+// ---
+
 #include "base/memory/page_size.h"
 
 #include <unistd.h>

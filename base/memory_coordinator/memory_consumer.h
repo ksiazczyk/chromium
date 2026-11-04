@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryConsumer base class declaration
+// summary: Declares the MemoryConsumer interface for coordinating memory usage across processes, with documentation on memory limits, traits, and an example cache consumer.
+// ---
+
 #ifndef BASE_MEMORY_COORDINATOR_MEMORY_CONSUMER_H_
 #define BASE_MEMORY_COORDINATOR_MEMORY_CONSUMER_H_
 

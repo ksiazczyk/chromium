@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IOWatcher file descriptor unit tests
+// summary: Unit tests verifying file descriptor watch behavior of IOWatcher across IO-capable message pump types, including Android and GLib UI threads.
+// ---
+
 #include <fcntl.h>
 #include <sys/socket.h>
 #include <unistd.h>

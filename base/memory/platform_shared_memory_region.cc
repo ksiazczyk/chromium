@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform shared memory region implementation
+// summary: Implements PlatformSharedMemoryRegion creation, handle adoption and mapping with offset alignment and shared memory security policy reservation handling.
+// ---
+
 #include "base/memory/platform_shared_memory_region.h"
 
 #include <utility>

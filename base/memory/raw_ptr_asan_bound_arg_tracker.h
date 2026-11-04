@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ASAN bound argument tracker for raw_ptr callbacks
+// summary: Declares a tracker that protects base::Unretained bound callback arguments from dangling access under ASAN backup-ref-pointer, intended for use inside the Bind implementation.
+// ---
+
 #ifndef BASE_MEMORY_RAW_PTR_ASAN_BOUND_ARG_TRACKER_H_
 #define BASE_MEMORY_RAW_PTR_ASAN_BOUND_ARG_TRACKER_H_
 

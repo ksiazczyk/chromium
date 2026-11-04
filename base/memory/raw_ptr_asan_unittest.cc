@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RawPtrAsan unit tests
+// summary: Unit tests verifying ASAN backup-ref-pointer behavior, including quarantine, overflow detection, data-race reporting, and unprotected-in-release raw_ptr handling.
+// ---
+
 #include "partition_alloc/buildflags.h"
 
 #if PA_BUILDFLAG(USE_ASAN_BACKUP_REF_PTR)

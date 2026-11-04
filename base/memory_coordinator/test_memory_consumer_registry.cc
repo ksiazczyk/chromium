@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMemoryConsumerRegistry implementation
+// summary: Implements a test registry that installs itself as the global registry and notifies registered memory consumers of memory limit updates and release requests, synchronously or asynchronously.
+// ---
+
 #include "base/memory_coordinator/test_memory_consumer_registry.h"
 
 #include <algorithm>

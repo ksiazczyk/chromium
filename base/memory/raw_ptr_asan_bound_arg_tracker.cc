@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: raw_ptr ASan bound argument tracker
+// summary: Tracks protected function arguments under ASan so raw_ptr can resolve pointers into quarantined allocations.
+// ---
+
 #include "base/memory/raw_ptr_asan_bound_arg_tracker.h"
 
 #include "partition_alloc/buildflags.h"

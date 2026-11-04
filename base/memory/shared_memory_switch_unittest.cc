@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory switch unit tests
+// summary: Multiprocess tests verifying shared memory regions are correctly passed to child processes via command-line switches in read-only and unsafe variants.
+// ---
+
 #include "base/memory/shared_memory_switch.h"
 
 #include "base/base_switches.h"

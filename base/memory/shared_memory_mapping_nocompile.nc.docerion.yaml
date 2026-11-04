@@ -1,0 +1,4 @@
+# Docerion header of shared_memory_mapping_nocompile.nc.
+type: test
+title: Shared memory mapping no-compile tests
+summary: No-compile test asserting that non-trivially-copyable and non-lock-free atomic types are rejected in shared memory mappings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DummyMemoryConsumerRegistry implementation
+// summary: Implements a no-op memory consumer registry whose add and remove callbacks do nothing and which notifies destruction on teardown.
+// ---
+
 #include "base/memory_coordinator/dummy_memory_consumer_registry.h"
 
 namespace base {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncMemoryConsumerRegistration implementation
+// summary: Implements registration of memory consumers that live off the main thread, forwarding memory limit and release notifications asynchronously to their task runner.
+// ---
+
 #include "base/memory_coordinator/async_memory_consumer_registration.h"
 
 #include <string>

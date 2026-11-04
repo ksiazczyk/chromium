@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePumpType enum
+// summary: Defines the MessagePumpType enum indicating which asynchronous events a message pump supports in addition to tasks and timers, such as UI, IO, Java, and NS run loop.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_MESSAGE_PUMP_TYPE_H_
 #define BASE_MESSAGE_LOOP_MESSAGE_PUMP_TYPE_H_
 

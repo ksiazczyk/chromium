@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOWatcher interface
+// summary: Declares the IOWatcher abstract class used to register asynchronous IO handlers and file descriptor watches on MessagePumpType::IO threads.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_IO_WATCHER_H_
 #define BASE_MESSAGE_LOOP_IO_WATCHER_H_
 

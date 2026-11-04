@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX shared memory mapper implementation
+// summary: Implements Map and Unmap for generic POSIX platforms using mmap and munmap on the region's file descriptor with MAP_SHARED.
+// ---
+
 #include "base/memory/platform_shared_memory_mapper.h"
 
 #include <sys/mman.h>

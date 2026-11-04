@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: raw_ref facade header
+// summary: Facade header that re-exports partition_alloc's raw_ref smart pointer under the shorter base/memory include path.
+// ---
+
 #ifndef BASE_MEMORY_RAW_REF_H_
 #define BASE_MEMORY_RAW_REF_H_
 

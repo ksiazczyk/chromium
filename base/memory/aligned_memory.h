@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aligned memory allocation API
+// summary: Declares aligned allocation helpers such as AlignedAlloc, AlignedCalloc, AlignedFreeDeleter, and AlignedHeapArray for runtime-aligned buffers.
+// ---
+
 #ifndef BASE_MEMORY_ALIGNED_MEMORY_H_
 #define BASE_MEMORY_ALIGNED_MEMORY_H_
 

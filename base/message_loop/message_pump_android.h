@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android message pump header
+// summary: Declares MessagePumpAndroid, which drives UI and Java message loops on Android via the native Looper with delayed and non-delayed work descriptors.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_MESSAGE_PUMP_ANDROID_H_
 #define BASE_MESSAGE_LOOP_MESSAGE_PUMP_ANDROID_H_
 

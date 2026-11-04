@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock memory pressure listener declarations
+// summary: Declares mock memory pressure listener classes for tests, including registered synchronous and asynchronous variants.
+// ---
+
 #ifndef BASE_MEMORY_MOCK_MEMORY_PRESSURE_LISTENER_H_
 #define BASE_MEMORY_MOCK_MEMORY_PRESSURE_LISTENER_H_
 

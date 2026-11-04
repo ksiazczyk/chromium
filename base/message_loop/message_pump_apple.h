@@ -27,6 +27,12 @@
 // NSApplication-based or NSRunLoop-based MessagePump subclass depending on
 // which thread it is called on.
 
+// ---docerion
+// type: source
+// title: Apple message pump header
+// summary: Declares CFRunLoop-based message pump classes for macOS and iOS, including NSRunLoop, NSApplication and CrApp protocol support.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_MESSAGE_PUMP_APPLE_H_
 #define BASE_MESSAGE_LOOP_MESSAGE_PUMP_APPLE_H_
 

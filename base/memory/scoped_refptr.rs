@@ -24,6 +24,12 @@
 //! be taken when invoking functions that are not thread-safe. Such functions
 //! should always be `unsafe` in Rust.
 
+// ---docerion
+// type: source
+// title: Rust ScopedRefPtr for C++ ref-counted types
+// summary: Defines the CxxRefCounted traits and ScopedRefPtr smart pointer wrapping base::scoped_refptr for opaque C++ types in Rust.
+// ---
+
 use std::ptr::NonNull;
 
 /// Indicates an opaque C++ type with an internal mechanism for ref-counting.

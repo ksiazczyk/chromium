@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory pressure listener registry header
+// summary: Declares the MemoryPressureListenerRegistry singleton, its notification and suppression controls, and the MemoryPressureSuppressionToken RAII helper.
+// ---
+
 #ifndef BASE_MEMORY_MEMORY_PRESSURE_LISTENER_REGISTRY_H_
 #define BASE_MEMORY_MEMORY_PRESSURE_LISTENER_REGISTRY_H_
 

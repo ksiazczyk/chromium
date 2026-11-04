@@ -1,0 +1,4 @@
+# Docerion header of protected_memory_nocompile.nc.
+type: test
+title: No-compile tests for ProtectedMemory
+summary: No-compile test asserting that ProtectedMemory rejects non-trivially destructible data types and construction with constructor arguments.

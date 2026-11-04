@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadOnlySharedMemoryRegion class declaration
+// summary: Declares ReadOnlySharedMemoryRegion, a move-only handle whose read-only mappings remain valid after the region is moved or destroyed.
+// ---
+
 #ifndef BASE_MEMORY_READ_ONLY_SHARED_MEMORY_REGION_H_
 #define BASE_MEMORY_READ_ONLY_SHARED_MEMORY_REGION_H_
 

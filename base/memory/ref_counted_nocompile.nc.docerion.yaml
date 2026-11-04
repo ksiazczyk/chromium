@@ -1,0 +1,4 @@
+# Docerion header of ref_counted_nocompile.nc.
+type: test
+title: Ref counting compile-error checks
+summary: Compile-failure test cases verifying that misuse of RefCounted, RefCountedThreadSafe, and RefCountedDeleteOnSequence produces the expected compiler errors.

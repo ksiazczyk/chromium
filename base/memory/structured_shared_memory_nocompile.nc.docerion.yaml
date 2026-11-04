@@ -1,0 +1,4 @@
+# Docerion header of structured_shared_memory_nocompile.nc.
+type: test
+title: No-compile tests for StructuredSharedMemory
+summary: No-compile test suite asserting that StructuredSharedMemory rejects non-trivially-copyable types at compile time.

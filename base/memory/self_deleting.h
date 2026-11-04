@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Self-deleting class support
+// summary: Provides MakeSelfDeleting and the SelfDeleting base class so classes can safely construct objects that delete themselves via pass-key protected construction.
+// ---
+
 #ifndef BASE_MEMORY_SELF_DELETING_H_
 #define BASE_MEMORY_SELF_DELETING_H_
 

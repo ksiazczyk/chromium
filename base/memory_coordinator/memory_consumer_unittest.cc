@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MemoryConsumer and traits
+// summary: Tests memory consumer registration, memory limit updates, registration without a registry in test environments, and passive consumer trait validation.
+// ---
+
 #include "base/memory_coordinator/memory_consumer.h"
 
 #include "base/memory_coordinator/mock_memory_consumer.h"

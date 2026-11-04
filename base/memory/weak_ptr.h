@@ -68,6 +68,12 @@
 // the correct sequence to enforce that other WeakPtr objects will enforce they
 // are used on the desired sequence.
 
+// ---docerion
+// type: source
+// title: WeakPtr and WeakPtrFactory header
+// summary: Declares WeakPtr, WeakPtrFactory, and internal weak reference classes, documenting thread-safety rules and usage patterns for non-owning pointers.
+// ---
+
 #ifndef BASE_MEMORY_WEAK_PTR_H_
 #define BASE_MEMORY_WEAK_PTR_H_
 

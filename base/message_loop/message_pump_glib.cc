@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePumpGlib implementation
+// summary: Implements a GLib-based message pump for UI message loops, ordering GTK, Wayland and GLib event sources by priority and computing poll timeouts for pending tasks.
+// ---
+
 #include "base/message_loop/message_pump_glib.h"
 
 #include <fcntl.h>

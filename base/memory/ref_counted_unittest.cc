@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: scoped_refptr and ref counting unit tests
+// summary: Extensive unit tests for scoped_refptr, AdoptRef, ref count preferences, custom deleters, and related reference-counted behaviors.
+// ---
+
 #include "base/memory/ref_counted.h"
 
 #include <type_traits>

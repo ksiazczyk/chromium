@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page size helper header
+// summary: Declares base::GetPageSize, which returns the number of bytes in a memory page.
+// ---
+
 #ifndef BASE_MEMORY_PAGE_SIZE_H_
 #define BASE_MEMORY_PAGE_SIZE_H_
 

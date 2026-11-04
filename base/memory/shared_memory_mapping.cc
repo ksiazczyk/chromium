@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory mapping implementation
+// summary: Implements scoped shared memory mappings, including read-only and writable variants, with unmap and tracking logic.
+// ---
+
 #include "base/memory/shared_memory_mapping.h"
 
 #include <cstdint>

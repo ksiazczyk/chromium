@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePumpForUI forwarding header
+// summary: Forwarding header that coalesces the platform-specific MessagePumpForUI type aliases for Windows, Android, Apple, glib, Linux, and Fuchsia builds.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_MESSAGE_PUMP_FOR_UI_H_
 #define BASE_MESSAGE_LOOP_MESSAGE_PUMP_FOR_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: raw_ptr ASan internal allocator header
+// summary: Declares the PartitionAlloc-backed allocator for raw_ptr ASan support, including LSan root region registration.
+// ---
+
 #ifndef BASE_MEMORY_RAW_PTR_ASAN_ALLOCATOR_H_
 #define BASE_MEMORY_RAW_PTR_ASAN_ALLOCATOR_H_
 

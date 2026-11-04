@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watchable IO message pump POSIX interface
+// summary: Defines the WatchableIOMessagePumpPosix interface with FdWatcher and FdWatchControllerInterface for asynchronous file descriptor readiness watching.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_WATCHABLE_IO_MESSAGE_PUMP_POSIX_H_
 #define BASE_MESSAGE_LOOP_WATCHABLE_IO_MESSAGE_PUMP_POSIX_H_
 

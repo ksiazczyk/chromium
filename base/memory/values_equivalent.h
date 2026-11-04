@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValuesEquivalent pointer comparison utility
+// summary: Defines base::ValuesEquivalent, a template that compares raw and smart pointers by their dereferenced values, with an optional custom predicate.
+// ---
+
 #ifndef BASE_MEMORY_VALUES_EQUIVALENT_H_
 #define BASE_MEMORY_VALUES_EQUIVALENT_H_
 

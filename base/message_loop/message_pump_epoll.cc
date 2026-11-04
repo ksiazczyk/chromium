@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Epoll message pump implementation
+// summary: Implements MessagePumpEpoll, an epoll-based I/O message pump for Linux with fd interest tracking, controller destruction safety, and an optional poll() fallback feature.
+// ---
+
 #include "base/message_loop/message_pump_epoll.h"
 
 #include <sys/eventfd.h>

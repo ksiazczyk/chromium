@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple shared memory mapper implementation
+// summary: Implements Map and Unmap for Apple platforms using Mach vm_map and vm_deallocate calls on the shared memory handle.
+// ---
+
 #include "base/memory/platform_shared_memory_mapper.h"
 
 #include <mach/vm_map.h>

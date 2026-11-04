@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: raw_ptr_exclusion facade header
+// summary: Facade header that re-exports the partition_alloc raw_ptr_exclusion macro under the shorter base/memory include path for convenience.
+// ---
+
 #ifndef BASE_MEMORY_RAW_PTR_EXCLUSION_H_
 #define BASE_MEMORY_RAW_PTR_EXCLUSION_H_
 

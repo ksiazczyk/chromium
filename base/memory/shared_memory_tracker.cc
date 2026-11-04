@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory tracker implementation
+// summary: Singleton that records shared memory mapping usage and emits memory allocator dumps for the tracing system.
+// ---
+
 #include "base/memory/shared_memory_tracker.h"
 
 #include <optional>

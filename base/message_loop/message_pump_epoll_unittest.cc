@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the epoll message pump
+// summary: Tests MessagePumpEpoll fd watching, event dispatch, watcher deletion, and quit behavior using socket pairs and an IO thread.
+// ---
+
 #include "base/message_loop/message_pump_epoll.h"
 
 #include <fcntl.h>

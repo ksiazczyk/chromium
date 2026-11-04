@@ -1,3 +1,13 @@
+---
+type: reference
+title: raw_ptr smart pointer documentation
+summary: Reference documentation for the raw_ptr (MiraclePtr, BackupRefPtr) smart pointer, covering usage rules, performance and limitations.
+relations:
+  - references /base/memory/raw_ref.md
+  - references /styleguide/c++/c++.md
+  - references /build_overrides/partition_alloc.gni
+---
+
 # raw_ptr&lt;T&gt; (aka. MiraclePtr, aka. BackupRefPtr, aka. BRP)
 
 For the equivalent of a C++ reference, see [`raw_ref<T>`](./raw_ref.md).

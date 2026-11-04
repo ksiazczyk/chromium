@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message pump wakeup counter implementation
+// summary: Implements per-thread wakeup counters that record message pump wakeups into UMA Boolean histograms, with a feature flag to inhibit recording.
+// ---
+
 #include "base/message_loop/message_pump_wakeup_counter.h"
 
 #include <atomic>

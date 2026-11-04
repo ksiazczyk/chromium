@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValuesEquivalent unit tests
+// summary: Unit tests covering ValuesEquivalent comparisons for raw pointers, unique_ptr, scoped_refptr, custom Get() types, and predicate-based equality.
+// ---
+
 #include "base/memory/values_equivalent.h"
 
 #include "base/memory/raw_ptr.h"

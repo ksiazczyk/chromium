@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aligned memory unit tests
+// summary: Unit tests verifying alignment, zeroing, and sizing behavior of AlignedUninit, AlignedZeroed, AlignedAlloc, and AlignedCalloc.
+// ---
+
 #include "base/memory/aligned_memory.h"
 
 #include <stdint.h>

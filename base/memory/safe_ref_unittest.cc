@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafeRef unit tests
+// summary: Unit tests covering SafeRef construction, operators, copy and move semantics, base-class conversion, and death tests on invalid pointers.
+// ---
+
 #include "base/memory/safe_ref.h"
 
 #include <optional>

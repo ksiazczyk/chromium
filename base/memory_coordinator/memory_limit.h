@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryLimit percentage-based memory usage limit
+// summary: Defines the MemoryLimit class expressing consumer memory limits as percentages of baseline capacity, with pressure thresholds, scaling helpers, and comparisons.
+// ---
+
 #ifndef BASE_MEMORY_COORDINATOR_MEMORY_LIMIT_H_
 #define BASE_MEMORY_COORDINATOR_MEMORY_LIMIT_H_
 

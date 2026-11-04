@@ -68,6 +68,12 @@
 //    return *fnPtr;
 //  }
 
+// ---docerion
+// type: source
+// title: ProtectedMemory container for security-sensitive data
+// summary: Defines a container that keeps security-sensitive variables read-only except within scoped AutoWritableMemory windows, with mandatory initializer support.
+// ---
+
 #ifndef BASE_MEMORY_PROTECTED_MEMORY_H_
 #define BASE_MEMORY_PROTECTED_MEMORY_H_
 

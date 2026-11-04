@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message pump unit tests
+// summary: Unit tests verifying message pump behavior, including delegate work item accounting, wakeup counters, and platform-specific native loop interactions.
+// ---
+
 #include "base/message_loop/message_pump.h"
 
 #include <type_traits>

@@ -1,3 +1,11 @@
+---
+type: reference
+title: raw_ref<T> documentation
+summary: Documents the raw_ref<T> non-null smart reference, its rebinding and use-after-move behavior, and supported RawPtrTraits.
+relations:
+  - references /base/memory/raw_ptr.md
+---
+
 # raw_ref&lt;T&gt;
 
 `raw_ref<T>` is a non-null smart pointer for C++ references, providing

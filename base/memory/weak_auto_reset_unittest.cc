@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WeakAutoReset unit tests
+// summary: Unit tests verifying WeakAutoReset scoping, nested resets, move semantics, and safe behavior when the target object is destroyed.
+// ---
+
 #include "base/memory/weak_auto_reset.h"
 
 #include <memory>

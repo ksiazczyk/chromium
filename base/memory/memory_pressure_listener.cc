@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory pressure listener implementation
+// summary: Implements base::MemoryPressureListener, which tracks memory pressure levels and delegates notification, suppression, and simulation to the global registry.
+// ---
+
 #include "base/memory/memory_pressure_listener.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SelfDeleting unit tests
+// summary: Unit test verifying that SelfDeleting objects can be created and delete themselves via a pass key.
+// ---
+
 #include "base/memory/self_deleting.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

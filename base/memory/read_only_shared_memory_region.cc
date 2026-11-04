@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadOnlySharedMemoryRegion implementation
+// summary: Implements creation, mapping, duplication, and serialization of read-only shared memory regions on top of platform handles.
+// ---
+
 #include "base/memory/read_only_shared_memory_region.h"
 
 #include <utility>

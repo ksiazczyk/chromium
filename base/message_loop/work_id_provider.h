@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkIdProvider class header
+// summary: Declares WorkIdProvider, which keeps a lock-free per-thread work item id in TLS so the thread profiler can detect tasks spanning multiple samples.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_WORK_ID_PROVIDER_H_
 #define BASE_MESSAGE_LOOP_WORK_ID_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia implementation of PlatformSharedMemoryRegion
+// summary: Implements the platform shared memory region API on Fuchsia with zx::vmo handles, including rights reduction for read-only mode and named VMO creation.
+// ---
+
 #include "base/memory/platform_shared_memory_region.h"
 
 #include <lib/zx/vmar.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnsafeSharedMemoryPool class
+// summary: Declares a thread-safe, reference-counted pool that caches up to 32 UnsafeSharedMemoryRegions to avoid repeated shared memory allocations, with a Handle that returns memory on destruction.
+// ---
+
 #ifndef BASE_MEMORY_UNSAFE_SHARED_MEMORY_POOL_H_
 #define BASE_MEMORY_UNSAFE_SHARED_MEMORY_POOL_H_
 

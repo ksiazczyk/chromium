@@ -1,3 +1,12 @@
+---
+type: readme
+title: //base/memory Types
+summary: Overview of the pointer-like types in //base/memory, explaining when to use raw_ptr, raw_ref, WeakPtr, SafeRef, and scoped_refptr.
+relations:
+  - references /base/memory/raw_ptr.md
+  - references /styleguide/c++/c++.md
+---
+
 # //base/memory Types
 
 ## Overview

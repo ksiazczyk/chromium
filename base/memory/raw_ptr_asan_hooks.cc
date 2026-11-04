@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RawPtrAsanHooks implementation
+// summary: Implements ASAN malloc and free hooks for raw_ptr, tracking allocation metadata and quarantine state while detecting pointer laundering and dangling accesses.
+// ---
+
 #include "base/memory/raw_ptr_asan_hooks.h"
 
 #if PA_BUILDFLAG(USE_ASAN_BACKUP_REF_PTR)

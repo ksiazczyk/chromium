@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefCountedMemory implementations
+// summary: Implements RefCountedMemory variants for static bytes, byte vectors, strings, string16, and read-only shared memory mappings.
+// ---
+
 #include "base/memory/ref_counted_memory.h"
 
 #include <utility>

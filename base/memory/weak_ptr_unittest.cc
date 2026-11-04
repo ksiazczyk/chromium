@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WeakPtr unit tests
+// summary: Extensive unit tests for WeakPtr and WeakPtrFactory covering validity, invalidation, threading, inheritance, and move behavior.
+// ---
+
 #include "base/memory/weak_ptr.h"
 
 #include <algorithm>

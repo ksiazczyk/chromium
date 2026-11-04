@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Singleton unit tests
+// summary: Unit tests for base::Singleton covering default, custom, leaky and static traits, exit callbacks, and alignment of singleton data.
+// ---
+
 #include "base/memory/singleton.h"
 
 #include <stdint.h>

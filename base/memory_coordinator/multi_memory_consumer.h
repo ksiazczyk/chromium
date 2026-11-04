@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiMemoryConsumer interface and registrations
+// summary: Declares the MultiMemoryConsumer interface plus synchronous and asynchronous registration classes that manage several memory interventions and expose per-intervention memory limits.
+// ---
+
 #ifndef BASE_MEMORY_COORDINATOR_MULTI_MEMORY_CONSUMER_H_
 #define BASE_MEMORY_COORDINATOR_MULTI_MEMORY_CONSUMER_H_
 

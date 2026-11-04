@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StructuredSharedMemory typed shared memory wrapper
+// summary: Declares a template that wraps a shared memory region and mapping holding a value of type T, with writable owner access, read-only child mappings, and an AtomicSharedMemory alias.
+// ---
+
 #ifndef BASE_MEMORY_STRUCTURED_SHARED_MEMORY_H_
 #define BASE_MEMORY_STRUCTURED_SHARED_MEMORY_H_
 

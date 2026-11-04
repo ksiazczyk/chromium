@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PlatformSharedMemoryRegion
+// summary: Tests platform shared memory region behavior across platforms, covering creation size limits, mode conversion, duplication, mapping and protection flags.
+// ---
+
 #include "base/memory/platform_shared_memory_region.h"
 
 #include <algorithm>

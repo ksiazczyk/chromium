@@ -1,0 +1,4 @@
+# Docerion header of message_pump_apple.mm.
+type: source
+title: Apple message pump implementation
+summary: Implements the CFRunLoop-based message pumps for macOS and iOS, handling work sources, autorelease pools, nesting and timer slack.

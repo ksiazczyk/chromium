@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscardableMemoryAllocator interface
+// summary: Declares the allocator interface that creates and manages DiscardableMemory, selecting a platform-appropriate implementation and tracking allocated bytes.
+// ---
+
 #ifndef BASE_MEMORY_DISCARDABLE_MEMORY_ALLOCATOR_H_
 #define BASE_MEMORY_DISCARDABLE_MEMORY_ALLOCATOR_H_
 

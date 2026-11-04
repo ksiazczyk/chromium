@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MemoryConsumerRegistry
+// summary: Tests adding and removing memory consumers, suppression of callbacks during registration, and MemoryConsumerRegistration behavior using a mock registry.
+// ---
+
 #include "base/memory_coordinator/memory_consumer_registry.h"
 
 #include <cstdint>

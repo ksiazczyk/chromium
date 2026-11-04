@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeakPtr implementation
+// summary: Implements the internal WeakReference flag, WeakReferenceOwner, and WeakPtrFactoryBase that back base::WeakPtr invalidation and sequence checks.
+// ---
+
 #include "base/memory/weak_ptr.h"
 
 #if DCHECK_IS_ON()

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiscardableSharedMemory unit tests
+// summary: Unit tests covering creation, mapping, lock and unlock, purging, and timestamp handling of DiscardableSharedMemory.
+// ---
+
 #include "base/memory/discardable_shared_memory.h"
 
 #include <fcntl.h>

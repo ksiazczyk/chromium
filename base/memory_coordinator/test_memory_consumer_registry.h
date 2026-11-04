@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMemoryConsumerRegistry declarations
+// summary: Declares a MemoryConsumerRegistry subclass for unit tests that tracks registered consumers and dispatches memory limit and release notifications.
+// ---
+
 #ifndef BASE_MEMORY_COORDINATOR_TEST_MEMORY_CONSUMER_REGISTRY_H_
 #define BASE_MEMORY_COORDINATOR_TEST_MEMORY_CONSUMER_REGISTRY_H_
 

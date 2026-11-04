@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Work ID provider implementation
+// summary: Implements a thread-local WorkIdProvider that tracks the current work item ID without taking locks so it can be read while other threads are suspended.
+// ---
+
 #include "base/message_loop/work_id_provider.h"
 
 #include <memory>

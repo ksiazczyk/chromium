@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory pressure listener registry implementation
+// summary: Implements the global MemoryPressureListenerRegistry that dispatches memory pressure notifications and can suppress them per listener tag via a feature flag mask.
+// ---
+
 #include "base/memory/memory_pressure_listener_registry.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePumpIOSForIO class declaration
+// summary: Declares MessagePumpIOSForIO, an iOS message pump that monitors sockets and issues callbacks when they are ready for I/O.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_MESSAGE_PUMP_IO_IOS_H_
 #define BASE_MESSAGE_LOOP_MESSAGE_PUMP_IO_IOS_H_
 

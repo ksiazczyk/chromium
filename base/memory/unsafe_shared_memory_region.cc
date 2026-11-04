@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnsafeSharedMemoryRegion implementation
+// summary: Implements creation, deserialization, duplication, validity checks, and writable mapping of unsafe platform shared memory regions.
+// ---
+
 #include "base/memory/unsafe_shared_memory_region.h"
 
 #include <utility>

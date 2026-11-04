@@ -1,0 +1,4 @@
+# Docerion header of message_pump_ios_unittest.mm.
+type: test
+title: MessagePumpUIApplication initial nesting level tests
+summary: iOS tests verifying default, set and reset behavior of the UI application message pump's initial nesting level and its unwinding across nested runs.

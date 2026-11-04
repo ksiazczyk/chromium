@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessagePumpGlib unit tests
+// summary: Unit tests for the GLib message pump that inject dummy events into the GLib loop to verify task execution, nesting and IO event dispatching behavior.
+// ---
+
 #include "base/message_loop/message_pump_glib.h"
 
 #include <glib.h>

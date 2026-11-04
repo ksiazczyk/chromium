@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryConsumerRegistry base class and scoped registry helper
+// summary: Declares the base class for registering MemoryConsumers with a global registry, along with ScopedMemoryConsumerRegistry for instantiating singleton registries such as in tests.
+// ---
+
 #ifndef BASE_MEMORY_COORDINATOR_MEMORY_CONSUMER_REGISTRY_H_
 #define BASE_MEMORY_COORDINATOR_MEMORY_CONSUMER_REGISTRY_H_
 

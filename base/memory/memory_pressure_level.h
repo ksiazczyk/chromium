@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryPressureLevel enum
+// summary: Defines the MemoryPressureLevel enum with none, moderate, and critical levels, kept in sync with a generated Java counterpart and enums.xml.
+// ---
+
 #ifndef BASE_MEMORY_MEMORY_PRESSURE_LEVEL_H_
 #define BASE_MEMORY_MEMORY_PRESSURE_LEVEL_H_
 

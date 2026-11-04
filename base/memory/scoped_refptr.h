@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: scoped_refptr reference-counted pointer
+// summary: Defines scoped_refptr, AdoptRef, and helpers for managing reference-counted C++ objects with RefCounted base classes.
+// ---
+
 #ifndef BASE_MEMORY_SCOPED_REFPTR_H_
 #define BASE_MEMORY_SCOPED_REFPTR_H_
 

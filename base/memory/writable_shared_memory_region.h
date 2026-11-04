@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WritableSharedMemoryRegion header
+// summary: Declares the move-only WritableSharedMemoryRegion handle for creating, mapping, and converting writable platform shared memory regions.
+// ---
+
 #ifndef BASE_MEMORY_WRITABLE_SHARED_MEMORY_REGION_H_
 #define BASE_MEMORY_WRITABLE_SHARED_MEMORY_REGION_H_
 

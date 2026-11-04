@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory mapping unit tests
+// summary: Unit tests for shared memory mapping accessors, covering scalar, span, and const-correctness behavior.
+// ---
+
 #include "base/memory/shared_memory_mapping.h"
 
 #include <stdint.h>

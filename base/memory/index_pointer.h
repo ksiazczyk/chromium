@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexPointer for relocation-free static pointers
+// summary: Defines a template that stores pointers as offsets from a static base array to avoid relocations, intended for generated code with rarely accessed constants.
+// ---
+
 #ifndef BASE_MEMORY_INDEX_POINTER_H_
 #define BASE_MEMORY_INDEX_POINTER_H_
 

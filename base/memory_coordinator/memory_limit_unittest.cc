@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MemoryLimit unit tests
+// summary: Unit tests for the MemoryLimit class covering pressure thresholds, factory methods, comparisons, scaling of integers and byte sizes, printing, and death checks on negative percentages.
+// ---
+
 #include "base/memory_coordinator/memory_limit.h"
 
 #include <cstdint>

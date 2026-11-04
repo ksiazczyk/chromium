@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default message pump class declaration
+// summary: Declares MessagePumpDefault, the generic MessagePump that waits on a WaitableEvent, with busy-loop helpers exposed for testing.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_MESSAGE_PUMP_DEFAULT_H_
 #define BASE_MESSAGE_LOOP_MESSAGE_PUMP_DEFAULT_H_
 

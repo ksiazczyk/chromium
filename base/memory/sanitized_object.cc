@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sanitized object allocator implementation
+// summary: Implements operator new handlers that route memory-safety-checked and intended-leak allocations through PartitionAlloc.
+// ---
+
 #include "base/memory/sanitized_object.h"
 
 #include "partition_alloc/buildflags.h"

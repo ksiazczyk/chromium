@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnsafeSharedMemoryRegion class
+// summary: Declares a move-only handle to writable platform shared memory, with create, duplicate, map, and serialization helpers, intended only when read-only sharing is not needed.
+// ---
+
 #ifndef BASE_MEMORY_UNSAFE_SHARED_MEMORY_REGION_H_
 #define BASE_MEMORY_UNSAFE_SHARED_MEMORY_REGION_H_
 

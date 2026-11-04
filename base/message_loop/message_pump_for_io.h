@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePumpForIO forwarding header
+// summary: Forwarding header that coalesces the platform-specific MessagePumpForIO type aliases for Windows, iOS, Apple, Fuchsia, and POSIX.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_MESSAGE_PUMP_FOR_IO_H_
 #define BASE_MESSAGE_LOOP_MESSAGE_PUMP_FOR_IO_H_
 

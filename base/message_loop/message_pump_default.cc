@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default message pump implementation
+// summary: Implements MessagePumpDefault, a platform-neutral message pump that sleeps on a WaitableEvent and includes a busy-loop heuristic with UMA prediction-accuracy metrics.
+// ---
+
 #include "base/message_loop/message_pump_default.h"
 
 #include <optional>

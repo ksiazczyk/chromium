@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePumpWakeupCounter class declaration
+// summary: Declares the MessagePumpWakeupCounter class for enabling and recording per-thread message pump wakeup counts in histograms.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_MESSAGE_PUMP_WAKEUP_COUNTER_H_
 #define BASE_MESSAGE_LOOP_MESSAGE_PUMP_WAKEUP_COUNTER_H_
 

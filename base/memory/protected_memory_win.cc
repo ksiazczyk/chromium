@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protected memory Windows implementation
+// summary: Implements protected memory page protection on Windows using VirtualProtect and VirtualQuery.
+// ---
+
 #include "base/memory/protected_memory.h"
 
 #include <windows.h>
