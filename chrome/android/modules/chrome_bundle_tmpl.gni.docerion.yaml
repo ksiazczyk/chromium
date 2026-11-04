@@ -1,0 +1,4 @@
+# Docerion header of chrome_bundle_tmpl.gni.
+type: source
+title: Chrome app bundle GN template
+summary: Defines the chrome_bundle GN template that instantiates Chrome-specific Android app bundles from feature module descriptors, including Trichrome and multi-ABI handling.

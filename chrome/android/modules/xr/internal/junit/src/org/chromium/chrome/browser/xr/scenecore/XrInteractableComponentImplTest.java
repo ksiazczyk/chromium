@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrInteractableComponentImplTest
+// summary: Robolectric tests for XrInteractableComponentImpl covering interactable state, click and drag listeners, child colliders and disposal.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import static org.junit.Assert.assertEquals;

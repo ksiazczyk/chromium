@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video control panel view
+// summary: Passive Android view for the XR media control panel that forwards user interactions to a listener and exposes UI state updates.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImmersiveVideoPoseManagerTest
+// summary: Robolectric unit tests verifying player and control panel poses in quad and sphere modes, including drag updates and anchor pose handling.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import static org.junit.Assert.assertEquals;

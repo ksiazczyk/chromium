@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the DevUI module provider
+summary: Defines the Java android_library, generated JNI headers, and native source_set targets that build the DevUI module provider.

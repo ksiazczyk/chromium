@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetManager unit tests
+// summary: Robolectric tests for BottomSheetManager acting as a bottom controls layer when the bottom sheet as browser controls feature is enabled.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static org.junit.Assert.assertEquals;

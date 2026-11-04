@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomContainer unit tests
+// summary: Robolectric tests for BottomContainer translation behavior against browser controls offsets, with and without the bottom controls jank improvement flag.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static org.junit.Assert.assertEquals;

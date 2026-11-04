@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrFloatSize3dImpl wrapper for AndroidX FloatSize3d
+// summary: Implements XrFloatSize3d by wrapping an AndroidX FloatSize3d, providing conversion helpers between the two types and equality checks.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import androidx.xr.runtime.math.FloatSize3d;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageViewObserver unit tests
+// summary: Robolectric unit tests for PageViewObserver verifying page view event tracking across tab navigation, selection, and hiding behavior.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import static org.junit.Assert.assertEquals;

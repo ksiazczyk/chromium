@@ -1,0 +1,4 @@
+# Docerion header of chrome_feature_modules.gni.
+type: config
+title: Chrome feature module descriptor lists
+summary: Aggregates feature module descriptors for each Chrome flavor, which are used to autogenerate the relevant module targets and app bundles.

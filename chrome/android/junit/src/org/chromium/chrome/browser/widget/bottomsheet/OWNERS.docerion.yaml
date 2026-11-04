@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates directory ownership to the shared OWNERS file of components/browser_ui/bottomsheet/android.

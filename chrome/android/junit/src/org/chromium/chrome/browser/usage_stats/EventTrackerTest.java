@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EventTracker unit tests
+// summary: Robolectric unit tests for EventTracker covering website event range queries, clearing all events, and clearing events in a range.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import static org.junit.Assert.assertEquals;

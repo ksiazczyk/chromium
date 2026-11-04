@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppLaunchDrawBlocker unit tests
+// summary: Robolectric unit tests verifying AppLaunchDrawBlocker draw-blocking behavior during app launch, including incognito restore handling and histogram reporting.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static org.junit.Assert.assertFalse;

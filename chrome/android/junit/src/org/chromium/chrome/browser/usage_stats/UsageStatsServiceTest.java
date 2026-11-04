@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UsageStatsService unit tests
+// summary: Robolectric unit tests for UsageStatsService that mock bridge JNI calls and preferences to test service behavior such as history deletion.
+// ---
+
 package org.chromium.chrome.browser.usage_stats;
 
 import static org.mockito.ArgumentMatchers.any;

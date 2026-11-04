@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolbarIphController unit tests
+// summary: Unit tests for ToolbarIphController verifying that Glic and bottom toolbar in-product help commands use the right feature, text and dismiss settings.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.junit.Assert.assertEquals;

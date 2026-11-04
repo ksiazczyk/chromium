@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrTransformableEntityHolderImpl base class
+// summary: Abstract base class for XR entity holders that adds movable, resizable and interactable component support and disposes them together.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import androidx.xr.runtime.Session;

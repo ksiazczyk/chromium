@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnDemandModuleEntryPointsImpl implementation in the APK split
+// summary: Implements OnDemandModuleEntryPoints inside the APK split, providing the PDF entry point and creating Bricks or BricksJava coordinators depending on the URL.
+// ---
+
 package org.chromium.chrome.modules.on_demand;
 
 import android.content.Context;

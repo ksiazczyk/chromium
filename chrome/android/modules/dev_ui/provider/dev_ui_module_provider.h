@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevUiModuleProvider class declaration
+// summary: Declares the dev_ui::DevUiModuleProvider singleton interface for checking, installing, and loading the DevUI module, with virtual methods and a test instance hook for testing.
+// ---
+
 #ifndef CHROME_ANDROID_MODULES_DEV_UI_PROVIDER_DEV_UI_MODULE_PROVIDER_H_
 #define CHROME_ANDROID_MODULES_DEV_UI_PROVIDER_DEV_UI_MODULE_PROVIDER_H_
 

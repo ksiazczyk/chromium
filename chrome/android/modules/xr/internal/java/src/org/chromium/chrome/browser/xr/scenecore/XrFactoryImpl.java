@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrFactoryImpl concrete factory for XR SceneCore objects
+// summary: Implements XrFactory to create XR vectors, quaternions, poses, float sizes, and surface and panel entities from an AndroidX XR session.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import android.view.View;

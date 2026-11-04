@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActivityRecreationControllerUnitTest
+// summary: Robolectric unit tests for ActivityRecreationController, verifying activity recreation UI state, layout observers, and omnibox focus handling with Mockito mocks.
+// ---
+
 package org.chromium.chrome.browser.ui.activity_recreation;
 
 import static org.junit.Assert.assertEquals;

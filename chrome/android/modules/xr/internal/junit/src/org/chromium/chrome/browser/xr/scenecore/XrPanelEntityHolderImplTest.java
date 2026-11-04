@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrPanelEntityHolderImplTest
+// summary: Robolectric tests for XrPanelEntityHolderImpl covering entity size, pixel size, corner radius and pose get and set operations.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import static org.junit.Assert.assertEquals;

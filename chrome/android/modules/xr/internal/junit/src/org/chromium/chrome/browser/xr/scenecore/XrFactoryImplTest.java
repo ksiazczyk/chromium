@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrFactoryImplTest
+// summary: Robolectric tests for XrFactoryImpl verifying creation of XR vectors, quaternions, poses, sizes, panel entities and surface entities.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrSceneCoreSessionManagerImpl session wrapper
+// summary: Implements XrSceneCoreSessionManager by wrapping an AndroidX XR Session, loading native XR libraries and managing space mode, bounds and head pose.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import android.annotation.SuppressLint;

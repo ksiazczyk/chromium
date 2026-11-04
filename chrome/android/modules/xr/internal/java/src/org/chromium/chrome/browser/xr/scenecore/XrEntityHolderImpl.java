@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrEntityHolderImpl abstract base for XR entity holders
+// summary: Base class implementing XrEntityHolder, wrapping AndroidX SceneCore entities with pose, scale, alpha, enablement, parenting, and disposal handling.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import androidx.xr.runtime.Session;

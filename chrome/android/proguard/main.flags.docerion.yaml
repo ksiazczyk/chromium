@@ -1,0 +1,4 @@
+# Docerion header of main.flags.
+type: config
+title: Main ProGuard flags for Chrome Android
+summary: Main ProGuard rules keeping fragments, split-compat implementations and Material appbar classes, plus dontwarn entries for stripped module classes.

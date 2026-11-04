@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImmersiveVideoPlayerCoordinatorTest
+// summary: Robolectric unit tests for the immersive video player coordinator, covering surface entity setup, focus, and interactable, resizable, and movable XR components.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrMovableComponentImpl for movable XR entities
+// summary: Implements XrMovableComponent, making entities system- or custom-movable and forwarding move start, update, and end events to listeners.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import androidx.xr.runtime.Session;

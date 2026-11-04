@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates ownership of the partnercustomizations native Java unit tests directory to the OWNERS file in chrome/browser/partnercustomizations.

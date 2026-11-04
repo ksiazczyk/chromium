@@ -1,0 +1,4 @@
+# Docerion header of apk_for_test.flags.
+type: config
+title: ProGuard flags for the test APK
+summary: ProGuard rules applied only to chrome_public_apk_for_test, keeping test class and annotation names to avoid obfuscation errors.

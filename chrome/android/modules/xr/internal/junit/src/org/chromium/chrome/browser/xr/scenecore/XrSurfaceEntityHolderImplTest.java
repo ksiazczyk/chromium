@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrSurfaceEntityHolderImplTest
+// summary: Robolectric unit tests for XrSurfaceEntityHolderImpl covering creation, disposal, callback registration and notification, surface pixel dimensions, and stereo mode handling.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import static org.junit.Assert.assertEquals;

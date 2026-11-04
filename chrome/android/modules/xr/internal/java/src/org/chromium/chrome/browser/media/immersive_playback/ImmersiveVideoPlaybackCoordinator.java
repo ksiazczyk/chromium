@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImmersiveVideoPlaybackCoordinator
+// summary: Coordinator for the XR immersive video player, orchestrating player, controls, format, auto-hide, and pose components via the SceneCore session manager.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

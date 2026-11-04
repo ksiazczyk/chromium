@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrModuleProviderImpl provider for XR SceneCore sessions
+// summary: Registers the XR factory, supplies XR SceneCore session managers and initializers, and creates the immersive video playback activity.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import android.app.Activity;

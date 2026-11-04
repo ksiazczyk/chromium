@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImmersiveVideoControlMediatorTest
+// summary: Robolectric unit tests verifying media position and playback state updates, seekbar ticking, and visibility-driven resynchronization in the immersive video control mediator.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import static org.junit.Assert.assertEquals;

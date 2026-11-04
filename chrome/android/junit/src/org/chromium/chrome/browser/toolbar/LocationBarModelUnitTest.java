@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocationBarModel unit tests
+// summary: Robolectric unit tests for the LocationBarModel, covering omnibox URL bar data, security levels, offline pages and theming with mocked tabs and profiles.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UndoBarContentFactoryTest
+// summary: Robolectric tests verifying that UndoBarContentFactory builds the correct undo bar message template, content, and UMA type for single tabs, multiple tabs, all tabs, and tab group cases.
+// ---
+
 package org.chromium.chrome.browser.undo_tab_close_snackbar;
 
 import static org.junit.Assert.assertEquals;

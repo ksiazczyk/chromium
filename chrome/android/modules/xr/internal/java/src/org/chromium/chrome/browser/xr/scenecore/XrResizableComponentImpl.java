@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrResizableComponentImpl resize handling
+// summary: Implements the XrResizableComponent interface, managing minimum and maximum sizes, resize listeners and aspect ratio for XR entities.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import androidx.xr.runtime.Session;

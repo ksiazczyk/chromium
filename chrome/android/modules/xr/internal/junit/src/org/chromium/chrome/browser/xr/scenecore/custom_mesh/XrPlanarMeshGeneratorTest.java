@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrPlanarMeshGeneratorTest
+// summary: Robolectric unit tests verifying defaults, setters and clamping of XrPlanarMeshGenerator.Config for planar XR mesh generation.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore.custom_mesh;
 
 import static org.junit.Assert.assertEquals;

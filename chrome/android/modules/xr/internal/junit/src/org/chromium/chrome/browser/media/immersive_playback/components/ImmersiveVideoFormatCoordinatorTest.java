@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImmersiveVideoFormatCoordinatorTest
+// summary: Robolectric unit tests covering creation, showing, and dismissal of the XR immersive video format coordinator panel with stereo mode and projection type.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import static org.junit.Assert.assertFalse;

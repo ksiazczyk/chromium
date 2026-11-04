@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrQuaternionImpl quaternion wrapper
+// summary: Implements the XrQuaternion interface by wrapping an AndroidX Quaternion, with yaw creation, rotation of vectors and conversion helpers.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import androidx.xr.runtime.math.Quaternion;

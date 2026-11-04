@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppThemeColorProvider unit tests
+// summary: Robolectric unit tests for AppThemeColorProvider, checking toolbar tint and activity focus tint behavior across multi-window, incognito and focus changes.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.junit.Assert.assertEquals;

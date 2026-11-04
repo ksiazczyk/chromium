@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrSeamlessSphereMeshGenerator – seamless sphere mesh builder
+// summary: Generates a seamless UV-mapped sphere mesh for 360-degree immersive SceneCore content, with inward texture padding to prevent filtering seam artifacts.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore.custom_mesh;
 
 import org.chromium.build.annotations.NullMarked;

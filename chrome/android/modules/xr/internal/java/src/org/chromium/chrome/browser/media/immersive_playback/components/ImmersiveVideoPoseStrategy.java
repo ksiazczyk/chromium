@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video pose strategy interface
+// summary: Strategy interface defining callbacks for projection-specific player and control panel pose management.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import org.chromium.build.annotations.NullMarked;

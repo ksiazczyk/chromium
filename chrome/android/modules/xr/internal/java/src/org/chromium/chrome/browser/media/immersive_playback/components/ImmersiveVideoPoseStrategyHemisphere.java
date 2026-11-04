@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video pose strategy for hemisphere projection
+// summary: Positions the immersive video control panel following the hemisphere projection's pose and rotation by extending the sphere pose strategy.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import org.chromium.build.annotations.NullMarked;

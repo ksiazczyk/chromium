@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevUiModuleProvider
+// summary: Java helpers called from native code to check installation, install, and load the DevUI dynamic feature module.
+// ---
+
 package org.chromium.chrome.modules.dev_ui;
 
 import org.jni_zero.CalledByNative;

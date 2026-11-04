@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImmersiveVideoPlaybackActivityTest
+// summary: JUnit tests for the ImmersiveVideoPlaybackActivity, verifying immersive video playback behavior on Android XR devices using Mockito mocks and Chrome transit test rules.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback;
 
 import static org.junit.Assume.assumeTrue;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video pose strategy for quad projection
+// summary: Manages player and control panel poses for quad (flat screen) projection, including ray-based drag handling with distance-scaled depth sensitivity.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import org.chromium.build.annotations.NullMarked;

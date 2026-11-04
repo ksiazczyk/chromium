@@ -1,0 +1,4 @@
+# Docerion header of xr_module.gni.
+type: config
+title: XR module build configuration
+summary: GN configuration describing the XR module, its Java dependencies and 64-bit JNI libraries, with the ABI chosen from target_cpu.

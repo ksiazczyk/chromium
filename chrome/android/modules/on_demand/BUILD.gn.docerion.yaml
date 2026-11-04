@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the on_demand module
+summary: Defines GN build targets for the Chrome on-demand feature module's Java classes, split between the base module and the APK split.

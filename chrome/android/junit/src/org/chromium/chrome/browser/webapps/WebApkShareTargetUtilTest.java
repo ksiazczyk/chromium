@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkShareTargetUtilTest
+// summary: Tests WebApkShareTargetUtil's construction of POST data from WebAPK share target parameters and file types.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.net.Uri;

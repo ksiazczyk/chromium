@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app touch filtering unit tests
+// summary: Robolectric tests verifying that WebappActivity and SameTaskWebApkActivity discard touch events delivered while the activity is not resumed.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.junit.Assert.assertFalse;

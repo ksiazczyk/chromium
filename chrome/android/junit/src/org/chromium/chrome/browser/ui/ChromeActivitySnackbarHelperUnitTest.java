@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeActivitySnackbarHelper unit tests
+// summary: Robolectric tests for ChromeActivitySnackbarHelper's bottom margin supplier driven by edge-to-edge insets and bottom sheet offsets.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static org.junit.Assert.assertEquals;

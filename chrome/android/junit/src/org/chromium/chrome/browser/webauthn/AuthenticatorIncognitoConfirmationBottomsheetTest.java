@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn incognito confirmation bottom sheet tests
+// summary: Robolectric JUnit tests for the Android WebAuthn incognito confirmation bottom sheet, covering bottom sheet display and positive or negative user response callbacks.
+// ---
+
 package org.chromium.chrome.browser.webauthn;
 
 import static org.mockito.ArgumentMatchers.any;

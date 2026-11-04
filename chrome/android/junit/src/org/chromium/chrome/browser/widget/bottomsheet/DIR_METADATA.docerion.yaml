@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Maps this directory to the UI>Browser>Mobile>NavPanel monorail component and Buganizer component 1457471 for issue routing.

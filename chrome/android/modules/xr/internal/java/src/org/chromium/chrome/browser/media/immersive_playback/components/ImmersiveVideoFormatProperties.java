@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video format panel properties
+// summary: Defines property keys for the immersive playback format selection panel, including selected and recommended stereo modes and projection types.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import org.chromium.build.annotations.NullMarked;

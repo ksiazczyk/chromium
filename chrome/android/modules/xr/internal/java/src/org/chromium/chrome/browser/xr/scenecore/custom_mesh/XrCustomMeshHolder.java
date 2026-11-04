@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrCustomMeshHolder – custom mesh surface entity manager
+// summary: Abstract base class managing a SurfaceEntity with dynamic custom mesh geometry, including its collider entity, interaction component and disposal state.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore.custom_mesh;
 
 import android.annotation.SuppressLint;

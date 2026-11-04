@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExpandedSheetHelperImpl unit tests
+// summary: Robolectric tests verifying ExpandedSheetHelperImpl obscures tabs and suspends modal dialogs when the bottom sheet expands and collapses.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static org.mockito.ArgumentMatchers.any;

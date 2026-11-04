@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrSurfaceEntityUtils mesh helpers
+// summary: Utility class for AndroidX SurfaceEntity that builds custom meshes, including triangle meshes and draw modes, from XrMeshData arrays.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import android.annotation.SuppressLint;

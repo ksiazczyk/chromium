@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColorProviderBridgeImplTest
+// summary: Robolectric unit tests verifying that ColorProviderBridgeImpl resolves valid theme colors for every AndroidColorRole, including null-context fallback and non-material themes.
+// ---
+
 package org.chromium.chrome.browser.ui.color;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrPixelDensityImpl for dp, pixel, and meter conversion
+// summary: Implements XrPixelDensity, computing pixels and dp per meter from XR extensions or display density and converting between dp, pixels, and meters.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import android.util.DisplayMetrics;

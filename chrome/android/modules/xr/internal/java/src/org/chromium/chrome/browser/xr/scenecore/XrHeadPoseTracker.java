@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrHeadPoseTracker polling tracker for user head pose
+// summary: Polls the head pose from the XR session manager at a fixed interval and invokes a callback whenever the pose changes.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import android.os.Handler;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for native Java unittests
+summary: Defines include rules that allow dependencies on Chromium components such as image fetching, profiles, omnibox, payments, and search engines while restricting content public Java imports.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for undo_tab_close_snackbar tests
+summary: Points to the OWNERS file of the main undo_tab_close_snackbar source directory, applying the same code owners to the JUnit tests.

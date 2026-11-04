@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video format selection panel view
+// summary: Custom ViewGroup that inflates the format selection layout and exposes the radio group with accessibility focus support.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import android.content.Context;

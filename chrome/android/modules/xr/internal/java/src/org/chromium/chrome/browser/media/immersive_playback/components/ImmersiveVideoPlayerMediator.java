@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video player mediator
+// summary: Mediator that updates the player panel property model with stereo mode, shape, pose and player size values.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import org.chromium.base.lifetime.DestroyChecker;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the on_demand module
+summary: Sets the allowed include rules for the on_demand module directory, permitting Chromium bookmarks Android Java sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExclusiveAccessContext tests
+// summary: Robolectric tests for ExclusiveAccessContext native touch-down notifications and SnackbarManager retrieval from WindowAndroid.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static org.junit.Assert.assertSame;

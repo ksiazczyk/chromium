@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video control panel coordinator
+// summary: Coordinates the XR media control panel, owning its property model, view, mediator, and spatial panel entity holder.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import static org.chromium.build.NullUtil.assumeNonNull;
