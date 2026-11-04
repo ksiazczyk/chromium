@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User data snapshot browser tests
+// summary: Browser test base fixture that simulates user actions, a snapshot, and a downgrade to verify browser behavior after snapshot restoration.
+// ---
+
 #include <map>
 #include <memory>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download offline content provider unit tests
+// summary: Unit tests for DownloadOfflineContentProvider covering item queries, visuals, share info, and download state updates using mock download items.
+// ---
+
 #include "chrome/browser/download/download_offline_content_provider.h"
 
 #include <utility>

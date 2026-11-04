@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download permission request implementation
+// summary: Implements the permission prompt that lets users allow or deny multiple downloads from one site, forwarding the decision to the download request limiter.
+// ---
+
 #include "chrome/browser/download/download_permission_request.h"
 
 #include <memory>

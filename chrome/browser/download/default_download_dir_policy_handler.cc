@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default download directory policy handler implementation
+// summary: Applies the DefaultDownloadDirectory policy, expanding path parameters and setting download and save-file default preferences.
+// ---
+
 #include "chrome/browser/download/default_download_dir_policy_handler.h"
 
 #include "base/files/file_path.h"

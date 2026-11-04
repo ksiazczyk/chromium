@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation feature flag definitions
+// summary: Defines the kDictation feature and its field trial parameters such as eval mode, extension backend choice, and session end behavior.
+// ---
+
 #include "chrome/browser/dictation/features.h"
 
 #include <string>

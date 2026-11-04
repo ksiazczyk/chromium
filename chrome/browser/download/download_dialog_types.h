@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download dialog type enums
+// summary: Defines enums for Android download location dialog types and results whose values are recorded in histograms and must stay stable.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_DIALOG_TYPES_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_DIALOG_TYPES_H_
 

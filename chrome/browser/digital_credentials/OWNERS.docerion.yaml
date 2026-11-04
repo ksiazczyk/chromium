@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the digital credentials folder
+summary: Delegates ownership approvals to the OWNERS file of content/browser/digital_credentials.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download UI enterprise util unit tests
+// summary: Unit tests for DoesDownloadConnectorBlock, verifying when enterprise cloud content analysis connectors block download UI actions based on policy configuration.
+// ---
+
 #include "chrome/browser/download/download_ui_enterprise_util.h"
 
 #include "base/json/json_reader.h"

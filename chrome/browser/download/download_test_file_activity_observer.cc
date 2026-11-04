@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadTestFileActivityObserver implementation
+// summary: Implements a mock download manager delegate for tests that controls whether file chooser dialogs are shown and whether downloads may be opened.
+// ---
+
 #include "chrome/browser/download/download_test_file_activity_observer.h"
 
 #include <utility>

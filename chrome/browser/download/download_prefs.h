@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download preferences declaration
+// summary: Declares DownloadPrefs, which stores download-related preferences such as download path, auto-open extensions, and download restrictions.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_PREFS_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_PREFS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Downgrade directory metadata
+summary: Points the directory metadata at the shared enterprise browser COMMON_METADATA mixins.

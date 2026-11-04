@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dictation include rules
+summary: Specifies the allowed include directories for code in the dictation folder via Chromium DEPS rules.

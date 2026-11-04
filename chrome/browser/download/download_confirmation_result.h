@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadConfirmationResult enum
+// summary: Defines results of the RequestConfirmation delegate call, including confirmed, failed, canceled, continue without confirmation, and an Android-specific dialog case.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_CONFIRMATION_RESULT_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_CONFIRMATION_RESULT_H_
 

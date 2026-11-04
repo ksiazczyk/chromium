@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadItemWarningData unit tests
+// summary: Unit tests verifying that warning action events are recorded with correct surface, action, latency, and terminal-action values.
+// ---
+
 #include "chrome/browser/download/download_item_warning_data.h"
 
 #include <vector>

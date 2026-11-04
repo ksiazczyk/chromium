@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation onboarding manager implementation
+// summary: Shows the first-run onboarding dialog before dictation sessions and records completion in profile preferences.
+// ---
+
 #include "chrome/browser/dictation/onboarding_manager.h"
 
 #include "base/functional/bind.h"

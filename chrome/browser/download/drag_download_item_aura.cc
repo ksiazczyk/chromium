@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura drag download item implementation
+// summary: Implements DragDownloadItem for Aura, starting drag-and-drop of a completed download with file data and an optional drag image.
+// ---
+
 #include <string>
 
 #include "base/files/file_path.h"

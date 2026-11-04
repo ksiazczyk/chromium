@@ -7,6 +7,12 @@
 // window is active, which requires real window activation. Registration
 // lifecycle is covered by unit tests.
 
+// ---docerion
+// type: test
+// title: Dictation global hotkey interactive UI tests
+// summary: Interactive UI tests for the OS-wide stop-dictation hotkey across focused, unfocused and other-profile windows.
+// ---
+
 #include "base/check.h"
 #include "chrome/browser/dictation/dictation_browser_test_base.h"
 #include "chrome/browser/dictation/dictation_keyed_service.h"

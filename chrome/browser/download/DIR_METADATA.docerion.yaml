@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the download directory
+summary: Points the download directory to the shared download component metadata mixins used for code search and ownership metadata.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation keyed service unit tests
+// summary: Unit tests for the dictation keyed service covering hotkey management, session entry points, and the reviewing page status UI.
+// ---
+
 #include "chrome/browser/dictation/dictation_keyed_service.h"
 
 #include "base/test/bind.h"

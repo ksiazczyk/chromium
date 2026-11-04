@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation interactive browser test base
+// summary: Declares a test base class with helpers to start dictation sessions and drive extension stream state and transcription updates.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_DICTATION_INTERACTIVE_BROWSER_TEST_BASE_H_
 #define CHROME_BROWSER_DICTATION_DICTATION_INTERACTIVE_BROWSER_TEST_BASE_H_
 

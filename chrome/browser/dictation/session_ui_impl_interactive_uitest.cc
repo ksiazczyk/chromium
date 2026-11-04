@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session UI interactive UI tests
+// summary: Interactive UI tests verifying that invoking the dictation hotkey from a second window moves the dictation UI to the active window.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/functional/function_ref.h"
 #include "base/test/run_until.h"

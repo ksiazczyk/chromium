@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation interactive browser test base implementation
+// summary: Implements shared interactive test steps for dictation, such as starting sessions and waiting for stream events.
+// ---
+
 #include "chrome/browser/dictation/dictation_interactive_browser_test_base.h"
 
 #include "base/test/run_until.h"

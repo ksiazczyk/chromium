@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock download core service header
+// summary: Declares MockDownloadCoreService, a gmock implementation of DownloadCoreService with mocked delegate, UI controller, history, and shutdown methods for tests.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_MOCK_DOWNLOAD_CORE_SERVICE_H_
 #define CHROME_BROWSER_DOWNLOAD_MOCK_DOWNLOAD_CORE_SERVICE_H_
 

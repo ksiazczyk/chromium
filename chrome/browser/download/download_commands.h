@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download commands header
+// summary: Declares the DownloadCommands class and its command enum covering download actions like open, cancel, pause, resume, deep scan, and media app editing.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_COMMANDS_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_COMMANDS_H_
 

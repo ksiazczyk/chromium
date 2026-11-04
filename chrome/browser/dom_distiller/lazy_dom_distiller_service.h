@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy DOM distiller service declaration
+// summary: Declares LazyDomDistillerService, a profile-owned wrapper that defers creation of the DomDistillerService until it is first used.
+// ---
+
 #ifndef CHROME_BROWSER_DOM_DISTILLER_LAZY_DOM_DISTILLER_SERVICE_H_
 #define CHROME_BROWSER_DOM_DISTILLER_LAZY_DOM_DISTILLER_SERVICE_H_
 

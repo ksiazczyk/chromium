@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Downgrade build targets and test sources
+summary: GN build file defining the downgrade source sets, their dependencies, and the unit and browser test targets gated by enable_downgrade_processing.

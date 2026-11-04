@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation browser test base declaration
+// summary: Declares the base class providing common settings, helpers and session control for dictation browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_DICTATION_BROWSER_TEST_BASE_H_
 #define CHROME_BROWSER_DICTATION_DICTATION_BROWSER_TEST_BASE_H_
 

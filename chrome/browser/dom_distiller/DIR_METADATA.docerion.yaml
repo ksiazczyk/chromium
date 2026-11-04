@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for dom_distiller
+summary: Points to the shared DOM distiller metadata mixins that apply to this directory.

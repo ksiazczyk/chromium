@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downgrade manager interface
+// summary: Declares DowngradeManager, which detects downgrades, updates the Last Version file, and processes or restores User Data after a downgrade.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNGRADE_DOWNGRADE_MANAGER_H_
 #define CHROME_BROWSER_DOWNGRADE_DOWNGRADE_MANAGER_H_
 

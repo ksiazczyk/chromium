@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadQuery implementation
+// summary: Implements DownloadQuery, which filters and sorts download items by criteria such as time, URL, filename, bytes, and MIME type.
+// ---
+
 #include "chrome/browser/download/download_query.h"
 
 #include <stdint.h>

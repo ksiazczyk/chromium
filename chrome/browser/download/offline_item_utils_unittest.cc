@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflineItemUtils unit tests
+// summary: Unit tests verifying OfflineItemUtils conversions and state mapping using mock download items.
+// ---
+
 #include "chrome/browser/download/offline_item_utils.h"
 
 #include <array>

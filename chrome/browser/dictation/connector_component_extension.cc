@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation connector component extension installation
+// summary: Loads the manifest and installs the Dictation Connector component extension, then notifies the keyed service.
+// ---
+
 #include "chrome/browser/dictation/connector_component_extension.h"
 
 #include "base/files/file_path.h"

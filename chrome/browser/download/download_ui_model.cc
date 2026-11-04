@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download UI model implementation
+// summary: Implements DownloadUIModel, which supplies status text, danger warnings, icons, and display properties for download items in Chrome's download UI.
+// ---
+
 #include "chrome/browser/download/download_ui_model.h"
 
 #include <utility>

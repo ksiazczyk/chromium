@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop digital identity provider header
+// summary: Declares DigitalIdentityProviderDesktop, the desktop implementation of DigitalIdentityProvider that retrieves credentials from a mobile device via the FIDO hybrid flow.
+// ---
+
 #ifndef CHROME_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_PROVIDER_DESKTOP_H_
 #define CHROME_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_PROVIDER_DESKTOP_H_
 

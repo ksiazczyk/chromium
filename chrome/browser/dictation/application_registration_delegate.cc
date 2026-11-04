@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application-wide hotkey registration implementation
+// summary: Implements profile-scoped dictation hotkey registration with the FocusManager of all current and future browser windows.
+// ---
+
 #include "chrome/browser/dictation/application_registration_delegate.h"
 
 #include "base/memory/raw_ref.h"

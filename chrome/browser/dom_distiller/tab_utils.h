@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab distillation utilities declaration
+// summary: Declares functions to distill the current page, view distilled content in another tab, and run readability heuristics on a WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_DOM_DISTILLER_TAB_UTILS_H_
 #define CHROME_BROWSER_DOM_DISTILLER_TAB_UTILS_H_
 

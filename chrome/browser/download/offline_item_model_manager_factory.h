@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemModelManagerFactory class declaration
+// summary: Declares the singleton ProfileKeyedServiceFactory that creates and associates an OfflineItemModelManager with a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_OFFLINE_ITEM_MODEL_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_DOWNLOAD_OFFLINE_ITEM_MODEL_MANAGER_FACTORY_H_
 

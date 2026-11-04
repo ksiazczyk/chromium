@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the lazy DOM distiller service
+// summary: Implements a wrapper that defers creation of the DOM distiller service until first use and stores it as profile user data.
+// ---
+
 #include "chrome/browser/dom_distiller/lazy_dom_distiller_service.h"
 
 #include <utility>

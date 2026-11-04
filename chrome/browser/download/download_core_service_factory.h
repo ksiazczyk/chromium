@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadCoreServiceFactory declaration
+// summary: Declares the singleton ProfileKeyedServiceFactory that owns DownloadCoreService instances, associates them with profiles, and cleans up on profile destruction.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_CORE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_CORE_SERVICE_FACTORY_H_
 

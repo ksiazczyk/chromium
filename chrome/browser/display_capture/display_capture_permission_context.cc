@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display capture permission context implementation
+// summary: Implements DisplayCapturePermissionContext, which always asks for display capture permission and never persists settings.
+// ---
+
 #include "chrome/browser/display_capture/display_capture_permission_context.h"
 
 #include "base/notreached.h"

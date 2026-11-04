@@ -4,6 +4,12 @@
 //
 // Download code which handles CRX files (extensions, themes, apps, ...).
 
+// ---docerion
+// type: source
+// title: CRX download utilities header
+// summary: Declares helpers for installing downloaded CRX files, trusted extension download checks, and test hooks for mock install prompts and offstore install overrides.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_CRX_UTIL_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_CRX_UTIL_H_
 

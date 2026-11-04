@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for display_capture
+summary: Defines the display_capture source set with the permission context sources and dependencies on components/permissions, content settings, and content/public/browser.

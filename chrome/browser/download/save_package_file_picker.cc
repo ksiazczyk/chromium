@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavePackageFilePicker implementation
+// summary: Implements the file selection dialog that asks the user where to save a web page, building save-type options and handling the picked path.
+// ---
+
 #include "chrome/browser/download/save_package_file_picker.h"
 
 #include <stddef.h>

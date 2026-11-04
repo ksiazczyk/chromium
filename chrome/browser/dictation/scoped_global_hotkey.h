@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedGlobalHotkey header
+// summary: Declares ScopedGlobalHotkey, which registers an OS-wide accelerator for the object's lifetime so dictation can be stopped from any window.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_SCOPED_GLOBAL_HOTKEY_H_
 #define CHROME_BROWSER_DICTATION_SCOPED_GLOBAL_HOTKEY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadCompletionBlocker class declaration
+// summary: Declares a SupportsUserData helper that subsystems pair with ShouldCompleteDownload to block a DownloadItem's completion until CompleteDownload runs its callback.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_COMPLETION_BLOCKER_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_COMPLETION_BLOCKER_H_
 

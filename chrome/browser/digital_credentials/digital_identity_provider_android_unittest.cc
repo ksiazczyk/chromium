@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android digital identity provider unit tests
+// summary: Unit tests verifying DigitalIdentityProviderAndroid::ParseResult handles success, empty results, invalid JSON, and non-strict JSON with comments.
+// ---
+
 #include "chrome/browser/digital_credentials/digital_identity_provider_android.h"
 
 #include "base/values.h"

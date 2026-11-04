@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedSourcesManager header
+// summary: Declares TrustedSourcesManager, which checks whether a download URL comes from a trusted source configured via a command line switch.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_TRUSTED_SOURCES_MANAGER_H_
 #define CHROME_BROWSER_DOWNLOAD_TRUSTED_SOURCES_MANAGER_H_
 

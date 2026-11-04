@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline item model manager implementation
+// summary: Implements creation, lookup, and removal of OfflineItemModelData entries keyed by ContentId for a profile.
+// ---
+
 #include "chrome/browser/download/offline_item_model_manager.h"
 
 OfflineItemModelManager::OfflineItemModelManager(

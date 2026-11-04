@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline item download UI model implementation
+// summary: Implements DownloadUIModel on top of an OfflineItem, exposing progress, danger state, and download actions for the offline items collection.
+// ---
+
 #include "chrome/browser/download/offline_item_model.h"
 
 #include <string>

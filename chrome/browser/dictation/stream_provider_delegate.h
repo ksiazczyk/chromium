@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamProviderDelegate interface
+// summary: Declares the delegate interface through which a stream provider reports state updates to the dictation session controller.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_STREAM_PROVIDER_DELEGATE_H_
 #define CHROME_BROWSER_DICTATION_STREAM_PROVIDER_DELEGATE_H_
 

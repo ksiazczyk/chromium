@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemUtils class declaration
+// summary: Declares utility methods for creating OfflineItems from downloads, mapping interrupt reasons to fail states, and converting rename results.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_OFFLINE_ITEM_UTILS_H_
 #define CHROME_BROWSER_DOWNLOAD_OFFLINE_ITEM_UTILS_H_
 

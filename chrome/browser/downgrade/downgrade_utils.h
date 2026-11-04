@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downgrade utilities header
+// summary: Declares helpers for generating delete-suffixed temporary names and moving directory contents without a copy-and-delete fallback.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNGRADE_DOWNGRADE_UTILS_H_
 #define CHROME_BROWSER_DOWNGRADE_DOWNGRADE_UTILS_H_
 

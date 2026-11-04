@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for digital identity low risk origins
+// summary: Tests the low-risk origin logic using a mocked optimization guide service, covering low-friction URL decisions and origin matching behavior.
+// ---
+
 #include "chrome/browser/digital_credentials/digital_identity_low_risk_origins.h"
 
 #include <memory>

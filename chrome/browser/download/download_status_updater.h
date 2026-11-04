@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadStatusUpdater class declaration
+// summary: Declares DownloadStatusUpdater, which tracks browser-wide download progress and manages profile keep-alives while downloads are active.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_STATUS_UPDATER_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_STATUS_UPDATER_H_
 

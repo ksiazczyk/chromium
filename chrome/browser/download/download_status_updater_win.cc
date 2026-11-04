@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadStatusUpdater Windows implementation
+// summary: Implements the Windows platform hook that shows download progress on browser window taskbar buttons via the ITaskbarList3 interface.
+// ---
+
 #include "chrome/browser/download/download_status_updater.h"
 
 #include <objbase.h>

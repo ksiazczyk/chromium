@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downgrade preferences registration
+// summary: Registers the user data snapshot retention limit preference used by the downgrade system on non-ChromeOS, non-Android platforms.
+// ---
+
 #include "chrome/browser/downgrade/downgrade_prefs.h"
 
 #include "chrome/common/pref_names.h"

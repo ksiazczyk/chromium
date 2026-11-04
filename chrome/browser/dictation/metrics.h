@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation metrics enums and histogram names
+// summary: Declares histogram name constants and enums describing dictation first-run, session, and stream metrics for Voice Typing.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_METRICS_H_
 #define CHROME_BROWSER_DICTATION_METRICS_H_
 

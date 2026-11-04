@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadTargetDeterminer implementation
+// summary: Implements the logic that determines a download's target path, handling filename conflicts, Safe Browsing danger checks, and user confirmation.
+// ---
+
 #include "chrome/browser/download/download_target_determiner.h"
 
 #include <optional>

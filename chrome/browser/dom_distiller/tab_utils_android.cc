@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bindings for tab distillation utilities
+// summary: Implements Android JNI entry points that bridge Java calls to the tab distillation utilities and expose distiller heuristics.
+// ---
+
 #include "chrome/browser/dom_distiller/tab_utils.h"
 
 #include <string>

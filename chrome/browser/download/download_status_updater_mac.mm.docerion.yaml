@@ -1,0 +1,4 @@
+# Docerion header of download_status_updater_mac.mm.
+type: source
+title: DownloadStatusUpdater macOS implementation
+summary: Implements the macOS platform hook that publishes NSProgress for downloads and updates the dock icon with download count and progress.

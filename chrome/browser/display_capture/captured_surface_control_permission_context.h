@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CapturedSurfaceControlPermissionContext class declaration
+// summary: Declares the CapturedSurfaceControlPermissionContext class extending ContentSettingPermissionContextBase for captured surface control permissions.
+// ---
+
 #ifndef CHROME_BROWSER_DISPLAY_CAPTURE_CAPTURED_SURFACE_CONTROL_PERMISSION_CONTEXT_H_
 #define CHROME_BROWSER_DISPLAY_CAPTURE_CAPTURED_SURFACE_CONTROL_PERMISSION_CONTEXT_H_
 

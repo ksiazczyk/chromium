@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download frame policy browser tests
+// summary: Browser tests covering download permissions for sandboxed and restricted frames, including allow-downloads sandbox tokens and related metrics.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/functional/callback_helpers.h"
 #include "base/memory/raw_ptr.h"

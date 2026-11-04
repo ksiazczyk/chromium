@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation multiplexer implementation
+// summary: Implements routing of transcription updates and stream state changes to the stream provider registered under a given stream ID.
+// ---
+
 #include "chrome/browser/dictation/dictation_multiplexer.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation onboarding interactive UI tests
+// summary: Interactive UI tests verifying that the onboarding dialog can be completed with Enter or canceled with Escape and that focus returns correctly.
+// ---
+
 #include "chrome/browser/dictation/dictation_interactive_browser_test_base.h"
 #include "chrome/browser/dictation/dictation_keyed_service.h"
 #include "chrome/browser/dictation/session_state.h"

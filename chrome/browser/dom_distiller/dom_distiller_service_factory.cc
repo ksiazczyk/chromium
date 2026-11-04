@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the DOM distiller service factory
+// summary: Implements the profile-keyed DOM distiller service and its factory, building distiller instances with per-profile settings and database paths.
+// ---
+
 #include "chrome/browser/dom_distiller/dom_distiller_service_factory.h"
 
 #include <utility>

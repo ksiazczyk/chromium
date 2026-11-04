@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download warning HaTS survey utilities unit tests
+// summary: Unit tests verifying the product-specific data assembled for download warning HaTS surveys using mock download items and a mock HaTS service.
+// ---
+
 #include "chrome/browser/download/download_warning_desktop_hats_utils.h"
 
 #include <memory>

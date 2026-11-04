@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadStatusUpdater unit tests
+// summary: Unit tests for DownloadStatusUpdater covering progress aggregation, manager registration, and notification behavior using mock download managers.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

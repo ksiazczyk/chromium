@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadQuery class header
+// summary: Declares the DownloadQuery class for filtering and sorting vectors of DownloadItem pointers using configurable filters, sorters, and limits.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_QUERY_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_QUERY_H_
 

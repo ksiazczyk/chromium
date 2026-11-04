@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome direct sockets delegate implementation
+// summary: Implements the Chrome Direct Sockets delegate, validating socket requests for extensions and isolated web apps using content settings and socket permission checks.
+// ---
+
 #include "chrome/browser/direct_sockets/chrome_direct_sockets_delegate.h"
 
 #include "base/containers/fixed_flat_set.h"

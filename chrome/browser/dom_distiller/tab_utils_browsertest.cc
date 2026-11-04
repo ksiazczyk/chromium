@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab distillation browser tests
+// summary: Browser tests covering distillation of tabs, viewer navigation, and readability heuristics using an embedded test server and observers.
+// ---
+
 #include "chrome/browser/dom_distiller/tab_utils.h"
 
 #include <string.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionController implementation
+// summary: Implements SessionController, which coordinates the dictation stream provider and UI, managing session state transitions and stream lifecycle.
+// ---
+
 #include "chrome/browser/dictation/session_controller.h"
 
 #include <algorithm>

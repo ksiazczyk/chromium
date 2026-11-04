@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download file picker
+// summary: Shows a save-file dialog so the user can choose a filename for a download, handling fullscreen blocking, dialog creation, and cancellation.
+// ---
+
 #include "chrome/browser/download/download_file_picker.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadRequestLimiter header
+// summary: Declares DownloadRequestLimiter, which limits automatic multiple downloads per page and manages per-tab download state and UI status.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_REQUEST_LIMITER_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_REQUEST_LIMITER_H_
 

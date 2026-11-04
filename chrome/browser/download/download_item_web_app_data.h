@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadItemWebAppData header
+// summary: Declares DownloadItemWebAppData, which stores the web app ID for downloads initiated by web apps and provides accessors to retrieve it.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_ITEM_WEB_APP_DATA_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_ITEM_WEB_APP_DATA_H_
 

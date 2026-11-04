@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadUiController implementation
+// summary: Implements DownloadUIController, which observes a DownloadManager and notifies platform specific delegates, including Android and download bubble, when a new download should be shown.
+// ---
+
 #include "chrome/browser/download/download_ui_controller.h"
 
 #include <memory>

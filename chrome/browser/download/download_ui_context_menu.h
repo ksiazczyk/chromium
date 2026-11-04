@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadUiContextMenu header
+// summary: Declares DownloadUiContextMenu, the base class for platform specific download context menus that observes the download item for removal or destruction.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_UI_CONTEXT_MENU_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_UI_CONTEXT_MENU_H_
 

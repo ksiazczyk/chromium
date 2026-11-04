@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability service factory implementation
+// summary: Implements ShouldCreateService, deciding service creation from command-line switches, policy delegates, and the DomRel-Enable field trial.
+// ---
+
 #include "chrome/browser/domain_reliability/service_factory.h"
 
 #include "base/command_line.h"

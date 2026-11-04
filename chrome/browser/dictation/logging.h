@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation logging interface
+// summary: Declares DictationLogBuffer and the VT_LOG helper for collecting browser dictation logs and flushing them to the extension every 500 ms.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_LOGGING_H_
 #define CHROME_BROWSER_DICTATION_LOGGING_H_
 

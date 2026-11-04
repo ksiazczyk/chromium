@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavePackageFilePicker class declaration
+// summary: Declares the select-file-dialog listener that prompts for a filename when saving a page and blocks fullscreen while the dialog is open.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_SAVE_PACKAGE_FILE_PICKER_H_
 #define CHROME_BROWSER_DOWNLOAD_SAVE_PACKAGE_FILE_PICKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome download manager delegate unit tests
+// summary: Unit tests for ChromeDownloadManagerDelegate covering target determination, danger types, policy blocking and dialog behavior.
+// ---
+
 #include "chrome/browser/download/chrome_download_manager_delegate.h"
 
 #include <stddef.h>

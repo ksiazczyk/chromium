@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download offline content provider implementation
+// summary: Implements a per-profile provider that exposes download items to the offline items collection UI, including thumbnail generation and Android-specific handling.
+// ---
+
 #include "chrome/browser/download/download_offline_content_provider.h"
 
 #include <memory>

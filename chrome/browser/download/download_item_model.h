@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadItemModel header
+// summary: Declares DownloadItemModel, a DownloadUIModel wrapper around a DownloadItem that exposes danger level, warning flags, and open-in-browser preferences.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_ITEM_MODEL_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_ITEM_MODEL_H_
 

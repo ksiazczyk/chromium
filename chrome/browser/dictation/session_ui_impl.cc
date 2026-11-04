@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation session UI implementation
+// summary: Implements SessionUiImpl, which shows the dictation bubble UI and error toasts for a tab and reacts to session state, tab, and stream events.
+// ---
+
 #include "chrome/browser/dictation/session_ui_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped global hotkey registration
+// summary: RAII wrapper that registers a global dictation hotkey with an accelerator listener and asynchronously runs a callback when pressed.
+// ---
+
 #include "chrome/browser/dictation/scoped_global_hotkey.h"
 
 #include <utility>

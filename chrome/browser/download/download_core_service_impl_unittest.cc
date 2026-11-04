@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadCoreServiceImpl unit tests
+// summary: Unit tests for DownloadCoreServiceImpl verifying that CancelDownloads cancels only in-progress downloads and counts downloads canceled at shutdown via the delegate.
+// ---
+
 #include "chrome/browser/download/download_core_service_impl.h"
 
 #include "base/memory/raw_ptr.h"

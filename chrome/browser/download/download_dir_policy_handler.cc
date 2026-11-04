@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download directory policy handler implementation
+// summary: Applies the DownloadDirectory policy by expanding path variables into the default download directory pref and disabling the download prompt when the policy is mandatory.
+// ---
+
 #include "chrome/browser/download/download_dir_policy_handler.h"
 
 #include <stddef.h>

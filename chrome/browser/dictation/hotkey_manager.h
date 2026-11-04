@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation hotkey manager interface
+// summary: Declares HotkeyManager and helpers for reading the dictation hotkey from prefs and registering it, including an OS-wide hotkey while the session is listening.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_HOTKEY_MANAGER_H_
 #define CHROME_BROWSER_DICTATION_HOTKEY_MANAGER_H_
 

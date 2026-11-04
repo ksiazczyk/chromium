@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snapshot file collector header
+// summary: Declares functions that return the user data and profile items to be captured in a downgrade snapshot.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNGRADE_SNAPSHOT_FILE_COLLECTOR_H_
 #define CHROME_BROWSER_DOWNGRADE_SNAPSHOT_FILE_COLLECTOR_H_
 

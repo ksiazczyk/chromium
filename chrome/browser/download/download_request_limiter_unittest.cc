@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadRequestLimiter unit tests
+// summary: Unit tests for DownloadRequestLimiter verifying download permission states, user prompts, and interaction-based resets using mock permission prompts.
+// ---
+
 #include "chrome/browser/download/download_request_limiter.h"
 
 #include <memory>

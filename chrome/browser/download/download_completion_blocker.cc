@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadCompletionBlocker implementation
+// summary: Implements CompleteDownload so the stored callback runs at most once, marking the download item complete with respect to this blocker.
+// ---
+
 #include "chrome/browser/download/download_completion_blocker.h"
 
 

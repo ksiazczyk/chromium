@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadCoreServiceFactory implementation
+// summary: Profile-keyed service factory that builds a DownloadCoreServiceImpl per browser context and declares dependencies on history, notification, and offline content services.
+// ---
+
 #include "chrome/browser/download/download_core_service_factory.h"
 
 #include "chrome/browser/download/download_core_service_impl.h"

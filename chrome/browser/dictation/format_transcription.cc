@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transcription formatting implementation
+// summary: Implements helpers that decide whether whitespace is needed between dictation transcription text and existing content, and trims trailing periods from single-sentence transcriptions.
+// ---
+
 #include "chrome/browser/dictation/format_transcription.h"
 
 #include <unicode/uchar.h>

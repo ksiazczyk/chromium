@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotkey manager unit tests
+// summary: Unit tests for HotkeyManager using fake registration delegates and listeners to verify hotkey registration behavior across preference and session state changes.
+// ---
+
 #include "chrome/browser/dictation/hotkey_manager.h"
 
 #include <memory>

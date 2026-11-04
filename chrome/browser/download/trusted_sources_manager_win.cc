@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedSourcesManager Windows implementation
+// summary: Implements the Windows TrustedSourcesManager using Internet Security Manager zone mapping to decide whether a URL is trusted.
+// ---
+
 #include "chrome/browser/download/trusted_sources_manager.h"
 
 #include <urlmon.h>

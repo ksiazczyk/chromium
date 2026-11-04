@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Build flag for downgrade processing
+summary: Declares the enable_downgrade_processing build argument, enabled everywhere except Android and ChromeOS.

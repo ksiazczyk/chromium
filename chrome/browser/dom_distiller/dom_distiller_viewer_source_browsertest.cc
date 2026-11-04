@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the DOM distiller viewer source
+// summary: Browser tests that check the distilled viewer page's content, theme, font size, loading indicator and preference handling.
+// ---
+
 #include "components/dom_distiller/content/browser/dom_distiller_viewer_source.h"
 
 #include <string.h>

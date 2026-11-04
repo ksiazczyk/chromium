@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android digital identity provider header
+// summary: Declares DigitalIdentityProviderAndroid, the Android implementation of DigitalIdentityProvider that talks to native apps via JNI and handles interstitials and result parsing.
+// ---
+
 #ifndef CHROME_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_PROVIDER_ANDROID_H_
 #define CHROME_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_PROVIDER_ANDROID_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the digital credentials browser code
+summary: Defines GN source sets for the digital credentials browser layer, with platform-specific Android and desktop providers plus a unit test target.

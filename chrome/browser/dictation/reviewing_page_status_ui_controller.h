@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reviewing page status UI controller header
+// summary: Declares the controller deciding when the 'Reviewing page' status UI is shown, with a 60-minute cooldown per document.
+// ---
+
 #ifndef CHROME_BROWSER_DICTATION_REVIEWING_PAGE_STATUS_UI_CONTROLLER_H_
 #define CHROME_BROWSER_DICTATION_REVIEWING_PAGE_STATUS_UI_CONTROLLER_H_
 

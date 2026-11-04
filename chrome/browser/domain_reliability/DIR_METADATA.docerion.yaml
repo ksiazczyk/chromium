@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for domain_reliability
+summary: Points the directory's metadata to the shared Domain Reliability COMMON_METADATA file in components.

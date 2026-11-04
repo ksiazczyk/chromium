@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Listener stream provider implementation
+// summary: Implements a StreamProvider that starts dictation streams through the dictation private extension API, fetching page context and tracking transcription state.
+// ---
+
 #include "chrome/browser/dictation/listener_stream_provider.h"
 
 #include <ostream>

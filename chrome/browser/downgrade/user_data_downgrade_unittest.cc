@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User data downgrade unit tests
+// summary: Unit tests for snapshot helpers covering available and invalid snapshots and selecting a snapshot to restore.
+// ---
+
 #include "chrome/browser/downgrade/user_data_downgrade.h"
 
 #include <optional>

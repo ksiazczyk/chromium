@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DictationKeyedService implementation
+// summary: Implements the per-profile dictation service managing session lifetime, hotkey handling, targets and focused editable lookup.
+// ---
+
 #include "chrome/browser/dictation/dictation_keyed_service.h"
 
 #include <optional>

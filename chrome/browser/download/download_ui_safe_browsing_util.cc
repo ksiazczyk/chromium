@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download UI Safe Browsing utilities implementation
+// summary: Implements helpers that determine how downloads are shown based on Safe Browsing state and verdicts, including danger prompt metrics and download report sending.
+// ---
+
 #include "chrome/browser/download/download_ui_safe_browsing_util.h"
 
 #include "base/metrics/histogram_functions.h"

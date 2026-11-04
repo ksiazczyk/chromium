@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download prompt status enum
+// summary: Defines the DownloadPromptStatus enum that tracks whether the Android download location prompt should be shown, with a generated Java counterpart.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_DOWNLOAD_PROMPT_STATUS_H_
 #define CHROME_BROWSER_DOWNLOAD_DOWNLOAD_PROMPT_STATUS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low risk origin matching for digital credentials
+// summary: Implements checks for whether the last committed origin is a known low-risk or low-friction origin, used as a UI heuristic for the digital credential interstitial.
+// ---
+
 #include "chrome/browser/digital_credentials/digital_identity_low_risk_origins.h"
 
 #include "base/strings/string_util.h"

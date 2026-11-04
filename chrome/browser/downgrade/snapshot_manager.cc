@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snapshot manager implementation
+// summary: Implements taking, restoring, purging, and deleting user data snapshots per Chrome version, including SQLite sidecar files and metrics.
+// ---
+
 #include "chrome/browser/downgrade/snapshot_manager.h"
 
 #include <utility>

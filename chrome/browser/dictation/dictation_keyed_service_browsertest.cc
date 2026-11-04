@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation keyed service browser tests
+// summary: Browser tests for the dictation keyed service covering session start and end, hotkeys, onboarding, context menus, and transcription insertion.
+// ---
+
 #include "chrome/browser/dictation/dictation_keyed_service.h"
 
 #include "base/memory/weak_ptr.h"
