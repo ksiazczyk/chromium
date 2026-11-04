@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover button element Lit template
+// summary: Lit HTML template for the hover button rendering a button label and an icon.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 import {nothing} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 

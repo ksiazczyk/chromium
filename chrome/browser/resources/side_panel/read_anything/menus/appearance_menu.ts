@@ -4,6 +4,12 @@
 
 // Appearance menu element used for the improved Read Aloud UI.
 
+// ---docerion
+// type: source
+// title: Appearance menu element
+// summary: Lit element defining the appearance menu, grouping color theme and side panel or full page presentation options for the Read Anything toolbar.
+// ---
+
 import './grouped_action_menu.js';
 
 import {WebUiListenerMixinLit} from '//resources/cr_elements/web_ui_listener_mixin_lit.js';

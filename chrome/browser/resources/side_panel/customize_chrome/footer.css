@@ -8,6 +8,12 @@
  * #include=toggle-container-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Footer element styles
+summary: Styles for the footer toggle row, sizing the title and spacing the show toggle.
+*/
+
 #showTitle {
   flex-grow: 1;
 }

@@ -9,6 +9,12 @@
  * #include=sp-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Customize Chrome toggle container shared styles
+summary: Shared Lit styles for the show-toggle container row reused by cards in the Customize Chrome side panel.
+*/
+
 #showToggleContainer {
   align-items: center;
   display: flex;

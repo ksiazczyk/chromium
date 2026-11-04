@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowProxy
+// summary: Singleton wrapper around browser built-ins such as Date.now and navigator.onLine so they can be mocked in tests.
+// ---
+
 let instance: WindowProxy|null = null;
 
 declare global {

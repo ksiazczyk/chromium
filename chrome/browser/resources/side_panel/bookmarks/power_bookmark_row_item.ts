@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmark row item element
+// summary: Lit element that renders a single bookmark row in the side panel, with checkbox selection, renaming, expansion, search highlighting and shopping badges.
+// ---
+
 import '//bookmarks-side-panel.top-chrome/shared/sp_list_item_badge.js';
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import '//resources/cr_elements/cr_expand_button/cr_expand_button.js';

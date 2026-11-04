@@ -1,0 +1,4 @@
+# Docerion header of customize_chrome.html.
+type: source
+title: Customize Chrome side panel HTML page
+summary: HTML shell for the Customize Chrome side panel that hosts the customize-chrome-app element and loads app.js with theme and i18n support.

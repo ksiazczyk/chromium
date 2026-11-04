@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomizeChromeToolsElement
+// summary: Lit element for the Customize Chrome side panel that toggles action chip visibility, syncing the setting via the API proxy and recording metrics.
+// ---
+
 import 'chrome://resources/cr_elements/cr_toggle/cr_toggle.js';
 
 import type {CrToggleElement} from 'chrome://resources/cr_elements/cr_toggle/cr_toggle.js';

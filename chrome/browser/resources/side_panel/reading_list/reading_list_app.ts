@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list app element implementation
+// summary: Implements the reading-list-app Lit element that manages unread and read entries, keyboard navigation and API proxy calls.
+// ---
+
 import 'chrome://read-later.top-chrome/shared/sp_empty_state.js';
 import 'chrome://read-later.top-chrome/shared/sp_footer.js';
 import 'chrome://read-later.top-chrome/shared/sp_heading.js';

@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit sp-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Reading list app element styles
+summary: Lit styles for the reading list app element, laying out the side panel content, scroller and footer.
+*/
+
 #content {
   display: flex;
   flex-direction: column;

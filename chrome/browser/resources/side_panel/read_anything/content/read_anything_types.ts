@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading mode shared types
+// summary: Defines shared types, enums, and the EventForwarder helper for dispatching C++ backend events to TypeScript listeners in reading mode.
+// ---
+
 import type {AnchorAlignment} from '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import type {ChromeEvent} from '/tools/typescript/definitions/chrome_event.js';
 

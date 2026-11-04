@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech presentation rules
+// summary: Helper rules for read aloud presentation, including speech rate capping and checks for invalid or punctuation-only highlights.
+// ---
+
 import {AudioBrowserProxyImpl} from './audio_browser_proxy.js';
 
 // Characters that should be ignored for word highlighting when not accompanied

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App element (app.ts)
+// summary: Root Lit element of the Customize Chrome side panel that switches between overview, categories, themes, toolbar and wallpaper search pages.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/shared/sp_heading.js';
 import 'chrome://resources/cr_components/help_bubble/new_badge.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome theme snapshot HTML template
+// summary: Lit HTML template for the theme snapshot element, rendering custom theme, classic Chrome or uploaded image previews.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ThemeSnapshotElement} from './theme_snapshot.js';

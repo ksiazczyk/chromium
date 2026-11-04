@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Line focus controller
+// summary: Coordinates the line focus feature's business logic, managing the model and delegating movement and style behaviors to strategy classes.
+// ---
+
 import type {VisualBrowserProxy} from '../app/visual_browser_proxy.js';
 import {VisualBrowserProxyImpl} from '../app/visual_browser_proxy.js';
 import type {Segment} from '../read_aloud/read_aloud_types.js';

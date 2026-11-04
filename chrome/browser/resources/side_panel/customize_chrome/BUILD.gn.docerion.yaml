@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Customize Chrome side panel WebUI build configuration
+summary: GN build rules that assemble the Customize Chrome side panel WebUI, listing its TypeScript, CSS, static and Mojo-generated files.

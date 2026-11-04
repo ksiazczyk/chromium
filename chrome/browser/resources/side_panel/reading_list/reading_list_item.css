@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Reading list item element styles
+summary: Lit styles for the reading list item element, keeping the checkmark from flipping in RTL layouts.
+*/
+
 :host-context([dir='rtl']) #updateStatusButton {
   /* Prevent checkmark from flipping in RTL. */
   transform: none;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice selection dialog template
+// summary: Lit HTML template for the voice selection dialog with grouped voice radio buttons and preview controls.
+// ---
+
 import '//resources/cr_elements/cr_radio_group/cr_radio_group.js';
 import '//resources/cr_elements/cr_radio_button/cr_radio_button.js';
 

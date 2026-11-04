@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Side panel comments WebUI build rules
+summary: GN build configuration that compiles the comments side panel WebUI with Lit and Mojo TypeScript dependencies.

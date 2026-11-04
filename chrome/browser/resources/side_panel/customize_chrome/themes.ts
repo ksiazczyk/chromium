@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome themes element
+// summary: Lit element for the Customize Chrome side panel that lists background theme collection images and handles theme selection.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/shared/sp_heading.js';
 import 'chrome://resources/cr_elements/cr_auto_img/cr_auto_img.js';
 import 'chrome://resources/cr_elements/cr_grid/cr_grid.js';

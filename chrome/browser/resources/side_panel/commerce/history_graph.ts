@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price history graph element
+// summary: Lit element that draws a product price history graph with d3, including axes, ticks, bubbles and tooltips, for the shopping insights side panel.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/d3/d3.min.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice selection menu element
+// summary: Lit element implementing the voice selection dropdown menu, handling voice selection, previews, and notifications.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '//resources/cr_elements/cr_lazy_render/cr_lazy_render_lit.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS client interfaces
+// summary: Defines the TtsClient interface and TtsUtterance types that speech clients implement to play, stop, pause, and resume utterances and report available voices.
+// ---
+
 // Interfaces for TtsClients.
 export interface TtsErrorEvent {
   error: string;

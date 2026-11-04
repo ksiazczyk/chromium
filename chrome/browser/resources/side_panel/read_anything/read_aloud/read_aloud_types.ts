@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read aloud type definitions
+// summary: Type definitions and node abstractions for the read aloud feature, representing DOM and accessibility nodes and text segments.
+// ---
+
 import {NodeStore} from '../content/node_store.js';
 
 import {AudioBrowserProxyImpl} from './audio_browser_proxy.js';

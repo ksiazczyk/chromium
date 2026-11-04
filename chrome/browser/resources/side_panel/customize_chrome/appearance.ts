@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Appearance element (appearance.ts)
+// summary: Lit element implementing the appearance section, handling theme editing, wallpaper search entry, device theme following and managed theme notices.
+// ---
+
 import './theme_snapshot.js';
 import './hover_button.js';
 import '/strings.m.js'; // Required by <managed-dialog>.

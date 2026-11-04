@@ -1,0 +1,4 @@
+# Docerion header of reading_list.html.
+type: source
+title: Reading list side panel entry page
+summary: Entry HTML page for the reading list side panel that loads the reading-list-app element and theme styles.

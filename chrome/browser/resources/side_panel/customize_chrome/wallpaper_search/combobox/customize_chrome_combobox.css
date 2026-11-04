@@ -10,6 +10,12 @@
  * #include=md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Customize Chrome combobox styles
+summary: Styles for the Customize Chrome combobox web component, covering the dropdown container, grouped and selectable items, highlight and selected states, and forced-colors support.
+*/
+
 :host {
   display: block;
   cursor: default;

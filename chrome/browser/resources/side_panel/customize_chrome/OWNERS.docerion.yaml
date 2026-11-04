@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for customize_chrome
+summary: Delegates code review ownership for this directory to the new tab page OWNERS file.

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Accent menu styles
+summary: Styles the accent menu dialog for read aloud, covering the search field, language list rows, check marks, and notification text.
+*/
+
 #accentMenu::part(dialog) {
   --cr-scrollable-border-color: var(--color-side-panel-dialog-divider);
   background: var(--color-side-panel-content-background);

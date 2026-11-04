@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the history clusters side panel WebUI
+summary: Defines the GN build for the history clusters side panel WebUI, listing its HTML, TypeScript and CSS sources, TypeScript dependencies and optimization settings.

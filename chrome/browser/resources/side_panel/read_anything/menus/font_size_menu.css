@@ -10,6 +10,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Font size menu styles
+summary: Stylesheet for the font size menu, styling the increase, decrease and reset buttons, the dialog corner radius and a hidden announce block.
+*/
+
 #font-size-increase {
   --cr-icon-button-fill-color:
       var(--color-menu-icon, var(--color-sys-on-surface-subtle));

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language toast element
+// summary: Lit element implementing a toast that notifies users about voice downloads and read aloud errors such as unavailable voices or storage issues.
+// ---
+
 import '//resources/cr_elements/cr_toast/cr_toast.js';
 
 import type {CrToastElement} from '//resources/cr_elements/cr_toast/cr_toast.js';

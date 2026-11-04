@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Word boundary tracking
+// summary: Tracks word boundary events and state to support resuming speech at the correct position.
+// ---
+
 enum WordBoundaryMode {
   // Used if word boundaries are not supported (i.e. we haven't received enough
   // information to determine if word boundaries are supported.)

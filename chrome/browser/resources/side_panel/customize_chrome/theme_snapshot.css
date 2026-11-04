@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Customize Chrome theme snapshot styles
+summary: Styles for the theme snapshot element that displays a preview image of the current new tab page theme.
+*/
+
 :host {
   display: block;
   --image-background-color: var(

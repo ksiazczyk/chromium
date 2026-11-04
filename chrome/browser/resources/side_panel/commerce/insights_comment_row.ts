@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insights comment row element
+// summary: Lit element that displays a history description comment and a feedback link that opens the price insights feedback UI and records a user action metric.
+// ---
+
 import '/strings.m.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

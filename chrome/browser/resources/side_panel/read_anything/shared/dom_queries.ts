@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM selection and text node query helpers
+// summary: Helpers for locating text nodes by index, computing rects for read-aloud segments, detecting backward selections, and normalizing selection boundaries.
+// ---
+
 import type {Segment} from '../read_aloud/read_aloud_types.js';
 
 // Given a root node and a start index, returns the text node and its offset

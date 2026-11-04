@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comments app custom element
+// summary: Defines the comments-app Lit element that shows the side panel UI through the Mojo comments API handler.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {getHtml} from './app.html.js';

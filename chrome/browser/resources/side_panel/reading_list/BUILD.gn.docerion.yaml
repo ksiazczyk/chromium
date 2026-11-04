@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reading list side panel WebUI build rules
+summary: Defines the GN build for the reading list side panel WebUI, listing static, TypeScript, CSS and Mojo sources and their dependencies.

@@ -10,6 +10,12 @@
  * #include=sp-shared-style toolbar-styles-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Action menu styles
+summary: Shared stylesheet for Read Anything action menus, styling dropdown items, toggle rows, check marks, headers, separators and forced-colors behavior.
+*/
+
 .has-icon-false {
   display: none;
 }

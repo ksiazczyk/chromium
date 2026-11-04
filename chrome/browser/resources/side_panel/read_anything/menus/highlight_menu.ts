@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Highlight menu element
+// summary: Lit element storing and propagating highlight granularity options such as auto, word, phrase, sentence and none for read aloud.
+// ---
+
 import './simple_action_menu.js';
 
 import {WebUiListenerMixinLit} from '//resources/cr_elements/web_ui_listener_mixin_lit.js';

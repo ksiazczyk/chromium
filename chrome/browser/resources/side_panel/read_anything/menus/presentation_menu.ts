@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation menu element
+// summary: Lit element implementing the view menu that switches Read Anything between side panel and immersive full page presentation.
+// ---
+
 import './simple_action_menu.js';
 
 import {WebUiListenerMixinLit} from '//resources/cr_elements/web_ui_listener_mixin_lit.js';

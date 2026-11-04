@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Side panel bookmarks WebUI build rules
+summary: GN build file defining the build_webui target that compiles the bookmarks side panel's TypeScript, CSS, HTML and icon resources together with their dependencies.

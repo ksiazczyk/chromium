@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper search tile template
+// summary: Lit HTML template providing light and dark SVG illustrations rendered inside the wallpaper search tile.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {WallpaperSearchTileElement} from './wallpaper_search_tile.js';

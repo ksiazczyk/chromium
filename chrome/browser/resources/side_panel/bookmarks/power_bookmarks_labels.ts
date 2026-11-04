@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmarks labels element
+// summary: Lit element that computes and renders toggleable label chips, such as the price tracking label, for bookmark products.
+// ---
+
 import '/strings.m.js';
 import './icons.html.js';
 import '//resources/cr_elements/cr_chip/cr_chip.js';

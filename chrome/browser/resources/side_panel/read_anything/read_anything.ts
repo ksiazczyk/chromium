@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything entry module exports
+// summary: TypeScript entry module that imports the app and re-exports components, controllers, proxies, and types from the Read Anything side panel subdirectories.
+// ---
+
 import './app/app.js';
 
 export type {SpEmptyStateElement} from '//read-anything-side-panel.top-chrome/shared/sp_empty_state.js';

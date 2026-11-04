@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Line spacing menu Lit template
+// summary: Lit HTML template rendering the line spacing menu as a simple action menu with standard, loose, and very loose spacing options.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {ToolbarEvent} from '../content/read_anything_types.js';

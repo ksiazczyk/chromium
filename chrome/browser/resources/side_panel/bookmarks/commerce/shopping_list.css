@@ -11,6 +11,12 @@
  * #include=mwb-element-shared-style-lit cr-hidden-style-lit cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shopping list element stylesheet
+summary: Lit styles for the shopping list side panel element, covering folder rows, product items, price chips, and dark mode theming.
+*/
+
 :host {
   display: block;
   user-select: none;

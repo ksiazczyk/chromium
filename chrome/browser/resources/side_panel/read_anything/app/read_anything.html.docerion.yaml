@@ -1,0 +1,4 @@
+# Docerion header of read_anything.html.
+type: source
+title: Read Anything WebUI entry page
+summary: HTML entry page for the Read Anything WebUI that loads the read-anything-app element and its module script.

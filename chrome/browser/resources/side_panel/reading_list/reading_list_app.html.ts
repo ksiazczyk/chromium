@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list app element Lit template
+// summary: Lit HTML template for the reading list app, rendering the empty state, unread and read item lists and the current page action button.
+// ---
+
 import type {CrLazyListElement} from '//resources/cr_elements/cr_lazy_list/cr_lazy_list.js';
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 

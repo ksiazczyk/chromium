@@ -1,0 +1,4 @@
+# Docerion header of shopping_insights.html.
+type: source
+title: Shopping insights side panel page
+summary: HTML entry page for the shopping insights side panel that hosts the shopping-insights-app element and loads its module script.

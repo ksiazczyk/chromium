@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Line focus model
+// summary: Holds line focus state such as focal point, bounds, session status, and the current style and movement strategy instances.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import type {LineFocusMoveMode} from './line_focus_move_mode.js';

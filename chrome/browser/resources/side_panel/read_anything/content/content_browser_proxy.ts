@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading mode content browser proxy
+// summary: Defines the browser proxy interface and implementation for document distillation, AX tree access, selection tracking, and content rendering callbacks in reading mode.
+// ---
+
 import type {ChromeEvent} from '/tools/typescript/definitions/chrome_event.js';
 
 import {EventForwarder} from './read_anything_types.js';

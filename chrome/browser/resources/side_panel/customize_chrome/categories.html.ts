@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Categories HTML template
+// summary: Lit HTML template rendering theme category tiles such as classic Chrome, wallpaper search, local image upload, collections, and Chrome Web Store.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CategoriesElement} from './categories.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text menu element
+// summary: Lit element implementing the Read Anything text menu with grouped font, line spacing, and letter spacing options built from browser proxy values.
+// ---
+
 import './grouped_action_menu.js';
 
 import {I18nMixinLit} from '//resources/cr_elements/i18n_mixin_lit.js';

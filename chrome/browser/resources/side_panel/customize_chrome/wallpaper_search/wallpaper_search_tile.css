@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Wallpaper search tile styles
+summary: Styles the wallpaper search tile with gradient backgrounds that adapt to light and dark color schemes.
+*/
+
 :host {
   background: linear-gradient(131deg,
       var(--color-sys-gradient-primary) 12.23%,

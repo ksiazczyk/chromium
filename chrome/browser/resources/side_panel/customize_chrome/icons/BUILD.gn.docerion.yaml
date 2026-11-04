@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Customize Chrome side panel icons
+summary: GN build file that bundles the folder's SVG icons into a generated resources.grdp for the Customize Chrome side panel.

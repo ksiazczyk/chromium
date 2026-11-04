@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color menu Lit template
+// summary: Lit HTML template rendering the color theme menu as a simple action menu that emits theme change events.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {ToolbarEvent} from '../content/read_anything_types.js';

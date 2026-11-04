@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the shopping insights app element
+// summary: Lit template rendering the product title, price range, catalog attributes, history graph, and price tracking sections.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ShoppingInsightsAppElement} from './app.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard navigation and shortcut helpers
+// summary: Helpers for RTL-aware arrow key focus movement, activation keys, and Read Anything shortcuts such as line focus and play/pause.
+// ---
+
 import {isRTL} from '//resources/js/util.js';
 
 const FORWARD_ARROWS = ['ArrowRight', 'ArrowDown'];

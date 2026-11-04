@@ -1,0 +1,4 @@
+# Docerion header of power_bookmarks.html.
+type: source
+title: Power bookmarks side panel HTML page
+summary: HTML entry page for the bookmarks side panel WebUI that hosts the power-bookmarks-app element and loads its module script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmark row element
+// summary: Lit element power-bookmark-row that wraps a bookmark row item with expansion, drag, selection, price tracking and depth indentation behavior.
+// ---
+
 import './power_bookmark_row_item.js';
 import '//bookmarks-side-panel.top-chrome/shared/sp_heading.js';
 

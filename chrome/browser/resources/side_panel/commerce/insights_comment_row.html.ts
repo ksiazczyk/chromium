@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insights comment row template
+// summary: Lit HTML template for the insights comment row showing the history description text and an optional feedback link.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {InsightsCommentRowElement} from './insights_comment_row.js';

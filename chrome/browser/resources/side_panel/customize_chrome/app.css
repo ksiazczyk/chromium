@@ -10,6 +10,12 @@
  * #include=cr-icons-lit sp-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: App element styles (app.css)
+summary: Lit styles for the side panel app shell, defining layout, card padding, section widths and toolbar and extension chip styling.
+*/
+
 :host {
   /* Content stops growing (and remains start-aligned) beyond this width. */
 <if expr="is_android">

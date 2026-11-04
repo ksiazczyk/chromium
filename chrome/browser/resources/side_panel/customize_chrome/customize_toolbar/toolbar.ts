@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize toolbar element
+// summary: Lit element for the customize toolbar side panel that loads actions and categories, pins toolbar actions, and supports reset to default.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/shared/sp_heading.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_toggle/cr_toggle.js';

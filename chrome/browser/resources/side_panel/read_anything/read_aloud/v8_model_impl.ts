@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 read aloud model implementation
+// summary: Implements the read aloud model by delegating to chrome.readingMode APIs for highlights, text segments, accessible text, and speech movement.
+// ---
+
 import type {ReadAloudModelBrowserProxy} from './read_aloud_model_browser_proxy.js';
 import {AxReadAloudNode, ReadAloudNode} from './read_aloud_types.js';
 import type {Segment} from './read_aloud_types.js';

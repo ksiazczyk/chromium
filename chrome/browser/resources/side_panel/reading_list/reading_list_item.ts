@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list item element implementation
+// summary: Implements the reading-list-item Lit element handling clicks, context menus, keyboard navigation and read status updates.
+// ---
+
 import 'chrome://resources/cr_elements/cr_url_list_item/cr_url_list_item.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/cr_elements/icons.html.js';

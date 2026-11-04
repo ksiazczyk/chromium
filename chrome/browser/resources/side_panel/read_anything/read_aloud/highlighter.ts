@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read aloud highlighter
+// summary: Manages state and drawing of visual highlights for read aloud across word, phrase, sentence, and auto highlighting granularities.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import type {AudioBrowserProxy} from './audio_browser_proxy.js';

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the history side panel
+summary: Points to the shared directory metadata of the history resources through a mixins reference.

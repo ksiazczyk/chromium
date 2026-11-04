@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Line focus movement strategies
+// summary: Defines the base class and movement strategies that position the line focus element during scrolling, mouse movement, and keyboard navigation.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import type {VisualBrowserProxy} from '../app/visual_browser_proxy.js';

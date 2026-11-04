@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Appearance element template (appearance.html.ts)
+// summary: Lit HTML template for the appearance section with theme snapshot, theme link buttons, color scheme mode, color picker and managed dialog.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AppearanceElement} from './appearance.js';

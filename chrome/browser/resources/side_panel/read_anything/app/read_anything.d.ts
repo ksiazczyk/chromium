@@ -4,6 +4,12 @@
 
 /** @fileoverview Definitions for chrome.readingMode API */
 
+// ---docerion
+// type: source
+// title: chrome.readingMode API type definitions
+// summary: TypeScript declarations for the chrome.readingMode API implemented in C++ and consumed by the Read Anything Web UI.
+// ---
+
 // Sanitizer API definitions for Element.prototype.setHTML.
 // Note: SanitizerConfig and related types are already declared in lib.dom.d.ts.
 interface SetHtmlOptions {

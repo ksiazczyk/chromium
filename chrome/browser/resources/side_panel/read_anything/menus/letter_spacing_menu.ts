@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Letter spacing menu element
+// summary: Lit element providing standard, wide and very wide letter spacing options for the Read Anything side panel toolbar.
+// ---
+
 import './simple_action_menu.js';
 
 import {WebUiListenerMixinLit} from '//resources/cr_elements/web_ui_listener_mixin_lit.js';

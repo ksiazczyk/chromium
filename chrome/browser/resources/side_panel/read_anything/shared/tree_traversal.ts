@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visible text node tree traversal helpers
+// summary: Traverses the Reading Mode DOM with a visibility-aware TreeWalker to collect text nodes and inject ordered list markers for read aloud.
+// ---
+
 // Returns all visible text nodes in the subtree, including injected list
 // markers (e.g. "1. ").
 // TODO (crbug.com/507916429): Store text nodes and return them if already

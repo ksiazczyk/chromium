@@ -10,6 +10,12 @@
  * #include=cr-icons-lit cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the catalog attributes row
+summary: Lit styles for the catalog attributes row, covering layout, link color, and icon sizing.
+*/
+
   :host {
     display: flex;
   }

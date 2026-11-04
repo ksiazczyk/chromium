@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome theme snapshot element
+// summary: Lit element that shows a snapshot of the current new tab page theme and dispatches an edit-theme-click event when selected.
+// ---
+
 import 'chrome://resources/cr_elements/cr_auto_img/cr_auto_img.js';
 import 'chrome://resources/cr_elements/cr_ripple/cr_ripple.js';
 

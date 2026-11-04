@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cards HTML template
+// summary: Lit HTML template showing the show-cards policy-aware toggle and a checkbox card for each NTP module.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CardsElement} from './cards.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything logging business logic
+// summary: Implements the logging business logic for Reading Mode, including speech errors, distilled page structure, settings changes, and visibility handling.
+// ---
+
 import type {VisualBrowserProxy} from '../app/visual_browser_proxy.js';
 import {VisualBrowserProxyImpl} from '../app/visual_browser_proxy.js';
 import type {AudioBrowserProxy} from '../read_aloud/audio_browser_proxy.js';

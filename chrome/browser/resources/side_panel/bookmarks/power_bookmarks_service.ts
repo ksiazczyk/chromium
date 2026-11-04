@@ -4,6 +4,12 @@
 
 // This file contains business logic for power bookmarks side panel content.
 
+// ---docerion
+// type: source
+// title: Power bookmarks side panel service
+// summary: Contains the business logic for the power bookmarks side panel, including bookmark sorting, folder descendant handling, delegate interfaces, image service request limits, and policy-based editing restrictions.
+// ---
+
 import type {BookmarkProductInfo} from '//resources/cr_components/commerce/shared.mojom-webui.js';
 import {PageImageServiceBrowserProxy} from '//resources/cr_components/page_image_service/browser_proxy.js';
 import {ClientId as PageImageServiceClientId} from '//resources/cr_components/page_image_service/page_image_service.mojom-webui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmark row item template
+// summary: Lit HTML template for power-bookmark-row-item rendering a cr-url-list-item with expand button, checkbox, rename input, price badges and menu button.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PowerBookmarkRowItemElement} from './power_bookmark_row_item.ts';

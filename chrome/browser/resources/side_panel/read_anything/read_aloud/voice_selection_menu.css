@@ -10,6 +10,12 @@
  * #include=sp-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Voice selection menu styles
+summary: Styles the voice selection dropdown menu, including voice rows, notifications, and the language menu button.
+*/
+
 cr-icon {
   --icon-size: 20px;
   height: var(--icon-size);

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping insights app element
+// summary: Defines the ShoppingInsightsAppElement that fetches product and price insights data over Mojo and renders the side panel.
+// ---
+
 import '/strings.m.js';
 import './catalog_attributes_row.js';
 import './history_graph.js';

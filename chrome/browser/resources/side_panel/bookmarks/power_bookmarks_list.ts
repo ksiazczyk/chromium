@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmarks list element
+// summary: Main Lit element for the bookmarks side panel list, handling sorting, bulk editing, drag-and-drop, folder navigation, and metrics.
+// ---
+
 import '/strings.m.js';
 import './icons.html.js';
 import './power_bookmark_row.js';

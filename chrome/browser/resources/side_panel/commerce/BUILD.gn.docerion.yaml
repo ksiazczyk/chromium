@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the commerce side panel WebUI
+summary: Defines the WebUI build for the shopping insights side panel, listing TypeScript, CSS, and Mojo sources along with build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of history_clusters.html.
+type: source
+title: History clusters side panel WebUI page
+summary: HTML entry page for the history clusters side panel WebUI that loads the module script and hosts the history-clusters-app element.

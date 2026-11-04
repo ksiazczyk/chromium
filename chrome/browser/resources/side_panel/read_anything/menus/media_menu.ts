@@ -4,6 +4,12 @@
 
 // Media menu element used for the improved Read Aloud UI.
 
+// ---docerion
+// type: source
+// title: Media menu element
+// summary: Lit element for the improved Read Aloud UI media menu providing links and images toggles that are disabled while speech is active.
+// ---
+
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '//resources/cr_elements/cr_lazy_render/cr_lazy_render_lit.js';

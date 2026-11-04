@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language menu element
+// summary: Lit element implementing the language menu for enabling read aloud languages, with search, toggles, and voice pack notifications.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '//resources/cr_elements/icons.html.js';

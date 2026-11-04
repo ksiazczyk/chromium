@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple action menu element
+// summary: Lit element providing a simple dropdown menu with a flat list of selectable items that show a checkmark, fire a toolbar event, and optionally close on click.
+// ---
+
 import '/strings.m.js';
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';

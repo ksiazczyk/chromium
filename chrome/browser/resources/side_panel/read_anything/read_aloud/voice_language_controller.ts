@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice and language controller
+// summary: Coordinates voice pack statuses, language downloads, and current voice selection for read aloud, listening to browser proxies and notifying registered listeners of changes.
+// ---
+
 // clang-format off
 // <if expr="is_chromeos">
 import {hasGoogleIdentifier} from './voice_language_conversions.js';

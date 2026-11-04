@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price insights browser proxy
+// summary: Singleton browser proxy that connects the side panel WebUI to the PriceInsightsHandler Mojo interface for showing the side panel UI and feedback.
+// ---
+
 import {PriceInsightsHandlerFactory, PriceInsightsHandlerRemote} from './price_insights.mojom-webui.js';
 
 let instance: PriceInsightsBrowserProxy|null = null;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmarks drag manager
+// summary: Manages drag-and-drop sessions for bookmark rows, converting Mojo nodes to extension bookmark nodes and resolving drop targets.
+// ---
+
 import '/strings.m.js';
 
 import {EventTracker} from 'chrome://resources/js/event_tracker.js';

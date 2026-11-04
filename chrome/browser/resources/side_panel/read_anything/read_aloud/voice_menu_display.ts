@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice menu display helpers
+// summary: Builds language-grouped voice dropdown items with display titles, nature names, and preview state for the read aloud voice selection menu.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 
 import type {AudioBrowserProxy} from './audio_browser_proxy.js';

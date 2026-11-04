@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio browser proxy
+// summary: Browser proxy for the C++ reading mode controller, exposing audio and speech settings such as rate, highlight granularity, and voice packs.
+// ---
+
 import type {ChromeEvent} from '/tools/typescript/definitions/chrome_event.js';
 
 import {EventForwarder} from '../content/read_anything_types.js';

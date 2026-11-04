@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice list filtering helper
+// summary: Filters the available speech synthesis voices per platform, removing Android and espeak voices on ChromeOS and keeping Google voices plus one system voice per language elsewhere.
+// ---
+
 import {convertLangOrLocaleToExactVoicePackLocale} from './voice_language_conversions.js';
 // clang-format off
 // <if expr="is_chromeos">

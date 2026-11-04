@@ -26,6 +26,12 @@
  * detectable to readjust key values.
  */
 
+// ---docerion
+// type: source
+// title: Voice nature name mapping table
+// summary: Hand-maintained display-only mapping from TTS voice names to human-friendly nature names and descriptions, grouped by locale and kept in the voice's own language.
+// ---
+
 /**
  * Display strings for one voice.
  *

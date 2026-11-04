@@ -11,6 +11,12 @@
  * #include=cr-hidden-style-lit sp-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Power bookmarks list styles
+summary: Styles for the bookmark list, including double-buffered page transition animations, empty state sizing, and RTL mirroring.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

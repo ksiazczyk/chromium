@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings menu element
+// summary: Lit element implementing the Read Anything settings menu, defining items for appearance, audio, color, font, font size, and toggles, with submenu delays and metrics logging.
+// ---
+
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import '//resources/cr_elements/cr_link_row/cr_link_row.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';

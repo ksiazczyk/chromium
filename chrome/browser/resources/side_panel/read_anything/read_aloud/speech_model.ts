@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech model
+// summary: Model holding read aloud speech state such as playing status, pause sources, engine state, reading position, and playback metrics.
+// ---
+
 import type {ContentPosition} from '../content/read_anything_types.js';
 
 import {ReadAloudNode} from './read_aloud_types.js';

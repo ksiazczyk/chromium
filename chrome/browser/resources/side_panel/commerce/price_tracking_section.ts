@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking section element
+// summary: Lit element that manages the price tracking toggle and reacts to price tracking, untracking and bookmark events through the price tracking browser proxy.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_elements/cr_toggle/cr_toggle.js';
 

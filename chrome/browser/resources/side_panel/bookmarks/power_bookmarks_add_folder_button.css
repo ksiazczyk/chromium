@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Add folder button styles
+summary: Lit CSS styles for the add folder button, covering the icon container, compact and disabled states, hover and dark mode variants.
+*/
+
 .new-folder-icon-container cr-icon {
   height: 16px;
   width: 16px;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmarks list header HTML template
+// summary: Lit HTML template for the list header with root and folder titles, sort menu, view toggle, and edit buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PowerBookmarksListHeaderElement} from './power_bookmarks_list_header.js';

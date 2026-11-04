@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmarks list header element
+// summary: Lit element for the list header that manages sort options, view toggling, bulk edit mode, and animated title transitions.
+// ---
+
 import '/strings.m.js';
 import './icons.html.js';
 import '//bookmarks-side-panel.top-chrome/shared/sp_heading.js';

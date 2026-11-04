@@ -9,6 +9,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Settings menu styles
+summary: Lit shared stylesheet for the settings menu defining menu rows, icons, dialog sizing, separators, and forced colors adjustments.
+*/
+
 .menu-row {
   --iron-icon-height: 16px;
   --iron-icon-width: 16px;

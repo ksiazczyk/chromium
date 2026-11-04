@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper search Mojo proxy
+// summary: Singleton proxy that creates and exposes the wallpaper search Mojo handler remote and client callback router for the side panel.
+// ---
+
 import type {WallpaperSearchHandlerInterface} from '../wallpaper_search.mojom-webui.js';
 import {WallpaperSearchClientCallbackRouter, WallpaperSearchHandlerFactory, WallpaperSearchHandlerRemote} from '../wallpaper_search.mojom-webui.js';
 

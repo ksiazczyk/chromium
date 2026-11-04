@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language display utilities
+// summary: Helpers for localized language display names, diacritic-stripped search matching, and sorting language codes alphabetically.
+// ---
+
 import type {AudioBrowserProxy} from './audio_browser_proxy.js';
 import {convertLangOrLocaleForVoicePackManager} from './voice_language_conversions.js';
 // Strips diacritical combining marks via Unicode NFD normalization.

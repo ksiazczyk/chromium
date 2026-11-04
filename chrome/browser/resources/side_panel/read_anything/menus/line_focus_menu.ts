@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Line focus menu element
+// summary: Lit element building the line focus menu groups for toggle, style and movement options of the Read Anything line focus feature.
+// ---
+
 import './grouped_action_menu.js';
 
 import {WebUiListenerMixinLit} from '//resources/cr_elements/web_ui_listener_mixin_lit.js';

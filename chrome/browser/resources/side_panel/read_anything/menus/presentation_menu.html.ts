@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation menu Lit template
+// summary: Lit template rendering the presentation menu as a non-modal simple action menu for switching between side panel and full page views.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {ToolbarEvent} from '../content/read_anything_types.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice pack status types and language conversions
+// summary: Defines voice pack server and client status codes, notification types, and helper functions converting languages and locales for voice pack management.
+// ---
+
 import type {Notification} from '../menus/menu_util.js';
 
 import {AudioBrowserProxyImpl} from './audio_browser_proxy.js';

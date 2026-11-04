@@ -2,6 +2,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Font menu element
+// summary: Lit element defining the font menu, listing supported fonts with loading labels and falling back to the first supported font when the selection is invalid.
+// ---
+
 import './simple_action_menu.js';
 
 import {I18nMixinLit} from '//resources/cr_elements/i18n_mixin_lit.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard arrow navigation service
+// summary: Service that tracks focusable elements and handles arrow key navigation across nested elements and shadow DOM boundaries in the bookmarks list.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 /**

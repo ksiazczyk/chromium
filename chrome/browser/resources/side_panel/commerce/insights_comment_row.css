@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Insights comment row styles
+summary: Lit CSS styles for the insights comment row, defining the secondary-text comment and the clickable feedback link appearance.
+*/
+
 :host {
   display: flex;
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome themes HTML template
+// summary: Lit HTML template for the themes element, rendering the refresh-daily toggle and a selectable grid of theme tiles.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ThemesElement} from './themes.js';
