@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glanceables Classroom item view unit tests
+// summary: Unit tests verifying the item view renders course, coursework, due date and time labels, including assignments without a due date and across timezones.
+// relations:
+//   - tests /ash/glanceables/classroom/glanceables_classroom_item_view.h
+//   - depends_on /ash/glanceables/classroom/glanceables_classroom_types.h
+//   - depends_on /ash/glanceables/common/glanceables_view_id.h
+// ---
+
 #include "ash/glanceables/classroom/glanceables_classroom_item_view.h"
 
 #include <optional>

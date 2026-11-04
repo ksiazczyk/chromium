@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus cycler header
+// summary: Declares FocusCycler, which handles moving focus between a set of widgets and the main browser window.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_FOCUS_FOCUS_CYCLER_H_
 #define ASH_FOCUS_FOCUS_CYCLER_H_
 

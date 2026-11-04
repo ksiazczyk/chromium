@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceables Classroom student view implementation
+// summary: Implements the student glanceables bubble that lists assignments by filter (due soon, no due date, missing, done) with combobox switching, metrics, and Classroom links.
+// relations:
+//   - implements /ash/glanceables/classroom/glanceables_classroom_student_view.h
+//   - depends_on /ash/glanceables/classroom/glanceables_classroom_client.h
+//   - depends_on /ash/glanceables/classroom/glanceables_classroom_item_view.h
+// ---
+
 #include "ash/glanceables/classroom/glanceables_classroom_student_view.h"
 
 #include <algorithm>

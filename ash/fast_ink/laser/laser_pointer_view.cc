@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Laser pointer view implementation
+// summary: Implements LaserPointerView, which renders the laser trail as non-overlapping head, regular, and tail segments with fading radius and opacity, including predicted and stationary point handling.
+// relations:
+//   - depends_on /ash/fast_ink/laser/laser_pointer_view.h
+//   - depends_on /ash/fast_ink/laser/laser_segment_utils.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/fast_ink/laser/laser_pointer_view.h"
 
 #include "ash/fast_ink/laser/laser_segment_utils.h"

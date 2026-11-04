@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceables Classroom item view header
+// summary: Declares GlanceablesClassroomItemView, the button view showing information about a single assignment in the classroom glanceable.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/glanceables/classroom/glanceables_classroom_types.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_GLANCEABLES_CLASSROOM_GLANCEABLES_CLASSROOM_ITEM_VIEW_H_
 #define ASH_GLANCEABLES_CLASSROOM_GLANCEABLES_CLASSROOM_ITEM_VIEW_H_
 

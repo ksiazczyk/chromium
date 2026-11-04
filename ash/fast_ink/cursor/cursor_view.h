@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorView class declaration for fast ink cursor rendering
+// summary: Declares the ash::CursorView FastInkView subclass used to display and animate cursor images with minimal latency, including its creation factory, image and location setters, and internal timers.
+// relations:
+//   - depends_on /ash/fast_ink/fast_ink_view.h
+//   - depends_on /base/time/time.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_FAST_INK_CURSOR_CURSOR_VIEW_H_
 #define ASH_FAST_INK_CURSOR_CURSOR_VIEW_H_
 

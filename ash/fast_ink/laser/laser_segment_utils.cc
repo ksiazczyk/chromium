@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Laser segment geometry utilities
+// summary: Implements geometry helpers for laser rendering, computing normal line variables, projected points, and point angles used to build laser segment paths.
+// relations:
+//   - depends_on /ash/fast_ink/laser/laser_segment_utils.h
+//   - depends_on /base/check_op.h
+//   - depends_on /base/numerics/angle_conversions.h
+// ---
+
 #include "ash/fast_ink/laser/laser_segment_utils.h"
 
 #include <cmath>

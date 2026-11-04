@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auth Dialog Contents View Unit Tests
+// summary: Unit tests for the authentication dialog contents view using a mock in-session auth dialog client.
+// relations:
+//   - tests /ash/in_session_auth/auth_dialog_contents_view.h
+//   - depends_on /ash/in_session_auth/mock_in_session_auth_dialog_client.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/in_session_auth/auth_dialog_contents_view.h"
 
 #include "ash/in_session_auth/mock_in_session_auth_dialog_client.h"

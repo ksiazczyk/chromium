@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshWindowTreeHostInitParams struct
+// summary: Defines initialization parameters for Ash window tree hosts, including bounds, display ID, scale factor, and compositor memory limit.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/gfx/geometry/rect.h
+// ---
+
 #ifndef ASH_HOST_ASH_WINDOW_TREE_HOST_INIT_PARAMS_H_
 #define ASH_HOST_ASH_WINDOW_TREE_HOST_INIT_PARAMS_H_
 

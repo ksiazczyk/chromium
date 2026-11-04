@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame size button unit tests
+// summary: Unit tests for the Ash frame size button, exercising snap, split view, overview, multitask menu, and screen orientation behaviors triggered by long-press and hover interactions.
+// relations:
+//   - tests /chromeos/ui/frame/caption_buttons/frame_size_button.h
+// ---
+
 #include "chromeos/ui/frame/caption_buttons/frame_size_button.h"
 
 #include "ash/display/screen_orientation_controller.h"

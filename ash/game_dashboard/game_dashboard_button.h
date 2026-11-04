@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard button class declaration
+// summary: Declares the main Game Dashboard button that toggles the main menu and shows recording status with a duration timer.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/controls/button/button.h
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_BUTTON_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_BUTTON_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Laser pointer view header
+// summary: Declares LaserPointerView, the FastInk view that draws the palette tool laser pointer trail and manages fade out and buffer updates.
+// relations:
+//   - depends_on /ash/fast_ink/fast_ink_points.h
+//   - depends_on /ash/fast_ink/fast_ink_view.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_FAST_INK_LASER_LASER_POINTER_VIEW_H_
 #define ASH_FAST_INK_LASER_LASER_POINTER_VIEW_H_
 

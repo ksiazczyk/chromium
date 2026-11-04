@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graph class declaration
+// summary: Declares the Graph class that stores ring-buffered values and renders them as stacked HUD graphs with baseline, fill, and style options.
+// relations:
+//   - depends_on /ash/hud_display/hud_constants.h
+//   - depends_on /base/containers/ring_buffer.h
+//   - depends_on /ui/gfx/geometry/point.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_GRAPH_H_
 #define ASH_HUD_DISPLAY_GRAPH_H_
 

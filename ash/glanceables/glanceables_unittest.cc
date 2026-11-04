@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glanceables unit tests
+// summary: Unit tests covering the glanceables controller, bubble views, and tasks and classroom UI behavior with fake clients and histogram checks.
+// relations:
+//   - tests /ash/glanceables/glanceables_controller.h
+//   - depends_on /ash/glanceables/classroom/fake_glanceables_classroom_client.h
+//   - depends_on /ash/glanceables/tasks/test/glanceables_tasks_test_util.h
+// ---
+
 #include <utility>
 
 #include "ash/glanceables/classroom/fake_glanceables_classroom_client.h"

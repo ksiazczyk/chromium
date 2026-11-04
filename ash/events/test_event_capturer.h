@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventCapturer header
+// summary: Declares a test event handler used to capture and inspect key, mouse, touch and wheel events in ash_unittests, with optional filtering.
+// relations:
+//   - depends_on /ui/events/event.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_EVENTS_TEST_EVENT_CAPTURER_H_
 #define ASH_EVENTS_TEST_EVENT_CAPTURER_H_
 

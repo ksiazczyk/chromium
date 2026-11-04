@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME mode indicator bubble view
+// summary: Implements a small bubble that shows the short name of the current IME near the cursor and fades out after a short delay.
+// relations:
+//   - implements /ash/ime/ime_mode_indicator_view.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/ime/ime_mode_indicator_view.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

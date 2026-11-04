@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkHolder implementation
+// summary: Implements FrameSinkHolder, managing the LayerTreeFrameSink lifecycle, compositor frame submission, and reclamation of exported resources.
+// relations:
+//   - implements /ash/frame_sink/frame_sink_holder.h
+//   - depends_on /ash/frame_sink/frame_sink_host.h
+//   - depends_on /base/check.h
+// ---
+
 #include "ash/frame_sink/frame_sink_holder.h"
 
 #include <algorithm>

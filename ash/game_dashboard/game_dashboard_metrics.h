@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard metrics header
+// summary: Declares histogram name constants, enums, and helper functions for recording Game Dashboard usage metrics.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - references /tools/metrics/histograms/metadata/ash/histograms.xml
+//   - references /tools/metrics/histograms/enums.xml
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_METRICS_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_METRICS_H_
 

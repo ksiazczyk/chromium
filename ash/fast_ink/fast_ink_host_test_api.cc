@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API implementation for FastInkHost
+// summary: Implements accessors that expose FastInkHost internals such as the shared image, sync token, and pending bitmaps for tests.
+// relations:
+//   - implements /ash/fast_ink/fast_ink_host_test_api.h
+//   - depends_on /ash/fast_ink/fast_ink_host.h
+// ---
+
 #include "ash/fast_ink/fast_ink_host_test_api.h"
 
 #include "ash/fast_ink/fast_ink_host.h"

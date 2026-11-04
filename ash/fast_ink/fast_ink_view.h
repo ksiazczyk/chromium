@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastInkView header
+// summary: Declares FastInkView, a view supporting low-latency rendering through FastInkHost with a widget covering the entire display.
+// relations:
+//   - depends_on /ash/fast_ink/fast_ink_host.h
+//   - depends_on /ui/views/view.h
+//   - depends_on /ui/views/widget/unique_widget_ptr.h
+// ---
+
 #ifndef ASH_FAST_INK_FAST_INK_VIEW_H_
 #define ASH_FAST_INK_FAST_INK_VIEW_H_
 

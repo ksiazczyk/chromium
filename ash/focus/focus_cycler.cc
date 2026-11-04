@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus cycler implementation
+// summary: Implements rotating focus between registered widgets such as the status area and shelf and the most recently used browser window.
+// relations:
+//   - depends_on /ash/focus/focus_cycler.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/wm/mru_window_tracker.h
+// ---
+
 #include "ash/focus/focus_cycler.h"
 
 #include <algorithm>

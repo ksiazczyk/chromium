@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth Dialog Contents View Implementation
+// summary: Implements the authentication dialog UI with avatar, title, origin, password, PIN and fingerprint views.
+// relations:
+//   - implements /ash/in_session_auth/auth_dialog_contents_view.h
+//   - depends_on /ash/login/ui/horizontal_image_sequence_animation_decoder.h
+//   - depends_on /ash/login/ui/login_password_view.h
+// ---
+
 #include "ash/in_session_auth/auth_dialog_contents_view.h"
 
 #include <cstdint>

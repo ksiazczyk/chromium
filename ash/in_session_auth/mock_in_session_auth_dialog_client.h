@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock in-session auth dialog client header
+// summary: Declares a gmock implementation of InSessionAuthDialogClient with mocked methods for auth sessions, password and PIN authentication, and fingerprint availability.
+// relations:
+//   - implements /ash/public/cpp/in_session_auth_dialog_client.h
+// ---
+
 #ifndef ASH_IN_SESSION_AUTH_MOCK_IN_SESSION_AUTH_DIALOG_CLIENT_H_
 #define ASH_IN_SESSION_AUTH_MOCK_IN_SESSION_AUTH_DIALOG_CLIENT_H_
 

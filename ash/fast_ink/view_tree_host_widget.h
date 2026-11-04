@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateViewTreeHostWidget function declaration
+// summary: Declares CreateViewTreeHostWidget, which creates a widget that builds compositor frames from its view tree and submits them directly without going through cc.
+// relations:
+//   - depends_on /ui/views/widget/widget.h
+// ---
+
 #ifndef ASH_FAST_INK_VIEW_TREE_HOST_WIDGET_H_
 #define ASH_FAST_INK_VIEW_TREE_HOST_WIDGET_H_
 

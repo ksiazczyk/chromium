@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Laser segment utilities unit tests
+// summary: Unit tests for the laser segment geometry helpers, checking angle computation, normal line variables, undefined normals, and projected points.
+// relations:
+//   - depends_on /ash/fast_ink/laser/laser_segment_utils.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /base/numerics/angle_conversions.h
+// ---
+
 #include "ash/fast_ink/laser/laser_segment_utils.h"
 #include "ash/test/ash_test_base.h"
 #include "base/numerics/angle_conversions.h"

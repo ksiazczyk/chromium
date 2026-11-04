@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard constants
+// summary: Defines shared constants for the Game Dashboard, including toolbar padding, welcome dialog dimensions, and a tablet mode toast id.
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_CONSTANTS_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_CONSTANTS_H_
 

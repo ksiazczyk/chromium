@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Game Dashboard directory metadata
+summary: Defines the Buganizer component and team email for the game_dashboard directory in Chromium OS Ash.

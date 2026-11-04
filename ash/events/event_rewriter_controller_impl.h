@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event rewriter controller class declaration
+// summary: Declares EventRewriterControllerImpl, which owns ui::EventRewriters and adds them to each root window event source in order.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/events/peripheral_customization_event_rewriter.h
+//   - implements /ash/public/cpp/event_rewriter_controller.h
+// ---
+
 #ifndef ASH_EVENTS_EVENT_REWRITER_CONTROLLER_IMPL_H_
 #define ASH_EVENTS_EVENT_REWRITER_CONTROLLER_IMPL_H_
 

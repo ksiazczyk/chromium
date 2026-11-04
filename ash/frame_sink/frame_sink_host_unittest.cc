@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameSinkHost unit tests
+// summary: Unit tests for FrameSinkHost verifying first-frame callbacks and that a lost frame sink is recreated and resumes frame submission.
+// relations:
+//   - tests /ash/frame_sink/frame_sink_host.h
+//   - depends_on /ash/frame_sink/frame_sink_holder_test_api.h
+//   - depends_on /ash/frame_sink/test/frame_sink_host_test_base.h
+// ---
+
 #include "ash/frame_sink/frame_sink_host.h"
 
 #include <memory>

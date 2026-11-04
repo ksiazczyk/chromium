@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Game Dashboard test base implementation
+// summary: Implements shared setup for Game Dashboard unittests, including mock time, app window creation, and game window property observation.
+// relations:
+//   - implements /ash/game_dashboard/game_dashboard_test_base.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/game_dashboard/game_dashboard_controller.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_test_base.h"
 
 #include "ash/constants/ash_features.h"

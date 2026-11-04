@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard welcome dialog implementation
+// summary: Implements the timed welcome dialog shown when first opening a game, including layout, shadow, shortcut hints, and accessibility announcements.
+// relations:
+//   - implements /ash/game_dashboard/game_dashboard_welcome_dialog.h
+//   - depends_on /ash/bubble/bubble_utils.h
+//   - depends_on /ash/game_dashboard/game_dashboard_constants.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_welcome_dialog.h"
 
 #include "ash/bubble/bubble_utils.h"

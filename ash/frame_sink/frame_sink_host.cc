@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkHost implementation
+// summary: Implements FrameSinkHost, initializing the frame sink holder and submitting or auto-updating compositor frames for a host window.
+// relations:
+//   - implements /ash/frame_sink/frame_sink_host.h
+//   - depends_on /ash/frame_sink/frame_sink_holder.h
+// ---
+
 #include "ash/frame_sink/frame_sink_host.h"
 
 #include <utility>

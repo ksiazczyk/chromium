@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ash host directory
+summary: Restricts includes within ash/host to its own directory and whitelists test and display headers for the unittest files.

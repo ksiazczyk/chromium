@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard driven event rewriter implementation
+// summary: Implements rewriting of Shift+arrow, Enter, and F6 key events on the login screen when keyboard-driven OOBE is enabled.
+// relations:
+//   - implements /ash/events/keyboard_driven_event_rewriter.h
+//   - depends_on /ash/keyboard/keyboard_util.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/events/keyboard_driven_event_rewriter.h"
 
 #include <utility>

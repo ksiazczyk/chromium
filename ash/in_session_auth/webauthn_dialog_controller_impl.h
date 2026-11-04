@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn dialog controller header
+// summary: Declares the WebAuthn dialog controller implementation that manages the in-session authentication dialog and reports authentication results to the WebAuthn flow.
+// ---
+
 #ifndef ASH_IN_SESSION_AUTH_WEBAUTHN_DIALOG_CONTROLLER_IMPL_H_
 #define ASH_IN_SESSION_AUTH_WEBAUTHN_DIALOG_CONTROLLER_IMPL_H_
 

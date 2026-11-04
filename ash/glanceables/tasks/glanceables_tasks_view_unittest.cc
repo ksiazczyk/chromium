@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the GlanceablesTasksView
+// summary: Exercises the glanceables Google Tasks view with a fake tasks client, covering task population, list updates, error handling, accessibility, and metrics.
+// relations:
+//   - tests /ash/glanceables/tasks/glanceables_tasks_view.h
+//   - depends_on /ash/api/tasks/fake_tasks_client.h
+//   - depends_on /ash/glanceables/common/glanceables_list_footer_view.h
+// ---
+
 #include "ash/glanceables/tasks/glanceables_tasks_view.h"
 
 #include <memory>

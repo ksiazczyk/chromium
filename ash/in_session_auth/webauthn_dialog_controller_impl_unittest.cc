@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn dialog controller unit tests
+// summary: Unit tests for the WebAuthn dialog controller, covering PIN authentication success, failure, and lockout scenarios using a mock dialog client.
+// relations:
+//   - tests /ash/in_session_auth/webauthn_dialog_controller_impl.h
+// ---
+
 #include "ash/in_session_auth/webauthn_dialog_controller_impl.h"
 
 #include <memory>

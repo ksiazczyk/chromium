@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graphs container view declaration
+// summary: Declares GraphsContainerView, which hosts the graph pages, switches display modes and schedules periodic data updates.
+// relations:
+//   - depends_on /ash/hud_display/data_source.h
+//   - depends_on /ash/hud_display/graph_page_view_base.h
+//   - depends_on /base/memory/scoped_refptr.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_GRAPHS_CONTAINER_VIEW_H_
 #define ASH_HUD_DISPLAY_GRAPHS_CONTAINER_VIEW_H_
 

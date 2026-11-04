@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Game Dashboard context test API implementation
+// summary: Implements GameDashboardContextTestApi, which exposes GameDashboardContext internals such as views, widgets, timers, and menu elements to test functions.
+// relations:
+//   - implements /ash/game_dashboard/game_dashboard_context_test_api.h
+//   - depends_on /ash/capture_mode/capture_mode_test_util.h
+//   - depends_on /ash/game_dashboard/game_dashboard_battery_view.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_context_test_api.h"
 
 #include <string>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HUD settings view implementation
+// summary: Implements the HUD settings panel with checkboxes for viz and cc debug renderer settings, tracing controls, UI DevTools and cursor position display.
+// relations:
+//   - depends_on /ash/hud_display/hud_settings_view.h
+//   - depends_on /ash/hud_display/ash_tracing_handler.h
+//   - depends_on /ash/hud_display/hud_display.h
+// ---
+
 #include "ash/hud_display/hud_settings_view.h"
 
 #include <set>

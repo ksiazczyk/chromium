@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Buganizer component metadata for glanceables
+summary: Maps the glanceables directory to Buganizer component 1362950 for issue tracking.

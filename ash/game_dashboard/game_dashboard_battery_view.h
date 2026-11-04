@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard battery view class declaration
+// summary: Declares the battery icon view for the Game Dashboard, which reacts to power status changes and theme updates.
+// relations:
+//   - depends_on /ash/system/power/power_status.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/controls/image_view.h
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_BATTERY_VIEW_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_BATTERY_VIEW_H_
 

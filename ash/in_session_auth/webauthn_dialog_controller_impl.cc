@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn dialog controller implementation
+// summary: Implements the WebAuthn dialog controller, which shows the in-session authentication dialog and handles password, PIN, and fingerprint verification for WebAuthn requests.
+// relations:
+//   - implements /ash/in_session_auth/webauthn_dialog_controller_impl.h
+//   - depends_on /ash/in_session_auth/webauthn_request_registrar_impl.h
+// ---
+
 #include "ash/in_session_auth/webauthn_dialog_controller_impl.h"
 
 #include <cstdint>

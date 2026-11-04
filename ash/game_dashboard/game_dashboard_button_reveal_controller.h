@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard button reveal controller class declaration
+// summary: Declares the controller that decides when to reveal or hide the Game Dashboard button while the game window is fullscreen.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/timer/timer.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_BUTTON_REVEAL_CONTROLLER_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_BUTTON_REVEAL_CONTROLLER_H_
 

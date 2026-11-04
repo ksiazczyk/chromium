@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesTimeManagementBubbleView implementation
+// summary: Implements the time management bubble container for tasks and classroom glanceables, including expand and collapse animations, header, combobox, and expand button behavior.
+// relations:
+//   - implements /ash/glanceables/common/glanceables_time_management_bubble_view.h
+//   - depends_on /ash/glanceables/common/glanceables_contents_scroll_view.h
+//   - depends_on /ash/glanceables/common/glanceables_list_footer_view.h
+// ---
+
 #include "ash/glanceables/common/glanceables_time_management_bubble_view.h"
 
 #include <utility>

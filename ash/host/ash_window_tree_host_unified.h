@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshWindowTreeHostUnified class declaration
+// summary: Declares AshWindowTreeHostUnified, the window tree host for unified desktop mode that uses an offscreen compositor and manages mirroring hosts.
+// relations:
+//   - depends_on /ash/host/ash_window_tree_host_platform.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/aura/window_observer.h
+// ---
+
 #ifndef ASH_HOST_ASH_WINDOW_TREE_HOST_UNIFIED_H_
 #define ASH_HOST_ASH_WINDOW_TREE_HOST_UNIFIED_H_
 

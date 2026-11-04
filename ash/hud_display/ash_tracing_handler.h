@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshTracingHandler class declaration
+// summary: Declares AshTracingHandler, an object that initiates Perfetto tracing start and stop and notifies an AshTracingRequest of the result.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_ASH_TRACING_HANDLER_H_
 #define ASH_HUD_DISPLAY_ASH_TRACING_HANDLER_H_
 

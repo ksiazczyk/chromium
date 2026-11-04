@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameSinkHolder test API implementation
+// summary: Implements accessors exposing FrameSinkHolder internals such as frame state and resource providers for use in unit tests.
+// relations:
+//   - implements /ash/frame_sink/frame_sink_holder_test_api.h
+//   - depends_on /ash/frame_sink/frame_sink_holder.h
+//   - depends_on /ui/gfx/geometry/size.h
+// ---
+
 #include "ash/frame_sink/frame_sink_holder_test_api.h"
 
 #include "ash/frame_sink/frame_sink_holder.h"

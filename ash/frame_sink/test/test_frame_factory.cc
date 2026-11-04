@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFrameFactory implementation
+// summary: Implements a test factory that builds compositor frames with configurable size, device scale factor, and resource list.
+// relations:
+//   - implements /ash/frame_sink/test/test_frame_factory.h
+//   - depends_on /components/viz/common/quads/compositor_frame.h
+//   - depends_on /components/viz/common/quads/compositor_render_pass.h
+// ---
+
 #include "ash/frame_sink/test/test_frame_factory.h"
 
 #include "components/viz/common/quads/compositor_frame.h"

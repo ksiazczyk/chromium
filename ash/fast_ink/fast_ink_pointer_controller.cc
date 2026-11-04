@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastInkPointerController implementation
+// summary: Implements the base controller that enables and disables fast ink pointer views and handles touch and mouse events, including stylus preference tracking and gesture start logic.
+// relations:
+//   - implements /ash/fast_ink/fast_ink_pointer_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/fast_ink/fast_ink_pointer_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

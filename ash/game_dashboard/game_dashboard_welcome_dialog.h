@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard welcome dialog header
+// summary: Declares the welcome dialog view displayed briefly when a game first opens, with a timer and screen reader announcement support.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/timer/timer.h
+//   - depends_on /ui/views/layout/flex_layout_view.h
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_WELCOME_DIALOG_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_WELCOME_DIALOG_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HUD legend view class declaration
+// summary: Declares the Legend view and its Entry type, which pairs a graph with a label, tooltip and value formatter for display.
+// relations:
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/raw_ref.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_LEGEND_H_
 #define ASH_HUD_DISPLAY_LEGEND_H_
 

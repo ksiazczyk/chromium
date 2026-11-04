@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Laser segment utilities header
+// summary: Declares geometry helper functions for computing laser segment normals, projections, and angle comparisons in the ash namespace.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_FAST_INK_LASER_LASER_SEGMENT_UTILS_H_
 #define ASH_FAST_INK_LASER_LASER_SEGMENT_UTILS_H_
 

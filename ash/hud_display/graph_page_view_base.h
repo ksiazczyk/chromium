@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graph page view base class
+// summary: Declares GraphPageViewBase, the interface for a single HUD graph page that updates from data snapshots and manages legend and reference lines.
+// relations:
+//   - depends_on /ash/hud_display/data_source.h
+//   - depends_on /ash/hud_display/legend.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_GRAPH_PAGE_VIEW_BASE_H_
 #define ASH_HUD_DISPLAY_GRAPH_PAGE_VIEW_BASE_H_
 

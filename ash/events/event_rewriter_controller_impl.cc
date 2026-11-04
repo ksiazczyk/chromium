@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event rewriter controller implementation
+// summary: Implements the controller that owns ChromeOS event rewriters and registers them on every root window event source.
+// relations:
+//   - implements /ash/events/event_rewriter_controller_impl.h
+//   - depends_on /ash/accessibility/disable_touchpad_event_rewriter.h
+//   - depends_on /ash/accessibility/filter_keys_event_rewriter.h
+// ---
+
 #include "ash/events/event_rewriter_controller_impl.h"
 
 #include <utility>

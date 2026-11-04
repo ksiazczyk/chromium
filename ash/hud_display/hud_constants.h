@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HUD display constants
+// summary: Defines shared HUD colors, sizes, insets, graph dimensions and the HUDDisplayMode enum for CPU, memory and FPS modes.
+// ---
+
 #ifndef ASH_HUD_DISPLAY_HUD_CONSTANTS_H_
 #define ASH_HUD_DISPLAY_HUD_CONSTANTS_H_
 

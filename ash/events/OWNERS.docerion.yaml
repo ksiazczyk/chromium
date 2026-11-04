@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the ash events directory
+summary: Lists code owners and per-file ownership rules for ash/events, delegating accessibility and peripheral customization files to specific owners.
+relations:
+  - references /ash/accessibility/OWNERS

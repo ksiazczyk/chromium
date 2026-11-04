@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameViewAsh implementation
+// summary: Implements the Ash frame view for packaged apps, dialogs and other non-browser windows, including immersive fullscreen and tablet mode handling.
+// relations:
+//   - implements /ash/frame/frame_view_ash.h
+//   - depends_on /ash/wm/window_state.h
+//   - depends_on /chromeos/ui/frame/immersive/immersive_fullscreen_controller.h
+// ---
+
 #include "ash/frame/frame_view_ash.h"
 
 #include <memory>

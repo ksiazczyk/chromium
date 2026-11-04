@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graph page view base implementation
+// summary: Implements the base view for HUD graph pages, including reference lines container, floating legend, and min/max buttons.
+// relations:
+//   - depends_on /ash/hud_display/graph_page_view_base.h
+//   - depends_on /ash/hud_display/hud_constants.h
+//   - depends_on /ash/hud_display/hud_properties.h
+// ---
+
 #include "ash/hud_display/graph_page_view_base.h"
 
 #include <utility>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard context implementation
+// summary: Implements GameDashboardContext, which manages per-game-window Game Dashboard UI such as the dashboard button, main menu, toolbar, welcome dialog, and recording timer in Ash.
+// relations:
+//   - implements /ash/game_dashboard/game_dashboard_context.h
+//   - depends_on /ash/capture_mode/capture_mode_camera_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_context.h"
 
 #include <memory>

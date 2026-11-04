@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshTracingRequest and trace destination declarations
+// summary: Declares the AshTraceDestinationIO test seam, the AshTraceDestination file wrapper, and the AshTracingRequest status state machine for Ash trace capture.
+// relations:
+//   - depends_on /base/files/file.h
+//   - depends_on /base/files/file_path.h
+//   - depends_on /base/files/platform_file.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_ASH_TRACING_REQUEST_H_
 #define ASH_HUD_DISPLAY_ASH_TRACING_REQUEST_H_
 

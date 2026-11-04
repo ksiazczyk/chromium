@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransformerHelper class declaration
+// summary: Declares TransformerHelper, a helper class for ash features that transform the root window, such as rotation and UI zooming.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ash/host/ash_window_tree_host.h
+// ---
+
 #ifndef ASH_HOST_TRANSFORMER_HELPER_H_
 #define ASH_HOST_TRANSFORMER_HELPER_H_
 

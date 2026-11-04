@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graph rendering implementation
+// summary: Implements layout and drawing of HUD graph data as line or skyline paths on a canvas, including stacked graph support.
+// relations:
+//   - depends_on /ash/hud_display/graph.h
+//   - depends_on /cc/paint/paint_flags.h
+//   - depends_on /ui/gfx/canvas.h
+// ---
+
 #include "ash/hud_display/graph.h"
 
 #include <algorithm>

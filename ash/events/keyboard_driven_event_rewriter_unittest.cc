@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the keyboard driven event rewriter
+// summary: Unit tests verifying pass-through and rewritten key events produced by KeyboardDrivenEventRewriter.
+// relations:
+//   - tests /ash/events/keyboard_driven_event_rewriter.h
+//   - depends_on /base/compiler_specific.h
+//   - depends_on /base/strings/stringprintf.h
+// ---
+
 #include "ash/events/keyboard_driven_event_rewriter.h"
 
 #include <stddef.h>

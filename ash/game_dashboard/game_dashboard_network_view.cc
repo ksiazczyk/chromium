@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard network view implementation
+// summary: Implements a view that displays the active network status icon with tooltips and accessibility alerts in the Game Dashboard.
+// relations:
+//   - implements /ash/game_dashboard/game_dashboard_network_view.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/system/model/system_tray_model.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_network_view.h"
 
 #include "ash/shell.h"

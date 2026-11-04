@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the tasks glanceables
+summary: Restricts include dependencies for the ash glanceables tasks directory, allowing headers from google_apis/common.

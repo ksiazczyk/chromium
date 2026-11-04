@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glanceables tasks pixel tests
+// summary: Pixel tests that verify the rendering of the glanceables bubble UI using fake tasks and classroom clients with overridden time.
+// relations:
+//   - depends_on /ash/api/tasks/fake_tasks_client.h
+//   - depends_on /ash/glanceables/classroom/fake_glanceables_classroom_client.h
+//   - depends_on /ash/glanceables/common/glanceables_view_id.h
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

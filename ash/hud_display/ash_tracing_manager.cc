@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash tracing manager implementation
+// summary: Implements the AshTracingManager singleton that tracks tracing requests, builds user-facing status messages, and starts or stops Ash tracing sessions.
+// relations:
+//   - implements /ash/hud_display/ash_tracing_manager.h
+//   - depends_on /ash/hud_display/ash_tracing_request.h
+//   - depends_on /base/no_destructor.h
+// ---
+
 #include "ash/hud_display/ash_tracing_manager.h"
 
 #include <vector>

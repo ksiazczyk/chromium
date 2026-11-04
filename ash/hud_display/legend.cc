@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HUD legend view implementation
+// summary: Implements the legend view that draws color swatches, labels, tooltips and current values for each graph entry in the HUD.
+// relations:
+//   - depends_on /ash/hud_display/legend.h
+//   - depends_on /ash/hud_display/graph.h
+//   - depends_on /ash/hud_display/hud_constants.h
+// ---
+
 #include "ash/hud_display/legend.h"
 
 #include <string_view>

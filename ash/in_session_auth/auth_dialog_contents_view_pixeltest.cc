@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auth Dialog Contents View Pixel Tests
+// summary: Pixel tests verifying the authentication dialog rendering across displays and dark and light modes.
+// relations:
+//   - tests /ash/in_session_auth/auth_dialog_contents_view.h
+//   - depends_on /ash/in_session_auth/mock_in_session_auth_dialog_client.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <optional>

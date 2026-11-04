@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameSinkHostTestBase test fixture
+// summary: Template base class extending AshTestBase that sets up a widget, host window, and test frame sink for FrameSinkHost unit tests.
+// relations:
+//   - depends_on /ash/frame_sink/frame_sink_host.h
+//   - depends_on /ash/frame_sink/test/test_begin_frame_source.h
+//   - depends_on /ash/frame_sink/test/test_layer_tree_frame_sink.h
+// ---
+
 #ifndef ASH_FRAME_SINK_TEST_FRAME_SINK_HOST_TEST_BASE_H_
 #define ASH_FRAME_SINK_TEST_FRAME_SINK_HOST_TEST_BASE_H_
 

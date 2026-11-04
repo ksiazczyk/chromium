@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceables metrics declarations
+// summary: Declares enums and recording functions for glanceables usage metrics covering tasks, classroom, and contextual Google integrations.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+//   - references /tools/metrics/histograms/metadata/ash/enums.xml
+// ---
+
 #ifndef ASH_GLANCEABLES_GLANCEABLES_METRICS_H_
 #define ASH_GLANCEABLES_GLANCEABLES_METRICS_H_
 

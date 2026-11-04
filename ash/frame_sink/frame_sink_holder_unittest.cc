@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameSinkHolder unit tests
+// summary: Unit tests for FrameSinkHolder covering frame submission, begin frame handling, resource export and reclamation, and frame sink loss.
+// relations:
+//   - tests /ash/frame_sink/frame_sink_holder.h
+//   - depends_on /ash/frame_sink/frame_sink_holder_test_api.h
+//   - depends_on /ash/frame_sink/frame_sink_host.h
+// ---
+
 #include "ash/frame_sink/frame_sink_holder.h"
 
 #include <algorithm>

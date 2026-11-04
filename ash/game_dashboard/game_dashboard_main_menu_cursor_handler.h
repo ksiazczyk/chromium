@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard main menu cursor handler header
+// summary: Declares a pretarget event handler that forces the mouse cursor visible while the Game Dashboard main menu is open.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/cursor/cursor.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_MAIN_MENU_CURSOR_HANDLER_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_MAIN_MENU_CURSOR_HANDLER_H_
 

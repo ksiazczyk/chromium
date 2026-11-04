@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash tracing handler implementation
+// summary: Implements AshTracingHandler, which starts and stops Perfetto tracing sessions that write trace data to a platform file, with a test hook for fake sessions.
+// relations:
+//   - implements /ash/hud_display/ash_tracing_handler.h
+//   - depends_on /ash/hud_display/ash_tracing_request.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/hud_display/ash_tracing_handler.h"
 
 #include <sys/mman.h>

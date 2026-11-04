@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesTaskView implementation
+// summary: Implements the view that renders a single task item with a check button, editable title, due date, and details in the glanceables tasks UI.
+// relations:
+//   - implements /ash/glanceables/tasks/glanceables_task_view.h
+//   - depends_on /ash/api/tasks/tasks_types.h
+//   - depends_on /ash/style/system_textfield.h
+// ---
+
 #include "ash/glanceables/tasks/glanceables_task_view.h"
 
 #include <memory>

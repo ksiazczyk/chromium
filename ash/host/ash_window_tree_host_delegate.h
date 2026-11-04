@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshWindowTreeHostDelegate interface
+// summary: Declares a delegate interface for window tree hosts to look up displays by ID and set the current event targeter source host.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_HOST_ASH_WINDOW_TREE_HOST_DELEGATE_H_
 #define ASH_HOST_ASH_WINDOW_TREE_HOST_DELEGATE_H_
 

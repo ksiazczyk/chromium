@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTreeHostWidget implementation
+// summary: Implements the ViewTreeHostWidget views widget and CreateViewTreeHostWidget factory, setting up a translucent, shadowless widget whose root view paints via ViewTreeHostRootView.
+// relations:
+//   - depends_on /ash/fast_ink/view_tree_host_widget.h
+//   - depends_on /ash/fast_ink/view_tree_host_root_view.h
+//   - depends_on /ui/compositor/layer_type.h
+// ---
+
 #include "ash/fast_ink/view_tree_host_widget.h"
 
 #include "ash/fast_ink/view_tree_host_root_view.h"

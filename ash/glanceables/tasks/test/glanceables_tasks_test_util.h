@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glanceables tasks test utility header
+// summary: Declares InitializeFakeTasksClient, a helper that creates and preloads a FakeTasksClient with initial task data for Glanceables tests.
+// relations:
+//   - depends_on /ash/api/tasks/fake_tasks_client.h
+// ---
+
 #ifndef ASH_GLANCEABLES_TASKS_TEST_GLANCEABLES_TASKS_TEST_UTIL_H_
 #define ASH_GLANCEABLES_TASKS_TEST_GLANCEABLES_TASKS_TEST_UTIL_H_
 

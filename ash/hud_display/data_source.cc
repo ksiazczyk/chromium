@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSource implementation
+// summary: Implements snapshot collection that computes CPU usage deltas with overflow handling and gathers memory values for the HUD display.
+// relations:
+//   - implements /ash/hud_display/data_source.h
+//   - depends_on /ash/hud_display/memory_status.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/hud_display/data_source.h"
 
 #include <algorithm>

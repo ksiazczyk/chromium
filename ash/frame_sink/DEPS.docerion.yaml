@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ash/frame_sink
+summary: Defines the DEPS include rules granting ash/frame_sink access to gpu, cc, and viz compositor dependencies.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard controller implementation
+// summary: Implements GameDashboardController, the Shell-owned singleton that observes windows, allowlists game app IDs, and creates per-window GameDashboardContexts.
+// relations:
+//   - implements /ash/game_dashboard/game_dashboard_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_controller.h"
 
 #include <algorithm>

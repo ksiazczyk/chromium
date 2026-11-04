@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastInkPoints implementation
+// summary: Implements a time-based collection of ink points with gaps, bounding boxes, stroke undo, fadeout factors and prediction of future points for low-latency rendering.
+// relations:
+//   - implements /ash/fast_ink/fast_ink_points.h
+//   - depends_on /base/containers/circular_deque.h
+//   - depends_on /ui/gfx/geometry/point_f.h
+// ---
+
 #include "ash/fast_ink/fast_ink_points.h"
 
 #include <algorithm>

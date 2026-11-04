@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastInkHost frame utilities implementation
+// summary: Implements helpers that map window rects to buffer coordinates, create mappable shared images, and build compositor frames with texture quads.
+// relations:
+//   - depends_on /ash/fast_ink/fast_ink_host_frame_utils.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/frame_sink/frame_sink_host.h
+// ---
+
 #include "ash/fast_ink/fast_ink_host_frame_utils.h"
 
 #include "ash/constants/ash_features.h"

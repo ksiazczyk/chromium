@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-session auth dialog contents view implementation
+// summary: Implements the contents view of the in-session authentication dialog, laying out the close button, user avatar, title, prompt, and AuthPanel.
+// relations:
+//   - implements /ash/in_session_auth/in_session_auth_dialog_contents_view.h
+//   - depends_on /chromeos/ash/components/auth_panel/impl/auth_panel.h
+// ---
+
 #include "ash/in_session_auth/in_session_auth_dialog_contents_view.h"
 
 #include <memory>

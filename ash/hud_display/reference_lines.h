@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reference lines view class declaration
+// summary: Declares ReferenceLines, a view that draws opaque reference lines with configurable axis labels, units and tick intervals on top of HUD graphs.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/views/controls/label.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_REFERENCE_LINES_H_
 #define ASH_HUD_DISPLAY_REFERENCE_LINES_H_
 

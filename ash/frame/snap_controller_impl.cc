@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snap controller implementation
+// summary: Implements window snapping for Ash, showing snap previews with a phantom window controller, haptic feedback and committing snap events.
+// relations:
+//   - implements /ash/frame/snap_controller_impl.h
+//   - depends_on /ash/wm/splitview/split_view_utils.h
+//   - depends_on /ash/wm/window_positioning_utils.h
+// ---
+
 #include "ash/frame/snap_controller_impl.h"
 
 #include "ash/wm/splitview/split_view_utils.h"

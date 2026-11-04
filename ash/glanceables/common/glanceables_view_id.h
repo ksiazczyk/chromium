@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceables view ID enum
+// summary: Defines the GlanceablesViewId enum of view IDs assigned to ChromeOS glanceables views so tests can query them.
+// ---
+
 #ifndef ASH_GLANCEABLES_COMMON_GLANCEABLES_VIEW_ID_H_
 #define ASH_GLANCEABLES_COMMON_GLANCEABLES_VIEW_ID_H_
 

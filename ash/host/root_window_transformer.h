@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootWindowTransformer interface
+// summary: Defines the RootWindowTransformer interface that controls how the root window is placed and transformed inside the host window, including rotation and scaling.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_HOST_ROOT_WINDOW_TRANSFORMER_H_
 #define ASH_HOST_ROOT_WINDOW_TRANSFORMER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesListFooterView header
+// summary: Declares GlanceablesListFooterView, a flex layout view rendering a Showing X out of Y label and a See all button for classroom and tasks bubbles.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/glanceables/common/glanceables_time_management_bubble_view.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_GLANCEABLES_COMMON_GLANCEABLES_LIST_FOOTER_VIEW_H_
 #define ASH_GLANCEABLES_COMMON_GLANCEABLES_LIST_FOOTER_VIEW_H_
 

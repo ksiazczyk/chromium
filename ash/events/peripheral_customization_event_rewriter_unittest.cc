@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PeripheralCustomizationEventRewriter unit tests
+// summary: Unit tests covering mouse, graphics tablet and scroll event rewriting, button remapping actions and related metrics for peripheral customization.
+// relations:
+//   - tests /ash/events/peripheral_customization_event_rewriter.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/events/peripheral_customization_event_rewriter.h"
 
 #include <linux/input.h>

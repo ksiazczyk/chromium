@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Game Dashboard delegate implementation
+// summary: Implements a fake Game Dashboard delegate that reports a fixed game app ID and stubs delegate callbacks for use in tests.
+// relations:
+//   - implements /ash/game_dashboard/test_game_dashboard_delegate.h
+// ---
+
 #include "ash/game_dashboard/test_game_dashboard_delegate.h"
 
 namespace ash {

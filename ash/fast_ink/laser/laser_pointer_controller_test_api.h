@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Laser pointer controller test API header
+// summary: Declares the LaserPointerControllerTestApi class that tests use to inspect and control a LaserPointerController instance.
+// relations:
+//   - depends_on /ash/system/palette/palette_tray.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/display/display.h
+// ---
+
 #ifndef ASH_FAST_INK_LASER_LASER_POINTER_CONTROLLER_TEST_API_H_
 #define ASH_FAST_INK_LASER_LASER_POINTER_CONTROLLER_TEST_API_H_
 

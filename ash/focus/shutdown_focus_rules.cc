@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShutdownFocusRules implementation
+// summary: Implements the Ash shutdown focus rules, denying child activation, window activation, and window focus, and returning no next activatable window during shutdown.
+// relations:
+//   - depends_on /ash/focus/shutdown_focus_rules.h
+// ---
+
 #include "ash/focus/shutdown_focus_rules.h"
 
 namespace ash {

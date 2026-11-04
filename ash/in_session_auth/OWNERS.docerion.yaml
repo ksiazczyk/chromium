@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners List for In-Session Auth
+summary: Delegates code ownership to the shared login and lock owners file.
+relations:
+  - references /ash/login/LOGIN_LOCK_OWNERS

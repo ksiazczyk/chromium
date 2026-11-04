@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SelectToSpeakEventHandler unit tests
+// summary: Unit tests for capturing and dispatching mouse, touch and key events to the Select-to-Speak delegate across search key and selection states.
+// relations:
+//   - tests /ash/events/select_to_speak_event_handler.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/events/test_event_capturer.h
+// ---
+
 #include "ash/events/select_to_speak_event_handler.h"
 
 #include <memory>

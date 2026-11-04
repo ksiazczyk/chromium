@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API for FastInkHost
+// summary: Declares FastInkHostTestApi, giving tests access to private FastInkHost state.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /gpu/command_buffer/common/sync_token.h
+//   - depends_on /ash/fast_ink/fast_ink_host.h
+// ---
+
 #ifndef ASH_FAST_INK_FAST_INK_HOST_TEST_API_H_
 #define ASH_FAST_INK_FAST_INK_HOST_TEST_API_H_
 

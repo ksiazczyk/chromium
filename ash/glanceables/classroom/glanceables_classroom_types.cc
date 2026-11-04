@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceables Classroom data types implementation
+// summary: Implements constructors and string conversion for the Classroom course, aggregated submissions state, and assignment data structures.
+// relations:
+//   - implements /ash/glanceables/classroom/glanceables_classroom_types.h
+//   - depends_on /base/i18n/time_formatting.h
+//   - depends_on /base/time/time.h
+// ---
+
 #include "ash/glanceables/classroom/glanceables_classroom_types.h"
 
 #include <optional>

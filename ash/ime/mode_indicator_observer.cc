@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mode indicator widget observer implementation
+// summary: Implements ModeIndicatorObserver, which closes the active mode indicator widget immediately when a new one is shown before the fade-out completes.
+// relations:
+//   - depends_on /ash/ime/mode_indicator_observer.h
+//   - depends_on /ui/views/widget/widget.h
+// ---
+
 #include "ash/ime/mode_indicator_observer.h"
 
 #include "ui/views/widget/widget.h"

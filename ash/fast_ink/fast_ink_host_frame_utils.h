@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastInkHost frame utilities declarations
+// summary: Declares internal helpers for buffer rect conversion, mappable shared image creation, and compositor frame creation used by FastInkHost.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /components/viz/common/quads/compositor_frame.h
+// ---
+
 #ifndef ASH_FAST_INK_FAST_INK_HOST_FRAME_UTILS_H_
 #define ASH_FAST_INK_FAST_INK_HOST_FRAME_UTILS_H_
 

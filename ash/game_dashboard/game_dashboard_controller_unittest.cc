@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Game Dashboard controller unit tests
+// summary: Unit tests verifying game window detection via the kIsGameKey property, allowlisted ARC windows, and GameDashboardContext cleanup when game windows close.
+// relations:
+//   - tests /ash/game_dashboard/game_dashboard_controller.h
+//   - depends_on /ash/game_dashboard/game_dashboard_test_base.h
+//   - depends_on /ash/game_dashboard/test_game_dashboard_delegate.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_controller.h"
 
 #include "ash/game_dashboard/game_dashboard_test_base.h"

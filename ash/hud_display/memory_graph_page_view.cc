@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory graph page view implementation
+// summary: Implements the memory page of the HUD, drawing stacked graphs for Chrome, renderer, ARC, GPU and kernel memory usage with reference lines and a legend.
+// relations:
+//   - implements /ash/hud_display/memory_graph_page_view.h
+//   - depends_on /ash/hud_display/hud_constants.h
+//   - depends_on /ash/hud_display/reference_lines.h
+// ---
+
 #include "ash/hud_display/memory_graph_page_view.h"
 
 #include <algorithm>

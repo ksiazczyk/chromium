@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the accessibility event rewriter
+// summary: Unit tests covering key event capture, pending event processing, and MV3 spoken feedback handling in AccessibilityEventRewriter.
+// relations:
+//   - tests /ash/events/accessibility_event_rewriter.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/mouse_keys/mouse_keys_controller.h
+// ---
+
 #include "ash/events/accessibility_event_rewriter.h"
 
 #include <memory>

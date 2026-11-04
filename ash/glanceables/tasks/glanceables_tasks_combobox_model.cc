@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesTasksComboboxModel implementation
+// summary: Implements the combobox model for switching task lists, including profile prefs that remember the last selected list.
+// relations:
+//   - implements /ash/glanceables/tasks/glanceables_tasks_combobox_model.h
+//   - depends_on /ash/api/tasks/tasks_types.h
+//   - depends_on /components/prefs/pref_service.h
+// ---
+
 #include "ash/glanceables/tasks/glanceables_tasks_combobox_model.h"
 
 #include <algorithm>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshWindowTreeHostPlatform unit tests
+// summary: Tests that unadjusted mouse movement suspends and restores mouse acceleration through ScopedEnableUnadjustedMouseEventsOzone.
+// relations:
+//   - tests /ash/host/ash_window_tree_host_platform.h
+//   - depends_on /ash/host/ash_window_tree_host_delegate.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/host/ash_window_tree_host_platform.h"
 
 #include <memory>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTreeHostRootViewFrameFactory implementation
+// summary: Creates compositor frames for the root view, applying panel rotation transforms, device scale handling and damage rect computation for buffer updates.
+// relations:
+//   - implements /ash/fast_ink/view_tree_host_root_view_frame_factory.h
+// ---
+
 #include "ash/fast_ink/view_tree_host_root_view_frame_factory.h"
 
 #include <memory>

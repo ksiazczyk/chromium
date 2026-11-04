@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard button reveal controller implementation
+// summary: Implements showing and hiding the Game Dashboard button in fullscreen based on mouse, touch, and gesture events.
+// relations:
+//   - implements /ash/game_dashboard/game_dashboard_button_reveal_controller.h
+//   - depends_on /ash/game_dashboard/game_dashboard_context.h
+//   - depends_on /ash/game_dashboard/game_dashboard_utils.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_button_reveal_controller.h"
 
 #include "ash/game_dashboard/game_dashboard_context.h"

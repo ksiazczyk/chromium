@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshWindowTreeHostUnified implementation for unified desktop mode
+// summary: Implements the window tree host for unified desktop mode, including an event targeter that redirects events from mirroring source hosts to the unified root window.
+// relations:
+//   - implements /ash/host/ash_window_tree_host_unified.h
+//   - depends_on /ash/host/ash_window_tree_host_delegate.h
+//   - depends_on /ui/aura/window_targeter.h
+// ---
+
 #include "ash/host/ash_window_tree_host_unified.h"
 
 #include <algorithm>

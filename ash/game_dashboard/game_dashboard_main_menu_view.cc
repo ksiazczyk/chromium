@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game Dashboard main menu view implementation
+// summary: Implements the expanded Game Dashboard main menu bubble with shortcut tiles for recording, screenshots, Game Controls, and settings.
+// relations:
+//   - depends_on /ash/game_dashboard/game_dashboard_main_menu_view.h
+//   - depends_on /ash/bubble/bubble_utils.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+// ---
+
 #include "ash/game_dashboard/game_dashboard_main_menu_view.h"
 
 #include <memory>

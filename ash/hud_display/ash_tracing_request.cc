@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash tracing request implementation
+// summary: Implements AshTracingRequest and trace destination helpers that create trace files or memfd buffers, generate timestamped trace file names, and save traces after login.
+// relations:
+//   - implements /ash/hud_display/ash_tracing_request.h
+//   - depends_on /base/files/file.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #include "ash/hud_display/ash_tracing_request.h"
 
 #include <sys/mman.h>

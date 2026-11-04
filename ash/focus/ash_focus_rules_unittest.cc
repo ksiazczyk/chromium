@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash focus rules unit tests
+// summary: Unit tests verifying AshFocusRules behavior when locking and unlocking the screen and for windows in desk, modal, lock, shelf, and app list containers.
+// relations:
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/session/test_pref_service_provider.h
+// ---
+
 #include <memory>
 
 #include "ash/public/cpp/shell_window_ids.h"

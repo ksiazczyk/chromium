@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceables Classroom item view implementation
+// summary: Implements the button view that renders a single Classroom assignment with icon, course and coursework titles, and formatted due date and time labels.
+// relations:
+//   - implements /ash/glanceables/classroom/glanceables_classroom_item_view.h
+//   - depends_on /ash/glanceables/classroom/glanceables_classroom_client.h
+//   - depends_on /ash/glanceables/classroom/glanceables_classroom_types.h
+// ---
+
 #include "ash/glanceables/classroom/glanceables_classroom_item_view.h"
 
 #include <algorithm>

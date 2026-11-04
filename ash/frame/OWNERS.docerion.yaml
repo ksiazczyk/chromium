@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the ash frame directory
+summary: Lists the code owners responsible for reviewing changes in the ash/frame directory.

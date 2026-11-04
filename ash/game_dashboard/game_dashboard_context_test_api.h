@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Game Dashboard context test API header
+// summary: Declares GameDashboardContextTestApi, a wrapper that exposes GameDashboardContext internals like views, widgets, timers, and menu helpers for use in tests.
+// relations:
+//   - depends_on /ash/game_dashboard/game_dashboard_context.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - references /ash/game_dashboard/game_dashboard_battery_view.h
+// ---
+
 #ifndef ASH_GAME_DASHBOARD_GAME_DASHBOARD_CONTEXT_TEST_API_H_
 #define ASH_GAME_DASHBOARD_GAME_DASHBOARD_CONTEXT_TEST_API_H_
 

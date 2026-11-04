@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn request registrar implementation for Ash
+// summary: Implements the Ash WebAuthn request registrar, generating unique request IDs per window and resolving request IDs back to aura windows for the in-session auth dialog.
+// relations:
+//   - implements /ash/in_session_auth/webauthn_request_registrar_impl.h
+// ---
+
 #include "ash/in_session_auth/webauthn_request_registrar_impl.h"
 
 #include <cstdint>

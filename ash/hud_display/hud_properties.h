@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HUD click handler property declaration
+// summary: Declares the kHUDClickHandler property used to mark views as click handlers so clicks elsewhere drag the whole HUD.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/base/class_property.h
+//   - depends_on /ui/base/hit_test.h
+// ---
+
 #ifndef ASH_HUD_DISPLAY_HUD_PROPERTIES_H_
 #define ASH_HUD_DISPLAY_HUD_PROPERTIES_H_
 

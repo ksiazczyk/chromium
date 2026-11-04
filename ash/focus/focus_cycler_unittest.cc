@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus cycler unit tests
+// summary: Unit tests verifying forward, backward, and browser-only focus cycling through the status area, shelf, and browser windows.
+// relations:
+//   - depends_on /ash/focus/focus_cycler.h
+//   - depends_on /ash/shelf/shelf.h
+//   - depends_on /ash/shelf/shelf_focus_cycler.h
+// ---
+
 #include "ash/focus/focus_cycler.h"
 
 #include <algorithm>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash focus rules header
+// summary: Declares AshFocusRules, which overrides base focus rules to control which Ash shell windows can be activated and focused.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/wm/core/base_focus_rules.h
+//   - implemented_by /ash/focus/ash_focus_rules.cc
+// ---
+
 #ifndef ASH_FOCUS_ASH_FOCUS_RULES_H_
 #define ASH_FOCUS_ASH_FOCUS_RULES_H_
 

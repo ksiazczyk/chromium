@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU graph page view implementation
+// summary: Implements CpuGraphPageView, which draws stacked CPU usage graphs for idle, user, system, and other time with legends and reference lines.
+// relations:
+//   - implements /ash/hud_display/cpu_graph_page_view.h
+//   - depends_on /ash/hud_display/hud_constants.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/hud_display/cpu_graph_page_view.h"
 
 #include <algorithm>

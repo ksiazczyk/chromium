@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FastInkHost frame utilities
+// summary: Tests compositor frame creation and buffer rect mapping for FastInkHost across display configurations and feature flags.
+// relations:
+//   - tests /ash/fast_ink/fast_ink_host_frame_utils.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/frame_sink/frame_sink_utils.h
+// ---
+
 #include "ash/fast_ink/fast_ink_host_frame_utils.h"
 
 #include <memory>

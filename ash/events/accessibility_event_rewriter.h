@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility event rewriter class declaration
+// summary: Declares AccessibilityEventRewriter, which forwards key events to accessibility extensions and manages pending spoken feedback events.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/cancelable_callback.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_EVENTS_ACCESSIBILITY_EVENT_REWRITER_H_
 #define ASH_EVENTS_ACCESSIBILITY_EVENT_REWRITER_H_
 

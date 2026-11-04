@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash focus manager factory implementation
+// summary: Creates Ash-specific views::FocusManager instances whose delegate routes post-target accelerators to the accelerator controller and supports arrow key traversal.
+// relations:
+//   - depends_on /ash/focus/ash_focus_manager_factory.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/accessibility/magnifier/docked_magnifier_controller.h
+// ---
+
 #include "ash/focus/ash_focus_manager_factory.h"
 
 #include <memory>

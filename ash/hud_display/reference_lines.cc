@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reference lines view implementation
+// summary: Implements the ReferenceLines view that draws axis labels, tick marks and reference lines over the HUD graphs.
+// relations:
+//   - implements /ash/hud_display/reference_lines.h
+//   - depends_on /ash/hud_display/hud_constants.h
+//   - depends_on /base/strings/stringprintf.h
+// ---
+
 #include "ash/hud_display/reference_lines.h"
 
 #include "ash/hud_display/hud_constants.h"

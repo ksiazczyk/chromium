@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mode indicator observer declaration
+// summary: Declares ModeIndicatorObserver, a widget observer that tracks the active mode indicator widget so it can be closed immediately when replaced.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/views/widget/widget_observer.h
+// ---
+
 #ifndef ASH_IME_MODE_INDICATOR_OBSERVER_H_
 #define ASH_IME_MODE_INDICATOR_OBSERVER_H_
 

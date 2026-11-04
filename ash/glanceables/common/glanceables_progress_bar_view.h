@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlanceablesProgressBarView header
+// summary: Declares GlanceablesProgressBarView, a flex layout container for an infinite progress bar used in glanceables bubbles.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_GLANCEABLES_COMMON_GLANCEABLES_PROGRESS_BAR_VIEW_H_
 #define ASH_GLANCEABLES_COMMON_GLANCEABLES_PROGRESS_BAR_VIEW_H_
 
