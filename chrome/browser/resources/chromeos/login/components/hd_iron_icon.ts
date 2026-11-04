@@ -19,6 +19,12 @@
  *     'src2x' - A direct source to a file. For example, a SVG file.
  */
 
+// ---docerion
+// type: source
+// title: HD iron icon element
+// summary: Polymer element that automatically displays one of two iron icons depending on the display resolution.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import './common_styles/oobe_common_styles.css.js';
 

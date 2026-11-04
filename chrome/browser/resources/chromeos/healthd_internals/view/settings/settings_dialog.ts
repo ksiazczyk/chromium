@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Healthd internals settings dialog element
+// summary: Polymer element implementing the healthd-internals settings dialog that configures UI update interval, data polling cycle, and chart data retention, notifying observers via events.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import './config_slider.js';

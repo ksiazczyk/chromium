@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji search component logic
+// summary: Polymer element implementing emoji and GIF search, including Fuse-based local matching, Mojo search, pagination and network error handling.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_search_field/cr_search_field.js';
 import './emoji_category_button.js';
 import './emoji_group.js';

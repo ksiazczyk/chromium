@@ -1,0 +1,4 @@
+# Docerion header of mozc_manifest.json.
+type: config
+title: Mozc Japanese IME extension manifest
+summary: Manifest for the Mozc Japanese input method extension on Chrome OS, defining US and JP keyboard input components.

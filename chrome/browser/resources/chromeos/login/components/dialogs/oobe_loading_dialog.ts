@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE loading dialog element
+// summary: Implements the oobe-loading-dialog Polymer element that plays a spinner during loading steps and dispatches a cancel-loading event when cancelled.
+// ---
+
 import '//resources/polymer/v3_0/paper-spinner/paper-spinner-lite.js';
 import '../buttons/oobe_text_button.js';
 import '../common_styles/oobe_common_styles.css.js';

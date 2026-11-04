@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fan card web component
+// summary: Polymer element that displays fan speeds in RPM from telemetry data, or a message when no fans are found.
+// ---
+
 import './info_card.js';
 
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji button custom element
+// summary: Defines the emoji-button Polymer element that renders a single emoji and dispatches click events carrying tone, gender and variant details.
+// ---
+
 // TODO(b/264211466): This is only used by emoji_variants.html. The only props
 // that are set seem to be emoji, variant, base, all-variants, tooltip  and
 // disabled.  I can delete the others in a follow up, but not changing this file

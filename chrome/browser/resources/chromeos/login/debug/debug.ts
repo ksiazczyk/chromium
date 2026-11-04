@@ -6,6 +6,12 @@
  * @fileoverview Root element of the OOBE UI Debugger.
  */
 
+// ---docerion
+// type: source
+// title: OOBE UI Debugger root element
+// summary: Root element of the OOBE UI Debugger that assembles debug screens with mock data such as QuickStart QR codes, perks, and app categories.
+// ---
+
 import {MessageType, ProblemType} from '//resources/ash/common/quick_unlock/setup_pin_keyboard.js';
 import {$} from '//resources/ash/common/util.js';
 import {assert, assertInstanceof} from '//resources/js/assert.js';

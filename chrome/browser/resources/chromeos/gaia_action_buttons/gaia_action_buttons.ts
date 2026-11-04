@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia action buttons web component
+// summary: Polymer element that renders primary and secondary action buttons, listens to authenticator events and forwards button clicks to the GAIA webview.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 
 import type {Authenticator} from '/gaia_auth_host/authenticator.js';

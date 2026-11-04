@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Healthd internals telemetry page element
+// summary: Polymer element for the telemetry page that forwards healthd telemetry data to the CPU, memory, fan, power, and thermal cards.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '../info_card/cpu_card.js';
 import '../info_card/fan_card.js';

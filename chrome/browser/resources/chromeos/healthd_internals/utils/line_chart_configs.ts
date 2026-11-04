@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Line chart configuration constants
+// summary: Defines constants for scale, zoom, scrolling, sampling, colors, and label spacing used when rendering the healthd internals line chart.
+// ---
+
 /**
  * The default scale of the line chart. The scale means how many milliseconds
  * per pixel.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the launcher internals directory
+summary: Lists the email addresses of the maintainers responsible for reviewing changes to the launcher internals code.

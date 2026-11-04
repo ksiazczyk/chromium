@@ -19,6 +19,12 @@
  *  document level.
  */
 
+// ---docerion
+// type: source
+// title: OOBE carousel element
+// summary: Polymer element that displays OOBE slides in a carousel with optional automatic rotation, navigation dots and accessibility labels.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import '//resources/ash/common/cr_elements/icons.html.js';
 import './common_styles/oobe_common_styles.css.js';

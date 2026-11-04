@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Floating workspace WebUI BUILD.gn
+summary: GN build configuration that builds the floating workspace WebUI with its static files, TypeScript dependencies, and trusted context type.

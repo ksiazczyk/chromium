@@ -27,6 +27,12 @@
  *
  */
 
+// ---docerion
+// type: source
+// title: OobeIconButton element
+// summary: Defines the oobe-icon-button custom element, an OOBE button that displays a Material Design icon with optional localized text and ARIA label.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cr_icons.css.js';

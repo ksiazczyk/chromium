@@ -20,6 +20,12 @@
  *  trigger some action on their side by using 'on-close=myMethod'.
  */
 
+// ---docerion
+// type: source
+// title: OOBE modal dialog element
+// summary: Implements the oobe-modal-dialog Polymer element per MD specs, supporting localized title and content keys, optional buttons, and shelf button toggling.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login UI tools for the OOBE WebUI
+// summary: Utility functions for the ChromeOS login OOBE WebUI that add submit listeners and insert screens into the main screen container.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {loadTimeData} from '//resources/js/load_time_data.js';
 import {$} from '//resources/js/util.js';

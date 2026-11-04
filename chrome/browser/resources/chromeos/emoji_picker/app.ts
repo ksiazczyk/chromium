@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji picker root app element
+// summary: Implements the emoji-picker-app Polymer element that renders category tabs, emoji groups, search, variants and GIF support for the ChromeOS emoji picker.
+// ---
+
 import './icons.html.js';
 import './emoji_image.js';
 import './emoji_gif_nudge_overlay.js';

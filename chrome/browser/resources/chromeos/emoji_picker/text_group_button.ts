@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextGroupButton element
+// summary: Defines the TextGroupButton Polymer element that renders a labelled group button and dispatches group click events.
+// ---
+
 import './icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 

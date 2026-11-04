@@ -1,0 +1,4 @@
+# Docerion header of cangjie_manifest.json.
+type: config
+title: Cangjie IME extension manifest
+summary: Extension manifest for the Traditional Chinese Cangjie input method on Chrome OS, defining its input component, permissions and background page.

@@ -1,0 +1,4 @@
+# Docerion header of zhuyin_manifest.json.
+type: config
+title: Zhuyin IME extension manifest
+summary: Manifest for the Traditional Chinese Zhuyin input method extension on Chrome OS, defining its input component and options page.

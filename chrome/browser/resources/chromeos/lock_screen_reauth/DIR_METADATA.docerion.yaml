@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for lock screen reauth
+summary: Maps the lock screen reauth directory to the SAML login component metadata, since online reauthentication serves both GAIA and SAML users.

@@ -1,0 +1,4 @@
+# Docerion header of internet_config_dialog.html.
+type: source
+title: HTML template for the internet config dialog
+summary: Polymer template defining the dialog layout, embedded network-config element, error display and cancel/connect buttons.

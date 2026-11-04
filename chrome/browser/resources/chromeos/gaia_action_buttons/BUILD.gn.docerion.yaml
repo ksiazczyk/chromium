@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Gaia action buttons build configuration
+summary: GN build file that compiles the gaia_action_buttons WebUI component with TypeScript dependencies, definitions and path mappings.

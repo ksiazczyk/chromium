@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Line chart controller for healthd internals
+// summary: Controller that manages data series, time ranges, scrolling and canvas rendering for the healthd internals line chart.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import type {DataSeries} from '../model/data_series.js';

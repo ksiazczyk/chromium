@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Kerberos WebUI build configuration
+summary: GN build rules for the Kerberos WebUI, building the in-browser dialog HTML and the TypeScript redirect component together with its WebUI and Polymer dependencies.

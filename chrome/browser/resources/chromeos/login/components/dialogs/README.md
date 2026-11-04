@@ -1,3 +1,13 @@
+---
+type: readme
+title: OOBE Dialogs
+summary: Documents the oobe-adaptive-dialog and oobe-content-dialog components, their slots, and how to use them with oobe-dialog-host-styles and OobeDialogHostBehavior.
+relations:
+  - documents /chrome/browser/resources/chromeos/login/components/dialogs/oobe_adaptive_dialog.html
+  - documents /chrome/browser/resources/chromeos/login/components/dialogs/oobe_adaptive_dialog.ts
+  - documents /chrome/browser/resources/chromeos/login/components/dialogs/oobe_content_dialog.html
+---
+
 # OOBE Dialogs
 
 ## oobe-adaptive-dialog

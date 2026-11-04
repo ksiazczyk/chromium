@@ -1,0 +1,4 @@
+# Docerion header of config_slider.html.
+type: source
+title: Healthd internals config slider template
+summary: HTML template for the healthd-internals config slider component wrapping a cr-slider with a title and tick marks.

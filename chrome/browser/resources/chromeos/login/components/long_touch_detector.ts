@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Long touch detector for OOBE elements
+// summary: Defines a LongTouchDetector class that fires a callback when an element is touched or pressed for one second.
+// ---
+
 const LONG_TOUCH_TIME_MS = 1000;
 
 export class LongTouchDetector {

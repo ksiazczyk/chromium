@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE keyboard utilities global instance and webview injection
+// summary: Provides a global KeyboardUtils instance for OOBE keyboard navigation and prepares keyboard utility code for injection into the enterprise enrollment webview.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import {KeyboardUtils} from './keyboard_utils.js';

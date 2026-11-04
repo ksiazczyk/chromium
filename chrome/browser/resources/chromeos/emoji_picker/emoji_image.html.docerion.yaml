@@ -1,0 +1,4 @@
+# Docerion header of emoji_image.html.
+type: source
+title: Emoji image template
+summary: HTML template for GIF image tiles with lazy loading, loading animation and a remove-from-recently-used button.

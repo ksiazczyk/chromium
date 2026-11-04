@@ -1,0 +1,4 @@
+# Docerion header of menu.html.
+type: source
+title: Line chart menu template
+summary: HTML template for the line chart menu with Enable All and Disable All buttons and a container for per-data-series buttons.

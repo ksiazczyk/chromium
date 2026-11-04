@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for lock screen reauth WebUI
+summary: Defines the GN build for the lock screen reauth WebUI, listing static, component and TypeScript sources plus type definitions, path mappings and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE initialization script
+// summary: Entry script that initializes the OOBE UI, exposes global values for browser-side and test access, and registers on-screen debuggers.
+// ---
+
 import './components/common_styles/oobe_flex_layout_styles.css.js';
 import './components/api_keys_notice.js';
 

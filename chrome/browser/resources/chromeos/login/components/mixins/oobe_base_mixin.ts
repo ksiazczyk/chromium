@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OobeBaseMixin with shared OOBE component behavior
+// summary: Base Polymer mixin providing shared show and hide lifecycle hooks plus a default focus control for OOBE components.
+// ---
+
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

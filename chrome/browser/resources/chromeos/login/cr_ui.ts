@@ -8,6 +8,12 @@
  * shared between all *two* screens here.
  */
 
+// ---docerion
+// type: source
+// title: Oobe controller shared by OOBE and login
+// summary: Defines the Oobe singleton with static helpers for screen changes, keyboard flow, dialog sizing and test login.
+// ---
+
 import '//resources/js/cr.js';
 
 import {assert} from '//resources/js/assert.js';

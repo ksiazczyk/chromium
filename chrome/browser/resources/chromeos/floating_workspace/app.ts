@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating workspace app element
+// summary: TypeScript Polymer element that switches between the floating workspace screens, handles timeouts, and manages network configuration via mojo.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/polymer/v3_0/paper-progress/paper-progress.js';
 import '/components/oobe_cr_lottie.js';

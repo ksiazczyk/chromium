@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Line chart scrollbar element
+// summary: Polymer scrollbar element that tracks the visible portion of the chart and fires bar-scroll events so only the visible part is drawn.
+// ---
+
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 import {getTemplate} from './scrollbar.html.js';

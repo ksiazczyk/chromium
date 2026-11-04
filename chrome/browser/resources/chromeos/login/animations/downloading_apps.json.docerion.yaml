@@ -1,0 +1,4 @@
+# Docerion header of downloading_apps.json.
+type: asset
+title: Downloading apps animation
+summary: Lottie animation shown while apps are downloaded during Chrome OS setup.

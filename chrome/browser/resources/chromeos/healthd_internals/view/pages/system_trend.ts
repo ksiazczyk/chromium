@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Healthd internals system trend page element
+// summary: Polymer element for the system trend page that manages chart categories, displayed time range, and the summary table toggle.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/md_select.css.js';
 import '../line_chart/line_chart.js';

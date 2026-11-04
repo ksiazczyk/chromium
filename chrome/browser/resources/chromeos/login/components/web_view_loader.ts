@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web view loader with retries and metrics
+// summary: Class that loads URLs into web views with timeout, backoff retries, CSS and anchor handling, and records first-load UMA metrics.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {loadTimeData} from '//resources/js/load_time_data.js';
 

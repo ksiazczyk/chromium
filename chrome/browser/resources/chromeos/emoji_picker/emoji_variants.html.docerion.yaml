@@ -1,0 +1,4 @@
+# Docerion header of emoji_variants.html.
+type: source
+title: Emoji variants popup template
+summary: HTML template laying out the emoji variant selection grid with the base emoji, skin tone indicators and rows of variant buttons.

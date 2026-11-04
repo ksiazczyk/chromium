@@ -1,0 +1,4 @@
+# Docerion header of emoji_group_button.html.
+type: source
+title: Emoji group button template
+summary: HTML template for the category tab button with active, inactive, disabled and focus styling on a cr-icon-button.

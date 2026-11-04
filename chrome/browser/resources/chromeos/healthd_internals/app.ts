@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Healthd internals app element
+// summary: Root Polymer element that manages page navigation between info, telemetry, process and system trend pages and wires up the data manager and settings dialog.
+// ---
+
 
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cr_menu_selector/cr_menu_selector.js';

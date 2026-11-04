@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for displaying the PIN on the QuickStart screen
  */
 
+// ---docerion
+// type: source
+// title: Quick Start PIN element
+// summary: Polymer element that displays the four-digit PIN shown on the QuickStart screen.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import type {PolymerElementProperties} from '//resources/polymer/v3_0/polymer/interfaces.js';
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

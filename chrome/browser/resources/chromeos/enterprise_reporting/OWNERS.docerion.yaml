@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to reporting component owners
+summary: Delegates ownership approvals to the OWNERS file of components/reporting.

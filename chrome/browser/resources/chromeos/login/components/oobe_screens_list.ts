@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE screens list element
+// summary: Polymer element that manages selection, visited, synced, and disabled states of optional CHOOBE setup screens.
+// ---
+
 
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/icons.html.js';

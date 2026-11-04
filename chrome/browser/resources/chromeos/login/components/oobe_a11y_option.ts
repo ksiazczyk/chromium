@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE accessibility option Polymer element
+// summary: Defines the oobe-a11y-option custom element with a toggle, checked state, Chrome message identifier and ARIA label for accessibility options in OOBE.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';

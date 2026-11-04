@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginScreenMixin implementing the login.Screen API
+// summary: Polymer mixin that implements the login.Screen API for OOBE screens, registering external screen methods and forwarding user actions to the browser.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

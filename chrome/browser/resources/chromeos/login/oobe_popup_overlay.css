@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: OOBE popup overlay styles
+summary: Styles for the popup overlay and oobe-popup dialog shown over the OOBE WebUI.
+*/
+
 .popup-overlay {
   align-items: center;
   background: rgba(32, 33, 36, 0.6); /* #202124 should match Gaia overlay*/

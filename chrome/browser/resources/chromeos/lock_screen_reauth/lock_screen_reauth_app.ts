@@ -7,6 +7,12 @@
  * the lock screen.
  */
 
+// ---docerion
+// type: source
+// title: Lock screen reauth app initialization script
+// summary: Entry point that imports the lock-reauth element, exposes the $ helper globally for tests and re-exports loadTimeData.
+// ---
+
 import '/strings.m.js';
 import './lock_screen_reauth.js';
 

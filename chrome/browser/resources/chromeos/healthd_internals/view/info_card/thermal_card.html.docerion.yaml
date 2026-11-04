@@ -1,0 +1,4 @@
+# Docerion header of thermal_card.html.
+type: source
+title: Thermal card HTML template
+summary: HTML template for the healthd internals thermal card, providing a Celsius/Fahrenheit unit selector and an info card container.

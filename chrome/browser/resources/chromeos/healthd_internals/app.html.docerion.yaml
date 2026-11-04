@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: App shell template with sidebar and page navigation
+summary: HTML template for the healthd-internals-app element, providing a collapsible sidebar menu, settings dialog, and iron-pages routing between info, telemetry, process, and system trend pages.

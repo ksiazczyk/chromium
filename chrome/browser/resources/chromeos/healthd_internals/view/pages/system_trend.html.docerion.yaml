@@ -1,0 +1,4 @@
+# Docerion header of system_trend.html.
+type: source
+title: Healthd internals system trend page template
+summary: HTML template for the system trend page with a category selector, duration and time span labels, and a line chart.

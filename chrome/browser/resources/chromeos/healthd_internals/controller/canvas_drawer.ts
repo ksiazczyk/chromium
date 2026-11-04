@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Canvas drawer for the healthd internals line chart
+// summary: Helper class that draws lines, time labels and unit labels on the canvas of the healthd internals line chart.
+// ---
+
 import type {DataPoint} from '../model/data_series.js';
 import {BACKGROUND_COLOR, GRID_COLOR, MIN_LABEL_HORIZONTAL_SPACING, MIN_LABEL_VERTICAL_SPACING, MIN_TIME_LABEL_HORIZONTAL_SPACING, TEXT_COLOR, TEXT_SIZE, TIME_STEP_UNITS, Y_AXIS_TICK_LENGTH} from '../utils/line_chart_configs.js';
 

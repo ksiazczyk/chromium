@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji image component
+// summary: Polymer element that displays GIF previews with keyboard navigation, tooltips and clearing of recently used GIFs.
+// ---
+
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 import {VISUAL_CONTENT_WIDTH} from './constants.js';

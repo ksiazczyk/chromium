@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trie data structure for emoji picker
+// summary: Implements a trie class that stores string keys and supports adding keys, prefix-based key lookup, containment checks, and clearing, used by the ChromeOS emoji picker.
+// ---
+
 
 export class Trie {
   private children: Record<string, Trie> = {};

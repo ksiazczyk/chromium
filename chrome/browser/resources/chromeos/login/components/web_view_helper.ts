@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web view content loading helper
+// summary: Utility shared between OOBE screens that loads HTML or PDF content from a URL into a web view via XHR and sandboxed data URLs.
+// ---
+
 import {assert, assertNotReached} from '//resources/js/assert.js';
 
 /**

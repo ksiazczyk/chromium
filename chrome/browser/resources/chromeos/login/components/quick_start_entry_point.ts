@@ -16,6 +16,12 @@
  *     'quickStartTextkey' - ID of localized string to be used as button text.
  */
 
+// ---docerion
+// type: source
+// title: Quick Start entry point element
+// summary: Polymer button element that serves as the Quick Start entry point and dispatches an activate-quick-start event when clicked.
+// ---
+
 import type {PolymerElementProperties} from '//resources/polymer/v3_0/polymer/interfaces.js';
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

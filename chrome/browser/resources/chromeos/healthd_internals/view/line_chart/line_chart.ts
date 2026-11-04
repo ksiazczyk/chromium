@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Line chart element
+// summary: Polymer element that renders the line chart canvas and handles scroll, drag, touch zoom and resize events via its controller.
+// ---
+
 import './menu.js';
 import './scrollbar.js';
 import './chart_summary_table.js';

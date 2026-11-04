@@ -1,0 +1,4 @@
+# Docerion header of welcome_screen_animation.json.
+type: asset
+title: Welcome screen animation
+summary: Lottie animation played on the Chrome OS welcome screen during sign-in.

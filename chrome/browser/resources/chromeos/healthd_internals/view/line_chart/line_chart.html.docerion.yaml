@@ -1,0 +1,4 @@
+# Docerion header of line_chart.html.
+type: source
+title: Line chart template
+summary: HTML template laying out the line chart with its summary table, side menu, main canvas and scrollbar.

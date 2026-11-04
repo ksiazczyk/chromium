@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE display size selector element
+// summary: Polymer element that lets users pick a display size factor via a slider and previews the resulting app icon sizes.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_slider/cr_slider.js';
 import '//resources/ash/common/cr_elements/icons.html.js';

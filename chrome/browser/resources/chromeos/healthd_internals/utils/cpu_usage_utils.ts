@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU usage averaging utility
+// summary: Exports a helper that computes average user, system, and idle CPU usage percentages across per-CPU usage samples for the health diagnostics internals page.
+// ---
+
 import type {CpuUsage} from '../model/cpu_usage_helper.js';
 
 /**

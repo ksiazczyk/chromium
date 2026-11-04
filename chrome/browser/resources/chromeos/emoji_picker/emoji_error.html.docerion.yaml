@@ -1,0 +1,4 @@
+# Docerion header of emoji_error.html.
+type: source
+title: Emoji error view template
+summary: HTML template for the emoji picker error view that shows GIF load errors with a no-internet illustration and a try again action.

@@ -1,0 +1,4 @@
+# Docerion header of telemetry.html.
+type: source
+title: Healthd internals telemetry page template
+summary: HTML template for the telemetry page arranging CPU, memory, fan, power, and thermal cards with expand and collapse controls.

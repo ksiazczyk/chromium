@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for OOBE login resources
+summary: Points to shared owner files and adds per-file owners for SAML, security token and Quick Start code.

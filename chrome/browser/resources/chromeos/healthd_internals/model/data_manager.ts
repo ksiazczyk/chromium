@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data manager for healthd internals
+// summary: Collects and maintains battery, memory, zram, CPU and thermal data series by periodically polling the healthd backend and updating the info and telemetry pages.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {sendWithPromise} from '//resources/js/cr.js';
 

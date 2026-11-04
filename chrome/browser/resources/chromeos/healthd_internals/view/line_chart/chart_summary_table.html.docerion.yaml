@@ -1,0 +1,4 @@
+# Docerion header of chart_summary_table.html.
+type: source
+title: Chart summary table template
+summary: HTML template for the healthd internals chart summary table, showing legend color, name, latest, min, max and average values for each visible chart line.

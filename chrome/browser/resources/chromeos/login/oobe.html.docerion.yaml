@@ -1,0 +1,4 @@
+# Docerion header of oobe.html.
+type: source
+title: OOBE HTML entry page
+summary: HTML entry document for the ChromeOS out-of-box experience that loads stylesheets, tracing and error handling scripts, and hosts dynamically added OOBE screens.

@@ -1,0 +1,4 @@
+# Docerion header of chart_category_dialog.html.
+type: source
+title: Healthd internals chart category dialog template
+summary: HTML template for the healthd-internals dialog that selects which chart categories, such as CPU, memory, battery, thermal, and zram, are displayed.

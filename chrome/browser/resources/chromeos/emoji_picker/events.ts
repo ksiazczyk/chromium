@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji picker custom event definitions
+// summary: Defines custom event names, detail types and a helper for category clicks, emoji insertion, variant display, data loading and picker readiness.
+// ---
+
 import type {CategoryEnum, Emoji, Gender, Tone, VisualContent} from './types.js';
 
 export type CategoryButtonClickEvent =

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for enterprise reporting
+summary: Sets the Buganizer component, ChromeOS OS value and team email used as shared metadata for the directory.

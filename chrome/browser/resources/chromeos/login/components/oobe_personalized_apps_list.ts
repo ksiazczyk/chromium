@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE personalized apps list element
+// summary: Polymer element that manages the categorized recommended apps list, tracking selections and icon loading for the OOBE apps screen.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 
 import type {PolymerElementProperties} from '//resources/polymer/v3_0/polymer/interfaces.js';

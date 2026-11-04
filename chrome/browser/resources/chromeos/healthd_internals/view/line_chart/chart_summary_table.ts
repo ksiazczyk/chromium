@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chart summary table element
+// summary: Polymer element that renders a summary table of latest, minimum, maximum and average values for each line in the visible part of the chart.
+// ---
+
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 import {toFixedFloat} from '../../utils/number_utils.js';

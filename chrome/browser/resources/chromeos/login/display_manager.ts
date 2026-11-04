@@ -6,6 +6,12 @@
  * @fileoverview Display manager for WebUI OOBE and login.
  */
 
+// ---docerion
+// type: source
+// title: Display manager for WebUI OOBE and login
+// summary: Manages screen registration, transitions, keyboard and virtual keyboard state, dialog size and demo mode detection.
+// ---
+
 import {$, ensureTransitionEndEvent} from '//resources/ash/common/util.js';
 import {assert, assertInstanceof} from '//resources/js/assert.js';
 import {afterNextRender} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

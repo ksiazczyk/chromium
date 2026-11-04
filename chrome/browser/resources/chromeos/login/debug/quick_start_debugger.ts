@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickStart Debugger element
+// summary: Polymer element implementing the QuickStart debugger overlay that simulates advertising, connection, authentication, and credential-sending actions during OOBE.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import '//resources/ash/common/cr_elements/cr_input/cr_input.js';
 import '../components/oobe_i18n_dropdown.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the internet config dialog WebUI
+summary: GN build file defining the WebUI build target, its TypeScript dependencies, trusted context type and optimization settings for the internet config dialog.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recently used emoji store
+// summary: Provides a localStorage-backed store that persists recently used emojis and preferred variant selections per category.
+// ---
+
 import {EMOJI_PER_ROW} from './constants.js';
 import {Category} from './emoji_picker.mojom-webui.js';
 import {EmojiPickerApiProxy} from './emoji_picker_api_proxy.js';

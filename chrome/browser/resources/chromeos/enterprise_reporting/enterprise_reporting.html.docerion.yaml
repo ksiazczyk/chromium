@@ -1,0 +1,4 @@
+# Docerion header of enterprise_reporting.html.
+type: source
+title: Enterprise Reporting page
+summary: Main HTML page of the WebUI with a top bar and tabs for events history and device information.

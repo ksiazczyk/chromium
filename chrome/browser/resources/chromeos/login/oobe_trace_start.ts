@@ -9,4 +9,10 @@
  * that gets executed when OOBE starts.
  */
 
+// ---docerion
+// type: source
+// title: OOBE trace start script
+// summary: First script executed at OOBE startup that records the initialization begin timestamp for load-time tracing.
+// ---
+
 window.oobeInitializationBeginTimestamp = performance.now();

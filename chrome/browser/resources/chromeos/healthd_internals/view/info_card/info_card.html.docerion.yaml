@@ -1,0 +1,4 @@
+# Docerion header of info_card.html.
+type: source
+title: Info card template
+summary: HTML template for the shared info card, styling the card and rendering expandable rows of detailed information.

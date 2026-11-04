@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR code canvas utility
+// summary: Utility class that draws QR codes as circles or squares on a canvas for QuickStart, redrawing on resize with DPI-aware sizing.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 // Colors for drawing.

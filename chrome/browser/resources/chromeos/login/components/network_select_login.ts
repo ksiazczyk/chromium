@@ -6,6 +6,12 @@
  * @fileoverview Polymer element wrapping network-select for login/oobe.
  */
 
+// ---docerion
+// type: source
+// title: Network select login Polymer element
+// summary: Polymer element wrapping network-select for login and OOBE, handling network connections, Wi-Fi scans, quick start visibility and custom items.
+// ---
+
 import '//resources/ash/common/network/network_select.js';
 import './oobe_network_icons.html.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of healthd_internals.html.
+type: source
+title: Healthd internals WebUI entry page
+summary: HTML shell that loads the app module, applies theme and dark mode styles and hosts the healthd-internals-app element.

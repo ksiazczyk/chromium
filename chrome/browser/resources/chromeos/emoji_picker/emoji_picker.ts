@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji picker entry point and re-exports
+// summary: Entry module that re-exports emoji picker components, constants, events and types so the bundled WebUI code can be imported in tests.
+// ---
+
 import './app.js';
 
 export {EmojiPickerApp} from './app.js';

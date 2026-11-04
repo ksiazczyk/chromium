@@ -1,0 +1,4 @@
+# Docerion header of cpu_card.html.
+type: source
+title: CPU card template
+summary: HTML template for the CPU card, showing a CPU heading and hosting a healthd-internals-info-card element.

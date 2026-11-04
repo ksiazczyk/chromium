@@ -1,0 +1,4 @@
+# Docerion header of memory_card.html.
+type: source
+title: Memory card template
+summary: HTML template for the memory card with a memory unit selector (Auto, GB, MB, KB) and a healthd-internals-info-card element.

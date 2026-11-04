@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE content dialog element
+// summary: Implements the oobe-content-dialog Polymer element with scrollable and focus mixins, lazy rendering, and support for dialogs shown without buttons.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '../common_styles/oobe_common_styles.css.js';

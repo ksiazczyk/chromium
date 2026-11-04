@@ -11,6 +11,12 @@
  * #include=oobe-common-styles
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: OOBE dialog host styles
+summary: Provides CSS styles for OOBE dialog hosts, covering illustrations, the terms-of-service webview, and landscape and portrait alignment.
+*/
+
         :host(:not([hidden])) {
           display: flex;
           min-height: 0;

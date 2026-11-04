@@ -11,6 +11,12 @@
  * #include=oobe-flex-layout-styles
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: OOBE common styles
+summary: Provides shared CSS styles for OOBE screens, covering default fonts, scrollable area borders, local links, and opt-in rows.
+*/
+
       :host .oobe-default-font {
         color: var(--oobe-text-color);
         font-family: var(--oobe-default-font-family);

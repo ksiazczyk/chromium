@@ -26,6 +26,12 @@
  * will be written into an UMA metric.
  */
 
+// ---docerion
+// type: source
+// title: OOBE tracing utilities
+// summary: Tracing utilities that measure OOBE frontend load timings with the Performance API and log trace events to window.oobeTraceLogs.
+// ---
+
 import {loadTimeData} from './i18n_setup.js';
 
 export enum TraceEvent {

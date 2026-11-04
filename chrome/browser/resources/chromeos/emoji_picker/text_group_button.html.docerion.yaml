@@ -1,0 +1,4 @@
+# Docerion header of text_group_button.html.
+type: source
+title: Text group button template
+summary: HTML template and styles for the emoji picker's text group button, a cr-button that activates a group.

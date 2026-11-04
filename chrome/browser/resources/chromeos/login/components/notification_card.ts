@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification card Polymer element
+// summary: Defines the notification-card custom element that shows a warning message with an optional button and link, dispatching buttonclick and linkclick events.
+// ---
+
 import '//resources/ash/common/cr_elements/icons.html.js';
 import '//resources/js/action_link.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';

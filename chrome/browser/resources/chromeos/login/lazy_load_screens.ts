@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy asynchronous loading of OOBE and login screens
+// summary: Adds common and flow-specific screens to the document using the Prioritized Task Scheduling API.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import {loadTimeData} from './i18n_setup.js';

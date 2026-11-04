@@ -7,6 +7,12 @@
  * Polymer element lock screen network selection UI.
  */
 
+// ---docerion
+// type: source
+// title: Lock screen network selection Polymer element
+// summary: Polymer element that lets users pick a network on the lock screen, connecting to networks or reporting selections to the browser via chrome.send.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';
 import 'chrome://resources/ash/common/network/network_select.js';

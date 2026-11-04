@@ -1,0 +1,4 @@
+# Docerion header of launcher_internals.html.
+type: source
+title: Template for the launcher-internals element
+summary: Polymer template showing the search query, extracted keywords and result tables for search results, recent files and recent apps.

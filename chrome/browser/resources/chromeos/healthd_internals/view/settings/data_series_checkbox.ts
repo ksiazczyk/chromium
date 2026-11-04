@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Healthd internals data series checkbox element
+// summary: Polymer element that renders checkboxes for a data series and reports the selected indices back to callers such as the chart category dialog.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 
 import {assert} from '//resources/js/assert.js';
