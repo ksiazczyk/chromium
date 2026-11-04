@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load-time data access helpers
+// summary: Exposes helpers that read device, locale, policy, version, and cloud destination values from the loadTimeData object.
+// ---
+
 /*
  * strings.m.js is generated when we enable it via UseStringsJs() in webUI
  * controller. When loading it, it will populate data such as localized strings

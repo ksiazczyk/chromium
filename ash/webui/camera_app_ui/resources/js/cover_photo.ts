@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cover photo for gallery button
+// summary: Creates and releases cover photo thumbnails for the gallery button, extracting images from files and reporting errors for empty or broken media.
+// ---
+
 import {assertInstanceof} from './assert.js';
 import {reportError} from './error.js';
 import type {FileAccessEntry} from './models/file_system_access_entry.js';

@@ -1,0 +1,4 @@
+# Docerion header of sounds.gni.
+type: config
+title: Camera app sound file list for GN build
+summary: Defines the sound_files variable listing the OGG audio clips, such as shutter and recording ticks, bundled with the Chrome OS camera app UI.

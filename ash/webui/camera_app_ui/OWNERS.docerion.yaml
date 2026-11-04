@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for camera_app_ui
+summary: Lists the code owners of the directory and requires security owners to review changes to mojom files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Super Res loading indicator Lit component
+// summary: Lit component showing an animated circular SVG spinner while Super Res photo processing is ongoing.
+// ---
+
 import type {PropertyDeclarations} from 'chrome://resources/mwc/lit/index.js';
 import {css, html, LitElement} from 'chrome://resources/mwc/lit/index.js';
 

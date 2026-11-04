@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video mode capture controller
+// summary: Implements video recording including H.264 encoder configuration, GIF and time-lapse capture, storage monitoring, and saving of recorded videos.
+// ---
+
 import {assert, assertInstanceof} from '../../assert.js';
 import {AsyncJobQueue} from '../../async_job_queue.js';
 import * as dom from '../../dom.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assertion helper functions
+// summary: Provides assertion utilities that verify conditions, types, instance checks, and non-null values, throwing errors with messages on failure.
+// ---
+
 import {I18nString} from './i18n_string.js';
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View navigation stack manager
+// summary: Manages the stack of camera app views, showing, hiding, and activating the topmost view during navigation sessions.
+// ---
+
 import {assert} from './assert.js';
 import {DEPLOYED_VERSION} from './deployed_version.js';
 import {toggleExpertMode} from './expert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Photo mode capture controller
+// summary: Implements the photo capture mode, including photo result handling, shutter effect hooks, and preview readiness checks before taking photos.
+// ---
+
 import {assert} from '../../assert.js';
 import {PerfLogger} from '../../perf.js';
 import type {Facing, Metadata, PreviewVideo} from '../../type.js';

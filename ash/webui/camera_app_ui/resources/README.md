@@ -1,3 +1,12 @@
+---
+type: readme
+title: Camera App
+summary: README describing the ChromeOS Camera App, its supported systems, the cca.py helper script, how to add files to .gni lists, and where to report issues.
+relations:
+  - references /ash/webui/camera_app_ui/resources/utils/cca.py
+  - references /ash/webui/camera_app_ui/resources/js/js.gni
+---
+
 # Camera App
 
 Camera App is a packaged app designed to take photos and record videos.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera app UI test helpers for Tast
+// summary: Provides helper functions that let Tast browser tests interact with and verify the Chrome OS camera app UI, such as resolving UI components, checking element visibility, and accessing the preview video stream.
+// ---
+
 import {assert, assertEnumVariant, assertExists, assertInstanceof} from '../assert.js';
 import {TIME_LAPSE_INITIAL_SPEED} from '../device/mode/video.js';
 import {Preview} from '../device/preview.js';

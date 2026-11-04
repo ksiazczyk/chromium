@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app helper implementation header
+// summary: Declares CameraAppHelperImpl, the mojo CameraAppHelper implementation that relays camera intent results, tablet, screen, lid, storage, and privacy switch monitors to the Chrome OS camera app web UI.
+// ---
+
 #ifndef ASH_WEBUI_CAMERA_APP_UI_CAMERA_APP_HELPER_IMPL_H_
 #define ASH_WEBUI_CAMERA_APP_UI_CAMERA_APP_HELPER_IMPL_H_
 

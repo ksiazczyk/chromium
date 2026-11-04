@@ -1,0 +1,4 @@
+# Docerion header of js.gni.
+type: config
+title: js GN build file list
+summary: GN build configuration listing the TypeScript and JavaScript files compiled for the camera app, plus local dev overrides and WASM assets.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the camera app UI
+summary: Defines GN targets for the ChromeOS camera app UI static library, window management, events sender, document scanning, and mojo bindings.

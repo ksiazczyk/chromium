@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app string resource map
+// summary: Maps named string resources to generated grit IDs for the camera app web UI, covering buttons, dialogs, error messages, and expert mode labels.
+// ---
+
 #ifndef ASH_WEBUI_CAMERA_APP_UI_RESOURCES_H_
 #define ASH_WEBUI_CAMERA_APP_UI_RESOURCES_H_
 

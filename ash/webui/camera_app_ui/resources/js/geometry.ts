@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 2D geometry primitives and operations
+// summary: Defines geometry classes such as Point, Vector, Line, and Box with operations for rotation, intersection, and CSS rotate angles.
+// ---
+
 import {assert} from './assert.js';
 
 /**

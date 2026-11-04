@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca UI helper for annotator marker mode
+// summary: Provides EnableOrDisableMarkerMode, which notifies the Ash annotator controller to turn marker mode on or off for the Boca UI.
+// ---
+
 #include "ash/webui/boca_ui/boca_util.h"
 
 #include "ash/annotator/annotation_source_watcher.h"

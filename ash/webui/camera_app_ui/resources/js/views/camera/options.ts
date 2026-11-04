@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera view options controller
+// summary: Manages the camera view option controls such as mirroring, grid, timer, PTZ, microphone toggle and camera switching.
+// ---
+
 import * as animate from '../../animation.js';
 import {assert, assertExists} from '../../assert.js';
 import type {CameraConfig, CameraInfo, CameraManager, CameraUi} from '../../device/index.js';

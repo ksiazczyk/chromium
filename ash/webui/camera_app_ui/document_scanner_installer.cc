@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scanner DLC installer implementation
+// summary: Implements the singleton that installs the cros-camera-document-scanner-dlc via dlcservice and dispatches the resulting library path to registered callbacks.
+// ---
+
 #include "ash/webui/camera_app_ui/document_scanner_installer.h"
 
 #include "ash/webui/camera_app_ui/document_scanner_service_client.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toast message display
+// summary: Shows localized or debug toast messages via an aria-live element with animation for accessibility.
+// ---
+
 import * as animate from './animation.js';
 import * as dom from './dom.js';
 import type {I18nString} from './i18n_string.js';

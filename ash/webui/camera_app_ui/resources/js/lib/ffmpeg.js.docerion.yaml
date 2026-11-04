@@ -1,0 +1,4 @@
+# Docerion header of ffmpeg.js.
+type: source
+title: Emscripten FFmpeg JavaScript glue
+summary: Generated Emscripten runtime that loads and drives the FFmpeg WebAssembly module for use in the camera app UI.

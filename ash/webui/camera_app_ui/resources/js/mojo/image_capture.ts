@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image capture wrapper combining JS and Mojo APIs
+// summary: CrosImageCapture class wrapping the standard JavaScript ImageCapture API and the Mojo image-capture interface to take photos with effects and collect capture metadata.
+// ---
+
 import {assert, assertExists} from '../assert.js';
 import type {Metadata} from '../type.js';
 import {bitmapToJpegBlob, getNumberEnumMapping} from '../util.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg video processor for camera recordings
+// summary: Implements the camera app's video processor that runs ffmpeg via Emscripten, using an emulated input device and filesystem to transcode recorded streams to the requested output format.
+// ---
+
 import {assert, assertNotReached} from '../../assert.js';
 import {AsyncJobQueue} from '../../async_job_queue.js';
 import * as comlink from '../../lib/comlink.js';

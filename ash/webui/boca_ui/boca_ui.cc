@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca UI WebUI controller implementation
+// summary: Implements the Boca UI WebUI controller for ChromeOS, creating the untrusted host data source for app resources and configuring content security policies for styles, workers, images, and scripts.
+// ---
+
 #include "ash/webui/boca_ui/boca_ui.h"
 
 #include <memory>

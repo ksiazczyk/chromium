@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera device types and interfaces
+// summary: Defines shared device module types including CameraInfo, CameraConfig and CameraConfigCandidate, camera UI callbacks, and photo and video settings option groups.
+// ---
+
 import {assert, assertExists, assertInstanceof} from '../assert.js';
 import {DeviceOperator} from '../mojo/device_operator.js';
 import type {AspectRatioSet, Facing, Mode, PhotoResolutionLevel, Resolution, VideoResolutionLevel} from '../type.js';

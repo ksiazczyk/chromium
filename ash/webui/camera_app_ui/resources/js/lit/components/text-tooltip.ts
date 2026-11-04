@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text tooltip Lit component
+// summary: Lit tooltip component that displays the target element's aria-label as a tooltip positioned above or below its anchor target.
+// ---
+
 import type {PropertyDeclarations} from 'chrome://resources/mwc/lit/index.js';
 import {classMap, css, html, LitElement} from 'chrome://resources/mwc/lit/index.js';
 

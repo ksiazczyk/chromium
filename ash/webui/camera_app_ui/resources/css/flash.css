@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Flash view and processing indicator styles
+summary: Styles the flash view overlay and the processing indicator shown during GIF capture post-processing, including its delayed fade-in animation.
+*/
+
 body.view-flash #view-flash {
   background: var(--cros-sys-scrim);
   transition: opacity var(--moderate2-duration);

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera device change monitor
+// summary: Monitors video device changes via mediaDevices events and mojo IPC, notifying listeners when cameras are added or removed.
+// ---
+
 import {reportError} from '../error.js';
 import {I18nString} from '../i18n_string.js';
 import * as loadTimeData from '../models/load_time_data.js';

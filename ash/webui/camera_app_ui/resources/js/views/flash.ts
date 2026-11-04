@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flash view controller
+// summary: Defines a simple flash view that displays a processing message while images are being handled in the camera app.
+// ---
+
 import {assertI18nString} from '../assert.js';
 import * as dom from '../dom.js';
 import {I18nString} from '../i18n_string.js';

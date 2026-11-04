@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window coordination with Tast tests
+// summary: Coordinates window setup between the camera app and Tast test side, computing default window sizes and tracking launch, error, and performance events.
+// ---
+
 import type {ErrorInfo, PerfEntry} from './type.js';
 import {PerfEvent, Resolution} from './type.js';
 import {WaitableEvent} from './waitable_event.js';

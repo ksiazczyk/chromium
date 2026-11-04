@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Document mode loading spinner
+summary: Animated SVG throbber implementing a Material design circular activity spinner with CSS3 keyframe animations for document mode.
+-->
+
 <!-- This version of the throbber is good for size 28x28dp or more. -->
 <svg version="1" xmlns="http://www.w3.org/2000/svg"
                  xmlns:xlink="http://www.w3.org/1999/xlink"

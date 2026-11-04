@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Boca app page handler
+// summary: Implements the BocaAppHandler Mojo page handler for the Boca app, covering session creation and lifecycle, roster management, Classroom data and screen presentation.
+// ---
+
 #include "ash/webui/boca_ui/boca_app_page_handler.h"
 
 #include <memory>

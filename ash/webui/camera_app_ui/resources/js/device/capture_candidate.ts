@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture candidate definitions
+// summary: Defines CaptureCandidate interfaces and photo and video candidate classes that sort preview resolutions and generate stream constraints for capture.
+// ---
+
 import type {Resolution} from '../type.js';
 
 import type {StreamConstraints} from './stream_constraints.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Converters from app enums to Mojo enums
+// summary: Utility functions converting camera app enums like launch type, mode, facing, pressure, and shutter type into the corresponding Mojo enum values used for metrics.
+// ---
+
 import {assertNotReached} from '../assert.js';
 import {SessionBehavior} from '../memory_usage.js';
 import {BarcodeContentType, DocScanActionType, DocScanFixType, DocScanResultActionType, GifResultType, IntentResultType, LaunchType, LowStorageActionType, OcrEventType, RecordType, ShutterType} from '../metrics.js';

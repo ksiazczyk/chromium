@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typed DOM query helpers
+// summary: Offers helpers to query DOM elements by CSS selector while asserting their expected element types, for single, multiple, or optional matches.
+// ---
+
 import {assertInstanceof} from './assert.js';
 
 /**

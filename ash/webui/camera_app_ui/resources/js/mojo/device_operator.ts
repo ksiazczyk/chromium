@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device operator for CrOS camera Mojo interface
+// summary: Operates video capture devices through the CrOS Camera App Mojo interface, including camera metadata parsing, device operations, and a job queue to sequentialize them.
+// ---
+
 import {assert, assertExists, assertNotReached} from '../assert.js';
 import {AsyncJobWithResultQueue} from '../async_job_queue.js';
 import {reportError} from '../error.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo API bootstrap for the Boca app
+// summary: Creates the singleton PageHandlerRemote and PageCallbackRouter and connects them to the Boca PageHandler so client modules can make calls and subscribe to events.
+// ---
+
 import {BocaPageHandlerFactory, PageCallbackRouter, PageHandlerRemote} from '../mojom/boca.mojom-webui.js';
 
 // Used to make calls on the remote PageHandler interface. Singleton that client

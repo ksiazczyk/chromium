@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: mode.css
+summary: Stylesheet for the camera app's mode subgroup selector, laying out radio-button mode items with rounded labels and checked-state colors.
+*/
+
 .mode-subgroup {
   background: var(--cros-sys-base_elevated);
   border-radius: var(--border-radius-rounded-with-short-side);

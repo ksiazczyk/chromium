@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scan mode capture controller
+// summary: Implements document scan mode on top of photo capture and provides default scan corner positions for A4-sized document cropping.
+// ---
+
 import {assert} from '../../assert.js';
 import {Point} from '../../geometry.js';
 import type {Facing, PreviewVideo, Resolution} from '../../type.js';

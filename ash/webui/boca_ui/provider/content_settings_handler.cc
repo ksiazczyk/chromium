@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings handler implementation
+// summary: Applies microphone and camera permission settings for origins through the profile's HostContentSettingsMap and resets the permission auto-blocker embargo state.
+// ---
+
 #include "ash/webui/boca_ui/provider/content_settings_handler.h"
 
 #include "ash/webui/boca_ui/mojom/boca.mojom.h"

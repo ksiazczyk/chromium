@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app bootstrap and test bridge setup
+// summary: Initializes the camera app on DOMContentLoaded by setting up the test bridge, untrusted iframes, and dynamically loading the error and main scripts.
+// ---
+
 import type {AppWindow} from './app_window.js';
 import * as comlink from './lib/comlink.js';
 import type {TestBridge} from './test_bridge.js';

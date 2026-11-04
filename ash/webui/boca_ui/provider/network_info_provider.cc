@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network info provider implementation
+// summary: Implements NetworkInfoProvider, which observes active ChromeOS networks and reports their type, state, name, and signal strength to the Boca UI.
+// ---
+
 #include "ash/webui/boca_ui/provider/network_info_provider.h"
 
 #include <memory>

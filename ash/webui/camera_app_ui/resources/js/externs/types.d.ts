@@ -9,6 +9,12 @@
 // still in working draft stage.
 // https://wicg.github.io/file-system-access/
 
+// ---docerion
+// type: source
+// title: Type declarations for Chrome-only and draft web APIs
+// summary: Declares TypeScript types for Chrome-only and draft-stage web APIs such as File System Access, Compute Pressure, Idle Detection, file handling, and video frame callbacks used by the camera app UI.
+// ---
+
 interface FileSystemWritableFileStream extends WritableStream {
   seek(position: number): Promise<void>;
   truncate(size: number): Promise<void>;

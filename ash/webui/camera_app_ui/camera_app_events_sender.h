@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app events sender class declaration
+// summary: Declares CameraAppEventsSender, which sends camera app structured metrics events over a mojo connection.
+// ---
+
 #ifndef ASH_WEBUI_CAMERA_APP_UI_CAMERA_APP_EVENTS_SENDER_H_
 #define ASH_WEBUI_CAMERA_APP_UI_CAMERA_APP_EVENTS_SENDER_H_
 

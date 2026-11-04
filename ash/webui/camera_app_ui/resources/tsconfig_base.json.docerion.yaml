@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript configuration for Camera App
+summary: Extends the shared TypeScript base config with compiler options and type roots used to build the Camera App UI.

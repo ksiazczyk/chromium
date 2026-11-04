@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: General utility functions for the camera app
+// summary: Provides utilities for canvas drawing, image blob conversion, keyboard shortcut handling, and i18n element setup.
+// ---
+
 import * as animate from './animation.js';
 import {assertEnumVariant, assertInstanceof} from './assert.js';
 import * as dom from './dom.js';

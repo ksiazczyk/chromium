@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video processor worker connection helper
+// summary: Creates a TrustedTypes policy for the MP4 video processor URL and connects message ports to its worker via Comlink.
+// ---
+
 import {assertExists} from './assert.js';
 import * as comlink from './lib/comlink.js';
 

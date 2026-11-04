@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Photo resolution settings view controller
+// summary: View controller that builds the photo resolution options menu with megapixel labels and applies the selected resolution or resolution level per camera.
+// ---
+
 import type {CameraManager} from '../../device/index.js';
 import type {PhotoResolutionOption, PhotoResolutionOptionGroup} from '../../device/type.js';
 import * as dom from '../../dom.js';

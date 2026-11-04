@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Element animation queue helpers
+// summary: Manages per-element animation job queues to play or cancel CSS animations, waiting for animations in shadow roots to settle.
+// ---
+
 import {assertExists, assertInstanceof} from './assert.js';
 import type {AsyncJobInfo} from './async_job_queue.js';
 import {AsyncJobQueue} from './async_job_queue.js';

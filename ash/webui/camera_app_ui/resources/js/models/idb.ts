@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB key-value store helper
+// summary: Offers simple get and set functions over an IndexedDB store used to persist serializable values like the camera directory handle.
+// ---
+
 const DB_NAME = 'cca';
 const DB_STORE = 'store';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera intent view controller
+// summary: Extends the camera view to handle capture intents, downscaling intent photos, saving video results, and confirming or canceling intent results through review buttons.
+// ---
+
 import {assert, assertNotReached} from '../assert.js';
 import type {CameraManager, PhotoResult, VideoResult} from '../device/index.js';
 import {I18nString} from '../i18n_string.js';

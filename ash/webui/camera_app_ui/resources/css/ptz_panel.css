@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: PTZ panel styles
+summary: Styles the pan-tilt-zoom control panel, laying out pan, tilt, and zoom buttons in different configurations based on the camera's supported capabilities.
+*/
+
 #ptz-panel {
   align-items: center;
   display: flex;

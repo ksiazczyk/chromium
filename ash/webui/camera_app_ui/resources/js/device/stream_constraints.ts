@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream constraints helper
+// summary: Defines StreamConstraints for audio and video and converts them into MediaStreamConstraints suitable for getUserMedia calls.
+// ---
+
 /**
  * Stream constraints for audio and video.
  */

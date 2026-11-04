@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner chip UI for detected barcode and OCR content
+// summary: Manages chips that display detected QR, barcode, and OCR content, including safe URL checks and WiFi QR code parsing into connection configs.
+// ---
+
 import {assert, assertExists, checkEnumVariant} from './assert.js';
 import {showPreviewOCRToast} from './custom_effect.js';
 import * as dom from './dom.js';

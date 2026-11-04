@@ -1,0 +1,4 @@
+# Docerion header of camera_app_helper.mojom.
+type: source
+title: Mojo interfaces for the camera app helper
+summary: Defines mojo interfaces and types for monitoring device state and communicating between the camera app web UI and the browser process.

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Camera app button styles
+summary: Defines text and icon button styles for the camera app UI, including pill-shaped, dark, primary, and secondary variants with hover states.
+*/
+
 .text-button {
   box-sizing: border-box;
   font: var(--cros-button-2-font);

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document fix mode for corner-based cropping
+// summary: Implements the document scan fix mode that lets users drag crop corners on a scanned page and announces movement directions to screen readers.
+// ---
+
 import {assert, assertExists, assertInstanceof} from '../assert.js';
 import * as dom from '../dom.js';
 import {Box, Line, Point, Size, Vector, vectorFromPoints} from '../geometry.js';

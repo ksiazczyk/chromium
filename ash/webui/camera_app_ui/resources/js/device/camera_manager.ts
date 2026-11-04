@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraManager for camera operation usage
+// summary: Implements CameraManager, which coordinates camera operations, suspend and resume handling, reconfiguration, and resolution option updates for the camera app.
+// ---
+
 import {assert, assertExists} from '../assert.js';
 import * as expert from '../expert.js';
 import type {Point} from '../geometry.js';

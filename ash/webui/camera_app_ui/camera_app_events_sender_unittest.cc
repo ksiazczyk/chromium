@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the camera app events sender
+// summary: Verifies that CameraAppEventsSender emits the expected structured metrics events for sessions, captures, and other camera actions.
+// ---
+
 #include "ash/webui/camera_app_ui/camera_app_events_sender.h"
 
 #include "base/test/task_environment.h"

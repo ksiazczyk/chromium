@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo endpoint utilities
+// summary: Utilities to wrap, close, and fake Mojo endpoints, gracefully handling dropped calls and endpoint closure during window unload.
+// ---
+
 import {addUnloadCallback} from '../unload.js';
 import {WaitableEvent} from '../waitable_event.js';
 

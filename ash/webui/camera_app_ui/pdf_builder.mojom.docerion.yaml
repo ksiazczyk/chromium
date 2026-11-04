@@ -1,0 +1,4 @@
+# Docerion header of pdf_builder.mojom.
+type: source
+title: PDF builder Mojom interface
+summary: Defines the PdfBuilder Mojo interface for creating PDFs with operations to add and delete pages and save the result.

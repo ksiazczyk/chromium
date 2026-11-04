@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera view controller for the ChromeOS camera app
+// summary: Implements the main camera view controller that manages photo, video, GIF and time-lapse capture, mode selection, layout, and low-storage handling in the camera app UI.
+// ---
+
 import * as animate from '../animation.js';
 import {assert, assertEnumVariant, assertExists, assertInstanceof, assertNotReached} from '../assert.js';
 import {AsyncJobQueue, queuedAsyncCallback} from '../async_job_queue.js';

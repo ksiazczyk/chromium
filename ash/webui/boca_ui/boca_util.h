@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca UI utility header for marker mode
+// summary: Declares the EnableOrDisableMarkerMode helper in the ash::boca::util namespace for toggling marker mode in the Boca UI.
+// ---
+
 #ifndef ASH_WEBUI_BOCA_UI_BOCA_UTIL_H_
 #define ASH_WEBUI_BOCA_UI_BOCA_UTIL_H_
 

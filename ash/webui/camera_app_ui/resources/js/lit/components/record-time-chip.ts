@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Record time chip Lit component
+// summary: Lit chip component showing the recording time with a red dot, or a paused message when the recording UI is paused.
+// ---
+
 import {css, html, LitElement} from 'chrome://resources/mwc/lit/index.js';
 
 import {I18nString} from '../../i18n_string.js';

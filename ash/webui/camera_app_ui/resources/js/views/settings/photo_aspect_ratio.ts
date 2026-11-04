@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Photo aspect ratio settings view controller
+// summary: View controller that builds the photo aspect ratio options menu per camera and applies the selected aspect ratio set through the camera manager.
+// ---
+
 import type {CameraManager} from '../../device/index.js';
 import type {PhotoAspectRatioOption, PhotoAspectRatioOptionGroup} from '../../device/type.js';
 import * as dom from '../../dom.js';

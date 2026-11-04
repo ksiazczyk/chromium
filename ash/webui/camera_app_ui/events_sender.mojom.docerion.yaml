@@ -1,0 +1,4 @@
+# Docerion header of events_sender.mojom.
+type: source
+title: Camera app event logging Mojom definitions
+summary: Defines Mojo enums and structs for camera app structured logging events, covering launch type, capture modes, shutter sources, and recording details.

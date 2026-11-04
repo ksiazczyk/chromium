@@ -1,3 +1,13 @@
+---
+type: readme
+title: Camera app UI JS libraries README
+summary: Documents the vendored analytics.js, comlink.js and FFmpeg libraries, including Emscripten setup and build instructions for ffmpeg.js and ffmpeg.wasm.
+relations:
+  - documents /ash/webui/camera_app_ui/resources/js/lib/build_ffmpeg.sh
+  - documents /ash/webui/camera_app_ui/resources/js/lib/ffmpeg.js
+  - documents /ash/webui/camera_app_ui/resources/js/lib/ffmpeg.wasm
+---
+
 # analytics.js
 
 * [Project Page](https://developers.google.com/analytics/devguides/collection/analyticsjs)

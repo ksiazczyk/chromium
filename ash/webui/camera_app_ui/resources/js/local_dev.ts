@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local development function overrides
+// summary: Provides a mechanism to mark functions as overridable and swap their implementations during local development.
+// ---
+
 const overridableKey = Symbol();
 
 const overrideMap = new Map<unknown, unknown>();

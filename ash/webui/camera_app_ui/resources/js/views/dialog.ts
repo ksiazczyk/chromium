@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog view controller
+// summary: Provides a dialog view with positive and negative buttons plus configurable title, message, and description text for the camera app UI.
+// ---
+
 import {assertString} from '../assert.js';
 import * as dom from '../dom.js';
 import {getI18nMessage} from '../models/load_time_data.js';

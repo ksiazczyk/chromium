@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App state management with observers
+// summary: Defines the camera app's state enums and provides get, set, and observer functions to track and react to state changes.
+// ---
+
 import {assert} from './assert.js';
 import {ExpertOption} from './expert.js';
 import type {PerfInformation} from './type.js';

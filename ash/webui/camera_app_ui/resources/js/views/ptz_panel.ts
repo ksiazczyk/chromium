@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PTZ panel view controller
+// summary: Provides the pan-tilt-zoom control panel with hold-gesture buttons for pan, tilt, and zoom, queuing asynchronous PTZ jobs against the camera controller.
+// ---
+
 import {assert, assertExists, assertInstanceof} from '../assert.js';
 import {AsyncJobQueue} from '../async_job_queue.js';
 import type {PtzController} from '../device/ptz_controller.js';

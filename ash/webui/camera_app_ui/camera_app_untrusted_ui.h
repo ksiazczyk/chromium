@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraAppUntrustedUI declaration
+// summary: Declares the untrusted WebUI controller class that serves the camera app's untrusted content in ChromeOS Ash.
+// ---
+
 #ifndef ASH_WEBUI_CAMERA_APP_UI_CAMERA_APP_UNTRUSTED_UI_H_
 #define ASH_WEBUI_CAMERA_APP_UI_CAMERA_APP_UNTRUSTED_UI_H_
 

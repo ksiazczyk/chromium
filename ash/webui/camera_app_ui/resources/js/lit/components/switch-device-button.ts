@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch device button Lit component
+// summary: Lit round button component for switching between camera devices, with a rotation animation on activation.
+// ---
+
 import {css, html, LitElement} from 'chrome://resources/mwc/lit/index.js';
 
 import {I18nString} from '../../i18n_string.js';

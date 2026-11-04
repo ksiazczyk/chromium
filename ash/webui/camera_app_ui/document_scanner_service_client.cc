@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scanner service client implementation
+// summary: Implements the client that loads the on-device document scanner through the ChromeOS ML service and handles corner detection and post-processing requests.
+// ---
+
 #include "ash/webui/camera_app_ui/document_scanner_service_client.h"
 
 #include "ash/webui/camera_app_ui/document_scanner_installer.h"

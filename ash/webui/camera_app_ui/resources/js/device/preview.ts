@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera preview controller
+// summary: Implements the Preview class controlling the video preview stream, including PTZ handling, face overlay, metadata observation, and fps monitoring.
+// ---
+
 import {assert, assertEnumVariant, assertExists, assertInstanceof} from '../assert.js';
 import {queuedAsyncCallback} from '../async_job_queue.js';
 import * as dom from '../dom.js';

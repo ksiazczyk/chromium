@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Asynchronous job queue with queuing modes
+// summary: Implements an async job queue with enqueue, drop, and keep-latest modes for sequencing asynchronous jobs and clearing pending work.
+// ---
+
 import type {Awaitable} from './type.js';
 
 /**

@@ -9,6 +9,12 @@
  * placed here.
  */
 
+// ---docerion
+// type: source
+// title: Local development overrides for the camera app
+// summary: Provides fake ChromeHelper and other overrides used by cca.py dev and bundle commands to run the camera app locally, excluded from built Chrome.
+// ---
+
 import {assertNotReached} from './assert.js';
 import type {Point} from './geometry.js';
 import * as localDev from './local_dev.js';

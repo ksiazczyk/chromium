@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aspect ratio order from private API
+// summary: Loads the camera preview aspect ratio order through the Chrome private Mojo API and provides it after setup.
+// ---
+
 import {assertExists} from './assert.js';
 import {ChromeHelper} from './mojo/chrome_helper.js';
 import {convertMojoToAspectRatio} from './mojo/type_utils.js';

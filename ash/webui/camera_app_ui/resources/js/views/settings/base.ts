@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base settings view controller
+// summary: Defines the BaseSettings class that all camera app settings views extend, adding a header back button and dismissal behavior for Esc, background clicks, and stream stop.
+// ---
+
 import * as dom from '../../dom.js';
 import type {ViewName} from '../../type.js';
 import {View} from '../view.js';

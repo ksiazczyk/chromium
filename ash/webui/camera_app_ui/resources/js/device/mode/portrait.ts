@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portrait mode capture controller
+// summary: Extends photo mode to capture reference and portrait images with the portrait effect and report results through a PortraitHandler.
+// ---
+
 import {assert} from '../../assert.js';
 import {I18nString} from '../../i18n_string.js';
 import type {TakePhotoResult} from '../../mojo/image_capture.js';

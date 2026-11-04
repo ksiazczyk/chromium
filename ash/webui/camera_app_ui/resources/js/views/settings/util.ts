@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings view utility helpers
+// summary: Utility functions for the settings views, providing camera facing labels, menu item helpers, and label formatting for photo, video, and aspect ratio options.
+// ---
+
 import {assertNotReached} from '../../assert.js';
 import * as dom from '../../dom.js';
 import {I18nString} from '../../i18n_string.js';

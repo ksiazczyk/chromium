@@ -18,6 +18,12 @@
  * ui/webui/resources/js/load_time_data.ts
  */
 
+// ---docerion
+// type: source
+// title: Minimal load time data for sandboxed origins
+// summary: Provides a lightweight, API-compatible replacement for load_time_data.js on chrome-untrusted origins, exposing a LoadTimeData instance on window without the validation of the full version.
+// ---
+
 interface LoadTimeDataRaw {
   [key: string]: any;
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraAppUntrustedUI implementation
+// summary: Implements the untrusted WebUI controller for the camera app, registering its resource source and applying content security and cross-origin policy overrides.
+// ---
+
 
 #include "ash/webui/camera_app_ui/camera_app_untrusted_ui.h"
 

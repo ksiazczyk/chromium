@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the Boca app page handler
+// summary: Declares the BocaAppHandler class, which implements the mojom PageHandler and Page interfaces and observes Boca session manager events.
+// ---
+
 #ifndef ASH_WEBUI_BOCA_UI_BOCA_APP_PAGE_HANDLER_H_
 #define ASH_WEBUI_BOCA_UI_BOCA_APP_PAGE_HANDLER_H_
 

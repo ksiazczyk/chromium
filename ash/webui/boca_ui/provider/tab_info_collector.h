@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab info collector header
+// summary: Declares the TabInfoCollector interface for synchronously fetching window and tab information for the Boca UI based on the current role.
+// ---
+
 #ifndef ASH_WEBUI_BOCA_UI_PROVIDER_TAB_INFO_COLLECTOR_H_
 #define ASH_WEBUI_BOCA_UI_PROVIDER_TAB_INFO_COLLECTOR_H_
 

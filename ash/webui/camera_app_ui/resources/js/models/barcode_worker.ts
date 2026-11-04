@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Barcode detection web worker
+// summary: Web worker that detects QR codes in image bitmaps using the BarcodeDetector API and is exposed to the app via Comlink.
+// ---
+
 import * as comlink from '../lib/comlink.js';
 
 /**

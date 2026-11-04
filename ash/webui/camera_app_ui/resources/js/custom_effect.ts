@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ripple effect and toast indicator controller
+// summary: Controls ripple animations and positions toast indicators for new-feature effects, dismissing them when streaming state changes.
+// ---
+
 import * as animation from './animation.js';
 import {assertEnumVariant, assertExists, assertNotReached} from './assert.js';
 import * as dom from './dom.js';

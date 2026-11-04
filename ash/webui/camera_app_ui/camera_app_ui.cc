@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraAppUI controller implementation
+// summary: Implements the WebUI controller for the ChromeOS camera app, setting up its data source, local override handling, and mojo interface bindings.
+// ---
+
 #include "ash/webui/camera_app_ui/camera_app_ui.h"
 
 #include "ash/public/cpp/window_properties.h"

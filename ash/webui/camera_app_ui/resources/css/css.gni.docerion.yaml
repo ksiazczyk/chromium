@@ -1,0 +1,4 @@
+# Docerion header of css.gni.
+type: config
+title: GN file listing camera app CSS files
+summary: GN build file that enumerates the CSS stylesheets included in the camera app UI build.

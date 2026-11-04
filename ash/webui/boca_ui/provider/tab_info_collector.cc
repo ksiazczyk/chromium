@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab info collector implementation
+// summary: Implements TabInfoCollector, gathering tab and window details such as titles, URLs, and favicons from browser windows for producers or a target window.
+// ---
+
 #include "ash/webui/boca_ui/provider/tab_info_collector.h"
 
 #include <memory>

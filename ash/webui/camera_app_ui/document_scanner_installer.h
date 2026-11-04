@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scanner DLC installer header
+// summary: Declares DocumentScannerInstaller, a singleton managing installation of the document scanner DLC and distribution of its library path.
+// ---
+
 #ifndef ASH_WEBUI_CAMERA_APP_UI_DOCUMENT_SCANNER_INSTALLER_H_
 #define ASH_WEBUI_CAMERA_APP_UI_DOCUMENT_SCANNER_INSTALLER_H_
 
