@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Existing user controller base test fixture header
+// summary: Declares the shared base test fixture with fake user manager, mock time environment, and SAML and Gaia test account IDs for existing user controller tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_EXISTING_USER_CONTROLLER_BASE_TEST_H_
 #define CHROME_BROWSER_ASH_LOGIN_EXISTING_USER_CONTROLLER_BASE_TEST_H_
 

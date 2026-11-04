@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome restart request unit tests
+// summary: Unit tests covering restart requests that wait for local state commits or a timeout before restarting.
+// ---
+
 #include "chrome/browser/ash/login/chrome_restart_request.h"
 
 #include <memory>

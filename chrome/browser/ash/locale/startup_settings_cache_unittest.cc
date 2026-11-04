@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup settings cache unit test
+// summary: Unit test performing a round trip of WriteAppLocale and ReadAppLocale using a temporary user data directory.
+// ---
+
 #include "chrome/browser/ash/locale/startup_settings_cache.h"
 
 #include "ash/constants/ash_paths.h"

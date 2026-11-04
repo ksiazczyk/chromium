@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in storage partition manager implementation
+// summary: Implements creation and clearing of in-memory storage partitions for sign-in and enrollment attempts, including transfer of HTTP auth cache proxy entries.
+// ---
+
 #include "chrome/browser/ash/login/signin_partition_manager.h"
 
 #include <string>

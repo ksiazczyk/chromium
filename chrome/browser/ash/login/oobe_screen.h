@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE screen identifiers and priorities
+// summary: Defines OobeScreenId, StaticOobeScreenId, ScreenSummary, and the OOBE screen priority enum used to control screen transitions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_SCREEN_H_
 

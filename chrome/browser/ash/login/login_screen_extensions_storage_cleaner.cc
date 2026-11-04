@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login screen extensions storage cleaner implementation
+// summary: Clears login screen storage persistent data for extensions removed from the DeviceLoginScreenExtensions policy force list.
+// ---
+
 #include "chrome/browser/ash/login/login_screen_extensions_storage_cleaner.h"
 
 #include <utility>

@@ -14,6 +14,12 @@
 // This test case verifies that chrome triggers LoadShillProfile for the
 // unmanaged user case and the managed user with/without network policy cases.
 
+// ---docerion
+// type: test
+// title: Shill profile loading browser tests
+// summary: Browser tests verifying that the shill network profile is loaded at sign-in only after user policy processing and login password saving, for managed and unmanaged users.
+// ---
+
 #include "ash/public/cpp/login_screen_test_api.h"
 #include "base/check_deref.h"
 #include "base/functional/bind.h"

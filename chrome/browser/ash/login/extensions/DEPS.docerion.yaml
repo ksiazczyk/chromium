@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the login extensions directory
+summary: Restricts //chrome dependencies for this ChromeOS directory while allowlisting the specific headers and test-only includes it needs.

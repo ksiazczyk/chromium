@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord OOBE utility declarations
+// summary: Declares helper functions that decide whether Fjord OOBE or its image switch screen should be shown and whether a language is allowlisted.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_FJORD_OOBE_FJORD_OOBE_UTIL_H_
 #define CHROME_BROWSER_ASH_LOGIN_FJORD_OOBE_FJORD_OOBE_UTIL_H_
 

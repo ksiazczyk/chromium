@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock enrollment screen implementation
+// summary: Implements MockEnrollmentScreen and MockEnrollmentScreenView test doubles for the enterprise enrollment screen.
+// ---
+
 #include "chrome/browser/ash/login/enrollment/mock_enrollment_screen.h"
 
 #include "chrome/browser/ash/login/screens/error_screen.h"

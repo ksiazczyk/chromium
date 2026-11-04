@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE screen identifier implementation
+// summary: Implements OobeScreenId comparison and output operators plus ScreenSummary constructors for OOBE screen identification.
+// ---
+
 #include "chrome/browser/ash/login/oobe_screen.h"
 
 #include <ostream>

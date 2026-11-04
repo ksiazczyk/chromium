@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login manager test base implementation
+// summary: Implements the LoginManagerTest base class that boots the ChromeOS login screen and provides helpers to register and log in test users.
+// ---
+
 #include "chrome/browser/ash/login/login_manager_test.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local auth factors policy controller implementation
+// summary: Implements the controller that monitors allowed local auth factors and complexity prefs, forcing online sign-in or showing persistent notifications to enforce compliance.
+// ---
+
 #include "chrome/browser/ash/login/auth_factors_policy/local_auth_factors_policy_controller.h"
 
 #include <memory>

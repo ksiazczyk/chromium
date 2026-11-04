@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk tablet mode blocking browser tests
+// summary: Parameterized browser tests verifying that tablet mode is blocked and events are disabled during kiosk sessions.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_controller_test_api.h"
 #include "chrome/browser/ash/app_mode/test/kiosk_mixin.h"
 #include "chrome/browser/ash/app_mode/test/kiosk_test_utils.h"

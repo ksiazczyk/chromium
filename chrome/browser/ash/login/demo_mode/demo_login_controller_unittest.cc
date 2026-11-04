@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DemoLoginController unit tests
+// summary: Unit tests covering demo account setup, cleanup and login flows with mocked policy, settings and network responses.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_login_controller.h"
 
 #include <utility>

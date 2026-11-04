@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk apps test mixin header
+// summary: Declares KioskAppsMixin, a browser test mixin that configures kiosk app accounts in policy and sets up a fake Chrome Web Store.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_APP_MODE_TEST_KIOSK_APPS_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_APP_MODE_TEST_KIOSK_APPS_MIXIN_H_
 

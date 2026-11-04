@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for local auth factors policy
+summary: Defines the auth_factors_policy static library and its browser test source set, listing public headers, sources and dependencies.

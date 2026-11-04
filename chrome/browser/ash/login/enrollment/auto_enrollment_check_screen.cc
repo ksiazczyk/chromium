@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-enrollment check screen implementation
+// summary: Implements the OOBE screen that tracks the enterprise auto-enrollment check and updates the error screen for network and enrollment failures.
+// ---
+
 #include "chrome/browser/ash/login/enrollment/auto_enrollment_check_screen.h"
 
 #include <optional>

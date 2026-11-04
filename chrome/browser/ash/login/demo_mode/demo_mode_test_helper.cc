@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo Mode test helper implementation
+// summary: Implements DemoModeTestHelper, which sets up fake demo mode sessions, a fake component manager and demo resources paths for use in tests.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_mode_test_helper.h"
 
 #include <memory>

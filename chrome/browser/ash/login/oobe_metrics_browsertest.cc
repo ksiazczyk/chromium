@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE metrics browser test
+// summary: Browser tests validating structured metrics events and histograms recorded during OOBE and onboarding, such as consent acceptance and flow completion.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_login_pref_names.h"
 #include "ash/public/cpp/login_screen_test_api.h"

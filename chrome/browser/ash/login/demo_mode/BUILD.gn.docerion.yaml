@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Demo mode build configuration (BUILD.gn)
+summary: Defines the demo_mode, demo_mode_login and test_support static library targets with their sources and dependencies.

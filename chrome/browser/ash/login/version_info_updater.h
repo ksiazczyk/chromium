@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersionInfoUpdater class declaration
+// summary: Declares VersionInfoUpdater, which gathers system version, boot times and cloud policy info displayed on OOBE and login screens, notifying a delegate of updates.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_VERSION_INFO_UPDATER_H_
 #define CHROME_BROWSER_ASH_LOGIN_VERSION_INFO_UPDATER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE configuration keys definitions
+// summary: Defines the configuration keys used to automate OOBE screens, grouped by screen and flow order.
+// ---
+
 #include "chrome/browser/ash/login/configuration_keys.h"
 
 #include "base/logging.h"

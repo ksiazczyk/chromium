@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeLoginPerformer class declaration
+// summary: Declares the ChromeLoginPerformer class that extends LoginPerformer with Chrome-specific authentication, policy and early prefs behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_AUTH_CHROME_LOGIN_PERFORMER_H_
 #define CHROME_BROWSER_ASH_LOGIN_AUTH_CHROME_LOGIN_PERFORMER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Ash logging directory
+summary: Restricts //chrome dependencies for ChromeOS code, allows the directory's own includes and chrome/common, and grants extra includes only to the browser test.

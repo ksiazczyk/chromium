@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo mode window closer class declaration
+// summary: Declares DemoModeWindowCloser, which closes apps and the GMSCore dialog window during demo mode sessions when the device is idle.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_MODE_WINDOW_CLOSER_H_
 #define CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_MODE_WINDOW_CLOSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo Mode idle handler implementation
+// summary: Implements idle handling for demo mode sessions, resetting prefs and wallpaper, cleaning up local and DriveFS files, showing ToS notifications and scheduling demo app relaunch or MGS logout.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_mode_idle_handler.h"
 
 #include <optional>

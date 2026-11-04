@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy auth dialog browser test
+// summary: Browser test verifying that the proxy authentication dialog appears on the user creation screen when a proxy server requires basic auth during GAIA sign-in.
+// ---
+
 #include "ash/public/cpp/login_screen_test_api.h"
 #include "base/command_line.h"
 #include "base/files/file_path.h"

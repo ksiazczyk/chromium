@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleChangeGuard class declaration
+// summary: Declares LocaleChangeGuard, which checks for automatically changed locale preferences and shows a notification to revert them.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOCALE_LOCALE_CHANGE_GUARD_H_
 #define CHROME_BROWSER_ASH_LOCALE_LOCALE_CHANGE_GUARD_H_
 

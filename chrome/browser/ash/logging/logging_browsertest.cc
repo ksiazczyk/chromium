@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for Chrome log redirection
+// summary: Verifies that browser and network service logs written before login are redirected to the session log directory after a user logs in.
+// ---
+
 #include "ash/constants/ash_switches.h"
 #include "base/command_line.h"
 #include "base/environment.h"

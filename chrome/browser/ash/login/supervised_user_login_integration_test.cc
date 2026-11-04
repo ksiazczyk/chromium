@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user login integration tests
+// summary: Integration tests that sign in with production GAIA using different supervised account types and verify the child policies applied on the policy page.
+// ---
+
 #include <memory>
 
 #include "build/branding_buildflags.h"

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: Supervised user login integration test harness config
+# summary: Harness configuration for the supervised user login integration tests, listing owners, test criteria and the disabled test cases.
+# ---
+
 # Schema can be found at: platform/dev/test/gtest/gtest_schema.yaml
 ---
 name: "SupervisedUserLoginIntegrationTest"

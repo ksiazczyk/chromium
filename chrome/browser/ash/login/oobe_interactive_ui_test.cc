@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE interactive UI tests
+// summary: Interactive UI tests exercising many OOBE screens, including Gaia, sync consent, recommend apps, marketing opt-in, enrollment, and quick unlock flows.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string_view>

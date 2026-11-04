@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for login screen extension content scripts
+// summary: Browser tests verifying that login screen extensions with allowlisted content scripts remain enabled while disallowed ones get disabled.
+// ---
+
 #include "chrome/browser/ash/login/extensions/login_screen_extensions_content_script_manager.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Force install observer implementation
+// summary: Implements monitoring of force-installed extensions during kiosk launch, reporting success, timeout, or invalid policy results.
+// ---
+
 #include "chrome/browser/ash/login/app_mode/force_install_observer.h"
 
 #include <string>

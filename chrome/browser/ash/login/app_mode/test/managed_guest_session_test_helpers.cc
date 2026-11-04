@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed guest session test helpers
+// summary: Provides helpers to add an auto-launch managed guest session account to device policy and to launch and verify managed guest sessions in tests.
+// ---
+
 #include "chrome/browser/ash/login/app_mode/test/managed_guest_session_test_helpers.h"
 
 #include <string_view>

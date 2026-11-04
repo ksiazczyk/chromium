@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk app data load waiter implementation
+// summary: Implements a test waiter that blocks until kiosk app data or a CRX of an expected version is loaded in the kiosk Chrome app manager.
+// ---
+
 #include "chrome/browser/ash/login/app_mode/test/test_app_data_load_waiter.h"
 
 #include <memory>

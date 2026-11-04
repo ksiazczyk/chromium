@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo Mode test utilities
+// summary: Declares test helpers for demo mode setup, including enrollment launcher mocking, fake offline policy directory creation and demo dimensions comparison.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_MODE_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_MODE_TEST_UTILS_H_
 

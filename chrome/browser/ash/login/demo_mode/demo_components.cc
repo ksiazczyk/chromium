@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemoComponents implementation
+// summary: Implements loading of the demo-mode-resources and demo-mode-app ChromeOS components and exposes their install paths.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_components.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Challenge-response authentication keys loader header
+// summary: Declares a class that collects available cryptographic keys for challenge-response sign-in authentication.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_CHALLENGE_RESPONSE_AUTH_KEYS_LOADER_H_
 #define CHROME_BROWSER_ASH_LOGIN_CHALLENGE_RESPONSE_AUTH_KEYS_LOADER_H_
 

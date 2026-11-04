@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord OOBE utility implementation
+// summary: Implements checks for showing Fjord OOBE and its image switch screen plus a language allowlist based on enrollment requisition and feature flags.
+// ---
+
 #include "chrome/browser/ash/login/fjord_oobe/fjord_oobe_util.h"
 
 #include "ash/constants/ash_features.h"

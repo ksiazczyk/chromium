@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login constants
+// summary: Defines default constants for offline sign-in time limits, SAML password change, and lock screen reauthentication in ChromeOS login.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_LOGIN_CONSTANTS_H_
 #define CHROME_BROWSER_ASH_LOGIN_LOGIN_CONSTANTS_H_
 

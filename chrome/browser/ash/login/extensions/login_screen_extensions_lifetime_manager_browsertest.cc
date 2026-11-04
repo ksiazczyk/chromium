@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login screen extensions lifetime manager browser test
+// summary: Browser tests verifying that login-screen extensions are force-installed into the signin and lock-screen profiles and managed across login, lock, and unlock session flows.
+// ---
+
 #include "chrome/browser/ash/login/extensions/login_screen_extensions_lifetime_manager.h"
 
 #include <string>

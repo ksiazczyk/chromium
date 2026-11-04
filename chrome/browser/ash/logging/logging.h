@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Chrome log redirection in Ash
+// summary: Declares RedirectChromeLogging to send Chrome logs to the session log dir and ForceLogRedirectionForTesting to enable redirection off-device.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGGING_LOGGING_H_
 #define CHROME_BROWSER_ASH_LOGGING_LOGGING_H_
 

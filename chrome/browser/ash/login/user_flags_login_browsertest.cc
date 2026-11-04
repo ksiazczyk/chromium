@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Per-user feature flags login browser tests
+// summary: Browser tests verifying that per-user feature flags are applied at session start by restarting the browser with the new switches.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/bind.h"
 #include "chrome/browser/about_flags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FjordOobeStateManager implementation
+// summary: Implements the singleton that stores the current Fjord OOBE state and notifies observers when the state changes.
+// ---
+
 #include "chrome/browser/ash/login/fjord_oobe/fjord_oobe_state_manager.h"
 
 #include "base/check.h"

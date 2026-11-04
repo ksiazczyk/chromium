@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo Mode dimensions unit tests
+// summary: Unit tests for the demo mode dimension helpers, covering country, retailer name, store number, feature-aware devices and ChromeOS version string formatting.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_mode_dimensions.h"
 
 #include "ash/constants/ash_features.h"

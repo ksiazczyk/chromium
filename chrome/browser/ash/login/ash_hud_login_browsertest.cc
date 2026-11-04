@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash HUD tracing login browser test
+// summary: Browser test exercising Ash HUD display tracing requests, destinations, and sessions triggered from the login screen.
+// ---
+
 #include <algorithm>
 
 #include "ash/constants/ash_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login screen extensions lifetime manager implementation
+// summary: Implements management of login and lock screen policy-installed extensions, disabling them during active user sessions and re-enabling at login screens.
+// ---
+
 #include "chrome/browser/ash/login/extensions/login_screen_extensions_lifetime_manager.h"
 
 #include "base/check.h"

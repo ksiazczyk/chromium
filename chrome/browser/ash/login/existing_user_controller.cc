@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Existing user controller implementation
+// summary: Implements login flow handling for existing users, including auto-login timers, kiosk and public sessions, password change flows, and error screens.
+// ---
+
 #include "chrome/browser/ash/login/existing_user_controller.h"
 
 #include <algorithm>

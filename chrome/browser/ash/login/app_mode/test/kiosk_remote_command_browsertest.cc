@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk remote command browser tests
+// summary: Browser tests verifying kiosk remote commands for volume changes, device restarts and screenshots issued through the policy remote commands service.
+// ---
+
 #include <cstdint>
 #include <string_view>
 

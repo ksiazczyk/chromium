@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the login folder
+summary: Declares bug tracker components, team email, and OS metadata used for triaging the login directory.

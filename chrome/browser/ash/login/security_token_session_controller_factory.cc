@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security token session controller factory implementation
+// summary: Implements the profile-keyed service factory that builds the security token session controller for primary and sign-in profiles only.
+// ---
+
 #include "chrome/browser/ash/login/security_token_session_controller_factory.h"
 
 #include "base/check_is_test.h"

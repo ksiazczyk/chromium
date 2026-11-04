@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local auth factors notification delegate implementation
+// summary: Implements the notification delegate that opens the Settings security and sign-in subpage when the complexity update notification is clicked.
+// ---
+
 #include "chrome/browser/ash/login/auth_factors_policy/local_auth_factors_notification_delegate.h"
 
 #include "ash/webui/settings/public/constants/routes.mojom.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk SKU enrollment browser test
+// summary: Browser test checking that a device enrolls as cloud-managed with the Kiosk SKU license when kiosk apps are configured in device policy.
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/gtest_tags.h"
 #include "chrome/browser/ash/app_mode/test/kiosk_mixin.h"

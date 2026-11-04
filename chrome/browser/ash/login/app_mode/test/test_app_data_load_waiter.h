@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk app data load waiter header
+// summary: Declares a test observer helper that waits for kiosk app data or CRX cache load events from the kiosk Chrome app manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_APP_MODE_TEST_TEST_APP_DATA_LOAD_WAITER_H_
 #define CHROME_BROWSER_ASH_LOGIN_APP_MODE_TEST_TEST_APP_DATA_LOAD_WAITER_H_
 

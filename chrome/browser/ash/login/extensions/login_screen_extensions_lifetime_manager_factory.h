@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login screen extensions lifetime manager factory header
+// summary: Declares the ProfileKeyedServiceFactory singleton that provides the LoginScreenExtensionsLifetimeManager service for a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_EXTENSIONS_LOGIN_SCREEN_EXTENSIONS_LIFETIME_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_ASH_LOGIN_EXTENSIONS_LOGIN_SCREEN_EXTENSIONS_LIFETIME_MANAGER_FACTORY_H_
 

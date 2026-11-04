@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemoComponents class header
+// summary: Declares DemoComponents, which loads demo mode components and provides paths for Android apps and extension prefs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_COMPONENTS_H_
 #define CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_COMPONENTS_H_
 

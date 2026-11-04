@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Post-login deferred task browser test
+// summary: Parameterized browser test checking deferred startup tasks after login across login, crashed-session, and restart start modes.
+// ---
+
 #include <optional>
 #include <tuple>
 

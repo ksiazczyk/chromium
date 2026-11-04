@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo setup controller unit tests
+// summary: Unit tests for DemoSetupController covering setup steps, enrollment results, and error handling with mocks.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_setup_controller.h"
 
 #include <memory>

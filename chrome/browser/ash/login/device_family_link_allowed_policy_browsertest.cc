@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceFamilyLinkAllowedPolicy browser test
+// summary: Integration test verifying how the DeviceFamilyLinkAllowedPolicy and user allowlist policies affect sign-in for Family Link, regular, and school users.
+// ---
+
 #include <memory>
 
 #include "ash/constants/ash_features.h"

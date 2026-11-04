@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo setup controller implementation
+// summary: Implements DemoSetupController, which drives demo mode setup steps, enrollment, and error and metrics reporting.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_setup_controller.h"
 
 #include <algorithm>

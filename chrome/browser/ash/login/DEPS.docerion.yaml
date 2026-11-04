@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the login directory
+summary: Specifies allowed include paths for login code, with extra rules for test files and specific sources.

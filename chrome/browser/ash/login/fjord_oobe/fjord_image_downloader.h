@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FjordImageDownloader class declaration
+// summary: Declares the downloader that calls PerformUpdate over the dissidia D-Bus service and reports progress and completion for Fjord OOBE image switching.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_FJORD_OOBE_FJORD_IMAGE_DOWNLOADER_H_
 #define CHROME_BROWSER_ASH_LOGIN_FJORD_OOBE_FJORD_IMAGE_DOWNLOADER_H_
 

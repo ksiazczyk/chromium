@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo session unit tests
+// summary: Unit tests for DemoSession using fakes for user manager, session manager, and component updater.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_session.h"
 
 #include <list>

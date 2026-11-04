@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app launcher implementation
+// summary: Opens help topics from OOBE and login screens by showing a login web dialog that loads the HelpApp extension for the requested topic.
+// ---
+
 #include "chrome/browser/ash/login/help_app_launcher.h"
 
 #include <string>

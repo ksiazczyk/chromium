@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock OAuth2 token revoker
+// summary: Declares a gmock mock of OAuth2TokenRevokerBase for faking OAuth2 token revocation in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_MOCK_OAUTH2_TOKEN_REVOKER_H_
 #define CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_MOCK_OAUTH2_TOKEN_REVOKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo Mode dimensions helper declarations
+// summary: Declares helpers that read demo mode dimensions such as country, retailer, store number, feature flags, component versions, board, model and locale, and build a DemoModeDimensions proto.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_MODE_DIMENSIONS_H_
 #define CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_MODE_DIMENSIONS_H_
 

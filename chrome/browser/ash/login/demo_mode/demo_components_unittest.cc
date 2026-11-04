@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DemoComponents unit tests
+// summary: Unit tests verifying DemoComponents component loading and path handling using a fake component manager.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_components.h"
 
 #include <memory>

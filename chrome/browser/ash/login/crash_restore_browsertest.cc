@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crash restore browser test
+// summary: Browser tests verifying that ChromeOS login restores user sessions after a crash, using fake session manager clients and consumer test accounts.
+// ---
+
 #include <string>
 #include <utility>
 #include <vector>

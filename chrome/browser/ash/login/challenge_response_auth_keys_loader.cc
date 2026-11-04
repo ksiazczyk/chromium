@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Challenge-response auth keys loader implementation
+// summary: Loads challenge-response public keys from policy extensions and known user prefs for user authentication.
+// ---
+
 #include "chrome/browser/ash/login/challenge_response_auth_keys_loader.h"
 
 #include <cstdint>

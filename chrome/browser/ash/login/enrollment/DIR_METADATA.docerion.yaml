@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for enrollment
+summary: Declares Buganizer and public Buganizer component IDs used for issue tracking in this directory.

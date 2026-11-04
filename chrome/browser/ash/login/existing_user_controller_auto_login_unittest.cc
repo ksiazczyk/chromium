@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Existing user controller auto login unit tests
+// summary: Unit tests verifying auto-login timer configuration and behavior for device local public accounts in the existing user controller.
+// ---
+
 #include <string>
 #include <utility>
 

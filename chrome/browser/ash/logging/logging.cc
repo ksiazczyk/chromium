@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome log redirection implementation for Ash
+// summary: Redirects Chrome logging to the session log directory on ChromeOS devices and reinitializes logging for the zygote and child processes after log rotation.
+// ---
+
 #include "chrome/browser/ash/logging/logging.h"
 
 #include <cstdio>

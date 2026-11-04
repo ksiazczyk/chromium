@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login screen extensions lifetime manager factory implementation
+// summary: Implements the profile-keyed factory that creates the LoginScreenExtensionsLifetimeManager only for sign-in and lock-screen browser contexts and declares its dependencies.
+// ---
+
 #include "chrome/browser/ash/login/extensions/login_screen_extensions_lifetime_manager_factory.h"
 
 #include "base/check_is_test.h"

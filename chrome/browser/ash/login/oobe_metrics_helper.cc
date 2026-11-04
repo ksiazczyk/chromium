@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE metrics helper
+// summary: Implements OobeMetricsHelper, which tracks OOBE screen shown status, completion times, flow durations, and metrics client ID resets for UMA reporting.
+// ---
+
 #include "chrome/browser/ash/login/oobe_metrics_helper.h"
 
 #include <map>

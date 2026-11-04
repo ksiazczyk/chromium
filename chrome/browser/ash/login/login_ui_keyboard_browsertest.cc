@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login UI keyboard browser test
+// summary: Browser test verifying keyboard and input method behavior on the ChromeOS login, user adding, and lock screens.
+// ---
+
 #include <algorithm>
 #include <memory>
 

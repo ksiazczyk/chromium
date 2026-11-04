@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enable debugging browser test
+// summary: Browser tests for the OOBE enable-debugging screen, covering setup, remove-protection, wait, done, and error dialogs with a fake debug daemon client.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_login_pref_names.h"

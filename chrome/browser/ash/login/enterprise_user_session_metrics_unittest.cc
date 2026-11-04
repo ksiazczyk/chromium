@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise user session metrics unit tests
+// summary: Unit tests verifying that enterprise, public account, and demo mode session lengths are stored and recorded as UMA histograms with rounding and capping.
+// ---
+
 #include "chrome/browser/ash/login/enterprise_user_session_metrics.h"
 
 #include <memory>

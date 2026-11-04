@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login utils browser test
+// summary: Browser test verifying RLZ brand code and access point initialization when a new user session starts.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_pref_names.h"

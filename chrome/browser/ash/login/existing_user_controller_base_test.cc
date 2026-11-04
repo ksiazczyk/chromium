@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Existing user controller base test fixture implementation
+// summary: Implements the shared test fixture providing a fake user manager and auth events recorder for existing user controller tests.
+// ---
+
 #include "chrome/browser/ash/login/existing_user_controller_base_test.h"
 
 #include "chrome/test/base/testing_browser_process.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enrollment UMA unit tests
+// summary: Parameterized unit tests verifying that token-based enrollment OOBE config UMA histograms record success and failure samples correctly.
+// ---
+
 #include "chrome/browser/ash/login/enrollment/enrollment_uma.h"
 
 #include <string_view>

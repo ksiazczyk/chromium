@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Challenge-response auth keys loader browser tests
+// summary: Browser tests verifying that challenge-response keys are loaded via certificate provider extensions.
+// ---
+
 #include "chrome/browser/ash/login/challenge_response_auth_keys_loader.h"
 
 #include <vector>

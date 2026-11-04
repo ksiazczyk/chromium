@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE configuration implementation
+// summary: Implements OobeConfiguration, which fetches, parses, and validates the device OOBE configuration used to automate passing through OOBE and enrollment screens.
+// ---
+
 #include "chrome/browser/ash/login/oobe_configuration.h"
 
 #include "base/functional/bind.h"

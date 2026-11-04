@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto-launched kiosk browser tests
+// summary: Browser tests covering auto-launched kiosk sessions, including chrome.management API behavior in primary and secondary kiosk apps.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

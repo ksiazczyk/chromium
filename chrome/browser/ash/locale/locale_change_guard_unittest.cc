@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocaleChangeGuard unit tests
+// summary: Unit tests covering which language locale changes require a user notification and the revert notification behavior.
+// ---
+
 #include "chrome/browser/ash/locale/locale_change_guard.h"
 
 #include <stddef.h>

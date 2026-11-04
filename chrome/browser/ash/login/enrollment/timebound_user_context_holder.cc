@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timebound user context holder implementation
+// summary: Clears a held UserContext and revokes its OAuth2 tokens on timeout, session state change, or destruction.
+// ---
+
 #include "chrome/browser/ash/login/enrollment/timebound_user_context_holder.h"
 
 #include "base/task/single_thread_task_runner.h"

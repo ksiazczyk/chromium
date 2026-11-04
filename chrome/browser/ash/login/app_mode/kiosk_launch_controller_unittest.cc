@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk launch controller unit tests
+// summary: Unit tests for KioskLaunchController covering launch states, network handling, and extension installation using fake test components.
+// ---
+
 #include "chrome/browser/ash/login/app_mode/kiosk_launch_controller.h"
 
 #include <memory>

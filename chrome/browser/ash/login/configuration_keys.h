@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE configuration keys header
+// summary: Declares OOBE configuration key constants plus validation and filtering helpers for handler sides.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_CONFIGURATION_KEYS_H_
 #define CHROME_BROWSER_ASH_LOGIN_CONFIGURATION_KEYS_H_
 

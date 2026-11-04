@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local auth factors policy controller header
+// summary: Declares the keyed service and factor observer that enforce local authentication factor policies for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_AUTH_FACTORS_POLICY_LOCAL_AUTH_FACTORS_POLICY_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_LOGIN_AUTH_FACTORS_POLICY_LOCAL_AUTH_FACTORS_POLICY_CONTROLLER_H_
 

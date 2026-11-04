@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo Mode window closer implementation
+// summary: Implements DemoModeWindowCloser, which closes app and ARC windows including GMS core during demo sessions, clears the clipboard and reports metrics.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_mode_window_closer.h"
 
 #include "ash/clipboard/clipboard_history.h"

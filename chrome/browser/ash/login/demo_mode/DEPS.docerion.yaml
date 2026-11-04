@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Demo mode include rules
+summary: Restricts //chrome dependencies for the directory and grants specific include exceptions to individual files and tests.

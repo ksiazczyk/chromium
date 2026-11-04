@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments autofill authentication browser test
+// summary: Browser tests for the in-session authentication dialog shown when accessing payments autofill, with and without auth factors.
+// ---
+
 #include "ash/auth/active_session_auth_controller_impl.h"
 #include "ash/constants/ash_switches.h"
 #include "ash/public/cpp/in_session_auth_dialog_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia reauth token fetcher implementation
+// summary: Fetches a Gaia reauth request token from the Cryptohome recovery service for use as an authentication claim in the Cryptohome recovery flow.
+// ---
+
 #include "chrome/browser/ash/login/gaia_reauth_token_fetcher.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen input method utilities implementation
+// summary: Implements helpers that apply a user's last input method and device policy restrictions on the ChromeOS lock and login screens.
+// ---
+
 #include "chrome/browser/ash/login/lock_screen_utils.h"
 
 #include <algorithm>

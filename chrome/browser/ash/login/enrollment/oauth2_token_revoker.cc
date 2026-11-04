@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 token revoker implementation
+// summary: Revokes OAuth2 tokens asynchronously through the Gaia auth fetcher, deleting the helper once revocation completes.
+// ---
+
 #include "chrome/browser/ash/login/enrollment/oauth2_token_revoker.h"
 
 #include <string>

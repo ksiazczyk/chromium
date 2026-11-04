@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login client certificate usage observer header
+// summary: Header for an observer that records extension-provided client certificates used to sign data on the ChromeOS login screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_LOGIN_CLIENT_CERT_USAGE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_LOGIN_LOGIN_CLIENT_CERT_USAGE_OBSERVER_H_
 

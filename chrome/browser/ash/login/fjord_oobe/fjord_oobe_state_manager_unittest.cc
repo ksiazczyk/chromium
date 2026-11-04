@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FjordOobeStateManager unit tests
+// summary: Verifies state initialization, updates and observer notifications with the Fjord OOBE feature both enabled and disabled.
+// ---
+
 #include "chrome/browser/ash/login/fjord_oobe/fjord_oobe_state_manager.h"
 
 #include "ash/constants/ash_features.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for kiosk app mode tests
+summary: Sets include rules allowing specific Chrome browser headers for tests in this kiosk app mode directory.

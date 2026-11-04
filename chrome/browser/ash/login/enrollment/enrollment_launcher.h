@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnrollmentLauncher interface
+// summary: Declares the launcher that enrolls a device into an enterprise domain and reports auth, enrollment, and attribute upload results via a consumer interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_ENROLLMENT_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_ENROLLMENT_LAUNCHER_H_
 

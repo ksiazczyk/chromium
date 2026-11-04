@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WizardContext implementation
+// summary: Implements WizardContext helpers, including auto-wipe decisions for enterprise-managed users on online password mismatch and rollback flow detection.
+// ---
+
 #include "chrome/browser/ash/login/wizard_context.h"
 
 #include "ash/constants/ash_login_pref_names.h"

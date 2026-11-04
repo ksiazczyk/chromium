@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock enrollment launcher for tests
+// summary: Declares MockEnrollmentLauncher and FakeEnrollmentLauncher, letting tests mock enrollment launching through a factory override.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_MOCK_ENROLLMENT_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_MOCK_ENROLLMENT_LAUNCHER_H_
 

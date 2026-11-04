@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE metrics helper header
+// summary: Declares OobeMetricsHelper, which records OOBE and onboarding metrics such as screen shown status and flow completion, with observer notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_METRICS_HELPER_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_METRICS_HELPER_H_
 

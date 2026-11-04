@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local auth factors notification delegate header
+// summary: Declares the message center notification delegate class that handles clicks on local auth factors policy notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_AUTH_FACTORS_POLICY_LOCAL_AUTH_FACTORS_NOTIFICATION_DELEGATE_H_
 #define CHROME_BROWSER_ASH_LOGIN_AUTH_FACTORS_POLICY_LOCAL_AUTH_FACTORS_NOTIFICATION_DELEGATE_H_
 

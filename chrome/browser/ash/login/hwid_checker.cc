@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HWID checker implementation
+// summary: Validates ChromeOS hardware IDs by computing HWIDv2 and HWIDv3 checksums, including handling of exceptional legacy HWID formats.
+// ---
+
 
 #include "chrome/browser/ash/login/hwid_checker.h"
 

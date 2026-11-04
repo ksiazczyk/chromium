@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo mode dimensions helpers
+// summary: Provides accessors for demo mode dimensions such as country, retailer, store number, versions, board and model.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_mode_dimensions.h"
 
 #include "ash/constants/ash_features.h"

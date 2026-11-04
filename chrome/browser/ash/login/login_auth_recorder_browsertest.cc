@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login authentication recorder browser tests
+// summary: Browser tests verifying that authentication method usage and switching histograms are recorded correctly in tablet and clamshell modes.
+// ---
+
 #include "chrome/browser/ash/login/login_auth_recorder.h"
 
 #include "ash/public/cpp/test/shell_test_api.h"

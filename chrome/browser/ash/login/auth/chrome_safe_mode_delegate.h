@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSafeModeDelegate class declaration
+// summary: Declares the ChromeSafeModeDelegate class implementing SafeModeDelegate for safe mode and ownership checks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_AUTH_CHROME_SAFE_MODE_DELEGATE_H_
 #define CHROME_BROWSER_ASH_LOGIN_AUTH_CHROME_SAFE_MODE_DELEGATE_H_
 

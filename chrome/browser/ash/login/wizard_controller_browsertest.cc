@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wizard controller browser tests
+// summary: Browser tests for the ChromeOS Ash OOBE wizard controller, covering screen flows such as demo setup, enrollment, HID detection, and device state scenarios with mock screens.
+// ---
+
 #include "chrome/browser/ash/login/wizard_controller.h"
 
 #include <memory>

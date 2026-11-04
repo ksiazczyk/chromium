@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleChangeGuard implementation
+// summary: Implements the guard that detects automatically changed locales at login, notifies the user, and can revert the change.
+// ---
+
 #include "chrome/browser/ash/locale/locale_change_guard.h"
 
 #include <algorithm>

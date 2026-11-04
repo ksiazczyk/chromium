@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local auth factors policy controller browser tests
+// summary: Contains browser tests covering pref processing, policy enforcement and complexity update notification behavior of the controller.
+// ---
+
 #include "chrome/browser/ash/login/auth_factors_policy/local_auth_factors_policy_controller.h"
 
 #include "ash/constants/ash_features.h"

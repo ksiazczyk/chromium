@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome restart request header
+// summary: Declares helpers to derive the off-the-record command line and to request a Chrome restart via session manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_CHROME_RESTART_REQUEST_H_
 #define CHROME_BROWSER_ASH_LOGIN_CHROME_RESTART_REQUEST_H_
 

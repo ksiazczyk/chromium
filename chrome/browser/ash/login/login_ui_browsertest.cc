@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login UI browser test
+// summary: Browser tests covering login and OOBE UI behavior, including welcome screen display, auto-start enrollment, and screen interactions.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_features.h"

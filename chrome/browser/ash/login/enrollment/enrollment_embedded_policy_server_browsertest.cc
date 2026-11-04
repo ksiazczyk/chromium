@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enrollment browser tests with embedded policy server
+// summary: Browser tests exercising enterprise enrollment flows against an embedded policy test server, covering kiosk, attestation, and device-disabled scenarios.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

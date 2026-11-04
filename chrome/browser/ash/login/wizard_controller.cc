@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WizardController implementation
+// summary: Implements the OOBE wizard controller that orchestrates ChromeOS out-of-box and login screens, including demo mode, enrollment, quick start and kiosk flows.
+// ---
+
 #include "chrome/browser/ash/login/wizard_controller.h"
 
 #include <signal.h>

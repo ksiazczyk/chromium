@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock enrollment launcher implementation
+// summary: Implements MockEnrollmentLauncher and the FakeEnrollmentLauncher proxy that forwards enrollment launcher calls to the mock so tests can set expectations.
+// ---
+
 #include "chrome/browser/ash/login/enrollment/mock_enrollment_launcher.h"
 
 #include "base/check.h"

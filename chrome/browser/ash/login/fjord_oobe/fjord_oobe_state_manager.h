@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FjordOobeStateManager class declaration
+// summary: Declares a singleton service that tracks the OOBE state for the Fjord OOBE flow and exposes an observer interface for state changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_FJORD_OOBE_FJORD_OOBE_STATE_MANAGER_H_
 #define CHROME_BROWSER_ASH_LOGIN_FJORD_OOBE_FJORD_OOBE_STATE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reauth stats implementation
+// summary: Records and reports reauthentication reasons as UMA histograms, distinguishing between password-changed and other reauth flows for logged-in users.
+// ---
+
 #include "chrome/browser/ash/login/reauth_stats.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia reauth token fetcher header
+// summary: Declares GaiaReauthTokenFetcher, which sends requests to the Cryptohome recovery service and returns the encoded reauth request token.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_GAIA_REAUTH_TOKEN_FETCHER_H_
 #define CHROME_BROWSER_ASH_LOGIN_GAIA_REAUTH_TOKEN_FETCHER_H_
 

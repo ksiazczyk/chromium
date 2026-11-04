@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Force install observer header
+// summary: Declares ForceInstallObserver, which observes force-installed extension readiness for kiosk and reports the outcome via callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_APP_MODE_FORCE_INSTALL_OBSERVER_H_
 #define CHROME_BROWSER_ASH_LOGIN_APP_MODE_FORCE_INSTALL_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account supervision change browser test
+// summary: Browser test verifying that the user type updates correctly when account supervision is added or removed server-side.
+// ---
+
 #include <string>
 
 #include "ash/public/cpp/login_screen_test_api.h"

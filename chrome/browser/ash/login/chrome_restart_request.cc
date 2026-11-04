@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome restart request implementation
+// summary: Builds the new command line and asks the session manager to restart Chrome for guest or userless sessions.
+// ---
+
 #include "chrome/browser/ash/login/chrome_restart_request.h"
 
 #include <sys/socket.h>

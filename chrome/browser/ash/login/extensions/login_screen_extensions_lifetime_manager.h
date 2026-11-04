@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the login screen extensions lifetime manager
+// summary: Declares the LoginScreenExtensionsLifetimeManager KeyedService observing profile manager, session manager, and extension registry to control extension lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_EXTENSIONS_LOGIN_SCREEN_EXTENSIONS_LIFETIME_MANAGER_H_
 #define CHROME_BROWSER_ASH_LOGIN_EXTENSIONS_LOGIN_SCREEN_EXTENSIONS_LIFETIME_MANAGER_H_
 

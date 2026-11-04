@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security token PIN dialog host login implementation
+// summary: Declares the Ash login and lock screen implementation of the security token PIN dialog host, which displays PIN requests embedded in the user pod.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SECURITY_TOKEN_PIN_DIALOG_HOST_LOGIN_IMPL_H_
 #define CHROME_BROWSER_ASH_LOGIN_SECURITY_TOKEN_PIN_DIALOG_HOST_LOGIN_IMPL_H_
 

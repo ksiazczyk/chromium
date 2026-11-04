@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login authentication metrics recorder implementation
+// summary: Implements recording of UMA metrics for lock screen authentication methods and switches between password, PIN, Smart Lock, fingerprint, and challenge response.
+// ---
+
 #include "chrome/browser/ash/login/login_auth_recorder.h"
 
 #include <optional>

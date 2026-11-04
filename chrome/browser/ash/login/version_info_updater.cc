@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersionInfoUpdater implementation
+// summary: Implements fetching of OS version, enterprise info, device identifiers and ADB sideloading status shown on the OOBE and login screens.
+// ---
+
 #include "chrome/browser/ash/login/version_info_updater.h"
 
 #include <string_view>

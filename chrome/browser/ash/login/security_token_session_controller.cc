@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security token session controller implementation
+// summary: Implements the controller that enforces the SecurityTokenSessionBehavior and SecurityTokenSessionNotificationSeconds preferences, locking or logging out when a security token certificate vanishes.
+// ---
+
 #include "chrome/browser/ash/login/security_token_session_controller.h"
 
 #include <string>

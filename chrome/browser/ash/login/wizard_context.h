@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WizardContext class declaration
+// summary: Declares WizardContext, the structure carrying data between screens during WizardController flows, including Gaia config, recovery setup and auth change flow enums.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_WIZARD_CONTEXT_H_
 #define CHROME_BROWSER_ASH_LOGIN_WIZARD_CONTEXT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reference for auth factors policy
+summary: Delegates review ownership to the shared OWNERS file in chromeos/ash/components/policy/local_auth_factors.
