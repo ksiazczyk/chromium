@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud Android preferences implementation
+// summary: Registers syncable Read Aloud profile and local preferences and provides JNI methods for voice settings and hashed reliability logging IDs.
+// ---
+
 #include "chrome/browser/readaloud/android/prefs.h"
 
 #include "base/android/jni_string.h"

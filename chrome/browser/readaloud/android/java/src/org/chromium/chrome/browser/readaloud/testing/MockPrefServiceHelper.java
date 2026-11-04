@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PrefService helper for ReadAloud tests
+// summary: Provides a HashMap-backed mock PrefService plus helpers for mocking voice settings, supporting ReadAloud unit tests.
+// ---
+
 package org.chromium.chrome.browser.readaloud.testing;
 
 import static org.mockito.Mockito.any;

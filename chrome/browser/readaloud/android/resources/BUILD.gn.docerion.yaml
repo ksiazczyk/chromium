@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Read Aloud Android strings build rules
+summary: GN build file defining the java_strings_grd target that packages the Read Aloud Android strings GRD file with its locale translations.

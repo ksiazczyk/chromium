@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview generation broker implementation
+// summary: Implements the broker that builds ReadAloudGenerateTextRequest protobufs with sanitized URLs and language codes and runs overview generation through the Optimization Guide service.
+// ---
+
 #include "chrome/browser/readaloud/audio_generation/overview_generation_broker.h"
 
 #include <string>

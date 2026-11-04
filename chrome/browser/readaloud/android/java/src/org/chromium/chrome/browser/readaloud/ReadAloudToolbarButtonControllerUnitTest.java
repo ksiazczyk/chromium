@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReadAloudToolbarButtonControllerUnitTest
+// summary: Unit tests for the Read Aloud toolbar button controller covering visibility and click behavior.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import static org.mockito.Mockito.anyInt;

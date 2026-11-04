@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Read Aloud Android DEPS include rules
+summary: Restricts directory includes to allow only the Android bottomsheet browser UI component.

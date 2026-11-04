@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpeechSynthesisBroker unit tests
+// summary: Tests synthesize request building, voice and language defaults and fallbacks, UTF-8 conversion, and error handling for null services and empty text.
+// ---
+
 #include "chrome/browser/readaloud/audio_generation/speech_synthesis_broker.h"
 
 #include <string_view>

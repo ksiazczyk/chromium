@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_pl.xtb.
+type: data
+title: Polish Read Aloud strings (android_readaloud_strings_pl)
+summary: Translation bundle with Polish UI strings for the Android Read Aloud player, covering playback controls, voice options and feedback messages.

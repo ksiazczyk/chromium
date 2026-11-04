@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_sr.xtb.
+type: data
+title: Android Read Aloud UI strings in Serbian (Cyrillic)
+summary: Serbian (Cyrillic script) translation bundle with UI strings for Chrome's Android Read Aloud player, covering playback, voice options and feedback.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mini player coordinator unit tests
+// summary: Robolectric unit tests for the mini player coordinator, covering layout inflation, visibility, and side UI margin adjustments.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.mini;
 
 import static org.junit.Assert.assertEquals;

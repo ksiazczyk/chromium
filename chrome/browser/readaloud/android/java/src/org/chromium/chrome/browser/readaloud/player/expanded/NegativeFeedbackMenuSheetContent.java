@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Negative feedback menu bottom sheet content
+// summary: Bottom sheet menu that lets users pick a reason for negative Read Aloud feedback, such as incorrect facts, bad voice, or technical issues.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

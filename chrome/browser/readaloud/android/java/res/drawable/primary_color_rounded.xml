@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Primary color rounded rectangle drawable
+summary: Defines a rounded rectangle shape filled with the primary theme color for Read Aloud UI elements.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
      android:shape="rectangle">
      <solid android:color="?attr/colorPrimary"/>

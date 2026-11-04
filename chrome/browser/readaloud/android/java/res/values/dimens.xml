@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Readaloud Android dimension resources
+summary: Defines dimension values for the readaloud mini and expanded players, control buttons, playback mode selector, and menus on Android.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Shared -->
     <dimen name="button_size">48dp</dimen>

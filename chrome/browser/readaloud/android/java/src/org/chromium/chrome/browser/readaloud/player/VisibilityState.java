@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisibilityState
+// summary: 'IntDef annotation enumerating player visibility and animation states: gone, showing, visible, and hiding.'
+// ---
+
 package org.chromium.chrome.browser.readaloud.player;
 
 import androidx.annotation.IntDef;

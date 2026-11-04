@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleMenuSheetContent base class for single-menu sheets
+// summary: Abstract bottom sheet content for Read Aloud menus shown as the only sheet content, handling orientation changes and scroll reset on close.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

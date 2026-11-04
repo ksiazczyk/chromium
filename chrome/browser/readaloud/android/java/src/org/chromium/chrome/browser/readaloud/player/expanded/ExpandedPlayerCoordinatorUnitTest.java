@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExpandedPlayerCoordinatorUnitTest
+// summary: Robolectric unit tests for ExpandedPlayerCoordinator and ExpandedPlayerViewBinder covering show, dismiss, visibility, and sheet observer behavior.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import static org.junit.Assert.assertEquals;

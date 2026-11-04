@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mini player mediator unit tests
+// summary: Robolectric unit tests for the mini player mediator, covering show, hide, height changes, and destroy behavior.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.mini;
 
 import static org.junit.Assert.assertEquals;

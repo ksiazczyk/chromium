@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReadAloudNativeBridgeUnitTest
+// summary: Unit tests for the Read Aloud native bridge, covering initialization, teardown and outbound control commands.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAloudNativeBridge
+// summary: JNI bridge managing two-way communication between Java and the native C++ Read Aloud implementation, including playback control commands and callbacks.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import org.jni_zero.CalledByNative;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Read Aloud Android BUILD.gn build targets
+summary: Defines the GN build targets for Read Aloud on Android, listing Java sources, JNI header generation, and dependency rules.

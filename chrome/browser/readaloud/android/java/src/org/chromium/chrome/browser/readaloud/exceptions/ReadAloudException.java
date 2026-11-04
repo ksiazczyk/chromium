@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ReadAloudException: base class for Read Aloud service errors'
+// summary: Defines the base ReadAloud exception carrying a ReadAloudErrorCode IntDef of status codes that must stay in sync with readaloud/enums.xml.
+// ---
+
 package org.chromium.chrome.browser.readaloud.exceptions;
 
 import androidx.annotation.IntDef;

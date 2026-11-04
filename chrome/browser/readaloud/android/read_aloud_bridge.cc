@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud native-Java bridge implementation
+// summary: Implements the JNI bridge that marshals playback state, progress, and engine events from native ReadAloudService to Java and dispatches Java playback commands.
+// ---
+
 #include "chrome/browser/readaloud/android/read_aloud_bridge.h"
 
 #include <cstdint>

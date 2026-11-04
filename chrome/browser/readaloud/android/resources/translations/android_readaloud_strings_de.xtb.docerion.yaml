@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_de.xtb.
+type: data
+title: German Read Aloud strings translation bundle
+summary: German translations of UI strings for the Android Read Aloud 'Listen to this page' player, covering playback controls, voice options and feedback prompts.

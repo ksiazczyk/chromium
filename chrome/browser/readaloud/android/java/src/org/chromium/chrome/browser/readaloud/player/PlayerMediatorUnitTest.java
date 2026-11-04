@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: PlayerMediatorUnitTest
+// summary: Robolectric unit tests for PlayerMediator covering playback state updates, seek bar handling, metrics recording, feedback, and playback mode behavior.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

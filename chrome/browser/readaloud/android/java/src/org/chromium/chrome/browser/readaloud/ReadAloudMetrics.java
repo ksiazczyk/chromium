@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAloudMetrics
+// summary: Defines histogram names, ineligibility reasons and helpers for recording Read Aloud usage and playback metrics.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import androidx.annotation.IntDef;

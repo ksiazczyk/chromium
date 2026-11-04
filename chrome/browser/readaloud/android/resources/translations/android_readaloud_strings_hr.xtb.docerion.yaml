@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_hr.xtb.
+type: data
+title: Croatian Read Aloud strings for Android
+summary: Croatian translation bundle with UI strings for the Android Read Aloud player, covering playback controls, voice options, and feedback dialogs.

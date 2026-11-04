@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_gl.xtb.
+type: data
+title: Galician Read Aloud strings for Android
+summary: Galician translation bundle with UI strings for the Android Read Aloud player, covering playback controls, voice options, and feedback dialogs.

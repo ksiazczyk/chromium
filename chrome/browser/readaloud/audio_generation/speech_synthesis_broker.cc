@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech synthesis broker implementation
+// summary: Implements voice and language configuration plus construction and execution of ReadAloudSynthesizeRequest speech synthesis calls via the Optimization Guide service.
+// ---
+
 #include "chrome/browser/readaloud/audio_generation/speech_synthesis_broker.h"
 
 #include "base/containers/span.h"

@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_zu.xtb.
+type: data
+title: Android Read Aloud strings in Zulu
+summary: Zulu translation bundle with localized UI strings for Chrome's Android Read Aloud feature, covering playback controls, voice and speed options, ambient themes, and user feedback prompts.

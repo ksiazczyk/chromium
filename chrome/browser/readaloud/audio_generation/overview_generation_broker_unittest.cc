@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OverviewGenerationBroker unit tests
+// summary: Tests request building, URL sanitization, non-web URL handling, language codes, and model execution outcomes using a mock Optimization Guide service.
+// ---
+
 #include "chrome/browser/readaloud/audio_generation/overview_generation_broker.h"
 
 #include <string>

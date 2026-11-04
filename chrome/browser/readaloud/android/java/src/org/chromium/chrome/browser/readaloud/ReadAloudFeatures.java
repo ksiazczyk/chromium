@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAloudFeatures
+// summary: Reads Read Aloud feature flags and parameters and checks user eligibility, such as incognito mode, data collection consent, default search engine and policy.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import com.google.common.collect.ImmutableList;

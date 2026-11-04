@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayerProperties
+// summary: Defines the writable property keys for the Read Aloud player property model, such as title, playback state, progress, speed, voices, and feedback type.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player;
 
 import org.chromium.build.annotations.NullMarked;

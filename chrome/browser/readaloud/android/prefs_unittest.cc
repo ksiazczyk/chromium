@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Aloud preferences unit tests
+// summary: Verifies GetReliabilityLoggingId returns zero for empty metrics IDs and stable, distinct hashes for identical and differing metrics IDs.
+// ---
+
 #include "chrome/browser/readaloud/android/prefs.h"
 
 #include <memory>

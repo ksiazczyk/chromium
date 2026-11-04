@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAloudNetworkException for Read Aloud network failures
+// summary: Extends ReadAloudException to represent Read Aloud errors caused by network issues, wrapping a negative Chrome network error code with a canonical error code.
+// ---
+
 package org.chromium.chrome.browser.readaloud.exceptions;
 
 import org.chromium.build.annotations.NullMarked;

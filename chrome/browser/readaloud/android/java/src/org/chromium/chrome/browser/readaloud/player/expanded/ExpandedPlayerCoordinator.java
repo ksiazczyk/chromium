@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpandedPlayerCoordinator
+// summary: Coordinates the Read Aloud expanded player bottom sheet, observing sheet content changes to manage visibility and mini player behavior.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: PlayerCoordinatorUnitTest
+// summary: Robolectric unit tests for PlayerCoordinator, verifying player show, hide, expand, and restore behavior with mocked coordinators and delegates.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player;
 
 import static org.junit.Assert.assertNull;

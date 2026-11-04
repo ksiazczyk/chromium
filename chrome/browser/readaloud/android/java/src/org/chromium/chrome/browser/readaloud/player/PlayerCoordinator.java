@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayerCoordinator
+// summary: Coordinates the mini and expanded Read Aloud player UIs, managing their visibility states, observers, and lifecycle handling.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player;
 
 import android.content.Context;

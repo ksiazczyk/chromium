@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReadAloudController unit tests
+// summary: Extensive Robolectric and Mockito unit tests for ReadAloudController covering playback lifecycle, eligibility, feature flags, metrics, and UI behavior.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import static android.view.Display.INVALID_DISPLAY;

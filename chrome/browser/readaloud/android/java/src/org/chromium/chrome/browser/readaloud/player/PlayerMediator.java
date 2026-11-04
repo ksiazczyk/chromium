@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayerMediator
+// summary: Mediator that updates the player UI property model in response to playback state changes and implements the InteractionHandler callbacks for user actions.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

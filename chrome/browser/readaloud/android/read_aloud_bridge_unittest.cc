@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Aloud bridge unit tests
+// summary: Tests playback mode and feedback type mapping between Java values and ReadAloudService enums, including death on invalid values.
+// ---
+
 #include "chrome/browser/readaloud/android/read_aloud_bridge.h"
 
 #include "chrome/browser/readaloud/read_aloud_service.h"

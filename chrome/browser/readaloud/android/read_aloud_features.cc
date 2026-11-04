@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud feature flag JNI helpers
+// summary: Exposes the metrics client ID, server experiment flag, and server synthesizer feature state to Java through JNI functions.
+// ---
+
 #include "base/android/jni_string.h"
 #include "base/strings/strcat.h"
 #include "chrome/browser/browser_process.h"

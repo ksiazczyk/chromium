@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VoiceMenu
+// summary: Implements the Read Aloud voices submenu of the expanded player, populating menu items from available playback voices and handling voice selection and preview clicks.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import static org.chromium.chrome.modules.readaloud.PlaybackListener.State.BUFFERING;

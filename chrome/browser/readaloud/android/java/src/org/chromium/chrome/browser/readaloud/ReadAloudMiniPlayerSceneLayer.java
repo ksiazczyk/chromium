@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAloudMiniPlayerSceneLayer
+// summary: Composited scene overlay layer that draws a solid-color placeholder rectangle for the Read Aloud mini player during show and hide transitions.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import android.graphics.RectF;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewGenerationBroker class declaration
+// summary: Declares the broker managing AI overview script generation for Read Aloud, including abort and server result enums and the model execution callback interface.
+// ---
+
 #ifndef CHROME_BROWSER_READALOUD_AUDIO_GENERATION_OVERVIEW_GENERATION_BROKER_H_
 #define CHROME_BROWSER_READALOUD_AUDIO_GENERATION_OVERVIEW_GENERATION_BROKER_H_
 

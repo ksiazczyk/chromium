@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuItem
+// summary: FrameLayout view for Read Aloud player menu item variants supporting expand, radio, and toggle end actions with icon and label.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import android.content.Context;

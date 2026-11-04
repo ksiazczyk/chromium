@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeVoicePreviewPlayback unit tests
+// summary: Unit tests for NativeVoicePreviewPlayback covering initial state, listener registration and removal, state notifications, and bridge commands for preview, pause, and release.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import static org.junit.Assert.assertEquals;

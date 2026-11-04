@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: TapToSeekSelectionManager
+// summary: Hooks the tap to seek selection client into the active playback tab and forwards surrounding text on taps.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

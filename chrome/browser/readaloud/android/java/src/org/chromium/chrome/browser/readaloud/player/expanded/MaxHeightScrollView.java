@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MaxHeightScrollView
+// summary: Custom ScrollView that enforces a maximum height via a maxHeight styleable attribute and disables focusability for tab navigation.
+// ---
+
 package org.chromium.chrome.browser.readaloud.player.expanded;
 
 import android.content.Context;

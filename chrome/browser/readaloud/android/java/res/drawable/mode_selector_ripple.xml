@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Read Aloud mode selector ripple and focus states
+summary: Ripple drawable providing touch feedback, a hover highlight and a focus ring for the Read Aloud playback mode selector.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="?android:attr/colorControlHighlight">
     <item

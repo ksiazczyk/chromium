@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings_fi.xtb.
+type: data
+title: Finnish Read Aloud strings for Android
+summary: Finnish translation bundle with UI strings for the Android Read Aloud player, covering playback controls, voice options, and feedback dialogs.

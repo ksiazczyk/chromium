@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native Read Aloud playback metadata
+// summary: Holds metadata for on-device native Read Aloud playback sessions backed by the C++ ReadAloudService, including language, canonical URL, playback mode, title, publisher, and text parts.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import org.chromium.build.annotations.NullMarked;

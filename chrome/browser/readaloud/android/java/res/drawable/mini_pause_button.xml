@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Mini player pause button background
+summary: Layer-list drawable layering the pause icon over a primary gray rounded background for the mini player.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/primary_gray_rounded"/>
     <item

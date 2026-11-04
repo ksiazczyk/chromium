@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAloudPrefs
+// summary: Stores and retrieves Read Aloud user settings such as voices, playback speed, playback mode and highlighting in preferences.
+// ---
+
 package org.chromium.chrome.browser.readaloud;
 
 import org.jni_zero.JNINamespace;

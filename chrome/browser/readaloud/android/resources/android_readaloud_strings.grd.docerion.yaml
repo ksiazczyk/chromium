@@ -1,0 +1,4 @@
+# Docerion header of android_readaloud_strings.grd.
+type: data
+title: Read Aloud Android UI strings
+summary: Grit resource file defining localized UI strings for the Read Aloud feature in Chrome on Android, with outputs for many locales.
