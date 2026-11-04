@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAppGLStateRestoreImplAngle class declaration
+// summary: Declares the ANGLE implementation of ScopedAppGLStateRestore::Impl that saves and restores the embedding app's GL state around WebView draws.
+// relations:
+//   - depends_on /android_webview/browser/gfx/scoped_app_gl_state_restore.h
+//   - implements /android_webview/browser/gfx/scoped_app_gl_state_restore.h
+//   - depends_on /base/dcheck_is_on.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_SCOPED_APP_GL_STATE_RESTORE_IMPL_ANGLE_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_SCOPED_APP_GL_STATE_RESTORE_IMPL_ANGLE_H_
 

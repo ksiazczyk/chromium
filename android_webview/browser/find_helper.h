@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find-in-page helper class declaration
+// summary: Declares the FindHelper WebContentsUserData class that handles WebView find-in-page requests and notifies a listener of find results.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /content/public/browser/web_contents_observer.h
+//   - depends_on /content/public/browser/web_contents_user_data.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_FIND_HELPER_H_
 #define ANDROID_WEBVIEW_BROWSER_FIND_HELPER_H_
 

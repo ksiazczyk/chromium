@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped app GL state restore class declaration
+// summary: Declares ScopedAppGLStateRestore and the StencilState struct used to save and restore the app's OpenGL state, including stencil settings and framebuffer binding, on the UI thread.
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_SCOPED_APP_GL_STATE_RESTORE_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_SCOPED_APP_GL_STATE_RESTORE_H_
 

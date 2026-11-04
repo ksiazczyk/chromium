@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsReplyProxy class declaration
+// summary: Declares the JsReplyProxy class, a native wrapper around WebMessageReplyProxy that exposes message posting, JavaScript execution, and cross-origin isolation checks to Java.
+// relations:
+//   - depends_on /base/android/jni_weak_ref.h
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_JS_JAVA_INTERACTION_JS_REPLY_PROXY_H_
 #define ANDROID_WEBVIEW_BROWSER_JS_JAVA_INTERACTION_JS_REPLY_PROXY_H_
 

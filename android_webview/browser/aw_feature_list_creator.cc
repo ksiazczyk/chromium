@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwFeatureListCreator implementation
+// summary: Implements WebView's feature list creation, setting up field trials from the stored variations seed, local state preferences, and the browser policy connector.
+// relations:
+//   - implements /android_webview/browser/aw_feature_list_creator.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_browser_context_store.h
+// ---
+
 #include "android_webview/browser/aw_feature_list_creator.h"
 
 #include <memory>

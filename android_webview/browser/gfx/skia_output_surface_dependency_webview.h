@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaOutputSurfaceDependencyWebView class declaration
+// summary: Declares the WebView implementation of viz::SkiaOutputSurfaceDependency that provides access to GPU objects and the task queue for the Skia renderer.
+// relations:
+//   - depends_on /base/functional/callback_helpers.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - implements /components/viz/service/display_embedder/skia_output_surface_dependency.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_SKIA_OUTPUT_SURFACE_DEPENDENCY_WEBVIEW_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_SKIA_OUTPUT_SURFACE_DEPENDENCY_WEBVIEW_H_
 

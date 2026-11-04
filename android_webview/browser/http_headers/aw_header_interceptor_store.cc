@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwHeaderInterceptorStore implementation
+// summary: Implements the store that registers, removes, and lists header interceptors paired with request matchers, including the JNI entry point for adding interceptors from Java.
+// relations:
+//   - implements /android_webview/browser/http_headers/aw_header_interceptor_store.h
+//   - depends_on /android_webview/browser/request_matcher/aw_request_matcher.h
+//   - depends_on /base/android/jni_android.h
+// ---
+
 #include "android_webview/browser/http_headers/aw_header_interceptor_store.h"
 
 #include <memory>

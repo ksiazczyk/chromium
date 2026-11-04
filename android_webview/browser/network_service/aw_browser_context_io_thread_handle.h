@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwBrowserContextIoThreadHandle class declaration
+// summary: Declares a refcounted, IO-thread-owned wrapper around AwBrowserContext for safe cross-thread access.
+// relations:
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /base/memory/ref_counted.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_BROWSER_CONTEXT_IO_THREAD_HANDLE_H_
 #define ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_BROWSER_CONTEXT_IO_THREAD_HANDLE_H_
 

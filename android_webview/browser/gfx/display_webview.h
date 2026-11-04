@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayWebView class declaration
+// summary: Declares DisplayWebView, a viz::Display subclass with a WebView overlay processor and frame sink observation of finished frames.
+// relations:
+//   - depends_on /base/containers/flat_set.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/scoped_observation.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_DISPLAY_WEBVIEW_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_DISPLAY_WEBVIEW_H_
 

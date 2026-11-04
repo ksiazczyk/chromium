@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView entropy state provider class declaration
+// summary: Declares AwEntropyStateProvider, extending the metrics entropy state provider with a WebView-specific low entropy source.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /components/metrics/entropy_state_provider.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_METRICS_AW_ENTROPY_STATE_PROVIDER_H_
 #define ANDROID_WEBVIEW_BROWSER_METRICS_AW_ENTROPY_STATE_PROVIDER_H_
 

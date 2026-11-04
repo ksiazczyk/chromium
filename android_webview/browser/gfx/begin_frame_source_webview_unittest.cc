@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BeginFrameSourceWebView unit tests
+// summary: Unit tests covering root and child begin frame source behavior, including observer registration, pause state propagation and begin frame dispatch.
+// relations:
+//   - tests /android_webview/browser/gfx/begin_frame_source_webview.h
+//   - depends_on /components/viz/test/begin_frame_source_test.h
+// ---
+
 #include "android_webview/browser/gfx/begin_frame_source_webview.h"
 
 #include "components/viz/test/begin_frame_source_test.h"

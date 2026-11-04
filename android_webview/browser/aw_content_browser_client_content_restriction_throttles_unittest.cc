@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content restriction throttle tests for the WebView content browser client
+// summary: Tests that AwContentBrowserClient adds content restriction URL loader and navigation throttles only when the WebView content restriction support feature is enabled.
+// relations:
+//   - tests /android_webview/browser/aw_content_browser_client.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_browser_context_store.h
+// ---
+
 #include <memory>
 #include <vector>
 

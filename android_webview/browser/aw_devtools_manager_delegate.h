@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools manager delegate declaration
+// summary: Declares AwDevToolsManagerDelegate, the WebView implementation of content::DevToolsManagerDelegate for remote debugging.
+// relations:
+//   - depends_on /content/public/browser/devtools_manager_delegate.h
+//   - implements /content/public/browser/devtools_manager_delegate.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_DEVTOOLS_MANAGER_DELEGATE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_DEVTOOLS_MANAGER_DELEGATE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentRestrictionBlockingPage class declaration
+// summary: Declares the blocking page that renders the content restriction interstitial for blocked WebView requests.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/values.h
+//   - depends_on /components/security_interstitials/content/security_interstitial_controller_client.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_CONTENT_RESTRICTION_AW_CONTENT_RESTRICTION_BLOCKING_PAGE_H_
 #define ANDROID_WEBVIEW_BROWSER_CONTENT_RESTRICTION_AW_CONTENT_RESTRICTION_BLOCKING_PAGE_H_
 

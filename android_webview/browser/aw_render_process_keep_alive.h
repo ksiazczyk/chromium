@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render process keep-alive tracking for WebView renderers
+// summary: Declares AwRenderProcessKeepAlive, which tracks attached WebView counts and keeps a render process alive for reuse via RenderProcessHost user data.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/supports_user_data.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_RENDER_PROCESS_KEEP_ALIVE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_RENDER_PROCESS_KEEP_ALIVE_H_
 

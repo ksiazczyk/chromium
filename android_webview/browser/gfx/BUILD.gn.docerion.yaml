@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for WebView gfx
+summary: Defines the gfx source_set listing WebView graphics sources, dependencies and the jnigraphics library for the Android WebView browser.
+relations:
+  - depends_on /build/config/android/config.gni
+  - depends_on /build/config/android/rules.gni
+  - has_part /android_webview/browser/gfx/aw_draw_fn_impl.cc

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition manager delegate declaration
+// summary: Declares the Android WebView speech recognition manager delegate implementing content's delegate and event listener interfaces.
+// relations:
+//   - depends_on /base/compiler_specific.h
+//   - depends_on /content/public/browser/speech_recognition_event_listener.h
+//   - depends_on /content/public/browser/speech_recognition_manager_delegate.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_SPEECH_RECOGNITION_MANAGER_DELEGATE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_SPEECH_RECOGNITION_MANAGER_DELEGATE_H_
 

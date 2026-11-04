@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwGLSurfaceExternalStencil class declaration
+// summary: Declares the AwGLSurfaceExternalStencil class that adds framebuffer and blit support for external stencil drawing on top of AwGLSurface.
+// relations:
+//   - depends_on /android_webview/browser/gfx/aw_gl_surface.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_AW_GL_SURFACE_EXTERNAL_STENCIL_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_AW_GL_SURFACE_EXTERNAL_STENCIL_H_
 

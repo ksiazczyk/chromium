@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwBrowserContext class declaration
+// summary: Declares AwBrowserContext, the WebView profile class managing storage paths, permissions, visited links, and prerendering limits.
+// relations:
+//   - depends_on /android_webview/browser/aw_contents_io_thread_client.h
+//   - depends_on /android_webview/browser/aw_contents_origin_matcher.h
+//   - implements /android_webview/browser/aw_context_permissions_delegate.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_BROWSER_CONTEXT_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_BROWSER_CONTEXT_H_
 

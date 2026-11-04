@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output surface provider class declaration
+// summary: Declares OutputSurfaceProviderWebView, which supplies output surfaces, renderer settings, the GL surface and shared context state to the viz compositor.
+// relations:
+//   - depends_on /android_webview/browser/gfx/aw_gl_surface.h
+//   - depends_on /android_webview/common/gfx/aw_gr_context_options_provider.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_OUTPUT_SURFACE_PROVIDER_WEBVIEW_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_OUTPUT_SURFACE_PROVIDER_WEBVIEW_H_
 

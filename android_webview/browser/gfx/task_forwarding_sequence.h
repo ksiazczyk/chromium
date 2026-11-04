@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskForwardingSequence class declaration
+// summary: Declares TaskForwardingSequence, a simple gpu::SingleTaskSequence wrapper that forwards all calls to the WebView's global TaskQueueWebView singleton.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - implements /gpu/command_buffer/service/single_task_sequence.h
+//   - implemented_by /android_webview/browser/gfx/task_forwarding_sequence.cc
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_TASK_FORWARDING_SEQUENCE_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_TASK_FORWARDING_SEQUENCE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView user agent metadata JNI conversion
+// summary: Converts user agent metadata between the Java AwUserAgentMetadata object and Blink's UserAgentMetadata, applying brand version overrides and mapping fields like platform, bitness, and form factors.
+// relations:
+//   - depends_on /android_webview/browser/aw_user_agent_metadata.h
+//   - depends_on /android_webview/browser/aw_client_hints_controller_delegate.h
+//   - depends_on /base/android/jni_array.h
+// ---
+
 #include "android_webview/browser/aw_user_agent_metadata.h"
 
 #include <vector>

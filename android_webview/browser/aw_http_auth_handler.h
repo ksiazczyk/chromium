@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwHttpAuthHandler class declaration
+// summary: Declares a LoginDelegate implementation that bridges the Java class of the same name for handling HTTP authentication challenges in WebView.
+// relations:
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_HTTP_AUTH_HANDLER_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_HTTP_AUTH_HANDLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwPermissionManager unit tests
+// summary: Unit tests for AwPermissionManager covering permission requests, responses, and cancellations across origins using a test permission request delegate.
+// relations:
+//   - tests /android_webview/browser/aw_permission_manager.h
+//   - depends_on /android_webview/browser/aw_browser_permission_request_delegate.h
+//   - depends_on /android_webview/browser/aw_context_permissions_delegate.h
+// ---
+
 #include "android_webview/browser/aw_permission_manager.h"
 
 #include <list>

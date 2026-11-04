@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuServiceWebView implementation
+// summary: Implements the GpuServiceWebView singleton, initializing GL and creating sync point, shared image and scheduler objects for WebView.
+// relations:
+//   - implements /android_webview/browser/gfx/gpu_service_webview.h
+//   - depends_on /base/command_line.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "android_webview/browser/gfx/gpu_service_webview.h"
 
 #include "base/command_line.h"

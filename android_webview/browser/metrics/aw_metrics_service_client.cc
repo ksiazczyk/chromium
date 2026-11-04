@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwMetricsServiceClient implementation
+// summary: Implements the WebView metrics service client singleton, handling consent, sampling, log trimming, and startup of metrics collection.
+// relations:
+//   - implements /android_webview/browser/metrics/aw_metrics_service_client.h
+// ---
+
 #include "android_webview/browser/metrics/aw_metrics_service_client.h"
 
 #include <jni.h>

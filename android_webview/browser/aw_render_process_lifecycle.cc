@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render process lifecycle state helpers
+// summary: Implements helpers that map renderer lifecycle states to names and classify a render process host as a never-used spare, kept-alive spare, or active.
+// relations:
+//   - implements /android_webview/browser/aw_render_process_lifecycle.h
+//   - depends_on /android_webview/browser/aw_render_process_keep_alive.h
+//   - depends_on /base/notreached.h
+// ---
+
 #include "android_webview/browser/aw_render_process_lifecycle.h"
 
 #include "android_webview/browser/aw_render_process_keep_alive.h"

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiple user profiles state utility implementation
+// summary: Implements GetMultipleUserProfilesState by querying the Android side through JNI for use in WebView metrics.
+// relations:
+//   - depends_on /android_webview/browser/metrics/system_state_util.h
+// ---
+
 #include "android_webview/browser/metrics/system_state_util.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

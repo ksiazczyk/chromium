@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android metrics provider implementation
+// summary: Emits histograms about multiple user profiles, primary CPU ABI bitness, and the AGSA process name as part of WebView's UMA reporting.
+// relations:
+//   - depends_on /android_webview/browser/metrics/android_metrics_provider.h
+//   - depends_on /android_webview/browser/metrics/system_state_util.h
+//   - depends_on /base/android/apk_info.h
+// ---
+
 #include "android_webview/browser/metrics/android_metrics_provider.h"
 
 #include <string>

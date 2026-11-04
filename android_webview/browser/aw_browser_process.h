@@ -4,6 +4,16 @@
 
 // This interface is for managing the global services of the application.
 
+// ---docerion
+// type: source
+// title: AwBrowserProcess class declaration
+// summary: Declares the singleton interface for managing global application services, including local state, policy connector, safe browsing managers, and OSCrypt access.
+// relations:
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_content_browser_client.h
+//   - depends_on /android_webview/browser/aw_enterprise_authentication_app_link_manager.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_BROWSER_PROCESS_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_BROWSER_PROCESS_H_
 

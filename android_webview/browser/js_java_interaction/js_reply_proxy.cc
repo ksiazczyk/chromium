@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsReplyProxy implementation
+// summary: Implements the JNI-backed JsReplyProxy that lets Java post web messages, execute JavaScript with result callbacks, and query cross-origin isolation via the WebMessageReplyProxy.
+// relations:
+//   - depends_on /android_webview/browser/js_java_interaction/js_reply_proxy.h
+//   - implements /android_webview/browser/js_java_interaction/js_reply_proxy.h
+//   - depends_on /base/android/jni_string.h
+// ---
+
 #include "android_webview/browser/js_java_interaction/js_reply_proxy.h"
 
 #include <utility>

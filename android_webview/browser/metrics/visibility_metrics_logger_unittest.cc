@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visibility metrics logger unit tests
+// summary: Unit tests for VisibilityMetricsLogger covering visibility duration accumulation, scheme tracking, and screen coverage histograms using a mock clock.
+// relations:
+//   - tests /android_webview/browser/metrics/visibility_metrics_logger.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/test/metrics/histogram_tester.h
+// ---
+
 #include "android_webview/browser/metrics/visibility_metrics_logger.h"
 
 #include "base/memory/raw_ptr.h"

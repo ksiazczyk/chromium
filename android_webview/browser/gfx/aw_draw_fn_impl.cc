@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwDrawFnImpl draw functor implementation
+// summary: Implements the AwDrawFn draw functor, handling GL and Vulkan draw callbacks, sync events and Vulkan secondary command buffer rendering.
+// relations:
+//   - depends_on /android_webview/browser/gfx/aw_draw_fn_impl.h
+//   - depends_on /android_webview/browser/gfx/aw_vulkan_context_provider.h
+//   - depends_on /base/android/android_info.h
+// ---
+
 #include "android_webview/browser/gfx/aw_draw_fn_impl.h"
 
 #include <array>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visibility metrics logger header
+// summary: Declares VisibilityMetricsLogger, which tracks WebView visibility durations, schemes, and screen coverage for UMA reporting.
+// relations:
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_METRICS_VISIBILITY_METRICS_LOGGER_H_
 #define ANDROID_WEBVIEW_BROWSER_METRICS_VISIBILITY_METRICS_LOGGER_H_
 

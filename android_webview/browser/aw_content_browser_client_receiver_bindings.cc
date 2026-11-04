@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo receiver bindings for the WebView content browser client
+// summary: Registers browser-side Mojo interface binders for renderer connections, covering media DRM storage, safe browsing, spellcheck, autofill, metrics, and related services.
+// relations:
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_print_manager.h
+//   - depends_on /android_webview/browser/renderer_host/aw_render_view_host_ext.h
+// ---
+
 #include "android_webview/browser/aw_browser_context.h"
 #include "android_webview/browser/aw_content_browser_client.h"
 #include "android_webview/browser/aw_print_manager.h"

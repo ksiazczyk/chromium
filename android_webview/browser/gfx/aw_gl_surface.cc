@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwGLSurface EGL surface for WebView hardware draw
+// summary: Implements an EGL GL surface representing the app-provided surface for WebView hardware drawing, including ANGLE pbuffer and wrapped surface support.
+// relations:
+//   - depends_on /android_webview/browser/gfx/aw_gl_surface.h
+//   - depends_on /android_webview/browser/gfx/scoped_app_gl_state_restore.h
+//   - depends_on /ui/gl/gl_bindings.h
+// ---
+
 #include "android_webview/browser/gfx/aw_gl_surface.h"
 
 #include <utility>

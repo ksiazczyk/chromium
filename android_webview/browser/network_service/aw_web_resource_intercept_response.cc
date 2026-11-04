@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebResourceInterceptResponse JNI wrapper implementation
+// summary: Implements the C++ wrapper around the Java AwWebResourceInterceptResponse object, exposing whether an exception was raised and the intercepted web resource response.
+// relations:
+//   - implements /android_webview/browser/network_service/aw_web_resource_intercept_response.h
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /components/embedder_support/android/util/web_resource_response.h
+// ---
+
 #include "android_webview/browser/network_service/aw_web_resource_intercept_response.h"
 
 #include <memory>

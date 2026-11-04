@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserViewRenderer implementation
+// summary: Implements the BrowserViewRenderer, coordinating software and hardware rendering, compositor frames, visibility, scroll state and the Capture Picture API for WebView.
+// relations:
+//   - depends_on /android_webview/browser/gfx/browser_view_renderer.h
+//   - depends_on /android_webview/browser/gfx/browser_view_renderer_client.h
+//   - depends_on /android_webview/browser/gfx/compositor_frame_consumer.h
+// ---
+
 #include "android_webview/browser/gfx/browser_view_renderer.h"
 
 #include <algorithm>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root frame sink proxy class declaration
+// summary: Declares RootFrameSinkProxy, a per-AwContents object straddling the UI and viz threads that creates the RootFrameSink and forwards calls to it, plus its client interface.
+// relations:
+//   - depends_on /android_webview/browser/gfx/root_frame_sink.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/task/single_thread_task_runner.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_ROOT_FRAME_SINK_PROXY_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_ROOT_FRAME_SINK_PROXY_H_
 

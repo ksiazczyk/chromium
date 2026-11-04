@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent compositor draw constraints declaration
+// summary: Declares the ParentCompositorDrawConstraints struct holding the viewport size and transform used to validate child frame drawing.
+// relations:
+//   - depends_on /ui/gfx/geometry/size.h
+//   - depends_on /ui/gfx/geometry/transform.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_PARENT_COMPOSITOR_DRAW_CONSTRAINTS_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_PARENT_COMPOSITOR_DRAW_CONSTRAINTS_H_
 

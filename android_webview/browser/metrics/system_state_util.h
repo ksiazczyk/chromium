@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System state utilities header
+// summary: Declares enums and functions for system state metrics covering user profiles, CPU ABI bitness, and AGSA process name classification.
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_METRICS_SYSTEM_STATE_UTIL_H_
 #define ANDROID_WEBVIEW_BROWSER_METRICS_SYSTEM_STATE_UTIL_H_
 

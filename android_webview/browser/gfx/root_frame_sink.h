@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root frame sink class declaration
+// summary: Declares RootFrameSink and its client interface, holding per-AwContents viz-thread state for begin frames, frame submission, and resource reclamation without requiring GPU access.
+// relations:
+//   - depends_on /base/containers/flat_set.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_ROOT_FRAME_SINK_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_ROOT_FRAME_SINK_H_
 

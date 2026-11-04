@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsClientBridge implementation
+// summary: Implements the Java-to-native bridge for the WebView client, covering certificate errors, client certificate selection, JavaScript dialogs, and HTTP error reporting.
+// relations:
+//   - implements /android_webview/browser/aw_contents_client_bridge.h
+//   - depends_on /android_webview/browser/network_service/net_helpers.h
+//   - depends_on /android_webview/common/devtools_instrumentation.h
+// ---
+
 #include "android_webview/browser/aw_contents_client_bridge.h"
 
 #include <memory>

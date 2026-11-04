@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwPreconnector unit tests
+// summary: Unit tests for AwPreconnector using a stub NetworkContext to verify preconnect calls, shared dictionary prewarming, and connection observer behavior.
+// relations:
+//   - tests /android_webview/browser/aw_preconnector.h
+//   - depends_on /android_webview/common/aw_features.h
+//   - depends_on /base/containers/flat_map.h
+// ---
+
 #include "android_webview/browser/aw_preconnector.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root frame sink implementation
+// summary: Implements the RootFrameSink that manages per-AwContents compositor frame sinks on the viz thread, submitting root and child frames and handling resource returns.
+// relations:
+//   - implements /android_webview/browser/gfx/root_frame_sink.h
+//   - depends_on /android_webview/browser/gfx/child_frame.h
+//   - depends_on /android_webview/browser/gfx/display_scheduler_webview.h
+// ---
+
 #include "android_webview/browser/gfx/root_frame_sink.h"
 
 #include <algorithm>

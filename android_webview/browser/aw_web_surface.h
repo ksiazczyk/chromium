@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebSurface overscroll bridge header
+// summary: Declares AwWebSurface, a WebContents user data class bridging overscroll events between the browser view renderer and the Java surface's event listener.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /content/public/browser/web_contents_user_data.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_WEB_SURFACE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_WEB_SURFACE_H_
 

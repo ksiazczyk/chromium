@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView download interception delegate
+// summary: Implements the download manager delegate that intercepts downloads and forwards them to the WebView client instead of using Chromium downloads.
+// relations:
+//   - implements /android_webview/browser/aw_download_manager_delegate.h
+//   - depends_on /android_webview/browser/aw_content_browser_client.h
+//   - depends_on /android_webview/browser/aw_contents_client_bridge.h
+// ---
+
 #include "android_webview/browser/aw_download_manager_delegate.h"
 
 #include "android_webview/browser/aw_content_browser_client.h"

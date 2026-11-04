@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory metrics logger implementation
+// summary: Logs WebView memory heartbeat metrics, including renderer private memory footprint split by renderer lifecycle state, via memory instrumentation dumps.
+// relations:
+//   - depends_on /android_webview/browser/metrics/memory_metrics_logger.h
+//   - depends_on /android_webview/browser/aw_render_process_lifecycle.h
+//   - depends_on /base/compiler_specific.h
+// ---
+
 #include "android_webview/browser/metrics/memory_metrics_logger.h"
 
 #include <string_view>

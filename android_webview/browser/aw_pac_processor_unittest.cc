@@ -1,6 +1,17 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: AwPacProcessor unit tests
+// summary: Tests proxy script parsing, proxy requests, DNS-based scripts, multiple processors, and destruction with pending jobs.
+// relations:
+//   - depends_on /android_webview/browser/aw_pac_processor.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/synchronization/waitable_event.h
+// ---
+
 #include "android_webview/browser/aw_pac_processor.h"
 
 #include <android/multinetwork.h>

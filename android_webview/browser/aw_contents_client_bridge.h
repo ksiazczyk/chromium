@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsClientBridge class declaration
+// summary: Declares the bridge class that forwards WebView client callbacks such as certificate errors, client certificate selection, JavaScript dialogs, and URL loading overrides between Java and native code.
+// relations:
+//   - depends_on /android_webview/browser/network_service/aw_web_resource_request.h
+//   - depends_on /android_webview/browser/safe_browsing/aw_url_checker_delegate_impl.h
+//   - depends_on /base/android/jni_weak_ref.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_CONTENTS_CLIENT_BRIDGE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_CONTENTS_CLIENT_BRIDGE_H_
 

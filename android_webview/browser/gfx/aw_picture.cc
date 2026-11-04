@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPicture JNI bridge for SkPicture drawing
+// summary: Implements the JNI bridge for AwPicture, exposing SkPicture width, height and drawing to a Java canvas for software rendering.
+// relations:
+//   - depends_on /android_webview/browser/gfx/aw_picture.h
+//   - implements /android_webview/browser/gfx/aw_picture.h
+//   - depends_on /android_webview/browser/gfx/java_browser_view_renderer_helper.h
+// ---
+
 #include "android_webview/browser/gfx/aw_picture.h"
 
 #include "android_webview/browser/gfx/java_browser_view_renderer_helper.h"

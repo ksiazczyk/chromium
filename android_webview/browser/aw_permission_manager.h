@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPermissionManager class declaration
+// summary: Declares AwPermissionManager, the PermissionControllerDelegate for WebView that manages permission requests, status lookups, and enumerate-devices label access.
+// relations:
+//   - depends_on /android_webview/browser/aw_context_permissions_delegate.h
+//   - depends_on /base/containers/id_map.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_PERMISSION_MANAGER_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_PERMISSION_MANAGER_H_
 

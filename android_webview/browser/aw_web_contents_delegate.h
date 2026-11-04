@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView WebContentsDelegate interface
+// summary: Declares the WebView-specific WebContentsDelegate covering dialogs, file selection, fullscreen, media permissions, back-forward cache, and prerendering support.
+// relations:
+//   - depends_on /base/memory/scoped_refptr.h
+//   - depends_on /components/embedder_support/android/delegate/web_contents_delegate_android.h
+//   - references /android_webview/docs/how-does-on-create-window-work.md
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_WEB_CONTENTS_DELEGATE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_WEB_CONTENTS_DELEGATE_H_
 

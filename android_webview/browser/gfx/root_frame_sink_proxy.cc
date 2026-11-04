@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root frame sink proxy implementation
+// summary: Implements the RootFrameSinkProxy that creates the RootFrameSink on the viz thread and routes begin frame, invalidation, and resource return calls between the UI and viz threads.
+// relations:
+//   - implements /android_webview/browser/gfx/root_frame_sink_proxy.h
+//   - depends_on /android_webview/browser/gfx/root_frame_sink.h
+//   - depends_on /android_webview/browser/gfx/viz_compositor_thread_runner_webview.h
+// ---
+
 #include "android_webview/browser/gfx/root_frame_sink_proxy.h"
 
 #include <utility>

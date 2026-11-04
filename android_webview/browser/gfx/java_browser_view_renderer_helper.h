@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Software canvas holder declaration
+// summary: Declares the SoftwareCanvasHolder interface and the function that registers the software draw function table used for Java canvas rendering.
+// relations:
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /ui/gfx/geometry/point.h
+//   - depends_on /ui/gfx/geometry/size.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_JAVA_BROWSER_VIEW_RENDERER_HELPER_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_JAVA_BROWSER_VIEW_RENDERER_HELPER_H_
 

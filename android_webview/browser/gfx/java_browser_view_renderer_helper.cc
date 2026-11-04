@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java browser view renderer helper implementation
+// summary: Implements software drawing support that renders WebView content onto Android Java canvases, either by accessing canvas pixels directly or via an auxiliary bitmap.
+// relations:
+//   - implements /android_webview/browser/gfx/java_browser_view_renderer_helper.h
+//   - depends_on /android_webview/public/browser/draw_sw.h
+//   - depends_on /base/android/scoped_java_ref.h
+// ---
+
 #include "android_webview/browser/gfx/java_browser_view_renderer_helper.h"
 
 #include <android/bitmap.h>

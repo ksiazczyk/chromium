@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidMetricsProvider class declaration
+// summary: Declares the metrics provider that logs Android system-level and process information, including the primary CPU ABI bitness preference.
+// relations:
+//   - depends_on /base/component_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /components/metrics/metrics_provider.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_METRICS_ANDROID_METRICS_PROVIDER_H_
 #define ANDROID_WEBVIEW_BROWSER_METRICS_ANDROID_METRICS_PROVIDER_H_
 

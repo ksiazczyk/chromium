@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwCrashKeys implementation
+// summary: Records command-line switches and enabled or disabled feature states as dynamically named crash keys for WebView crash reporting.
+// relations:
+//   - implements /android_webview/browser/aw_crash_keys.h
+//   - depends_on /base/no_destructor.h
+//   - depends_on /base/strings/string_number_conversions.h
+// ---
+
 #include "android_webview/browser/aw_crash_keys.h"
 
 #include <deque>

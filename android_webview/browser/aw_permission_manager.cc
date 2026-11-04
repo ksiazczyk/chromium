@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPermissionManager implementation
+// summary: Implements the WebView permission controller delegate, handling permission requests, status queries, and cached results for geolocation and other permission types.
+// relations:
+//   - implements /android_webview/browser/aw_permission_manager.h
+//   - depends_on /android_webview/browser/aw_browser_permission_request_delegate.h
+//   - depends_on /android_webview/browser/aw_contents.h
+// ---
+
 #include "android_webview/browser/aw_permission_manager.h"
 
 #include <memory>

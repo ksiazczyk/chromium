@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskQueueWebView class declaration
+// summary: Declares TaskQueueWebView, the singleton that schedules and runs all WebView GPU tasks for both CommandBuffer and SkiaDDL.
+// relations:
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/scoped_refptr.h
+//   - depends_on /base/synchronization/condition_variable.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_TASK_QUEUE_WEBVIEW_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_TASK_QUEUE_WEBVIEW_H_
 

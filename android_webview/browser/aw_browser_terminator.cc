@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwBrowserTerminator implementation
+// summary: Implements handling of render process crashes and kills, recording result metrics, notifying render-process-gone delegates, and triggering Java minidump uploads.
+// relations:
+//   - depends_on /android_webview/browser/aw_browser_terminator.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+//   - depends_on /android_webview/browser/aw_render_process.h
+// ---
+
 #include "android_webview/browser/aw_browser_terminator.h"
 
 #include <unistd.h>

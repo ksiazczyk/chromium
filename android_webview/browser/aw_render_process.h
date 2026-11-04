@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRenderProcess header
+// summary: Declares AwRenderProcess, the native handle for a renderer process that owns its Java peer and tracks render view readiness and process usage.
+// relations:
+//   - depends_on /base/android/child_process_binding_types.h
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_RENDER_PROCESS_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_RENDER_PROCESS_H_
 

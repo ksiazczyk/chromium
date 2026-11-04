@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPolicyBlocklistServiceFactory declaration
+// summary: Declares AwPolicyBlocklistServiceFactory, the keyed service factory that provides the policy URL blocklist service to WebView browser contexts.
+// relations:
+//   - depends_on /base/no_destructor.h
+//   - depends_on /components/keyed_service/content/browser_context_keyed_service_factory.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_POLICY_BLOCKLIST_SERVICE_FACTORY_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_POLICY_BLOCKLIST_SERVICE_FACTORY_H_
 

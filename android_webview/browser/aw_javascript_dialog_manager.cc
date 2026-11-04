@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwJavaScriptDialogManager implementation
+// summary: Implements the JavaScript dialog manager that forwards JS and before-unload dialogs to the WebView contents client bridge using last committed URLs.
+// relations:
+//   - implements /android_webview/browser/aw_javascript_dialog_manager.h
+//   - depends_on /android_webview/browser/aw_contents_client_bridge.h
+//   - depends_on /content/public/browser/javascript_dialog_manager.h
+// ---
+
 #include "android_webview/browser/aw_javascript_dialog_manager.h"
 
 #include <utility>

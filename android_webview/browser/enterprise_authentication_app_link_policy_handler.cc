@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise authentication app link policy handler
+// summary: Validates and applies the EnterpriseAuthenticationAppLink policy, checking URL filter entries and writing the filtered URL list into preferences.
+// relations:
+//   - implements /android_webview/browser/enterprise_authentication_app_link_policy_handler.h
+//   - depends_on /base/strings/string_number_conversions.h
+//   - depends_on /base/strings/string_util.h
+// ---
+
 #include "android_webview/browser/enterprise_authentication_app_link_policy_handler.h"
 
 #include <memory>

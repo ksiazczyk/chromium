@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwNavigationClient implementation
+// summary: Notifies the Java AwNavigationClient about first and largest contentful paint and performance marks via JNI.
+// relations:
+//   - depends_on /android_webview/browser/aw_navigation_client.h
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /base/android/jni_string.h
+// ---
+
 #include "android_webview/browser/aw_navigation_client.h"
 
 #include "base/android/jni_android.h"

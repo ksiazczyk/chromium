@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPrintManager header
+// summary: Declares the AwPrintManager class, a per-WebContents print manager that manages print settings, the PDF output file descriptor, and print completion callbacks.
+// relations:
+//   - depends_on /base/file_descriptor_posix.h
+//   - depends_on /base/files/scoped_file.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_PRINT_MANAGER_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_PRINT_MANAGER_H_
 

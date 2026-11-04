@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware renderer class declaration
+// summary: Declares the HardwareRenderer class plus draw and overlay parameter structs used to render child compositor frames on the WebView render thread.
+// relations:
+//   - depends_on /android_webview/browser/gfx/child_frame.h
+//   - depends_on /android_webview/browser/gfx/output_surface_provider_webview.h
+//   - depends_on /android_webview/browser/gfx/root_frame_sink.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_HARDWARE_RENDERER_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_HARDWARE_RENDERER_H_
 

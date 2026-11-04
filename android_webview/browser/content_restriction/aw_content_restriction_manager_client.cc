@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentRestrictionManagerClient implementation
+// summary: Implements the browser-side client that talks to the ContentRestrictionManager system service via JNI, including classification request tracking with timeouts.
+// relations:
+//   - implements /android_webview/browser/content_restriction/aw_content_restriction_manager_client.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+//   - depends_on /android_webview/common/aw_features.h
+// ---
+
 #include "android_webview/browser/content_restriction/aw_content_restriction_manager_client.h"
 
 #include "android_webview/browser/aw_browser_process.h"

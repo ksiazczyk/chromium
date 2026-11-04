@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildFrame class declaration
+// summary: Declares ChildFrame, which holds a compositor frame, surface IDs, draw constraints and metadata, plus the ChildFrameQueue typedef.
+// relations:
+//   - depends_on /base/containers/circular_deque.h
+//   - depends_on /base/threading/platform_thread.h
+//   - depends_on /components/viz/common/frame_sinks/begin_frame_args.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_CHILD_FRAME_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_CHILD_FRAME_H_
 

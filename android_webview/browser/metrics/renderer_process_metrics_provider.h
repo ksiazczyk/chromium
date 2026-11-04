@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer process metrics provider header
+// summary: Declares a metrics provider that logs whether a WebView instance runs in single-process or multi-process renderer mode.
+// relations:
+//   - depends_on /components/metrics/metrics_provider.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_METRICS_RENDERER_PROCESS_METRICS_PROVIDER_H_
 #define ANDROID_WEBVIEW_BROWSER_METRICS_RENDERER_PROCESS_METRICS_PROVIDER_H_
 

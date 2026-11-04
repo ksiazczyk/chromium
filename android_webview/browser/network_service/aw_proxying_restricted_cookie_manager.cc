@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwProxyingRestrictedCookieManager implementation
+// summary: Implements a RestrictedCookieManager proxy that consults WebView cookie settings to allow or filter cookie access and change notifications before delegating to the underlying Chromium manager.
+// relations:
+//   - implements /android_webview/browser/network_service/aw_proxying_restricted_cookie_manager.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_cookie_access_policy.h
+// ---
+
 #include "android_webview/browser/network_service/aw_proxying_restricted_cookie_manager.h"
 
 #include <memory>

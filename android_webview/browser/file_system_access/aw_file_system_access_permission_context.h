@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView file system access permission context class declaration
+// summary: Declares the WebView implementation of FileSystemAccessPermissionContext, which allows all file access except a blocklist of engine-internal paths.
+// relations:
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /content/public/browser/file_system_access_permission_context.h
+//   - implements /content/public/browser/file_system_access_permission_context.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_FILE_SYSTEM_ACCESS_AW_FILE_SYSTEM_ACCESS_PERMISSION_CONTEXT_H_
 #define ANDROID_WEBVIEW_BROWSER_FILE_SYSTEM_ACCESS_AW_FILE_SYSTEM_ACCESS_PERMISSION_CONTEXT_H_
 

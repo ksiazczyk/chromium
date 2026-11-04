@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwQuotaManagerBridge implementation
+// summary: Implements the Java-native bridge for querying storage origins, usage and quota, and for deleting browsing data via the QuotaManager and BrowsingDataRemover.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/memory/scoped_refptr.h
+//   - depends_on /content/public/browser/browser_thread.h
+// ---
+
 #include "android_webview/browser/aw_quota_manager_bridge.h"
 
 #include <memory>

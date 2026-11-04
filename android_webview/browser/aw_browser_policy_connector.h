@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwBrowserPolicyConnector class declaration
+// summary: Declares the connector that sets up browser-global policy objects such as the PolicyService and the platform-specific Android policy provider.
+// relations:
+//   - depends_on /components/policy/core/browser/browser_policy_connector_base.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_BROWSER_POLICY_CONNECTOR_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_BROWSER_POLICY_CONNECTOR_H_
 

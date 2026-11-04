@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidMetricsLogUploader class declaration
+// summary: Declares the MetricsLogUploader subclass that uploads logs via the platform mechanism and can filter log data in place.
+// relations:
+//   - depends_on /components/metrics/metrics_log.h
+//   - depends_on /components/metrics/metrics_log_uploader.h
+//   - implemented_by /android_webview/browser/metrics/android_metrics_log_uploader.cc
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_METRICS_ANDROID_METRICS_LOG_UPLOADER_H_
 #define ANDROID_WEBVIEW_BROWSER_METRICS_ANDROID_METRICS_LOG_UPLOADER_H_
 

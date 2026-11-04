@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics test utilities implementation
+// summary: Implements shared test helpers for WebView metrics tests, including a stub delegate, a test client, and a fixture that manages the client singleton.
+// relations:
+//   - implements /android_webview/browser/metrics/aw_metrics_test_utils.h
+//   - depends_on /android_webview/browser/metrics/aw_metrics_service_accessor.h
+//   - depends_on /base/metrics/user_metrics.h
+// ---
+
 #include "android_webview/browser/metrics/aw_metrics_test_utils.h"
 
 #include "android_webview/browser/metrics/aw_metrics_service_accessor.h"

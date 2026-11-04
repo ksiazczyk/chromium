@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL host state delegate implementation
+// summary: Implements per-host certificate error allow exceptions for WebView, with intentional no-ops for insecure content tracking and HTTPS-First Mode.
+// relations:
+//   - depends_on /android_webview/browser/aw_ssl_host_state_delegate.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /net/base/hash_value.h
+// ---
+
 #include "android_webview/browser/aw_ssl_host_state_delegate.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwHttpCacheManager implementation
+// summary: Implements HTTP cache management for WebView, including the per-profile cache quota preference, the quota API, and related usage metrics.
+// relations:
+//   - implements /android_webview/browser/aw_http_cache_manager.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/network_service/net_helpers.h
+// ---
+
 #include "android_webview/browser/aw_http_cache_manager.h"
 
 #include <algorithm>

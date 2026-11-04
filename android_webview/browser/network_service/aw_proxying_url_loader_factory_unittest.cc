@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwProxyingURLLoaderFactory unit tests
+// summary: Unit tests for the WebView proxying URL loader factory that exercise loader creation and redirect following against a test URL loader factory and client.
+// relations:
+//   - tests /android_webview/browser/network_service/aw_proxying_url_loader_factory.h
+//   - depends_on /android_webview/browser/network_service/aw_proxying_url_loader_factory.h
+//   - depends_on /android_webview/browser/http_headers/aw_origin_matched_header.h
+// ---
+
 #include "android_webview/browser/network_service/aw_proxying_url_loader_factory.h"
 
 #include <memory>

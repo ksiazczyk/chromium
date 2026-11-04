@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwFieldTrials implementation
+// summary: Implements WebView-specific feature overrides, disabling features such as third-party storage partitioning and enabling persistent histograms after variations setup.
+// relations:
+//   - implements /android_webview/browser/aw_field_trials.h
+//   - depends_on /android_webview/browser/metrics/aw_metrics_service_client.h
+//   - depends_on /android_webview/common/aw_features.h
+// ---
+
 #include "android_webview/browser/aw_field_trials.h"
 
 #include "android_webview/browser/metrics/aw_metrics_service_client.h"

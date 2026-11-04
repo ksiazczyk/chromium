@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwGLSurface class declaration
+// summary: Declares the AwGLSurface class representing the underlying surface provided by the app during hardware draw, with ANGLE and wrapped surface support.
+// relations:
+//   - depends_on /ui/gfx/geometry/rect.h
+//   - depends_on /ui/gfx/geometry/transform.h
+//   - depends_on /ui/gl/gl_display.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_AW_GL_SURFACE_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_AW_GL_SURFACE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwHttpAuthHandler implementation
+// summary: Implements the native HTTP authentication handler that bridges the Java AwHttpAuthHandler to the content login delegate, reporting credentials or cancellation.
+// relations:
+//   - implements /android_webview/browser/aw_http_auth_handler.h
+//   - depends_on /android_webview/browser/aw_contents.h
+//   - depends_on /base/android/jni_android.h
+// ---
+
 #include "android_webview/browser/aw_http_auth_handler.h"
 
 #include <optional>

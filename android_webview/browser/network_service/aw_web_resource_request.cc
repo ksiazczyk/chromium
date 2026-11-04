@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebResourceRequest implementation
+// summary: Implements the AwWebResourceRequest struct, converting network::ResourceRequest data into the WebView request representation and bridging it to Java via JNI.
+// relations:
+//   - depends_on /android_webview/browser/network_service/aw_web_resource_request.h
+//   - depends_on /android_webview/browser/network_service/net_helpers.h
+//   - depends_on /net/http/http_request_headers.h
+// ---
+
 #include "android_webview/browser/network_service/aw_web_resource_request.h"
 
 #include "android_webview/browser/network_service/net_helpers.h"

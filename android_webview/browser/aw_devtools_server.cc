@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView DevTools remote debugging server
+// summary: Starts and stops the WebView DevTools server over Unix domain or TCP sockets, with socket factories for HTTP and tethering.
+// relations:
+//   - implements /android_webview/browser/aw_devtools_server.h
+//   - depends_on /base/command_line.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #include "android_webview/browser/aw_devtools_server.h"
 
 #include <utility>

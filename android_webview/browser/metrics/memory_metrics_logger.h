@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory metrics logger header
+// summary: Declares the MemoryMetricsLogger class that periodically records memory-related heartbeat metrics on a background task runner until destroyed.
+// relations:
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /base/memory/scoped_refptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_METRICS_MEMORY_METRICS_LOGGER_H_
 #define ANDROID_WEBVIEW_BROWSER_METRICS_MEMORY_METRICS_LOGGER_H_
 

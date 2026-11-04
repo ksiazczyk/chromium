@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView network helper functions implementation
+// summary: Implements helpers that update net load flags from WebView cache modes and blocking settings, decide whether a URL should be blocked, and compute the default HTTP cache size.
+// relations:
+//   - depends_on /android_webview/browser/network_service/net_helpers.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+//   - depends_on /android_webview/browser/aw_contents_io_thread_client.h
+// ---
+
 #include "android_webview/browser/network_service/net_helpers.h"
 
 #include "android_webview/browser/aw_browser_process.h"

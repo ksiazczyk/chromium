@@ -1,3 +1,9 @@
+---
+type: readme
+title: //android_webview/browser/
+summary: Explains that the folder holds WebView's browser-specific native code and outlines its allowed folder dependencies.
+---
+
 # //android\_webview/browser/
 
 This folder holds WebView's browser-specific native code.

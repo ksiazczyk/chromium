@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup touch handle drawable implementation
+// summary: Implements a touch selection handle drawable backed by an Android PopupWindow over JNI, controlling visibility, orientation, position and alpha.
+// relations:
+//   - implements /android_webview/browser/popup_touch_handle_drawable.h
+// ---
+
 #include "android_webview/browser/popup_touch_handle_drawable.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

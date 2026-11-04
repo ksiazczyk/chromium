@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAppGLStateRestoreImplAngle implementation
+// summary: Implements the ANGLE variant of ScopedAppGLStateRestore, loading EGL and GL entry points and saving or restoring the app's GL state such as stencil settings.
+// relations:
+//   - depends_on /android_webview/browser/gfx/scoped_app_gl_state_restore_impl_angle.h
+//   - implements /android_webview/browser/gfx/scoped_app_gl_state_restore_impl_angle.h
+//   - depends_on /base/android/android_info.h
+// ---
+
 #include "android_webview/browser/gfx/scoped_app_gl_state_restore_impl_angle.h"
 
 #include <EGL/egl.h>

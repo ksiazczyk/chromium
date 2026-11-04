@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView WebContentsDelegate implementation
+// summary: Implements WebView-specific WebContentsDelegate behavior such as renderer responsiveness monitoring, JavaScript dialogs, file chooser, media access permissions, and new window creation.
+// relations:
+//   - implements /android_webview/browser/aw_web_contents_delegate.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_contents.h
+// ---
+
 #include "android_webview/browser/aw_web_contents_delegate.h"
 
 #include <utility>

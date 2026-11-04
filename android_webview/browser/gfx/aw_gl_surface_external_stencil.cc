@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwGLSurfaceExternalStencil implementation
+// summary: Implements a GL surface with external stencil support, using a blit shader program and framebuffer to render WebView content with stencil clipping.
+// relations:
+//   - depends_on /android_webview/browser/gfx/aw_gl_surface_external_stencil.h
+//   - implements /android_webview/browser/gfx/aw_gl_surface_external_stencil.h
+//   - depends_on /android_webview/browser/gfx/scoped_app_gl_state_restore.h
+// ---
+
 #include "android_webview/browser/gfx/aw_gl_surface_external_stencil.h"
 
 #include "android_webview/browser/gfx/scoped_app_gl_state_restore.h"

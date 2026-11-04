@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebSurface overscroll bridge implementation
+// summary: Native counterpart of the Java AwWebSurface that attaches to a WebContents as user data and forwards overscroll deltas and fling velocity from the browser view renderer to Java.
+// relations:
+//   - implements /android_webview/browser/aw_web_surface.h
+//   - depends_on /android_webview/browser/gfx/browser_view_renderer.h
+//   - depends_on /base/android/jni_android.h
+// ---
+
 #include "android_webview/browser/aw_web_surface.h"
 
 #include "android_webview/browser/gfx/browser_view_renderer.h"

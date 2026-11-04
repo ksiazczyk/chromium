@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWindow implementation for WebView rendering tests
+// summary: Implements a fake Android window that drives BrowserViewRenderer draws, invalidations, and functor invocation on a dedicated render thread during WebView gfx tests.
+// relations:
+//   - implements /android_webview/browser/gfx/test/fake_window.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /android_webview/browser/gfx/browser_view_renderer.h
+// ---
+
 #include "android_webview/browser/gfx/test/fake_window.h"
 #include "base/memory/raw_ptr.h"
 

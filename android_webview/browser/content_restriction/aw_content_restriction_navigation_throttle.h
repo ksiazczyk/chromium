@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentRestrictionNavigationThrottle class declaration
+// summary: Declares the navigation throttle that presents a custom error page for navigations blocked by content restriction.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /content/public/browser/navigation_throttle.h
+//   - depends_on /content/public/browser/navigation_throttle_registry.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_CONTENT_RESTRICTION_AW_CONTENT_RESTRICTION_NAVIGATION_THROTTLE_H_
 #define ANDROID_WEBVIEW_BROWSER_CONTENT_RESTRICTION_AW_CONTENT_RESTRICTION_NAVIGATION_THROTTLE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwProxyingURLLoaderFactory class declaration
+// summary: Declares the WebView URL loader factory entry point that handles interception, load flags and headers, android asset and resource loading, and error callbacks, with the factory and loaders living on the IO thread.
+// relations:
+//   - depends_on /android_webview/browser/aw_cookie_access_policy.h
+//   - depends_on /android_webview/browser/http_headers/aw_header_interceptor_store.h
+//   - depends_on /android_webview/browser/http_headers/aw_origin_matched_header.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_PROXYING_URL_LOADER_FACTORY_H_
 #define ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_PROXYING_URL_LOADER_FACTORY_H_
 

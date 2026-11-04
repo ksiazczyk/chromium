@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwOriginMatchedHeader implementation
+// summary: Implements immutable header name-value pairs with origin matching rules, including merging matchers, combining matching headers case-insensitively with comma-joined values, and JNI conversion.
+// relations:
+//   - implements /android_webview/browser/http_headers/aw_origin_matched_header.h
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /base/android/jni_array.h
+// ---
+
 #include "android_webview/browser/http_headers/aw_origin_matched_header.h"
 
 #include <string>

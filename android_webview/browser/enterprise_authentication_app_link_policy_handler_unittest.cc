@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise authentication app link policy handler tests
+// summary: Tests that valid EnterpriseAuthenticationAppLink policy URL lists are applied to prefs and that invalid entries are rejected.
+// relations:
+//   - tests /android_webview/browser/enterprise_authentication_app_link_policy_handler.h
+//   - depends_on /android_webview/browser/aw_enterprise_authentication_app_link_manager.h
+//   - depends_on /base/json/json_reader.h
+// ---
+
 #include "android_webview/browser/enterprise_authentication_app_link_policy_handler.h"
 
 #include "android_webview/browser/aw_enterprise_authentication_app_link_manager.h"

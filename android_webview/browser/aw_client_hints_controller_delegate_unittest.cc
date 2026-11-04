@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android WebView client hints controller delegate unit tests
+// summary: Unit tests for the WebView client hints delegate covering network quality tracker absence, origin validation for allowed hints, and persistence of client hints.
+// relations:
+//   - tests /android_webview/browser/aw_client_hints_controller_delegate.h
+//   - depends_on /base/memory/ref_counted.h
+//   - depends_on /components/embedder_support/user_agent_utils.h
+// ---
+
 #include "android_webview/browser/aw_client_hints_controller_delegate.h"
 
 #include "base/memory/ref_counted.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPdfExporter class declaration
+// summary: Declares the AwPdfExporter class, the native counterpart of the Java AwPdfExporter that exports WebContents to PDF and is owned by AwContents.
+// relations:
+//   - depends_on /base/android/jni_weak_ref.h
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_PDF_EXPORTER_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_PDF_EXPORTER_H_
 

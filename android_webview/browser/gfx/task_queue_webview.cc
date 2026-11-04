@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskQueueWebView implementation
+// summary: Implements the WebView singleton task queue that schedules and runs GPU tasks, blocking the render thread on the viz thread during scheduling.
+// relations:
+//   - depends_on /android_webview/browser/gfx/task_queue_webview.h
+//   - depends_on /android_webview/browser/gfx/gpu_service_webview.h
+//   - depends_on /base/auto_reset.h
+// ---
+
 #include "android_webview/browser/gfx/task_queue_webview.h"
 
 #include <memory>

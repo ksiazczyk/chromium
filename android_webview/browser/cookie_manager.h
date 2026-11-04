@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView cookie manager class declaration
+// summary: Declares the CookieManager that creates and owns WebView's CookieStore, documenting its threading model and provisional-to-mojo store handoff during network service initialization.
+// relations:
+//   - depends_on /android_webview/browser/aw_cookie_access_policy.h
+//   - depends_on /base/android/jni_array.h
+//   - depends_on /base/android/scoped_java_ref.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_COOKIE_MANAGER_H_
 #define ANDROID_WEBVIEW_BROWSER_COOKIE_MANAGER_H_
 

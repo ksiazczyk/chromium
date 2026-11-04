@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwFeatureListCreator class declaration
+// summary: Declares the class WebView uses to create the feature list and field trials from stored variations seed data and to hand over the local state PrefService.
+// relations:
+//   - depends_on /android_webview/browser/aw_browser_policy_connector.h
+//   - depends_on /android_webview/browser/aw_field_trials.h
+//   - depends_on /android_webview/browser/variations/aw_variations_service_client.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_FEATURE_LIST_CREATOR_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_FEATURE_LIST_CREATOR_H_
 

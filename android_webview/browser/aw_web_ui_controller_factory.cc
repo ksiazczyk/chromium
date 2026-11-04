@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView WebUI controller factory
+// summary: Singleton factory that creates WebUI controllers and types for WebView's Safe Browsing and user actions WebUI pages based on the URL host.
+// relations:
+//   - implements /android_webview/browser/aw_web_ui_controller_factory.h
+//   - depends_on /android_webview/browser/safe_browsing/aw_safe_browsing_local_state_delegate_impl.h
+//   - depends_on /android_webview/browser/safe_browsing/aw_safe_browsing_ui.h
+// ---
+
 #include "android_webview/browser/aw_web_ui_controller_factory.h"
 
 #include <string_view>

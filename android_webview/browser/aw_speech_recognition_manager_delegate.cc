@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition manager delegate implementation
+// summary: Implements the WebView speech recognition manager delegate, allowing recognition sessions and routing permission checks for guest frames to the embedder.
+// relations:
+//   - implements /android_webview/browser/aw_speech_recognition_manager_delegate.h
+//   - depends_on /base/functional/bind.h
+//   - depends_on /base/threading/thread_restrictions.h
+// ---
+
 #include "android_webview/browser/aw_speech_recognition_manager_delegate.h"
 
 #include <string>

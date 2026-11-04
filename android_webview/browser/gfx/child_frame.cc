@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildFrame implementation
+// summary: Implements the ChildFrame class that wraps a synchronous compositor frame, resolving its frame future and computing the viz surface ID.
+// relations:
+//   - implements /android_webview/browser/gfx/child_frame.h
+//   - depends_on /base/trace_event/trace_event.h
+//   - depends_on /components/viz/common/frame_sinks/copy_output_request.h
+// ---
+
 #include "android_webview/browser/gfx/child_frame.h"
 
 #include <utility>

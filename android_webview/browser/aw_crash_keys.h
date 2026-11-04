@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwCrashKeys declaration
+// summary: Declares SetCrashKeysFromFeaturesAndSwitches, which adds sets of switches and features as crash keys, intended for use from aw_contents_statics.
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_CRASH_KEYS_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_CRASH_KEYS_H_
 

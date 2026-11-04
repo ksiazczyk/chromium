@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwPrintManager unit tests
+// summary: Unit tests for AwPrintManager verifying that the print file descriptor is reset and callbacks fire correctly after a successful print.
+// relations:
+//   - tests /android_webview/browser/aw_print_manager.h
+//   - depends_on /base/memory/read_only_shared_memory_region.h
+//   - depends_on /base/run_loop.h
+// ---
+
 #include "android_webview/browser/aw_print_manager.h"
 
 #include <errno.h>

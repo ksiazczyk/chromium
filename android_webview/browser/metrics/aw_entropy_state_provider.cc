@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView entropy state provider implementation
+// summary: Implements AwEntropyStateProvider, which registers the WebView low entropy source pref and reports it in the system profile metrics.
+// relations:
+//   - depends_on /android_webview/browser/metrics/aw_entropy_state_provider.h
+//   - depends_on /components/prefs/pref_registry_simple.h
+//   - depends_on /components/prefs/pref_service.h
+// ---
+
 #include "android_webview/browser/metrics/aw_entropy_state_provider.h"
 
 #include "components/prefs/pref_registry_simple.h"

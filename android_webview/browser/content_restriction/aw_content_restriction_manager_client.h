@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentRestrictionManagerClient class declaration
+// summary: Declares the content restriction manager client, its JNI delegate, classification callback types, prefs and histogram enums.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_CONTENT_RESTRICTION_AW_CONTENT_RESTRICTION_MANAGER_CLIENT_H_
 #define ANDROID_WEBVIEW_BROWSER_CONTENT_RESTRICTION_AW_CONTENT_RESTRICTION_MANAGER_CLIENT_H_
 

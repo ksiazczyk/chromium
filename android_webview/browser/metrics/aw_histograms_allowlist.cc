@@ -7,6 +7,16 @@
 // tools/metrics/histograms/histograms_allowlist_check.py
 // LINT.ThenChange(//tools/metrics/histograms/histograms_allowlist_check.py:AndroidWebViewHistogramsAllowlistPath)
 
+// ---docerion
+// type: source
+// title: WebView histograms allowlist implementation
+// summary: Defines the list of histogram names that may be uploaded when metrics filtering applies and precomputes their hashes for lookup.
+// relations:
+//   - references /tools/metrics/histograms/histograms_allowlist_check.py
+//   - depends_on /android_webview/browser/metrics/aw_histograms_allowlist.h
+//   - depends_on /base/metrics/metrics_hashes.h
+// ---
+
 #include "android_webview/browser/metrics/aw_histograms_allowlist.h"
 
 #include "base/metrics/metrics_hashes.h"

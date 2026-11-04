@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRenderProcessKeepAlive implementation
+// summary: Implements keep-alive tracking for renderer processes, recording reuse metrics and optionally prefetching the native library when a kept-alive renderer is reused.
+// relations:
+//   - implements /android_webview/browser/aw_render_process_keep_alive.h
+//   - depends_on /android_webview/browser/aw_render_process.h
+//   - depends_on /android_webview/common/aw_features.h
+// ---
+
 #include "android_webview/browser/aw_render_process_keep_alive.h"
 
 #include <memory>

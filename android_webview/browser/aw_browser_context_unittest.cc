@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwBrowserContext unit tests
+// summary: Unit tests for AwBrowserContext covering network context parameter configuration, allowed prerendering count limits, and visited link writers.
+// relations:
+//   - tests /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_browser_context_store.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+// ---
+
 #include "android_webview/browser/aw_browser_context.h"
 
 #include "android_webview/browser/aw_browser_context_store.h"

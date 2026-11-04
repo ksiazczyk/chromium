@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayWebView implementation
+// summary: Implements DisplayWebView, creating the display with a WebView overlay processor when Surface Control is enabled and committing overlay frames.
+// relations:
+//   - implements /android_webview/browser/gfx/display_webview.h
+//   - depends_on /android_webview/browser/gfx/overlay_processor_webview.h
+//   - depends_on /android_webview/browser/gfx/root_frame_sink.h
+// ---
+
 #include "android_webview/browser/gfx/display_webview.h"
 
 #include "android_webview/browser/gfx/overlay_processor_webview.h"

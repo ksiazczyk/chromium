@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwURLLoaderThrottle class declaration
+// summary: Declares a blink URL loader throttle that injects extra headers into requests and tracks them so they can be stripped on cross-domain redirects.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /third_party/blink/public/common/loader/url_loader_throttle.h
+//   - depends_on /url/origin.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_URL_LOADER_THROTTLE_H_
 #define ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_URL_LOADER_THROTTLE_H_
 

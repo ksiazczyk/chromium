@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwOriginMatchedHeader class declaration
+// summary: Declares a thread-safe, immutable header class that attaches a name-value pair to matching origins, with lookup predicates, matcher merging, and combined header retrieval.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/containers/flat_map.h
+//   - depends_on /base/containers/span.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_HTTP_HEADERS_AW_ORIGIN_MATCHED_HEADER_H_
 #define ANDROID_WEBVIEW_BROWSER_HTTP_HEADERS_AW_ORIGIN_MATCHED_HEADER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay processor class declaration
+// summary: Declares OverlayProcessorWebView, a viz overlay processor that takes overlay candidates, schedules overlays and manages SurfaceControl overlays for WebView frames.
+// relations:
+//   - depends_on /android_webview/browser/gfx/display_scheduler_webview.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_OVERLAY_PROCESSOR_WEBVIEW_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_OVERLAY_PROCESSOR_WEBVIEW_H_
 

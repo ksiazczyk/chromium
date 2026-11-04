@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwOriginMatchedHeader unit tests
+// summary: Unit tests covering case-insensitive name and case-sensitive value matching, merging of origin matcher rules without duplicates, and combining headers for matching origins.
+// relations:
+//   - tests /android_webview/browser/http_headers/aw_origin_matched_header.h
+//   - depends_on /base/memory/scoped_refptr.h
+//   - depends_on /components/origin_matcher/origin_matcher.h
+// ---
+
 #include "android_webview/browser/http_headers/aw_origin_matched_header.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPolicyBlocklistServiceFactory implementation
+// summary: Creates the browser-context-keyed PolicyBlocklistService for WebView, wiring a policy URL blocklist manager to the browser context's PrefService.
+// relations:
+//   - implements /android_webview/browser/aw_policy_blocklist_service_factory.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /components/keyed_service/content/browser_context_dependency_manager.h
+// ---
+
 #include "android_webview/browser/aw_policy_blocklist_service_factory.h"
 
 #include <memory>

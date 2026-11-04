@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BeginFrameSourceWebView implementation
+// summary: Implements BeginFrameSourceWebView and the RootBeginFrameSourceWebView singleton, forwarding begin frames from Android Choreographer to observers with completion callbacks.
+// relations:
+//   - depends_on /android_webview/browser/gfx/begin_frame_source_webview.h
+//   - depends_on /base/auto_reset.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #include "android_webview/browser/gfx/begin_frame_source_webview.h"
 
 #include "base/auto_reset.h"

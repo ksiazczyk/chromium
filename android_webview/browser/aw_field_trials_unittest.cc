@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwFieldTrials unit tests
+// summary: Unit tests verifying that WebView feature overrides enable or disable features correctly alongside field trial overrides and entropy providers.
+// relations:
+//   - tests /android_webview/browser/aw_field_trials.h
+//   - depends_on /android_webview/browser/variations/aw_entropy_providers.h
+//   - depends_on /base/metrics/field_trial_params.h
+// ---
+
 #include "android_webview/browser/aw_field_trials.h"
 
 #include "android_webview/browser/variations/aw_entropy_providers.h"

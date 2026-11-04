@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserViewRenderer rendering tests
+// summary: Rendering tests for BrowserViewRenderer covering compositor switching, draw callbacks and frame production through the RenderingTest harness.
+// relations:
+//   - tests /android_webview/browser/gfx/browser_view_renderer.h
+//   - depends_on /android_webview/browser/gfx/child_frame.h
+//   - depends_on /android_webview/browser/gfx/compositor_frame_consumer.h
+// ---
+
 #include "android_webview/browser/gfx/browser_view_renderer.h"
 
 #include <array>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsLifecycleNotifier class declaration
+// summary: Declares the AwContentsLifecycleNotifier singleton that maps WebView instances to lifecycle states and manages WebViewAppStateObserver registration.
+// relations:
+//   - depends_on /android_webview/browser/lifecycle/webview_app_state_observer.h
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_LIFECYCLE_AW_CONTENTS_LIFECYCLE_NOTIFIER_H_
 #define ANDROID_WEBVIEW_BROWSER_LIFECYCLE_AW_CONTENTS_LIFECYCLE_NOTIFIER_H_
 

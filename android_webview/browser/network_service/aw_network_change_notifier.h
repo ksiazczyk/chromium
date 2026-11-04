@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwNetworkChangeNotifier class declaration
+// summary: Declares a WebView-specific network change notifier that propagates max-bandwidth changes so the Network Information API works in Blink.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /net/android/network_change_notifier_delegate_android.h
+//   - depends_on /net/base/network_change_notifier.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_NETWORK_CHANGE_NOTIFIER_H_
 #define ANDROID_WEBVIEW_BROWSER_NETWORK_SERVICE_AW_NETWORK_CHANGE_NOTIFIER_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwBrowserPermissionRequestDelegate interface
+// summary: Declares the delegate interface for handling permission requests from a BrowserContext, including protected media identifiers, geolocation, and MIDI Sysex.
+// relations:
+//   - depends_on /android_webview/browser/permission/permission_callback.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_BROWSER_PERMISSION_REQUEST_DELEGATE_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_BROWSER_PERMISSION_REQUEST_DELEGATE_H_
 

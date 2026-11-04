@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisibilityMetricsProvider class header
+// summary: Declares VisibilityMetricsProvider, a metrics::MetricsProvider owned by the MetricsService that records metrics collected by VisibilityMetricsLogger.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /components/metrics/metrics_provider.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_METRICS_VISIBILITY_METRICS_PROVIDER_H_
 #define ANDROID_WEBVIEW_BROWSER_METRICS_VISIBILITY_METRICS_PROVIDER_H_
 

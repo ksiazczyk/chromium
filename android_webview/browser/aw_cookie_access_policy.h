@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwCookieAccessPolicy class declaration
+// summary: Declares the singleton policy class that manages cookie acceptance settings and computes PrivacySetting results for cookie requests in WebView.
+// relations:
+//   - depends_on /base/no_destructor.h
+//   - depends_on /base/synchronization/lock.h
+//   - depends_on /base/types/optional_ref.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_COOKIE_ACCESS_POLICY_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_COOKIE_ACCESS_POLICY_H_
 

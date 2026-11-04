@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsOriginMatcher class declaration
+// summary: Declares a ref-counted, lock-protected wrapper for OriginMatcher used to match origins and atomically update the match rule list.
+// relations:
+//   - depends_on /base/memory/ref_counted.h
+//   - depends_on /base/synchronization/lock.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_AW_CONTENTS_ORIGIN_MATCHER_H_
 #define ANDROID_WEBVIEW_BROWSER_AW_CONTENTS_ORIGIN_MATCHER_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorFrameProducer interface
+// summary: Defines the interface for producers that supply compositor frames to consumers, handling returned resources and parent draw data updates.
+// relations:
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /components/viz/common/resources/returned_resource.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_GFX_COMPOSITOR_FRAME_PRODUCER_H_
 #define ANDROID_WEBVIEW_BROWSER_GFX_COMPOSITOR_FRAME_PRODUCER_H_
 

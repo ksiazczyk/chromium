@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render thread manager implementation
+// summary: Implements the RenderThreadManager that passes compositor frame data and draw constraints between the WebView UI thread and the render thread, including child frame queueing and hardware renderer control.
+// relations:
+//   - implements /android_webview/browser/gfx/render_thread_manager.h
+//   - depends_on /android_webview/browser/gfx/compositor_frame_producer.h
+//   - depends_on /android_webview/browser/gfx/gpu_service_webview.h
+// ---
+
 #include "android_webview/browser/gfx/render_thread_manager.h"
 
 #include <memory>
