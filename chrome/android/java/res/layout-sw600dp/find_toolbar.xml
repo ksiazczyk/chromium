@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Tablet find toolbar layout
+summary: Android layout resource for sw600dp devices that defines the Chromium find-in-page toolbar as a FindToolbarTablet wrapping the shared find_in_page layout.
+-->
+
 <!-- Width and height are 0 because things inflated from a ViewStub inherit the ViewStub's
      LayoutParams.  Making these 0 so that it's explicit that setting these does nothing. -->
 <org.chromium.chrome.browser.findinpage.FindToolbarTablet

@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Google services icon, 24dp
+summary: 24dp vector icon representing Google services, tinted with the on-surface-variant color.
+-->
+
 <vector
   xmlns:android="http://schemas.android.com/apk/res/android"
   android:width="24dp"

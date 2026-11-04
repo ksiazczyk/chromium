@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Lexend downloadable font family resource
+summary: Defines the Lexend font family for Reader Mode, fetched asynchronously from the Google Play Services downloadable fonts provider with the sans-serif system fallback.
+-->
+
 <font-family
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"

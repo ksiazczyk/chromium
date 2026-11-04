@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Reload/stop toolbar button level list
+summary: Level-list drawable that switches the toolbar button between the reload and stop icons based on the reload button level.
+-->
+
 <level-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:maxLevel="@integer/reload_button_level_reload"

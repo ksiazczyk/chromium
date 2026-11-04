@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Site timer vector icon
+summary: Defines a 36x60dp vector drawable of the site timer icon tinted with the default icon color.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
         android:width="36dp"
         android:height="60dp"

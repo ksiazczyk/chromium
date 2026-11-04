@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Google Pay logo with divider drawable
+summary: Vector drawable of the Google Pay logo with a vertical divider, used in payment UI.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:viewportWidth="51"
     android:viewportHeight="18"

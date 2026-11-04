@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: History empty state illustration
+summary: Vector drawable illustration of a clock over stacked cards, used as the empty state graphic for the history page in Chrome on Android.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:autoMirrored="true"
     android:width="130dp"

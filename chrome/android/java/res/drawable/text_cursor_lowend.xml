@@ -4,6 +4,13 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Text cursor drawable for low-end devices
+summary: Shape drawable defining a 2dp-wide text cursor colored with the activated control color.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android" >
     <size android:width="2dp" />
     <solid android:color="?android:attr/colorControlActivated" />

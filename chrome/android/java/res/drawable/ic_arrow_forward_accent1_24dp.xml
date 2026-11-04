@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Forward arrow icon in accent1, 24dp
+summary: Auto-mirrored 24dp vector icon of a right-pointing arrow, tinted with the default accent1 icon color.
+-->
+
 <vector
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:autoMirrored="true"

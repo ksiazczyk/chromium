@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tab position card preview background
+summary: Rounded rectangle shape filled with the primary container color, drawn behind a tab position preview illustration.
+-->
+
 <!-- Background fill behind a tab position preview illustration. -->
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">

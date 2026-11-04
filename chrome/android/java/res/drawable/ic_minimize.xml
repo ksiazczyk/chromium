@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Minimize icon (24dp)
+summary: 24dp vector chevron-down icon used as a minimize control, tinted with the default icon color.
+-->
+
 <vector
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Compat button shape drawable
+summary: White rounded rectangle shape used as the compat button background and as the ripple mask.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <solid android:color="@android:color/white" />
     <corners android:radius="@dimen/button_compat_corner_radius" />

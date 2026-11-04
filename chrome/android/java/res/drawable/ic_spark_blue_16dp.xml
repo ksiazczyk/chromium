@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Blue spark 16dp vector icon
+summary: Defines a 16dp spark vector icon filled with a blue gradient for Chrome on Android.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:width="16dp" android:height="16dp" android:viewportWidth="16" android:viewportHeight="16">
     <group>
         <clip-path android:pathData="M0,0h16v16h-16z"/>

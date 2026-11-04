@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Rounded square tab strip button background
+summary: 32 dp white rounded-square shape with a 10 dp corner radius used as a tab strip button background.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
   <!-- Set button background to 32dp x 32dp matching standard tab strip buttons -->

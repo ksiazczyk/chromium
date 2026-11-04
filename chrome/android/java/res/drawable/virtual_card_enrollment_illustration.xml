@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Virtual card enrollment illustration
+summary: Vector illustration of a card with a shield and checkmark, used in the virtual card enrollment user interface.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="114dp"
     android:height="80dp"

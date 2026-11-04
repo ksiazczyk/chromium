@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Devices icon vector drawable (24dp)
+summary: Vector drawable of a 24dp devices icon showing a phone and monitor, tinted with the default icon color.
+-->
+
 <!-- TODO(crbug.com/40856506): Check whether this can be replaced by devices_icon -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
