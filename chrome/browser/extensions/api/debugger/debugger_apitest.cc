@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger API browser tests
+// summary: Contains browser tests covering the debugger extension API, including attach and detach behavior, infobars, security interstitials and profile handling.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

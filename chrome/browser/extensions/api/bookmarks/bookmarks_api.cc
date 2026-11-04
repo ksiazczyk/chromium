@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks extension API implementation
+// summary: Implements the chrome.bookmarks extension API, including the BookmarkEventRouter that turns bookmark model changes into extension events and URL fixup for created bookmarks.
+// ---
+
 #include "chrome/browser/extensions/api/bookmarks/bookmarks_api.h"
 
 #include <stddef.h>

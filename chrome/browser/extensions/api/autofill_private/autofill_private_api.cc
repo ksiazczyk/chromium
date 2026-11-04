@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the autofillPrivate extension API functions
+// summary: Implements the autofillPrivate extension functions for managing addresses, payments data, autofill AI entities, reauthentication and related settings actions.
+// ---
+
 #include "chrome/browser/extensions/api/autofill_private/autofill_private_api.h"
 
 #include <stddef.h>

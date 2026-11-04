@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for declarativeContent SetIcon action
+// summary: End-to-end browser tests verifying that the SetIcon action sets and resets the declarative page action icon when navigating to matching pages.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/browser/extensions/extension_tab_util.h"
 #include "chrome/browser/profiles/profile.h"

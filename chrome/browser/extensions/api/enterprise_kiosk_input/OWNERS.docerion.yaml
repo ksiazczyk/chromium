@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for enterprise kiosk input
+summary: Delegates code ownership for this directory to the ChromeOS kiosk component OWNERS file.

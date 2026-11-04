@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provider extension API implementation
+// summary: Implements the certificateProvider and certificateProviderInternal extension functions, including PIN request dialogs, quota limiting, and certificate and signature reporting.
+// ---
+
 #include "chrome/browser/extensions/api/certificate_provider/certificate_provider_api.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the commands extension API
+summary: Defines the commands source set, listing commands.cc and commands.h as sources and the required extension dependencies.

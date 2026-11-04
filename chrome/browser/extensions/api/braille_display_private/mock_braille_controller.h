@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock braille controller header
+// summary: Declares MockBrailleController, a mock of BrailleController for tests with settable availability and observer access.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_BRAILLE_DISPLAY_PRIVATE_MOCK_BRAILLE_CONTROLLER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_BRAILLE_DISPLAY_PRIVATE_MOCK_BRAILLE_CONTROLLER_H_
 

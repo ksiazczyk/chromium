@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity database implementation
+// summary: Implements the SQLite-backed activity log database with batched writes, flush thresholds, and error handling.
+// ---
+
 #include "chrome/browser/extensions/activity_log/activity_database.h"
 
 #include <string>

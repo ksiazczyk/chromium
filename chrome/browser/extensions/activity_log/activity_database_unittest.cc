@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activity database unit tests
+// summary: Unit tests for the ActivityDatabase covering initialization, batching, flushing, and failure handling.
+// ---
+
 #include "chrome/browser/extensions/activity_log/activity_database.h"
 
 #include <stddef.h>

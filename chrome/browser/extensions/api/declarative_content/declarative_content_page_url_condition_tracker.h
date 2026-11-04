@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page URL condition tracker declarations
+// summary: Declares the page URL predicate and condition tracker that evaluate URL conditions for declarative content rules across tab contents.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DECLARATIVE_CONTENT_DECLARATIVE_CONTENT_PAGE_URL_CONDITION_TRACKER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DECLARATIVE_CONTENT_DECLARATIVE_CONTENT_PAGE_URL_CONDITION_TRACKER_H_
 

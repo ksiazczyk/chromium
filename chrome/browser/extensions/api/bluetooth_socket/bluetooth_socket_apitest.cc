@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth socket extension API browser tests
+// summary: Browser tests for the chrome.bluetoothSocket extension API that use mock Bluetooth adapters, devices, and sockets to verify connect and receive behavior on ChromeOS.
+// ---
+
 #include <memory>
 #include <string>
 #include <tuple>

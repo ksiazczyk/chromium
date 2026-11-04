@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Debugger extension API GN build target
+summary: Defines the debugger source_set for the Chrome extensions debugger API, listing sources and dependencies and selecting infobar or message delegates per platform.

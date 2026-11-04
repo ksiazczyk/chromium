@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner discovery runner declarations
+// summary: Declares the runner that handles getScannerList API requests, prompting for permission and delivering scanner list results.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DOCUMENT_SCAN_SCANNER_DISCOVERY_RUNNER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DOCUMENT_SCAN_SCANNER_DISCOVERY_RUNNER_H_
 

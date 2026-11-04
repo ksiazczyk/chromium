@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartScanRunner class header
+// summary: Declares the StartScanRunner class that handles startScan API requests, including prompting the user for permission and delivering scan results via callback.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DOCUMENT_SCAN_START_SCAN_RUNNER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DOCUMENT_SCAN_START_SCAN_RUNNER_H_
 

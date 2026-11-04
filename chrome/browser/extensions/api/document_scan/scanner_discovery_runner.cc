@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Scanner discovery runner
+// summary: Implements getScannerList handling, including user confirmation dialogs, trusted extension checks and Lorgnette scanner list requests.
+// ---
+
 #include "chrome/browser/extensions/api/document_scan/scanner_discovery_runner.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document scan type converters unit tests
+// summary: Unit tests verifying that Lorgnette option types, units, constraints, values and scan responses map to the expected API types.
+// ---
+
 #include "chrome/browser/extensions/api/document_scan/document_scan_type_converters.h"
 
 #include <algorithm>

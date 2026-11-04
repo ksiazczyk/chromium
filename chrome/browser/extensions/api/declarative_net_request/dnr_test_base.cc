@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNR test base implementation
+// summary: Implements the DNRTestBase fixture, setting up an empty extension service and creating extension loaders for packed or unpacked loads.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_net_request/dnr_test_base.h"
 
 #include "chrome/browser/extensions/chrome_test_extension_loader.h"

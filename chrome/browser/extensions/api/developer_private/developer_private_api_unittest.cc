@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the DeveloperPrivate API
+// summary: Extensive unit tests covering developerPrivate functions, extension and profile info generation, sync, permissions and related extension management behaviors.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <optional>

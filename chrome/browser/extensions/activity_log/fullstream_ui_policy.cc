@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full stream UI policy implementation
+// summary: Implements the full-stream activity log policy that queues actions and flushes them into the activitylog_full database table, with filtered data reads.
+// ---
+
 #include "chrome/browser/extensions/activity_log/fullstream_ui_policy.h"
 
 #include <stddef.h>

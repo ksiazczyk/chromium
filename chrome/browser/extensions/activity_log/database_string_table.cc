@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database string table implementation
+// summary: Implements a persistent string-to-integer mapping backed by a SQLite table with an in-memory cache, used to compress activity log database contents.
+// ---
+
 #include "chrome/browser/extensions/activity_log/database_string_table.h"
 
 #include <stddef.h>

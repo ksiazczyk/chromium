@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Alarms API browser tests
+// summary: Browser tests for the Chrome extensions alarms API, covering alarm triggering in incognito split mode and feature-flagged alarms.clearAll behavior.
+// ---
+
 #include "base/one_shot_event.h"
 #include "base/run_loop.h"
 #include "base/test/with_feature_override.h"

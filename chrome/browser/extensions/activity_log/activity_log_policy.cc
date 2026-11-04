@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity log policy base implementation
+// summary: Implements the ActivityLogPolicy base class and utility helpers for serializing actions and stripping privacy-sensitive fields such as incognito URLs and credentials.
+// ---
+
 #include "chrome/browser/extensions/activity_log/activity_log_policy.h"
 
 #include <stddef.h>

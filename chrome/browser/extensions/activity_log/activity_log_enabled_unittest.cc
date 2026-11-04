@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activity log enabled unit tests
+// summary: Unit tests verifying that the extension activity log is enabled only via command-line switch or preference, checking database and watchdog state per profile.
+// ---
+
 #include "base/command_line.h"
 #include "base/run_loop.h"
 #include "base/task/single_thread_task_runner.h"

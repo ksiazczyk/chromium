@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for enterprise device attributes API
+summary: Defines the enterprise_device_attributes source set with its sources and dependencies for the ChromeOS extension API build.

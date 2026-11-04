@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Braille display private API browser tests
+// summary: Browser test for the brailleDisplayPrivate extension API, exercising display state, key events and lock screen behavior through a mock BrlAPI connection.
+// ---
+
 #include <stddef.h>
 
 #include "base/containers/circular_deque.h"

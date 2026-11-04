@@ -5,6 +5,12 @@
 // Defines the Chrome Extensions Debugger API functions for attaching debugger
 // to the page.
 
+// ---docerion
+// type: source
+// title: Debugger extension API declarations
+// summary: Declares the debugger extension functions, the infobar controller and helpers for building the warning shown while an extension is debugging the browser.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DEBUGGER_DEBUGGER_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DEBUGGER_DEBUGGER_API_H_
 

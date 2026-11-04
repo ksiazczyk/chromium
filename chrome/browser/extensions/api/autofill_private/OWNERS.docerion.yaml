@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS review rules for autofill_private
+summary: Delegates code review ownership for the directory to the settings and autofill components OWNERS files.

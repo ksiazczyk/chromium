@@ -28,6 +28,12 @@
 // The activitylog_uncompressed view allows for simpler reading of the activity
 // log contents with identifiers already translated to string values.
 
+// ---docerion
+// type: source
+// title: Counting policy implementation
+// summary: Implements the CountingPolicy that aggregates identical activity log rows with a count column and compresses repeated strings into separate database tables.
+// ---
+
 #include "chrome/browser/extensions/activity_log/counting_policy.h"
 
 #include <stddef.h>

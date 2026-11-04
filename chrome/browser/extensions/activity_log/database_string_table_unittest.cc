@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DatabaseStringTable unit tests
+// summary: Unit tests covering table initialization, string insertion and lookup, cache clearing, stale cache handling and cache pruning for DatabaseStringTable.
+// ---
+
 #include "chrome/browser/extensions/activity_log/database_string_table.h"
 
 #include <stddef.h>

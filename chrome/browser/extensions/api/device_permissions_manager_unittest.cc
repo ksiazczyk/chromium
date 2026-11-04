@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device permissions manager unit tests
+// summary: Tests the extensions device permissions manager using fake USB and HID device managers and a test extension with hid and usb permissions.
+// ---
+
 #include "extensions/browser/api/device_permissions_manager.h"
 
 #include <stdint.h>

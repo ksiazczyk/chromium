@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the autofillPrivate extension API
+// summary: Browser tests exercising autofillPrivate API functions, covering entities, payments, mandatory reauth and event routing with test doubles.
+// ---
+
 #include "chrome/browser/extensions/api/autofill_private/autofill_private_api.h"
 
 #include <string>

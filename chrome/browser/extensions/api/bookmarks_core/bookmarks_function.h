@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarksFunction class declaration for the bookmarks extension API
+// summary: Declares the BookmarksFunction base class that bookmarks extension API functions extend to access the bookmark model and validate modifiable nodes.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_BOOKMARKS_CORE_BOOKMARKS_FUNCTION_H_
 #define CHROME_BROWSER_EXTENSIONS_API_BOOKMARKS_CORE_BOOKMARKS_FUNCTION_H_
 

@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: ActionTracker unit tests
+// summary: Unit tests for the declarative net request action tracker, checking request actions, tab ID handling and per-extension counts.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/action_tracker.h"
 
 #include <string_view>

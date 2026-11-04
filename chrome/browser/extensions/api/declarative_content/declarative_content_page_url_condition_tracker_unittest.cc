@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the page URL condition tracker
+// summary: Unit tests covering page URL predicate creation, error handling for invalid types, and URL match tracking across navigations.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/declarative_content_page_url_condition_tracker.h"
 
 #include <set>

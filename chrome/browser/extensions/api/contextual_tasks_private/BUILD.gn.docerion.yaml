@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the contextual_tasks_private extension API
+summary: Defines the GN source_set for the contextual_tasks_private extension API and lists its build dependencies.

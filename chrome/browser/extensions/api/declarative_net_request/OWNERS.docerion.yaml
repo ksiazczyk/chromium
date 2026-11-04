@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for declarative_net_request
+summary: Points to the shared OWNERS file that lists the approvers for the declarative_net_request directory.

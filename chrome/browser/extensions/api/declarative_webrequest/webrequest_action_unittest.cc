@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for declarative web request actions
+// summary: Tests creation and application of declarative web request actions, including host permission requirements per request stage.
+// ---
+
 #include "extensions/browser/api/declarative_webrequest/webrequest_action.h"
 
 #include <stddef.h>

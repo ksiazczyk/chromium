@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation API browser tests
+// summary: Browser tests for the chrome.automation extension API, covering accessibility tree events, actions, permissions, and background script modes.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file_path.h"
 #include "base/json/json_reader.h"

@@ -6,6 +6,12 @@
 // clearing browsing data, and clearing the browser's cache (which, let's be
 // honest, are the same thing), as specified in the extension API JSON.
 
+// ---docerion
+// type: source
+// title: BrowsingData extension API implementation
+// summary: Implements the browsingData extension functions that clear browsing data and cache via BrowsingDataRemover, including data type masks and permission checks.
+// ---
+
 #include "chrome/browser/extensions/api/browsing_data/browsing_data_api.h"
 
 #include <string>

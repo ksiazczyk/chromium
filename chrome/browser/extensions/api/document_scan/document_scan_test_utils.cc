@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document scan test utilities
+// summary: Provides helper functions that create fake Lorgnette scanner info, scanner options, and option setting lists for document scan tests.
+// ---
+
 #include "chrome/browser/extensions/api/document_scan/document_scan_test_utils.h"
 
 #include "base/strings/strcat.h"

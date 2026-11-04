@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension DevTools Android message delegate declarations
+// summary: Declares the Android delegate that shows the extension-debugging warning message and reports dismissal back to the debugger session.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DEBUGGER_EXTENSION_DEV_TOOLS_MESSAGE_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DEBUGGER_EXTENSION_DEV_TOOLS_MESSAGE_DELEGATE_H_
 

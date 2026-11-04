@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS Bluetooth Low Energy API tests
+// summary: ChromeOS-specific browser tests for the chrome.bluetoothLowEnergy API, covering advertisement registration behind the BLE advertising flag and kiosk-mode auto-launch scenarios.
+// ---
+
 #include <memory>
 
 #include "base/check_deref.h"

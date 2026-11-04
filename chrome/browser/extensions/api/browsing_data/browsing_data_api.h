@@ -6,6 +6,12 @@
 // clearing browsing data, and clearing the browser's cache (which, let's be
 // honest, are the same thing), as specified in the extension API JSON.
 
+// ---docerion
+// type: source
+// title: BrowsingData extension API declarations and constants
+// summary: Declares the browsingData extension function classes and defines parameter, data type, option, and error message constants.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_BROWSING_DATA_BROWSING_DATA_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_BROWSING_DATA_BROWSING_DATA_API_H_
 

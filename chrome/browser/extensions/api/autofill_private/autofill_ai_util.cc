@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI entity conversion utilities implementation
+// summary: Implements helpers that convert autofill AI entity and attribute types between core autofill models and the autofillPrivate extension API, including label generation for the settings page.
+// ---
+
 #include "chrome/browser/extensions/api/autofill_private/autofill_ai_util.h"
 
 #include <optional>

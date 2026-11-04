@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser API tests for the declarativeWebRequest extension API
+// summary: Extension API browser tests that verify declarativeWebRequest rules, including an extension that redirects HTTP navigations to a data URI and rule registration counts.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the desktop_capture source set
+summary: Defines the desktop_capture source set, listing its source files and dependencies on base, extensions, media, profiles, browser UI and Skia.

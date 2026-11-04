@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS extensions API keyed service factories
+// summary: Ensures that all ChromeOS-specific BrowserContextKeyedServiceFactory instances provided by the Chrome extensions code are built.
+// ---
+
 #include "chrome/browser/extensions/api/chromeos_api_browser_context_keyed_service_factories.h"
 
 #include "chrome/browser/ash/extensions/autotest_private/autotest_private_api.h"

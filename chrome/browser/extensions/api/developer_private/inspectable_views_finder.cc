@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InspectableViewsFinder implementation
+// summary: Implements InspectableViewsFinder, which collects inspectable views such as background pages, popups and app windows for the developerPrivate API.
+// ---
+
 #include "chrome/browser/extensions/api/developer_private/inspectable_views_finder.h"
 
 #include <set>

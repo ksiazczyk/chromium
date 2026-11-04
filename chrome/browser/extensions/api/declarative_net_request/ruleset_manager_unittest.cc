@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RulesetManager unit tests
+// summary: Unit tests for the declarative net request ruleset manager, covering rule matching, host permissions, preferences and UKM metrics.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/ruleset_manager.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop Android stubs for the Chrome extensions API client
+// summary: Supplies desktop Android stubs for ChromeExtensionsAPIClient methods that are not yet supported there, such as USB device permissions prompts.
+// ---
+
 #include "chrome/browser/extensions/api/chrome_extensions_api_client.h"
 
 #include <memory>

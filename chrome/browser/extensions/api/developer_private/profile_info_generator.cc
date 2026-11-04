@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileInfoGenerator implementation
+// summary: Builds a developerPrivate ProfileInfo from profile preferences, covering developer mode, incognito availability, unpacked loading and MV2 deprecation state.
+// ---
+
 #include "chrome/browser/extensions/api/developer_private/profile_info_generator.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content rules registry implementation
+// summary: Implements the Chrome-specific registry that manages and evaluates declarative content API rules for extensions across tabs, including incognito handling and deferred evaluation.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/chrome_content_rules_registry.h"
 
 #include "base/functional/bind.h"

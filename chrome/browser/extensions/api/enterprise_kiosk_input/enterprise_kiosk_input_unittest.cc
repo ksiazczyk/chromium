@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise kiosk input API unit tests
+// summary: Unit tests for the setCurrentInputMethod extension function using a mock input method manager to verify input method switching and invalid input method error handling.
+// ---
+
 #include "chrome/common/extensions/api/enterprise_kiosk_input.h"
 
 #include <string>

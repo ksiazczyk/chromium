@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks extension API browser tests
+// summary: Browser tests verifying that bookmark extension events such as OnCreated and OnMoved are dispatched with the expected arguments to extensions.
+// ---
+
 #include <cstddef>
 #include <memory>
 #include <optional>

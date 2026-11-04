@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome USB device permissions prompt
+// summary: Declares ChromeUsbDevicePermissionsPrompt, the Chrome implementation of the USB device permissions prompt dialog.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_CHROME_DEVICE_PERMISSIONS_PROMPT_H_
 #define CHROME_BROWSER_EXTENSIONS_API_CHROME_DEVICE_PERMISSIONS_PROMPT_H_
 

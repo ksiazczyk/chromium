@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity Log private API implementation
+// summary: Implements the activityLogPrivate extension API, broadcasting extension activity events and serving activity query and deletion functions.
+// ---
+
 #include "chrome/browser/extensions/api/activity_log_private/activity_log_private_api.h"
 
 #include <stddef.h>

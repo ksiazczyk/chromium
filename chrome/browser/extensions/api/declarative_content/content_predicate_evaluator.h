@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentPredicateEvaluator interface for declarative content predicates
+// summary: Declares the evaluator interface that creates, tracks, and evaluates predicates for one PageStateMatcher attribute across declarative content rules.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DECLARATIVE_CONTENT_CONTENT_PREDICATE_EVALUATOR_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DECLARATIVE_CONTENT_CONTENT_PREDICATE_EVALUATOR_H_
 

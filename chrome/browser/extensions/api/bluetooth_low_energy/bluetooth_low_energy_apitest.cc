@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Low Energy API browser tests
+// summary: Browser tests for the chrome.bluetoothLowEnergy extension API that exercise GATT services, characteristics, descriptors and events using mock Bluetooth adapter, device and GATT objects.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

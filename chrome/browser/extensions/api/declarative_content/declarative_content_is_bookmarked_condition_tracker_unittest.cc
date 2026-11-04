@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the is-bookmarked condition tracker
+// summary: Unit tests verifying bookmarked-state predicate creation, evaluation, and notification behavior, including bookmarks permission handling.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/declarative_content_is_bookmarked_condition_tracker.h"
 
 #include <memory>

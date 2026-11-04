@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity log task runner implementation
+// summary: Provides a shared single-thread task runner used by the activity log, with an override hook for testing.
+// ---
+
 #include "chrome/browser/extensions/activity_log/activity_log_task_runner.h"
 
 #include "base/task/lazy_thread_pool_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise device attributes extension API implementation
+// summary: Implements the enterprise.deviceAttributes extension functions that return directory device ID, serial number, asset ID, annotated location and hostname after access checks.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_device_attributes/enterprise_device_attributes_api.h"
 
 #include <utility>

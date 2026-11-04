@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document scan scan function unit tests
+// summary: Unit tests for the documentScan.scan extension function, verifying the user gesture requirement with a fake scanner manager.
+// ---
+
 #include "chrome/browser/extensions/api/document_scan/document_scan_api.h"
 
 #include <memory>

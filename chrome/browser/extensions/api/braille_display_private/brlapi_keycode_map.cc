@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrlAPI keycode to key event mapping
+// summary: Maps 64-bit BrlAPI key codes to braille KeyEvent objects, translating keysyms, modifier flags and display navigation commands.
+// ---
+
 #include "chrome/browser/extensions/api/braille_display_private/brlapi_keycode_map.h"
 
 #include <stdint.h>

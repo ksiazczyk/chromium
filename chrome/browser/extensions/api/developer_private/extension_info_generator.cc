@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionInfoGenerator implementation
+// summary: Implements the ExtensionInfoGenerator that asynchronously builds developerPrivate ExtensionInfo entries, including icons, safety check data and host permissions.
+// ---
+
 #include "chrome/browser/extensions/api/developer_private/extension_info_generator.h"
 
 #include <iterator>

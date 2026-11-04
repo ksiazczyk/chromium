@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for the commandLinePrivate API
+// summary: Runs the command_line/basics extension API test as a component extension after appending a dedicated test switch to the browser command line.
+// ---
+
 #include "base/command_line.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/test/browser_test.h"

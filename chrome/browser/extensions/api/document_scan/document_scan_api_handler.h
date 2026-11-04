@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scan API handler class
+// summary: Declares DocumentScanAPIHandler, a BrowserContextKeyedAPI that dispatches documentScan calls to scanner discovery, simple scan, and start scan runners.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DOCUMENT_SCAN_DOCUMENT_SCAN_API_HANDLER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DOCUMENT_SCAN_DOCUMENT_SCAN_API_HANDLER_H_
 

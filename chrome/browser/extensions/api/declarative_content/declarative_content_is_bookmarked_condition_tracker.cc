@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Is-bookmarked condition tracker implementation
+// summary: Implements the isBookmarked predicate and tracker that evaluate whether the current page URL is bookmarked, requiring the bookmarks permission.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/declarative_content_is_bookmarked_condition_tracker.h"
 
 #include "base/functional/bind.h"

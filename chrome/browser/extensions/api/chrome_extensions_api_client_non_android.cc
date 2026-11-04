@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-Android USB prompt support for the Chrome extensions API client
+// summary: Implements ChromeExtensionsAPIClient methods for non-Android platforms, creating the Chrome USB device permissions prompt.
+// ---
+
 #include <memory>
 
 #include "chrome/browser/extensions/api/chrome_device_permissions_prompt.h"

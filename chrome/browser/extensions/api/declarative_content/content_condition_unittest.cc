@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content condition unit tests
+// summary: Unit tests for CreateContentCondition covering unknown attributes, error propagation, and predicate creation.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/content_condition.h"
 
 #include <vector>

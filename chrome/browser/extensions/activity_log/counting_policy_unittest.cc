@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Counting policy unit tests
+// summary: Unit tests for CountingPolicy covering action aggregation, filtered database reads, and cleanup behavior across profiles.
+// ---
+
 #include "chrome/browser/extensions/activity_log/counting_policy.h"
 
 #include <stddef.h>

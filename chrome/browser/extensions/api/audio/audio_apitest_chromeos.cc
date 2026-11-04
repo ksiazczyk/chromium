@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS audio extension API browser test
+// summary: Sets up fake CRAS audio devices and runs extension API tests for the chrome.audio API in a ChromeOS kiosk session.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

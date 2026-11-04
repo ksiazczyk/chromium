@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Downloads API directory metadata
+summary: Maps the downloads extensions API directory to the UI>Browser>Downloads Monorail component and a Buganizer component for issue tracking.

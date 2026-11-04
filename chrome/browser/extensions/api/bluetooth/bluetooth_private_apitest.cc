@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Private extension API browser tests
+// summary: Browser tests for the chrome.bluetoothPrivate extension API that verify adapter name, power, discoverability, device pairing events and forget behavior using mock Bluetooth objects.
+// ---
+
 #include <memory>
 #include <tuple>
 #include <utility>

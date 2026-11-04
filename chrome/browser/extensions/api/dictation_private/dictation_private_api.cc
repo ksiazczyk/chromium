@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: dictationPrivate extension API implementation
+// summary: Implements the dictationPrivate.updateTranscription, setStreamState, and updateAudioLevel extension functions against the dictation multiplexer.
+// ---
+
 #include "chrome/browser/extensions/api/dictation_private/dictation_private_api.h"
 
 #include <string>

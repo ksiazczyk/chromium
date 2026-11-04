@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark manager private extension API implementation
+// summary: Implements the chrome.bookmarkManagerPrivate extension functions, including bookmark import and export, drag and drop, and opening bookmarks in windows or tab groups.
+// ---
+
 #include "chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.h"
 
 #include <stddef.h>

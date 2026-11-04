@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS list for the browsing_data API directory
+summary: Names the most knowledgeable reviewer for changes to this directory, with parent-directory owners also allowed.

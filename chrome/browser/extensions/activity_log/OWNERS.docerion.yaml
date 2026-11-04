@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Activity log OWNERS
+summary: Lists the code owners responsible for reviewing changes to the extension activity log directory.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the enterprise hardware platform API
+summary: GN build file defining the enterprise_hardware_platform source_set with its sources and dependencies for the extension API.

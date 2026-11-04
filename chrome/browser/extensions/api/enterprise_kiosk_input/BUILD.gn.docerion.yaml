@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for enterprise kiosk input
+summary: Defines the GN source_set that builds the enterprise kiosk input extension API sources for ChromeOS with its base, extension API, and input method dependencies.

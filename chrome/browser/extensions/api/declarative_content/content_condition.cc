@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content condition implementation
+// summary: Creates ContentCondition objects from declarativeContent.PageStateMatcher API values by building predicates through registered factories.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/content_condition.h"
 
 #include <memory>

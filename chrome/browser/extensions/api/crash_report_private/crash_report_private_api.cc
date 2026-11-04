@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the crashReportPrivate.reportError extension function
+// summary: Implements the crashReportPrivate.reportError function that assembles JavaScript error reports, including window type and renderer uptime, and passes them to the error report processor.
+// ---
+
 #include "chrome/browser/extensions/api/crash_report_private/crash_report_private_api.h"
 
 #include "base/time/time.h"

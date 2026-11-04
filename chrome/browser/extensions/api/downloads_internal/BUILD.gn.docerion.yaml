@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for the downloads_internal extension API
+summary: Defines the downloads_internal source_set, listing the API sources and their build dependencies.

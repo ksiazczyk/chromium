@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for braille_display_private
+summary: Lists the code owner for this directory and additionally includes the UI accessibility OWNERS file.

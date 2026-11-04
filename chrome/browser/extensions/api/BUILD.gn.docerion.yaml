@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Chrome extension APIs
+summary: Defines GN groups and targets that collect the Chrome extension API implementations and their build dependencies.

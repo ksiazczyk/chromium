@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA with Buganizer component
+summary: Maps the directory to Buganizer component 620570 for issue tracking.

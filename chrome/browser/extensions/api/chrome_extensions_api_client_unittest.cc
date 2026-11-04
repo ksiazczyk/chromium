@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome extensions API client unit tests
+// summary: Unit tests verifying that ChromeExtensionsAPIClient hides sensitive Gaia response headers and browser-initiated network requests from extensions.
+// ---
+
 #include "chrome/browser/extensions/api/chrome_extensions_api_client.h"
 
 #include "chrome/common/webui_url_constants.h"

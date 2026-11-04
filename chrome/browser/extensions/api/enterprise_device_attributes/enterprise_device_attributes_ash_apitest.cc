@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise device attributes API browser tests
+// summary: Browser API test that force-installs an affiliated extension and checks the reported device attributes against configured device policy values.
+// ---
+
 #include "base/test/gtest_tags.h"
 #include "base/values.h"
 #include "chrome/browser/ash/policy/affiliation/affiliation_mixin.h"

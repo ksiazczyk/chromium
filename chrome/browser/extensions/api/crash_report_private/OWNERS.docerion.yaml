@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the crash_report_private API
+summary: Lists shend@chromium.org as the code owner responsible for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock braille controller implementation
+// summary: Implements MockBrailleController, a test double that reports configurable display availability and tracks registered observers.
+// ---
+
 #include "chrome/browser/extensions/api/braille_display_private/mock_braille_controller.h"
 
 #include <memory>

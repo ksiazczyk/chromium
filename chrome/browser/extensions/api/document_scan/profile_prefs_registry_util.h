@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scan profile prefs registration declarations
+// summary: Declares the function that registers documentScan API preferences with the profile preference registry.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DOCUMENT_SCAN_PROFILE_PREFS_REGISTRY_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DOCUMENT_SCAN_PROFILE_PREFS_REGISTRY_UTIL_H_
 

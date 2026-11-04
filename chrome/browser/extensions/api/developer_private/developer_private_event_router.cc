@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeveloperPrivate event router implementation
+// summary: Implements the router that observes the extension registry, prefs, errors, permissions and other services to dispatch developerPrivate events to subscribed extensions.
+// ---
+
 #include "chrome/browser/extensions/api/developer_private/developer_private_event_router.h"
 
 #include <memory>

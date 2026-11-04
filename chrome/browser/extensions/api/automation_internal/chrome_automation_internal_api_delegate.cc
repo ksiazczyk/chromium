@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome automation internal API delegate implementation
+// summary: Implements Chrome-specific automation API delegate logic, including permission checks, accessibility tree enabling, and desktop automation via Aura.
+// ---
+
 #include "chrome/browser/extensions/api/automation_internal/chrome_automation_internal_api_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill private event router factory implementation
+// summary: Implements the profile-keyed service factory that creates and provides the AutofillPrivateEventRouter per browser context.
+// ---
+
 #include "chrome/browser/extensions/api/autofill_private/autofill_private_event_router_factory.h"
 
 #include "chrome/browser/autofill/autofill_entity_data_manager_factory.h"

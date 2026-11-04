@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill private API conversion utilities implementation
+// summary: Implements helpers that convert autofill profiles, countries, credit cards, IBANs and BNPL issuers into autofillPrivate API entry objects.
+// ---
+
 #include "chrome/browser/extensions/api/autofill_private/autofill_util.h"
 
 #include <stddef.h>

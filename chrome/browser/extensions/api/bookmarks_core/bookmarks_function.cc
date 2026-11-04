@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarksFunction implementation for the bookmarks extension API
+// summary: Implements the base class for bookmarks extension API functions, waiting for the bookmark model to load, resolving node IDs, and enforcing edit and visibility rules.
+// ---
+
 #include "chrome/browser/extensions/api/bookmarks_core/bookmarks_function.h"
 
 #include <string>

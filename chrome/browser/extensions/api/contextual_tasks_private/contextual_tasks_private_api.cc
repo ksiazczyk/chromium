@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the contextualTasksPrivate extension API
+// summary: Implements the contextualTasksPrivate getState and launchPanelInNewTab extension functions, including eligibility checks and AIM URL parameter handling.
+// ---
+
 #include "chrome/browser/extensions/api/contextual_tasks_private/contextual_tasks_private_api.h"
 
 #include "base/strings/strcat.h"

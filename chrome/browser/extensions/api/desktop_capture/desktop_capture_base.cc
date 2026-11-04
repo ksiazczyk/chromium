@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared desktop capture picker function base implementation
+// summary: Implements the shared picker execution, cancellation and test picker factory injection used by the desktop capture extension functions.
+// ---
+
 #include "chrome/browser/extensions/api/desktop_capture/desktop_capture_base.h"
 
 #include <memory>

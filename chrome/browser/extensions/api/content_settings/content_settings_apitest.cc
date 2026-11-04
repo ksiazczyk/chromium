@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the contentSettings extension API
+// summary: Extension API browser tests verifying content settings behavior across profiles, incognito contexts and plugin resource identifiers.
+// ---
+
 #include <memory>
 
 #include "base/files/file_util.h"

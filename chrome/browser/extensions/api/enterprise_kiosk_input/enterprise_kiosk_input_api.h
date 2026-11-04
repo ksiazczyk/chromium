@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise kiosk input API header
+// summary: Declares the EnterpriseKioskInputSetCurrentInputMethodFunction extension function class for the enterprise kiosk input API.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_KIOSK_INPUT_ENTERPRISE_KIOSK_INPUT_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_KIOSK_INPUT_ENTERPRISE_KIOSK_INPUT_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extensions API client implementation
+// summary: Implements ChromeExtensionsAPIClient, wiring Chrome-specific delegates and helpers for extension APIs such as messaging, storage, and guest views.
+// ---
+
 #include "chrome/browser/extensions/api/chrome_extensions_api_client.h"
 
 #include <memory>

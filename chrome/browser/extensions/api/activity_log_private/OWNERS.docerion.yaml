@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the activity_log_private API
+summary: Designates the code owner of the activity_log_private API directory and asks to keep it in sync with the activity_log OWNERS file.

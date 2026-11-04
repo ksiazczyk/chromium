@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activity log unit tests
+// summary: Unit tests for the ActivityLog class exercising action logging, URL-related API call tracking, and renderer startup helper interception.
+// ---
+
 #include "chrome/browser/extensions/activity_log/activity_log.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple scan runner
+// summary: Implements chrome.documentScan.scan by selecting a scanner, performing the scan and returning PNG image data or error messages.
+// ---
+
 #include "chrome/browser/extensions/api/document_scan/simple_scan_runner.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for developer_private dependencies
+summary: Defines per-file include exceptions for the developer_private directory, allowing specific headers for the helper, the API implementation and the unit test.
