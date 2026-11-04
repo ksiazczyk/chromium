@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the google_one directory
+summary: Sets include rules that block //chrome dependencies for ChromeOS while allowing the specific policy, profile, and message center includes this directory needs.

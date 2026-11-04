@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor menu utilities and card types
+// summary: Declares the CardType enum, layout constants, and GetEditorMenuBounds for placing the editor menu on-screen near its anchor view.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_EDITOR_MENU_UTILS_UTILS_H_
 #define CHROME_BROWSER_UI_ASH_EDITOR_MENU_UTILS_UTILS_H_
 

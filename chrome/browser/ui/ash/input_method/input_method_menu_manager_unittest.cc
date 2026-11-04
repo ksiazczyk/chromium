@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input method menu manager unit tests
+// summary: Unit tests covering singleton access, observer notification on menu item changes, and menu item lookup by key.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/input_method_menu_manager.h"
 
 #include <memory>

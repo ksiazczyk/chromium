@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window and WindowFactory implementation
+// summary: Creates and shows the extension dialog widget in the lock screen container and closes it when the Window is destroyed.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_screen_extension_ui/window.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

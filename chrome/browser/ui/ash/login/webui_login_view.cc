@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI login view implementation
+// summary: Implements the WebUILoginView widget that hosts the WebUI-based login and OOBE screen, wiring web contents, password manager, and accelerators.
+// ---
+
 #include "chrome/browser/ui/ash/login/webui_login_view.h"
 
 #include <memory>

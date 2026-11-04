@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputEventsBlocker implementation
+// summary: Implements a system-priority event handler that blocks key, mouse, touch and gesture input during login for short periods.
+// ---
+
 #include "chrome/browser/ui/ash/login/input_events_blocker.h"
 
 #include "ash/shell.h"

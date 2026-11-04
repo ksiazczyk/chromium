@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Undo window implementation
+// summary: Implements the autocorrect undo bubble window with an undo button and a learn more button.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/undo_window.h"
 
 #include <iostream>

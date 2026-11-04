@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped test mount point implementation
+// summary: Implements a scoped test helper that mounts a temporary external file system mount point such as Downloads and creates files for holding space tests.
+// ---
+
 #include "chrome/browser/ui/ash/holding_space/scoped_test_mount_point.h"
 
 #include "base/files/file_util.h"

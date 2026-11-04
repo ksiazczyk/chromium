@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnouncementLabel class declaration
+// summary: Declares AnnouncementLabel, a views Label used for delayed ChromeVox announcements via accessibility live regions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_ANNOUNCEMENT_LABEL_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_ANNOUNCEMENT_LABEL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Ash global media controls
+summary: Restricts //chrome includes for the directory and grants specific media router, browser process, and test dependencies to selected files.

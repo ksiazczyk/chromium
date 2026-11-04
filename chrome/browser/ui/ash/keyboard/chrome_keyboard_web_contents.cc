@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeKeyboardWebContents implementation
+// summary: Manages the WebContents hosting the virtual keyboard, including its delegate, zoom handling and bounds updates.
+// ---
+
 #include "chrome/browser/ui/ash/keyboard/chrome_keyboard_web_contents.h"
 
 #include <string>

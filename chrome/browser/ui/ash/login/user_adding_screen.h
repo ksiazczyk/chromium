@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User adding screen interface
+// summary: Declares the UserAddingScreen singleton interface with observer notifications for the multi-profile user adding flow.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_USER_ADDING_SCREEN_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_USER_ADDING_SCREEN_H_
 

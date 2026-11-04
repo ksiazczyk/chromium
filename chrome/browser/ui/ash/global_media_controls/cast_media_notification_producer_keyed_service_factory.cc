@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media notification producer keyed service factory implementation
+// summary: Implements the profile-keyed service factory that builds the Cast producer service only when the media router feature is enabled.
+// ---
+
 #include "chrome/browser/ui/ash/global_media_controls/cast_media_notification_producer_keyed_service_factory.h"
 
 #include "chrome/browser/media/router/chrome_media_router_factory.h"

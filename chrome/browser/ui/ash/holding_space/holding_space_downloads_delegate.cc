@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space downloads delegate implementation
+// summary: Implements the downloads delegate that tracks in-progress and recent downloads and creates holding space items for them.
+// ---
+
 #include "chrome/browser/ui/ash/holding_space/holding_space_downloads_delegate.h"
 
 #include <algorithm>

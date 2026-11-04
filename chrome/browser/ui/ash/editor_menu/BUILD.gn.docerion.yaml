@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the editor menu
+summary: Defines GN source sets for editor menu utilities, views, managers, unit tests and browser tests together with their dependencies.

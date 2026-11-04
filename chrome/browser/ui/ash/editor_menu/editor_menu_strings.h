@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor menu localized string getters header
+// summary: Declares functions that fetch localized editor menu strings for card titles, chip labels, prompt placeholders, tooltips and the experiment badge.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MENU_STRINGS_H_
 #define CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MENU_STRINGS_H_
 

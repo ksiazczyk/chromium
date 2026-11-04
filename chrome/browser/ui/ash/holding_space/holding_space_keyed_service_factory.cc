@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space keyed service factory implementation
+// summary: Implements the browser context keyed service factory that builds holding space services, handling guest sessions, OTR profiles, and kiosk users.
+// ---
+
 #include "chrome/browser/ui/ash/holding_space/holding_space_keyed_service_factory.h"
 
 #include "base/no_destructor.h"

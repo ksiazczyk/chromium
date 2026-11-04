@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginScreenClientImpl implementation
+// summary: Implements the ash login screen client that forwards authentication, pod focus, and session requests from ash to Chrome.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_screen_client_impl.h"
 
 #include <utility>

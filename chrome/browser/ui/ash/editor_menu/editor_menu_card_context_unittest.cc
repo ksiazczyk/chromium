@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Editor menu card context unit tests
+// summary: Parameterized unit tests verifying that EditorMenuCardContext computes the expected text-and-image mode and preset queries.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/editor_menu_card_context.h"
 
 #include <vector>

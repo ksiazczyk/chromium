@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Magic Boost opt-in card unit tests
+// summary: Unit tests for the Magic Boost opt-in card, covering button actions, label text and opt-in card metrics using mocked controllers.
+// ---
+
 #include "chrome/browser/ui/ash/magic_boost/magic_boost_opt_in_card.h"
 
 #include <memory>

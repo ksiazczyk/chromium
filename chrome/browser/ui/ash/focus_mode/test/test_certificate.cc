@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SHA-1 test certificate reader implementation
+// summary: Implements ReadSha1TestCertificate, which reads the SHA-1 signed PEM certificate from the focus mode test data directory.
+// ---
+
 #include "chrome/browser/ui/ash/focus_mode/test/test_certificate.h"
 
 #include "base/check.h"

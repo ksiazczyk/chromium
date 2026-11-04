@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Completion suggestion label view implementation
+// summary: Implements a styled label that renders a completion suggestion, styling the typed prefix and the predicted remainder with different colors.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/completion_suggestion_label_view.h"
 
 #include <string_view>

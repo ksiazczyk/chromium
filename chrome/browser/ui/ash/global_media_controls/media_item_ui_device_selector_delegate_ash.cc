@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash media item UI device selector delegate implementation
+// summary: Stub Ash implementation of the device selector delegate whose audio sink and media remoting methods are not yet implemented.
+// ---
+
 #include "chrome/browser/ui/ash/global_media_controls/media_item_ui_device_selector_delegate_ash.h"
 
 #include "base/notimplemented.h"

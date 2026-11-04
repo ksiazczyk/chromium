@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnouncementView class declaration
+// summary: Declares AnnouncementView, an empty bubble view holding an accessibility label for ChromeVox announcements from assistive features.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_ANNOUNCEMENT_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_ANNOUNCEMENT_VIEW_H_
 

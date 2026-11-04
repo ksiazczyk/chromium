@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for glanceables
+summary: Sets include rules that restrict //chrome dependencies for ChromeOS while allowing specific includes for this directory and its tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate manager implementation
+// summary: Implements certificate retrieval, caching, and request signing through the attestation service for Focus Mode content protection.
+// ---
+
 #include "chrome/browser/ui/ash/focus_mode/certificate_manager.h"
 
 #include <memory>

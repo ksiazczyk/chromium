@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoginWebView unit tests
+// summary: Unit tests covering close button visibility and tab focus traversal from the dialog view to the login shelf using a mocked login screen.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_screen_extension_ui/login_web_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion window view implementation
+// summary: Implements the suggestion window bubble UI that displays single or multiple completion suggestions with a setting link and learn more button.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/suggestion_window_view.h"
 
 #include <string>

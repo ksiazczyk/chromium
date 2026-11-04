@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginDisplayHost interface
+// summary: Defines the interface for OOBE and login screen hosts, documenting the inheritance graph of Mojo, WebUI, mock and fake hosts.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_DISPLAY_HOST_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_DISPLAY_HOST_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Ash login UI library
+summary: Defines the static library target, source files, and public and private dependencies for the ChromeOS Ash login UI code.

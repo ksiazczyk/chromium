@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodMenuItem implementation
+// summary: Implements the InputMethodMenuItem constructors and a debug string method for input method engine menu properties.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/input_method_menu_item.h"
 
 #include <sstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlanceablesKeyedService unit tests
+// summary: Unit tests verifying that the GlanceablesKeyedService registers and unregisters Classroom and Tasks clients with the Ash glanceables controller, including across user switches.
+// ---
+
 #include "chrome/browser/ui/ash/glanceables/glanceables_keyed_service.h"
 
 #include <memory>

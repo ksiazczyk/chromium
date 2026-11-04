@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for login screen extension UI
+summary: Defines the static library and unit test build targets with their sources and dependencies for the ChromeOS login screen extension UI.

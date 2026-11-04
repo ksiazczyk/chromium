@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor menu card context implementation
+// summary: Implements EditorMenuCardContext, deriving the combined text-and-image mode and preset queries from editor, lobster, and text selection states.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/editor_menu_card_context.h"
 
 #include "chrome/browser/ui/ash/editor_menu/editor_menu_strings.h"

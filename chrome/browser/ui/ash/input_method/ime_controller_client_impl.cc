@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImeControllerClientImpl implementation
+// summary: Implements the client that connects the ash IME controller to Chrome's input method manager, handling IME switching, caps lock, keyset overrides, and the mode indicator.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/ime_controller_client_impl.h"
 
 #include <memory>

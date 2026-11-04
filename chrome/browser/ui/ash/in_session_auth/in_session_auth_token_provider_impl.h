@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-session auth token provider header
+// summary: Declares the ash::InSessionAuthTokenProviderImpl class that exchanges a UserContext for an auth proof token used by in-session authentication.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_IN_SESSION_AUTH_IN_SESSION_AUTH_TOKEN_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_UI_ASH_IN_SESSION_AUTH_IN_SESSION_AUTH_TOKEN_PROVIDER_IMPL_H_
 

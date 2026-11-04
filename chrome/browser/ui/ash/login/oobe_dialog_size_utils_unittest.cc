@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE dialog size utilities unit tests
+// summary: Unit tests verifying OOBE dialog sizing and centering across Chromebook, virtual keyboard, and docked magnifier scenarios.
+// ---
+
 #include "chrome/browser/ui/ash/login/oobe_dialog_size_utils.h"
 
 #include <stddef.h>

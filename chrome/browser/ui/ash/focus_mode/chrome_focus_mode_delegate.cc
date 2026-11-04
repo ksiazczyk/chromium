@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome focus mode delegate implementation
+// summary: Implements the browser-side FocusModeDelegate, creating the YouTube Music client, request sender, and request signer for Focus Mode sounds.
+// ---
+
 #include "chrome/browser/ui/ash/focus_mode/chrome_focus_mode_delegate.h"
 
 #include "ash/shell.h"

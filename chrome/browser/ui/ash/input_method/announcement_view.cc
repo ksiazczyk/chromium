@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnouncementView implementation for offscreen announcements
+// summary: Implements an invisible bubble dialog hosting an AnnouncementLabel so assistive features can trigger ChromeVox announcements.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/announcement_view.h"
 
 #include "base/time/time.h"

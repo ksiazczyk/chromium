@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google One offer IPH tab helper header
+// summary: Declares GoogleOneOfferIphTabHelper, a WebContentsObserver that triggers the Google One offer notification on Drive or Photos visits via feature engagement.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_GOOGLE_ONE_GOOGLE_ONE_OFFER_IPH_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_ASH_GOOGLE_ONE_GOOGLE_ONE_OFFER_IPH_TAB_HELPER_H_
 

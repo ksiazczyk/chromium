@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor menu textfield view implementation
+// summary: Implements the editor menu text input view, pairing a textfield with a send arrow button that appears for non-empty contents and submits on Return.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/editor_menu_textfield_view.h"
 
 #include <algorithm>

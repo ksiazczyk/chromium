@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginWebDialog class declaration
+// summary: Declares LoginWebDialog, a WebDialogDelegate that launches a web dialog with a given URL and title during OOBE or login.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_WEB_DIALOG_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_WEB_DIALOG_H_
 

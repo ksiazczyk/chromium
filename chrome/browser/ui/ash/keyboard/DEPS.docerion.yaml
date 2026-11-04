@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the keyboard directory
+summary: Sets include rules limiting //chrome dependencies for the keyboard directory, with extra allowances for test files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginUIPrefController implementation
+// summary: Implements LoginUIPrefController, which applies owner preferences such as mouse, touchpad, and geolocation settings on the login screen.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_ui_pref_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

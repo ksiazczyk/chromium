@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Glanceables BUILD.gn build file
+summary: Defines the glanceables static library plus its unit test and browser test targets with source files and dependencies.

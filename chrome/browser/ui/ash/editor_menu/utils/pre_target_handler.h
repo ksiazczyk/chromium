@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pre-target handler for editor menu companion views
+// summary: Declares PreTargetHandler, which handles mouse and key events to update background colors or dismiss Quick Answers, Editor Menu, and Mahi Menu views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_EDITOR_MENU_UTILS_PRE_TARGET_HANDLER_H_
 #define CHROME_BROWSER_UI_ASH_EDITOR_MENU_UTILS_PRE_TARGET_HANDLER_H_
 

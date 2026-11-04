@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GraduationManagerImpl browser tests
+// summary: Browser tests verifying GraduationManagerImpl behavior using mock clocks, a logged-in user mixin and system web app test support.
+// ---
+
 #include "chrome/browser/ui/ash/graduation/graduation_manager_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal sign-in view implementation
+// summary: Implements the login-screen view that loads the captive portal probe URL and notifies the proxy when a network redirect is detected.
+// ---
+
 #include "chrome/browser/ui/ash/login/captive_portal_view.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

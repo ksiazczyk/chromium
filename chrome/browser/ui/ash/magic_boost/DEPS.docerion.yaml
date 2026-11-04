@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Magic Boost UI directory
+summary: Restricts allowed includes for the directory and grants extra include permissions to unit test files.

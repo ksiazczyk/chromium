@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for input method UI
+summary: Sets include rules restricting //chrome dependencies for this ChromeOS input method UI directory, with exceptions for pixel tests.

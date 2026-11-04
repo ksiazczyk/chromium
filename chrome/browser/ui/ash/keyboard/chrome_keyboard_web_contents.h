@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeKeyboardWebContents header
+// summary: Declares the WebContents manager that loads the keyboard URL and notifies the controller when contents finish loading.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_KEYBOARD_CHROME_KEYBOARD_WEB_CONTENTS_H_
 #define CHROME_BROWSER_UI_ASH_KEYBOARD_CHROME_KEYBOARD_WEB_CONTENTS_H_
 

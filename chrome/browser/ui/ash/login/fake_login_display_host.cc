@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake login display host implementation for tests
+// summary: Provides a stub LoginDisplayHost used in tests, wiring a fake wizard controller, fake screen, and session manager without real UI.
+// ---
+
 #include "chrome/browser/ui/ash/login/fake_login_display_host.h"
 
 #include "base/notreached.h"

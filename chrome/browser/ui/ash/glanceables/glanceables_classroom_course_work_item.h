@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Classroom course work item header
+// summary: Declares GlanceablesClassroomCourseWorkItem and the simplified student submission state enum used by glanceables.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_GLANCEABLES_GLANCEABLES_CLASSROOM_COURSE_WORK_ITEM_H_
 #define CHROME_BROWSER_UI_ASH_GLANCEABLES_GLANCEABLES_CLASSROOM_COURSE_WORK_ITEM_H_
 

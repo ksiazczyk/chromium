@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeKeyboardWebContents unit tests
+// summary: Tests that setting a new keyboard URL opens the page through the WebContents delegate.
+// ---
+
 #include "chrome/browser/ui/ash/keyboard/chrome_keyboard_web_contents.h"
 
 #include <memory>

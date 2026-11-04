@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Magic Boost BUILD.gn build definition
+summary: Defines the GN source sets, dependencies, and unit test targets for the Magic Boost opt-in UI code in this directory.

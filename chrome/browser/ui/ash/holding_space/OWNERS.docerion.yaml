@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Holding space OWNERS
+summary: Delegates code ownership for the holding space directory to the shared holding space OWNERS file.

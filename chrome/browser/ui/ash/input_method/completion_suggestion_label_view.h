@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Completion suggestion label view class declaration
+// summary: Declares CompletionSuggestionLabelView, a styled label that distinguishes the typed prefix from the predicted part of a completion suggestion.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_COMPLETION_SUGGESTION_LABEL_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_COMPLETION_SUGGESTION_LABEL_VIEW_H_
 

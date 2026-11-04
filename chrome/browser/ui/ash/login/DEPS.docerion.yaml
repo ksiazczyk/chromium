@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Ash login UI directory
+summary: Specifies allowed include dependencies for the login UI code, with per-file exceptions for tests, fakes, and global feature access.

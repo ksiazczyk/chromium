@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate manager unit tests
+// summary: Unit tests verifying certificate retrieval, policy denial, caching, and signing behavior using mocked attestation flow and fake clients.
+// ---
+
 #include "chrome/browser/ui/ash/focus_mode/certificate_manager.h"
 
 #include <memory>

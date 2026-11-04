@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the editor menu directory
+summary: Restricts Chromium includes for the directory while allowing input method, lobster, profile and read-write-card dependencies.

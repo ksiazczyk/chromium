@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor menu localized string getters implementation
+// summary: Implements helper functions that return localized UI strings for the editor menu, such as card titles, prompt placeholders, tooltips and the experiment badge label.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/editor_menu_strings.h"
 
 #include "chromeos/strings/grit/chromeos_strings.h"

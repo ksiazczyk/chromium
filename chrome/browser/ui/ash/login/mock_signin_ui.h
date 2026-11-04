@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSigninUI mock class declaration
+// summary: Declares a gmock implementation of SigninUI used to fake signin actions such as onboarding and encryption migration in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_MOCK_SIGNIN_UI_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_MOCK_SIGNIN_UI_H_
 

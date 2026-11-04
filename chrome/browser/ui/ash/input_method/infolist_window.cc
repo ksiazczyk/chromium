@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infolist window implementation
+// summary: Implements the infolist bubble window that shows IME entry titles and descriptions beside the candidate window, with delayed show and hide behavior.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/infolist_window.h"
 
 #include <stddef.h>

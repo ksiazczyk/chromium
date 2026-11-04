@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the input method UI library and tests
+summary: Defines the static library target for input method UI views plus unit test and browser test source sets with their dependencies.

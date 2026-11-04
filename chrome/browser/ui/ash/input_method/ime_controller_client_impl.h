@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImeControllerClientImpl class declaration
+// summary: Declares ImeControllerClientImpl, the bridge between the ash IME controller and Chrome's input method manager, with observer interfaces for IME, menu, and caps lock changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_IME_CONTROLLER_CLIENT_IMPL_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_IME_CONTROLLER_CLIENT_IMPL_H_
 

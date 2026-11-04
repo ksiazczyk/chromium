@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE dialog utility implementation
+// summary: Implements OobeDialogUtil to supply OOBE dialog shadow elevation, corner radius, and calculated dialog size.
+// ---
+
 #include "chrome/browser/ui/ash/login/oobe_dialog_util_impl.h"
 
 #include "chrome/browser/ui/ash/login/oobe_dialog_size_utils.h"

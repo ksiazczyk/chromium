@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Game Dashboard BUILD.gn build definition
+summary: Defines the game_dashboard static library target with its source files and dependencies for the ChromeOS game dashboard.

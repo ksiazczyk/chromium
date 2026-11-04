@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Completion suggestion view class declaration
+// summary: Declares CompletionSuggestionView, a button that renders input method suggestions with annotations, highlighting, and anchor origin support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_COMPLETION_SUGGESTION_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_COMPLETION_SUGGESTION_VIEW_H_
 

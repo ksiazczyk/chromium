@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the graduation directory
+summary: Delegates code review ownership for this directory to the owners listed in ash/child_accounts/OWNERS.

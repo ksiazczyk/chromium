@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost opt-in card view header
+// summary: Declares the MagicBoostOptInCard view class, its widget creation helper, widget bounds updates and button callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_MAGIC_BOOST_MAGIC_BOOST_OPT_IN_CARD_H_
 #define CHROME_BROWSER_UI_ASH_MAGIC_BOOST_MAGIC_BOOST_OPT_IN_CARD_H_
 

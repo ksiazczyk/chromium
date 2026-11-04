@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Google One offer IPH tab helper
+// summary: Browser tests verifying the Google One offer notification behavior using a mock feature engagement tracker across configurable session and environment setups.
+// ---
+
 #include <memory>
 #include <string_view>
 

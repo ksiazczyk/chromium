@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Completion suggestion label view unit tests
+// summary: Unit tests verifying text, child labels, primary and secondary colors, and prefix width behavior of the completion suggestion label view.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/completion_suggestion_label_view.h"
 
 #include <stddef.h>

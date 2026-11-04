@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the editor menu directory
+summary: Delegates code ownership to the OWNERS file of chromeos/ash/components/editor_menu.

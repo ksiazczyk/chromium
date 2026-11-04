@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constants for the Google One offer IPH notification
+// summary: Defines fallback notification texts, notification and notifier IDs, the offer URL, IPH event names, and feature parameter names for the Google One offer.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_GOOGLE_ONE_GOOGLE_ONE_OFFER_IPH_TAB_HELPER_CONSTANTS_H_
 #define CHROME_BROWSER_UI_ASH_GOOGLE_ONE_GOOGLE_ONE_OFFER_IPH_TAB_HELPER_CONSTANTS_H_
 

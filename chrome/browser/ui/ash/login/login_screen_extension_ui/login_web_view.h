@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginWebView class declaration
+// summary: Declares a WebDialogView subclass for chrome.loginScreenUi API dialogs that handles focus cycling with the system tray and login shelf.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_SCREEN_EXTENSION_UI_LOGIN_WEB_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_SCREEN_EXTENSION_UI_LOGIN_WEB_VIEW_H_
 

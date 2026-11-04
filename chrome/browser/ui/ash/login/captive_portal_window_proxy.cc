@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal window proxy implementation
+// summary: Implements the proxy managing the captive portal dialog lifecycle, including a widget themed with the signin profile.
+// ---
+
 #include "chrome/browser/ui/ash/login/captive_portal_window_proxy.h"
 
 #include "base/memory/raw_ptr.h"

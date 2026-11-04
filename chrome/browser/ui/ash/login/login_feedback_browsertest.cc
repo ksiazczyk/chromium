@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login feedback browser tests
+// summary: Browser tests verifying that the OS feedback dialog opens and is active on the login screen and during OOBE.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_feedback.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space file system delegate implementation
+// summary: Implements the delegate that verifies backing files of holding space items and watches the file system, Drive, and ARC for file changes, removals, renames, and moves.
+// ---
+
 #include "chrome/browser/ui/ash/holding_space/holding_space_file_system_delegate.h"
 
 #include <algorithm>

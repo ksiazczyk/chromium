@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor menu bubble view implementation
+// summary: Implements the bubble-style editor menu view with title, badge, preset query chips, tabbed pane and textfield, including widget creation and layout logic.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/editor_menu_view.h"
 
 #include <algorithm>

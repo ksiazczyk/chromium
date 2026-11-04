@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus search implementation for editor menu views
+// summary: Implements FocusSearch, which cycles focus through focusable views supplied by a callback for Quick Answers and Editor Menu views.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/utils/focus_search.h"
 
 #include "ui/views/focus/focus_search.h"

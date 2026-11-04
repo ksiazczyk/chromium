@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor menu textfield view header
+// summary: Declares the editor menu textfield view, a views::View and TextfieldController that hosts a text input with an arrow button and forwards events to a delegate.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MENU_TEXTFIELD_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MENU_TEXTFIELD_VIEW_H_
 

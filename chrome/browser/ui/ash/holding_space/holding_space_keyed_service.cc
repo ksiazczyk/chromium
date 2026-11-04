@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space keyed service
+// summary: Implements the per-profile keyed service that manages the holding space data model, records usage metrics, and serves as the entry point for adding items from Chrome.
+// ---
+
 #include "chrome/browser/ui/ash/holding_space/holding_space_keyed_service.h"
 
 #include <algorithm>

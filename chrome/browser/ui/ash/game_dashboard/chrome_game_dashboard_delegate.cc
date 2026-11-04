@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeGameDashboardDelegate implementation
+// summary: Implements the Chrome-side game dashboard delegate, determining whether ARC apps are games and recording game window opened events.
+// ---
+
 #include "chrome/browser/ui/ash/game_dashboard/chrome_game_dashboard_delegate.h"
 
 #include "ash/multi_user/multi_user_window_manager.h"

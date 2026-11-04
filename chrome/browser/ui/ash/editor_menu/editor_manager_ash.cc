@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorManagerAsh implementation
+// summary: Implements EditorManagerAsh by delegating editor panel calls to the input method EditorPanelManagerImpl and forwarding mode change notifications to observers.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/editor_manager_ash.h"
 
 #include <string_view>

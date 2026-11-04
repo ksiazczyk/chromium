@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Magic Boost card controller
+// summary: Tests the opt-in widget show and dismiss behavior of MagicBoostCardController using mock controllers, state, and event proxies.
+// ---
+
 #include "chrome/browser/ui/ash/magic_boost/magic_boost_card_controller.h"
 
 #include <memory>

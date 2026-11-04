@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-session auth token provider implementation
+// summary: Implements InSessionAuthTokenProviderImpl, registering with the in-session auth dialog controller and exchanging a UserContext for an auth proof token.
+// ---
+
 #include "chrome/browser/ui/ash/in_session_auth/in_session_auth_token_provider_impl.h"
 
 #include "ash/constants/ash_features.h"

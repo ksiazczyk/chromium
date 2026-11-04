@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginDisplayHostWebUI implementation
+// summary: Implements the WebUI-based login display host that shows OOBE wizard screens and the legacy account picker on ChromeOS.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_display_host_webui.h"
 
 #include <memory>

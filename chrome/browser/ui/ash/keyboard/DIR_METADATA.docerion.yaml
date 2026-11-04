@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the keyboard folder
+summary: Points the directory metadata at the shared Ash IME COMMON_METADATA mixins.

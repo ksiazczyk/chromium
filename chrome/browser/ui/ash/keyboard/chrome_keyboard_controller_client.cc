@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome keyboard controller client implementation
+// summary: Implements the singleton client that observes keyboard preferences and forwards Ash KeyboardController state to Chrome.
+// ---
+
 #include "chrome/browser/ui/ash/keyboard/chrome_keyboard_controller_client.h"
 
 #include <memory>

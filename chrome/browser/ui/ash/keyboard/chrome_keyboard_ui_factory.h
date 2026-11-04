@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeKeyboardUIFactory header
+// summary: Declares the factory class that instantiates ChromeKeyboardUI for the keyboard controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_KEYBOARD_CHROME_KEYBOARD_UI_FACTORY_H_
 #define CHROME_BROWSER_UI_ASH_KEYBOARD_CHROME_KEYBOARD_UI_FACTORY_H_
 

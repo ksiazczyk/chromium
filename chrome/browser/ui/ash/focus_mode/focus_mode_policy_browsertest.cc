@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus mode sounds policy browser tests
+// summary: Browser tests verifying that the FocusModeSoundsEnabled policy values enabled, focus-sounds, and disabled control the sounds view.
+// ---
+
 #include <string_view>
 
 #include "ash/constants/ash_features.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Chrome keyboard UI library
+summary: Defines the keyboard static library plus test support, unit test, and browser test targets for the ChromeOS keyboard UI.

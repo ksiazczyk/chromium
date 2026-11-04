@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method menu manager header
+// summary: Declares the singleton InputMethodMenuManager class with observer registration, menu item list accessors, and lookup by key.
+// ---
+
 #include "base/observer_list.h"
 #include "chrome/browser/ui/ash/input_method/input_method_menu_item.h"
 #include "ui/chromeos/ui_chromeos_export.h"

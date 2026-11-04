@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glanceables browser tests
+// summary: In-process browser tests exercising the classroom and tasks glanceables UI, including views, menus and error toasts.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal sign-in view class declaration
+// summary: Declares CaptivePortalView, a views view hosting a simple web view used for captive portal sign-in on the ChromeOS login screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_CAPTIVE_PORTAL_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_CAPTIVE_PORTAL_VIEW_H_
 

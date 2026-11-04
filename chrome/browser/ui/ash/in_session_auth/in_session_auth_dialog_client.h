@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-session auth dialog client header
+// summary: Declares the InSessionAuthDialogClient class that handles method calls from Ash to ChromeOS, covering auth sessions, password, PIN and fingerprint flows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_IN_SESSION_AUTH_IN_SESSION_AUTH_DIALOG_CLIENT_H_
 #define CHROME_BROWSER_UI_ASH_IN_SESSION_AUTH_IN_SESSION_AUTH_DIALOG_CLIENT_H_
 

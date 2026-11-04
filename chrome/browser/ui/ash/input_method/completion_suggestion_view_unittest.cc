@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Completion suggestion view unit tests
+// summary: Unit tests checking that the anchor origin depends on padding and the prefix width when part of the suggestion is confirmed.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/completion_suggestion_view.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus search class for editor menu views
+// summary: Declares FocusSearch, a views::FocusSearch subclass managing focus traversal order for Quick Answers and Editor Menu related views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_EDITOR_MENU_UTILS_FOCUS_SEARCH_H_
 #define CHROME_BROWSER_UI_ASH_EDITOR_MENU_UTILS_FOCUS_SEARCH_H_
 

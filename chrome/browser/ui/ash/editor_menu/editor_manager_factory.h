@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor manager factory declaration
+// summary: Declares CreateEditorManager, which builds an EditorManager instance for a given browser context.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_UI_ASH_EDITOR_MENU_EDITOR_MANAGER_FACTORY_H_
 

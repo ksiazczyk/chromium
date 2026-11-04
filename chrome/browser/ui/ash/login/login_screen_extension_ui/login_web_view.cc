@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginWebView implementation
+// summary: Implements the login screen web dialog view, wiring focus traversal between the dialog, login shelf and system tray.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_screen_extension_ui/login_web_view.h"
 
 #include "ash/public/cpp/login_screen.h"

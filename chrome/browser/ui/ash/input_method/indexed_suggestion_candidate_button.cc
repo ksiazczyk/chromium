@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indexed suggestion candidate button implementation
+// summary: Implements a button view that displays a suggestion candidate text with its numeric index stacked vertically for the IME candidate UI, with highlight support.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/indexed_suggestion_candidate_button.h"
 
 #include "chrome/browser/ui/ash/input_method/colors.h"

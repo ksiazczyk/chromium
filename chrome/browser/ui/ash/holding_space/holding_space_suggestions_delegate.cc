@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space suggestions delegate implementation
+// summary: Implements fetching and updating of Drive and local file suggestions in the holding space model.
+// ---
+
 #include "chrome/browser/ui/ash/holding_space/holding_space_suggestions_delegate.h"
 
 #include <algorithm>

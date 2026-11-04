@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pre-target handler view implementation
+// summary: Implements PreTargetHandlerView, which attaches a PreTargetHandler and manages its lifecycle across widget activation and destruction.
+// ---
+
 #include "chrome/browser/ui/ash/editor_menu/utils/pre_target_handler_view.h"
 
 #include <memory>

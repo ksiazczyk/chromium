@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE UI dialog delegate implementation
+// summary: Implements the delegate managing the OOBE UI dialog widget, including its lifecycle, accelerators, and captive portal handling.
+// ---
+
 #include "chrome/browser/ui/ash/login/oobe_ui_dialog_delegate.h"
 
 #include <memory>

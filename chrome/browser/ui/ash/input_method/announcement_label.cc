@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Announcement label implementation for ChromeVox live regions
+// summary: Implements a label that announces text to ChromeVox through a polite live region after a configurable delay.
+// ---
+
 #include "chrome/browser/ui/ash/input_method/announcement_label.h"
 
 #include "base/time/time.h"

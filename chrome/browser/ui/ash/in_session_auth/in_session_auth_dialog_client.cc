@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-session auth dialog client implementation
+// summary: Implements InSessionAuthDialogClient, handling password, PIN and fingerprint authentication through cryptohome and opening the in-session auth help page.
+// ---
+
 #include "chrome/browser/ui/ash/in_session_auth/in_session_auth_dialog_client.h"
 
 #include <utility>

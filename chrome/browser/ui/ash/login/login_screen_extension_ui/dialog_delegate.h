@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogDelegate class declaration
+// summary: Declares the WebDialogDelegate subclass that feeds chrome.loginScreenUi API data such as title, URL and close policy into the WebDialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_SCREEN_EXTENSION_UI_DIALOG_DELEGATE_H_
 #define CHROME_BROWSER_UI_ASH_LOGIN_LOGIN_SCREEN_EXTENSION_UI_DIALOG_DELEGATE_H_
 

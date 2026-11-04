@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateOptions implementation
+// summary: Implements the constructor of the CreateOptions struct that carries extension name, content URL, close permission and close callback for the login screen dialog.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_screen_extension_ui/create_options.h"
 
 #include <memory>

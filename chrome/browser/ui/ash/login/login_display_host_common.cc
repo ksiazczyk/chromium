@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginDisplayHostCommon implementation
+// summary: Implements UI-agnostic login host behavior shared between the Mojo and WebUI hosts, covering sign-in, kiosk, OOBE and session flows.
+// ---
+
 #include "chrome/browser/ui/ash/login/login_display_host_common.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Candidate window view class header
+// summary: Declares CandidateWindowView, the main bubble container managing lookup table, preedit and auxiliary text views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_INPUT_METHOD_CANDIDATE_WINDOW_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_INPUT_METHOD_CANDIDATE_WINDOW_VIEW_H_
 

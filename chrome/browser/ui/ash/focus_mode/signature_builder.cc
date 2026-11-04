@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignatureBuilder implementation for YMC request signing
+// summary: Implements the SignatureBuilder that assembles device info, payload digests, and signature params, then signs the signature base via the certificate manager to produce HTTP headers for YMC API requests.
+// ---
+
 #include "chrome/browser/ui/ash/focus_mode/signature_builder.h"
 
 #include "base/base64.h"
