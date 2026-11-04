@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility settings bridge JNI implementation
+// summary: Implements JNI functions that read and write the caret browsing and show-caret-browsing-dialog preferences for a given profile on Android.
+// ---
+
 #include "chrome/browser/accessibility/settings/android/accessibility_settings_bridge.h"
 
 #include "chrome/android/chrome_jni_headers/AccessibilitySettingsBridge_jni.h"

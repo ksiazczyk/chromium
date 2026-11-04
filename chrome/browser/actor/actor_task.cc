@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTask implementation
+// summary: Implements ActorTask, which tracks the state of a single actor interaction session across turns, controlled tabs, and actor or user control states.
+// ---
+
 #include "chrome/browser/actor/actor_task.h"
 
 #include <memory>

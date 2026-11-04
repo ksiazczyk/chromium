@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab observation strategy implementation
+// summary: Implements vote tallying for per-surface screenshot and page content extraction policies, combining votes with max and locking them before queries.
+// ---
+
 #include "chrome/browser/actor/tab_observation_strategy.h"
 
 #include <algorithm>

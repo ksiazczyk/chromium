@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for accessibility settings
+summary: Defines an Android-only source set for the accessibility settings bridge sources and its build dependencies.

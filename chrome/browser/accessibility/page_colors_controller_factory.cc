@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page colors controller factory implementation
+// summary: Builds the per-profile PageColorsController keyed service, redirecting incognito to the original profile while excluding guest and system profiles.
+// ---
+
 #include "chrome/browser/accessibility/page_colors_controller_factory.h"
 
 #include "chrome/browser/accessibility/page_colors_controller.h"

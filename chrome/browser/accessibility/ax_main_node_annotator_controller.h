@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX main node annotator controller header
+// summary: Declares the keyed service that manages the main landmark annotation feature and observes preference and assistive technology changes.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_AX_MAIN_NODE_ANNOTATOR_CONTROLLER_H_
 #define CHROME_BROWSER_ACCESSIBILITY_AX_MAIN_NODE_ANNOTATOR_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab observation controller browser tests
+// summary: In-process browser tests verifying tab observation results, screenshot and page content status metrics, and related behavior of the observation controller.
+// ---
+
 #include "chrome/browser/actor/tab_observation_controller.h"
 
 #include "base/test/metrics/histogram_tester.h"

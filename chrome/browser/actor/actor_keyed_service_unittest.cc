@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor keyed service unit tests
+// summary: Unit tests for the actor keyed service covering task creation, task stopping, and interaction with the surface registry and UI state manager mocks.
+// ---
+
 #include "chrome/browser/actor/actor_keyed_service.h"
 
 #include <memory>

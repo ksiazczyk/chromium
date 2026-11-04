@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXMediaAppServiceFactory implementation
+// summary: Implements the singleton factory that creates untrusted accessibility service instances for media app windows.
+// ---
+
 #include "chrome/browser/accessibility/media_app/ax_media_app_service_factory.h"
 
 #include <memory>

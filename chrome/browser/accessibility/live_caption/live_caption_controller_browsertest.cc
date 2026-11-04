@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Live Caption controller browser test
+// summary: Browser tests for the Live Caption controller covering transcription dispatch, errors, audio stream end, and multiple profiles.
+// ---
+
 #include "components/live_caption/live_caption_controller.h"
 
 #include <ranges>

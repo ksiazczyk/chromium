@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor test utilities unit tests
+// summary: Unit tests verifying the base64 proto parsing helpers in actor_test_util.h, covering valid proto decoding and errors on non-base64 input.
+// ---
+
 #include "chrome/browser/actor/actor_test_util.h"
 
 #include "components/optimization_guide/proto/features/actions_data.pb.h"

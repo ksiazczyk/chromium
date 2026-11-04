@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor navigation throttle unit tests
+// summary: Unit tests for the navigation throttle covering deferral, user confirmation dialogs, and blocked navigation destinations.
+// ---
+
 #include "chrome/browser/actor/actor_navigation_throttle.h"
 
 #include <optional>

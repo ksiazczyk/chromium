@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorSurfaceTabHelper header
+// summary: Declares a per-tab helper that guarantees each tab has an ActorSurface in the registry for its lifetime, owned by TabFeatures.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_SURFACE_TAB_HELPER_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_SURFACE_TAB_HELPER_H_
 

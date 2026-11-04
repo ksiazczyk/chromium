@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill selection dialog event handler interface
+// summary: Defines an interface for handling asynchronous autofill selection dialog events in the Glic UI, covering form presentation, preview changes, and confirmation.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_AUTOFILL_SELECTION_DIALOG_EVENT_HANDLER_H_
 #define CHROME_BROWSER_ACTOR_AUTOFILL_SELECTION_DIALOG_EVENT_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX tree fixing services router implementation
+// summary: Implements the router that observes web contents and dispatches main node and heading identification requests to downstream accessibility services.
+// ---
+
 #include "chrome/browser/accessibility/tree_fixing/ax_tree_fixing_services_router.h"
 
 #include "base/check.h"

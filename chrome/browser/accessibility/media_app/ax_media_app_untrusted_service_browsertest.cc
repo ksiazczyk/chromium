@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXMediaAppUntrustedService browser tests
+// summary: Browser tests for the media app untrusted accessibility service covering OCR status, trees, and accessibility actions.
+// ---
+
 #include "chrome/browser/accessibility/media_app/ax_media_app_untrusted_service.h"
 
 #include <stdint.h>

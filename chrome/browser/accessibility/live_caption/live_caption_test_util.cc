@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Live Caption browser test utilities
+// summary: Implements the LiveCaptionBrowserTest base class that enables required feature flags, toggles Live Caption and Live Translate prefs, and fakes SODA installation.
+// ---
+
 #include "chrome/browser/accessibility/live_caption/live_caption_test_util.h"
 
 #include <vector>

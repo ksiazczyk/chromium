@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Live Caption unavailability notifier unit tests
+// summary: Unit tests checking that Media Foundation renderer errors can be silenced per origin through the do-not-show-again checkbox.
+// ---
+
 #include "chrome/browser/accessibility/live_caption/live_caption_unavailability_notifier.h"
 
 #include "base/memory/raw_ptr.h"

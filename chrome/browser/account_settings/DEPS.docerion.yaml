@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for account_settings
+summary: Declares the allowed include directories for code in the account_settings browser folder, covering profiles, sync, and account_settings components.

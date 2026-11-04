@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor proto conversion declarations
+// summary: Declares functions that build tool requests from action protos and map rule metadata capabilities to client tools.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_PROTO_CONVERSION_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_PROTO_CONVERSION_H_
 

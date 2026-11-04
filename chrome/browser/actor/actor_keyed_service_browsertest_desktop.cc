@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop-specific ActorKeyedService browser tests
+// summary: Runs desktop browser tests for stopping paused tasks and cleaning up one-shot tab observers.
+// ---
+
 #include "base/run_loop.h"
 #include "base/task/single_thread_task_runner.h"
 #include "chrome/browser/actor/actor_keyed_service.h"

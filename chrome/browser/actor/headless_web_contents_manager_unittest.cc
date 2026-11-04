@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless web contents manager unit tests
+// summary: Unit tests verifying that headless WebContents destruction notifies observers while the contents are still valid, including page-initiated closes.
+// ---
+
 #include "chrome/browser/actor/headless_web_contents_manager.h"
 
 #include <memory>

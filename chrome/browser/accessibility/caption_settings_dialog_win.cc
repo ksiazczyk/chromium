@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption settings dialog for Windows
+// summary: Windows implementation that opens the ease-of-access closed captioning settings page via ShellExecute on a blocking task.
+// ---
+
 #include "chrome/browser/accessibility/caption_settings_dialog.h"
 
 #include <windows.h>

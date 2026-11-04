@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Execution engine unit tests
+// summary: Unit tests for the execution engine covering state transitions, tool requests, gating decisions, and result histograms.
+// ---
+
 #include "chrome/browser/actor/execution_engine.h"
 
 #include <algorithm>

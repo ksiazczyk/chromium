@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the actor directory
+summary: Specifies per-file include rules that govern which headers files in the actor directory may depend on, especially the actor UI layer.

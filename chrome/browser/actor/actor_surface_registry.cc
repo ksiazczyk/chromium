@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorSurfaceRegistry implementation
+// summary: Implements per-profile ownership and lifecycle of actor surfaces, including tab creation, headless contents, and promotion or demotion.
+// ---
+
 #include "chrome/browser/actor/actor_surface_registry.h"
 
 #include <memory>

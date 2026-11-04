@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab annotation manager unit tests
+// summary: Unit tests for TabAnnotationManager using a fake annotation agent container to verify highlight creation, attachment results, and agent disconnection handling.
+// ---
+
 #include "chrome/browser/actor/tab_annotation_manager.h"
 
 #include <string>

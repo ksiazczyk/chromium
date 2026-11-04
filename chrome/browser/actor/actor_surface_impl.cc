@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorSurfaceImpl implementation
+// summary: Implements the concrete actor surface that holds either a tab handle or a headless WebContents and registers its handle for lookup.
+// ---
+
 #include "chrome/browser/actor/actor_surface_impl.h"
 
 #include "base/check.h"

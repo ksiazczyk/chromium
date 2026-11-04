@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor proto conversion implementation
+// summary: Converts optimization guide action protos into actor tool requests, client tool sets, and task policy configurations.
+// ---
+
 #include "chrome/browser/actor/actor_proto_conversion.h"
 
 #include <algorithm>

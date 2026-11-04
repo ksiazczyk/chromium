@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX main node annotator controller
+// summary: Implements the controller that toggles main node annotations based on screen reader activity, preferences, and ScreenAI service readiness.
+// ---
+
 #include "chrome/browser/accessibility/ax_main_node_annotator_controller.h"
 
 #include "base/check.h"

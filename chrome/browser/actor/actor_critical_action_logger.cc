@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor critical action logger implementation
+// summary: Evaluates completed actor tool actions such as form fills, logins, and Web MCP tool calls and logs critical ones to the CriticalActionService.
+// ---
+
 #include "chrome/browser/actor/actor_critical_action_logger.h"
 
 #include <optional>

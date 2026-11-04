@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Execution engine browser tests
+// summary: Browser tests covering the execution engine's task execution, tool invocation, and related UI and navigation behavior.
+// ---
+
 #include "chrome/browser/actor/execution_engine.h"
 
 #include <optional>

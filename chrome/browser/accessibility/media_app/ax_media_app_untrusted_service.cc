@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXMediaAppUntrustedService implementation
+// summary: Implements the OCR-driven accessibility service that builds and updates accessibility trees for PDF pages in the media app.
+// ---
+
 #include "chrome/browser/accessibility/media_app/ax_media_app_untrusted_service.h"
 
 #include <algorithm>

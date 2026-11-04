@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor actions runner implementation
+// summary: Implements execution of a batch of optimization guide proto actions in a transient actor task, injecting tab IDs and collecting results.
+// ---
+
 #include "chrome/browser/actor/actor_actions_runner.h"
 
 #include <utility>

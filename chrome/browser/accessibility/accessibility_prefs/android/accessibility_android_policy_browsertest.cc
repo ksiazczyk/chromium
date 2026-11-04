@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility Android policy browser tests
+// summary: Browser tests verifying that the accessibility performance filtering and renderer accessibility policies control the browser accessibility state.
+// ---
+
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/policy/policy_test_utils.h"
 #include "components/policy/core/common/policy_map.h"

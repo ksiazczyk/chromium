@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor script tool receiver implementation
+// summary: Implements the per-document ScriptToolHost receiver that interrupts the active actor task with user control retained when script execution pauses.
+// ---
+
 #include "chrome/browser/actor/actor_script_tool_receiver.h"
 
 #include "chrome/browser/actor/actor_keyed_service.h"

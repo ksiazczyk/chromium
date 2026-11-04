@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash accessibilityPrivate extension API declarations
+// summary: Declares ExtensionFunction classes for the ChromeOS accessibilityPrivate API, including darkenScreen, enableLiveCaption, and setCursorPosition.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_ACCESSIBILITY_EXTENSION_API_ASH_H_
 #define CHROME_BROWSER_ACCESSIBILITY_ACCESSIBILITY_EXTENSION_API_ASH_H_
 

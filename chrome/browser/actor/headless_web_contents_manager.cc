@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless web contents manager implementation
+// summary: Implements creation, ownership, and destruction of headless WebContents, notifying observers about their lifecycle.
+// ---
+
 #include "chrome/browser/actor/headless_web_contents_manager.h"
 
 #include <algorithm>

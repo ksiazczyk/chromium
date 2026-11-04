@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorSurface unit tests
+// summary: Unit tests covering tab-backed and headless actor surfaces, handle behavior, WebContents swapping on tab discard, and ActorTabData access.
+// ---
+
 #include "chrome/browser/actor/actor_surface.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file referencing accessibility owners
+summary: Points to the ui/accessibility OWNERS file to designate reviewers for changes in this directory.

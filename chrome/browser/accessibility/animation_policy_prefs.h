@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation policy preferences header
+// summary: Declares the animation policy value constants and the preference registration function.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_ANIMATION_POLICY_PREFS_H_
 #define CHROME_BROWSER_ACCESSIBILITY_ANIMATION_POLICY_PREFS_H_
 

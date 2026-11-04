@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor proto conversion unit tests
+// summary: Unit tests verifying conversion between actor task policy protos and internal rule types, including location, wildcard, and HTTPS site rules.
+// ---
+
 #include "chrome/browser/actor/actor_proto_conversion.h"
 
 #include <optional>

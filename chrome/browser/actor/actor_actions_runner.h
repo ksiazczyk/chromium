@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor actions runner class declaration
+// summary: Declares ActorActionsRunner, which runs a one-shot batch of actions within a transient ActorTask and exposes the resulting ActionsResult.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_ACTIONS_RUNNER_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_ACTIONS_RUNNER_H_
 

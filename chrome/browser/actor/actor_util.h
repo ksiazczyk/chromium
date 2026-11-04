@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor utility functions
+// summary: Declares actor helpers for Glic instance lookup, active and background task checks, restrictions on opening new web contents, and screenshot encoding.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_UTIL_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_UTIL_H_
 

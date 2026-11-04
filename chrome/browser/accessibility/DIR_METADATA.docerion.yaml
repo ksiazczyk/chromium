@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for accessibility
+summary: Declares issue tracker components and common metadata mixins used for triage of the accessibility directory.

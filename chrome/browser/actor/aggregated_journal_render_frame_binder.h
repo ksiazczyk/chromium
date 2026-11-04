@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aggregated journal render frame binder
+// summary: Declares a helper that binds JournalClient Mojo receivers to a RenderFrameHost so renderer journal entries reach an AggregatedJournal, tied to WebContents lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_AGGREGATED_JOURNAL_RENDER_FRAME_BINDER_H_
 #define CHROME_BROWSER_ACTOR_AGGREGATED_JOURNAL_RENDER_FRAME_BINDER_H_
 

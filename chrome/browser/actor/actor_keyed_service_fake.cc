@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorKeyedServiceFake implementation
+// summary: Implements a fake ActorKeyedService with helpers to create, pause, and stop tasks in tests.
+// ---
+
 #include "chrome/browser/actor/actor_keyed_service_fake.h"
 
 #include "chrome/browser/actor/actor_task.h"

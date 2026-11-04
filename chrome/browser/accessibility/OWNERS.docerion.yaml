@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the accessibility directory
+summary: Points to shared accessibility owners and adds per-file owners for the Ash accessibility extension API files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Leaked accessibility node detection browser test
+// summary: Parameterized Windows browser test that drives the browser from an external accessibility client and asserts all accessibility nodes are destroyed after the browser window closes.
+// ---
+
 #include <string>
 #include <tuple>
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Phrase segmentation BUILD.gn build definitions
+summary: Defines GN source sets for the phrase segmentation dependency parser model loader and its browser tests, along with their dependencies.

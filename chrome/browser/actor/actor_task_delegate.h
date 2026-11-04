@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTaskDelegate interface
+// summary: Defines the delegate interface ActorTask uses to report tab and visibility changes and request dialogs for credentials, confirmations, navigation, and autofill.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_TASK_DELEGATE_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_TASK_DELEGATE_H_
 

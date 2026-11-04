@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXMediaApp interface header
+// summary: Declares the AXMediaApp interface the media app implements so the accessibility layer can interact with it.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_MEDIA_APP_AX_MEDIA_APP_H_
 #define CHROME_BROWSER_ACCESSIBILITY_MEDIA_APP_AX_MEDIA_APP_H_
 

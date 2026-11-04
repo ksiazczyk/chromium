@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action tracker for UMA metrics implementation
+// summary: Implements a helper owned by ActorTask that records UMA metrics about executed tools, subsequent wait actions, and autofill dialogs.
+// ---
+
 #include "chrome/browser/actor/action_tracker_for_metrics.h"
 
 #include <string>

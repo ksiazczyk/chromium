@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorKeyedService browser tests
+// summary: Implements shared browser tests for ActorKeyedService task creation, navigation, and tab handling.
+// ---
+
 #include "chrome/browser/actor/actor_keyed_service.h"
 
 #include <optional>

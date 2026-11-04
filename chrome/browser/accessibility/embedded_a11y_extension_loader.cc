@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded accessibility extension loader implementation
+// summary: Implements the singleton loader that installs, updates, and removes the accessibility helper extension across all profiles, including guest and incognito.
+// ---
+
 #include "chrome/browser/accessibility/embedded_a11y_extension_loader.h"
 
 #include "base/debug/crash_logging.h"

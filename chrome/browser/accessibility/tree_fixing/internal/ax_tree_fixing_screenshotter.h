@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX tree fixing screenshotter header
+// summary: Declares the screenshotter that captures full-page paint preview screenshots of WebContents and delivers bitmaps to clients via the screenshot delegate.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_TREE_FIXING_INTERNAL_AX_TREE_FIXING_SCREENSHOTTER_H_
 #define CHROME_BROWSER_ACCESSIBILITY_TREE_FIXING_INTERNAL_AX_TREE_FIXING_SCREENSHOTTER_H_
 

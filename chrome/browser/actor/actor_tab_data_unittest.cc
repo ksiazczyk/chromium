@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorTabData unit tests
+// summary: Unit tests verifying that ActorTabData records APC comparison histogram metrics when the feature is enabled and none when disabled.
+// ---
+
 #include "chrome/browser/actor/actor_tab_data.h"
 
 #include <memory>

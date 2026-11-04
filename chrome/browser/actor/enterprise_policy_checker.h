@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise policy checker interface
+// summary: Defines the interface for enterprise policy checks on actor URL access and content sent to renderers, with a permissive null implementation.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ENTERPRISE_POLICY_CHECKER_H_
 #define CHROME_BROWSER_ACTOR_ENTERPRISE_POLICY_CHECKER_H_
 

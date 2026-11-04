@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HierarchySnapshotter
+// summary: Base class that initializes the HierarchySnapshotter by loading a HierarchySnapshotterDelegate, letting Chrome output custom AccessibilityNodeInfo attributes during UI dumps such as uiautomator dumps.
+// ---
+
 package org.chromium.chrome.browser.accessibility.hierarchysnapshotter;
 
 import org.chromium.base.ServiceLoaderUtil;

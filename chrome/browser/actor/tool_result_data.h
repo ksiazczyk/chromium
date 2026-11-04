@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool result data and error types
+// summary: Declares the ToolResultData base struct with dictionary conversion, cloning, and casting helpers, plus the ToolError struct for failed tool executions.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOL_RESULT_DATA_H_
 #define CHROME_BROWSER_ACTOR_TOOL_RESULT_DATA_H_
 

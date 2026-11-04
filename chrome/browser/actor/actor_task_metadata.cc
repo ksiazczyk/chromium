@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTaskMetadata implementation
+// summary: Implements ActorTaskMetadata, parsing security metadata such as added writable mainframe origins and agent container config from actions protos.
+// ---
+
 #include "chrome/browser/actor/actor_task_metadata.h"
 
 #include <optional>

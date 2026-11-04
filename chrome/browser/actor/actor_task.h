@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTask class declaration
+// summary: Declares ActorTask, a task Chrome executes on behalf of the user, with actor-controlled, user-controlled, and completed high-level states.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_TASK_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_TASK_H_
 

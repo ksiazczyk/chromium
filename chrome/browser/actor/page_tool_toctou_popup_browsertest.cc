@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page tool TOCTOU popup bypass browser tests
+// summary: Browser tests checking that page tools validate targets against time-of-check-to-time-of-use popup bypass attacks.
+// ---
+
 #include "base/run_loop.h"
 #include "base/task/single_thread_task_runner.h"
 #include "base/test/scoped_feature_list.h"

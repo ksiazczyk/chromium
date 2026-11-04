@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SODA installer unit tests
+// summary: Unit tests for SodaInstallerImpl covering SODA and language pack installation, uninstall timers, and download progress handling.
+// ---
+
 #include "chrome/browser/accessibility/soda_installer_impl.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility labels service browser tests
+// summary: Browser tests checking that the image labels preference toggles the kLabelImages accessibility mode for new WebContents.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/chrome_browser_interface_binders.h"
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor commit deferring condition implementation
+// summary: Defers committing page activation navigations in actor-controlled tabs so origin gating policies can be evaluated before the page commits.
+// ---
+
 #include "chrome/browser/actor/actor_commit_deferring_condition.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorSurfaceTabHelper implementation
+// summary: Implements the per-tab helper that registers tabs with the ActorSurfaceRegistry on creation and unregisters them when the tab is destroyed.
+// ---
+
 #include "chrome/browser/actor/actor_surface_tab_helper.h"
 
 #include "chrome/browser/actor/actor_keyed_service.h"

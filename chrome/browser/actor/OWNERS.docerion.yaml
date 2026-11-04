@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the actor directory
+summary: Lists the email addresses of code owners responsible for reviewing changes to the actor directory, including Script-Tools and WebMCP.

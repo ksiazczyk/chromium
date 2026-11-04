@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test fixture with external accessibility client
+// summary: Declares a browser test fixture that launches an ax_client process, asserts no AXPlatformNode leaks at teardown, and lets tests interleave browser and assistive technology operations.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_BROWSER_TEST_WITH_AX_CLIENT_H_
 #define CHROME_BROWSER_ACCESSIBILITY_BROWSER_TEST_WITH_AX_CLIENT_H_
 

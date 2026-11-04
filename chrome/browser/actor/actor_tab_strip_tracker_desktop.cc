@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTabStripTrackerDesktop implementation
+// summary: Implements desktop tab strip tracking for the actor service, attaching tab unload handlers and notifying actor tasks when controlled tabs are removed.
+// ---
+
 #include "chrome/browser/actor/actor_tab_strip_tracker_desktop.h"
 
 #include "chrome/browser/actor/actor_keyed_service.h"

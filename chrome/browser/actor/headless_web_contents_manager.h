@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless web contents manager declaration
+// summary: Declares the HeadlessWebContentsManager that creates and owns headless WebContents and notifies observers of their lifecycle.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_HEADLESS_WEB_CONTENTS_MANAGER_H_
 #define CHROME_BROWSER_ACTOR_HEADLESS_WEB_CONTENTS_MANAGER_H_
 

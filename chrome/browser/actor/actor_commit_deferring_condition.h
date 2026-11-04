@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor commit deferring condition class declaration
+// summary: Declares the commit deferring condition that delays page activation commits in actor-controlled tabs until origin gating policies are evaluated.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_COMMIT_DEFERRING_CONDITION_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_COMMIT_DEFERRING_CONDITION_H_
 

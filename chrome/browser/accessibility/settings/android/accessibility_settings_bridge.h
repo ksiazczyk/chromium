@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility settings bridge header
+// summary: Declares the AccessibilitySettingsBridge class, the JNI bridge exposing caret browsing preference getters and setters to Java.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_SETTINGS_ANDROID_ACCESSIBILITY_SETTINGS_BRIDGE_H_
 #define CHROME_BROWSER_ACCESSIBILITY_SETTINGS_ANDROID_ACCESSIBILITY_SETTINGS_BRIDGE_H_
 

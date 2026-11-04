@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab observation controller header
+// summary: Declares TabObservationController and ObservationResult, which collect tab and window observations after an ActorTask's actions have been performed.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TAB_OBSERVATION_CONTROLLER_H_
 #define CHROME_BROWSER_ACTOR_TAB_OBSERVATION_CONTROLLER_H_
 

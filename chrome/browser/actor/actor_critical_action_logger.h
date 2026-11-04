@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor critical action logger class declaration
+// summary: Declares a helper that evaluates and logs critical actions self-reported by actor agents during tool execution.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_CRITICAL_ACTION_LOGGER_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_CRITICAL_ACTION_LOGGER_H_
 

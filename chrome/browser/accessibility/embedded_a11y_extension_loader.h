@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded accessibility extension loader
+// summary: Declares a singleton that manages installation and uninstallation of the accessibility helper extension on every profile for Chrome accessibility services and features.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_EMBEDDED_A11Y_EXTENSION_LOADER_H_
 #define CHROME_BROWSER_ACCESSIBILITY_EMBEDDED_A11Y_EXTENSION_LOADER_H_
 

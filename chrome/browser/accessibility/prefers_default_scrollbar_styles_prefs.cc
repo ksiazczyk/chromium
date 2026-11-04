@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default scrollbar styles preference registration
+// summary: Registers the kPrefersDefaultScrollbarStyles boolean preference in the syncable pref registry.
+// ---
+
 #include "chrome/browser/accessibility/prefers_default_scrollbar_styles_prefs.h"
 
 #include "chrome/common/pref_names.h"

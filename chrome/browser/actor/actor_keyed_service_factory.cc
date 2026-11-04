@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorKeyedServiceFactory implementation
+// summary: Builds the ActorKeyedService for regular profiles when the Glic actor feature is enabled.
+// ---
+
 #include "chrome/browser/actor/actor_keyed_service_factory.h"
 
 #include "chrome/browser/browser_actuator/browser_actuator_service_factory.h"

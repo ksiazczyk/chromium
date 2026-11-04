@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor keyed service proto wrapper unit tests
+// summary: Unit tests for the proto wrapper covering action rejection for unknown tasks, invalid arguments, wait actions, and ActionsResult building.
+// ---
+
 #include "chrome/browser/actor/actor_keyed_service_proto_wrapper.h"
 
 #include <utility>

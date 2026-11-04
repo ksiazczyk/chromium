@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool request variant type definition
+// summary: Defines ToolRequestVariant, a std::variant union of all actor tool request types, and declares the ConvertToVariant conversion helper.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_TOOL_REQUEST_VARIANT_H_
 #define CHROME_BROWSER_ACTOR_TOOL_REQUEST_VARIANT_H_
 

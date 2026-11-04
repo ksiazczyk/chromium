@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor metrics histogram consistency tests
+// summary: Tests that tool request and actor task state variant names match the entries defined in the actor histograms XML metadata.
+// ---
+
 #include "base/test/metrics/histogram_variants_reader.h"
 #include "chrome/browser/actor/actor_task.h"
 #include "chrome/browser/actor/tool_request_variant.h"

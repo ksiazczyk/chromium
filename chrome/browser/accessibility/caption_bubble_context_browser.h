@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser caption bubble context
+// summary: Header for the browser-side CaptionBubbleContext implementation that wraps a WebContents for the live caption bubble.
+// ---
+
 #ifndef CHROME_BROWSER_ACCESSIBILITY_CAPTION_BUBBLE_CONTEXT_BROWSER_H_
 #define CHROME_BROWSER_ACCESSIBILITY_CAPTION_BUBBLE_CONTEXT_BROWSER_H_
 

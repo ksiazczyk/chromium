@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA installer implementation for Live Caption
+// summary: Implements SodaInstallerImpl, installing the SODA speech binary and language packs via the component updater for Live Caption on non-ChromeOS desktops.
+// ---
+
 #include "chrome/browser/accessibility/soda_installer_impl.h"
 
 #include <algorithm>

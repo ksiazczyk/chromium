@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for AXMediaApp test support
+summary: GN build file defining the ChromeOS-only test_support source set that bundles fakes for AXMediaApp and its untrusted service.

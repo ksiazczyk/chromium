@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invert bubble user prefs registration
+// summary: Registers the boolean preference that tracks whether the invert colors notification bubble has been shown to the user.
+// ---
+
 #include "chrome/browser/accessibility/invert_bubble_prefs.h"
 
 #include "chrome/common/pref_names.h"

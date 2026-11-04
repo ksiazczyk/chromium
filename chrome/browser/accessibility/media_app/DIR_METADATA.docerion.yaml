@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA buganizer component mapping
+summary: Maps this directory to the ChromeOS Accessibility Machine Intelligence buganizer component.

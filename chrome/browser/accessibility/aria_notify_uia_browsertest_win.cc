@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AriaNotify UIA notification browser test
+// summary: Windows browser test verifying that calling ariaNotify on a page raises a UIA_NotificationEventId event.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/time/time.h"

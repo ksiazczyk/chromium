@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorKeyedServiceProtoWrapper implementation
+// summary: Converts optimization guide Actions protos into tool requests, executes them, and logs journal results.
+// ---
+
 #include "chrome/browser/actor/actor_keyed_service_proto_wrapper.h"
 
 #include <utility>

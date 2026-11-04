@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Live Caption automatic language download browser test
+// summary: Browser test verifying that repeated confident language identification events trigger automatic SODA language pack downloads.
+// ---
+
 #include <set>
 
 #include "base/command_line.h"

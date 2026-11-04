@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image annotation browser tests
+// summary: Browser tests for image annotations in the accessibility tree, using a fake Annotator mojo service that returns predictable OCR and label results.
+// ---
+
 #include <map>
 #include <optional>
 

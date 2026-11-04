@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor site policy checks
+// summary: Implements site policy for actor actions, checking URLs against the optimization guide blocklist and mapping block reasons to action result codes.
+// ---
+
 #include "chrome/browser/actor/site_policy.h"
 
 #include "base/feature_list.h"

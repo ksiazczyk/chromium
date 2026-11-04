@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorSurfaceHandle weak reference
+// summary: Declares a weak, copyable handle to an actor surface with safe post-destruction lookup, ID allocation rules, and tab conversion helpers.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_SURFACE_HANDLE_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_SURFACE_HANDLE_H_
 

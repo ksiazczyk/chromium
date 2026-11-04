@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab observation strategy unit tests
+// summary: Unit tests covering default policies, vote combination, per-tab independence, and locking behavior of TabObservationStrategy.
+// ---
+
 #include "chrome/browser/actor/tab_observation_strategy.h"
 
 #include "chrome/browser/actor/actor_surface_handle.h"

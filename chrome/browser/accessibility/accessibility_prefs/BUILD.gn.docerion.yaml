@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for accessibility_prefs
+summary: Defines the accessibility_prefs source set with its Android controller sources and dependencies, plus an Android-only browser_tests target.

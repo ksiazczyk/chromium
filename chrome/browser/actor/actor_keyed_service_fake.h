@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorKeyedServiceFake header
+// summary: Declares the fake ActorKeyedService used to drive tasks with a mocked UI event dispatcher in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ACTOR_ACTOR_KEYED_SERVICE_FAKE_H_
 #define CHROME_BROWSER_ACTOR_ACTOR_KEYED_SERVICE_FAKE_H_
 
