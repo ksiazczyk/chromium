@@ -1,0 +1,4 @@
+# Docerion header of IDS_PRODUCT_LOGO_ENTERPRISE_ALT_TEXT.png.sha1.
+type: data
+title: SHA-1 hash for IDS_PRODUCT_LOGO_ENTERPRISE_ALT_TEXT.png
+summary: Stores the SHA-1 checksum of the enterprise product logo alt text image referenced by the Chrome string resources.

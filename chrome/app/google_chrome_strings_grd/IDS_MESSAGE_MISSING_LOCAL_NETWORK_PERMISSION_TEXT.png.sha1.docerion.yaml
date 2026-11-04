@@ -1,0 +1,4 @@
+# Docerion header of IDS_MESSAGE_MISSING_LOCAL_NETWORK_PERMISSION_TEXT.png.sha1.
+type: asset
+title: SHA-1 checksum for missing local network permission message image
+summary: Contains the SHA-1 hash of the PNG image shown when local network permission is missing in Chrome's string resources.

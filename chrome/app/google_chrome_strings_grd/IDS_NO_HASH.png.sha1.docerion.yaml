@@ -1,0 +1,4 @@
+# Docerion header of IDS_NO_HASH.png.sha1.
+type: asset
+title: SHA-1 checksum for IDS_NO_HASH image
+summary: Contains the SHA-1 hash of the PNG image for the IDS_NO_HASH string resource in Chrome's string resources.
