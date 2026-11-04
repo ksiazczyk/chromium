@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for input device settings
+summary: GN build file defining the input_device_settings static library and the browser test source set with their dependencies.

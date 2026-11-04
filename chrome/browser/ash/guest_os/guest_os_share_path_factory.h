@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestOsSharePathFactory class header
+// summary: Declares the profile-keyed service factory that provides a GuestOsSharePath instance for each profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_SHARE_PATH_FACTORY_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_SHARE_PATH_FACTORY_H_
 

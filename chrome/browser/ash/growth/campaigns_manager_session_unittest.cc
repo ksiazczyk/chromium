@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CampaignsManagerSession unit tests
+// summary: Unit tests for CampaignsManagerSession that set up fake users, profiles, session manager, and a fake component manager to exercise campaign component loading.
+// ---
+
 #include "chrome/browser/ash/growth/campaigns_manager_session.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Peripherals app delegate browser tests
+// summary: In-process browser tests verifying that companion app info is correctly parsed for valid and invalid Almanac API responses.
+// ---
+
 #include "base/test/test_future.h"
 #include "chrome/browser/apps/almanac_api_client/almanac_app_icon_loader.h"
 #include "chrome/browser/ash/input_device_settings/peripherals_app_delegate_impl.h"

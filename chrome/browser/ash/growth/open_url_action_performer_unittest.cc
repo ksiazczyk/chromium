@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Open URL action performer unit tests
+// summary: Unit tests verifying that OpenUrlActionPerformer handles valid and invalid parameters and opens the expected URL.
+// ---
+
 #include "chrome/browser/ash/growth/open_url_action_performer.h"
 
 #include <memory>

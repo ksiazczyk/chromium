@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS preference name constants
+// summary: Defines constant preference names and keys for the guest OS registry, containers, terminal settings, and USB passthrough configuration.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_PREF_NAMES_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_PREF_NAMES_H_
 

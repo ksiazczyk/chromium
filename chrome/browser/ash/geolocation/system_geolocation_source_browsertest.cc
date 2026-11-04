@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Ash system geolocation source
+// summary: Browser tests verifying geolocation permission status updates for single and multi-user sessions with the privacy hub feature on or off.
+// ---
+
 #include "chrome/browser/ash/geolocation/system_geolocation_source.h"
 
 #include <utility>

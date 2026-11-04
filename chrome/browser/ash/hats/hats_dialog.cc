@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HaTS survey dialog implementation
+// summary: Implements the web dialog that loads the HaTS survey page, parses client actions and answers, and logs survey UMA histograms.
+// ---
+
 #include "chrome/browser/ash/hats/hats_dialog.h"
 
 #include <string_view>

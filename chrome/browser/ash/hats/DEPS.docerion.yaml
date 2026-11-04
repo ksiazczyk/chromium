@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the HaTS directory
+summary: Restricts Chromium includes for the directory, blocking //chrome by default and whitelisting the specific Chrome dependencies HaTS may use.

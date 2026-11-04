@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns manager session implementation
+// summary: Implements the session-scoped campaigns manager that observes session, shell, power and app instance events to trigger growth campaigns.
+// ---
+
 #include "chrome/browser/ash/growth/campaigns_manager_session.h"
 
 #include <optional>

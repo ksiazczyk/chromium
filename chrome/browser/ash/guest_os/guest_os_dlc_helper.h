@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS DLC installation class declaration
+// summary: Declares the GuestOsDlcInstallation class that installs a DLC, reports progress, supports graceful cancellation, and defines an error enum for installation failures.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_DLC_HELPER_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_DLC_HELPER_H_
 

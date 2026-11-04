@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS stability monitor implementation
+// summary: Implements monitoring of the concierge, cicerone, seneschal, and chunneld DBus services and logs their failures to a UMA histogram.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_stability_monitor.h"
 
 #include "base/metrics/histogram_functions.h"

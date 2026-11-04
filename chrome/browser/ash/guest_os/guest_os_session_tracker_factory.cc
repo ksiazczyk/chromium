@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestOsSessionTrackerFactory implementation
+// summary: Implements the profile-keyed factory that creates a GuestOsSessionTracker per profile using the profile's user ID hash.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_session_tracker_factory.h"
 
 #include "base/no_destructor.h"

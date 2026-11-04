@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSource implementation serving ChromeOS asset images
+// summary: Implements the ImageSource URL data source that loads and serves allowlisted images, such as regulatory labels, from the ChromeOS asset directory on background task runners.
+// ---
+
 #include "chrome/browser/ash/image_source/image_source.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peripherals app delegate implementation
+// summary: Implements fetching companion app information for input devices from the ChromeOS Almanac peripherals endpoint and loading app icons.
+// ---
+
 #include "chrome/browser/ash/input_device_settings/peripherals_app_delegate_impl.h"
 
 #include "ash/constants/ash_features.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for image_downloader
+summary: Sets include rules that block ChromeOS dependencies on //chrome while allowing this directory's own headers and a limited set of existing bitmap fetcher and profile includes.

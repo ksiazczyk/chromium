@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Ash system geolocation source
+// summary: Unit tests checking that geolocation pref changes trigger permission status callbacks with the privacy hub location feature enabled or disabled.
+// ---
+
 #include "chrome/browser/ash/geolocation/system_geolocation_source.h"
 
 #include <utility>

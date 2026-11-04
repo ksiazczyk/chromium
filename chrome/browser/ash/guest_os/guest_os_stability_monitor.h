@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS stability monitor header
+// summary: Declares a monitor that logs host-side VM service failures and unexpected VM shutdowns to UMA histograms, with the FailureClasses enum.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_STABILITY_MONITOR_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_STABILITY_MONITOR_H_
 

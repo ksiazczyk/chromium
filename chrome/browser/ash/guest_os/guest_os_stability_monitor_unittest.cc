@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS stability monitor unit tests
+// summary: Unit tests for the stability monitor using fake DBus clients, Crostini test helpers, and histogram verification.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_stability_monitor.h"
 
 #include <memory>

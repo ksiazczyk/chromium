@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the guest OS infra directory
+summary: DEPS file blocking //chrome dependencies for ChromeOS code and granting test files access to borealis testing support and the infra directory.

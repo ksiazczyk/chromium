@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Show notification action performer implementation
+// summary: Implements the growth campaign show notification action, building and posting system notifications with icons, images and buttons from campaign payloads.
+// ---
+
 #include "chrome/browser/ash/growth/show_notification_action_performer.h"
 
 #include <memory>

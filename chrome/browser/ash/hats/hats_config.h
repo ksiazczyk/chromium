@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HatsConfig struct declaration
+// summary: Declares the HatsConfig struct holding feature, threshold and preference fields for a HaTS survey, plus the extern survey config constants.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_HATS_HATS_CONFIG_H_
 #define CHROME_BROWSER_ASH_HATS_HATS_CONFIG_H_
 

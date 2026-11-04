@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS MIME types service implementation
+// summary: Implements storing and looking up file extension to MIME type mappings for guest OS VMs and containers in profile preferences.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_mime_types_service.h"
 
 #include <map>

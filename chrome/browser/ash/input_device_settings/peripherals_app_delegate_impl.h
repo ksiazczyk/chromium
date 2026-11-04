@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peripherals app delegate header
+// summary: Declares PeripheralsAppDelegateImpl, which queries companion app info for devices and exposes test hooks for profile injection.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_INPUT_DEVICE_SETTINGS_PERIPHERALS_APP_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ASH_INPUT_DEVICE_SETTINGS_PERIPHERALS_APP_DELEGATE_IMPL_H_
 

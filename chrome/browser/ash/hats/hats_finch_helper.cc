@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HaTS Finch helper implementation
+// summary: Reads Finch field trial parameters such as trigger ID, probability and histogram name, and resets survey cycle preferences when reset flags are set.
+// ---
+
 #include "chrome/browser/ash/hats/hats_finch_helper.h"
 
 #include "ash/constants/ash_pref_names.h"

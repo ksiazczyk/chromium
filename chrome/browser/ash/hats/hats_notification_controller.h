@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HaTS notification controller class declaration
+// summary: Declares HatsNotificationController, which manages the HaTS survey notification and defines cooldown thresholds for normal, Googler, and prioritized surveys.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_HATS_HATS_NOTIFICATION_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_HATS_HATS_NOTIFICATION_CONTROLLER_H_
 

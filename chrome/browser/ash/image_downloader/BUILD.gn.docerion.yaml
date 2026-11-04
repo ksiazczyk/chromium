@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the image_downloader library
+summary: Defines the image_downloader static library target for ChromeOS Ash, listing its sources and dependencies on bitmap fetching, profiles, networking, and UI graphics.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS MIME types service unit tests
+// summary: Unit tests covering setting, getting, clearing, double-extension handling, and case-insensitive lookup of guest OS MIME type mappings.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_mime_types_service.h"
 
 #include <stddef.h>

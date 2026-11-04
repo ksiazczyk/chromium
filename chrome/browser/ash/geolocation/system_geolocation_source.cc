@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash system geolocation source implementation
+// summary: Implements the Ash system geolocation source that watches the primary user's geolocation pref and reports permission status updates.
+// ---
+
 #include "chrome/browser/ash/geolocation/system_geolocation_source.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HaTS notification controller implementation
+// summary: Implements the controller that shows the happiness tracking survey notification, builds device info site context, tracks interaction cooldowns, and logs survey UMA metrics.
+// ---
+
 #include "chrome/browser/ash/hats/hats_notification_controller.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash system geolocation source header
+// summary: Declares the Ash SystemGeolocationSource class that exposes OS geolocation permissions to the platform-agnostic device permission manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GEOLOCATION_SYSTEM_GEOLOCATION_SOURCE_H_
 #define CHROME_BROWSER_ASH_GEOLOCATION_SYSTEM_GEOLOCATION_SOURCE_H_
 

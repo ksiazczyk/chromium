@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security key forwarding native message host unit tests
+// summary: Unit tests covering rejection of extension-initiated channels, simple request-response delivery, and discarding of multiple messages from the extension.
+// ---
+
 #include "chrome/browser/ash/guest_os/vm_sk_forwarding_native_message_host.h"
 
 #include "base/check.h"

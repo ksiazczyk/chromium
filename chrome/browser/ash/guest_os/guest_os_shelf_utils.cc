@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS shelf utilities implementation
+// summary: Implements helpers that map guest OS windows to shelf app IDs, including WMClass matching, Wayland prefixes and Crostini shelf ID handling.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_shelf_utils.h"
 
 #include <string_view>

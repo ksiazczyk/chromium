@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for input device settings
+summary: DEPS file restricting //chrome dependencies and allowing only the needed includes for this directory and its tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake D-Bus client helpers for Guest OS tests
+// summary: Implements helper classes that initialize and tear down fake Cicerone, Seneschal, Dlcservice, Concierge, and Chunneld D-Bus clients for tests.
+// ---
+
 #include "chrome/browser/ash/guest_os/dbus_test_helper.h"
 
 #include "chromeos/ash/components/dbus/chunneld/fake_chunneld_client.h"

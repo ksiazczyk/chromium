@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS registry service header
+// summary: Declares the GuestOsRegistryService that stores desktop entry app registrations for guest OSes in profile prefs and provides app, icon, and URL handling queries.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_REGISTRY_SERVICE_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_REGISTRY_SERVICE_H_
 

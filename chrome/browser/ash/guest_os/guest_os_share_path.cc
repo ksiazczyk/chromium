@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestOsSharePath implementation
+// summary: Implements sharing and unsharing of host paths with guest VMs via seneschal, handling DriveFS, SmbFs, persisted shares and launch argument conversion.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_share_path.h"
 
 #include <algorithm>

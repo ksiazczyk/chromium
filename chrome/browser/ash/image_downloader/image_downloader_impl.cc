@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageDownloaderImpl implementation
+// summary: Implements ash image downloading by starting a DownloadTask that fetches bitmaps with BitmapFetcher via the active user profile's URL loader factory and returns the result through a callback.
+// ---
+
 #include "chrome/browser/ash/image_downloader/image_downloader_impl.h"
 
 #include "chrome/browser/bitmap_fetcher/bitmap_fetcher.h"

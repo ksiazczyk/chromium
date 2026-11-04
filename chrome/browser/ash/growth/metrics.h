@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Growth campaigns metrics header
+// summary: Declares the CampaignButtonId enum and functions to record campaign UI impressions, dismissals, and button presses.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GROWTH_METRICS_H_
 #define CHROME_BROWSER_ASH_GROWTH_METRICS_H_
 

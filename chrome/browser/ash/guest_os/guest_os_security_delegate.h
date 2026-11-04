@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS security delegate header
+// summary: Declares the GuestOsSecurityDelegate, a safer Chrome security delegate wrapper for guest OS Wayland servers, including MakeServerWithFd ownership transfer.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_SECURITY_DELEGATE_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_SECURITY_DELEGATE_H_
 

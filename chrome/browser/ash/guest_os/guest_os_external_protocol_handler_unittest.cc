@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS external protocol handler unit tests
+// summary: Unit tests for GuestOsUrlHandler covering no registered apps, single app handling, most-recently-used preference, and transient URL handler invocation.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_external_protocol_handler.h"
 
 #include <vector>

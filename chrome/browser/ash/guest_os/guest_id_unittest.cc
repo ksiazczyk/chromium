@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GuestId unit tests
+// summary: Unit tests for the GuestId class covering equality, construction from preference dictionaries, container lookup, VM type parsing, and round-tripping through prefs.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_id.h"
 
 #include "base/json/json_reader.h"

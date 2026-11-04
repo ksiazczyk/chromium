@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS remover header
+// summary: Declares the GuestOsRemover class and its result codes for stopping a guest OS VM and destroying its disk image via the Concierge DBus client.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_REMOVER_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_REMOVER_H_
 

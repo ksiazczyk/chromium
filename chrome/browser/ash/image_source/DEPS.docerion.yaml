@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for image_source
+summary: Sets include rules that block //chrome dependencies for ChromeOS, allowing only the directory's own files and the existing avatar user image dependency.

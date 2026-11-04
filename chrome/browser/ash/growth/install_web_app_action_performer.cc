@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallWebAppActionPerformer implementation
+// summary: Implements the install web app action for the growth framework, parsing campaign parameters and installing web apps via the web app provider.
+// ---
+
 #include "chrome/browser/ash/growth/install_web_app_action_performer.h"
 
 #include "base/functional/bind.h"

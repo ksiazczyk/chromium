@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedCallback for shared async results
+// summary: Header defining a guest_os template class that queues racing callbacks, runs the real async operation once, and shares its success or failure result.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_INFRA_CACHED_CALLBACK_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_INFRA_CACHED_CALLBACK_H_
 

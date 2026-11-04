@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS MIME types service factory implementation
+// summary: Implements the profile-keyed factory that creates and provides GuestOsMimeTypesService instances per profile.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_mime_types_service_factory.h"
 
 #include "base/no_destructor.h"

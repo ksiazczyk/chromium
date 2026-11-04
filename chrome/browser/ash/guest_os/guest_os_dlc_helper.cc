@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS DLC installation logic
+// summary: Implements GuestOsDlcInstallation, which installs DLCs for guest operating systems with error classification, automatic retries, and progress reporting.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_dlc_helper.h"
 
 #include <string_view>

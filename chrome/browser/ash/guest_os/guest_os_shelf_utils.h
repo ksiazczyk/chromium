@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS shelf app ID utilities header
+// summary: Declares helpers that map guest OS window IDs to shelf app IDs and classify registered or unregistered Crostini and guest OS shelf app IDs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_SHELF_UTILS_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_SHELF_UTILS_H_
 

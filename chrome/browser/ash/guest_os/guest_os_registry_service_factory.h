@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS registry service factory header
+// summary: Declares the GuestOsRegistryServiceFactory, a profile-keyed service factory exposing GetForProfile and GetInstance for the guest OS registry.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_REGISTRY_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_REGISTRY_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS registry service unit test
+// summary: Unit tests covering registration, registry updates, enabled apps, and last launch time behavior of the GuestOsRegistryService with a testing profile and clock.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_registry_service.h"
 
 #include <stddef.h>

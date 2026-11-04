@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HatsDialog class declaration
+// summary: Declares the WebDialogDelegate subclass that shows the happiness tracking survey after login and handles client triggered actions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_HATS_HATS_DIALOG_H_
 #define CHROME_BROWSER_ASH_HATS_HATS_DIALOG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateUserPrefActionPerformer implementation
+// summary: Implements the update user preference action for the growth framework, supporting set, clear, append and remove operations on user prefs with type checking and error logging.
+// ---
+
 #include "chrome/browser/ash/growth/update_user_pref_action_performer.h"
 
 #include <algorithm>

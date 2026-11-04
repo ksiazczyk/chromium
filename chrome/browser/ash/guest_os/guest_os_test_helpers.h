@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS test helpers header
+// summary: Declares MockMountProvider, a mock guest OS mount provider used by guest OS tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_TEST_HELPERS_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_OS_TEST_HELPERS_H_
 

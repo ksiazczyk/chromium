@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestId and container preferences API
+// summary: Declares the GuestId struct and functions to add, remove, read, update, and merge container entries in the guest OS preferences.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_GUEST_OS_GUEST_ID_H_
 #define CHROME_BROWSER_ASH_GUEST_OS_GUEST_ID_H_
 

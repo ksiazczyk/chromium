@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Ash geolocation
+summary: Sets include rules that bar //chrome dependencies for ChromeOS, allow this directory's own headers, and list permitted exceptions.

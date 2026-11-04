@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSource class declaration
+// summary: Declares the ImageSource class, a URL data source that reads and decodes images from the read-only file system, with allowlist checks and a sequenced task runner.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_IMAGE_SOURCE_IMAGE_SOURCE_H_
 #define CHROME_BROWSER_ASH_IMAGE_SOURCE_IMAGE_SOURCE_H_
 

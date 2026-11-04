@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Growth directory DEPS include rules
+summary: Specifies allowed include dependencies for the growth directory, with extra rules for unit tests and the interactive UI test.

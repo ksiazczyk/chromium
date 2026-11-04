@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS launcher implementation
+// summary: Implements launching guest OS VMs and apps, dispatching to Crostini, Bruschetta, or the removed Borealis, and reporting success or failure via callbacks.
+// ---
+
 #include "chrome/browser/ash/guest_os/guest_os_launcher.h"
 
 #include <sstream>

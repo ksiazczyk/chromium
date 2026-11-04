@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Show nudge action performer implementation
+// summary: Implements the growth campaign show nudge action, displaying anchored nudges with optional buttons and handling dismissal and cancellation.
+// ---
+
 #include "chrome/browser/ash/growth/show_nudge_action_performer.h"
 
 #include <optional>
