@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC Android management checker implementation
+// summary: Implements checks of Android management status for a user, with retry handling, to decide whether ARC may be enabled.
+// ---
+
 #include "chrome/browser/ash/arc/policy/arc_android_management_checker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC picture-in-picture bridge implementation
+// summary: Implements ArcPipBridge, a browser-context keyed service that observes the ARC PiP connection and enters Chrome picture-in-picture on Android PiP events.
+// ---
+
 #include "chrome/browser/ash/arc/pip/arc_pip_bridge.h"
 
 #include <utility>

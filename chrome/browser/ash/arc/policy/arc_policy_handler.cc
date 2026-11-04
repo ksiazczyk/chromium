@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPolicyHandler implementation
+// summary: Implements the ArcPolicyHandler that parses the ArcPolicy JSON and adds warnings for unknown managed configuration variables in Android app policies.
+// ---
+
 #include "chrome/browser/ash/arc/policy/arc_policy_handler.h"
 
 #include <optional>

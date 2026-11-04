@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcWindowObserver class declaration
+// summary: Declares a throttle observer that watches ARC window counts via ArcWindowWatcher to block Doze mode when windows are present.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_IDLE_MANAGER_ARC_WINDOW_OBSERVER_H_
 #define CHROME_BROWSER_ASH_ARC_IDLE_MANAGER_ARC_WINDOW_OBSERVER_H_
 

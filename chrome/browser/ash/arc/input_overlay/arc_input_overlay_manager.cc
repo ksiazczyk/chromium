@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC input overlay manager implementation
+// summary: Implements the keyed service that watches ARC app windows and enables the input overlay game controls for touch-only apps.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/arc_input_overlay_manager.h"
 
 #include <utility>

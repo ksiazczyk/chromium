@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action base class implementation
+// summary: Implements the base Action class that parses JSON action configs and converts keyboard and mouse events into simulated touch events for the input overlay.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/actions/action.h"
 
 #include <memory>

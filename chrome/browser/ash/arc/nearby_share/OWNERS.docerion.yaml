@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ARC Nearby Share
+summary: OWNERS file pointing to the sharesheet owners and a specific owner for Nearby Share integration.

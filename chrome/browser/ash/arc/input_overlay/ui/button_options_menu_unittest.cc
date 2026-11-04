@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Button options menu unit tests
+// summary: Unit tests for the button options menu, covering action type switching, editing list behavior, and metrics for the ARC input overlay UI.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/button_options_menu.h"
 
 #include <memory>

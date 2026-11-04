@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputConnectionImpl unit tests
+// summary: Unit tests for InputConnectionImpl using mock IME handlers to verify text input state updates and text edit command handling.
+// ---
+
 #include "chrome/browser/ash/arc/input_method_manager/input_connection_impl.h"
 
 #include "base/memory/raw_ptr.h"

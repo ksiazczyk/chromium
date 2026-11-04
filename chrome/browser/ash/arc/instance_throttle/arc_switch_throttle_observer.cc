@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC switch throttle observer implementation
+// summary: Activates an observer that disables ARC CPU throttling when the disable-ARC-CPU-restriction command-line switch is set.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_switch_throttle_observer.h"
 
 #include "ash/constants/ash_switches.h"

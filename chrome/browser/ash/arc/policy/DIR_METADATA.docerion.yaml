@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracking
+summary: Maps the ARC policy directory to Buganizer component 157100 for issue tracking.

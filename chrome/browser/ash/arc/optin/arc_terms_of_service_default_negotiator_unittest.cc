@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the default ARC terms of service negotiator
+// summary: Unit tests for the default terms of service negotiator, covering consent recording, preference updates, and metrics handling.
+// ---
+
 #include "chrome/browser/ash/arc/optin/arc_terms_of_service_default_negotiator.h"
 
 #include <memory>

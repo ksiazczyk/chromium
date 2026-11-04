@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcOnBatteryObserver unit tests
+// summary: Unit tests verifying ArcOnBatteryObserver reacts to power supply property changes and manages its PowerManagerClient registration.
+// ---
+
 #include "chrome/browser/ash/arc/idle_manager/arc_on_battery_observer.h"
 
 #include "chrome/browser/ash/arc/idle_manager/arc_throttle_test_observer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Low disk space dialog view unit tests
+// summary: Unit tests covering LowDiskSpaceDialogView buttons and whether the close callback requests opening storage settings.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/ui/low_disk_space_dialog_view.h"
 
 #include <memory>

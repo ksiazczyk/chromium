@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC display power observer header
+// summary: Declares ArcDisplayPowerObserver, which enforces throttle when the display is off to help lead to doze mode.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_IDLE_MANAGER_ARC_DISPLAY_POWER_OBSERVER_H_
 #define CHROME_BROWSER_ASH_ARC_IDLE_MANAGER_ARC_DISPLAY_POWER_OBSERVER_H_
 

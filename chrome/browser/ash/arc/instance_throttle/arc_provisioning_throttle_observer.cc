@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC provisioning throttle observer implementation
+// summary: Keeps the ARC instance unthrottled while first-time provisioning is in progress and releases the lock once provisioning completes.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_provisioning_throttle_observer.h"
 
 #include "chrome/browser/ash/arc/arc_util.h"

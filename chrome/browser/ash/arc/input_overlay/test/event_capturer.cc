@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: event_capturer.cc
+// summary: Implements EventCapturer handlers that record incoming key, touch and mouse events so unit tests can inspect them.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/test/event_capturer.h"
 
 namespace arc::input_overlay {

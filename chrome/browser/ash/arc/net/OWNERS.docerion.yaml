@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the ARC net directory
+summary: Delegates code ownership to the OWNERS file of chromeos/ash/experiences/arc/net.

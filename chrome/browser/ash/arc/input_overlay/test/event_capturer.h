@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: event_capturer.h
+// summary: Declares EventCapturer, a ui::EventHandler subclass that stores captured key, touch and mouse events for unit test verification.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_TEST_EVENT_CAPTURER_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_TEST_EVENT_CAPTURER_H_
 

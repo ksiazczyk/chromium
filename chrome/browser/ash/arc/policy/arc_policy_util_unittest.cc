@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ARC policy utilities
+// summary: Unit tests for ARC policy utilities covering requested package extraction and UMA histogram reporting of policy keys and install types.
+// ---
+
 #include "chrome/browser/ash/arc/policy/arc_policy_util.h"
 
 #include <map>

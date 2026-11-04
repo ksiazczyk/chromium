@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: overlay_view_test_base.h
+// summary: Declares OverlayViewTestBase, a UI test base with helpers to interact with overlay views and verify actions, labels and key bindings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_TEST_OVERLAY_VIEW_TEST_BASE_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_TEST_OVERLAY_VIEW_TEST_BASE_H_
 

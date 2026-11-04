@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionHighlight implementation
+// summary: Implements a circular highlight drawn behind an action view, with distinct radii for tap and move actions.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/action_highlight.h"
 
 #include "chrome/browser/ash/arc/input_overlay/actions/action.h"

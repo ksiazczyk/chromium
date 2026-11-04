@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgressBarDialogView implementation
+// summary: Implements the dialog view showing file preparation progress with a message label, progress bar, and styled bubble background.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/ui/progress_bar_dialog_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcWindowObserver unit tests
+// summary: Unit tests verifying that ArcWindowObserver registers with ArcWindowWatcher and reports active and enforced status changes as ARC window counts change.
+// ---
+
 #include "chrome/browser/ash/arc/idle_manager/arc_window_observer.h"
 
 #include "chrome/browser/ash/arc/idle_manager/arc_throttle_test_observer.h"

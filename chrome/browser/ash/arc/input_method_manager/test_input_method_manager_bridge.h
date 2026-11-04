@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test input method manager bridge header
+// summary: Declares TestInputMethodManagerBridge, a fake bridge that records sent calls and last text input state for unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_METHOD_MANAGER_TEST_INPUT_METHOD_MANAGER_BRIDGE_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_METHOD_MANAGER_TEST_INPUT_METHOD_MANAGER_BRIDGE_H_
 

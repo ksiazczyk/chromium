@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base dialog delegate view header
+// summary: Declares BaseDialogDelegateView, the base class for the ARC Nearby Share error and low disk space dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_UI_BASE_DIALOG_DELEGATE_VIEW_H_
 #define CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_UI_BASE_DIALOG_DELEGATE_VIEW_H_
 

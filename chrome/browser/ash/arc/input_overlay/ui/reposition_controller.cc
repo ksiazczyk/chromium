@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RepositionController implementation
+// summary: Implements mouse, gesture, and arrow-key repositioning of a host view, clamping its position inside the parent with padding.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/reposition_controller.h"
 
 #include "ash/app_list/app_list_util.h"

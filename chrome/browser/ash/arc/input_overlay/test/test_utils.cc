@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: test_utils.cc
+// summary: Provides test utilities to create ARC windows synchronously, check touch injector actions and simulate app installation for input overlay tests.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/test/test_utils.h"
 
 #include <cstddef>

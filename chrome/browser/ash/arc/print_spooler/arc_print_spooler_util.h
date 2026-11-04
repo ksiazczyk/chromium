@@ -4,6 +4,12 @@
 //
 // Utilities for ARC Print Spooler.
 
+// ---docerion
+// type: source
+// title: ARC print spooler utility declarations
+// summary: Declares the SavePrintDocument and DeletePrintDocument helpers used by the ARC print spooler.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_PRINT_SPOOLER_ARC_PRINT_SPOOLER_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_PRINT_SPOOLER_ARC_PRINT_SPOOLER_UTIL_H_
 

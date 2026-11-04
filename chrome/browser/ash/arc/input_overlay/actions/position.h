@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Position class interface for ARC input overlay touch points
+// summary: Declares the Position class and helpers for parsing, normalizing and calculating touch point positions relative to anchors inside content bounds.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_ACTIONS_POSITION_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_ACTIONS_POSITION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcOnBatteryObserver class declaration
+// summary: Declares a throttle observer that listens to PowerManagerClient power changes and lifts CPU throttling when needed.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_IDLE_MANAGER_ARC_ON_BATTERY_OBSERVER_H_
 #define CHROME_BROWSER_ASH_ARC_IDLE_MANAGER_ARC_ON_BATTERY_OBSERVER_H_
 

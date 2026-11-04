@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC terms of service negotiator interface
+// summary: Interface that starts the ARC terms-of-service negotiation and reports whether the user accepted via an asynchronous callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_OPTIN_ARC_TERMS_OF_SERVICE_NEGOTIATOR_H_
 #define CHROME_BROWSER_ASH_ARC_OPTIN_ARC_TERMS_OF_SERVICE_NEGOTIATOR_H_
 

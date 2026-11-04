@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeleteEditShortcut unit tests
+// summary: Tests visibility, anchoring, and edit and delete behavior of the delete-edit shortcut bubble, including UKM metric verification.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/delete_edit_shortcut.h"
 
 #include <cstdint>

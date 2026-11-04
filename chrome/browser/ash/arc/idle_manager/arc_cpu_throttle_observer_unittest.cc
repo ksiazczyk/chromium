@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC CPU throttle observer unit tests
+// summary: Unit tests for ArcCpuThrottleObserver covering observer registration and throttle state changes using fake ARC services.
+// ---
+
 #include "chrome/browser/ash/arc/idle_manager/arc_cpu_throttle_observer.h"
 
 #include "base/memory/raw_ptr.h"

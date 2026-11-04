@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC provision notification service implementation
+// summary: Implements a browser-context-keyed service that shows a notification during silent, policy-driven ARC provisioning, deferring display until the session is active.
+// ---
+
 #include "chrome/browser/ash/arc/notification/arc_provision_notification_service.h"
 
 #include <utility>

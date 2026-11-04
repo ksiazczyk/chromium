@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the input method manager directory
+summary: Restricts //chrome dependencies and lists allowed includes, with extra test-only exceptions for unit test files.

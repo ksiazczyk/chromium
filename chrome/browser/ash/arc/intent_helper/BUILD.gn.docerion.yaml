@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the ARC intent helper
+summary: Defines the intent_helper static library plus unit and browser test targets with their sources and dependencies.

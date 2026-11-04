@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default ARC terms of service negotiator class declaration
+// summary: Declares ArcTermsOfServiceDefaultNegotiator, which handles the terms of service agreement via the default ARC support host UI.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_OPTIN_ARC_TERMS_OF_SERVICE_DEFAULT_NEGOTIATOR_H_
 #define CHROME_BROWSER_ASH_ARC_OPTIN_ARC_TERMS_OF_SERVICE_DEFAULT_NEGOTIATOR_H_
 

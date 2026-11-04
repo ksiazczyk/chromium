@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC Android management checker
+// summary: Tests checker results for allowed, disallowed, error, and managed user scenarios using a fake Android management client.
+// ---
+
 #include "chrome/browser/ash/arc/policy/arc_android_management_checker.h"
 #include "base/memory/raw_ptr.h"
 #include "base/test/test_future.h"

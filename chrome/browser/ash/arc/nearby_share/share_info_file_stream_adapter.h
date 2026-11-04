@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareInfoFileStreamAdapter header for ARC Nearby Share
+// summary: Declares ShareInfoFileStreamAdapter, which streams data from an ARC virtual filesystem FileSystemURL to a scoped file descriptor for Nearby Share.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_SHARE_INFO_FILE_STREAM_ADAPTER_H_
 #define CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_SHARE_INFO_FILE_STREAM_ADAPTER_H_
 

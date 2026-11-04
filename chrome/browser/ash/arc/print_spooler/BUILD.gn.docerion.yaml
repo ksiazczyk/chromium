@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Print spooler GN build configuration
+summary: Defines the print_spooler static library, its source files, and its dependencies in the GN build system.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcInputMethodState unit tests
+// summary: Unit tests for ArcInputMethodState covering installation, enabling, disabling, allow/disallow behavior, and IME info validation.
+// ---
+
 #include "chrome/browser/ash/arc/input_method_manager/arc_input_method_state.h"
 
 #include <memory>

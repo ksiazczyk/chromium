@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataController interface for ARC input overlay data storage
+// summary: Declares the DataController class that resolves per-app proto file paths and provides static helpers to read and write AppDataProto objects.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_DB_DATA_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_DB_DATA_CONTROLLER_H_
 

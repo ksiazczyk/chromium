@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC provisioning throttle observer unit tests
+// summary: Unit tests covering ArcProvisioningThrottleObserver behavior across ARC start, session restart, and initial start after provisioning.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_provisioning_throttle_observer.h"
 
 #include <memory>

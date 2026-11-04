@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC opt-in preference handler class declaration
+// summary: Declares ArcOptInPreferenceHandler, which encapsulates preference and metrics mode access for the ARC opt-in flow and notifies an observer of changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_OPTIN_ARC_OPTIN_PREFERENCE_HANDLER_H_
 #define CHROME_BROWSER_ASH_ARC_OPTIN_ARC_OPTIN_PREFERENCE_HANDLER_H_
 

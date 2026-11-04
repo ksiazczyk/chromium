@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC notification
+summary: Restricts //chrome dependencies for ChromeOS code and grants specific include exceptions for tests and the notification source files.

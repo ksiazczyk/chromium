@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC power throttle observer header
+// summary: Declares ArcPowerThrottleObserver, which listens to ARC power bridge events and lifts CPU throttling on pre-ANR notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_POWER_THROTTLE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_POWER_THROTTLE_OBSERVER_H_
 

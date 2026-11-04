@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC print spooler utility implementations
+// summary: Implements helpers that save a print document from a Mojo platform handle to a temporary file and delete print documents with error logging.
+// ---
+
 #include "chrome/browser/ash/arc/print_spooler/arc_print_spooler_util.h"
 
 #include <utility>

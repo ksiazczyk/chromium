@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputConnection implementation
+// summary: Implements the mojom::InputConnection interface, applying text edit commands from the ARC container and reporting text input state to Android.
+// ---
+
 #include "chrome/browser/ash/arc/input_method_manager/input_connection_impl.h"
 
 #include <tuple>

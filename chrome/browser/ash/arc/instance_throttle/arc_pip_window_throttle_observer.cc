@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPipWindowThrottleObserver implementation
+// summary: Implements the PIP window throttle observer that stays active while an ARC picture-in-picture window is visible in the PIP container.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_pip_window_throttle_observer.h"
 
 #include <algorithm>

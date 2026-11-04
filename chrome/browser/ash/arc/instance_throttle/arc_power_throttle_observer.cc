@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC power throttle observer implementation
+// summary: Implements ArcPowerThrottleObserver, which temporarily lifts ARC CPU throttling when pre-ANR power events are reported.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_power_throttle_observer.h"
 #include "base/time/time.h"
 

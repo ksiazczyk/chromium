@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC boot error notification implementation
+// summary: Shows system notifications for ARC boot failures such as critically low disk space, with a storage settings button and suppression on managed or demo devices.
+// ---
+
 #include "chrome/browser/ash/arc/notification/arc_boot_error_notification.h"
 
 #include <memory>

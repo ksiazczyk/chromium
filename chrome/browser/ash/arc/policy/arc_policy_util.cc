@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC policy utility functions
+// summary: Provides helpers to parse the ArcPolicy JSON, extract requested app packages by install type, and record UMA metrics for policy keys and install types.
+// ---
+
 #include "chrome/browser/ash/arc/policy/arc_policy_util.h"
 
 #include <memory>

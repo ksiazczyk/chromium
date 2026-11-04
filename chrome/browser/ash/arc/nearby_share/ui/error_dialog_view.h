@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error dialog view header
+// summary: Declares ErrorDialogView, the bubble dialog shown for non-actionable ARC Nearby Share errors.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_UI_ERROR_DIALOG_VIEW_H_
 #define CHROME_BROWSER_ASH_ARC_NEARBY_SHARE_UI_ERROR_DIALOG_VIEW_H_
 

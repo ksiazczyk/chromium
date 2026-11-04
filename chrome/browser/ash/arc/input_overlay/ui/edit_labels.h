@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditLabels class declaration
+// summary: Declares EditLabels, a view wrapping the input labels of one action with layouts for tap and move keyboard bindings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_EDIT_LABELS_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_EDIT_LABELS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPolicyHandler class header
+// summary: Declares ArcPolicyHandler, a ConfigurationPolicyHandler that issues warnings for unknown managed configuration variables in the ArcPolicy policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_POLICY_ARC_POLICY_HANDLER_H_
 #define CHROME_BROWSER_ASH_ARC_POLICY_ARC_POLICY_HANDLER_H_
 

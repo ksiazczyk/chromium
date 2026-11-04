@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arrow container implementation
+// summary: Implements ArrowContainer, painting a rounded dialog-shaped background with a triangle wedge, highlight border and shadow for overlay menus.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/arrow_container.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC policy bridge class declaration
+// summary: Declares ArcPolicyBridge, a keyed service that sends policies to ARC, receives compliance reports, and notifies observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_POLICY_ARC_POLICY_BRIDGE_H_
 #define CHROME_BROWSER_ASH_ARC_POLICY_ARC_POLICY_BRIDGE_H_
 

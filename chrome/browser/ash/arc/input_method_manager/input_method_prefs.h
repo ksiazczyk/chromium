@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodPrefs class header
+// summary: Declares InputMethodPrefs, a thin wrapper around the user's input method related preferences.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_METHOD_MANAGER_INPUT_METHOD_PREFS_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_METHOD_MANAGER_INPUT_METHOD_PREFS_H_
 

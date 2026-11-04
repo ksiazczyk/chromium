@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for ARC locked fullscreen
+summary: Defines the locked_fullscreen static library and its unit_tests source_set with sources and dependencies for the ARC locked fullscreen code.

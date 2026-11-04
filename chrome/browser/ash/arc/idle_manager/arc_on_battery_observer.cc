@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcOnBatteryObserver implementation
+// summary: Implements the power supply observer that sets its active state from external power status to help gate ARC idle throttling.
+// ---
+
 #include "chrome/browser/ash/arc/idle_manager/arc_on_battery_observer.h"
 
 namespace arc {

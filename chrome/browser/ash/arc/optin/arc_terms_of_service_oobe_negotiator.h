@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC terms of service OOBE negotiator class declaration
+// summary: Declares the OOBE terms-of-service negotiator that observes the consolidated consent screen to capture the user's acceptance or rejection.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_OPTIN_ARC_TERMS_OF_SERVICE_OOBE_NEGOTIATOR_H_
 #define CHROME_BROWSER_ASH_ARC_OPTIN_ARC_TERMS_OF_SERVICE_OOBE_NEGOTIATOR_H_
 

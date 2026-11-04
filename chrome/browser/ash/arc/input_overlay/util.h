@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input overlay utility declarations
+// summary: Declares shared helpers for modifier DomCodes, mouse action enums, binding options, reserved keys, shortcut flags, and game controls window flags.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UTIL_H_
 

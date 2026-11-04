@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action view list item implementation
+// summary: Implements ActionViewListItem, an editing list entry that opens the button options menu on click and shows action highlights and delete/edit shortcuts on hover or focus.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/action_view_list_item.h"
 
 #include "chrome/browser/ash/arc/input_overlay/actions/action.h"

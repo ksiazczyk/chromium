@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC active audio throttle observer
+// summary: Tests active state transitions as ARC audio stream counts change, including behavior when no audio handler is present.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_active_audio_throttle_observer.h"
 
 #include "chromeos/ash/components/audio/cras_audio_handler.h"

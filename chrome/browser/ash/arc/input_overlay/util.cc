@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input overlay utility functions
+// summary: Implements helpers for modifier key flags, mouse action conversion, input binding lookup, reserved DomCodes, and ARC game controls window flags.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/util.h"
 
 #include <algorithm>

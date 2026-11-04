@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action view unit tests
+// summary: Unit tests for ActionView that check label positions around touch points and mouse, drag and key interactions in view and edit modes.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/action_view.h"
 
 #include "chrome/browser/ash/arc/input_overlay/actions/action.h"

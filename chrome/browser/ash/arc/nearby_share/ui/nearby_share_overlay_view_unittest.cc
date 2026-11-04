@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NearbyShareOverlayView unit tests
+// summary: Unit tests verifying that the Nearby Share overlay shows and closes correctly and sets accessibility ignore state.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/ui/nearby_share_overlay_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low disk space dialog view implementation
+// summary: Implements the low disk space dialog for ARC Nearby Share streaming, with OK and Storage buttons and localized messages.
+// ---
+
 #include "chrome/browser/ash/arc/nearby_share/ui/low_disk_space_dialog_view.h"
 
 #include <memory>

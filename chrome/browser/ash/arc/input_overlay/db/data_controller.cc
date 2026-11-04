@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataController implementation for ARC input overlay data storage
+// summary: Implements reading and writing AppDataProto files for per-app input overlay data stored in the user profile's google_gio directory.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/db/data_controller.h"
 
 #include "base/files/file.h"

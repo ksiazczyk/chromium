@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch point header
+// summary: Declares TouchPoint, the view representing an action's touch point in edit mode, including static drawing helpers and size queries.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_TOUCH_POINT_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_TOUCH_POINT_H_
 

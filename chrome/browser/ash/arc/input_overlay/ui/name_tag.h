@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NameTag view header
+// summary: Declares NameTag, a view combining title, subtitle, and error icon with layouts for the editing list and button options menu.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_NAME_TAG_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_NAME_TAG_H_
 

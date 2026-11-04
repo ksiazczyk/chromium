@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionMove implementation
+// summary: Implements the move action that rewrites keyboard and mouse events into touch move events, including its key and mouse overlay views.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/actions/action_move.h"
 
 #include <algorithm>

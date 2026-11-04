@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionEditView implementation
+// summary: Implements the button view shown for each action in the overlay editor, including ink drop ripple and highlight styling.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/action_edit_view.h"
 
 #include <memory>

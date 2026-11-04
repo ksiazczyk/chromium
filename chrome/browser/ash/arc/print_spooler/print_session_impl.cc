@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintSessionImpl implementation
+// summary: Implements the ARC print session, converting print settings, creating and flattening PDF preview documents, and driving Chrome print preview in a custom tab.
+// ---
+
 #include "chrome/browser/ash/arc/print_spooler/print_session_impl.h"
 
 #include <limits>

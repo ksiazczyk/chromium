@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC management transition notification unit tests
+// summary: Parameterized tests that launch ARC apps across management transition states and verify the notification and its icon are shown correctly.
+// ---
+
 #include "chrome/browser/ash/arc/notification/arc_management_transition_notification.h"
 
 #include <memory>

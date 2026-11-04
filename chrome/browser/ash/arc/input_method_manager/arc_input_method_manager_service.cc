@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC input method manager service implementation
+// summary: Implements the browser-side keyed service that manages ARC input methods, IME switching, and Android virtual keyboard visibility.
+// ---
+
 #include "chrome/browser/ash/arc/input_method_manager/arc_input_method_manager_service.h"
 
 #include <algorithm>

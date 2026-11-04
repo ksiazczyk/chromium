@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ARC input method manager build definition
+summary: Defines the static library sources and dependencies for the ARC input method manager plus its unit test target.

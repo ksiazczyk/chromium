@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the ARC container app killer
+// summary: Implements killing ARC container app processes in priority order when resourced reports container memory pressure.
+// ---
+
 #include "chrome/browser/ash/arc/memory_pressure/container_app_killer.h"
 
 #include <algorithm>  // For sort.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC terms of service OOBE negotiator implementation
+// summary: Implements the terms-of-service negotiator for the out-of-box experience by observing the consolidated consent screen and reporting the user's decision.
+// ---
+
 #include "chrome/browser/ash/arc/optin/arc_terms_of_service_oobe_negotiator.h"
 
 #include "ash/constants/ash_features.h"

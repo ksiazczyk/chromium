@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Print spooler dependency allowlist
+summary: Restricts includes for this ChromeOS directory and allowlists the specific //chrome dependencies the print spooler may use.

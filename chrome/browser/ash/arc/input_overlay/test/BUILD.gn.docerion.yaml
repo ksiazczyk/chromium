@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for ARC input overlay test support
+summary: Defines the test_support static library target for ARC input overlay tests, listing its sources and build dependencies.

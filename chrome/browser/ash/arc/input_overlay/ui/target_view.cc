@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target view implementation
+// summary: Implements TargetView, which draws the target circle, dashed cross line and touch point while placing a new button in the input overlay edit mode.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/target_view.h"
 
 #include <algorithm>

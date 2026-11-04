@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ARC instance throttle build targets (BUILD.gn)
+summary: Defines the instance_throttle static library and unit_tests source_set with their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcIdleManager implementation
+// summary: Implements the ARC idle manager keyed service that combines throttle observers to switch Android idle (Doze) mode and records related metrics.
+// ---
+
 #include "chrome/browser/ash/arc/idle_manager/arc_idle_manager.h"
 
 #include "ash/shell.h"

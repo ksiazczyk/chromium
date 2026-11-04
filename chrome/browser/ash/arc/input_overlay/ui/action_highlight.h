@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionHighlight class declaration
+// summary: Declares ActionHighlight, a view that draws a highlight circle behind an anchored action view and tracks its lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_ACTION_HIGHLIGHT_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_UI_ACTION_HIGHLIGHT_H_
 

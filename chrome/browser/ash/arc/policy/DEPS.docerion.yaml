@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ARC policy directory
+summary: Restricts dependencies on //chrome and lists the allowed includes for this directory, with special rules for tests and the policy bridge.

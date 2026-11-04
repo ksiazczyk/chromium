@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeleteEditShortcut implementation
+// summary: Implements a bubble dialog with edit and delete icon buttons shown for an action list item in the ARC input overlay editing UI.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/delete_edit_shortcut.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC policy bridge
+// summary: Tests policy conversion, compliance reporting, and related behavior of ArcPolicyBridge using fake sessions and mock policy services.
+// ---
+
 #include "chrome/browser/ash/arc/policy/arc_policy_bridge.h"
 
 #include <memory>

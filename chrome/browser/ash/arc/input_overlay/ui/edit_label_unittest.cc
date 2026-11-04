@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EditLabel unit tests
+// summary: Tests edit label behavior for key bindings, error states, and action naming in the button options menu and editing list.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/edit_label.h"
 
 #include <memory>

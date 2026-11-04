@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app launch throttle observer implementation
+// summary: Implements the observer that stays active during ARC app launches, tracking requests with a 20 second timeout.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arc_app_launch_throttle_observer.h"
 
 #include "base/check_is_test.h"

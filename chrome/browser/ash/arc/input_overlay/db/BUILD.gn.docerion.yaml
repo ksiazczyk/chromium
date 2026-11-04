@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the input overlay db library
+summary: Defines the static library for the input overlay db component, listing the data_controller sources and dependencies on base, profiles, content, and the proto target.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintSessionImpl class declaration
+// summary: Declares the print session host that manages the ARC custom tab, modal dialog hosting, PDF flattening, and window destruction handling for printing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_PRINT_SPOOLER_PRINT_SESSION_IMPL_H_
 #define CHROME_BROWSER_ASH_ARC_PRINT_SPOOLER_PRINT_SESSION_IMPL_H_
 

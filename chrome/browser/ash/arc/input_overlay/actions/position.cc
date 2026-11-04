@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Position implementation for ARC input overlay touch points
+// summary: Implements the Position class that parses anchor and dependent position values from JSON or proto and calculates touch point coordinates within window content bounds.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/actions/position.h"
 
 #include "base/check_op.h"

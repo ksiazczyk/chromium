@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the ARC net library
+summary: GN build file defining the ARC net static library sources and its unit test target with their dependencies.

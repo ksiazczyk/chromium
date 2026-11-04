@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display overlay controller unit tests
+// summary: Unit tests for DisplayOverlayController covering enabling and disabling game controls, widget visibility, display modes, and event rewriting behavior.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/display_overlay_controller.h"
 
 #include <cstdint>

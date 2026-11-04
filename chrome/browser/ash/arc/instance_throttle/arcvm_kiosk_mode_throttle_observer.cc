@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCVM kiosk mode throttle observer implementation
+// summary: Activates a throttle observer when the user is logged in as an ARCVM kiosk app and resets it otherwise.
+// ---
+
 #include "chrome/browser/ash/arc/instance_throttle/arcvm_kiosk_mode_throttle_observer.h"
 
 #include "components/user_manager/user_manager.h"

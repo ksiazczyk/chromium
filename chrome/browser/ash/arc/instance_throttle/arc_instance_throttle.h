@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcInstanceThrottle header
+// summary: Declares the ArcInstanceThrottle service, which holds throttle observers and adjusts ARC throttling state, including its delegate interface for testing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_INSTANCE_THROTTLE_H_
 #define CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_INSTANCE_THROTTLE_H_
 

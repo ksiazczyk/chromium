@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ARC Nearby Share dependencies
+summary: DEPS file restricting allowed includes for the directory, with extra rules for unittest files.

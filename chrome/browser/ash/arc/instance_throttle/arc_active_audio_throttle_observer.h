@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC active audio throttle observer class declaration
+// summary: Declares ArcActiveAudioThrottleObserver, which activates when ARC audio streams exist and deactivates when none remain.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_ACTIVE_AUDIO_THROTTLE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_ARC_INSTANCE_THROTTLE_ARC_ACTIVE_AUDIO_THROTTLE_OBSERVER_H_
 

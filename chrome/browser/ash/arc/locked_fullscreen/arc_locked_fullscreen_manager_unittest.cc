@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ARC locked fullscreen manager
+// summary: Parameterized tests that verify ARC audio mute and unmute behavior in locked fullscreen mode using fake concierge and ARC session clients and histogram testers.
+// ---
+
 #include "chrome/browser/ash/arc/locked_fullscreen/arc_locked_fullscreen_manager.h"
 
 #include <memory>

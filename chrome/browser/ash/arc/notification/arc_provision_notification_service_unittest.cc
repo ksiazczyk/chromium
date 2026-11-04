@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC provision notification service unit tests
+// summary: Unit tests for the ARC provisioning notification service, setting up fake ARC session, DLC, and pref dependencies to verify notification behavior during provisioning.
+// ---
+
 #include "chrome/browser/ash/arc/notification/arc_provision_notification_service.h"
 
 #include <memory>

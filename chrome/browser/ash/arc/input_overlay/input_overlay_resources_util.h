@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input overlay resources util header
+// summary: Declares GetInputOverlayResourceId, which looks up the input overlay JSON resource ID associated with a given package name.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_INPUT_OVERLAY_RESOURCES_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_INPUT_OVERLAY_INPUT_OVERLAY_RESOURCES_UTIL_H_
 

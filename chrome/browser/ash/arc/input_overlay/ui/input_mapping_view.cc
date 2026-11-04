@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMappingView implementation
+// summary: Implements the view showing all input mapping action views, sorting them for focus order and reacting to action additions, removals, and display mode changes.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/input_mapping_view.h"
 
 #include "chrome/browser/ash/arc/input_overlay/actions/action.h"

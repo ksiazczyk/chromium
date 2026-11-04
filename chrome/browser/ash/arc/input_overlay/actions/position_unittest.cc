@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Position parsing and calculation
+// summary: Verifies JSON parsing and position calculation for default and aspect-ratio, height- and width-dependent positions with various anchor configurations.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/actions/position.h"
 
 #include "base/json/json_reader.h"

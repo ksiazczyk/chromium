@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ARC picture-in-picture
+summary: Defines the pip static library and unit_tests source set, listing their sources and dependencies for the ARC picture-in-picture directory.

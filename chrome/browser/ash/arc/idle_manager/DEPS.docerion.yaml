@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC idle manager
+summary: Restricts include dependencies for the directory, allowing only listed //chrome dependencies and test-only includes for unit test files.

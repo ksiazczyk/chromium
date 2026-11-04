@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the ARC container OOM score manager
+// summary: Periodically assigns oom_score_adj values to ARC container processes based on persistence, focus, and activity time.
+// ---
+
 #include "chrome/browser/ash/arc/memory_pressure/container_oom_score_manager.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Print spooler owners file
+summary: Delegates review ownership of this directory to the ChromeOS printing OWNERS file.

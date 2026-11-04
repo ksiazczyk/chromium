@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rich nudge unit tests
+// summary: Unit tests for the RichNudge view, verifying it appears in button placement mode and flips position when the target circle intersects it.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/rich_nudge.h"
 
 #include "chrome/browser/ash/arc/input_overlay/display_overlay_controller.h"

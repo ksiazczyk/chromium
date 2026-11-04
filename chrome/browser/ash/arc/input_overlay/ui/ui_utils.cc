@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI utilities implementation
+// summary: Implements UI helpers that map keyboard codes to display symbols, provide accessible names, compute available bounds, alpha values and arrow-key movement.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/ui_utils.h"
 
 #include "ash/public/cpp/shelf_config.h"

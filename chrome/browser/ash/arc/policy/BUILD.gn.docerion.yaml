@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the ARC policy library
+summary: Defines the ARC policy static library and its unit test target, listing sources, dependencies, and allowed circular includes.

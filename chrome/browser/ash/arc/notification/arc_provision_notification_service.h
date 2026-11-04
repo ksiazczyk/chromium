@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC provision notification service header
+// summary: Declares ArcProvisionNotificationService, a KeyedService observing ARC provisioning status and session state to show or hide the provisioning notification.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_NOTIFICATION_ARC_PROVISION_NOTIFICATION_SERVICE_H_
 #define CHROME_BROWSER_ASH_ARC_NOTIFICATION_ARC_PROVISION_NOTIFICATION_SERVICE_H_
 

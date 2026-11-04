@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditLabel implementation
+// summary: Implements the editable label button that displays and changes input mappings, with pulse animation and accessibility support.
+// ---
+
 #include "chrome/browser/ash/arc/input_overlay/ui/edit_label.h"
 
 #include "ash/accessibility/accessibility_controller.h"

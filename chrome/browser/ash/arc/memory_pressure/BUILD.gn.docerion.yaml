@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for ARC memory pressure targets
+summary: Defines the memory_pressure static library and its unit test source set along with their sources and dependencies.
