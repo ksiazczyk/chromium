@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File picker user gesture requirement browser test
+// summary: Browser tests verifying that open, save, and directory pickers require a user gesture and fail with an error message otherwise.
+// ---
+
 #include <string>
 
 #include "base/files/file_path.h"

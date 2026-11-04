@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access tab helper implementation
+// summary: Notifies the permission context when a navigation leaves an origin or a tab is destroyed so File System Access permissions can be revoked.
+// ---
+
 #include "chrome/browser/file_system_access/file_system_access_tab_helper.h"
 
 #include "chrome/browser/file_system_access/chrome_file_system_access_permission_context.h"

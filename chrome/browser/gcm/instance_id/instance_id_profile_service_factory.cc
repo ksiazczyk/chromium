@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance ID profile service factory implementation
+// summary: Implements the per-profile InstanceIDProfileService factory, creating services backed by the GCM driver and refusing incognito profiles, with desktop-specific guest and off-the-record handling.
+// ---
+
 #include "chrome/browser/gcm/instance_id/instance_id_profile_service_factory.h"
 
 #include <memory>

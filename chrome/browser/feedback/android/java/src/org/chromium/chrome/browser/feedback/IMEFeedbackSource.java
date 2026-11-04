@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default IME feedback source
+// summary: Reports the device's default input method (IME) package name as feedback data.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.provider.Settings;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome root store log source implementation
+// summary: Adds Chrome Root Store version, certificate, and MTC metadata information to feedback system logs.
+// ---
+
 #include "chrome/browser/feedback/system_logs/log_sources/chrome_root_store_log_source.h"
 
 #include "base/i18n/time_formatting.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS first run internals
+// summary: ChromeOS implementation that treats all installs as organic, locates initial preferences next to the binary, and skips the EULA.
+// ---
+
 #include "chrome/browser/first_run/first_run_internal.h"
 
 #include "base/base_paths.h"

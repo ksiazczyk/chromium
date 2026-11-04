@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds feature flag and parameter definitions
+// summary: Defines the kChromeFinds feature flag and its configurable parameters for cooldowns, notification scheduling, and opt-in promo thresholds.
+// ---
+
 #include "chrome/browser/finds/core/finds_features.h"
 
 namespace finds::features {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSessionState session state for metrics
+// summary: Stores high-level session state such as multi-window mode, activity type, dark mode, and user profile count for metrics logging.
+// ---
+
 package org.chromium.chrome.browser.flags;
 
 import android.content.Context;

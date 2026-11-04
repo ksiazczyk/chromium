@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the file_system_access directory
+summary: Delegates ownership to the content file system access owners and requires permissions owners for permission-related files.

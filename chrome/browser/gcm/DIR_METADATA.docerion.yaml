@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata mixin for GCM
+summary: Points DIR_METADATA at the shared COMMON_METADATA file so the gcm folder inherits its tracking settings.

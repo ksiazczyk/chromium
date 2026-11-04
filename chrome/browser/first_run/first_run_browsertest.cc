@@ -1,6 +1,13 @@
 // Copyright 2012 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Browser tests for first run initial preferences
+// summary: In-process browser tests exercising first run behavior, including initial preferences import and variations seed handling.
+// ---
+
 #include "chrome/browser/first_run/first_run.h"
 
 #include <algorithm>

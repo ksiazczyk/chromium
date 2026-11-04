@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal first run platform interface
+// summary: Internal header declaring platform-specific first run helpers such as EULA display, organic first run detection, initial preferences path, and import result UMA enums.
+// ---
+
 #ifndef CHROME_BROWSER_FIRST_RUN_FIRST_RUN_INTERNAL_H_
 #define CHROME_BROWSER_FIRST_RUN_FIRST_RUN_INTERNAL_H_
 

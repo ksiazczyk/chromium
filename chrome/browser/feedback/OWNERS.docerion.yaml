@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the feedback directory
+summary: Inherits owners from components/feedback and assigns per-file owners for report_unsafe_site files.

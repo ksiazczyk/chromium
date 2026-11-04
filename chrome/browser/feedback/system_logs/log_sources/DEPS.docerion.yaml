@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the log sources folder
+summary: Grants chrome_internal_log_source.cc permission to include Ash display and shell headers.

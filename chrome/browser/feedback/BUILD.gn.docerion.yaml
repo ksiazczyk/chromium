@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Chrome feedback browser targets
+summary: Defines the feedback source sets, their sources and platform-conditional dependencies for building the feedback feature in the Chrome browser.

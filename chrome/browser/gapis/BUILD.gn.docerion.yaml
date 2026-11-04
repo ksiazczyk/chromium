@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Gapis browser build configuration
+summary: GN build file defining the gapis source set for the browser, listing its sources and dependencies on profiles, signin, content, and the components/gapis component.

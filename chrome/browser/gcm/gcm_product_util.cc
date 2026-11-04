@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM product category utility implementation
+// summary: Computes and caches the product category string for GCM subtypes, such as com.chrome.macosx, and registers its prefs.
+// ---
+
 #include "chrome/browser/gcm/gcm_product_util.h"
 
 #include <string_view>

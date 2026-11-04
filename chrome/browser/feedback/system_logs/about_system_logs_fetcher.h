@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About system logs fetcher header
+// summary: Declares BuildAboutSystemLogsFetcher, which creates a self-deleting SystemLogsFetcher that aggregates logs for the browser's About system diagnostics page.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_ABOUT_SYSTEM_LOGS_FETCHER_H_
 #define CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_ABOUT_SYSTEM_LOGS_FETCHER_H_
 

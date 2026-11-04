@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interest feed feedback source
+// summary: Adds the interest feed enabled state plus any provided feed context entries to feedback reports.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser relaunch command line and upgrade utilities
+// summary: Builds relaunch command lines for browser restarts according to restart mode and dispatches relaunch requests to platform-specific implementations.
+// ---
+
 #include "chrome/browser/first_run/upgrade_util.h"
 
 #include <memory>

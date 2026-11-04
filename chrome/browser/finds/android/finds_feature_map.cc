@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI feature map for Finds features
+// summary: Exposes the ChromeFinds feature flag to Java through a base::android::FeatureMap accessed over JNI.
+// ---
+
 #include "base/android/feature_map.h"
 #include "base/no_destructor.h"
 #include "chrome/browser/finds/android/jni_headers/FindsFeatureMap_jni.h"

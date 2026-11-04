@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCM profile service unit tests
+// summary: Exercises GCMProfileService with fake GCM clients, testing profiles, and network test utilities.
+// ---
+
 #include "components/gcm_driver/gcm_profile_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Report unsafe site dialog browser tests
+// summary: Browser tests covering policy-based disabling, navigation restrictions, and dialog interaction for the report-unsafe-site feedback page.
+// ---
+
 #include "chrome/browser/feedback/report_unsafe_site_dialog.h"
 
 #include <string>

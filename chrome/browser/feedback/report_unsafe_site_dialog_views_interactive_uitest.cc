@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Report unsafe site dialog interactive UI tests
+// summary: Interactive UI tests that open the report-unsafe-site dialog, click its elements, and verify behavior using an embedded HTTPS test server.
+// ---
+
 #include "chrome/browser/feedback/report_unsafe_site_dialog_views.h"
 
 #include "base/functional/callback.h"

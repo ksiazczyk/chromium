@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Report unsafe site dialog Android unit test
+// summary: Unit test verifying that the report-unsafe-site dialog is not enabled on Android.
+// ---
+
 #include "chrome/browser/feedback/report_unsafe_site_dialog.h"
 
 #include "chrome/test/base/testing_profile.h"

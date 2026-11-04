@@ -1,3 +1,9 @@
+---
+type: readme
+title: First-Party Sets
+summary: Describes the directory's role in chrome/browser and links to the First-Party Sets explainer and prototype design doc.
+---
+
 First-Party Sets
 ================
 

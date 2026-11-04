@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped mock First-Party Sets handler implementation
+// summary: Implements the scoped mock FirstPartySetsHandler that installs itself as the global instance for testing, delegating set lookups to configurable global sets and optionally invoking callbacks asynchronously.
+// ---
+
 #include "chrome/browser/first_party_sets/scoped_mock_first_party_sets_handler.h"
 
 #include <optional>

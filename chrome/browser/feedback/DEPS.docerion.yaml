@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for feedback dialog utils
+summary: Grants feedback_dialog_utils.cc permission to include Ash multi-user window manager and shell headers on ChromeOS.

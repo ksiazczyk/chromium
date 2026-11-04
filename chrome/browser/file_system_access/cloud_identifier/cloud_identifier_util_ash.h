@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash Chrome cloud identifier utility header
+// summary: Declares the Ash-chrome specific GetCloudIdentifier function that retrieves cloud identifiers for a given file from DriveFS or provided file systems.
+// ---
+
 #ifndef CHROME_BROWSER_FILE_SYSTEM_ACCESS_CLOUD_IDENTIFIER_CLOUD_IDENTIFIER_UTIL_ASH_H_
 #define CHROME_BROWSER_FILE_SYSTEM_ACCESS_CLOUD_IDENTIFIER_CLOUD_IDENTIFIER_UTIL_ASH_H_
 

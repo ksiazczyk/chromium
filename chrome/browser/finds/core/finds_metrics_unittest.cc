@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for finds metrics
+// summary: Unit tests verifying that the finds metrics functions record the expected histogram samples and buckets.
+// ---
+
 #include "chrome/browser/finds/core/finds_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

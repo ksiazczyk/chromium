@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Geolocation directory owners
+summary: Specifies code owners for review, inheriting from the content geolocation owners and applying permissions owners to permission context files.

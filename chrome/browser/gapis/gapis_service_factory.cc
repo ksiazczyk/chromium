@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GapisServiceFactory implementation
+// summary: Implements the profile-keyed factory that returns a GapisService for a profile only when the kEnableGapis feature is enabled, building it with the identity manager, URL loader factory, and Chrome channel.
+// ---
+
 #include "chrome/browser/gapis/gapis_service_factory.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process ID feedback source native implementation
+// summary: Collects renderer and child process IDs by process type and exposes them to Java for feedback reports.
+// ---
+
 
 #include "chrome/browser/feedback/android/process_id_feedback_source.h"
 

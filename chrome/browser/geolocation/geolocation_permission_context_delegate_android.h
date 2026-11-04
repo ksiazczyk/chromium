@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android geolocation permission delegate header
+// summary: Declares the Android subclass overriding permission decisions, interactability checks, preference access and requesting-origin DSE detection.
+// ---
+
 #ifndef CHROME_BROWSER_GEOLOCATION_GEOLOCATION_PERMISSION_CONTEXT_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_GEOLOCATION_GEOLOCATION_PERMISSION_CONTEXT_DELEGATE_ANDROID_H_
 

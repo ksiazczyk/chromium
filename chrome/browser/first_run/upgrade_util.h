@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser relaunch and upgrade utility declarations
+// summary: Declares interfaces for relaunching Chrome after an upgrade, including relaunch command line construction and a test seam for relaunch callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_FIRST_RUN_UPGRADE_UTIL_H_
 #define CHROME_BROWSER_FIRST_RUN_UPGRADE_UTIL_H_
 

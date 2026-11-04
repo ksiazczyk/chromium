@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OzonePlatformStateDumpSource implementation
+// summary: Implements a system logs source that dumps the Ozone platform state into the ozone-platform-state feedback log entry.
+// ---
+
 #include "chrome/browser/feedback/system_logs/log_sources/ozone_platform_state_dump_source.h"
 
 #include <memory>

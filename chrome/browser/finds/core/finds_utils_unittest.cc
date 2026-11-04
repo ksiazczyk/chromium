@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Finds utility functions unit tests
+// summary: Unit tests for Finds utility functions, including theme conversion, timestamps and policy checks.
+// ---
+
 #include "chrome/browser/finds/core/finds_utils.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the file_system_access directory
+summary: Points to the shared COMMON_METADATA mixins in content/browser/file_system_access for this directory's metadata.

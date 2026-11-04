@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX first run dialog logic
+// summary: Shared POSIX implementation deciding when to show the first run dialog, initializing metrics reporting defaults, and running post-import platform tasks.
+// ---
+
 #include "chrome/browser/first_run/first_run_internal.h"
 
 #include "base/functional/callback.h"

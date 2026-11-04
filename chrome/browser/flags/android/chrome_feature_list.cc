@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Android feature flag list implementation
+// summary: Implements the Chrome Android feature list, defining and exposing feature flags to Java in sorted order.
+// ---
+
 #include "chrome/browser/flags/android/chrome_feature_list.h"
 
 #include <stddef.h>

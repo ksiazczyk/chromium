@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the family info feedback source
+// summary: Tests family info feedback values, including parental control web filter tags for child accounts, through a Java test bridge.
+// ---
+
 #include "chrome/browser/feedback/android/family_info_feedback_source.h"
 
 #include <memory>

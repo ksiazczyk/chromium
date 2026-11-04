@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped mock First-Party Sets handler header
+// summary: Declares the RAII ScopedMockFirstPartySetsHandler test helper that swaps in a dummy FirstPartySetsHandler singleton, with helpers to set global sets and control asynchronous callback behavior.
+// ---
+
 #ifndef CHROME_BROWSER_FIRST_PARTY_SETS_SCOPED_MOCK_FIRST_PARTY_SETS_HANDLER_H_
 #define CHROME_BROWSER_FIRST_PARTY_SETS_SCOPED_MOCK_FIRST_PARTY_SETS_HANDLER_H_
 

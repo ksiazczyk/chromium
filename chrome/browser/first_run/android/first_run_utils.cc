@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI utilities for first-run EULA and ToS state
+// summary: Implements JNI functions that read and set EULA acceptance and check whether the CCT ToS dialog is enabled during first run.
+// ---
+
 #include <jni.h>
 
 #include "chrome/browser/browser_process.h"

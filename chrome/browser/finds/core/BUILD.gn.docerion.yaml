@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the finds core library
+summary: GN build file defining the finds core static library sources and dependencies plus the unit_tests target.

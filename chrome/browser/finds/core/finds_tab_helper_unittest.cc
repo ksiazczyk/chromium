@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FindsTabHelper unit tests
+// summary: Unit tests for FindsTabHelper navigation handling and opt-in condition tracking.
+// ---
+
 #include "chrome/browser/finds/core/finds_tab_helper.h"
 
 #include "base/test/scoped_feature_list.h"

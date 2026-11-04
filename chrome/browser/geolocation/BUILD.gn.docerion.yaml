@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Geolocation BUILD.gn build targets
+summary: Defines GN source sets for the geolocation permission delegate, extensions and SlimWebView code, plus their unit and browser test targets with platform-conditional dependencies.

@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FamilyInfoLogSource unit tests
+// summary: Unit tests for FamilyInfoLogSource covering family member fetches before the deadline, timeouts, and recorded UMA metrics.
+// ---
+
 #include "chrome/browser/feedback/system_logs/log_sources/family_info_log_source.h"
 
 #include <memory>

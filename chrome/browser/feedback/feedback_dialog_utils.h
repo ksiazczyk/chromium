@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for feedback dialog utility functions
+// summary: Declares the WebUI feedback source enum and utility functions for obtaining tab URLs, profiles and showing the feedback dialog.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_FEEDBACK_DIALOG_UTILS_H_
 #define CHROME_BROWSER_FEEDBACK_FEEDBACK_DIALOG_UTILS_H_
 

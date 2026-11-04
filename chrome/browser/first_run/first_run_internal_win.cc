@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows first run internals
+// summary: Windows implementation handling EULA display, sentinel creation, launching setup for the EULA, and Active Setup post-import tasks.
+// ---
+
 #include "chrome/browser/first_run/first_run_internal.h"
 
 #include <windows.h>

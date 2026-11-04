@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FindsManager unit tests
+// summary: Robolectric unit tests verifying FindsManager behavior, including observer registration, notification rescheduling, destruction, and bottom sheet opt-in promo display.
+// ---
+
 package org.chromium.chrome.browser.finds;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindsTabHelper class declaration
+// summary: Declares the FindsTabHelper class, a WebContentsObserver that tracks user opt-in eligibility for the Finds feature.
+// ---
+
 #ifndef CHROME_BROWSER_FINDS_CORE_FINDS_TAB_HELPER_H_
 #define CHROME_BROWSER_FINDS_CORE_FINDS_TAB_HELPER_H_
 

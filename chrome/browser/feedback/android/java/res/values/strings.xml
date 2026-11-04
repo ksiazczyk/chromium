@@ -4,6 +4,13 @@ Copyright 2020 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Feedback help context string resources
+summary: Defines help context ID string constants that map Chrome surfaces like bookmarks, history, and settings to matching mobile help pages.
+-->
+
 <resources>
     <!-- These constants should be in sync with the context names on go/mobilehelprecs.
      If the context ID cannot be found, the default help page will be shown to the user.-->

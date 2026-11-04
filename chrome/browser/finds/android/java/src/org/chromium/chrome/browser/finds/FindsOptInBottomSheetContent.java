@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds opt-in bottom sheet content
+// summary: Implements BottomSheetContent with the content view, back-press handling and accessibility strings for the Finds opt-in sheet.
+// ---
+
 package org.chromium.chrome.browser.finds;
 
 import android.content.Context;

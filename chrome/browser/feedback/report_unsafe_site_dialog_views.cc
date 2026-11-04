@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Report unsafe site dialog Views implementation
+// summary: Desktop Views implementation that gates the dialog on profile and Safe Browsing preferences and shows the WebUI dialog while logging usage metrics.
+// ---
+
 #include "chrome/browser/feedback/report_unsafe_site_dialog_views.h"
 
 #include <memory>

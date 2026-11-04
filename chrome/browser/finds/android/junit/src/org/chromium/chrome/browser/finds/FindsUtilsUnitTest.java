@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FindsUtils unit tests
+// summary: Robolectric unit tests verifying FindsUtils notification channel checks, such as whether the Chrome Finds channel exists and is enabled.
+// ---
+
 package org.chromium.chrome.browser.finds;
 
 import static org.junit.Assert.assertEquals;

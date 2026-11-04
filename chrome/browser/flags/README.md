@@ -1,3 +1,13 @@
+---
+type: readme
+title: Feature Flags and Switches
+summary: Explains how feature flags, switches and variations are declared and checked from Java and native code, including cached flags and safe defaults.
+relations:
+  - references /chrome/browser/flags/android/chrome_feature_list.cc
+  - references /chrome/browser/flags/android/java/src/org/chromium/chrome/browser/flags/ChromeFeatureList.java
+  - references /components/cached_flags/android/java/src/org/chromium/components/cached_flags/CachedFlag.java
+---
+
 # Feature Flags and Switches
 
 ## Overview

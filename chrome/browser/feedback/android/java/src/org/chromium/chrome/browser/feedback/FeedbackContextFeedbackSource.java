@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackContextFeedbackSource reporting the active feature context
+// summary: Reports which feature was being used when the feedback report was triggered, as a key-value feedback entry.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.text.TextUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java bridge to the native FindsServiceFactory
+// summary: Provides static access to the per-profile FindsService instance through a JNI call into the C++ factory.
+// ---
+
 package org.chromium.chrome.browser.finds;
 
 import org.jni_zero.JNINamespace;

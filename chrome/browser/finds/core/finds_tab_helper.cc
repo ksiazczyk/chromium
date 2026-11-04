@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindsTabHelper implementation
+// summary: Implements the tab helper that observes navigations and omnibox events to track Finds opt-in eligibility.
+// ---
+
 #include "chrome/browser/finds/core/finds_tab_helper.h"
 
 #include "base/android/device_info.h"

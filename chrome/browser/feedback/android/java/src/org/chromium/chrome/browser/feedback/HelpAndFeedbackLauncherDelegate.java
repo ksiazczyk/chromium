@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HelpAndFeedbackLauncherDelegate interface for help and feedback flows
+// summary: Defines the delegate that shows help pages and feedback flows, including p-link URL generation and fallback support URL launching in the browser.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.app.Activity;

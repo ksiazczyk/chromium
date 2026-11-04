@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstRunStatus
+// summary: Holds static helpers that read and write shared preferences tracking the first run experience state, including flow completion, welcome page skipping, and lightweight flow status.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import androidx.annotation.VisibleForTesting;

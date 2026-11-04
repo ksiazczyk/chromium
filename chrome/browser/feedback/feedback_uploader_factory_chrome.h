@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback uploader Chrome factory header
+// summary: Declares the FeedbackUploaderFactoryChrome singleton that owns and provides the FeedbackUploaderChrome service for a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_FEEDBACK_UPLOADER_FACTORY_CHROME_H_
 #define CHROME_BROWSER_FEEDBACK_FEEDBACK_UPLOADER_FACTORY_CHROME_H_
 

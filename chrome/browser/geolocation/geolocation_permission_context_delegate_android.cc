@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android geolocation permission delegate implementation
+// summary: Adds Android-specific permission handling for installed webapps, tab interactability checks, profile preferences and default search engine origin detection.
+// ---
+
 #include "chrome/browser/geolocation/geolocation_permission_context_delegate_android.h"
 
 #include <utility>

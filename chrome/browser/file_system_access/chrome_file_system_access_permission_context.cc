@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome file system access permission context implementation
+// summary: Implements Chrome's origin-scoped permission model for the File System Access API, including grants, prompts, and path checks.
+// ---
+
 #include "chrome/browser/file_system_access/chrome_file_system_access_permission_context.h"
 
 #include <algorithm>

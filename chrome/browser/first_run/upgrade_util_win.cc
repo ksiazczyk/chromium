@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows browser relaunch and upgrade implementation
+// summary: Implements Windows upgrade tasks such as swapping new_chrome.exe into place, invoking Google Update, and relaunching the browser after an update.
+// ---
+
 #include "chrome/browser/first_run/upgrade_util_win.h"
 
 #include <objbase.h>

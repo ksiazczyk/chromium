@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run dialog header for Mac and Linux
+// summary: Declares ShowFirstRunDialog(), shown on organic first runs in Mac and desktop Linux official builds to collect metrics consent and set the default browser.
+// ---
+
 #ifndef CHROME_BROWSER_FIRST_RUN_FIRST_RUN_DIALOG_H_
 #define CHROME_BROWSER_FIRST_RUN_FIRST_RUN_DIALOG_H_
 

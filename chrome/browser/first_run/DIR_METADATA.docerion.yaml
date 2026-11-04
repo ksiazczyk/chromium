@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for first_run
+summary: Maps the directory to the UI>Browser>FirstRun monorail component and Buganizer component 1457199.

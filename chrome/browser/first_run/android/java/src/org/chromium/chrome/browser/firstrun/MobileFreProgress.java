@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MobileFreProgress
+// summary: Defines an append-only IntDef annotation enumerating first run experience progress stages used for histogram metrics, mirrored in the histograms enums.xml metadata.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import androidx.annotation.IntDef;

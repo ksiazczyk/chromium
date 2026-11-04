@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for First-Party Sets
+summary: Points to the Related-Website-Sets monorail component, team email, and Buganizer component used for this directory.

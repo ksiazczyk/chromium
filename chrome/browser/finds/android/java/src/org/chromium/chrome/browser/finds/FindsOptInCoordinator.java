@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds opt-in bottom sheet coordinator
+// summary: Coordinates the Finds opt-in bottom sheet, inflating its layout with a Lottie animation and tracking user interactions such as accept, decline and dismiss.
+// ---
+
 package org.chromium.chrome.browser.finds;
 
 import android.content.ComponentCallbacks;

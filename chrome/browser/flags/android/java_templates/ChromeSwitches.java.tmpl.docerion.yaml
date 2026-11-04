@@ -1,0 +1,4 @@
+# Docerion header of ChromeSwitches.java.tmpl.
+type: source
+title: ChromeSwitches.java.tmpl
+summary: Template for the ChromeSwitches class, defining command line switches specific to the Chrome portion of Chromium on Android, expanded into Java source during the build.

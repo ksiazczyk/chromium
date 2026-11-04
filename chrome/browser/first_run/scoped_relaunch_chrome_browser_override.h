@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the scoped Chrome relaunch callback override
+// summary: Declares a scoped test helper that overrides the Chrome relaunch callback for the lifetime of an instance and restores the previous one.
+// ---
+
 #ifndef CHROME_BROWSER_FIRST_RUN_SCOPED_RELAUNCH_CHROME_BROWSER_OVERRIDE_H_
 #define CHROME_BROWSER_FIRST_RUN_SCOPED_RELAUNCH_CHROME_BROWSER_OVERRIDE_H_
 

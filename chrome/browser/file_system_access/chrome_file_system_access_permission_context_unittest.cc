@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the file system access permission context
+// summary: Unit tests covering grant persistence, blocklist checks, metrics, and enterprise content analysis in the permission context.
+// ---
+
 #include "chrome/browser/file_system_access/chrome_file_system_access_permission_context.h"
 
 #include <memory>

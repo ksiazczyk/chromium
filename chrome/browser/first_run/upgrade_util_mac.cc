@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS browser relaunch implementation
+// summary: Implements macOS browser relaunching through the Mac relauncher.
+// ---
+
 #include "base/command_line.h"
 #include "chrome/browser/mac/relauncher.h"
 

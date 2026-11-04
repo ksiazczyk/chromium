@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome internal log source browser tests
+// summary: Browser tests verifying the internal log source output, including version tags and Skia Graphite status reporting.
+// ---
+
 #include "chrome/browser/feedback/system_logs/log_sources/chrome_internal_log_source.h"
 
 #include <memory>

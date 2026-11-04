@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Android session state enums and API
+// summary: Declares enums and helpers for Chrome Android activity type, dark mode state and custom tab visibility metrics.
+// ---
+
 #ifndef CHROME_BROWSER_FLAGS_ANDROID_CHROME_SESSION_STATE_H_
 #define CHROME_BROWSER_FLAGS_ANDROID_CHROME_SESSION_STATE_H_
 

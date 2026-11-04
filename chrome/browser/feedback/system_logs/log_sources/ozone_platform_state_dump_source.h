@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OzonePlatformStateDumpSource header
+// summary: Declares OzonePlatformStateDumpSource, a system logs source that fetches the Ozone state dump.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_LOG_SOURCES_OZONE_PLATFORM_STATE_DUMP_SOURCE_H_
 #define CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_LOG_SOURCES_OZONE_PLATFORM_STATE_DUMP_SOURCE_H_
 

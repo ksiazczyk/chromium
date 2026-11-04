@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Show feedback page header
+// summary: Declares CanSubmitFeedback, CanShowFeedback, and ShowFeedbackPage entry points for displaying the feedback UI for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_SHOW_FEEDBACK_PAGE_H_
 #define CHROME_BROWSER_FEEDBACK_SHOW_FEEDBACK_PAGE_H_
 

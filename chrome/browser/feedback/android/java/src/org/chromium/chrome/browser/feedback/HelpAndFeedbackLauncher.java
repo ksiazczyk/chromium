@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HelpAndFeedbackLauncher interface for launching help pages
+// summary: Interface defining methods to show help pages and prompt users for feedback, with policy checks, category tags and screenshot modes.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.app.Activity;

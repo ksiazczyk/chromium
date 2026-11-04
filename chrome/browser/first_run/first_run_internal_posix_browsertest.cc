@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: POSIX first run internals browser test
+// summary: In-process browser test verifying first run dialog behavior on POSIX, including forced dialog state and state inspection within the dialog's nested run loop.
+// ---
+
 #include <signal.h>
 
 #include "base/command_line.h"

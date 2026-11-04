@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the file system access permission context
+// summary: Exercises permission grants, write checks, and picker behavior of the Chrome permission context in in-process browser tests.
+// ---
+
 #include "chrome/browser/file_system_access/chrome_file_system_access_permission_context.h"
 
 #include <optional>

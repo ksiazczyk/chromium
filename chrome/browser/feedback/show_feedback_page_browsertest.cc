@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Show feedback page browser tests
+// summary: Browser tests checking feedback page opening under the UserFeedbackAllowed policy and the OS feedback system web app feature.
+// ---
+
 #include "chrome/browser/feedback/show_feedback_page.h"
 
 #include "ash/constants/ash_features.h"

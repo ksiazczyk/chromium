@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation permission browser tests
+// summary: Browser tests exercising geolocation permission requests across frames, iframes, content settings, prerendering and permission prompts with a scoped geolocation overrider.
+// ---
+
 #include <stddef.h>
 
 #include <string>

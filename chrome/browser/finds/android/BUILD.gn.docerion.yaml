@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Finds Android build targets
+summary: GN build file defining JNI header generation, the Finds Android Java library, the native source set and Robolectric unit tests for the Finds feature.

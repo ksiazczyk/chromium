@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA histogram feedback source
+// summary: Supplies UMA histogram data as JSON for feedback reports, omitting buckets on low-end or low-memory devices and skipping incognito profiles.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.util.Pair;

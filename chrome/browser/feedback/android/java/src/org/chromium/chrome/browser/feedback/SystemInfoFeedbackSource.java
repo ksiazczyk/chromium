@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInfoFeedbackSource
+// summary: Collects system details such as CPU architecture, memory, GPU, locale and storage sizes for feedback reports via JNI and StatFs.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash Chrome cloud identifier utility implementation
+// summary: Implements GetCloudIdentifier for Ash-chrome, resolving a file's cloud identifier from DriveFS or provided file systems and returning it via the FileSystem Access mojom error and identifier types.
+// ---
+
 #include "chrome/browser/file_system_access/cloud_identifier/cloud_identifier_util_ash.h"
 
 #include <memory>

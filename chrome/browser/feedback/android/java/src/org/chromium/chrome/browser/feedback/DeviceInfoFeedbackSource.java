@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfoFeedbackSource providing device name and type data
+// summary: Supplies the device name and form factor type, such as phone, tablet, automotive, desktop or XR, as feedback data.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.content.Context;

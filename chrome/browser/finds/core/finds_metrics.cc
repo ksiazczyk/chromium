@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds metrics recording implementation
+// summary: Implements histogram recording for finds notification interactions, shown notifications, and opt-in criteria fulfillment.
+// ---
+
 #include "chrome/browser/finds/core/finds_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

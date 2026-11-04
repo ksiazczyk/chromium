@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome system logs fetcher implementation
+// summary: Builds a SystemLogsFetcher that aggregates scrubbed system log sources for feedback reports, with optional PII scrubbing and ChromeOS and supervised-user sources.
+// ---
+
 #include "chrome/browser/feedback/system_logs/chrome_system_logs_fetcher.h"
 
 #include <memory>

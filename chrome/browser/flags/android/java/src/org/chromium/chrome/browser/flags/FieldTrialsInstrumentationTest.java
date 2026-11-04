@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Integration tests for FieldTrials
+// summary: Instrumentation integration tests verifying that field trial feature and parameter overrides apply at both Java and native levels.
+// ---
+
 package org.chromium.chrome.browser.flags;
 
 import androidx.test.filters.SmallTest;

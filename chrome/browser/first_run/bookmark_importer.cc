@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run bookmark importer implementation
+// summary: Imports bookmarks and favicons from a first run preferences dictionary into the profile's bookmark model, recording import result histograms.
+// ---
+
 #include "chrome/browser/first_run/bookmark_importer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds service class declaration
+// summary: Declares the FindsService keyed service with its observer interface, result status enum, and methods for model execution and opt-in tracking.
+// ---
+
 #ifndef CHROME_BROWSER_FINDS_CORE_FINDS_SERVICE_H_
 #define CHROME_BROWSER_FINDS_CORE_FINDS_SERVICE_H_
 

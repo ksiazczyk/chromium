@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenshotTaker unit tests
+// summary: Unit tests for ScreenshotTaker covering null render widget host views, screenshots taken before or after the callback is set, and target size computation.
+// ---
+
 #include "chrome/browser/feedback/report_unsafe_site/screenshot_taker.h"
 
 #include "base/functional/bind.h"

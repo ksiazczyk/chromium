@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: GCM folder metadata for issue tracking and team contact
+summary: Maps the directory to the Services>CloudMessaging component, the platform-capabilities team email, and a Buganizer component.

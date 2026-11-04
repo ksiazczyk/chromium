@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FamilyInfoLogSource header
+// summary: Declares FamilyInfoLogSource, which fetches Family Link settings for users in a Family Group, and defines its fetch status, latency, and availability UMA metrics.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_LOG_SOURCES_FAMILY_INFO_LOG_SOURCE_H_
 #define CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_LOG_SOURCES_FAMILY_INFO_LOG_SOURCE_H_
 

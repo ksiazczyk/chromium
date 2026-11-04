@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FamilyInfoFeedbackSource reporting family group profile settings
+// summary: Collects family member role and parental control web filter information for family group users through a native JNI call.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import org.jni_zero.CalledByNative;

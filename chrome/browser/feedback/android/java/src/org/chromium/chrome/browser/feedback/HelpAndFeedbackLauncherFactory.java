@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for HelpAndFeedbackLauncher instances
+// summary: Creates profile-scoped HelpAndFeedbackLauncher instances for chrome/browser modules and lets tests substitute a test double.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import org.chromium.base.ResettersForTesting;

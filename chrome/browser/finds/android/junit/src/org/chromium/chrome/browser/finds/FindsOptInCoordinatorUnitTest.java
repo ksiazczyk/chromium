@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FindsOptInCoordinator unit tests
+// summary: Robolectric unit tests covering the FindsOptInCoordinator opt-in flow, including bottom sheet interactions, notification channels, and related metrics.
+// ---
+
 package org.chromium.chrome.browser.finds;
 
 import static org.junit.Assert.assertEquals;

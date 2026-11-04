@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackSource interface for synchronous feedback data
+// summary: Interface for components providing synchronous feedback data and optional key-value log pairs to feedback collection.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.util.Pair;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystemObserver browser test
+// summary: Browser tests for observing file and directory changes with FileSystemObserver, including behavior when storage access is blocked.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"
 #include "base/json/values_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds feature flags and parameters
+// summary: Defines the ChromeFinds feature flag and opt-in promo parameters used for Finds feature checks and states.
+// ---
+
 package org.chromium.chrome.browser.finds;
 
 import org.chromium.base.MutableBooleanParamWithSafeDefault;

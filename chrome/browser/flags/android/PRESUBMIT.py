@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for Chrome Android feature flag sorting
+# summary: Presubmit script that keeps Chrome Android feature flag lists in chrome_feature_list sorted alphabetically.
+# ---
+
 """Presubmit script for Chrome Android feature flag code."""
 
 

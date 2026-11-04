@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Report unsafe site dialog views unit tests
+// summary: Unit tests verifying that ReportUnsafeSiteDialog is enabled based on feedback policy, Safe Browsing state, and incognito profiles.
+// ---
+
 #include "chrome/browser/feedback/report_unsafe_site_dialog.h"
 #include "chrome/common/pref_names.h"
 #include "chrome/test/base/testing_profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM profile service factory implementation
+// summary: Builds per-profile GCMProfileService instances, handling network thread selection and proxy-resolving socket requests.
+// ---
+
 #include "chrome/browser/gcm/gcm_profile_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screenshot capture test helper
+// summary: Test helper that forwards navigation screenshot callbacks from native code to a Java handler so tests can override captured bitmaps.
+// ---
+
 #include "content/public/test/navigation_transition_test_utils.h"
 #include "ui/gfx/android/java_bitmap.h"
 

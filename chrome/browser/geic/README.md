@@ -1,3 +1,13 @@
+---
+type: readme
+title: Gemini Enterprise in Chrome (GEiC)
+summary: Explains that GEiC shares side panel, host, and Mojo infrastructure with Glic, and points to the active Glic-based module and directory contents.
+relations:
+  - references /chrome/browser/glic/gemini_enterprise/README.md
+  - referenced_by /chrome/browser/glic/gemini_enterprise/OWNERS
+  - referenced_by /chrome/browser/resources/settings/geic_page/OWNERS
+---
+
 # Gemini Enterprise in Chrome (GEiC)
 
 As part of `go/glic-geic-code-reuse`, Gemini Enterprise in Chrome (GEiC) shares

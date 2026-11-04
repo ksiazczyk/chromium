@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android fullscreen Java library
+summary: Defines the android_library target that builds FullscreenManager and FullscreenOptions Java sources together with their Chromium dependencies.

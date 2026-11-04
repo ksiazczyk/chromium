@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for report_unsafe_site
+summary: GN build file defining the report_unsafe_site source set and its unit tests, with dependencies on base, content, skia, viz, and safe browsing components.

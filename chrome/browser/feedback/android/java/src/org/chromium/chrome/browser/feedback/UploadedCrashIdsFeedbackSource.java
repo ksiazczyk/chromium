@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadedCrashIdsFeedbackSource
+// summary: Reads the list of uploaded crash IDs from the crash upload log and reports them as uploaded_crash_hashes.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.content.Context;

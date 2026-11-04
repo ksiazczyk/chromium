@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: TabOnBackGestureHandler
+// summary: Per-tab JNI bridge that forwards back-gesture events to native code to trigger seamless navigation and predictive back animations.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import org.jni_zero.JNINamespace;

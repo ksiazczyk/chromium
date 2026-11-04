@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash IDs source implementation
+// summary: Collects recent crash upload IDs, with a one-hour list for all reports and a 120-day list for Google account reports.
+// ---
+
 #include "chrome/browser/feedback/system_logs/log_sources/crash_ids_source.h"
 
 #include <string>

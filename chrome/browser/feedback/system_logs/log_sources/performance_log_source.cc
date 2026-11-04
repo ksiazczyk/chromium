@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerformanceLogSource implementation
+// summary: Implements the Performance system logs source that reports memory saver mode, battery saver state, and battery details, excluding battery logs on ChromeOS.
+// ---
+
 #include "chrome/browser/feedback/system_logs/log_sources/performance_log_source.h"
 
 #include <string>

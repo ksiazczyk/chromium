@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlFeedbackSource
+// summary: Feedback source that reports the current URL as a feedback entry, or nothing when the URL is empty.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.text.TextUtils;

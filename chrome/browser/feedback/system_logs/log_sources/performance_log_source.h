@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerformanceLogSource header
+// summary: Declares PerformanceLogSource, a system logs source that fetches performance tuning and battery saver details for feedback reports.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_LOG_SOURCES_PERFORMANCE_LOG_SOURCE_H_
 #define CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_LOG_SOURCES_PERFORMANCE_LOG_SOURCE_H_
 

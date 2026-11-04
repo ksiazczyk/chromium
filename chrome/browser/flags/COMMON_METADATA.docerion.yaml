@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA
+summary: Shared directory metadata assigning the Internals>Flags monorail component, team email, Android OS and a Buganizer component for the flags module.

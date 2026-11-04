@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build file for the flags module, defining Java libraries, flag generation, JNI headers and native static library targets for Android.
