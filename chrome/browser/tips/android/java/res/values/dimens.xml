@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tips notifications dimension resources
+summary: Android resource XML defining dimension values such as paddings, margins and corner radii for the Tips Notifications bottom sheet and view list items.
+-->
+
 <resources>
     <!-- Tips Notifications dimensions -->
     <dimen name="tips_notifications_bottom_sheet_button_padding">4dp</dimen>

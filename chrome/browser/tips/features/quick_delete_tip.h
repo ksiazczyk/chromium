@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete tip class header
+// summary: Declares the QuickDeleteTip TipsFeature class with constants for the Magic Stack histogram, enum value, and lookback period, and its overridden interface methods.
+// ---
+
 #ifndef CHROME_BROWSER_TIPS_FEATURES_QUICK_DELETE_TIP_H_
 #define CHROME_BROWSER_TIPS_FEATURES_QUICK_DELETE_TIP_H_
 

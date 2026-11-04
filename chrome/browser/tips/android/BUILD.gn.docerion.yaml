@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Android tips promo
+summary: Defines GN targets for the Android tips promo, including the Java implementation library, public handler API, resources, and JNI enum and string bindings.

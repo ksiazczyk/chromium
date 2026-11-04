@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TipsPromoCoordinatorUnitTest
+// summary: Robolectric unit tests for TipsPromoCoordinator covering the tips promo bottom sheet on narrow and wide screens, including signin, quick delete, settings navigation, and Lens interactions.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import static org.junit.Assert.assertEquals;

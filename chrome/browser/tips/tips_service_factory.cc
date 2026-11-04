@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsServiceFactory implementation
+// summary: Implements the profile-keyed TipsServiceFactory, building a TipsService per profile and registering Android-only tip features.
+// ---
+
 #include "chrome/browser/tips/tips_service_factory.h"
 
 #include "build/build_config.h"

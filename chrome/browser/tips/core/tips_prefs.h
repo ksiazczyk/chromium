@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tip notification prefs declarations
+// summary: Declares boolean preference constants for shown Android tip notifications and the function that registers the tips module profile preferences.
+// ---
+
 #ifndef CHROME_BROWSER_TIPS_CORE_TIPS_PREFS_H_
 #define CHROME_BROWSER_TIPS_CORE_TIPS_PREFS_H_
 

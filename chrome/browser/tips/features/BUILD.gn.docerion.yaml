@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tips features build configuration
+summary: GN build file defining the Android-only tips feature source set and a testonly unit_tests source set with their dependencies.

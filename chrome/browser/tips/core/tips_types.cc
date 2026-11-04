@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tips signal definition helpers
+// summary: Implements factory helpers that build SignalDefinition structs for user action, histogram sum, and histogram enum signals.
+// ---
+
 #include "chrome/browser/tips/core/tips_types.h"
 
 #include <utility>

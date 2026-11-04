@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Lens tip implementation
+// summary: Implements the GoogleLensTip feature, suppressing the notification when recent Lens user actions occur on any surface and building its notification data.
+// ---
+
 #include "chrome/browser/tips/features/google_lens_tip.h"
 
 #include <map>

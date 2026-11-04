@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tips notification utilities
+// summary: Declares Android helpers to create tips notification data and to resolve per-feature shown-before pref names.
+// ---
+
 #ifndef CHROME_BROWSER_TIPS_CORE_TIPS_UTILS_H_
 #define CHROME_BROWSER_TIPS_CORE_TIPS_UTILS_H_
 

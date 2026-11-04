@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TipsUtilsUnitTest
+// summary: Robolectric unit tests for TipsUtils verifying feature tip promo data for types such as Enhanced Safe Browsing and Quick Delete.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import static org.junit.Assert.assertEquals;

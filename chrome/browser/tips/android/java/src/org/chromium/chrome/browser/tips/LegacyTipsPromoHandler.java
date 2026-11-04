@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyTipsPromoHandler
+// summary: Fallback implementation of TipsPromoHandler providing legacy behavior for feature tips that have not migrated to self-service or when self-service is disabled.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import android.content.Context;

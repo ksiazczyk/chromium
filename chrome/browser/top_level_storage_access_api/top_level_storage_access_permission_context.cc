@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top-Level Storage Access permission context implementation
+// summary: Implements permission decisions for the Storage Access API, including First-Party Sets checks, user gesture requirements, and request outcome metrics.
+// ---
+
 #include "chrome/browser/top_level_storage_access_api/top_level_storage_access_permission_context.h"
 
 #include "base/barrier_closure.h"

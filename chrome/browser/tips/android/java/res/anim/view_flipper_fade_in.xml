@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: ViewFlipper fade-in animation resource
+summary: Android XML animation resource that fades a ViewFlipper view in over 100 ms with an accelerate quad interpolator and a 118 ms start offset, used by the Android tips UI.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android"
   android:interpolator="@android:interpolator/accelerate_quad">
     <alpha

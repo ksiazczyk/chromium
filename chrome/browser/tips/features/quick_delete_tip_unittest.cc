@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Delete tip unit tests
+// summary: Unit tests for QuickDeleteTip covering rank, feature type, required signals, notification data, and eligibility cases, plus an end-to-end DetermineBestTip integration test.
+// ---
+
 #include "chrome/browser/tips/features/quick_delete_tip.h"
 
 #include <map>

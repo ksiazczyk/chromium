@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced Safe Browsing tip class declaration
+// summary: Declares EnhancedSafeBrowsingTip, a TipsFeature subclass with a 28-day Enhanced Protection clicked user action signal and notification data.
+// ---
+
 #ifndef CHROME_BROWSER_TIPS_FEATURES_ENHANCED_SAFE_BROWSING_TIP_H_
 #define CHROME_BROWSER_TIPS_FEATURES_ENHANCED_SAFE_BROWSING_TIP_H_
 

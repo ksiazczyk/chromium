@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tips notification utilities implementation
+// summary: Builds localized notification data for tips notifications on Android, mapping feature types to title and subtitle resources.
+// ---
+
 #include "chrome/browser/tips/core/tips_utils.h"
 
 #include <map>

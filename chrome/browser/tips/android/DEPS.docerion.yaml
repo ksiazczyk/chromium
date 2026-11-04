@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tips android
+summary: Allowlists the components/browser_ui/notifications/android dependency for this directory's Chromium include checks.

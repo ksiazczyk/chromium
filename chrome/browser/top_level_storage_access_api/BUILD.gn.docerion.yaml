@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for Top-Level Storage Access API permission code
+summary: Defines GN source sets for the Top-Level Storage Access permission context and its unit tests, listing their sources and dependencies.

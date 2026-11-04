@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tips notifications types and enums
+// summary: Defines the tips feature type enum, segmentation signal types, the SignalDefinition struct, and tip ranking priorities.
+// ---
+
 #ifndef CHROME_BROWSER_TIPS_CORE_TIPS_TYPES_H_
 #define CHROME_BROWSER_TIPS_CORE_TIPS_TYPES_H_
 

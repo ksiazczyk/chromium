@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TipsPromoHandlerFactoryUnitTest
+// summary: Robolectric unit tests for TipsPromoHandlerFactory verifying handler registration, lookup, and behavior when the TIPS_SELF_SERVICE feature is disabled.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import static org.junit.Assert.assertEquals;

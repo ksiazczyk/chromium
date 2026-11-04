@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsPromoViewBinder
+// summary: Binds TipsPromoProperties property keys to the TipsPromoView for the tips promo bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.tips;
 
 import org.chromium.build.annotations.NullMarked;

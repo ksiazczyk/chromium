@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tips utils unit tests
+// summary: Verifies that notification titles, messages, and pref strings are correct for every tips notifications feature type.
+// ---
+
 #include "chrome/browser/tips/core/tips_utils.h"
 
 #include <string>

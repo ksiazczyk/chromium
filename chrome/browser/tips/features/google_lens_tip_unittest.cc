@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Lens tip unit tests
+// summary: Unit and integration tests covering the Google Lens tip's required signals, notification data and eligibility conditions.
+// ---
+
 #include "chrome/browser/tips/features/google_lens_tip.h"
 
 #include <map>
