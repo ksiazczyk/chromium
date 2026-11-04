@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup data header
+// summary: Declares the StartupData class that owns pre-created browser objects such as the feature list creator and profile pref service before full browser start.
+// ---
+
 #ifndef CHROME_BROWSER_STARTUP_DATA_H_
 #define CHROME_BROWSER_STARTUP_DATA_H_
 

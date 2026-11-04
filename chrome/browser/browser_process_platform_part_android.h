@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android BrowserProcessPlatformPart header
+// summary: Declares the Android BrowserProcessPlatformPart subclass with its AttemptExit override.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_PROCESS_PLATFORM_PART_ANDROID_H_
 #define CHROME_BROWSER_BROWSER_PROCESS_PLATFORM_PART_ANDROID_H_
 

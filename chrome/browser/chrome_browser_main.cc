@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser main startup implementation
+// summary: Implements ChromeBrowserMainParts, orchestrating Chrome's browser process startup, shutdown, and staged initialization across profiles, metrics, and extra parts.
+// ---
+
 #include "chrome/browser/chrome_browser_main.h"
 
 #include <memory>

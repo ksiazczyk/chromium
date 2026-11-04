@@ -1,0 +1,4 @@
+# Docerion header of global_keyboard_shortcuts_mac_unittest.mm.
+type: test
+title: macOS global keyboard shortcuts unit tests
+summary: Unit tests verifying that synthesized macOS key events map to the correct Chrome commands, including all shortcuts not present in the main menu.

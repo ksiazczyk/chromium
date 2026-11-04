@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux browser main parts implementation
+// summary: Implements Linux and ChromeOS startup behavior including DBus thread setup, Bluetooth manager initialization, session end listening, and stack sampling.
+// ---
+
 #include "chrome/browser/chrome_browser_main_linux.h"
 
 #include <memory>

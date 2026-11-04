@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProcessSingleton Windows unit tests
+// summary: Unit tests for the Windows ProcessSingleton, including multiprocess scenarios with hung browsers and visible windows.
+// ---
+
 #include "chrome/browser/process_singleton.h"
 
 #include <windows.h>

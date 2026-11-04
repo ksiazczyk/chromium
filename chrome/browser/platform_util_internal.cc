@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform util internal testing hooks
+// summary: Implements internal helpers that disable shell operations and observe the OpenItem worker thread so tests can control and inspect shell behavior.
+// ---
+
 #include "chrome/browser/platform_util_internal.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconManager implementation
+// summary: Implements IconManager, which loads icons through IconLoader and caches results by icon group, size and scale with cancelable task tracking.
+// ---
+
 #include "chrome/browser/icon_manager.h"
 
 #include <memory>

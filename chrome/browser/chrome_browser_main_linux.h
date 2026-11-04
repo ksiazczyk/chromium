@@ -4,6 +4,12 @@
 
 // Contains functions used by BrowserMain() that are linux-specific.
 
+// ---docerion
+// type: source
+// title: Linux-specific browser main parts header
+// summary: Declares ChromeBrowserMainPartsLinux, extending POSIX browser startup with Linux and ChromeOS behavior such as D-Bus session-end listening and low-memory monitoring.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_BROWSER_MAIN_LINUX_H_
 #define CHROME_BROWSER_CHROME_BROWSER_MAIN_LINUX_H_
 

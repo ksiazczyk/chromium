@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash BrowserProcessPlatformPart header
+// summary: Declares the ChromeOS Ash platform part with lifecycle methods for user, session, policy and system service managers.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_PROCESS_PLATFORM_PART_ASH_H_
 #define CHROME_BROWSER_BROWSER_PROCESS_PLATFORM_PART_ASH_H_
 

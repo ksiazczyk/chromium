@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CDM library load performance test
+// summary: Performance test measuring the size and time to load the Widevine and External ClearKey CDM native libraries.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

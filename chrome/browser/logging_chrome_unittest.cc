@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome logging unit tests
+// summary: Unit tests for resolving the Chrome log file name via defaults, environment variables, and command-line flags across platforms.
+// ---
+
 #include "chrome/common/logging_chrome.h"
 
 #include <memory>

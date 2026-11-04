@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser main parts implementation
+// summary: Implements Android-specific startup behavior including child crash observation, Data Saver fetching, clipboard initialization, and backup preference watching.
+// ---
+
 #include "chrome/browser/chrome_browser_main_android.h"
 
 #include <memory>

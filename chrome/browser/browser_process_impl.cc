@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserProcessImpl implementation
+// summary: Implements BrowserProcess by creating and managing process-wide services such as metrics, policy, downloads, printing and notifications.
+// ---
+
 #include "chrome/browser/browser_process_impl.h"
 
 #include <stddef.h>

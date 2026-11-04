@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows shell integration implementation
+// summary: Implements Windows shell integration, including default browser handling, app user model IDs for profiles and apps, and taskbar shortcut migration.
+// ---
+
 #include "chrome/browser/shell_integration_win.h"
 
 #include <objbase.h>

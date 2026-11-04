@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux extra parts implementation
+// summary: Implements Linux-specific extra parts that record UMA metrics about X11, Wayland, and XWayland display server support at browser start.
+// ---
+
 #include "chrome/browser/chrome_browser_main_extra_parts_linux.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconLoader class declaration
+// summary: Declares the IconLoader class that asynchronously reads a file's icon off disk and returns it as an image with platform-specific icon grouping.
+// ---
+
 #ifndef CHROME_BROWSER_ICON_LOADER_H_
 #define CHROME_BROWSER_ICON_LOADER_H_
 

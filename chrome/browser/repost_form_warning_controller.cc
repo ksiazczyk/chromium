@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Repost form warning controller implementation
+// summary: Implements the tab-modal dialog that lets users continue or cancel a pending reload when form data would be re-posted.
+// ---
+
 #include "chrome/browser/repost_form_warning_controller.h"
 
 #include "components/strings/grit/components_strings.h"

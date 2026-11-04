@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory details collection for browser processes
+// summary: Implements collection of per-process memory information, identifying renderer types and page titles for diagnostics and out-of-memory logging.
+// ---
+
 #include "chrome/browser/memory_details.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetBenchmarking class declaration
+// summary: Declares the NetBenchmarking class that handles Chrome-specific benchmarking IPC from the renderer process via the NetBenchmarking Mojo interface.
+// ---
+
 #ifndef CHROME_BROWSER_NET_BENCHMARKING_H_
 #define CHROME_BROWSER_NET_BENCHMARKING_H_
 

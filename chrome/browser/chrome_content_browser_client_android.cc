@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android locale pack mapping for child processes
+// summary: Maps Android locale pak file descriptors for child processes as the Android-specific part of the Chrome content browser client.
+// ---
+
 #include "chrome/browser/chrome_content_browser_client_android.h"
 
 #include <vector>

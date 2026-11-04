@@ -1,0 +1,4 @@
+# Docerion header of shell_integration_mac.mm.
+type: source
+title: macOS shell integration implementation
+summary: Implements default browser and scheme client handling on macOS using NSWorkspace, including bundle ID lookups and confirmation dialog handling.

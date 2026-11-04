@@ -1,0 +1,4 @@
+# Docerion header of process_singleton_mac.mm.
+type: source
+title: macOS ProcessSingleton implementation
+summary: macOS ProcessSingleton support that forwards GetURL Apple Events to an already running Chromium instance and activates it.

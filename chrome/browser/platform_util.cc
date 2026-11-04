@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform util open item implementation
+// summary: Implements OpenItem by verifying the target path and type on a blocking thread pool task before invoking platform-specific open logic, with COM STA handling on Windows.
+// ---
+
 #include "chrome/browser/platform_util.h"
 
 #include "base/check_op.h"

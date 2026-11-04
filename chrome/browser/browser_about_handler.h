@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser about handler header
+// summary: Declares handlers that rewrite the chrome about host to the chrome-urls listing and process special about URLs that trigger actions such as restart or exit, with policy blocking support.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_ABOUT_HANDLER_H_
 #define CHROME_BROWSER_BROWSER_ABOUT_HANDLER_H_
 

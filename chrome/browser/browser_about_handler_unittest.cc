@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser about handler unit tests
+// summary: Unit tests for the browser about handler, covering host rewriting and non-navigation about URL actions, including policy blocklist enforcement and resetting browser exit state.
+// ---
+
 #include "chrome/browser/browser_about_handler.h"
 
 #include <stddef.h>

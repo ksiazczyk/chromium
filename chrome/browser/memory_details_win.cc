@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of MemoryDetails
+// summary: Implements MemoryDetails on Windows by snapshotting running processes and collecting memory and version information for the Chrome browser process.
+// ---
+
 #include "chrome/browser/memory_details.h"
 
 #include <windows.h>

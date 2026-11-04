@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active use recording utility
+// summary: Header defining a compile-time constant that decides whether active use should be recorded on the current platform.
+// ---
+
 #ifndef CHROME_BROWSER_ACTIVE_USE_UTIL_H_
 #define CHROME_BROWSER_ACTIVE_USE_UTIL_H_
 

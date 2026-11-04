@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate viewer interface
+// summary: Declares functions to show certificate viewer dialogs for web contents and client authentication, plus a testing mock hook.
+// ---
+
 #ifndef CHROME_BROWSER_CERTIFICATE_VIEWER_H_
 #define CHROME_BROWSER_CERTIFICATE_VIEWER_H_
 

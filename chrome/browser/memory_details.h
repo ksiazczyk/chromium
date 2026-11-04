@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory details class and structs
+// summary: Declares ProcessMemoryInformation, ProcessData, and the asynchronous MemoryDetails class used to fetch memory details about browser processes.
+// ---
+
 #ifndef CHROME_BROWSER_MEMORY_DETAILS_H_
 #define CHROME_BROWSER_MEMORY_DETAILS_H_
 

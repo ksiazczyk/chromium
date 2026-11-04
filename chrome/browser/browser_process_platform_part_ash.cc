@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash BrowserProcessPlatformPart
+// summary: ChromeOS Ash platform part that initializes session, user, policy, settings, network and system services for the browser process.
+// ---
+
 #include "chrome/browser/browser_process_platform_part_ash.h"
 
 #include <memory>

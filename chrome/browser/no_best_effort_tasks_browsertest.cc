@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test that best-effort tasks are disabled
+// summary: Browser test verifying that BEST_EFFORT priority tasks do not run when the disable-best-effort-tasks switch is set, including with extensions loaded.
+// ---
+
 #include <memory>
 #include <string_view>
 

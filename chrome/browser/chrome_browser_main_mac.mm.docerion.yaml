@@ -1,0 +1,4 @@
+# Docerion header of chrome_browser_main_mac.mm.
+type: source
+title: Mac browser main parts implementation
+summary: Implements macOS-specific browser startup, including login-item restore switches, Services menu swizzling, main menu setup, disk image installation, and updater integration.

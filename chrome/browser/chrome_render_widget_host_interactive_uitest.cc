@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Active render widget host interactive UI tests
+// summary: Interactive browser tests checking document focus and active element behavior across cross-site iframes via the render widget host.
+// ---
+
 #include "base/command_line.h"
 #include "base/run_loop.h"
 #include "base/strings/stringprintf.h"

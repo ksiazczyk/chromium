@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser WebUI interface binders
+// summary: Registers Mojo interface binders and brokers for Chrome-specific interfaces used by trusted and untrusted WebUI pages.
+// ---
+
 #include "chrome/browser/chrome_browser_interface_binders_webui.h"
 
 #include "build/android_buildflags.h"

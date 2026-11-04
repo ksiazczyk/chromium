@@ -1,0 +1,4 @@
+# Docerion header of flag-metadata.json.
+type: data
+title: Metadata for browser feature flags
+summary: Lists owners and expiry milestones for browser flag entries so flags can be automatically expired, reviewed, and cleaned up when obsolete.

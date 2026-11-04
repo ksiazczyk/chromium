@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flag expiration and unexpire logic
+// summary: Implements checks for whether a feature flag has expired, including per-flag milestone overrides and handling of temporary unexpire flags during feature list initialization.
+// ---
+
 #include "chrome/browser/unexpire_flags.h"
 
 #include "base/check.h"

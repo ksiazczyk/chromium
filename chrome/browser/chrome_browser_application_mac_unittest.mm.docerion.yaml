@@ -1,0 +1,4 @@
+# Docerion header of chrome_browser_application_mac_unittest.mm.
+type: test
+title: Chrome browser application macOS unit test
+summary: Unit test checking that BrowserCrApplication's overridden NSApplication file menu and quit methods still exist.

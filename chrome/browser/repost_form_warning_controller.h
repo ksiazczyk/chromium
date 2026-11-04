@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Repost form warning controller header
+// summary: Declares the RepostFormWarningController class that continues or cancels a pending reload when the repost form warning is shown.
+// ---
+
 #ifndef CHROME_BROWSER_REPOST_FORM_WARNING_CONTROLLER_H_
 #define CHROME_BROWSER_REPOST_FORM_WARNING_CONTROLLER_H_
 

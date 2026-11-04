@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser defaults implementation
+// summary: Defines platform-dependent default values for browser behavior such as menu items, incognito handling, session restore, and tab scrolling.
+// ---
+
 #include "chrome/browser/defaults.h"
 
 #include "build/build_config.h"

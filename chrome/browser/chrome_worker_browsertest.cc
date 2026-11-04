@@ -5,6 +5,12 @@
 // This file tests that Web Workers (a Content feature) work in the Chromium
 // embedder.
 
+// ---docerion
+// type: test
+// title: Web Worker browser tests
+// summary: Browser tests verifying dedicated and shared workers work in the Chromium embedder, including cookie handling for worker script fetches under third-party cookie blocking.
+// ---
+
 #include "base/feature_list.h"
 #include "base/functional/bind.h"
 #include "base/functional/callback.h"

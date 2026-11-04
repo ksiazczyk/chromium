@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File select helper unit tests
+// summary: Unit tests for the browser file selection helper, covering file chooser dialogs, listener callbacks, and enterprise cloud content analysis flows.
+// ---
+
 #include "chrome/browser/file_select_helper.h"
 
 #include <stddef.h>

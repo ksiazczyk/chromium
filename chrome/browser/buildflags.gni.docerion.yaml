@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Browser build flags GN file
+summary: Declares Chrome browser build flags for platform experience, updater integration and update notifications, defaulting to branded builds.

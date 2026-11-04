@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows shell integration header
+// summary: Declares Windows shell integration APIs for setting the default browser via system settings and generating app user model IDs for browser and app windows.
+// ---
+
 #ifndef CHROME_BROWSER_SHELL_INTEGRATION_WIN_H_
 #define CHROME_BROWSER_SHELL_INTEGRATION_WIN_H_
 

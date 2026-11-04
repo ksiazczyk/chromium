@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped GlobalFeatures test override helper
+// summary: Provides ScopedGlobalFeaturesOverride, a RAII helper that swaps the GlobalFeatures factory for a test-provided one and restores the default on destruction.
+// ---
+
 #ifndef CHROME_BROWSER_GLOBAL_FEATURES_TEST_SUPPORT_H_
 #define CHROME_BROWSER_GLOBAL_FEATURES_TEST_SUPPORT_H_
 

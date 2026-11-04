@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows browser main browser tests
+// summary: Browser tests for Windows startup behavior, verifying one-time shortcut migration and child process counting during in-use update swaps.
+// ---
+
 #include "chrome/browser/chrome_browser_main_win.h"
 
 #include <memory>

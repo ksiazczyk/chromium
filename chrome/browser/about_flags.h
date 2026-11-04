@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About flags API header
+// summary: Declares the about_flags API for flag storage, converting flags to switches, and listing feature entries.
+// ---
+
 #ifndef CHROME_BROWSER_ABOUT_FLAGS_H_
 #define CHROME_BROWSER_ABOUT_FLAGS_H_
 

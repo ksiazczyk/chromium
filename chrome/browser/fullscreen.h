@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen mode detection interface
+// summary: Declares IsFullScreenMode, a cross-platform function for checking whether a fullscreen window is open; not implemented on Chrome OS.
+// ---
+
 #ifndef CHROME_BROWSER_FULLSCREEN_H_
 #define CHROME_BROWSER_FULLSCREEN_H_
 

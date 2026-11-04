@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: About flags unit tests
+// summary: Unit tests validating flag switches, variation IDs, and histogram metadata for about:flags entries.
+// ---
+
 #include "chrome/browser/about_flags.h"
 
 #include <stddef.h>

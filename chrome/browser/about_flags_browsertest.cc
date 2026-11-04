@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: About flags browser tests
+// summary: Browser tests covering flag toggling, origin list sanitization, and expired flag behavior in the flags UI.
+// ---
+
 #include "chrome/browser/about_flags.h"
 
 #include "base/command_line.h"

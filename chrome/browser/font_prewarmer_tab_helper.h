@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font prewarmer tab helper declaration
+// summary: Declares FontPrewarmerTabHelper, which observes navigations to default search engine results pages and prewarms previously used fonts.
+// ---
+
 #ifndef CHROME_BROWSER_FONT_PREWARMER_TAB_HELPER_H_
 #define CHROME_BROWSER_FONT_PREWARMER_TAB_HELPER_H_
 

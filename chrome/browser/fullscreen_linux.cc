@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux fullscreen mode detection
+// summary: Implements IsFullScreenMode on Linux by checking whether the topmost open desktop window is in fullscreen.
+// ---
+
 #include "chrome/browser/fullscreen.h"
 
 #include <vector>

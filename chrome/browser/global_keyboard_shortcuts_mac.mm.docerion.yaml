@@ -1,0 +1,4 @@
+# Docerion header of global_keyboard_shortcuts_mac.mm.
+type: source
+title: macOS global keyboard shortcuts implementation
+summary: Implements macOS keyboard shortcut resolution, mapping key events to Chrome commands via the main menu and hardcoded shortcut tables not present in menus.

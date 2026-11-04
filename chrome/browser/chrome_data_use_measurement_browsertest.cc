@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for data use measurement
+// summary: Browser test verifying that sent and received data use bytes are recorded in histograms while navigating a test page.
+// ---
+
 #include "base/run_loop.h"
 #include "base/task/thread_pool/thread_pool_instance.h"
 #include "build/build_config.h"

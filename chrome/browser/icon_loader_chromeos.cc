@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconLoader ChromeOS implementation
+// summary: ChromeOS implementation of IconLoader that groups files by extension and builds vector file icons synchronously on the UI thread.
+// ---
+
 #include "chrome/browser/icon_loader.h"
 
 #include "base/strings/string_util.h"

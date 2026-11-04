@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global browser feature controllers implementation
+// summary: Implements the GlobalFeatures class that owns core controllers for globally scoped desktop and Android browser features and initializes them after browser process startup.
+// ---
+
 #include "chrome/browser/global_features.h"
 
 #include <memory>

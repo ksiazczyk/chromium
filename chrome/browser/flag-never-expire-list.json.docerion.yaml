@@ -1,0 +1,4 @@
+# Docerion header of flag-never-expire-list.json.
+type: data
+title: Never-expire flag allowlist
+summary: Lists the flag names permitted to set a never-expire milestone, kept separate from flag-metadata.json for flags-team ownership and validated by a unit test.

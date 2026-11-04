@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI interface binder parts header
+// summary: Declares platform- and feature-guarded entry points for populating Chrome WebUI frame binders and interface brokers.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_BROWSER_INTERFACE_BINDERS_WEBUI_PARTS_H_
 #define CHROME_BROWSER_CHROME_BROWSER_INTERFACE_BINDERS_WEBUI_PARTS_H_
 

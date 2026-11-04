@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux shell integration unit tests
+// summary: Tests lookup and generation of .desktop shortcut files, including XDG data directory searching and unique filename handling.
+// ---
+
 #include "chrome/browser/shell_integration_linux.h"
 
 #include <stddef.h>

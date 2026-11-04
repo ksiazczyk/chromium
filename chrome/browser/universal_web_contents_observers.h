@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal WebContents observers declarations
+// summary: Declares AttachUniversalWebContentsObservers, which attaches observers that apply to all WebContents rather than only tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UNIVERSAL_WEB_CONTENTS_OBSERVERS_H_
 #define CHROME_BROWSER_UNIVERSAL_WEB_CONTENTS_OBSERVERS_H_
 

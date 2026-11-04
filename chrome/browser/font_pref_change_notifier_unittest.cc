@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Font pref change notifier unit tests
+// summary: Unit tests verifying registrar registration, manual and automatic unregistration, and notification behavior across font preference changes.
+// ---
+
 #include "chrome/browser/font_pref_change_notifier.h"
 #include "base/functional/bind.h"
 #include "chrome/common/pref_names_util.h"

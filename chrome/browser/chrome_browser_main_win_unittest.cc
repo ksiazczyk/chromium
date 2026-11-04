@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows browser main unit tests
+// summary: Unit tests for GetRestartCommandLine, checking that restart commands strip URLs, installer switches, and flag sentinels while restoring the last session.
+// ---
+
 #include "chrome/browser/chrome_browser_main_win.h"
 
 #include "base/base_switches.h"

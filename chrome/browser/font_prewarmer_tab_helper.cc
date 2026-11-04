@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font prewarmer tab helper implementation
+// summary: Implements the tab helper and per-profile coordinator that track default search engine results pages and prewarm fonts used on previous visits.
+// ---
+
 #include "chrome/browser/font_prewarmer_tab_helper.h"
 
 #include <optional>

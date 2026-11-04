@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command updater delegate interface
+// summary: Declares the CommandUpdaterDelegate interface for objects that execute commands with a given disposition and timestamp.
+// ---
+
 #ifndef CHROME_BROWSER_COMMAND_UPDATER_DELEGATE_H_
 #define CHROME_BROWSER_COMMAND_UPDATER_DELEGATE_H_
 

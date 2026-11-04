@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS shutdown watchdog implementation
+// summary: Implements emergency macOS watchdogs that record a dump and terminate the process when Chrome shutdown hangs during OS shutdown or session ending.
+// ---
+
 #include "chrome/browser/shutdown_watchdog_mac.h"
 
 #include <signal.h>

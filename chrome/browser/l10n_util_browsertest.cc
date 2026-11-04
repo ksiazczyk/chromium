@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: L10n locale resolution browser test
+// summary: Browser test verifying that l10n_util CheckAndResolveLocale returns consistent results with and without I/O across all accept languages.
+// ---
+
 #include "ui/base/l10n/l10n_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: After startup task queue implementation
+// summary: Implements queuing of tasks that run once browser startup is complete, including startup completion tracking and histogram logging.
+// ---
+
 #include "chrome/browser/after_startup_task_utils.h"
 
 #include <utility>

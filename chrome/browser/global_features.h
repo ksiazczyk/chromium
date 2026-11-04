@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalFeatures class declaration
+// summary: Declares the GlobalFeatures class that owns globally scoped feature controllers and supports test replacement through a factory callback.
+// ---
+
 #ifndef CHROME_BROWSER_GLOBAL_FEATURES_H_
 #define CHROME_BROWSER_GLOBAL_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android memory details implementation
+// summary: Android-specific CollectProcessData implementation that gathers process memory information, including sandboxed Chrome processes that are not child processes.
+// ---
+
 #include "chrome/browser/memory_details.h"
 
 #include <memory>

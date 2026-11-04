@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer preferences utility header
+// summary: Declares renderer_preferences_util::UpdateFromSystemSettings, which copies system configuration preferences into renderer preferences.
+// ---
+
 #ifndef CHROME_BROWSER_RENDERER_PREFERENCES_UTIL_H_
 #define CHROME_BROWSER_RENDERER_PREFERENCES_UTIL_H_
 

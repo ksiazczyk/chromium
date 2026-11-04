@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome navigation throttle registration
+// summary: Creates and adds Chrome-specific navigation throttles for navigations, covering features like HTTPS upgrades, lookalike URLs, preloading, and supervised users.
+// ---
+
 #include "chrome/browser/chrome_content_browser_client_navigation_throttles.h"
 
 #include "base/command_line.h"

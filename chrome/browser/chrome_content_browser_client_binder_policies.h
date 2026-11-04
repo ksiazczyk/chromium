@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo binder policy registration header
+// summary: Declares RegisterChromeMojoBinderPoliciesForSameOriginPrerendering, kept in its own file so security review can be required via the OWNERS file.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_CONTENT_BROWSER_CLIENT_BINDER_POLICIES_H_
 #define CHROME_BROWSER_CHROME_CONTENT_BROWSER_CLIENT_BINDER_POLICIES_H_
 

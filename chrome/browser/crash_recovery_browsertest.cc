@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crash recovery browser tests
+// summary: Browser tests checking that tab reload and navigation work after a renderer crash, including cache behavior across crashes.
+// ---
+
 #include <utility>
 
 #include "base/base_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform util browser tests
+// summary: Browser tests for OpenItem and ShowItemInFolder, including a ChromeOS file system backend fixture and Windows COM apartment verification.
+// ---
+
 #include "chrome/browser/platform_util.h"
 
 #include <memory>

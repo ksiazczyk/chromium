@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process host flags
+// summary: Defines Chrome-specific flags for resolving child process paths, including the macOS alerts helper notification style.
+// ---
+
 #ifndef CHROME_BROWSER_CHILD_PROCESS_HOST_FLAGS_H_
 #define CHROME_BROWSER_CHILD_PROCESS_HOST_FLAGS_H_
 

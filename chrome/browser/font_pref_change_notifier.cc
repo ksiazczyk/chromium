@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font pref change notifier implementation
+// summary: Implements FontPrefChangeNotifier, which watches all preference changes, filters for WebKit font preferences, and notifies registered registrars.
+// ---
+
 #include "chrome/browser/font_pref_change_notifier.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconLoader Linux implementation
+// summary: Linux implementation of IconLoader that maps file paths to MIME types and loads content type icons through the Linux UI layer on the UI thread.
+// ---
+
 #include "chrome/browser/icon_loader.h"
 
 #include "base/functional/bind.h"

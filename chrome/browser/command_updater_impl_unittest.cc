@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Command updater implementation unit tests
+// summary: Unit tests verifying CommandUpdaterImpl command support, execution, enabling, and observer notification and removal behavior.
+// ---
+
 #include "chrome/browser/command_updater_impl.h"
 
 #include "base/compiler_specific.h"

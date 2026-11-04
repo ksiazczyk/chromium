@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProcessSingleton browser test
+// summary: Browser test verifying that ProcessSingleton keeps a single main browser process per user data directory, run on Windows and non-Mac POSIX platforms.
+// ---
+
 
 #include <array>
 

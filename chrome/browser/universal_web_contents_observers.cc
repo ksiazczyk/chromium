@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal WebContents observers implementation
+// summary: Attaches observers that must be present on every WebContents, such as the extension WebContents observer and the performance manager page node.
+// ---
+
 #include "chrome/browser/universal_web_contents_observers.h"
 
 #include "components/performance_manager/embedder/performance_manager_registry.h"

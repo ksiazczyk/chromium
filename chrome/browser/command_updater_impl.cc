@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command updater implementation
+// summary: Implements CommandUpdaterImpl, which tracks command enabled states, executes supported commands via its delegate, and notifies observers.
+// ---
+
 #include "chrome/browser/command_updater_impl.h"
 
 #include <algorithm>

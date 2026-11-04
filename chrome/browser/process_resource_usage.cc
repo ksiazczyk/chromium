@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process resource usage implementation
+// summary: Implements ProcessResourceUsage, which queries a child process's ResourceUsageReporter Mojo service for V8, Blink cache and CppGC memory statistics.
+// ---
+
 #include "chrome/browser/process_resource_usage.h"
 
 #include <utility>

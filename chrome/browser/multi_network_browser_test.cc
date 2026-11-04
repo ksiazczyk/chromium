@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for multi-network behavior
+// summary: Browser tests exercising URLLoader factory creation and network isolation across multiple networks, covering downloads, service workers, and preloading.
+// ---
+
 #include <algorithm>
 #include <map>
 #include <vector>

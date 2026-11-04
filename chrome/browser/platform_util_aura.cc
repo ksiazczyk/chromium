@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura platform util implementation
+// summary: Aura implementation of the window helpers such as top-level lookup, view parenting, window activation, and visibility checks.
+// ---
+
 #include "chrome/browser/platform_util.h"
 
 #include "base/check.h"

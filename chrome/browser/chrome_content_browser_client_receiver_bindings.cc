@@ -4,6 +4,12 @@
 
 // This file exposes services from the browser to child processes.
 
+// ---docerion
+// type: source
+// title: Browser-to-child process interface binder registrations
+// summary: Registers the Mojo interface binders that expose browser services to child processes for ChromeContentBrowserClient.
+// ---
+
 #include "base/feature_list.h"
 #include "base/functional/bind.h"
 #include "base/metrics/histogram_functions.h"

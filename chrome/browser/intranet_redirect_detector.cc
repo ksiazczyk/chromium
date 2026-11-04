@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intranet redirect detector implementation
+// summary: Implements the detector that checks whether the network redirects intranet hostnames to another site and tracks the redirect origin in local state prefs.
+// ---
+
 #include "chrome/browser/intranet_redirect_detector.h"
 
 #include <stddef.h>

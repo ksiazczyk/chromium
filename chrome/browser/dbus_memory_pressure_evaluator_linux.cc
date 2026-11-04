@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux D-Bus memory pressure evaluator
+// summary: Implements a Linux memory pressure evaluator that listens to low-memory-monitor signals over D-Bus, falling back to the XDG memory monitor portal.
+// ---
+
 #include "chrome/browser/dbus_memory_pressure_evaluator_linux.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows browser main parts implementation
+// summary: Implements Windows-specific browser startup and shutdown, covering uninstall tasks, shortcut migration, module conflict monitoring, and Restart Manager registration.
+// ---
+
 
 #include "chrome/browser/chrome_browser_main_win.h"
 

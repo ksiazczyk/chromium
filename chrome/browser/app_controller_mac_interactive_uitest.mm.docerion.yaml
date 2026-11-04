@@ -1,0 +1,4 @@
+# Docerion header of app_controller_mac_interactive_uitest.mm.
+type: test
+title: AppController Mac interactive UI tests
+summary: Interactive UI tests for the macOS AppController covering ephemeral profile deletion, URL opening, and window behavior.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font family cache header
+// summary: Declares FontFamilyCache, which caches blink script font family maps per profile and refreshes entries when font preferences change.
+// ---
+
 #ifndef CHROME_BROWSER_FONT_FAMILY_CACHE_H_
 #define CHROME_BROWSER_FONT_FAMILY_CACHE_H_
 

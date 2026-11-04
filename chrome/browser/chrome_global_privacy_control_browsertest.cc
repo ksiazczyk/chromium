@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for Global Privacy Control
+// summary: Parameterized browser tests checking how Universal Opt-Out features, the GPC Blink feature, and the user pref expose navigator.globalPrivacyControl and send Sec-GPC.
+// ---
+
 #include <string>
 #include <string_view>
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font pref change notifier factory implementation
+// summary: Implements the profile-keyed service factory that builds a FontPrefChangeNotifier bound to each profile's preference service.
+// ---
+
 #include "chrome/browser/font_pref_change_notifier_factory.h"
 
 #include "chrome/browser/font_pref_change_notifier.h"

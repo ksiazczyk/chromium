@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX browser main parts implementation
+// summary: Implements shared POSIX startup and shutdown handling, with signal handlers for SIGINT, SIGHUP, and SIGTERM that delay exit until session restore completes.
+// ---
+
 #include "chrome/browser/chrome_browser_main_posix.h"
 
 #include <errno.h>

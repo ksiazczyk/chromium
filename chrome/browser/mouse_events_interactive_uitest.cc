@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI test for browser mouse event forwarding
+// summary: Interactive browser test verifying that mouse events such as mouseover, mouseout, and clicks are forwarded to web content and handled correctly.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/functional/callback_helpers.h"
 #include "base/run_loop.h"

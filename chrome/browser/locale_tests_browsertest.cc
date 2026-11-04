@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Locale startup browser tests
+// summary: Browser tests that start and shut down Chrome cleanly on the Danish, Hebrew, and Traditional Chinese locales by overriding the system locale.
+// ---
+
 #include <stddef.h>
 
 #include <array>

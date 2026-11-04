@@ -1,0 +1,4 @@
+# Docerion header of chrome_browser_application_mac_browsertest.mm.
+type: test
+title: Chrome browser application macOS browser tests
+summary: Browser tests for VoiceOver-driven accessibility activation and command key event forwarding behavior on macOS.

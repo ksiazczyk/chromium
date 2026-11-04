@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android platform util implementation
+// summary: Android implementation of platform_util that delegates folder showing and external protocol launching to Java via JNI, leaving several window methods unimplemented.
+// ---
+
 #include "chrome/browser/platform_util.h"
 
 #include <jni.h>

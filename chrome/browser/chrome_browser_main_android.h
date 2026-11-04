@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser main parts header
+// summary: Declares ChromeBrowserMainPartsAndroid with Android startup overrides for crash observation, backup watching, and Scudo purge coordination.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_BROWSER_MAIN_ANDROID_H_
 #define CHROME_BROWSER_CHROME_BROWSER_MAIN_ANDROID_H_
 

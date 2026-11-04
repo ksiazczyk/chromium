@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Surface Embed background tab capture interactive UI test
+// summary: Verifies that a background tab captured via getDisplayMedia keeps running requestAnimationFrame while the SurfaceEmbed and Webium features are enabled.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"
 #include "chrome/browser/media/webrtc/webrtc_browsertest_base.h"

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Browser presubmit checks
+# summary: Runs presubmit checks for browser code, enforcing BUILD.gn formatting, dependency rules, and histogram validations.
+# ---
+
 """Presubmit script for Chromium browser code."""
 
 import os

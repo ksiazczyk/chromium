@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux platform util implementation
+// summary: Linux implementation of platform_util that opens files, folders, and URIs via xdg-open, xdg-email, and freedesktop DBus portals.
+// ---
+
 #include "chrome/browser/platform_util.h"
 
 #include <fcntl.h>

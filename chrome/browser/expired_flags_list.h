@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expired flags list declaration
+// summary: Declares the compile-time generated array of expired feature flags produced by tools/flags/generate_expired_list.py.
+// ---
+
 #ifndef CHROME_BROWSER_EXPIRED_FLAGS_LIST_H_
 #define CHROME_BROWSER_EXPIRED_FLAGS_LIST_H_
 

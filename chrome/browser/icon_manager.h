@@ -42,6 +42,12 @@
 // Icon bitmaps returned should be treated as const since they may be referenced
 // by other clients. Make a copy of the icon if you need to modify it.
 
+// ---docerion
+// type: source
+// title: IconManager class declaration
+// summary: Declares IconManager, a UI-thread class that finds and caches file icons with synchronous cache lookups and asynchronous loads.
+// ---
+
 #ifndef CHROME_BROWSER_ICON_MANAGER_H_
 #define CHROME_BROWSER_ICON_MANAGER_H_
 

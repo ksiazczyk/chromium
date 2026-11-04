@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeContentBrowserClient
+// summary: Unit tests covering ChromeContentBrowserClient behavior such as content settings, paths, feature configuration, and enterprise proxy handling.
+// ---
+
 #include "chrome/browser/chrome_content_browser_client.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File utility service launcher header
+// summary: Declares LaunchFileUtilService, which starts the FileUtil service in a sandboxed process and returns a remote interface tied to the process lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_FILE_UTIL_SERVICE_H_
 #define CHROME_BROWSER_FILE_UTIL_SERVICE_H_
 

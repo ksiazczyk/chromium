@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Ash platform util implementation
+// summary: ChromeOS implementation of platform_util that opens items through the file manager and external protocols via guest OS handlers, showing error dialogs on failure.
+// ---
+
 #include "ash/wm/window_pin_util.h"
 #include "base/containers/to_vector.h"
 #include "base/files/file_path.h"

@@ -1,0 +1,4 @@
+# Docerion header of shell_integration_mac_browsertest.mm.
+type: test
+title: macOS shell integration browser test
+summary: Browser test verifying that the Info.plist URL schemes match the C++ direct launch scheme logic, currently disabled.

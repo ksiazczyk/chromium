@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop WebUI interface binder parts
+// summary: Desktop implementation registering WebUI frame binders and interface brokers for pages like new tab, downloads, history, and feedback.
+// ---
+
 #include <memory>
 
 #include "base/feature_list.h"

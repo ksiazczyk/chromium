@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chained back navigation tracker
+// summary: Declares a WebContents observer that tracks consecutive back navigations and back button clicks to gate user education promotions.
+// ---
+
 #ifndef CHROME_BROWSER_CHAINED_BACK_NAVIGATION_TRACKER_H_
 #define CHROME_BROWSER_CHAINED_BACK_NAVIGATION_TRACKER_H_
 

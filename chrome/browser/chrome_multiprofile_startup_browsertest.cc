@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for multiprofile startup
+// summary: Browser tests verifying profile initialization order and profile picker behavior when multiple profiles exist at startup.
+// ---
+
 #include <vector>
 
 #include "base/files/file_path.h"
