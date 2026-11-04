@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app install metrics util implementation
+// summary: Implements ArcAppMetricsUtil, routing app install metrics to separate recorders for manual and policy-controlled installs.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_app_metrics_util.h"
 
 #include "base/metrics/histogram_functions.h"

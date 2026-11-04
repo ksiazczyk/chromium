@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC intent parsing implementation
+// summary: Implements parsing of Android intent strings and helpers to build and extend launch intents for ARC apps.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/intent.h"
 
 #include <algorithm>

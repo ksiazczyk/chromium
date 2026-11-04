@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app dialog interface
+// summary: Declares functions to show USB device scan and access permission dialogs for ARC apps plus test helpers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_DIALOG_H_
 #define CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_DIALOG_H_
 

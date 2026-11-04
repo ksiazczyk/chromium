@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ArcAppMetricsData
+// summary: Unit tests verifying install time delta recording and incomplete install count reporting for ArcAppMetricsData using mock time and histogram testers.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_app_metrics_data.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app install metrics util header
+// summary: Declares ArcAppMetricsUtil, a helper class that records app install metrics separately for manual and policy-controlled installs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_METRICS_UTIL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_METRICS_UTIL_H_
 

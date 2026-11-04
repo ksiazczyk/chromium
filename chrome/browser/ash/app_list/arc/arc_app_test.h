@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcAppTest test helper header
+// summary: Declares ArcAppTest, a helper for setting up the ARC bridge and managing fake packages, apps, shortcuts, and app instances in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_TEST_H_
 #define CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Package install priority handler unit tests
+// summary: Unit tests verifying install priority assignment and promotion for synced packages through the priority handler.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_package_install_priority_handler.h"
 
 #include "chrome/browser/ash/app_list/arc/arc_app_list_prefs.h"

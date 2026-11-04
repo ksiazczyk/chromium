@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppSyncMetricsHelper header
+// summary: Declares ArcAppSyncMetricsHelper, which tracks app sync timing and app counts and reports them as UMA metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_SYNC_METRICS_HELPER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_SYNC_METRICS_HELPER_H_
 

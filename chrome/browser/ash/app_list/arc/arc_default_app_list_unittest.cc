@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC default app list unit tests
+// summary: Unit tests verifying board name parsing from build property files through GetBoardNameForTesting.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_default_app_list.h"
 
 #include <string>

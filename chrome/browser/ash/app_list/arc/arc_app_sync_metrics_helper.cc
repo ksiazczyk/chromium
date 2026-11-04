@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppSyncMetricsHelper implementation
+// summary: Records UMA histograms for ARC app sync sessions, covering install latency, expected and installed app counts, and installed app sizes.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_app_sync_metrics_helper.h"
 
 #include "base/metrics/histogram_functions.h"

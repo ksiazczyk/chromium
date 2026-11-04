@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock ARC app list prefs observer
+// summary: Declares a gmock-based mock of ArcAppListPrefs::Observer that stubs app, task, and package lifecycle callbacks for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_ARC_MOCK_ARC_APP_LIST_PREFS_OBSERVER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_ARC_MOCK_ARC_APP_LIST_PREFS_OBSERVER_H_
 

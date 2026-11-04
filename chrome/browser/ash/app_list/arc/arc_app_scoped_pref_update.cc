@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppScopedPrefUpdate implementation
+// summary: Implements the scoped preference updater that exposes a per-app dictionary entry within ARC app preference sections.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_app_scoped_pref_update.h"
 
 #include "base/values.h"

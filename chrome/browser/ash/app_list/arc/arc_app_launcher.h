@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppLauncher class header
+// summary: Declares ArcAppLauncher, a helper that launches an ARC app when it becomes ready or in deferred mode.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_LAUNCHER_H_
 

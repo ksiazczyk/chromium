@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app list preferences implementation
+// summary: Implements ArcAppListPrefs, a keyed service that tracks ARC app packages, their attributes, state, icons and preferences for the Chrome OS app list.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_app_list_prefs.h"
 
 #include <stddef.h>

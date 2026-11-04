@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ARC app list build targets
+summary: Defines the static library and unit test targets with sources and dependencies for the ARC app list module.

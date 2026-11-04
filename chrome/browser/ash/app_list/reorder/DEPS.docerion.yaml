@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the app list reorder directory
+summary: Restricts dependencies so ChromeOS code does not depend on //chrome, with a narrow allowlist for app list and ash UI includes.

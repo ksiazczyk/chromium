@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list reorder core implementation
+// summary: Implements app list sorting for sync items, using longest increasing subsequence to compute ordinals that maintain the requested order with minimal updates.
+// ---
+
 #include "chrome/browser/ash/app_list/reorder/app_list_reorder_core.h"
 
 #include <stack>

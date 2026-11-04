@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app launcher implementation
+// summary: Implements deferred launching of ARC apps once they are registered and ready, observing app state changes.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_app_launcher.h"
 
 #include <memory>

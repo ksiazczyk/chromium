@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app list unit tests
+// summary: Extensive unit test suite for ARC app list behavior, including app launching, icons, shelf integration, and preference handling.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

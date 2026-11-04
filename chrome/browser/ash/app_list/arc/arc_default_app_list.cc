@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC default app list implementation
+// summary: Implements loading of default pre-installed ARC apps from JSON declaration files, including board-specific sources and filtering.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_default_app_list.h"
 
 #include <string.h>

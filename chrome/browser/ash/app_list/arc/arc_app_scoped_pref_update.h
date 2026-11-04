@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppScopedPrefUpdate header
+// summary: Declares ArcAppScopedPrefUpdate, a scoped updater for ARC apps, default apps, and packages preferences keyed by app ID or package name.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_SCOPED_PREF_UPDATE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_SCOPED_PREF_UPDATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ArcAppMetricsUtil
+// summary: Unit tests verifying that install metrics are recorded under manual or policy histograms depending on whether the app is policy controlled.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_app_metrics_util.h"
 
 #include "base/test/metrics/histogram_tester.h"
