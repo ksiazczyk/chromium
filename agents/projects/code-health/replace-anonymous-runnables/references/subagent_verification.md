@@ -1,3 +1,9 @@
+---
+type: reference
+title: 'Subagent Verification: SAM Interfaces'
+summary: Prompt template for spawning a subagent that filters scanner candidates down to true SAM interfaces eligible for lambda conversion.
+---
+
 # Subagent Verification: SAM Interfaces
 
 When auditing a subsystem for anonymous-class-to-lambda conversions, the raw

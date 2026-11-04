@@ -1,3 +1,9 @@
+---
+type: reference
+title: 'Implementation Patterns: Fix Outdated Javadocs'
+summary: Reference guide of Javadoc cleanup patterns and core rules per the Google Java Style Guide, covering parameter tags, return comments, inline code references, and block tag ordering.
+---
+
 # Implementation Patterns: Fix Outdated Javadocs
 
 Reference guide for Javadoc cleanups per the

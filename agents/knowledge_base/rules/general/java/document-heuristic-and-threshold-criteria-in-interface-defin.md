@@ -2,6 +2,11 @@
 name: general/document-heuristic-and-threshold-criteria-in-interface-defin
 rubric: readability
 severity: optional
+type: guide
+title: Document heuristic and threshold criteria in interface definitions
+summary: Coding rule requiring comments explaining criteria, units, and thresholds for heuristic fields in cross-language or IPC interface definitions.
+relations:
+  - references /base/android/java/src/org/chromium/base/IDeviceInfo.aidl
 ---
 
 **Rule.** When adding fields or properties to cross-language or IPC interface

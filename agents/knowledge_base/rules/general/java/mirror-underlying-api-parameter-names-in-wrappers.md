@@ -2,6 +2,9 @@
 name: general/mirror-underlying-api-parameter-names-in-wrappers
 rubric: readability
 severity: should_fix
+type: guide
+title: Mirror underlying API parameter names in wrappers
+summary: Coding rule telling wrapper and delegate methods to mirror platform API parameter names and avoid documenting overly narrow parameter bounds.
 ---
 
 **Rule.** When defining delegate, wrapper, adapter, or shim methods that forward

@@ -2,6 +2,9 @@
 name: general/propagate-checked-exceptions-in-java-tests
 rubric: readability
 severity: optional
+type: reference
+title: Propagate checked exceptions in Java tests
+summary: Coding rule telling Java tests to declare checked exceptions with throws on test and helper methods rather than catching, wrapping, or swallowing them, with examples.
 ---
 
 **Rule.** In Java test classes, @Test methods, fixture lifecycle hooks (@Before,

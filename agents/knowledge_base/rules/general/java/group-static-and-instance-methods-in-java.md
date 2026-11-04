@@ -2,6 +2,9 @@
 name: general/group-static-and-instance-methods-in-java
 rubric: readability
 severity: nit
+type: reference
+title: Group static and instance methods in Java
+summary: Coding rule requiring Java classes and interfaces to keep static and instance methods in separate contiguous blocks rather than interleaving them, with examples.
 ---
 
 **Rule.** In Java classes and interfaces, do not interleave instance method

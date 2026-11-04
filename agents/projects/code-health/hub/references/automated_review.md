@@ -1,3 +1,12 @@
+---
+type: guide
+title: Shared Automated Review Protocol
+summary: Protocol for running a final automated patch review of Code Health cleanup changes, including the review prompt and steps for handling findings until PASS.
+relations:
+  - references /BUILD.gn
+  - references /tools/metrics/histograms/validate_format.py
+---
+
 # Shared Automated Review Protocol
 
 Use these instructions to perform a final patch review for any Code Health

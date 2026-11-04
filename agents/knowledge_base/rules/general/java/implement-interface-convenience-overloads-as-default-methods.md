@@ -2,6 +2,9 @@
 name: general/implement-interface-convenience-overloads-as-default-methods
 rubric: readability
 severity: nit
+type: reference
+title: Implement interface convenience overloads as default methods
+summary: Coding rule advising Java interfaces to implement convenience overloads that forward default or null arguments as default methods delegating to the fully parameterized method.
 ---
 
 **Rule.** In Java interfaces, implement convenience method overloads that

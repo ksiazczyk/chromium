@@ -1,3 +1,11 @@
+---
+type: reference
+title: 'Automated Review Protocol: Remove Unused Object Overrides'
+summary: Review prompt for delegating a final review of a remove-unused-object-overrides patch to the generalist sub-agent, covering equals/hashCode symmetry, hashing audits, serialization, test integrity, and import cleanup.
+relations:
+  - references /agents/projects/code-health/hub/references/automated_review.md
+---
+
 # Automated Review Protocol: Remove Unused Object Overrides
 
 Use this prompt when delegating a final review of a

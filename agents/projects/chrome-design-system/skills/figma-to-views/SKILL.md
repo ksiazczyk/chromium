@@ -1,6 +1,9 @@
 ---
 name: figma-to-views
 description: Recreate Figma design frames as production-ready Chromium C++ Views code following Chrome's native Views architecture, component guidelines, and color/shape token mappings. Use when asked to create C++ Views code from a Figma frame URL.
+type: guide
+title: 'Figma to Views: Code Generation'
+summary: Agent skill definition describing the workflow to recreate Figma design frames as production-ready Chromium C++ Views code, including gap auditing and token mapping guidelines.
 ---
 
 # Figma to Views: Code Generation

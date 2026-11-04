@@ -2,6 +2,9 @@
 name: general/document-api-adaptation-not-generic-ffi-lifetimes-on-shims
 rubric: readability
 severity: nit
+type: reference
+title: Document API adaptation, not generic FFI lifetimes, on shims
+summary: Coding rule telling FFI shim documentation to describe the type translation provided rather than generic lifetime or RAII management.
 ---
 
 **Rule.** When documenting C++/Rust FFI wrapper or shim classes, describe the

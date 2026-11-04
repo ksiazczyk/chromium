@@ -1,6 +1,15 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Plugin to find Java anonymous class candidates for lambda replacement
+# summary: Scans Java files, excluding tests and skip directories, for anonymous single-method-interface classes that could be converted to lambdas to reduce DEX binary size, and is run through the central hub candidate finder.
+# relations:
+#   - depends_on /agents/projects/code-health/hub/scripts/candidate_finder.py
+# ---
+
 """Plugin to find Java anonymous class candidates to replace with lambdas."""
 
 import os

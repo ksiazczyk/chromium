@@ -2,6 +2,9 @@
 name: general/use-jni-types-for-jni-method-parameters
 rubric: readability
 severity: nit
+type: guide
+title: Use JNI types for JNI method parameters
+summary: Coding rule requiring JNI primitive types such as jint and jlong for parameters crossing the JNI boundary in C++ declarations and implementations of Java-called native methods.
 ---
 
 **Rule.** In C++ declarations and implementations of JNI methods called from

@@ -1,0 +1,4 @@
+# Docerion header of find_candidates.py.
+type: script
+title: Find accessibility anti-pattern candidates in Java UI classes
+summary: Searches Java UI code with ripgrep for accessibility anti-patterns, including stateful content descriptions, announceForAccessibility calls, and custom labels on standard accessibility actions.

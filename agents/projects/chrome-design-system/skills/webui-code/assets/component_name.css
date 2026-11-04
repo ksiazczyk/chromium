@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: WebUI component CSS template
+summary: Template stylesheet for new Chrome WebUI Lit components, showing host styles and the CSS wrapper metadata block.
+*/
+
 :host {
   background-color: var(--color-sys-surface2, var(--cr-fallback-color-surface2));
   color: var(--color-sys-on-surface, var(--cr-fallback-color-on-surface));

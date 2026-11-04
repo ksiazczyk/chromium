@@ -1,6 +1,13 @@
 ---
 name: histogram-cleanup
 description: Identify and safely remove expired Chromium histograms (dead metrics/technical debt). Use this skill when a contributor asks to clean up metrics, fix code health issues related to histograms, remove obsolete code, or work on a histogram cleanup task.
+type: guide
+title: 'Code Health: Histogram Cleanup Skill'
+summary: Agent skill guide for identifying and safely removing expired Chromium histograms, covering recording calls, histograms.xml metadata cleanup, safety analysis, and validation workflow.
+relations:
+  - references /agents/projects/code-health/histogram-cleanup/references/analysis_guidelines.md
+  - references /agents/projects/code-health/histogram-cleanup/references/automated_review.md
+  - references /agents/projects/code-health/histogram-cleanup/references/bug_discovery.md
 ---
 
 # Code Health: Histogram Cleanup

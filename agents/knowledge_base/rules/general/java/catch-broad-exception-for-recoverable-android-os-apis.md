@@ -2,6 +2,9 @@
 name: general/catch-broad-exception-for-recoverable-android-os-apis
 rubric: readability
 severity: should_fix
+type: guide
+title: Catch Broad Exception for Recoverable Android OS APIs
+summary: Coding rule advising broad Exception catches with safe fallbacks when calling Android framework, OS, ContentResolver, or IPC APIs that offer recovery paths, with bad and good examples.
 ---
 
 **Rule.** When calling Android framework, OS, ContentResolver, or IPC APIs where

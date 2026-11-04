@@ -1,3 +1,12 @@
+---
+type: guide
+title: Shared Build and Test Verification Workflow
+summary: Workflow that instructs the user to run build compilation and unit tests to verify cleanup changes, since the agent must not execute those commands directly.
+relations:
+  - references /BUILD.gn
+  - references /tools/autotest.py
+---
+
 # Shared Build & Test Verification Workflow
 
 Use these instructions to verify compilation and execution of tests. Because

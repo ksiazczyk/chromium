@@ -1,3 +1,11 @@
+---
+type: reference
+title: Unsafe Buffers Clang plugin reference
+summary: Chromium documentation on the Unsafe Buffers Clang plugin, warning suppression mechanisms, and patterns for converting unsafe buffer operations to base::span.
+relations:
+  - references /build/config/unsafe_buffers_paths.txt
+---
+
 # The Unsafe Buffers Clang plugin.
 
 Our compiler contains a [plugin](../tools/clang/plugins/UnsafeBuffersPlugin.cpp)

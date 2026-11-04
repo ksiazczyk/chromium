@@ -2,6 +2,9 @@
 name: general/use-identity-collections-for-mockito-mocks
 rubric: correctness
 severity: should_fix
+type: guide
+title: Use identity-based collections for Mockito mocks and listeners
+summary: Correctness rule requiring identity-based collections such as IdentityHashMap-backed sets for storing listeners, observers, resources, or Mockito mocks, avoiding equals and hashCode side effects and instance collapsing.
 ---
 
 **Rule.** When storing or tracking arbitrary Java object instances where

@@ -2,6 +2,9 @@
 name: general/extract-repeated-test-setup-into-before-method
 rubric: design
 severity: should_fix
+type: guide
+title: Extract repeated test setup into a @Before method
+summary: Test design rule advising centralization of common mock and environment setup in a @Before method instead of repeating it in each test.
 ---
 
 **Rule.** In unit tests, isolate common mock configurations, framework

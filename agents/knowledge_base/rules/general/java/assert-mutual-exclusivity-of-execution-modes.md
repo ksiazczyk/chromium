@@ -2,6 +2,9 @@
 name: general/assert-mutual-exclusivity-of-execution-modes
 rubric: correctness
 severity: should_fix
+type: guide
+title: Assert mutual exclusivity of execution modes
+summary: Coding rule requiring explicit assertions that mutually exclusive flags, execution modes, or paired annotations cannot be active at the same time.
 ---
 
 **Rule.** When defining, computing, or branching on multiple boolean flags,

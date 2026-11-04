@@ -2,6 +2,9 @@
 name: general/filter-collections-before-random-sampling
 rubric: readability
 severity: nit
+type: reference
+title: Filter collections before random sampling
+summary: Coding rule advising developers to filter or subtract excluded items before calling randomElement instead of sampling in a bounded retry loop, with bad and good examples.
 ---
 
 **Rule.** In Swift, when selecting a random element from a collection or set

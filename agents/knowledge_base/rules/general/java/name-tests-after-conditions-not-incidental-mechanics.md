@@ -2,6 +2,9 @@
 name: general/name-tests-after-conditions-not-incidental-mechanics
 rubric: readability
 severity: should_fix
+type: guide
+title: Name tests after conditions not incidental mechanics
+summary: Coding rule requiring unit test names to describe the scenario or condition under test rather than incidental implementation details like call counts.
 ---
 
 **Rule.** When naming unit tests or test cases (e.g., with `TEST`, `TEST_F`,

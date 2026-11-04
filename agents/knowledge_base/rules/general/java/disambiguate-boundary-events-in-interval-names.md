@@ -2,6 +2,9 @@
 name: general/disambiguate-boundary-events-in-interval-names
 rubric: readability
 severity: should_fix
+type: decision
+title: Disambiguate boundary events in interval names
+summary: Coding rule requiring duration and latency metric names to state which boundary event of the previous period they start from, avoiding ambiguous previous_<event> identifiers.
 ---
 
 **Rule.** When naming variables, metrics, telemetry fields, or schema columns

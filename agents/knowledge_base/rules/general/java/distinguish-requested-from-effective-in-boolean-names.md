@@ -2,6 +2,9 @@
 name: general/distinguish-requested-from-effective-in-boolean-names
 rubric: readability
 severity: should_fix
+type: decision
+title: Distinguish requested from effective in boolean names
+summary: Coding rule requiring boolean fields that record caller preferences to use a Requested suffix rather than Enabled or Active when the effective runtime state can differ through arbitration or lifecycle overrides.
 ---
 
 **Rule.** Name boolean flags, member variables, and state fields that record

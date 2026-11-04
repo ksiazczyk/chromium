@@ -1,3 +1,12 @@
+---
+type: reference
+title: List Search Suggestions Spec (Clank)
+summary: Maps the List Search Suggestions (omnibox suggestion row) component specifications across Figma and Clank Android code, covering variants, design tokens, implementation gaps and usage guidance.
+relations:
+  - documents /chrome/browser/ui/android/omnibox/java/src/org/chromium/chrome/browser/omnibox/suggestions/base/BaseSuggestionView.java
+  - documents /chrome/browser/ui/android/omnibox/java/src/org/chromium/chrome/browser/omnibox/suggestions/base/SuggestionLayout.java
+---
+
 # List Search Suggestions Spec (Clank)
 
 This document maps the specifications of the **List Search Suggestions** (Clank)

@@ -2,6 +2,13 @@
 name: general/avoid-upward-architectural-dependencies
 rubric: design
 severity: blocking
+type: guide
+title: Avoid upward architectural dependencies
+summary: Blocking coding rule forbidding lower-level Chromium modules from depending on or hardcoding higher-layer concepts, urging parameterization or dependency injection instead.
+relations:
+  - references /base/files/important_file_writer.cc
+  - references /base/process/current_process.h
+  - references /base/tracing/protos/chrome_enums.proto
 ---
 
 **Rule.** Do not reference, include, or depend on types, headers, or build

@@ -4,6 +4,9 @@ description: Use this skill when you need to extract design context, metadata, t
 metadata:
   author: Chrome Design System Team
 compatibility: Requires Figma MCP Server to be running
+type: guide
+title: 'Figma Context: Discovery & Retrieval'
+summary: Skill instructions for extracting design context, metadata, tokens, and component mappings from a Figma design URL or node ID using the Figma MCP Server.
 ---
 
 # Figma Context: Discovery & Retrieval

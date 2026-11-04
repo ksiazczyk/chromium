@@ -3,6 +3,13 @@ name: generate-token-map
 description: Maps all Figma design tokens from figma-variables.md to their equivalent C++ (Views) identifiers, CSS (WebUI) variables, and Clank (Android) resource attributes/macros/methods in Chromium, and saves the formatted mapping table to the assets directory of the Chrome Design System project. Use this skill when asked to generate or update the design token mapping table.
 metadata:
   author: Chrome Design System Team
+type: guide
+title: Chrome Design System Token Map Generator
+summary: Defines the step-by-step procedure for mapping Figma design variables from figma-variables.md to Chromium C++, CSS, and Clank Android equivalents and generating the tokens.md reference table.
+relations:
+  - depends_on /agents/projects/chrome-design-system/skills/chrome-tokens/references/figma-variables.md
+  - references /ui/color/color_id.h
+  - references /chrome/browser/ui/color/chrome_color_id.h
 ---
 
 # Chrome Design System Token Map Generator

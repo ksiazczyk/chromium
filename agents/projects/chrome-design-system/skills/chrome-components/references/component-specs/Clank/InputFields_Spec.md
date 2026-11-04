@@ -1,3 +1,12 @@
+---
+type: reference
+title: Input Fields Spec (Clank)
+summary: Maps the legacy underline Input Fields (Clank) specifications across Figma and code, covering TextInputLayout styling, token mismatches, and usage guidance.
+relations:
+  - references /components/browser_ui/styles/android/java/res/values/styles.xml
+  - references /components/browser_ui/theme/android/templates/res/values/themes.xml
+---
+
 # Input Fields Spec (Clank)
 
 This document maps the specifications of the **Input Fields** (Clank) component

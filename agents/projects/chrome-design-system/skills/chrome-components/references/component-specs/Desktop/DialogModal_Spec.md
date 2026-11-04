@@ -1,3 +1,9 @@
+---
+type: reference
+title: Dialog Modal Spec (Desktop)
+summary: Maps the Chrome Desktop Dialog Modal component specifications across Figma and code, covering variants, design tokens, implementation gaps and usage guidance.
+---
+
 # Dialog Modal Spec (Desktop)
 
 This document maps the specifications of the **Dialog Modal** (Desktop)

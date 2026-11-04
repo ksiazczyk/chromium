@@ -2,6 +2,9 @@
 name: general/name-boolean-decision-functions-as-queries
 rubric: readability
 severity: should_fix
+type: guide
+title: Name boolean decision functions as queries
+summary: Coding rule requiring boolean query and predicate methods to use indicative phrasing like Should or Is instead of imperative action verbs.
 ---
 
 **Rule.** Name boolean query, decision, policy, or predicate methods using

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Figma to WebUI
+summary: Documents the Figma to WebUI agent skill, covering prerequisites, usage for converting Figma CDS frame URLs into WebUI code files, and current limitations.
+---
+
 # Figma to WebUI
 
 An agent skill that takes a URL to a Figma frame from the Chrome Design System (CDS) and creates a production-quality WebUI implementation.

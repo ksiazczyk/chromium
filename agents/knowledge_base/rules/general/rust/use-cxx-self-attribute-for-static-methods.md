@@ -2,6 +2,13 @@
 name: general/use-cxx-self-attribute-for-static-methods
 rubric: readability
 severity: should_fix
+type: guide
+title: Use cxx Self attribute for static methods
+summary: Rule to bind C++ static member functions in cxx bridges via the Self attribute instead of writing custom shim wrappers or free forwarding functions.
+relations:
+  - references /base/feature_rust_shim.h
+  - references /base/feature.rs
+  - references /base/feature.h
 ---
 
 **Rule.** In `cxx` FFI bridges, bind C++ static member functions directly to

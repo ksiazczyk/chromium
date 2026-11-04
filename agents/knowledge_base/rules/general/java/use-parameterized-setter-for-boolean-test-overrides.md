@@ -2,6 +2,9 @@
 name: general/use-parameterized-setter-for-boolean-test-overrides
 rubric: readability
 severity: should_fix
+type: guide
+title: Use parameterized setter for boolean test overrides
+summary: Coding rule preferring a single parameterized setter such as setFooForTesting(boolean) with ResettersForTesting registration over separate parameterless methods for true and false states.
 ---
 
 **Rule.** When defining test override methods for boolean state or flags, expose

@@ -1,3 +1,11 @@
+---
+type: reference
+title: 'Automated Review Protocol: Lint Sync Guards'
+summary: Review prompt for delegating lint-sync patch reviews to the generalist sub-agent, with specific cleanup rules covering scope, data integrity, guard placement and style.
+relations:
+  - references /agents/projects/code-health/hub/references/automated_review.md
+---
+
 # Automated Review Protocol: Lint Sync Guards
 
 Use this prompt when delegating a final review of a lint-sync patch to the

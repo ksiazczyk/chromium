@@ -1,3 +1,13 @@
+---
+type: reference
+title: Dialog Spec (Clank)
+summary: Maps the Dialog (Clank) component specifications across Figma and code, covering mobile and tablet dialog configurations against the ModalDialogView implementation.
+relations:
+  - references /components/browser_ui/modaldialog/android/java/src/org/chromium/components/browser_ui/modaldialog/ModalDialogView.java
+  - references /ui/android/java/src/org/chromium/ui/modaldialog/ModalDialogProperties.java
+  - references /components/browser_ui/modaldialog/android/java/src/org/chromium/components/browser_ui/modaldialog/ModalDialogViewBinder.java
+---
+
 # Dialog Spec (Clank)
 
 This document maps the specifications of the **Dialog** (Clank) component across

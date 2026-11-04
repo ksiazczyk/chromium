@@ -2,6 +2,12 @@
 name: review-spanification
 description: >-
   Perform a rigorous code review of a Git patch intended to remove unsafe buffer usage and implement base::span.  Use when evaluating a C++ diff that modifies raw pointers to buffers.  Don't use for reviewing non-C++ files or general logic changes unrelated to unsafe buffers.
+type: guide
+title: Spanification patch review guidelines
+summary: Step-by-step guidelines and technical requirements for reviewing C++ patches that remove unsafe buffer usage and adopt base::span in Chromium.
+relations:
+  - references /docs/unsafe_buffers.md
+  - references /base/containers/span.h
 ---
 
 You are a senior Chromium Software Engineer and memory safety expert. Your task

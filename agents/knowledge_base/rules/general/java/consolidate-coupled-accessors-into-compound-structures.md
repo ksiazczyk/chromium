@@ -2,6 +2,9 @@
 name: general/consolidate-coupled-accessors-into-compound-structures
 rubric: design
 severity: optional
+type: guide
+title: Consolidate Coupled Accessors Into Compound Structures
+summary: Coding rule recommending consolidation of separate accessors for correlated fields into one method returning a compound structure, with bad and good examples.
 ---
 
 **Rule.** Avoid proliferating multiple separate accessor methods to extract

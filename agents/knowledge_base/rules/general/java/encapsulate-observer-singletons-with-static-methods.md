@@ -2,6 +2,9 @@
 name: general/encapsulate-observer-singletons-with-static-methods
 rubric: safety
 severity: should_fix
+type: guide
+title: Encapsulate observer singletons with static methods
+summary: Coding rule advising against public unsynchronized getInstance() on observer-managing singletons, favoring static add and remove observer methods.
 ---
 
 **Rule.** Do not expose a public unsynchronized `getInstance()` method on

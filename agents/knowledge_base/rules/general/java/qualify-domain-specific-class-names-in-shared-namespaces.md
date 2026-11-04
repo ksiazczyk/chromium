@@ -2,6 +2,9 @@
 name: general/qualify-domain-specific-class-names-in-shared-namespaces
 rubric: readability
 severity: should_fix
+type: reference
+title: Qualify domain-specific class names in shared namespaces
+summary: Coding rule against generic class names for domain-specific utilities in shared base namespaces, asking for names that reflect the managed subsystem or resource.
 ---
 
 **Rule.** Do not use overly generic or ambiguous class names (such as

@@ -1,3 +1,12 @@
+---
+type: reference
+title: List Bookmarks Spec (Clank)
+summary: Maps the bookmark list row (Clank) specifications across Figma and code, covering compact and thumbnail densities, tokens, gaps, and usage guidance.
+relations:
+  - references /chrome/android/java/res/layout/improved_bookmark_row_layout.xml
+  - references /chrome/android/java/res/layout/improved_bookmark_row_layout_visual.xml
+---
+
 # List Bookmarks Spec (Clank)
 
 This document maps the specifications of the **List Bookmarks** (Clank)

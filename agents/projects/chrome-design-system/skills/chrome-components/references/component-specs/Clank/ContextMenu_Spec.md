@@ -1,3 +1,11 @@
+---
+type: reference
+title: Context Menu Spec (Clank)
+summary: Maps the Context Menu (Clank) component specifications across Figma and code, covering the long-press menu's variants, design tokens, gaps, and UX guidance.
+relations:
+  - references /chrome/android/java/res/layout/context_menu.xml
+---
+
 # Context Menu Spec (Clank)
 
 This document maps the specifications of the **Context Menu** (Clank) component

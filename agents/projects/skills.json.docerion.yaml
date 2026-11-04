@@ -1,0 +1,6 @@
+# Docerion header of skills.json.
+type: config
+title: Skills configuration for the projects folder
+summary: Skills configuration that inherits the skills defined in agents/projects/code-health/skills.json.
+relations:
+  - depends_on /agents/projects/code-health/skills.json

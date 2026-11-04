@@ -2,6 +2,9 @@
 name: general/declare-java-data-holder-fields-final
 rubric: readability
 severity: optional
+type: guide
+title: Declare Java Data Holder Fields Final
+summary: Coding rule requiring final, constructor-initialized fields in Java data-holder and value classes to keep snapshots immutable, with bad and good examples.
 ---
 
 **Rule.** In Java data-holder, state-snapshot, or value classes, declare member

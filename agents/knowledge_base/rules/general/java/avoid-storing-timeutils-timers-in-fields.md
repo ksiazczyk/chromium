@@ -2,6 +2,11 @@
 name: general/avoid-storing-timeutils-timers-in-fields
 rubric: safety
 severity: should_fix
+type: guide
+title: Avoid storing TimeUtils timers in fields
+summary: Coding rule restricting TimeUtils timer helpers to single local scopes so R8 can inline and discard them, recommending primitive long timestamps for longer-lived tracking.
+relations:
+  - references /base/android/java/src/org/chromium/base/TimeUtils.java
 ---
 
 **Rule.** Do not store `TimeUtils.*Timer` helper instances (such as

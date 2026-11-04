@@ -1,3 +1,9 @@
+---
+type: readme
+title: 'Skills: Chrome Design System'
+summary: Introduces the directory of agent skills for the Chrome Design System and recommends installing them at workspace level via symlinks.
+---
+
 # Skills: Chrome Design System
 
 This directory contains all of the agent skills used by the Chrome Design System.

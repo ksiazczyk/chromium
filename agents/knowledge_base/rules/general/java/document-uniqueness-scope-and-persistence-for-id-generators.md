@@ -2,6 +2,9 @@
 name: general/document-uniqueness-scope-and-persistence-for-id-generators
 rubric: readability
 severity: nit
+type: guide
+title: Document uniqueness scope and persistence for ID generators
+summary: Coding rule requiring ID generator documentation to state uniqueness scope and persistence guarantees instead of vague claims of unique IDs.
 ---
 
 **Rule.** When documenting an ID generator, sequence generator, or identifier

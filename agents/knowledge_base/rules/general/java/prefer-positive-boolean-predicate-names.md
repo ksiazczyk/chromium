@@ -2,6 +2,9 @@
 name: general/prefer-positive-boolean-predicate-names
 rubric: readability
 severity: optional
+type: reference
+title: Prefer positive boolean predicate names
+summary: Coding rule recommending positive names such as IsValid or IsInBounds for boolean predicates so assertions avoid double negation, illustrated with bad and good examples.
 ---
 
 **Rule.** When defining boolean predicates, validation functions, or query

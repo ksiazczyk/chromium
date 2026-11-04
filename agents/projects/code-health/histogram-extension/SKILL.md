@@ -1,6 +1,12 @@
 ---
 name: histogram-extension
 description: Extension pipeline to bump expiration dates of Chromium UMA histograms.
+type: guide
+title: histogram-extension skill
+summary: Agent skill describing the workflow to locate Chromium UMA histograms nearing expiration, update their expires_after dates, and commit and upload a code-health CL to Gerrit.
+relations:
+  - references /agents/projects/code-health/histogram-extension/scripts/find_candidates.py
+  - references /agents/projects/code-health/histogram-extension/references/bug_discovery.md
 ---
 # histogram-extension
 ## Overview

@@ -2,6 +2,9 @@
 name: general/annotate-typedef-annotations-with-target-type-use
 rubric: readability
 severity: optional
+type: guide
+title: Annotate typedef annotations with @Target(TYPE_USE)
+summary: Coding rule recommending @Target(ElementType.TYPE_USE) on @IntDef, @LongDef, and @StringDef declarations so annotations apply in type-use contexts.
 ---
 
 **Rule.** When declaring Java typedef annotations (`@IntDef`, `@LongDef`, or

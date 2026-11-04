@@ -2,6 +2,9 @@
 name: general/avoid-default-arguments-masking-caller-updates
 rubric: correctness
 severity: should_fix
+type: guide
+title: Avoid default arguments masking caller updates
+summary: Coding rule advising against default arguments and convenience overloads that let callers skip updates, requiring explicit arguments at every call site.
 ---
 
 **Rule.** When adding parameters to a function or defining functions with few

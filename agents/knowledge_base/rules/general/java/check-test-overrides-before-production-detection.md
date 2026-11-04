@@ -2,6 +2,9 @@
 name: general/check-test-overrides-before-production-detection
 rubric: correctness
 severity: should_fix
+type: guide
+title: Check Test Overrides Before Production Detection
+summary: Coding rule requiring test overrides to be checked for null before running production detection logic or querying external dependencies during state initialization, with examples.
 ---
 
 **Rule.** When initializing internal state, member variables, or cached

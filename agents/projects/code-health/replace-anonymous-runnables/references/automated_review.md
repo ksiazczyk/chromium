@@ -1,3 +1,11 @@
+---
+type: reference
+title: 'Automated Review Protocol: Replace Anonymous Runnables'
+summary: Review prompt with project-specific cleanup rules for delegating final review of replace-anonymous-runnables patches to the generalist sub-agent.
+relations:
+  - references /agents/projects/code-health/hub/references/automated_review.md
+---
+
 # Automated Review Protocol: Replace Anonymous Runnables
 
 Use this prompt when delegating a final review of a

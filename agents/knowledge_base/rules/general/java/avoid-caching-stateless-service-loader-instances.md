@@ -2,6 +2,9 @@
 name: general/avoid-caching-stateless-service-loader-instances
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid caching stateless ServiceLoader instances
+summary: Coding rule directing use of dedicated accessors for stateless ServiceLoader services without caching, and delegating test overrides to ServiceLoaderUtil.
 ---
 
 **Rule.** When obtaining stateless service or delegate instances loaded via

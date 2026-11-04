@@ -2,6 +2,9 @@
 name: general/qualify-specialized-sub-variants-in-enum-names
 rubric: readability
 severity: nit
+type: reference
+title: Qualify specialized sub-variants in enum names
+summary: Coding rule asking that specialized enum sub-variants carry a qualifying prefix while the unqualified category name is reserved for the general case, with examples.
 ---
 
 **Rule.** When defining enum constants, process/thread types, or categories that

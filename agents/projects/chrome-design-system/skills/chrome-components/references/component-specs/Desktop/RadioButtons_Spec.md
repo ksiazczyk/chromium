@@ -1,3 +1,13 @@
+---
+type: reference
+title: Radio Buttons Spec (Desktop)
+summary: Maps the Chrome Desktop Radio Buttons component specifications across Figma and code, covering variants, tokens, discrepancies and usage guidance.
+relations:
+  - references /ui/views/controls/button/radio_button.h
+  - references /ui/webui/resources/cr_elements/cr_radio_button/cr_radio_button.ts
+  - references /ui/webui/resources/cr_elements/cr_radio_group/cr_radio_group.ts
+---
+
 # Radio Buttons Spec (Desktop)
 
 This document maps the specifications of the **Radio Buttons** (Desktop)

@@ -2,6 +2,9 @@
 name: general/compose-primitive-methods-over-specialized-core-helpers
 rubric: design
 severity: should_fix
+type: guide
+title: Compose Primitive Methods Over Specialized Core Helpers
+summary: Coding rule advising against adding specialized helper or state-resetting methods to core classes when callers can compose existing primitive methods, with examples.
 ---
 
 **Rule.** Avoid expanding a core or low-level class interface with specialized

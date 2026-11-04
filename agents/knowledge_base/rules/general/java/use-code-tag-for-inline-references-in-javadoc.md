@@ -2,6 +2,9 @@
 name: general/use-code-tag-for-inline-references-in-javadoc
 rubric: readability
 severity: nit
+type: guide
+title: Use code tags for inline references in Javadoc
+summary: Readability rule requiring inline code tokens, parameters, and type names in Javadoc to use {@code ...} or <code>...</code> rather than Markdown backticks, C++ pipe delimiters, or invalid {@param} tags.
 ---
 
 **Rule.** In Java doc comments, format inline code tokens, parameters, methods,

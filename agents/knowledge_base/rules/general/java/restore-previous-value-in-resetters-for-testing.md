@@ -2,6 +2,9 @@
 name: general/restore-previous-value-in-resetters-for-testing
 rubric: readability
 severity: should_fix
+type: reference
+title: Restore previous value in resetters for testing
+summary: Chromium Java rule requiring ForTesting static setters to register a ResettersForTesting callback that restores the field's previous value, preventing test pollution and flakiness.
 ---
 
 **Rule.** In Java static test override setters (methods with a \*ForTesting

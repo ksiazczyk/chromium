@@ -2,6 +2,9 @@
 name: general/prefix-current-state-when-comparing-target
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefix current state when comparing against target state
+summary: Coding rule requiring current and initial prefixes on state variables and parameters so lifecycle roles stay explicit when comparing against target states, with examples.
 ---
 
 **Rule.** When naming variables or parameters in stateful systems, explicitly

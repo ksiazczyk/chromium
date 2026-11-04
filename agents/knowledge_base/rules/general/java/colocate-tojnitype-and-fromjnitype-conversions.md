@@ -2,6 +2,11 @@
 name: general/colocate-tojnitype-and-fromjnitype-conversions
 rubric: design
 severity: should_fix
+type: guide
+title: Colocate ToJniType and FromJniType Conversions
+summary: Coding rule directing that JNI Zero ToJniType and FromJniType template specializations for a type family be defined together in a single header, with examples.
+relations:
+  - references /base/android/callback_android.h
 ---
 
 **Rule.** When defining JNI Zero type conversions for a C++ type family, define

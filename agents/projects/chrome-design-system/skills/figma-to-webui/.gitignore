@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: .gitignore
+# summary: Git ignore rule that excludes the out output directory from version control.
+# ---
+
 out

@@ -1,3 +1,11 @@
+---
+type: reference
+title: Lint Sync Patterns and Syntax Rules
+summary: Syntax rules and examples for formatting LINT.IfChange and LINT.ThenChange guards with matching labels across C++/Java source files and XML enum definitions.
+relations:
+  - references /tools/metrics/histograms/enums.xml
+---
+
 # Lint Sync Patterns & Syntax Rules
 
 The linter links files by cross-referencing labels. Follow these syntax rules to

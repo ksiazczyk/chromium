@@ -1,3 +1,9 @@
+---
+type: guide
+title: Histogram Bug Discovery Guidelines
+summary: Instructions for finding existing histogram expiry bugs or creating new Buganizer tracking bugs, including Moma query patterns and oldest-ID triage rules.
+---
+
 # Histogram Bug Discovery Guidelines
 
 Use these instructions to find existing "Check expiry" bugs for histograms, or

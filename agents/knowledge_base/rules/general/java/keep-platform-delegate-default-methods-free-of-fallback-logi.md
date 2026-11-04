@@ -2,6 +2,11 @@
 name: general/keep-platform-delegate-default-methods-free-of-fallback-logi
 rubric: design
 severity: should_fix
+type: reference
+title: Keep platform delegate default methods free of fallback logic
+summary: Coding rule advising that default methods of Android platform bridge delegates stay pure no-op sentinels while fallback and legacy API logic lives at the call site.
+relations:
+  - references /content/public/android/java/src/org/chromium/content/browser/input/ImeAdapterImpl.java
 ---
 
 **Rule.** Do not implement fallback or legacy platform API logic inside default

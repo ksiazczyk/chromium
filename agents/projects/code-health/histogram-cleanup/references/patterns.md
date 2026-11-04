@@ -1,3 +1,9 @@
+---
+type: reference
+title: Histogram Cleanup Implementation Patterns
+summary: Before-and-after code patterns for removing histogram recording calls in C++ and Java and deleting histogram entries from histograms.xml.
+---
+
 # Histogram Cleanup Implementation Patterns
 
 Use these patterns to identify and remove recording calls in C++, Java, and

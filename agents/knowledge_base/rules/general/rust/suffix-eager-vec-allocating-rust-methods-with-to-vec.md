@@ -2,6 +2,9 @@
 name: general/suffix-eager-vec-allocating-rust-methods-with-to-vec
 rubric: readability
 severity: should_fix
+type: guide
+title: Suffix eager Vec-allocating Rust methods with _to_vec
+summary: Rule to append _to_vec to Rust method names that eagerly allocate and return a Vec, keeping unadorned names for zero-allocation accessors and lazy iterators.
 ---
 
 **Rule.** In Rust APIs, append `_to_vec` to method names that eagerly allocate

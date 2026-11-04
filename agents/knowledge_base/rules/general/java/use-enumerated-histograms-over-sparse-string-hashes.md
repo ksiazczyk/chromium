@@ -2,6 +2,9 @@
 name: general/use-enumerated-histograms-over-sparse-string-hashes
 rubric: testing
 severity: should_fix
+type: guide
+title: Use enumerated histograms over sparse string hashes
+summary: Testing rule requiring categorical UMA data to be recorded as enumerated histograms backed by explicit enums registered in enums.xml instead of hashing string identifiers into sparse histograms, which obscure dashboards and risk collisions.
 ---
 
 **Rule.** When recording categorical data, events, or discrete options in UMA,

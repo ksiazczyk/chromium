@@ -1,3 +1,9 @@
+---
+type: readme
+title: Figma to Views
+summary: Documents the agent skill that turns Figma Chrome Design System frame URLs into production-quality C++ Views implementations, covering prerequisites, usage steps, and caveats.
+---
+
 # Figma to Views
 
 An agent skill that takes a URL to a Figma frame from the Chrome Design System (CDS) and creates a production-quality C++ Views implementation.

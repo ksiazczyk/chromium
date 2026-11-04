@@ -2,6 +2,9 @@
 name: general/use-build-version-codes-in-robolectric-config
 rubric: readability
 severity: should_fix
+type: guide
+title: Use Build.VERSION_CODES constants in Robolectric test configs
+summary: Readability rule requiring Robolectric JUnit tests to specify target SDK levels with named Build.VERSION_CODES constants plus an explanatory comment instead of raw integer literals in @Config annotations.
 ---
 
 **Rule.** In Android Robolectric JUnit tests, specify target SDK versions in

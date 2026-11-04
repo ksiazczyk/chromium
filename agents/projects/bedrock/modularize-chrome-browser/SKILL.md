@@ -2,6 +2,13 @@
 name: modularize-chrome-browser
 description: Modularize a chrome/browser/ subfolder by splitting its sources out of the monolithic //chrome/browser:browser target into dedicated source_set targets in the subfolder's own BUILD.gn. Use when the user asks to modularize, extract, or create BUILD targets for a chrome/browser/ subfolder, or mentions "Project Bedrock", "//chrome/browser modularization", or wants to split a subfolder into header/impl/test targets. Also use when the user says "modularize chrome/browser/X" for any X.
 allowed-tools: Read
+type: guide
+title: Modularize chrome/browser/ Subfolder
+summary: Skill instructions for extracting a chrome/browser/ subfolder from the monolithic //chrome/browser:browser target into dedicated header, impl, and test source_set targets in its own BUILD.gn.
+relations:
+  - references /docs/chrome_browser_design_principles.md
+  - references /chrome/browser/BUILD.gn
+  - references /chrome/test/BUILD.gn
 ---
 
 # Modularize chrome/browser/ Subfolder

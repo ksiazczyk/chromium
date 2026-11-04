@@ -2,6 +2,9 @@
 name: general/avoid-narrow-names-for-multi-event-enums
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid narrow names for multi-event enums
+summary: Java rule (readability, should_fix) against naming enums or categories after a single event when they cover multiple event types, favoring general umbrella identifiers.
 ---
 
 **Rule.** Do not name an enum enumerator, category, or task scope after a single

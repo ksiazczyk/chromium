@@ -1,3 +1,9 @@
+---
+type: guide
+title: Histogram Bug Discovery Guidelines
+summary: Guidelines for finding or creating Buganizer tracking bugs for expired Chromium histograms, covering Moma search queries, oldest-ID-wins triage rules, and fallback options.
+---
+
 # Histogram Bug Discovery Guidelines
 
 Use these instructions to find existing "Check expiry" bugs for histograms, or

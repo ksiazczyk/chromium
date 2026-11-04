@@ -2,6 +2,9 @@
 name: general/post-broadcastreceiver-registration-to-background-runner
 rubric: safety
 severity: should_fix
+type: reference
+title: Post BroadcastReceiver registration to background runner
+summary: Android rule to register and unregister BroadcastReceivers asynchronously on a shared sequenced background task runner to avoid synchronous IPC latency and UI jank.
 ---
 
 **Rule.** When registering or unregistering Android BroadcastReceivers where

@@ -2,6 +2,9 @@
 name: general/accurate-target-references-in-javadoc-link-tags
 rubric: readability
 severity: nit
+type: guide
+title: Accurate target references in Javadoc link tags
+summary: Coding rule requiring Javadoc {@link} and {@linkplain} tags to reference the intended compatibility wrappers and valid method signatures, with good and bad examples.
 ---
 
 **Rule.** In Javadoc comments, ensure `{@link}` and `{@linkplain}` tags

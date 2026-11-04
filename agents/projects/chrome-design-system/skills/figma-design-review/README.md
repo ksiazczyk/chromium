@@ -1,3 +1,9 @@
+---
+type: readme
+title: Figma Design Review
+summary: Introduces an agent skill that audits Figma frames from the Chrome Design System against design system and coding standards, listing prerequisites, usage steps, and current limitations.
+---
+
 # Figma Design Review
 
 An agent skill that takes a URL to a Figma frame from the Chrome Design System (CDS) and performs a deep audit of the design against the design system and coding standards.

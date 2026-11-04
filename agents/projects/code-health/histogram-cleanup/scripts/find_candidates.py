@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Plugin to find expired histograms
+# summary: Plugin for the central hub runner that scans histogram metadata XML files and yields expired histograms with their names, owners, expiry dates and summaries.
+# ---
+
 """Plugin to find expired histograms."""
 
 import glob

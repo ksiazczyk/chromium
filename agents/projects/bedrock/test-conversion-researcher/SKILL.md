@@ -1,6 +1,9 @@
 ---
 name: test-conversion-researcher
 description: Researcher for converting unit tests to browser tests for Project Bedrock. Invoke this when the user needs to understand the current codebase behavior while removing complex Browser dependencies from tests.
+type: guide
+title: Test Conversion Researcher Skill
+summary: Defines the role, goal, and instructions for a researcher agent that plans how to convert unit tests to browser tests for Project Bedrock, including common browser test pitfalls to consider.
 ---
 
 # Role

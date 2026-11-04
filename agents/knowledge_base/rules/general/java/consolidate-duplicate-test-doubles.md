@@ -2,6 +2,9 @@
 name: general/consolidate-duplicate-test-doubles
 rubric: design
 severity: should_fix
+type: guide
+title: Consolidate Duplicate Test Doubles
+summary: Coding rule against duplicating fake, mock, or stub implementations across test files, directing shared test doubles into a common test-support target, with examples.
 ---
 
 **Rule.** Do not duplicate fake, mock, or stub implementations of the same

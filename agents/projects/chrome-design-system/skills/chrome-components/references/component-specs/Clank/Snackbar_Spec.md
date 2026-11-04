@@ -1,3 +1,12 @@
+---
+type: reference
+title: Snackbar Spec (Clank)
+summary: Maps the Snackbar component specifications across Figma and Clank Android code, covering variants, design tokens, implementation gaps and usage guidance.
+relations:
+  - documents /chrome/browser/ui/messages/android/java/src/org/chromium/chrome/browser/ui/messages/snackbar/SnackbarView.java
+  - documents /chrome/browser/ui/messages/android/java/src/org/chromium/chrome/browser/ui/messages/snackbar/Snackbar.java
+---
+
 # Snackbar Spec (Clank)
 
 This document maps the specifications of the **Snackbar** (Clank) component

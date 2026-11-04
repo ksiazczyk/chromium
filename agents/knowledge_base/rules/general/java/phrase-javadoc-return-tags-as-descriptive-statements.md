@@ -2,6 +2,9 @@
 name: general/phrase-javadoc-return-tags-as-descriptive-statements
 rubric: readability
 severity: nit
+type: reference
+title: Phrase Javadoc return tags as descriptive statements
+summary: Javadoc rule to document return values and promise outcomes in a dedicated @return tag phrased as declarative clauses rather than informal questions or inline summaries.
 ---
 
 **Rule.** When documenting Java methods or interfaces with return values or

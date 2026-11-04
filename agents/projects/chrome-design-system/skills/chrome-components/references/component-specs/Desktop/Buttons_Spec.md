@@ -1,3 +1,13 @@
+---
+type: reference
+title: Buttons Spec (Desktop)
+summary: Maps the Chrome Desktop Buttons component specifications across Figma and code, covering variants, design tokens, implementation gaps and usage guidance.
+relations:
+  - references /ui/views/controls/button/md_text_button.h
+  - references /ui/views/controls/button/md_text_button_with_down_arrow.h
+  - references /ui/webui/resources/cr_elements/cr_button/cr_button.ts
+---
+
 # Buttons Spec (Desktop)
 
 This document maps the specifications of the **Buttons** (Desktop) component

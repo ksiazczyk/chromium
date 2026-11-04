@@ -2,6 +2,9 @@
 name: general/document-all-sentinel-and-boundary-values-in-condition-comme
 rubric: readability
 severity: nit
+type: decision
+title: Document all sentinel and boundary values in condition comments
+summary: Coding rule requiring comments on compound condition or loop termination checks to explain every sentinel value and boundary threshold covered, not just a subset.
 ---
 
 **Rule.** When writing an explanatory comment for a condition or loop

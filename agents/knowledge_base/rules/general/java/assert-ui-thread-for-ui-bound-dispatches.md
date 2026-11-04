@@ -2,6 +2,9 @@
 name: general/assert-ui-thread-for-ui-bound-dispatches
 rubric: safety
 severity: should_fix
+type: guide
+title: Assert UI thread for UI-bound dispatches
+summary: Coding rule requiring ThreadUtils.assertOnUiThread() for classes that dispatch UI-thread callbacks instead of a generic ThreadChecker, with examples.
 ---
 
 **Rule.** When a Java class or method dispatches callbacks directly to the UI

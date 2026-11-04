@@ -2,6 +2,9 @@
 name: general/place-explanatory-comments-above-aidl-declarations
 rubric: readability
 severity: nit
+type: reference
+title: Place explanatory comments above AIDL declarations
+summary: AIDL style rule to put explanatory comments on their own line above the associated field or method declaration instead of using trailing inline comments.
 ---
 
 **Rule.** In AIDL interface and parcelable definitions (`.aidl`), place

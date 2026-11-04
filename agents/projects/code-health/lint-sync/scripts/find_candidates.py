@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Find enums missing LINT sync guards
+# summary: Python plugin that scans XML histogram enums with ripgrep, locates their C++/Java source definitions, and yields file pairs lacking LINT.IfChange sync guards.
+# ---
+
 """Plugin to find enums missing LINT sync guards."""
 
 import collections

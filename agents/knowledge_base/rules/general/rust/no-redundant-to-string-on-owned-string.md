@@ -2,6 +2,9 @@
 name: general/no-redundant-to-string-on-owned-string
 rubric: safety
 severity: nit
+type: reference
+title: No redundant to_string on owned String
+summary: Coding rule against calling to_string, to_owned, or clone on values that already own a String, to avoid redundant heap allocations.
 ---
 
 **Rule.** In Rust code, do not call `.to_string()`, `.to_owned()`, or `.clone()`

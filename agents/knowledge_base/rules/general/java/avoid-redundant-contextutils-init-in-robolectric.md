@@ -2,6 +2,9 @@
 name: general/avoid-redundant-contextutils-init-in-robolectric
 rubric: readability
 severity: nit
+type: guide
+title: Avoid redundant ContextUtils init in Robolectric tests
+summary: Coding rule advising against manually calling ContextUtils.initApplicationContextForTests in Robolectric tests because BaseRobolectricTestRunner already initializes the application context.
 ---
 
 **Rule.** In Android Robolectric JUnit tests running under

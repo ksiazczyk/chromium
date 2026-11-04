@@ -2,6 +2,9 @@
 name: general/express-nullability-via-annotations-not-javadoc
 rubric: readability
 severity: should_fix
+type: guide
+title: Express nullability via annotations, not Javadoc
+summary: Readability rule requiring nullability to be expressed with @Nullable and @NonNull annotations in signatures rather than Javadoc prose.
 ---
 
 **Rule.** Do not describe nullability constraints in Javadoc comments (e.g.,

@@ -1,6 +1,13 @@
 ---
 name: remove-unused-object-overrides
 description: Identify and safely remove unreferenced Java Object overrides (equals, hashCode, toString) in Clank to eliminate dead virtual methods from release DEX bytecode while strictly preserving equals/hashCode symmetry.
+type: guide
+title: 'Code Health: Remove Unused Object Overrides'
+summary: Skill guide for identifying and safely removing unreferenced Java Object overrides (equals, hashCode, toString) in Clank to reduce release DEX bytecode size while preserving equals/hashCode symmetry.
+relations:
+  - references /agents/projects/code-health/hub/references/discovery_and_batch_selection.md
+  - references /agents/projects/code-health/hub/references/submission.md
+  - references /agents/projects/code-health/hub/references/verification.md
 ---
 
 # Code Health: Remove Unused Object Overrides

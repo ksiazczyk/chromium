@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Find expired histograms in a specific metadata file
+# summary: CLI script that scans a given histograms.xml file for expired histograms with no recording sites, using code search to count usages and printing details or names only.
+# ---
+
 """Finds expired Chromium histograms in a specific metadata file."""
 
 import argparse

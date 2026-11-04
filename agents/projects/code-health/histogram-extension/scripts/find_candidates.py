@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Find expired Chromium histograms
+# summary: Python script that scans tools/metrics/histograms metadata XML files for histograms past their expiry date or milestone and prints a random sample of candidates with owners and summaries.
+# ---
+
 """Finds expired Chromium histograms from metadata directories."""
 
 import argparse

@@ -2,6 +2,12 @@
 name: general/avoid-global-form-factor-test-setters-in-device-info
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid global form factor test setters in DeviceInfo
+summary: Java rule (readability, should_fix) against adding global *_for_testing setters to DeviceInfo, directing testers to OverrideContextWrapperTestRule, @Restriction, or dependency injection.
+relations:
+  - references /docs/ui/android/device_form_factor.md
+  - references /base/android/device_info.h
 ---
 
 **Rule.** Do not add global `*_for_testing` setters or static override fields to

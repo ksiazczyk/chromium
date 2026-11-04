@@ -2,6 +2,9 @@
 name: general/require-safety-comments-for-unsafe-rust-code
 rubric: readability
 severity: should_fix
+type: guide
+title: Require safety comments for unsafe Rust code
+summary: 'Rule requiring SAFETY comments on unsafe blocks and impls plus # Safety docs on unsafe fns, stating compile-time verified invariants as facts with references to static assertions.'
 ---
 
 **Rule.** In first-party Rust code, accompany every `unsafe` block or

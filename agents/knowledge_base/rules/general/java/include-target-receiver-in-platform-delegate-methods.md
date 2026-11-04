@@ -2,6 +2,9 @@
 name: general/include-target-receiver-in-platform-delegate-methods
 rubric: correctness
 severity: should_fix
+type: reference
+title: Include target receiver in platform delegate methods
+summary: Coding rule requiring delegate and shim interface methods that wrap Android framework APIs to accept the target receiver and prefer AndroidX compat wrapper types.
 ---
 
 **Rule.** When declaring delegate, dispatcher, or shim interface methods (such

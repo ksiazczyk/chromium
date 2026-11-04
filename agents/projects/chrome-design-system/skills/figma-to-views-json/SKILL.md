@@ -1,6 +1,9 @@
 ---
 name: figma-to-views-json
 description: Recreate Figma design frames as prototype-ready Chromium Views JSON script following Chrome's native Views architecture, component guidelines, and color/shape token mappings. Use when asked to create C++ Views Prototype JSON script from a Figma frame URL.
+type: guide
+title: 'Figma to Views JSON: Code Generation'
+summary: Skill instructions for recreating Figma design frames as Chromium Views JSON scripts, covering context retrieval, design-to-code auditing, and implementation rules.
 ---
 
 # Figma to Views JSON: Code Generation

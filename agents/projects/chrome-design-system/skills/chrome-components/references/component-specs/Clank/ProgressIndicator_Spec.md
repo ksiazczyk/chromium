@@ -1,3 +1,12 @@
+---
+type: reference
+title: Progress Indicator Spec (Clank)
+summary: Maps the Progress Indicator (linear Material 3 progress bar) component specifications across Figma and Clank Android code, covering variants, design tokens, gaps and usage guidance.
+relations:
+  - documents /components/browser_ui/widget/android/java/src/org/chromium/components/browser_ui/widget/MaterialProgressBar.java
+  - documents /chrome/browser/ui/android/toolbar/java/src/org/chromium/chrome/browser/toolbar/ToolbarProgressBar.java
+---
+
 # Progress Indicator Spec (Clank)
 
 This document maps the specifications of the **Progress Indicator** (Clank)

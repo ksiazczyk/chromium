@@ -2,6 +2,9 @@
 name: general/synchronize-javadoc-param-tags-with-method-signatures
 rubric: readability
 severity: nit
+type: guide
+title: Synchronize Javadoc @param tags with method signatures
+summary: Coding rule requiring every method parameter to have a matching non-empty Javadoc @param tag that is updated or removed whenever parameters are added, renamed, or deleted, with good and bad examples.
 ---
 
 **Rule.** When documenting Java methods, constructors, or interfaces with

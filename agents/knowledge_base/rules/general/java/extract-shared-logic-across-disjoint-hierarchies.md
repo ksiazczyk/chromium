@@ -2,6 +2,13 @@
 name: general/extract-shared-logic-across-disjoint-hierarchies
 rubric: design
 severity: should_fix
+type: guide
+title: Extract shared logic across disjoint hierarchies
+summary: Design rule requiring shared decision and filtering logic across separate inheritance hierarchies to be extracted into a common static helper.
+relations:
+  - references /base/test/android/junit/src/org/chromium/base/test/BaseRobolectricTestRunner.java
+  - references /base/test/android/javatests/src/org/chromium/base/test/BaseJUnit4ClassRunner.java
+  - references /base/test/android/junit/src/org/chromium/base/test/BaseJvmTestRunner.java
 ---
 
 **Rule.** Extract shared decision, filtering, or handling logic into a common

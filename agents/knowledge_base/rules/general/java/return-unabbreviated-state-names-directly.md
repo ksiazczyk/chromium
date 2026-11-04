@@ -2,6 +2,9 @@
 name: general/return-unabbreviated-state-names-directly
 rubric: readability
 severity: nit
+type: reference
+title: Return unabbreviated state names directly
+summary: Chromium Java rule to return full unabbreviated state names from switch statements in debug strings instead of building StringBuilder output with single-letter abbreviations.
 ---
 
 **Rule.** When formatting a single discrete state or enum value into a debug

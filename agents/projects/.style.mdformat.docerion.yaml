@@ -1,0 +1,4 @@
+# Docerion header of .style.mdformat.
+type: config
+title: mdformat style configuration
+summary: Empty mdformat style configuration file that applies default formatting settings to the projects folder.

@@ -2,6 +2,9 @@
 name: general/document-thread-safety-without-hedging
 rubric: readability
 severity: should_fix
+type: guide
+title: Document thread safety without hedging
+summary: Coding rule requiring precise thread-safety contracts without vague qualifiers, including explicit main-thread and initialization constraints.
 ---
 
 **Rule.** Do not use vague hedging qualifiers such as 'generally', 'mostly',

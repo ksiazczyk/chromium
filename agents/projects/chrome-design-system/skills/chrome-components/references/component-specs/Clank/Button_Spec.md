@@ -1,3 +1,9 @@
+---
+type: reference
+title: Button Spec (Clank)
+summary: Maps the Button (Clank) component specifications across Figma and code, comparing pill and tonal stack variants, design tokens, implementation gaps, and UX guidance.
+---
+
 # Button Spec (Clank)
 
 This document maps the specifications of the **Button** (Clank) component across

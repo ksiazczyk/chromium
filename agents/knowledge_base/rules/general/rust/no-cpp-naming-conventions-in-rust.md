@@ -2,6 +2,9 @@
 name: general/no-cpp-naming-conventions-in-rust
 rubric: readability
 severity: should_fix
+type: reference
+title: No C++ naming conventions in Rust
+summary: Coding rule enforcing idiomatic Rust naming with snake_case macros and SCREAMING_SNAKE_CASE constants instead of C++ conventions.
 ---
 
 **Rule.** In Rust code, constants, macros, and API definitions, follow standard

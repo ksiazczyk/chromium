@@ -1,3 +1,9 @@
+---
+type: reference
+title: Bottom Sheet Spec (Clank)
+summary: Maps the Bottom Sheet (Clank) component specifications across Figma and Chromium code, covering variants, design tokens, implementation gaps, and usage guidance.
+---
+
 # Bottom Sheet Spec (Clank)
 
 This document maps the specifications of the **Bottom Sheet** (Clank) component

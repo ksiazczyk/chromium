@@ -2,6 +2,9 @@
 name: general/document-rationale-and-derivation-for-constants-and-limits
 rubric: readability
 severity: should_fix
+type: guide
+title: Document rationale and derivation for constants and limits
+summary: Coding rule requiring comments explaining rationale, derivation, and assumptions behind non-obvious constants, synthetic IDs, retry limits, and thresholds.
 ---
 
 **Rule.** When defining non-obvious constants, synthetic IDs, retry limits,

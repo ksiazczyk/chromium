@@ -2,6 +2,9 @@
 name: general/document-non-obvious-invariants-and-partial-updates
 rubric: readability
 severity: should_fix
+type: guide
+title: Document non-obvious invariants and partial updates
+summary: Coding rule requiring inline comments explaining non-obvious invariants, avoided optimizations, partial updates, and cleanup mechanisms to prevent mistaken refactoring.
 ---
 
 **Rule.** When code relies on a non-obvious invariant, deliberately avoids an

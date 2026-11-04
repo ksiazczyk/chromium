@@ -1,6 +1,13 @@
 ---
 name: fix-outdated-javadocs
 description: Audit and fix outdated or mismatched Javadoc comments by updating parameter names, adding missing @param tags, removing stale tags, converting return-only tags, and replacing pipe syntax per the Java style guide.
+type: guide
+title: 'Code Health: Fix Outdated Javadocs'
+summary: Agent skill guide for auditing and fixing outdated or mismatched Javadoc comments in Java files, covering discovery, refactoring, validation, and submission steps.
+relations:
+  - references /agents/projects/code-health/fix-outdated-javadocs/references/patterns.md
+  - references /agents/projects/code-health/fix-outdated-javadocs/scripts/find_candidates.py
+  - references /agents/projects/code-health/hub/references/discovery_and_batch_selection.md
 ---
 
 # Code Health: Fix Outdated Javadocs

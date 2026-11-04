@@ -2,6 +2,9 @@
 name: general/document-delimiter-rules-and-examples-for-hierarchical-match
 rubric: readability
 severity: nit
+type: guide
+title: Document delimiter rules and examples for hierarchical identifier matching
+summary: Coding rule requiring explicit delimiter and hierarchy semantics plus positive and negative examples when documenting prefix matching of structured identifiers.
 ---
 
 **Rule.** When documenting API functions that match, filter, or group structured

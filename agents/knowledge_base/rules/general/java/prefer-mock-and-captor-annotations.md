@@ -2,6 +2,9 @@
 name: general/prefer-mock-and-captor-annotations
 rubric: readability
 severity: should_fix
+type: reference
+title: Prefer mock and captor annotations in Java tests
+summary: Coding rule advising Java tests to declare mocks, spies, and argument captors as @Mock, @Spy, and @Captor fields instead of inline Mockito creation, with good and bad examples.
 ---
 
 **Rule.** In Java tests, declare mocks, spies, and argument captors as `@Mock`,

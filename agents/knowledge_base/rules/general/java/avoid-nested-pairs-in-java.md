@@ -2,6 +2,9 @@
 name: general/avoid-nested-pairs-in-java
 rubric: readability
 severity: optional
+type: guide
+title: Avoid nested pairs in Java
+summary: Java rule (readability, optional) against nested Pair types in APIs, recommending focused methods or dedicated classes with named fields for self-documenting signatures.
 ---
 
 **Rule.** Avoid using nested Pair types (e.g., Pair\<Pair\<T, U>, Pair\<V, W>>

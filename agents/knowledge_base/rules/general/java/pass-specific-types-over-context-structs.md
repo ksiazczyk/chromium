@@ -2,6 +2,9 @@
 name: general/pass-specific-types-over-context-structs
 rubric: design
 severity: should_fix
+type: reference
+title: Pass specific types over context structs
+summary: Design rule to declare narrow, specific parameters instead of accepting whole context objects or adding _Impl wrapper functions whose only purpose is unpacking fields.
 ---
 
 **Rule.** When a function or method only operates on specific fields, tokens, or

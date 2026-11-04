@@ -2,6 +2,9 @@
 name: general/invert-return-condition-on-predicate-polarity-refactoring
 rubric: correctness
 severity: blocking
+type: reference
+title: Invert return condition on predicate polarity refactoring
+summary: Blocking coding rule requiring the return expression to be inverted when a boolean predicate is renamed or refactored between positive and negative polarity, with examples.
 ---
 
 **Rule.** When defining, renaming, or refactoring a boolean predicate function

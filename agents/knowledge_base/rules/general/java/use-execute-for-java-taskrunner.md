@@ -2,6 +2,9 @@
 name: general/use-execute-for-java-taskrunner
 rubric: readability
 severity: should_fix
+type: guide
+title: Use execute() for Java TaskRunner task scheduling
+summary: Readability rule requiring immediate task scheduling in Chromium Java to call execute(Runnable) on TaskRunner or Executor instances rather than adding or calling redundant postTask alias methods that expand API surface.
 ---
 
 **Rule.** When scheduling immediate tasks or designing task execution APIs in

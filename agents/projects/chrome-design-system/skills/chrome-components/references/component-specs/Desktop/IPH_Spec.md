@@ -1,3 +1,9 @@
+---
+type: reference
+title: IPH Spec (Desktop)
+summary: Maps the Chrome Desktop In-Product Help (IPH) bubble specifications across Figma and code, covering variants, design tokens, implementation gaps and usage guidance.
+---
+
 # IPH Spec (Desktop)
 
 This document maps the specifications of the **IPH** (In-Product Help) (Desktop)

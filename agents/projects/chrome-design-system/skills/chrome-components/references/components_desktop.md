@@ -1,3 +1,12 @@
+---
+type: reference
+title: Chrome Design System — Component Mapping Table (Desktop)
+summary: Aggregated table mapping Chrome desktop Figma components to their C++ Views and WebUI implementations in Chromium.
+relations:
+  - references /agents/projects/chrome-design-system/skills/chrome-components/references/component-specs/Desktop/Buttons_Spec.md
+  - references /agents/projects/chrome-design-system/skills/chrome-components/references/component-specs/Desktop/Checkbox_Spec.md
+---
+
 # Chrome Design System — Component Mapping Table (Desktop)
 
 This document aggregates the component mappings from all desktop component

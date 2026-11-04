@@ -2,6 +2,9 @@
 name: general/encapsulate-resource-lifecycle-in-controllers
 rubric: design
 severity: should_fix
+type: guide
+title: Encapsulate resource lifecycle in controllers
+summary: Design rule on separating mechanism from policy by keeping resource lifecycle in controllers and shared accounting in coordinating callers.
 ---
 
 **Rule.** When designing coordinating callers and backend controllers or

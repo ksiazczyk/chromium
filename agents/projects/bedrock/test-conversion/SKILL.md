@@ -1,6 +1,9 @@
 ---
 name: test-conversion
 description: Workflow for converting unit tests to browser tests for Project Bedrock. Invoke this when the user wants to remove complex Browser dependencies from tests.
+type: guide
+title: Unit Test to Browser Test Conversion Skill
+summary: Agent skill defining a phased workflow for converting Chromium unit tests with Browser* dependencies into unit or browser tests for Project Bedrock.
 ---
 
 # Role

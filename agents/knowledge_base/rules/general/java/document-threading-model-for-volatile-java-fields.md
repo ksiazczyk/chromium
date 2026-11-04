@@ -2,6 +2,9 @@
 name: general/document-threading-model-for-volatile-java-fields
 rubric: readability
 severity: optional
+type: guide
+title: Document threading model for volatile Java fields
+summary: Coding rule requiring comments that document which threads read and write volatile and Atomic fields in Java to clarify concurrency contracts.
 ---
 
 **Rule.** When declaring or modifying `volatile` variables or `Atomic*` fields

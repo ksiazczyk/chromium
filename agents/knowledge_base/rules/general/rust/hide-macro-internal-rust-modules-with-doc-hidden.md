@@ -2,6 +2,9 @@
 name: general/hide-macro-internal-rust-modules-with-doc-hidden
 rubric: readability
 severity: nit
+type: reference
+title: Hide macro-internal Rust modules with doc(hidden)
+summary: 'Coding rule advising #[doc(hidden)] on enclosing modules to keep macro-support items out of the public rustdoc interface.'
 ---
 
 **Rule.** When defining public modules, functions, traits, or types in Rust that

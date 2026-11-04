@@ -2,6 +2,11 @@
 name: spanify-buffers
 description: >-
   Find and fix unsafe buffer operations in a C++ file by removing UNSAFE_TODO markers and  replacing unsafe raw pointers/C-style functions with base::span and standard safe containers.  Use when the user asks to fix unsafe buffer warnings or `-Wunsafe-buffer-usage` errors.  Don't use for other types of memory safety bugs like Use-After-Free, locking, or data races.
+type: guide
+title: 'Skill: Fix Unsafe Buffer Usage in Chromium'
+summary: Agent skill prompt that guides fixing unsafe buffer operations in Chromium C++ files by removing UNSAFE_TODO markers and applying base::span and safe container patterns.
+relations:
+  - references /tools/autotest.py
 ---
 
 # LLM Prompt: Fix Unsafe Buffer Usage in Chromium

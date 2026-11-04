@@ -1,3 +1,12 @@
+---
+type: reference
+title: Switch Spec (Desktop)
+summary: Maps the Chrome Desktop Switch toggle component specifications across Figma and code, covering variants, design tokens, implementation gaps and usage guidance.
+relations:
+  - references /ui/views/controls/button/toggle_button.h
+  - references /ui/webui/resources/cr_elements/cr_toggle/cr_toggle.ts
+---
+
 # Switch Spec (Desktop)
 
 This document maps the specifications of the **Switch** (Desktop) component

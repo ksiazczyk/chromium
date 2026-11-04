@@ -2,6 +2,12 @@
 name: general/cache-mutable-feature-flags-in-stateful-objects
 rubric: correctness
 severity: should_fix
+type: guide
+title: Cache mutable feature flags in stateful objects
+summary: Coding rule to cache mutable feature flag values in instance members so paired lifecycle methods do not observe the flag flipping midway through an object's lifetime.
+relations:
+  - references /base/android/java/src/org/chromium/base/MutableFlagWithSafeDefault.java
+  - references /base/android/java/src/org/chromium/base/MutableParamWithSafeDefault.java
 ---
 
 **Rule.** Do not repeatedly query dynamic or mutable feature flags (such as

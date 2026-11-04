@@ -2,6 +2,9 @@
 name: general/never-trust-external-shared-memory-hashes-or-metadata
 rubric: safety
 severity: nit
+type: guide
+title: Never trust external shared memory hashes or metadata
+summary: Security rule requiring hashes and validation metadata from shared memory or external processes to be recomputed and validated locally.
 ---
 
 **Rule.** Do not trust precomputed hashes, cached validation flags, or indexing

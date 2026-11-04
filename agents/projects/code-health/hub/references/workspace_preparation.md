@@ -1,3 +1,9 @@
+---
+type: guide
+title: Workspace Preparation
+summary: Steps to prepare a clean workspace before cleanup tasks, including stashing local changes, updating from main, and checking for unmerged local commits.
+---
+
 # Workspace Preparation
 
 Before making any modifications or running discovery scripts, ensure a clean and
