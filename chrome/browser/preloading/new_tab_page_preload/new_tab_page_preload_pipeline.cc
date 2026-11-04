@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page preload pipeline implementation
+// summary: Implements the New Tab Page preload pipeline, starting prefetch and prerender attempts while disallowing search result URLs and recording histograms.
+// ---
+
 #include "chrome/browser/preloading/new_tab_page_preload/new_tab_page_preload_pipeline.h"
 
 #include "base/debug/dump_without_crashing.h"

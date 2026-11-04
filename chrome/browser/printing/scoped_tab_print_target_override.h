@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTabPrintTargetOverride interface
+// summary: Declares a scoped per-tab override that directs print commands to a non-tab WebContents, such as an overlay, while it is alive.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_SCOPED_TAB_PRINT_TARGET_OVERRIDE_H_
 #define CHROME_BROWSER_PRINTING_SCOPED_TAB_PRINT_TARGET_OVERRIDE_H_
 

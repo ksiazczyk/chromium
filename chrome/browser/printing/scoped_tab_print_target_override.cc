@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTabPrintTargetOverride implementation
+// summary: Implements the scoped override that routes a tab's print commands to a target WebContents and cancels its print preview when the override is destroyed.
+// ---
+
 #include "chrome/browser/printing/scoped_tab_print_target_override.h"
 
 #include "base/check.h"

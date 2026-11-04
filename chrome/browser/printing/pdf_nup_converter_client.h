@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF N-up converter client header
+// summary: Declares PdfNupConverterClient, a WebContentsUserData managing per-document mojo remotes for N-up PDF conversion and the Skia renderer policy.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PDF_NUP_CONVERTER_CLIENT_H_
 #define CHROME_BROWSER_PRINTING_PDF_NUP_CONVERTER_CLIENT_H_
 

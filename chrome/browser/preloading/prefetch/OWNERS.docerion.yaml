@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for prefetch files
+summary: Assigns per-file review ownership of the Chrome prefetch manager and prefetch browsertest files to a specific owner.

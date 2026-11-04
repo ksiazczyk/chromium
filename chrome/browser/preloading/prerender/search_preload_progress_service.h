@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search preload progress service header
+// summary: Declares SearchPreloadProgressService, a keyed service tracking search prewarm progress and notifying observers when all prewarms finish.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PRERENDER_SEARCH_PRELOAD_PROGRESS_SERVICE_H_
 #define CHROME_BROWSER_PRELOADING_PRERENDER_SEARCH_PRELOAD_PROGRESS_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrerenderManager unit tests
+// summary: Unit tests for PrerenderManager covering search prerendering, canonical search URL handling, and host reuse with the kPrerender2ReuseHost feature.
+// ---
+
 #include "chrome/browser/preloading/prerender/prerender_manager.h"
 
 #include <string>

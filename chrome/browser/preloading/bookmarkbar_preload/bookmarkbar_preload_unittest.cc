@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark bar preload unit tests
+// summary: Unit tests for the bookmark bar preload pipeline manager covering prefetch and prerender behavior, search URL handling, and UKM metrics.
+// ---
+
 #include <string>
 
 #include "base/timer/elapsed_timer.h"

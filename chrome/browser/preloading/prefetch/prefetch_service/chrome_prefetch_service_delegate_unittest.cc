@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome prefetch service delegate unit tests
+// summary: Verifies that the user-selected default search engine origin is treated as contamination exempt while other origins are not.
+// ---
+
 #include "chrome/browser/preloading/prefetch/prefetch_service/chrome_prefetch_service_delegate.h"
 
 #if BUILDFLAG(IS_ANDROID)

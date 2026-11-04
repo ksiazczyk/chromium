@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search prefetch keep-alive request tracker
+// summary: Declares a tracker that monitors keepalive requests used to update search prefetch states.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PREFETCH_SEARCH_PREFETCH_SEARCH_PREFETCH_KEEP_ALIVE_REQUEST_TRACKER_H_
 #define CHROME_BROWSER_PRELOADING_PREFETCH_SEARCH_PREFETCH_SEARCH_PREFETCH_KEEP_ALIVE_REQUEST_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DSE prewarm navigation throttle browser tests
+// summary: Browser tests verifying that navigations to the search origin are deferred during an ongoing DSE prewarm and proceed otherwise.
+// ---
+
 #include "chrome/browser/preloading/prerender/dse_prewarm_navigation_throttle.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Web Printing API directory
+summary: Defines code owners for the directory and routes mojom traits and type converter changes to IPC security owners.

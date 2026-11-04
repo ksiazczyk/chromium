@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchPreloadService implementation
+// summary: Implements the profile-keyed service that observes default search engine changes, caches No-Vary-Search hints in prefs, and routes Omnibox events to pipeline managers.
+// ---
+
 #include "chrome/browser/preloading/search_preload/search_preload_service.h"
 
 #include "base/logging.h"

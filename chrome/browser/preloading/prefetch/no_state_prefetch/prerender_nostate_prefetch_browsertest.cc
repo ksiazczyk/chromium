@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prerender no-state prefetch browser tests
+// summary: Browser tests covering Chrome's prerender and no-state prefetch behavior, including navigation, history, task manager, and metrics scenarios.
+// ---
+
 #include <algorithm>
 #include <string>
 

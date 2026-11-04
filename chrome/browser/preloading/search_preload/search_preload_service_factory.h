@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchPreloadServiceFactory class declaration
+// summary: Declares the LazyInstance factory that associates SearchPreloadService instances with profiles and returns null when the kDsePreload2 feature is disabled.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_SEARCH_PRELOAD_SEARCH_PRELOAD_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PRELOADING_SEARCH_PRELOAD_SEARCH_PRELOAD_SERVICE_FACTORY_H_
 

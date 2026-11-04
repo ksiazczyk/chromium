@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DSE prewarm navigation throttle header
+// summary: Declares the navigation throttle class that prevents races between user navigations and ongoing DSE prewarm requests.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PRERENDER_DSE_PREWARM_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_PRELOADING_PRERENDER_DSE_PREWARM_NAVIGATION_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPrintViewManagerForRequestPreview implementation
+// summary: Implements a PrintViewManager test double that quits a test RunLoop when the renderer requests print preview, keeping browser tests synchronised.
+// ---
+
 #include "chrome/browser/printing/test_print_view_manager_for_request_preview.h"
 
 #include <memory>

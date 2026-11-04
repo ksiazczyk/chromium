@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchPreloadSignalResult enum for preload trigger outcomes
+// summary: Defines an enum recording whether a search preload was triggered and the reasons it was not, kept in sync with the omnibox histograms metadata.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_SEARCH_PRELOAD_SEARCH_PRELOAD_SIGNAL_RESULT_H_
 #define CHROME_BROWSER_PRELOADING_SEARCH_PRELOAD_SEARCH_PRELOAD_SIGNAL_RESULT_H_
 

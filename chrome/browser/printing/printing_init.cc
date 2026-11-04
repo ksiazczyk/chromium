@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing initialization
+// summary: Attaches the appropriate print manager to each WebContents, handling headless mode and scheduling an early launch of the print backend service.
+// ---
+
 #include "chrome/browser/printing/printing_init.h"
 
 #include "chrome/browser/headless/headless_mode_util.h"

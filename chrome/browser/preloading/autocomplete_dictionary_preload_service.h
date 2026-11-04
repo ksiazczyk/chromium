@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete dictionary preload service header
+// summary: Declares the KeyedService that preloads compression dictionaries in the network service for omnibox autocomplete navigations.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_AUTOCOMPLETE_DICTIONARY_PRELOAD_SERVICE_H_
 #define CHROME_BROWSER_PRELOADING_AUTOCOMPLETE_DICTIONARY_PRELOAD_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print backend service test implementation
+// summary: Implements an in-process print backend service backed by TestPrintBackend so printing flows can be tested without real printer drivers.
+// ---
+
 #include "chrome/browser/printing/print_backend_service_test_impl.h"
 
 #include <utility>

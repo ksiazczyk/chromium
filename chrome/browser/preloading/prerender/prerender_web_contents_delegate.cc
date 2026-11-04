@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender WebContents delegate implementation
+// summary: Initializes browser-side helpers for prerendered WebContents, including content settings, page load metrics, extensions, and task manager tagging.
+// ---
+
 #include "chrome/browser/preloading/prerender/prerender_web_contents_delegate.h"
 
 #include "build/build_config.h"

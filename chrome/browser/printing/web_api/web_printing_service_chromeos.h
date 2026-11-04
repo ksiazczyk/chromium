@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS web printing service class declaration
+// summary: Declares the WebPrintingServiceChromeOS class that serves the blink WebPrintingService and WebPrinter Mojo interfaces for ChromeOS printing.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_WEB_API_WEB_PRINTING_SERVICE_CHROMEOS_H_
 #define CHROME_BROWSER_PRINTING_WEB_API_WEB_PRINTING_SERVICE_CHROMEOS_H_
 

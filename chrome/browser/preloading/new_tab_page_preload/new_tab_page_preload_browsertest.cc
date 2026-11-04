@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page preload browser tests
+// summary: Browser tests that verify prefetch and prerendering triggered from the New Tab Page, including search URL disallowance and preloading histogram outcomes.
+// ---
+
 #include <string>
 
 #include "base/files/file_path.h"

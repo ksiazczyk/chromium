@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview context menu observer implementation
+// summary: Implements a context menu observer that reports whether a print preview dialog is shown and disables commands like print and view source there.
+// ---
+
 #include "chrome/browser/printing/print_preview_context_menu_observer.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test print preview observer interface
+// summary: Declares a test delegate for PrintPreviewUI that browser tests use to wait for print preview readiness and inspect rendered page counts.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_TEST_PRINT_PREVIEW_OBSERVER_H_
 #define CHROME_BROWSER_PRINTING_TEST_PRINT_PREVIEW_OBSERVER_H_
 

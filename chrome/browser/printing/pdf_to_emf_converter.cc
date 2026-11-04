@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF to EMF converter implementation
+// summary: Implements converting PDF pages to EMF or Postscript for Windows printing through the out-of-process printing service via Mojo.
+// ---
+
 #include "chrome/browser/printing/pdf_to_emf_converter.h"
 
 #include <windows.h>

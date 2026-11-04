@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows printer manager dialog
+// summary: Opens the Windows printer management dialog, using the Settings app on Windows 10 and later and a shell32 rundll32 shortcut on older versions.
+// ---
+
 #include "chrome/browser/printing/printer_manager_dialog.h"
 
 #include <windows.h>

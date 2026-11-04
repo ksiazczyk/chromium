@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefetch origin decider unit tests
+// summary: Tests retry-after windows, per-origin scoping, negative values, browsing data clearing, metrics, and persistence across decider instances.
+// ---
+
 #include "chrome/browser/preloading/prefetch/prefetch_service/prefetch_origin_decider.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test print preview dialog cloned observer interface
+// summary: Declares a test helper that sets up TestPrintViewManagerForRequestPreview in browser tests instead of a real PrintViewManager.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_TEST_PRINT_PREVIEW_DIALOG_CLONED_OBSERVER_H_
 #define CHROME_BROWSER_PRINTING_TEST_PRINT_PREVIEW_DIALOG_CLONED_OBSERVER_H_
 

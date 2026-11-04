@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Preloading directory OWNERS file
+summary: Points to the content preloading OWNERS file to inherit reviewer rules for this directory.

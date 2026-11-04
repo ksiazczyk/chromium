@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-state prefetch manager unit tests
+// summary: Unit tests covering NoStatePrefetchManager behavior such as entry reuse, rate limiting, network connection conditions and final prefetch statuses.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

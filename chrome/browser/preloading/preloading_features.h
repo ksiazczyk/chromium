@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloading feature flag declarations
+// summary: Declares Chromium feature flags and field trial parameters that control preloading behaviors such as prewarm, prerender compositor warm-up, and Omnibox DUI prerendering.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PRELOADING_FEATURES_H_
 #define CHROME_BROWSER_PRELOADING_PRELOADING_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar preload pipeline implementation
+// summary: Implements the bookmark bar preload pipeline, starting prefetch and prerender attempts and recording eligibility metrics for search result URLs.
+// ---
+
 #include "chrome/browser/preloading/bookmarkbar_preload/bookmarkbar_preload_pipeline.h"
 
 #include "base/metrics/histogram_functions.h"

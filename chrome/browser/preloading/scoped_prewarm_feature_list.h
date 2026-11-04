@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped prewarm feature list header
+// summary: Declares ScopedPrewarmFeatureList, a test-only helper that configures feature flags for DSE Prewarm states.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_SCOPED_PREWARM_FEATURE_LIST_H_
 #define CHROME_BROWSER_PRELOADING_SCOPED_PREWARM_FEATURE_LIST_H_
 

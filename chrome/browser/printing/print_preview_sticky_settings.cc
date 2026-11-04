@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview sticky settings implementation
+// summary: Implements a singleton that stores and restores print preview sticky settings in profile prefs and parses the recently used printers from the saved app state.
+// ---
+
 #include "chrome/browser/printing/print_preview_sticky_settings.h"
 
 #include "base/json/json_reader.h"

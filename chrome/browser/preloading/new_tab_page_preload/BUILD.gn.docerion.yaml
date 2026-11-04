@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the new_tab_page_preload targets
+summary: Defines GN source sets for the New Tab Page preload pipeline, its implementation, and its unit and browser tests with their dependencies.

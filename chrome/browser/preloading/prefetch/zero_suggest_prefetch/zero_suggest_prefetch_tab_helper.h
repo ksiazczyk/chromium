@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZeroSuggestPrefetchTabHelper header
+// summary: Declares ZeroSuggestPrefetchTabHelper, which prefetches zero-prefix suggestions on opening or switching to a New Tab Page.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PREFETCH_ZERO_SUGGEST_PREFETCH_ZERO_SUGGEST_PREFETCH_TAB_HELPER_H_
 #define CHROME_BROWSER_PRELOADING_PREFETCH_ZERO_SUGGEST_PREFETCH_ZERO_SUGGEST_PREFETCH_TAB_HELPER_H_
 

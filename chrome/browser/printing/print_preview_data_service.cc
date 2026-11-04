@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview data service implementation
+// summary: Implements the singleton PrintPreviewDataService that stores and retrieves print preview PDF data per preview UI ID and page index, keeping optimized complete documents and unoptimized page PDFs.
+// ---
+
 #include "chrome/browser/printing/print_preview_data_service.h"
 
 #include <utility>

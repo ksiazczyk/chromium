@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintJob class header
+// summary: Declares the PrintJob class that manages printing of a document, with observer notifications and Chrome OS job source tracking.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINT_JOB_H_
 #define CHROME_BROWSER_PRINTING_PRINT_JOB_H_
 

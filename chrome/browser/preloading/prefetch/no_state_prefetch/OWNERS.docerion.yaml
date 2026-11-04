@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the no_state_prefetch directory
+summary: Delegates code ownership to the OWNERS file of components/no_state_prefetch.

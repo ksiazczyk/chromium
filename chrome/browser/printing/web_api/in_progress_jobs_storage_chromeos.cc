@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-progress print jobs storage implementation for ChromeOS
+// summary: Implements WebPrintJobController and CupsPrintJobManager observation to track, cancel, and report states of active CUPS print jobs.
+// ---
+
 #include "chrome/browser/printing/web_api/in_progress_jobs_storage_chromeos.h"
 
 #include "base/check_deref.h"

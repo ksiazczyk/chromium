@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-state prefetch unit test utilities header
+// summary: Declares fake prefetch contents and a test NoStatePrefetchManager subclass with helpers for creating and tracking prefetch entries in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PREFETCH_NO_STATE_PREFETCH_NO_STATE_PREFETCH_UNIT_TEST_UTILS_H_
 #define CHROME_BROWSER_PRELOADING_PREFETCH_NO_STATE_PREFETCH_NO_STATE_PREFETCH_UNIT_TEST_UTILS_H_
 

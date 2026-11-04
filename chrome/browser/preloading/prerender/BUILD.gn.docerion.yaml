@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Prerender build targets
+summary: Defines GN source sets for the prerender implementation, its public headers, test support, browser tests, and unit tests.

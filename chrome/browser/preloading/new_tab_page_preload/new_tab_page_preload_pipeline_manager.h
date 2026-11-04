@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page preload pipeline manager header
+// summary: Declares NewTabPagePreloadPipelineManager, a WebContentsObserver that manages preload pipelines per WebContents and exposes start and reset APIs.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_NEW_TAB_PAGE_PRELOAD_NEW_TAB_PAGE_PRELOAD_PIPELINE_MANAGER_H_
 #define CHROME_BROWSER_PRELOADING_NEW_TAB_PAGE_PRELOAD_NEW_TAB_PAGE_PRELOAD_PIPELINE_MANAGER_H_
 

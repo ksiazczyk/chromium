@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Secure DNS provider spinner item layout
+summary: Single-line TextView layout for items in the Secure DNS provider dropdown spinner, copied from the preference spinner item with padding removed.
+-->
+
 <!-- Copy of @layout/preference_spinner_single_line_item with padding removed. -->
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
     style="?android:attr/spinnerItemStyle"

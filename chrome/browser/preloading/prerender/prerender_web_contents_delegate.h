@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender WebContents delegate header
+// summary: Declares PrerenderWebContentsDelegateImpl, the Chrome implementation of content::PrerenderWebContentsDelegate for prerender WebContents setup and release.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PRERENDER_PRERENDER_WEB_CONTENTS_DELEGATE_H_
 #define CHROME_BROWSER_PRELOADING_PRERENDER_PRERENDER_WEB_CONTENTS_DELEGATE_H_
 

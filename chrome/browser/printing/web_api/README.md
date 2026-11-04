@@ -1,3 +1,13 @@
+---
+type: readme
+title: Web Printing API (chrome/browser/printing/web_api)
+summary: Documents the browser-process Mojo service for the Web Printing API, restricted to Isolated Web Apps on ChromeOS, and its key components.
+relations:
+  - references /chrome/browser/web_applications/isolated_web_apps/README.md
+  - references /components/webapps/isolated_web_apps/README.md
+  - references /ipc/SECURITY_OWNERS
+---
+
 # Web Printing API (`chrome/browser/printing/web_api`)
 
 This directory implements the browser-process Mojo service for the

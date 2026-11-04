@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search prefetch request implementation
+// summary: Implements search prefetch requests that prepare, start, and track network prefetches of search result pages.
+// ---
+
 #include "chrome/browser/preloading/prefetch/search_prefetch/search_prefetch_request.h"
 
 #include <algorithm>

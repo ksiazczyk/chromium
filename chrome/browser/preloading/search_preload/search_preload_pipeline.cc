@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchPreloadPipeline implementation
+// summary: Implements the per-search preload pipeline that updates confidence and starts, tracks, and cancels prefetch and prerender attempts for a canonical search URL.
+// ---
+
 #include "chrome/browser/preloading/search_preload/search_preload_pipeline.h"
 
 #include "chrome/browser/preloading/chrome_preloading.h"

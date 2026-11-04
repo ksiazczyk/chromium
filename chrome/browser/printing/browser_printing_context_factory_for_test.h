@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test printing context factory declaration
+// summary: Declares a factory producing test printing contexts with configurable failures, page ranges and user settings for browser printing tests.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_BROWSER_PRINTING_CONTEXT_FACTORY_FOR_TEST_H_
 #define CHROME_BROWSER_PRINTING_BROWSER_PRINTING_CONTEXT_FACTORY_FOR_TEST_H_
 

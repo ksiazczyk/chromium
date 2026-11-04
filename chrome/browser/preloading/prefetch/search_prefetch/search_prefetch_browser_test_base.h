@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search prefetch browser test base header
+// summary: Declares the shared browser test base class with helpers for URLs, suggestion rules, DevTools, and request counting used by search prefetch browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PREFETCH_SEARCH_PREFETCH_SEARCH_PREFETCH_BROWSER_TEST_BASE_H_
 #define CHROME_BROWSER_PRELOADING_PREFETCH_SEARCH_PREFETCH_SEARCH_PREFETCH_BROWSER_TEST_BASE_H_
 

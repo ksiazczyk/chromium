@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome no-state prefetch manager delegate implementation
+// summary: Implements the Chrome manager delegate supplying cookie settings, preconnect fallback, and preloading preference checks for no-state prefetch.
+// ---
+
 #include "chrome/browser/preloading/prefetch/no_state_prefetch/chrome_no_state_prefetch_manager_delegate.h"
 
 #include "chrome/browser/content_settings/cookie_settings_factory.h"

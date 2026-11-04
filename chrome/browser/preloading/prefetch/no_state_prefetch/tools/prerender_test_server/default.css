@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Prerender test page stylesheet
+summary: Defines the layout and styling of the prerender test page, including the URL form and centered container.
+*/
+
 body {
 //  background-color: #aaaaaa;
 }

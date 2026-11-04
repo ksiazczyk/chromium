@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF to EMF converter header
+// summary: Declares the PdfConverter interface for starting PDF conversion and fetching converted pages, plus a test helper simulating temp file failures.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PDF_TO_EMF_CONVERTER_H_
 #define CHROME_BROWSER_PRINTING_PDF_TO_EMF_CONVERTER_H_
 

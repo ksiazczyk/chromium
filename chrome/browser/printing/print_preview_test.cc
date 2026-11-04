@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview test fixture implementation
+// summary: Implements setup and teardown of the PrintPreviewTest fixture, installing a fake print backend and, when enabled, a test out-of-process printing service.
+// ---
+
 #include "chrome/browser/printing/print_preview_test.h"
 
 #include "printing/backend/test_print_backend.h"

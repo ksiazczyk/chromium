@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender manager header
+// summary: Declares the Chrome prerender manager, its prerender and prewarm entry points, and the PrerenderPredictionStatus enum used for metrics.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PRERENDER_PRERENDER_MANAGER_H_
 #define CHROME_BROWSER_PRELOADING_PRERENDER_PRERENDER_MANAGER_H_
 

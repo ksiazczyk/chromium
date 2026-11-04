@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process print job worker implementation
+// summary: Implements PrintJobWorkerOop, which submits print jobs through the out-of-process print backend service and records result histograms.
+// ---
+
 #include "chrome/browser/printing/print_job_worker_oop.h"
 
 #include <optional>

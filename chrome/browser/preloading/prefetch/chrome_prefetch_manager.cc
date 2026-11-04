@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromePrefetchManager implementation
+// summary: Implements the per-WebContents prefetch manager, including starting CCT navigational prefetches on Android with holdback and metrics handling.
+// ---
+
 #include "chrome/browser/preloading/prefetch/chrome_prefetch_manager.h"
 
 #include "chrome/browser/preloading/chrome_preloading.h"

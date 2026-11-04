@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloading preference enums and API
+// summary: Declares the NetworkPredictionOptions and PreloadPagesState enums plus functions to read, set, and evaluate preloading eligibility from prefs.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PRELOADING_PREFS_H_
 #define CHROME_BROWSER_PRELOADING_PRELOADING_PREFS_H_
 

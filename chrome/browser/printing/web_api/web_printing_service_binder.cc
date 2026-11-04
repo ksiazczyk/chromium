@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Printing service binder
+// summary: Creates the WebPrintingService for a frame after checking the feature flag, permissions policy, isolated context capability, and app association.
+// ---
+
 #include "chrome/browser/printing/web_api/web_printing_service_binder.h"
 
 #include <utility>

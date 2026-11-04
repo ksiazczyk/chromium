@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search preload unified browser tests
+// summary: Browser test suite covering search prefetch and prerender behavior, including response streaming, cache alias serving, metrics, and field trial settings.
+// ---
+
 #include <algorithm>
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintJobManager implementation
+// summary: Implements PrintJobManager and PrintQueriesQueue to track active print jobs, queue printer queries, and handle shutdown.
+// ---
+
 #include "chrome/browser/printing/print_job_manager.h"
 
 #include "base/functional/bind.h"

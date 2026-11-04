@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintViewManagerBasic unit tests
+// summary: Unit tests covering subframe printing, job cancellation during destruction, and Android print flows including crashed renderer handling.
+// ---
+
 #include "chrome/browser/printing/print_view_manager_basic.h"
 
 #include <utility>

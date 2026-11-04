@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache alias search prefetch URL loader implementation
+// summary: Implements a URL loader that serves a search prefetch response from the disk cache and falls back to fetching the non-prefetch URL when no cached response is available.
+// ---
+
 #include "chrome/browser/preloading/prefetch/search_prefetch/cache_alias_search_prefetch_url_loader.h"
 
 #include <string>

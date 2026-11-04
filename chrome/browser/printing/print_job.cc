@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintJob implementation
+// summary: Implements the PrintJob class that manages print work for a document, including Windows PostScript and rasterization policy handling.
+// ---
+
 #include "chrome/browser/printing/print_job.h"
 
 #include <memory>

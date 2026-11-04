@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search prefetch service implementation
+// summary: Implements the per-profile service that starts, tracks, and serves search prefetches triggered from omnibox suggestions.
+// ---
+
 #include "chrome/browser/preloading/prefetch/search_prefetch/search_prefetch_service.h"
 
 #include <iterator>

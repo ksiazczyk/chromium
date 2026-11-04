@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search prefetch service browser tests
+// summary: Browser tests covering search prefetch eligibility, serving, cancellation, and related service behavior.
+// ---
+
 #include "chrome/browser/preloading/prefetch/search_prefetch/search_prefetch_service.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page preload pipeline manager implementation
+// summary: Implements per-WebContents management of preload pipelines, creating or resetting them on navigation and prerender resets.
+// ---
+
 #include "chrome/browser/preloading/new_tab_page_preload/new_tab_page_preload_pipeline_manager.h"
 
 #include "chrome/browser/preloading/chrome_preloading.h"

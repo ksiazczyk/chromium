@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits implementation for Web Printing types
+// summary: Converts between Blink Mojo Web Printing enums and structures and Chromium printing types such as duplex mode, quality, and print settings.
+// ---
+
 #include "chrome/browser/printing/web_api/web_printing_mojom_traits.h"
 
 #include <cups/ipp.h>

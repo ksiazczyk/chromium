@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender manager implementation
+// summary: Implements the Chrome prerender manager that starts, cancels, and tracks prerenders and prewarm pages per WebContents with histogram logging.
+// ---
+
 #include "chrome/browser/preloading/prerender/prerender_manager.h"
 
 #include <memory>

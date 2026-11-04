@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the printing directory
+summary: Defines allowed include dependencies for the browser printing directory, including test-only and file-specific exceptions.

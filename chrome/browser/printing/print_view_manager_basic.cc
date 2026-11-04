@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintViewManagerBasic implementation
+// summary: Implements the basic print view manager, including Android-specific printing flows that write PDF output to a file descriptor.
+// ---
+
 #include "chrome/browser/printing/print_view_manager_basic.h"
 
 #include "build/build_config.h"

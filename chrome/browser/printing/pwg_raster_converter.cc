@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF to PWG raster converter
+// summary: Converts PDF documents into PWG raster data for cloud printers by delegating to the sandboxed printing service over shared memory.
+// ---
+
 #include "chrome/browser/printing/pwg_raster_converter.h"
 
 #include <algorithm>

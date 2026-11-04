@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrintJob unit tests
+// summary: Unit tests for PrintJob covering simple printing, late initialization, and Windows page range mapping.
+// ---
+
 #include "chrome/browser/printing/print_job.h"
 
 #include <memory>

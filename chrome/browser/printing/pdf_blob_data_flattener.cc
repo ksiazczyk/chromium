@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF blob data flattener implementation
+// summary: Implements reading PDF blobs and flattening them into MetafileSkia instances via the printing service, with a test hook to disable flattening.
+// ---
+
 #include "chrome/browser/printing/pdf_blob_data_flattener.h"
 
 #include <utility>

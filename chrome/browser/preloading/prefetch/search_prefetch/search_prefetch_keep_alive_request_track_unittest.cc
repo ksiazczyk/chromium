@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keep-alive request tracker unit tests
+// summary: Unit tests verifying that a keep-alive request tracker is created only for search prefetch beacon requests when beacon logging is enabled.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "base/test/task_environment.h"
 #include "chrome/browser/preloading/prefetch/search_prefetch/field_trial_settings.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender utilities implementation
+// summary: Implements prerender2 helpers such as prewarm URL checks, default search engine detection, and process reuse decisions, plus preloading trigger metric suffixes.
+// ---
+
 #include "chrome/browser/preloading/prerender/prerender_utils.h"
 
 #include "base/check.h"

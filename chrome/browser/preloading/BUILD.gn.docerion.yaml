@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Preloading BUILD.gn build targets
+summary: Defines GN source sets and dependencies for the preloading service, prefs, test support and browser and unit tests.

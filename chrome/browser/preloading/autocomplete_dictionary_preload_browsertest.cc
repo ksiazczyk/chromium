@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autocomplete dictionary preload browser tests
+// summary: Browser tests verifying the AutocompleteDictionaryPreload feature preloads shared dictionaries and discards them on timeout or memory pressure.
+// ---
+
 #include <algorithm>
 #include <optional>
 

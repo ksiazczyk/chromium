@@ -1,0 +1,4 @@
+# Docerion header of prerender_test_server.py.
+type: script
+title: Local prerender test web server
+summary: Runs a local HTTP server that serves the prerender test page, stylesheet, and script with a configurable port.

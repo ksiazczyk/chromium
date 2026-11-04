@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Prerender directory owners
+summary: Delegates ownership to the content prerender OWNERS file and assigns test file reviews to a specific owner.

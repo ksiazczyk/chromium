@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete dictionary preload service factory header
+// summary: Declares the ProfileKeyedServiceFactory that creates and manages the autocomplete dictionary preload service.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_AUTOCOMPLETE_DICTIONARY_PRELOAD_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PRELOADING_AUTOCOMPLETE_DICTIONARY_PRELOAD_SERVICE_FACTORY_H_
 

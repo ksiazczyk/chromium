@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-state prefetch unit test utilities
+// summary: Implements FakeNoStatePrefetchContents and UnitTestNoStatePrefetchManager used to exercise no-state prefetch behavior in unit tests.
+// ---
+
 #include "chrome/browser/preloading/prefetch/no_state_prefetch/no_state_prefetch_unit_test_utils.h"
 
 #include "chrome/browser/preloading/prefetch/no_state_prefetch/chrome_no_state_prefetch_contents_delegate.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print error dialog implementation
+// summary: Shows window-modal error dialogs for printing failures such as invalid printer settings, with a test override hook and PRINTER_LOG entries.
+// ---
+
 #include "chrome/browser/printing/print_error_dialog.h"
 
 #include <utility>

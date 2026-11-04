@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintJobManager class header
+// summary: Declares PrintJobManager and PrintQueriesQueue for tracking active print jobs, queuing printer queries, and doc-done callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINT_JOB_MANAGER_H_
 #define CHROME_BROWSER_PRINTING_PRINT_JOB_MANAGER_H_
 

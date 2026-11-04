@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web printing Mojo type converters declaration
+// summary: Declares a Mojo TypeConverter specialization from PrinterSemanticCapsAndDefaults to blink WebPrinterAttributes.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_WEB_API_WEB_PRINTING_TYPE_CONVERTERS_H_
 #define CHROME_BROWSER_PRINTING_WEB_API_WEB_PRINTING_TYPE_CONVERTERS_H_
 

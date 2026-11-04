@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search preload progress service factory header
+// summary: Declares SearchPreloadProgressServiceFactory, a ProfileKeyedServiceFactory providing per-profile access to SearchPreloadProgressService.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PRERENDER_SEARCH_PRELOAD_PROGRESS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PRELOADING_PRERENDER_SEARCH_PRELOAD_PROGRESS_SERVICE_FACTORY_H_
 

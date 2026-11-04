@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference for the printing directory
+summary: Points to the shared printing OWNERS file that lists the approvers for changes in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloading feature flag definitions
+// summary: Defines Chromium feature flags and parameters for preloading, including DSE Prewarm, Prerender2 compositor warm-up, and Omnibox DUI prerendering.
+// ---
+
 #include "chrome/browser/preloading/preloading_features.h"
 
 namespace features {

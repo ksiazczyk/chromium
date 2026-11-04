@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search preload progress service implementation
+// summary: Implements a keyed service that tracks ongoing search prewarms, throttles search preloads, and enters a blackout period after bad HTTP responses.
+// ---
+
 #include "chrome/browser/preloading/prerender/search_preload_progress_service.h"
 
 #include <utility>

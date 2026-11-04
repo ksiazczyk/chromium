@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test print view manager implementation
+// summary: Implements a test PrintViewManager that starts printing from browser tests and can simulate PDF conversion errors on Windows.
+// ---
+
 #include "chrome/browser/printing/test_print_view_manager.h"
 
 #include <functional>

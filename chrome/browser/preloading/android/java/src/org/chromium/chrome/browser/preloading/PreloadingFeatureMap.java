@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadingFeatureMap
+// summary: Java accessor for the native preloading feature map, exposing checks for prewarming triggers on zero-suggest prefetch and autocomplete.
+// ---
+
 package org.chromium.chrome.browser.preloading;
 
 import org.jni_zero.JNINamespace;

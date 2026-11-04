@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchPreloadPipelineManager class declaration
+// summary: Declares the WebContentsUserData manager that starts preloads in response to Omnibox events and tracks pipelines per WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_SEARCH_PRELOAD_SEARCH_PRELOAD_PIPELINE_MANAGER_H_
 #define CHROME_BROWSER_PRELOADING_SEARCH_PRELOAD_SEARCH_PRELOAD_PIPELINE_MANAGER_H_
 

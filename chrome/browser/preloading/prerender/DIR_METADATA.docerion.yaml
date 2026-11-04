@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Prerender directory metadata
+summary: Points the prerender directory to shared metadata in the content prerender folder for review and ownership routing.

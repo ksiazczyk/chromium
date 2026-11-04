@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web printing utility helpers declaration
+// summary: Declares the internal FindAdvancedCapability helper for looking up advanced printer capabilities by name.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_WEB_API_WEB_PRINTING_UTILS_H_
 #define CHROME_BROWSER_PRINTING_WEB_API_WEB_PRINTING_UTILS_H_
 

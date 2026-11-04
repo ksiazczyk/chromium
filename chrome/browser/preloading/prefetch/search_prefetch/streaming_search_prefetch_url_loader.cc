@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Streaming search prefetch URL loader implementation
+// summary: Implements a URL loader that streams a search prefetch response to navigations as it arrives from the network, using Mojo data pipes for the handoff.
+// ---
+
 #include "chrome/browser/preloading/prefetch/search_prefetch/streaming_search_prefetch_url_loader.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped prewarm feature list implementation
+// summary: Implements a test helper that enables or disables DSE Prewarm features with fixed parameters for a given PrewarmState.
+// ---
+
 #include "chrome/browser/preloading/scoped_prewarm_feature_list.h"
 
 #include "chrome/browser/preloading/preloading_features.h"

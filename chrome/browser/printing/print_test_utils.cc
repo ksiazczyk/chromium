@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print test utilities implementation
+// summary: Implements shared printing test helpers such as sample paper sizes, print tickets, default and user-modified print settings, and a simplified StartPrint.
+// ---
+
 #include "chrome/browser/printing/print_test_utils.h"
 
 #include <string>

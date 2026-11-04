@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the privacy directory
+summary: Include rule allowing the privacy directory to depend on the Android browser UI styles component.

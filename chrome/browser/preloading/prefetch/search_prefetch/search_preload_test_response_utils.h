@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search preload test response utils interface
+// summary: Declares test helpers and a response controller that let browser tests defer HTTP response headers or bodies and dispatch the delayed parts on demand.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PREFETCH_SEARCH_PREFETCH_SEARCH_PRELOAD_TEST_RESPONSE_UTILS_H_
 #define CHROME_BROWSER_PRELOADING_PREFETCH_SEARCH_PREFETCH_SEARCH_PRELOAD_TEST_RESPONSE_UTILS_H_
 

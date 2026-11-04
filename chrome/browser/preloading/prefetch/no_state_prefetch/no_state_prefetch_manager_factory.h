@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchManagerFactory class declaration
+// summary: Declares the singleton factory that owns NoStatePrefetchManagers, associates them with profiles and cleans them up on profile destruction.
+// ---
+
 #ifndef CHROME_BROWSER_PRELOADING_PREFETCH_NO_STATE_PREFETCH_NO_STATE_PREFETCH_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_PRELOADING_PREFETCH_NO_STATE_PREFETCH_NO_STATE_PREFETCH_MANAGER_FACTORY_H_
 

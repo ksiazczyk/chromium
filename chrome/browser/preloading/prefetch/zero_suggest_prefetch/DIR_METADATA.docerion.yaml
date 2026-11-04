@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Zero-suggest prefetch directory metadata
+summary: Declares the UI>Browser>Omnibox Monorail component and Buganizer component ID used for issue tracking in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPrintViewManagerForRequestPreview test helper
+// summary: Declares a PrintViewManager test helper that synchronises browser tests with asynchronous RequestPrintPreview calls using a quit closure.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_TEST_PRINT_VIEW_MANAGER_FOR_REQUEST_PREVIEW_H_
 #define CHROME_BROWSER_PRINTING_TEST_PRINT_VIEW_MANAGER_FOR_REQUEST_PREVIEW_H_
 

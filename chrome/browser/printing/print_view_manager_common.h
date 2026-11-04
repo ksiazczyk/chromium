@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print view manager common helpers header
+// summary: Declares functions to start printing, basic printing, and context-menu node printing, and to resolve the frame or WebContents to print.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINT_VIEW_MANAGER_COMMON_H_
 #define CHROME_BROWSER_PRINTING_PRINT_VIEW_MANAGER_COMMON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search preload progress service factory implementation
+// summary: Implements the profile-keyed factory that creates and provides SearchPreloadProgressService instances per profile.
+// ---
+
 #include "chrome/browser/preloading/prerender/search_preload_progress_service_factory.h"
 
 #include "chrome/browser/preloading/prerender/search_preload_progress_service.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print browser test base class header
+// summary: Declares the PrintBrowserTest base class with helpers to add test printers, start printing, wait for preview, and intercept print messages.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINT_BROWSERTEST_H_
 #define CHROME_BROWSER_PRINTING_PRINT_BROWSERTEST_H_
 

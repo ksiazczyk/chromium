@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Preloading issue tracker metadata
+summary: Maps the preloading directory to the Internals>Preload monorail component and a Buganizer component for issue routing.

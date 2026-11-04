@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview sticky settings class declaration
+// summary: Declares the PrintPreviewStickySettings singleton that remembers sticky print preview settings and exposes recently used printer lists and ranks.
+// ---
+
 #ifndef CHROME_BROWSER_PRINTING_PRINT_PREVIEW_STICKY_SETTINGS_H_
 #define CHROME_BROWSER_PRINTING_PRINT_PREVIEW_STICKY_SETTINGS_H_
 

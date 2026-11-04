@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF to EMF converter browser tests
+// summary: Windows browser tests for the PDF to EMF converter, checking page counts, EMF headers, and conversion output against expected data.
+// ---
+
 #include "chrome/browser/printing/pdf_to_emf_converter.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print view manager common helpers implementation
+// summary: Implements helpers that pick the correct render frame and start printing via the appropriate PrintViewManagerBase subclass.
+// ---
+
 #include "chrome/browser/printing/print_view_manager_common.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar preload pipeline manager implementation
+// summary: Implements the per-WebContents manager that creates, resets, and delegates to bookmark bar preload pipelines across navigations.
+// ---
+
 #include "chrome/browser/preloading/bookmarkbar_preload/bookmarkbar_preload_pipeline_manager.h"
 
 #include "chrome/browser/preloading/bookmarkbar_preload/bookmarkbar_preload_pipeline.h"
