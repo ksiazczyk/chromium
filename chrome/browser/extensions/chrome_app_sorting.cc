@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAppSorting implementation
+// summary: Implements app page and launch ordinal management for the NTP, including ordinal creation, migration of deprecated app index preferences, and web app integration.
+// ---
+
 #include "chrome/browser/extensions/chrome_app_sorting.h"
 
 #include <algorithm>

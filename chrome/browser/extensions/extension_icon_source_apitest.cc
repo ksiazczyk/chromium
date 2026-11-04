@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension icon source browser test
+// summary: Browser tests verifying that extension icons load through the icon source, that the management permission is required to display them, and that invalid icon URLs and incognito windows are handled correctly.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/browser/profiles/profile.h"

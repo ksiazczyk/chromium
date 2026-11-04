@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocked action waiter implementation
+// summary: Implements a test helper that observes the extension action runner and quits a run loop once a blocked action is added.
+// ---
+
 #include "chrome/browser/extensions/blocked_action_waiter.h"
 
 #include "base/run_loop.h"

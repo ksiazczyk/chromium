@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI language model extension browser test
+// summary: Parameterized browser test verifying extension access to the AI Prompt API language model across feature flag and kill switch variants.
+// ---
+
 #include <tuple>
 #include <vector>
 

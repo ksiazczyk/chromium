@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension frame host header
+// summary: Declares ChromeExtensionFrameHost, the Chrome-specific frame host handling script injection permissions and extension frame events.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSION_FRAME_HOST_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSION_FRAME_HOST_H_
 

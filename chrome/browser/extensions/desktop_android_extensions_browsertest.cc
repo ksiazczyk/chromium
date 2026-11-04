@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop Android extensions smoke tests
+// summary: Smoke tests for the experimental desktop Android extensions build, exercising extension parsing, loading, navigation, and script injection.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/threading/thread_restrictions.h"
 #include "chrome/browser/extensions/chrome_test_extension_loader.h"

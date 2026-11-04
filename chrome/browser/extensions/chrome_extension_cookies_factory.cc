@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension cookies service factory
+// summary: Implements the profile-keyed factory that builds ChromeExtensionCookies service instances for regular, guest, and incognito browser contexts.
+// ---
+
 #include "chrome/browser/extensions/chrome_extension_cookies_factory.h"
 
 #include "chrome/browser/content_settings/cookie_settings_factory.h"

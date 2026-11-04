@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content verifier test utilities header
+// summary: Declares test helpers for content verifier tests, such as the downloader delegate and force-install provider.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CONTENT_VERIFIER_TEST_UTILS_H_
 #define CHROME_BROWSER_EXTENSIONS_CONTENT_VERIFIER_TEST_UTILS_H_
 

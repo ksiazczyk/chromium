@@ -4,6 +4,12 @@
 
 // Definition of helper functions for the ContextMenus API.
 
+// ---docerion
+// type: source
+// title: Context menu helpers header
+// summary: Declares helper functions and error strings for the extension context menus API.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CONTEXT_MENU_HELPERS_H_
 #define CHROME_BROWSER_EXTENSIONS_CONTEXT_MENU_HELPERS_H_
 

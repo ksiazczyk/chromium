@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event router forwarder header
+// summary: Declares a thread-safe forwarder that broadcasts extension events to event routers across active profiles.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EVENT_ROUTER_FORWARDER_H_
 #define CHROME_BROWSER_EXTENSIONS_EVENT_ROUTER_FORWARDER_H_
 

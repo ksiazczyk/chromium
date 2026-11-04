@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser window lookup utilities implementation
+// summary: Implements helpers that find browser windows by tab contents, profile, activation order, browser type, and ChromeOS workspace for extensions code.
+// ---
+
 #include "chrome/browser/extensions/browser_window_util.h"
 
 #include "chrome/browser/profiles/profile.h"

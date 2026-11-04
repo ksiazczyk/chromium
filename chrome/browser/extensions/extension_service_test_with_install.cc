@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension service test with install
+// summary: Implements a test fixture extending the extension service test base with CRX packing, install tracking and load error verification helpers.
+// ---
+
 #include "chrome/browser/extensions/extension_service_test_with_install.h"
 
 #include <algorithm>

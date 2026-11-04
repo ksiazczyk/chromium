@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension API binding performance browser tests
+// summary: Disabled local browser tests measuring extension API binding performance across many frames with and without content scripts.
+// ---
+
 #include "base/time/time.h"
 #include "chrome/browser/extensions/extension_browsertest.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

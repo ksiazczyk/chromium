@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAppIconLoader class header
+// summary: Declares ChromeAppIconLoader, an AppIconLoader that loads and updates Chrome app icons via ChromeAppIcon instances.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_APP_ICON_LOADER_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_APP_ICON_LOADER_H_
 

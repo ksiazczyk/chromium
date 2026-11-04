@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension allowlist service factory
+// summary: ProfileKeyedServiceFactory that builds ExtensionAllowlist instances shared between incognito and original browser contexts, depending on safe browsing services.
+// ---
+
 #include "chrome/browser/extensions/extension_allowlist_factory.h"
 
 #include "base/memory/ptr_util.h"

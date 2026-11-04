@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app icon loader
+// summary: Implements AppIconLoader using ChromeAppIcon to fetch, update and clear Chrome app icons for a profile, optionally for extensions only.
+// ---
+
 #include "chrome/browser/extensions/chrome_app_icon_loader.h"
 
 #include "chrome/browser/extensions/chrome_app_icon.h"

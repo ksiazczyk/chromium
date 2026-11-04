@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension error controller header
+// summary: Declares ExtensionErrorController, a keyed service that alerts users about blocklisted extensions and acknowledges them when the alert is accepted.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_ERROR_CONTROLLER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_ERROR_CONTROLLER_H_
 

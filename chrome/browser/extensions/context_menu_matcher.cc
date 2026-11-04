@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu matcher implementation
+// summary: Implements ContextMenuMatcher, which appends extension-provided context menu items to menu models with reserved command ID ranges and separator handling.
+// ---
+
 #include "chrome/browser/extensions/context_menu_matcher.h"
 
 #include <string>

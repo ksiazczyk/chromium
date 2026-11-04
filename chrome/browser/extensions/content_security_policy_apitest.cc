@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content security policy API test
+// summary: API tests for extension content security policy, including Manifest V3 localhost source allowances.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "chrome/browser/extensions/chrome_test_extension_loader.h"
 #include "chrome/browser/extensions/extension_apitest.h"

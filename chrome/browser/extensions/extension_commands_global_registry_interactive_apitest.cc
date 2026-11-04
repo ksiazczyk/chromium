@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Global extension commands interactive API test
+// summary: Interactive browser test verifying global extension shortcuts work when Chrome lacks focus and that non-global commands are not treated as global.
+// ---
+
 #include "base/functional/callback_helpers.h"
 #include "build/build_config.h"
 #include "build/chromeos_buildflags.h"

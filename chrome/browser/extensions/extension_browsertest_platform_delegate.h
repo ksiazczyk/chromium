@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension browser test platform delegate header
+// summary: Declares a delegate interface that isolates platform-specific logic such as profile access, URL opening and app launching for extension browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_BROWSERTEST_PLATFORM_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_BROWSERTEST_PLATFORM_DELEGATE_H_
 

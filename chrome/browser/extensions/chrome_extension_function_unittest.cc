@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome extension function unit tests
+// summary: Unit tests for extension function validation, covering success and failure responses, browser shutdown behavior, and destruction without response on unload.
+// ---
+
 #include <memory>
 
 #include "base/dcheck_is_on.h"

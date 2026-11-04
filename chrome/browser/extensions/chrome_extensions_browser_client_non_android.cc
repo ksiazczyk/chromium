@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extensions browser client for non-Android platforms
+// summary: Non-Android implementation of ChromeExtensionsBrowserClient wiring the process manager, safe browsing delegate, ControlledFrame URL loading, and WebView cleanup.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

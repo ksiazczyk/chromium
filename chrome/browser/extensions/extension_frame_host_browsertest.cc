@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension frame host browser tests
+// summary: Browser tests for extension frame host request handling using test frame host and web contents observer overrides.
+// ---
+
 #include "extensions/browser/extension_frame_host.h"
 
 #include <string>

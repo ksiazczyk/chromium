@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension context menu model header
+// summary: Declares ExtensionMenuModel, a menu model delegate holding extension context menu items for render frame and tab menus on Android.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_MENU_MODEL_ANDROID_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_MENU_MODEL_ANDROID_H_
 

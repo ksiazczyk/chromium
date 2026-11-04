@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corrupted extension reinstaller factory declaration
+// summary: Declares CorruptedExtensionReinstallerFactory, a profile-keyed service factory sharing reinstaller instances between incognito and original contexts.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CORRUPTED_EXTENSION_REINSTALLER_FACTORY_H_
 #define CHROME_BROWSER_EXTENSIONS_CORRUPTED_EXTENSION_REINSTALLER_FACTORY_H_
 

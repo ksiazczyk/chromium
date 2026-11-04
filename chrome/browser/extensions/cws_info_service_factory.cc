@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWS info service profile factory
+// summary: Implements the profile-keyed service factory that creates a CWSInfoService per profile and registers CWS info timestamp prefs.
+// ---
+
 #include "chrome/browser/extensions/cws_info_service_factory.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension commands global registry
+// summary: Manages global keyboard shortcuts for extension commands, registering accelerators with the system and scoping them to the active browser window.
+// ---
+
 #include "chrome/browser/extensions/extension_commands_global_registry.h"
 
 #include "base/functional/bind.h"

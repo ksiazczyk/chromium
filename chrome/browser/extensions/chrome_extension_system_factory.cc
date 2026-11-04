@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeExtensionSystemFactory implementation
+// summary: Implements the profile-keyed service factories for ChromeExtensionSystem and its shared instance, declaring dependencies on other extension services.
+// ---
+
 #include "chrome/browser/extensions/chrome_extension_system_factory.h"
 
 #include "chrome/browser/extensions/blocklist_factory.h"

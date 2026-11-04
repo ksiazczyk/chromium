@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension action runner unit tests
+// summary: Unit tests for ExtensionActionRunner's internal logic on when extension script injection is allowed or denied and how executions are counted.
+// ---
+
 #include "chrome/browser/extensions/extension_action_runner.h"
 
 #include <stddef.h>

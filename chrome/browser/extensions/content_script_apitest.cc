@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script API test
+// summary: API tests covering content script injection, matching, and related extension behaviors in Chrome.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

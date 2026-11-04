@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-origin isolation browser tests
+// summary: Browser tests checking cross-origin isolation via COEP and COOP manifest keys for extensions, including renderer process limits and service workers.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/strings/stringprintf.h"
 #include "base/strings/to_string.h"

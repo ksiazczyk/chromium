@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extensions browser client implementation
+// summary: Implements the Chrome-specific ExtensionsBrowserClient with knowledge of profiles, browser contexts, incognito, activity logging and extension updates.
+// ---
+
 #include "chrome/browser/extensions/chrome_extensions_browser_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device permissions dialog controller
+// summary: Declares the controller that presents the USB device permission chooser dialog for extensions, tracking device names for display.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_DEVICE_PERMISSIONS_DIALOG_CONTROLLER_H_
 #define CHROME_BROWSER_EXTENSIONS_DEVICE_PERMISSIONS_DIALOG_CONTROLLER_H_
 

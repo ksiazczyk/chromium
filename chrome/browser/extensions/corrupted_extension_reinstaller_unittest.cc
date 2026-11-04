@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Corrupted extension reinstaller unit tests
+// summary: Unit tests verifying that corrupted extension reinstalls retry with backoff and that duplicate update checks are not scheduled while one is in flight.
+// ---
+
 #include "chrome/browser/extensions/corrupted_extension_reinstaller.h"
 
 #include <utility>

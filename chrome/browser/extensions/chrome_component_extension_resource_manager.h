@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome component extension resource manager interface
+// summary: Declares the Chrome-side manager that identifies component extension resources and supplies template replacements for extension pages.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_COMPONENT_EXTENSION_RESOURCE_MANAGER_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_COMPONENT_EXTENSION_RESOURCE_MANAGER_H_
 

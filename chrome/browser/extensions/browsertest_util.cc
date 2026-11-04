@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension browser test helper functions
+// summary: Implements test helpers that launch app browsers, add tabs, count window controllers per profile, and initialize the ChromeOS extension cache.
+// ---
+
 #include "chrome/browser/extensions/browsertest_util.h"
 
 #include <memory>

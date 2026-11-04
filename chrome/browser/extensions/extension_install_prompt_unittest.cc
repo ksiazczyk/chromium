@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension install prompt unit tests
+// summary: Unit tests for ExtensionInstallPrompt covering permission warning dialogs, icon loading, and dialog show behavior using a testing profile.
+// ---
+
 #include "chrome/browser/extensions/extension_install_prompt.h"
 
 #include <stddef.h>

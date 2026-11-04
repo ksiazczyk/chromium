@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAppSorting class declaration
+// summary: Declares ChromeAppSorting, the AppSorting implementation that tracks page and launch ordinals for extensions and apps and observes registry and web app changes.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_APP_SORTING_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_APP_SORTING_H_
 

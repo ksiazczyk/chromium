@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension cookies implementation
+// summary: Implements the per-profile cookie store for extensions, creating restricted cookie managers and honoring cookie settings and privacy sandbox preferences.
+// ---
+
 #include "chrome/browser/extensions/chrome_extension_cookies.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension API unittest base class declaration
+// summary: Declares the ExtensionApiUnittest base class for calling extension API functions in unit tests with a loaded test extension.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_API_UNITTEST_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_API_UNITTEST_H_
 

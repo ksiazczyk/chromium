@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeExtensionTest base implementation
+// summary: Implements the ChromeExtensionTest fixture, setting up a testing profile with a test extension system, registrar, and registry for unit tests.
+// ---
+
 #include "chrome/browser/extensions/chrome_extension_test.h"
 
 #include "chrome/browser/extensions/test_extension_system.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension cookies factory header
+// summary: Declares ChromeExtensionCookiesFactory, a ProfileKeyedServiceFactory providing per-browser-context ChromeExtensionCookies instances.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSION_COOKIES_FACTORY_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSION_COOKIES_FACTORY_H_
 

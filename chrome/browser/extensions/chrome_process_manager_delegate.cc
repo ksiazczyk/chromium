@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome process manager delegate implementation
+// summary: Implements rules for when extension background pages are allowed or deferred, including ChromeOS login screen and guest session checks.
+// ---
+
 #include "chrome/browser/extensions/chrome_process_manager_delegate.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action runner header
+// summary: Declares ExtensionActionRunner, a WebContentsObserver that runs extension actions, executes blocked actions, and grants activeTab permissions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_ACTION_RUNNER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_ACTION_RUNNER_H_
 

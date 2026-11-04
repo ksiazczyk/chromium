@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Component extension browser tests
+// summary: Browser tests for component extensions, covering MojoJS availability for component extensions on ChromeOS and service worker-based component extension updates across browser restarts.
+// ---
+
 #include "base/auto_reset.h"
 #include "base/command_line.h"
 #include "base/strings/stringprintf.h"

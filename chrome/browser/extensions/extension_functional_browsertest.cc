@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension functional browser tests
+// summary: Browser tests covering silent CRX installation and extension enable, disable, and incognito availability state changes.
+// ---
+
 #include <stddef.h>
 
 #include "base/files/file_util.h"

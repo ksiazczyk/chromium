@@ -5,6 +5,12 @@
 // This file contains tests for extension loading, reloading, and
 // unloading behavior.
 
+// ---docerion
+// type: test
+// title: Extension loading browser tests
+// summary: Browser tests covering extension loading, reloading, and unloading behavior, including upgrades of extensions that override the new tab page.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/run_loop.h"
 #include "base/strings/stringprintf.h"

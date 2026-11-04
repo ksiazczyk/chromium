@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension service test base implementation
+// summary: Implements shared test infrastructure that builds testing profiles and initializes an ExtensionService for extension unit tests, including ChromeOS setup.
+// ---
+
 #include "chrome/browser/extensions/extension_service_test_base.h"
 
 #include <utility>

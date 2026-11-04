@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the extensions directory
+summary: Owner list for the directory with per-file owners for networking, GCM, safety check, security review and BUILD.gn changes.

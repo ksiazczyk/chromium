@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension context menu model implementation
+// summary: Implements the context menu for extension icons, including page access controls, uninstall, side panel toggling, policy checks and metrics logging.
+// ---
+
 #include "chrome/browser/extensions/extension_context_menu_model.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension File API browser tests
+// summary: Browser tests running extension test cases for File API access, XHR on persistent filesystem, and background page quota requests.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/test/browser_test.h"
 

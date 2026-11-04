@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome extension function details unit tests
+// summary: Unit test verifying GetCurrentWindowController returns a standalone WindowController without dereferencing a null BrowserWindowInterface.
+// ---
+
 #include "chrome/browser/extensions/chrome_extension_function_details.h"
 
 #include "base/memory/raw_ptr.h"

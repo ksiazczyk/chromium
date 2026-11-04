@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event router forwarder
+// summary: Implements broadcasting extension events to the event routers of all loaded profiles, including off-the-record profiles when requested.
+// ---
+
 #include "chrome/browser/extensions/event_router_forwarder.h"
 
 #include <stddef.h>

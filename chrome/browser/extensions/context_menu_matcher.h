@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu matcher class declaration
+// summary: Declares ContextMenuMatcher, shared code for showing extension and app context menu items, including command ID conversion and item appending helpers.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CONTEXT_MENU_MATCHER_H_
 #define CHROME_BROWSER_EXTENSIONS_CONTEXT_MENU_MATCHER_H_
 

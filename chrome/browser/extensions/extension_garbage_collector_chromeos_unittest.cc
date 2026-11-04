@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS extension garbage collector unit tests
+// summary: Unit tests verifying garbage collection of shared ChromeOS extension directories and prefs using a fake user manager and test cache directory.
+// ---
+
 #include "chrome/browser/extensions/extension_garbage_collector_chromeos.h"
 
 #include <memory>

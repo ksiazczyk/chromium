@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Extension management internal settings declarations
+// summary: Declares the IndividualSettings structure holding installation mode, update URL, permissions, and host restriction settings for managed extensions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_MANAGEMENT_INTERNAL_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_MANAGEMENT_INTERNAL_H_
 

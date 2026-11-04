@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action test utilities header
+// summary: Declares test helpers that count page actions for a WebContents and create a ToolbarActionsModel for a profile in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_ACTION_TEST_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_ACTION_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for extension browsertest utilities
+// summary: Browser tests verifying ExecuteScriptInBackgroundPage and related extension test helper methods, including deprecated variants and failure handling.
+// ---
+
 #include "extensions/browser/browsertest_util.h"
 
 #include <string>

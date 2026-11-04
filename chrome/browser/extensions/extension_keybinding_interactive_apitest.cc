@@ -5,6 +5,12 @@
 // This file contains UI interactive tests for the extensions commands API.
 // For non-UI interactive tests, see extension_keybinding_browsertest.cc.
 
+// ---docerion
+// type: test
+// title: Extension keybinding interactive API tests
+// summary: UI interactive tests for the extensions commands API, exercising keyboard shortcuts, action enabling, and toolbar behavior across platforms.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "build/build_config.h"
 #include "build/chromeos_buildflags.h"

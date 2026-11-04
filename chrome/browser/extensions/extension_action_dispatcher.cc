@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action dispatcher
+// summary: Implements dispatching extension action clicked events and notifying observers of action updates per tab.
+// ---
+
 #include "chrome/browser/extensions/extension_action_dispatcher.h"
 
 #include "base/lazy_instance.h"

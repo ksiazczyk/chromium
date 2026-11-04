@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App window always-on-top and fullscreen UI tests
+// summary: Browser tests verifying how an app window's always-on-top state interacts with entering and leaving fullscreen mode.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/apps/platform_apps/app_browsertest_util.h"
 #include "content/public/test/browser_test.h"

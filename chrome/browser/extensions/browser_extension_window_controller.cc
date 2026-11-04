@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser extension window controller implementation
+// summary: Implements the extension windows API controller for browser windows, mapping browser window state to tabs API window properties.
+// ---
+
 #include "chrome/browser/extensions/browser_extension_window_controller.h"
 
 #include <optional>

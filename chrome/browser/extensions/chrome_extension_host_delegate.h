@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeExtensionHostDelegate
+// summary: Declares the Chrome implementation of ExtensionHostDelegate, covering tab creation, media access requests, and picture-in-picture support for extension hosts.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSION_HOST_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSION_HOST_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS clipboard extension helper implementation
+// summary: Implements the ChromeOS helper that decodes PNG or JPEG image data and writes the decoded image plus additional data items to the clipboard for the clipboard extension API.
+// ---
+
 #include "chrome/browser/extensions/clipboard_extension_helper_chromeos.h"
 
 #include <memory>

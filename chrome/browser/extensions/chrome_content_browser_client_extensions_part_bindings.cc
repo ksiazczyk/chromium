@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions part renderer interface bindings
+// summary: Exposes extension Mojo interfaces such as RendererHost, WebRequestHost, ServiceWorkerHost, and EventRouter to renderers and extension service workers.
+// ---
+
 #include "base/functional/bind.h"
 #include "chrome/browser/extensions/chrome_content_browser_client_extensions_part.h"
 #include "components/guest_view/buildflags/buildflags.h"

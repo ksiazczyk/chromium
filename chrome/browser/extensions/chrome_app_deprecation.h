@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app deprecation header
+// summary: Declares helpers to detect unsupported deprecated Chrome apps and preinstalled app IDs on Windows, Mac and Linux, plus a testing flag.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_APP_DEPRECATION_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_APP_DEPRECATION_H_
 

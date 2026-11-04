@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome app API browser test
+// summary: Browser test verifying how window.chrome.app reports isInstalled, installState and runningState in main frames and iframes before and after app installation.
+// ---
+
 #include <memory>
 #include <string>
 

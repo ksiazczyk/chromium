@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension browser window helper implementation
+// summary: Implements extension-related browser window management, closing extension-owned tabs and unmuting tabs when an extension is unloaded.
+// ---
+
 #include "chrome/browser/extensions/extension_browser_window_helper.h"
 
 #include "base/check_deref.h"

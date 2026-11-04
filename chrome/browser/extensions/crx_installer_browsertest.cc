@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CRX installer browser tests
+// summary: Browser tests covering extension CRX installation flows, install prompts, errors, and related profile and sync behavior.
+// ---
+
 #include "extensions/browser/crx_installer.h"
 
 #include <stddef.h>

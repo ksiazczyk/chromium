@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension navigation throttle unit tests
+// summary: Unit tests verifying that ExtensionNavigationThrottle blocks navigations to extension resources that are not web accessible.
+// ---
+
 #include "extensions/browser/extension_navigation_throttle.h"
 
 #include <memory>

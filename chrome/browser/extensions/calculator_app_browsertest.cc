@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calculator app browser test
+// summary: Browser test that loads the calculator app's automatic test page from test data and asserts the in-page test run succeeds.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/path_service.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

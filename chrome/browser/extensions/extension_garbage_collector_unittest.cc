@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension garbage collector unit tests
+// summary: Unit tests verifying that the extension garbage collector cleans up leftover files of partially deleted or no-longer-installed unpacked extensions during startup.
+// ---
+
 #include "chrome/browser/extensions/extension_garbage_collector.h"
 
 #include <stddef.h>

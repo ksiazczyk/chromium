@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension context menu model implementation
+// summary: Implements a SimpleMenuModel delegate that populates extension context menu items for render frame and tab context menus on Android.
+// ---
+
 #include "chrome/browser/extensions/extension_menu_model_android.h"
 
 #include <string>

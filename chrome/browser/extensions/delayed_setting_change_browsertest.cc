@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delayed extension setting change browser tests
+// summary: Parameterized browser tests checking incognito and file URL access warnings and toggles on the details page of policy-installed extensions.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/strings/utf_string_conversions.h"
 #include "base/values.h"

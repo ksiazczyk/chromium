@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeAppIcon unit tests
+// summary: Unit tests for ChromeAppIcon covering icon creation, resize functions, and icon update notifications, including ChromeOS-specific ARC app cases.
+// ---
+
 #include "chrome/browser/extensions/chrome_app_icon.h"
 
 #include <memory>

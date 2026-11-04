@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Zip File Installer Implementation
+// summary: Creates a ZipFileInstaller done callback that loads the unzipped extension via UnpackedInstaller and reports load errors on failure.
+// ---
+
 #include "chrome/browser/extensions/chrome_zipfile_installer.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension API test base implementation
+// summary: Implements the ExtensionApiTest browser test base class, including embedded test server setup and RunExtensionTest flows for extension API tests.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 
 #include <stddef.h>

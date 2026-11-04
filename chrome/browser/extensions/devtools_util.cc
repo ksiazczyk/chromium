@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools utilities for extension backgrounds
+// summary: Implements helpers that open DevTools windows for extension service worker backgrounds and background pages, starting them if needed.
+// ---
+
 #include "chrome/browser/extensions/devtools_util.h"
 
 #include "base/functional/bind.h"

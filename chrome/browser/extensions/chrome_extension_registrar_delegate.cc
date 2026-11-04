@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeExtensionRegistrarDelegate implementation
+// summary: Implements the Chrome-layer ExtensionRegistrar delegate handling extension install, uninstall, reload, disable reasons, and permission increase checks.
+// ---
+
 #include "chrome/browser/extensions/chrome_extension_registrar_delegate.h"
 
 #include <set>

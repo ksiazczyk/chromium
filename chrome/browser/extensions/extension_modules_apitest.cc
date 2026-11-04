@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension modules API tests
+// summary: Browser tests checking that extensions can load ES modules and import modules from web URLs served over HTTPS.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/strings/stringprintf.h"
 #include "chrome/browser/extensions/extension_apitest.h"

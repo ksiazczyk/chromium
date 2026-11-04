@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension function details implementation
+// summary: Implements Chrome-specific helpers for extension functions, resolving the current window controller and a native window for UI surfaces.
+// ---
+
 #include "chrome/browser/extensions/chrome_extension_function_details.h"
 
 #include "chrome/browser/extensions/browser_extension_window_controller.h"

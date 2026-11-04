@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device permissions dialog controller
+// summary: Bridges the USB device permissions prompt to the chooser dialog, handling device listing, selection, and permission grants.
+// ---
+
 #include "chrome/browser/extensions/device_permissions_dialog_controller.h"
 
 #include "chrome/browser/chooser_controller/title_util.h"

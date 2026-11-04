@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeExtensionTest smoke tests
+// summary: Unit tests that smoke-test the ChromeExtensionTest suite itself by adding a simple extension and verifying it becomes enabled.
+// ---
+
 #include "chrome/browser/extensions/chrome_extension_test.h"
 
 #include "extensions/browser/extension_registrar.h"

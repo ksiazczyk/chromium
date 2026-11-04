@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data localStorage test helpers
+// summary: Implements helpers that create, retrieve, and check localStorage entries for a storage key in extension browsing data tests.
+// ---
+
 #include "chrome/browser/extensions/browsing_data_test_utils.h"
 
 #include <algorithm>

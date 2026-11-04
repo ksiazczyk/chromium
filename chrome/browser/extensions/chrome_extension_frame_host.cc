@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension frame host implementation
+// summary: Implements Chrome's ExtensionFrameHost, handling script injection permission requests, app install state queries, watched page changes, and console messages.
+// ---
+
 #include "chrome/browser/extensions/chrome_extension_frame_host.h"
 
 #include "chrome/browser/extensions/activity_log/activity_log.h"

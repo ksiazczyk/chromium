@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension data deleter header
+// summary: Declares DataDeleter, which starts removal of an extension's cookies and storage data and signals completion via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_DATA_DELETER_H_
 #define CHROME_BROWSER_EXTENSIONS_DATA_DELETER_H_
 

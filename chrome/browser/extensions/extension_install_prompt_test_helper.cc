@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension install prompt test helper implementation
+// summary: Implements a test helper that captures ExtensionInstallPrompt callback payloads and results, optionally quitting a run loop when the callback fires.
+// ---
+
 #include "chrome/browser/extensions/extension_install_prompt_test_helper.h"
 
 #include <memory>

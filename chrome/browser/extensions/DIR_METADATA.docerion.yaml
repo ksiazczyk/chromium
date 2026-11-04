@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the extensions directory
+summary: Directory metadata pointing to the shared extensions COMMON_METADATA for ownership and review routing.

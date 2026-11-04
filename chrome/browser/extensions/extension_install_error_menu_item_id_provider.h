@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install error menu item ID provider header
+// summary: Declares a helper class that provides unused, unique menu item IDs within a fixed range for global errors requiring menu entries.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_INSTALL_ERROR_MENU_ITEM_ID_PROVIDER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_INSTALL_ERROR_MENU_ITEM_ID_PROVIDER_H_
 

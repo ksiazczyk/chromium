@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeComponentExtensionResourceManager implementation
+// summary: Maps component extension resource paths to resource IDs and manages i18n template replacements, with platform-specific entries for ChromeOS, PDF, and NTP resources.
+// ---
+
 #include "chrome/browser/extensions/chrome_component_extension_resource_manager.h"
 
 #include <map>

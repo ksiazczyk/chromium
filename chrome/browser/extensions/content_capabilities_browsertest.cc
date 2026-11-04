@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content capabilities browser test
+// summary: Browser tests for the extension content capabilities manifest, checking granted permissions on matched web pages.
+// ---
+
 #include <string>
 #include <string_view>
 #include <vector>

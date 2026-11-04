@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension function registration browser test
+// summary: Browser test checking that all registered extension functions have unique names and histogram values, with platform-specific registration counts.
+// ---
+
 #include <algorithm>
 #include <map>
 #include <set>

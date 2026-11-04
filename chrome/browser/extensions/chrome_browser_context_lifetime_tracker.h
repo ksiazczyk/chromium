@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBrowserContextLifetimeTracker class declaration
+// summary: Declares the Chrome singleton BrowserContextLifetimeTracker that lets extensions code observe off-the-record profile lifecycles without duplicating ProfileObserver plumbing.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_BROWSER_CONTEXT_LIFETIME_TRACKER_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_BROWSER_CONTEXT_LIFETIME_TRACKER_H_
 

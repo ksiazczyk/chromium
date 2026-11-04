@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeExtensionTest
+// summary: Declares a canonical unit test fixture for the extensions platform that provides a test profile and common extension service accessors.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSION_TEST_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSION_TEST_H_
 

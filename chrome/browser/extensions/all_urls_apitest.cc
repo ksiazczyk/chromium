@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: All URLs scripting extension API tests
+// summary: API test verifying that allowlisted and regular extensions can run content scripts and execute scripts across data, HTTP and extension URLs.
+// ---
+
 #include "base/check_op.h"
 #include "base/command_line.h"
 #include "build/build_config.h"

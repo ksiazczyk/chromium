@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAppIconServiceFactory implementation
+// summary: Implements the profile-keyed factory that builds and hands out ChromeAppIconService instances for browser contexts, depending on ExtensionRegistryFactory.
+// ---
+
 #include "chrome/browser/extensions/chrome_app_icon_service_factory.h"
 
 #include "chrome/browser/extensions/chrome_app_icon_service.h"

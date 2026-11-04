@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension web contents observer implementation
+// summary: Implements the Chrome extension web contents observer, covering frame initialization, reloading terminated extensions and extension JavaScript error reporting.
+// ---
+
 #include "chrome/browser/extensions/chrome_extension_web_contents_observer.h"
 
 #include <memory>

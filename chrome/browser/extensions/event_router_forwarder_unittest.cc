@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event router forwarder unit tests
+// summary: Unit tests verifying that EventRouterForwarder broadcasts events to profiles and handles incognito dispatch correctly.
+// ---
+
 #include "chrome/browser/extensions/event_router_forwarder.h"
 
 #include <utility>

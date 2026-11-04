@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension error controller factory
+// summary: Profile-keyed service factory that creates ExtensionErrorController instances with dependencies on extension registry, prefs, and system factories.
+// ---
+
 #include "chrome/browser/extensions/extension_error_controller_factory.h"
 
 #include "base/check.h"

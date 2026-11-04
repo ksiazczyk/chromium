@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension garbage collector implementation
+// summary: Implements cleanup of leftover extension install directories, obsolete version folders, temp files, and prefs of unpacked extensions whose files are gone.
+// ---
+
 #include "chrome/browser/extensions/extension_garbage_collector.h"
 
 #include <stddef.h>

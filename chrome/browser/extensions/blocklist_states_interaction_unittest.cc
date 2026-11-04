@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blocklist states interaction unit tests
+// summary: Unit tests verifying how Safe Browsing blocklist states, Omaha attribute blocklists and user actions interact to enable or disable extensions.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "chrome/browser/extensions/extension_service.h"
 #include "chrome/browser/extensions/extension_service_test_base.h"

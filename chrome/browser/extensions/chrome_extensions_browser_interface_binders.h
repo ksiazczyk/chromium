@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension interface binder declarations
+// summary: Declares functions that populate Mojo binder maps for extension render frames and service workers in Chrome.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSIONS_BROWSER_INTERFACE_BINDERS_H_
 #define CHROME_BROWSER_EXTENSIONS_CHROME_EXTENSIONS_BROWSER_INTERFACE_BINDERS_H_
 
