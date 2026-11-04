@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest task implementation
+// summary: Implements GuestTask, which titles guest tasks with the guest view prefix and reports them as Task::GUEST entries.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/guest_task.h"
 
 #include "components/guest_view/browser/guest_view_base.h"

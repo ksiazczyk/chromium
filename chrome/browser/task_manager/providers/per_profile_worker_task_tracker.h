@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-profile worker task tracker header
+// summary: Declares PerProfileWorkerTaskTracker, a helper owned by WorkerTaskProvider that tracks workers associated with one profile and notifies about their lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_PER_PROFILE_WORKER_TASK_TRACKER_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_PER_PROFILE_WORKER_TASK_TRACKER_H_
 

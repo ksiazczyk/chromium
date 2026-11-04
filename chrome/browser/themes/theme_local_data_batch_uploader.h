@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme local data batch uploader header
+// summary: Declares ThemeLocalDataBatchUploader and its delegate interface for describing and uploading local theme data to sync.
+// ---
+
 #ifndef CHROME_BROWSER_THEMES_THEME_LOCAL_DATA_BATCH_UPLOADER_H_
 #define CHROME_BROWSER_THEMES_THEME_LOCAL_DATA_BATCH_UPLOADER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsTaskProvider implementation
+// summary: Implements the task manager provider that observes WebContents entries and creates, updates, and clears renderer tasks for their frames, including prerender, back-forward cache, and MPArch guests.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/web_contents_task_provider.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderNewTabTag header for prerender new tab WebContents tag
+// summary: Declares PrerenderNewTabTag, a WebContentsTag that marks WebContents created by PrerenderNewTabHandle for prerendering in a new tab and creates their task manager tasks.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_PRERENDER_NEW_TAB_TAG_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_PRERENDER_NEW_TAB_TAG_H_
 

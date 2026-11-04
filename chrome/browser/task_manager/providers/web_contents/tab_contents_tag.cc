@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContentsTag implementation
+// summary: Implements TabContentsTag, a WebContentsTag whose CreateTask builds a TabContentsTask for tabs owned by the TabStripModel.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/tab_contents_tag.h"
 
 #include <memory>

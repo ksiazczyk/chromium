@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchTag class declaration
+// summary: Declares the concrete WebContentsTag user data type for WebContents owned by the NoStatePrefetchManager.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_NO_STATE_PREFETCH_TAG_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_NO_STATE_PREFETCH_TAG_H_
 

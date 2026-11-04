@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme syncable service unit tests
+// summary: Unit tests for ThemeSyncableService covering theme sync merge behavior, preference migration, and extension theme installation across platforms.
+// ---
+
 #include "chrome/browser/themes/theme_syncable_service.h"
 
 #include <algorithm>

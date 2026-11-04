@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsTags factory declaration
+// summary: Declares static factory methods that tag WebContents instances so their associated render processes show up in the task manager.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_WEB_CONTENTS_TAGS_H_
 #define CHROME_BROWSER_TASK_MANAGER_WEB_CONTENTS_TAGS_H_
 

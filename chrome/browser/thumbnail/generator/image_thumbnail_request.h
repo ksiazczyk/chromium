@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageThumbnailRequest class declaration
+// summary: Declares a helper class that asynchronously generates a thumbnail for a local image file with a maximum size and reports the result via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_THUMBNAIL_GENERATOR_IMAGE_THUMBNAIL_REQUEST_H_
 #define CHROME_BROWSER_THUMBNAIL_GENERATOR_IMAGE_THUMBNAIL_REQUEST_H_
 

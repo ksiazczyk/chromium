@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JPEG thumbnail helper implementation
+// summary: Implements background tasks that resize, JPEG-encode, write, read and delete tab thumbnail files, including bulk deletion of stale JPEGs.
+// ---
+
 #include "chrome/browser/thumbnail/cc/jpeg_thumbnail_helper.h"
 
 #include <algorithm>

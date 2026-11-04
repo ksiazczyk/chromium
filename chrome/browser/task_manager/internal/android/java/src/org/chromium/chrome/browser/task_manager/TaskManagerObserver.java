@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskManagerObserver
+// summary: JNI observer interface with CalledByNative callbacks for task added, removed, refreshed, and unresponsive events, mirroring the C++ task_manager_observer.h.
+// ---
+
 package org.chromium.chrome.browser.task_manager;
 
 import org.jni_zero.CalledByNative;

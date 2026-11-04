@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskGroupSampler class header
+// summary: Declares TaskGroupSampler, which samples CPU, swapped memory, idle wakeups, open FD count and process priority on a blocking pool worker thread and reports results via UI-thread callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_SAMPLING_TASK_GROUP_SAMPLER_H_
 #define CHROME_BROWSER_TASK_MANAGER_SAMPLING_TASK_GROUP_SAMPLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Text detection include rules
+summary: Restricts allowed includes for the directory and adds special include rules for browser test and unit test files.

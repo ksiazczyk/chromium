@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETC1 thumbnail helper class declaration
+// summary: Declares Etc1ThumbnailHelper, which manages ETC1-compressed thumbnail files per tab id with compress, write, read, delete and decompress operations.
+// ---
+
 #ifndef CHROME_BROWSER_THUMBNAIL_CC_ETC1_THUMBNAIL_HELPER_H_
 #define CHROME_BROWSER_THUMBNAIL_CC_ETC1_THUMBNAIL_HELPER_H_
 

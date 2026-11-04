@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail UI resource class for tab thumbnails
+// summary: Declares the Thumbnail class that wraps a tab thumbnail bitmap as a cc UI resource, exposing tab id, timestamp, scale and bitmap accessors for the thumbnail cache.
+// ---
+
 #ifndef CHROME_BROWSER_THUMBNAIL_CC_THUMBNAIL_H_
 #define CHROME_BROWSER_THUMBNAIL_CC_THUMBNAIL_H_
 

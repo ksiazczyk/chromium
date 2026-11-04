@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchTask implementation
+// summary: Implements the task manager entry for no-state prefetch WebContents, keeping the Prerender title prefix and prerender icon for the task's lifetime.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/no_state_prefetch_task.h"
 
 #include "chrome/grit/generated_resources.h"

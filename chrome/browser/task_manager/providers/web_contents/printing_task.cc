@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintingTask implementation for print preview and background printing
+// summary: Implements PrintingTask, which lists print preview and background printing WebContents in the task manager with a localized print title prefix.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/printing_task.h"
 
 #include "chrome/grit/generated_resources.h"

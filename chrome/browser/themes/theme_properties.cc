@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme properties implementation
+// summary: Defines default theme colors, tints, and alignment and tiling string parsing for browser theme properties.
+// ---
+
 #include "chrome/browser/themes/theme_properties.h"
 
 #include <memory>

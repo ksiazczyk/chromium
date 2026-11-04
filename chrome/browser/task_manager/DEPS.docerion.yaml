@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Task manager include dependency rules
+summary: Declares the allowed include rules for the task manager directory, permitting extension string headers and jni_zero.

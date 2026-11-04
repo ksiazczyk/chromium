@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme syncable service header
+// summary: Declares ThemeSyncableService, a SyncableService for the THEMES data type, with sync state enums, observers, and theme preference migration helpers.
+// ---
+
 #ifndef CHROME_BROWSER_THEMES_THEME_SYNCABLE_SERVICE_H_
 #define CHROME_BROWSER_THEMES_THEME_SYNCABLE_SERVICE_H_
 

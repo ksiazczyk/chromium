@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager observer implementation
+// summary: Implements TaskManagerObserver refresh type flag handling, enforcing a minimum one-second refresh time and recalculating flags on the observed task manager.
+// ---
+
 #include "chrome/browser/task_manager/task_manager_observer.h"
 
 #include "chrome/browser/task_manager/task_manager_interface.h"

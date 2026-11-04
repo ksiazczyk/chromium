@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spare render process host task provider implementation
+// summary: Implements a task provider that creates tasks for spare RenderProcessHost processes when they become ready and removes them when the spares are removed.
+// ---
+
 #include "chrome/browser/task_manager/providers/spare_render_process_host_task_provider.h"
 
 #include <utility>

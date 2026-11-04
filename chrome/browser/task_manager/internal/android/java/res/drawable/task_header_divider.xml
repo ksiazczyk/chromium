@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Task header divider drawable
+summary: Android shape drawable that draws the task manager header divider as a rectangle sized by the task_header_divider_width dimension and filled with the colorPrimaryContainer attribute.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
     <size android:width="@dimen/task_header_divider_width" />

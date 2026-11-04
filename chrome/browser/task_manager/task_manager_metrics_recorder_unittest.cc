@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task manager metrics recorder unit tests
+// summary: Unit tests verifying that metric recording functions emit the expected UMA histograms, including parameterized coverage of StartAction and CategoryRecord values.
+// ---
+
 #include "chrome/browser/task_manager/task_manager_metrics_recorder.h"
 
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop unit tests for the cross-device theme tracker
+// summary: Unit tests verifying the cross-device theme tracker on desktop, covering sync startup, service status transitions, and theme updates via Android and iOS bridges.
+// ---
+
 #include "base/functional/callback_helpers.h"
 #include "base/memory/raw_ptr.h"
 #include "base/test/run_until.h"

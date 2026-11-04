@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme helper class declaration
+// summary: Declares helpers used by ThemeService to implement ui::ThemeProvider against a given theme supplier, including theme type checks and image lookups.
+// ---
+
 #ifndef CHROME_BROWSER_THEMES_THEME_HELPER_H_
 #define CHROME_BROWSER_THEMES_THEME_HELPER_H_
 

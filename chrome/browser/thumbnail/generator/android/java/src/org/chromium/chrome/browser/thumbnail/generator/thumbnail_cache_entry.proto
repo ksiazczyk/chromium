@@ -5,6 +5,12 @@
 // Protocol buffer definition for a thumbnail entry on disk, used for storing
 // thumbnail and its related data for caching.
 
+// ---docerion
+// type: source
+// title: thumbnail_cache_entry.proto
+// summary: Protocol buffer schema for a thumbnail cache entry on disk, storing a content ID, requested pixel size, and compressed PNG data.
+// ---
+
 syntax = "proto2";
 
 package org.chromium.chrome.browser.thumbnail.generator;

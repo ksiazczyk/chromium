@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedWebAppTask class declaration
+// summary: Declares the task manager representation for an Isolated Web App as a renderer task with title and favicon update overrides.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_ISOLATED_WEB_APP_TASK_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_ISOLATED_WEB_APP_TASK_H_
 

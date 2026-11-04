@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme local data batch uploader implementation
+// summary: Implements batch upload of local theme data to sync, building item descriptions and migrating saved non-default local themes.
+// ---
+
 #include "chrome/browser/themes/theme_local_data_batch_uploader.h"
 
 #include <variant>

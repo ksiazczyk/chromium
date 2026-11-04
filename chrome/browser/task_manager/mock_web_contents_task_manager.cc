@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock web contents task manager implementation
+// summary: Implements a mock task manager that records tasks added and removed by the web contents task provider for use in tests.
+// ---
+
 #include "chrome/browser/task_manager/mock_web_contents_task_manager.h"
 
 #include <algorithm>

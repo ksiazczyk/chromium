@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render process host task provider implementation
+// summary: Implements a task provider that creates and removes child process tasks for RenderProcessHost processes, including Glic render processes.
+// ---
+
 #include "chrome/browser/task_manager/providers/render_process_host_task_provider.h"
 
 #include "base/process/process.h"

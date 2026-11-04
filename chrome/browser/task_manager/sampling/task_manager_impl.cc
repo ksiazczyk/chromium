@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskManagerImpl implementation
+// summary: Implements the Chrome task manager core, wiring task providers and task groups together to collect and serve per-task resource usage across browser, renderer and platform processes.
+// ---
+
 #include "chrome/browser/task_manager/sampling/task_manager_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task manager observer unit tests
+// summary: Tests observer refresh time clamping, resource refresh flag checks, and how adding or removing refresh types updates a test task manager's enabled flags.
+// ---
+
 #include <stdint.h>
 
 #include "chrome/browser/task_manager/test_task_manager.h"

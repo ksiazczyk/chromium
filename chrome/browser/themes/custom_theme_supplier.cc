@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom theme supplier implementation
+// summary: Implements base CustomThemeSupplier behavior, including mapping theme colors into the color pipeline and propagating toolbar colors to related elements.
+// ---
+
 #include "chrome/browser/themes/custom_theme_supplier.h"
 
 #include "base/functional/bind.h"

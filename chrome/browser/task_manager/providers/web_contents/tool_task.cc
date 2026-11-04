@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolTask implementation
+// summary: Implements ToolTask, building a localized task manager title with the tool prefix and a static plugin favicon for WebContents created for UI tools.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/tool_task.h"
 
 #include "chrome/grit/generated_resources.h"

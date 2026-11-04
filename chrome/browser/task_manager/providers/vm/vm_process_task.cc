@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM process task implementation
+// summary: Implements the base task for VM processes in the task manager, building the localized title and determining killability from the active profile's cryptohome owner ID.
+// ---
+
 #include "chrome/browser/task_manager/providers/vm/vm_process_task.h"
 
 #include "base/functional/callback_helpers.h"

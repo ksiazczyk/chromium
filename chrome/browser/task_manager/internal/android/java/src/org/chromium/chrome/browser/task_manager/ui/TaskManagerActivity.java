@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager UI entry activity
+// summary: Entry activity of the Android task manager UI that sets up the model, mediator and coordinator for displaying tasks.
+// ---
+
 package org.chromium.chrome.browser.task_manager.ui;
 
 import android.os.Bundle;

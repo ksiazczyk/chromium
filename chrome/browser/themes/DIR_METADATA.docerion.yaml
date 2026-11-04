@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Themes directory metadata
+summary: Points the chrome/browser/themes directory at the shared themes mixins metadata in components/themes.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Taskbar BUILD.gn build definition
+summary: GN build file defining the Windows-only taskbar source set, listing its decorator sources and dependencies on browser, profile, Skia and views targets.

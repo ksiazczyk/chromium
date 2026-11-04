@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system information structure definitions
+// summary: Defines undocumented Windows structures such as SYSTEM_PROCESS_INFORMATION and SYSTEM_THREAD_INFORMATION needed to parse NtQuerySystemInformation results.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_SAMPLING_SHARED_SAMPLER_WIN_DEFINES_H_
 #define CHROME_BROWSER_TASK_MANAGER_SAMPLING_SHARED_SAMPLER_WIN_DEFINES_H_
 

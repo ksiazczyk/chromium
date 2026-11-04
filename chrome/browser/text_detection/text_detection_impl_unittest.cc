@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text detection unit tests
+// summary: Unit tests for TextDetectionImpl using a fake OCR to cover empty bitmaps, empty results, and visual annotation conversion.
+// ---
+
 #include "chrome/browser/text_detection/text_detection_impl.h"
 
 #include <limits>

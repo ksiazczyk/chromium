@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskGroup class declaration
+// summary: Declares TaskGroup, a UI-thread class that tracks tasks of one process and manages refresh of resource usage metrics including CPU, memory and ARC sampling on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_SAMPLING_TASK_GROUP_H_
 #define CHROME_BROWSER_TASK_MANAGER_SAMPLING_TASK_GROUP_H_
 

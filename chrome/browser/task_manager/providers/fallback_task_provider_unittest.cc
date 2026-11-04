@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fallback task provider unit tests
+// summary: Unit tests for FallbackTaskProvider that use fake task providers to verify task showing, hiding and fallback behavior between subproviders.
+// ---
+
 #include "chrome/browser/task_manager/providers/fallback_task_provider.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedSampler stub implementation
+// summary: Provides empty no-op implementations of SharedSampler methods for platforms where the shared sampler is not supported.
+// ---
+
 #include "chrome/browser/task_manager/sampling/shared_sampler.h"
 
 #include "base/task/sequenced_task_runner.h"

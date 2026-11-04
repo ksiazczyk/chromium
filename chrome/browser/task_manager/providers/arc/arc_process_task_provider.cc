@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC process task provider implementation
+// summary: Implements the task provider that periodically polls ARC app and system process lists and adds, updates, or removes corresponding tasks.
+// ---
+
 #include "chrome/browser/task_manager/providers/arc/arc_process_task_provider.h"
 
 #include <stddef.h>

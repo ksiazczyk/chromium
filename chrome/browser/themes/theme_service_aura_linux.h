@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux ThemeService subclass declaration
+// summary: Declares ThemeServiceAuraLinux, the Linux ThemeService subclass that manages the CustomThemeSupplier providing the native Linux theme.
+// ---
+
 #ifndef CHROME_BROWSER_THEMES_THEME_SERVICE_AURA_LINUX_H_
 #define CHROME_BROWSER_THEMES_THEME_SERVICE_AURA_LINUX_H_
 

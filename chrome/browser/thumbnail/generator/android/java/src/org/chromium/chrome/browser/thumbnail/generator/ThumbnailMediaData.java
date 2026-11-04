@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailMediaData
+// summary: Holds local media metadata including duration, title, artist and a representative thumbnail bitmap.
+// ---
+
 package org.chromium.chrome.browser.thumbnail.generator;
 
 import android.graphics.Bitmap;

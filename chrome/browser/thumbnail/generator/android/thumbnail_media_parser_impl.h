@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailMediaParserImpl class header
+// summary: Declares ThumbnailMediaParserImpl, which parses media files in a remote process to extract and decode a video key frame into a thumbnail bitmap, with timeout handling.
+// ---
+
 #ifndef CHROME_BROWSER_THUMBNAIL_GENERATOR_ANDROID_THUMBNAIL_MEDIA_PARSER_IMPL_H_
 #define CHROME_BROWSER_THUMBNAIL_GENERATOR_ANDROID_THUMBNAIL_MEDIA_PARSER_IMPL_H_
 

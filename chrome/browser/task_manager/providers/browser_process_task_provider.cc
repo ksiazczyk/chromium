@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser process task provider implementation
+// summary: Implements the provider that supplies the browser process task and maps URL requests from the browser process ID to it.
+// ---
+
 #include "chrome/browser/task_manager/providers/browser_process_task_provider.h"
 
 #include "services/network/public/mojom/network_context.mojom-forward.h"

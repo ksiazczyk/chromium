@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools tag browser tests
+// summary: Browser tests verifying that DevTools WebContents are tagged, recorded by the tags manager, and provided as DevToolsTask entries in the task manager.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/test/run_until.h"
 #include "chrome/browser/devtools/devtools_window_testing.h"

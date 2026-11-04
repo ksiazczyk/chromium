@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows SharedSampler implementation
+// summary: Implements SharedSampler on Windows using NtQuerySystemInformation to collect CPU time, hard faults, idle wakeups and start time for all processes in one snapshot.
+// ---
+
 #include "chrome/browser/task_manager/sampling/shared_sampler.h"
 
 #include <windows.h>

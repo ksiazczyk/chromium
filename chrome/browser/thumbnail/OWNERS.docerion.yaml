@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Thumbnail directory owners
+summary: Lists the code owners responsible for reviewing changes in the thumbnail directory, with one owner noted mainly for cc code.

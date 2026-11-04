@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render process host task provider header
+// summary: Declares RenderProcessHostTaskProvider, which provides tasks for RenderProcessHost processes tracked through creation and lifecycle observer interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_RENDER_PROCESS_HOST_TASK_PROVIDER_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_RENDER_PROCESS_HOST_TASK_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager observer Android implementation
+// summary: Implements TaskManagerObserverAndroid, forwarding task manager observer callbacks such as task added, removed, refreshed, and unresponsive to Java via JNI.
+// ---
+
 #include "chrome/browser/task_manager/android/task_manager_observer_android.h"
 
 #include "base/android/jni_array.h"

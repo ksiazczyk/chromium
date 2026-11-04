@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskManagerFactory
+// summary: Factory that creates TaskManager instances, returning TaskManagerImpl by default or a test-provided instance registered via setInstanceForTesting.
+// ---
+
 package org.chromium.chrome.browser.task_manager;
 
 import org.chromium.base.ResettersForTesting;

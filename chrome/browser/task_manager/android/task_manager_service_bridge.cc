@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager service bridge JNI implementation
+// summary: JNI bridge exposing task manager data such as titles, icons, memory, CPU, network, and GPU usage to Java, and supporting killing tasks.
+// ---
+
 #include <optional>
 #include <string>
 

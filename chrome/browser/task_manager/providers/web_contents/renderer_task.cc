@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererTask base class implementation for task manager renderer tasks
+// summary: Implements RendererTask, the base task manager task for renderer-hosted WebContents, handling titles, favicons, profile names, and V8 and WebCache resource sampling.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/renderer_task.h"
 
 #include <string>

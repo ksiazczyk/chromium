@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Noop thumbnail media parser implementation
+// summary: Implements NoopThumbnailMediaParser, which immediately reports parse failure with empty metadata and bitmap when FFmpeg is disabled.
+// ---
+
 #include "chrome/browser/thumbnail/generator/android/noop_thumbnail_media_parser.h"
 
 #include "third_party/skia/include/core/SkBitmap.h"

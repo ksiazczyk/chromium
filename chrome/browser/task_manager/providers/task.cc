@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager task implementation
+// summary: Implements the Task class representing a row in the Chrome task manager, handling process IDs, activation, killing, and network usage refresh.
+// ---
+
 #include "chrome/browser/task_manager/providers/task.h"
 
 #include <stddef.h>

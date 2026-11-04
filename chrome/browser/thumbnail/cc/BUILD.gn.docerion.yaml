@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the thumbnail cc sources
+summary: GN build file defining the cc source set with thumbnail helpers and cache code, plus a testonly unit_tests target whose sources are mostly Android-only.

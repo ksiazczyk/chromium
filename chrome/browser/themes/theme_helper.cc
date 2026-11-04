@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme helper implementation
+// summary: Implements ThemeHelper logic that resolves display properties, tints, colors, and images from a theme supplier or from defaults on behalf of ThemeService.
+// ---
+
 #include "chrome/browser/themes/theme_helper.h"
 
 #include <string_view>

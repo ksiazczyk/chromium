@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image thumbnail request implementation
+// summary: Implements asynchronous thumbnail generation for a local image file by loading, size-checking, decoding and scaling it before invoking a callback.
+// ---
+
 #include "chrome/browser/thumbnail/generator/image_thumbnail_request.h"
 
 #include <memory>

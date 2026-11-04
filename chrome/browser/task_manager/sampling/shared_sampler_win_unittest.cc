@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedSampler Windows unit tests
+// summary: Unit tests that drive the Windows SharedSampler like TaskManagerImpl does and verify idle wakeups, CPU time and start time refresh results.
+// ---
+
 #include "chrome/browser/task_manager/sampling/shared_sampler.h"
 
 #include <windows.h>

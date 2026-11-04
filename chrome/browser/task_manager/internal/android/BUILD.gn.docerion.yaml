@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android task manager build configuration
+summary: GN build file defining JNI generation, the Android Java library, resources, and Robolectric tests for the Chrome task manager UI on Android.

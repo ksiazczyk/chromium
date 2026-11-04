@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bitmap scaling utility implementation
+// summary: Implements ScaleDownBitmap, which resizes a bitmap on a background thread so its smallest dimension fits the requested size while keeping the aspect ratio.
+// ---
+
 #include "chrome/browser/thumbnail/generator/thumbnail_util.h"
 
 #include "base/check.h"

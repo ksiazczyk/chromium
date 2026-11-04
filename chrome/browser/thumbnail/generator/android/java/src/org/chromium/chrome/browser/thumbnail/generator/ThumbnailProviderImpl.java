@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailProviderImpl
+// summary: Concrete thumbnail provider with an in-memory bitmap cache, request queueing and disk storage fallback for missing thumbnails.
+// ---
+
 package org.chromium.chrome.browser.thumbnail.generator;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

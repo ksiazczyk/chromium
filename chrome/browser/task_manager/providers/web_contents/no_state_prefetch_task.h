@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchTask class declaration
+// summary: Declares the task manager representation of WebContents owned by the NoStatePrefetchManager as a renderer task.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_NO_STATE_PREFETCH_TASK_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_NO_STATE_PREFETCH_TASK_H_
 

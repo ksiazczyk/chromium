@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC process task implementation
+// summary: Implements the task manager task for an ARC process, building localized titles from process state and loading app icons via the intent helper.
+// ---
+
 #include "chrome/browser/task_manager/providers/arc/arc_process_task.h"
 
 #include <utility>

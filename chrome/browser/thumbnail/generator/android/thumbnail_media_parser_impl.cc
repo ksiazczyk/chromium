@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailMediaParserImpl implementation
+// summary: Implements the real media parser with an 8-second timeout, metadata parsing in a utility process, and video thumbnail decoding via the GPU process.
+// ---
+
 #include "chrome/browser/thumbnail/generator/android/thumbnail_media_parser_impl.h"
 
 #include <tuple>

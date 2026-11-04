@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media parser event enums and stats declarations
+// summary: Defines MediaParserEvent, MediaMetadataEvent, and VideoThumbnailEvent enums for UMA tracking plus the corresponding record function declarations.
+// ---
+
 #ifndef CHROME_BROWSER_THUMBNAIL_GENERATOR_ANDROID_STATS_H_
 #define CHROME_BROWSER_THUMBNAIL_GENERATOR_ANDROID_STATS_H_
 

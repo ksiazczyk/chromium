@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task manager tester header
+// summary: Declares TaskManagerTester, an adapter that simplifies inspecting and controlling the task manager, including column values, tab IDs, and model updates in tests.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_TASK_MANAGER_TESTER_H_
 #define CHROME_BROWSER_TASK_MANAGER_TASK_MANAGER_TESTER_H_
 

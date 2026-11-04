@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme service test utilities declaration
+// summary: Declares shared test helpers for theme service tests, including theme extension builders and constructors for various ThemeSpecifics sync payloads.
+// ---
+
 #ifndef CHROME_BROWSER_THEMES_THEME_SERVICE_TEST_UTILS_H_
 #define CHROME_BROWSER_THEMES_THEME_SERVICE_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for media parsing
+// summary: Bridges Java calls to ThumbnailMediaParser, returning parsed media metadata and thumbnail bitmap to a Java callback.
+// ---
+
 #include <string>
 
 #include "base/android/callback_android.h"

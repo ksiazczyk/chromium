@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the thumbnail generator
+summary: GN build file defining the thumbnail generator source set, Android Java library, JNI headers, protobuf and Java test targets.

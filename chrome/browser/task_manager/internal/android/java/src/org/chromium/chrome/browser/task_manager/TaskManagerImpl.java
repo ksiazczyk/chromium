@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskManagerImpl
+// summary: TaskManager implementation that launches the task manager UI by starting TaskManagerActivity with new-task and launch-adjacent intent flags.
+// ---
+
 package org.chromium.chrome.browser.task_manager;
 
 import android.content.Context;

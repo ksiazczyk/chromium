@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Android task manager directory
+summary: DEPS file with include rules that allow dependencies only on chrome/android for code in this directory.

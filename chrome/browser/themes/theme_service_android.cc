@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android theme service implementation
+// summary: Android-specific ThemeService that maps browser color schemes to Android night mode settings via JNI and notifies instances on change.
+// ---
+
 #include "chrome/browser/themes/theme_service_android.h"
 
 #include <cstdint>

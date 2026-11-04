@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailDiskStorage
+// summary: LRU disk cache of thumbnails that stores, retrieves and trims cached thumbnails and reports results back to the thumbnail provider.
+// ---
+
 package org.chromium.chrome.browser.thumbnail.generator;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

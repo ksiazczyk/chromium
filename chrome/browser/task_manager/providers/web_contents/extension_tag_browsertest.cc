@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension tag browser tests
+// summary: Browser tests verifying how loading, enabling, disabling and unloading extensions affects the tags tracked by the task manager.
+// ---
+
 #include <algorithm>
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spare render process host task provider header
+// summary: Declares SpareRenderProcessHostTaskProvider, which provides tasks representing spare RenderProcessHost processes via the spare host manager observer.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_SPARE_RENDER_PROCESS_HOST_TASK_PROVIDER_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_SPARE_RENDER_PROCESS_HOST_TASK_PROVIDER_H_
 

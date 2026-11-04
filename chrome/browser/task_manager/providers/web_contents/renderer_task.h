@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererTask abstract base class for task manager renderer tasks
+// summary: Declares the abstract RendererTask base class that task manager tasks for web contents derive from, handling titles, favicons, termination status and V8, GC and web cache stats.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_RENDERER_TASK_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_RENDERER_TASK_H_
 

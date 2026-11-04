@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskGroup implementation
+// summary: Implements TaskGroup, which groups tasks belonging to the same process, coordinates background resource refreshes and collects Windows GDI and USER handle counts.
+// ---
+
 #include "chrome/browser/task_manager/sampling/task_group.h"
 
 #include <algorithm>

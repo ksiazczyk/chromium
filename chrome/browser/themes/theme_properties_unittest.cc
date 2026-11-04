@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme properties unit tests
+// summary: Tests conversion between alignment strings and ThemeProperties alignment bitmasks, including handling of invalid input.
+// ---
+
 #include "chrome/browser/themes/theme_properties.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task manager tester implementation
+// summary: Implements TaskManagerTester, a test adapter that inspects rows, toggles columns, and manipulates the visible task manager model for browser tests.
+// ---
+
 #include "chrome/browser/task_manager/task_manager_tester.h"
 
 #include <memory>

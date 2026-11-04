@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail cache implementation
+// summary: Implements the tab thumbnail cache with compression and write queues, ETC1 and JPEG disk helpers, visible-tab prioritisation and cache metrics recording.
+// ---
+
 #include "chrome/browser/thumbnail/cc/thumbnail_cache.h"
 
 #include <stddef.h>

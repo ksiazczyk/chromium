@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process task provider implementation
+// summary: Implements the provider that creates and removes child process tasks as browser child processes launch and disconnect.
+// ---
+
 #include "chrome/browser/task_manager/providers/child_process_task_provider.h"
 
 #include <memory>

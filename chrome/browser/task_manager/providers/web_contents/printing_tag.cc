@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintingTag implementation for print preview WebContents
+// summary: Implements PrintingTag, a WebContentsTag whose CreateTask builds PrintingTask entries for print preview and background printing WebContents.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/printing_tag.h"
 
 #include <memory>

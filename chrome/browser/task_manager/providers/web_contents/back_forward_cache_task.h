@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackForwardCacheTask class declaration
+// summary: Declares BackForwardCacheTask, a renderer task representing cached main frames and subframes in the back/forward cache for the Chrome task manager.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_BACK_FORWARD_CACHE_TASK_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_BACK_FORWARD_CACHE_TASK_H_
 

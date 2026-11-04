@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM process task header
+// summary: Declares the VmProcessTask class, the base task representing a VM process with owner ID and VM name members and overrides for killability and child process identity.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_VM_VM_PROCESS_TASK_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_VM_VM_PROCESS_TASK_H_
 

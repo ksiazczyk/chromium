@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for subframe tasks in the task manager
+// summary: Browser tests verifying how out-of-process iframes, including PDF subframes and back/forward cache entries, appear as subframe tasks in the task manager.
+// ---
+
 #include <algorithm>
 #include <iterator>
 #include <string>

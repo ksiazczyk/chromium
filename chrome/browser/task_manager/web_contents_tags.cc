@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsTags implementation
+// summary: Implements the WebContentsTags factory that attaches task manager tags to tabs, DevTools, guests, extensions, printing and other web contents.
+// ---
+
 #include "chrome/browser/task_manager/web_contents_tags.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Task manager directory metadata
+summary: Maps the directory to the UI>TaskManager monorail component and a Buganizer component for issue tracking.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager property stringifier
+// summary: Formats task manager properties such as memory, CPU and network usage into localized display strings for the Android UI.
+// ---
+
 package org.chromium.chrome.browser.task_manager.ui;
 
 import android.content.Context;

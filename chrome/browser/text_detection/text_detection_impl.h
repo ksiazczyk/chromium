@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text detection implementation header
+// summary: Declares TextDetectionImpl, a per-document service binding the shape detection TextDetection interface to the browser OCR engine.
+// ---
+
 #ifndef CHROME_BROWSER_TEXT_DETECTION_TEXT_DETECTION_IMPL_H_
 #define CHROME_BROWSER_TEXT_DETECTION_TEXT_DETECTION_IMPL_H_
 

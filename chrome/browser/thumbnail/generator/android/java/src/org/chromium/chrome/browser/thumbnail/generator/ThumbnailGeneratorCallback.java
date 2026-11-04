@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailGeneratorCallback
+// summary: Callback interface invoked with the generated thumbnail bitmap once thumbnail generation completes.
+// ---
+
 package org.chromium.chrome.browser.thumbnail.generator;
 
 import android.graphics.Bitmap;

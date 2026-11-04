@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager observer header
+// summary: Defines the RefreshType resource flags and the TaskManagerObserver interface through which observers receive task added, removed, and refreshed notifications.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_TASK_MANAGER_OBSERVER_H_
 #define CHROME_BROWSER_TASK_MANAGER_TASK_MANAGER_OBSERVER_H_
 

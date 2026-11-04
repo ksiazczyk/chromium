@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC process task provider class declaration
+// summary: Declares the ArcProcessTaskProvider class that supplies ARC process tasks to the task manager via periodic IPC polling with retry handling.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_ARC_ARC_PROCESS_TASK_PROVIDER_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_ARC_ARC_PROCESS_TASK_PROVIDER_H_
 
