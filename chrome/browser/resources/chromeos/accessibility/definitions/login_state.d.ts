@@ -10,6 +10,12 @@
  * regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.loginState API TypeScript definitions
+// summary: Generated TypeScript declarations for the chrome.loginState API, exposing profile type, session state, and session state change events for ChromeOS accessibility features.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

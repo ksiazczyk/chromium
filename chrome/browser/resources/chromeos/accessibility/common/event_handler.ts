@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation node event handler
+// summary: Wraps AutomationNode event listeners with options for capture, exact match, one-shot listening and event predicates.
+// ---
+
 type AutomationEvent = chrome.automation.AutomationEvent;
 type AutomationNode = chrome.automation.AutomationNode;
 import EventType = chrome.automation.EventType;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock text-to-speech engine for tests
+// summary: Simulates a TTS engine, tracking utterances, speaking state and speech events for accessibility extensions such as ChromeVox and Select-to-Speak.
+// ---
+
 /*
  * A mock text-to-speech engine for tests.
  * This class has functions and callbacks necessary for accessibility extensions

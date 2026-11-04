@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome event handler wrapper
+// summary: Wraps ChromeEvent listeners with start and stop convenience functions for controlling event listening.
+// ---
+
 import type {ChromeEvent} from '/tools/typescript/definitions/chrome_event.js';
 
 type GenericListener<T extends any[]> = (...args: T) => void;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility features manager
+// summary: Singleton class that fetches and caches the enabled state of accessibility features via chrome.accessibilityPrivate.
+// ---
+
 /** @fileoverview Manages fetching and checking accessibility features. */
 import {TestImportManager} from './testing/test_import_manager.js';
 

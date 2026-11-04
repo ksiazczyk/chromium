@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select-to-Speak context menu browser tests
+// summary: Browser tests for Select-to-Speak's feature to speak selected text triggered through the context menu.
+// ---
+
 GEN_INCLUDE(['select_to_speak_e2e_test_base.js']);
 GEN_INCLUDE(['../common/testing/mock_tts.js']);
 

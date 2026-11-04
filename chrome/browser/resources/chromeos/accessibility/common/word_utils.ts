@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Word utilities for nodes and text
+// summary: WordUtils class that finds next word start and end boundaries in text and automation node groups, using node word boundaries when available.
+// ---
+
 import {ParagraphUtils} from './paragraph_utils.js';
 import {TestImportManager} from './testing/test_import_manager.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation node recovery strategies
+// summary: Defines RecoveryStrategy base class plus ancestry and tree-path strategies for recovering invalid automation nodes after tree changes.
+// ---
+
 import {TestImportManager} from '../testing/test_import_manager.js';
 
 /**

@@ -7,6 +7,12 @@
  * the tutorial.
  */
 
+// ---docerion
+// type: source
+// title: Lesson container component
+// summary: Defines the LessonContainer Polymer component that hosts tutorial lessons and fires a lessons-loaded event once they are in the DOM.
+// ---
+
 import {html, PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {LessonData, Screen} from './constants.js';
 import {TutorialLesson} from './tutorial_lesson.js';

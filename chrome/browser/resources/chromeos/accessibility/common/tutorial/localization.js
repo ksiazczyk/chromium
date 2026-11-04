@@ -7,6 +7,12 @@
  * tutorial content.
  */
 
+// ---docerion
+// type: source
+// title: Localization behavior for the tutorial
+// summary: Defines a Polymer behavior that looks up localized ChromeVox messages by id to help localize tutorial content.
+// ---
+
 /** @polymerBehavior */
 export const Localization = {
   /**

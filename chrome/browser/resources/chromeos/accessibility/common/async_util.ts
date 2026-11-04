@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncUtil promise wrappers for automation callbacks
+// summary: Wraps chrome.automation and accessibility_private callbacks such as getDesktop and getFocus in Promises.
+// ---
+
 import type {KeyCode} from './key_code.js';
 import {TestImportManager} from './testing/test_import_manager.js';
 

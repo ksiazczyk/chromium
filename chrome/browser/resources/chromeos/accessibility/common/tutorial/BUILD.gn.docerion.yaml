@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ChromeVox tutorial
+summary: Defines GN build targets that closure-compile, generate and copy the ChromeVox tutorial Polymer components.

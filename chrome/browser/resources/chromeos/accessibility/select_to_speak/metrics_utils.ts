@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-Speak metrics utilities
+// summary: Records UMA user-action and enumeration metrics for Select-to-Speak speech events, settings, and TTS engines.
+// ---
+
 import {PrefsManager} from './prefs_manager.js';
 
 // Utilities for UMA metrics.

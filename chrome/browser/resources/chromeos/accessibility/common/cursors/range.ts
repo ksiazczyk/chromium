@@ -7,6 +7,12 @@
  * the automation tree.
  */
 
+// ---docerion
+// type: source
+// title: CursorRange structures for the automation tree
+// summary: Defines the CursorRange class, a pair of start and end cursors over the automation tree, with direction, equality and movement helpers.
+// ---
+
 import {AutomationPredicate} from '../automation_predicate.js';
 import {AutomationUtil} from '../automation_util.js';
 import {constants} from '../constants.js';

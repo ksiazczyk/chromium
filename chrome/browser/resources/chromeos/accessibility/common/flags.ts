@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line flags manager
+// summary: Singleton class that fetches and caches which accessibility-related command line flags are enabled.
+// ---
+
 /** @fileoverview Manages fetching and checking command line flags. */
 import {TestImportManager} from './testing/test_import_manager.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String util tests
+// summary: Tests for StringUtil covering common prefix and suffix lengths and UTF-8 offset table construction for ASCII and multi-byte characters.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['testing/common_e2e_test_base.js']);
 

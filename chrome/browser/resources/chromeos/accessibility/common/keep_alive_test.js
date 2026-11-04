@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keep-alive tests
+// summary: Test fixture verifying that KeepAlive keeps a single instance across init calls and that stop removes it.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['testing/common_e2e_test_base.js']);
 

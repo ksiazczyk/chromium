@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Shared metadata for the Enhanced Network TTS directory
+summary: Declares the monorail component, accessibility team email, and Buganizer component IDs used for issues in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.tts API TypeScript definitions
+// summary: Declares types and functions for the chrome.tts text-to-speech API, covering speak controls, voices and speech events.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 // TODO(crbug.com/40179454): Auto-generate this file.

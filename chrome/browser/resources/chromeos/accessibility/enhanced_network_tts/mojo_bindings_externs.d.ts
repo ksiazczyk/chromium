@@ -8,6 +8,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: TypeScript externs for enhanced network TTS mojo bindings
+// summary: Declares TypeScript externs for the enhanced network TTS mojo bindings, including TTS request, response and error types.
+// ---
+
 declare namespace ash {
   export namespace enhancedNetworkTts {
     export namespace mojom {

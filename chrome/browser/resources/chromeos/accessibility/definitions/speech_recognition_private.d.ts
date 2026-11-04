@@ -10,6 +10,12 @@
  * ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.speechRecognitionPrivate API TypeScript definitions
+// summary: Declares types, functions and events for the chrome.speechRecognitionPrivate API, generated from its IDL for ChromeOS speech recognition.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

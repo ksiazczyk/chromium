@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Repeat macro placeholder
+// summary: Defines a placeholder macro that is swapped out for the previously executed macro so it can be repeated.
+// ---
+
 import {Context} from '../context_checker.js';
 
 import type {CheckContextResult} from './macro.js';

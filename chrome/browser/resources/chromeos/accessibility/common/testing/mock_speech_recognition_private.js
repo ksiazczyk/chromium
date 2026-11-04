@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock SpeechRecognitionPrivate API for tests
+// summary: Mocks the SpeechRecognitionPrivate API with start, stop, result and error events, mirroring real API error behavior for Dictation tests.
+// ---
+
 /** @typedef {{transcript: string, isFinal: boolean}} */
 let MockResultEvent;
 

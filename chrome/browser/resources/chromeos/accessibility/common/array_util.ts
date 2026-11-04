@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArrayUtil array helper functions
+// summary: Exports ArrayUtil with a contentsAreEqual helper that compares arrays element by element.
+// ---
+
 import {TestImportManager} from './testing/test_import_manager.js';
 
 /** A collection of helper functions when dealing with arrays. */

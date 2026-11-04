@@ -7,6 +7,12 @@
  * the automation tree.
  */
 
+// ---docerion
+// type: source
+// title: Cursor structures for the automation tree
+// summary: Defines the Cursor class plus CursorUnit and CursorMovement enums that represent and move cursor positions within the accessibility automation tree.
+// ---
+
 import {AutomationPredicate} from '../automation_predicate.js';
 import {AutomationUtil} from '../automation_util.js';
 import {constants} from '../constants.js';

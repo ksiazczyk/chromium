@@ -12,6 +12,12 @@
 // This file exists because MV3 supports promises and MV2 does not.
 // TODO(b/260590502): Delete this after MV3 migration.
 
+// ---docerion
+// type: source
+// title: chrome.storage API definitions for Manifest V2
+// summary: Declares callback-based storage areas, quotas and change events for the chrome.storage API, provided for Manifest V2 until the MV3 migration.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

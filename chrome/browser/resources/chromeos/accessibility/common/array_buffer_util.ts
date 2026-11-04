@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArrayBufferUtil compression and Base64 helpers
+// summary: Exports ArrayBufferUtil with gzip compression and Base64 encoding and decoding helpers for ArrayBuffers.
+// ---
+
 export namespace ArrayBufferUtil {
   // Compression format to use. Only `gzip` and `deflate` are supported.
   const compressionFormat = 'gzip';

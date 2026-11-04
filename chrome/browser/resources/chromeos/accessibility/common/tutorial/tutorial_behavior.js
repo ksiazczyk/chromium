@@ -7,6 +7,12 @@
  * tutorial functions, like showing/hiding screens.
  */
 
+// ---docerion
+// type: source
+// title: TutorialBehavior Polymer behavior for tutorial screens
+// summary: Defines TutorialBehavior, a Polymer behavior managing curriculums, lessons, screens and visibility for components embedding the tutorial.
+// ---
+
 import {Curriculum, InteractionMedium, LessonData, MainMenuButtonData, NO_ACTIVE_LESSON, Screen} from './constants.js';
 import {TutorialLesson} from './tutorial_lesson.js';
 

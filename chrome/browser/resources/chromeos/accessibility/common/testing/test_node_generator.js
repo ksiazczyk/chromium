@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test node generator for accessibility tests
+// summary: Provides helpers that create mock automation nodes and a sample paragraph node group for testing ChromeOS accessibility features.
+// ---
+
 import {ParagraphUtils} from '../paragraph_utils.js';
 
 /**

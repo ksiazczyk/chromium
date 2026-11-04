@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart insert before macro
+// summary: Implements a Dictation macro that inserts a word or phrase before another word or phrase in an editable context via the input controller.
+// ---
+
 import {Context, ContextChecker} from '../context_checker.js';
 import type {InputController} from '../input_controller.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select-to-Speak end-to-end test base
+// summary: Base class for Select-to-Speak browser tests, providing helpers for finding text nodes, triggering selections and asserting speech output.
+// ---
+
 GEN_INCLUDE(['../common/testing/e2e_test_base.js']);
 
 /**

@@ -9,6 +9,12 @@
  * -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.audio API type definitions
+// summary: Generated TypeScript declarations for the chrome.audio API covering audio device info, active device selection, mute and level events.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

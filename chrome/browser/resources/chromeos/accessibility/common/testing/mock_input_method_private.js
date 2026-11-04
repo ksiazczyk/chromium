@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock inputMethodPrivate API for tests
+// summary: Mocks the chrome.inputMethodPrivate API to get and set the current input method during tests.
+// ---
+
 /*
  * A mock chrome.inputMethodPrivate API for tests.
  */

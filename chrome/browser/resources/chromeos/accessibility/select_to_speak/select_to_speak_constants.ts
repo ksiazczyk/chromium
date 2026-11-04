@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-Speak constants
+// summary: Shared constants for Select-to-Speak, including key codes, node state check intervals, paragraph selection size limits and voice switching data.
+// ---
+
 import {KeyCode} from '/common/key_code.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 

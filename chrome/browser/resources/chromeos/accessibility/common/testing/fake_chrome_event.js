@@ -6,6 +6,12 @@
  * @fileoverview Fake implementations of ChromeEvent.
  */
 
+// ---docerion
+// type: test
+// title: Fake Chrome event implementation
+// summary: Fake ChromeEvent that tracks added and removed listeners and lets tests invoke them directly with arguments.
+// ---
+
 class FakeChromeEvent {
   constructor() {
     /** @type {!Set<!Function>} */

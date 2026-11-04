@@ -9,6 +9,12 @@
  * chrome/common/extensions/api/windows.json -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.windows API TypeScript definitions
+// summary: Declares types, functions and events for the chrome.windows extension API, generated from windows.json for creating and managing browser windows.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

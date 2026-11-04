@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toggle dictation macro
+// summary: Implements a Dictation macro that toggles Dictation on or off through the Chrome accessibility API, exporting the class for testing.
+// ---
+
 import {TestImportManager} from '../../testing/test_import_manager.js';
 
 import type {RunMacroResult} from './macro.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-Speak extension controller
+// summary: Main controller class for the ChromeOS Select-to-Speak extension, coordinating selection input, speech of selected text, and the UI, TTS and prefs managers.
+// ---
+
 import {AutomationPredicate} from '/common/automation_predicate.js';
 import {AutomationUtil} from '/common/automation_util.js';
 import {constants} from '/common/constants.js';

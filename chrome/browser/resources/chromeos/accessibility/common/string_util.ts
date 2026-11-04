@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String utilities
+// summary: StringUtil class with helpers for case conversion, common prefix and suffix lengths, code point offsets, and word boundary detection.
+// ---
+
 import {TestImportManager} from './testing/test_import_manager.js';
 
 /**

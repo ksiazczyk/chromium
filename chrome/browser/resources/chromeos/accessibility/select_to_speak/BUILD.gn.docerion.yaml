@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Select-to-Speak GN build configuration
+summary: Defines GN targets that compile, bundle, minify, and copy the Select-to-Speak extension sources and resources.

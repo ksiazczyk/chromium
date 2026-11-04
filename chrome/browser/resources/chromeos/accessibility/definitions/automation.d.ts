@@ -9,6 +9,12 @@
  * extensions/common/api/automation.webidl -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.automation API type definitions
+// summary: Generated TypeScript declarations for the chrome.automation API describing the accessibility tree, its node types and automation event types.
+// ---
+
 
 
 declare namespace chrome {

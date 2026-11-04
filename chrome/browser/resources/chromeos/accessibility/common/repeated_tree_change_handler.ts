@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RepeatedTreeChangeHandler class
+// summary: Tree change observer that processes only the most recent of repeated tree changes, with an optional predicate to filter changes of interest.
+// ---
+
 import {TestImportManager} from './testing/test_import_manager.js';
 
 /**

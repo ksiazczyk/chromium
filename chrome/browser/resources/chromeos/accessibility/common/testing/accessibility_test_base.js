@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility test base fixture
+// summary: Base test fixture for accessibility component extension tests that copies test imports onto globalThis and supports async setup and method call expectations.
+// ---
+
 /**
  * Base test fixture for all tests of the accessibility component extensions.
  */

@@ -9,6 +9,12 @@
  * extensions/common/api/runtime.json -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.runtime API TypeScript definitions
+// summary: Generated TypeScript declarations for the chrome.runtime API, covering messaging ports, platform info, extension contexts, lifecycle events, and update checks.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

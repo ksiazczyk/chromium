@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key code definitions for accessibility extensions
+// summary: Centralized KeyCode enum and key name mapping for accessibility component extensions on Chrome OS.
+// ---
+
 /**
  * @fileoverview A centralized listing for keycodes used by accessibility
  * component extensions. Largely taken from

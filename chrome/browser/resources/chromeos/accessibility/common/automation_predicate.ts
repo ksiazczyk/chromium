@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutomationPredicate predicates for the automation API
+// summary: Defines predicates for the automation extension API to match nodes by role, state, restriction, and table cell relationships.
+// ---
+
 /**
  * @fileoverview Predicates for the automation extension API.
  */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NodeUtils for Select-to-Speak automation nodes
+// summary: Utilities for Chrome automation nodes used by Select-to-Speak, including visibility state checks, node filtering and user-select handling.
+// ---
+
 import {AutomationPredicate} from './automation_predicate.js';
 import {AutomationUtil} from './automation_util.js';
 import {constants} from './constants.js';

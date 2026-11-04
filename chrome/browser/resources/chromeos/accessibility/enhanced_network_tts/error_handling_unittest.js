@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error handling tests for Enhanced Network TTS
+// summary: Verifies error reporting when mojo bindings fail, the server returns error codes, or audio decoding fails.
+// ---
+
 GEN_INCLUDE(['enhanced_network_tts_e2e_test_base.js']);
 
 /**

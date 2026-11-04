@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Repeatable key press macros
+// summary: Defines an abstract repeatable key press macro and concrete macros for deleting and navigating by character or line.
+// ---
+
 import {EventGenerator} from '../../event_generator.js';
 import {KeyCode} from '../../key_code.js';
 import {TestImportManager} from '../../testing/test_import_manager.js';

@@ -10,6 +10,12 @@
  * ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.languageSettingsPrivate API TypeScript definitions
+// summary: Generated TypeScript declarations for the chrome.languageSettingsPrivate API, managing language lists, spellcheck dictionaries, translation settings, and input methods.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

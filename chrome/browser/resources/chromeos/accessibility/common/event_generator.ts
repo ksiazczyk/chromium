@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic key and mouse event generator
+// summary: Sends synthetic keyboard and mouse events through the accessibilityPrivate API, with queuing for mouse clicks.
+// ---
+
 import type {KeyCode} from './key_code.js';
 import {TestImportManager} from './testing/test_import_manager.js';
 

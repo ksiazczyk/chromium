@@ -9,6 +9,12 @@
  * chrome/common/extensions/api/scripting.idl -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.scripting API TypeScript definitions
+// summary: Declares types and functions for the chrome.scripting extension API, generated from the scripting IDL for script and CSS injection into tabs.
+// ---
+
 
 
 declare namespace chrome {

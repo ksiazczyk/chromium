@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Node navigation utilities unit tests
+// summary: Unit tests for paragraph navigation helpers using mock automation nodes in a Select-to-Speak test fixture.
+// ---
+
 GEN_INCLUDE(['../select_to_speak/select_to_speak_e2e_test_base.js']);
 
 /**

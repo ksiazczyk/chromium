@@ -9,6 +9,12 @@
  * chrome/common/extensions/api/tabs.json -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.tabs API TypeScript definitions
+// summary: Declares types and functions for the chrome.tabs extension API, generated from tabs.json for querying, creating and messaging tabs.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

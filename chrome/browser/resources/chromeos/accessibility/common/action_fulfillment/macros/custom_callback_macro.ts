@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom callback macro
+// summary: Implements a macro that runs a supplied callback, with optional toggle direction, for ChromeOS accessibility action fulfillment.
+// ---
+
 import type {RunMacroResult} from './macro.js';
 import {Macro, ToggleDirection} from './macro.js';
 import type {MacroName} from './macro_names.js';

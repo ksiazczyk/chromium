@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test import manager for the js2gtest framework
+// summary: Manages exports and imports for tests in the js2gtest framework, where static and dynamic import statements are unavailable.
+// ---
+
 type Importable = Function|[name: string, value: any];
 
 /**

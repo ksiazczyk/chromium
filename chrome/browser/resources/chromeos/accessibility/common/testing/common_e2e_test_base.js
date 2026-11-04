@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common end-to-end test base
+// summary: Extends E2ETestBase with a preamble that enables autoclick and waits for the accessibility common extension, shared by common and extension tests.
+// ---
+
 GEN_INCLUDE(['e2e_test_base.js']);
 
 /**

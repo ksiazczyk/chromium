@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for ArrayUtil.contentsAreEqual
+// summary: E2E test fixture verifying ArrayUtil.contentsAreEqual for arrays of numbers and object references.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['testing/common_e2e_test_base.js']);
 

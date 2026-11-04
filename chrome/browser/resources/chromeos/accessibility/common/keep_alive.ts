@@ -7,6 +7,12 @@
  * chrome.runtime.getPlatformInfo() every 20 seconds.
  */
 
+// ---docerion
+// type: source
+// title: Service worker keep-alive
+// summary: Singleton that extends the service worker lifetime by calling chrome.runtime.getPlatformInfo every 20 seconds.
+// ---
+
 import {TestImportManager} from './testing/test_import_manager.js';
 
 export class KeepAlive {

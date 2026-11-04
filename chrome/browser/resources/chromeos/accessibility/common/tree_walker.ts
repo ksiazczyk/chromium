@@ -6,6 +6,12 @@
  * @fileoverview A tree walker over the automation tree.
  */
 
+// ---docerion
+// type: source
+// title: Automation tree walker
+// summary: AutomationTreeWalker class providing incremental pre-order traversal of the Chrome automation tree with visit, root and leaf restriction predicates.
+// ---
+
 import type {AutomationPredicate} from './automation_predicate.js';
 import {constants} from './constants.js';
 import {TestImportManager} from './testing/test_import_manager.js';

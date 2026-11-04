@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tree walker tests
+// summary: Test fixture for AutomationTreeWalker verifying forward and backward traversal phases and root and leaf restriction behavior.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE([
   'testing/common_e2e_test_base.js',

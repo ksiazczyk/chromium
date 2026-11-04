@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Macro base class and result types
+// summary: Defines the abstract Macro base class plus MacroError, ToggleDirection, and context check and run result types for accessibility macros.
+// ---
+
 import {TestImportManager} from '../../testing/test_import_manager.js';
 import type {Context, ContextChecker} from '../context_checker.js';
 

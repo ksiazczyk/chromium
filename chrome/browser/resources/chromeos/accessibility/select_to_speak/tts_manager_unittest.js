@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TtsManager unit tests
+// summary: Unit tests for the TtsManager covering speak, stop, pause, resume, and word events using a mock TTS engine.
+// ---
+
 GEN_INCLUDE(['select_to_speak_e2e_test_base.js']);
 GEN_INCLUDE(['../common/testing/mock_tts.js']);
 

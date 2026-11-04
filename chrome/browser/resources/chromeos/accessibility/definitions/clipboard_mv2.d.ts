@@ -11,6 +11,12 @@
  * extensions/common/api/clipboard.idl -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.clipboard API type definitions (MV2)
+// summary: TypeScript declarations for the chrome.clipboard API, MV2 variant, for setting clipboard image data and observing clipboard changes.
+// ---
+
 import type {ChromeEvent} from '../../../../../../tools/typescript/definitions/chrome_event.js';
 
 declare global {

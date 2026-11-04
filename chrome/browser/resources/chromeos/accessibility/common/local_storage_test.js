@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local storage tests
+// summary: Tests migration of legacy localStorage values into the LocalStorage wrapper with correct type conversion.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['testing/common_e2e_test_base.js']);
 GEN_INCLUDE(['testing/mock_storage.js']);

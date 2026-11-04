@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser window utilities
+// summary: Utilities for interacting with browser windows, such as opening a URL in an existing window or a new one.
+// ---
+
 /**
  * @fileoverview Utilities for interacting with browser windows.
  */
