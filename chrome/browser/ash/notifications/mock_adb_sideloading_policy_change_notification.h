@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock ADB sideloading policy change notification declaration
+// summary: Declares a mock of AdbSideloadingPolicyChangeNotification that stores the last shown notification type for testing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_MOCK_ADB_SIDELOADING_POLICY_CHANGE_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_MOCK_ADB_SIDELOADING_POLICY_CHANGE_NOTIFICATION_H_
 

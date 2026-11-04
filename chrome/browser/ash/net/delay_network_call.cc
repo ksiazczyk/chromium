@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayNetworkCall implementation
+// summary: Implements utilities that delay network calls until the default network is connected, retrying every three seconds, with a testing override to force delays.
+// ---
+
 #include "chrome/browser/ash/net/delay_network_call.h"
 
 #include <utility>

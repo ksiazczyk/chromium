@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkPrefStateObserver implementation
+// summary: Initializes NetworkHandler with device prefs and reinitializes its pref services when the primary user profile is loaded, wiring in the network metadata store for Wi-Fi sync.
+// ---
+
 #include "chrome/browser/ash/net/network_pref_state_observer.h"
 
 #include "chrome/browser/ash/profiles/profile_helper.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkChangeManagerClient browser tests
+// summary: Browser tests verifying that network changes observed through Shill are reported to network change observers and the network connection tracker.
+// ---
+
 #include <memory>
 
 #include "base/memory/raw_ptr.h"

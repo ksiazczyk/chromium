@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System proxy notification class declaration
+// summary: Declares SystemProxyNotification, which manages the notification informing the user that System-proxy needs credentials for the remote web proxy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_SYSTEM_PROXY_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_SYSTEM_PROXY_NOTIFICATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Quick Start connectivity service declaration
+// summary: Declares FakeQuickStartConnectivityService, a test double of QuickStartConnectivityService with fake connections manager and decoder.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NEARBY_FAKE_QUICK_START_CONNECTIVITY_SERVICE_H_
 #define CHROME_BROWSER_ASH_NEARBY_FAKE_QUICK_START_CONNECTIVITY_SERVICE_H_
 

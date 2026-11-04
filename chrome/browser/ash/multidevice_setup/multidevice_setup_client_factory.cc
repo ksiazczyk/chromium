@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDeviceSetup client factory implementation
+// summary: Implements a profile-keyed factory that wraps MultiDeviceSetupClient in a KeyedService and binds it asynchronously to the MultiDeviceSetup service.
+// ---
+
 #include "chrome/browser/ash/multidevice_setup/multidevice_setup_client_factory.h"
 
 #include "ash/constants/ash_features.h"

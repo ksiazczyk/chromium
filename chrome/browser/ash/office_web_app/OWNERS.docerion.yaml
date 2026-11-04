@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for office_web_app
+summary: Delegates code ownership and review for this directory to the ui/file_manager OWNERS file.

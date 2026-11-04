@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DhcpWpadUrlClient implementation
+// summary: Implements the mojom DhcpWpadUrlClient that returns the Web Proxy Auto Discovery PAC URL from the default network, with a testing override for the returned URL.
+// ---
+
 #include "chrome/browser/ash/net/dhcp_wpad_url_client.h"
 
 #include "chromeos/ash/components/network/network_handler.h"

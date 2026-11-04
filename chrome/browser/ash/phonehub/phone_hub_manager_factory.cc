@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub manager factory implementation
+// summary: Profile-keyed service factory that builds the PhoneHubManager with its dependencies and restricts the feature by profile type and policy.
+// ---
+
 #include "chrome/browser/ash/phonehub/phone_hub_manager_factory.h"
 
 #include "ash/constants/ash_features.h"

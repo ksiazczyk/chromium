@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Always-on VPN pre-connect URL allowlist service header
+// summary: Declares a keyed service that permits limited network connectivity while Always-on VPN lockdown is configured but the VPN is not yet connected.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_ALWAYSON_VPN_PRE_CONNECT_URL_ALLOWLIST_SERVICE_H_
 #define CHROME_BROWSER_ASH_NET_ALWAYSON_VPN_PRE_CONNECT_URL_ALLOWLIST_SERVICE_H_
 

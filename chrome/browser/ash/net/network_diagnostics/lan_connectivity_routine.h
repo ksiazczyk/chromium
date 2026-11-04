@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LAN connectivity routine header
+// summary: Declares the LanConnectivityRoutine class that tests whether the device is connected to a LAN, excluding captive portal checks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_LAN_CONNECTIVITY_ROUTINE_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_LAN_CONNECTIVITY_ROUTINE_H_
 

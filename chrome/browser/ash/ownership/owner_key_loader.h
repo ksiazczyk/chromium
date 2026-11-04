@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OwnerKeyLoader class declaration
+// summary: Declares a single-use helper that loads or generates owner key pairs and determines whether the current user is the device owner.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_OWNERSHIP_OWNER_KEY_LOADER_H_
 #define CHROME_BROWSER_ASH_OWNERSHIP_OWNER_KEY_LOADER_H_
 

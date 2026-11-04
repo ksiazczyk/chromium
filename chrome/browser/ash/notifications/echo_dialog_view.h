@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo dialog view header
+// summary: Declares EchoDialogView, the dialog shown by the echoPrivate extension API to obtain user consent for redeeming offers or to inform the user that Echo is disabled by policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_ECHO_DIALOG_VIEW_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_ECHO_DIALOG_VIEW_H_
 

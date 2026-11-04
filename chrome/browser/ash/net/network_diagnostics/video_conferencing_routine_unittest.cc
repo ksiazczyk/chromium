@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video conferencing routine unit tests
+// summary: Unit tests for the video conferencing network diagnostics routine, using test UDP and TLS prober implementations to simulate probe results and verify routine verdicts and problems.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/video_conferencing_routine.h"
 
 #include <deque>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the ash ownership library
+summary: Defines the ownership static library and its unit test source set with sources and dependencies.

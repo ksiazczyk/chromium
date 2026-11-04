@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk external update notification implementation
+// summary: Implements the on-screen widget and controller that show kiosk external update status messages to the admin.
+// ---
+
 #include "chrome/browser/ash/notifications/kiosk_external_update_notification.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

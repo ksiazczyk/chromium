@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash screen capture notification UI class declaration
+// summary: Declares ScreenCaptureNotificationUIAsh, the Ash implementation of ScreenCaptureNotificationUI that reports screen access start and stop to the system tray.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_SCREEN_CAPTURE_NOTIFICATION_UI_ASH_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_SCREEN_CAPTURE_NOTIFICATION_UI_ASH_H_
 

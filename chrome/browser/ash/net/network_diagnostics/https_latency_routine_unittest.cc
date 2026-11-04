@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTPS latency routine unit tests
+// summary: Unit tests for the HTTPS latency routine using a fake tick clock, host resolver, and HTTP request manager to simulate latency scenarios.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/https_latency_routine.h"
 
 #include <memory>

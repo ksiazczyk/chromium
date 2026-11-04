@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug daemon packet capture notification handler
+// summary: Shows a pinned packet capture notification when the debug daemon starts capture and closes it on stop, with a button that stops ongoing captures.
+// ---
+
 #include "chrome/browser/ash/notifications/debugd_notification_handler.h"
 
 #include <optional>

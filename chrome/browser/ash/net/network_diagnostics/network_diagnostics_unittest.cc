@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the NetworkDiagnostics service
+// summary: Tests the NetworkDiagnostics mojo service using a fake debug daemon client with ICMP output, DNS server setup, and configured WiFi state.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/network_diagnostics.h"
 
 #include <memory>

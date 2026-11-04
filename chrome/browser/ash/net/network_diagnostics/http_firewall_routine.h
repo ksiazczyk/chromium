@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP firewall routine header
+// summary: Declares the HttpFirewallRoutine class and its Delegate interface for testing whether a firewall is blocking HTTP port 80.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_HTTP_FIREWALL_ROUTINE_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_HTTP_FIREWALL_ROUTINE_H_
 

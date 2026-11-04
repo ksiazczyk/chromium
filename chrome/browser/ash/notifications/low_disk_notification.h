@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low disk space notification class declaration
+// summary: Declares LowDiskNotification, which creates low disk space notifications in the message center and throttles repeated ones.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_LOW_DISK_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_LOW_DISK_NOTIFICATION_H_
 

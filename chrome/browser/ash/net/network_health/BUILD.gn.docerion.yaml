@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Network health build definition (BUILD.gn)
+summary: Defines the network_health static library with its sources and dependencies, and copies the Mojo service manager policy JSON to the output directory.

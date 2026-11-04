@@ -1,3 +1,12 @@
+---
+type: readme
+title: Network Events
+summary: Explains how clients observe network events via the NetworkEventsObserver Mojo interface and demonstrates event output using the cros-health-tool.
+relations:
+  - documents /chromeos/services/network_health/public/mojom/network_health.mojom
+  - references /chrome/browser/ash/net/network_diagnostics/README.md
+---
+
 # Network Events
 
 Notifies clients of network events. [Design Doc]

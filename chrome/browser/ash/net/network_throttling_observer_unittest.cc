@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkThrottlingObserver unit tests
+// summary: Unit tests verifying that changes to the network throttling preference update the throttling status reported by the Shill manager client.
+// ---
+
 #include "chrome/browser/ash/net/network_throttling_observer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System proxy credentials dialog implementation
+// summary: Implements the dialog view that collects a username and password for OS-level proxy authentication outside the browser.
+// ---
+
 #include "chrome/browser/ash/notifications/request_system_proxy_credentials_view.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Ash notifications library
+summary: Defines the notifications static library with its sources and dependencies, plus the testonly unit_tests source set for this ChromeOS notifications directory.

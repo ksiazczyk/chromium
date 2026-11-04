@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the dns_over_https library
+summary: Defines the dns_over_https static library sources and dependencies plus a testonly unit_tests source_set for the ChromeOS DoH resolver.

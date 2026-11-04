@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkThrottlingObserver implementation
+// summary: Observes the network throttling policy preference and applies the enabled state and upload/download rate limits to the network state handler.
+// ---
+
 #include "chrome/browser/ash/net/network_throttling_observer.h"
 
 #include <algorithm>

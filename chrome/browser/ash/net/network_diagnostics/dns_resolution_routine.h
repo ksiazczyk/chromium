@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS resolution routine header
+// summary: Declares the DnsResolutionRoutine class that tests whether a DNS resolution can be completed successfully.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_DNS_RESOLUTION_ROUTINE_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_DNS_RESOLUTION_ROUTINE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deprecation notification controller class
+// summary: Declares DeprecationNotificationController, which shows one-time notifications for deprecated shortcut rewrites during the transition period.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_DEPRECATION_NOTIFICATION_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_DEPRECATION_NOTIFICATION_CONTROLLER_H_
 

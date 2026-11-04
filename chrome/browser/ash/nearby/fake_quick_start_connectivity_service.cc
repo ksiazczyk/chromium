@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Quick Start connectivity service implementation
+// summary: Implements a fake QuickStartConnectivityService that returns fake Nearby connections manager and decoder instances for tests.
+// ---
+
 #include "chrome/browser/ash/nearby/fake_quick_start_connectivity_service.h"
 
 #include "base/memory/raw_ptr.h"

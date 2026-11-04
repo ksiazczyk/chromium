@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pausable timer class declaration
+// summary: Declares PausableTimer, a pausable one-shot timer that tracks elapsed duration before calling a given callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PERFORMANCE_PAUSABLE_TIMER_H_
 #define CHROME_BROWSER_ASH_PERFORMANCE_PAUSABLE_TIMER_H_
 

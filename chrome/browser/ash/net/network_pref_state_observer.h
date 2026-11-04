@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkPrefStateObserver header
+// summary: Declares a session manager observer that updates NetworkHandler when the PrefService state changes, such as when a user profile is loaded.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_PREF_STATE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_PREF_STATE_OBSERVER_H_
 

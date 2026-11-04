@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Note taking build targets
+summary: Defines the note_taking static library plus unit test and browser test targets with their sources and dependencies for ChromeOS.

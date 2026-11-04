@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the deprecation notification controller
+// summary: Tests that deprecation notifications appear once per rewrite, are not duplicated, and are suppressed when accelerator processing is blocked.
+// ---
+
 #include "chrome/browser/ash/notifications/deprecation_notification_controller.h"
 
 #include "ash/accelerators/accelerator_controller_impl.h"

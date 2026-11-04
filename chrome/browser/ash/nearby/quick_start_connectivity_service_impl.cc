@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickStartConnectivityServiceImpl implementation
+// summary: Implements the Quick Start connectivity service by lazily creating a NearbyConnectionsManager and QuickStart decoder remote and shutting down the Nearby process on cleanup.
+// ---
+
 #include "chrome/browser/ash/nearby/quick_start_connectivity_service_impl.h"
 
 #include "base/memory/raw_ptr.h"

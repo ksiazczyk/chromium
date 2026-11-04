@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gateway Can Be Pinged Routine Class Declaration
+// summary: Declares the GatewayCanBePingedRoutine class that tests whether the device can ping all gateways it is connected to via the debug daemon.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_GATEWAY_CAN_BE_PINGED_ROUTINE_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_GATEWAY_CAN_BE_PINGED_ROUTINE_H_
 

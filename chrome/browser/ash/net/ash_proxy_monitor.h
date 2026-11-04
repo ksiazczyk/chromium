@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash proxy monitor header
+// summary: Declares the Ash proxy monitor, which propagates effective proxy configuration and WPAD URL changes to observers within the user session.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_ASH_PROXY_MONITOR_H_
 #define CHROME_BROWSER_ASH_NET_ASH_PROXY_MONITOR_H_
 

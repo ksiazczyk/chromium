@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: PhoneHub include dependency rules
+summary: Restricts //chrome includes for the directory and lists the allowed Chrome dependencies, with extra rules for the factory file.

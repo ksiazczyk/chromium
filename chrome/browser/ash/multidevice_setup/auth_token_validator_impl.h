@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth token validator class declaration
+// summary: Declares the concrete AuthTokenValidator KeyedService that validates auth tokens.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MULTIDEVICE_SETUP_AUTH_TOKEN_VALIDATOR_IMPL_H_
 #define CHROME_BROWSER_ASH_MULTIDEVICE_SETUP_AUTH_TOKEN_VALIDATOR_IMPL_H_
 

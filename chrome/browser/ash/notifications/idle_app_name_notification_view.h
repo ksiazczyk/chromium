@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle app name notification view header
+// summary: Declares IdleAppNameNotificationView, which creates a timed message showing the currently running application name and its creator.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_IDLE_APP_NAME_NOTIFICATION_VIEW_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_IDLE_APP_NAME_NOTIFICATION_VIEW_H_
 

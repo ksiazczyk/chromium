@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC HTTP routine implementation
+// summary: Implements the routine that issues HTTP GET requests to generated URLs via the ARC NetInstance service and analyzes status codes and latency.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/arc_http_routine.h"
 
 #include <algorithm>

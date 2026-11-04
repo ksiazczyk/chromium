@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for Ash net
+summary: Maps per-file code owners for the network services in this directory, delegating some files to other teams' OWNERS files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UDP prober unit tests
+// summary: Unit tests for the UDP prober using a fake network context with simulated error codes, delays, and mock time to test success and timeout paths.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/udp_prober.h"
 
 #include <cstdint>

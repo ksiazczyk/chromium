@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tabs model provider class declaration
+// summary: Declares BrowserTabsModelProviderImpl, which supplies Phone Hub browser tab metadata from synced sessions for the connected phone and triggers sync refreshes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PHONEHUB_BROWSER_TABS_MODEL_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_PHONEHUB_BROWSER_TABS_MODEL_PROVIDER_IMPL_H_
 

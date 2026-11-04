@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OwnerSettingsServiceAshFactory header
+// summary: Declares the profile-keyed factory that creates OwnerSettingsServiceAsh per browser context, with test hooks for the device settings service and owner key util.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_OWNERSHIP_OWNER_SETTINGS_SERVICE_ASH_FACTORY_H_
 #define CHROME_BROWSER_ASH_OWNERSHIP_OWNER_SETTINGS_SERVICE_ASH_FACTORY_H_
 

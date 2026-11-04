@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Always-on VPN pre-connect URL allowlist service factory
+// summary: Implements the profile-keyed service factory that builds the allowlist service with the profile prefs and policy blocklist service.
+// ---
+
 #include "chrome/browser/ash/net/alwayson_vpn_pre_connect_url_allowlist_service_factory.h"
 
 #include "base/no_destructor.h"

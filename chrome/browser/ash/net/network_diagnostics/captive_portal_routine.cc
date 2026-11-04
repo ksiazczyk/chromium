@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal routine implementation
+// summary: Implements the captive portal diagnostic routine that fetches active networks and managed properties to detect portal states and report corresponding problems.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/captive_portal_routine.h"
 
 #include <utility>

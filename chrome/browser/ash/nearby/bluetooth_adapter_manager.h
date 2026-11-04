@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth adapter manager class declaration
+// summary: Declares BluetoothAdapterManager, which owns the mojo Adapter interface and platform Bluetooth adapter to ensure clean shutdown.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NEARBY_BLUETOOTH_ADAPTER_MANAGER_H_
 #define CHROME_BROWSER_ASH_NEARBY_BLUETOOTH_ADAPTER_MANAGER_H_
 

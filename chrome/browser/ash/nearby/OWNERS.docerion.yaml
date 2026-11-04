@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for ash Nearby
+summary: Delegates code ownership for this directory to the Nearby services OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation certificate generator class declaration
+// summary: Declares AttestationCertificateGeneratorImpl, which generates, caches, and notifies observers about attestation certificates.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PHONEHUB_ATTESTATION_CERTIFICATE_GENERATOR_IMPL_H_
 #define CHROME_BROWSER_ASH_PHONEHUB_ATTESTATION_CERTIFICATE_GENERATOR_IMPL_H_
 

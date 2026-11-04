@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera roll download manager class declaration
+// summary: Declares CameraRollDownloadManagerImpl, which manages camera roll file downloads, progress updates, and file deletion for Phone Hub.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PHONEHUB_CAMERA_ROLL_DOWNLOAD_MANAGER_IMPL_H_
 #define CHROME_BROWSER_ASH_PHONEHUB_CAMERA_ROLL_DOWNLOAD_MANAGER_IMPL_H_
 

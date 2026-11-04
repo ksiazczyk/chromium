@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake rollback network config implementation
+// summary: In-memory fake of the rollback network config service that records imported ONC configurations and exports them for tests.
+// ---
+
 #include "chrome/browser/ash/net/rollback_network_config/fake_rollback_network_config.h"
 
 #include <optional>

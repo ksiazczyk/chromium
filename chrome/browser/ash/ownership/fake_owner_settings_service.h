@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake owner settings service class declaration
+// summary: Declares FakeOwnerSettingsService, a testing replacement for OwnerSettingsServiceAsh with a configurable settings provider.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_OWNERSHIP_FAKE_OWNER_SETTINGS_SERVICE_H_
 #define CHROME_BROWSER_ASH_OWNERSHIP_FAKE_OWNER_SETTINGS_SERVICE_H_
 

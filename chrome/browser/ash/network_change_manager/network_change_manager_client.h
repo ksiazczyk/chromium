@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkChangeManagerClient class header
+// summary: Declares the NetworkChangeManagerClient class that forwards Shill network change events to NetworkChangeNotifierPassive and the network service via Mojo.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NETWORK_CHANGE_MANAGER_NETWORK_CHANGE_MANAGER_CLIENT_H_
 #define CHROME_BROWSER_ASH_NETWORK_CHANGE_MANAGER_NETWORK_CHANGE_MANAGER_CLIENT_H_
 

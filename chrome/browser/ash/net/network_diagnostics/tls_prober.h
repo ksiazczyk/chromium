@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TLS prober header
+// summary: Declares TlsProber, which checks whether a TCP or TLS socket connection to a host can be established for network diagnostics routines.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_TLS_PROBER_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_TLS_PROBER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OobeCompletionTrackerFactory implementation
+// summary: Implements the profile-keyed factory that builds OobeCompletionTracker instances for browser contexts in the multidevice setup feature.
+// ---
+
 #include "chrome/browser/ash/multidevice_setup/oobe_completion_tracker_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

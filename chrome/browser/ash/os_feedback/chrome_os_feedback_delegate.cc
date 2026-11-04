@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS feedback delegate implementation
+// summary: Implements the Chrome-side delegate for the OS feedback UI, sending reports with attachments, screenshots, and system logs, and opening related dialogs and apps.
+// ---
+
 #include "chrome/browser/ash/os_feedback/chrome_os_feedback_delegate.h"
 
 #include <optional>

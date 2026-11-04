@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS resolver present routine header
+// summary: Declares DnsResolverPresentRoutine, which tests whether the current network is set up correctly for performing DNS resolution.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_DNS_RESOLVER_PRESENT_ROUTINE_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_DNS_RESOLVER_PRESENT_ROUTINE_H_
 

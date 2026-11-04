@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update required notification unit tests
+// summary: Unit tests for UpdateRequiredNotification covering notification content and behavior across minimum version policy scenarios using fake settings, DBus and network helpers.
+// ---
+
 #include <memory>
 
 #include "ash/constants/ash_policy_pref_names.h"

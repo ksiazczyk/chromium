@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System proxy credentials dialog declaration
+// summary: Declares RequestSystemProxyCredentialsView, a dialog for requesting proxy authentication credentials for system network traffic.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_REQUEST_SYSTEM_PROXY_CREDENTIALS_VIEW_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_REQUEST_SYSTEM_PROXY_CREDENTIALS_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS resolution routine unit tests
+// summary: Unit tests for DnsResolutionRoutine that use a fake network context and testing profile to verify DNS resolution verdicts and problems.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/dns_resolution_routine.h"
 
 #include "base/containers/circular_deque.h"

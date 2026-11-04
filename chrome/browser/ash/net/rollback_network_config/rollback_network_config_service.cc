@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rollback network config service instance management
+// summary: Manages the in-process RollbackNetworkConfig instance, providing creation, shutdown, and mojo receiver binding for the service.
+// ---
+
 #include "chrome/browser/ash/net/rollback_network_config/rollback_network_config_service.h"
 
 #include "base/check.h"

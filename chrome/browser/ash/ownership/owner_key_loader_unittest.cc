@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Owner key loader unit tests
+// summary: Tests OwnerKeyLoader behavior for owners and non-owners, key generation, and migration using fake NSS services and device policies.
+// ---
+
 #include "chrome/browser/ash/ownership/owner_key_loader.h"
 
 #include <memory>

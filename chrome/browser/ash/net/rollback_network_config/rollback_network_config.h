@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RollbackNetworkConfig class header
+// summary: Declares the RollbackNetworkConfig class implementing the mojom service for importing and exporting rollback network configurations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_ROLLBACK_NETWORK_CONFIG_ROLLBACK_NETWORK_CONFIG_H_
 #define CHROME_BROWSER_ASH_NET_ROLLBACK_NETWORK_CONFIG_ROLLBACK_NETWORK_CONFIG_H_
 

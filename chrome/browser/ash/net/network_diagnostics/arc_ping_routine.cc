@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC ping routine implementation
+// summary: Implements the ARC ping diagnostic routine that runs ICMP echo tests against network gateways from within ARC and reports reachability and latency problems.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/arc_ping_routine.h"
 
 #include <algorithm>

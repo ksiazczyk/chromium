@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby dependencies provider factory implementation
+// summary: Implements the profile-keyed factory that builds NearbyDependenciesProvider, allowing the OTR signin profile for Quick Start and regular profiles for other features.
+// ---
+
 #include "chrome/browser/ash/nearby/nearby_dependencies_provider_factory.h"
 
 #include "ash/constants/ash_features.h"

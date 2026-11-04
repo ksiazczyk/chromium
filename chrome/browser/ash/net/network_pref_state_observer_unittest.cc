@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkPrefStateObserver unit tests
+// summary: Unit tests verifying that NetworkPrefStateObserver initializes network pref services with device prefs and reinitializes them with user prefs after primary user login.
+// ---
+
 #include "chrome/browser/ash/net/network_pref_state_observer.h"
 
 #include <memory>

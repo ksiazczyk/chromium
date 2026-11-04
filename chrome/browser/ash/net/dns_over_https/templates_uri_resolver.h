@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplatesUriResolver interface for DoH template URIs
+// summary: Declares the ash::dns_over_https interface that updates and returns effective and display DNS over HTTPS template URIs from local state prefs and the user.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_DNS_OVER_HTTPS_TEMPLATES_URI_RESOLVER_H_
 #define CHROME_BROWSER_ASH_NET_DNS_OVER_HTTPS_TEMPLATES_URI_RESOLVER_H_
 

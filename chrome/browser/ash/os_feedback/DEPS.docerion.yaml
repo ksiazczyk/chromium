@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the os_feedback directory
+summary: Lists allowed //chrome include dependencies for the directory and extra rules for the browser test, discouraging new //chrome dependencies.

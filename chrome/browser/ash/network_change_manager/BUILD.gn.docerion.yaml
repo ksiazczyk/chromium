@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for network_change_manager
+summary: Defines the network_change_manager static library plus its unit test and browser test source sets with their Chromium dependencies.

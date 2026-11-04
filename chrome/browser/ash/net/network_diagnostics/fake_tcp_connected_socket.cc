@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake TCP connected socket implementation
+// summary: Implements a fake TCP connected socket that simulates TLS upgrades, buffer sizes, and socket options for network diagnostics tests.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/fake_tcp_connected_socket.h"
 
 #include <optional>

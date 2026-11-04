@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby BUILD.gn build targets
+summary: Defines the static library, test support, and unit test targets with their sources and dependencies for the ash Nearby browser code.

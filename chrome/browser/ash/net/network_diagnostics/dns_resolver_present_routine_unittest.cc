@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS resolver present routine unit tests
+// summary: Unit tests for DnsResolverPresentRoutine that configure fake Shill name servers on a WiFi device and compare routine verdicts and problems.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/dns_resolver_present_routine.h"
 #include "base/memory/values_equivalent.h"
 #include "base/no_destructor.h"

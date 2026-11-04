@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for network diagnostics
+summary: Lists the directory owner and routes reviews of .mojom files to the IPC security owners.

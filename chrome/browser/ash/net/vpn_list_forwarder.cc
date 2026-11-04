@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VpnListForwarder implementation
+// summary: Implements VpnListForwarder, which collects VPN providers from extensions and ARC and forwards the list to the Chrome OS network configuration service.
+// ---
+
 #include "chrome/browser/ash/net/vpn_list_forwarder.h"
 
 #include "ash/public/cpp/network_config_service.h"

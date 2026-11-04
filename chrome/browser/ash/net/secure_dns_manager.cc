@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureDnsManager implementation
+// summary: Implements SecureDnsManager, which maps secure DNS and DNS-over-HTTPS preferences to shill properties and migrates DoH prefs from local state to profile prefs.
+// ---
+
 #include "chrome/browser/ash/net/secure_dns_manager.h"
 
 #include <algorithm>

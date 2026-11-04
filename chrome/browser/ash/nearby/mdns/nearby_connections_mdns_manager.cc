@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Connections mDNS manager implementation
+// summary: Implements the Nearby Connections mDNS manager for ChromeOS Ash, starting and stopping mDNS discovery sessions and converting discovered services into NsdServiceInfo for observers.
+// ---
+
 #include "chrome/browser/ash/nearby/mdns/nearby_connections_mdns_manager.h"
 
 #include <string>

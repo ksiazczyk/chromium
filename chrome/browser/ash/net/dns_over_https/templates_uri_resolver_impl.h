@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplatesUriResolverImpl class declaration
+// summary: Declares the TemplatesUriResolverImpl class that builds effective and display DoH templates from prefs, a salt, and injected device attributes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_DNS_OVER_HTTPS_TEMPLATES_URI_RESOLVER_IMPL_H_
 #define CHROME_BROWSER_ASH_NET_DNS_OVER_HTTPS_TEMPLATES_URI_RESOLVER_IMPL_H_
 

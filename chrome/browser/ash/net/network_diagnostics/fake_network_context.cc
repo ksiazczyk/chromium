@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake network context implementation
+// summary: Implements a fake network context that returns scripted DNS results and simulates TCP and UDP socket creation and disconnects for tests.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/fake_network_context.h"
 
 #include <utility>

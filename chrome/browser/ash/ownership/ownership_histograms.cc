@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ownership histograms implementation
+// summary: Implements RecordOwnerKeyEvent by mapping owner key events and their success status to the corresponding UMA histogram events.
+// ---
+
 #include "chrome/browser/ash/ownership/ownership_histograms.h"
 
 #include "base/metrics/histogram_functions.h"

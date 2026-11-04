@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake UDP socket implementation
+// summary: Implements a fake UDP socket with configurable connect, send, and receive results, delays, and disconnects for unit tests.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/fake_udp_socket.h"
 
 #include <optional>

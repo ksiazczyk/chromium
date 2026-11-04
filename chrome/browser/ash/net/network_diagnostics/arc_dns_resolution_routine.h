@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC DNS resolution routine class declaration
+// summary: Declares the ArcDnsResolutionRoutine class that performs DNS queries from within ARC and reports the results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_ARC_DNS_RESOLUTION_ROUTINE_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_ARC_DNS_RESOLUTION_ROUTINE_H_
 

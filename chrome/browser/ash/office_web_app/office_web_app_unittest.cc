@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Microsoft 365 web app installation
+// summary: Verifies online and offline installation of the Microsoft 365 web app, covering app ID handling and installed icon correctness.
+// ---
+
 #include "chrome/browser/ash/office_web_app/office_web_app.h"
 
 #include "ash/constants/web_app_id_constants.h"

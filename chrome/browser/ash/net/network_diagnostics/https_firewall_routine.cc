@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS firewall routine implementation
+// summary: Implements the routine that probes HTTPS port 443 hosts to detect a firewall blocking HTTPS, evaluating DNS resolution and TLS probe failure rates.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/https_firewall_routine.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: PhoneHub code owners
+summary: Delegates ownership review for this directory to the PhoneHub component OWNERS file.

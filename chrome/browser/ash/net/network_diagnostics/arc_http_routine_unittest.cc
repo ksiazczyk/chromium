@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ARC HTTP routine
+// summary: Tests the ARC HTTP routine with a fake NetInstance, covering success, failed requests, bad status codes, and latency cases.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/arc_http_routine.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemProxyManager unit tests
+// summary: Unit tests for SystemProxyManager verifying proxy credential handling, managed proxy configuration, and interaction with the network service.
+// ---
+
 #include "chrome/browser/ash/net/system_proxy_manager.h"
 
 #include "ash/constants/ash_pref_names.h"

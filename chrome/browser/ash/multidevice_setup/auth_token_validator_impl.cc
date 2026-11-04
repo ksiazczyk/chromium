@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth token validator implementation
+// summary: Implements IsAuthTokenValid by delegating the check to the ash AuthSessionStorage.
+// ---
+
 #include "chrome/browser/ash/multidevice_setup/auth_token_validator_impl.h"
 
 #include "chromeos/ash/components/osauth/public/auth_session_storage.h"

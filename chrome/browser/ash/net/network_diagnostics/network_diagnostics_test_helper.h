@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network diagnostics test helper interface
+// summary: Declares a test fixture helper offering WiFi setup, shill service configuration, and property setting for network diagnostics unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_NETWORK_DIAGNOSTICS_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_NETWORK_DIAGNOSTICS_TEST_HELPER_H_
 

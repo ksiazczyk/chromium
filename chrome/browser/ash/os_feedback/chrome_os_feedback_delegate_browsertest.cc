@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Chrome OS feedback delegate
+// summary: Browser tests covering report sending, user consent, wifi debug log policy, screenshots, and dialog behavior of the feedback delegate.
+// ---
+
 #include "chrome/browser/ash/os_feedback/chrome_os_feedback_delegate.h"
 
 #include <memory>

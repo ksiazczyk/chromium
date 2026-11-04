@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera roll download manager implementation
+// summary: Implements downloading Phone Hub camera roll items, creating payload files, checking disk space, tracking transfer progress, and updating the holding space.
+// ---
+
 #include "chrome/browser/ash/phonehub/camera_roll_download_manager_impl.h"
 
 #include <optional>

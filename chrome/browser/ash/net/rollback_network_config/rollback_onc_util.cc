@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rollback ONC utility functions
+// summary: Provides helpers to read ONC values and collapse managed ONC network configurations to their active settings or UI data.
+// ---
+
 #include "chrome/browser/ash/net/rollback_network_config/rollback_onc_util.h"
 
 #include "base/check.h"

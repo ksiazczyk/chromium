@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkThrottlingObserver class header
+// summary: Declares NetworkThrottlingObserver, a singleton that propagates the network bandwidth throttling policy preference from Chrome down to Shill.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_THROTTLING_OBSERVER_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_THROTTLING_OBSERVER_H_
 

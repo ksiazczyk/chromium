@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby process manager factory declaration
+// summary: Declares NearbyProcessManagerFactory, which builds the Nearby process manager per profile and documents its use for OOBE Quick Start via the OTR signin profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NEARBY_NEARBY_PROCESS_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_ASH_NEARBY_NEARBY_PROCESS_MANAGER_FACTORY_H_
 

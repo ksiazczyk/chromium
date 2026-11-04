@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System proxy authentication notification implementation
+// summary: Shows a pinned message center notification when System-proxy requires user credentials to authenticate to a remote web proxy, invoking a callback on click.
+// ---
+
 #include "chrome/browser/ash/notifications/system_proxy_notification.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Owner key loader implementation
+// summary: Loads, generates, and optionally migrates the device owner key pair, with feature flags for storing the key in the private NSS slot.
+// ---
+
 #include "chrome/browser/ash/ownership/owner_key_loader.h"
 
 #include <string>

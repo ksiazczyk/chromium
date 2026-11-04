@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OobeCompletionTrackerFactory header
+// summary: Declares the ProfileKeyedServiceFactory that owns OobeCompletionTracker instances and associates them with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MULTIDEVICE_SETUP_OOBE_COMPLETION_TRACKER_FACTORY_H_
 #define CHROME_BROWSER_ASH_MULTIDEVICE_SETUP_OOBE_COMPLETION_TRACKER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth pref state observer implementation
+// summary: Implements the observer that supplies CrosBluetoothConfig with device and primary profile preferences as user sessions load.
+// ---
+
 #include "chrome/browser/ash/net/bluetooth_pref_state_observer.h"
 
 #include "chrome/browser/ash/profiles/profile_helper.h"

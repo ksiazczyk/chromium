@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkHealthManager implementation
+// summary: Implements the NetworkHealthManager singleton that binds Mojo receivers for the network health and diagnostics services and runs connectivity routines.
+// ---
+
 #include "chrome/browser/ash/net/network_health/network_health_manager.h"
 
 #include "base/no_destructor.h"

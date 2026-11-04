@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start connectivity service factory implementation
+// summary: Implements the factory that creates QuickStartConnectivityServiceImpl for the primary OTR signin profile when the cross-device feature suite is allowed.
+// ---
+
 #include "chrome/browser/ash/nearby/quick_start_connectivity_service_factory.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Note taking controller client implementation
+// summary: Implements the controller client that tracks the active user's profile and forwards note creation requests to the note taking helper.
+// ---
+
 #include "chrome/browser/ash/note_taking/note_taking_controller_client.h"
 
 #include "chrome/browser/profiles/profile.h"

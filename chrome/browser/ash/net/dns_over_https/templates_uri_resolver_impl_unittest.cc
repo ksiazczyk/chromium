@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TemplatesUriResolverImpl
+// summary: Tests placeholder substitution, salted hashing, unknown identifiers, and display templates for the DoH resolver using fake device attributes and network test helpers.
+// ---
+
 #include "chrome/browser/ash/net/dns_over_https/templates_uri_resolver_impl.h"
 
 #include "ash/constants/ash_features.h"

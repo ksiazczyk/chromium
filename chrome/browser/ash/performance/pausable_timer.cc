@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pausable timer implementation
+// summary: Implements a one-shot timer that can be paused, tracking the remaining duration before invoking its callback.
+// ---
+
 #include "chrome/browser/ash/performance/pausable_timer.h"
 
 #include "base/time/time.h"

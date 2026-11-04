@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Connections mDNS manager unit tests
+// summary: Unit tests for NearbyConnectionsMdnsManager that use a fake device lister and observer to verify discovery session handling and service found, lost, and cache-flushed notifications.
+// ---
+
 #include "chrome/browser/ash/nearby/mdns/nearby_connections_mdns_manager.h"
 
 #include "base/memory/raw_ptr.h"

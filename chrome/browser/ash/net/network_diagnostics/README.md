@@ -1,3 +1,9 @@
+---
+type: readme
+title: Network Diagnostics Routines
+summary: Explains how to use the network diagnostics API, add new routines, interpret results, and describes each routine grouped by connectivity level.
+---
+
 # Network Diagnostics Routines
 
 Routines for diagnosing network connectivity issues. This code is maintained by

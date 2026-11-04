@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB sideloading policy change notification class
+// summary: Declares AdbSideloadingPolicyChangeNotification, which shows notifications for sideloading disallowed and powerwash policy changes on next login.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_ADB_SIDELOADING_POLICY_CHANGE_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_ADB_SIDELOADING_POLICY_CHANGE_NOTIFICATION_H_
 

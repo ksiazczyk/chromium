@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gnubby notification unit tests
+// summary: Unit tests verifying that the gnubby notification is shown with the expected title, dismissed, and can be shown again after user dismissal.
+// ---
+
 #include "chrome/browser/ash/notifications/gnubby_notification.h"
 
 #include <memory>

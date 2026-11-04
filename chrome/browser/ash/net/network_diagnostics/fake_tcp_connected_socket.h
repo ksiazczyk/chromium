@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake TCP connected socket header
+// summary: Declares FakeTCPConnectedSocket, a test double for the TCP connected socket Mojo interface with configurable TLS upgrade results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_FAKE_TCP_CONNECTED_SOCKET_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_FAKE_TCP_CONNECTED_SOCKET_H_
 

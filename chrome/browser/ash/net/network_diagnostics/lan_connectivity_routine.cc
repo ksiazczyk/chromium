@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LAN connectivity routine implementation
+// summary: Implements the LAN connectivity routine that queries CrosNetworkConfig for active networks and reports whether any is connected.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/lan_connectivity_routine.h"
 
 #include <utility>

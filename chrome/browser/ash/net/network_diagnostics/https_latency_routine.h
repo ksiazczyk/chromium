@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS latency routine header
+// summary: Declares the HttpsLatencyRoutine class that tests whether HTTPS latency is within established tolerance levels for the system.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_HTTPS_LATENCY_ROUTINE_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_HTTPS_LATENCY_ROUTINE_H_
 

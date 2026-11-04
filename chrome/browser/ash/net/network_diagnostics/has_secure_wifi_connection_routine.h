@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Has Secure WiFi Connection routine header
+// summary: Declares the HasSecureWiFiConnectionRoutine class that tests whether the WiFi connection uses a secure encryption method via the CrosNetworkConfig service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_HAS_SECURE_WIFI_CONNECTION_ROUTINE_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_HAS_SECURE_WIFI_CONNECTION_ROUTINE_H_
 

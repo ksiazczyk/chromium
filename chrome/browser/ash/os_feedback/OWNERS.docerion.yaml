@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for os_feedback
+summary: Delegates code ownership of this directory to the OWNERS file of the os_feedback_ui web UI.

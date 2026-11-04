@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rollback ONC utilities for WiFi and Ethernet network configs
+// summary: Declares helper functions for reading, checking and collapsing managed and unmanaged ONC WiFi, Ethernet and EAP network configurations used by the rollback network config component.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_ROLLBACK_NETWORK_CONFIG_ROLLBACK_ONC_UTIL_H_
 #define CHROME_BROWSER_ASH_NET_ROLLBACK_NETWORK_CONFIG_ROLLBACK_ONC_UTIL_H_
 

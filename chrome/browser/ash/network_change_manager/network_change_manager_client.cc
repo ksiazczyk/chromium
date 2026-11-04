@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkChangeManagerClient implementation
+// summary: Implements the client that listens to Shill and power manager events and propagates network changes to the passive notifier and the network service.
+// ---
+
 #include "chrome/browser/ash/network_change_manager/network_change_manager_client.h"
 
 #include "base/functional/bind.h"

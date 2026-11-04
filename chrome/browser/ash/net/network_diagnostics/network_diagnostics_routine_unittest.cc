@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NetworkDiagnosticsRoutine
+// summary: Tests the base routine class with a minimal derived routine, covering default runs, not-run verdicts when CanRun fails, and call source reporting.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/network_diagnostics_routine.h"
 
 #include "base/test/bind.h"

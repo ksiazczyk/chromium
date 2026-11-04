@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash DNS-over-HTTPS config source implementation
+// summary: Implements the Ash DNS-over-HTTPS configuration source that reads mode and template URIs from the SecureDnsManager and reports managed state.
+// ---
+
 #include "chrome/browser/ash/net/ash_dns_over_https_config_source.h"
 
 #include <string>

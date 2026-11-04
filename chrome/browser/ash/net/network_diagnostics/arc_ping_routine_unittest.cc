@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC ping routine unit tests
+// summary: Unit tests for the ARC ping routine covering successful pings, unreachable gateways, ping failures and high latency scenarios using a fake net instance.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/arc_ping_routine.h"
 
 #include <memory>

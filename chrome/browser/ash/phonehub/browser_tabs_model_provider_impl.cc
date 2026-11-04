@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tabs model provider implementation
+// summary: Implements the Phone Hub browser tabs model provider, matching synced sessions to the connected phone's device name and fetching tab metadata via session sync.
+// ---
+
 #include "chrome/browser/ash/phonehub/browser_tabs_model_provider_impl.h"
 
 #include "base/memory/raw_ptr.h"

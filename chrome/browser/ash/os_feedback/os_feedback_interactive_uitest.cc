@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for the OS feedback app
+// summary: Interactive Ash tests verifying the feedback system web app opens via the Alt+Shift+I shortcut and from the About ChromeOS settings page.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "base/feature_list.h"
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gateway Can Be Pinged Routine Implementation
+// summary: Implements the network diagnostics routine that pings gateways of active networks and reports verdicts based on reachability and latency thresholds.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/gateway_can_be_pinged_routine.h"
 
 #include <optional>

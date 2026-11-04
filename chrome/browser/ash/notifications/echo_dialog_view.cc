@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo dialog view implementation
+// summary: Implements the consent dialog shown by the echoPrivate extension API, laying out buttons and text for enabled Echo offer redemption or a policy-disabled message.
+// ---
+
 #include "chrome/browser/ash/notifications/echo_dialog_view.h"
 
 #include <stddef.h>

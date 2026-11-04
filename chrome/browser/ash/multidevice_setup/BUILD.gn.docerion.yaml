@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for multidevice_setup
+summary: Defines the multidevice_setup static library target with its sources and dependencies for ChromeOS Ash builds.

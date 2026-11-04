@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Always-on VPN pre-connect URL allowlist service browser tests
+// summary: Browser tests verifying that the pre-connect URL allowlist is enforced or delayed under Always-on VPN lockdown using fake shill networks.
+// ---
+
 #include "chrome/browser/ash/net/alwayson_vpn_pre_connect_url_allowlist_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS feedback screenshot manager header
+// summary: Declares the singleton manager that takes and stores a screenshot before the feedback app launches and cleans the data up when the app exits.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_OS_FEEDBACK_OS_FEEDBACK_SCREENSHOT_MANAGER_H_
 #define CHROME_BROWSER_ASH_OS_FEEDBACK_OS_FEEDBACK_SCREENSHOT_MANAGER_H_
 

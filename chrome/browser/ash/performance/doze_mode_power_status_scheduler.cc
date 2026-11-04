@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Doze mode power status scheduler implementation
+// summary: Implements the scheduler that switches ARCVM between real power, real battery and simulated battery status, with compensation timers and daily UMA metric reporting.
+// ---
+
 #include "chrome/browser/ash/performance/doze_mode_power_status_scheduler.h"
 
 #include <string_view>

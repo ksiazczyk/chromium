@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deprecation notifications for rewritten shortcuts
+// summary: Implements once-per-session notifications about deprecated event rewrites such as Alt-Click and six-pack key rewrites, linking to the shortcut help page.
+// ---
+
 #include "chrome/browser/ash/notifications/deprecation_notification_controller.h"
 
 #include <string>

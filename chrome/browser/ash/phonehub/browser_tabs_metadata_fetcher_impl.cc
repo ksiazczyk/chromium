@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tabs metadata fetcher implementation
+// summary: Collects and sorts synced session tab metadata, filtering non-HTTP URLs, and fetches favicons for the most recent tabs.
+// ---
+
 #include "chrome/browser/ash/phonehub/browser_tabs_metadata_fetcher_impl.h"
 
 #include "base/barrier_closure.h"

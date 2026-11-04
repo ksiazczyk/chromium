@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for multidevice_setup
+summary: Sets include rules that restrict dependencies on //chrome and allow specific ChromeOS browser dependencies for this directory.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PhoneHub build configuration
+summary: Defines the phonehub static library and unit test source set with their sources and dependencies.

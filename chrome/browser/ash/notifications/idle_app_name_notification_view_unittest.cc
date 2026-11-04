@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Idle app name notification view unit tests
+// summary: Unit tests checking creation, self-destruction, and the shown text of the idle app name notification for correct and incorrect kiosk app extensions.
+// ---
+
 #include "chrome/browser/ash/notifications/idle_app_name_notification_view.h"
 
 #include "ash/constants/chrome_switches.h"

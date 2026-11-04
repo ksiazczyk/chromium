@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Always-on VPN pre-connect URL allowlist service factory header
+// summary: Declares the ProfileKeyedServiceFactory that creates the allowlist service for the main profile of managed users.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_ALWAYSON_VPN_PRE_CONNECT_URL_ALLOWLIST_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_NET_ALWAYSON_VPN_PRE_CONNECT_URL_ALLOWLIST_SERVICE_FACTORY_H_
 

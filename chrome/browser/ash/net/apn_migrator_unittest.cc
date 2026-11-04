@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: APN migrator unit tests
+// summary: Unit tests for the APN migrator, covering cellular APN migration across devices, device policies and related metrics.
+// ---
+
 #include "chrome/browser/ash/net/apn_migrator.h"
 
 #include <algorithm>

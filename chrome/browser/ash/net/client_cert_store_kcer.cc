@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KCer client cert store implementation
+// summary: Implements a client certificate store that collects certificates from Kcer tokens and a certificate provider and filters them for SSL requests.
+// ---
+
 #include "chrome/browser/ash/net/client_cert_store_kcer.h"
 
 #include <algorithm>

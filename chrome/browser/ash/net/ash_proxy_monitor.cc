@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash proxy monitor implementation
+// summary: Implements the Ash proxy monitor that tracks proxy changes from policies, extensions and the default network and notifies observers.
+// ---
+
 #include "chrome/browser/ash/net/ash_proxy_monitor.h"
 
 #include <stdint.h>

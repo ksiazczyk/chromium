@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tabs metadata fetcher unit tests
+// summary: Tests tab metadata ordering, URL filtering, and favicon fetching with a mocked favicon request handler.
+// ---
+
 #include "chrome/browser/ash/phonehub/browser_tabs_metadata_fetcher_impl.h"
 
 #include <deque>

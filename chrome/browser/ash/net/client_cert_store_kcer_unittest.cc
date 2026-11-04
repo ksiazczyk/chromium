@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientCertStoreKcer unit tests
+// summary: Unit tests for the Kcer-based client certificate store, verifying client cert identity lookup and private key retrieval using NSS test slots and imported test certificates.
+// ---
+
 #include "chrome/browser/ash/net/client_cert_store_kcer.h"
 
 #include <memory>

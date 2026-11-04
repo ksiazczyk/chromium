@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the debugd packet capture notification handler
+// summary: Verifies the packet capture notification appears and disappears on daemon signals and behaves correctly for button and notification body clicks.
+// ---
+
 #include "chrome/browser/ash/notifications/debugd_notification_handler.h"
 
 #include <memory>
