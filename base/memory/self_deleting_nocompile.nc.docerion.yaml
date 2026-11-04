@@ -1,0 +1,4 @@
+# Docerion header of self_deleting_nocompile.nc.
+type: test
+title: No-compile tests for self-deleting helpers
+summary: No-compile test suite verifying that invalid MakeSelfDeleting usage, such as public destructors or direct construction, fails to build.

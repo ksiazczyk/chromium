@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform shared memory handle POSIX implementation
+// summary: Implements the ScopedFDPair helper that owns the main and read-only file descriptors of a shared memory region on POSIX platforms other than Apple and Android.
+// ---
+
 #include "base/memory/platform_shared_memory_handle.h"
 
 namespace base::subtle {

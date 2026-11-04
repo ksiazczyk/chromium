@@ -1,0 +1,4 @@
+# Docerion header of weak_ptr_nocompile.nc.
+type: test
+title: WeakPtr no-compile tests
+summary: No-compile test suite asserting that WeakPtr downcasts, mutable pointers from const factories, and unauthorized sequence binding fail to compile.

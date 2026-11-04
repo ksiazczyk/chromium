@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia shared memory mapper implementation
+// summary: Implements Map and Unmap for Fuchsia by mapping VMOs into the root virtual address space through zx::vmar with read and optional write permissions.
+// ---
+
 #include "base/memory/platform_shared_memory_mapper.h"
 
 #include <lib/zx/vmar.h>

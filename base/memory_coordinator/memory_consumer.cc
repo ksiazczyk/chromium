@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryConsumer and MemoryConsumerRegistration implementation
+// summary: Implements the MemoryConsumer base class and the registration that adds consumers to the registry, enforcing unregister checks and registry destruction ordering.
+// ---
+
 #include "base/memory_coordinator/memory_consumer.h"
 
 #include "base/check_is_test.h"

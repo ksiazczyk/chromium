@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows message pump implementation
+// summary: Implements the Windows message pump variants, handling native message scheduling, sleep timeout computation, and the UI pump's message-only window.
+// ---
+
 #include "base/message_loop/message_pump_win.h"
 
 #include <windows.h>

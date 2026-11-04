@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AsyncMemoryConsumerRegistration unit tests
+// summary: Tests registering consumers on other sequences, notification delivery, and registry destruction before asynchronous cleanup.
+// ---
+
 #include "base/memory_coordinator/async_memory_consumer_registration.h"
 
 #include <optional>

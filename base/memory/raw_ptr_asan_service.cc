@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RawPtrAsanService implementation
+// summary: Implements the RawPtrAsanService singleton that manages allocation metadata maps, quarantine decisions, event logging, and MiraclePtr reporting under ASAN.
+// ---
+
 #include "base/memory/raw_ptr_asan_service.h"
 
 #if PA_BUILDFLAG(USE_ASAN_BACKUP_REF_PTR)

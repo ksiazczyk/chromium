@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Available memory monitor unit tests
+// summary: Unit tests for AvailableMemoryMonitor covering observer notifications, periodic polling with mock time, and GetLastSample caching.
+// ---
+
 #include "base/memory/available_memory_monitor.h"
 
 #include <cstdint>

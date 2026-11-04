@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncMemoryConsumerRegistration class declaration
+// summary: Declares a class to register a MemoryConsumer that does not live on the main thread so it receives notifications asynchronously.
+// ---
+
 #ifndef BASE_MEMORY_COORDINATOR_ASYNC_MEMORY_CONSUMER_REGISTRATION_H_
 #define BASE_MEMORY_COORDINATOR_ASYNC_MEMORY_CONSUMER_REGISTRATION_H_
 

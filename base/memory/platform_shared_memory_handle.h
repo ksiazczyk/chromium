@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform shared memory handle types
+// summary: Defines platform-specific shared memory handle typedefs for Apple, Fuchsia, Windows, Android and POSIX, plus the FDPair and ScopedFDPair helper structs for POSIX.
+// ---
+
 #ifndef BASE_MEMORY_PLATFORM_SHARED_MEMORY_HANDLE_H_
 #define BASE_MEMORY_PLATFORM_SHARED_MEMORY_HANDLE_H_
 

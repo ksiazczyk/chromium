@@ -1,0 +1,4 @@
+# Docerion header of message_pump_apple_unittest.mm.
+type: test
+title: Unit tests for the Apple message pump
+summary: Unit tests for MessagePumpApple covering quitting with modal windows, nested run loops from idle work, and nested RunLoop quit behavior from native events on macOS.

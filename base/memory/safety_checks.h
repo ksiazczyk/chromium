@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory safety check declarations and quarantine scopes
+// summary: Declares the double-free/corruption callback hook and scheduler loop quarantine task scope helpers used with PartitionAlloc memory safety mechanisms.
+// ---
+
 #ifndef BASE_MEMORY_SAFETY_CHECKS_H_
 #define BASE_MEMORY_SAFETY_CHECKS_H_
 

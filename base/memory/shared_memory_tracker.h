@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory tracker interface
+// summary: Declares SharedMemoryTracker, a memory dump provider singleton that tracks shared memory usage for tracing.
+// ---
+
 #ifndef BASE_MEMORY_SHARED_MEMORY_TRACKER_H_
 #define BASE_MEMORY_SHARED_MEMORY_TRACKER_H_
 

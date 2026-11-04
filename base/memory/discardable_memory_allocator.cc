@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscardableMemoryAllocator instance and retry allocation
+// summary: Implements global instance management for the discardable memory allocator plus an allocation path that retries once after freeing memory and terminates on out-of-memory.
+// ---
+
 #include "base/memory/discardable_memory_allocator.h"
 
 #include <utility>

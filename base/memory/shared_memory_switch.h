@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory switch API for process handoff
+// summary: Declares the SharedMemorySwitch struct and error enum for passing shared memory regions to child processes via launch parameters.
+// ---
+
 #ifndef BASE_MEMORY_SHARED_MEMORY_SWITCH_H_
 #define BASE_MEMORY_SHARED_MEMORY_SWITCH_H_
 

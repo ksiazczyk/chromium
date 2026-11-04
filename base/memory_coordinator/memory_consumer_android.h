@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android MemoryConsumer Java peer header
+// summary: Declares the C++ native peer for Java MemoryConsumer implementations, plus functions to flush pending Java registrations and notify Java when the native registry is destroyed.
+// ---
+
 #ifndef BASE_MEMORY_COORDINATOR_MEMORY_CONSUMER_ANDROID_H_
 #define BASE_MEMORY_COORDINATOR_MEMORY_CONSUMER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protected memory POSIX implementation
+// summary: Implements read-only and read-write page protection for protected memory on POSIX platforms using mprotect.
+// ---
+
 #include "base/memory/protected_memory.h"
 
 #include <sys/mman.h>

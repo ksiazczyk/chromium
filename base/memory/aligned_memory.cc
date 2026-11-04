@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aligned memory allocation implementation
+// summary: Implements cross-platform aligned allocation with AlignedAlloc, AlignedCalloc, and AlignedFree, including PartitionAlloc allocator shim support.
+// ---
+
 #include "base/memory/aligned_memory.h"
 
 #include <string.h>

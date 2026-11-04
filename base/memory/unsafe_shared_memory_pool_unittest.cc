@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnsafeSharedMemoryPool unit tests
+// summary: Unit tests verifying that the pool creates valid regions, reuses freed regions, and respects requested sizes.
+// ---
+
 #include "base/memory/unsafe_shared_memory_pool.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

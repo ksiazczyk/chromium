@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RawPtrAsanEvent header
+// summary: Defines the RawPtrAsanEvent structure and RawPtrAsanEventLog class that record quarantine and free events with thread IDs and stack traces for MiraclePtr reporting.
+// ---
+
 #ifndef BASE_MEMORY_RAW_PTR_ASAN_EVENT_H_
 #define BASE_MEMORY_RAW_PTR_ASAN_EVENT_H_
 

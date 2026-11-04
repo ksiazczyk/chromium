@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: raw_ptr_cast facade header
+// summary: Facade header that forwards raw_ptr cast utilities to the PartitionAlloc pointers header for shorter include paths.
+// ---
+
 #ifndef BASE_MEMORY_RAW_PTR_CAST_H_
 #define BASE_MEMORY_RAW_PTR_CAST_H_
 

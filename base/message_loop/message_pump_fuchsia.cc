@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia message pump implementation
+// summary: Implements MessagePumpFuchsia, watching Zircon handles and file descriptors through the Fuchsia async dispatcher with watch controllers and signal handling.
+// ---
+
 #include "base/message_loop/message_pump_fuchsia.h"
 
 #include <lib/async-loop/cpp/loop.h>

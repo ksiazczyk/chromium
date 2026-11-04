@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the memory_coordinator directory
+summary: Lists the primary and secondary code owners responsible for reviewing changes to this directory.

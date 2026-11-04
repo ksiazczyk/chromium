@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePumpIOSForIO implementation
+// summary: Implements file descriptor watching on iOS using CFFileDescriptor and CFRunLoop sources, dispatching read and write callbacks to registered watchers.
+// ---
+
 #include "base/message_loop/message_pump_io_ios.h"
 
 #include "base/notreached.h"

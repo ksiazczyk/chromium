@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMemoryConsumer test double declarations
+// summary: Declares a gmock-based MockMemoryConsumer and a RegisteredMockMemoryConsumer that automatically registers with the global memory consumer registry.
+// ---
+
 #ifndef BASE_MEMORY_COORDINATOR_MOCK_MEMORY_CONSUMER_H_
 #define BASE_MEMORY_COORDINATOR_MOCK_MEMORY_CONSUMER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory coordinator feature declarations
+// summary: Declares feature flags for stateful memory pressure behavior and for LRUCache instances registering as memory consumers with the memory coordinator.
+// ---
+
 #ifndef BASE_MEMORY_COORDINATOR_MEMORY_COORDINATOR_FEATURES_H_
 #define BASE_MEMORY_COORDINATOR_MEMORY_COORDINATOR_FEATURES_H_
 

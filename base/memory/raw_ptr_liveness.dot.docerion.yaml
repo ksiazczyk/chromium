@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_liveness.dot.
+type: reference
+title: BackupRefPtr liveness decision diagram
+summary: Graphviz diagram tracing when BackupRefPtr is live, inert, or a no-op across build configurations, targets, and platforms.

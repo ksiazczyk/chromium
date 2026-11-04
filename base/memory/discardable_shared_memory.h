@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscardableSharedMemory platform abstraction
+// summary: Declares the platform abstraction for discardable shared memory, including create, map, lock, unlock, and purge behavior across platforms.
+// ---
+
 #ifndef BASE_MEMORY_DISCARDABLE_SHARED_MEMORY_H_
 #define BASE_MEMORY_DISCARDABLE_SHARED_MEMORY_H_
 

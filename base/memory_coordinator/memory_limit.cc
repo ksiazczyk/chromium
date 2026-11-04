@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryLimit ByteSize scaling implementation
+// summary: Implements scaling of ByteSize baselines by a memory limit with saturating behavior, plus the gtest pretty-printer for MemoryLimit.
+// ---
+
 #include "base/memory_coordinator/memory_limit.h"
 
 #include <ostream>

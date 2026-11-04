@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory safety checker for cross-memory types
+// summary: Template machinery that decides which C++ types are safe to copy across shared memory, banning pointers, spans, and non-lock-free atomics.
+// ---
+
 #ifndef BASE_MEMORY_SHARED_MEMORY_SAFETY_CHECKER_H_
 #define BASE_MEMORY_SHARED_MEMORY_SAFETY_CHECKER_H_
 

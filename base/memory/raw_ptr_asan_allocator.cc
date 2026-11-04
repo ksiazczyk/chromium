@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: raw_ptr ASan internal allocator
+// summary: Defines the PartitionAlloc-based internal allocator used by raw_ptr when ASan backup-ref support is enabled.
+// ---
+
 #include "base/memory/raw_ptr_asan_allocator.h"
 
 #if PA_BUILDFLAG(USE_ASAN_BACKUP_REF_PTR_V2)

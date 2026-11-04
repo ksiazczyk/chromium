@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnsafeSharedMemoryPool implementation
+// summary: Implements allocation, reuse, release and shutdown of pooled unsafe shared memory regions and their writable mappings.
+// ---
+
 #include "base/memory/unsafe_shared_memory_pool.h"
 
 #include "base/logging.h"

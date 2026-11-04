@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of PlatformSharedMemoryRegion
+// summary: Implements the platform shared memory region API on Android using ashmem, covering creation, duplication and conversion between writable, read-only and unsafe modes.
+// ---
+
 #include "base/memory/platform_shared_memory_region.h"
 
 #include <sys/mman.h>

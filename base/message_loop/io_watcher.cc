@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOWatcher implementation
+// summary: Implements the IOWatcher entry points that forward file descriptor, Mach port and Zircon handle watch registrations to the current thread's message pump.
+// ---
+
 #include "base/message_loop/io_watcher.h"
 
 #include <memory>

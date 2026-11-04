@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StructuredSharedMemory unit tests
+// summary: Unit tests covering creation, initialization, read-write and read-only mapping, custom mapper failures, and duplicate-region death checks.
+// ---
+
 #include "base/memory/structured_shared_memory.h"
 
 #include <atomic>

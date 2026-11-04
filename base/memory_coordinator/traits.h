@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryConsumerTraits definitions
+// summary: Defines MemoryConsumerTraits and its enums describing consumer type, estimated memory usage, data access during release, and other traits that characterize memory consumers.
+// ---
+
 #ifndef BASE_MEMORY_COORDINATOR_TRAITS_H_
 #define BASE_MEMORY_COORDINATOR_TRAITS_H_
 

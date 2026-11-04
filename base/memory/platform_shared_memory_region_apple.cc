@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple implementation of PlatformSharedMemoryRegion
+// summary: Implements the platform shared memory region API on Apple platforms with Mach send rights, covering duplication, read-only conversion and region creation.
+// ---
+
 #include "base/memory/platform_shared_memory_region.h"
 
 #include <mach/vm_map.h>

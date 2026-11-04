@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory security policy implementation
+// summary: Enforces a global limit on total mapped shared memory to prevent address space spraying that could bypass ASLR.
+// ---
+
 #include "base/memory/shared_memory_security_policy.h"
 
 #include <algorithm>

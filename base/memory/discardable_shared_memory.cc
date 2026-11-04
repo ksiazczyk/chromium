@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscardableSharedMemory implementation
+// summary: Implements discardable shared memory with atomic shared state, page alignment, and platform support for POSIX, Android ashmem, Windows, and Fuchsia.
+// ---
+
 #include "base/memory/discardable_shared_memory.h"
 
 #include <stdint.h>

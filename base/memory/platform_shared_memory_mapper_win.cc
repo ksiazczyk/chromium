@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows shared memory mapper implementation
+// summary: Implements Map and Unmap for Windows using MapViewOfFile and UnmapViewOfFile, retrying once after releasing reserved address space on failure.
+// ---
+
 #include "base/memory/platform_shared_memory_mapper.h"
 
 #include <aclapi.h>

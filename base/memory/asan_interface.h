@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ASan interface wrapper
+// summary: Convenience header that exposes ASan poison and unpoison macros, falling back to no-op definitions when AddressSanitizer is disabled.
+// ---
+
 #ifndef BASE_MEMORY_ASAN_INTERFACE_H_
 #define BASE_MEMORY_ASAN_INTERFACE_H_
 

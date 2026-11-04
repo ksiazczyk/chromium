@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WorkIdProvider unit tests
+// summary: Unit tests verifying that WorkIdProvider starts at zero, increments its work id, and skips zero on unsigned integer overflow.
+// ---
+
 #include "base/message_loop/work_id_provider.h"
 
 #include <limits>

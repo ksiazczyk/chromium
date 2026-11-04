@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory region performance tests
+// summary: Performance test measuring create, map, and touch timings for unsafe, writable, and read-only shared memory regions.
+// ---
+
 #include <string>
 
 #include "base/containers/span.h"

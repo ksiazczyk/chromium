@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeakAutoReset scoped field reset utility
+// summary: Defines WeakAutoReset, which temporarily sets an object field through a weak pointer and restores the original value on scope exit without use-after-free.
+// ---
+
 #ifndef BASE_MEMORY_WEAK_AUTO_RESET_H_
 #define BASE_MEMORY_WEAK_AUTO_RESET_H_
 

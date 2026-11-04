@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android message pump implementation
+// summary: Implements the Android message pump on top of ALooper using eventfd and timerfd, including an IOWatcher for arbitrary file descriptor watches.
+// ---
+
 #include "base/message_loop/message_pump_android.h"
 
 #include <android/looper.h>

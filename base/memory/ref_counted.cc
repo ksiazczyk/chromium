@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reference counting implementation
+// summary: Implements reference-counting bases with overflow-checked AddRef and Release plus cross-thread ref-count access debugging support.
+// ---
+
 #include "base/memory/ref_counted.h"
 
 #include <limits>

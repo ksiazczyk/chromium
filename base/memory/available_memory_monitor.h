@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Available memory monitor API
+// summary: Declares a singleton monitor that periodically samples available system memory and notifies observers with MemorySample snapshots.
+// ---
+
 #ifndef BASE_MEMORY_AVAILABLE_MEMORY_MONITOR_H_
 #define BASE_MEMORY_AVAILABLE_MEMORY_MONITOR_H_
 

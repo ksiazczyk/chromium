@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory mapping classes
+// summary: Declares SharedMemoryMapping and its read-only and writable variants for scoped access to mapped shared memory.
+// ---
+
 #ifndef BASE_MEMORY_SHARED_MEMORY_MAPPING_H_
 #define BASE_MEMORY_SHARED_MEMORY_MAPPING_H_
 

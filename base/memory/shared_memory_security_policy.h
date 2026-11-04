@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory security policy interface
+// summary: Declares helpers to acquire and release reservations for shared memory mappings, capping total mapped size for security.
+// ---
+
 #ifndef BASE_MEMORY_SHARED_MEMORY_SECURITY_POLICY_H_
 #define BASE_MEMORY_SHARED_MEMORY_SECURITY_POLICY_H_
 

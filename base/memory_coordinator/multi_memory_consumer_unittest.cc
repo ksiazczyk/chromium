@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiMemoryConsumer unit tests
+// summary: Unit tests verifying memory limit updates and release notifications for synchronous and asynchronous multi-intervention registrations using a test registry and mock consumer.
+// ---
+
 #include "base/memory_coordinator/multi_memory_consumer.h"
 
 #include "base/memory_coordinator/test_memory_consumer_registry.h"

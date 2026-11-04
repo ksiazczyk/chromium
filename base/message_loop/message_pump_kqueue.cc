@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePumpKqueue implementation
+// summary: Implements the macOS kqueue-based message pump that watches POSIX file descriptors and Mach ports and uses a Mach port to wake the pump for scheduled work.
+// ---
+
 #include "base/message_loop/message_pump_kqueue.h"
 
 #include <sys/errno.h>

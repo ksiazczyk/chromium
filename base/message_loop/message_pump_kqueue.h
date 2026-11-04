@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePumpKqueue class declaration
+// summary: Declares MessagePumpKqueue, the macOS IO message pump capable of watching both POSIX file descriptors and Mach receive ports via kqueue.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_MESSAGE_PUMP_KQUEUE_H_
 #define BASE_MESSAGE_LOOP_MESSAGE_PUMP_KQUEUE_H_
 

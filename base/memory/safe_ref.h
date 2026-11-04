@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeRef smart pointer
+// summary: Declares SafeRef, a non-nullable non-owning pointer built on WeakPtrFactory that turns use-after-free bugs into benign crashes.
+// ---
+
 #ifndef BASE_MEMORY_SAFE_REF_H_
 #define BASE_MEMORY_SAFE_REF_H_
 

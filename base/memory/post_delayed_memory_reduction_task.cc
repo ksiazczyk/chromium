@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory reduction task posting implementation
+// summary: Implements posting of delayed memory reduction tasks via Android's pre-freeze background memory trimmer or ordinary task runners, plus background timer implementations.
+// ---
+
 #include "base/memory/post_delayed_memory_reduction_task.h"
 
 #include "base/timer/timer.h"

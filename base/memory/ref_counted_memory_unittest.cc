@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RefCountedMemory unit tests
+// summary: Unit tests verifying span access, equality, and mutable vector behavior of the RefCountedMemory subclasses.
+// ---
+
 
 #include "base/memory/ref_counted_memory.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Available memory monitor implementation
+// summary: Implements the AvailableMemoryMonitor singleton, polling system memory info every two seconds and notifying registered observers.
+// ---
+
 #include "base/memory/available_memory_monitor.h"
 
 #include "base/process/process_metrics.h"

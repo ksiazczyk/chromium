@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message pump base implementation
+// summary: Implements MessagePump factory methods, align wake-ups and leeway state handling, and the IOWatcher bridge for the current IO thread.
+// ---
+
 #include "base/message_loop/message_pump.h"
 
 #include "base/check.h"

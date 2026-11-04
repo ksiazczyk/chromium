@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Epoll message pump class declaration
+// summary: Declares MessagePumpEpoll and its FdWatchController for watching file descriptors via epoll on Linux-based systems, including the poll-fallback feature flag.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_MESSAGE_PUMP_EPOLL_H_
 #define BASE_MESSAGE_LOOP_MESSAGE_PUMP_EPOLL_H_
 

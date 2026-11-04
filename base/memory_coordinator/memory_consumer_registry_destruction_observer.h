@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryConsumerRegistry destruction observer interface
+// summary: Defines the observer interface that is notified before the memory consumer registry is destroyed.
+// ---
+
 #ifndef BASE_MEMORY_COORDINATOR_MEMORY_CONSUMER_REGISTRY_DESTRUCTION_OBSERVER_H_
 #define BASE_MEMORY_COORDINATOR_MEMORY_CONSUMER_REGISTRY_DESTRUCTION_OBSERVER_H_
 

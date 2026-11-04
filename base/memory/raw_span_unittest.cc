@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: raw_span unit tests
+// summary: Unit tests verifying raw_span conversion to and from span, dangling-pointer handling, and ExtractAsDanglingSpan behavior.
+// ---
+
 #include "base/memory/raw_span.h"
 
 #include "base/compiler_specific.h"

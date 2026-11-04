@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of PlatformSharedMemoryRegion
+// summary: Implements the platform shared memory region API on Windows with reduced-permission file mappings, section safety checks and crash keys for creation failures.
+// ---
+
 #include "base/memory/platform_shared_memory_region.h"
 
 #include <aclapi.h>

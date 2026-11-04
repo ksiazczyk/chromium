@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform shared memory mapper declaration
+// summary: Declares PlatformSharedMemoryMapper, the default SharedMemoryMapper implementation that maps shared memory regions into the process virtual address space.
+// ---
+
 #ifndef BASE_MEMORY_PLATFORM_SHARED_MEMORY_MAPPER_H_
 #define BASE_MEMORY_PLATFORM_SHARED_MEMORY_MAPPER_H_
 

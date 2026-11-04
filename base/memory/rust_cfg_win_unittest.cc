@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rust control flow guard Windows test
+// summary: Windows test that launches a Rust executable and expects STATUS_STACK_BUFFER_OVERRUN to confirm control flow guard catches an invalid indirect call.
+// ---
+
 #include <windows.h>
 
 #include "base/command_line.h"

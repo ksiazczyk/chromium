@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: STACK_ALLOCATED macro and NotNullTag
+// summary: Header defining the STACK_ALLOCATED annotation that forbids heap allocation of a class, plus the base::NotNullTag enum used with placement new.
+// ---
+
 #ifndef BASE_MEMORY_STACK_ALLOCATED_H_
 #define BASE_MEMORY_STACK_ALLOCATED_H_
 

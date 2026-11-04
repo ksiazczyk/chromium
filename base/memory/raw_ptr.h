@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: raw_ptr facade header
+// summary: Facade header that forwards base::raw_ptr to the PartitionAlloc raw_ptr implementation.
+// ---
+
 #ifndef BASE_MEMORY_RAW_PTR_H_
 #define BASE_MEMORY_RAW_PTR_H_
 

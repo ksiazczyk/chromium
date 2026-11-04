@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessagePumpKqueue unit tests
+// summary: Unit tests for the kqueue message pump covering Mach port watching, empty message reception, and stopping watches on Mach receive ports.
+// ---
+
 #include "base/message_loop/message_pump_kqueue.h"
 
 #include <mach/mach.h>

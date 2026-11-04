@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deprecated memory pressure threshold constants
+// summary: Declares deprecated inline MemoryLimit constants matching legacy memory pressure levels to help migrate clients from MemoryPressureListener to MemoryConsumer.
+// ---
+
 #ifndef BASE_MEMORY_COORDINATOR_UTILS_H_
 #define BASE_MEMORY_COORDINATOR_UTILS_H_
 

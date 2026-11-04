@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FreeDeleter for malloc-allocated unique_ptr
+// summary: Defines a deleter that calls free so malloc-allocated pointers can be held in std::unique_ptr.
+// ---
+
 #ifndef BASE_MEMORY_FREE_DELETER_H_
 #define BASE_MEMORY_FREE_DELETER_H_
 

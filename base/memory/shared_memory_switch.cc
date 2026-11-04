@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory switch serialization for child processes
+// summary: Serializes and deserializes shared memory region handles into command-line switch values for parent-to-child process handoff across platforms.
+// ---
+
 #include "base/memory/shared_memory_switch.h"
 
 #include <optional>

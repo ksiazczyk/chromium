@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RawPtrAsanService header
+// summary: Declares the RawPtrAsanService class with configuration options, allocation metadata, quarantine flags, and report types for ASAN-based MiraclePtr protection.
+// ---
+
 #ifndef BASE_MEMORY_RAW_PTR_ASAN_SERVICE_H_
 #define BASE_MEMORY_RAW_PTR_ASAN_SERVICE_H_
 

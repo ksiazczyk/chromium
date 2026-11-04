@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watchable IO message pump POSIX implementation
+// summary: Implements the constructor and destructor of FdWatchControllerInterface for POSIX watchable IO message pumps.
+// ---
+
 #include "base/message_loop/watchable_io_message_pump_posix.h"
 
 namespace base {

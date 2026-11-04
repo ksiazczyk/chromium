@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessagePumpIOSForIO unit tests
+// summary: Unit tests for the iOS IO message pump covering watcher deletion during callbacks, stopping watches, and re-watching other file descriptors.
+// ---
+
 #include "base/message_loop/message_pump_io_ios.h"
 
 #include <unistd.h>

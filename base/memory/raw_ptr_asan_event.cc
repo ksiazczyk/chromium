@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RawPtrAsanEvent implementation
+// summary: Implements logging and printing of raw_ptr ASAN quarantine events, including stack symbolization and filtering of uninteresting events in the event log.
+// ---
+
 #include "base/memory/raw_ptr_asan_event.h"
 
 #if PA_BUILDFLAG(USE_ASAN_BACKUP_REF_PTR_V2)

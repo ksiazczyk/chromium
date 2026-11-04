@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePumpGlib class declaration
+// summary: Declares MessagePumpGlib, the GLib-based message pump for UI message loops, including its file descriptor watch controller and prepare, check and dispatch handlers.
+// ---
+
 #ifndef BASE_MESSAGE_LOOP_MESSAGE_PUMP_GLIB_H_
 #define BASE_MESSAGE_LOOP_MESSAGE_PUMP_GLIB_H_
 

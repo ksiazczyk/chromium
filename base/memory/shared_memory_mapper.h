@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory mapper interface
+// summary: Defines the SharedMemoryMapper interface for mapping and unmapping shared memory regions into the address space.
+// ---
+
 #ifndef BASE_MEMORY_SHARED_MEMORY_MAPPER_H_
 #define BASE_MEMORY_SHARED_MEMORY_MAPPER_H_
 

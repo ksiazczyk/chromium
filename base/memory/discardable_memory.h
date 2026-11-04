@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscardableMemory interface for purgable cached memory
+// summary: Defines the abstract DiscardableMemory class for caching large objects in memory the system can reclaim while unlocked, with lock, unlock, data access, and tracing methods.
+// ---
+
 #ifndef BASE_MEMORY_DISCARDABLE_MEMORY_H_
 #define BASE_MEMORY_DISCARDABLE_MEMORY_H_
 

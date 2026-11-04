@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SANITIZED_OBJECT macro for memory safety checks
+// summary: Defines the SANITIZED_OBJECT macro that annotates classes for extra memory safety checks such as quarantine and forced PartitionAlloc allocation.
+// ---
+
 #ifndef BASE_MEMORY_SANITIZED_OBJECT_H_
 #define BASE_MEMORY_SANITIZED_OBJECT_H_
 

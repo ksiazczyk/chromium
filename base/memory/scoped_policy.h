@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ownership policy for scoped objects
+// summary: Defines the OwnershipPolicy enum with ASSUME and RETAIN values used by scoped smart pointer classes.
+// ---
+
 #ifndef BASE_MEMORY_SCOPED_POLICY_H_
 #define BASE_MEMORY_SCOPED_POLICY_H_
 

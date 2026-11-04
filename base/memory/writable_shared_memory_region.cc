@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WritableSharedMemoryRegion implementation
+// summary: Implements WritableSharedMemoryRegion creation, serialization, conversion to read-only or unsafe regions, and writable mapping.
+// ---
+
 #include "base/memory/writable_shared_memory_region.h"
 
 #include <utility>

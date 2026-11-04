@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android shared memory mapper implementation
+// summary: Implements Map and Unmap for Android with mmap and munmap, documenting why MAP_SHARED is required for ashmem and memfd regions across kernel versions.
+// ---
+
 #include "base/memory/platform_shared_memory_mapper.h"
 
 #include <sys/mman.h>

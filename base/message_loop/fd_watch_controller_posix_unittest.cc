@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FdWatchController POSIX unit tests
+// summary: Unit tests for the POSIX file descriptor watch controller, covering read and write event notifications across epoll and poll based message pump implementations.
+// ---
+
 #include <sys/socket.h>
 
 #include "base/compiler_specific.h"

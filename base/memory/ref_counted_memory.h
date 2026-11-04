@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefCountedMemory interface and subclasses
+// summary: Declares the RefCountedMemory interface and subclasses such as RefCountedStaticMemory, RefCountedBytes, RefCountedString, and RefCountedSharedMemoryMapping.
+// ---
+
 #ifndef BASE_MEMORY_REF_COUNTED_MEMORY_H_
 #define BASE_MEMORY_REF_COUNTED_MEMORY_H_
 

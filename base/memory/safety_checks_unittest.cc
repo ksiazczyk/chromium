@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for memory safety checks
+// summary: Tests SANITIZED_OBJECT annotations, inheritance macros, and allocator function behavior for memory-safety-checked types.
+// ---
+
 #include "base/memory/safety_checks.h"
 
 #include "base/allocator/partition_alloc_features.h"

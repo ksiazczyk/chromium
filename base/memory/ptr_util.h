@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrapUnique helper for unique_ptr
+// summary: Declares base::WrapUnique, a helper that transfers ownership of a raw pointer to a std::unique_ptr.
+// ---
+
 #ifndef BASE_MEMORY_PTR_UTIL_H_
 #define BASE_MEMORY_PTR_UTIL_H_
 

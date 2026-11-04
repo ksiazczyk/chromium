@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android memory consumer JNI bridge implementation
+// summary: Implements MemoryConsumerAndroid, converting packed Java memory consumer traits and registering Java-side consumers with the native registry on Android.
+// ---
+
 #include "base/memory_coordinator/memory_consumer_android.h"
 
 #include <string>

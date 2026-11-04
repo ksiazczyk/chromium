@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DummyMemoryConsumerRegistry class declaration
+// summary: Declares a placeholder MemoryConsumerRegistry for standalone executables outside of //content that do not participate in memory coordination.
+// ---
+
 #ifndef BASE_MEMORY_COORDINATOR_DUMMY_MEMORY_CONSUMER_REGISTRY_H_
 #define BASE_MEMORY_COORDINATOR_DUMMY_MEMORY_CONSUMER_REGISTRY_H_
 

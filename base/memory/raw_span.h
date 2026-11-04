@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: raw_span<T> header
+// summary: Defines raw_span<T>, a span with raw_ptr-based temporal safety intended as a safer replacement for pointer-plus-size class members.
+// ---
+
 #ifndef BASE_MEMORY_RAW_SPAN_H_
 #define BASE_MEMORY_RAW_SPAN_H_
 

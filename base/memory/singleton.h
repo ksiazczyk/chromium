@@ -24,6 +24,12 @@
 // and ideally a leaf dependency. Singletons get problematic when they attempt
 // to do too much in their destructor or have circular dependencies.
 
+// ---docerion
+// type: source
+// title: Singleton template with lifetime traits
+// summary: Provides the Singleton template and traits classes for process-wide singletons, advising base::NoDestructor as a simpler alternative.
+// ---
+
 #ifndef BASE_MEMORY_SINGLETON_H_
 #define BASE_MEMORY_SINGLETON_H_
 

@@ -7,6 +7,12 @@
 // The app will try to discard buffers that aren't deemed essential (individual
 // modules will implement their own policy).
 
+// ---docerion
+// type: source
+// title: Memory pressure listener API header
+// summary: Declares the MemoryPressureListener class, listener tags, and registration APIs for receiving memory pressure notifications on platforms like Android and ChromeOS.
+// ---
+
 #ifndef BASE_MEMORY_MEMORY_PRESSURE_LISTENER_H_
 #define BASE_MEMORY_MEMORY_PRESSURE_LISTENER_H_
 

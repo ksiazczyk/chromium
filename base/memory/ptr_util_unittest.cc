@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PtrUtil unit tests
+// summary: Unit tests verifying that WrapUnique transfers ownership of a raw pointer to a std::unique_ptr and deletes it on reset.
+// ---
+
 #include "base/memory/ptr_util.h"
 
 #include <stddef.h>

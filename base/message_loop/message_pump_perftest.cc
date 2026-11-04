@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message pump ScheduleWork performance tests
+// summary: Performance tests measuring ScheduleWork batching, total, and thread times across message pump types, including a Java handler thread variant on Android.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 
