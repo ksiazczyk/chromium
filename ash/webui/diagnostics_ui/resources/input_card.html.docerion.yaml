@@ -1,0 +1,4 @@
+# Docerion header of input_card.html.
+type: source
+title: Input card template
+summary: HTML template for the input device card that lists connected devices with descriptions, tooltips, and test buttons.

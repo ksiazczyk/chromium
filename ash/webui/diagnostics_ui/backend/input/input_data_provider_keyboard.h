@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input data provider keyboard header
+// summary: Declares the InputDataProviderKeyboard helper that supplies keyboard-specific diagnostic logic, including per-keyboard auxiliary data and key event construction.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_INPUT_INPUT_DATA_PROVIDER_KEYBOARD_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_INPUT_INPUT_DATA_PROVIDER_KEYBOARD_H_
 

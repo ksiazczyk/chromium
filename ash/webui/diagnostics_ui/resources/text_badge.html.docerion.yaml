@@ -1,0 +1,4 @@
+# Docerion header of text_badge.html.
+type: source
+title: Text badge template
+summary: HTML template for the text-badge element that styles rounded status badges with color variants for error, running, success, warning, and other states.

@@ -9,6 +9,12 @@
  * @see //ash/webui/common/resources/network/network_icon.js
  */
 
+// ---docerion
+// type: source
+// title: Diagnostics network icon element
+// summary: Polymer element wrapping the common network-icon to display the correct icon based on network type, state, and technology, with type aliases for network config enums.
+// ---
+
 import 'chrome://resources/ash/common/network/network_icon.js';
 import 'chrome://resources/polymer/v3_0/paper-spinner/paper-spinner-lite.js';
 import './diagnostics_shared.css.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionLogAsyncHelper unit tests
+// summary: Verifies session log file creation, section ordering, and handling of null log pointers using temporary directories.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/session_log_async_helper.h"
 
 #include <memory>

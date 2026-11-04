@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard input data event watcher implementation
+// summary: Implements processing of raw evdev key events, accumulating scan codes and key states until SYN_REPORT and dispatching keyboard input key events to a dispatcher.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/input/keyboard_input_data_event_watcher.h"
 
 #include <fcntl.h>

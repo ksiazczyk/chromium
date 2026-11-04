@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for diagnostics system backend
+summary: Allowlists the network diagnostics mojom header for inclusion from this directory.

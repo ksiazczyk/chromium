@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Canvas drawing provider for touch testers
+// summary: Canvas-based drawing provider that draws touch trails and trail marks for the touchscreen and touchpad testers behind a replaceable interface.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {constructRgba, DESTINATION_OVER, getTrailOpacityFromPressure, LINE_CAP, LINE_WIDTH, lookupCssVariableValue, MARK_COLOR, MARK_OPACITY, MARK_RADIUS, SOURCE_OVER, TRAIL_COLOR} from './drawing_provider_utils.js';

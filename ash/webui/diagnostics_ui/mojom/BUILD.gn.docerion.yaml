@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Diagnostics UI mojom build targets
+summary: GN build file that defines the mojom bindings target for the Diagnostics UI interfaces and a unit test source set for the network provider traits.

@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for Diagnostics resources
+# summary: Presubmit hook that runs the semantic CSS checker to enforce ChromeOS-approved colors and dark-mode-friendly CSS variables.
+# ---
+
 """Presubmit script for Diagnostics.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

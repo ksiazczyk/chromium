@@ -1,0 +1,4 @@
+# Docerion header of diagnostics_sticky_banner.html.
+type: source
+title: Diagnostics sticky banner element template
+summary: HTML template for the diagnostics-sticky-banner element that renders a sticky caution banner with an info icon and message.

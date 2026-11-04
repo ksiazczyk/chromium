@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics UI utility functions
+// summary: Utility functions for the diagnostics UI covering storage unit conversion, icons, navigation views, network labels, and routine group creation.
+// ---
+
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';
 

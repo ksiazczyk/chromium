@@ -1,0 +1,4 @@
+# Docerion header of system_routine_controller.mojom.
+type: source
+title: System routine controller Mojom interface definitions
+summary: Defines diagnostic routine types, result structures, and the SystemRoutineController interface for listing and running system diagnostic routines.

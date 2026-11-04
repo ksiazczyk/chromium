@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics UI controller declarations
+// summary: Declares the WebUI config and dialog controller class for the diagnostics app, including Mojo interface binding, metrics and provider members.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_DIAGNOSTICS_UI_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_DIAGNOSTICS_UI_H_
 

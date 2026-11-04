@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticsMetrics class declaration
+// summary: Declares the DiagnosticsMetrics delegate for feature usage metrics with methods to record usage and stop successful usage tracking.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_DIAGNOSTICS_METRICS_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_DIAGNOSTICS_METRICS_H_
 

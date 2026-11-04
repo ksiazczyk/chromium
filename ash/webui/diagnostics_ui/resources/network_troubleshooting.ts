@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network troubleshooting element
+// summary: Polymer element that renders troubleshooting info and opens the associated support URL when the link is clicked.
+// ---
+
 import './diagnostics_shared.css.js';
 
 import {I18nMixin} from 'chrome://resources/ash/common/cr_elements/i18n_mixin.js';

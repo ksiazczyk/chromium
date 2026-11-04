@@ -1,0 +1,4 @@
+# Docerion header of realtime_cpu_chart.html.
+type: source
+title: Realtime CPU chart HTML template
+summary: HTML template for the realtime-cpu-chart element, defining SVG chart styling, gradients, grid lines, and the user/system usage legend.

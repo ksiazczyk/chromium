@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata referencing common metadata
+summary: Points the directory metadata mixins at the COMMON_METADATA file so shared ownership and bug routing apply here.

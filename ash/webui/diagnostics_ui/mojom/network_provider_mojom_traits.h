@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network provider Mojom enum traits declarations
+// summary: Declares EnumTraits specializations that map security and authentication enums between the diagnostics Mojom and network config types.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_MOJOM_NETWORK_PROVIDER_MOJOM_TRAITS_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_MOJOM_NETWORK_PROVIDER_MOJOM_TRAITS_H_
 

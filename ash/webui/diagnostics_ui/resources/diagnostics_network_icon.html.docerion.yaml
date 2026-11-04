@@ -1,0 +1,4 @@
+# Docerion header of diagnostics_network_icon.html.
+type: source
+title: Diagnostics network icon element template
+summary: HTML template for the diagnostics-network-icon element that shows a network icon or a connecting spinner depending on the network type and state.

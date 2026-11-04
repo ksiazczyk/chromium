@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticsManager implementation
+// summary: Implements the manager that owns the system, network, routine, and input providers used by the Diagnostics SWA.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/diagnostics_manager.h"
 
 #include <ui/aura/window.h>

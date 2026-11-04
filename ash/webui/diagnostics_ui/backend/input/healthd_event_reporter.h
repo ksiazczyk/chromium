@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Health daemon event reporter interface
+// summary: Declares a helper class that buffers tested keyboard keys and reports keyboard diagnostic events to the HealthD service.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_INPUT_HEALTHD_EVENT_REPORTER_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_INPUT_HEALTHD_EVENT_REPORTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power manager client conversions implementation
+// summary: Converts power manager battery state and external power source protos into Diagnostics mojom types and builds localized battery time remaining strings.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/system/power_manager_client_conversions.h"
 
 #include "ash/public/cpp/power_utils.h"

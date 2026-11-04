@@ -1,0 +1,4 @@
+# Docerion header of diagnostics_card.html.
+type: source
+title: Diagnostics card template
+summary: HTML template for the 'diagnostics-card' element, providing slots for title, chip, icon, left panel, data points and routines.

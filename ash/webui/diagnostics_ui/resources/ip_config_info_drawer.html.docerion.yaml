@@ -1,0 +1,4 @@
+# Docerion header of ip_config_info_drawer.html.
+type: source
+title: IP config info drawer template
+summary: HTML template for the collapsible drawer that shows gateway, subnet mask, and name servers data points for a network.

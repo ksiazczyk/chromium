@@ -1,0 +1,4 @@
+# Docerion header of touchscreen_tester.html.
+type: source
+title: Touchscreen tester template
+summary: HTML template for the touchscreen tester with an intro dialog and a full-screen canvas dialog used for touch testing.

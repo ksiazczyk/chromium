@@ -1,0 +1,4 @@
+# Docerion header of system_page.html.
+type: source
+title: System page template
+summary: HTML template for the system page that arranges the overview, battery, CPU, and memory cards together with a session log toast.

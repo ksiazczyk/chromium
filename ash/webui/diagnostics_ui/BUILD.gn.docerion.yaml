@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Diagnostics UI
+summary: Defines the diagnostics_ui static library, the url_constants source set, and the unit_tests target for the ChromeOS-only Diagnostics app.

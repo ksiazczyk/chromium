@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Realtime CPU chart element
+// summary: Polymer element realtime-cpu-chart that draws a moving stacked area graph of user and system CPU usage using d3 with configurable refresh and frame rates.
+// ---
+
 import './diagnostics_shared.css.js';
 import '/strings.m.js';
 import 'chrome://resources/d3/d3.min.js';

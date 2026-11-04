@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics UI histogram metrics declarations
+// summary: Declares the metrics functions and the DataError enum used to record Diagnostics UI usage, routine results, and system, battery, network and probe error histograms.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_COMMON_HISTOGRAM_UTIL_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_COMMON_HISTOGRAM_UTIL_H_
 

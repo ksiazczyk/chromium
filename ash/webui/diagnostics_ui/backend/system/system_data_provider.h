@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System data provider header
+// summary: Declares the SystemDataProvider Mojo interface implementation that supplies system, battery, CPU and memory telemetry and notifies observers on timed refreshes.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_SYSTEM_DATA_PROVIDER_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_SYSTEM_DATA_PROVIDER_H_
 

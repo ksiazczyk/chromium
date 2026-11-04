@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics UI controller implementation
+// summary: Implements the ChromeOS diagnostics WebUI controller, setting up data sources, Mojo handlers, metrics and initial view selection from the query string.
+// ---
+
 #include "ash/webui/diagnostics_ui/diagnostics_ui.h"
 
 #include <memory>

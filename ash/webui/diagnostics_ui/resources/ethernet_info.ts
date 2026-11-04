@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ethernet info element
+// summary: Polymer element that displays authentication and IP address data points for an Ethernet network in the diagnostics UI.
+// ---
+
 import './data_point.js';
 import './diagnostics_shared.css.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Routine group aggregation
+// summary: Class that aggregates individual diagnostic routines into a named group and tracks combined progress, warning state, and blocking failures.
+// ---
+
 import type {RoutineProperties} from './diagnostics_types.js';
 import type {ResultStatusItem} from './routine_list_executor.js';
 import {ExecutionProgress} from './routine_list_executor.js';

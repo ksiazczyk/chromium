@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network provider Mojom enum traits implementation
+// summary: Implements Mojo EnumTraits conversions between the diagnostics and Chrome OS network config security and authentication enum types.
+// ---
+
 #include "ash/webui/diagnostics_ui/mojom/network_provider_mojom_traits.h"
 
 #include "ash/webui/diagnostics_ui/mojom/input_data_provider.mojom.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemRoutineController unit tests
+// summary: Unit tests for the system routine controller, exercising routine execution and result handling through fake cros_healthd responses and a fake delegate.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/system/system_routine_controller.h"
 
 #include <algorithm>

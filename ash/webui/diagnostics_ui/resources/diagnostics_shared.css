@@ -11,6 +11,12 @@
  * #include=cr-shared-style cros-color-overrides
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Diagnostics shared styles
+summary: Shared CSS custom properties and styles for the diagnostics UI, covering chart colors, shadows, fonts, buttons, and data point spacing.
+*/
+
  :host {
     --chart-system-line-color: var(--cros-color-warning);
     --chart-system-gradient-color: var(--google-yellow-50);

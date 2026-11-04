@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network health provider class declaration
+// summary: Declares the NetworkHealthProvider class, which observes CrosNetworkConfig and exposes network list and per-network state observation to the Diagnostics UI via Mojo.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_CONNECTIVITY_NETWORK_HEALTH_PROVIDER_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_CONNECTIVITY_NETWORK_HEALTH_PROVIDER_H_
 

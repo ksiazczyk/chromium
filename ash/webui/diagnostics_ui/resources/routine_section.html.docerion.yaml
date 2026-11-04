@@ -1,0 +1,4 @@
+# Docerion header of routine_section.html.
+type: source
+title: Routine section template
+summary: HTML template for the routine-section element that styles and lays out test run controls, status badges, learn-more links, and result details in the diagnostics UI.

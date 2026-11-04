@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System data provider implementation
+// summary: Implements the Diagnostics UI backend provider that probes cros_healthd and power manager data to supply system, battery, CPU and memory info with periodic observer updates.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/system/system_data_provider.h"
 
 #include <optional>

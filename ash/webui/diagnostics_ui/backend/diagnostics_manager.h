@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticsManager class declaration
+// summary: Declares the manager responsible for the lifetime of the services used by the Diagnostics SWA.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_DIAGNOSTICS_MANAGER_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_DIAGNOSTICS_MANAGER_H_
 

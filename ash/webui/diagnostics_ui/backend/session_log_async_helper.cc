@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionLogAsyncHelper implementation
+// summary: Combines telemetry, routine, and networking logs into a single session log file written on a blocking pool thread.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/session_log_async_helper.h"
 
 #include <memory>

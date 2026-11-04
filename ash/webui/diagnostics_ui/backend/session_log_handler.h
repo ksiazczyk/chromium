@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionLogHandler class declaration
+// summary: Declares the WebUI message handler and select file dialog listener for creating and saving diagnostics session logs.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SESSION_LOG_HANDLER_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SESSION_LOG_HANDLER_H_
 

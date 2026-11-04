@@ -1,0 +1,4 @@
+# Docerion header of cellular_info.html.
+type: source
+title: Cellular info template
+summary: HTML template for the cellular-info component displaying IP address, technology, roaming, signal strength, SIM lock, ICCID, and EID data points.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network list element
+// summary: Polymer element that observes and displays Ethernet, cellular, and WiFi networks, separating the active network from the rest.
+// ---
+
 import './connectivity_card.js';
 import './diagnostics_shared.css.js';
 import './icons.html.js';

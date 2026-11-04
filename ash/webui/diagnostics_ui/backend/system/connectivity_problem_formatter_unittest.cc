@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the connectivity problem formatter
+// summary: Verifies formatting of connection, proxy and no-valid-proxy connectivity errors.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/system/connectivity_problem_formatter.h"
 
 #include <optional>

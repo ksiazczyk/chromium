@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular info component
+// summary: Implements the cellular-info element that formats cellular network technology, roaming state, SIM lock status, and signal strength for display.
+// ---
+
 import './data_point.js';
 import './diagnostics_shared.css.js';
 

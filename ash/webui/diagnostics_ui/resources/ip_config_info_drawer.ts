@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IP config info drawer element
+// summary: Polymer element that displays IP configuration data such as gateway, subnet mask, and name servers in a collapsible drawer.
+// ---
+
 import './data_point.js';
 import './diagnostics_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_expand_button/cr_expand_button.js';

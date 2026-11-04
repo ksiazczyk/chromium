@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connectivity problem formatter header
+// summary: Declares FormatConnectivityProblems, which turns connectivity problem entries into readable text.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_CONNECTIVITY_PROBLEM_FORMATTER_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_CONNECTIVITY_PROBLEM_FORMATTER_H_
 

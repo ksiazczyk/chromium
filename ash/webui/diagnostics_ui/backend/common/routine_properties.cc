@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics routine properties table implementation
+// summary: Defines the table mapping each diagnostics routine type to its metric name, expected duration in seconds, and corresponding cros_healthd routine enum value.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/common/routine_properties.h"
 
 namespace ash::diagnostics {

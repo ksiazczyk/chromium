@@ -1,0 +1,4 @@
+# Docerion header of diagnostics_app.html.
+type: source
+title: Diagnostics app template
+summary: HTML template for the 'diagnostics-app' element, laying out the navigation view panel, sticky banner, session log buttons and toast.

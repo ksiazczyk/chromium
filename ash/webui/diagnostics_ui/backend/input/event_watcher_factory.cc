@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event watcher factory implementation
+// summary: Implements the event watcher factory that creates keyboard input data event watchers for the diagnostics UI backend.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/input/event_watcher_factory.h"
 
 #include <cstdint>

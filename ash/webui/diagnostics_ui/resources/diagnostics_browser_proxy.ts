@@ -8,6 +8,12 @@
  * exist in chrome/.
  */
 
+// ---docerion
+// type: source
+// title: Diagnostics browser proxy
+// summary: Browser proxy giving the Diagnostics UI access to SessionLogHandler functions such as initialization, navigation recording, session log saving and plural strings.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 import type {NavigationView} from './diagnostics_types.js';

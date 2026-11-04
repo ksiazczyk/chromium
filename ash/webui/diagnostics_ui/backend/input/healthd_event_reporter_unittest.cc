@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Health daemon event reporter unit tests
+// summary: Unit tests for the health daemon event reporter, covering keyboard event reporting and tested key tracking with fake services.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/input/healthd_event_reporter.h"
 
 #include "base/test/task_environment.h"

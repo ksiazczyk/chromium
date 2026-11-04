@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript configuration for the diagnostics UI
+summary: Extends the shared ChromeOS Polymer TypeScript base config and sets compiler options such as UMD global access, type roots, and d3 types.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input data event watcher implementation
+// summary: Implements the base event watcher that opens evdev device files and reads raw input events from the watched file descriptor.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/input/input_data_event_watcher.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for routine properties list
+// summary: Unit test verifying that the routine properties list stays in sync with the mojom RoutineType enum entries and their ordering.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/common/routine_properties.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

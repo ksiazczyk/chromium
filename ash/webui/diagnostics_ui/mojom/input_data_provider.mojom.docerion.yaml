@@ -1,0 +1,4 @@
+# Docerion header of input_data_provider.mojom.
+type: source
+title: Input data provider Mojom interface definitions
+summary: Defines structs and observer interfaces for keyboard and touch device events, connection changes, and display, tablet mode, and lid state updates in the Diagnostics app.

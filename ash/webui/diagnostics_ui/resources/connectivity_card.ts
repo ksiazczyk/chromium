@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connectivity card component
+// summary: Implements the connectivity-card element that observes network state and runs network routines through the network health provider.
+// ---
+
 import './diagnostics_card.js';
 import './diagnostics_network_icon.js';
 import './diagnostics_shared.css.js';

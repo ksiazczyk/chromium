@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics app element
+// summary: Main 'diagnostics-app' Polymer element that hosts the system page, network and input lists, navigation recording, toasts and session log saving.
+// ---
+
 import 'chrome://resources/ash/common/navigation_view_panel.js';
 import 'chrome://resources/ash/common/page_toolbar.js';
 import 'chrome://resources/ash/common/cr_elements/cr_toast/cr_toast.js';

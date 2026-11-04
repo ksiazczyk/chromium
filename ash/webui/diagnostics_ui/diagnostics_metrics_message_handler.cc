@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics navigation metrics message handler implementation
+// summary: Implements the WebUI message handler that validates navigation messages and emits per-screen open-duration histograms for the Diagnostics app.
+// ---
+
 #include "ash/webui/diagnostics_ui/diagnostics_metrics_message_handler.h"
 
 #include <string_view>

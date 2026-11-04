@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input data provider touch implementation
+// summary: Implements construction of touch device info for the Diagnostics app, determining device type, name, and testability based on internal display state.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/input/input_data_provider_touch.h"
 #include "ash/webui/diagnostics_ui/backend/input/input_data_provider.h"
 #include "ui/events/ozone/evdev/event_device_info.h"

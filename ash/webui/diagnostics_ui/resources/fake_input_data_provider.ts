@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake input data provider
+// summary: Fake implementation of the InputDataProvider Mojo interface that simulates keyboards, touch devices, and lid state for testing.
+// ---
+
 import {FakeMethodResolver} from 'chrome://resources/ash/common/fake_method_resolver.js';
 import {assert} from 'chrome://resources/js/assert.js';
 

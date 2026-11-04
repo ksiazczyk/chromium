@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cros_healthd helper declarations
+// summary: Declares helpers that safely extract battery, CPU, memory and system info from cros_healthd telemetry.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_CROS_HEALTHD_HELPERS_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_CROS_HEALTHD_HELPERS_H_
 

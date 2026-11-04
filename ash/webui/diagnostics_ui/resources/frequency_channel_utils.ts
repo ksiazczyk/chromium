@@ -6,6 +6,12 @@
  * @fileoverview Utility for converting frequencies into their related channel.
  */
 
+// ---docerion
+// type: source
+// title: Wi-Fi frequency to channel utility
+// summary: Utility that maps Wi-Fi center frequencies to their channel numbers and bands for 2.4 GHz and 5 GHz networks.
+// ---
+
 import type {ChannelProperties} from './diagnostics_types.js';
 import {ChannelBand} from './diagnostics_types.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics routine properties declarations
+// summary: Declares the RoutineProperties struct and helper functions that expose metric names, expected durations, and cros_healthd types for each diagnostics routine.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_COMMON_ROUTINE_PROPERTIES_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_COMMON_ROUTINE_PROPERTIES_H_
 

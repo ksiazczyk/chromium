@@ -1,0 +1,4 @@
+# Docerion header of network_card.html.
+type: source
+title: Network card HTML template
+summary: Template for the network-card element that wraps network info, a network icon, MAC address chip, and troubleshooting views.

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Gitignore for generated tsconfig.json
+# summary: Ignores the generated tsconfig.json in the Diagnostics UI directory, which is produced by the personalization app gen_tsconfig.py tool.
+# ---
+
 # Generated from ash/webui/personalization_app/tools/gen_tsconfig.py
 tsconfig.json

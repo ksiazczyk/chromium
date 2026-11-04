@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input data provider keyboard implementation
+// summary: Implements keyboard-specific logic for the Diagnostics app input data provider, including top-row key mappings, F-key handling, and construction of keyboard info and key events.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/input/input_data_provider_keyboard.h"
 
 #include <fcntl.h>

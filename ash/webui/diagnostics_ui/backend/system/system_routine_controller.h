@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System routine controller header
+// summary: Declares the SystemRoutineController Mojo interface that runs supported diagnostic routines, manages wake locks and reports routine results to the UI.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_SYSTEM_ROUTINE_CONTROLLER_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_SYSTEM_SYSTEM_ROUTINE_CONTROLLER_H_
 

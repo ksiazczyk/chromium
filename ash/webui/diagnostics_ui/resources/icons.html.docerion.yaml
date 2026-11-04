@@ -1,0 +1,4 @@
+# Docerion header of icons.html.
+type: asset
+title: Diagnostics SVG icon set
+summary: Icon set defining SVG icons such as CPU and battery level indicators used by the diagnostics UI.

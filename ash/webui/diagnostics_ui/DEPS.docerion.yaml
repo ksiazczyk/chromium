@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Diagnostics UI dependencies
+summary: Lists the allowed include paths, such as login state, mojo service manager, network config, and UI modules, for code in this directory.

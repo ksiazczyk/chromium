@@ -7,6 +7,12 @@
  * Type aliases for the mojo API.
  */
 
+// ---docerion
+// type: source
+// title: Diagnostics mojo API type aliases
+// summary: Type aliases and interfaces for the diagnostics mojo API, including network, routine, navigation view, channel, and input device types.
+// ---
+
 import type {KeyboardInfo} from './input.mojom-webui.js';
 import type {TouchDeviceInfo} from './input_data_provider.mojom-webui.js';
 import type {CellularStateProperties, EthernetStateProperties, Network, WiFiStateProperties} from './network_health_provider.mojom-webui.js';

@@ -1,0 +1,4 @@
+# Docerion header of percent_bar_chart.html.
+type: source
+title: Percent bar chart HTML template
+summary: HTML template for the percent-bar-chart element that renders a labeled percentage bar using paper-progress in the diagnostics UI.

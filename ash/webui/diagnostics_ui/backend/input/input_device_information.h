@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device information header
+// summary: Declares a wrapper for evdev device details and a helper that runs device identification on its own sequence to allow blocking calls.
+// ---
+
 #ifndef ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_INPUT_INPUT_DEVICE_INFORMATION_H_
 #define ASH_WEBUI_DIAGNOSTICS_UI_BACKEND_INPUT_INPUT_DEVICE_INFORMATION_H_
 

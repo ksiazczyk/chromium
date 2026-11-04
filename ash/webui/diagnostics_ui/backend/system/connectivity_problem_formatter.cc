@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connectivity problem formatter implementation
+// summary: Formats Google services connectivity problems into multi-line plain text blocks for the session log.
+// ---
+
 #include "ash/webui/diagnostics_ui/backend/system/connectivity_problem_formatter.h"
 
 #include <string>
