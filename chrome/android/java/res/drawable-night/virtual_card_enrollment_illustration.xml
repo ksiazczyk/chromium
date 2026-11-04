@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Virtual card enrollment illustration (night mode)
+summary: Night-mode vector drawable for the virtual card enrollment illustration used in Chrome on Android.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="114dp"
     android:height="80dp"
