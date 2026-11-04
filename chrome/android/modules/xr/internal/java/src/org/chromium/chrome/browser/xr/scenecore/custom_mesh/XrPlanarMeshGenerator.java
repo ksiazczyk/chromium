@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrPlanarMeshGenerator – abstract planar mesh generator base
+// summary: Abstract base class for generating 2D planar custom meshes, with configuration for width, height, corner radius and corner resolution.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore.custom_mesh;
 
 import android.annotation.SuppressLint;

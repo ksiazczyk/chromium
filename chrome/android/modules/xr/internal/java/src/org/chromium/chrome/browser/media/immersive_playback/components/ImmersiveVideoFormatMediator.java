@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video format panel mediator
+// summary: Mediates format selection events for the immersive video format panel, updating stereo mode and projection type in the model.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import android.util.SizeF;

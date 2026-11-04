@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Horizontal panorama icon
+summary: Vector drawable of a 24x19dp horizontal panorama icon for immersive video, filled with the immersive video theme foreground color.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
     android:height="19dp"

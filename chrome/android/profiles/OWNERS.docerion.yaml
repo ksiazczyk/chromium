@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Android profiles OWNERS
+summary: Delegates code ownership of the Android profiles directory to the ChromeOS profiles OWNERS file.

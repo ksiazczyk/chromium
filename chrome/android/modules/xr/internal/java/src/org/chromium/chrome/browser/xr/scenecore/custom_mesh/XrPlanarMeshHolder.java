@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrPlanarMeshHolder – planar mesh surface entity manager
+// summary: Helper class managing a SurfaceEntity with dynamic 2D planar mesh geometry, exposing size and corner radius accessors and update methods.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore.custom_mesh;
 
 import android.util.SizeF;

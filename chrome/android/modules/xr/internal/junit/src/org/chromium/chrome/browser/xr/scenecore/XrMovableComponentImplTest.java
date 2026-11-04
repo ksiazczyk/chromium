@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrMovableComponentImplTest
+// summary: Robolectric tests for XrMovableComponentImpl covering movable state toggling, move listener registration and disposal.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImmersiveVideoControlCoordinatorTest
+// summary: Robolectric unit tests covering creation, showing, dismissal, pose updates, and disposal of the XR immersive video control coordinator panel.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappAuthenticator unit tests
+// summary: Robolectric tests verifying WebappAuthenticator MAC generation and validation for web app URLs and icons, including legacy and boundary cases.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import org.junit.Assert;

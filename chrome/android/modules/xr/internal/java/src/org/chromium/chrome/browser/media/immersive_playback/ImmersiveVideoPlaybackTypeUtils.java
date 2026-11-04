@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImmersiveVideoPlaybackTypeUtils
+// summary: Utility class mapping immersive playback projection types and stereo modes to their XR surface entity shape and stereo mode equivalents.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback;
 
 import org.chromium.build.annotations.NullMarked;

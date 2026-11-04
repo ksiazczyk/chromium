@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrCustomMeshHolderTest
+// summary: Robolectric tests for XrCustomMeshHolder covering shape reporting and holder behavior, using a shadowed FakeEntity to allow non-positive collider scales.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore.custom_mesh;
 
 import static org.junit.Assert.assertEquals;

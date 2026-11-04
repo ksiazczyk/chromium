@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Chrome Android modules directory
+summary: Lists the owners responsible for changes to the Chrome Android app bundle and feature module code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrCurvedMeshGeneratorTest
+// summary: Robolectric unit tests verifying defaults, setters and clamping of XrCurvedMeshGenerator.Config used for curved XR mesh generation.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore.custom_mesh;
 
 import static org.junit.Assert.assertEquals;

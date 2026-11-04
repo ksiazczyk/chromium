@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappDirectoryManager unit tests
+// summary: Robolectric tests checking that WebappDirectoryManager cleans up obsolete web app directories and counts stale WebAPK update request files.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Context;

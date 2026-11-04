@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnDemandModuleEntryPoints interface for the on_demand module
+// summary: Defines the base-split interface for the on_demand APK split, exposing the PDF entry point and Bricks coordinator creation via the ModuleInterface mechanism.
+// ---
+
 package org.chromium.chrome.modules.on_demand;
 
 import android.content.Context;

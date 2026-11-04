@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: On-demand feature module AndroidManifest.xml
+summary: Android manifest declaring the on_demand dynamic feature module as non-on-demand and included in fusing.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
     featureSplit="on_demand">

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExclusiveAccessBubble tests
+// summary: Robolectric tests for ExclusiveAccessBubble show, update and hide behavior via the SnackbarManager, including avoiding orphaned snackbars.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import android.app.Activity;

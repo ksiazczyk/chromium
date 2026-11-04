@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video control auto-hide manager
+// summary: Manages the auto-hide inactivity timer for immersive video controls, pausing hiding while panels are hovered, moved, or accessibility-focused.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import android.os.Handler;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrSceneCoreSessionInitializerImpl space mode setup
+// summary: Implements XrSceneCoreSessionInitializer to request XR space mode changes and retry via a window focus observer when the switch fails.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

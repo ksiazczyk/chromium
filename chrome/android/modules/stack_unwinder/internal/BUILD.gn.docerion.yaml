@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Stack unwinder internal module build definition
+summary: GN build file defining the Android library target for the internal implementation of the stack unwinder module.

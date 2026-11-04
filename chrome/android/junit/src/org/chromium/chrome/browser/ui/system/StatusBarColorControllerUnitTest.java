@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StatusBarColorController unit tests
+// summary: Robolectric unit tests verifying how StatusBarColorController computes and applies status bar colors across tabs, NTP theming, layouts, and desktop windowing states.
+// ---
+
 package org.chromium.chrome.browser.ui.system;
 
 import static org.junit.Assert.assertEquals;

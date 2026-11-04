@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video pose manager
+// summary: Coordinates spatial layout calculations by delegating pose and drag events to projection-specific strategies.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkIntentDataProviderFactoryTest
+// summary: Tests parsing of icon URL and Murmur2 hash metadata into a map by WebApkIntentDataProviderFactory, including duplicate and malformed entries.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.junit.Assert.assertEquals;

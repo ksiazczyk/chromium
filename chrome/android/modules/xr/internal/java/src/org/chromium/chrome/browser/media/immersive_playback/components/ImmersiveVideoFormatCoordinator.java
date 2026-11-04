@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video format panel coordinator
+// summary: Coordinates the XR format selection panel, owning its property model, view, mediator, and spatial panel entity holder.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import android.app.Activity;

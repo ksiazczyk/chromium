@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrVector3Impl vector wrapper
+// summary: Implements the XrVector3 interface by wrapping an AndroidX Vector3, providing vector arithmetic, dot product, length and normalization.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import androidx.xr.runtime.math.Vector3;

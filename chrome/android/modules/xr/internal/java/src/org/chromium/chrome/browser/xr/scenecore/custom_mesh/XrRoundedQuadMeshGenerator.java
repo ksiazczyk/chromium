@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrRoundedQuadMeshGenerator – rounded quad mesh builder
+// summary: Generates a 2D quad mesh with rounded corners via center-fan triangulation for SceneCore, as a temporary workaround until native rounded quad support.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore.custom_mesh;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Chrome Android modules
+summary: Restricts includes in the Chrome Android modules directory to module installer, content public browser, and jni_zero paths.

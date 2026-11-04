@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrSceneCoreSessionInitializerImplTest
+// summary: Robolectric tests for XrSceneCoreSessionInitializerImpl covering space mode initialization, retry on window focus and lifecycle registration.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import static org.junit.Assert.assertNotNull;

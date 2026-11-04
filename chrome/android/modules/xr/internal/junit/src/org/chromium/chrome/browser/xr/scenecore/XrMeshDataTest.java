@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrMeshDataTest
+// summary: Robolectric tests for XrMeshData covering array creation, constructor validation of vertex buffers and accessors for positions, texture coordinates and indices.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import static org.junit.Assert.assertEquals;

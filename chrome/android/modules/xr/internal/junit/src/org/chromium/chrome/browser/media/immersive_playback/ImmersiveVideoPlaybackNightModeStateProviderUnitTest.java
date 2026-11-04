@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Immersive video playback night mode state provider unit tests
+// summary: Unit test verifying that the immersive video playback night mode state provider enables night mode through AppCompatDelegate and reports the resulting state.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback;
 
 import static org.mockito.Mockito.verify;

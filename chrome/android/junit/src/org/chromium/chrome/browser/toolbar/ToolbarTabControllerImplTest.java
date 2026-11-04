@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolbarTabControllerImpl unit tests
+// summary: Robolectric unit tests for ToolbarTabControllerImpl, verifying URL loading, tab creation, homepage and native page handling with mocked dependencies.
+// ---
+
 package org.chromium.chrome.browser.toolbar;
 
 import static org.junit.Assert.assertFalse;

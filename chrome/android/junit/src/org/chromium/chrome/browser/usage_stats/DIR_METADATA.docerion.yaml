@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Usage stats DIR_METADATA
+summary: Declares the monorail component and Buganizer component ID used for issue tracking of the usage stats directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrSeamlessSphereMeshGeneratorTest
+// summary: Robolectric tests for XrSeamlessSphereMeshGenerator verifying custom mesh output across stereo modes and that the sphere geometry faces the video center forward.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore.custom_mesh;
 
 import static org.junit.Assert.assertEquals;

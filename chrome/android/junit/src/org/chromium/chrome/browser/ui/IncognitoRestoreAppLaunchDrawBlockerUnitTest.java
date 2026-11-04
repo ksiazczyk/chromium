@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoRestoreAppLaunchDrawBlocker unit tests
+// summary: Robolectric tests for IncognitoRestoreAppLaunchDrawBlocker draw blocking during incognito tab restore and app relaunch scenarios.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static org.junit.Assert.assertFalse;

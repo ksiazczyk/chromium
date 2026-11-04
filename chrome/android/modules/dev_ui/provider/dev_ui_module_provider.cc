@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevUiModuleProvider native implementation
+// summary: Implements the DevUiModuleProvider singleton in C++, using JNI to check whether the DevUI module is installed, install it, and load its native resources.
+// ---
+
 #include "chrome/android/modules/dev_ui/provider/dev_ui_module_provider.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OptionalNewTabButtonControllerActivityTest
+// summary: Robolectric tests that run OptionalNewTabButtonController inside a ChromeTabbedActivity, using mocked profiles, tab models, and forced toolbar state to verify new tab button behavior.
+// ---
+
 package org.chromium.chrome.browser.toolbar.adaptive;
 
 import static org.junit.Assert.assertFalse;

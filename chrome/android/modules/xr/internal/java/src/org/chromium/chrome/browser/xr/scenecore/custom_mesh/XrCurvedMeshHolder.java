@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrCurvedMeshHolder – curved mesh surface entity manager
+// summary: Helper class managing a SurfaceEntity with dynamic 3D curved mesh geometry, exposing radius updates and keeping the collider and mesh in sync.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore.custom_mesh;
 
 import androidx.xr.runtime.Session;

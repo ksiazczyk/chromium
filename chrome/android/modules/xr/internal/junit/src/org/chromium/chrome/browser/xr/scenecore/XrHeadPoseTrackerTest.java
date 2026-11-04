@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrHeadPoseTrackerTest
+// summary: Robolectric tests for XrHeadPoseTracker covering head pose polling, callback triggering, duplicate pose suppression and stopping.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import static org.junit.Assert.assertFalse;

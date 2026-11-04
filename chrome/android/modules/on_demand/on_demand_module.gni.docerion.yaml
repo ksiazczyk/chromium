@@ -1,0 +1,4 @@
+# Docerion header of on_demand_module.gni.
+type: config
+title: on_demand_module.gni module description
+summary: Defines the on_demand dynamic feature module descriptor for large, infrequently used Chrome features that should not load at start-up.

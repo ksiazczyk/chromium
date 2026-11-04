@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkInstallBroadcastReceiverTest
+// summary: Robolectric tests for WebAPK install notification broadcast receiver actions, such as opening the install failure notification in Chrome.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.mockito.ArgumentMatchers.notNull;

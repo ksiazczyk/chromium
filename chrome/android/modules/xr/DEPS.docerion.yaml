@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: XR module include rules
+summary: Include rules allowing the XR module to depend on the thin WebView Java component.

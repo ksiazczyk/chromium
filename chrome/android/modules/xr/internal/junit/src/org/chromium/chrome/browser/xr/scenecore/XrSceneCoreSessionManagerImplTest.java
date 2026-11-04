@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrSceneCoreSessionManagerImplTest
+// summary: Robolectric tests for XrSceneCoreSessionManagerImpl covering space mode change requests and creation of panel and surface entity holders.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XrPixelDensityImplTest
+// summary: Robolectric tests for XrPixelDensityImpl covering conversions between dp, pixels and meters plus factory and calculation methods.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrPanelEntityHolderImpl for XR panel entities
+// summary: Extends the transformable entity holder to manage panel entity size in meters or pixels and corner radius, keeping resizable limits in sync.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import android.util.Size;

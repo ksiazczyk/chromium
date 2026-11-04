@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Points to the OWNERS file of the corresponding java source activity_recreation directory to inherit its reviewer ownership rules.

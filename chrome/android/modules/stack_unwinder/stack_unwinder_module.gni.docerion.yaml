@@ -1,0 +1,4 @@
+# Docerion header of stack_unwinder_module.gni.
+type: config
+title: Stack unwinder module build configuration
+summary: GN build file defining the stack_unwinder module descriptor and enabling unwind tables in official 32-bit Chrome APKs on selected Android channels.

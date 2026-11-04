@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImmersiveVideoPlaybackActivity
+// summary: Android activity for immersive video playback on XR devices, extending VideoOverlayActivity to connect fullscreen web API requests to the XR playback coordinator.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

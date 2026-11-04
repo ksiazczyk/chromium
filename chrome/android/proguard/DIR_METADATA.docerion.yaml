@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: ProGuard directory metadata
+summary: Declares the owning team email for the Chrome Android ProGuard directory.

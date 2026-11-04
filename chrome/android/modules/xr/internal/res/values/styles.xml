@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: XR immersive video style resources
+summary: Defines Android styles for immersive video controls, including button, control label and radio group theme styling with sizes, padding, tints and text appearance.
+-->
+
 <resources>
     <style name="ImmersiveVideoButton" parent="Widget.AppCompat.ImageButton">
         <item name="android:layout_width">56dp</item>

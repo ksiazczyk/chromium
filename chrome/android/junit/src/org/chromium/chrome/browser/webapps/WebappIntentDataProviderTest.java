@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappIntentDataProvider unit tests
+// summary: Robolectric tests for WebappIntentDataProvider covering resolved display modes, display cutout behavior, and toolbar theming.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static android.view.WindowManager.LayoutParams.LAYOUT_IN_DISPLAY_CUTOUT_MODE_DEFAULT;

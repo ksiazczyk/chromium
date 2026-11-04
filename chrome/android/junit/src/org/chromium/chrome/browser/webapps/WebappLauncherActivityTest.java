@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappLauncherActivity unit tests
+// summary: Robolectric tests for WebappLauncherActivity covering web app launch intent handling, tab creation, and WebAPK validation.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.junit.Assert.assertEquals;

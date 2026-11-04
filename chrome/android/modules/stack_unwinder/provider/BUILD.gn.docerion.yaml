@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Stack unwinder provider BUILD.gn
+summary: GN build file defining the Java android_library target for StackUnwinderModuleProvider and its generated JNI headers.

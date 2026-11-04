@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Readaloud module DIR_METADATA
+summary: Declares the issue tracker components (Monorail UI>Browser>ReadAloud and Buganizer component 1457412) used for bugs in the readaloud module.

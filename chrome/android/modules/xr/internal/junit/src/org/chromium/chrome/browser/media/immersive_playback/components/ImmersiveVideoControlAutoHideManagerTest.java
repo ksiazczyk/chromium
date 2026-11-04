@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImmersiveVideoControlAutoHideManagerTest
+// summary: Robolectric unit tests verifying the auto-hide timer fires after its delay and is suppressed by hover, movement, and accessibility focus on control and format panels.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback.components;
 
 import static org.mockito.Mockito.never;

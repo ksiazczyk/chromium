@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: XR immersive video color resources
+summary: Defines Android color resources such as foreground, panel background, border and inactive track colors used by the immersive video UI in the XR module.
+-->
+
 <resources>
     <color name="immersive_video_theme_foreground">#E1E2E8</color>
     <color name="immersive_video_panel_background">#EB101418</color>

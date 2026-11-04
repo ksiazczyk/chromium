@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: ProGuard directory owners
+summary: Lists the owners who must review changes to the Chrome Android ProGuard flags.

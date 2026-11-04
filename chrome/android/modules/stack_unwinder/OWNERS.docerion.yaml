@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Stack unwinder module OWNERS
+summary: Lists the code owners for the stack_unwinder module directory, inheriting reviewers from base/profiler and naming etiennep@chromium.org.

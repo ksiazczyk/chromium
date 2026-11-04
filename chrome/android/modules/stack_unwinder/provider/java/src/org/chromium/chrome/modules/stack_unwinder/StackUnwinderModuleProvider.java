@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackUnwinderModuleProvider
+// summary: Java provider with JNI-called methods to check whether the stack unwinder split is installed, install it asynchronously, and load its native contents.
+// ---
+
 package org.chromium.chrome.modules.stack_unwinder;
 
 import org.jni_zero.CalledByNative;

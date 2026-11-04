@@ -1,0 +1,4 @@
+# Docerion header of chrome_feature_module_tmpl.gni.
+type: source
+title: Chrome feature module GN template
+summary: Defines the chrome_feature_module GN template for building individual Chrome dynamic feature modules, covering native libraries, PAK assets, and module descriptor Java generation.

@@ -1,3 +1,9 @@
+<!--docerion
+type: config
+title: XR module Android manifest
+summary: Android manifest declaring the XR feature split as an on-demand distribution module and configuring the immersive video playback activity to launch in XR full-space mode.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
     featureSplit="xr"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextAppearance overlay font feature tests
+// summary: Robolectric tests ensuring ligature-disabling font features survive the API 33+ TextAppearance resource overlay and AppCompat-parented dialog styles.
+// ---
+
 package org.chromium.chrome.browser.ui;
 
 import static org.junit.Assert.assertEquals;
