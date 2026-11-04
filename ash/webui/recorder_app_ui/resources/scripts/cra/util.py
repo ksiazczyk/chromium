@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: CRA helper utilities
+# summary: Locates the recorder app and Chromium roots, resolves build directories, runs subprocesses and Node tools, and converts names to camel case.
+# ---
+
 import functools
 import logging
 import pathlib

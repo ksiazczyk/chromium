@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: config
+// title: Stylelint configuration with Chromium rules
+// summary: Defines stylelint rules for CSS and Lit TypeScript styles, extending the standard config with kebab-case or cros-prefixed custom property naming and postcss-lit syntax.
+// ---
+
 const config = {
   'extends': 'stylelint-config-standard',
   'rules': {

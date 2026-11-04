@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System audio consent dialog component
+// summary: Lit dialog that asks the user to consent to recording system audio and dispatches a consent event on approval.
+// ---
+
 import './cra/cra-button.js';
 import './cra/cra-dialog.js';
 import './cra/cra-icon.js';

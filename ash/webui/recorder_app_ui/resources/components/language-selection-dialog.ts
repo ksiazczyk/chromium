@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language selection dialog component
+// summary: Dismissable onboarding dialog for selecting the transcript language when users enable transcription after deferring consent.
+// ---
+
 import './cra/cra-button.js';
 import './language-dropdown.js';
 import './cra/cra-feature-tour-dialog.js';

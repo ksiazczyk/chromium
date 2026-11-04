@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash Sanitize WebUI dialog header
+// summary: Declares the Ash sanitize WebUI dialog controller and its config class, which enables the dialog only for unmanaged, non-guest users on unmanaged devices.
+// ---
+
 #ifndef ASH_WEBUI_SANITIZE_UI_SANITIZE_UI_H_
 #define ASH_WEBUI_SANITIZE_UI_SANITIZE_UI_H_
 

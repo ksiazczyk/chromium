@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model loaders for Recorder App SWA
+// summary: Loads and runs on-device summary and title suggestion models over Mojo, enforcing token length limits and validating or trimming model responses.
+// ---
+
 import type {LoadModelResult, Model, ModelResponse, ModelState} from '../../core/on_device_model/types.js';
 import {ModelExecutionError, ModelLoader as ModelLoaderBase, ModelLoadError} from '../../core/on_device_model/types.js';
 import {signal} from '../../core/reactive/signal.js';

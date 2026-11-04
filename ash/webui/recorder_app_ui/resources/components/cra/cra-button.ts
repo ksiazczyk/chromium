@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CraButton component
+// summary: Defines a CraButton custom element extending the cros-components Button with Recorder App styling overrides and manual focus delegation to the inner button.
+// ---
+
 import {Button} from 'chrome://resources/cros_components/button/button.js';
 import {css} from 'chrome://resources/mwc/lit/index.js';
 

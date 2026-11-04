@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SWA platform handler for Recorder App
+// summary: Implements the PlatformHandler for the Recorder App as a ChromeOS System Web App, wiring loadTimeData strings, quiet mode, model loaders, SODA sessions, and metrics.
+// ---
+
 /*
  * strings.m.js is generated when we enable it via UseStringsJs() in webUI
  * controller. When loading it, it will populate data such as localized strings

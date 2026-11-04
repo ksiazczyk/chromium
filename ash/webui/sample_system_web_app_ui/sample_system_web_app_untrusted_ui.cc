@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted sample system web app UI implementation
+// summary: Implements the chrome-untrusted WebUI controller that serves untrusted resources and forwards parent page binding to the trusted controller.
+// ---
+
 #include "ash/webui/sample_system_web_app_ui/sample_system_web_app_untrusted_ui.h"
 
 #include "ash/webui/grit/ash_sample_system_web_app_untrusted_resources_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expandable card component
+// summary: Lit web component built on cros-accordion that renders a card with a checkbox-controlled expandable content area and dispatches expand and collapse events.
+// ---
+
 import 'chrome://resources/cros_components/accordion/accordion.js';
 import 'chrome://resources/cros_components/accordion/accordion_item.js';
 import 'chrome://resources/cros_components/checkbox/checkbox.js';

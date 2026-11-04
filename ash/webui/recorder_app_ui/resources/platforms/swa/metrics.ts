@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder App SWA metrics events sender
+// summary: Sends Recorder App structured metrics events such as recording, export, onboarding, summarization, and transcription performance to the ChromeOS metrics service.
+// ---
+
 import {
   // Events
   CrOSEvents_RecorderApp_AppStartPerf,

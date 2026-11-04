@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Development server command for the recorder app UI
+# summary: Implements the CRA development server that routes requests, rewrites internal scheme references to a local stub path, injects an import map, and substitutes i18n strings into served HTML and JavaScript.
+# ---
+
 import functools
 import http.server
 import json

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Recorder app mojom
+summary: GN build file that defines the mojom target for the ChromeOS Recorder app WebUI, listing recorder_app.mojom as its source and its public dependencies.

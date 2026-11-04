@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Summary consent card component
+// summary: Lit card that prompts the user to download the on-device GenAI model to enable summaries, with download and disable actions.
+// ---
+
 import './cra/cra-icon.js';
 import './cra/cra-button.js';
 

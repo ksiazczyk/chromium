@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio constants for the recorder app
+// summary: Defines constants for audio processing and visualization, such as sample rate, samples per slice, and power bar scaling.
+// ---
+
 // The scaling of the power used for visualization.
 export const POWER_SCALE_FACTOR = 256;
 

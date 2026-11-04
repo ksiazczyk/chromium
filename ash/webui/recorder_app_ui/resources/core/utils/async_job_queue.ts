@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async job queue
+// summary: Implements an asynchronous job queue with enqueue, drop, and keepLatest queuing modes plus clearing of pending jobs.
+// ---
+
 /**
  * Different modes of the AsyncJobQueue.
  *

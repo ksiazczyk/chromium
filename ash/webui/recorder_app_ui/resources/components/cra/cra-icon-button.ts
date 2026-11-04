@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CraIconButton component
+// summary: Defines a CraIconButton custom element extending the cros-components IconButton with Recorder App sizing, surface, and toggle button styling.
+// ---
+
 import {
   IconButton,
 } from 'chrome://resources/cros_components/icon_button/icon-button.js';

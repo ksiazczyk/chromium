@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assertion utilities
+// summary: Provides assertion helpers for conditions, unreachable code, exhaustive switch checks, enum variants, instanceof checks, and non-null values.
+// ---
+
 /**
  * Verify |condition| is truthy and return |condition| if so.
  *

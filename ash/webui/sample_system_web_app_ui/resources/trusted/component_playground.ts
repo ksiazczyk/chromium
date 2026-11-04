@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component Playground script
+// summary: TypeScript module for the playground page that imports Lit, Cros components and Material elements and reveals the page once cros-button is defined.
+// ---
+
 // Examples of importing lit, cros components, and @material elements.
 import {Button} from 'chrome://resources/cros_components/button/button.js';
 import {MdTextButton} from 'chrome://resources/mwc/@material/web/button/text-button.js';

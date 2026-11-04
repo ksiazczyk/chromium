@@ -1,0 +1,4 @@
+# Docerion header of sanitize_initial.html.
+type: source
+title: Sanitize initial dialog template
+summary: Template for the dialog that kickstarts resetting settings to safe defaults, with cancel and sanitize buttons.

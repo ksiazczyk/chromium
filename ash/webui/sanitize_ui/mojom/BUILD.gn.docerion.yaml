@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the sanitize UI mojom target
+summary: Defines a mojom build target for the sanitize UI WebUI, compiling sanitize_ui.mojom with dependencies on mojo base and URL mojom types.

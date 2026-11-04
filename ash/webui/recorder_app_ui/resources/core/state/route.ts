@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder app route definitions and hash-based navigation state
+// summary: Defines the page routes of the recorder app UI, a signal holding the current route parsed from the URL hash, and transition handling between pages.
+// ---
+
 import {signal} from '../reactive/signal.js';
 import {assertExists} from '../utils/assert.js';
 import {startViewTransition} from '../utils/utils.js';

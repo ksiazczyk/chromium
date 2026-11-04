@@ -1,0 +1,4 @@
+# Docerion header of gen_images_js.py.
+type: script
+title: SVG to Lit ES6 module image generator
+summary: Build script that reads a list of SVG files and generates an ES6 module exporting a Map of image ids to Lit svg templates for the Recorder App UI.

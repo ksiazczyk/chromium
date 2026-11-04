@@ -1,1 +1,7 @@
+<!--docerion
+type: asset
+title: Stop icon
+summary: SVG filled square icon representing the stop action, likely for ending a recording.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 33 32"><path d="M8.5 24V8h16v16h-16Z"/></svg>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speaker label consent dialog
+// summary: Dialog shown when a user enables speaker labels after deferring on onboarding, recording the user's allow or disallow consent choice in settings.
+// ---
+
 import './cra/cra-button.js';
 import './cra/cra-feature-tour-dialog.js';
 import './speaker-label-consent-dialog-content.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording info dialog component
+// summary: Dialog component that shows a recording's metadata, including formatted file size and full datetime, fetched via the recording data manager.
+// ---
+
 import './cra/cra-button.js';
 import './cra/cra-dialog.js';
 import './cra/cra-icon.js';

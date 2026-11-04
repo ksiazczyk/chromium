@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance event logger for the recorder app
+// summary: Tracks start and finish of performance events and reports their durations through the events sender.
+// ---
+
 import type {EventsSender, PerfEvent} from './events_sender.js';
 
 type EventType = PerfEvent['kind'];

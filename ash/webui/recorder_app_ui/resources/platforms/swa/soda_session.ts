@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo SODA session for speech recognition
+// summary: Implements the SodaSession interface over the Mojo SODA recognizer, scaling audio samples to int16 and forwarding speech recognition events to observers.
+// ---
+
 import type {SodaEvent, SodaSession} from '../../core/soda/types.js';
 import type {Observer, Unsubscribe} from '../../core/utils/observer_list.js';
 import {ObserverList} from '../../core/utils/observer_list.js';

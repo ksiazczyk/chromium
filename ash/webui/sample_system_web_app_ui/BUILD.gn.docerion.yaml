@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the sample system web app UI
+summary: GN build file defining the sample_system_web_app_ui static library, its dependencies, and test targets for TypeScript and browser tests.

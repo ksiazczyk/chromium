@@ -5,6 +5,12 @@
 // This file demonstrates how a chrome:// page can communicate with its
 // embedded chrome-untrusted:// child page.
 
+// ---docerion
+// type: source
+// title: Inter-frame communication script
+// summary: TypeScript module implementing the trusted parent side of Mojo communication with the embedded untrusted child page.
+// ---
+
 import {callbackRouter} from './page_handler.js';
 import type {ChildUntrustedPageRemote, ParentTrustedPage, ParentTrustedPagePendingReceiver} from './sample_system_web_app_shared_ui.mojom-webui.js';
 import {ParentTrustedPageReceiver} from './sample_system_web_app_shared_ui.mojom-webui.js';

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for sanitize_ui
+summary: Specifies the directory's dependency rules, allowing includes from ui/webui.

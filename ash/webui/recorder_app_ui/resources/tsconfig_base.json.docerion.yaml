@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript compiler configuration
+summary: Extends the shared Chromium TypeScript base config, disabling useDefineForClassFields and enabling isolatedModules for the webui build.

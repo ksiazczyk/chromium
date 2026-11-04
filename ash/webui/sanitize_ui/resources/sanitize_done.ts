@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sanitize done dialog component
+// summary: Polymer element for the post-sanitize dialog that opens relevant Chrome and ChromeOS settings pages and closes when done.
+// ---
+
 /**
  * @fileoverview
  * 'sanitize-done' is a dialog shown after reverting to safe settings

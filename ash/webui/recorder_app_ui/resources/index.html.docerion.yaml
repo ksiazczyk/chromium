@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Recorder app HTML entry page
+summary: Entry HTML page for the ChromeOS recorder app WebUI that loads theme stylesheets and the init module and sets the localized app title.

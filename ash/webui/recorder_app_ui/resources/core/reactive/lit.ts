@@ -9,6 +9,12 @@
  * This is similar to SignalWatcher in lit-labs/preact-signal.
  */
 
+// ---docerion
+// type: source
+// title: LitElement integration for signal-based reactivity
+// summary: Extends LitElement to rerender automatically when signals change and provides a ScopedAsyncComputed reactive controller for abortable async computed values.
+// ---
+
 import type {ReactiveController, ReactiveControllerHost} from 'chrome://resources/mwc/lit/index.js';
 import {
   LitElement,

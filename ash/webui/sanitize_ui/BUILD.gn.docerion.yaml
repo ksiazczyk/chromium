@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the sanitize_ui WebUI
+summary: Defines the sanitize_ui static library build target, listing its source files and dependencies for the ChromeOS Sanitize app.

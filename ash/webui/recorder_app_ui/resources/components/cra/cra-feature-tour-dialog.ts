@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CraFeatureTourDialog component
+// summary: Defines a CraFeatureTourDialog element wrapping cra-dialog with an illustration header matching the cros feature tour dialog style, with show and hide methods.
+// ---
+
 import './cra-dialog.js';
 import './cra-image.js';
 

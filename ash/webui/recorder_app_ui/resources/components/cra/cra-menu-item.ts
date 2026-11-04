@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CraMenuItem menu item web component
+// summary: Custom menu item element extending cros components MenuItem, adding a switchSelected workaround and aria-checked role handling for the recorder app UI.
+// ---
+
 import {MenuItem} from 'chrome://resources/cros_components/menu/menu_item.js';
 import type {PropertyValues} from 'chrome://resources/mwc/lit/index.js';
 

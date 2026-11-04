@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract platform handler for recorder app platform services
+// summary: Defines the abstract interface for localization, device type, GenAI model loaders, and language pack access.
+// ---
+
 import type {EventsSender} from './events_sender.js';
 import {
   createTranscriptionModelDownloadPerf,

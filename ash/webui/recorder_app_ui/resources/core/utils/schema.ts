@@ -12,6 +12,12 @@
  * helpful to have some unit tests...
  */
 
+// ---docerion
+// type: source
+// title: Type-safe JSON schema validation utility
+// summary: Defines a Schema class for validating, decoding, and encoding JSON data in a type-safe manner, inspired by io-ts and zod, with ValidationError reporting.
+// ---
+
 import {assertExists, assertNotReached, checkEnumVariant} from './assert.js';
 
 type KeyPath = string[];

@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Untrusted page message and Mojo test logic
+// summary: TypeScript for the untrusted page that confirms embedding to the parent window and performs a test Mojo method call, showing the parent's response.
+// ---
+
 import {PARENT_PAGE_ORIGIN, parentPage} from './untrusted_page_interface.js';
 
 const header = document.querySelector<HTMLTitleElement>('#untrusted-title')!;

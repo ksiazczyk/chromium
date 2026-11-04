@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for sample system web app UI tests
+summary: Defines include rules that let tests in this directory access headers under chrome/test/base because they run in browser_tests.

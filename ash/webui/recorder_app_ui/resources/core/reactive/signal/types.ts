@@ -9,6 +9,12 @@
  * signal implementation should import from that file instead.
  */
 
+// ---docerion
+// type: source
+// title: Public type interfaces for the signal library
+// summary: Defines the public ReadonlySignal and Signal abstract classes plus Computed and Dispose types, including update and mutate helpers, for re-export by signal.ts.
+// ---
+
 import {produce} from '../../utils/draft.js';
 
 export abstract class ReadonlySignal<T> {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder app UI delegate interface
+// summary: Declares the interface exposing browser capabilities such as language lookup, AI feedback dialog, consent recording, and profile checks to the page handler.
+// ---
+
 #ifndef ASH_WEBUI_RECORDER_APP_UI_RECORDER_APP_UI_DELEGATE_H_
 #define ASH_WEBUI_RECORDER_APP_UI_RECORDER_APP_UI_DELEGATE_H_
 

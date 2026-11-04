@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the sanitize UI resources
+summary: Defines the build_webui target that bundles static files, shared CSS, Polymer web components and Mojo bindings for the ChromeOS sanitize WebUI.

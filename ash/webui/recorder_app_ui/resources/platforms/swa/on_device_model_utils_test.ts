@@ -4,6 +4,12 @@
 
 // Run unit test by `npx tsx on_device_model_utils_test.ts`
 
+// ---docerion
+// type: test
+// title: Unit tests for on-device model utilities
+// summary: Node-based unit tests for response parsing, bullet point format validation, and repeated bullet point trimming, runnable with npx tsx.
+// ---
+
 import {strict as assert} from 'node:assert';
 import {describe, it} from 'node:test';
 

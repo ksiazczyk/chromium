@@ -1,0 +1,4 @@
+# Docerion header of core.gni.
+type: config
+title: GN file listing core TypeScript sources
+summary: GN import file that enumerates the core TypeScript source files included in the recorder app UI build.

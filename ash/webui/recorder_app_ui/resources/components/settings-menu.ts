@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder app settings menu
+// summary: Settings dialog for the Recorder app covering transcription, speaker labels, summary, and language options, with consent dialogs and help links.
+// ---
+
 import 'chrome://resources/cros_components/switch/switch.js';
 import 'chrome://resources/mwc/@material/web/progress/circular-progress.js';
 import './cra/cra-button.js';

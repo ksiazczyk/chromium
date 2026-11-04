@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation frame controller
+// summary: Wraps requestAnimationFrame in a controller class that starts and stops the animation loop around a callback.
+// ---
+
 /**
  * A simple wrapper for requestAnimationFrame for starting / stopping the
  * requestAnimationFrame loop.

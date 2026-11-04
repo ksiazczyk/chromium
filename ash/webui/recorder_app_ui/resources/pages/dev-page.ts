@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder App dev page
+// summary: Developer tools page of the ChromeOS Recorder App for clearing OPFS data, testing title suggestion, and importing recording data from JSON files.
+// ---
+
 import 'chrome://resources/mwc/@material/web/button/filled-button.js';
 import 'chrome://resources/mwc/@material/web/icon/icon.js';
 import 'chrome://resources/mwc/@material/web/iconbutton/icon-button.js';

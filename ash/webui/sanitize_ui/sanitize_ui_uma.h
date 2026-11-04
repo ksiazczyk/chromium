@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SanitizeEvent UMA enum
+// summary: Defines the SanitizeEvent enum used for UMA histogram logging of sanitize flow stages, with a note to keep it in sync with enums.xml.
+// ---
+
 #ifndef ASH_WEBUI_SANITIZE_UI_SANITIZE_UI_UMA_H_
 #define ASH_WEBUI_SANITIZE_UI_SANITIZE_UI_UMA_H_
 

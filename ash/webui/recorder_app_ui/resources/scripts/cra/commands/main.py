@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Cra CLI entry point
+# summary: CLI root that registers the add_strings, bundle, dev, lint, and tsc subcommands and configures logging.
+# ---
+
 import logging
 
 from cra import cli

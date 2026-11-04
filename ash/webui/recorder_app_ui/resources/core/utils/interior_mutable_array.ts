@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interior mutable array
+// summary: Wraps an array so each operation returns a new object reference while sharing the underlying buffer, ensuring Lit re-renders on mutation.
+// ---
+
 /**
  * The class provides a wrapper to an array that returns different object
  * reference on each operation, but share the same underlying buffer.

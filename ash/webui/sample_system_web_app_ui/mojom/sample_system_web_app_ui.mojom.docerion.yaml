@@ -1,0 +1,4 @@
+# Docerion header of sample_system_web_app_ui.mojom.
+type: source
+title: Mojo interfaces for the Sample System Web App UI
+summary: Defines the PageHandlerFactory, PageHandler and Page Mojo interfaces plus a Preferences struct that demonstrate getter, setter, action and notification patterns for the Sample System Web App UI.

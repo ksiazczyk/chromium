@@ -6,6 +6,12 @@
 // https://github.com/tc39/proposal-signals or at least align our public API
 // with the proposal.
 
+// ---docerion
+// type: source
+// title: Signal implementation with computed values and dirty-state tracking
+// summary: Implements the SignalImpl and ComputedImpl classes behind the reactive signal library, handling dependency tracking, dirty-state propagation, and batched effect processing.
+// ---
+
 import {assert} from '../../utils/assert.js';
 import {IterableWeakSet} from '../../utils/iterable_weak_set.js';
 import {forceCast} from '../../utils/type_utils.js';

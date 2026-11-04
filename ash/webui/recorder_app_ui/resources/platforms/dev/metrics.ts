@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op events sender for dev builds
+// summary: Defines a dev EventsSender subclass that stubs out all metrics event sending methods with empty implementations.
+// ---
+
 import type {ChangePlaybackSpeedParams, ChangePlaybackVolumeParams, ExportEventParams, FeedbackEventParams, OnboardEventParams, PerfEvent, RecordEventParams, StartSessionEventParams, SuggestTitleEventParams, SummarizeEventParams} from '../../core/events_sender.js';
 import {EventsSender as EventsSenderBase} from '../../core/events_sender.js';
 

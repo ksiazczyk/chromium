@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file pointing to platform owners
+summary: Delegates code ownership for this directory to the shared ash webui platform owners file.

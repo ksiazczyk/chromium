@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Sample System Web App mojom directory
+summary: Grants per-file ownership of all .mojom files in this directory to the IPC security owners for review.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local storage helpers with schema-validated access
+// summary: Provides typed get, set, and remove functions for window.localStorage, using a Schema to validate and serialize JSON values under fixed keys.
+// ---
+
 import type {Schema} from './schema.js';
 
 export type JsonSerializable =|JsonSerializable[]|boolean|number|string|

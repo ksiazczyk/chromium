@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash Sanitize WebUI dialog implementation
+// summary: Implements the Ash sanitize settings-reset WebUI dialog, including its WebUI config, Mojo settings-resetter binding, UMA event logging, and WebUI data source setup.
+// ---
+
 #include "ash/webui/sanitize_ui/sanitize_ui.h"
 
 #include "ash/constants/ash_features.h"

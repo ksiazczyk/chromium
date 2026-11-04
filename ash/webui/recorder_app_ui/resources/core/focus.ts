@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus helper for screen reader announcements
+// summary: Moves focus to the start of the body and announces the app name to screen readers via a temporary spoken message element.
+// ---
+
 import {SpokenMessage} from '../components/spoken-message.js';
 
 import {i18n} from './i18n.js';

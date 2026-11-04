@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording file list component
+// summary: Lit web component that renders the Recorder app's list of recordings, with search filtering, sorting, date-based grouping, and inline playback progress.
+// ---
+
 import 'chrome://resources/cros_components/card/card.js';
 import 'chrome://resources/mwc/@material/web/divider/divider.js';
 import 'chrome://resources/mwc/@material/web/icon/icon.js';

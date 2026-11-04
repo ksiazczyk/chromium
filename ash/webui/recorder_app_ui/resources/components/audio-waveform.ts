@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio waveform component
+// summary: Lit web component that renders the recording's audio waveform as SVG bars, including speaker label ranges and coordinate conversions between time, bar index, and rendered x position.
+// ---
+
 import type {PropertyDeclarations} from 'chrome://resources/mwc/lit/index.js';
 import {
   classMap,

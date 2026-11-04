@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speaker label consent dialog content
+// summary: Shared content component describing speaker labeling for consent and onboarding dialogs, exporting its i18n string names for consent auditing.
+// ---
+
 import {css, html, LitElement} from 'chrome://resources/mwc/lit/index.js';
 
 import type {NoArgStringName} from '../core/i18n.js';

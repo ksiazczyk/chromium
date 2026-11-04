@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted page Mojo interface for the sample system web app
+// summary: Implements the ChildUntrustedPage Mojo interface so the untrusted sample system web app page can receive tasks from its trusted parent page, display them, and report receipt for testing.
+// ---
+
 import {ChildUntrustedPageReceiver, ParentTrustedPageRemote} from './sample_system_web_app_shared_ui.mojom-webui.js';
 import {UntrustedPageInterfacesFactory} from './sample_system_web_app_untrusted_ui.mojom-webui.js';
 

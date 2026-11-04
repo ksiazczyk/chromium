@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Iterable weak set
+// summary: Implements an iterable WeakSet using WeakRef and FinalizationRegistry so held objects can be garbage collected and iterated.
+// ---
+
 /**
  * An iterable version of WeakSet.
  *

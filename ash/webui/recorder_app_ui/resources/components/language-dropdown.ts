@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language dropdown component
+// summary: Lit component that shows a dropdown menu of available transcription languages and reports the chosen language code.
+// ---
+
 import 'chrome://resources/cros_components/dropdown/dropdown_option.js';
 import './cra/cra-dropdown.js';
 import './cra/cra-icon.js';

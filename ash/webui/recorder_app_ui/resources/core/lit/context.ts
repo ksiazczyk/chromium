@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder app Lit context module
+// summary: Defines a shared context signal for the recorder app UI that stores the microphone manager, recording data manager, and platform handler, with accessor functions to retrieve each.
+// ---
+
 import type {MicrophoneManager} from '../microphone_manager.js';
 import type {PlatformHandler} from '../platform_handler.js';
 import {signal} from '../reactive/signal.js';

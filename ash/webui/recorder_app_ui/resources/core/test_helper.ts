@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper for Tast tests
+// summary: Exposes static helpers for Tast tests to configure settings, import recordings, and navigate the app.
+// ---
+
 import type {RecorderApp} from '../pages/recorder-app.js';
 
 import {SAMPLES_PER_SLICE} from './audio_constants.js';

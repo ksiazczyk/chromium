@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording title suggestion popup
+// summary: Popup component on the playback page that shows on-device model suggested titles as chips, with loading placeholder, error state, and feedback buttons.
+// ---
+
 import 'chrome://resources/cros_components/badge/badge.js';
 import 'chrome://resources/cros_components/chip/chip.js';
 import './cra/cra-icon.js';

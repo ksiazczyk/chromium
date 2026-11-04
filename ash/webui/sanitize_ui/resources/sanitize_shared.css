@@ -11,6 +11,12 @@
  * #include=cr-shared-style cros-color-overrides
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared styles for the sanitize dialogs
+summary: Shared CSS defining colors, scrollbar styling, responsive layout variables and dialog typography used by the sanitize UI components.
+*/
+
 :host-context(body.jelly-enabled) {
   --chart-system-line-color: var(--cros-sys-tertiary);
   --chart-system-gradient-color: var(--cros-sys-tertiary_container);

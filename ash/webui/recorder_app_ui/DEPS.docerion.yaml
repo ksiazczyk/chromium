@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for recorder_app_ui
+summary: Grants the directory access to audio, media device salt, structured metrics, Google APIs, on-device model, and Blink storage key headers.

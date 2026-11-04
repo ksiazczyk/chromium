@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility for slicing a property from a signal
+// summary: Provides signalSlice, which derives a writable signal bound to a single key of an object signal's value.
+// ---
+
 import type {Signal} from './signal.js';
 import {computed} from './signal.js';
 

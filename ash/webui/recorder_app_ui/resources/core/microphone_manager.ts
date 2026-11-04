@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microphone device manager
+// summary: Enumerates and sorts connected microphones, tracks the selected device with reactive signals, and falls back to the default when a mic is unplugged.
+// ---
+
 import type {ReadonlySignal} from './reactive/signal.js';
 import {signal} from './reactive/signal.js';
 import {assert, assertExists} from './utils/assert.js';

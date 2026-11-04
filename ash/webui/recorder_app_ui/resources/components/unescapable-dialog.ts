@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unescapable dialog component
+// summary: Lit dialog built on a manual popover that cannot be dismissed with ESC or focus loss, intended for the onboarding flow.
+// ---
+
 import './cra/cra-image.js';
 
 import type {PropertyDeclarations, PropertyValues} from 'chrome://resources/mwc/lit/index.js';

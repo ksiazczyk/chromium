@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Transcription enabled illustration
+summary: SVG illustration for the Recorder app UI depicting transcription enabled, showing a document with text lines and a pencil motif using Cros system color variables.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="158" height="136" viewBox="0 0 158 136" fill="none">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M94.6489 35L114.95 48.0978L114.951 48.0977V107.968C114.951 111.071 112.435 113.587 109.331 113.587H59.4467C56.3434 113.587 53.8276 111.071 53.8276 107.968V40.619C53.8276 37.5157 56.3434 35 59.4467 35H94.6489Z" fill="var(--cros-sys-illo-base)" />
 <path fill-rule="evenodd" clip-rule="evenodd" d="M94.6489 35H59.4467C56.3434 35 53.8276 37.5157 53.8276 40.619V107.968C53.8276 111.071 56.3434 113.587 59.4467 113.587H109.331C112.435 113.587 114.951 111.071 114.951 107.968V48.0978L94.6489 35ZM93.7651 38H59.4467C58.0002 38 56.8276 39.1726 56.8276 40.619V107.968C56.8276 109.414 58.0002 110.587 59.4467 110.587H109.331C110.778 110.587 111.951 109.414 111.951 107.968V49.7325L93.7651 38Z" fill="var(--cros-sys-illo-color1-1)" />

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CraIconDropdown component
+// summary: Defines a CraIconDropdown custom element extending the cros icon dropdown with responsive container sizing styles for small viewports.
+// ---
+
 import {
   IconDropdown,
 } from 'chrome://resources/cros_components/icon_dropdown/icon-dropdown.js';

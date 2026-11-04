@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder app user settings state and schemas
+// summary: Defines enums and schemas for user settings such as transcription, summary, speaker label consent, recording sort order, and export options.
+// ---
+
 import {bindSignal} from '../reactive/local_storage.js';
 import {signal} from '../reactive/signal.js';
 import {LanguageCode} from '../soda/language_info.js';

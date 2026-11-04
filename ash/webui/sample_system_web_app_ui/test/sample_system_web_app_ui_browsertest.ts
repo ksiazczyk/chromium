@@ -6,6 +6,12 @@
  * @fileoverview Test suite for chrome://sample-system-web-app.
  */
 
+// ---docerion
+// type: test
+// title: Sample system web app UI browser tests
+// summary: Web UI test suite verifying the sample system web app page loads, fetches preferences, triggers page handler work, and communicates with an embedded untrusted iframe via postMessage and Mojo calls.
+// ---
+
 import {assertDeepEquals, assertEquals} from 'chrome://webui-test/chai_assert.js';
 
 const HOST_ORIGIN = 'chrome://sample-system-web-app';

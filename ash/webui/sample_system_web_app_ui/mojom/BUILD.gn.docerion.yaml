@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Sample System Web App Mojo bindings
+summary: GN build file that defines the mojo_bindings target compiling the three Sample System Web App .mojom sources, restricted to unofficial ChromeOS builds.

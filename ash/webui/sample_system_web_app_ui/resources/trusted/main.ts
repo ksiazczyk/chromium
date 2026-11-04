@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main page script
+// summary: Entry module wiring the main page's inputs to a shared worker and to the Mojo page handler for browser communication.
+// ---
+
 import {callbackRouter, pageHandler} from './page_handler.js';
 import type {PageCallbackRouter, PageHandlerRemote} from './sample_system_web_app_ui.mojom-webui.js';
 

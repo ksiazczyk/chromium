@@ -1,3 +1,13 @@
+---
+type: readme
+title: Recorder App icons directory README
+summary: Documents the SVG icons used by the Recorder App, including SVGOMG optimization guidance and the list of icons exported from Figma.
+relations:
+  - documents /ash/webui/recorder_app_ui/resources/images/icons/close.svg
+  - documents /ash/webui/recorder_app_ui/resources/images/icons/laptop_chromebook.svg
+  - documents /ash/webui/recorder_app_ui/resources/images/icons/mic_external_on.svg
+---
+
 This directory contains all the SVG icons used by Recorder App.
 
 Ideally the SVG files should be the original 20x20 icon, optimized via SVGOMG.

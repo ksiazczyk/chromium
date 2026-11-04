@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: GenAI unsafe content error illustration
+summary: SVG illustration for the Recorder App's unsafe-content GenAI error state, styled with ChromeOS theme color variables.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100" fill="none">
 <g clip-path="url(#clip0_2195_26312)">
 <path d="M40.4587 69.3503C48.4895 68.6502 54.4326 61.5719 53.7325 53.5412C53.0323 45.5097 45.954 39.5673 37.9233 40.2674C29.8918 40.9676 23.9494 48.0451 24.6496 56.0766C25.3497 64.1073 32.4273 70.0505 40.4587 69.3503Z" stroke="var(--cros-sys-illo-color5)" stroke-width="3" stroke-miterlimit="10" />

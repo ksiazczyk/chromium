@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timer page spawning a shared worker
+// summary: TypeScript source for the timer page that creates a TrustedTypes policy for the worker script URL, starts a shared worker, and closes the page when the worker replies.
+// ---
+
 const workerUrlPolicy: TrustedTypePolicy =
     window.trustedTypes!.createPolicy('worker-js-static', {
       createHTML: () => '',

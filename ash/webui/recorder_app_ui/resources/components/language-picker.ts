@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language picker component
+// summary: Embedded language picker component for choosing and downloading the transcript language, showing the currently selected language.
+// ---
+
 import './cra/cra-icon.js';
 import './cra/cra-icon-button.js';
 import './settings-row.js';

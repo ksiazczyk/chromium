@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event handler helpers
+// summary: Supplies event handlers that stop propagation and optionally prevent default on DOM events.
+// ---
+
 /**
  * An event handler that preventDefault and stopPropagation on the event.
  */

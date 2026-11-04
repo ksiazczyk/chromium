@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample page handler implementation
+// summary: Implements the Mojo PageHandler interface with example get, set, action, and event interactions for the sample system web app.
+// ---
+
 #include "ash/webui/sample_system_web_app_ui/sample_page_handler.h"
 
 #include <utility>

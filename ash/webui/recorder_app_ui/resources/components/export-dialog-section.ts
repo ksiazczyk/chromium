@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export dialog section component
+// summary: Lit web component representing one selectable section of the export dialog, combining an expandable card with a dropdown of format options and change events.
+// ---
+
 import 'chrome://resources/cros_components/checkbox/checkbox.js';
 import 'chrome://resources/cros_components/dropdown/dropdown_option.js';
 import 'chrome://resources/mwc/@material/web/focus/md-focus-ring.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observer list with subscribe and notify
+// summary: Implements an ObserverList class that manages observer callbacks, supporting subscription, unsubscription, and safe notification of all observers.
+// ---
+
 export type Observer<T> = (val: T) => void;
 export type Unsubscribe = () => void;
 

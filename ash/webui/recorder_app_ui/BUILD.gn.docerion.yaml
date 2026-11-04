@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Recorder app UI
+summary: Defines the recorder_app_ui static library with its sources and dependencies, plus the unit_tests source set for the Recorder app.

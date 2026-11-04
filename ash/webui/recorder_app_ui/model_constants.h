@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder app model constants declarations
+// summary: Declares shared constants for the default language, GenAI model DLC UUIDs, and maximum input token limits used by the Recorder app.
+// ---
+
 #ifndef ASH_WEBUI_RECORDER_APP_UI_MODEL_CONSTANTS_H_
 #define ASH_WEBUI_RECORDER_APP_UI_MODEL_CONSTANTS_H_
 

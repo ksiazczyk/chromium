@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Recorder app mojom
+summary: Sets per-file ownership so that changes to mojom files in this directory require review by the IPC security owners.

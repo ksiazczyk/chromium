@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder app WebUI controller implementation
+// summary: Implements the Recorder app WebUI controller, covering SODA and on-device model state handling, media device ID salts, and structured metrics.
+// ---
+
 #include "ash/webui/recorder_app_ui/recorder_app_ui.h"
 
 #include <algorithm>

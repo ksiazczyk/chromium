@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample page handler class declaration
+// summary: Declares the PageHandler class demonstrating Mojo communication patterns between the browser process and the sample system web app page.
+// ---
+
 #ifndef ASH_WEBUI_SAMPLE_SYSTEM_WEB_APP_UI_SAMPLE_PAGE_HANDLER_H_
 #define ASH_WEBUI_SAMPLE_SYSTEM_WEB_APP_UI_SAMPLE_PAGE_HANDLER_H_
 
