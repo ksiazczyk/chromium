@@ -1,3 +1,12 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval config for running tests in a single file
+# summary: Promptfoo evaluation configuration that checks an agent runs only the tests from a given Chromium test file and reports the test count and command used.
+# relations:
+#   - references /base/strings/strcat_unittest.cc
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: Verify that only tests in the given file are triggered.
 owner: dmurph@
 prompts:

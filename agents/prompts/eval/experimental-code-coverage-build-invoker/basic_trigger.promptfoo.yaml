@@ -1,3 +1,13 @@
+# ---docerion
+# type: test
+# title: Basic trigger eval for code coverage build invoker
+# summary: Promptfoo evaluation that verifies the experimental-code-coverage-build-invoker skill triggers LUCI try jobs for requested builders, using a mocked git-cl command and a contains assertion.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - depends_on /agents/prompts/eval/experimental-code-coverage-build-invoker/setup_triage_state.patch
+#   - tests /agents/skills/experimental-code-coverage-build-invoker/SKILL.md
+# ---
+
 description: >-
   Verify experimental-code-coverage-build-invoker skill triggers LUCI try
   jobs.

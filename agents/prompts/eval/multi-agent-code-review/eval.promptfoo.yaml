@@ -1,3 +1,12 @@
+# ---docerion
+# type: test
+# title: Promptfoo evaluation config for multi-agent-code-review skill
+# summary: Defines promptfoo evaluation cases that verify the multi-agent-code-review skill triggers correctly, selects scanners from ROUTING.md, formats ReviewFeedback output, and applies routing_overlay overrides.
+# relations:
+#   - tests /agents/skills/multi-agent-code-review/SKILL.md
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: >-
   Verify multi-agent-code-review skill triggers correctly, selects appropriate
   scanners from ROUTING.md, and formats ReviewFeedback outputs.

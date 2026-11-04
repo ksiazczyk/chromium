@@ -1,3 +1,13 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval config for add gtest coverage
+# summary: Promptfoo configuration that runs the prompt via a Gemini provider and asserts BUILD.gn edits, new unittest files, and passing RegionCaptureBounds gtests.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - references /components/viz/common/BUILD.gn
+#   - depends_on /agents/prompts/eval/add_gtest_coverage/prompt.md
+# ---
+
 description: Add gtest unit test coverage for a few methods with low coverage.
 owner: estaab@ (authored by vmiura@)
 prompts:

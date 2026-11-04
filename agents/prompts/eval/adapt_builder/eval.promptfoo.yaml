@@ -1,3 +1,12 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval configuration for the adapt builder task
+# summary: Promptfoo configuration that runs the adapt builder prompt through a Gemini provider and asserts the expected LUCI config file changes and contents.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - depends_on /agents/prompts/eval/adapt_builder/prompt.md
+# ---
+
 description: Adapt a LUCI builder definition
 owner: bryankim@google.com
 prompts:

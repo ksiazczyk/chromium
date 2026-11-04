@@ -1,3 +1,11 @@
+# ---docerion
+# type: config
+# title: Basic check eval for experimental-ci-only-validator skill
+# summary: Promptfoo evaluation config that verifies the experimental-ci-only-validator skill identifies CI-only code coverage LUCI builders running the chrome_junit_tests suite.
+# relations:
+#   - references /agents/testing/gemini_provider.py
+# ---
+
 description: Verify the experimental-ci-only-validator skill correctly identifies ci_only tests.
 owner: pasthana@
 prompts:

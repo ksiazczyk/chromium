@@ -1,3 +1,13 @@
+---
+type: guide
+title: Chrome for Android instructions
+summary: Agent prompt for Chrome for Android development covering build targets, installing and launching APKs or bundles, and running tests on emulators.
+relations:
+  - references /docs/android_emulator.md
+  - references /tools/autotest.py
+  - references /tools/android/avd/avd.py
+---
+
 @../../../styleguide/java/java.md
 
 # Chrome for Android Instructions

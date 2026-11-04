@@ -1,3 +1,13 @@
+---
+type: guide
+title: ChromeOS accessibility instructions
+summary: Agent prompt with guidelines for ChromeOS accessibility development, covering required background reading, extension-based feature code, browser-side code, and extension APIs.
+relations:
+  - references /docs/accessibility/overview.md
+  - references /docs/accessibility/browser/how_a11y_works.md
+  - references /docs/accessibility/browser/how_a11y_works_2.md
+---
+
 # ChromeOS accessibility instructions
 
 Follow these guidelines when developing on accessibility for ChromeOS. The

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Minimal common prompt for gemini-cli
+summary: Core gemini-cli and Chromium directives on paths, building, testing, coding, presubmit checks and JNI, sub-included by common.md.
+relations:
+  - references /tools/autotest.py
+---
+
 # Gemini-CLI Specific Directives
 
 Instructions that apply only to gemini-cli.

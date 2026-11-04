@@ -1,3 +1,12 @@
+# ---docerion
+# type: config
+# title: Promptfoo evaluation config for multi-agent-release-manager skill
+# summary: Defines promptfoo evaluation cases that verify the multi-agent-release-manager skill handles CL preparation, presubmit checks, TAG=agy description tagging, and git versus jj upload guidance.
+# relations:
+#   - tests /agents/skills/multi-agent-release-manager/SKILL.md
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: >-
   Verify multi-agent-release-manager skill triggers for CL preparation,
   presubmits, formatting, and CL uploading with proper tagging.

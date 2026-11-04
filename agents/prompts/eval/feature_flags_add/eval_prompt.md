@@ -1,3 +1,11 @@
+---
+type: note
+title: Feature flag evaluation prompt context
+summary: Explains that the evaluation prompt follows prompt.md instructions with a test flag named FeatureFlagAddTest for promptfoo-based evaluation.
+relations:
+  - references /agents/prompts/eval/feature_flags_add/prompt.md
+---
+
 # Evaluation of feature_flags_add prompt
 
 ### Context

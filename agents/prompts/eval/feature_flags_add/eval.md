@@ -1,3 +1,11 @@
+---
+type: note
+title: Feature flag addition evaluation result
+summary: Records the outcome of the feature_flags_add prompt evaluation, naming the owner, the resulting flag additions, and the modified Chromium files.
+relations:
+  - references /docs/how_to_add_your_feature_flag.md
+---
+
 * Owner: wenyufu@chromium.org
 * Description: Add a new feature flag with name in the given feature list following `//docs/how_to_add_your_feature_flag.md`
 * Git-Revision: Ib672ab0fbe1b85521e7142ca2cb2881ef9b6b034

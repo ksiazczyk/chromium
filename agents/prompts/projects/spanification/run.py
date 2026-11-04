@@ -1,6 +1,17 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Spanification workflow runner
+# summary: Runs the generator, deterministic multi-platform build check, and reviewer to produce and validate spanification fixes for a given file.
+# relations:
+#   - references /agents/prompts/projects/spanification/prompt.md
+#   - references /agents/prompts/projects/spanification/reviewer_prompt.md
+#   - references /docs/unsafe_buffers.md
+# ---
+
 """Applying Gemini CLI to Fix Chromium Unsafe Buffer Usage
 
 This is a script to discover and generate spanification fixes for a given file.

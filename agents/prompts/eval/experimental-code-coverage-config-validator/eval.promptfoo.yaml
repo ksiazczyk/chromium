@@ -1,3 +1,11 @@
+# ---docerion
+# type: test
+# title: Promptfoo eval for code coverage config validator skill
+# summary: Defines promptfoo evaluation cases that check the experimental code coverage config validator skill triggers correctly and validates GN coverage arguments for C++ and Java builders.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: >-
   Verify experimental-code-coverage-config-validator skill triggers
   correctly, validates GN arguments per language, and provides actionable

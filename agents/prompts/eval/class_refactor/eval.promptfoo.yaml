@@ -1,3 +1,13 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval config for class refactor task
+# summary: Configures a promptfoo evaluation that runs the class refactor prompt through a Gemini provider and asserts the NestedStruct extraction changes via Python and model-graded checks.
+# relations:
+#   - references /agents/prompts/eval/class_refactor/prompt.md
+#   - depends_on /agents/testing/gemini_provider.py
+#   - references /agents/prompts/eval/class_refactor/fake_class.patch
+# ---
+
 description: |
   Owner: dmurph@
   Description: Refactor a class in prompt.md

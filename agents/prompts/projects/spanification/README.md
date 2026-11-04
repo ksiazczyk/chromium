@@ -1,3 +1,13 @@
+---
+type: readme
+title: Applying Gemini CLI to Fix Chromium Unsafe Buffer Usage
+summary: Explains the CodeHealth spanification rotation, required setup, and how to run the Gemini CLI fix workflow on a Chromium source file.
+relations:
+  - references /agents/README.md
+  - references /agents/extensions/README.md
+  - references /agents/prompts/README.md
+---
+
 # Applying Gemini CLI to Fix Chromium Unsafe Buffer Usage
 
 ## CodeHealth rotation

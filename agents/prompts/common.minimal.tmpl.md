@@ -1,3 +1,11 @@
+---
+type: guide
+title: Annotated template for the minimal common prompt
+summary: Template source of common.minimal.md whose HTML comments explain each directive and are stripped when generating the plain .md file.
+relations:
+  - references /tools/autotest.py
+---
+
 # Gemini-CLI Specific Directives
 
 Instructions that apply only to gemini-cli.

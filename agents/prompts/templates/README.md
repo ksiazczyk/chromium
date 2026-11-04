@@ -1,3 +1,9 @@
+---
+type: readme
+title: Prompt Templates
+summary: Explains that the folder holds prompt snippets that can be imported into a base prompt via GEMINI.md and notes the ctags template needs universal-ctags installed.
+---
+
 # Prompt Templates
 
 These are prompt snippets that can be added to a base prompt to add specific

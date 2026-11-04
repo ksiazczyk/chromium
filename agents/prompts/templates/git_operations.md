@@ -1,3 +1,9 @@
+---
+type: guide
+title: Chromium git operations
+summary: Agent prompt describing Chromium's git workflow constraints, including branching, avoiding submodule commits, git cl usage, rebasing with gclient sync, and commit message style.
+---
+
 ## Chromium git operations
 Chromium uses traditional git, but our workflow has certain constraints:
   * **Always branched:** Ensure you are not on the `main` branch if you are

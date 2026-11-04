@@ -1,3 +1,11 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval config for chrome-performance-optimizer
+# summary: Promptfoo evaluation configuration that verifies the chrome-performance-optimizer skill by running Speedometer 3 profile analysis queries through a Gemini provider and asserting use of analyze_profile.py.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: Verify the chrome-performance-optimizer skill workflows and profile analysis.
 owner: bikineev@chromium.org
 prompts:

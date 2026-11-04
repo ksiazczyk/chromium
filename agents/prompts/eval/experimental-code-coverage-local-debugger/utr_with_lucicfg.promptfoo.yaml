@@ -1,3 +1,13 @@
+# ---docerion
+# type: test
+# title: UTR with lucicfg eval for experimental-code-coverage-local-debugger skill
+# summary: Promptfoo eval verifying the skill regenerates Starlark configs via lucicfg generate and runs local UTR debugging for net_unittests after Starlark repairs.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - depends_on /agents/prompts/eval/experimental-code-coverage-local-debugger/setup_triage_state.patch
+#   - references /tools/utr/run.py
+# ---
+
 description: >-
   Verify experimental-code-coverage-local-debugger skill regenerates Starlark
   configs via lucicfg and executes UTR when Starlark repairs are made.

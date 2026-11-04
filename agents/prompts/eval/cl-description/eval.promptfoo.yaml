@@ -1,3 +1,11 @@
+# ---docerion
+# type: config
+# title: Promptfoo evaluation config for the cl-description skill
+# summary: Defines promptfoo providers, JavaScript assertions and test cases that verify the cl-description skill formats commit messages with component prefixes, bug tags and line-length limits.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: Verify the cl-description skill correctly formats messages
 owner: shomizoe@
 prompts:

@@ -1,3 +1,9 @@
+---
+type: data
+title: Class refactor prompt for NestedStruct extraction
+summary: Prompt asking an agent to extract NestedStruct from FakeSimpleClass into a new NestedClass with private members, getters, setters, and updated build files.
+---
+
 Could you please refactor the `NestedStruct` from the `FakeSimpleClass`?
 I'd like it to be its own class called `NestedClass`.
 

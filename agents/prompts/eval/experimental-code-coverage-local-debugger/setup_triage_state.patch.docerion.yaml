@@ -1,0 +1,6 @@
+# Docerion header of setup_triage_state.patch.
+type: data
+title: Triage state fixture patch for coverage debugging evals
+summary: Patch that creates scratch/triage_state.json with bug ID, target files, builder and test suite data used to set up the eval scenarios.
+relations:
+  - references /net/ssl/client_cert_matcher.cc

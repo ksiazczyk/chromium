@@ -1,3 +1,13 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval config for actor tool registration
+# summary: Defines a promptfoo evaluation that verifies code changes registering the PerformSearch tool in actor::ToolRegistry across four Chromium files.
+# relations:
+#   - references /agents/testing/gemini_provider.py
+#   - references /BUILD.gn
+#   - references /chrome/browser/actor/tools/registry/tool_registry.h
+# ---
+
 description: Verify registration of an existing Actor ToolRequest in actor::ToolRegistry.
 owner: nandrosz@chromium.org
 prompts:

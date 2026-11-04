@@ -1,3 +1,13 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval config for BrowserWindowFeatures refactor
+# summary: Defines promptfoo tests and Python assertions verifying the QR code window controller refactor in fake browser window test files.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - depends_on /agents/prompts/eval/browser_window_feature_refactor/fake_qr_window_method.patch
+#   - references /agents/prompts/eval/browser_window_feature_refactor/prompt.md
+# ---
+
 description: Verify BrowserWindowFeatures refactor skill code changes.
 owner: qikaizhong@microsoft.com
 prompts:

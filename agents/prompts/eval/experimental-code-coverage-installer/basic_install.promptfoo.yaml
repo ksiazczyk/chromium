@@ -1,3 +1,11 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval for experimental-code-coverage-installer skill
+# summary: Promptfoo evaluation config that runs a query against the experimental-code-coverage-installer skill via a Gemini provider and asserts the workspace setup is successfully verified.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: Verify the experimental-code-coverage-installer skill correctly verifies the workspace setup.
 owner: pasthana@
 prompts:

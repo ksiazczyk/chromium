@@ -1,3 +1,13 @@
+---
+type: source
+title: Prompt for adding a WebUSB browser test
+summary: Prompt that directs the agent to study browser test APIs and WebUSB docs, then add and verify an open/close test case in usb_browsertest.cc.
+relations:
+  - references /content/public/test/browser_test_base.h
+  - references /content/public/test/browser_test_utils.h
+  - references /content/public/test/content_browser_test.h
+---
+
 First, read the following files to familiarize yourself with browser test APIs:
 * `//content/public/test/browser_test_base.h`
 * `//content/public/test/browser_test_utils.h`

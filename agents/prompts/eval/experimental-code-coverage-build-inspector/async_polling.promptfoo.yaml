@@ -1,3 +1,13 @@
+# ---docerion
+# type: test
+# title: Async polling eval for code coverage build inspector
+# summary: Promptfoo eval verifying the skill schedules async polling when a LUCI code coverage build is non-terminal.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - depends_on /agents/prompts/eval/experimental-code-coverage-build-inspector/setup_triage_state.patch
+#   - references /tools/code_coverage/inspect_coverage_build.py
+# ---
+
 description: >-
   Verify experimental-code-coverage-build-inspector skill triggers schedule
   tool async polling when build is non-terminal.

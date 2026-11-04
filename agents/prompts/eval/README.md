@@ -1,3 +1,9 @@
+---
+type: readme
+title: Eval Directory README
+summary: Describes the eval directory of agent prompts for software engineering tasks, including the required subdirectory layout and the format for eval.md files used in regression testing.
+---
+
 # Eval Directory
 
 This directory contains prompts for various software engineering tasks that can

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Common gemini-cli prompt with workflow tips
+summary: Common gemini-cli prompt giving agents a mandatory Chromium edit workflow covering code audits, tests, builds and presubmit checks.
+relations:
+  - depends_on /agents/prompts/common.minimal.md
+---
+
 @./common.minimal.md
 
 # Workflow Tips

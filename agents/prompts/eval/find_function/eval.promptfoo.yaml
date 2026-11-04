@@ -1,3 +1,11 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval config for find_function
+# summary: Promptfoo evaluation config that checks whether the model picks the right function call, such as GetTabInterface, for a WebUI prompt using a Python Gemini provider.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: Find which function call to use based on a user prompt.
 owner: erikchen@
 prompts:

@@ -1,0 +1,6 @@
+# Docerion header of fake_qr_window_method.patch.
+type: data
+title: Setup patch for fake QR browser window eval files
+summary: Diff that creates fake browser window, features, and controller eval files as the starting state for the refactor evaluation.
+relations:
+  - references /base/no_destructor.h

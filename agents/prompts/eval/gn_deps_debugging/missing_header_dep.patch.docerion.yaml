@@ -1,0 +1,6 @@
+# Docerion header of missing_header_dep.patch.
+type: data
+title: Patch adding fake sources with a missing header dependency
+summary: Patch that adds fake Chromium source files whose public header includes pref_service.h, creating the GN include-visibility problem the eval asks the agent to fix.
+relations:
+  - references /components/prefs/pref_service.h

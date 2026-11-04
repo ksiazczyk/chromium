@@ -1,3 +1,12 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval for multi-agent TDD implementation skill
+# summary: Defines promptfoo evaluation tests that verify the multi-agent-tdd-implementation skill triggers correctly and answers questions about TDD scaffolding, 3-way merge synthesis, and escalation.
+# relations:
+#   - tests /agents/skills/multi-agent-tdd-implementation/SKILL.md
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: >-
   Verify multi-agent-tdd-implementation skill triggers for TDD scaffolding,
   parallel implementation, 3-way merge synthesis, and verification.

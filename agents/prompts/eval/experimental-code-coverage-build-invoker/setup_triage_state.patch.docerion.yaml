@@ -1,0 +1,6 @@
+# Docerion header of setup_triage_state.patch.
+type: data
+title: Triage state setup patch
+summary: Patch that creates scratch/triage_state.json with bug, target file, builder, and test suite fixture data used to set up state for the skill evaluations.
+relations:
+  - references /net/ssl/client_cert_matcher.cc

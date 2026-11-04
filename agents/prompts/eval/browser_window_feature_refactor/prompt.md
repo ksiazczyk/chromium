@@ -1,3 +1,9 @@
+---
+type: guide
+title: Refactor prompt for fake QR window controller task
+summary: Agent prompt describing a behavior-preserving refactor that moves the fake QR bubble method into a BrowserWindowFeatures-owned controller.
+---
+
 Refactor the fake QR browser-window method into a BrowserWindowFeatures-owned
 feature controller, following the BrowserWindowFeatures conventions. This is a
 behavior-preserving refactor.

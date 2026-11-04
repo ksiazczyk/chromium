@@ -1,3 +1,11 @@
+# ---docerion
+# type: config
+# title: Promptfoo eval for Chromium build target queries
+# summary: Promptfoo evaluation config that verifies the assistant names the correct Chromium build target, expecting viz_unittests for a given unittest source file.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+# ---
+
 description: Verify the correct build target is provided for a source file
 owner: sshrimp@
 prompts:

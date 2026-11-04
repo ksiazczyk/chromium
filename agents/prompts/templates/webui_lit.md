@@ -1,3 +1,9 @@
+---
+type: guide
+title: Chromium WebUI Lit development instructions
+summary: Agent prompt template directing contributors to the Chromium WebUI and Lit style guide documentation when generating or reviewing WebUI Lit code.
+---
+
 ## Chromium WebUI frontend development
 
 When generating or reviewing Chromium WebUI Lit code, you must adhere to the
