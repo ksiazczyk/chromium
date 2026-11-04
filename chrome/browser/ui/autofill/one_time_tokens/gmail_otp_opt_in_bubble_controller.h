@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail OTP opt-in bubble controller class declaration
+// summary: Declares the GmailOtpOptInBubbleController class, a per-tab AutofillBubbleControllerBase subclass that manages the Gmail one-time code opt-in bubble and its result callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_ONE_TIME_TOKENS_GMAIL_OTP_OPT_IN_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_ONE_TIME_TOKENS_GMAIL_OTP_OPT_IN_BUBBLE_CONTROLLER_H_
 

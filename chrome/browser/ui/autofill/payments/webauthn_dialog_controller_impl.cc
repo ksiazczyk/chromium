@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn dialog controller implementation
+// summary: Implements the per-primary-page controller that shows, updates and closes the WebAuthn offer and verify-pending dialogs and forwards button clicks via callbacks.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/webauthn_dialog_controller_impl.h"
 
 #include "chrome/browser/ui/autofill/payments/webauthn_dialog.h"

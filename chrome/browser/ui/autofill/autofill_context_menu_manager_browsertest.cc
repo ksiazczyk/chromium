@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillContextMenuManager browser tests
+// summary: Browser tests covering the autofill context menu items, manual fallback entries and the metrics recorded for them.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_context_menu_manager.h"
 
 #include <memory>

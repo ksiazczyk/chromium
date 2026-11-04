@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offer notification bubble controller unit tests
+// summary: Unit tests for the offer notification bubble controller covering bubble display, dismissal and promo code metrics with mocked tab and bubble manager.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/offer_notification_bubble_controller_impl.h"
 
 #include "base/test/metrics/histogram_tester.h"

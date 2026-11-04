@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edit address profile dialog controller implementation
+// summary: Implements the controller that offers the address edit dialog and forwards the user's save decision.
+// ---
+
 #include "chrome/browser/ui/autofill/edit_address_profile_dialog_controller_impl.h"
 
 #include <string>

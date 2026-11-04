@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill context menu utilities interface
+// summary: Declares helpers that determine visibility of Autofill, AtMemory, and password manual fallback context menu items and trigger the AtMemory search popup.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_CONTEXT_MENU_UTILS_H_
 #define CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_CONTEXT_MENU_UTILS_H_
 

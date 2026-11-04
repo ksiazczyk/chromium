@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill dialog controller unit tests
+// summary: Unit tests covering dialog showing, loading dialog display, and dismissal timing behavior of AutofillDialogControllerImpl using a mock view.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_dialog_controller_impl.h"
 
 #include <memory>

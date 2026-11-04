@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleManagerImpl class declaration
+// summary: Declares the concrete bubble manager with its pending request queue, preemption helpers, and tab foreground and background subscriptions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_BUBBLE_MANAGER_IMPL_H_
 #define CHROME_BROWSER_UI_AUTOFILL_BUBBLE_MANAGER_IMPL_H_
 

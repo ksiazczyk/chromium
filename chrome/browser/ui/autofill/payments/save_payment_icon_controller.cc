@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save payment icon controller implementation
+// summary: Implements SavePaymentIconController::Get to resolve the save card or IBAN bubble controller for a tab based on the page action command ID.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/save_payment_icon_controller.h"
 
 #include "chrome/app/chrome_command_ids.h"

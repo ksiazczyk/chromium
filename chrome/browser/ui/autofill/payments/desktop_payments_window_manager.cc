@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop payments window manager implementation
+// summary: Implements the desktop payments window manager, driving VCN 3DS authentication and BNPL flows through tab-modal pop-ups and unmask requests.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/desktop_payments_window_manager.h"
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification popup controller implementation
+// summary: Implements the controller that shows the email verification permission popup, maps suggestion-hiding reasons to UI status metrics, and reports the user's decision.
+// ---
+
 #include "chrome/browser/ui/autofill/email_verifier/email_verification_popup_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillPopupHideHelper header
+// summary: Declares AutofillPopupHideHelper, which observes WebContents, zoom and picture-in-picture events and invokes a callback to hide the Autofill popup.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_POPUP_HIDE_HELPER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_POPUP_HIDE_HELPER_H_
 

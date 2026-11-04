@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeAutofillClient
+// summary: Unit tests covering ChromeAutofillClient behaviors such as suggestion sessions, Gmail OTP opt-in, and settings-related metrics.
+// ---
+
 #include "chrome/browser/ui/autofill/chrome_autofill_client.h"
 
 #include <optional>

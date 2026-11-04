@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Email verified toast menu model browser tests
+// summary: Browser tests verifying the toast menu structure, that the Manage command records metrics and opens Settings, and that unknown commands are ignored.
+// ---
+
 #include "chrome/browser/ui/autofill/email_verifier/email_verified_toast_menu_model.h"
 
 #include "base/test/metrics/user_action_tester.h"

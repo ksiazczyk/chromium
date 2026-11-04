@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification controller implementation
+// summary: Implements the shared EmailVerificationController logic for showing and hiding the permission popup and managing loading and toast timing.
+// ---
+
 #include "chrome/browser/ui/autofill/email_verifier/email_verification_controller.h"
 
 #include <utility>

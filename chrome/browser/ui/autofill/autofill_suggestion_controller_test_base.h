@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test fixture header for autofill suggestion controller tests
+// summary: Declares test fixtures and helper classes for unit tests of the autofill suggestion controller on desktop and Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_SUGGESTION_CONTROLLER_TEST_BASE_H_
 #define CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_SUGGESTION_CONTROLLER_TEST_BASE_H_
 

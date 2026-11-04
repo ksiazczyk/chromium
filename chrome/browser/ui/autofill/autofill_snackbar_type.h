@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSnackbarType enum
+// summary: Defines the AutofillSnackbarType enum listing snackbar kinds such as virtual card, mandatory reauth, save-card success and Autofill AI failure notifications.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_SNACKBAR_TYPE_H_
 #define CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_SNACKBAR_TYPE_H_
 

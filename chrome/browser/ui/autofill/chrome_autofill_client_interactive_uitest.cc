@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for ChromeAutofillClient
+// summary: Browser tests that verify autofill suggestion display, UI session IDs, and client behavior in a real browser window environment.
+// ---
+
 #include "chrome/browser/ui/autofill/chrome_autofill_client.h"
 
 #include "base/i18n/rtl.h"

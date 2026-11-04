@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address editor controller implementation
+// summary: Implements the address editor controller, building country-specific editor fields from libaddressinput and managing profile data for the autofill address editor.
+// ---
+
 #include "chrome/browser/ui/autofill/address_editor_controller.h"
 
 #include <string>

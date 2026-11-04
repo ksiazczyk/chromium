@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillSnackbarControllerImpl unit tests
+// summary: Unit tests for AutofillSnackbarControllerImpl verifying snackbar metrics, repeated shows, action clicks and dismissal behavior with mock accessory controllers.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_snackbar_controller_impl.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the autofill suggestion controller
+// summary: Unit tests covering suggestion popup behavior such as suggestion updates, selection, acceptance, hiding and related metrics.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

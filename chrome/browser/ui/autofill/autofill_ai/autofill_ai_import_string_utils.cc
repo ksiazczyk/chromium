@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI import prompt string utilities
+// summary: Builds localized dialog titles and button text for Autofill AI import prompts, handling Wallet Pass 2026 branding experiment arms per platform.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_ai/autofill_ai_import_string_utils.h"
 
 #include <string>

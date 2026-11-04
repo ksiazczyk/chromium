@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address editor controller
+// summary: Defines the AddressEditorController class and EditorField struct that describe editor fields, validation state and profile data handling for the address editor UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_ADDRESS_EDITOR_CONTROLLER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_ADDRESS_EDITOR_CONTROLLER_H_
 

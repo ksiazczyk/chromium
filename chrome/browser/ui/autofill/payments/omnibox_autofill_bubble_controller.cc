@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox autofill bubble controller implementation
+// summary: Implements the controller that initializes and manages omnibox autofill bubbles with suggestions and callbacks.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/omnibox_autofill_bubble_controller.h"
 
 #include "chrome/browser/autofill/personal_data_manager_factory.h"

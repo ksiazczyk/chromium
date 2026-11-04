@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bubbles controller implementation
+// summary: Implements showing save and update address bubbles, sign-in promos, and editor flows for address profiles.
+// ---
+
 #include "chrome/browser/ui/autofill/address_bubbles_controller.h"
 
 #include <array>

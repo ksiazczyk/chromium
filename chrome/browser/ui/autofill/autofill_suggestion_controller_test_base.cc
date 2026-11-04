@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test base implementation for autofill suggestion controller tests
+// summary: Implements shared test helpers such as a modified BrowserAutofillManager, external delegate and test suggestion controller for popup controller unit tests.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_suggestion_controller_test_base.h"
 
 #include <memory>

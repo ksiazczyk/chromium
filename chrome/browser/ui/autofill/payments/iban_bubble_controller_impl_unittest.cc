@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IBAN bubble controller implementation unit test
+// summary: Unit tests for the IBAN bubble controller covering local and upload save offers, bubble display and confirmation bubble behavior.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/iban_bubble_controller_impl.h"
 
 #include "base/test/metrics/histogram_tester.h"

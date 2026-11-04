@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill context menu utilities implementation
+// summary: Implements helpers that decide when Autofill, AtMemory, and password manual fallback items appear in the context menu for editable form fields.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_context_menu_utils.h"
 
 #include "base/feature_list.h"

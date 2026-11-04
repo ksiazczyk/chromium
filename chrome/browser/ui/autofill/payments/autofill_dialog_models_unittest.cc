@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill dialog combobox model unit tests
+// summary: Unit tests verifying the month and expiration year combobox model contents, handling of additional and far-future years, and default index behavior.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/autofill_dialog_models.h"
 
 #include "base/strings/utf_string_conversions.h"

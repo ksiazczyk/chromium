@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Email verification popup controller unit tests
+// summary: Unit tests covering the popup controller's initial state, show flow, dismissal handling, and histogram logging using a mock popup view.
+// ---
+
 #include "chrome/browser/ui/autofill/email_verifier/email_verification_popup_controller.h"
 
 #include <memory>

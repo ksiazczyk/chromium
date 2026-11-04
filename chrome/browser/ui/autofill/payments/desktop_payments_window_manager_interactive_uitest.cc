@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop payments window manager interactive UI test
+// summary: Interactive UI tests for the desktop payments window manager, covering VCN 3DS and BNPL popup flows, consent dialogs and related metrics.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/desktop_payments_window_manager.h"
 
 #include <memory>

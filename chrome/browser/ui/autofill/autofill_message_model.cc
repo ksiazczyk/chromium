@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill message model implementation
+// summary: Implements AutofillMessageModel factory methods that build Android messages for card failures, email verification, private inference notices and related flows.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_message_model.h"
 
 #include "base/functional/bind.h"

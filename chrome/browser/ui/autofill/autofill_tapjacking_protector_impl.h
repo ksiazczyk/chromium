@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill tapjacking protector implementation header
+// summary: Declares the Chrome-side implementation of the autofill tapjacking protector that shows authorization dialogs via a dialog controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_TAPJACKING_PROTECTOR_IMPL_H_
 #define CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_TAPJACKING_PROTECTOR_IMPL_H_
 

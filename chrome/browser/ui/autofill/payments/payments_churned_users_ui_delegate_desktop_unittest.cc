@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments churned users UI delegate desktop unit test
+// summary: Unit tests verifying that the desktop UI delegate shows the payments churned users bubble with the correct account info via the bubble controller.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/payments_churned_users_ui_delegate_desktop.h"
 
 #include <memory>

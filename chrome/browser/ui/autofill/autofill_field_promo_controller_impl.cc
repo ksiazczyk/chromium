@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill field promo controller implementation
+// summary: Implements showing and hiding of autofill field IPH promos by anchoring an invisible view to DOM element bounds and handling hide scenarios.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_field_promo_controller_impl.h"
 
 #include "base/functional/bind.h"

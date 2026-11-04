@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillContextMenuManager implementation
+// summary: Implements adding and executing autofill-related context menu items, including manual fallbacks for addresses, payments, passwords and autofill feedback.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_context_menu_manager.h"
 
 #include <algorithm>

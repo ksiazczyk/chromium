@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillClientProvider implementation
+// summary: Implements the provider that decides between Chrome's built-in autofill and Android platform autofill and creates the matching client for each WebContents.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_client_provider.h"
 
 #include "base/check_deref.h"

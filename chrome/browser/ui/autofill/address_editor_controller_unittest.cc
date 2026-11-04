@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address editor controller unit tests
+// summary: Unit tests covering field validation rules, validity change callbacks and basic behavior of the address editor controller.
+// ---
+
 #include "chrome/browser/ui/autofill/address_editor_controller.h"
 
 #include <algorithm>

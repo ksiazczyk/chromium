@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android payments window manager declarations
+// summary: Declares AndroidPaymentsWindowManager, the per-WebContents Android implementation of PaymentsWindowManager and PaymentsWindowDelegate.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_ANDROID_PAYMENTS_WINDOW_MANAGER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_ANDROID_PAYMENTS_WINDOW_MANAGER_H_
 

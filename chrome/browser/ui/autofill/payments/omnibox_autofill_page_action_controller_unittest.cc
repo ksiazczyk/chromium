@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox autofill page action controller unit tests
+// summary: Unit tests verifying chip show, hide and callback behavior of the omnibox autofill page action controller.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/omnibox_autofill_page_action_controller.h"
 
 #include <memory>

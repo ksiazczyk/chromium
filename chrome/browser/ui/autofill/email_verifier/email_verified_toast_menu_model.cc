@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verified toast menu model implementation
+// summary: Implements the email verified toast menu with a Manage item that records a user action and opens the contact info settings subpage.
+// ---
+
 #include "chrome/browser/ui/autofill/email_verifier/email_verified_toast_menu_model.h"
 
 #include "base/metrics/user_metrics.h"

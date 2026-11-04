@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edit address profile dialog controller unit tests
+// summary: Unit tests verifying the dialog controller's save callback behaviour for ignored, declined and accepted dialog decisions and tab closure.
+// ---
+
 #include "chrome/browser/ui/autofill/edit_address_profile_dialog_controller_impl.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome payments autofill client unit tests
+// summary: Unit tests for ChromePaymentsAutofillClient covering offers, card unmasking, BNPL, and Android-specific behaviors with mocked controllers.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/chrome_payments_autofill_client.h"
 
 #include <optional>

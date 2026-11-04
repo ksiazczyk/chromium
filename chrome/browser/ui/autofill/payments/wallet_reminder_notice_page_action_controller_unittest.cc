@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallet reminder notice page action controller unit tests
+// summary: Unit tests verifying the controller forwards Show and Hide calls to the underlying page action controller.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/wallet_reminder_notice_page_action_controller.h"
 
 #include <memory>

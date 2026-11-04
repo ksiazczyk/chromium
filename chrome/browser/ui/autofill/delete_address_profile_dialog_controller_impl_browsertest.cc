@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delete address profile dialog controller browser tests
+// summary: Browser tests verifying dialog strings and delete confirmation behavior for local and account address profiles.
+// ---
+
 #include "chrome/browser/ui/autofill/delete_address_profile_dialog_controller_impl.h"
 
 #include "base/strings/utf_string_conversions.h"

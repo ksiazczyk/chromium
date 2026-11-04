@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bubbles icon controller interface
+// summary: Declares the controller interface for the address bubbles page action icon, exposing icon clicks, bubble state, tooltip text and bubble view access.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_ADDRESS_BUBBLES_ICON_CONTROLLER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_ADDRESS_BUBBLES_ICON_CONTROLLER_H_
 

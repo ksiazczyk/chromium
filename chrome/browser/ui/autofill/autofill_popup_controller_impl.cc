@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill popup controller implementation
+// summary: Implements the controller that shows, updates, accepts and hides autofill suggestion popups in the browser UI, including accessibility and metrics handling.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_popup_controller_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity attribute update details implementation
+// summary: Implements computation of attribute change details between new and old entities, including masked value suffix comparison for Wallet passes.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_ai/entity_attribute_update_details.h"
 
 #include <optional>

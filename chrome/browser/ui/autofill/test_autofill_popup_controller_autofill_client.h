@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test autofill client for popup controller tests
+// summary: Test double of AutofillClient that simulates desktop popup controller and view lifetimes, exposing mock popup views and a mock at-memory query service for autofill popup tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_TEST_AUTOFILL_POPUP_CONTROLLER_AUTOFILL_CLIENT_H_
 #define CHROME_BROWSER_UI_AUTOFILL_TEST_AUTOFILL_POPUP_CONTROLLER_AUTOFILL_CLIENT_H_
 

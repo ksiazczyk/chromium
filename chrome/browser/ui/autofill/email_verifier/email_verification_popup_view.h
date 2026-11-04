@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification popup view interface
+// summary: Defines the interface for the email verification permission popup, including show, hide, loading state, and picture-in-picture overlap checks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_EMAIL_VERIFIER_EMAIL_VERIFICATION_POPUP_VIEW_H_
 #define CHROME_BROWSER_UI_AUTOFILL_EMAIL_VERIFIER_EMAIL_VERIFICATION_POPUP_VIEW_H_
 

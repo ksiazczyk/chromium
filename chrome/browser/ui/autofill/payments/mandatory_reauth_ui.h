@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mandatory re-auth bubble type enum
+// summary: Defines the MandatoryReauthBubbleType enum with inactive, opt-in and confirmation bubble states used by the mandatory re-auth UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_MANDATORY_REAUTH_UI_H_
 #define CHROME_BROWSER_UI_AUTOFILL_PAYMENTS_MANDATORY_REAUTH_UI_H_
 

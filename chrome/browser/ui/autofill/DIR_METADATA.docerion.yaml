@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for autofill UI
+summary: Maps the directory to the UI>Browser>Autofill Monorail component and a Buganizer component ID.

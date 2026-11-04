@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments churned users page action controller implementation
+// summary: Implements showing and hiding the omnibox page action icon and suggestion chip for the payments churned users bubble.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/payments_churned_users_page_action_controller.h"
 
 #include "chrome/browser/ui/actions/chrome_action_id.h"

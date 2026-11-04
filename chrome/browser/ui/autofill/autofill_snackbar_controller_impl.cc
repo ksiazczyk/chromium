@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSnackbarControllerImpl implementation
+// summary: Implements the per-tab Autofill snackbar controller, showing snackbars for virtual cards, reauth and save-card flows while logging UMA metrics.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_snackbar_controller_impl.h"
 
 #include <optional>

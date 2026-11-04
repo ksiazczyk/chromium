@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offer notification handler implementation
+// summary: Implements per-tab logic that validates wallet direct offers and shows or dismisses the offer notification bubble.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/offer_notification_handler.h"
 
 #include <string>

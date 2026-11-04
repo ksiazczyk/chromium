@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for autofill UI dependencies
+summary: Restricts which directories the autofill UI code is allowed to include headers from.

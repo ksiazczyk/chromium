@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for autofill bubble controllers
+// summary: Defines the BubbleType enum and the BubbleControllerBase interface that all autofill bubble controllers implement for showing, hiding and queueing bubbles.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_BUBBLE_CONTROLLER_BASE_H_
 #define CHROME_BROWSER_UI_AUTOFILL_BUBBLE_CONTROLLER_BASE_H_
 

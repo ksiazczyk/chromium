@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtMemory suggestion controller unit tests
+// summary: Unit tests for the AtMemory suggestion controller using a mock bottom sheet bridge and a test autofill client to exercise suggestion display and acceptance.
+// ---
+
 #include "chrome/browser/ui/autofill/at_memory_suggestion_controller.h"
 
 #include <vector>

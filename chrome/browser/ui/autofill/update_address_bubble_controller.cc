@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update address bubble controller implementation
+// summary: Implements the controller that supplies window title, footer and button texts for the address update prompt and forwards the user's decision to its delegate.
+// ---
+
 #include "chrome/browser/ui/autofill/update_address_bubble_controller.h"
 
 #include "base/notimplemented.h"

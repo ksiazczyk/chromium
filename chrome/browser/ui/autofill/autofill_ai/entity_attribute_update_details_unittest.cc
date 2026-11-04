@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntityAttributeUpdateDetails unit tests
+// summary: Unit tests verifying how attribute changes between old and new autofill AI entities are classified and ordered in save and update flows.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_ai/entity_attribute_update_details.h"
 
 #include <string>

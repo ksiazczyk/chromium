@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android email verification controller
+// summary: Tests the Android controller's popup, loading, and toast behavior with a mocked bottom sheet bridge and message controller.
+// ---
+
 #include "chrome/browser/ui/autofill/email_verifier/email_verification_controller_android.h"
 
 #include <memory>

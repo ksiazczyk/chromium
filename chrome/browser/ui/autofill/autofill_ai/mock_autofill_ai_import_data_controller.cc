@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAutofillAiImportDataController implementation
+// summary: Implements the GoogleMock controller stub, returning default legal message lines for autofill AI import UI tests.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_ai/mock_autofill_ai_import_data_controller.h"
 
 namespace autofill {

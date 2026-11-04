@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment bubble controller implementation
+// summary: Implements the controller that sets up, shows and reshows the virtual card enrollment bubble and confirmation UI, with Android bottom sheet support.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/virtual_card_enroll_bubble_controller_impl.h"
 
 #include "chrome/browser/ui/actions/chrome_action_id.h"

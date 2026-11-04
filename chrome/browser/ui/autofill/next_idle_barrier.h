@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Next idle barrier header
+// summary: Declares the NextIdleBarrier class, which reports whether the UI thread has been idle at least once after a specified delay has passed.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_NEXT_IDLE_BARRIER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_NEXT_IDLE_BARRIER_H_
 

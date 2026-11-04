@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for the autofill popup controller
+// summary: In-process browser tests exercising the autofill popup controller against a live test server and real browser window.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_popup_controller.h"
 
 #include <memory>

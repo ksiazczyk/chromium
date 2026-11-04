@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop BNPL UI delegate browser test
+// summary: Parameterized browser test that opens and verifies the BNPL issuer selection and terms of service dialogs on desktop.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/desktop_bnpl_ui_delegate.h"
 
 #include "base/test/mock_callback.h"

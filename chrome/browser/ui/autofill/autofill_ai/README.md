@@ -1,3 +1,9 @@
+---
+type: readme
+title: Autofill AI UI directory overview
+summary: Explains why Autofill AI UI files live in the Autofill subdirectory, citing their mutual dependencies with the Autofill bubble infrastructure.
+---
+
 This directory contains files that use Autofill UI infrastructure but are
 related to Autofill AI.
 

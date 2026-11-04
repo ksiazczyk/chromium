@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the autofill popup controller
+// summary: Unit tests covering suggestion display, acceptance, hiding, accessibility and AtMemory behavior of the autofill popup controller.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_popup_controller_impl.h"
 
 #include <optional>

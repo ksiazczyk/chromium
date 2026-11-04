@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop wallet reminder notice UI delegate implementation
+// summary: Implements the desktop UI delegate that shows the wallet reminder notice page action and bubble for a WebContents.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/wallet_reminder_notice_ui_delegate_desktop.h"
 
 #include <utility>

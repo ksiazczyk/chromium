@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android payments window manager implementation
+// summary: Implements the Android payments window manager, opening ephemeral tabs for BNPL flows and handling navigation, tab closure and metrics.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/android_payments_window_manager.h"
 
 #include <memory>

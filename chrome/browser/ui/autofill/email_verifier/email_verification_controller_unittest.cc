@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the email verification controller
+// summary: Tests the desktop controller's prompt state machine, toasts, and timing behavior using a mock popup view.
+// ---
+
 #include "chrome/browser/ui/autofill/email_verifier/email_verification_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSnackbarView interface header
+// summary: Declares the AutofillSnackbarView interface for showing and dismissing an Autofill snackbar after a form is autofilled on Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_SNACKBAR_VIEW_H_
 #define CHROME_BROWSER_UI_AUTOFILL_AUTOFILL_SNACKBAR_VIEW_H_
 

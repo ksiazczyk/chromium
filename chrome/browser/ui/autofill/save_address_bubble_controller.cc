@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save address bubble controller implementation
+// summary: Implements the controller that supplies titles, header images and body text for the save or migrate address bubble and forwards user decisions to its delegate.
+// ---
+
 #include "chrome/browser/ui/autofill/save_address_bubble_controller.h"
 
 #include <array>

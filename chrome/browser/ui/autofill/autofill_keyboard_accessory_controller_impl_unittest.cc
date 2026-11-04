@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill keyboard accessory controller unit tests
+// summary: Unit tests for the Android keyboard accessory controller covering suggestions, metrics and removal confirmation flows.
+// ---
+
 #include "chrome/browser/ui/autofill/autofill_keyboard_accessory_controller_impl.h"
 
 #include <string>

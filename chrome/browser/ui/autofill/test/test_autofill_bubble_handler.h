@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test declarations for the autofill bubble handler
+// summary: Declares TestAutofillBubble and TestAutofillBubbleHandler, stub test doubles replacing the real autofill bubble UI during browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_TEST_TEST_AUTOFILL_BUBBLE_HANDLER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_TEST_TEST_AUTOFILL_BUBBLE_HANDLER_H_
 

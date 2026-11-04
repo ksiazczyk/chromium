@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update address bubble controller unit tests
+// summary: Unit tests verifying the address update prompt's title, footer and button texts for account and local profiles, along with user decision and edit handling.
+// ---
+
 #include "chrome/browser/ui/autofill/update_address_bubble_controller.h"
 
 #include <memory>

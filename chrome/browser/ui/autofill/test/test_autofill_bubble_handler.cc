@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test implementation of the autofill bubble handler
+// summary: Implements a test AutofillBubbleHandler that returns stub TestAutofillBubble views for save card, IBAN, address, and other autofill bubbles in browser tests.
+// ---
+
 #include "chrome/browser/ui/autofill/test/test_autofill_bubble_handler.h"
 
 #include "chrome/browser/ui/autofill/autofill_ai/autofill_ai_import_data_controller.h"

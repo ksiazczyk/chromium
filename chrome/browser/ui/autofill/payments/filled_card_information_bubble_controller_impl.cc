@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filled card information bubble controller implementation
+// summary: Implements the per-tab controller that sets up, delays, shows and reshows the filled card information bubble and handles field clicks and closure.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/filled_card_information_bubble_controller_impl.h"
 
 #include "base/task/single_thread_task_runner.h"

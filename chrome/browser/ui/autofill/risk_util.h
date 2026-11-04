@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill risk data utilities header
+// summary: Declares LoadRiskData helpers that obtain the device risk fingerprint, optionally using an obfuscated GAIA ID, and pass encoded risk data to a callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_RISK_UTIL_H_
 #define CHROME_BROWSER_UI_AUTOFILL_RISK_UTIL_H_
 

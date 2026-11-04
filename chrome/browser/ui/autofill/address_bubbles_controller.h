@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bubbles controller class
+// summary: Declares the per-WebContents controller that owns the address page action icon and drives save or update bubble flows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AUTOFILL_ADDRESS_BUBBLES_CONTROLLER_H_
 #define CHROME_BROWSER_UI_AUTOFILL_ADDRESS_BUBBLES_CONTROLLER_H_
 

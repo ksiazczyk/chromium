@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test card unmask prompt waiter implementation
+// summary: Implements a test helper that injects a card unmask prompt controller, waits for the CVC prompt to appear and accepts an entered CVC value.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/test_card_unmask_prompt_waiter.h"
 
 #include "base/test/scoped_run_loop_timeout.h"

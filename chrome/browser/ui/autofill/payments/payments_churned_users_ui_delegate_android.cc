@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android payments churned users UI delegate implementation
+// summary: Implements the Android UI delegate that re-engages churned payments users via bottom sheets, messages, and confirmation snackbars.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/payments_churned_users_ui_delegate_android.h"
 
 #include <utility>

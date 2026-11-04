@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Next idle barrier implementation
+// summary: Implements a barrier that becomes true once the UI thread has been idle after a given delay, using idle callbacks and a retry timer for measurement attempts.
+// ---
+
 #include "chrome/browser/ui/autofill/next_idle_barrier.h"
 
 #include <memory>

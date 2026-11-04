@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet reminder notice page action controller implementation
+// summary: Implements the controller that shows and hides the wallet reminder notice page action icon for a tab.
+// ---
+
 #include "chrome/browser/ui/autofill/payments/wallet_reminder_notice_page_action_controller.h"
 
 #include "chrome/browser/ui/actions/chrome_action_id.h"

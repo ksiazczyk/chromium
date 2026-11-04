@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the autofill payments UI
+summary: GN build file defining the payments and impl source sets with platform-specific sources and dependencies for the Chrome autofill payments UI.

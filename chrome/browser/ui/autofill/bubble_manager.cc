@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble manager creation and per-tab lookup
+// summary: Implements static factory and lookup helpers that create the autofill bubble manager for a tab and retrieve it from a WebContents or TabInterface.
+// ---
+
 #include "chrome/browser/ui/autofill/bubble_manager.h"
 
 #include "base/memory/ptr_util.h"
