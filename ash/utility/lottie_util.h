@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lottie customizable ID helper declarations
+// summary: Declares the kLottieCustomizableIdPrefix constant and IsCustomizableLottieId helper for identifying dynamically controllable Lottie animation entities.
+// ---
+
 #ifndef ASH_UTILITY_LOTTIE_UTIL_H_
 #define ASH_UTILITY_LOTTIE_UTIL_H_
 

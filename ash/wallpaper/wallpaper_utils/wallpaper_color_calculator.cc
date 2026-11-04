@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper color calculator
+// summary: Calculates k-mean and Celebi colors of a wallpaper image, resizing large images and running the extraction on a background thread pool.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_color_calculator.h"
 
 #include <string>

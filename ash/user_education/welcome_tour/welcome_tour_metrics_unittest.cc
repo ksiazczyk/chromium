@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Welcome Tour metrics unit tests
+// summary: Parameterized unit tests verifying that Welcome Tour histograms such as ChangedExperimentalArm are recorded correctly across experimental arm and pref configurations.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_metrics.h"
 
 #include <string>

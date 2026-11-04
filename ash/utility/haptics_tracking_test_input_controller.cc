@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Haptics tracking test input controller implementation
+// summary: Implements a test input controller that records haptic touchpad effects sent through the haptics utilities so tests can verify the effects that were played.
+// ---
+
 #include "ash/utility/haptics_tracking_test_input_controller.h"
 
 #include "base/notreached.h"

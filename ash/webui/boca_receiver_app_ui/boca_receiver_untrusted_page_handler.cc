@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted page handler for Boca Receiver
+// summary: Handles untrusted page Mojo interactions for the Boca Receiver, including FCM invalidations, network state observation, and receiver registration requests.
+// ---
+
 #include "ash/webui/boca_receiver_app_ui/boca_receiver_untrusted_page_handler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper language tag helper implementation
+// summary: Implements GetLanguageTag, which returns the device locale's language tag using ICU and an empty string when the conversion fails.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_language.h"
 
 #include <string>

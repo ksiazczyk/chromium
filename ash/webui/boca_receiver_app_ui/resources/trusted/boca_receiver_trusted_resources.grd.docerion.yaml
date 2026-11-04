@@ -1,0 +1,4 @@
+# Docerion header of boca_receiver_trusted_resources.grd.
+type: config
+title: Grit resource list for Boca receiver trusted UI
+summary: Grit XML listing the generated outputs and the bundled index.html, style.css, and icon assets for the trusted receiver UI.

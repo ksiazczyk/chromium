@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper metrics manager
+// summary: Implements recording of wallpaper-related UMA metrics such as wallpaper type, result histograms, and online wallpaper image and collection usage.
+// ---
+
 #include "ash/wallpaper/wallpaper_metrics_manager.h"
 
 #include <string>

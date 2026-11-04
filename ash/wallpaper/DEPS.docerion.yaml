@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Wallpaper include rules
+summary: Specifies allowed include dependencies for the wallpaper directory, with a specific rule granting wallpaper_pref_manager access to user_manager.

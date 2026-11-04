@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock welcome tour controller observer declaration
+// summary: Declares MockWelcomeTourControllerObserver with mocked OnWelcomeTourStarted and OnWelcomeTourEnded methods.
+// ---
+
 #ifndef ASH_USER_EDUCATION_WELCOME_TOUR_MOCK_WELCOME_TOUR_CONTROLLER_OBSERVER_H_
 #define ASH_USER_EDUCATION_WELCOME_TOUR_MOCK_WELCOME_TOUR_CONTROLLER_OBSERVER_H_
 

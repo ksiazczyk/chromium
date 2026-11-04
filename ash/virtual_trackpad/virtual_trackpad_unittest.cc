@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual trackpad unit tests
+// summary: Unit tests verifying the virtual trackpad toggle accelerator, finger-count button selection, and swipe gestures that enter and exit overview mode.
+// ---
+
 #include "ash/accelerators/accelerator_controller_impl.h"
 #include "ash/constants/ash_pref_names.h"
 #include "ash/constants/ash_switches.h"

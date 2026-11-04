@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for wallpaper_utils
+summary: Defines include rules for the wallpaper_utils directory, allowing includes from third_party/material_color_utilities.

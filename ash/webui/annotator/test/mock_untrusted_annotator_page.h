@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockUntrustedAnnotatorPage test double
+// summary: GMock of the untrusted annotator page mojo interface with receiver and remote accessors for annotator WebUI tests.
+// ---
+
 #ifndef ASH_WEBUI_ANNOTATOR_TEST_MOCK_UNTRUSTED_ANNOTATOR_PAGE_H_
 #define ASH_WEBUI_ANNOTATOR_TEST_MOCK_UNTRUSTED_ANNOTATOR_PAGE_H_
 

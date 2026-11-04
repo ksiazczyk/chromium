@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotator client implementation
+// summary: Implements the annotator client that forwards tool, clear, and overlay view requests to the page handler and controller.
+// ---
+
 #include "ash/webui/annotator/annotator_client_impl.h"
 
 #include "ash/annotator/annotator_controller.h"

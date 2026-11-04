@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserEducationTutorialController implementation
+// summary: Implements the singleton controller for registering, starting, and aborting tutorials in Ash, delegating to browser-side services for the primary user profile.
+// ---
+
 #include "ash/user_education/user_education_tutorial_controller.h"
 
 #include "ash/session/session_controller_impl.h"

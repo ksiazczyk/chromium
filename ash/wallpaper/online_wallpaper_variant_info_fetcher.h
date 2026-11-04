@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnlineWallpaperVariantInfoFetcher class header
+// summary: Declares OnlineWallpaperVariantInfoFetcher, which resolves wallpaper variants from WallpaperInfo or the backdrop server and returns fully populated OnlineWallpaperParams through fetch callbacks.
+// ---
+
 #ifndef ASH_WALLPAPER_ONLINE_WALLPAPER_VARIANT_INFO_FETCHER_H_
 #define ASH_WALLPAPER_ONLINE_WALLPAPER_VARIANT_INFO_FETCHER_H_
 

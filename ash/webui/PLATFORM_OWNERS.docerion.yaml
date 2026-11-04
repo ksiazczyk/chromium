@@ -1,0 +1,4 @@
+# Docerion header of PLATFORM_OWNERS.
+type: config
+title: Ash WebUI platform owners list
+summary: Lists the email addresses of the platform owners responsible for reviewing changes in the ash/webui directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen metadata serialization and decoding
+// summary: Implements helpers that serialize SeaPen queries to JSON dictionaries, wrap them in XMP for JPEG headers, decode metadata, and extract image ids from file names.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/sea_pen_metadata_utils.h"
 
 #include <optional>

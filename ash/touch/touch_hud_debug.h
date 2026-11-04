@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch HUD debug header
+// summary: Declares TouchHudDebug, a heads-up display that shows touch traces and logs touch events with multiple display modes.
+// ---
+
 #ifndef ASH_TOUCH_TOUCH_HUD_DEBUG_H_
 #define ASH_TOUCH_TOUCH_HUD_DEBUG_H_
 

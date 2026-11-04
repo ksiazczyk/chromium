@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch devices controller unit tests
+// summary: Unit tests verifying preference registration, tap dragging, and touchpad and touchscreen toggling across user sessions.
+// ---
+
 #include "ash/touch/touch_devices_controller.h"
 
 #include "ash/accelerators/debug_commands.h"

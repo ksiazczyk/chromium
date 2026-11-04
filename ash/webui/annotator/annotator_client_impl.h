@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotator client class declaration
+// summary: Declares the AnnotatorClient implementation connecting the annotator controller with the untrusted page handler.
+// ---
+
 #ifndef ASH_WEBUI_ANNOTATOR_ANNOTATOR_CLIENT_IMPL_H_
 #define ASH_WEBUI_ANNOTATOR_ANNOTATOR_CLIENT_IMPL_H_
 

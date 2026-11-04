@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper widget controller class declaration
+// summary: Declares WallpaperWidgetController, which manages widget-based wallpapers per root window, including blur animation, reparenting and display metric handling.
+// ---
+
 #ifndef ASH_WALLPAPER_VIEWS_WALLPAPER_WIDGET_CONTROLLER_H_
 #define ASH_WALLPAPER_VIEWS_WALLPAPER_WIDGET_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserEducationController header for Ash user education features
+// summary: Declares the Shell-owned controller coordinating user education features in Ash, including help bubble and tutorial controllers, profile prefs registration, and system web app launching.
+// ---
+
 #ifndef ASH_USER_EDUCATION_USER_EDUCATION_CONTROLLER_H_
 #define ASH_USER_EDUCATION_USER_EDUCATION_CONTROLLER_H_
 

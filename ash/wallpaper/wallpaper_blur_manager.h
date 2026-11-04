@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper blur manager header
+// summary: Declares WallpaperBlurManager, which controls whether and how the wallpaper is blurred on the lock and login screens.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_BLUR_MANAGER_H_
 #define ASH_WALLPAPER_WALLPAPER_BLUR_MANAGER_H_
 

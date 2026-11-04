@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash WebUI unit test entry point
+// summary: Main entry point that launches the AshWebUITestSuite through content's unit test launcher for the ash_webui_unittests binary, built only for linux-chromeos.
+// ---
+
 #include "ash/webui/ash_webui_test_suite.h"
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"

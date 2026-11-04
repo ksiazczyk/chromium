@@ -1,0 +1,4 @@
+# Docerion header of boca_receiver_app.gni.
+type: config
+title: Boca Receiver app enable flag build argument
+summary: Declares the enable_cros_boca_receiver_app build argument that bundles the real ChromeOS Boca Receiver app or a mock app for testing.

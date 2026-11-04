@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPenWallpaperManager class declaration
+// summary: Declares the SeaPenWallpaperManager singleton that saves, loads, deletes and enumerates SeaPen wallpaper images on disk per account, with a session delegate for storage directories.
+// ---
+
 #ifndef ASH_WALLPAPER_SEA_PEN_WALLPAPER_MANAGER_H_
 #define ASH_WALLPAPER_SEA_PEN_WALLPAPER_MANAGER_H_
 

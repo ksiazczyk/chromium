@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper image downloader
+// summary: Implements downloading of Google Photos and Backdrop wallpaper images, including network traffic annotations and resolution handling for requests.
+// ---
+
 #include "ash/wallpaper/wallpaper_image_downloader.h"
 
 #include <optional>

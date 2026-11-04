@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc curve path util header
+// summary: Declares the ArcCurveCorner struct and GetArcCurveRectPath functions for creating paths with arc curve corners.
+// ---
+
 #ifndef ASH_UTILITY_ARC_CURVE_PATH_UTIL_H_
 #define ASH_UTILITY_ARC_CURVE_PATH_UTIL_H_
 

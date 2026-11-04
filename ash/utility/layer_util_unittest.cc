@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerUtil unit tests
+// summary: Unit tests for CopyLayerContentToLayer, verifying layer content copying and callback cancellation with a test compositor.
+// ---
+
 #include "ash/utility/layer_util.h"
 
 #include <memory>

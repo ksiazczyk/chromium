@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentProto template class declarations
+// summary: Declares the PersistentProto template that asynchronously loads a proto from disk and supports queued or immediate writes with read and write status callbacks.
+// ---
+
 #ifndef ASH_UTILITY_PERSISTENT_PROTO_H_
 #define ASH_UTILITY_PERSISTENT_PROTO_H_
 

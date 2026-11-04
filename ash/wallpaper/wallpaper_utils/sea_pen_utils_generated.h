@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated SeaPen template string conversion declarations
+// summary: Declares generated helpers that map SeaPen template ids, chips, and options to strings and expose their chip and option sets.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_UTILS_SEA_PEN_UTILS_GENERATED_H_
 #define ASH_WALLPAPER_WALLPAPER_UTILS_SEA_PEN_UTILS_GENERATED_H_
 

@@ -1,3 +1,11 @@
+---
+type: readme
+title: //ash/webui directory overview
+summary: Explains that //ash/webui hosts ChromeOS-specific WebUI code with content dependencies, marks it deprecated in favor of //chromeos/ash/experiences, and describes module layout.
+relations:
+  - references /ash/webui/BUILD.gn
+---
+
 # //ash/webui
 
 DEPRECATED: please consider to use //chromeos/ash/experiences/..., instead.

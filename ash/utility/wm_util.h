@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window manager utility header
+// summary: Declares exported helpers for placing widgets in ash shell containers on the new-window or primary display and for getting the system modal container id.
+// ---
+
 #ifndef ASH_UTILITY_WM_UTIL_H_
 #define ASH_UTILITY_WM_UTIL_H_
 

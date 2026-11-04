@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for audio packet converter
+// summary: Tests conversion of valid audio packets and rejection of invalid encoding, bytes per sample, sampling rate, channels, and multiple data entries.
+// ---
+
 #include "ash/webui/boca_receiver_app_ui/audio_packet_converter.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Online wallpaper variant utilities header
+// summary: Declares helpers for checking online wallpaper variant suitability, selecting the first valid variant, and identifying Time of Day wallpapers.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_ONLINE_VARIANT_UTILS_H_
 #define ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_ONLINE_VARIANT_UTILS_H_
 

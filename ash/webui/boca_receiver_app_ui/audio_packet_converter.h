@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio packet converter header
+// summary: Declares ConvertAudioPacketToMojom, which converts a remoting AudioPacket proto into a Mojo DecodedAudioPacket and returns null on failure.
+// ---
+
 #ifndef ASH_WEBUI_BOCA_RECEIVER_APP_UI_AUDIO_PACKET_CONVERTER_H_
 #define ASH_WEBUI_BOCA_RECEIVER_APP_UI_AUDIO_PACKET_CONVERTER_H_
 

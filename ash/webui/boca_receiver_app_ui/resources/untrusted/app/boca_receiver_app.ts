@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca receiver app client initialization
+// summary: Initializes the boca-receiver-app element by wiring Mojo callback router events such as receiver info, frames, audio packets, and connection state to its ClientApi interface.
+// ---
+
 import type {BitmapN32} from '//resources/mojo/skia/public/mojom/bitmap.mojom-webui.js';
 
 import {ConnectionClosedReason, DecodedAudioPacket, ReceiverInfo, UserInfo} from '../mojom/boca_receiver.mojom-webui.js';

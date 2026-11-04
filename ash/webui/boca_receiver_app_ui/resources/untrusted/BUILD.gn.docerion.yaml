@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for Class Tools receiver untrusted page
+summary: GN build configuration defining the WebUI build target for the Class Tools receiver untrusted page, listing its TypeScript sources and Mojo dependencies.

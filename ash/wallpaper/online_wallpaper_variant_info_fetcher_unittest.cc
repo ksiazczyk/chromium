@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for OnlineWallpaperVariantInfoFetcher
+// summary: Unit tests verifying that daily, single, and time of day wallpaper fetches populate variants and params correctly using a test wallpaper controller client and histogram checks.
+// ---
+
 #include "ash/wallpaper/online_wallpaper_variant_info_fetcher.h"
 
 #include "ash/public/cpp/schedule_enums.h"

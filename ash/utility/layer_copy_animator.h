@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerCopyAnimator class declaration
+// summary: Declares LayerCopyAnimator, a utility that copies a window's layer tree and animates the copy, observing animation sequences and window bounds changes.
+// ---
+
 #ifndef ASH_UTILITY_LAYER_COPY_ANIMATOR_H_
 #define ASH_UTILITY_LAYER_COPY_ANIMATOR_H_
 

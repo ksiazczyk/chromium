@@ -1,0 +1,4 @@
+# Docerion header of boca_receiver_app_bundle_mock_resources.grd.
+type: config
+title: Mock Boca Receiver app grit resource bundle definition
+summary: Grit XML definition that packages the compiled mock app JavaScript into the Boca Receiver app bundle resources.

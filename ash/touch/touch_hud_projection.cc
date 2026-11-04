@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch HUD projection implementation
+// summary: Implements the heads-up display that shows active touch points on screen for the --show-taps flag, delegating drawing to TouchHudRenderer.
+// ---
+
 #include "ash/touch/touch_hud_projection.h"
 
 #include "ash/root_window_controller.h"

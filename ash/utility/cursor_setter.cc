@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorSetter implementation
+// summary: Implements the CursorSetter helper that updates, hides, and restores the Ash cursor through the cursor manager while preserving the original cursor state.
+// ---
+
 #include "ash/utility/cursor_setter.h"
 
 #include "ash/display/screen_orientation_controller.h"

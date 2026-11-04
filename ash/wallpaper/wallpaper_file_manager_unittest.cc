@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper file manager unit tests
+// summary: Parameterized unit tests for WallpaperFileManager covering saving and loading wallpapers across online, daily, Google Photos, and customized wallpaper types.
+// ---
+
 #include "ash/wallpaper/wallpaper_file_manager.h"
 
 #include <string>

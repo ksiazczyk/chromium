@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper calculated colors struct
+// summary: Defines the WallpaperCalculatedColors struct holding the k-mean and Celebi prominent colors extracted from a wallpaper image.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_CALCULATED_COLORS_H_
 #define ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_CALCULATED_COLORS_H_
 

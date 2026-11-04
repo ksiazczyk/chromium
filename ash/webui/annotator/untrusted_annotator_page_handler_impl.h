@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted annotator page handler class declaration
+// summary: Declares the Mojo page handler for the chrome-untrusted annotator WebUI, exposing tool, undo, redo, and clear operations.
+// ---
+
 #ifndef ASH_WEBUI_ANNOTATOR_UNTRUSTED_ANNOTATOR_PAGE_HANDLER_IMPL_H_
 #define ASH_WEBUI_ANNOTATOR_UNTRUSTED_ANNOTATOR_PAGE_HANDLER_IMPL_H_
 

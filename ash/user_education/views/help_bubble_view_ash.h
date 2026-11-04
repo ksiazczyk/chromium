@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash help bubble view class declaration
+// summary: Declares HelpBubbleViewAsh, a BubbleDialogDelegateView for in-product help, along with anchor params, testing element identifiers, and timeout handling.
+// ---
+
 #ifndef ASH_USER_EDUCATION_VIEWS_HELP_BUBBLE_VIEW_ASH_H_
 #define ASH_USER_EDUCATION_VIEWS_HELP_BUBBLE_VIEW_ASH_H_
 

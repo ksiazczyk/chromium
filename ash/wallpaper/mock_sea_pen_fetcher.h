@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock SeaPen fetcher declaration
+// summary: Declares MockSeaPenFetcher, a gmock-based fake of SeaPenFetcher used to stub thumbnail and wallpaper fetches in tests.
+// ---
+
 #ifndef ASH_WALLPAPER_MOCK_SEA_PEN_FETCHER_H_
 #define ASH_WALLPAPER_MOCK_SEA_PEN_FETCHER_H_
 

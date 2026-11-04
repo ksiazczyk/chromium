@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper pref manager header
+// summary: Declares the WallpaperPrefManager class and the WallpaperProfileHelper interface for managing wallpaper preferences, sync decisions and observers.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_PREF_MANAGER_H_
 #define ASH_WALLPAPER_WALLPAPER_PREF_MANAGER_H_
 

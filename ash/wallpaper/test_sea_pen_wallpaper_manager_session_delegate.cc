@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test SeaPen wallpaper manager session delegate implementation
+// summary: Implements a test session delegate that creates per-account SeaPen wallpaper storage directories inside a scoped temporary directory.
+// ---
+
 #include "ash/wallpaper/test_sea_pen_wallpaper_manager_session_delegate.h"
 
 #include <utility>

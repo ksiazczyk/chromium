@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper view class declaration
+// summary: Declares WallpaperView, a desktop wallpaper view adding blur, dimming and context menu handling, plus the CreateWallpaperWidget factory function.
+// ---
+
 #ifndef ASH_WALLPAPER_VIEWS_WALLPAPER_VIEW_H_
 #define ASH_WALLPAPER_VIEWS_WALLPAPER_VIEW_H_
 

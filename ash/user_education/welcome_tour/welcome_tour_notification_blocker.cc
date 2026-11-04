@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Tour notification blocker implementation
+// summary: Implements a message center blocker that suppresses all notifications during the tour and hides queued popups on destruction, except system-priority notifications.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_notification_blocker.h"
 
 #include "ui/message_center/message_center.h"

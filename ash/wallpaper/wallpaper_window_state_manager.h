@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper window state manager header
+// summary: Declares WallpaperWindowStateManager, which remembers minimized windows per user hash so they can be restored when the wallpaper viewer closes.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_WINDOW_STATE_MANAGER_H_
 #define ASH_WALLPAPER_WALLPAPER_WINDOW_STATE_MANAGER_H_
 

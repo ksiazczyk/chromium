@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper time-of-day scheduler header
+// summary: Declares WallpaperTimeOfDayScheduler, which dictates when the time-of-day wallpaper collection changes on its fixed sunset-to-sunrise schedule.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_TIME_OF_DAY_SCHEDULER_H_
 #define ASH_WALLPAPER_WALLPAPER_TIME_OF_DAY_SCHEDULER_H_
 

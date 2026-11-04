@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education controller implementation
+// summary: Implements the singleton controller that owns feature controllers such as the Welcome Tour and forwards delegate calls for the primary user profile.
+// ---
+
 #include "ash/user_education/user_education_controller.h"
 
 #include "ash/session/session_controller_impl.h"

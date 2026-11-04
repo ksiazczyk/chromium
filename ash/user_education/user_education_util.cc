@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education utilities implementation
+// summary: Implements helpers that build and read help bubble extended properties and resolve session, account, pref and display information for Ash user education.
+// ---
+
 #include "ash/user_education/user_education_util.h"
 
 #include <algorithm>

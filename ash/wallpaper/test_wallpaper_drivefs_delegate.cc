@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test wallpaper DriveFS delegate implementation
+// summary: Implements a fake DriveFS wallpaper delegate that records account ids and returns stub wallpaper paths, times and decoded images for tests.
+// ---
+
 #include "ash/wallpaper/test_wallpaper_drivefs_delegate.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca receiver browser proxy singleton
+// summary: Provides a singleton BrowserProxyImpl that creates an UntrustedPageCallbackRouter and binds it to the untrusted page handler for the Boca receiver WebUI.
+// ---
+
 import {UntrustedPageCallbackRouter, UntrustedPageHandlerFactory} from '../mojom/boca_receiver.mojom-webui.js';
 
 // Exporting the interface helps when creating a TestBrowserProxy wrapper.

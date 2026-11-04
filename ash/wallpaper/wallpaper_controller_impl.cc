@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper controller implementation
+// summary: Implements the core Ash wallpaper controller that sets wallpaper images and layouts, handles display and session changes, and calculates wallpaper colors.
+// ---
+
 #include "ash/wallpaper/wallpaper_controller_impl.h"
 
 #include <algorithm>

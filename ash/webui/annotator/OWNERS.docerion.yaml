@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Annotator directory owners
+summary: Lists the code owner for the annotator directory and includes owners from the projector directory.

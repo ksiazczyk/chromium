@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted annotator page handler implementation
+// summary: Implements Mojo communication with the annotator WebUI, forwarding tool actions and undo/redo status to the controller.
+// ---
+
 #include "ash/webui/annotator/untrusted_annotator_page_handler_impl.h"
 
 #include <memory>

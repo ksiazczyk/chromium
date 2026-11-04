@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for annotator Mojo bindings
+summary: GN build file defining the annotator_mojo_bindings mojom target for ChromeOS, built from untrusted_annotator.mojom with a dependency on the public annotator mojom bindings.

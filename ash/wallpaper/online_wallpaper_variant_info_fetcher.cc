@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnlineWallpaperVariantInfoFetcher implementation
+// summary: Implements the fetcher that resolves online wallpaper variants, including daily and time of day wallpapers, by matching backdrop server images and populating OnlineWallpaperParams for the wallpaper controller.
+// ---
+
 #include "ash/wallpaper/online_wallpaper_variant_info_fetcher.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client controlled state util implementation
+// summary: Implements delegates that handle fullscreen toggling and asynchronously apply state and bounds changes for client controlled windows.
+// ---
+
 #include "ash/utility/client_controlled_state_util.h"
 
 #include "ash/wm/client_controlled_state.h"

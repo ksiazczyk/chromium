@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Boca Receiver App UI build targets
+summary: Defines the boca_receiver_app_ui static library sources and dependencies plus the unit_tests target for the ChromeOS Boca Receiver web UI.

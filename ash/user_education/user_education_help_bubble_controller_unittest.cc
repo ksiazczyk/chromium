@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserEducationHelpBubbleController unit tests
+// summary: Unit tests covering help bubble creation, metadata, and callback notifications for the Ash help bubble controller.
+// ---
+
 #include "ash/user_education/user_education_help_bubble_controller.h"
 
 #include <memory>

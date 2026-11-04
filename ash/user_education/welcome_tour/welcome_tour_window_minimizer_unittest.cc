@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Welcome Tour window minimizer unit tests
+// summary: Unit tests verifying that windows are minimized only while WelcomeTourWindowMinimizer is in scope, including on new displays and when unminimized windows are re-minimized.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_window_minimizer.h"
 
 #include "ash/user_education/user_education_ash_test_base.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted annotator WebUI controller header
+// summary: Declares the untrusted projector-annotator WebUI controller class and its page handler factory interface for Mojo binding.
+// ---
+
 #ifndef ASH_WEBUI_ANNOTATOR_UNTRUSTED_ANNOTATOR_UI_H_
 #define ASH_WEBUI_ANNOTATOR_UNTRUSTED_ANNOTATOR_UI_H_
 

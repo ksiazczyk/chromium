@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Tour metrics implementation
+// summary: Records Welcome Tour histograms for experimental arms, ChromeVox timing and user interactions, and detects when a user's experimental arm changed between runs.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_metrics.h"
 
 #include <string>

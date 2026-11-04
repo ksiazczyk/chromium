@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper resizer header
+// summary: Declares the WallpaperResizer class that stores wallpaper data and resizes it to a target size asynchronously with image ID tracking.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_RESIZER_H_
 #define ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_RESIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education types implementation
+// summary: Implements the HelpBubbleMetadata constructor and destructor for help bubble instances in the Ash user education module.
+// ---
+
 #include "ash/user_education/user_education_types.h"
 
 namespace ash {

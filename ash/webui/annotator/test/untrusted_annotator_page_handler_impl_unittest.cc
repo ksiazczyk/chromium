@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UntrustedAnnotatorPageHandlerImpl unit tests
+// summary: Unit tests for the untrusted annotator page handler covering tool setting, undo, redo, clear, undo/redo availability, and canvas initialization.
+// ---
+
 #include "ash/webui/annotator/untrusted_annotator_page_handler_impl.h"
 
 #include <memory>

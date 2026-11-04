@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SeaPen wallpaper manager unit tests
+// summary: Unit tests for the SeaPen wallpaper manager covering saving, deleting, enumerating and reading SeaPen images and their metadata.
+// ---
+
 #include "ash/wallpaper/sea_pen_wallpaper_manager.h"
 
 #include <memory>

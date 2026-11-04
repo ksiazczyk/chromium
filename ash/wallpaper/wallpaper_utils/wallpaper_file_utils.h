@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper file utilities header
+// summary: Declares ResizeAndSaveWallpaper and CreateDirectoryAndLogError plus constants for custom wallpaper subdirectory names used when saving wallpapers.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_FILE_UTILS_H_
 #define ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_FILE_UTILS_H_
 

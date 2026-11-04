@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Online wallpaper variant utilities implementation
+// summary: Implements helpers that match online wallpaper variants to schedule checkpoints, find the first valid variant, and detect the Time of Day wallpaper collection.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_online_variant_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca receiver untrusted WebUI controller implementation
+// summary: Implements the WebUI config and controller that serve the chrome-untrusted Boca receiver app resources, configure content security policies, and create the untrusted page handler.
+// ---
+
 #include "ash/webui/boca_receiver_app_ui/boca_receiver_untrusted_ui.h"
 
 #include <memory>

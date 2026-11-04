@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen utilities implementation
+// summary: Implements SeaPen helpers that compute the largest landscape display size, validate Manta output data, and build Manta API requests from text or template SeaPen queries.
+// ---
+
 #include "ash/wallpaper/sea_pen_utils.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Online wallpaper manager class declaration
+// summary: Declares OnlineWallpaperManager, which loads online wallpapers from disk and downloads all variants when loading fails.
+// ---
+
 #ifndef ASH_WALLPAPER_ONLINE_WALLPAPER_MANAGER_H_
 #define ASH_WALLPAPER_ONLINE_WALLPAPER_MANAGER_H_
 

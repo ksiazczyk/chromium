@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockUntrustedAnnotatorPage implementation
+// summary: Implements the mock annotator page with mojo receiver and remote flush helpers plus undo/redo and canvas event senders.
+// ---
+
 #include "ash/webui/annotator/test/mock_untrusted_annotator_page.h"
 
 namespace ash {

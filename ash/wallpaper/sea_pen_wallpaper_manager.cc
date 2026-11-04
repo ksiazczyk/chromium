@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPenWallpaperManager implementation
+// summary: Implements SeaPenWallpaperManager, which stores, loads, and prunes SeaPen wallpaper JPEG files per user, tracking recent image metadata with prefs and a session delegate.
+// ---
+
 #include "ash/wallpaper/sea_pen_wallpaper_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window manager utility implementation
+// summary: Implements helpers that point widget init params at ash shell window containers and choose the system or lock modal container based on session state.
+// ---
+
 #include "ash/utility/wm_util.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

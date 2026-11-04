@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education shared enums and metadata types
+// summary: Defines HelpBubbleId, TimeBucket and TutorialId enums plus the HelpBubbleMetadata struct used to identify and describe help bubbles and tutorials.
+// ---
+
 #ifndef ASH_USER_EDUCATION_USER_EDUCATION_TYPES_H_
 #define ASH_USER_EDUCATION_USER_EDUCATION_TYPES_H_
 

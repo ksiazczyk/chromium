@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ash/user_education
+summary: Applies the common directory metadata as a mixin so the folder inherits its Buganizer component and team email.

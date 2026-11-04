@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client controlled state util header
+// summary: Declares ClientControlledStateUtil for setting up client controlled window state with asynchronous state and bounds change callbacks.
+// ---
+
 #ifndef ASH_UTILITY_CLIENT_CONTROLLED_STATE_UTIL_H_
 #define ASH_UTILITY_CLIENT_CONTROLLED_STATE_UTIL_H_
 

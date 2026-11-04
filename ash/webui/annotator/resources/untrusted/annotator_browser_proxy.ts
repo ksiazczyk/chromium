@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotator browser proxy for the untrusted WebUI
+// summary: Browser proxy exposing annotator events such as undo/redo availability and canvas initialization to the embedder through Mojo interfaces.
+// ---
+
 import {UntrustedAnnotatorPageCallbackRouter, UntrustedAnnotatorPageHandlerFactory, UntrustedAnnotatorPageHandlerRemote} from './untrusted_annotator.mojom-webui.js';
 
 /**

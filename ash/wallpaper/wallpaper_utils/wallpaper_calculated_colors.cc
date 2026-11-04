@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WallpaperCalculatedColors implementation
+// summary: Implements constructors, assignment operators, and equality comparison for the WallpaperCalculatedColors value struct.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_calculated_colors.h"
 
 #include "ash/public/cpp/wallpaper/wallpaper_types.h"

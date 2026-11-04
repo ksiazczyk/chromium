@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper file utils unit tests
+// summary: Unit tests verifying that ResizeAndSaveWallpaper resizes and saves wallpapers correctly for center-cropped and stretch layouts, including failure cases.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_file_utils.h"
 
 #include "ash/public/cpp/image_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnnotatorClientImpl unit tests
+// summary: Unit tests for AnnotatorClientImpl verifying SetTool, Clear, and handler reset behavior against a mocked annotator page.
+// ---
+
 #include "ash/webui/annotator/annotator_client_impl.h"
 
 #include "ash/public/cpp/annotator/annotator_tool.h"

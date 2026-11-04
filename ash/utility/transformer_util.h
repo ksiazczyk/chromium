@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transformer utility header
+// summary: Declares the exported CreateRotationTransform helper that creates a rotation transform between old and new display rotations for a given size.
+// ---
+
 #ifndef ASH_UTILITY_TRANSFORMER_UTIL_H_
 #define ASH_UTILITY_TRANSFORMER_UTIL_H_
 

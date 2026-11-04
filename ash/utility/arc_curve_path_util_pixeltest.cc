@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Arc curve path util pixel test
+// summary: Pixel tests verifying views clipped with arc curve corner paths across all corner locations, with and without rounded corners.
+// ---
+
 #include <memory>
 #include <optional>
 #include <tuple>

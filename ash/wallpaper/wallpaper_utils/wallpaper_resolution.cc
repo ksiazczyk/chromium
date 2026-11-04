@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wallpaper_resolution
+// summary: Implements helpers that compute the maximum native display size and choose between small and large wallpaper resolution for the Ash shell.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_resolution.h"
 
 #include "ash/public/cpp/wallpaper/wallpaper_types.h"

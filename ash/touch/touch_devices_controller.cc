@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch devices controller implementation
+// summary: Implements the controller managing touchpad and touchscreen enabled state from user prefs and global sources, including tap dragging and UMA logging.
+// ---
+
 #include "ash/touch/touch_devices_controller.h"
 
 #include <utility>

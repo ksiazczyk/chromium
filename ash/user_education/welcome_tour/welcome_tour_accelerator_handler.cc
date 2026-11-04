@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome tour accelerator handler implementation
+// summary: Implements key event handling during the tour, blocking disallowed accelerators and asynchronously aborting the tour when required.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_accelerator_handler.h"
 
 #include <algorithm>

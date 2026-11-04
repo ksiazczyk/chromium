@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerCopyAnimator implementation
+// summary: Implements LayerCopyAnimator, which copies a window's layer tree and runs animations on the copied layer for more performant window and layer animations.
+// ---
+
 #include "ash/utility/layer_copy_animator.h"
 
 #include "ash/utility/layer_util.h"

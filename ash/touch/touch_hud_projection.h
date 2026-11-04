@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch HUD projection header
+// summary: Declares TouchHudProjection, a heads-up display showing active touch points on screen for the --show-taps flag.
+// ---
+
 #ifndef ASH_TOUCH_TOUCH_HUD_PROJECTION_H_
 #define ASH_TOUCH_TOUCH_HUD_PROJECTION_H_
 

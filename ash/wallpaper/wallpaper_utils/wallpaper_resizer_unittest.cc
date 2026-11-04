@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper resizer unit tests
+// summary: Unit tests verifying wallpaper resizing behavior across center, center-cropped, stretch, and tile layouts, including expected pixel results.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_resizer.h"
 
 #include <stdint.h>

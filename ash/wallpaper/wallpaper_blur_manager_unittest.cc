@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper blur manager unit tests
+// summary: Unit tests verifying which wallpaper types may be blurred and that blur updates work for lock state and root windows.
+// ---
+
 #include "ash/wallpaper/wallpaper_blur_manager.h"
 
 #include "ash/public/cpp/test/shell_test_api.h"

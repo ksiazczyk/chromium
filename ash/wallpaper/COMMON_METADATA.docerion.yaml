@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Wallpaper common metadata
+summary: Defines the monorail component and public buganizer component ID used for bug tracking of the wallpaper directory.

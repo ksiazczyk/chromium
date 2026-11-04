@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Ash WebUI owners
+summary: Routes review ownership for the directory, directing business logic changes to ChromeOS owners and WebUI toolchain changes to ui/webui platform owners.

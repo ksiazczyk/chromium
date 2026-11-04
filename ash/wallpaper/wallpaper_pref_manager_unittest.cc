@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper pref manager unit tests
+// summary: Unit tests for WallpaperPrefManager covering wallpaper info storage in prefs, sync in and out behavior, and profile helper interactions.
+// ---
+
 #include "ash/wallpaper/wallpaper_pref_manager.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transformer utility implementation
+// summary: Implements CreateRotationTransform, which builds a gfx::Transform rotating a given size between two display rotations.
+// ---
+
 #include "ash/utility/transformer_util.h"
 
 #include <cmath>

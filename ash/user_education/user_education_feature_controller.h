@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserEducationFeatureController base class declaration
+// summary: Declares the base class for controllers responsible for specific user education features, with copy construction and assignment deleted.
+// ---
+
 #ifndef ASH_USER_EDUCATION_USER_EDUCATION_FEATURE_CONTROLLER_H_
 #define ASH_USER_EDUCATION_USER_EDUCATION_FEATURE_CONTROLLER_H_
 

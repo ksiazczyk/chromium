@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome tour accelerator handler
+// summary: Declares the event handler class and the list of accelerator actions allowed during the Welcome Tour, including which ones abort it.
+// ---
+
 #ifndef ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_ACCELERATOR_HANDLER_H_
 #define ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_ACCELERATOR_HANDLER_H_
 

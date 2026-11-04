@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsEphemeralUser implementation
+// summary: Implements IsEphemeralUser, treating guest and public account users as ephemeral and consulting the user session to decide wallpaper persistence.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_ephemeral_user.h"
 
 #include "ash/public/cpp/session/session_types.h"

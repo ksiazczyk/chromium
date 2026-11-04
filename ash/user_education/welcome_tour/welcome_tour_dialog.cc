@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Tour dialog implementation
+// summary: Implements the singleton Welcome Tour dialog, creating and showing a centered frameless dialog with product name, image and accept, cancel and close callbacks.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_dialog.h"
 
 #include <string>

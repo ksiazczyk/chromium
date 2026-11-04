@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Tour prefs implementation
+// summary: Implements pref helpers that store and read Welcome Tour state such as the first experimental arm, interaction times and first abort, completion and prevention records.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_prefs.h"
 
 #include "ash/shell.h"

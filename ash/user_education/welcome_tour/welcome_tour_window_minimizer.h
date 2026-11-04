@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Tour window minimizer header
+// summary: Declares the WelcomeTourWindowMinimizer class that keeps app windows minimized during the tour to prevent noise and stops preventing unminimization on destruction.
+// ---
+
 #ifndef ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_WINDOW_MINIMIZER_H_
 #define ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_WINDOW_MINIMIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper controller test API implementation
+// summary: Implements helpers that simulate wallpaper preview, inject calculated colors and show test wallpaper images when testing WallpaperControllerImpl.
+// ---
+
 #include "ash/wallpaper/wallpaper_controller_test_api.h"
 
 #include <memory>

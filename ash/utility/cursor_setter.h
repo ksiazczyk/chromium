@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorSetter class declaration
+// summary: Declares CursorSetter, a helper class to update, hide, and reset the cursor for a root window, tracking custom cursor parameters and the original cursor state.
+// ---
+
 #ifndef ASH_UTILITY_CURSOR_SETTER_H_
 #define ASH_UTILITY_CURSOR_SETTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education tutorial controller class declaration
+// summary: Declares the Ash singleton controller that registers, starts and aborts tutorials through the user education delegate, restricted by a private API key.
+// ---
+
 #ifndef ASH_USER_EDUCATION_USER_EDUCATION_TUTORIAL_CONTROLLER_H_
 #define ASH_USER_EDUCATION_USER_EDUCATION_TUTORIAL_CONTROLLER_H_
 

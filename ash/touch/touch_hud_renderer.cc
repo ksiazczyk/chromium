@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch HUD renderer implementation
+// summary: Implements the renderer that draws touch points as gradient-filled circles with fadeout animations for the touch HUD projection.
+// ---
+
 #include "ash/touch/touch_hud_renderer.h"
 
 #include <memory>

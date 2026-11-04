@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentProto write helper implementation
+// summary: Implements the internal Write helper that atomically persists serialized proto data to disk on behalf of PersistentProto.
+// ---
+
 #include "ash/utility/persistent_proto.h"
 
 namespace ash::internal {

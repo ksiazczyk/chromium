@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cropping util header
+// summary: Declares CenterCropImage for cropping an image to a target aspect ratio, center-aligned, without scaling.
+// ---
+
 #ifndef ASH_UTILITY_CROPPING_UTIL_H_
 #define ASH_UTILITY_CROPPING_UTIL_H_
 

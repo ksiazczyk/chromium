@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test wallpaper controller client implementation
+// summary: Implements a fake WallpaperControllerClient that serves preconfigured wallpaper collections, Google Photos photos and access tokens for tests.
+// ---
+
 #include "ash/wallpaper/test_wallpaper_controller_client.h"
 
 #include "ash/webui/personalization_app/mojom/personalization_app.mojom.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch devices controller header
+// summary: Declares TouchDevicesController, which controls touchpad and touchscreen enabled state from user preference and global sources.
+// ---
+
 #ifndef ASH_TOUCH_TOUCH_DEVICES_CONTROLLER_H_
 #define ASH_TOUCH_TOUCH_DEVICES_CONTROLLER_H_
 

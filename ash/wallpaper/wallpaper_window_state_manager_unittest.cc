@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper window state manager unit tests
+// summary: Unit tests verifying that WallpaperWindowStateManager minimizes and restores windows correctly when the wallpaper picker opens and closes.
+// ---
+
 #include "ash/wallpaper/wallpaper_window_state_manager.h"
 
 #include <memory>

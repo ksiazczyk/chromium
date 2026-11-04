@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome Tour dialog class declaration
+// summary: Declares the singleton WelcomeTourDialog view that lets users accept or cancel the Welcome Tour tutorial via accept, cancel and close callbacks.
+// ---
+
 #ifndef ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_DIALOG_H_
 #define ASH_USER_EDUCATION_WELCOME_TOUR_WELCOME_TOUR_DIALOG_H_
 

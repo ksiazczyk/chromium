@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper pref manager implementation
+// summary: Implements WallpaperPrefManager, which stores, loads and syncs per-user wallpaper preferences and tracks the currently configured wallpaper in Ash.
+// ---
+
 #include "ash/wallpaper/wallpaper_pref_manager.h"
 
 #include <cstdint>

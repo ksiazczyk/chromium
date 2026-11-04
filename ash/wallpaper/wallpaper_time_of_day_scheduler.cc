@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper time-of-day scheduler implementation
+// summary: Implements WallpaperTimeOfDayScheduler, a ScheduledFeature that registers prefs for scheduling the time-of-day wallpaper between sunset and sunrise.
+// ---
+
 #include "ash/wallpaper/wallpaper_time_of_day_scheduler.h"
 
 #include "ash/constants/ash_pref_names.h"

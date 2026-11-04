@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAnnotatorClient test double
+// summary: GMock implementation of the AnnotatorClient interface for stubbing tool, clear, and handler calls in annotator tests.
+// ---
+
 #ifndef ASH_WEBUI_ANNOTATOR_TEST_MOCK_ANNOTATOR_CLIENT_H_
 #define ASH_WEBUI_ANNOTATOR_TEST_MOCK_ANNOTATOR_CLIENT_H_
 

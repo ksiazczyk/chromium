@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WallpaperColorCalculator unit tests
+// summary: Unit tests for WallpaperColorCalculator covering synchronous and asynchronous color extraction, calculated colors, and duration metrics with different image sizes.
+// ---
+
 #include "ash/wallpaper/wallpaper_utils/wallpaper_color_calculator.h"
 
 #include <memory>

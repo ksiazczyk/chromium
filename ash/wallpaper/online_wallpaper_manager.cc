@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Online wallpaper manager implementation
+// summary: Implements loading online wallpapers from disk and downloading and saving all wallpaper variants over the network for WallpaperController.
+// ---
+
 #include "ash/wallpaper/online_wallpaper_manager.h"
 
 #include "ash/public/cpp/image_util.h"

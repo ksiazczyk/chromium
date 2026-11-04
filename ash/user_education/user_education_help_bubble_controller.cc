@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserEducationHelpBubbleController implementation
+// summary: Implements the singleton controller that creates and manages help bubbles in Ash, tracking bubble metadata and notifying subscribers of shown, closed, and anchor bounds changed events.
+// ---
+
 #include "ash/user_education/user_education_help_bubble_controller.h"
 
 #include "ash/session/session_controller_impl.h"

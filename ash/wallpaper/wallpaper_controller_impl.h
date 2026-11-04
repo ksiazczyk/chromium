@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper controller class declaration
+// summary: Declares WallpaperControllerImpl, which manages the desktop background image, layout, preview mode, colors and wallpaper containers across session states.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_CONTROLLER_IMPL_H_
 #define ASH_WALLPAPER_WALLPAPER_CONTROLLER_IMPL_H_
 

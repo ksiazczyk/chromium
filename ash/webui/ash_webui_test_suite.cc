@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshWebUITestSuite implementation
+// summary: Implements the Ash WebUI test suite, initializing GL surfaces, path providers, ash test resources, a temporary user data dir, and a discardable memory allocator.
+// ---
+
 #include "ash/webui/ash_webui_test_suite.h"
 
 #include "ash/constants/ash_paths.h"

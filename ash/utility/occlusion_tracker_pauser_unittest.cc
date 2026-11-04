@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OcclusionTrackerPauser unit tests
+// summary: Unit tests covering OcclusionTrackerPauser pausing and unpausing behavior on single-display and multi-display setups.
+// ---
+
 #include "ash/utility/occlusion_tracker_pauser.h"
 
 #include "ash/shell.h"

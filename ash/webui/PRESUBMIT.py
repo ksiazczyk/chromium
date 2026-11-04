@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Ash WebUI presubmit style checks
+# summary: Presubmit script running web dev style checks on upload and commit, skipping a generated FFmpeg JavaScript file that fails Chrome JS style rules.
+# ---
+
 
 def CheckChangeOnUpload(input_api, output_api):
   return _CommonChecks(input_api, output_api)

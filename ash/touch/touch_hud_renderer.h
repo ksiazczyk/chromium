@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchHudRenderer header for drawing touch points
+// summary: Declares TouchHudRenderer, which receives touch events and draws touch points for the TouchHudProjection --show-taps HUD.
+// ---
+
 #ifndef ASH_TOUCH_TOUCH_HUD_RENDERER_H_
 #define ASH_TOUCH_TOUCH_HUD_RENDERER_H_
 

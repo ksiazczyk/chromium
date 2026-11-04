@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wallpaper_resolution
+// summary: Declares the WallpaperResolution enum and functions returning the maximum native display size and the appropriate wallpaper resolution for all root windows.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_RESOLUTION_H_
 #define ASH_WALLPAPER_WALLPAPER_UTILS_WALLPAPER_RESOLUTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Welcome Tour dialog unit tests
+// summary: Unit tests verifying that the dialog's accept, cancel and close callbacks run when the corresponding buttons are clicked or the dialog is closed without a button.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_dialog.h"
 
 #include "ash/user_education/user_education_ash_test_base.h"

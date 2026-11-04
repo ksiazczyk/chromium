@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SeaPenFetcher
+// summary: Unit tests covering SeaPen thumbnail and wallpaper fetches, latency and status metrics, timeouts, and freeform API behavior using fake Manta responses and test bitmaps.
+// ---
+
 #include "ash/wallpaper/sea_pen_fetcher.h"
 
 #include <memory>

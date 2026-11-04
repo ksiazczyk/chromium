@@ -1,0 +1,4 @@
+# Docerion header of untrusted_annotator.mojom.
+type: source
+title: Untrusted annotator Mojo interface definitions
+summary: Defines Mojo interfaces for communication between the annotator WebUI JavaScript and the browser C++ process, covering clear, undo, redo, tool selection, and page handler creation.

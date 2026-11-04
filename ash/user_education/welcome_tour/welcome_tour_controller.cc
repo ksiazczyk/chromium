@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome tour controller implementation
+// summary: Implements the Welcome Tour tutorial lifecycle, including help bubbles, step tracking, session and accessibility handling, and abort logic.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_controller.h"
 
 #include <string>

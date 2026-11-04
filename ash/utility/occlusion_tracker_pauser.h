@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OcclusionTrackerPauser class declarations
+// summary: Declares OcclusionTrackerPauser, a compositor-observing utility that pauses the window occlusion tracker until animations end, with an optional timeout.
+// ---
+
 #ifndef ASH_UTILITY_OCCLUSION_TRACKER_PAUSER_H_
 #define ASH_UTILITY_OCCLUSION_TRACKER_PAUSER_H_
 

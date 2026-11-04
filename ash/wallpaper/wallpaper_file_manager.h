@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper file manager header
+// summary: Declares the WallpaperFileManager class that loads wallpapers and preview images from disk and saves wallpaper images to disk.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_FILE_MANAGER_H_
 #define ASH_WALLPAPER_WALLPAPER_FILE_MANAGER_H_
 

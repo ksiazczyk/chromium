@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Boca receiver trusted UI shell page
+summary: Trusted HTML page that hosts the remote display receiver by embedding the chrome-untrusted class-tools-remote-display iframe.

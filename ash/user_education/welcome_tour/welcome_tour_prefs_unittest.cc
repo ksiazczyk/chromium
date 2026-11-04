@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Welcome Tour prefs unit tests
+// summary: Unit tests verifying that Welcome Tour preference getters and marking functions behave correctly, including one-time marking of the experimental arm and first tour events.
+// ---
+
 #include "ash/user_education/welcome_tour/welcome_tour_prefs.h"
 
 #include <optional>

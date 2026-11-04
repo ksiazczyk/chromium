@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper base view class declaration
+// summary: Declares WallpaperBaseView, a view that paints the wallpaper according to its layout without dimming or blur, letting subclasses override DrawWallpaper for extra effects.
+// ---
+
 #ifndef ASH_WALLPAPER_VIEWS_WALLPAPER_BASE_VIEW_H_
 #define ASH_WALLPAPER_VIEWS_WALLPAPER_BASE_VIEW_H_
 

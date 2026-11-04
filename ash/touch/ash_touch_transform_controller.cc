@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash touch transform controller implementation
+// summary: Implements AshTouchTransformController, which observes display manager changes and updates touch transforms when displays are initialized or changed.
+// ---
+
 #include "ash/touch/ash_touch_transform_controller.h"
 
 #include "ash/shell.h"

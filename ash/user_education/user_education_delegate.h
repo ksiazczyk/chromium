@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserEducationDelegate interface for browser-side user education services
+// summary: Defines the abstract delegate interface used by the Ash user education controller to communicate with browser-side services for tutorials, help bubbles, and system web app launches.
+// ---
+
 #ifndef ASH_USER_EDUCATION_USER_EDUCATION_DELEGATE_H_
 #define ASH_USER_EDUCATION_USER_EDUCATION_DELEGATE_H_
 

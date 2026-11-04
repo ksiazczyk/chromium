@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for wallpaper seed color computation
+// summary: Declares ComputeWallpaperSeedColor, which returns the most prominent color of an image via color quantization and is too slow for the UI thread.
+// ---
+
 #ifndef ASH_WALLPAPER_WALLPAPER_UTILS_SCORED_SAMPLE_H_
 #define ASH_WALLPAPER_WALLPAPER_UTILS_SCORED_SAMPLE_H_
 

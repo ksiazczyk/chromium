@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen wallpaper manager session delegate implementation
+// summary: Implements the production session delegate that resolves each account's SeaPen wallpaper storage directory under the profile path.
+// ---
+
 #include "ash/wallpaper/sea_pen_wallpaper_manager_session_delegate_impl.h"
 
 #include <string_view>
