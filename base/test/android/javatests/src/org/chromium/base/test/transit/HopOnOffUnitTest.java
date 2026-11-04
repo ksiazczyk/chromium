@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for hopping on and off Public Transit
+// summary: Robolectric unit tests verifying hop-on and hop-off behavior for Stations and Facilities, including matching by instance among same-class activities.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static org.junit.Assert.assertEquals;

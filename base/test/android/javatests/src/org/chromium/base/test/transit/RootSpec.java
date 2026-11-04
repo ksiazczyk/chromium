@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootSpec for restricting view search to roots
+// summary: Defines specifications that restrict which window roots, such as activity windows and dialogs, are searched for views during Public Transit checks.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

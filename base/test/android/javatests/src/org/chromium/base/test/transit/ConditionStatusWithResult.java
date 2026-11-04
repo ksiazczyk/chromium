@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionStatusWithResult pairing status and result
+// summary: Pairs a ConditionStatus with an optional result value produced when a ConditionWithResult is resolved.
+// ---
+
 package org.chromium.base.test.transit;
 
 import org.chromium.build.annotations.NullMarked;

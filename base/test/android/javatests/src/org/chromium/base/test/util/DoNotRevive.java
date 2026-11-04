@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DoNotRevive annotation for tests excluded from Test Reviver
+// summary: Annotation marking disabled tests that should not be rerun by the Test Reviver infrastructure.
+// ---
+
 package org.chromium.base.test.util;
 
 import java.lang.annotation.ElementType;

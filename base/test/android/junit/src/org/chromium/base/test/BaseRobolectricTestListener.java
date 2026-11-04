@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Run listener tracking Robolectric suite start and finish
+// summary: JUnit run listener that notifies ResettersForTesting when Robolectric test suites start and finish, including parameterized suites.
+// ---
+
 package org.chromium.base.test;
 
 import org.junit.runner.Description;

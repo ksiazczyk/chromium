@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnnotationRule
+// summary: JUnit test rule that collects specified annotations on a test so custom setup and teardown logic can react to them.
+// ---
+
 package org.chromium.base.test.util;
 
 import androidx.annotation.CallSuper;

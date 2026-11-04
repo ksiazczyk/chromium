@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for TestListInstrumentationRunListener static methods
+// summary: Robolectric tests verifying that TestListInstrumentationRunListener serializes test classes, methods and annotations into result bundles.
+// ---
+
 package org.chromium.base.test;
 
 import android.app.Instrumentation;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JUnit rule dumping thread stacks on test failure
+// summary: TestWatcher rule that logs all thread names, states and stack traces when a test fails to aid debugging.
+// ---
+
 package org.chromium.base.test.util;
 
 import org.junit.rules.TestWatcher;

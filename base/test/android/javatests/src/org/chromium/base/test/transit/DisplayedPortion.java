@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calculator for the on-screen displayed portion of a View
+// summary: Calculates the percentage of a View that is visible, not occluded or cropped, mirroring Espresso's ViewMatchers logic for compatibility.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.content.Context;

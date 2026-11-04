@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'TestRunnerTestRule: JUnit rule for running test runners in tests'
+// summary: JUnit ExternalResource helper that runs a given runner class on a test class, registering fake instrumentation and recording which tests ran or were skipped.
+// ---
+
 package org.chromium.base.test.util;
 
 import static org.hamcrest.Matchers.isIn;

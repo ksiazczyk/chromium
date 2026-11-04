@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseJUnit4ClassRunner with skip checks and cleanup hooks
+// summary: Custom JUnit4 class runner for Chromium Android tests that applies skip checks, pre-test hooks, class cleanup hooks, and reports per-test durations.
+// ---
+
 package org.chromium.base.test;
 
 import android.app.Application;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewElement representing a ViewSpec in a ConditionalState
+// summary: Represents a ViewSpec added to a ConditionalState and generates enter and exit conditions ensuring the view is in the right state.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static androidx.test.espresso.matcher.RootMatchers.withDecorView;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewInterface for interacting with a View in tests
+// summary: Interface implemented by view elements and presences, offering trigger methods such as clickTo and typeTextTo to start transitions.
+// ---
+
 package org.chromium.base.test.transit;
 
 import androidx.test.espresso.ViewAction;

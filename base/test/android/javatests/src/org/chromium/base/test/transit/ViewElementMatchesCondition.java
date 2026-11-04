@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Condition checking a ViewElement against a View matcher
+// summary: A UI thread condition that checks whether a ViewElement's view matches a given Hamcrest matcher and describes any mismatch.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Utilities for running queued tasks in Robolectric tests
+// summary: Helpers to access the paused background executor and drain queued background and UI tasks during Robolectric tests.
+// ---
+
 package org.chromium.base.test;
 
 import android.os.Looper;

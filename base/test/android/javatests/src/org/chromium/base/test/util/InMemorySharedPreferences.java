@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory SharedPreferences for tests
+// summary: Implements SharedPreferences entirely in memory for tests, with snapshot creation and restoration plus listener handling.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.content.SharedPreferences;

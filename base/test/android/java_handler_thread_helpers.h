@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Java handler thread test helpers header
+// summary: Declares test-only helpers for creating a JavaHandlerThread from its Java peer and handling exceptions during tests.
+// ---
+
 #ifndef BASE_TEST_ANDROID_JAVA_HANDLER_THREAD_HELPERS_H_
 #define BASE_TEST_ANDROID_JAVA_HANDLER_THREAD_HELPERS_H_
 

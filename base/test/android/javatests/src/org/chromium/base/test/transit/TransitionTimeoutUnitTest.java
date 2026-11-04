@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for condition and transition timeouts
+// summary: Robolectric unit tests verifying how per-Condition and per-Transition timeouts are calculated in Public Transit.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static com.google.common.truth.Truth.assertThat;

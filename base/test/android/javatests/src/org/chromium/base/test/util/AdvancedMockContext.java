@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AdvancedMockContext
+// summary: Mock context wrapper for tests that adds in-memory SharedPreferences, a mock content resolver, and simple boolean flag handling.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.content.ComponentCallbacks;

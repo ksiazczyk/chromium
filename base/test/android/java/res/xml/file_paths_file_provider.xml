@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: FileProvider file paths config for tests
+summary: Defines the cache-path exposed by an Android FileProvider, provided as a test resource for the Android test tree.
+-->
+
 <paths>
   <cache-path name="cache" path="/"/>
 </paths>

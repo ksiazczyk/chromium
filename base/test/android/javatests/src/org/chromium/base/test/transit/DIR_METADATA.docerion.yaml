@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the transit test package
+summary: Declares the Monorail component and Buganizer component ID used for issue tracking of this directory.

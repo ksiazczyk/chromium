@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewSettled state for a view that has been still
+// summary: A ConditionalState entered when a ViewElement's view has remained still for a set amount of time, used to wait for settling.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.app.Activity;

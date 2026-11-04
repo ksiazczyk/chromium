@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ApplicationTestUtils
+// summary: Test helpers for application-level behavior, such as waiting for activity lifecycle states, finishing activities, and recreating activities.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.app.Activity;

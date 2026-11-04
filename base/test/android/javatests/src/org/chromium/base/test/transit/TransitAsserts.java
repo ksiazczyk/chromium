@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public Transit-specific assertions
+// summary: Provides assertions such as assertFinalDestination that verify the final active Stations and Facilities at the end of a test.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static org.junit.Assert.assertNotEquals;

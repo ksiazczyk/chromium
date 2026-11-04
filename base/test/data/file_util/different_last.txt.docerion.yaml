@@ -1,0 +1,4 @@
+# Docerion header of different_last.txt.
+type: test
+title: Last-character difference fixture
+summary: Test fixture differing from its matching counterpart only at the end, with a trailing space instead of a newline.

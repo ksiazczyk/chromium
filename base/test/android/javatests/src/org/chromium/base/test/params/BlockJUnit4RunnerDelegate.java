@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockJUnit4 runner delegate for parameterized tests
+// summary: JUnit4 runner delegate extending BlockJUnit4ClassRunner that implements ParameterizedRunnerDelegate to support parameterized test classes.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.runners.BlockJUnit4ClassRunner;

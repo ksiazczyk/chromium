@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ParameterizedRunnerDelegateFactory
+// summary: Factory that creates delegate class runners for ParameterizedRunner and matches UseMethodParameter test methods with their MethodParameter parameter sets.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.Test;

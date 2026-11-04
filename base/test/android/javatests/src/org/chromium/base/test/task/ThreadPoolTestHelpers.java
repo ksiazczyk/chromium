@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThreadPoolTestHelpers for enabling and disabling the thread pool
+// summary: Offers helpers to initialize or shut down base::ThreadPoolInstance via JNI so tests can control thread pool execution.
+// ---
+
 package org.chromium.base.test.task;
 
 import org.jni_zero.NativeMethods;

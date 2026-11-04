@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Condition fulfilled when a matching View is displayed
+// summary: Condition with result that is fulfilled when a single matching View exists and meets display, visibility and enabled requirements.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static org.chromium.base.test.util.ViewPrinter.Options.PRINT_SHALLOW_WITH_BOUNDS;

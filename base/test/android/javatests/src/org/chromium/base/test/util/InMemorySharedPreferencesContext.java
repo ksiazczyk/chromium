@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory SharedPreferences context wrapper
+// summary: Context wrapper that serves in-memory SharedPreferences so test preferences never persist to disk, with reset and snapshot support.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.content.Context;

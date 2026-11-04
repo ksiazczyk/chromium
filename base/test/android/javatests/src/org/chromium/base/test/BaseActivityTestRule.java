@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseActivityTestRule for Chromium Android tests
+// summary: JUnit rule replacing ActivityTestRule for Chromium, launching the target activity and adding accessibility checks, automatic activity finishing, and soft keyboard checks.
+// ---
+
 package org.chromium.base.test;
 
 import static com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResultUtils.matchesCheckNames;

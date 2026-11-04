@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android test URL utilities header
+// summary: Declares GetIsolatedTestRoot, which fetches the Android test data directory root through a JNI call.
+// ---
+
 #ifndef BASE_TEST_ANDROID_URL_UTILS_H_
 #define BASE_TEST_ANDROID_URL_UTILS_H_
 

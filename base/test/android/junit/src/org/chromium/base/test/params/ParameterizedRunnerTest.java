@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for ParameterizedRunner validation
+// summary: JUnit tests verifying that ParameterizedRunner rejects empty or unequal-width parameter sets, unsupported parameter types, and incorrectly annotated test classes.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.Test;

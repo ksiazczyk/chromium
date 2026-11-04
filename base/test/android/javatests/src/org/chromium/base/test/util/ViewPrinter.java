@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View hierarchy printer for debugging
+// summary: Renders Android View hierarchies to logcat or strings for debugging, with configurable options for depth, visibility, bounds and log tags.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.app.Activity;

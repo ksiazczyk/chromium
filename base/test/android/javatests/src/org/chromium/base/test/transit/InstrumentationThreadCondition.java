@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Condition checked in the instrumentation thread
+// summary: Abstract Condition run on the instrumentation thread, with a factory for simple checks that need no parameters or suppliers.
+// ---
+
 package org.chromium.base.test.transit;
 
 import org.chromium.build.annotations.NullMarked;

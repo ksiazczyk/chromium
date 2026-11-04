@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InMemoryContentProvider
+// summary: ContentProvider that serves memory-backed copies of cache files via asset file descriptors to test providers that avoid local files.
+// ---
+
 package org.chromium.base;
 
 import android.content.ContentProvider;

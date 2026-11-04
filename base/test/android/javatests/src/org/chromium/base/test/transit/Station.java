@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Station, the base class for app screens
+// summary: Abstract base class modeling a major app screen as a ConditionalState with an associated activity, facilities, and transition support.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static org.chromium.base.test.transit.Condition.whether;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkipCheck base class for test skip decisions
+// summary: Abstract check that decides whether a given JUnit test method should be skipped.
+// ---
+
 package org.chromium.base.test.util;
 
 import org.junit.runners.model.FrameworkMethod;

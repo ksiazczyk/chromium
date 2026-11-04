@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Holder that destroys replaced Destroyable values
+// summary: Holds an optional Destroyable object and destroys the previous value whenever the reference changes, aiding test teardown.
+// ---
+
 package org.chromium.base.test.util;
 
 import org.chromium.base.lifetime.Destroyable;

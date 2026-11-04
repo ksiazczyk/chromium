@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityElement for expected Activities in Public Transit
+// summary: Element representing an Activity that must exist for a Station to be active, with conditions for task placement, exact instance matching and expecting destruction.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.app.Activity;

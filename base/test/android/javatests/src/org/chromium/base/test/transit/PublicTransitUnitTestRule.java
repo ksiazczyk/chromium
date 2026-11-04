@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PublicTransitUnitTestRule for Robolectric unit tests
+// summary: JUnit rule that runs Public Transit transitions off the UI thread for Robolectric unit tests, rethrowing exceptions and cleaning up after each test.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static org.junit.Assert.assertThrows;

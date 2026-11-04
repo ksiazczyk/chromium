@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusStore for condition status regions
+// summary: Stores ConditionStatus updates as collapsed regions of equal status, tracking errors and messages for Public Transit logging.
+// ---
+
 package org.chromium.base.test.transit;
 
 import com.google.common.base.Strings;

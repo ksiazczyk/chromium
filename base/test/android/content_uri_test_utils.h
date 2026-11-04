@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content URI test utilities header
+// summary: Declares test helpers that produce content, document and tree URIs for cache paths, mimicking FileProvider and DocumentsProvider behavior.
+// ---
+
 #ifndef BASE_TEST_ANDROID_CONTENT_URI_TEST_UTILS_H_
 #define BASE_TEST_ANDROID_CONTENT_URI_TEST_UTILS_H_
 

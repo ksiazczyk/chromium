@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Additional view Conditions for transit states
+// summary: Holds more specific, rarely used Conditions on Android views, such as requiring a supplied ViewGroup to have an expected number of children.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.view.View;

@@ -1,0 +1,4 @@
+# Docerion header of first1.txt.
+type: test
+title: First-line difference fixture
+summary: Test fixture whose first line matches first2.txt while the second line differs.

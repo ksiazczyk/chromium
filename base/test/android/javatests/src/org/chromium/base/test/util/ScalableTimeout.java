@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScalableTimeout utility for scaling test timeouts
+// summary: Scales test timeouts by a common factor that can be set through a command-line flag.
+// ---
+
 package org.chromium.base.test.util;
 
 /**

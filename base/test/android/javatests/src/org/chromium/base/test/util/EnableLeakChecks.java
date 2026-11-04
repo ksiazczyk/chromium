@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EnableLeakChecks annotation for test classes
+// summary: Class-level annotation that enables leak checks for an entire test class.
+// ---
+
 package org.chromium.base.test.util;
 
 import java.lang.annotation.ElementType;

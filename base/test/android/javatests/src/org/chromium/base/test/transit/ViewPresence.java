@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewPresence state wrapping a single ViewElement
+// summary: A State containing a single ViewElement that gives access to the found view and the ViewInterface interaction methods.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static org.chromium.base.test.transit.ViewSpec.viewSpec;

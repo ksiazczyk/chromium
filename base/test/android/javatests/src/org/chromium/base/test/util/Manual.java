@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual test annotation
+// summary: Annotation marking tests that should only be run manually and are excluded from bots because they are slow or need monitoring.
+// ---
+
 package org.chromium.base.test.util;
 
 import java.lang.annotation.ElementType;

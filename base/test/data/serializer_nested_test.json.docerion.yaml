@@ -1,0 +1,4 @@
+# Docerion header of serializer_nested_test.json.
+type: test
+title: Serializer nested test data
+summary: JSON test fixture with nested dictionaries, lists, booleans, null, real and string values used to exercise serializer handling of nested structures.

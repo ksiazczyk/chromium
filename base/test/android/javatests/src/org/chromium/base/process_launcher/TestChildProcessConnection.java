@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestChildProcessConnection
+// summary: Test double extending ChildProcessConnection that mocks service binding and connection state without connecting to a real Android service.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import android.content.ComponentName;

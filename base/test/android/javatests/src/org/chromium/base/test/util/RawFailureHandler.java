@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Espresso failure handler without screenshots or hierarchy dumps
+// summary: Espresso FailureHandler that rethrows failures without dumping the view hierarchy or taking screenshots, greatly speeding up tests that expect an exception.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.view.View;

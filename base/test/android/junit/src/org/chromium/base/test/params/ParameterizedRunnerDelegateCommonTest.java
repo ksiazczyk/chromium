@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for ParameterizedRunnerDelegateCommon test instantiation
+// summary: JUnit tests verifying that ParameterizedRunnerDelegateCommon.createTest rejects invalid test classes such as multiple constructors, wrong arguments, abstract classes, or throwing constructors.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.Test;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Statement enforcing per-test timeouts with thread interruption
+// summary: JUnit statement that interrupts tests exceeding a timeout and throws TestTimedOutException with the interrupted stack trace.
+// ---
+
 package org.chromium.base.test;
 
 import org.junit.runners.model.Statement;

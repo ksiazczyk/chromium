@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native coverage instrumentation run listener
+// summary: Instrumentation run listener that sets the LLVM_PROFILE_FILE environment variable at run start and dumps Clang coverage profile data after the run when coverage is enabled.
+// ---
+
 package org.chromium.base.test;
 
 import android.system.Os;

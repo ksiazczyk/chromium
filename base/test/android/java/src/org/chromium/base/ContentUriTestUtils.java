@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content URI test utilities
+// summary: Inserts an image into the Android MediaStore and returns its content URI, callable from native code, for use in tests.
+// ---
+
 package org.chromium.base;
 
 import android.content.ContentValues;

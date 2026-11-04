@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for parameterized test naming and descriptions
+// summary: JUnit tests verifying that parameterized tests produce the expected test names and Description objects for class, method, and mixed parameter configurations.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.Assert;

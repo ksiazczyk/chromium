@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: Android manifest enabling the native coverage listener
+summary: Android test manifest for the org.chromium.instrumentation package that sets the org.chromium.useNativeCoverageListener meta-data to true to enable native code coverage collection during instrumentation tests.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.chromium.instrumentation">
     <application>

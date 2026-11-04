@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal view finder searching Android windows
+// summary: Searches Android windows for root views and recursively finds views matching a matcher within those roots, asserting UI thread access.
+// ---
+
 package org.chromium.base.test.transit;
 
 import android.view.View;

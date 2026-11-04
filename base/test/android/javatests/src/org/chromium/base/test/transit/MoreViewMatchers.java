@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Additional view matchers complementing ViewMatchers
+// summary: Provides extra Hamcrest matchers for Android views, including a shorthand for matching descendants of a given ancestor view.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isDescendantOfA;

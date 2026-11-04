@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transition between facilities and stations
+// summary: Implements a generic Transition exiting and entering Facilities, States and Stations, deriving a descriptive transition name for debugging.
+// ---
+
 package org.chromium.base.test.transit;
 
 import org.chromium.build.annotations.NullMarked;

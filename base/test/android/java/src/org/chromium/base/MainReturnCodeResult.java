@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MainReturnCodeResult
+// summary: Holds the return code and timeout status of a native main method that ran in a child test process.
+// ---
+
 package org.chromium.base;
 
 import org.jni_zero.CalledByNative;

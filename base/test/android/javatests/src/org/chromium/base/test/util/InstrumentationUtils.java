@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instrumentation test utilities
+// summary: Utility that runs a callable synchronously on the main thread via Instrumentation and returns its result, unwrapping exceptions.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.app.Instrumentation;

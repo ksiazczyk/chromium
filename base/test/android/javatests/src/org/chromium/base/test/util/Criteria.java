@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Criteria checks with Hamcrest matchers
+// summary: Validates that expected conditions are met using Hamcrest matchers and throws CriteriaNotSatisfiedException when they fail.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.text.TextUtils;

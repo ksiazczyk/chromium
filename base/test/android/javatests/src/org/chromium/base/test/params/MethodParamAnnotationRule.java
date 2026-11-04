@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rule for method parameter before and after hooks
+// summary: JUnit rule that processes UseMethodParameterBefore and UseMethodParameterAfter annotations to run corresponding methods around parameterized tests.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.runners.model.Statement;

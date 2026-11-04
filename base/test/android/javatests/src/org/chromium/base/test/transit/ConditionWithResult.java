@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionWithResult Condition that supplies a result
+// summary: Abstract Condition that supplies a result value such as a View or Activity when fulfilled, obtained through get() after resolution.
+// ---
+
 package org.chromium.base.test.transit;
 
 import org.chromium.build.annotations.NullMarked;

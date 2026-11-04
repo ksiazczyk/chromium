@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exception thrown by Public Transit transitions
+// summary: Runtime exception with factory methods that notify PublicTransitConfig to pause or run debugging callbacks when transitions fail.
+// ---
+
 package org.chromium.base.test.transit;
 
 import org.chromium.build.annotations.NullMarked;

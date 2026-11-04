@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard event test utilities
+// summary: Helpers that synchronously send key events and type text into views during instrumentation tests, bypassing event injection.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.app.Instrumentation;

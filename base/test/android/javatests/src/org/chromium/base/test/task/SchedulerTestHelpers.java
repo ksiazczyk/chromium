@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SchedulerTestHelpers for Java PostTask testing
+// summary: Provides static helpers and a HandlerBlocker class for posting, ordering, and blocking on tasks when testing the Java PostTask scheduler.
+// ---
+
 package org.chromium.base.test.task;
 
 import android.os.Handler;

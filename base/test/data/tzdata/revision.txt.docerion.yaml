@@ -1,0 +1,4 @@
+# Docerion header of revision.txt.
+type: data
+title: Timezone data revision 2019a
+summary: Records the timezone data revision string (2019a) that the runner tests expect the test tzdata files to provide.

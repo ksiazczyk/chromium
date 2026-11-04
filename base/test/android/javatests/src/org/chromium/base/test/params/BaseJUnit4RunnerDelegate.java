@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base JUnit4 runner delegate for parameterized tests
+// summary: JUnit4 runner delegate extending BaseJUnit4ClassRunner that implements ParameterizedRunnerDelegate to run parameterized test classes.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.runners.model.FrameworkMethod;

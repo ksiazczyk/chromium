@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidSdkLevelSkipCheck
+// summary: Skip check that skips tests when the device's Android SDK level falls outside the MinAndroidSdkLevel and MaxAndroidSdkLevel annotation bounds.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.os.Build;

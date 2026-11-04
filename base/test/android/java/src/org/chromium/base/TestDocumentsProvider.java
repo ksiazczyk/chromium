@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDocumentsProvider
+// summary: Test DocumentsProvider that stores files in the app cache directory and streams reads through a pipe to simulate providers that do not grant direct file access.
+// ---
+
 package org.chromium.base;
 
 import android.content.ContentProvider;

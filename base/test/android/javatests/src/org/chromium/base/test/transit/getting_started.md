@@ -1,3 +1,13 @@
+---
+type: guide
+title: Getting started guide for the Public Transit test framework
+summary: Tutorial walking through writing a first Public Transit instrumentation test, covering batching, facilities, conditions, transitions and stations.
+relations:
+  - references /base/test/android/javatests/src/org/chromium/base/test/transit/public_transit.webp
+  - references /chrome/android/javatests/BUILD.gn
+  - references /tools/autotest.py
+---
+
 # ![Logo](public_transit.webp) Getting Started with Public Transit
 
 This is a guide on writing your first test with Public Transit.

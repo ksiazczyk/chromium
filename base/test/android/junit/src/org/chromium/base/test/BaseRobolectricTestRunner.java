@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric test runner with Chromium base initialization
+// summary: Robolectric test runner applying Chromium-specific settings, initializing base globals, and enforcing a per-test timeout.
+// ---
+
 package org.chromium.base.test;
 
 import org.junit.runners.model.FrameworkMethod;

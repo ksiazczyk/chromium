@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseElements base class for Element collections
+// summary: Base class for Elements collections, storing Elements, their factories and additional enter and exit Conditions shared by ConditionalStates.
+// ---
+
 package org.chromium.base.test.transit;
 
 import java.util.ArrayList;

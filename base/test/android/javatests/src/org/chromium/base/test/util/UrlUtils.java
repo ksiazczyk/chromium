@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL and test data path utilities
+// summary: Builds paths and file URLs for test data files and encodes inline HTML as data URIs.
+// ---
+
 package org.chromium.base.test.util;
 
 import org.jni_zero.CalledByNative;

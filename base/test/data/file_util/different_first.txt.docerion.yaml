@@ -1,0 +1,4 @@
+# Docerion header of different_first.txt.
+type: test
+title: First-character difference fixture
+summary: Test fixture differing from its matching counterpart only in the first character.

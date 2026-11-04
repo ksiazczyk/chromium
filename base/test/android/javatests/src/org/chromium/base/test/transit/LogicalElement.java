@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogicalElement for logical activity conditions
+// summary: Element representing a logical expression that must be true for a Station to be active and false for it to be exited, runnable on UI or instrumentation threads.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static org.chromium.build.NullUtil.assertNonNull;

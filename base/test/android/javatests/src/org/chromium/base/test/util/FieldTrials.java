@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FieldTrials test overrides for flags and trials
+// summary: Collects and applies test overrides for feature flags, feature params, field trials and trial params.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.util.ArraySet;

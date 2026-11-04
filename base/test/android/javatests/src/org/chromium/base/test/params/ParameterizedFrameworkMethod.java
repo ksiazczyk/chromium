@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameworkMethod wrapper carrying a parameter set
+// summary: Custom JUnit FrameworkMethod that binds a ParameterSet to a test method, adjusts its name, and invokes it with the parameter values.
+// ---
+
 package org.chromium.base.test.params;
 
 import org.junit.runners.model.FrameworkMethod;

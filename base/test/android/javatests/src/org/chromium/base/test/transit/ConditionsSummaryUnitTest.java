@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Conditions summaries in TravelExceptions
+// summary: Robolectric unit tests verifying how Condition summaries are printed in TravelExceptions and logs, with failures listed first and grouped by origin.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static com.google.common.truth.Truth.assertThat;

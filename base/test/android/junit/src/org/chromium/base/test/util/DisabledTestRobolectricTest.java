@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisabledTestRobolectricTest
+// summary: Robolectric test verifying that a test method annotated with @DisabledTest is not executed.
+// ---
+
 package org.chromium.base.test.util;
 
 import org.junit.Assert;

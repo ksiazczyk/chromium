@@ -1,0 +1,4 @@
+# Docerion header of blank_line_crlf.txt.
+type: test
+title: Blank line fixture with CRLF endings
+summary: CRLF variant of the blank line fixture for testing line-ending handling in file utilities.

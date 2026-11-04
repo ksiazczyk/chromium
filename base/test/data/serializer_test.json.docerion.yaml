@@ -1,0 +1,4 @@
+# Docerion header of serializer_test.json.
+type: test
+title: Serializer test data
+summary: JSON test fixture containing a boolean, integer, list, null, real and string, used as expected output or input for serializer tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric sandbox class exclusion configuration for base tests
+// summary: Registers Robolectric configuration that keeps Chromium base helper classes like TimeoutTimer and ResettersForTesting outside the sandbox.
+// ---
+
 package org.chromium.base.test;
 
 import org.robolectric.annotation.Config;

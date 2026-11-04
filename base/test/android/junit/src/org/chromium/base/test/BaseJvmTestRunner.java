@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JUnit test runner with --run-disabled and @DisabledTest support
+// summary: Custom JUnit runner that skips tests marked @Ignore or @DisabledTest unless the chromium.run_disabled system property is set.
+// ---
+
 package org.chromium.base.test;
 
 import org.junit.Ignore;

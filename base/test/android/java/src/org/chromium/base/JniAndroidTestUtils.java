@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JniAndroidTestUtils
+// summary: Native-called helpers that throw test exceptions, simulate out-of-memory conditions, and swap global uncaught exception handlers.
+// ---
+
 package org.chromium.base;
 
 import org.jni_zero.CalledByNative;

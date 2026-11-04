@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for declaring elements after a Condition is fulfilled
+// summary: Runs a delayed declaration callback once to fabricate new elements after a triggering Condition is first fulfilled.
+// ---
+
 package org.chromium.base.test.transit;
 
 import org.chromium.base.Callback;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisableIfTest
+// summary: Unit tests for the DisableIf annotation and its SkipCheck, covering SDK level comparisons and supported ABI conditions.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.os.Build;

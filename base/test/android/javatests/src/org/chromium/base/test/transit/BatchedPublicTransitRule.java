@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatchedPublicTransitRule JUnit rule for batched tests
+// summary: JUnit TestRule for batched Public Transit tests that verifies tests start and end at the home Station and provides access to it via getHomeStation().
+// ---
+
 package org.chromium.base.test.transit;
 
 import androidx.annotation.CallSuper;

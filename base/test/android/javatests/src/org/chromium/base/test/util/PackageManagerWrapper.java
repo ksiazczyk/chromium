@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wrapper around Android PackageManager for instrumentation tests
+// summary: Wraps the real Android PackageManager so instrumentation tests can override selected calls while delegating all other operations to the wrapped instance.
+// ---
+
 package org.chromium.base.test.util;
 
 import android.content.ComponentName;

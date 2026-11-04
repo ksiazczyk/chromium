@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewSpec describing views characteristic of a state
+// summary: A spec combining a view class and matchers to generate ViewElements, with helpers for building descendant and ancestor specs.
+// ---
+
 package org.chromium.base.test.transit;
 
 import static androidx.test.espresso.matcher.ViewMatchers.hasDescendant;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screenshot capture on test failure
+// summary: JUnit statement that captures a device screenshot when the wrapped test fails, saving it to a path supplied via an instrumentation argument, with special handling for VR devices.
+// ---
+
 package org.chromium.base.test;
 
 import android.app.Activity;
