@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy warning download dialog bridge implementation
+// summary: Implements a JNI-backed dialog bridge that warns users about downloads flagged as sensitive by enterprise policies, validating or removing the download on response.
+// ---
+
 #include "chrome/browser/download/android/policy_warning_download_dialog_bridge.h"
 
 #include <algorithm>

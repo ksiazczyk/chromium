@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download controller base interface for Android downloads
+// summary: Declares the DownloadInfo struct and the DownloadControllerBase interface used to request GET downloads and send notifications for POST downloads on Android.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_CONTROLLER_BASE_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_CONTROLLER_BASE_H_
 

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Download location preference list layout
+summary: ListView layout used by the download location preference to present the list of selectable storage locations.
+-->
+
 <ListView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/location_preference_list_view"
     android:layout_width="match_parent"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download bubble accessible alerts map unit tests
+// summary: Unit tests covering adding, replacing, announcing and garbage collecting accessible alerts using mock time to verify interval and staleness behavior.
+// ---
+
 #include "chrome/browser/download/bubble/download_bubble_accessible_alerts_map.h"
 
 #include <string>

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Download dialog title text style
+summary: Defines the TextAppearance.DownloadDialogTitle style for download dialog titles, setting its text size to 20sp.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <!-- Download Dialogs Styles -->

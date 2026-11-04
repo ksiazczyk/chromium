@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download message bridge header
+// summary: Declares the DownloadMessageBridge class for showing messages that warn the user about incognito and unsupported downloads on Android.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_MESSAGE_BRIDGE_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_MESSAGE_BRIDGE_H_
 

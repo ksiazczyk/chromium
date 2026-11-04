@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadStateModel
+// summary: Observes an OfflineContentProvider and caches trackable download items so multiple consumers, such as the download toolbar, can share one observer and item cache.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

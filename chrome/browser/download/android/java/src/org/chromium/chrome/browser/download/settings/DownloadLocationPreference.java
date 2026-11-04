@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadLocationPreference for the default download directory
+// summary: Dialog preference that shows and saves the selected download directory on the Chrome Android download settings page.
+// ---
+
 package org.chromium.chrome.browser.download.settings;
 
 import static org.chromium.build.NullUtil.assertNonNull;

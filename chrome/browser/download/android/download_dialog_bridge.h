@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDialogBridge header
+// summary: Declares DownloadDialogBridge and the DownloadDialogResult struct for showing dialogs where users select download details such as file location and name.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_DIALOG_BRIDGE_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_DIALOG_BRIDGE_H_
 

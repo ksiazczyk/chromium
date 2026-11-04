@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download callback validator implementation
+// summary: Implements tracking and one-time validation of Java callback IDs passed from native download code.
+// ---
+
 #include "chrome/browser/download/android/download_callback_validator.h"
 
 DownloadCallbackValidator::DownloadCallbackValidator() = default;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble update service factory implementation
+// summary: Implements the ProfileKeyedServiceFactory that builds a per-profile DownloadBubbleUpdateService instance with the appropriate profile selections and dependencies.
+// ---
+
 #include "chrome/browser/download/bubble/download_bubble_update_service_factory.h"
 
 #include "base/no_destructor.h"

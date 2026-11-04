@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download manager service unit tests
+// summary: Unit tests for DownloadManagerService verifying that download resumption succeeds or fails depending on whether the download item is resumable.
+// ---
+
 #include "chrome/browser/download/android/download_manager_service.h"
 
 #include <memory>

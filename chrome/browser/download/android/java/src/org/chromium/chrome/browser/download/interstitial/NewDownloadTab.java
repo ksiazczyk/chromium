@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewDownloadTab
+// summary: Tab user data representing the page shown when a Chrome Custom Tab is created to download a file, managing its view attachment, dialog cancellation, and tab lifecycle.
+// ---
+
 package org.chromium.chrome.browser.download.interstitial;
 
 import static org.chromium.chrome.browser.tab.TabViewProvider.Type.NEW_DOWNLOAD_TAB;

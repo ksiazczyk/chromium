@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadOpenSource enum for download open locations
+// summary: Defines the DownloadOpenSource enum tracking where users interact with download files on Android, for use in histograms and server logs.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_OPEN_SOURCE_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_OPEN_SOURCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadLocationDialogProperties
+// summary: Property keys defining the MVC model shared between the download location dialog coordinator and its custom view, such as title, subtitle and file name.
+// ---
+
 package org.chromium.chrome.browser.download.dialogs;
 
 import org.chromium.build.annotations.NullMarked;

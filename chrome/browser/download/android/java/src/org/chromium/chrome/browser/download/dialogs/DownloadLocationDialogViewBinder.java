@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadLocationDialogViewBinder
+// summary: View binder that maps download location dialog model properties to updates on the DownloadLocationCustomView UI.
+// ---
+
 package org.chromium.chrome.browser.download.dialogs;
 
 import org.chromium.build.annotations.NullMarked;

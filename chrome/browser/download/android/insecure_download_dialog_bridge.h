@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure download dialog bridge header
+// summary: Declares the InsecureDownloadDialogBridge singleton that shows dialogs for insecure downloads and validates JNI confirmation callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_INSECURE_DOWNLOAD_DIALOG_BRIDGE_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_INSECURE_DOWNLOAD_DIALOG_BRIDGE_H_
 

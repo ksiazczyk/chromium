@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New navigation observer header
+// summary: Declares the NewNavigationObserver singleton and its inner WebContents observer for starting, stopping, and querying navigation observations.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_NEW_NAVIGATION_OBSERVER_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_NEW_NAVIGATION_OBSERVER_H_
 

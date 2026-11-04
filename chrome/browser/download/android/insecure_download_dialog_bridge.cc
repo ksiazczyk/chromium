@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure download dialog bridge implementation
+// summary: Implements the JNI bridge that shows a dialog asking whether to continue a download from an insecure URL and reports the user's confirmation back to C++.
+// ---
+
 #include "chrome/browser/download/android/insecure_download_dialog_bridge.h"
 
 #include <string>

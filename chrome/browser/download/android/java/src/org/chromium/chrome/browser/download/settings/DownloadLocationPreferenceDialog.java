@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadLocationPreferenceDialog for directory selection
+// summary: Dialog fragment that displays the download directory preference choices and applies the settings theme overlay for consistent dialog styling.
+// ---
+
 package org.chromium.chrome.browser.download.settings;
 
 import android.content.Context;

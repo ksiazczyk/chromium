@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MimeUtilsUnitTest
+// summary: Unit tests for MimeUtils covering file extension extraction, auto-open MIME types and generic MIME type remapping.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import org.junit.Assert;

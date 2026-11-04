@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download bubble UI controller browser tests
+// summary: Browser tests for DownloadBubbleUIController that exercise bubble views and item updates using mock download items and offline content providers.
+// ---
+
 #include "chrome/browser/download/bubble/download_bubble_ui_controller.h"
 
 #include "base/command_line.h"

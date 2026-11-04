@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadWarningBypassDialog
+// summary: Modal dialog that lets users bypass a Safe Browsing download warning, offering a Learn more help page and reporting show, validate and dismiss events to UMA.
+// ---
+
 package org.chromium.chrome.browser.download.dialogs;
 
 import android.content.Context;

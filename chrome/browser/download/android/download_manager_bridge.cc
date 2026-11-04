@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadManagerBridge JNI implementation
+// summary: Implements the native side of the Android DownloadManager bridge, forwarding add and remove operations for completed downloads to Java via JNI.
+// ---
+
 #include "chrome/browser/download/android/download_manager_bridge.h"
 
 #include <memory>

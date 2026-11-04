@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download feature flag utilities
+// summary: Utility class for download feature flag checks, currently gating the download toolbar button on desktop form factors.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import org.chromium.base.DeviceInfo;

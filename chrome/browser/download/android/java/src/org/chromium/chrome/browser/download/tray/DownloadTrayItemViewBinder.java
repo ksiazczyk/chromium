@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadTrayItemViewBinder
+// summary: Binds download tray item properties to the download_tray_item_row view, covering icon, title, description and click handling with an accessibility label.
+// ---
+
 package org.chromium.chrome.browser.download.tray;
 
 import static org.chromium.chrome.browser.download.tray.DownloadTrayItemProperties.DESCRIPTION;

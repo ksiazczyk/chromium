@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadTaskScheduler class declaration
+// summary: Declares the TaskScheduler implementation used by the download service to schedule and cancel background download tasks with the OS on Android.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_SERVICE_DOWNLOAD_TASK_SCHEDULER_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_SERVICE_DOWNLOAD_TASK_SCHEDULER_H_
 

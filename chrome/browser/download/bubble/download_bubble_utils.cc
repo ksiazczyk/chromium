@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble utilities implementation
+// summary: Implements shared helpers for the download bubble, including item start times and IDs, recency checks, in-progress and paused states, and accessible alert selection.
+// ---
+
 #include "chrome/browser/download/bubble/download_bubble_utils.h"
 
 #include "base/containers/fixed_flat_map.h"

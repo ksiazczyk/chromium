@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Download Android directory include rules
+summary: Declares the additional include paths permitted for code in the Android download browser directory.

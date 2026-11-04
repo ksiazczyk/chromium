@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadLocationCustomView
+// summary: Custom scroll view for the download location dialog that shows file name, size, location spinner, available space and options such as the incognito warning.
+// ---
+
 package org.chromium.chrome.browser.download.dialogs;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

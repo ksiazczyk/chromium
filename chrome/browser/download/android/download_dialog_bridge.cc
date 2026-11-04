@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDialogBridge JNI implementation
+// summary: Implements the native side of the download dialog bridge, showing the Android download location dialog and reporting user selections through a callback.
+// ---
+
 #include "chrome/browser/download/android/download_dialog_bridge.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open download dialog bridge implementation
+// summary: Implements the JNI bridge that shows a dialog asking whether to open a downloaded file from an external app and forwards the confirmation to its delegate.
+// ---
+
 #include "chrome/browser/download/android/open_download_dialog_bridge.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDialogUtils implementation
+// summary: Implements helpers for download dialogs, including finding downloads by GUID, handling new file creation results, and eliding page URLs for infobar display.
+// ---
+
 #include "chrome/browser/download/android/download_dialog_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download utils header
+// summary: Declares DownloadUtils static helpers, the native side of DownloadUtils.java, for opening and managing downloads on Android.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_UTILS_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_UTILS_H_
 

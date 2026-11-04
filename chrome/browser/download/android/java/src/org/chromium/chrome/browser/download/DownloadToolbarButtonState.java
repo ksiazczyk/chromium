@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadToolbarButtonState
+// summary: Immutable snapshot describing what the download toolbar button should display, mirroring the desktop download bubble icon inputs.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadFeatures unit tests
+// summary: Robolectric unit tests verifying the download toolbar button is enabled only when its feature flag is on and the device is desktop.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MimeUtils
+// summary: Utility for MIME type operations, remapping generic MIME types from file extensions and finding apps that can open downloaded files.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.content.Intent;

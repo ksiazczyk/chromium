@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InsecureDownloadDialog
+// summary: Shows a modal warning dialog asking the user to confirm downloading a file delivered over an insecure connection, reporting the file name and size and returning the user's decision via a callback.
+// ---
+
 package org.chromium.chrome.browser.download.dialogs;
 
 import android.content.Context;

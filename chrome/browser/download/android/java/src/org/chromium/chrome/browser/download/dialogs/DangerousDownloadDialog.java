@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dangerous download confirmation dialog
+// summary: Modal dialog on Android that asks the user to confirm a download, logging show, confirm, cancel and dismiss events to UMA and returning the result via callback.
+// ---
+
 package org.chromium.chrome.browser.download.dialogs;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadStartupUtils
+// summary: Utility that initializes the downloads system, creating the in-progress or full download manager depending on browser mode and profile.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import org.jni_zero.NativeMethods;

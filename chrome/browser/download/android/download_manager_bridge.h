@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadManagerBridge header
+// summary: Declares static methods to add and remove completed downloads through the Java-side DownloadManagerBridge counterpart.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_MANAGER_BRIDGE_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_MANAGER_BRIDGE_H_
 

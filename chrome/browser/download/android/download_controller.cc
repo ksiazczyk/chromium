@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android download controller implementation
+// summary: Implements the native singleton that forwards GET downloads to the Java download listener and handles permissions and dialogs.
+// ---
+
 #include "chrome/browser/download/android/download_controller.h"
 
 #include <memory>

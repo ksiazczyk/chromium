@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock download controller implementation
+// summary: Provides a no-op mock DownloadControllerBase implementation for testing, with a switch controlling whether file access requests are approved.
+// ---
+
 #include "chrome/browser/download/android/mock_download_controller.h"
 
 #include <utility>

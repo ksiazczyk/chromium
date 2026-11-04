@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadMessageUiController
+// summary: Interface for the download progress UI controller that tracks download and offline item updates and computes the message UI state to display.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.content.Context;

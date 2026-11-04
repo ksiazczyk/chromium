@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadLocationDialogCoordinator
+// summary: Coordinator that holds the dependencies for the download location dialog and shows it through ModalDialogManager, handling directory options and user choices.
+// ---
+
 package org.chromium.chrome.browser.download.dialogs;
 
 import static org.chromium.build.NullUtil.assertNonNull;

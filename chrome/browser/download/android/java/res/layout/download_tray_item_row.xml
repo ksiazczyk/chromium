@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Download tray item row layout
+summary: Row layout for a download in the download toolbar tray, showing a file-type icon, file name and status description, clickable to open the download.
+-->
+
 <!-- A single download row in the download toolbar button tray: file-type icon and the file name
      with a status description below it. Clicking the row opens the download, as on desktop. -->
 <!-- TODO(crbug.com/574064718): Remove tools:ignore once the tray inflates this row. -->

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Duplicate download dialog bridge delegate header
+// summary: Declares the singleton DuplicateDownloadDialogBridgeDelegate class that shows dialogs asking whether to download a file that already exists on disk.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_DUPLICATE_DOWNLOAD_DIALOG_BRIDGE_DELEGATE_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_DUPLICATE_DOWNLOAD_DIALOG_BRIDGE_DELEGATE_H_
 

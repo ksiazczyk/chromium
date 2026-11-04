@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyWarningDownloadDialog
+// summary: Shows a modal dialog warning that a download may contain sensitive content based on enterprise policies, with a cancel-default layout and UMA event recording of the user's choice.
+// ---
+
 package org.chromium.chrome.browser.download.dialogs;
 
 import android.content.Context;

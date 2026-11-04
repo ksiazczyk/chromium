@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dangerous download dialog bridge
+// summary: Bridges the dangerous download warning dialog UI with the native download backend on Android, queuing pending dialogs per download GUID.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.app.Activity;

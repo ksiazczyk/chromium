@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download startup utils header
+// summary: Declares DownloadStartupUtils, the native side of DownloadStartupUtils.java, for ensuring the download system is initialized per profile.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_STARTUP_UTILS_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_STARTUP_UTILS_H_
 

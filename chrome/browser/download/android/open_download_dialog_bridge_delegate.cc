@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open download dialog bridge delegate implementation
+// summary: Implements the delegate that shows a dialog asking whether to open a downloaded file in an external app, tracking download items and opening them on confirmation.
+// ---
+
 #include "chrome/browser/download/android/open_download_dialog_bridge_delegate.h"
 
 #include <algorithm>

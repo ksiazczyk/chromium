@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadLocationDialogMetrics
+// summary: Helper class recording histograms for the download location dialog suggestion feature, such as suggestion shown and user choice events.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import androidx.annotation.IntDef;

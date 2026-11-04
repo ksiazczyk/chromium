@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble update service header
+// summary: Declares DownloadBubbleUpdateService, a KeyedService that caches sorted download and offline items and passes notifications on to window-level UI controllers.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_UPDATE_SERVICE_H_
 #define CHROME_BROWSER_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_UPDATE_SERVICE_H_
 

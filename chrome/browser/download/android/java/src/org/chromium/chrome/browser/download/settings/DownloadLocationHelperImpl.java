@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadLocationHelperImpl profile-aware directory helper
+// summary: Profile-aware helper that reads and updates the default download directory through DownloadDialogBridge.
+// ---
+
 package org.chromium.chrome.browser.download.settings;
 
 import org.chromium.build.annotations.NullMarked;

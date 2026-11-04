@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDirectoryAdapter for Android download settings
+// summary: Android array adapter that lists the directories a user can choose as the default download location and reports option and selection changes to its delegate.
+// ---
+
 package org.chromium.chrome.browser.download.settings;
 
 import android.content.Context;

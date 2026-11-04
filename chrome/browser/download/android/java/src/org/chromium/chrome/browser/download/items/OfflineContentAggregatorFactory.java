@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineContentAggregatorFactory
+// summary: Java factory that provides the OfflineContentProvider for a Profile, with test hooks to substitute a custom provider.
+// ---
+
 package org.chromium.chrome.browser.download.items;
 
 import androidx.annotation.VisibleForTesting;

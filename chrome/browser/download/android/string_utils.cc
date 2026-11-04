@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download string utils JNI implementation
+// summary: Provides a JNI method that returns a localized message describing why a download was interrupted, based on the offline item fail state.
+// ---
+
 #include "base/android/jni_string.h"
 #include "chrome/browser/download/offline_item_utils.h"
 #include "chrome/grit/generated_resources.h"

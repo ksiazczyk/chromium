@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadLocationDialogController interface
+// summary: Interface that receives events from the download location dialog, notifying when the user completes or cancels the location selection flow.
+// ---
+
 package org.chromium.chrome.browser.download.dialogs;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download display controller implementation
+// summary: Implements the controller for the download toolbar button, covering icon visibility timing, fullscreen handling and browser lookup for a profile.
+// ---
+
 #include "chrome/browser/download/bubble/download_display_controller.h"
 
 #include "base/functional/bind.h"

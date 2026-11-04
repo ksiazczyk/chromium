@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadTrayItemViewBinderTest
+// summary: Robolectric unit tests verifying that the view binder renders row properties, routes clicks and updates rows in place.
+// ---
+
 package org.chromium.chrome.browser.download.tray;
 
 import static org.junit.Assert.assertEquals;
