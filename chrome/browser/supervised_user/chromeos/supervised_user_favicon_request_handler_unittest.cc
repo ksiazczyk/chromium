@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user favicon request handler unit tests
+// summary: Unit tests verifying cached and uncached favicon fetches, server requests, and availability histogram values using MockLargeIconService.
+// ---
+
 #include "chrome/browser/supervised_user/chromeos/supervised_user_favicon_request_handler.h"
 
 #include "base/run_loop.h"

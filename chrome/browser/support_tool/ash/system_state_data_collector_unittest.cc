@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System state data collector unit tests
+// summary: Unit tests for SystemStateDataCollector that use a fake debug daemon client to verify collection of system and extra logs and PII redaction.
+// ---
+
 #include "chrome/browser/support_tool/ash/system_state_data_collector.h"
 
 #include <map>

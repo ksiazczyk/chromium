@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ad tagging browser tests
+// summary: Browser tests verifying ad tagging of frames and resources, including page load metrics, UKM, and content settings behavior.
+// ---
+
 #include <string>
 
 #include "base/functional/bind.h"

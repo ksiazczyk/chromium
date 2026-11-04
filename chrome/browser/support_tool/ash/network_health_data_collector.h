@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network health data collector header
+// summary: Declares NetworkHealthDataCollector, which collects network health snapshots and adds extra PII detection for network names that RedactionTool cannot detect.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_ASH_NETWORK_HEALTH_DATA_COLLECTOR_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_ASH_NETWORK_HEALTH_DATA_COLLECTOR_H_
 

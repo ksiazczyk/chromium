@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter settings browser tests
+// summary: Browser tests covering subresource filter settings behavior, such as content settings allowlisting and enterprise policy effects on activation.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

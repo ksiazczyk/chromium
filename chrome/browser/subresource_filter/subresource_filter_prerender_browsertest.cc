@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter prerendering browser tests
+// summary: Browser tests checking subresource filter activation and behavior for prerendered pages, including dry-run activations and prerender frame accounting.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "chrome/browser/subresource_filter/subresource_filter_browser_test_harness.h"
 #include "chrome/test/base/ui_test_utils.h"

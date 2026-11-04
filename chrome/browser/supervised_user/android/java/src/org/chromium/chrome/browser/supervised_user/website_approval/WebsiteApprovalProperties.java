@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteApprovalProperties
+// summary: Defines the property keys, such as child name, favicon, URL and click handlers, that describe the visible state of the website approval UI.
+// ---
+
 package org.chromium.chrome.browser.supervised_user.website_approval;
 
 import android.graphics.Bitmap;

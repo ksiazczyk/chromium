@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake sync server helper for Android tests
+// summary: C++ JNI implementation that exposes the sync fake server to Android tests for creating and verifying sync entities such as bookmarks and saved tab groups.
+// ---
+
 #include <stddef.h>
 
 #include <optional>

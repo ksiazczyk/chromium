@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System state data collector header
+// summary: Declares the SystemStateDataCollector class, a DataCollector that gathers ChromeOS system logs and reports and manages PII detection and redaction.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_ASH_SYSTEM_STATE_DATA_COLLECTOR_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_ASH_SYSTEM_STATE_DATA_COLLECTOR_H_
 

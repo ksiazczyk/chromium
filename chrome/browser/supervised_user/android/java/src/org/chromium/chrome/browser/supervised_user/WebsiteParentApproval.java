@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteParentApproval
+// summary: Requests on-device parent approval to unblock navigation to a URL, showing approval UI with a fetched favicon or a generated monogram fallback icon.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

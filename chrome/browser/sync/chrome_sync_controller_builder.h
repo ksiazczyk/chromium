@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome sync controller builder header
+// summary: Declares the builder class that instantiates sync data type controllers from injected platform dependencies.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_CHROME_SYNC_CONTROLLER_BUILDER_H_
 #define CHROME_BROWSER_SYNC_CHROME_SYNC_CONTROLLER_BUILDER_H_
 

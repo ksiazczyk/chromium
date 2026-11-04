@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user service browser tests
+// summary: Browser tests verifying supervised user service behavior, such as local safe search policies and profile name preferences, across sign-in modes.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_service.h"
 
 #include "base/functional/callback.h"

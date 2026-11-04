@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatchUploadCardCoordinator
+// summary: Coordinates the batch upload card by building its property model, creating the mediator and connecting views via a change processor.
+// ---
+
 package org.chromium.chrome.browser.sync.ui.batch_upload_card;
 
 import android.app.Activity;

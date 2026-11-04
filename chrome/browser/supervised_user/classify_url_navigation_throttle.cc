@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL classification navigation throttle implementation
+// summary: Navigation throttle that classifies URLs for supervised users, deferring navigations and scheduling interstitials when sites are blocked.
+// ---
+
 #include "chrome/browser/supervised_user/classify_url_navigation_throttle.h"
 
 #include <memory>

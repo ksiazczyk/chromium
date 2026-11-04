@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome sync client implementation
+// summary: Implements the Chrome SyncClient, wiring prefs, identity, trusted vault, invalidations and the sync engine factory.
+// ---
+
 #include "chrome/browser/sync/chrome_sync_client.h"
 
 #include <memory>

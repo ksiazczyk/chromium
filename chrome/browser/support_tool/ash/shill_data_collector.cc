@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill data collector implementation
+// summary: Implements ShillDataCollector, which gathers network device and service properties from shill, detects PII, and exports redacted shill_properties.txt files.
+// ---
+
 #include "chrome/browser/support_tool/ash/shill_data_collector.h"
 
 #include "base/files/file_path.h"

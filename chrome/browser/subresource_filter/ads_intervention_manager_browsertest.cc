@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ads intervention manager browser tests
+// summary: Browser tests checking that triggered ads violations activate the subresource filter on reload and record the expected histograms and UKM entries.
+// ---
+
 #include "components/subresource_filter/content/browser/ads_intervention_manager.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension parent approval interface
+// summary: Header declaring the static interface for checking support of and requesting parent approval for supervised extension installs on Android.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_ANDROID_EXTENSION_PARENT_APPROVAL_H_
 #define CHROME_BROWSER_SUPERVISED_USER_ANDROID_EXTENSION_PARENT_APPROVAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user interstitial tab closer implementation
+// summary: Implements TabCloser, which closes a tab showing a supervised user interstitial unless it is the last tab in the browser window.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_interstitial_tab_closer.h"
 
 #include "build/build_config.h"

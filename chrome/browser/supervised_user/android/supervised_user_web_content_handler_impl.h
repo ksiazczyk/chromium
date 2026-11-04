@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android supervised user web content handler header
+// summary: Declares the Android implementation of the supervised user web content handler, including its local approval request methods and test friends for histogram checks.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_ANDROID_SUPERVISED_USER_WEB_CONTENT_HANDLER_IMPL_H_
 #define CHROME_BROWSER_SUPERVISED_USER_ANDROID_SUPERVISED_USER_WEB_CONTENT_HANDLER_IMPL_H_
 

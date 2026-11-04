@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebsiteApprovalSheetContent URL truncation
+// summary: Robolectric unit tests verifying that WebsiteApprovalSheetContent truncates long URLs correctly, covering cases within limits, without ellipsis, and with path truncation and ellipsis.
+// ---
+
 package org.chromium.chrome.browser.supervised_user.website_approval;
 
 import static org.junit.Assert.assertEquals;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the sync directory
+summary: Inherits owners from components/sync and adds per-file owner rules for integration tests and WiFi configuration code.

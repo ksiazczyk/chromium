@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL filtering service factory implementation
+// summary: Implements the profile-keyed factory building SupervisedUserUrlFilteringService with Family Link and device parental controls URL filters.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_url_filtering_service_factory.h"
 
 #include <memory>

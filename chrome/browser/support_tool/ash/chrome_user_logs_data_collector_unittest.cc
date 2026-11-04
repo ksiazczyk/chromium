@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome user logs data collector unit tests
+// summary: Unit tests verifying collection, PII detection, and redaction of fake user log files by ChromeUserLogsDataCollector.
+// ---
+
 #include "chrome/browser/support_tool/ash/chrome_user_logs_data_collector.h"
 
 #include <map>

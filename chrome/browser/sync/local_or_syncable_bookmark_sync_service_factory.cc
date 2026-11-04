@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local or syncable bookmark sync service factory implementation
+// summary: Implements the per-profile factory that creates the bookmark sync service for local or syncable profile bookmarks, redirecting guest and Ash internals profiles to the original.
+// ---
+
 #include "chrome/browser/sync/local_or_syncable_bookmark_sync_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

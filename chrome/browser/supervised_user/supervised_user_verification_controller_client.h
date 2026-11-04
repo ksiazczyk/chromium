@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user verification controller client header
+// summary: Declares the controller client class that handles commands from the supervised user verification interstitial page.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_VERIFICATION_CONTROLLER_CLIENT_H_
 #define CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_VERIFICATION_CONTROLLER_CLIENT_H_
 

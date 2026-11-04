@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user Google auth navigation throttle implementation
+// summary: Implements a navigation throttle that blocks navigations for supervised users until Google account authentication or reauthentication succeeds.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_google_auth_navigation_throttle.h"
 
 #include <utility>

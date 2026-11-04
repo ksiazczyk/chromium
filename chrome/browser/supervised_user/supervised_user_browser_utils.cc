@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user browser utilities implementation
+// summary: Implements helpers for extension URL checks, skipping parent approvals, extension permissions, and building reauthentication interstitials.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_browser_utils.h"
 
 #include <string>

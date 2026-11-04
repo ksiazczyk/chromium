@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android URL filtering service browser tests
+// summary: Android browser tests covering URL filtering interactions between regular users, Family Link supervised users and Android parental controls.
+// ---
+
 #include "components/supervised_user/core/browser/supervised_user_url_filtering_service.h"
 
 #include <memory>

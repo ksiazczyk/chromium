@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter WebSocket browser tests
+// summary: Parameterized browser tests checking when WebSocket connections from activated main frames or workers are blocked by the subresource filter ruleset.
+// ---
+
 #include <memory>
 #include <string>
 

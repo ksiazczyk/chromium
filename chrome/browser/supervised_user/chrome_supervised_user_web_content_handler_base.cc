@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user web content handler base implementation
+// summary: Implements shared supervised user interstitial handling, including infobar cleanup on the main frame, navigating back, and closing the tab.
+// ---
+
 #include "chrome/browser/supervised_user/chrome_supervised_user_web_content_handler_base.h"
 
 #include "base/metrics/field_trial_params.h"

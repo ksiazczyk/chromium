@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync service factory unit tests
+// summary: Unit tests verifying SyncServiceFactory instance creation and behavior across platforms and feature configurations.
+// ---
+
 #include "chrome/browser/sync/sync_service_factory.h"
 
 #include "base/command_line.h"

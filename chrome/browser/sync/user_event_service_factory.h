@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User event service factory header
+// summary: Declares UserEventServiceFactory, a ProfileKeyedServiceFactory exposing GetForProfile for the syncer UserEventService.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_USER_EVENT_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SYNC_USER_EVENT_SERVICE_FACTORY_H_
 

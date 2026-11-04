@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteApprovalCoordinator
+// summary: Coordinator that wires the model, sheet content, view binder and mediator together and shows the bottom sheet where a parent approves or denies a website.
+// ---
+
 package org.chromium.chrome.browser.supervised_user.website_approval;
 
 import static org.chromium.build.NullUtil.assertNonNull;

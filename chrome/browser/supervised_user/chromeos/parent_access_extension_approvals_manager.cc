@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access extension approvals manager implementation
+// summary: Shows the ChromeOS parent access dialog with extension name, icon and permissions to obtain parental approval for extension installs.
+// ---
+
 #include "chrome/browser/supervised_user/chromeos/parent_access_extension_approvals_manager.h"
 
 #include <string>

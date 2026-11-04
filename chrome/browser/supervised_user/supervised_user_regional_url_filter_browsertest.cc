@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user regional URL filter browser tests
+// summary: Browser tests verifying region-based URL filtering for supervised users using a mocked Kids Management API server.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <sstream>

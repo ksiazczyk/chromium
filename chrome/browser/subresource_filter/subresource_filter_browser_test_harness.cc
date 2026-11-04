@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter browser test harness implementation
+// summary: Implements the shared browser test harness for subresource filter tests, including mock observers and histogram name constants.
+// ---
+
 #include "chrome/browser/subresource_filter/subresource_filter_browser_test_harness.h"
 
 #include <string_view>

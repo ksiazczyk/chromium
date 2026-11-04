@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Re-authentication interstitial for blocked sites header
+// summary: Declares the verification interstitial variant for blocked sites, shown before a supervised user can request parent approval.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_VERIFICATION_PAGE_BLOCKED_SITES_H_
 #define CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_VERIFICATION_PAGE_BLOCKED_SITES_H_
 

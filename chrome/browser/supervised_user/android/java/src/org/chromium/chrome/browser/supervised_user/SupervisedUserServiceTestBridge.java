@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupervisedUserServiceTestBridge
+// summary: Test-only JNI bridge exposing supervised user preferences to Java tests so browser and search content filters can be enabled for testing.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import org.jni_zero.JNINamespace;

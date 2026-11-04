@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Updater data collector unit tests
+// summary: Unit tests for UpdaterDataCollector using fake updater install directories, verifying collection, PII redaction behavior and exported file contents.
+// ---
+
 #include "chrome/browser/support_tool/updater_data_collector.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParentAuthDelegateProvider
+// summary: Singleton provider that supplies a production or test instance of ParentAuthDelegate, creating it via ServiceLoader when needed.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import androidx.annotation.AnyThread;

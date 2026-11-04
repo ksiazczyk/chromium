@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BatchUploadCardMediator unit tests
+// summary: Robolectric unit tests verifying the behavior of the sync batch upload card mediator, parameterized by identity manager source-of-accounts flag.
+// ---
+
 package org.chromium.chrome.browser.sync.ui.batch_upload_card;
 
 import static org.mockito.ArgumentMatchers.any;

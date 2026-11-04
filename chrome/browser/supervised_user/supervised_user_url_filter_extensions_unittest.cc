@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user URL filter extensions unit tests
+// summary: Unit tests verifying that Chrome Webstore and CRX download URLs are always allowed for supervised users regardless of web filter settings.
+// ---
+
 #include <map>
 #include <memory>
 

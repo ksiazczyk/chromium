@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FamilyLinkURLFilter browser tests
+// summary: Browser tests verifying supervised user URL filtering, interstitial proceed behavior, and blocked-content UKM metrics for main frames and iframes.
+// ---
+
 #include "components/supervised_user/core/browser/family_link_url_filter.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync startup tracker unit tests
+// summary: Unit tests covering startup completion, auth errors, and delayed state changes for SyncStartupTracker.
+// ---
+
 #include "chrome/browser/sync/sync_startup_tracker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FamilyLinkSettingsServiceFactory implementation
+// summary: Implements the simple keyed service factory that builds and provides FamilyLinkSettingsService instances per profile key.
+// ---
+
 #include "chrome/browser/supervised_user/family_link_settings_service_factory.h"
 
 #include "chrome/browser/profiles/profile_key.h"

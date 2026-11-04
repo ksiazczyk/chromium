@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Website parent approval test utilities
+// summary: Test helpers that check local and remote approval buttons on interstitials and drive the parent approval bottom sheet actions such as approve and deny.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import static androidx.test.espresso.Espresso.onView;

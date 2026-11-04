@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user extension browser tests
+// summary: Browser tests covering how supervised users interact with extensions, including custodian approval disable reasons and behavior after supervision removal.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/test/gtest_util.h"
 #include "chrome/browser/extensions/extension_browsertest.h"

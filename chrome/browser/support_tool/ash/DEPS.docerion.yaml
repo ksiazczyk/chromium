@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Include rules restricting ChromeOS dependencies on //chrome and listing the allowed includes for the ash support tool data collectors.

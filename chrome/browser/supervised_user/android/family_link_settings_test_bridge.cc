@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family Link settings test bridge
+// summary: JNI test bridge that lets Java tests set Family Link filtering behavior, manual host filters, and Kids Management URL checker responses.
+// ---
+
 #include <string>
 
 #include "base/android/jni_string.h"

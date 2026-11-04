@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Support tool utility browser tests
+// summary: Browser tests verifying support tool utilities such as export filepath generation and data collector availability, including Chrome OS login screen and kiosk session scenarios.
+// ---
+
 #include "chrome/browser/support_tool/support_tool_util.h"
 
 #include <set>

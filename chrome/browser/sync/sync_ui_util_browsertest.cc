@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync UI utility browser tests
+// summary: Browser test verifying that the bookmarks limit exceeded help action is handled correctly in sync UI utilities.
+// ---
+
 #include "chrome/browser/sync/sync_ui_util.h"
 
 #include "build/build_config.h"

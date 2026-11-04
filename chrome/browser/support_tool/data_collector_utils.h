@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data collector utilities header
+// summary: Declares MergePIIMaps, a helper for combining PII maps collected by data collectors.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_DATA_COLLECTOR_UTILS_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_DATA_COLLECTOR_UTILS_H_
 

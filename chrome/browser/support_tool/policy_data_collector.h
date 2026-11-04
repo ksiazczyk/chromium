@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyDataCollector header
+// summary: Declares PolicyDataCollector, a data collector that gathers policy values and status metadata for support packets with PII detection and redaction.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_POLICY_DATA_COLLECTOR_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_POLICY_DATA_COLLECTOR_H_
 

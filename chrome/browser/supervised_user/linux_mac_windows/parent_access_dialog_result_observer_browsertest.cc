@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent access dialog result observer browser tests
+// summary: Parameterized browser tests verifying PACP approval result extraction across redirect, network error, and base64 decoding scenarios.
+// ---
+
 #include "chrome/browser/supervised_user/linux_mac_windows/parent_access_dialog_result_observer.h"
 
 #include <optional>

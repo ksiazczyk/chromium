@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for subscription eligibility
+summary: Defines GN build targets for the subscription eligibility browser code, including Android JNI bridges, a Java library, and non-Android browser tests.

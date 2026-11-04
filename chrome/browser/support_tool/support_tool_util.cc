@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support tool utility implementation
+// summary: Implements support tool helpers, including platform-specific data collector lists, SupportToolHandler creation, export filepath formatting and error string conversion.
+// ---
+
 #include "chrome/browser/support_tool/support_tool_util.h"
 
 #include <memory>

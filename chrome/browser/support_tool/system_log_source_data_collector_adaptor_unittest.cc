@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System log source data collector adaptor unit tests
+// summary: Unit tests for the system log source adaptor, covering data collection, PII detection and redaction, and export of log entries to files.
+// ---
+
 #include "chrome/browser/support_tool/system_log_source_data_collector_adaptor.h"
 
 #include <map>

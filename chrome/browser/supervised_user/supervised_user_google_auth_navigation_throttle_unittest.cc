@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user Google auth navigation throttle unit tests
+// summary: Unit tests for the Google auth navigation throttle using identity test utilities and navigation simulation across Google and YouTube domains.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_google_auth_navigation_throttle.h"
 
 #include <memory>

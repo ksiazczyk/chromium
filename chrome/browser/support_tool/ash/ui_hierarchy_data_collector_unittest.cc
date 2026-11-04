@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI hierarchy data collector unit test
+// summary: Unit tests covering the RemoveWindowTitles redaction logic across data with multiple, single, and no window titles.
+// ---
+
 #include "chrome/browser/support_tool/ash/ui_hierarchy_data_collector.h"
 
 #include <string>

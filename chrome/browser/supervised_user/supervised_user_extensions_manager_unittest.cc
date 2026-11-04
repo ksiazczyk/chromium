@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user extensions manager unit tests
+// summary: Unit tests for SupervisedUserExtensionsManager covering extension approval, install permissions, management policy, and approval migration states.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_extensions_manager.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter history observer implementation
+// summary: Clears subresource filter site metadata from content settings when URLs or all history are deleted from the History Service.
+// ---
+
 #include "chrome/browser/subresource_filter/subresource_filter_history_observer.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user service factory implementation
+// summary: Implements the profile-keyed factory that builds SupervisedUserService with platform delegates, identity manager and URL loader factory dependencies.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_service_factory.h"
 
 #include <memory>

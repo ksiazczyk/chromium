@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account bookmark sync service factory header
+// summary: Declares the singleton factory returning the profile's BookmarkSyncService for account bookmarks sign-ins.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_ACCOUNT_BOOKMARK_SYNC_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SYNC_ACCOUNT_BOOKMARK_SYNC_SERVICE_FACTORY_H_
 

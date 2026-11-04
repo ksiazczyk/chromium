@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user navigation observer
+// summary: Implements a WebContents observer that tracks blocked navigations, manages supervised user interstitials, and handles platform-specific web content handlers.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_navigation_observer.h"
 
 #include <memory>

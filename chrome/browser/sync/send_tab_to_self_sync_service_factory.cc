@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send tab to self sync service factory implementation
+// summary: Implements the per-profile factory that builds the send-tab-to-self sync service from the data type store, history, device info, and session sync dependencies.
+// ---
+
 #include "chrome/browser/sync/send_tab_to_self_sync_service_factory.h"
 
 #include "base/functional/bind.h"

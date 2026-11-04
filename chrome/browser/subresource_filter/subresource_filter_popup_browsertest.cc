@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter popup blocking browser tests
+// summary: Browser tests verifying that the subresource filter interacts correctly with Safe Browsing's abusive popup blocker, including console messages and histograms.
+// ---
+
 #include <set>
 #include <string>
 #include <utility>

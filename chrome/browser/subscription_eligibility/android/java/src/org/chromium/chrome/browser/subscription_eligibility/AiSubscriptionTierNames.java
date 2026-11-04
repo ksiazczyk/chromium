@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI subscription tier display names
+// summary: Provides short and full display names for AI subscription tiers via JNI, sharing C++ names and server-side overrides across platforms.
+// ---
+
 package org.chromium.chrome.browser.subscription_eligibility;
 
 import org.jni_zero.JniType;

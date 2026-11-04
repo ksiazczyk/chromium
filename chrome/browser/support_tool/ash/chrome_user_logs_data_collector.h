@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome user logs data collector header
+// summary: Declares ChromeUserLogsDataCollector, a DataCollector that gathers logs in the primary user's profile directory and handles PII detection and redaction.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_ASH_CHROME_USER_LOGS_DATA_COLLECTOR_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_ASH_CHROME_USER_LOGS_DATA_COLLECTOR_H_
 

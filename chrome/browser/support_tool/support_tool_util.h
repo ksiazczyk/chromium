@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support tool utility declarations
+// summary: Declares helpers to build a SupportToolHandler with selected data collectors, list available collectors, format export filepaths and convert support tool errors to strings.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_SUPPORT_TOOL_UTIL_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_SUPPORT_TOOL_UTIL_H_
 

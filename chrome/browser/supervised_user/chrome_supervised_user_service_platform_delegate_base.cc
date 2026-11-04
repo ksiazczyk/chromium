@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user service platform delegate base implementation
+// summary: Implements the shared Chrome platform delegate for SupervisedUserService, recording incognito and isolated mode metrics for supervised profiles.
+// ---
+
 #include "chrome/browser/supervised_user/chrome_supervised_user_service_platform_delegate_base.h"
 
 #include "base/check_deref.h"

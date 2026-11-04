@@ -1,3 +1,11 @@
+---
+type: readme
+title: Support Tool
+summary: Documents the Support Tool framework for collecting logs from ChromeOS devices and Chrome browser, its local and remote usage, and the available data types.
+relations:
+  - references /chrome/browser/support_tool/support_tool_handler.h
+---
+
 # Support Tool
 
 Support Tool is a framework that collects various information and logs from

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidParentalControlsBridge
+// summary: Java JNI bridge that reports whether device-level parental controls, independent of the profile, are enabled on Android.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import org.jni_zero.JNINamespace;

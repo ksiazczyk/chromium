@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user browser utils unit tests
+// summary: Unit tests for retrieving the account given name and for extension permissions enablement on supervised and non-supervised profiles.
+// ---
+
 #include "chrome/browser/supervised_user/supervised_user_browser_utils.h"
 
 #include <memory>

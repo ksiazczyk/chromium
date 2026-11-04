@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter navigation download policy implementation
+// summary: Implements augmentation of navigation download policies so downloads from frames tagged as ads are allowed as ad-frame downloads and disallowed without a user gesture.
+// ---
+
 #include "chrome/browser/subresource_filter/subresource_filter_navigation_download_policy.h"
 
 #include "components/subresource_filter/content/browser/content_subresource_filter_throttle_manager.h"

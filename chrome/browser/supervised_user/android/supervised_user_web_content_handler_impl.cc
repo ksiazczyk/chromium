@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user web content handler implementation for Android
+// summary: Implements the Android-specific supervised user web content handler that requests local parent approval for blocked websites and maps Android flow outcomes to local approval results.
+// ---
+
 #include "chrome/browser/supervised_user/android/supervised_user_web_content_handler_impl.h"
 
 #include <optional>

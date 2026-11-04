@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for subresource filter
+summary: Points to the shared COMMON_METADATA mixins under components/subresource_filter for this directory.

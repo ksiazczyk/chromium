@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome user logs data collector implementation
+// summary: Implements collection of Chrome and other user logs from the primary user's profile directory with PII detection and redaction for support tool exports.
+// ---
+
 #include "chrome/browser/support_tool/ash/chrome_user_logs_data_collector.h"
 
 #include <algorithm>

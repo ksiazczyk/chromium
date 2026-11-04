@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user extensions manager header
+// summary: Declares SupervisedUserExtensionsManager, which handles extension approvals, install permissions, and management policy for supervised users.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_EXTENSIONS_MANAGER_H_
 #define CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_EXTENSIONS_MANAGER_H_
 

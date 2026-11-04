@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninDataCollector implementation
+// summary: Implements SigninDataCollector, which collects signin and token information into signin.json and detects or redacts PII via the redaction tool.
+// ---
+
 #include "chrome/browser/support_tool/signin_data_collector.h"
 
 #include "base/containers/fixed_flat_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Website parent approval flow tests with mocked natives
+// summary: Instrumentation tests for the local website approval flow using mocked natives to check completion callbacks and Android-side histogram recording.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System state data collector implementation
+// summary: Implements SystemStateDataCollector, which collects various ChromeOS system logs and reports via debugd, excluding network entries, and writes them to separate files.
+// ---
+
 #include "chrome/browser/support_tool/ash/system_state_data_collector.h"
 
 #include <algorithm>

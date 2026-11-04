@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user pending state navigation browser tests
+// summary: Browser tests for supervised user navigation pending states, including reauthentication and blocked URL interstitials during sign-in.
+// ---
+
 #include <map>
 #include <memory>
 #include <string>

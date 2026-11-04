@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill data collector header
+// summary: Declares the ShillDataCollector class, a DataCollector that collects support debug data from shill and detects and redacts shill-specific and common PII.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_ASH_SHILL_DATA_COLLECTOR_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_ASH_SHILL_DATA_COLLECTOR_H_
 

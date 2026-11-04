@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscription eligibility service bridge implementation
+// summary: Implements the JNI bridge that creates the C++ service bridge per profile, forwards tier queries, and notifies Java of tier and benefit updates.
+// ---
+
 #include "chrome/browser/subscription_eligibility/android/subscription_eligibility_service_bridge.h"
 
 #include <string>

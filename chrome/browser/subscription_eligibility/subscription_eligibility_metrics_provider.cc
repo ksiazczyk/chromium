@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscription eligibility metrics provider implementation
+// summary: Implements the metrics provider that reports each session's AI subscription tier status as a UMA histogram and a synthetic field trial.
+// ---
+
 #include "chrome/browser/subscription_eligibility/subscription_eligibility_metrics_provider.h"
 
 #include <set>

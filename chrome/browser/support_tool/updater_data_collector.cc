@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater data collector implementation
+// summary: Implements a data collector that copies Chrome Updater logs, history and preferences for user and system scopes, detects PII and exports redacted files.
+// ---
+
 #include "chrome/browser/support_tool/updater_data_collector.h"
 
 #include <algorithm>

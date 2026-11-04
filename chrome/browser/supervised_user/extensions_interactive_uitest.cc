@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user extensions parental controls UI tests
+// summary: Interactive UI tests checking how supervised users' extension installs, toggles, and site settings behave under parental controls with parent approval dialogs.
+// ---
+
 #include <string>
 #include <string_view>
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityErrorCardViewBinder
+// summary: Binds the identity error card in sync settings, setting icon, message and button action based on the user-actionable sync error.
+// ---
+
 package org.chromium.chrome.browser.sync.ui;
 
 import android.content.Context;

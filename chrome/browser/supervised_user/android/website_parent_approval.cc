@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for website parent approval on Android
+// summary: Bridges the native website parent approval flow to Java, starting the Android approval bottom sheet and fetching favicons for the approval UI.
+// ---
+
 #include "chrome/browser/supervised_user/android/website_parent_approval.h"
 
 #include <jni.h>

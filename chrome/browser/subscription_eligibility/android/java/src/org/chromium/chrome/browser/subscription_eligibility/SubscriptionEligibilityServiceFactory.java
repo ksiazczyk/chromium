@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-profile factory for SubscriptionEligibilityService
+// summary: Factory that creates and returns SubscriptionEligibilityService instances per profile and supports substituting a mock service for testing.
+// ---
+
 package org.chromium.chrome.browser.subscription_eligibility;
 
 import org.chromium.build.annotations.NullMarked;

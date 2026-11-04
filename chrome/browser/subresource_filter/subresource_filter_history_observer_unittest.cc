@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter history observer unit tests
+// summary: Unit tests verifying that history deletions clear subresource filter site metadata via the profile's content settings manager.
+// ---
+
 #include <set>
 #include <string>
 

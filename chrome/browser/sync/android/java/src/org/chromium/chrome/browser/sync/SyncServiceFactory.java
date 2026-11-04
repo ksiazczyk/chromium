@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncServiceFactory
+// summary: Factory that retrieves or creates the profile-specific SyncService on Android, with test overrides and null handling for off-the-record profiles.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import org.jni_zero.JniType;

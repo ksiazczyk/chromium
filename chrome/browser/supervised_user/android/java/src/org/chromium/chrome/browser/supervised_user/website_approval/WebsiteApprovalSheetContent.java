@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteApprovalSheetContent
+// summary: Implements the bottom sheet content view for parent website approval, inflating the layout and exposing title, URL text, favicon and button accessors.
+// ---
+
 package org.chromium.chrome.browser.supervised_user.website_approval;
 
 import android.content.Context;

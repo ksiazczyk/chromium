@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access dialog result observer header
+// summary: Declares ParentAccessDialogResultObserver, which observes parent approval dialog web contents and extracts the local approval result.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_LINUX_MAC_WINDOWS_PARENT_ACCESS_DIALOG_RESULT_OBSERVER_H_
 #define CHROME_BROWSER_SUPERVISED_USER_LINUX_MAC_WINDOWS_PARENT_ACCESS_DIALOG_RESULT_OBSERVER_H_
 

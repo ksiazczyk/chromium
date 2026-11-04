@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family Link advanced settings live browser test
+// summary: Parameterized live browser test verifying that Chrome receives Family Link parental control switch states for cookies and permissions toggles.
+// ---
+
 #include <string>
 #include <string_view>
 #include <tuple>

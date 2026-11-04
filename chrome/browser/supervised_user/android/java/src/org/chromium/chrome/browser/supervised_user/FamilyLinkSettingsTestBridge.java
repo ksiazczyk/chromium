@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FamilyLinkSettingsTestBridge
+// summary: Test-only JNI bridge that lets Java tests fake Family Link settings such as filtering behavior, manual host filters, and kids management API responses.
+// ---
+
 package org.chromium.chrome.browser.supervised_user;
 
 import org.jni_zero.JNINamespace;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System logs data collector unit tests
+// summary: Unit tests for SystemLogsDataCollector that use a fake debug daemon client to verify log collection, export to files, and PII redaction.
+// ---
+
 #include "chrome/browser/support_tool/ash/system_logs_data_collector.h"
 
 #include <map>

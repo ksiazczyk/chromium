@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android supervised user web content handler
+// summary: Unit tests verifying that local website approval outcomes record the expected result and duration histograms for rejection, cancellation and approval cases.
+// ---
+
 #include "chrome/browser/supervised_user/android/supervised_user_web_content_handler_impl.h"
 
 #include <memory>

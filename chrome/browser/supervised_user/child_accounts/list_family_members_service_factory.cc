@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List family members service factory implementation
+// summary: Profile-keyed factory that builds the ListFamilyMembersService with the identity manager, URL loader factory, and preferences, created implicitly with the browser context.
+// ---
+
 #include "chrome/browser/supervised_user/child_accounts/list_family_members_service_factory.h"
 
 #include <memory>

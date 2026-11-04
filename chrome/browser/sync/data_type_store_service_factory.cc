@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type store service factory implementation
+// summary: Creates the per-profile sync data type store service that supplies storage factories to sync data type bridges.
+// ---
+
 #include "chrome/browser/sync/data_type_store_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

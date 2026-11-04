@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System log source data collector adaptor header
+// summary: Declares SystemLogSourceDataCollectorAdaptor, a DataCollector wrapper around system_logs::SystemLogsSource that handles PII detection, redaction and data export.
+// ---
+
 #ifndef CHROME_BROWSER_SUPPORT_TOOL_SYSTEM_LOG_SOURCE_DATA_COLLECTOR_ADAPTOR_H_
 #define CHROME_BROWSER_SUPPORT_TOOL_SYSTEM_LOG_SOURCE_DATA_COLLECTOR_ADAPTOR_H_
 

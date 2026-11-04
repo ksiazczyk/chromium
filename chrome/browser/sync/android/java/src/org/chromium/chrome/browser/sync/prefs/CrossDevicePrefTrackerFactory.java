@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossDevicePrefTrackerFactory
+// summary: Java factory that retrieves or creates the CrossDevicePrefTracker for a given profile, returning null for off-the-record profiles and when sync is disabled, with test override support.
+// ---
+
 package org.chromium.chrome.browser.sync.prefs;
 
 import org.jni_zero.JniType;

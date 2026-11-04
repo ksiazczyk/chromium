@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user browser test base class
+// summary: Declares a cross-platform base class providing common setup, initial state, and service access for supervised user browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_SUPERVISED_USER_SUPERVISED_USER_BROWSERTEST_BASE_H_
 
