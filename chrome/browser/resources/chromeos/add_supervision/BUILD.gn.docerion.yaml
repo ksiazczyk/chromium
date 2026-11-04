@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Add Supervision WebUI build configuration
+summary: GN build rules that compile the Add Supervision WebUI, listing its HTML, TypeScript, and Mojo sources along with dependencies and TypeScript path mappings.

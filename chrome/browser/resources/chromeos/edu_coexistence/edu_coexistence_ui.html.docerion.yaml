@@ -1,0 +1,4 @@
+# Docerion header of edu_coexistence_ui.html.
+type: source
+title: EDU Coexistence sign-in UI template
+summary: HTML template for the main sign-in UI with a webview frame, loading spinner, GAIA back button and action buttons.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto scan manager tests
+// summary: Browser test fixture verifying auto scan enablement, interval handling and restart behavior.
+// ---
+
 GEN_INCLUDE(['switch_access_e2e_test_base.js']);
 
 UNDEFINED_INTERVAL_DELAY = -1;

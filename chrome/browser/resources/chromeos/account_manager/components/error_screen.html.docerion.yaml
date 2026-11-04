@@ -1,0 +1,4 @@
+# Docerion header of error_screen.html.
+type: source
+title: Account manager error screen HTML template
+summary: HTML template providing the layout, styles, error icon, title binding, and body slot for the account manager error screen component.

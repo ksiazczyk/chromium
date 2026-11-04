@@ -1,0 +1,4 @@
+# Docerion header of unpack_tar_archive.py.
+type: script
+title: Tar archive unpacker for Pumpkin test files
+summary: Extracts a supplied tar archive into a destination directory via a temporary directory, so ninja does not consider extracted files stale and rebuild unnecessarily.

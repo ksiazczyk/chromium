@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP enum display name utilities
+// summary: Exports lookup maps and a helper class that translate DLP Mojo enums such as endpoint types, restrictions and levels into readable UI labels.
+// ---
+
 import type {WebContentsInfo} from './dlp_internals.mojom-webui.js';
 import {ContentRestriction, DlpEvent_Mode, DlpEvent_Restriction, DlpEvent_UserType, EndpointType, EventDestination_Component, Level} from './dlp_internals.mojom-webui.js';
 

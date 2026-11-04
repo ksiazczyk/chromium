@@ -7,6 +7,12 @@
  * the private API to the extension.
  */
 
+// ---docerion
+// type: source
+// title: Type declarations for the chrome.wmDesksPrivate namespace
+// summary: Declares the private ChromeOS desk management API, including desk launch, remove, switch, and event listener functions.
+// ---
+
 /**
  * The definition here is a clone from chrome private api.
  */

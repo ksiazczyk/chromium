@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Progress bar styles
+summary: Defines the layout and colors of the progress bar container and its primary and secondary animated bars used in the ARC opt-in UI.
+*/
+
 .progress-container {
   display: block;
   height: 4px;

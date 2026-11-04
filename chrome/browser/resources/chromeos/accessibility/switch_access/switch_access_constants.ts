@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access constants
+// summary: Defines enums for action responses, error types, menu types, and interaction modes used throughout Switch Access.
+// ---
+
 /**
  * @fileoverview Constants used in Switch Access.
  */

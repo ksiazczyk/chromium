@@ -1,0 +1,4 @@
+# Docerion header of dlp_internals_ui.html.
+type: source
+title: DLP Internals UI HTML template
+summary: HTML template for the DLP internals page with tabs showing clipboard source, on-screen content restrictions, file database entries and reporting events.

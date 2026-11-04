@@ -1,3 +1,9 @@
+---
+type: readme
+title: Echo extension resources README
+summary: Describes resources for the echo extension, the Google domains allowed to check model eligibility, and the project owner contact.
+---
+
 Resources for echo-extension chrome-extension://kddnkjkcjddckihglkfcickdhbmaodcn/
 Allow all domains listed in https://www.google.com/supported_domains
 URLs listed under externally_connectable to give access to check model eligibility

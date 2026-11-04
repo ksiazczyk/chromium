@@ -1,0 +1,4 @@
+# Docerion header of sign_in_page.html.
+type: source
+title: Sign-in page template
+summary: HTML template for the page prompting the user to connect to OneDrive, including an error message and connect and cancel buttons.

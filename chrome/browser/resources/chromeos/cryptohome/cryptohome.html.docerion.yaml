@@ -1,0 +1,4 @@
+# Docerion header of cryptohome.html.
+type: source
+title: Cryptohome WebUI status page
+summary: HTML page for the cryptohome WebUI debug view that displays mount, TPM, PKCS11 token, and cryptohome recovery status values populated by the accompanying script.

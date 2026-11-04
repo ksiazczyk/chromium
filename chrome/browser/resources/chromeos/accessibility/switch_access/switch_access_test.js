@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SwitchAccess class tests
+// summary: Browser test verifying that SwitchAccess initialization is deferred when no focused node is available.
+// ---
+
 GEN_INCLUDE(['switch_access_e2e_test_base.js']);
 
 /** Test fixture for the SwitchAccess class. */

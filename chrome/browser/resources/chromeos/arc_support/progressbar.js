@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress bar animation
+// summary: Implements a fixed-rate ProgressBarAnimation class that animates the progress bar div elements, with functions to start and stop the animation for a given page.
+// ---
+
 /**
  * Contains currently active progress bar animation.
  * @type {ProgressBarAnimation}

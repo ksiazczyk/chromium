@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action manager for Switch Access menus
+// summary: Performs Switch Access actions, manages the menu stack and decides which actions are available for the highlighted node.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 import {FocusRingManager} from './focus_ring_manager.js';

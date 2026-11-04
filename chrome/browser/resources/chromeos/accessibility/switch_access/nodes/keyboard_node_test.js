@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard node tests
+// summary: E2E test fixture verifying that Switch Access resolves the system keyboard rather than a web keyboard and that the keyboard root node builder predicate works.
+// ---
+
 GEN_INCLUDE(['../switch_access_e2e_test_base.js']);
 
 /** Test fixture for the keyboard node. */

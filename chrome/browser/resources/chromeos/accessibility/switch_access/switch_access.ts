@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access top-level class
+// summary: Top-level Switch Access class handling initialization, desktop tree node lookup, and error recording for the ChromeOS accessibility feature.
+// ---
+
 import {AsyncUtil} from '/common/async_util.js';
 import {AutomationUtil} from '/common/automation_util.js';
 import {EventHandler} from '/common/event_handler.js';

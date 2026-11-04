@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Main styles for the ARC opt-in UI
+summary: Styles the Play Store opt-in window, including headers, terms view, checkboxes, buttons, overlays and scrollbars.
+*/
+
 html,
 body,
 webview,

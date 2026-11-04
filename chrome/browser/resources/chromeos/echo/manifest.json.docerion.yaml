@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Chrome Goodies extension manifest
+summary: Manifest for the Chrome Goodies extension defining its key, permissions, background scripts, icons, and externally connectable Google domains.

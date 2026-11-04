@@ -1,0 +1,4 @@
+# Docerion header of print_js_deps.py.
+type: script
+title: Print JavaScript module dependency tree
+summary: Prints the dependency tree of a JavaScript module by walking Closure-style require calls from given root directories.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test support for C++-driven tests
+// summary: Exposes global helpers like doDefault, pointScanClick, and waitForFocusRing so browser tests driven from C++ can interact with Switch Access.
+// ---
+
 /**
  * Test support for tests driven by C++.
  */

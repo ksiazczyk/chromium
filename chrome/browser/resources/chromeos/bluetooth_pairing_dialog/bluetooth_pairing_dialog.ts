@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth pairing dialog element
+// summary: Polymer element that hosts the Bluetooth pairing UI, parses dialog arguments for the device address and link visibility, and closes the dialog via chrome.send.
+// ---
+
 import 'chrome://resources/ash/common/bluetooth/bluetooth_pairing_ui.js';
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

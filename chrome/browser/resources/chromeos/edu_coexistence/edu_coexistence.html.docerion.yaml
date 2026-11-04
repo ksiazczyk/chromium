@@ -1,0 +1,4 @@
+# Docerion header of edu_coexistence.html.
+type: source
+title: Entry page for the edu coexistence WebUI
+summary: Loads the shared styles and the edu-coexistence-app element as the top-level page of the WebUI.

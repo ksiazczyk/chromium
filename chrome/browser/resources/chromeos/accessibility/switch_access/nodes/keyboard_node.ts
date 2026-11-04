@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access keyboard node
+// summary: Implements KeyboardNode and KeyboardRootNode, which handle virtual keyboard key selection via simulated mouse clicks and manage keyboard tree building and visibility.
+// ---
+
 import {EventGenerator} from '/common/event_generator.js';
 import {EventHandler} from '/common/event_handler.js';
 import {RectUtil} from '/common/rect_util.js';

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Switch Access directory metadata
+summary: Shared metadata declaring the owning accessibility team email and Buganizer components for Switch Access.

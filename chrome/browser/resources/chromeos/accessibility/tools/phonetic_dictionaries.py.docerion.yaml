@@ -1,0 +1,4 @@
+# Docerion header of phonetic_dictionaries.py.
+type: script
+title: Generate phonetic dictionaries JavaScript file
+summary: Extracts ChromeVox phonetic maps from per-locale compressed message files and writes them into a phonetic_dictionaries.js module.

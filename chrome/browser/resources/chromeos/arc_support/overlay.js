@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay dialog behaviors
+// summary: Adds dialog-like behavior to overlays, closing on Escape, activating default buttons on Enter and resizing pages to the window height.
+// ---
+
 /**
  * @fileoverview Provides dialog-like behaviors for the tracing UI.
  */

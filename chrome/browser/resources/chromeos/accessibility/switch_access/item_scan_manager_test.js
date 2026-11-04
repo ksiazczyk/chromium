@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Item scan manager tests
+// summary: End-to-end tests for item scan navigation, covering moving to nodes, jumping, group entry and exit, and keyboard handling.
+// ---
+
 GEN_INCLUDE(['switch_access_e2e_test_base.js']);
 
 /** Test fixture for the item scan manager. */

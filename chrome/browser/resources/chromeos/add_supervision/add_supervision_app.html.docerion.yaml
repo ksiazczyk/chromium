@@ -1,0 +1,4 @@
+# Docerion header of add_supervision_app.html.
+type: source
+title: Add Supervision app template
+summary: HTML template for the add-supervision-app element that holds the supervision UI, error, and offline views inside a view manager.

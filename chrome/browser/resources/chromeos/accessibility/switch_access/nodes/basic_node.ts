@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access basic node wrapper
+// summary: Implements BasicNode and BasicRootNode, which wrap single automation nodes to handle actions, grouping, scrolling and tree building for onscreen elements.
+// ---
+
 import type {AutomationPredicate} from '/common/automation_predicate.js';
 import {constants} from '/common/constants.js';
 import {RepeatedEventHandler} from '/common/repeated_event_handler.js';

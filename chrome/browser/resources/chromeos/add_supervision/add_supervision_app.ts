@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add Supervision app element
+// summary: Polymer app element that switches between online, offline, and error screens based on connectivity changes and error events.
+// ---
+
 import './add_supervision_ui.js';
 import '/supervision/supervised_user_error.js';
 import '/supervision/supervised_user_offline.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window root node
+// summary: Defines WindowRootNode, which represents a window, focuses its browser widget on focus, and builds the Switch Access tree for window automation nodes.
+// ---
+
 import {SwitchAccessPredicate} from '../switch_access_predicate.js';
 
 import {BasicNode, BasicRootNode} from './basic_node.js';

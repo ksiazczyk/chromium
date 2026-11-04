@@ -1,0 +1,4 @@
+# Docerion header of move_confirmation_page.html.
+type: source
+title: Move confirmation page template
+summary: HTML template and styles for the move confirmation dialog, including a Lottie animation area, an always-move checkbox and action buttons.

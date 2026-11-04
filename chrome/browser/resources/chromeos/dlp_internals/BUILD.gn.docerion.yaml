@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: DLP Internals WebUI build configuration
+summary: GN build rules that assemble the DLP internals WebUI from its HTML, TypeScript and generated Mojo sources with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bluetooth pairing dialog directory metadata
+summary: Directory metadata specifying the Buganizer component ID and team email for the Bluetooth pairing dialog.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the Desk API component extension
+summary: Manifest V3 configuration declaring the service worker background, permissions, icon, and externally connectable domains.

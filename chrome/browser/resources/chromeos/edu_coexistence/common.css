@@ -9,6 +9,12 @@
  * #include=cros-color-overrides cr-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared CSS styles for the edu coexistence UI
+summary: Defines layout, responsive landscape and portrait rules, scrolling backgrounds and component styling for the edu coexistence WebUI pages.
+*/
+
 :host {
   --dialog-top-border-size: 35px;
 }

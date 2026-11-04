@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload browser proxy
+// summary: Singleton browser proxy that connects the WebUI to the cloud upload Mojo page handler and supports test substitution.
+// ---
+
 import {PageHandlerFactory, PageHandlerRemote} from './cloud_upload.mojom-webui.js';
 
 export abstract class CloudUploadBrowserProxy {

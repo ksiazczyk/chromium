@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Echo resources OWNERS file
+summary: Lists jorgelo@chromium.org as the owner responsible for the echo resources directory.

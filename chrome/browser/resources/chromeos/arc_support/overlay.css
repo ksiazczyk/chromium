@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Help article overlay styles
+summary: Hides headers and promotional content of help articles shown inside the overlay webview.
+*/
+
 /* Hide header for help articles that contains sign-in button, link to apps and
    search bar. Also hide div of class promotion-container that has link to
    YouTube */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add Supervision postMessage API server
+// summary: Implements the server side of the Add Supervision postMessage API, exposing methods such as logOut, getInstalledArcApps, and requestClose to the embedded website.
+// ---
+
 import {PostMessageApiServer} from 'chrome://resources/ash/common/post_message_api/post_message_api_server.js';
 
 import type {AddSupervisionHandlerRemote} from './add_supervision.mojom-webui.js';

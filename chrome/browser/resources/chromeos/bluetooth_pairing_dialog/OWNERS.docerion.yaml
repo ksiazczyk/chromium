@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Bluetooth pairing dialog code owners
+summary: OWNERS file that defers code ownership to the shared Bluetooth resources OWNERS file.

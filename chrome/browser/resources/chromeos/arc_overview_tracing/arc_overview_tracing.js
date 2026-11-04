@@ -6,6 +6,12 @@
  * @fileoverview ARC Overview Tracing UI root element.
  */
 
+// ---docerion
+// type: source
+// title: ARC overview tracing UI entry point
+// summary: JavaScript that initializes the overview tracing page, validates and sends the max profiling time, and forwards models to the UI.
+// ---
+
 cr.define('cr.ArcOverviewTracing', function() {
   return {
     /**

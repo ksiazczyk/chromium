@@ -1,0 +1,4 @@
+# Docerion header of account_migration_welcome.html.
+type: source
+title: Account migration welcome page
+summary: HTML entry page that hosts the account-migration-welcome element for the account migration dialog.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single-use automation node cache
+// summary: Provides SACache to memoize computed node properties such as actionability and grouping during a single query.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 type AutomationNode = chrome.automation.AutomationNode;

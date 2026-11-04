@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC support host window background script
+// summary: Implements the Chrome app window hosting the ARC Opt-In UI, handling native messaging, preferences, and page flow.
+// ---
+
 /**
  * Chrome window that hosts UI. Only one window is allowed.
  * @type {chrome.app.window.AppWindow}

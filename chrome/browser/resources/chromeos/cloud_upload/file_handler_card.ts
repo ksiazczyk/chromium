@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File handler card custom elements
+// summary: Defines custom card elements for choosing a cloud provider or local app when opening office files, including accordion behaviour and selection state.
+// ---
+
 import 'chrome://resources/polymer/v3_0/paper-ripple/paper-ripple.js';
 
 import {getTemplate} from './file_handler_card.html.js';

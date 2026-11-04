@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access group node
+// summary: Defines GroupNode, which groups nodes that lack grouping in the automation tree, such as virtual keyboard rows, and supports drill-down navigation and row separation.
+// ---
+
 import {RectUtil} from '/common/rect_util.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 

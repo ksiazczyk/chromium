@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access node predicates
+// summary: Provides predicates for the automation API to classify nodes as actionable, groups, interesting, visible, or text inputs during tree traversal.
+// ---
+
 import {AutomationPredicate} from '/common/automation_predicate.js';
 import {RectUtil} from '/common/rect_util.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';

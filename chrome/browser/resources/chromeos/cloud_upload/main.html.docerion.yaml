@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: source
+title: Cloud upload main HTML entry point
+summary: Entry HTML document for the cloud upload WebUI that loads main.js and applies ChromeOS colour and typography styles.

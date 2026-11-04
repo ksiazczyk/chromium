@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto scan manager
+// summary: Controls automatic scanning, moving focus at configured intervals with separate timing for the on-screen keyboard.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 import {Navigator} from './navigator.js';

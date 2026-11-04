@@ -7,6 +7,12 @@
  * This module routes Desk API calls to the service worker.
  */
 
+// ---docerion
+// type: source
+// title: Background script routing Desk API calls to the service worker
+// summary: Extension entry class that listens for external messages and connections and forwards them to the service worker for handling.
+// ---
+
 import type {ChromeApi, DeskApiBridgeRequest, MessageSender, SendMessageResponse} from './desk_api_types.js';
 import {ResponseType} from './message_type.js';
 import {ServiceWorkerFactory} from './service_worker.js';

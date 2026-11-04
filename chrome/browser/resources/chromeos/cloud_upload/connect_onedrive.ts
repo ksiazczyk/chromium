@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connect OneDrive dialog element
+// summary: Custom element for the dialog shown when OneDrive is selected from the Files app services menu, handling sign-in, success and errors.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '/strings.m.js';
 

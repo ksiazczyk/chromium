@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cryptohome WebUI GN build config
+summary: GN build rules that build the cryptohome WebUI from cryptohome.html and cryptohome.ts as a trusted WebUI target on ChromeOS.

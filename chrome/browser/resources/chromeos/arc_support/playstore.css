@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Play Store terms styles
+summary: Styles the Play Store terms of service view shown during ARC opt-in, covering link colors, disabled offline ToS links, scrollbars, and play-contained typography.
+*/
+
 a,
 a:link,
 a:visited {

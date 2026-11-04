@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Path helpers for accessibility tools
+# summary: Python module providing helpers to resolve paths relative to the accessibility directory and Chrome source root.
+# ---
+
 '''Helpers for paths in accessibility.'''
 
 import os

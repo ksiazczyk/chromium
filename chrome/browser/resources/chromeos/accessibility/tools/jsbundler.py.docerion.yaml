@@ -1,0 +1,4 @@
+# Docerion header of jsbundler.py.
+type: script
+title: Bundle JavaScript files with Closure dependencies
+summary: Scans JavaScript directory trees and produces file lists, HTML script tags, bundles, minified bundles, or copies based on Closure dependencies.

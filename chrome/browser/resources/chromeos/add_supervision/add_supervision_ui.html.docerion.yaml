@@ -1,0 +1,4 @@
+# Docerion header of add_supervision_ui.html.
+type: source
+title: Add Supervision UI template
+summary: HTML template for the supervision UI showing a modal webview dialog with a loading spinner while content loads.

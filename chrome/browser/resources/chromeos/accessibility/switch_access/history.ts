@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus history for state restoration
+// summary: Defines FocusData and FocusHistory classes that save, validate, and restore Switch Access focus and group state during navigation.
+// ---
+
 import {SACache} from './cache.js';
 import {Navigator} from './navigator.js';
 import {DesktopNode} from './nodes/desktop_node.js';

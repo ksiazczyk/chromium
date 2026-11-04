@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the edu coexistence WebUI
+summary: Defines the build_webui target that compiles the edu coexistence TypeScript components, CSS and HTML into a trusted WebUI resource bundle.

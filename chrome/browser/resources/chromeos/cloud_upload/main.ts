@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload dialog entry script
+// summary: Entry script that reads dialog arguments and mounts the matching cloud upload page, such as file handler, OneDrive setup or move confirmation.
+// ---
+
 import './cloud_upload_dialog.js';
 import './connect_onedrive.js';
 import './file_handler_page.js';

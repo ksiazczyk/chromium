@@ -1,1 +1,7 @@
+<!--docerion
+type: asset
+title: Pause icon
+summary: 48x48 SVG pause icon with two vertical bars for controlling uploads.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48"><path d="M22.4 16h-4.8v16h4.8V16ZM30.4 16h-4.8v16h4.8V16Z"/></svg>

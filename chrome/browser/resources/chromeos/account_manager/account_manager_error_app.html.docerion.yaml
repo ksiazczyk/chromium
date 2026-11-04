@@ -1,0 +1,4 @@
+# Docerion header of account_manager_error_app.html.
+type: source
+title: Account manager error screen template
+summary: Polymer template for the error screen showing the error title, message, optional image and an OK button that closes the dialog.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab node
+// summary: Defines TabNode and ActionableTabNode, which treat top-level tabs as drill-down groups and expose tab selection and close button behavior.
+// ---
+
 import {RectUtil} from '/common/rect_util.js';
 
 import {Navigator} from '../navigator.js';

@@ -11,6 +11,12 @@
  * calling Function.bind.
  */
 
+// ---docerion
+// type: source
+// title: EventTracker DOM event listener helper
+// summary: Tracks DOM event listeners as they are added so they can be selectively or fully removed without needing the original listener details.
+// ---
+
 cr.define('cr', function() {
   /* #export */ class EventTracker {
     /**

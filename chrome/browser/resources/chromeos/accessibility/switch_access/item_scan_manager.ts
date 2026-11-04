@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Item scan manager
+// summary: Implements item-mode navigation, moving focus among onscreen groups and nodes, handling keyboard entry, history, and automation events.
+// ---
+
 import './nodes/editable_text_node.js';
 import './nodes/slider_node.js';
 import './nodes/tab_node.js';

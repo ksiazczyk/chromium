@@ -1,0 +1,4 @@
+# Docerion header of generate_message_formatting_data.py.
+type: script
+title: Generate plural rule JavaScript modules for message internationalization
+summary: Reads plural rules from XML input files and generates JavaScript modules with locale plural rules for message internationalization.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Drive Internals WebUI build file
+summary: GN build definition that packages the drive_internals CSS, HTML and JS into a trusted ChromeOS WebUI target.

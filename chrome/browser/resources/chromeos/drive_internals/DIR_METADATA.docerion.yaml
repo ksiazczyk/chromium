@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for drive_internals
+summary: DIR_METADATA entry that inherits the common metadata mixins from the file manager directory.

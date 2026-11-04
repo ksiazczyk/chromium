@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EDU Coexistence sign-in flow controller
+// summary: Orchestrates the EDU Coexistence sign-in flow by building the flow URL, injecting auth headers and coordinating the authenticator and browser proxy over a webview.
+// ---
+
 import type {AuthCompletedCredentials, AuthParams} from 'chrome://chrome-signin/gaia_auth_host/authenticator.js';
 import {Authenticator} from 'chrome://chrome-signin/gaia_auth_host/authenticator.js';
 import {PostMessageApiServer} from 'chrome://resources/ash/common/post_message_api/post_message_api_server.js';

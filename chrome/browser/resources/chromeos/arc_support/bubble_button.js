@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble button component
+// summary: Implements an image button that toggles an informative bubble via mouse clicks or keyboard input.
+// ---
+
 cr.define('cr.ui', function() {
   /**
    * An image button that brings up an informative bubble when activated by

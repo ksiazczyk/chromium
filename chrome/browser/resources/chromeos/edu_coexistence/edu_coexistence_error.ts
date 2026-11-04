@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EDU Coexistence error screen element
+// summary: Polymer element for the error screen that closes the dialog, advancing OOBE, when the action button is pressed.
+// ---
+
 import './edu_coexistence_template.js';
 import './edu_coexistence_button.js';
 import './common.css.js';

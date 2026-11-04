@@ -1,0 +1,4 @@
+# Docerion header of setup_cancel_dialog.html.
+type: source
+title: Setup cancel dialog template
+summary: HTML template with styles for the dialog asking whether to cancel or continue the OneDrive setup flow.

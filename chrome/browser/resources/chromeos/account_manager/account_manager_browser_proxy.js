@@ -6,6 +6,12 @@
  * @fileoverview Functions for Account manager screens.
  */
 
+// ---docerion
+// type: source
+// title: Account manager browser proxy
+// summary: Defines the browser proxy interface and implementation that trigger account re-authentication and close the dialog via chrome.send.
+// ---
+
 /** @interface */
 export class AccountManagerBrowserProxy {
   /**

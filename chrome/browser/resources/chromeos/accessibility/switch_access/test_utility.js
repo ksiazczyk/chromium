@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility helpers for Switch Access tests
+// summary: Helper functions for JavaScript-driven Switch Access tests, offering switch presses, focus waiting, and focus setup utilities.
+// ---
+
 /**
  * Helper functions for tests driven from JS, especially SAATLite tests.
  * Must call `await TestUtility.setup()` before using these functions.

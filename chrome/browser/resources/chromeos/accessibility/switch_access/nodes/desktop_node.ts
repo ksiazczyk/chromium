@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access desktop node
+// summary: Implements DesktopNode, the root wrapper for the desktop automation tree, which builds and refreshes its children while preserving the focused node.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 import {Navigator} from '../navigator.js';

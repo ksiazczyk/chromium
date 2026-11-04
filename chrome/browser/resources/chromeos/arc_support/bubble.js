@@ -4,6 +4,12 @@
 
 // require: event_tracker.js
 
+// ---docerion
+// type: source
+// title: Bubble component
+// summary: Implements cr.ui bubble elements that anchor informational popups to nodes with configurable arrow placement.
+// ---
+
 cr.define('cr.ui', function() {
   /**
    * The arrow location specifies how the arrow and bubble are positioned in

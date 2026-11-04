@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move confirmation page element
+// summary: Implements the dialog shown when office files must be moved or copied to Google Drive or OneDrive before opening, with animation and preference handling.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import 'chrome://resources/cros_components/lottie_renderer/lottie-renderer.js';

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Account manager OWNERS
+summary: Delegates code ownership for the account manager resources to the OWNERS file of the Ash account manager component.

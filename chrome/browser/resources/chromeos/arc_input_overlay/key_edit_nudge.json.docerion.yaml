@@ -1,0 +1,4 @@
+# Docerion header of key_edit_nudge.json.
+type: asset
+title: Key edit nudge animation
+summary: Lottie animation asset showing the nudge for editing key mappings in the ChromeOS ARC input overlay.

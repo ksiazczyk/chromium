@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Point scan manager tests
+// summary: Browser tests verifying point scan mouse actions like left and right clicks and that focus rings are not set while point scanning runs.
+// ---
+
 GEN_INCLUDE(['switch_access_e2e_test_base.js']);
 
 /** Test fixture for the point scan manager. */

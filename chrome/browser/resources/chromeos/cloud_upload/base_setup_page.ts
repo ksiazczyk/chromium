@@ -9,6 +9,12 @@
  * to switch pages or exit.
  */
 
+// ---docerion
+// type: source
+// title: Base setup page element
+// summary: Defines the base class for all setup flow pages, including shared shadow DOM layout, scroll fading and page navigation events.
+// ---
+
 import {getTemplate} from './base_setup_page.html.js';
 
 /**

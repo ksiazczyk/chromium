@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini installer browser proxy (browser_proxy.ts)
+// summary: Provides a singleton BrowserProxy that binds the installer UI to the browser through the Crostini installer Mojo interface.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './crostini_installer.mojom-webui.js';
 import type {PageHandlerInterface} from './crostini_installer.mojom-webui.js';
 

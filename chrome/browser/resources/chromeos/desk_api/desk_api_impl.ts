@@ -6,6 +6,12 @@
  * @fileoverview The implementation of Desk API
  */
 
+// ---docerion
+// type: source
+// title: Desk API implementation wrapping wmDesksPrivate calls
+// summary: Implements the DeskApi interface by delegating each desk operation to chrome.wmDesksPrivate with version support checks.
+// ---
+
 import type {DeskApi, LaunchOptions, RemoveDeskOptions, WindowProperties} from './types.js';
 
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the edu coexistence WebUI
+// summary: Defines the interface and implementation for chrome.send messages covering login, consent, account list, device ID and error reporting.
+// ---
+
 import type {AuthCompletedCredentials} from 'chrome://chrome-signin/gaia_auth_host/authenticator.js';
 import {sendWithPromise} from 'chrome://resources/ash/common/cr.m.js';
 

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Bubble styles
+summary: Styles informational bubbles with arrow, shadow, and close button used in the ARC support UI.
+*/
+
 .bubble {
   position: absolute;
   white-space: normal;

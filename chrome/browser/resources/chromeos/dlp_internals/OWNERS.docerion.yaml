@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: DLP Internals owners file
+summary: Delegates code ownership for the DLP internals resources to the ChromeOS DLP policy OWNERS file.

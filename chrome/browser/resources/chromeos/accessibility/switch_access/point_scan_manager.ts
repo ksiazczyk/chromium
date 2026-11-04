@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Point scan manager
+// summary: Implements point scan mode, tracking the selected screen point and performing left or right mouse clicks at that position.
+// ---
+
 import {constants} from '/common/constants.js';
 import type {MouseClickParams} from '/common/event_generator.js';
 import {EventGenerator} from '/common/event_generator.js';

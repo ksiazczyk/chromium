@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusManager for overlay focus control
+// summary: Manages focusable elements so focus stays within the topmost overlay dialog and dispatches elementFocused events on focus changes.
+// ---
+
 cr.define('cr.ui', function() {
   /**
    * Constructor for FocusManager singleton. Checks focus of elements to ensure

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for add_supervision
+summary: Points to the shared child accounts metadata that governs this directory via a mixin.

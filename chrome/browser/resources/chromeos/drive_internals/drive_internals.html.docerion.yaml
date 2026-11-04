@@ -1,0 +1,4 @@
+# Docerion header of drive_internals.html.
+type: source
+title: Drive internals debug page
+summary: HTML page for the Drive internals debug interface with sections for connection status, account information, bulk pinning, preferences, logs, and cache contents.

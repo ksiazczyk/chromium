@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access settings manager
+// summary: Manages Switch Access user preferences and updates auto scan behavior when settings such as scan speed and key codes change.
+// ---
+
 import {Settings} from '/common/settings.js';
 
 import {AutoScanManager} from './auto_scan_manager.js';

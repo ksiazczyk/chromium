@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Flexbox layout utility styles
+summary: Defines utility CSS classes for flex layouts, alignment, wrapping and positioning used by the ARC support UI.
+*/
+
 .layout.horizontal,
 .layout.horizontal-reverse,
 .layout.vertical,

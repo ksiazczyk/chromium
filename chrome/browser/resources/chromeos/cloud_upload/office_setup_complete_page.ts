@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Office setup complete page element
+// summary: Defines the custom element for the page showing the completed Office setup state, optionally setting Microsoft 365 as the default file handler.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

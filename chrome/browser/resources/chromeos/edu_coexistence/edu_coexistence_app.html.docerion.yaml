@@ -1,0 +1,4 @@
+# Docerion header of edu_coexistence_app.html.
+type: source
+title: Template of the edu-coexistence-app element
+summary: Polymer template that hosts the view manager with the online, offline and error views of the flow.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini installer app element (app.ts)
+// summary: Implements the crostini-installer-app Polymer element, handling installer states, username validation against reserved names, and disk size slider configuration.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 import 'chrome://resources/ash/common/cr_elements/cr_slider/cr_slider.js';

@@ -7,6 +7,12 @@
  * class as declared in types.d.ts
  */
 
+// ---docerion
+// type: source
+// title: Service worker implementation
+// summary: Implements the extension service worker, handling desk launch, removal with confirmation notifications, desk switching and bridge messaging.
+// ---
+
 import type {DeskApiBridgeRequest, DeskApiBridgeResponse, MessageSender, ServiceWorker} from './desk_api_types.js';
 import {EventType, RequestType, ResponseType} from './message_type.js';
 import type {Desk, DeskApi, GetDeskByIdOperands, LaunchOptions, NotificationApi, NotificationOptions, RemoveDeskOperands, SwitchDeskOperands, WindowProperties} from './types.js';

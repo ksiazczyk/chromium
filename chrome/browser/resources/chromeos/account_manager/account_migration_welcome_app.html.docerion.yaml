@@ -1,0 +1,4 @@
+# Docerion header of account_migration_welcome_app.html.
+type: source
+title: Account migration welcome screen template
+summary: Polymer template for the migration welcome screen with title, body text, welcome image and cancel and migrate buttons.

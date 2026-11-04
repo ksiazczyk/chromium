@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive Internals page logic
+// summary: JavaScript that receives data from the browser and updates the connection, account, bulk pinning, path, preference, cache and log sections of the page.
+// ---
+
 import {addWebUiListener} from 'chrome://resources/js/cr.js';
 import {$} from 'chrome://resources/js/util.js';
 
