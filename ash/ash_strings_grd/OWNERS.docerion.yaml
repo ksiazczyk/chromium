@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS approval rules for strings grd and sha1 files
+summary: Allows any Chromium committer to approve changes to strings grd files and the corresponding PNG sha1 translation hashes.
