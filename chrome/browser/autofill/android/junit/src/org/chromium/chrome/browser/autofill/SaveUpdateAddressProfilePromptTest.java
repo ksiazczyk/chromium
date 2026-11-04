@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SaveUpdateAddressProfilePromptTest
+// summary: Robolectric unit tests for the save and update address profile prompt, mocking controllers, personal data manager, and sync services to exercise dialog behavior.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.junit.Assert.assertEquals;

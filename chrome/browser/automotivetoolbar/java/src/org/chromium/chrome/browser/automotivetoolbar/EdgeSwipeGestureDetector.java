@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge swipe gesture detector
+// summary: Detects valid edge swipes based on edge width, swipe threshold and angle, and notifies the toolbar coordinator to show or hide the back button toolbar.
+// ---
+
 package org.chromium.chrome.browser.automotivetoolbar;
 
 import android.content.Context;

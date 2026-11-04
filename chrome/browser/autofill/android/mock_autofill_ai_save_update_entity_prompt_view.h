@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Autofill AI save/update entity prompt view header
+// summary: Declares a gmock-based mock of the Autofill AI save/update entity prompt view for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_MOCK_AUTOFILL_AI_SAVE_UPDATE_ENTITY_PROMPT_VIEW_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_MOCK_AUTOFILL_AI_SAVE_UPDATE_ENTITY_PROMPT_VIEW_H_
 

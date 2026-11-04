@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Autofill test Android OWNERS
+summary: Delegates ownership of the autofill test Android directory to the components autofill Android OWNERS file.

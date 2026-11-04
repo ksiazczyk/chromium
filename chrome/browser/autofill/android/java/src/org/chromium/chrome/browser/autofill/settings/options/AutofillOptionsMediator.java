@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill options mediator
+// summary: Mediator that keeps the autofill options model and preferences in sync, records settings metrics, and manages restart confirmation and modal dialogs.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings.options;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

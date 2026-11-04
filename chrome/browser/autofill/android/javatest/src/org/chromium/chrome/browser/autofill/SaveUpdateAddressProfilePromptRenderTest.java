@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SaveUpdateAddressProfilePromptRenderTest
+// summary: Parameterized render tests that screenshot the SaveUpdateAddressProfilePrompt in light and night mode and compare the results against golden images.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.mockito.ArgumentMatchers.any;

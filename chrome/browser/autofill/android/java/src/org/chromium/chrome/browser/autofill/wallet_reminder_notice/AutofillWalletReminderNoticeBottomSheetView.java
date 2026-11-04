@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet Reminder Notice bottom sheet view
+// summary: View holder that inflates the bottom sheet layout and exposes the header icon, title, legal message, and button views.
+// ---
+
 package org.chromium.chrome.browser.autofill.wallet_reminder_notice;
 
 import android.content.Context;

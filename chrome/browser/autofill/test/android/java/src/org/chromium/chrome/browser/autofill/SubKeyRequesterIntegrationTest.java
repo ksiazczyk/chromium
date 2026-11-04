@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SubKeyRequesterIntegrationTest
+// summary: Integration tests for SubKeyRequesterFactory and SubKeyRequester covering region sub-key loading and retrieval on Android.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import androidx.test.filters.SmallTest;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddressEditorTest
+// summary: JUnit tests for the Chrome Android autofill address editor, covering editor properties, field validation, dropdown and text inputs, and done/cancel button behavior.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.address;
 
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityInstanceWithLabels JNI conversion
+// summary: Implements JNI conversions for the EntityInstanceWithLabels struct that carries entity GUID, labels, and wallet storage information between C++ and Java.
+// ---
+
 #include "chrome/browser/autofill/android/entity_instance_with_labels.h"
 
 #include "base/android/jni_string.h"

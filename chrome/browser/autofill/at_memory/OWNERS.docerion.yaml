@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the at_memory autofill folder
+summary: Delegates code review ownership for the browser-side at_memory autofill folder to the corresponding components/autofill OWNERS file.

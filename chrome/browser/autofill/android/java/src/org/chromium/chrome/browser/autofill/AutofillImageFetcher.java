@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillImageFetcher
+// summary: Fetches and caches credit card art images in multiple sizes and notifies observers of results.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import android.content.Context;

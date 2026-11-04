@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillThirdPartyModeContentProvider
+// summary: Content provider exposing the Autofill third-party mode state to queries from other components.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.chromium.chrome.browser.preferences.ChromePreferenceKeys.AUTOFILL_THIRD_PARTY_MODE_STATE;

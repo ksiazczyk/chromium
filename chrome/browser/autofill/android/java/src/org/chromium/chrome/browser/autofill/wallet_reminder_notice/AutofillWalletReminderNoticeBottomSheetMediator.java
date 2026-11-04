@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet Reminder Notice bottom sheet mediator
+// summary: Handles bottom sheet business logic, recording interaction metrics for acknowledgements, link clicks, and user dismissals.
+// ---
+
 package org.chromium.chrome.browser.autofill.wallet_reminder_notice;
 
 import androidx.annotation.VisibleForTesting;

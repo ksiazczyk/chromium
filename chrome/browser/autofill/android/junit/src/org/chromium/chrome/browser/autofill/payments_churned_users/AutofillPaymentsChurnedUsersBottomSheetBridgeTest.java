@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the payments churned users bottom sheet bridge
+// summary: Robolectric unit tests verifying that the churned users bottom sheet bridge shows the sheet and manages coordinator lifecycle.
+// ---
+
 package org.chromium.chrome.browser.autofill.payments_churned_users;
 
 import static org.hamcrest.MatcherAssert.assertThat;

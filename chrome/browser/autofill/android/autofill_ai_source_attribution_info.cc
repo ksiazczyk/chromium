@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI source attribution info JNI implementation
+// summary: Implements the C++ AutofillAiSourceAttributionInfo struct, deriving display titles from Gmail or Photos source metadata and converting to and from Java.
+// ---
+
 #include "chrome/browser/autofill/android/autofill_ai_source_attribution_info.h"
 
 #include <string>

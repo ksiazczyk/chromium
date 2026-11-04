@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet Reminder Notice bottom sheet coordinator
+// summary: Assembles the model, mediator, view, and change processor to control the bottom sheet and open legal message links.
+// ---
+
 package org.chromium.chrome.browser.autofill.wallet_reminder_notice;
 
 import android.content.Context;

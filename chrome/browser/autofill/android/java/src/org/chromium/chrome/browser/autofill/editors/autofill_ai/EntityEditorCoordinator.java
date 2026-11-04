@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coordinator for the Autofill AI entity editor
+// summary: Wires together the mediator and view of the Autofill AI entity editor and defines a delegate for done, delete and Google Wallet help-link interactions.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.autofill_ai;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

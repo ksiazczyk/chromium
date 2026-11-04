@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PersonalDataManagerFactory: per-profile manager access'
+// summary: Factory that returns the PersonalDataManager instance associated with a given browser profile and supports injecting an instance for testing.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import org.chromium.base.ResettersForTesting;

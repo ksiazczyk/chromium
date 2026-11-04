@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Store locally tooltip background drawable
+summary: Android drawable XML defining a rounded, solid-color shape used as the background for the autofill store-locally tooltip.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <solid android:color="@color/baseline_neutral_0" />
     <corners android:radius="2dp" />

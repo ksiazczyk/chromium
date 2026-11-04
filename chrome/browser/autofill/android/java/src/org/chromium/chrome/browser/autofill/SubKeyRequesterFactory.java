@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SubKeyRequesterFactory: access to SubKeyRequester'
+// summary: Factory that provides access to the SubKeyRequester with the necessary //chrome dependencies and allows substituting a test instance.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import org.jni_zero.JNINamespace;

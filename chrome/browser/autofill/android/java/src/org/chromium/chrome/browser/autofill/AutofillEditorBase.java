@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillEditorBase
+// summary: Base fragment class for autofill editors such as credit cards and address profiles in settings.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

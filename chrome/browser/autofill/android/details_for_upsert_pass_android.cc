@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI conversion for wallet pass upsert details
+// summary: Converts the GetDetailsForUpsertPassResponse, including legal message lines and token, into its Java counterpart for wallet pass upserts.
+// ---
+
 #include "chrome/browser/autofill/android/details_for_upsert_pass_android.h"
 
 #include "base/android/jni_array.h"

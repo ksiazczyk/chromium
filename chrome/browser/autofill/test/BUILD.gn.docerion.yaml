@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chrome autofill Android test build configuration
+summary: GN build file defining Java and native test and test-support targets with their dependencies for Chrome's Android autofill tests.

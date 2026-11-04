@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the AtMemoryQueryService factory
+// summary: Implements the profile-keyed factory that builds AtMemoryQueryService with autofill data providers, personal context, and eligibility services when the AutofillAtMemory feature is enabled.
+// ---
+
 #include "chrome/browser/autofill/at_memory/at_memory_query_service_factory.h"
 
 #include <memory>

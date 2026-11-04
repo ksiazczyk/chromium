@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntityEditorModuleTest
+// summary: Robolectric unit tests for the autofill AI entity editor module, covering editor components such as text fields, dropdowns, notices and their callbacks.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.autofill_ai;
 
 import static org.junit.Assert.assertEquals;

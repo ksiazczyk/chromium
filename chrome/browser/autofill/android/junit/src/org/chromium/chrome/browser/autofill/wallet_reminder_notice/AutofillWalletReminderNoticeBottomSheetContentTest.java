@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the wallet reminder notice bottom sheet content
+// summary: Robolectric unit tests checking the bottom sheet content's view, toolbar, priority, height modes, swipe dismissal and accessibility string IDs.
+// ---
+
 package org.chromium.chrome.browser.autofill.wallet_reminder_notice;
 
 import static org.hamcrest.MatcherAssert.assertThat;

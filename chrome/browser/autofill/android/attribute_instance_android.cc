@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttributeInstanceAndroid JNI conversion implementation
+// summary: Implements conversions between the C++ AttributeInstance and its Java counterpart for autofill AI attributes.
+// ---
+
 #include "chrome/browser/autofill/android/attribute_instance_android.h"
 
 #include <variant>

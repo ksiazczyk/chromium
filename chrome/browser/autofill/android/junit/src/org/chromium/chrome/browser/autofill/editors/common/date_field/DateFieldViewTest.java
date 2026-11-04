@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DateFieldViewTest
+// summary: Robolectric unit tests for the DateFieldView in the Android autofill entity editor, covering labels, values, validation, and value-changed callbacks.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.date_field;
 
 import static org.hamcrest.MatcherAssert.assertThat;

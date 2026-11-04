@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automotive back button toolbar coordinator
+// summary: Coordinator for the automotive back button toolbar that shows it on edge swipe, hides it on back swipe, and manages its visibility in fullscreen.
+// ---
+
 package org.chromium.chrome.browser.automotivetoolbar;
 
 import android.app.Activity;

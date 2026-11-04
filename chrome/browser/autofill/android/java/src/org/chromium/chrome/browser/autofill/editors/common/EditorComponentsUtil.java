@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorComponentsUtil
+// summary: Utility that scrolls to and focuses the first editable editor field carrying an error message.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common;
 
 import static org.chromium.chrome.browser.autofill.editors.common.EditorComponentsProperties.isEditable;

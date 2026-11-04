@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorComponentsViewBinder
+// summary: Maps property model changes for non-editable text and notice components to updates on their corresponding views.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common;
 
 import static org.chromium.chrome.browser.autofill.editors.common.EditorComponentsProperties.NonEditableTextProperties.CLICK_RUNNABLE;

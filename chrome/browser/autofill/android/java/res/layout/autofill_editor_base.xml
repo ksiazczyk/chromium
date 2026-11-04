@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Autofill editor base layout
+summary: Base Android layout for Autofill editors, providing a fading-edge scroll view whose content LinearLayout holds the editor fields.
+-->
+
 <!-- Base layout for Autofill editors.
      Editor fields are expected to be added to the LinearLayout inside of the ScrollView.
 -->

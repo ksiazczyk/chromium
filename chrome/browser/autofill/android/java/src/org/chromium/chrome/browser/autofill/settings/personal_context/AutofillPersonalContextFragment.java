@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillPersonalContextFragment
+// summary: Settings fragment for Autofill Personal Context defining preference keys, entry point and toggle user actions, help menu, and search indexing.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings.personal_context;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android entity data manager wrapper
+// summary: Declares EntityDataManagerAndroid, an Android wrapper of EntityDataManager exposing Autofill AI eligibility, opt-in and entity operations to Java.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_ENTITY_DATA_MANAGER_ANDROID_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_ENTITY_DATA_MANAGER_ANDROID_H_
 

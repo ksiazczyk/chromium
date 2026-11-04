@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillThirdPartyModeContentProviderIntegrationTest
+// summary: Integration tests that query the AutofillThirdPartyModeContentProvider to verify the third-party mode preference value and null results for invalid provider URIs.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static android.content.ContentResolver.SCHEME_CONTENT;

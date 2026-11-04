@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Properties for the Autofill AI entity editor view
+// summary: Defines the property keys describing the visible state of the entity editor dialog, such as title, visibility, fields and delete confirmation.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.autofill_ai;
 
 import android.app.Activity;

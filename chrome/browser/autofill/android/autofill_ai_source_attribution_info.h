@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI source attribution info header
+// summary: Declares the C++ counterpart of the Java AutofillAiSourceAttributionInfo class holding source type, URL, and formatted title with JNI conversion helpers.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_AUTOFILL_AI_SOURCE_ATTRIBUTION_INFO_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_AUTOFILL_AI_SOURCE_ATTRIBUTION_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI source attribution view
+// summary: Inflates the attribution sheet layout and holds the RecyclerView used to display source attribution items.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import android.content.Context;

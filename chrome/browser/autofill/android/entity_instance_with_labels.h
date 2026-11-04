@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityInstanceWithLabels header
+// summary: Declares the C++ counterpart of the Java EntityInstanceWithLabels class holding GUID, entity type, labels, and wallet storage details.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_ENTITY_INSTANCE_WITH_LABELS_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_ENTITY_INSTANCE_WITH_LABELS_H_
 

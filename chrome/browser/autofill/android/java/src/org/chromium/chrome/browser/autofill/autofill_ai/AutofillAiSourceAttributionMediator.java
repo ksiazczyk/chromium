@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI source attribution mediator
+// summary: Builds the header and source card list items for the attribution sheet and opens source links such as Gmail and Photos.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillPaymentsChurnedUsersBottomSheetBridge
+// summary: JNI bridge entry point that shows the Payments Churned Users bottom sheet and forwards user actions such as accept, cancel and dismiss to native code.
+// ---
+
 package org.chromium.chrome.browser.autofill.payments_churned_users;
 
 import android.content.Context;

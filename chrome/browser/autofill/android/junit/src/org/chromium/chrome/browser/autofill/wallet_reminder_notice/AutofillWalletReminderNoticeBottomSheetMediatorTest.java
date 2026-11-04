@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the wallet reminder notice bottom sheet mediator
+// summary: Robolectric unit tests covering the mediator's show and hide behaviour, the Got It click action and interaction histogram logging.
+// ---
+
 package org.chromium.chrome.browser.autofill.wallet_reminder_notice;
 
 import static org.hamcrest.MatcherAssert.assertThat;

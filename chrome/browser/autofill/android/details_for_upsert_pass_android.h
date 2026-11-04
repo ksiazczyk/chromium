@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of JNI conversion for wallet pass upsert details
+// summary: Declares the jni_zero ToJniType specialization that maps GetDetailsForUpsertPassResponse to its Java representation.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_DETAILS_FOR_UPSERT_PASS_ANDROID_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_DETAILS_FOR_UPSERT_PASS_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestUtils
+// summary: Test helper that sets dropdown selections and date field values for autofill editor UI tests.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.utils;
 
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Autofill AI save/update entity prompt controller
+// summary: Tests the Android save/update entity prompt controller using a mock prompt view, identity test environment, and verification of UI context and callbacks.
+// ---
+
 #include "chrome/browser/autofill/android/autofill_ai_save_update_entity_prompt_controller.h"
 
 #include <memory>

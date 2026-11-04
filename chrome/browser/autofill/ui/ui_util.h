@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill UI signin utility declaration
+// summary: Declares GetPrimaryAccountInfoFromBrowserContext, a helper that obtains the primary account info from a browser context for autofill UI code.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_UI_UI_UTIL_H_
 #define CHROME_BROWSER_AUTOFILL_UI_UI_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillPaymentsChurnedUsersBottomSheetProperties
+// summary: Defines the property keys of the Payments Churned Users bottom sheet model, covering header icon, title, description, button labels, click handlers and loading state.
+// ---
+
 package org.chromium.chrome.browser.autofill.payments_churned_users;
 
 import org.chromium.build.annotations.NullMarked;

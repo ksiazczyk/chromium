@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet Reminder Notice bottom sheet view binder
+// summary: Binds model property updates to the bottom sheet view, setting the title, icon, legal message spans, and click listener.
+// ---
+
 package org.chromium.chrome.browser.autofill.wallet_reminder_notice;
 
 import static org.chromium.chrome.browser.autofill.wallet_reminder_notice.AutofillWalletReminderNoticeBottomSheetProperties.HEADER_ICON;

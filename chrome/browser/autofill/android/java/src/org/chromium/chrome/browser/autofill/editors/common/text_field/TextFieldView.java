@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextFieldView
+// summary: Android view that displays and validates a single text field in the autofill editor, handling focus, input actions, suggestions, and text formatting.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.text_field;
 
 import static org.chromium.chrome.browser.autofill.editors.common.field.FieldProperties.ERROR_MESSAGE;

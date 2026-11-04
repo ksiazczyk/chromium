@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillPersonalContextTest
+// summary: Robolectric unit tests for AutofillPersonalContextFragment, verifying the personal context toggle on/off behavior and EntityDataManager interactions under the Autofill AI with data schema feature.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings.personal_context;
 
 import static org.junit.Assert.assertFalse;

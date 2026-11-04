@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI conversions for entity attribute update details
+// summary: Provides FromJniType and ToJniType specializations that translate EntityAttributeUpdateDetails between C++ and Java.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_ENTITY_ATTRIBUTE_UPDATE_DETAILS_ANDROID_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_ENTITY_ATTRIBUTE_UPDATE_DETAILS_ANDROID_H_
 

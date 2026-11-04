@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save/update address profile prompt controller
+// summary: Declares the controller that owns the prompt view and its Java counterpart and handles user interactions for saving or updating address profiles.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_SAVE_UPDATE_ADDRESS_PROFILE_PROMPT_CONTROLLER_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_SAVE_UPDATE_ADDRESS_PROFILE_PROMPT_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillPersonalContextProperties
+// summary: Property keys for the Autofill Personal Context settings screen covering the enabled state and toggle and click callbacks.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings.personal_context;
 
 import org.chromium.base.Callback;

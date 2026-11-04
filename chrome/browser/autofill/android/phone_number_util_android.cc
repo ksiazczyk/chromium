@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone number formatting JNI utility for Android autofill
+// summary: Provides JNI functions that format and validate phone numbers with libphonenumber for display and Payment Request responses.
+// ---
+
 #include "base/android/jni_string.h"
 #include "chrome/browser/browser_process.h"
 #include "components/autofill/core/browser/geo/autofill_country.h"

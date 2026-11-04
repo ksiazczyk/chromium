@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownFieldProperties
+// summary: Defines the property keys for dropdown fields and provides helpers to look up and set dropdown keys and values in the editor property model.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.dropdown_field;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

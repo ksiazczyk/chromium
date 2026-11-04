@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallet reminder notice bottom sheet render tests
+// summary: Parameterized render tests that compare the Autofill Wallet Reminder Notice bottom sheet against gold standard images across default, RTL, and night mode layouts.
+// ---
+
 package org.chromium.chrome.browser.autofill.wallet_reminder_notice;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

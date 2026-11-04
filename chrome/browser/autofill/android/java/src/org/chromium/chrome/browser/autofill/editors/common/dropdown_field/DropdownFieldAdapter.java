@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownFieldAdapter
+// summary: ArrayAdapter subclass that adds the parent background padding to the selected item view so it does not overlap the dropdown triangle.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.dropdown_field;
 
 import android.content.Context;

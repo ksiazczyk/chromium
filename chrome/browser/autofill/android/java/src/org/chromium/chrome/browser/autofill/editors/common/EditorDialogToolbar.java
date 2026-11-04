@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorDialogToolbar
+// summary: Toolbar for the editor dialog that manages visibility of the delete menu item and an optional branding icon.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common;
 
 import android.content.Context;

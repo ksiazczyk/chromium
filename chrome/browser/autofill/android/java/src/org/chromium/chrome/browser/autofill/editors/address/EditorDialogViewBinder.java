@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor dialog view binder
+// summary: Maps changes of the editor property model to the corresponding update methods of the editor dialog view.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.address;
 
 import static org.chromium.chrome.browser.autofill.editors.address.EditorProperties.ALLOW_DELETE;

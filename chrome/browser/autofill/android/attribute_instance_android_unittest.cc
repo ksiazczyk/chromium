@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AttributeInstanceAndroid conversion unit tests
+// summary: Parameterized tests verifying round-trip conversion of attribute instances between C++ and Java.
+// ---
+
 #include "chrome/browser/autofill/android/attribute_instance_android.h"
 
 #include <string>

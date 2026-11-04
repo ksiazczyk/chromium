@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillOptionsTest
+// summary: Robolectric unit tests for the Android autofill settings options fragment, covering third-party autofill toggles, availability status, reauthentication, and help menu behavior.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings.options;
 
 import static com.google.common.truth.Truth.assertThat;

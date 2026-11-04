@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillAiSaveUpdateEntityPromptTest
+// summary: Robolectric unit tests for the Autofill AI save/update entity prompt, covering dialog behavior, entity editing, histograms, and legal message display.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import static org.hamcrest.MatcherAssert.assertThat;

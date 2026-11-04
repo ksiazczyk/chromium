@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillPaymentsChurnedUsersBottomSheetContent
+// summary: BottomSheetContent implementation that supplies the content view, priority, height mode and accessibility strings for the Payments Churned Users bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.autofill.payments_churned_users;
 
 import android.content.res.Resources;

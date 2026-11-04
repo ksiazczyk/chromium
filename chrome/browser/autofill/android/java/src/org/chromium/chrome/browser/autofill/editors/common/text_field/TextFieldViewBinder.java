@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextFieldViewBinder
+// summary: Binds text field property model changes to the TextFieldView, updating label, value, validator, error message, input type, suggestions, and formatter.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.text_field;
 
 import static org.chromium.chrome.browser.autofill.AutofillUiUtils.getInputTypeForField;

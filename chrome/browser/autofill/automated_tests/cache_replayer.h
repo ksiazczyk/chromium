@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill server cache replayer declarations
+// summary: Declares the ServerCacheReplayer class with its options and status types, plus helpers for splitting HTTP text and choosing the Autofill server behavior in tests.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_AUTOMATED_TESTS_CACHE_REPLAYER_H_
 #define CHROME_BROWSER_AUTOFILL_AUTOMATED_TESTS_CACHE_REPLAYER_H_
 

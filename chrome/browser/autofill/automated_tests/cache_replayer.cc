@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill server cache replayer implementation
+// summary: Implements the ServerCacheReplayer, which loads cached Autofill server request and response pairs from a JSON file and serves matching HTTP responses for automated tests.
+// ---
+
 #include "chrome/browser/autofill/automated_tests/cache_replayer.h"
 
 #include <algorithm>

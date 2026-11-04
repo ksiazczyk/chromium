@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillImageFetcherFactory
+// summary: Provides per-profile access to the AutofillImageFetcher singleton with test override support.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import org.jni_zero.JNINamespace;

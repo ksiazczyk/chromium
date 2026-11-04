@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI source attribution bottom sheet content
+// summary: BottomSheetContent implementation configuring the modal, user-initiated source attribution sheet with full-height wrap-content layout.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import android.view.View;

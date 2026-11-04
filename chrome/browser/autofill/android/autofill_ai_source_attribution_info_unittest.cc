@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Autofill AI source attribution info
+// summary: Tests construction of source attribution info from Gmail and Photos sources, including null timestamps and round-trip JNI conversion.
+// ---
+
 #include "chrome/browser/autofill/android/autofill_ai_source_attribution_info.h"
 
 #include <string>

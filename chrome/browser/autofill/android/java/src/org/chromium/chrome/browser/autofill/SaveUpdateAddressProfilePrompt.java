@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SaveUpdateAddressProfilePrompt: address save confirmation dialog'
+// summary: Modal dialog prompt that asks users to confirm saving, updating, or migrating an address profile imported from a form submission, with an optional address editor.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import android.app.Activity;

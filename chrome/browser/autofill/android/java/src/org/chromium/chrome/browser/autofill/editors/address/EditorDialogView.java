@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor dialog view
+// summary: Dialog view used for editing contact information, shipping addresses and billing addresses in Chrome on Android.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.address;
 
 import android.app.Activity;

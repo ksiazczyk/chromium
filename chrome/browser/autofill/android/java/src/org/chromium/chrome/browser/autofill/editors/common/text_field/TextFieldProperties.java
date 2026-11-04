@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextFieldProperties
+// summary: Defines property keys specific to text fields in the autofill editor, such as field type, suggestions, and text formatter, combined with the base field keys.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.text_field;
 
 import android.text.TextWatcher;

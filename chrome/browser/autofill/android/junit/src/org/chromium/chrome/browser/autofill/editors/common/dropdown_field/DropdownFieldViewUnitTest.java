@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DropdownFieldView unit test
+// summary: Robolectric unit test that verifies the DropdownFieldView for the autofill editor, including property model binding, dropdown key-value lists, and value-changed callbacks.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.dropdown_field;
 
 import static org.junit.Assert.assertEquals;

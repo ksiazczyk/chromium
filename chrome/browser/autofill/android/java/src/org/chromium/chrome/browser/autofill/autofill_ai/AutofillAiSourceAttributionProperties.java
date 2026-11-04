@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI source attribution properties
+// summary: Defines the item types and property keys for header and source card models of the source attribution bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import androidx.annotation.IntDef;

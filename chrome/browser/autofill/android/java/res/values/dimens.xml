@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Autofill Android dimension values
+summary: Defines dimension values for the Autofill editor, tooltip, keyboard accessory, AI preference and personal context settings UI on Android.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Autofill editor dimensions -->
     <dimen name="autofill_editor_notice_radius">16dp</dimen>

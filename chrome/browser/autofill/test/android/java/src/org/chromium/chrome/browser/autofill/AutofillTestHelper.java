@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillTestHelper
+// summary: Helper class for Android autofill tests that manages test setup, personal data access, and UI interaction utilities for AutofillProfiles.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isDisplayed;

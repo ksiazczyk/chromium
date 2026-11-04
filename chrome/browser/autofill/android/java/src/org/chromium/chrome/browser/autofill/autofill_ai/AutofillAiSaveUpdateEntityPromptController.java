@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI save/update entity prompt controller
+// summary: JNI wrapper that forwards prompt events such as acceptance, edits, decline, and dismissal to the native C++ controller.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import androidx.annotation.VisibleForTesting;

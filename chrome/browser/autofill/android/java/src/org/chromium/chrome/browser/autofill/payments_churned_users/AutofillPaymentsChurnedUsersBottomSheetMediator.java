@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillPaymentsChurnedUsersBottomSheetMediator
+// summary: Mediator holding the business logic for the Payments Churned Users bottom sheet, including treatment arm content, button actions and the post-accept loading delay.
+// ---
+
 package org.chromium.chrome.browser.autofill.payments_churned_users;
 
 import android.content.Context;

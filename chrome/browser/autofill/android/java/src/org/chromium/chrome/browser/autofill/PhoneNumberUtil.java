@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PhoneNumberUtil: phone number formatting and validation'
+// summary: Java wrapper of the i18n phone number library that formats and validates phone numbers for autofill fields, with a country-aware text watcher for live formatting.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import android.text.Editable;

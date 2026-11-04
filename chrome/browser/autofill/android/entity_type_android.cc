@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityType Android JNI conversion
+// summary: Implements conversions between native EntityType and its Java counterpart, including localized strings, attribute types, and required type constraints.
+// ---
+
 #include "chrome/browser/autofill/android/entity_type_android.h"
 
 #include "base/android/jni_string.h"
