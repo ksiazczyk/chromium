@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Multistep filter service factory unit tests
+// summary: Unit tests covering service creation for signed-in, signed-out, incognito and guest profiles, feature gating, and registration of retention preference defaults.
+// ---
+
 #include "chrome/browser/multistep_filter/core/multistep_filter_service_factory.h"
 
 #include "base/feature_list.h"

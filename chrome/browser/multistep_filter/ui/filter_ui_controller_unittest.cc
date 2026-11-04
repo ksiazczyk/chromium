@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilterUiController unit tests
+// summary: Unit tests covering suggestion display, view state transitions, user decisions, navigation, and metrics for the filter UI controller.
+// ---
+
 #include "chrome/browser/multistep_filter/ui/filter_ui_controller.h"
 
 #include <optional>

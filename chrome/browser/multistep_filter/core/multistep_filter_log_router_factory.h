@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep filter log router factory header
+// summary: Declares the profile-keyed service factory that provides a MultistepFilterLogRouter per profile, returning null for incognito profiles and when the feature is disabled.
+// ---
+
 #ifndef CHROME_BROWSER_MULTISTEP_FILTER_CORE_MULTISTEP_FILTER_LOG_ROUTER_FACTORY_H_
 #define CHROME_BROWSER_MULTISTEP_FILTER_CORE_MULTISTEP_FILTER_LOG_ROUTER_FACTORY_H_
 

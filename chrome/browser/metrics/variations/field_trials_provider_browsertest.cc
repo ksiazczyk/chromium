@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field trials provider browser test
+// summary: Browser test that builds variations seeds with limited and low entropy layers to verify field trial provider behavior and study randomization.
+// ---
+
 #include <set>
 #include <string>
 #include <string_view>

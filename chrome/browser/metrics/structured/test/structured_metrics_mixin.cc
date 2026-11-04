@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Structured metrics mixin implementation
+// summary: Implements a browser test mixin that sets up structured metrics recording with a test key data provider, event storage, and helpers to find recorded events.
+// ---
+
 #include "chrome/browser/metrics/structured/test/structured_metrics_mixin.h"
 
 #include <memory>

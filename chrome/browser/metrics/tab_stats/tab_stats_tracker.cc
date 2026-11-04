@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab stats tracker implementation
+// summary: Implements the tab stats tracker that observes browser tabs and windows and reports usage metrics such as heartbeat and daily histograms.
+// ---
+
 #include "chrome/browser/metrics/tab_stats/tab_stats_tracker.h"
 
 #include <algorithm>

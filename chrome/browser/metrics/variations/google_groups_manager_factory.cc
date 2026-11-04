@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google groups manager factory implementation
+// summary: Implements a profile keyed service factory that creates a GoogleGroupsManager per regular profile, wiring local state and profile prefs.
+// ---
+
 #include "chrome/browser/metrics/variations/google_groups_manager_factory.h"
 
 #include "base/no_destructor.h"

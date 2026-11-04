@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Multistep filter core DEPS include rules
+summary: Allows includes of components/multistep_filter/core, components/keyed_service/core and components/unified_consent within this directory.

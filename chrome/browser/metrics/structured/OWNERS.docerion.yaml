@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for structured metrics
+summary: Points to the shared OWNERS file in components/metrics/structured to determine reviewers for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Force field trials browser test
+// summary: Browser test spanning multiple launches that verifies the --force-fieldtrials flag affects only forced trials while OneTimeRandomization trials persist state between sessions.
+// ---
+
 #include <string>
 
 #include "base/base_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome structured metrics delegate implementation
+// summary: Implements the singleton delegate that records structured metrics on Chrome, wiring platform-specific delegates and ChromeOS event processors such as CrOSEvents and OOBE watchers.
+// ---
+
 #include "chrome/browser/metrics/structured/chrome_structured_metrics_delegate.h"
 
 #include <stdint.h>

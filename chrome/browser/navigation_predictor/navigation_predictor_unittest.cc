@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation predictor unit tests
+// summary: Unit tests for NavigationPredictor that verify anchor element metrics aggregation, UKM link click recording, and field trial parameter behavior.
+// ---
+
 #include "chrome/browser/navigation_predictor/navigation_predictor.h"
 
 #include <map>

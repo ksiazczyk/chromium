@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome filter navigation observer header
+// summary: Declares the ChromeFilterNavigationObserver tab feature that observes navigations to trigger multistep filter logic, owned by TabFeatures with one instance per tab.
+// ---
+
 #ifndef CHROME_BROWSER_MULTISTEP_FILTER_CHROME_FILTER_NAVIGATION_OBSERVER_H_
 #define CHROME_BROWSER_MULTISTEP_FILTER_CHROME_FILTER_NAVIGATION_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage manager unit tests
+// summary: Unit tests covering event buffering, flushing to disk, quota enforcement and event retrieval for the structured metrics storage manager.
+// ---
+
 #include "components/metrics/structured/storage_manager.h"
 
 #include <algorithm>

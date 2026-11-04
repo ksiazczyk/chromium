@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics key events observer implementation
+// summary: Records login, logout and system suspend events as structured metrics by observing session state, session termination and power manager.
+// ---
+
 #include "chrome/browser/metrics/structured/structured_metrics_key_events_observer.h"
 
 #include <utility>

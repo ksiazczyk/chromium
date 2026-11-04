@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome event storage implementation
+// summary: Implements ChromeEventStorage, the in-memory storage for structured metrics events on Chrome, supporting adding, taking, counting, purging, and copying events.
+// ---
+
 #include "chrome/browser/metrics/structured/chrome_event_storage.h"
 #include "components/metrics/structured/histogram_util.h"
 

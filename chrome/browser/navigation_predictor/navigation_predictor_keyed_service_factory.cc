@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation predictor keyed service factory implementation
+// summary: Implements the profile-keyed service factory that builds and provides NavigationPredictorKeyedService instances per browser context.
+// ---
+
 #include "chrome/browser/navigation_predictor/navigation_predictor_keyed_service_factory.h"
 
 #include "chrome/browser/navigation_predictor/navigation_predictor_keyed_service.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab stats tracker browser tests
+// summary: Browser tests verifying tab stats tracking behavior, including tab counting and histogram reporting, on desktop and Android.
+// ---
+
 #include "chrome/browser/metrics/tab_stats/tab_stats_tracker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome variations service client unit tests
+// summary: Unit tests verifying GetAllProfilesKeys returns the profile keys stored in ProfileAttributesStorage preferences.
+// ---
+
 #include "chrome/browser/metrics/variations/chrome_variations_service_client.h"
 
 #include "chrome/browser/profiles/profile_attributes_storage.h"

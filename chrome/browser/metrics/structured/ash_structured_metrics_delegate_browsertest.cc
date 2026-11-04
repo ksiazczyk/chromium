@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash structured metrics delegate browser test
+// summary: Browser test verifying that a valid structured event sent through the Ash delegate is recorded with the expected project and metric hashes.
+// ---
+
 #include "chrome/browser/metrics/structured/ash_structured_metrics_delegate.h"
 
 #include <memory>

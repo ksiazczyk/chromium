@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics storage manager declaration
+// summary: Declares StorageManagerImpl and its configuration, providing quota-limited in-memory and disk event storage for structured metrics.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_STRUCTURED_STORAGE_MANAGER_IMPL_H_
 #define CHROME_BROWSER_METRICS_STRUCTURED_STORAGE_MANAGER_IMPL_H_
 

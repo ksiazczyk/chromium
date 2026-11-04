@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anchor element preloader header
+// summary: Declares the AnchorElementPreloader class, its preconnect delegate interface, and the persisted preloading failure reason enum.
+// ---
+
 #ifndef CHROME_BROWSER_NAVIGATION_PREDICTOR_ANCHOR_ELEMENT_PRELOADER_H_
 #define CHROME_BROWSER_NAVIGATION_PREDICTOR_ANCHOR_ELEMENT_PRELOADER_H_
 

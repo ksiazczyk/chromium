@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the multistep filter Chrome browser layer
+summary: Defines GN source sets for the multistep filter Chrome browser code, its test support, unit tests, and browser tests, with targets excluded on Android.

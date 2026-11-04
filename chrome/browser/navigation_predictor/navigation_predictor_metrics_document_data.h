@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation predictor metrics document data
+// summary: Declares per-document data structures holding anchor counts, link clicks, and user interaction timings used for UKM metrics reporting.
+// ---
+
 #ifndef CHROME_BROWSER_NAVIGATION_PREDICTOR_NAVIGATION_PREDICTOR_METRICS_DOCUMENT_DATA_H_
 #define CHROME_BROWSER_NAVIGATION_PREDICTOR_NAVIGATION_PREDICTOR_METRICS_DOCUMENT_DATA_H_
 

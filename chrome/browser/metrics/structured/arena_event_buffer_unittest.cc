@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Arena event buffer unit tests
+// summary: Unit tests for ArenaEventBuffer covering event addition, full-buffer behavior, purging, and path updates.
+// ---
+
 #include "chrome/browser/metrics/structured/arena_event_buffer.h"
 
 #include <memory>

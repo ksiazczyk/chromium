@@ -6,6 +6,12 @@
 // should be kept in sync with those in ios/chrome/browser/variations/
 // variations_safe_mode_egtest.mm.
 
+// ---docerion
+// type: test
+// title: Variations safe mode end-to-end browser tests
+// summary: End-to-end browser tests that launch Chrome to exercise field trial setup and safe mode fallback after crashes or fetch failures.
+// ---
+
 #include <ranges>
 #include <string>
 #include <string_view>

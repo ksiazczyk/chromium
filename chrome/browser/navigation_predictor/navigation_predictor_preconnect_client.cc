@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation predictor preconnect client implementation
+// summary: Implements a WebContentsObserver that triggers preconnects to predicted origins on navigation, load, and visibility changes.
+// ---
+
 #include "chrome/browser/navigation_predictor/navigation_predictor_preconnect_client.h"
 
 #include <memory>

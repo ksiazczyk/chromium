@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab stats data store unit tests
+// summary: Unit tests verifying that the data store restores maximum tab and window stats and discard/reload counters from the pref service.
+// ---
+
 #include "chrome/browser/metrics/tab_stats/tab_stats_data_store.h"
 
 #include <memory>

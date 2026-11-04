@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash metadata processor header
+// summary: Declares MetadataProcessorAsh, which caches and attaches primary user and device segment metadata to the structured metrics payload.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_STRUCTURED_METADATA_PROCESSOR_ASH_H_
 #define CHROME_BROWSER_METRICS_STRUCTURED_METADATA_PROCESSOR_ASH_H_
 

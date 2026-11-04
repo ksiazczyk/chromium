@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab stats data store implementation
+// summary: Implements TabStatsDataStore, which tracks tab and window counts plus discard and reload counters and persists them through the pref service.
+// ---
+
 #include "chrome/browser/metrics/tab_stats/tab_stats_data_store.h"
 
 #include <utility>

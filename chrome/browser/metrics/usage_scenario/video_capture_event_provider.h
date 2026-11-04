@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureEventProvider class header
+// summary: Declares VideoCaptureEventProvider, a MediaStreamCaptureIndicator observer that reports video capture start and stop events to the UsageScenarioDataStoreImpl for usage scenario metrics.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_USAGE_SCENARIO_VIDEO_CAPTURE_EVENT_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_USAGE_SCENARIO_VIDEO_CAPTURE_EVENT_PROVIDER_H_
 

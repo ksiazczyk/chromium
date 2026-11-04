@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture event provider implementation
+// summary: Observes media capture state changes and notifies the usage scenario data store when video capturing starts or ends.
+// ---
+
 #include "chrome/browser/metrics/usage_scenario/video_capture_event_provider.h"
 
 #include "chrome/browser/media/webrtc/media_capture_devices_dispatcher.h"

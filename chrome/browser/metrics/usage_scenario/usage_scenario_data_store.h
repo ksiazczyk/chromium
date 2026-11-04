@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usage scenario data store interface
+// summary: Defines the UsageScenarioDataStore interface and IntervalData struct holding usage metrics collected between calls to ResetIntervalData.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_USAGE_SCENARIO_USAGE_SCENARIO_DATA_STORE_H_
 #define CHROME_BROWSER_METRICS_USAGE_SCENARIO_USAGE_SCENARIO_DATA_STORE_H_
 

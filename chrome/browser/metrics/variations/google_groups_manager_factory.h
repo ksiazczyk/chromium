@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google groups manager factory header
+// summary: Declares GoogleGroupsManagerFactory, a ProfileKeyedServiceFactory providing GoogleGroupsManager instances for browser contexts.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_VARIATIONS_GOOGLE_GROUPS_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_METRICS_VARIATIONS_GOOGLE_GROUPS_MANAGER_FACTORY_H_
 

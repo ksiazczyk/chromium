@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash key data provider implementation
+// summary: Implements the structured metrics key provider for Ash Chrome, managing per-device keys from a static path and per-profile keys in the user's cryptohome.
+// ---
+
 #include "chrome/browser/metrics/structured/key_data_provider_ash.h"
 
 #include "chrome/browser/profiles/profile_manager.h"

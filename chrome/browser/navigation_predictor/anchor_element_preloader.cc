@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anchor element preloader implementation
+// summary: Implements preconnecting to anchor element targets on pointer-down interactions and records preloading attempts, eligibility, and UKM metrics.
+// ---
+
 #include "chrome/browser/navigation_predictor/anchor_element_preloader.h"
 
 #include "base/functional/callback.h"

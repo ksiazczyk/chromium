@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab usage scenario tracker implementation
+// summary: Relays tab, navigation, media and display events from TabStatsTracker to the usage scenario data store and tracks extensions that ran content scripts.
+// ---
+
 #include "chrome/browser/metrics/usage_scenario/tab_usage_scenario_tracker.h"
 
 #include "chrome/browser/metrics/usage_scenario/usage_scenario_data_store.h"

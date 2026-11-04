@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilterUiController test API
+// summary: Exposes private state and callbacks of FilterUiController so unit tests can simulate page actions, menu commands, and favicon services.
+// ---
+
 #ifndef CHROME_BROWSER_MULTISTEP_FILTER_UI_FILTER_UI_CONTROLLER_TEST_API_H_
 #define CHROME_BROWSER_MULTISTEP_FILTER_UI_FILTER_UI_CONTROLLER_TEST_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation predictor browser tests
+// summary: Browser tests covering anchor element metric reporting, preloading behavior, and UKM output of the navigation predictor.
+// ---
+
 #include "chrome/browser/navigation_predictor/navigation_predictor.h"
 
 #include <memory>

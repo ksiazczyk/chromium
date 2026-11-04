@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Usage scenario classification unit tests
+// summary: Unit tests verifying that interval data is classified into the correct usage scenario, such as zero window, audio or video capture.
+// ---
+
 #include "chrome/browser/metrics/usage_scenario/usage_scenario.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

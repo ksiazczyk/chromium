@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome filter navigation observer test API header
+// summary: Provides a test-only API that exposes the internal ContentFilterNavigationObserver of ChromeFilterNavigationObserver for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_MULTISTEP_FILTER_CHROME_FILTER_NAVIGATION_OBSERVER_TEST_API_H_
 #define CHROME_BROWSER_MULTISTEP_FILTER_CHROME_FILTER_NAVIGATION_OBSERVER_TEST_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome key data provider implementation
+// summary: Implements the structured metrics key provider for Chrome platforms, storing and retrieving device keys in local state preferences.
+// ---
+
 #include "chrome/browser/metrics/structured/key_data_provider_chrome.h"
 
 #include <optional>

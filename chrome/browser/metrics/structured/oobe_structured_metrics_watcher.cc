@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE structured metrics watcher implementation
+// summary: Implements a watcher that manually uploads structured metrics events during OOBE once a configured number of events has been recorded.
+// ---
+
 #include "chrome/browser/metrics/structured/oobe_structured_metrics_watcher.h"
 
 #include "base/check_deref.h"

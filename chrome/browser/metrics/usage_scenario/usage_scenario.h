@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usage scenario enum and parameters header
+// summary: Declares the Scenario enum of Chrome usage patterns and ScenarioParams used to emit histograms and high-CPU trace events.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_USAGE_SCENARIO_USAGE_SCENARIO_H_
 #define CHROME_BROWSER_METRICS_USAGE_SCENARIO_USAGE_SCENARIO_H_
 

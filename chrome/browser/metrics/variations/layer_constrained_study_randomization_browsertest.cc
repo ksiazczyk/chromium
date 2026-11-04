@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer constrained study randomization browser test
+// summary: Browser test verifying that studies constrained to limited or low entropy layers randomize consistently, including Google Web experiment ID assignment.
+// ---
+
 #include <string>
 #include <string_view>
 

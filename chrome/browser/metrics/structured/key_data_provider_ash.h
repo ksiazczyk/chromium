@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash key data provider header
+// summary: Declares KeyDataProviderAsh, which supplies device and profile keys to the structured metrics recorder and observes profile additions.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_STRUCTURED_KEY_DATA_PROVIDER_ASH_H_
 #define CHROME_BROWSER_METRICS_STRUCTURED_KEY_DATA_PROVIDER_ASH_H_
 

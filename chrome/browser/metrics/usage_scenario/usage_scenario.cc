@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usage scenario parameters and classification implementation
+// summary: Defines CPU thresholds, histogram suffixes and trace event titles for each Chrome usage scenario and maps interval data to the matching scenario.
+// ---
+
 #include "chrome/browser/metrics/usage_scenario/usage_scenario.h"
 
 namespace {

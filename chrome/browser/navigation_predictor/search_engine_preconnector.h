@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine preconnector class declaration
+// summary: Declares the SearchEnginePreconnector keyed service, the WebContentVisibilityManager foreground heuristic, and feature parameters controlling preconnect retry and receiver rebinding.
+// ---
+
 #ifndef CHROME_BROWSER_NAVIGATION_PREDICTOR_SEARCH_ENGINE_PRECONNECTOR_H_
 #define CHROME_BROWSER_NAVIGATION_PREDICTOR_SEARCH_ENGINE_PRECONNECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep filter log router factory implementation
+// summary: Implements the profile-keyed factory that returns a MultistepFilterLogRouterImpl for regular profiles when the kMultistepFilter feature is enabled, and null otherwise.
+// ---
+
 #include "chrome/browser/multistep_filter/core/multistep_filter_log_router_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arena event buffer implementation
+// summary: Implements an event buffer that stores structured metrics events in an arena-based persistent proto, estimating event sizes and flushing content to disk.
+// ---
+
 #include "chrome/browser/metrics/structured/arena_event_buffer.h"
 
 #include <iterator>

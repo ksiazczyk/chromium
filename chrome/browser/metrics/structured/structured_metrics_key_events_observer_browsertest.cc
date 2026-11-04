@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Structured metrics key events observer browser test
+// summary: Browser test verifying that login and logout events are recorded as structured metrics during user sessions.
+// ---
+
 #include "chrome/browser/ash/login/login_manager_test.h"
 #include "chrome/browser/ash/login/test/login_manager_mixin.h"
 #include "chrome/browser/metrics/structured/test/structured_metrics_mixin.h"

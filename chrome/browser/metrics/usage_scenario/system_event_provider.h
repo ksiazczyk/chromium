@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System event provider header
+// summary: Declares SystemEventProvider, a power suspend observer that forwards system sleep events to the usage scenario data store.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_USAGE_SCENARIO_SYSTEM_EVENT_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_USAGE_SCENARIO_SYSTEM_EVENT_PROVIDER_H_
 

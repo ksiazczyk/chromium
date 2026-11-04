@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome responsiveness calculator delegate implementation
+// summary: Emits responsiveness histograms suffixed with the current usage scenario and extension content script counts, including ChromeOS low-memory handling.
+// ---
+
 #include "chrome/browser/metrics/usage_scenario/chrome_responsiveness_calculator_delegate.h"
 
 #include "base/byte_size.h"

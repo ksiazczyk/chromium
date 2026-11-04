@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation predictor metrics document data implementation
+// summary: Implements per-document storage of anchor and link interaction metrics and records them to UKM on document destruction.
+// ---
+
 #include "navigation_predictor_metrics_document_data.h"
 
 #include <algorithm>

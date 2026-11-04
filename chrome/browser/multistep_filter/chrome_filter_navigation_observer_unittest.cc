@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome filter navigation observer unit tests
+// summary: Unit tests verifying lifecycle management of the internal navigation observer and the real UI delegate behavior using mocked services, controllers, and navigation simulators.
+// ---
+
 #include "chrome/browser/multistep_filter/chrome_filter_navigation_observer.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrOS events processor implementation
+// summary: Implements CrOSEventsProcessor, which reads the ChromeOS reset counter file and attaches event sequence metadata to sequence-type structured metrics events.
+// ---
+
 #include "chrome/browser/metrics/structured/cros_events_processor.h"
 
 #include "base/files/file_util.h"

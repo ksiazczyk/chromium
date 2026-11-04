@@ -5,6 +5,12 @@
 // TODO(crbug.com/40751070): More tests should be added to cover all possible
 // scenarios. E.g. a test closing the visible tab in a window should be added.
 
+// ---docerion
+// type: test
+// title: Tab usage scenario tracker browser tests
+// summary: Browser tests covering usage scenario tracking for tab visibility, navigation, fullscreen video, tab discarding and display changes.
+// ---
+
 #include "chrome/browser/metrics/usage_scenario/tab_usage_scenario_tracker.h"
 
 #include <memory>

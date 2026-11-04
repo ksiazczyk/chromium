@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation predictor implementation
+// summary: Gathers anchor element metrics from the renderer and browser processes to predict likely link clicks and record document-level UKM metrics.
+// ---
+
 #include "chrome/browser/navigation_predictor/navigation_predictor.h"
 
 #include <algorithm>

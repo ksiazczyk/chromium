@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation predictor feature flags
+// summary: Declares Chrome feature flags and parameters controlling navigation predictor preconnect holdback and DSE prewarmer lifetime behavior.
+// ---
+
 #ifndef CHROME_BROWSER_NAVIGATION_PREDICTOR_NAVIGATION_PREDICTOR_FEATURES_H_
 #define CHROME_BROWSER_NAVIGATION_PREDICTOR_NAVIGATION_PREDICTOR_FEATURES_H_
 

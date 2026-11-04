@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usage scenario tracker header
+// summary: Declares UsageScenarioTracker, which registers as an observer of browser components to maintain a UsageScenarioDataStore.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_USAGE_SCENARIO_USAGE_SCENARIO_TRACKER_H_
 #define CHROME_BROWSER_METRICS_USAGE_SCENARIO_USAGE_SCENARIO_TRACKER_H_
 

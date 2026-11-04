@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the multistep filter directory
+summary: Delegates code ownership to the OWNERS file of components/multistep_filter.

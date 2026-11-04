@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrOSEvents event processor header
+// summary: Declares a post-processor that attaches reset counter metadata to sequenceable ChromeOS structured metrics events and registers local state prefs.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_STRUCTURED_CROS_EVENTS_PROCESSOR_H_
 #define CHROME_BROWSER_METRICS_STRUCTURED_CROS_EVENTS_PROCESSOR_H_
 

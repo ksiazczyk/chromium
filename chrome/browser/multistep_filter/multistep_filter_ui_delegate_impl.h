@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep filter UI delegate header
+// summary: Declares MultistepFilterUiDelegateImpl, the Chrome-side UI delegate that routes filter suggestions to the tab's FilterUiController.
+// ---
+
 #ifndef CHROME_BROWSER_MULTISTEP_FILTER_MULTISTEP_FILTER_UI_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_MULTISTEP_FILTER_MULTISTEP_FILTER_UI_DELEGATE_IMPL_H_
 

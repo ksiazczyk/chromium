@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome event storage unit tests
+// summary: Unit tests for ChromeEventStorage covering storing events, clearing events after reports, and purging stored events.
+// ---
+
 #include "chrome/browser/metrics/structured/chrome_event_storage.h"
 
 #include <cstdint>

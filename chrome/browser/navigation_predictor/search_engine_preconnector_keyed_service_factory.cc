@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine preconnector keyed service factory
+// summary: Implements the profile-keyed service factory that builds the SearchEnginePreconnector and starts preconnecting with a startup delay.
+// ---
+
 #include "chrome/browser/navigation_predictor/search_engine_preconnector_keyed_service_factory.h"
 
 #include "base/metrics/field_trial_params.h"

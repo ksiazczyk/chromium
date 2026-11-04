@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Anchor element preloader browser tests
+// summary: Browser tests verifying preconnect behavior triggered by pointer interactions with anchor elements, including UKM and histogram expectations.
+// ---
+
 #include "chrome/browser/navigation_predictor/anchor_element_preloader.h"
 
 #include <optional>
