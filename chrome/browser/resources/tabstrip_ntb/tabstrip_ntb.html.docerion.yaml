@@ -1,0 +1,4 @@
+# Docerion header of tabstrip_ntb.html.
+type: source
+title: Tabstrip new tab button HTML host page
+summary: HTML host page for the tabstrip new tab button WebUI that loads the app module and renders the tabstrip-ntb-app element with theme colors and RTL-aware direction settings.

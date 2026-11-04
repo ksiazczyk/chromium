@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User Education Internals Card Template
+// summary: Lit HTML template displaying a promo's title, details, instructions, stored data, and action buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {UserEducationInternalsCardElement} from './user_education_internals_card.ts';

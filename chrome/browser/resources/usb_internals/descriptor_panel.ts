@@ -7,6 +7,12 @@
  *     chrome://usb-internals/.
  */
 
+// ---docerion
+// type: source
+// title: USB descriptor panel UI logic
+// summary: Implements the descriptor panel that fetches and renders USB device, configuration, string, BOS, WebUSB, and Microsoft OS 2.0 descriptors via control transfers.
+// ---
+
 import 'chrome://resources/cr_elements/cr_tree/cr_tree.js';
 import 'chrome://resources/cr_elements/cr_tree/cr_tree_item.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the USB internals WebUI
+summary: Defines the GN build target, static and TypeScript source lists, and Mojo bindings dependencies for building the USB internals WebUI.

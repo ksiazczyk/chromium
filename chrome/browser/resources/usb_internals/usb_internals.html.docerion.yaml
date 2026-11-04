@@ -1,0 +1,4 @@
+# Docerion header of usb_internals.html.
+type: source
+title: USB Internals entry page
+summary: Entry page for the USB internals WebUI that loads the app module and default text styles and hosts the app element.

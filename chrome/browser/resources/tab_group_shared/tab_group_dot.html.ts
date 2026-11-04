@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the tab group dot
+// summary: Returns the Lit template rendering the SVG circle that draws the tab group dot with a dynamic radius and stroke width.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TabGroupDotElement} from './tab_group_dot.js';

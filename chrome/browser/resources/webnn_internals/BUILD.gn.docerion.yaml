@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebNN internals WebUI build configuration (BUILD.gn)
+summary: GN build rules that assemble the WebNN internals WebUI from its TypeScript, CSS, HTML and Mojo-generated sources.

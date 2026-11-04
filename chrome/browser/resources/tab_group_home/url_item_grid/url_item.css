@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: URL item element styles
+summary: CSS for the url-item element, styling the header with favicon, title and close button plus the thumbnail container.
+*/
+
 :host {
   background-color: var(--url-item-container-color,
       var(--cr-fallback-color-primary-container));

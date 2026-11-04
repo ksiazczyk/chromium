@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: WebNN internals app styles
+summary: Lit styles for the app shell covering the heading, tab bar layout and dark mode colors.
+*/
+
 h1 {
   margin-bottom: 20px;
   margin-top: 0;

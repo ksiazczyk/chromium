@@ -1,0 +1,4 @@
+# Docerion header of split_new_tab_page.html.
+type: source
+title: Split new tab page HTML shell
+summary: HTML entry point for the split new tab page WebUI that hosts the app element and loads its module script.

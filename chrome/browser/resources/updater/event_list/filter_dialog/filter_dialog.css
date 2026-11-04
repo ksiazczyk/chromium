@@ -8,6 +8,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Filter dialog base styles
+summary: Defines the base filter dialog appearance, including border color variables with dark mode support, dialog box styling and a transparent backdrop.
+*/
+
 :host {
   display: block;
   /* Neutral, subtle border for filter bar, input fields, and buttons */

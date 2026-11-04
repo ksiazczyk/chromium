@@ -1,0 +1,4 @@
+# Docerion header of web_app_internals.html.
+type: source
+title: Web App Internals page shell
+summary: Minimal HTML host page that loads the app module and mounts the web-app-internals-app custom element.

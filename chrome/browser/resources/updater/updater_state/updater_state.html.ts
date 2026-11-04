@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater state HTML template
+// summary: Lit HTML template that renders error, system, user and enterprise companion updater state cards or a no-updater message.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {UpdaterStateElement} from './updater_state.js';

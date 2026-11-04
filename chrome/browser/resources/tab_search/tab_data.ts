@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab search data model
+// summary: Defines data classes for open tabs, recently closed tabs, groups and split views, plus token helpers and aria label logic.
+// ---
+
 import type {Range} from '/tab_group_shared/search.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import type {Token} from 'chrome://resources/mojo/mojo/public/mojom/base/token.mojom-webui.js';

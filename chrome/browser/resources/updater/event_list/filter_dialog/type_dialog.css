@@ -10,6 +10,12 @@
  * #include=filter-dialog-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Type dialog styles
+summary: Lit CSS styles for the type filter dialog element, styling filter menu buttons and including shared filter dialog styles.
+*/
+
 :host {
   display: block;
 }

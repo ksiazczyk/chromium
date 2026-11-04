@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group color to CSS variable helper
+// summary: Maps tab group color enum values to their CSS color variable names for both the original and refreshed palettes.
+// ---
+
 import './tab_group_shared_vars.css.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

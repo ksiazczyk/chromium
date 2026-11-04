@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the unexportable keys internals page
+summary: Lit styles defining the table layout, sorting indicators and wrapped key display for the internals page.
+*/
+
 :host {
   display: block;
   font-size: 13px;

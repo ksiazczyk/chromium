@@ -1,0 +1,4 @@
+# Docerion header of watermark.html.
+type: source
+title: Watermark Customization page shell
+summary: HTML entry point for the trusted WebUI that hosts the watermark-app element and loads the app.js module.

@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: User Education Debug Page Entry Point
+summary: HTML shell that loads the user education internals module and hosts the debug page custom element.

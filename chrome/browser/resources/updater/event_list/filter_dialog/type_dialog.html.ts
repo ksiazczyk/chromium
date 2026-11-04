@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type dialog HTML template
+// summary: Lit HTML template for the type dialog that renders a button for each filter menu item with click and keyboard navigation handlers.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TypeDialogElement} from './type_dialog.js';

@@ -12,6 +12,12 @@
  * #include=cr-page-host-style-lit cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: WebNN info page styles
+summary: Styles for the WebNN internals info page, covering the execution provider card grid and the Windows-only ONNX runtime section.
+*/
+
 .grid-container-available-eps {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));

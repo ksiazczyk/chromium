@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for tab_group_shared
+summary: GN build configuration that compiles the tab_group_shared WebUI TypeScript and CSS sources with Lit, cr_elements and Mojo dependencies.

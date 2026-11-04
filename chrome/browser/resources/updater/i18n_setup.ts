@@ -8,6 +8,12 @@
  * directly.
  */
 
+// ---docerion
+// type: source
+// title: loadTimeData setup for updater strings
+// summary: Re-exports loadTimeData while guaranteeing the updater's project-specific strings are imported.
+// ---
+
 import '/strings.m.js';
 
 export {loadTimeData} from 'chrome://resources/js/load_time_data.js';

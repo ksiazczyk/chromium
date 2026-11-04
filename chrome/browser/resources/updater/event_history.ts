@@ -12,6 +12,12 @@
  * See //docs/updater/history_log.md for details on the serialization format.
  */
 
+// ---docerion
+// type: source
+// title: Updater event history types and parsing
+// summary: Defines types and parsing helpers that organize updater JSON event history logs into a structured form.
+// ---
+
 import {loadTimeData} from './i18n_setup.js';
 
 // ---------------------------------------------------------------------------

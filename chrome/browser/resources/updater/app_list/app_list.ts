@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list custom element
+// summary: Defines the app-list Lit element for the updater WebUI, holding app and error state and choosing between the no-apps message and the apps table.
+// ---
+
 import '../scope_icon.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 

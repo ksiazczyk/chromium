@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebNN internals OWNERS file
+summary: Delegates review ownership to the OWNERS file of the WebNN service directory.

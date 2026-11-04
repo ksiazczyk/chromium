@@ -6,6 +6,12 @@
  * Javascript for usb_internals.html, served from chrome://usb-internals/.
  */
 
+// ---docerion
+// type: source
+// title: USB internals app element
+// summary: Custom element that boots the USB internals page, binds the USB device manager Mojo interfaces, and manages adding and removing test devices.
+// ---
+
 import 'chrome://resources/cr_elements/cr_tab_box/cr_tab_box.js';
 import 'chrome://resources/cr_elements/cr_tree/cr_tree.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory Metadata for User Education Internals
+summary: Points to the shared user education component metadata via a mixin for Chromium directory tracking.

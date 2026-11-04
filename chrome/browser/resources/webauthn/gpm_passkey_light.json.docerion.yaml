@@ -1,0 +1,4 @@
+# Docerion header of gpm_passkey_light.json.
+type: asset
+title: GPM passkey light animation
+summary: Light-theme Lottie animation of a Google Password Manager passkey illustration used in the WebAuthn UI.

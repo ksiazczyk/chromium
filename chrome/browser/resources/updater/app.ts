@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater app element implementation
+// summary: Implements the updater-app Lit element that fetches updater state and loads history files to display apps, policies, and events.
+// ---
+
 import './app_list/app_list.js';
 import './enterprise_policy_table/enterprise_policy_table.js';
 import './event_list/event_list.js';

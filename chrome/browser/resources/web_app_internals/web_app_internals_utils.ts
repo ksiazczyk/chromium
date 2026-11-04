@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Internals debug data utilities
+// summary: Defines DebugData types plus helpers to parse, order, filter, and build index entries from installed web app debug JSON.
+// ---
+
 /**
  * Represents the top-level debug info JSON output emitted by
  * BuildDebugInfo() in web_app_internals_handler.cc.

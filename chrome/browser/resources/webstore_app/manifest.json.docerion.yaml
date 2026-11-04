@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Chrome Web Store app manifest
+summary: Manifest for the built-in Chrome Web Store app, defining its key, version, icons, launch URL, and webstore and system permissions.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Web apps resources OWNERS
+summary: Redirects ownership of this directory to the OWNERS file of chrome/browser/web_applications.

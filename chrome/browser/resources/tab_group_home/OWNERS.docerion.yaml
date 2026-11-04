@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer for tab group home resources
+summary: Redirects code ownership to the OWNERS file of chrome/browser/ui/tabs/tab_group_home.

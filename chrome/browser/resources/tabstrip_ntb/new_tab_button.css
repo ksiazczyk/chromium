@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the new tab button
+summary: Lit CSS for the new-tab-button element, setting the cr-icon-button fill color from the on-surface color token and removing its margin.
+*/
+
 cr-icon-button {
   --cr-icon-button-fill-color: var(--color-sys-on-surface);
   margin: 0;

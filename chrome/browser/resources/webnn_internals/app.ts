@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN internals app element
+// summary: Lit element acting as the app shell that switches between the contexts viewer, info page and graph dump tabs.
+// ---
+
 import './contexts_viewer.js';
 // <if expr="webnn_enable_graph_dump">
 import './graph_dump.js';

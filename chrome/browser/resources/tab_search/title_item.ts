@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TitleItem class
+// summary: Defines a TitleItem class representing a section title in the tab search UI, carrying title text plus expandable and expanded state flags.
+// ---
+
 export class TitleItem {
   title: string;
   expandable: boolean;

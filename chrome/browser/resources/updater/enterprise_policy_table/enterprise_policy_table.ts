@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise policy table element
+// summary: Lit element that splits policies into updater and per-app row data, detects default-only values and flags conflicting policy sources.
+// ---
+
 import './enterprise_policy_table_section.js';
 import '//resources/cr_elements/cr_button/cr_button.js';
 

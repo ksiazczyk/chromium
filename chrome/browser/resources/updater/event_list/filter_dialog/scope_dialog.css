@@ -10,6 +10,12 @@
  * #include=filter-dialog-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Scope dialog styles
+summary: Lit CSS styles for the scope filter dialog element, importing shared filter dialog styles and setting the host to display as a block.
+*/
+
 :host {
   display: block;
 }

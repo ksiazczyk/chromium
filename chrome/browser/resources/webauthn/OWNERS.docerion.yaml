@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebAuthn resources OWNERS
+summary: Delegates code review ownership for the webauthn resources directory to the OWNERS file of device/fido.

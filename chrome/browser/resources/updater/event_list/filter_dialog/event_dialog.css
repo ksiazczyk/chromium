@@ -10,6 +10,12 @@
  * #include=filter-dialog-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Event filter dialog styles
+summary: Styles the section headers of the event type filter dialog, importing shared filter dialog styles.
+*/
+
 :host {
   display: block;
 }

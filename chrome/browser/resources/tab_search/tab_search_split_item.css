@@ -11,6 +11,12 @@
  * #include=mwb-element-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tab search split item styles
+summary: Styles for the tab search split item element, including split favicon layouts, media alert icons, domain text and close button styling.
+*/
+
 :host(:focus) {
   outline: none;
 }

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates review ownership of the webstore_app directory to the owners list of the extensions directory.

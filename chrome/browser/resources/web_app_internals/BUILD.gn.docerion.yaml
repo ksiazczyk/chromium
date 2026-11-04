@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Web App Internals WebUI build configuration
+summary: GN build file that wires the Web App Internals WebUI target, listing its HTML, CSS, TypeScript, and Mojo dependencies.

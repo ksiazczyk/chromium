@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter dialog HTML template
+// summary: Lit HTML template for the filter-dialog element that renders a closable dialog wrapping a slot for content.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {FilterDialogElement} from './filter_dialog.js';

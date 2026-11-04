@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL item grid custom element
+// summary: Lit custom element that loads items via a delegate and updates the grid on item added, removed and moved events.
+// ---
+
 import 'chrome://resources/cr_elements/cr_grid/cr_grid.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tab Group Home app styles
+summary: Lit style stylesheet for the tab-group-home-app element, applying border-box sizing to div elements.
+*/
+
 div {
   box-sizing: border-box;
 }

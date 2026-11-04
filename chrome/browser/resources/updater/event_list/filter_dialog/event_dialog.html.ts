@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event filter dialog HTML template
+// summary: Lit HTML template for the event type filter dialog, rendering common and other event type checkboxes with localized labels and a filter dialog footer.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {localizeEventType} from '../../event_history.js';

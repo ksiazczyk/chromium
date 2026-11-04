@@ -9,6 +9,12 @@
  * #include=mwb-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Split view app styles
+summary: Lit CSS for the split new tab page app element, styling the header, close button, title, body, and scrollable tab list.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

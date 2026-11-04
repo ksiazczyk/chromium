@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the watermark WebUI
+summary: Defines the WebUI build target, listing the static HTML, TypeScript and CSS sources plus Lit, cr_elements and Mojo dependencies for the watermark page.

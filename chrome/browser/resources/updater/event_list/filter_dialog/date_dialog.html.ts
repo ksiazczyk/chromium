@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date filter dialog HTML template
+// summary: Lit HTML template for the date filter dialog, rendering labeled start and end datetime-local inputs plus a filter dialog footer.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {DateDialogElement} from './date_dialog.js';

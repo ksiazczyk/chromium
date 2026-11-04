@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date filter dialog element
+// summary: Lit element implementing the date range filter dialog with pending start and end dates and a filter-change event emitted on apply.
+// ---
+
 import './filter_dialog.js';
 import './filter_dialog_footer.js';
 import '//resources/cr_elements/cr_button/cr_button.js';

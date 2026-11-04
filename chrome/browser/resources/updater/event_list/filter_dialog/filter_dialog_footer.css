@@ -8,6 +8,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Filter dialog footer styles
+summary: Lit CSS styles for the filter dialog footer, defining light and dark border color variables and the footer layout for action buttons.
+*/
+
 :host {
   display: block;
   /* Neutral, subtle border for filter bar, input fields, and buttons */

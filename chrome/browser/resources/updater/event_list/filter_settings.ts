@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter settings
+// summary: Defines the FilterSettings type with helpers to create default and empty settings and to apply app, event type, outcome, date, and scope filters to history events.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import type {CommonUpdateOutcome, EventType, HistoryEvent, MergedHistoryEvent, MergedUpdateEvent, Scope, UpdaterProcessMap} from '../event_history.js';

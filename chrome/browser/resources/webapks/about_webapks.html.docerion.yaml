@@ -1,0 +1,4 @@
+# Docerion header of about_webapks.html.
+type: source
+title: About WebAPKs page template
+summary: HTML template for the about:webapks page that provides the container listing installed WebAPKs.

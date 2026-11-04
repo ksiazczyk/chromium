@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: User Education Internals WebUI Build Definition
+summary: GN build configuration that assembles the user education internals WebUI from its TypeScript, CSS, and static files with Mojo and Lit dependencies.

@@ -9,6 +9,12 @@
  * #import=../updater_shared.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Enterprise companion state card styles
+summary: Styles the Chrome Enterprise Companion App state card in the updater UI, defining card, row, label and value layout.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo proxy for the tab search handler
+// summary: Singleton proxy that forwards search text and target strings to the browser's SearchHandler to obtain case- and accent-insensitive match ranges.
+// ---
+
 import type {TokenRange} from './tab_search.mojom-webui.js';
 import {SearchHandler} from './tab_search.mojom-webui.js';
 import type {SearchHandlerRemote} from './tab_search.mojom-webui.js';

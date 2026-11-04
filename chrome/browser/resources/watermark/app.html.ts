@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watermark app HTML template
+// summary: Lit template rendering the watermark customization card with font size input, outline and fill opacity sliders, copy-as-JSON button and watermark text area.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {FONT_SIZE_MAX, FONT_SIZE_MIN} from './app.js';

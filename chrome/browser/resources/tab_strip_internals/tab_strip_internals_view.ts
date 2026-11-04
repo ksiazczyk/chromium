@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View layer of the TabStrip internals debug UI
+// summary: Renders the tree view and JSON panes of the TabStrip internals page and handles user interactions such as selection, expansion and resizing.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import type {ModelNode} from './tab_strip_internals_adapter.js';

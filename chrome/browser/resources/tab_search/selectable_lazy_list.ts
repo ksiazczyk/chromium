@@ -22,6 +22,12 @@
  * NO_SELECTION if nothing is selected.
  */
 
+// ---docerion
+// type: source
+// title: SelectableLazyListElement component
+// summary: Implements a keyboard-navigable lazy list with selection support used by the tab search UI.
+// ---
+
 import 'chrome://resources/cr_elements/cr_lazy_list/cr_lazy_list.js';
 
 import type {CrLazyListElement} from 'chrome://resources/cr_elements/cr_lazy_list/cr_lazy_list.js';

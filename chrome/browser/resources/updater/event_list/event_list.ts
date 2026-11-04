@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event list element
+// summary: Lit element that renders updater history events, mapping them to display entries with dates and policy sets, and handling filtering and expand/collapse state.
+// ---
+
 import './event_list_item.js';
 import './filter_bar.js';
 import '//resources/cr_elements/cr_button/cr_button.js';

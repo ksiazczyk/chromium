@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data model adapter for TabStrip internals
+// summary: Converts Mojo-provided tab strip data into a tree of ModelNode objects used for rendering the hierarchy view.
+// ---
+
 import type {TokenMojoType} from '//resources/mojo/mojo/public/mojom/base/token.mojom-webui.js';
 
 import type {TabGroupVisualData} from './tab_strip_api_data_model.mojom-webui.js';

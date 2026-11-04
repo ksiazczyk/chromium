@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list HTML template
+// summary: Lit HTML template for the app list element that renders an error card, a no-apps message, or a table of registered apps with name, scope, and version.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AppListElement} from './app_list.js';

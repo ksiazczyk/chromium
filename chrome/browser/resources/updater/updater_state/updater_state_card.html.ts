@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater state card HTML template
+// summary: Lit HTML template rendering an updater state card with scope icon, version, last checked and started times, install path and inactive versions.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 

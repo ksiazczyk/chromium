@@ -9,6 +9,12 @@
  * #include=mwb-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the tab-search-app element
+summary: Sets tab search color, typography and scrollbar custom properties plus host styling for the tab-search-app element.
+*/
+
 :host {
   --cr-primary-text-color: var(--color-tab-search-primary-foreground);
   --cr-secondary-text-color: var(--color-tab-search-secondary-foreground);

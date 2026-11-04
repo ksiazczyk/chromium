@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Web App Internals owners file
+summary: Delegates review ownership of this directory to the chrome/browser/web_applications OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab search split item Lit HTML template
+// summary: Lit HTML template for the tab-search-split-item element, showing split view favicons, domains, tab group dot and close button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {SplitTabLayout} from './tab_search.mojom-webui.js';

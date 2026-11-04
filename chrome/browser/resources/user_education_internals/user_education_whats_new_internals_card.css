@@ -10,6 +10,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: What's New internals card styles
+summary: Lit styles for the What's New internals card, laying out card content, data sections and buttons using Chromium shared CSS variables.
+*/
+
 :host {
   border-top: 1px solid var(--cr-separator-color);
   display: flex;

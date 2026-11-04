@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStrip internals page entry point
+// summary: Bootstraps the TabStrip internals debug page by creating the view and viewmodel once the DOM is ready.
+// ---
+
 import {TabStripInternalsView} from './tab_strip_internals_view.js';
 import {TabStripInternalsViewModel} from './tab_strip_internals_viewmodel.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab search group item element
+// summary: Custom element that displays a tab group with highlighted title and localized tab count text.
+// ---
+
 import '/tab_group_shared/tab_group_dot.js';
 
 import {MouseHoverableMixinLit} from 'chrome://resources/cr_elements/mouse_hoverable_mixin_lit.js';

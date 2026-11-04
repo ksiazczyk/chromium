@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the About WebAPKs page
+summary: CSS that defines the layout, labels and WebAPK property styling of the about:webapks page.
+*/
+
 body {
   background-color: white;
   color: black;

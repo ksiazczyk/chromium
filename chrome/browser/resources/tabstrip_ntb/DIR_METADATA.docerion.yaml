@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for team and bug routing
+summary: Maps the directory to the Clank Performance team email and a Buganizer component for issue routing on Android.

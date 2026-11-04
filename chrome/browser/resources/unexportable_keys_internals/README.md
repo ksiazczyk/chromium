@@ -1,3 +1,9 @@
+---
+type: readme
+title: Unexportable Keys Internals
+summary: Describes the debug UI for the unexportable keys implementation, currently supported only on MacOS, and how to enable it with the UnexportableKeyDeletion feature flag.
+---
+
 # Unexportable Keys Internals
 
 This directory contains a Debug UI for unexportable keys implementation on a

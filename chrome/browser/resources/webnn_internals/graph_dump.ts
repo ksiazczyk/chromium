@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN graph dump element
+// summary: Lit element that toggles ML graph recording through the browser proxy and exports recorded graphs as downloadable JSON files.
+// ---
+
 import 'chrome://resources/cr_elements/cr_toggle/cr_toggle.js';
 
 import {assert} from '//resources/js/assert.js';

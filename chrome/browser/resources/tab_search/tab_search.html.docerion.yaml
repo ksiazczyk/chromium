@@ -1,0 +1,4 @@
+# Docerion header of tab_search.html.
+type: source
+title: Tab search HTML shell
+summary: HTML entry point for the Tab Search WebUI that hosts the app element and loads its module script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab search sync browser proxy
+// summary: Browser proxy that queries the user's sign-in state for the tab search UI via the GetSignInState message.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface TabSearchSyncBrowserProxy {

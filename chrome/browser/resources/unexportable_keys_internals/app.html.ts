@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the unexportable keys app
+// summary: Renders the sortable keys table with delete actions and an error toast for the WebUI.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {UnexportableKeysInternalsAppElement} from './app.js';

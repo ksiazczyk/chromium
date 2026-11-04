@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the tab group dot element
+summary: Lit element styles that size the group dot SVG and control fill or stroke via the group dot color variable.
+*/
+
 :host {
   display: block;
 }

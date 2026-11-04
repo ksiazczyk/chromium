@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Watermark folder metadata
+summary: Maps the folder to Buganizer component 979030 and the cbe-cep-eng team email for issue routing.

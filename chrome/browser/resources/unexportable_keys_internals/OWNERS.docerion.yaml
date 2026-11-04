@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for unexportable keys internals
+summary: Delegates code ownership to the unexportable keys component OWNERS file.

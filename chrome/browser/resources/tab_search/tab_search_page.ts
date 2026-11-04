@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab search page element
+// summary: Main element of the tab search UI, implementing search filtering, keyboard navigation, recently closed tabs, metrics and browser API calls.
+// ---
+
 import 'chrome://resources/cr_elements/cr_expand_button/cr_expand_button.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import './selectable_lazy_list.js';

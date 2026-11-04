@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegation for WebAPKs resources
+summary: Delegates ownership of this directory to the OWNERS file in chrome/android/webapk.

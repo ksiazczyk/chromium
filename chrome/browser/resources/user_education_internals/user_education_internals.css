@@ -13,6 +13,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: User Education Internals Page Styles
+summary: Lit CSS defining the debug page layout, section colors, sidebar, and dark mode support.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

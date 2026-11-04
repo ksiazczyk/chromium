@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event list item element
+// summary: Lit element representing a single updater event, computing app labels, dates, duration, summary icons and text, and expanded detail content.
+// ---
+
 import '../enterprise_policy_table/enterprise_policy_table.js';
 import '../icons.html.js';
 import '../scope_icon.js';

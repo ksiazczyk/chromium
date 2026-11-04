@@ -12,6 +12,12 @@
  * #include=mwb-element-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tab search item styles
+summary: Styles individual tab list items, including favicon, media alert icons, action buttons and hover or selection states.
+*/
+
 :host {
    --audio-icon-color: var(--color-tab-search-media-icon);
    --glic-active-icon-color: var(--color-tab-search-media-glic-active-icon);

@@ -9,6 +9,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Enterprise policy table styles
+summary: Lit CSS styles for the enterprise-policy-table element, covering section layout, headings and the no-policies placeholder.
+*/
+
 :host {
   display: block;
   padding: 0 16px;

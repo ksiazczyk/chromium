@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewModel for the TabStrip internals debug UI
+// summary: Holds application state for the TabStrip internals page, loading data through the API proxy and notifying observers of layout, content and notification changes.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import type {Container} from './tab_strip_internals.mojom-webui.js';

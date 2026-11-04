@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: USB internals app interface markup
+summary: Markup for the tabbed USB internals interface, covering test device management, a connected device list, and panels for fetching USB descriptors.
