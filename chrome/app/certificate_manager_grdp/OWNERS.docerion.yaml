@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Certificate manager GRDP OWNERS file
+summary: Points to net/cert/OWNERS as the owner list for the certificate manager string resources directory.

@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_CERTIFICATE_MANAGER_PROVISIONING_STATUS_WAITING_FOR_CA.png.sha1.
+type: data
+title: Waiting for CA image SHA1 hash
+summary: Holds the SHA1 checksum of the PNG image for the waiting for CA provisioning status resource.
