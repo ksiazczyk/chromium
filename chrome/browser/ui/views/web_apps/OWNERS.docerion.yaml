@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners file
+summary: Sets code owners for the directory, inheriting the web_applications OWNERS file with a per-file rule for protocol handler picker files.

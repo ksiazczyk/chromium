@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for signed web bundles
+summary: Grants this directory include access to components/web_package/signed_web_bundles.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Force-installed deprecated apps dialog implementation
+// summary: Implements the dialog informing users that a force-installed deprecated Chrome app is deprecated, with a learn-more link.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/force_installed_deprecated_apps_dialog_view.h"
 
 #include <string>

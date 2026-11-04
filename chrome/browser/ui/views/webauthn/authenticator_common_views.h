@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common WebAuthn dialog view helpers header
+// summary: Declares shared view builder functions for WebAuthn dialogs and a constant for the spacing between GPM dialog title and description.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_COMMON_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_COMMON_VIEWS_H_
 

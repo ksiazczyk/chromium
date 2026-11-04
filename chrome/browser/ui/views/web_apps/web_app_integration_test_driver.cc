@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app integration test driver implementation
+// summary: Implementation of the web app integration test framework driver that performs install, launch and UI check actions for generated browser tests.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_integration_test_driver.h"
 
 #include <algorithm>

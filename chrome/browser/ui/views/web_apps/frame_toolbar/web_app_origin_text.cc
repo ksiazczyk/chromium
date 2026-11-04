@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app origin text view implementation
+// summary: Implements WebAppOriginText, a view that shows the web app's origin in the title bar with fade in and out animations, updating on tab and navigation changes.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/frame_toolbar/web_app_origin_text.h"
 
 #include <string_view>

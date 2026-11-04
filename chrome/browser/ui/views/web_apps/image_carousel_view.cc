@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image carousel view implementation
+// summary: Implements a horizontal scrollable screenshot carousel with loading throbbers and scroll buttons for the web app detailed install dialog.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/image_carousel_view.h"
 
 #include <memory>

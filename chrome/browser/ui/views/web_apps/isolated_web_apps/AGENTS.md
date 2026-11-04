@@ -1,3 +1,13 @@
+---
+type: readme
+title: Isolated Web Apps Views UI agent guidelines
+summary: Directory-level agent documentation covering MVC invariants, canonical docs links, and test commands for the IWA Views UI.
+relations:
+  - references /chrome/browser/ui/views/web_apps/AGENTS.md
+  - references /chrome/browser/ui/views/web_apps/isolated_web_apps/README.md
+  - references /chrome/browser/web_applications/isolated_web_apps/AGENTS.md
+---
+
 # Isolated Web Apps Views UI (`chrome/browser/ui/views/web_apps/isolated_web_apps`)
 
 **Parent:**

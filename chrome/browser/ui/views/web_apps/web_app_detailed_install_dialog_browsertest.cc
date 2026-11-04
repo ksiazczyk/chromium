@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app detailed install dialog browser tests
+// summary: Browser tests for the detailed install dialog covering screenshot carousel states, dialog interactions and related metrics.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

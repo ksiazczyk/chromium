@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeWebUIDialog implementation
+// summary: Implements the reusable dialog delegate that hosts WebUI content in native Views dialogs, handling widget creation, modality, auto-resizing and safe asynchronous teardown.
+// ---
+
 #include "chrome/browser/ui/views/web_dialogs/chrome_webui_dialog.h"
 
 #include <algorithm>

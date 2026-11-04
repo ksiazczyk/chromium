@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app modal dialog delegate implementation
+// summary: Implements the base delegate for modal web app dialogs, closing them on tab changes, navigation, destruction or picture-in-picture occlusion.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_modal_dialog_delegate.h"
 
 #include "chrome/browser/browser_process.h"

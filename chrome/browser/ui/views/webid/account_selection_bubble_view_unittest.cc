@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the account selection bubble view
+// summary: Unit tests covering the FedCM bubble account selection dialog, including pickers, confirm and error dialogs, and dialog titles.
+// ---
+
 #include "chrome/browser/ui/views/webid/account_selection_bubble_view.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey upgrade bubble view implementation
+// summary: Implements the passkey upgrade bubble and its controller, offering a link to the passkey's password manager details page and a passkeys help center article.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/passkey_upgrade_bubble_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app integration browser tests for Windows, Linux and ChromeOS
+// summary: Generated integration browser tests that verify web app install, launch, manifest update and display flows on Windows, Linux and ChromeOS.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/ui/views/web_apps/web_app_integration_test_driver.h"
 #include "content/public/test/browser_test.h"

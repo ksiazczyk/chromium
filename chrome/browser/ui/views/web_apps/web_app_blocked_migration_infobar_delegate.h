@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app blocked migration infobar delegate header
+// summary: Declares the ConfirmInfoBarDelegate subclass for the blocked web app migration infobar, including static create, remove and find helpers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_BLOCKED_MIGRATION_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_BLOCKED_MIGRATION_INFOBAR_DELEGATE_H_
 

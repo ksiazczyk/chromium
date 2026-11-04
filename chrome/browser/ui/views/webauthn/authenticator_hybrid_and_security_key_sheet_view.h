@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hybrid and security key sheet view header
+// summary: Declares AuthenticatorHybridAndSecurityKeySheetView, the WebAuthn request dialog sheet for hybrid and security key authenticators, storing the caBLE QR string.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_HYBRID_AND_SECURITY_KEY_SHEET_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_HYBRID_AND_SECURITY_KEY_SHEET_VIEW_H_
 

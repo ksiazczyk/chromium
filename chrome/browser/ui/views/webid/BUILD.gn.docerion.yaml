@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for desktop FedCM webid views
+summary: GN build configuration defining the webid source set plus test support, unit test and browser test targets for the desktop FedCM UI.

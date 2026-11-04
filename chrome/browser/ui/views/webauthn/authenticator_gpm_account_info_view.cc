@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPM account info view implementation
+// summary: Implements the footer view showing the Google Password Manager account profile picture, display name, and email in passkey PIN dialogs.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_gpm_account_info_view.h"
 
 #include <memory>

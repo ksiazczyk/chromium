@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Authenticator request dialog view test API
+// summary: Implements a test API for accessing and manipulating the WebAuthn request dialog view and its sheets in tests.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_request_dialog_view_test_api.h"
 
 #include <utility>

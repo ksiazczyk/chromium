@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app simple install dialog
+// summary: Implements ShowSimpleInstallDialogForWebApps, which shows the web app install bubble dialog and records related metrics and feature engagement state.
+// ---
+
 #include <memory>
 
 #include "base/auto_reset.h"

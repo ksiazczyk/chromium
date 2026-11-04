@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey not accepted bubble view header
+// summary: Declares PasskeyNotAcceptedBubbleView, a password bubble informing the user that a passkey was deleted because it was not present on an AllAcceptedCredentials report.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_PASSKEY_NOT_ACCEPTED_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_PASSKEY_NOT_ACCEPTED_BUBBLE_VIEW_H_
 

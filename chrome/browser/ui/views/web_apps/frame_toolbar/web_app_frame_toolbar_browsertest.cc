@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app frame toolbar browser tests
+// summary: Large browser test suite covering web app frame toolbar behavior such as buttons, origin text, content settings, and window controls overlay.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <cmath>

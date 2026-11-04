@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handler picker dialog implementation
+// summary: Implements the protocol handler picker dialog, building selection rows and the dialog model for choosing an app to handle a protocol URL.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/protocol_handler_picker_dialog.h"
 
 #include <optional>

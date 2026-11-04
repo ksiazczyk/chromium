@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app dialog test utilities header
+// summary: Declares OpenPopupOfSize, a test helper that opens a popup window with given dimensions and returns its WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_DIALOG_TEST_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_DIALOG_TEST_UTILS_H_
 #include "base/types/expected.h"

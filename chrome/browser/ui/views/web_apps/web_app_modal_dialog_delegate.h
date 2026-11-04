@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app modal dialog delegate header
+// summary: Header for the base class of modal web app dialogs such as install and launch, handling widget tracking, occlusion and focus restoration.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_MODAL_DIALOG_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_MODAL_DIALOG_DELEGATE_H_
 

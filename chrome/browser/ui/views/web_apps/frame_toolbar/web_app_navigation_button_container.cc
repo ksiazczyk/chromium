@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app navigation button container implementation
+// summary: Implements the container holding the back and reload buttons at the left edge of the web app frame toolbar.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/frame_toolbar/web_app_navigation_button_container.h"
 
 #include <memory>

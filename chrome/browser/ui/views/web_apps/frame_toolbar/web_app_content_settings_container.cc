@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app content settings container implementation
+// summary: Implements the titlebar container hosting content setting icons for web app windows, including fade-in and icon color handling.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/frame_toolbar/web_app_content_settings_container.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

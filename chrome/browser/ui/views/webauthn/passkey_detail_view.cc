@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey detail view implementation
+// summary: Implements PasskeyDetailView, a row showing a passkey icon and the credential's user name, with width-limited eliding for website-controlled data.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/passkey_detail_view.h"
 
 #include <cstddef>

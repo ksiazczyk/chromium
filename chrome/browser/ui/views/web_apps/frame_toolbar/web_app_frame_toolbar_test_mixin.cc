@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app frame toolbar test mixin implementation
+// summary: Implements a mixin that installs and launches a minimal-UI web app and captures frame toolbar views for tests.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/frame_toolbar/web_app_frame_toolbar_test_mixin.h"
 
 #include "base/strings/utf_string_conversions.h"

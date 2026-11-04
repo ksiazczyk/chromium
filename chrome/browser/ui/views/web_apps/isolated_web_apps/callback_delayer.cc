@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallbackDelayer implementation
+// summary: Implements a pausable timer that delays callbacks to enforce a minimum progress display duration with 60hz progress updates.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/isolated_web_apps/callback_delayer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sheet view factory implementation
+// summary: Implements the factory that creates the appropriate authenticator sheet view and model for each step of the WebAuthn request dialog, including placeholder and mechanism selector sheets.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/sheet_view_factory.h"
 
 #include <memory>

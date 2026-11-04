@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator request sheet view implementation
+// summary: Implements the base sheet view for steps of the WebAuthn authenticator request dialog, including illustrations, titles, descriptions and an activity indicator.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_request_sheet_view.h"
 
 #include <cstdint>

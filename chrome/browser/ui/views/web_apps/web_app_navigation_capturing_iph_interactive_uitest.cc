@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app navigation capturing IPH interactive UI test
+// summary: Interactive UI tests for the web app navigation capturing in-product help, covering help bubble behavior and link capturing across scopes.
+// ---
+
 #include <string>
 
 #include "base/strings/strcat.h"

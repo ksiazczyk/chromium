@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Create shortcut confirmation view browser test
+// summary: Parametrized dialog browser tests for the create shortcut confirmation view with desktop PWA tab strip features enabled and disabled.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/create_shortcut_confirmation_view.h"
 
 #include "base/strings/utf_string_conversions.h"

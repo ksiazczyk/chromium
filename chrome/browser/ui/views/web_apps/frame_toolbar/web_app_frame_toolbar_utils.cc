@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app frame toolbar utility functions
+// summary: Implements helpers that configure toolbar buttons for web app frames and compute frame margins and horizontal padding.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/frame_toolbar/web_app_frame_toolbar_utils.h"
 
 #include "build/build_config.h"

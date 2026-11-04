@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System app accessible name implementation
+// summary: Implements an invisible, accessibility-only label that exposes the system app name for web app windows.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/frame_toolbar/system_app_accessible_name.h"
 
 #include <utility>

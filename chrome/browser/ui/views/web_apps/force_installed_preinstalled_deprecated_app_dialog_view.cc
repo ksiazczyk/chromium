@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preinstalled deprecated app dialog implementation
+// summary: Implements the dialog for force-installed preinstalled deprecated Chrome apps, with per-app links to their web replacements.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/force_installed_preinstalled_deprecated_app_dialog_view.h"
 
 #include <optional>

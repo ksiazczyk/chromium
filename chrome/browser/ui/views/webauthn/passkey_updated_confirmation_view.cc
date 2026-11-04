@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey updated confirmation view implementation
+// summary: Implements the confirmation bubble shown after a passkey is updated, with a Google Password Manager link and automatic or manual display metrics.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/passkey_updated_confirmation_view.h"
 
 #include <cstddef>

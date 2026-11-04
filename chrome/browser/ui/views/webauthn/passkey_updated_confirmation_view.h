@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey updated confirmation view header
+// summary: Declares PasskeyUpdatedConfirmationView, a password bubble informing the user that their passkey was updated.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_PASSKEY_UPDATED_CONFIRMATION_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_PASSKEY_UPDATED_CONFIRMATION_VIEW_H_
 

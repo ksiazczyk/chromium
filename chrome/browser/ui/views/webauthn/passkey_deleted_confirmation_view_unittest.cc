@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey deleted confirmation view unit tests
+// summary: Unit tests verifying that the passkey deleted confirmation bubble is created and shows a non-empty window title.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/passkey_deleted_confirmation_view.h"
 
 #include <utility>

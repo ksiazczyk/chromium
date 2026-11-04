@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN options button implementation
+// summary: Implements a dropdown button for the GPM PIN creation dialog that offers six-digit or arbitrary PIN format options via a menu.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/pin_options_button.h"
 
 #include <memory>

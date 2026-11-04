@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app frame toolbar view implementation
+// summary: Implements the title bar toolbar view for web apps, including hit testing, layout, and window controls overlay support.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/frame_toolbar/web_app_frame_toolbar_view.h"
 
 #include <memory>

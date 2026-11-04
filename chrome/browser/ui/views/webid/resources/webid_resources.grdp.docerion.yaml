@@ -1,0 +1,4 @@
+# Docerion header of webid_resources.grdp.
+type: config
+title: WebID resource definitions
+summary: Grit resource part that registers the light and dark WebID modal icon background images as scaled image resources for the Chrome UI.

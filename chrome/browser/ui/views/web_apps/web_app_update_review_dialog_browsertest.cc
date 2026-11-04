@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app update review dialog browser test
+// summary: Browser tests for the web app update review dialog, covering dialog interactions such as the ignore button, metrics histograms, and app menu triggers.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_update_review_dialog.h"
 
 #include <optional>

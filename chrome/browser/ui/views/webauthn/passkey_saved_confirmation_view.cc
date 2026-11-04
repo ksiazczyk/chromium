@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey saved confirmation view implementation
+// summary: Implements the confirmation bubble shown after a passkey is saved, including a styled label linking to Google Password Manager.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/passkey_saved_confirmation_view.h"
 
 #include <cstddef>

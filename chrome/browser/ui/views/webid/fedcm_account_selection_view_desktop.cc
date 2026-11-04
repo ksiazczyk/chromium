@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop FedCM account selection view implementation
+// summary: Implements the desktop FedCM account chooser that shows bubble and modal dialogs when a site calls navigator.credentials.get().
+// ---
+
 #include "chrome/browser/ui/views/webid/fedcm_account_selection_view_desktop.h"
 
 #include <algorithm>

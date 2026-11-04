@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FedCM ambient UI browser tests
+// summary: Browser tests for the FedCM ambient sign-in UI, checking page action display and permission flows.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"

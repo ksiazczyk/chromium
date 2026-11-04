@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app DIY install dialog
+// summary: Implements the DIY web app install dialog where users can edit the app name and confirm installing a create-your-own app.
+// ---
+
 #include <memory>
 #include <string>
 

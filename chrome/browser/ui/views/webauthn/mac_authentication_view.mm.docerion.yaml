@@ -1,0 +1,4 @@
+# Docerion header of mac_authentication_view.mm.
+type: source
+title: Mac authentication view implementation
+summary: Implements MacAuthenticationView, embedding the macOS Touch ID LAAuthenticationView into the Chromium widget and handling layout, animation timing, and completion callbacks.

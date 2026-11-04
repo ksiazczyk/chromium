@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn hover button declarations
+// summary: Declares WebAuthnHoverButton, a HoverButton subclass with optional primary icon, title, subtitle and secondary icon that collapses to a single line when no subtitle is given.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_WEBAUTHN_HOVER_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_WEBAUTHN_HOVER_BUTTON_H_
 

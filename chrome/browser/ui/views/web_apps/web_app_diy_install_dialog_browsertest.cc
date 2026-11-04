@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app DIY install dialog browser tests
+// summary: Dialog browser tests for the DIY install dialog covering name trimming, empty names and dialog interaction scenarios.
+// ---
+
 #include <memory>
 
 #include "base/files/file_path.h"

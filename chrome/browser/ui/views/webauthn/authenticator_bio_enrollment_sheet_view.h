@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorBioEnrollmentSheetView class
+// summary: Declares the sheet view for biometric enrollment steps in the WebAuthn request dialog, including escape-key handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_BIO_ENROLLMENT_SHEET_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_BIO_ENROLLMENT_SHEET_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image carousel view header
+// summary: Declares ImageCarouselView, a view that displays web app screenshots in a horizontal scrollable carousel with throbbers while loading and scroll buttons.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_IMAGE_CAROUSEL_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_IMAGE_CAROUSEL_VIEW_H_
 

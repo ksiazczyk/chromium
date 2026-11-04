@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPM arbitrary PIN sheet view implementation
+// summary: Implements the WebAuthn dialog sheet that lets the user enter an arbitrary alphanumeric Google Password Manager PIN in the passkeys flow.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_gpm_arbitrary_pin_sheet_view.h"
 
 #include <memory>

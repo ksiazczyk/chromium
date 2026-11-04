@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app detailed install dialog
+// summary: Implements the detailed web app install dialog that shows icon, name, origin and a screenshot carousel before the user accepts installation.
+// ---
+
 #include <memory>
 #include <numeric>
 #include <string>

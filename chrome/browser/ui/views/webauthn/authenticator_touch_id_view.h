@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch ID sheet view header
+// summary: Declares the sheet view that prompts the user to tap their Touch ID sensor to complete a passkey flow and handles the authentication result.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_TOUCH_ID_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_AUTHENTICATOR_TOUCH_ID_VIEW_H_
 

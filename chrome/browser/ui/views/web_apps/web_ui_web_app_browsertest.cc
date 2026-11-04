@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI web app browser test
+// summary: Browser test verifying that a WebUI-based web app opens new browser tabs for out-of-scope WebUI navigation while in-scope navigation stays in the app window.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/strings/strcat.h"
 #include "chrome/browser/profiles/profile.h"

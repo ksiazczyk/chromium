@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebAuthn views directory metadata
+summary: Maps the directory to the Blink>WebAuthentication component, identity team email and Buganizer component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sub apps install dialog browser tests
+// summary: Browser tests verifying dialog construction, sub-app list rendering, settings link handling, and accept/cancel callbacks.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/sub_apps/sub_apps_install_dialog_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPM PIN sheet view implementation
+// summary: Implements the WebAuthn request dialog sheet that hosts the Google Password Manager PIN entry view and forwards pin changes and typed characters to its sheet model.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_gpm_pin_sheet_view.h"
 
 #include <memory>

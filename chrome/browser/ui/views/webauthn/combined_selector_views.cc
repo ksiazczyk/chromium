@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combined selector radio button and row views
+// summary: Implements the radio button and row views used by the combined selector sheet to list authentication mechanisms and handle their selection.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/combined_selector_views.h"
 
 #include <algorithm>

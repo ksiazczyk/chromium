@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for WebUI dialogs ownership
+summary: Declares the monorail component, team email and Buganizer component used for routing bugs and ownership of the web_dialogs directory.

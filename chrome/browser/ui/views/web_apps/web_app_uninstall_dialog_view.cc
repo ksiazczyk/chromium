@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app uninstall dialog view
+// summary: Implements the uninstall dialog view that shows app identity, a clear-site-data checkbox, and reports the dialog close action to UMA histograms.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_uninstall_dialog_view.h"
 
 #include <string>

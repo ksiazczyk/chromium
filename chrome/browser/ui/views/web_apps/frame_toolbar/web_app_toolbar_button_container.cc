@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app toolbar button container implementation
+// summary: Implements the container that arranges web app toolbar buttons such as menu, uninstall, extensions, page actions, and origin text, including theming and animation logic.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/frame_toolbar/web_app_toolbar_button_container.h"
 
 #include "base/time/time.h"

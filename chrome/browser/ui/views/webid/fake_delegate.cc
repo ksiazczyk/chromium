@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake account selection delegate implementation
+// summary: Implements a stub AccountSelectionView delegate that runs a callback when an account is selected, for use in tests.
+// ---
+
 #include "chrome/browser/ui/views/webid/fake_delegate.h"
 
 namespace webid {

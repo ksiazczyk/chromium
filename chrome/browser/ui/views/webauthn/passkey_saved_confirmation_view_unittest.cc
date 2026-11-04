@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey saved confirmation view unit tests
+// summary: Unit tests that create the passkey saved confirmation bubble and verify it shows a window title.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/passkey_saved_confirmation_view.h"
 
 #include <utility>

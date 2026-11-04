@@ -1,3 +1,13 @@
+---
+type: readme
+title: Web App Views UI (chrome/browser/ui/views/web_apps)
+summary: Explains how Views dialogs, custom frame toolbars, and the integration test driver connect to the browser window hierarchy and PWA backend.
+relations:
+  - references /chrome/browser/ui/views/web_apps/web_app_integration_test_driver.cc
+  - references /chrome/browser/web_applications/docs/how-to-create-webapp-integration-tests.md
+  - references /chrome/browser/web_applications/docs/integration-testing-framework.md
+---
+
 # Web App Views UI (`chrome/browser/ui/views/web_apps`)
 
 This directory contains the Views-based UI dialogs, modal bubbles, custom frame

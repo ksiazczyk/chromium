@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app update review dialog
+// summary: Implements the dialog that lets users review web app identity updates such as name, icon, and URL changes before accepting or ignoring them.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/web_app_update_review_dialog.h"
 
 #include <optional>

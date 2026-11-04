@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app menu button browser tests
+// summary: Browser tests verifying the web app menu button across regular, tabbed, and isolated web app types.
+// ---
+
 #include "base/test/gmock_expected_support.h"
 #include "base/test/gtest_util.h"
 #include "base/test/scoped_feature_list.h"

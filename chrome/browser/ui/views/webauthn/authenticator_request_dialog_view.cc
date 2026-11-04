@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator request dialog view implementation
+// summary: Implements the tab-modal dialog shown during WebAuthn requests, handling sheet replacement, buttons, and tab visibility.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_request_dialog_view.h"
 
 #include <memory>

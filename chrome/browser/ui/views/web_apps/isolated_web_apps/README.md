@@ -1,3 +1,13 @@
+---
+type: readme
+title: Isolated Web Apps Views UI architecture
+summary: Describes the MVC installer wizard, supporting views like the multi-capture dialog, and the unit and browser tests for the IWA desktop UI.
+relations:
+  - references /chrome/browser/ui/views/web_apps/AGENTS.md
+  - references /chrome/browser/ui/views/web_apps/isolated_web_apps/AGENTS.md
+  - references /chrome/browser/web_applications/isolated_web_apps/README.md
+---
+
 # Isolated Web Apps Views UI (`chrome/browser/ui/views/web_apps/isolated_web_apps`)
 
 This directory implements the Views-based desktop user interface for Isolated

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app views utilities header
+// summary: Declares shared views helpers for building web app dialog labels and documents normalization of suggested app titles to avoid odd OS filenames.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_VIEWS_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_VIEWS_UTILS_H_
 

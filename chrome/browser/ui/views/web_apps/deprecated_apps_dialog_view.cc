@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deprecated apps dialog view implementation
+// summary: Implements the dialog listing deprecated Chrome apps, with a table of apps and an accept action that uninstalls them.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/deprecated_apps_dialog_view.h"
 
 #include <utility>

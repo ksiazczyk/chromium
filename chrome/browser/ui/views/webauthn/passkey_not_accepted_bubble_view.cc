@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey not accepted bubble view implementation
+// summary: Implements the bubble telling users a passkey was deleted because it was missing from an AllAcceptedCredentials report, with a link to Google Password Manager.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/passkey_not_accepted_bubble_view.h"
 
 #include <cstddef>

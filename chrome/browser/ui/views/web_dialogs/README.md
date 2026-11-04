@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chrome WebUI Dialogs
+summary: Explains the framework for building standardized WebUI-based dialogs, covering ChromeWebUIDialog, WebDialogSpec options, teardown ordering, widget ownership, usage examples and best practices.
+---
+
 # Chrome WebUI Dialogs
 
 This directory contains infrastructure for creating standardized, reusable WebUI-based dialogs in Chrome.

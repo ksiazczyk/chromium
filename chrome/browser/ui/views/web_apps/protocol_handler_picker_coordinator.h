@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handler picker coordinator header
+// summary: Declares the coordinator managing the protocol handler picker UI flow, whose lifetime is tied to the TabInterface it attaches to.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_PROTOCOL_HANDLER_PICKER_COORDINATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_PROTOCOL_HANDLER_PICKER_COORDINATOR_H_
 

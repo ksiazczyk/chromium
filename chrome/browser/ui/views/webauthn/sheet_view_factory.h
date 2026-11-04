@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sheet view factory declarations
+// summary: Declares functions that create the AuthenticatorRequestSheetView for the current step of a dialog model and for autofill WebAuthn dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_SHEET_VIEW_FACTORY_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_SHEET_VIEW_FACTORY_H_
 

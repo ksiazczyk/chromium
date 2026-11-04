@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ring progress bar for WebAuthn UI
+// summary: Declares RingProgressBar, a views::View that paints a ring-shaped progress bar and animates between an initial and target value for the WebAuthn UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_RING_PROGRESS_BAR_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_RING_PROGRESS_BAR_H_
 

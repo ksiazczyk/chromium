@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Isolated Web App Installer Model Observer implementation
+// summary: Implements a test observer that waits for installer model step changes and child dialog changes during tests.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/isolated_web_apps/test_isolated_web_app_installer_model_observer.h"
 
 #include "base/test/test_future.h"

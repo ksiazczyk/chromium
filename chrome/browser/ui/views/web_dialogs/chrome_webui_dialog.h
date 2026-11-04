@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeWebUIDialog and WebDialogSpec declarations
+// summary: Declares the ChromeWebUIDialog dialog delegate class and the WebDialogSpec struct that configures sizing, modality, activation, close buttons and new-contents handling for WebUI dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_DIALOGS_CHROME_WEBUI_DIALOG_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_DIALOGS_CHROME_WEBUI_DIALOG_H_
 

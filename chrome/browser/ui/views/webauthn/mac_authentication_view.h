@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac authentication view header
+// summary: Declares MacAuthenticationView, a Views wrapper around the macOS LAAuthenticationView that shows Touch ID UI and reports the result through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_MAC_AUTHENTICATION_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_MAC_AUTHENTICATION_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for web app frame toolbar views
+summary: GN build file defining source sets and dependencies for the web app frame toolbar views and their tests.

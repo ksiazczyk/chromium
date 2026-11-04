@@ -6,6 +6,12 @@
 // from webpages, and requires communication with multiple remote endpoints.
 // This test suite does not do any of that at the moment.
 
+// ---docerion
+// type: test
+// title: FedCM interactive UI tests
+// summary: Runs interactive CUJ browser tests for the FedCM account chooser, covering account selection in modal and bubble modes with a fake delegate.
+// ---
+
 #include "build/build_config.h"
 #include "build/config/linux/dbus/buildflags.h"
 #include "chrome/browser/ui/browser_element_identifiers.h"

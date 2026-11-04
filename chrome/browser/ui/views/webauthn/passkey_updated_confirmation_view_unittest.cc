@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey updated confirmation view unit tests
+// summary: Unit tests that create the passkey updated confirmation bubble and verify it shows a non-empty window title.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/passkey_updated_confirmation_view.h"
 
 #include <utility>

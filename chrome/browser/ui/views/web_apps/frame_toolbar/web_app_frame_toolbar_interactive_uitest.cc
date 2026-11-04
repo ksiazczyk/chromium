@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app frame toolbar interactive UI tests
+// summary: Interactive UI tests for toolbar focus cycling and elided extensions menu behavior in web app windows.
+// ---
+
 #include "chrome/app/chrome_command_ids.h"
 #include "chrome/browser/extensions/extension_browsertest.h"
 #include "chrome/browser/ui/browser_command_controller.h"

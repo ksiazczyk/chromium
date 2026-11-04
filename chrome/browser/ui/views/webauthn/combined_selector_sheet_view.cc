@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combined selector sheet view implementation
+// summary: Implements the WebAuthn dialog sheet that lets the user choose a credential with radio buttons for immediate mediation requests.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/combined_selector_sheet_view.h"
 
 #include <cstdlib>

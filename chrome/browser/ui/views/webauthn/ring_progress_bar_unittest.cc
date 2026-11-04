@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ring progress bar unit tests
+// summary: Unit test verifying that RingProgressBar exposes the progress indicator accessibility role via its accessible node data.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/ring_progress_bar.h"
 
 #include <memory>

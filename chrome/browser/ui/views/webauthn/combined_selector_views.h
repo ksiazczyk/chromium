@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combined selector views header
+// summary: Declares Views classes for WebAuthn combined selector sheets, including grouped radio buttons, text columns, selectable rows with icons, and the list view that renders them.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEBAUTHN_COMBINED_SELECTOR_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_WEBAUTHN_COMBINED_SELECTOR_VIEWS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App Installer View Controller unit tests
+// summary: Unit tests covering the installer controller's dialog flow, install and success screens, error and retry handling, and app launch after installation.
+// ---
+
 #include "chrome/browser/ui/views/web_apps/isolated_web_apps/isolated_web_app_installer_view_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Link capturing intent picker test utilities header
+// summary: Header declaring test helpers for interacting with the intent picker UI in web app link capturing browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_LINK_CAPTURING_TEST_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_WEB_APPS_WEB_APP_LINK_CAPTURING_TEST_UTILS_H_
 

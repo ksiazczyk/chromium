@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorClientPinEntryView implementation
+// summary: Implements the labeled PIN and confirmation password text fields with bottom-border styling used in the PIN entry sheet.
+// ---
+
 #include "chrome/browser/ui/views/webauthn/authenticator_client_pin_entry_view.h"
 
 #include <memory>
