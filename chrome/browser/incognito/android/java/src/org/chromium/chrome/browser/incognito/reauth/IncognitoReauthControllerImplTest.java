@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito re-auth controller implementation tests
+// summary: Unit tests for IncognitoReauthControllerImpl covering tab model switching, layout observers, pending re-auth state restoration, and callback dispatch.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static org.junit.Assert.assertFalse;

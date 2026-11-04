@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Hub action button disabled icon color
+summary: Android color selector defining the hub action button's disabled icon color using the default disabled alpha on baseline neutral 90.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:alpha="@dimen/default_disabled_alpha"

@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Hub pane switcher item drawable
+summary: Rounded rectangle shape drawable sized from hub pane switcher tab dimensions for switcher items.
+-->
+
 <shape
   xmlns:android="http://schemas.android.com/apk/res/android"
   android:shape="rectangle">

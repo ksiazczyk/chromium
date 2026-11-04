@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hub bottom bar bottom toolbar delegate implementation unit tests
+// summary: Robolectric tests for HubBottomBarBottomToolbarDelegateImpl covering toolbar initialization, bottom bar attachment, and visibility suppliers.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

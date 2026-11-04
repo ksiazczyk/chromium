@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubColorMixer
+// summary: Interface that manages the Hub UI color scheme based on visibility state and the focused pane, with blend registration support.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.chrome.browser.hub.HubColorMixer.StateChange.HUB_CLOSED;

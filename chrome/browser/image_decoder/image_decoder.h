@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageDecoder class declaration
+// summary: Declares the ImageDecoder helper and ImageRequest interface for safely decoding images in a sandboxed service with codec and size options.
+// ---
+
 #ifndef CHROME_BROWSER_IMAGE_DECODER_IMAGE_DECODER_H_
 #define CHROME_BROWSER_IMAGE_DECODER_IMAGE_DECODER_H_
 

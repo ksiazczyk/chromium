@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pane manager implementation unit tests
+// summary: Robolectric unit tests covering PaneManagerImpl pane focusing, active pane ordering, and hub visibility observer behavior.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

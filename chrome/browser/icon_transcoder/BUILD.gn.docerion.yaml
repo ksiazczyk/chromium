@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the icon transcoder
+summary: Defines the icon_transcoder source set and a testonly browser_tests target with their sources and dependencies.

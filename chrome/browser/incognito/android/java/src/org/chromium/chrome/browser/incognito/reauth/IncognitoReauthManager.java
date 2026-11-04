@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoReauthManager
+// summary: Manages the Incognito re-authentication flow, checking biometric availability and feature state before starting device re-authentication with success, failure, and not-possible callbacks.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import android.app.Activity;

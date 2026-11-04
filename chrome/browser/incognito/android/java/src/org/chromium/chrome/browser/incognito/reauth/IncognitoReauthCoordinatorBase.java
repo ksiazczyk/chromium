@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito re-auth coordinator base class
+// summary: Abstract base class that sets up the mediator, property model, change processor, and re-auth view shared by re-auth coordinator implementations.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static org.chromium.chrome.browser.incognito.reauth.IncognitoReauthProperties.createPropertyModel;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoReauthSettingSwitchPreference
+// summary: Custom switch preference for the Incognito reauth lock setting that can route summary clicks to a link delegate when the preference is not interactable.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import android.content.Context;

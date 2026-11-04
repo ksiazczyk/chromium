@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoStartup
+// summary: Handles incognito startup operations on Android, deciding whether to destroy the off-the-record profile or restore cookies based on recent tasks and active incognito tabs.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

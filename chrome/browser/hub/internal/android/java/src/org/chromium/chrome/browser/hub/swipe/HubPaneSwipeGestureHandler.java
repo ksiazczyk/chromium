@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubPaneSwipeGestureHandler
+// summary: Detects and processes horizontal swipe touch gestures for switching Hub panes, delegating events to a swipe delegate.
+// ---
+
 package org.chromium.chrome.browser.hub.swipe;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubCoordinator
+// summary: Root coordinator of the Hub that wires together panes, toolbars, back press handling, edge-to-edge support and layout.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

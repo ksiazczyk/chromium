@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Hub view ID resources
+summary: Declares view ID resources for the new tab group menu and the hub color mixer helper.
+-->
+
 <resources>
     <item type="id" name="new_tab_group_menu_id" />
     <item type="id" name="hub_color_mixer_helper" />

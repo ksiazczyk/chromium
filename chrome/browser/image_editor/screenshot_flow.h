@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot capture flow declarations
+// summary: Declares ScreenshotFlow, capture result structures, result codes and callbacks for region selection and screenshot capture over a WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_IMAGE_EDITOR_SCREENSHOT_FLOW_H_
 #define CHROME_BROWSER_IMAGE_EDITOR_SCREENSHOT_FLOW_H_
 

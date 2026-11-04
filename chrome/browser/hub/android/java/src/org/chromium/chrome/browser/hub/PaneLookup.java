@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PaneLookup: interface for accessing Hub panes'
+// summary: Interface for retrieving a pane by its PaneId and obtaining the default pane together with its ID.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import org.chromium.build.annotations.NullMarked;

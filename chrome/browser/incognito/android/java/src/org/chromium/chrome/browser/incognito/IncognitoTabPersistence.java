@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoTabPersistence
+// summary: Manages incognito tab state files on Android by deleting saved state files belonging to incognito tabs from the tab state directory.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import android.util.Pair;

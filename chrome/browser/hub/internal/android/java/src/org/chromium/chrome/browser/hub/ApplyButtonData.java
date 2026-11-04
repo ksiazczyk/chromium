@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplyButtonData button utility
+// summary: Utility class that applies FullButtonData to an Android Button, hiding and clearing the button when the data is null.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.content.Context;

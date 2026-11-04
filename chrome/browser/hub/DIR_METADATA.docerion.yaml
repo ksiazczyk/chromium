@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Hub directory metadata
+summary: Points the hub directory to the shared COMMON_METADATA file via a mixin.

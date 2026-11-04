@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Import lock dialog declaration
+// summary: Declares ShowImportLockDialog, which warns that the source browser is still running and must be closed before importing.
+// ---
+
 #ifndef CHROME_BROWSER_IMPORTER_IMPORTER_LOCK_DIALOG_H_
 #define CHROME_BROWSER_IMPORTER_IMPORTER_LOCK_DIALOG_H_
 

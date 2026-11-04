@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubToolbarMediator
+// summary: Implements the logic for the Hub toolbar, including search entrypoint metrics, pane switcher state, and toolbar property updates.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

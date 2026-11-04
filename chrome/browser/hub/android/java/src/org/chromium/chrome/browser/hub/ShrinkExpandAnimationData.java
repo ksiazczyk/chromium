@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShrinkExpandAnimationData for hub shrink and expand animations
+// summary: Carries rect, corner radius, thumbnail, and fallback data supplied asynchronously to the shrink and expand hub layout animator.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.graphics.Rect;

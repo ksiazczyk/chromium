@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firefox profile lock implementation
+// summary: Implements Firefox profile locking with platform-specific lock file names, based on Mozilla's nsProfileLock code.
+// ---
+
 #include "chrome/browser/importer/firefox_profile_lock.h"
 
 #include "base/files/file_path.h"

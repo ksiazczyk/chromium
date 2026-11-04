@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hub pane swipe animation configuration helper
+// summary: Provides feature-flag-driven interpolator, duration, and search box animation settings for Hub pane swipe transitions.
+// ---
+
 package org.chromium.chrome.browser.hub.swipe;
 
 import static org.chromium.chrome.browser.hub.HubAnimationConstants.PANE_SETTLE_MIN_DURATION_MS;

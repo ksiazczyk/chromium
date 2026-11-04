@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HubPaneSwipeGestureHandler
+// summary: Robolectric unit tests for HubPaneSwipeGestureHandler covering swipe detection, progress, settle, and cancellation paths.
+// ---
+
 package org.chromium.chrome.browser.hub.swipe;
 
 import static org.junit.Assert.assertFalse;

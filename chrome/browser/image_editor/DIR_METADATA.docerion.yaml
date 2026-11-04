@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Image editor directory metadata
+summary: Declares the UI>Browser>Sharing monorail component, team email and Buganizer component for the image editor directory.

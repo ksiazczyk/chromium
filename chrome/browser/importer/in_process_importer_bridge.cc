@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process importer bridge implementation
+// summary: Implements the in-process importer bridge that converts imported bookmarks, history, passwords, search engines and autofill data and writes them into the profile.
+// ---
+
 #include "chrome/browser/importer/in_process_importer_bridge.h"
 
 #include <stddef.h>

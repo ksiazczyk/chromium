@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Firefox profile lock unit tests
+// summary: Unit tests verifying that FirefoxProfileLock acquires, releases and contends profile locks and handles orphaned lock files.
+// ---
+
 #include "chrome/browser/importer/firefox_profile_lock.h"
 
 #include <memory>

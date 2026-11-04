@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubBottomToolbarViewUnitTest
+// summary: Robolectric unit tests for HubBottomToolbarView and its binder, covering visibility toggling and color scheme changes.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static android.view.View.GONE;

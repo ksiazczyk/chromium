@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubToolbarViewRenderTest
+// summary: Render tests that verify the visual output of the Hub toolbar view under property changes using the Chrome render test rule.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.mockito.Mockito.mock;

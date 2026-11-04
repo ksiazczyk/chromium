@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubToolbarViewUnitTest
+// summary: Parameterized Robolectric unit tests for the Hub toolbar view, covering visibility, animations, incognito updates, and tab selection.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

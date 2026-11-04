@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pane interface
+// summary: Base interface for a UI pane displayed in the Hub, covering views, color scheme, lifecycle hints, and action button data.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.view.View;

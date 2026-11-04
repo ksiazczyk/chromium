@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image editor component info implementation
+// summary: Implements a singleton that stores the installed image editor component path and reports whether the editor is available.
+// ---
+
 #include "chrome/browser/image_editor/image_editor_component_info.h"
 
 #include "base/files/file_path.h"

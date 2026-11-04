@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoReauthMediatorTest
+// summary: Robolectric tests for IncognitoReauthMediator verifying unlock and see-other-tabs click handling, repeated clicks, and re-auth success or failure callbacks.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static org.mockito.Mockito.doAnswer;

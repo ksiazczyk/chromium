@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer unit test bookmark comparison utilities
+// summary: Implements TestEqualBookmarkEntry, a helper that asserts an imported bookmark entry matches expected bookmark data in importer unit tests.
+// ---
+
 
 #include "chrome/browser/importer/importer_unittest_utils.h"
 

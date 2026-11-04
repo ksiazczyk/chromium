@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for chrome/browser/idle
+summary: Points the folder's metadata to the shared common metadata under content/browser/idle.

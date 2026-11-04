@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Incognito browser BUILD.gn build targets
+summary: Defines GN build targets for the Android incognito Java code, including incognito reauth components, JNI headers, resources, and tests.

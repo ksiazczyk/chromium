@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for image descriptions
+summary: Delegates code review ownership to the OWNERS file of the ui/accessibility directory.

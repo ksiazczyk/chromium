@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageDescriptionsController unit tests
+// summary: Robolectric and Mockito unit tests for the Chrome image descriptions controller, covering menu selection, preferences, and dialog behavior.
+// ---
+
 package org.chromium.chrome.browser.image_descriptions;
 
 import static org.mockito.ArgumentMatchers.any;

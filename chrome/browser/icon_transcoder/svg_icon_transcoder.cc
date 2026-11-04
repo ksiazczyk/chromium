@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SVG icon transcoder implementation
+// summary: Implements SvgIconTranscoder, which renders SVG icon files or data in a WebContents and saves the resulting PNG data to disk.
+// ---
+
 #include "chrome/browser/icon_transcoder/svg_icon_transcoder.h"
 
 #include "base/base64.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image descriptions dialog unit tests
+// summary: Espresso and Mockito unit tests verifying the image descriptions dialog options, dismissal causes, and delegate interactions.
+// ---
+
 package org.chromium.chrome.browser.image_descriptions;
 
 import static androidx.test.espresso.Espresso.onView;

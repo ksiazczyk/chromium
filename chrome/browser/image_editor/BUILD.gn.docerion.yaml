@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Image editor build targets
+summary: Defines static libraries for the image editor component utilities and screenshot flow, with Mac-specific sources and desktop platform assertions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubLayoutAnimationRunner
+// summary: Interface for running Hub layout animations, tracking progress, waiting for animators with a timeout, and forcing completion.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import androidx.annotation.IntDef;

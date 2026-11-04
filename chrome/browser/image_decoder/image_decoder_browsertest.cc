@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageDecoder browser tests
+// summary: Browser tests that verify ImageDecoder successfully decodes small embedded PNG and JPEG payloads and reports failures correctly.
+// ---
+
 #include "chrome/browser/image_decoder/image_decoder.h"
 
 #include "base/compiler_specific.h"

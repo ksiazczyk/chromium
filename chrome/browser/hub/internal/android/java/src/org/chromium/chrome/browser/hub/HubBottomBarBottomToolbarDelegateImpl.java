@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hub bottom bar bottom toolbar delegate implementation
+// summary: Implements HubBottomToolbarDelegate by inflating the Hub bottom toolbar layout, attaching bottom bar views, and adapting the color mixer.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.content.Context;

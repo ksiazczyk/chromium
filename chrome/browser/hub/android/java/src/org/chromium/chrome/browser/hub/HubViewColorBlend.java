@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubViewColorBlend interface
+// summary: Interface for creating color blend animations on views during Hub color scheme transitions.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.animation.Animator;

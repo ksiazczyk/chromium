@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Incognito window BUILD.gn build file
+summary: Defines an Android library target that builds the incognito window PreAttachIntentObserver Java source.

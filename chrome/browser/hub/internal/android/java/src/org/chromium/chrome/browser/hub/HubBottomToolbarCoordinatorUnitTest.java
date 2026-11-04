@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hub bottom toolbar coordinator unit tests
+// summary: Robolectric tests for HubBottomToolbarCoordinator covering initialization, destruction, and edge-to-edge pad adjuster behavior.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

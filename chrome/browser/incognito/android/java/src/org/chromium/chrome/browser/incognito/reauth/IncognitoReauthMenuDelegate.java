@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoReauthMenuDelegate
+// summary: Delegate for the three-dot menu in the full-page Incognito re-auth view, providing close-all-incognito-tabs and settings menu items with their click actions.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

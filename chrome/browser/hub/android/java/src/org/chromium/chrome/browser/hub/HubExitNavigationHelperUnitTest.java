@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubExitNavigationHelperUnitTest
+// summary: Robolectric unit tests verifying the Hub exit navigation helper's deferral, reentrancy protection, and cleanup behavior.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

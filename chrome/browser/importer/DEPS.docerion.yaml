@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Importer include dependency rules
+summary: Grants the importer directory include access to the components/user_data_importer/mojom targets.

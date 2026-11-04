@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile writer unit tests
+// summary: Unit tests for ProfileWriter covering the import of bookmarks, history, passwords and related data into a testing profile.
+// ---
+
 #include "chrome/browser/importer/profile_writer.h"
 
 #include <stddef.h>

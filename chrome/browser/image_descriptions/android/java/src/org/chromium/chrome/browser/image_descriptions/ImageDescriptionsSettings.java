@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image descriptions settings page
+// summary: Settings sub-page under Accessibility that lets users toggle image descriptions and choose whether the feature requires Wi-Fi or may run on mobile data.
+// ---
+
 package org.chromium.chrome.browser.image_descriptions;
 
 import android.os.Bundle;

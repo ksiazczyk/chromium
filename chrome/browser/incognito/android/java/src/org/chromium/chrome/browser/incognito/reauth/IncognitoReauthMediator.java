@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: IncognitoReauthMediator
+// summary: Mediator handling interactions with the incognito re-auth view, starting re-authentication on unlock clicks and showing the tab switcher when the user chooses to see other tabs.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import org.chromium.build.annotations.NullMarked;

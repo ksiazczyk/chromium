@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image descriptions controller delegate interface
+// summary: Interface that lets UIs control the image descriptions feature state, including enabling, disabling, setting the Wi-Fi requirement, and one-off description requests.
+// ---
+
 package org.chromium.chrome.browser.image_descriptions;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Hub Android Java build targets
+summary: GN build rules defining the Android Java library targets and dependencies for the Chrome hub UI code.

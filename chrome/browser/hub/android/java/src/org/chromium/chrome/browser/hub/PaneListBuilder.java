@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: "PaneListBuilder: builder for the Hub's immutable pane list"
+// summary: Builder that registers lazily supplied panes by ID and builds an immutable map of panes ordered according to a PaneOrderController.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import com.google.common.collect.ImmutableMap;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image fetcher service factory implementation
+// summary: Builds a per-browser-context ImageFetcherService with LevelDB metadata and disk image caches, and registers Android service providers.
+// ---
+
 #include "chrome/browser/image_fetcher/image_fetcher_service_factory.h"
 
 #include <memory>

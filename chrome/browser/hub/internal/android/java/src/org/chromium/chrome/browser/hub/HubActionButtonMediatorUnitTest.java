@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubActionButtonMediator unit tests
+// summary: Robolectric tests verifying that HubActionButtonMediator tracks the focused pane and updates action button data and visibility in the property model.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

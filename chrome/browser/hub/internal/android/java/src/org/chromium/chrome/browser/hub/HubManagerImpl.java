@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubManagerImpl
+// summary: Implementation of HubManager and HubController that holds HubCoordinator dependencies to create and tear down the Hub UI as visibility changes.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

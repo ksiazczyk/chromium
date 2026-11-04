@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoReauthViewBinder
+// summary: Binds the incognito re-auth PropertyModel to the view, wiring unlock and see-other-tabs click listeners, visibility, and the menu button delegate.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import android.view.View;

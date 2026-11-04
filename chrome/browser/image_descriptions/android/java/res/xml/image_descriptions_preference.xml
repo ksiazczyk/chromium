@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Image descriptions preference screen XML
+summary: Defines the Android settings screen for image descriptions, with a toggle switch and a data policy radio button group preference.
+-->
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
     <org.chromium.components.browser_ui.settings.ChromeSwitchPreference

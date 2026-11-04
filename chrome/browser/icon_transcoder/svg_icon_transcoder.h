@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SVG icon transcoder class declaration
+// summary: Declares the SvgIconTranscoder class that converts SVG icons into PNG data via WebContents rendering and handles renderer process changes.
+// ---
+
 #ifndef CHROME_BROWSER_ICON_TRANSCODER_SVG_ICON_TRANSCODER_H_
 #define CHROME_BROWSER_ICON_TRANSCODER_SVG_ICON_TRANSCODER_H_
 

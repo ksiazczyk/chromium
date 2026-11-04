@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pane transition helper
+// summary: Coordinates and queues pane LoadHint transitions on the UI thread to minimize jank when notifying panes of load state changes.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import org.chromium.base.ThreadUtils;

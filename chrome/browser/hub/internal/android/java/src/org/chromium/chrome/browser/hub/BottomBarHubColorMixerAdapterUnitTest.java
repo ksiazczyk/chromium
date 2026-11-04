@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomBarHubColorMixerAdapter unit tests
+// summary: Robolectric unit tests verifying blend registration and color animation behavior of BottomBarHubColorMixerAdapter.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

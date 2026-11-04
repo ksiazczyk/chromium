@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image decoder implementation
+// summary: Implements image_fetcher::ImageDecoder by decoding image data through the browser ImageDecoder and tracking active decode requests.
+// ---
+
 #include "chrome/browser/image_fetcher/image_decoder_impl.h"
 
 #include <algorithm>

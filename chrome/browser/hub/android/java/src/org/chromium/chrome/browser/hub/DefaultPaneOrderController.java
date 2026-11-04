@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultPaneOrderController
+// summary: Implements PaneOrderController with the default ordering of Hub panes such as tab switcher, history, and bookmarks.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import com.google.common.collect.ImmutableSet;

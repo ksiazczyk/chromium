@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoReauthProperties
+// summary: Defines the property keys for the incognito re-auth view and builds its PropertyModel with unlock and see-other-tabs actions, visibility, and menu button delegate.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import org.chromium.build.annotations.NullMarked;

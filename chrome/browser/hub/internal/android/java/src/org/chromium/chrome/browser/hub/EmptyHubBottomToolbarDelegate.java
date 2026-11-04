@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty Hub bottom toolbar delegate
+// summary: Empty HubBottomToolbarDelegate implementation that provides a basic bottom toolbar view for testing delegate integration.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.content.Context;

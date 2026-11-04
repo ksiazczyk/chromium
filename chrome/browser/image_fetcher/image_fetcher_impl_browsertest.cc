@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageFetcherImpl browser tests
+// summary: Browser tests verifying ImageFetcherImpl fetches images and image data from an embedded test server, including normal and repeated fetches.
+// ---
+
 #include "components/image_fetcher/core/image_fetcher_impl.h"
 
 #include <memory>

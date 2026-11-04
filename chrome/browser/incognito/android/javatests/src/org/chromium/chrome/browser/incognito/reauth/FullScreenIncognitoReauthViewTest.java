@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Full-screen Incognito reauth view layout tests
+// summary: Instrumentation and render tests for the full-screen incognito reauth view, checking button clicks, display state and layout rendering.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static androidx.test.espresso.Espresso.onView;

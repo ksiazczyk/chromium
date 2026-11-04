@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreAttachIntentObserver interface
+// summary: Defines an observer interface that receives intent data before the OS sets it in attach(), needed only for Android versions up to and including U (API 34).
+// ---
+
 package org.chromium.chrome.browser.incognito_window;
 
 import android.content.Intent;

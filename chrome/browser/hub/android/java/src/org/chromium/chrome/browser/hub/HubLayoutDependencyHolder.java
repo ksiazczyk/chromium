@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubLayoutDependencyHolder
+// summary: Holds dependencies from ChromeTabbedActivity needed to initialize HubLayout, including suppliers, scrim control, and XR mode status.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

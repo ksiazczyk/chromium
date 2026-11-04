@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubBottomToolbarViewBinder
+// summary: Binds Hub bottom toolbar property model changes to the view, applying color mixer, visibility, and color scheme updates.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static android.view.View.GONE;

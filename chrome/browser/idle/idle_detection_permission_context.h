@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle detection permission context header
+// summary: Declares the IdleDetectionPermissionContext class extending the content setting permission context base.
+// ---
+
 #ifndef CHROME_BROWSER_IDLE_IDLE_DETECTION_PERMISSION_CONTEXT_H_
 #define CHROME_BROWSER_IDLE_IDLE_DETECTION_PERMISSION_CONTEXT_H_
 

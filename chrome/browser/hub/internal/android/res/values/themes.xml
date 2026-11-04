@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Hub toolbar button styles
+summary: Defines style resources for hub toolbar action buttons and the new tab button, based on Material 3 Expressive.
+-->
+
 <resources>
     <style name="HubToolbarActionButtonStyleOverlay.Baseline" parent="">
         <item name="newTabButtonStyle">@style/HubToolbarActionButtonStyle.Baseline</item>

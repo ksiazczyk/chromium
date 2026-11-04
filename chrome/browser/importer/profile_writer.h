@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile writer class declaration
+// summary: Declares the ProfileWriter interface for adding imported bookmarks, history, passwords, favicons, keywords and autocomplete entries to a profile.
+// ---
+
 #ifndef CHROME_BROWSER_IMPORTER_PROFILE_WRITER_H_
 #define CHROME_BROWSER_IMPORTER_PROFILE_WRITER_H_
 

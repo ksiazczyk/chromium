@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image descriptions opt-in dialog
+// summary: Modal dialog shown to screen reader users offering to enable image descriptions always, only on Wi-Fi, or just once, while recording usage histograms.
+// ---
+
 package org.chromium.chrome.browser.image_descriptions;
 
 import android.content.Context;

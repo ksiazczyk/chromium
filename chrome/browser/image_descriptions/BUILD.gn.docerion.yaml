@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for image descriptions
+summary: Defines the Android Java library, JNI headers, resources and Robolectric and device unit test targets for the image descriptions feature.

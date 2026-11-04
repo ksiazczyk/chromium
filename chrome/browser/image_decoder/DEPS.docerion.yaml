@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Image decoder dependency rules
+summary: Restricts allowed includes for the directory to base, content, IPC, data decoder, Skia, and UI modules.

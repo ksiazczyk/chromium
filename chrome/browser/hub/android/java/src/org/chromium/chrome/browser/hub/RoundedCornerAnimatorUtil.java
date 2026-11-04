@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'RoundedCornerAnimatorUtil: rounded corner animation utilities'
+// summary: Utility that creates a ValueAnimator interpolating the corner radii of a RoundedCornerImageView between start and end values.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.animation.ValueAnimator;
