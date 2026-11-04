@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC keyed service implementation
+// summary: Implements the per-profile TTC service that starts and ends sessions, creates conversations, and binds the WebUI harness page handler.
+// ---
+
 #include "chrome/browser/ttc/core/ttc_keyed_service.h"
 
 #include <memory>

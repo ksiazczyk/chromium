@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC app browser test base implementation
+// summary: Implements the shared browser test base that wires mock keyed services, audio, and backend sessions for TTC app browser tests.
+// ---
+
 #include "chrome/browser/ttc/app/app_browser_test_base.h"
 
 #include <utility>

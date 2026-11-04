@@ -1,0 +1,4 @@
+# Docerion header of eval_harness.mojom.
+type: source
+title: Mojo interfaces for the TTC evaluation harness
+summary: Defines Mojo structs and interfaces linking the WebUI evaluation harness with browser C++ for starting sessions and running text or audio turns.

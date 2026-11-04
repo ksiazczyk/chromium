@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcSessionPillView
+// summary: Floating session pill shown in an anchored popup window at the content area's bottom-end corner, displaying status text and an animated microphone icon.
+// ---
+
 package org.chromium.chrome.browser.ttc;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

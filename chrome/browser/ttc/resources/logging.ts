@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug logging utilities for the TTC WebUI
+// summary: Provides log, debug, warn and error helpers gated by debug log tags and the enableDebugLogs load-time data flag.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 
 export enum DebugLogTag {

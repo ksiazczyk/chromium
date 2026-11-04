@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: AI Overlay Dialog WebUI build file
+summary: GN build definition that compiles the AI Overlay Dialog WebUI sources, CSS, Mojo bindings and branded-only internal files.

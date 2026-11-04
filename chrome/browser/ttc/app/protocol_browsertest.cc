@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ttc-MES protocol browser tests
+// summary: Browser tests exercising the full Ttc stack protocol, from session setup and clock sync to the frames handed to the model execution service.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/test_future.h"
 #include "base/time/time.h"

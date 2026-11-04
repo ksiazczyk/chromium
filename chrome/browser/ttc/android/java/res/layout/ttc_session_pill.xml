@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: TTC session pill Android layout
+summary: Defines the floating pill shown while a TTC session is live, with a mic icon and status text; the root view is the single accessibility target and tapping it ends the session.
+-->
+
 <!-- Content of the floating pill shown while a TTC session is live. Tapping
      it ends the session. Hosted in an AnchoredPopupWindow, which supplies the
      background, elevation and position. The root is the single accessibility

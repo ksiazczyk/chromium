@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate frame binder browser test
+// summary: Browser tests verifying that the ContentTranslateDriver Mojo interface is bound only for active primary main frames, including prerendering scenarios.
+// ---
+
 #include "chrome/browser/translate/translate_frame_binder.h"
 
 #include "base/functional/bind.h"

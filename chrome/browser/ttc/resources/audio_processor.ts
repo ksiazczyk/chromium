@@ -7,6 +7,12 @@
  * Runs in a separate thread for lower latency.
  */
 
+// ---docerion
+// type: source
+// title: AudioWorklet processor for microphone audio capture
+// summary: Buffers microphone input in an AudioWorklet running on a separate thread and posts 2048-sample batches to the main thread to cut message frequency.
+// ---
+
 interface AudioWorkletProcessor {
   readonly port: MessagePort;
   process(

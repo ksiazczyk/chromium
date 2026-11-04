@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub audio capture and playback for eval harness
+// summary: Implements a stub audio controller for the eval harness that records played PCM audio and injects captured audio with computed energy.
+// ---
+
 #include "chrome/browser/ttc/core/eval_audio_controller.h"
 
 #include <algorithm>

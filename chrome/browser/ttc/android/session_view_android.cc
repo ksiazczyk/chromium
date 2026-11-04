@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionViewAndroid implementation
+// summary: Implements the Android SessionView by forwarding audio level updates, session initialization and errors to the TtcKeyedServiceAndroid JNI bridge.
+// ---
+
 #include "chrome/browser/ttc/android/session_view_android.h"
 
 #include "base/check_deref.h"

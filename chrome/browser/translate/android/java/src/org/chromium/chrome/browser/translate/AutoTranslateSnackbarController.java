@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoTranslateSnackbarController
+// summary: Android controller that shows the auto-translate snackbar and forwards undo or dismiss actions to the native translate code via JNI.
+// ---
+
 package org.chromium.chrome.browser.translate;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

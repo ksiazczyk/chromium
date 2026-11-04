@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate frame binder implementation
+// summary: Binds incoming ContentTranslateDriver mojo receivers from the primary main frame to the translate client of the target WebContents, accounting for read anything on non-Android platforms.
+// ---
+
 #include "chrome/browser/translate/translate_frame_binder.h"
 
 #include "build/build_config.h"

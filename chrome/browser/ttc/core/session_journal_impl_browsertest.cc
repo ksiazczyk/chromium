@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session journal browser tests
+// summary: Browser tests verifying that a session's journal entries follow the session's actor task, including after the task is replaced.
+// ---
+
 #include "chrome/browser/ttc/core/session_journal_impl.h"
 
 #include <map>

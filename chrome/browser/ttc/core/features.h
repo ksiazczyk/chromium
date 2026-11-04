@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC feature flag declarations
+// summary: Declares the kTtc and kTtcFre feature flags used to enable TTC and to hide or suppress its unfinished first run experience.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_FEATURES_H_
 #define CHROME_BROWSER_TTC_CORE_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conversation factory implementation
+// summary: Factory function that constructs a ConversationImpl wired to the Ttc MES client, session controller and an audio controller, creating a default one when none is given.
+// ---
+
 #include "chrome/browser/ttc/app/public/make_conversation.h"
 
 #include <utility>

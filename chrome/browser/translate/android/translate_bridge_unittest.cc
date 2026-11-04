@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateBridge accept-languages unit tests
+// summary: Verifies that locale language-region pairs are correctly prepended to accept languages and skipped when already present.
+// ---
+
 #include "chrome/browser/translate/android/translate_bridge.h"
 
 #include <string>

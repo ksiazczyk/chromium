@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate service implementation
+// summary: Implements the TranslateService singleton that initializes and shuts down translate resources and answers target language and URL translatability queries.
+// ---
+
 #include "chrome/browser/translate/translate_service.h"
 
 #include "base/check_is_test.h"

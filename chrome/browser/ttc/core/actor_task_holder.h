@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor task holder class declaration
+// summary: Declares ActorTaskHolder, which creates and owns the actor task for a TTC session and replaces it when stopped externally.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_ACTOR_TASK_HOLDER_H_
 #define CHROME_BROWSER_TTC_CORE_ACTOR_TASK_HOLDER_H_
 

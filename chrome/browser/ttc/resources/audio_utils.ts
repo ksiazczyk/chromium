@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio encoding utilities for PCM and Base64
+// summary: Converts Float32 audio data to Int16 PCM, returned either as a Base64 string or as a raw byte array for transport.
+// ---
+
 /**
  * Converts Float32 audio data to Int16 PCM and encodes to Base64.
  */

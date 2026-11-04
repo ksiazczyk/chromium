@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioControllerImpl implementation
+// summary: Implements microphone capture, speaker playback, and audio routing for TTC conversations, converting capture to 16kHz mono PCM16 for the backend.
+// ---
+
 #include "chrome/browser/ttc/app/audio_controller_impl.h"
 
 #include <algorithm>

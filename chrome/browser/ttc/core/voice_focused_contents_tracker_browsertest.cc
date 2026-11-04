@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Voice focused contents tracker browser tests
+// summary: Browser tests verifying that VoiceFocusedContentsTracker reports the correct active tab across tab switches and browser window activation.
+// ---
+
 #include "chrome/browser/ttc/core/voice_focused_contents_tracker.h"
 
 #include <memory>

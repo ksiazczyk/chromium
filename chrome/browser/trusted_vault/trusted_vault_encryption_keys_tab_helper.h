@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedVaultEncryptionKeysTabHelper class declaration
+// summary: Declares the WebContentsUserData tab helper that installs the Mojo API for receiving client encryption keys from the renderer process.
+// ---
+
 #ifndef CHROME_BROWSER_TRUSTED_VAULT_TRUSTED_VAULT_ENCRYPTION_KEYS_TAB_HELPER_H_
 #define CHROME_BROWSER_TRUSTED_VAULT_TRUSTED_VAULT_ENCRYPTION_KEYS_TAB_HELPER_H_
 

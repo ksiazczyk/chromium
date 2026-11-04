@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate test utilities header
+// summary: Declares CreateTranslateWaiter, a test helper that creates a TranslateWaiter listening for a given translate event in a WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_TRANSLATE_TRANSLATE_TEST_UTILS_H_
 #define CHROME_BROWSER_TRANSLATE_TRANSLATE_TEST_UTILS_H_
 

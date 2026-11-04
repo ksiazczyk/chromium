@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcSessionViewBinder
+// summary: Binds changes to the TTC session pill's property model to the corresponding pill view updates.
+// ---
+
 package org.chromium.chrome.browser.ttc;
 
 import static org.chromium.chrome.browser.ttc.TtcSessionProperties.AUDIO_LEVEL;

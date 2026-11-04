@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedVaultServiceFactory class declaration
+// summary: Declares the ProfileKeyedServiceFactory that provides TrustedVaultService instances per profile, including a default testing factory.
+// ---
+
 #ifndef CHROME_BROWSER_TRUSTED_VAULT_TRUSTED_VAULT_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_TRUSTED_VAULT_TRUSTED_VAULT_SERVICE_FACTORY_H_
 

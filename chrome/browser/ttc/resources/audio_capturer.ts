@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio capturers
+// summary: Implements microphone and blob-based audio capture, encoding PCM audio and measuring input energy.
+// ---
+
 import {AudioPlayer} from './audio_player.js';
 import {encodeFloat32ToPcmBase64} from './audio_utils.js';
 import {log} from './logging.js';

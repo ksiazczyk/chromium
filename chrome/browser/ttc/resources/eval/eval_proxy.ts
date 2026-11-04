@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EvalProxy Mojo connection singleton
+// summary: Singleton that creates the Mojo HarnessPageHandler remote and callback router for the eval harness WebUI.
+// ---
+
 import {HarnessPageCallbackRouter, HarnessPageHandlerFactory, HarnessPageHandlerRemote} from '../eval_harness.mojom-webui.js';
 
 export class EvalProxy {

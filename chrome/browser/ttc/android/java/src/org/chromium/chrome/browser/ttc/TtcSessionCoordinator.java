@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcSessionCoordinator
+// summary: Builds and owns the per-activity TTC session UI, wiring the mediator's property model to the floating pill view.
+// ---
+
 package org.chromium.chrome.browser.ttc;
 
 import android.content.Context;

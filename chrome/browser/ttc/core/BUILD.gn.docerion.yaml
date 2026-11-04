@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: TTC core build targets
+summary: Defines GN build targets for the TTC core, including buildflag headers, Mojo bindings for the eval harness, and the core and impl source sets.

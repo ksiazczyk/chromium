@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate frame binder function declaration
+// summary: Declares BindContentTranslateDriver, which connects render frame translate driver mojo receivers to the browser-side translate client.
+// ---
+
 #ifndef CHROME_BROWSER_TRANSLATE_TRANSLATE_FRAME_BINDER_H_
 #define CHROME_BROWSER_TRANSLATE_TRANSLATE_FRAME_BINDER_H_
 

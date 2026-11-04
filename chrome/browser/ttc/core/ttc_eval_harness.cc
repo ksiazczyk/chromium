@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC eval harness implementation
+// summary: Implements a harness that starts and ends TTC sessions and drives user turns with text or injected PCM audio, applying timeouts and reporting turn results.
+// ---
+
 #include "chrome/browser/ttc/core/ttc_eval_harness.h"
 
 #include <algorithm>

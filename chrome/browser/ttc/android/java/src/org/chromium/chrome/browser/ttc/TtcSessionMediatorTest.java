@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TtcSessionMediatorTest
+// summary: Robolectric unit tests for TtcSessionMediator covering profile tracking, permission prompts, session lifecycle and error display.
+// ---
+
 package org.chromium.chrome.browser.ttc;
 
 import static org.junit.Assert.assertEquals;

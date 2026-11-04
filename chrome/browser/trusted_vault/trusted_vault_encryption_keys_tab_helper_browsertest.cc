@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Trusted vault encryption keys tab helper browser tests
+// summary: Browser tests verifying the encryption keys Mojo API behavior, including origin restrictions, metrics, and passkeys enclave support on desktop and Android.
+// ---
+
 #include "chrome/browser/trusted_vault/trusted_vault_encryption_keys_tab_helper.h"
 
 #include <string>

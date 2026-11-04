@@ -1,0 +1,4 @@
+# Docerion header of eval.html.
+type: source
+title: TTC Evaluation Harness page
+summary: HTML shell for the TTC evaluation harness WebUI that hosts the ttc-eval-app element and loads the eval app module.

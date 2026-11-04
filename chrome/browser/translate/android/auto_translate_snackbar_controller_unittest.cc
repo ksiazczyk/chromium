@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutoTranslateSnackbarController unit tests
+// summary: Unit tests exercising snackbar show, dismiss and undo behavior using a test bridge and mocked translate components.
+// ---
+
 #include "chrome/browser/translate/android/auto_translate_snackbar_controller.h"
 
 #include <string>

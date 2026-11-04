@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: AI Overlay Dialog template
+summary: Lit HTML template rendering captions, mock audio buttons, a text input and persona speaking or listening videos.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault encryption keys tab helper implementation
+// summary: Implements the Mojo encryption keys API exposed to allowed Google Accounts origins, converting and forwarding trusted vault keys to the trusted vault service.
+// ---
+
 #include "chrome/browser/trusted_vault/trusted_vault_encryption_keys_tab_helper.h"
 
 #include <algorithm>

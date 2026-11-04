@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC eval harness header
+// summary: Declares TtcEvalHarness, which drives automated TTC sessions end-to-end with canned audio or text inputs and reports consolidated turn results.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_TTC_EVAL_HARNESS_H_
 #define CHROME_BROWSER_TTC_CORE_TTC_EVAL_HARNESS_H_
 

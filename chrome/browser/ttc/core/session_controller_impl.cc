@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session controller implementation
+// summary: Implements SessionControllerImpl, coordinating the session view, conversation, journal, voice-focused tab tracking and lifecycle state transitions.
+// ---
+
 #include "chrome/browser/ttc/core/session_controller_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EvalAppElement Lit custom element
+// summary: Defines the ttc-eval-app Lit element that connects to the eval proxy and installs the TTC eval test API on page load.
+// ---
+
 import '/strings.m.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

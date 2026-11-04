@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC keyed service factory implementation
+// summary: Implements the profile-keyed factory that builds the TTC service only when the TTC, actor, and page content services are available.
+// ---
+
 #include "chrome/browser/ttc/core/ttc_keyed_service_factory.h"
 
 #include "chrome/browser/actor/actor_keyed_service_factory.h"

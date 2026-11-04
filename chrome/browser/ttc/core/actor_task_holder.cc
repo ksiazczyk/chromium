@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor task holder implementation
+// summary: Implements creation and lifecycle of the actor task backing a TTC session, stopping tasks that never acted when the holder is destroyed.
+// ---
+
 #include "chrome/browser/ttc/core/actor_task_holder.h"
 
 #include <optional>

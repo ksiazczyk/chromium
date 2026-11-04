@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTC core browser test base header
+// summary: Declares TtcCoreBrowserTestBase, the base class for TTC core browser tests providing profile, web contents, service and mock conversation access.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_TTC_CORE_BROWSER_TEST_BASE_H_
 #define CHROME_BROWSER_TTC_CORE_TTC_CORE_BROWSER_TEST_BASE_H_
 

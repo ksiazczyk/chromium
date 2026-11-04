@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake translate agent for tests
+// summary: Implements a fake TranslateAgent mojo service that records translate and revert calls and completes pending callbacks for use in translate tests.
+// ---
+
 #include "chrome/browser/translate/fake_translate_agent.h"
 
 #include <stddef.h>

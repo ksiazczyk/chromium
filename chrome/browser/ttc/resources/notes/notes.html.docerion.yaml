@@ -1,0 +1,4 @@
+# Docerion header of notes.html.
+type: source
+title: Remembered Notes WebUI page
+summary: HTML entry page for the Remembered Notes WebUI that loads theme styles, strings, and the notes app module.

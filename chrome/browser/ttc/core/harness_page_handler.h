@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HarnessPageHandler class declaration
+// summary: Declares the Mojo handler coordinating communication between browser C++ and the WebUI test runner via the eval harness Mojom interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_HARNESS_PAGE_HANDLER_H_
 #define CHROME_BROWSER_TTC_CORE_HARNESS_PAGE_HANDLER_H_
 

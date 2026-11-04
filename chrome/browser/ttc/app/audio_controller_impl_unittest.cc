@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioControllerImpl unit tests
+// summary: Unit tests for AudioControllerImpl covering capture, playback, loopback, and error handling using a mock audio manager.
+// ---
+
 #include "chrome/browser/ttc/app/audio_controller_impl.h"
 
 #include <cmath>

@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: TTC WebUI build flag declaration
+summary: Declares the enable_ttc_webui build argument that enables the TTC WebUI evaluation harness on desktop and disables it on Android.

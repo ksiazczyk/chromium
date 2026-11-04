@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive tests for TTC entrypoint controller
+// summary: Interactive browser tests verifying toolbar button pinning, highlighting, and app menu entrypoint behavior across browser windows.
+// ---
+
 #include "base/check_deref.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/app/chrome_command_ids.h"

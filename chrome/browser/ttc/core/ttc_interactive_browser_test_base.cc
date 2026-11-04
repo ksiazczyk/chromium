@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTC interactive browser test base implementation
+// summary: Implements the shared base class for TTC interactive browser tests, installing a TtcKeyedService that uses a mocked conversation.
+// ---
+
 #include "chrome/browser/ttc/core/ttc_interactive_browser_test_base.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio controller browser test
+// summary: Browser test verifying that a conversation's audio controller is created when a TTC session starts.
+// ---
+
 #include "chrome/browser/ttc/app/app_browser_test_base.h"
 #include "chrome/browser/ttc/app/audio_controller_impl.h"
 #include "chrome/browser/ttc/app/conversation_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice focused contents tracker Android implementation
+// summary: Implements the Android VoiceFocusedContentsTracker by binding to the profile's active TabModel and following tab and window switches.
+// ---
+
 #include "chrome/browser/ttc/core/voice_focused_contents_tracker_android.h"
 
 #include <memory>

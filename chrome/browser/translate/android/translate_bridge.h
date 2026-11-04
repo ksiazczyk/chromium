@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateBridge header
+// summary: Declares TranslateBridge::PrependToAcceptLanguagesIfNecessary, which prepends locale-derived language codes to the accept languages list.
+// ---
+
 #ifndef CHROME_BROWSER_TRANSLATE_ANDROID_TRANSLATE_BRIDGE_H_
 #define CHROME_BROWSER_TRANSLATE_ANDROID_TRANSLATE_BRIDGE_H_
 

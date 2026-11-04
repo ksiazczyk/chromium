@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate test utilities implementation
+// summary: Implements CreateTranslateWaiter, a test helper that builds a TranslateWaiter to await a given translate event on a specified WebContents.
+// ---
+
 #include "chrome/browser/translate/translate_test_utils.h"
 
 #include "chrome/browser/translate/chrome_translate_client.h"

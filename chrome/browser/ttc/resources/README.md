@@ -1,3 +1,9 @@
+---
+type: readme
+title: AI Overlay Dialog
+summary: Explains the architecture, state, tools and system instruction templating of the AI Overlay Dialog WebUI along with development notes.
+---
+
 # AI Overlay Dialog
 
 This directory contains the WebUI implementation of the AI Overlay Dialog.

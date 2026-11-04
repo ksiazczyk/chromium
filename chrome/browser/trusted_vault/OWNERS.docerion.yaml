@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to components/trusted_vault
+summary: Delegates code ownership review for this directory to the OWNERS file in components/trusted_vault.

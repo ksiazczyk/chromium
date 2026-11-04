@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session journal implementation
+// summary: Implements SessionJournalImpl, logging TTC session events into the actor journal with track UUIDs, task ID changes and server journal event handling.
+// ---
+
 #include "chrome/browser/ttc/core/session_journal_impl.h"
 
 #include <utility>

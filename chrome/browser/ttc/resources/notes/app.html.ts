@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remembered Notes app HTML template
+// summary: Lit HTML template rendering the Remembered Notes UI with key and value inputs, an add button, and a list of editable and deletable notes.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 

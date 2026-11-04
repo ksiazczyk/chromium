@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcKeyedService
+// summary: Java-side bridge to the native TTC keyed service that starts and ends sessions for a profile and notifies observers of session state, audio level and errors.
+// ---
+
 package org.chromium.chrome.browser.ttc;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate service unit tests
+// summary: Unit tests verifying TranslateService::IsTranslatableURL, covering empty, about:blank, chrome, devtools, file, content and file manager URLs, plus downloads and history pages.
+// ---
+
 #include "chrome/browser/translate/translate_service.h"
 
 #include "build/build_config.h"

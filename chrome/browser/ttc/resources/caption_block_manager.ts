@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption block manager for timed caption display
+// summary: Splits caption text into length-limited blocks and advances them on timers synced with audio playback, notifying a delegate of the active block.
+// ---
+
 import {log} from './logging.js';
 
 const FILE = 'CaptionBlockManager';

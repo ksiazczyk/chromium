@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Android TTC folder
+summary: Restricts includes in this directory to the public components/ttc/app/public API of the TTC app implementation.

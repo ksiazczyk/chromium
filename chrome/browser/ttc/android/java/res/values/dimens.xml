@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: TTC session pill dimension resources
+summary: Defines Android dimension values such as height, corner radius, elevation, icon size, padding and margins for the session pill UI component.
+-->
+
 <resources>
     <dimen name="ttc_session_pill_height">48dp</dimen>
     <dimen name="ttc_session_pill_corner_radius">24dp</dimen>

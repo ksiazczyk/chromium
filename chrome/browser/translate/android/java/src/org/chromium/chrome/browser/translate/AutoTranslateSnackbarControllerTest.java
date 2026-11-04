@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutoTranslateSnackbarControllerTest
+// summary: Robolectric unit tests checking that AutoTranslateSnackbarController.create returns null when window, activity, or snackbar manager are unavailable.
+// ---
+
 package org.chromium.chrome.browser.translate;
 
 import android.app.Activity;

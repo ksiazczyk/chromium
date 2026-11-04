@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice focused contents tracker base implementation
+// summary: Implements shared VoiceFocusedContentsTracker logic for observer management and asynchronous notification of active tab content changes.
+// ---
+
 #include "chrome/browser/ttc/core/voice_focused_contents_tracker.h"
 
 #include "base/functional/bind.h"

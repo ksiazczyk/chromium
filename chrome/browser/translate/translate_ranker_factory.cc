@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate ranker factory implementation
+// summary: Implements the profile-keyed service factory that builds a TranslateRankerImpl for each browser context, including guest profiles.
+// ---
+
 #include "chrome/browser/translate/translate_ranker_factory.h"
 
 #include "base/files/file_path.h"

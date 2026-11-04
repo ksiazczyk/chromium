@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice plate controller header
+// summary: Declares ttc::VoicePlateController, which owns the voice plate bubble UI of a session and moves it to the active browser window on window activation changes.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_VOICE_PLATE_CONTROLLER_H_
 #define CHROME_BROWSER_TTC_CORE_VOICE_PLATE_CONTROLLER_H_
 

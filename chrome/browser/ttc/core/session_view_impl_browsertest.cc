@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionViewImpl browser tests
+// summary: Interactive browser tests checking that the session UI shows and hides correctly across session start, end, tab switches, and window changes.
+// ---
+
 #include "chrome/browser/ttc/core/session_view_impl.h"
 
 #include "build/build_config.h"

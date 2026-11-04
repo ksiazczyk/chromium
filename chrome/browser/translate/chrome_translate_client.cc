@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome translate client implementation
+// summary: Implements the Chrome-level translate client that wires translate and language detection drivers, preferences, metrics and UI interactions for each WebContents.
+// ---
+
 #include "chrome/browser/translate/chrome_translate_client.h"
 
 #include <memory>

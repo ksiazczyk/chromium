@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice focused contents tracker desktop header
+// summary: Declares VoiceFocusedContentsTrackerDesktop, the desktop tracker that follows browser window activation via ProfileBrowserCollection.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_VOICE_FOCUSED_CONTENTS_TRACKER_DESKTOP_H_
 #define CHROME_BROWSER_TTC_CORE_VOICE_FOCUSED_CONTENTS_TRACKER_DESKTOP_H_
 

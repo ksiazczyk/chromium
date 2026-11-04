@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session journal for conversation turns and page context
+// summary: Records timestamped journal entries for conversation turns and page visits, updating transcripts with replace or append chunk accumulation modes.
+// ---
+
 import {PageContextChangeType} from './page_context_manager.js';
 import type {PageContextChangeEvent, PageContextManager} from './page_context_manager.js';
 

@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Remembered Notes app styles
+summary: Lit CSS styles defining the layout of the Remembered Notes WebUI, including the add-note form, notes list rows, and empty state.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

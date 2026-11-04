@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio player
+// summary: Plays base64 or PCM byte audio via the Web Audio API with start and done callbacks and energy measurement.
+// ---
+
 /**
  * Handles audio playback.
  */

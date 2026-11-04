@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate manager Android unit test
+// summary: Android unit tests simulating page navigations and language detection to exercise TranslateManager and infobar behavior.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

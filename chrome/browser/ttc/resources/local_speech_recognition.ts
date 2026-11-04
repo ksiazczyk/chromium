@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local speech recognition via Web Speech API
+// summary: Wraps the browser-local Web Speech API to produce interim and final transcripts for a delegate, falling back to cloud ASR when recognition is unavailable.
+// ---
+
 import {log, warnLog} from './logging.js';
 
 const FILE = 'LocalSpeechRecognition';

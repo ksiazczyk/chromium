@@ -1,0 +1,4 @@
+# Docerion header of ai_overlay_dialog.html.
+type: source
+title: AI Overlay Dialog host page
+summary: Transparent skeleton HTML page that hosts the ai-overlay-dialog-app element and loads the strings and app scripts.

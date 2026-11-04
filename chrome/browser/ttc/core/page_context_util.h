@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context URL support utility header
+// summary: Declares IsUrlSupportedForPageContext, which decides whether TTC may surface page context for a URL and reports the result via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_TTC_CORE_PAGE_CONTEXT_UTIL_H_
 #define CHROME_BROWSER_TTC_CORE_PAGE_CONTEXT_UTIL_H_
 

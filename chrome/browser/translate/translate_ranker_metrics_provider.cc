@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate ranker metrics provider implementation
+// summary: Flushes translate ranker events into UMA session data and updates ranker logging state as metrics recording and profiles change.
+// ---
+
 #include "chrome/browser/translate/translate_ranker_metrics_provider.h"
 
 #include "chrome/browser/browser_process.h"
