@@ -1,0 +1,4 @@
+# Docerion header of IDS_UNPIN_TAB.png.sha1.
+type: asset
+title: IDS_UNPIN_TAB image SHA-1 hash
+summary: Stores the SHA-1 checksum of the PNG screenshot linked to the IDS_UNPIN_TAB string in the Chrome Android tab UI resources.
