@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language model decision model unit tests
+// summary: Unit tests for the AI language model decision model, using fake on-device sessions to verify scoring, cloning, token counting and error handling.
+// ---
+
 #include "chrome/browser/ai/ai_language_model_decision_model.h"
 
 #include <algorithm>

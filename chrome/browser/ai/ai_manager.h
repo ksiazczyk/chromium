@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI manager class declaration
+// summary: Declares the AIManager class, the browser-side implementation of blink::mojom::AIManager that owns AI API clients, feature configuration and decision model backends.
+// ---
+
 #ifndef CHROME_BROWSER_AI_AI_MANAGER_H_
 #define CHROME_BROWSER_AI_AI_MANAGER_H_
 

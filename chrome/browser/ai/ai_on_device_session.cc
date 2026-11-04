@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device session request queueing implementation
+// summary: Implements AIOnDeviceSession, which queues model execution requests and runs them one at a time against the underlying Optimization Guide session.
+// ---
+
 #include "chrome/browser/ai/ai_on_device_session.h"
 
 AIOnDeviceSession::AIOnDeviceSession(

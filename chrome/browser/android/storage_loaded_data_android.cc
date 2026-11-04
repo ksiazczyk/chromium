@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI wrapper for loaded tab storage data
+// summary: Converts loaded tab state and storage warnings into Java objects and builds the Java counterpart for restored tab data.
+// ---
+
 #include "chrome/browser/android/storage_loaded_data_android.h"
 
 #include <algorithm>

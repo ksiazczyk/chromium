@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background tab manager header
+// summary: Declares BackgroundTabManager, a WebContents user data class that stores the profile and cached history for backgrounded tabs.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_BACKGROUND_TAB_MANAGER_H_
 #define CHROME_BROWSER_ANDROID_BACKGROUND_TAB_MANAGER_H_
 

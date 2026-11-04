@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab WebContents delegate for Android header
+// summary: Declares TabWebContentsDelegateAndroid, the Android-specific WebContents delegate class, including beforeunload auto-close suppression and find result handling.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_TAB_WEB_CONTENTS_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_TAB_WEB_CONTENTS_DELEGATE_ANDROID_H_
 

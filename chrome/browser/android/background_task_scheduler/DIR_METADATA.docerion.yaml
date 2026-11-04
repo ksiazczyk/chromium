@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for background task scheduler
+summary: Points the directory's metadata mixins at the shared background task scheduler metadata in components.

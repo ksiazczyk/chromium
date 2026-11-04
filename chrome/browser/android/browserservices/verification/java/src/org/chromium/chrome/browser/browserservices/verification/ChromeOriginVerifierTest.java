@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOriginVerifierTest
+// summary: Instrumented Chrome tests for ChromeOriginVerifier covering use-as-origin and handle-all-urls verification and allowlisting.
+// ---
+
 package org.chromium.chrome.browser.browserservices.verification;
 
 import android.util.Pair;

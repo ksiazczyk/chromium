@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabMatcherAndroid unit tests
+// summary: Unit tests verifying that headless tab models are excluded from open tab results on desktop Android and included on non-desktop.
+// ---
+
 #include "chrome/browser/android/autocomplete/tab_matcher_android.h"
 
 #include <memory>

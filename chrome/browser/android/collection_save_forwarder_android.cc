@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collection save forwarder JNI bridge
+// summary: Implements the Android JNI wrapper that creates and drives CollectionSaveForwarder for tab strip collections and tab groups.
+// ---
+
 #include "chrome/browser/android/collection_save_forwarder_android.h"
 
 #include <algorithm>

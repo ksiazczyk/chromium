@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collection save forwarder JNI wrapper header
+// summary: Declares the Android wrapper class for CollectionSaveForwarder, whose lifetime is managed through the corresponding Java object.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COLLECTION_SAVE_FORWARDER_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_COLLECTION_SAVE_FORWARDER_ANDROID_H_
 

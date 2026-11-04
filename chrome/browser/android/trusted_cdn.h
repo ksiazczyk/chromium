@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted CDN header
+// summary: Declares the TrustedCdn class, the native side of the Trusted CDN publisher URL provider managed by the Java layer.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_TRUSTED_CDN_H_
 #define CHROME_BROWSER_ANDROID_TRUSTED_CDN_H_
 

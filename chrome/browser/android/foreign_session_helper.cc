@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Foreign session helper implementation
+// summary: Implements the JNI bridge exposing synced foreign sessions, windows, and tabs to the Android recent tabs UI.
+// ---
+
 #include "chrome/browser/android/foreign_session_helper.h"
 
 #include <jni.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabAndroid unit tests
+// summary: Unit tests for the native TabAndroid class, exercising Java tab creation via JNI, tab helpers, navigation, downloads and tab group behavior.
+// ---
+
 #include "chrome/browser/android/tab_android.h"
 
 #include <memory>

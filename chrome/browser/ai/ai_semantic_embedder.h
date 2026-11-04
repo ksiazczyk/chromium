@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI semantic embedder header
+// summary: Declares the AISemanticEmbedder class that embeds input strings through the passage embeddings service as a context-bound object.
+// ---
+
 #ifndef CHROME_BROWSER_AI_AI_SEMANTIC_EMBEDDER_H_
 #define CHROME_BROWSER_AI_AI_SEMANTIC_EMBEDDER_H_
 

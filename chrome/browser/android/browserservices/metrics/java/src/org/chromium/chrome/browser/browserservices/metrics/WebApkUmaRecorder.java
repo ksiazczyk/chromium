@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkUmaRecorder
+// summary: Centralizes UMA data collection for WebAPKs, defining histogram enums for update requests, Google Play install results, and startup timing.
+// ---
+
 package org.chromium.chrome.browser.browserservices.metrics;
 
 import android.content.ContentResolver;

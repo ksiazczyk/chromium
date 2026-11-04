@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MergedWebappInfo for webapp updates
+// summary: WebappInfo subclass that can return the previously installed webapp's name and icon values when updates request disallowed identity changes.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import org.chromium.build.annotations.NullMarked;

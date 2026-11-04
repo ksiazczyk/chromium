@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabFeatures class header
+// summary: Declares the TabFeatures class holding Android-specific tab helpers and observers, including buildflag-guarded feature members.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_TAB_FEATURES_H_
 #define CHROME_BROWSER_ANDROID_TAB_FEATURES_H_
 

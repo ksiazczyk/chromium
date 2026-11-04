@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab state storage service profile factory
+// summary: Implements the profile-keyed factory that builds TabStateStorageService instances and exposes a JNI entry point for Java callers.
+// ---
+
 #include "chrome/browser/android/tab_state_storage_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmbeddingGemma V1 decision model unit tests
+// summary: Unit tests for AIEmbeddingGemmaV1DecisionModel using a fake embedder to verify decide results, priorities and error paths.
+// ---
+
 #include "chrome/browser/ai/ai_embedding_gemma_v1_decision_model.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI manager unit tests
+// summary: Unit tests for AIManager covering client creation, language codes, model download progress and semantic embedder service behavior.
+// ---
+
 #include "chrome/browser/ai/ai_manager.h"
 
 #include <memory>

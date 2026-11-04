@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recently closed tabs bridge header
+// summary: Declares TabIterator for traversing tab restore entries in most-recently-added order and the RecentlyClosedTabsBridge class that provides recently closed tabs to Java.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_RECENTLY_CLOSED_TABS_BRIDGE_H_
 #define CHROME_BROWSER_ANDROID_RECENTLY_CLOSED_TABS_BRIDGE_H_
 

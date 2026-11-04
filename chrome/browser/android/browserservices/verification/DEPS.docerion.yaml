@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency allowlist for the verification directory
+summary: Specifies allowed include rules and dependencies for the browser services verification directory, with extra rules applying to test files.

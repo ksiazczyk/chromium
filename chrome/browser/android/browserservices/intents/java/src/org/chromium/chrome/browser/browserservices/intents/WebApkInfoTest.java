@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkInfoTest
+// summary: Robolectric tests verifying that WebappInfo correctly parses WebAPK metadata such as start URL, scope, colors, icons and shortcuts.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

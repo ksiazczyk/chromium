@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Affiliations directory metadata
+summary: DIR_METADATA file that inherits the common metadata mixins from components/affiliations for this directory.

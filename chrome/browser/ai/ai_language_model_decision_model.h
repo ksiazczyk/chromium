@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language model decision model header
+// summary: Declares AILanguageModelDecisionModel, which scores decision model options via cloned on-device language model sessions.
+// ---
+
 #ifndef CHROME_BROWSER_AI_AI_LANGUAGE_MODEL_DECISION_MODEL_H_
 #define CHROME_BROWSER_AI_AI_LANGUAGE_MODEL_DECISION_MODEL_H_
 

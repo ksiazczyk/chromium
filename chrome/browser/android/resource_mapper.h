@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceMapper header declaring Java drawable ID mapping
+// summary: Declares the ResourceMapper class that converts Chromium resource IDs to Android drawable resource IDs needed by the Java UI.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_RESOURCE_MAPPER_H_
 #define CHROME_BROWSER_ANDROID_RESOURCE_MAPPER_H_
 

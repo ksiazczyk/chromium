@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data model Android holder implementation
+// summary: Implements the Profile user-data holder that stores a weak reference to the Android browsing data model.
+// ---
+
 #include "chrome/browser/android/browsing_data/browsing_data_model_android_holder.h"
 
 namespace {

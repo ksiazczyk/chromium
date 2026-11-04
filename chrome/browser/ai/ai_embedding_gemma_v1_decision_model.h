@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmbeddingGemma V1 decision model header
+// summary: Declares AIEmbeddingGemmaV1DecisionModel, an AIDecisionModel implementation based on passage embeddings with cached option vectors.
+// ---
+
 #ifndef CHROME_BROWSER_AI_AI_EMBEDDING_GEMMA_V1_DECISION_MODEL_H_
 #define CHROME_BROWSER_AI_AI_EMBEDDING_GEMMA_V1_DECISION_MODEL_H_
 

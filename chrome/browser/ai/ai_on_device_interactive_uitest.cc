@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device AI API interactive UI tests
+// summary: Interactive browser tests checking that on-device AI APIs such as Rewriter, Writer, Prompt and Proofreader are exposed correctly under origin trials, flags and workers.
+// ---
+
 #include <string>
 
 #include "base/strings/string_util.h"

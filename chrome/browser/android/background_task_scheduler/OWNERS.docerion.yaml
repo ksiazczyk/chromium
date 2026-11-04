@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for background task scheduler
+summary: Delegates code ownership to the OWNERS file of the components background task scheduler directory.

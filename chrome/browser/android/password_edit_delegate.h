@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password edit delegate interface for Android
+// summary: Defines the PasswordEditDelegate interface used to launch the password entry editor and apply a new username and password to a saved credential.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PASSWORD_EDIT_DELEGATE_H_
 #define CHROME_BROWSER_ANDROID_PASSWORD_EDIT_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data counter bridge implementation
+// summary: Implements the JNI bridge that reports browsing data counter results to the Java clear-browsing-data UI.
+// ---
+
 #include "chrome/browser/android/browsing_data/browsing_data_counter_bridge.h"
 
 #include "base/android/jni_string.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI utils unit tests
+// summary: Unit tests verifying conversion of regex and JSON schema response constraints to Mojo types and that unset constraints yield null.
+// ---
+
 #include "chrome/browser/ai/ai_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

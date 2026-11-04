@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomButtonParams for Custom Tab buttons
+// summary: Interface holding parameters for customizable toolbar and bottom bar buttons, including icons, descriptions and pending intents.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import android.app.PendingIntent;

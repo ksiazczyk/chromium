@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI feature flag declarations
+// summary: Declares the AI language model override configuration feature flag and its output buffer parameter.
+// ---
+
 #ifndef CHROME_BROWSER_AI_FEATURES_H_
 #define CHROME_BROWSER_AI_FEATURES_H_
 

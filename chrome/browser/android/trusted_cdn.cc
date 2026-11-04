@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted CDN publisher URL provider
+// summary: Native part of the Trusted CDN feature that returns the publisher URL for the current page, returning an empty URL for offline pages.
+// ---
+
 #include "chrome/browser/android/trusted_cdn.h"
 
 #include "chrome/browser/offline_pages/offline_page_utils.h"

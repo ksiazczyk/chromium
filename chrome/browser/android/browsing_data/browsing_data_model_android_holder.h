@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Browsing data model Android holder header
+// summary: Declares a holder that keeps a non-owning weak reference to BrowsingDataModelAndroid in Profile user data.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_BROWSING_DATA_BROWSING_DATA_MODEL_ANDROID_HOLDER_H_
 #define CHROME_BROWSER_ANDROID_BROWSING_DATA_BROWSING_DATA_MODEL_ANDROID_HOLDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabFeatures implementation
+// summary: Implements the Android tab features container that creates and wires the many tab helpers and observers attached to each tab's WebContents.
+// ---
+
 #include "chrome/browser/android/tab_features.h"
 
 #include <memory>

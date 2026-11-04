@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI response constraint conversion utilities
+// summary: Converts Optimization Guide response constraint protos, such as regex and JSON schema, into on-device model Mojo response constraints with logging for empty cases.
+// ---
+
 #include "chrome/browser/ai/ai_utils.h"
 
 #include "base/logging.h"

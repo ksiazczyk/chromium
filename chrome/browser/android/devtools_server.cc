@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools remote debugging server implementation for Android
+// summary: Implements the Android DevTools remote debugging server over Unix domain sockets, including socket authorization and tethering socket handling.
+// ---
+
 #include "chrome/browser/android/devtools_server.h"
 
 #include <pwd.h>

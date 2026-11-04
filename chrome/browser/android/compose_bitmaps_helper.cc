@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bitmap composition helper
+// summary: Composes up to four icon bitmaps into a single square bitmap with padding, laying out one, two, three or four icons.
+// ---
+
 #include "chrome/browser/android/compose_bitmaps_helper.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI data keyed service factory implementation
+// summary: Implements the profile-keyed factory that creates and provides AiDataKeyedService instances per browser context.
+// ---
+
 #include "chrome/browser/ai/ai_data_keyed_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIContextBoundObjectSet class
+// summary: Declares the set that owns context-bound AI objects and applies a shared on-device model session priority to all of them.
+// ---
+
 #ifndef CHROME_BROWSER_AI_AI_CONTEXT_BOUND_OBJECT_SET_H_
 #define CHROME_BROWSER_AI_AI_CONTEXT_BOUND_OBJECT_SET_H_
 

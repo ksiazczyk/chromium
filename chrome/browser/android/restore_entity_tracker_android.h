@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android restore entity tracker header
+// summary: Declares the Android-specific RestoreEntityTracker that tracks and associates Android nodes with storage IDs in the tab storage layer.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_RESTORE_ENTITY_TRACKER_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_RESTORE_ENTITY_TRACKER_ANDROID_H_
 

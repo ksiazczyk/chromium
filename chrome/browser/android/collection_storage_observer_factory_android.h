@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collection storage observer factory header
+// summary: Declares the Android factory that builds a CollectionStorageObserver to decouple C++ and Java object lifetimes.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COLLECTION_STORAGE_OBSERVER_FACTORY_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_COLLECTION_STORAGE_OBSERVER_FACTORY_ANDROID_H_
 

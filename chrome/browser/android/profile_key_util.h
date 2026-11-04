@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKeyUtil header
+// summary: Declares GetLastUsedRegularProfileKey, which works in both reduced and full browser mode and should only be used where ProfileManager::GetLastUsedProfile would be acceptable.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PROFILE_KEY_UTIL_H_
 #define CHROME_BROWSER_ANDROID_PROFILE_KEY_UTIL_H_
 

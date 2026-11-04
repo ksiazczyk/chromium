@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for BrowserServices metrics Java library
+summary: Defines the Android Java library and JNI header generation for browser services metrics recorders such as WebApkUkmRecorder and TrustedWebActivityUmaRecorder.

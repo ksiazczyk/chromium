@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI wrapper for the tab storage collection synchronizer
+// summary: Implements the Android JNI wrapper that forwards save, restore, and tab group operations from Java to StorageCollectionSynchronizer.
+// ---
+
 #include "chrome/browser/android/storage_collection_synchronizer_android.h"
 
 #include "base/android/callback_android.h"

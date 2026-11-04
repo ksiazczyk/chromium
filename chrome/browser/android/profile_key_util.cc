@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKeyUtil JNI bridge
+// summary: Returns the profile key of the last used regular profile on Android, falling back to the startup accessor in reduced mode and exposing it to Java via JNI.
+// ---
+
 #include "chrome/browser/android/profile_key_util.h"
 
 #include "base/android/scoped_java_ref.h"

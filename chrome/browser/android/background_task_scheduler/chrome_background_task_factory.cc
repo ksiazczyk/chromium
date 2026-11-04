@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome background task factory implementation
+// summary: Maps scheduled task IDs to native background tasks such as feed refresh and metrics uploads, and registers the factory as default in Java.
+// ---
+
 #include "chrome/browser/android/background_task_scheduler/chrome_background_task_factory.h"
 
 #include <memory>

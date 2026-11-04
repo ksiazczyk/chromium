@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partner browser customizations JNI bridge
+// summary: JNI bridge that queries whether the device partner has disabled incognito mode.
+// ---
+
 #include "chrome/browser/android/partner_browser_customizations.h"
 
 #include "base/android/jni_android.h"

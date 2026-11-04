@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bitmap composition helper header
+// summary: Declares ComposeBitmaps and ScaleBitmap for combining a list of up to four bitmaps into one image.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSE_BITMAPS_HELPER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSE_BITMAPS_HELPER_H_
 

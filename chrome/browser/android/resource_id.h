@@ -12,6 +12,12 @@
 // NOLINT(build/header_guard)
 // no-include-guard-because-multiply-included
 
+// ---docerion
+// type: source
+// title: Chromium to Android resource ID mapping
+// summary: Header that maps Chromium resource IDs to Android drawable resource IDs for infobars, messages and password manager UI using LINK_RESOURCE_ID and DECLARE_RESOURCE_ID macros.
+// ---
+
 #include "chrome/browser/page_info/page_info_buildflags.h"
 #include "components/password_manager/core/browser/password_manager_buildflags.h"
 

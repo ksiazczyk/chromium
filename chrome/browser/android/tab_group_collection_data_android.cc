@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group collection data Android JNI implementation
+// summary: Implements TabGroupCollectionDataAndroid, a JNI wrapper that exposes tab group id, title, color and collapsed state from C++ to Java.
+// ---
+
 #include "chrome/browser/android/tab_group_collection_data_android.h"
 
 #include <jni.h>

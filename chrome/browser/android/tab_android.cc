@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native implementation of the Android tab
+// summary: Implements TabAndroid, the native counterpart of the Java Tab, wiring WebContents, autofill, sync, tab groups, and UI features.
+// ---
+
 #include "chrome/browser/android/tab_android.h"
 
 #include <stddef.h>

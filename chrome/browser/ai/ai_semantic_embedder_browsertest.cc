@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI semantic embedder browser test
+// summary: Browser test that exercises the SemanticEmbedder JS API and checks embedding cosine similarity ordering and batch embedding.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/ai/features.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

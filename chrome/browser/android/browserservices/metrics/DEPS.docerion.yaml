@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the metrics directory
+summary: Grants this directory permission to include content public Java sources under org.chromium.content_public.

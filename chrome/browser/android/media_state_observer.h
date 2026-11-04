@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media state observer header
+// summary: Declares MediaStateObserver, which watches media-related state changes for a tab's web contents and updates the TabAndroid media indicator.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_MEDIA_STATE_OBSERVER_H_
 #define CHROME_BROWSER_ANDROID_MEDIA_STATE_OBSERVER_H_
 

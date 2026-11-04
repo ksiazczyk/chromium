@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome entry point for test builds
+// summary: Provides the JNI_OnLoad entry point for test builds, initializing the VM and setting up a network service test environment in the utility process.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/android/jni_utils.h"
 #include "base/android/library_loader/library_loader_hooks.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon helper header
+// summary: Declares the FaviconHelper class used from Java to retrieve favicon bitmaps for page URLs.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_FAVICON_HELPER_H_
 #define CHROME_BROWSER_ANDROID_FAVICON_HELPER_H_
 

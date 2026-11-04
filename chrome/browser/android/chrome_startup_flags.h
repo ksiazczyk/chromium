@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome startup flags header
+// summary: Declares SetChromeSpecificCommandLineFlags, which appends Android-specific Chrome feature flags early in initialization.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_CHROME_STARTUP_FLAGS_H_
 #define CHROME_BROWSER_ANDROID_CHROME_STARTUP_FLAGS_H_
 

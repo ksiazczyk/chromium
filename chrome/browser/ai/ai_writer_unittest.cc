@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI Writer unit tests
+// summary: Unit tests for the AI Writer, covering writer creation, streaming responses, context handling, and error and quota reporting.
+// ---
+
 #include "chrome/browser/ai/ai_writer.h"
 
 #include <memory>

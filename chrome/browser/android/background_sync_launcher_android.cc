@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Sync launcher Android implementation
+// summary: Implements scheduling, cancelling, and firing of one-shot and periodic Background Sync browser wake-up tasks through JNI on Android.
+// ---
+
 #include "chrome/browser/android/background_sync_launcher_android.h"
 
 #include <utility>

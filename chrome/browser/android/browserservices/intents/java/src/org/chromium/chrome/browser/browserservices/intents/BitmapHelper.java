@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapHelper bitmap utilities
+// summary: Utility class that compresses bitmaps into Base64-encoded PNG strings and decodes such strings back into bitmaps.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import android.graphics.Bitmap;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decision model prompt builder header
+// summary: Declares DecisionModelPromptBuilder, which builds the system, input, and question prompts scored by the on-device language model.
+// ---
+
 #ifndef CHROME_BROWSER_AI_DECISION_MODEL_PROMPT_BUILDER_H_
 #define CHROME_BROWSER_AI_DECISION_MODEL_PROMPT_BUILDER_H_
 

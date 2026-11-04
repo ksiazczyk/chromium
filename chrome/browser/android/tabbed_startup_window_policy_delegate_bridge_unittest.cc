@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabbed startup window policy delegate bridge unit tests
+// summary: Unit tests verifying null pref service handling, filtering of invalid and unsafe URLs, and reset to the default startup type for empty lists.
+// ---
+
 #include "chrome/browser/android/tabbed_startup_window_policy_delegate_bridge.h"
 
 #include <string>

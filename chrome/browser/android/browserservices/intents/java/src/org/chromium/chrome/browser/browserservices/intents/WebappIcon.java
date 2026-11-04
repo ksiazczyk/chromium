@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappIcon
+// summary: Represents a web app bitmap icon and lazily converts between encoded data, bitmaps and WebAPK package resources.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import android.content.pm.PackageManager;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab state storage service Android JNI bridge
+// summary: Bridges TabStateStorageService to Java over JNI for saving, loading, counting and clearing tab state, including batched operations.
+// ---
+
 #include "chrome/browser/android/tab_state_storage_service_android.h"
 
 #include <memory>

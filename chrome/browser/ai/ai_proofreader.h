@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI proofreader class declaration
+// summary: Declares the AIProofreader class implementing the AIProofreader Mojo interface, including supported language codes and proofreading request building.
+// ---
+
 #ifndef CHROME_BROWSER_AI_AI_PROOFREADER_H_
 #define CHROME_BROWSER_AI_AI_PROOFREADER_H_
 

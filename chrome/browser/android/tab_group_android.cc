@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupAndroid implementation
+// summary: Implements the Android TabGroup subclass that constructs platform-specific TabGroupFeatures and tracks the last shown tab in the group.
+// ---
+
 #include "chrome/browser/android/tab_group_android.h"
 
 #include <memory>

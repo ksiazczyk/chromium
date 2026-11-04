@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collection storage observer factory JNI bridge
+// summary: Builds CollectionStorageObserver instances from Java via JNI using the profile's tab state storage service.
+// ---
+
 #include "chrome/browser/android/collection_storage_observer_factory_android.h"
 
 #include "base/memory/ptr_util.h"

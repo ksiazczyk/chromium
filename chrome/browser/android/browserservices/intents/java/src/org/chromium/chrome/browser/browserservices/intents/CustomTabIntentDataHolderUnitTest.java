@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomTabIntentDataHolder unit tests
+// summary: Robolectric unit tests verifying parcel round-trip serialization of CustomTabIntentDataHolder and SessionHolder.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import static org.junit.Assert.assertArrayEquals;

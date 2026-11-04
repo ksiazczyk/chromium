@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab WebContents destroyer unit tests
+// summary: Unit tests covering null WebContents handling, unload timeouts, fallback timer expiration and navigation suppression for TabWebContentsDestroyer.
+// ---
+
 #include "chrome/browser/android/tab_web_contents_destroyer.h"
 
 #include <memory>

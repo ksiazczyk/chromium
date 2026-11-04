@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device session wrapper declaration
+// summary: Declares AIOnDeviceSession, a wrapper around an Optimization Guide on-device session that serializes queued execution requests and exposes token limits.
+// ---
+
 #ifndef CHROME_BROWSER_AI_AI_ON_DEVICE_SESSION_H_
 #define CHROME_BROWSER_AI_AI_ON_DEVICE_SESSION_H_
 

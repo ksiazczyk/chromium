@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabbed startup window policy delegate bridge header
+// summary: Declares functions to get and set validated web-safe session startup URLs in the pref service for the Java startup policy delegate.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_TABBED_STARTUP_WINDOW_POLICY_DELEGATE_BRIDGE_H_
 #define CHROME_BROWSER_ANDROID_TABBED_STARTUP_WINDOW_POLICY_DELEGATE_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android factory for the storage restore orchestrator
+// summary: Implements the JNI factory that builds a StorageRestoreOrchestrator from a profile, tab collection, and loaded data.
+// ---
+
 #include "chrome/browser/android/storage_restore_orchestrator_factory_android.h"
 
 #include <jni.h>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of chrome/browser/ai
+summary: OWNERS file listing the active and backup owners responsible for reviewing changes to the browser AI code.

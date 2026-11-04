@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI semantic embedder service launcher header
+// summary: Declares the service launcher managing the passage embeddings service, component updater observation, and model availability callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_AI_AI_SEMANTIC_EMBEDDER_SERVICE_LAUNCHER_H_
 #define CHROME_BROWSER_AI_AI_SEMANTIC_EMBEDDER_SERVICE_LAUNCHER_H_
 

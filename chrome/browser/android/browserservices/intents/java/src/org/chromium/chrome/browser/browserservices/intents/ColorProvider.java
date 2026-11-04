@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProvider interface for Custom Tab colors
+// summary: Interface providing the toolbar, navigation bar, bottom bar and background colors used by browser services intent data providers.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappInfo
+// summary: Exposes web app information such as name, URL, scope, colors and WebAPK details backed by a browser services intent data provider.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import android.text.TextUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Affiliation service factory implementation
+// summary: Implements AffiliationServiceFactory, building a per-profile AffiliationServiceImpl with a URL loader factory, backend task runner and affiliation database path.
+// ---
+
 #include "chrome/browser/affiliations/affiliation_service_factory.h"
 
 #include "base/files/file_path.h"

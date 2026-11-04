@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI language model implementation
+// summary: Implements blink's AILanguageModel Mojo interface, handling prompt history, token limits, streaming and tool calls for the Prompt API.
+// ---
+
 #include "chrome/browser/ai/ai_language_model.h"
 
 #include <algorithm>

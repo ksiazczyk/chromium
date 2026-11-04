@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools remote debugging server header
+// summary: Declares the DevToolsServer class that starts and stops the Linux abstract socket used for remote debugging.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_DEVTOOLS_SERVER_H_
 #define CHROME_BROWSER_ANDROID_DEVTOOLS_SERVER_H_
 

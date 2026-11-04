@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy native task header
+// summary: Declares a proxy that forwards background task lifecycle calls to a wrapped native BackgroundTask.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_BACKGROUND_TASK_SCHEDULER_PROXY_NATIVE_TASK_H_
 #define CHROME_BROWSER_ANDROID_BACKGROUND_TASK_SCHEDULER_PROXY_NATIVE_TASK_H_
 

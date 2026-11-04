@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab storage packager Android header
+// summary: Declares TabStoragePackagerAndroid and the TabModelType enum for the Android implementation that packages tab strip collection data for storage.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_TAB_STORAGE_PACKAGER_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_TAB_STORAGE_PACKAGER_ANDROID_H_
 

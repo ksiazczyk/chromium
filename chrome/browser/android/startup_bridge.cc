@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android startup bridge for loading the full browser
+// summary: Implements a JNI bridge that lets Android startup code trigger loading of the full browser process once it is needed.
+// ---
+
 #include "chrome/browser/android/startup_bridge.h"
 
 #include <jni.h>

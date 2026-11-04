@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Foreign session helper header
+// summary: Declares the ForeignSessionHelper class for retrieving, opening, and deleting synced foreign session tabs.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_FOREIGN_SESSION_HELPER_H_
 #define CHROME_BROWSER_ANDROID_FOREIGN_SESSION_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI manager implementation
+// summary: Implements the browser-side AIManager Mojo service that creates language models, proofreaders, rewriters, summarizers, writers and embedders for web content.
+// ---
+
 #include "chrome/browser/ai/ai_manager.h"
 
 #include <memory>

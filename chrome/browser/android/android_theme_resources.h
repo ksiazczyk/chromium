@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android theme resource ID enum header
+// summary: Declares an enum of Android Chrome theme resource IDs generated from resource_id.h, starting after the components resource IDs to avoid conflicts.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_ANDROID_THEME_RESOURCES_H_
 #define CHROME_BROWSER_ANDROID_ANDROID_THEME_RESOURCES_H_
 

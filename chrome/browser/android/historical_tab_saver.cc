@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Historical tab saver implementation
+// summary: Implements saving and restoring historical tab state on Android, including frozen tab WebContents state and tab group identifiers.
+// ---
+
 #include "chrome/browser/android/historical_tab_saver.h"
 
 #include <memory>

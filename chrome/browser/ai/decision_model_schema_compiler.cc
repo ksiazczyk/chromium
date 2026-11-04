@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decision model schema compiler implementation
+// summary: Implements validation and compilation of decision schemas, including option weights, default score descriptions, and embedding passages.
+// ---
+
 #include "chrome/browser/ai/decision_model_schema_compiler.h"
 
 #include <algorithm>

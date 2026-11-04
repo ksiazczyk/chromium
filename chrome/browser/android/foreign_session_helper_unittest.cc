@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Foreign session helper unit tests
+// summary: Unit tests verifying which session tabs are skipped based on empty, invalid, or unsyncable URL schemes.
+// ---
+
 #include "chrome/browser/android/foreign_session_helper.h"
 
 #include <memory>

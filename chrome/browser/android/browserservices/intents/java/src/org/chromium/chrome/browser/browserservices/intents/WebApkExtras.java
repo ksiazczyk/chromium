@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkExtras
+// summary: Holds WebAPK-specific data such as package name, splash icon, manifest details, shortcuts and share target on behalf of the browser services intent data provider.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import org.chromium.build.annotations.NullMarked;

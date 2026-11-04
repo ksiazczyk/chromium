@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedWebActivityUmaRecorder
+// summary: Encapsulates UMA and UKM recording for Trusted Web Activities, covering opens, open time, disclosure events, settings access, and permission requests.
+// ---
+
 package org.chromium.chrome.browser.browserservices.metrics;
 
 import androidx.annotation.IntDef;

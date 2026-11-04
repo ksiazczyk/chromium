@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android storage collection synchronizer wrapper
+// summary: Declares StorageCollectionSynchronizerAndroid, the Android wrapper exposing tab collection save and restore operations to Java.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_STORAGE_COLLECTION_SYNCHRONIZER_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_STORAGE_COLLECTION_SYNCHRONIZER_ANDROID_H_
 

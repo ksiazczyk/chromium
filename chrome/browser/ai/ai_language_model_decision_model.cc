@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language model decision model implementation
+// summary: Implements AIDecisionModel by formatting questions as multiple-choice prompts and scoring options with on-device language model probabilities.
+// ---
+
 #include "chrome/browser/ai/ai_language_model_decision_model.h"
 
 #include <algorithm>
