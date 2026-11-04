@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewDownloadTabProvider
+// summary: Provider that attaches, retrieves, and detaches a NewDownloadTab instance associated with a given WindowAndroid via unowned user data.
+// ---
+
 package org.chromium.chrome.browser.download.interstitial;
 
 import org.chromium.base.UnownedUserDataKey;

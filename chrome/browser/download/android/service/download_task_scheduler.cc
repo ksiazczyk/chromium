@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download task scheduler native implementation
+// summary: Implements the DownloadTaskScheduler by forwarding task scheduling and cancellation requests to the Java DownloadTaskScheduler via JNI.
+// ---
+
 #include "chrome/browser/download/android/service/download_task_scheduler.h"
 
 #include "base/android/jni_android.h"

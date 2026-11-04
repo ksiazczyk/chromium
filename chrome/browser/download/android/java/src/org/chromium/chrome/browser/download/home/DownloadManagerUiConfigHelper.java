@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadManagerUiConfigHelper
+// summary: Helper that builds a DownloadManagerUiConfig.Builder from Chrome feature flags and device form factor.
+// ---
+
 package org.chromium.chrome.browser.download.home;
 
 import android.content.Context;

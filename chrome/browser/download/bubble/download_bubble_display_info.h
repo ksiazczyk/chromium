@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble display info header
+// summary: Declares a struct summarizing download state for the bubble, such as in-progress and paused counts, deep scanning, content checks and last completed time.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_DISPLAY_INFO_H_
 #define CHROME_BROWSER_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_DISPLAY_INFO_H_
 

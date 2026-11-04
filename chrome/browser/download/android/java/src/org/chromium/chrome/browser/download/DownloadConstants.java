@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download constants
+// summary: Holds constants shared by download code, currently the invalid download ID sentinel value.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import org.chromium.build.annotations.NullMarked;

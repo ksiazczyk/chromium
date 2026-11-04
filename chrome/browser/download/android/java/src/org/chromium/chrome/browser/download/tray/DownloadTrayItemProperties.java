@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadTrayItemProperties
+// summary: Defines property keys for a download tray row, shared by the completion popup and the full tray list so both render rows identically.
+// ---
+
 package org.chromium.chrome.browser.download.tray;
 
 import android.view.View;

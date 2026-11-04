@@ -16,6 +16,12 @@
 // DownloadListener2.requestHttpGetDownload()
 //
 
+// ---docerion
+// type: source
+// title: Android download controller class declaration
+// summary: Declares the DownloadController singleton that pairs with its Java counterpart to manage download requests.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_CONTROLLER_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_CONTROLLER_H_
 

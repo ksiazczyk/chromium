@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadSettings fragment for Android download preferences
+// summary: Settings fragment for Chrome Android downloads that wires up location, location prompt, and auto-open PDF preferences.
+// ---
+
 package org.chromium.chrome.browser.download.settings;
 
 import android.content.Context;

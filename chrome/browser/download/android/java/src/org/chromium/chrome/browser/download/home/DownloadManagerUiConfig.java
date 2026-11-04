@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadManagerUiConfig
+// summary: Holds configuration parameters for the download home UI, such as thumbnails, grouping, search bar and Safe Browsing display options.
+// ---
+
 package org.chromium.chrome.browser.download.home;
 
 import static org.chromium.components.browser_ui.util.ConversionUtils.BYTES_PER_MEGABYTE;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dangerous download dialog bridge class declaration
+// summary: Declares the JNI bridge that shows and dismisses confirmation dialogs for dangerous download items.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_DANGEROUS_DOWNLOAD_DIALOG_BRIDGE_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_DANGEROUS_DOWNLOAD_DIALOG_BRIDGE_H_
 

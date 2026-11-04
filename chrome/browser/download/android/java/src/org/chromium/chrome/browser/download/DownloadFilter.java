@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadFilter
+// summary: Holds download filter type constants and maps MIME types to filter categories such as video, audio, image and document for UMA logging.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.text.TextUtils;

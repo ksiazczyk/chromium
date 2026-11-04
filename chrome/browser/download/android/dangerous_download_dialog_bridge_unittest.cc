@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dangerous download dialog bridge unit tests
+// summary: Tests download domain selection for the dangerous download dialog under the malicious APK download check feature.
+// ---
+
 #include "chrome/browser/download/android/dangerous_download_dialog_bridge.h"
 
 #include <optional>

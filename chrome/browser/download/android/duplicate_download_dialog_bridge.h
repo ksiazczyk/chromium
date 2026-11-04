@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Duplicate download dialog bridge header
+// summary: Declares the DuplicateDownloadDialogBridge singleton for showing duplicate download confirmation dialogs with validated JNI callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_DUPLICATE_DOWNLOAD_DIALOG_BRIDGE_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_DUPLICATE_DOWNLOAD_DIALOG_BRIDGE_H_
 

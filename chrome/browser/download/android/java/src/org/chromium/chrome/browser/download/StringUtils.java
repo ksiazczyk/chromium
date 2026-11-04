@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download UI string utilities
+// summary: Helper class that converts download progress, byte counts, file counts and remaining time into localized UI strings.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

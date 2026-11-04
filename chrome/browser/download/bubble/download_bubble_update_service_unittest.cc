@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download bubble update service unit tests
+// summary: Unit tests for DownloadBubbleUpdateService covering caching, sorting, pruning, and display of download and offline items with mock dependencies.
+// ---
+
 #include "chrome/browser/download/bubble/download_bubble_update_service.h"
 
 #include <memory>

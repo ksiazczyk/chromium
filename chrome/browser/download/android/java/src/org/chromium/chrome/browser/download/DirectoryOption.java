@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download directory option model
+// summary: Model class describing a download directory option with its name, location, available and total space, and a directory type used in histograms.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import androidx.annotation.IntDef;

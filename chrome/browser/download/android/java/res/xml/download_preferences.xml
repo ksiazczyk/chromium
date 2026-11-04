@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Download preferences screen XML
+summary: Android preference screen resource defining the download settings UI, including a download location preference and switches for location prompting and auto-opening PDFs.
+-->
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <org.chromium.chrome.browser.download.settings.DownloadLocationPreference
         android:key="location_change"

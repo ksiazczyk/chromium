@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble UI controller implementation
+// summary: Implements the window-level controller for the Chrome download bubble, handling download and offline item events, main and partial views, and HaTS survey triggers.
+// ---
+
 #include "chrome/browser/download/bubble/download_bubble_ui_controller.h"
 
 #include "base/files/file_path.h"

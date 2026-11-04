@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble update service implementation
+// summary: Implements the profile-keyed service that caches and sorts download and offline items so the download bubble UI can be updated without re-sorting all items.
+// ---
+
 #include "chrome/browser/download/bubble/download_bubble_update_service.h"
 
 #include <iterator>

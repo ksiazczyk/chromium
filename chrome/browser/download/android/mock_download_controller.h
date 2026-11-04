@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock download controller header
+// summary: Declares MockDownloadController, a mock implementation of DownloadControllerBase used in place of the real controller during tests.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_MOCK_DOWNLOAD_CONTROLLER_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_MOCK_DOWNLOAD_CONTROLLER_H_
 

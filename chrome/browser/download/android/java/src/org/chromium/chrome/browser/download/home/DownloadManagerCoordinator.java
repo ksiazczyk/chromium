@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadManagerCoordinator interface
+// summary: Interface for the main download manager UI coordinator that lists downloaded items and exposes URL state changes.
+// ---
+
 package org.chromium.chrome.browser.download.home;
 
 import android.view.View;

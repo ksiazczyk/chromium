@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy warning download dialog bridge header
+// summary: Declares PolicyWarningDownloadDialogBridge, a self-destructive DownloadItem observer that shows enterprise policy warnings for sensitive downloads via JNI.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_POLICY_WARNING_DOWNLOAD_DIALOG_BRIDGE_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_POLICY_WARNING_DOWNLOAD_DIALOG_BRIDGE_H_
 

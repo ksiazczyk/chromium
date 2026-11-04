@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenDownloadDialogTest
+// summary: Robolectric tests verifying the open download dialog's title, buttons, and checkbox behavior for cases with and without a target app and with auto-open enabled or disabled.
+// ---
+
 package org.chromium.chrome.browser.download.dialogs;
 
 import static org.mockito.ArgumentMatchers.eq;

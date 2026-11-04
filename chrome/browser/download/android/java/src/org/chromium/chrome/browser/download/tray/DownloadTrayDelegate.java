@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadTrayDelegate
+// summary: Interface for actions the download tray needs from outside the download module, such as opening a completed download.
+// ---
+
 package org.chromium.chrome.browser.download.tray;
 
 import org.chromium.build.annotations.NullMarked;

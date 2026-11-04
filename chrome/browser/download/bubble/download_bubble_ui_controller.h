@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble UI controller header
+// summary: Declares DownloadBubbleUIController, the per-browser-window controller that manages download bubble views and forwards download and offline item notifications to the UI.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_UI_CONTROLLER_H_
 #define CHROME_BROWSER_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_UI_CONTROLLER_H_
 

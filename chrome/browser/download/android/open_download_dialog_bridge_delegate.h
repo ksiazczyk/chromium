@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open download dialog bridge delegate header
+// summary: Declares OpenDownloadDialogBridgeDelegate, a DownloadItem observer that shows dialogs asking whether to open a downloaded file from an external app.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_OPEN_DOWNLOAD_DIALOG_BRIDGE_DELEGATE_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_OPEN_DOWNLOAD_DIALOG_BRIDGE_DELEGATE_H_
 

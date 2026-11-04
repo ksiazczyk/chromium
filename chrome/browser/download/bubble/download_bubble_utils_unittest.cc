@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download bubble utils unit tests
+// summary: Unit tests for download bubble utility functions, verifying accessible alerts for in-progress, paused, interrupted, complete and cancelled downloads.
+// ---
+
 #include "chrome/browser/download/bubble/download_bubble_utils.h"
 
 #include <string>

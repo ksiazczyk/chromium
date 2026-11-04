@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaStoreHelper
+// summary: Helper that scans downloaded images on an external SD card into the Android media store so they appear in the gallery app.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.media.MediaScannerConnection;

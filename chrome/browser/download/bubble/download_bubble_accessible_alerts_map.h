@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble accessible alerts map header
+// summary: Declares DownloadBubbleAccessibleAlertsMap, which stores unannounced alerts per download and tracks when each download was last announced.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_ACCESSIBLE_ALERTS_MAP_H_
 #define CHROME_BROWSER_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_ACCESSIBLE_ALERTS_MAP_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadFileProvider
+// summary: Android FileProvider subclass that generates content URIs for downloaded files, including those on external SD card storage, so they can be opened or shared with other applications.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

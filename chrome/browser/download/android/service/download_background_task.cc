@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download background task JNI bridge for Android
+// summary: Implements the JNI entry points that start and stop scheduled Android download background tasks, dispatching them to the download service or auto-resumption handler.
+// ---
+
 #include "base/android/callback_android.h"
 #include "base/functional/bind.h"
 #include "chrome/browser/download/android/download_manager_service.h"

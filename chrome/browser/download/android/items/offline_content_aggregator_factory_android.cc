@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineContentAggregatorFactory Android JNI implementation
+// summary: Implements the JNI entry point that returns the Java OfflineContentAggregatorBridge for the last used regular profile's offline content aggregator on Android.
+// ---
+
 #include "chrome/browser/offline_items_collection/offline_content_aggregator_factory.h"
 
 #include "base/android/jni_android.h"

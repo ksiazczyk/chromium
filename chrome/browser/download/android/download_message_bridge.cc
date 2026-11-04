@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download message bridge implementation
+// summary: JNI bridge that shows Android messages warning about incognito downloads and unsupported download types, forwarding results via callbacks.
+// ---
+
 #include "chrome/browser/download/android/download_message_bridge.h"
 
 #include "base/android/callback_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble utilities header
+// summary: Declares helper functions for the download bubble, such as recency and progress state checks, accessible alert lookup, and browser selection for the download animation.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_UTILS_H_
 #define CHROME_BROWSER_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_UTILS_H_
 

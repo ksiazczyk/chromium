@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadInterstitialCoordinator
+// summary: Interface defining a coordinator that sets up a download interstitial view showing the most recent download's progress and provides its view and tab reparenting handling.
+// ---
+
 package org.chromium.chrome.browser.download.interstitial;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download utils implementation
+// summary: Implements Android download helpers for resume modes, auto-resumption size limits, opening downloads, MIME remapping, and auto-open checks.
+// ---
+
 #include "chrome/browser/download/android/download_utils.h"
 
 #include <utility>

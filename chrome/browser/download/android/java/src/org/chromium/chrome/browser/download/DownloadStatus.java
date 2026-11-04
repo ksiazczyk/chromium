@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadStatus
+// summary: 'IntDef annotation enumerating download item statuses: in progress, complete, failed, cancelled and interrupted.'
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import androidx.annotation.IntDef;

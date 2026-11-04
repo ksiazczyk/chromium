@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble preferences implementation
+// summary: Implements profile-based helpers that decide whether to show the download bubble and read or write partial view enablement and impression preferences.
+// ---
+
 #include "chrome/browser/download/bubble/download_bubble_prefs.h"
 
 #include "chrome/browser/download/download_core_service.h"

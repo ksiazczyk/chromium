@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadTrayMediatorTest
+// summary: Robolectric unit tests for the download tray mediator, covering popup showing, dismissal, timing intervals and window focus behavior.
+// ---
+
 package org.chromium.chrome.browser.download.tray;
 
 import static org.junit.Assert.assertEquals;

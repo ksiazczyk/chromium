@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadTrayMediator
+// summary: Mediator that decides when the download tray shows a download and builds row models, mirroring the desktop download bubble's completion popup behavior.
+// ---
+
 package org.chromium.chrome.browser.download.tray;
 
 import android.content.Context;

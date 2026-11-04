@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download callback validator class declaration
+// summary: Declares a helper class that validates callback IDs handed to the Java side are used correctly.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_CALLBACK_VALIDATOR_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_CALLBACK_VALIDATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadManagerBridge
+// summary: Wrapper around the Android DownloadManager providing utilities to enqueue, query and remove system downloads and manage download ID mappings.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.app.DownloadManager;

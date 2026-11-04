@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadFileProviderUnitTest
+// summary: Robolectric unit tests verifying that DownloadFileProvider generates and parses content URIs correctly for primary and external storage download paths.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.mockito.Mockito.doReturn;

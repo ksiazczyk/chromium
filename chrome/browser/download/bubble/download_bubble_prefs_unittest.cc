@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download bubble preferences unit tests
+// summary: Unit tests verifying default values and setters for the partial view enabled and impressions preferences using a testing profile.
+// ---
+
 #include "chrome/browser/download/bubble/download_bubble_prefs.h"
 
 #include "base/memory/raw_ptr.h"

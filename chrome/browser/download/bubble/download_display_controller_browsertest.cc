@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download display controller browser tests
+// summary: Browser tests for the download display controller, using a fake display to verify toolbar icon and bubble behavior across download states.
+// ---
+
 #include "chrome/browser/download/bubble/download_display_controller.h"
 
 #include "base/command_line.h"

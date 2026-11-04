@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Download location spinner dropdown item layout
+summary: Dropdown item layout for the download location spinner, wrapping the modern list item view to preserve styling.
+-->
+
 <!-- Note: Nested layouts are used because the styling was being overwritten,
      likely because of the behavior of the Android Spinner class. -->
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"

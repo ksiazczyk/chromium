@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Error icon color tint list
+summary: Android color selector resource that tints the download error icon with the theme error color, varying alpha when disabled and applying it for selected, focused, pressed, and activated states.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:alpha="@dimen/default_disabled_alpha"
           android:state_enabled="false"

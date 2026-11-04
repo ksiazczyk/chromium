@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadDialogUtils header
+// summary: Declares the DownloadDialogUtils helper class with static methods for download lookup, file creation callbacks, and elided URL display.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_DIALOG_UTILS_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_DOWNLOAD_DIALOG_UTILS_H_
 

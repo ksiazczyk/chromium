@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadLocationPreferenceAdapter for directory options
+// summary: Adapter that renders download directory options with radio buttons, shows available space, and persists the user's directory choice.
+// ---
+
 package org.chromium.chrome.browser.download.settings;
 
 import android.content.Context;

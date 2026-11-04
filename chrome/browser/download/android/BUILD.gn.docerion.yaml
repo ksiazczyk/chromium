@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android download browser build targets
+summary: Defines Java and JNI android_library targets for Chrome's Android download UI, file provider, and feature checks.

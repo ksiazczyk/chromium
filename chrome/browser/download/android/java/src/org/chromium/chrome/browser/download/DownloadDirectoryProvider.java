@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download directory provider
+// summary: Provides download directory options for primary storage and SD cards, using asynchronous tasks and reacting to SD card insertion and removal.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

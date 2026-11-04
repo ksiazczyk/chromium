@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Download bubble build configuration (BUILD.gn)
+summary: Defines GN source sets for the desktop-only download bubble, including public headers, implementation sources, unit tests and browser tests with their dependencies.

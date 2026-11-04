@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble accessible alerts map implementation
+// summary: Implements lifecycle management of accessibility alerts for downloads, including urgency-based replacement, staleness limits and garbage collection of last-alerted times.
+// ---
+
 #include "chrome/browser/download/bubble/download_bubble_accessible_alerts_map.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open download dialog bridge header
+// summary: Declares the OpenDownloadDialogBridge class that shows dialogs for opening downloaded files via an external app and receives JNI confirmations.
+// ---
+
 #ifndef CHROME_BROWSER_DOWNLOAD_ANDROID_OPEN_DOWNLOAD_DIALOG_BRIDGE_H_
 #define CHROME_BROWSER_DOWNLOAD_ANDROID_OPEN_DOWNLOAD_DIALOG_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Duplicate download dialog bridge delegate implementation
+// summary: Implements the singleton delegate that shows the duplicate download dialog and resolves a reserved target path when the user confirms downloading over an existing file.
+// ---
+
 #include "chrome/browser/download/android/duplicate_download_dialog_bridge_delegate.h"
 
 #include <algorithm>

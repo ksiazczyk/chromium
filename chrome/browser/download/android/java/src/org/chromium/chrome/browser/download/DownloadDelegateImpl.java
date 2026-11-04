@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download delegate implementation
+// summary: Implements the DownloadDelegate for Android by remapping generic MIME types, parsing original URLs and detecting SD card downloads.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.net.Uri;

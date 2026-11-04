@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Download dialog and tray dimension values
+summary: Defines Android dimension resources for the download dialog and download tray, covering margins, icon sizes, row height, and paddings.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <dimen name="download_dialog_title_margin_bottom">3dp</dimen>
     <dimen name="download_dialog_subtitle_margin_bottom">10dp</dimen>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download controller base implementation
+// summary: Defines the DownloadInfo struct, OMA DRM MIME type constants, and shared helpers for the download controller base.
+// ---
+
 #include "chrome/browser/download/android/download_controller_base.h"
 #include "chrome/browser/chrome_content_browser_client.h"
 #include "content/public/browser/render_view_host.h"
