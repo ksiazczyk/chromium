@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninUtilsHandler browser-side Mojo handler implementation
+// summary: Implements the SigninPageHandler Mojo interface to start signin, handle re-auth scenarios, and record signin metrics for the signin web UI.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/signin/signin_utils_handler.h"
 
 #include "chrome/browser/profiles/profile.h"

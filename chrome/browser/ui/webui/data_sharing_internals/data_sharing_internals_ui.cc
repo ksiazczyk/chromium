@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing internals WebUI controller implementation
+// summary: Implements the WebUI controller and Mojo interface bindings for Chrome's data sharing internals debug page, wiring up its data source and page handler.
+// ---
+
 #include "chrome/browser/ui/webui/data_sharing_internals/data_sharing_internals_ui.h"
 
 #include "chrome/browser/data_sharing/data_sharing_service_factory.h"

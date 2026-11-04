@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feature showcase BUILD.gn build definition
+summary: Defines the Mojo bindings, the feature showcase source set, and the unit test target with their sources and dependencies.

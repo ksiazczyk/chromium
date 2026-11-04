@@ -1,0 +1,4 @@
+# Docerion header of visual_guided_setter.mojom.
+type: source
+title: Visual guided setter Mojo interfaces
+summary: Defines the Mojo interfaces that let the WebUI page and browser process exchange docking state and commands for the Windows guided default-browser flow.

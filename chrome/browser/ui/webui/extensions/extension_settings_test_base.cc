@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension settings test base implementation
+// summary: Implements the shared test base class, providing helpers to install test extensions and apps and to configure dev mode and uninstall dialogs.
+// ---
+
 #include "chrome/browser/ui/webui/extensions/extension_settings_test_base.h"
 
 #include <string>

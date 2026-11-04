@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback WebUI message handler implementation
+// summary: Implements the WebUI message handler that opens the dialog and child pages for system info, metrics, autofill metadata, and ChromeOS assistant logs.
+// ---
+
 #include "chrome/browser/ui/webui/feedback/feedback_handler.h"
 
 #include <memory>

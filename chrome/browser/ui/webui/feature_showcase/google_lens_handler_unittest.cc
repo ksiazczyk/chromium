@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Lens handler unit tests
+// summary: Unit tests verifying that enabling or skipping Google Lens grants permissions and records the expected feature showcase and Lens histograms.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/google_lens_handler.h"
 
 #include "base/test/metrics/histogram_tester.h"

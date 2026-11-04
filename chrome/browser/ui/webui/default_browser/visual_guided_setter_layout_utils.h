@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual guided setter layout utilities header
+// summary: Declares layout utility functions for docking feasibility, DPI compatibility, docked rect computation, and arrow start and end points.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_DEFAULT_BROWSER_VISUAL_GUIDED_SETTER_LAYOUT_UTILS_H_
 #define CHROME_BROWSER_UI_WEBUI_DEFAULT_BROWSER_VISUAL_GUIDED_SETTER_LAYOUT_UTILS_H_
 

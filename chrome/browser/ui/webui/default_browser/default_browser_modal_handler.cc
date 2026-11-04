@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the default browser modal handler
+// summary: Implements the PageHandler Mojo interface, handling confirm, cancel, retry and default status checks and launching Windows Settings on Windows.
+// ---
+
 #include "chrome/browser/ui/webui/default_browser/default_browser_modal_handler.h"
 
 #include <utility>

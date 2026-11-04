@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the extensions zero state promo WebUI
+summary: GN build file defining the Mojo bindings target, the promo source set and the browser test and interactive UI test targets.

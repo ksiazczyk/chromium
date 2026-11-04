@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual searchbox handler implementation
+// summary: Implements the WebUI handler for the contextual searchbox, wiring omnibox suggestions, contextual search sessions, contextual tasks, and Lens inputs.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/searchbox/contextual_searchbox_handler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data sharing page handler unit tests
+// summary: Unit tests for the data sharing page handler covering share link, group preview and group actions using a mocked Mojo page.
+// ---
+
 #include "chrome/browser/ui/webui/data_sharing/data_sharing_page_handler.h"
 
 #include "base/test/bind.h"

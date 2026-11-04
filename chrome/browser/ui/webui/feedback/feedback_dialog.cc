@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback dialog implementation
+// summary: Implements the FeedbackDialog web dialog delegate that creates, shows, and reuses the feedback window, handling profile keep-alive and request-source metrics.
+// ---
+
 #include "chrome/browser/ui/webui/feedback/feedback_dialog.h"
 
 #include <memory>

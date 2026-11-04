@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive Picker untrusted WebUI controller
+// summary: Implements the untrusted WebUI controller for the Drive Picker, setting up the data source, localized strings, content security policies, and Mojo interface bindings.
+// ---
+
 #include "chrome/browser/ui/webui/drive_picker_host/untrusted/drive_picker_host_untrusted_ui.h"
 
 #include "chrome/browser/profiles/profile.h"

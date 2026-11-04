@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual guided setter WebUI controller implementation
+// summary: Implements the WebUI controller for the visual guided default browser setter, creating the data source with localized strings and resources, and binding the Mojo page handler factory.
+// ---
+
 #include "chrome/browser/ui/webui/default_browser/visual_guided_setter_ui.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions internals browser tests
+// summary: Browser tests verifying that the extensions internals page serves HTML with embedded JSON and a raw JSON endpoint listing installed extensions.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/path_service.h"
 #include "base/strings/stringprintf.h"

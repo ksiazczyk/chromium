@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password Manager handler unit tests
+// summary: Unit tests verifying that pinning or skipping Password Manager updates the pinned toolbar actions model and records expected histograms.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/password_manager_handler.h"
 
 #include "base/test/metrics/histogram_tester.h"

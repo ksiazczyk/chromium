@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual searchbox screenshare controller implementation
+// summary: Implements screenshare picker dialogs, screenshot capture, downscaling, PNG encoding, and thumbnail generation for the contextual searchbox.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/searchbox/contextual_searchbox_screenshare_controller.h"
 
 #include <utility>

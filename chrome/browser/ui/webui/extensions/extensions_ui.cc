@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions page WebUI controller implementation
+// summary: Implements the WebUI controller for the browser's extensions management page, setting up the data source, localized strings, prefs and handlers.
+// ---
+
 #include "chrome/browser/ui/webui/extensions/extensions_ui.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchboxHandler implementation
+// summary: Implements the browser-side handler for WebUI search boxes, wiring autocomplete results, preferences, metrics, preloading and feature flags to the searchbox Mojo interface.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/searchbox/searchbox_handler.h"
 
 #include <algorithm>

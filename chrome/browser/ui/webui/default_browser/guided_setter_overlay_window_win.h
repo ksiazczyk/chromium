@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guided setter overlay window class declaration
+// summary: Declares the layered, click-through overlay window that displays the guidance arrow pointing at the Settings Set default button.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_DEFAULT_BROWSER_GUIDED_SETTER_OVERLAY_WINDOW_WIN_H_
 #define CHROME_BROWSER_UI_WEBUI_DEFAULT_BROWSER_GUIDED_SETTER_OVERLAY_WINDOW_WIN_H_
 

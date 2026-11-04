@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Critical Actions WebUI build file
+summary: GN build file defining the critical_actions static library, the Mojo bindings target for the interface file, and the unit test source set.

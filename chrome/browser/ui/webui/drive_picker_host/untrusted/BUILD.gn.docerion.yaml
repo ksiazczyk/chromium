@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Drive Picker host untrusted WebUI build targets
+summary: GN build file defining the Mojo bindings, untrusted source set, and unit test targets for the Drive Picker host WebUI.

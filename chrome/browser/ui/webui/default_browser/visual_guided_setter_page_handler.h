@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual guided setter page handler header
+// summary: Header declaring VisualGuidedSetterPageHandler, the Mojo PageHandler endpoint that relays anchor rects, error state, and docked bounds between the WebUI and the Windows controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_DEFAULT_BROWSER_VISUAL_GUIDED_SETTER_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_DEFAULT_BROWSER_VISUAL_GUIDED_SETTER_PAGE_HANDLER_H_
 

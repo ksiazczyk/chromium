@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninUtilsHandler unit tests
+// summary: Tests SigninUtilsHandler signin flows, including start signin and managed account handling, using the identity test environment and mock UI delegates.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/signin/signin_utils_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the flags page message handler
+// summary: Unit tests for FlagsUIHandler using a fake flags storage, covering string and origin list flag setting, reset, and import and export behavior.
+// ---
+
 #include "chrome/browser/ui/webui/flags/flags_ui_handler.h"
 
 #include "base/test/scoped_feature_list.h"

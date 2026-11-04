@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryEmbeddingsHandler implementation
+// summary: Implements the Mojo page handler that runs history embeddings searches, publishes results to the page, records metrics, and forwards user feedback and settings actions.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/history_embeddings/history_embeddings_handler.h"
 
 #include "base/check.h"

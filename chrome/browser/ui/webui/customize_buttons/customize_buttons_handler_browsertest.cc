@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize buttons handler browser tests
+// summary: Browser tests for the customize buttons handler using mocked side panel controller and feature promo helper dependencies.
+// ---
+
 #include "chrome/browser/ui/webui/customize_buttons/customize_buttons_handler.h"
 
 #include <optional>

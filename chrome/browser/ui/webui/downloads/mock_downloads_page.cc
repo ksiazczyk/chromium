@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock downloads page implementation
+// summary: Implements the MockPage test double that binds and returns a Mojo remote for the downloads::mojom::Page interface in tests.
+// ---
+
 #include "chrome/browser/ui/webui/downloads/mock_downloads_page.h"
 
 #include "chrome/browser/ui/webui/downloads/downloads.mojom.h"

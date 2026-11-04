@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for the extensions zero state promo
+// summary: Drives the zero state promo IPH variants in interactive browser tests, checking help bubble close reasons, Web Store link clicks and histogram counts.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

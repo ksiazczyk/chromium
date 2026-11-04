@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsUI WebUI controller implementation
+// summary: Implements the DevToolsUI WebUI controller, including proxy URL construction, remote base URL generation, and frontend resource URL checks.
+// ---
+
 #include "chrome/browser/ui/webui/devtools/devtools_ui.h"
 
 #include "base/command_line.h"

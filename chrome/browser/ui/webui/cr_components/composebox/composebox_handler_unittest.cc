@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox handler unit tests
+// summary: Unit tests for ComposeboxHandler covering query submission, file handling, session state, and metrics using mock contextual search services.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/composebox/composebox_handler.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for customize color scheme mode
+summary: Defines the customize_color_scheme_mode source set and its non-Android unit tests, listing their GN sources and dependencies.

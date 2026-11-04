@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize color scheme mode WebUI handler header
+// summary: Declares the CustomizeColorSchemeModeHandler class, a Mojo handler and ThemeServiceObserver that syncs color scheme mode with the WebUI client.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CR_COMPONENTS_CUSTOMIZE_COLOR_SCHEME_MODE_CUSTOMIZE_COLOR_SCHEME_MODE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_CR_COMPONENTS_CUSTOMIZE_COLOR_SCHEME_MODE_CUSTOMIZE_COLOR_SCHEME_MODE_HANDLER_H_
 

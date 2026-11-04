@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the flags page message handler
+// summary: Declares FlagsUIHandler, the WebUI message handler managing experimental feature requests, flag changes, and browser restart.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/ui/webui/flags/flags_ui.h"
 #include "components/webui/flags/feature_entry.h"

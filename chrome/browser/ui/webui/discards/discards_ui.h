@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discards WebUI controller header
+// summary: Declares the DiscardsUI Mojo WebUI controller and its internal WebUI config, including bindings for the discards Mojo interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_DISCARDS_DISCARDS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_DISCARDS_DISCARDS_UI_H_
 

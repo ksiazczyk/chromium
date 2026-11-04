@@ -1,0 +1,4 @@
+# Docerion header of zero_state_promo.mojom.
+type: source
+title: Mojo interface for the extensions zero state promo
+summary: Defines the WebStoreLinkClicked enum, the Chrome Web Store URL constants and the PageHandlerFactory and PageHandler Mojo interfaces.

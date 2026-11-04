@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashes WebUI controller header
+// summary: Declares the CrashesUI WebUI controller, its WebUI configuration class, and the favicon resource accessor for the browser's crashes page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CRASHES_CRASHES_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_CRASHES_CRASHES_UI_H_
 

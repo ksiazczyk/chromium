@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link user internals WebUI controller implementation
+// summary: Implements the WebUI controller that registers the HTML data source with content security policies and attaches the message handler for the Family Link user internals page.
+// ---
+
 #include "chrome/browser/ui/webui/family_link_user_internals/family_link_user_internals_ui.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions sidebar promo definitions
+// summary: Defines the compile-time list of sidebar promo messages with expiration dates and logic that rotates unexpired promos one per day.
+// ---
+
 #include "chrome/browser/ui/webui/extensions/sidebar_promos.h"
 
 #include <stddef.h>

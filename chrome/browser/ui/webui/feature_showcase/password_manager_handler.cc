@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password Manager handler implementation
+// summary: Implements the Password Manager page handler by pinning the passwords action to the toolbar and recording step user action metrics.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/password_manager_handler.h"
 
 #include <utility>

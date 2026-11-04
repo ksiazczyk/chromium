@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link user internals message handler implementation
+// summary: Implements the message handler that collects Family Link and supervised user settings, preferences, and URL filtering state for display on the Family Link user internals page.
+// ---
+
 #include "chrome/browser/ui/webui/family_link_user_internals/family_link_user_internals_message_handler.h"
 
 #include <memory>

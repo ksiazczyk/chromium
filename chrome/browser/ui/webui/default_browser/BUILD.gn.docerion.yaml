@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for default browser WebUI targets
+summary: Defines GN source sets and Mojo bindings targets for the default browser modal and the Windows visual guided setter, including unit and pixel test targets.

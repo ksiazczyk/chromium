@@ -1,3 +1,12 @@
+---
+type: readme
+title: Critical Actions Internals WebUI README
+summary: Describes the purpose, platform and feature-flag prerequisites, and automated plus manual verification steps for the internal Critical Actions debug page.
+relations:
+  - documents /chrome/browser/ui/webui/critical_actions/critical_actions.mojom
+  - documents /chrome/browser/ui/webui/critical_actions/critical_actions_ui.cc
+---
+
 # Critical Actions Internals WebUI
 
 This directory contains the WebUI controller and Mojo interface for

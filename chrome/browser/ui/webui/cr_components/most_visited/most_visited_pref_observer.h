@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MostVisitedPrefObserver header
+// summary: Declares MostVisitedPrefObserver, which manages first-party preferences for MostVisitedHandler and includes pref migration helpers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CR_COMPONENTS_MOST_VISITED_MOST_VISITED_PREF_OBSERVER_H_
 #define CHROME_BROWSER_UI_WEBUI_CR_COMPONENTS_MOST_VISITED_MOST_VISITED_PREF_OBSERVER_H_
 

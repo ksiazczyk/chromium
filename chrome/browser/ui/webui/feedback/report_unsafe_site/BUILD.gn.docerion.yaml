@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the report unsafe site WebUI
+summary: Defines the Mojo bindings and static library build targets for the report unsafe site WebUI.

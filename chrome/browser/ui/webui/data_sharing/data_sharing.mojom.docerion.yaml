@@ -1,0 +1,4 @@
+# Docerion header of data_sharing.mojom.
+type: source
+title: Data sharing Mojo interface definitions
+summary: Defines the Mojo enums, structs and Page/PageHandler interfaces used to communicate between the data sharing WebUI and the browser.

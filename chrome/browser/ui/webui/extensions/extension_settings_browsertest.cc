@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension settings browser tests
+// summary: Browser tests for the extensions settings page, covering extension options pages, guest view handling, and Safety Hub related behavior.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"

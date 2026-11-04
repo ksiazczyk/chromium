@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for the history embeddings WebUI
+// summary: Interactive browser tests that exercise the history embeddings UI end to end with test embeddings and page content annotation services.
+// ---
+
 #include "base/callback_list.h"
 #include "base/functional/bind.h"
 #include "base/test/bind.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Drive Picker Host code owners
+summary: Lists directory owners and requires security owner review for changes to mojom files.

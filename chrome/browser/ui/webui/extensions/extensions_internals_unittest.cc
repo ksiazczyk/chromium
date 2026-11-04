@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions internals unit tests
+// summary: Unit tests checking that WriteToString produces correct JSON fields for extensions, permissions, and related state.
+// ---
+
 #include "base/containers/span.h"
 #include "base/functional/bind.h"
 #include "base/json/json_reader.h"

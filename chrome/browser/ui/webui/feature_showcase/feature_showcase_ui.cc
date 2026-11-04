@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature showcase WebUI controller implementation
+// summary: Implements the feature showcase WebUI controller, adding localized strings, branded image resources and Mojo handlers for steps like default browser, Gemini, Google Lens, password manager and themes.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/feature_showcase_ui.h"
 
 #include "base/check.h"

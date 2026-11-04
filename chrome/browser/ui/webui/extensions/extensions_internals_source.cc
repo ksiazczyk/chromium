@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions internals data source implementation
+// summary: Implements the URL data source that reports details about installed extensions for a profile on the extensions-internals page.
+// ---
+
 #include "chrome/browser/ui/webui/extensions/extensions_internals_source.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Feature showcase DIR_METADATA
+summary: Points the directory metadata at the shared COMMON_METADATA mixins from chrome/browser/profiles.

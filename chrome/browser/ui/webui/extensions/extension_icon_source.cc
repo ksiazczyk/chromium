@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension icon source implementation
+// summary: Implements the WebUI data source that serves icons for installed extensions and apps, handling icon sizes, fallback matching, and grayscale transformations.
+// ---
+
 #include "chrome/browser/ui/webui/extensions/extension_icon_source.h"
 
 #include <stddef.h>

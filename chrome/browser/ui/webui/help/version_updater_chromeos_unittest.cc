@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ChromeOS version updater
+// summary: Tests VersionUpdaterCros behaviour such as channel switching and update status using fake update engine and network clients.
+// ---
+
 #include "chrome/browser/ui/webui/help/version_updater_chromeos.h"
 
 #include <memory>

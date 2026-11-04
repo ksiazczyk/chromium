@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadInternalsUIMessageHandler class declarations
+// summary: Declares the WebUI message handler that observes the background download service logger and exposes status, downloads and start-download handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_DOWNLOAD_INTERNALS_DOWNLOAD_INTERNALS_UI_MESSAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_DOWNLOAD_INTERNALS_DOWNLOAD_INTERNALS_UI_MESSAGE_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for the extensions WebUI
+summary: Defines GN source_set targets for the extensions WebUI, including a headers target, main sources, test support, unit tests and browser tests.

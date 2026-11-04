@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plural string provider header
+// summary: Declares the Mojo plural string provider for serving pluralized strings in any host page, plus the searchbox message ID map.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CR_COMPONENTS_SEARCHBOX_PLURAL_STRING_PROVIDER_H_
 #define CHROME_BROWSER_UI_WEBUI_CR_COMPONENTS_SEARCHBOX_PLURAL_STRING_PROVIDER_H_
 

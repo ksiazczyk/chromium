@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Composebox BUILD.gn build configuration
+summary: Defines the composebox source set with its dependencies plus a non-Android unit_tests target for the handler.

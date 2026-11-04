@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password Manager handler header
+// summary: Declares PasswordManagerHandler, the Mojo-backed browser-side handler for the Password Manager feature showcase step.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_FEATURE_SHOWCASE_PASSWORD_MANAGER_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_FEATURE_SHOWCASE_PASSWORD_MANAGER_HANDLER_H_
 

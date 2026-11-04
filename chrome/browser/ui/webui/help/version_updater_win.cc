@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of the version updater for the Help page
+// summary: Implements VersionUpdater on Windows, driving Google Update checks and reporting update progress, completion and policy-related errors to the Help page.
+// ---
+
 #include "chrome/browser/ui/webui/help/version_updater.h"
 
 #include <memory>

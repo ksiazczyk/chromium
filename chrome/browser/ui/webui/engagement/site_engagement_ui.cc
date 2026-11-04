@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site engagement WebUI controller implementation
+// summary: Implements the WebUI controller and a Mojo details provider that supplies per-origin site engagement scores to the browser's site engagement page and allows base score resets.
+// ---
+
 #include "chrome/browser/ui/webui/engagement/site_engagement_ui.h"
 
 #include <cmath>

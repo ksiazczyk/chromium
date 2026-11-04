@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the history_clusters source set
+summary: GN build file defining the history_clusters source set with its source, public header, and dependencies on base, prefs, WebUI, and history clusters components.

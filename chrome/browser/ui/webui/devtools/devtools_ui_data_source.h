@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools data source header
+// summary: Declares the DevToolsDataSource URL data source that handles bundled, remote, and custom DevTools frontend requests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_DEVTOOLS_DEVTOOLS_UI_DATA_SOURCE_H_
 #define CHROME_BROWSER_UI_WEBUI_DEVTOOLS_DEVTOOLS_UI_DATA_SOURCE_H_
 

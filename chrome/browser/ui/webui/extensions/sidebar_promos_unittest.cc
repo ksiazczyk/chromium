@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sidebar promos unit tests
+// summary: Unit tests for PickSidebarPromo covering daily promo rotation, skipping of expired promos, and behavior with empty or fully expired promo lists.
+// ---
+
 #include "chrome/browser/ui/webui/extensions/sidebar_promos.h"
 
 #include <optional>

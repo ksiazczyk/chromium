@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize buttons handler implementation
+// summary: Implements the browser-side handler that tracks customize chrome button usage counts and controls side panel visibility for the new tab page.
+// ---
+
 #include "chrome/browser/ui/webui/customize_buttons/customize_buttons_handler.h"
 
 #include <utility>

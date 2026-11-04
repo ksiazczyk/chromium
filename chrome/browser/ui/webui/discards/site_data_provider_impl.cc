@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site data provider implementation
+// summary: Implements the SiteDataProvider mojo interface, converting site data protos from the performance manager site data cache into mojom entries for the discards WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/discards/site_data_provider_impl.h"
 
 #include "base/byte_size.h"

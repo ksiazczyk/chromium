@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension basic info implementation
+// summary: Implements GetExtensionBasicInfo, filling a dictionary with extension details such as name, version, kiosk mode, options page and homepage URLs.
+// ---
+
 #include "chrome/browser/ui/webui/extensions/extension_basic_info.h"
 
 #include "base/values.h"

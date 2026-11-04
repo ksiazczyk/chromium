@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads DOM handler implementation
+// summary: Implements the WebUI handler for the downloads page, handling search, open, pause, discard, retry and other download actions.
+// ---
+
 #include "chrome/browser/ui/webui/downloads/downloads_dom_handler.h"
 
 #include <algorithm>

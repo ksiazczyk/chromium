@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportUnsafeSitePageHandler implementation
+// summary: Implements the WebUI page handler that provides triggering page info, captures screenshots and sends safe browsing reports.
+// ---
+
 #include "chrome/browser/ui/webui/feedback/report_unsafe_site/report_unsafe_site_handler.h"
 
 #include "base/strings/utf_string_conversions.h"

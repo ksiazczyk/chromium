@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback WebUI controller header
+// summary: Declares the FeedbackUI WebDialog controller and its WebUIConfig, including embedder, screenshot and unsafe site handler interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_FEEDBACK_FEEDBACK_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_FEEDBACK_FEEDBACK_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual searchbox screenshare controller header
+// summary: Declares the controller managing screenshare pickers, native screenshot capture, and image processing, with delegate and host interfaces for the UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CR_COMPONENTS_SEARCHBOX_CONTEXTUAL_SEARCHBOX_SCREENSHARE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_WEBUI_CR_COMPONENTS_SEARCHBOX_CONTEXTUAL_SEARCHBOX_SCREENSHARE_CONTROLLER_H_
 

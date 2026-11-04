@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser handler implementation
+// summary: Implements the default browser page handler that sets Chrome as default, pins to the taskbar on Windows, and records first-run metrics.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/default_browser_handler.h"
 
 #include <utility>

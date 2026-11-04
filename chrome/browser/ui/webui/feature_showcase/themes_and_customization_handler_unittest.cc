@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Themes and customization handler unit tests
+// summary: Unit tests verifying that theme changes revert on decline or destruction, that accepting prevents revert, and that metrics are recorded correctly.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/themes_and_customization_handler.h"
 
 #include <memory>

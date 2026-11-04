@@ -1,0 +1,4 @@
+# Docerion header of themes_and_customization.mojom.
+type: source
+title: Themes and customization Mojom interfaces
+summary: Defines the Mojo interfaces for snapshotting, accepting, and reverting themes in the Themes and Customization feature showcase step.

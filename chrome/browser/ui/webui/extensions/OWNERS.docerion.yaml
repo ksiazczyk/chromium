@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the extensions WebUI directory
+summary: Lists the code owners for this directory, inheriting the extensions OWNERS file and adding oka@chromium.org.

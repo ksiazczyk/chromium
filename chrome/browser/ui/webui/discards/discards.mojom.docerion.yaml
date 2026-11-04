@@ -1,0 +1,4 @@
+# Docerion header of discards.mojom.
+type: source
+title: Discards Mojo interface definitions
+summary: Defines the Mojo structs and DetailsProvider interface that let the Discards WebUI list tabs and discard, freeze, or configure them.

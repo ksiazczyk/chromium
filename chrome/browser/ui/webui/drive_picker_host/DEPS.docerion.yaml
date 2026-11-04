@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Drive Picker Host include rules
+summary: Allows includes from components/contextual_search/footprints for files in this directory.

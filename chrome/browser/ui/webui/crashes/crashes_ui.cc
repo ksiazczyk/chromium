@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashes WebUI implementation
+// summary: Implements the browser's crashes WebUI page, setting up its data source and a message handler that fetches the crash list and triggers crash uploads.
+// ---
+
 #include "chrome/browser/ui/webui/crashes/crashes_ui.h"
 
 #include <stddef.h>

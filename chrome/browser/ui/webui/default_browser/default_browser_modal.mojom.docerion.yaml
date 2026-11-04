@@ -1,0 +1,4 @@
+# Docerion header of default_browser_modal.mojom.
+type: source
+title: Mojo interfaces for the default browser modal page
+summary: Defines the Page, PageHandler and PageHandlerFactory Mojo interfaces used for communication between the WebUI page and the browser's default browser modal handler.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical Actions page handler implementation
+// summary: Implements the Mojo PageHandler with paginated, search-filtered queries, action type filtering, entry deletion and table clearing.
+// ---
+
 #include "chrome/browser/ui/webui/critical_actions/critical_actions_page_handler.h"
 
 #include <algorithm>

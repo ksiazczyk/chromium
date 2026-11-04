@@ -1,0 +1,4 @@
+# Docerion header of critical_actions.mojom.
+type: source
+title: Mojo interface for the Critical Actions internals page
+summary: Defines structs, enums and interfaces for querying, paginating, deleting and clearing critical action records from the WebUI.

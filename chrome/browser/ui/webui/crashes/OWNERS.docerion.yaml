@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the crashes WebUI directory
+summary: Delegates code ownership of the crashes WebUI directory to the owners listed in components/crash/OWNERS.

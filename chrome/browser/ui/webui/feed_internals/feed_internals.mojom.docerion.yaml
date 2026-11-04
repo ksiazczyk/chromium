@@ -1,0 +1,4 @@
+# Docerion header of feed_internals.mojom.
+type: source
+title: Feed internals Mojo interface definition
+summary: Defines the Properties and LastFetchProperties structs and the PageHandler Mojo interface for querying feed state, refreshing the feed, and overriding endpoints for testing.

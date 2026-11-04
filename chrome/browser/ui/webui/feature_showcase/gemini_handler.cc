@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini consent handler implementation
+// summary: Handles Gemini consent acceptance or skip by updating the Glic first-run status and recording feature showcase step metrics.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/gemini_handler.h"
 
 #include <utility>

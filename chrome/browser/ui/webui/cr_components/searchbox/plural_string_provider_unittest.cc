@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Plural string provider unit tests
+// summary: Unit tests for the searchbox plural string provider, covering plural string lookup, serving only registered messages, and unknown names or negative counts as bad Mojo messages.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/searchbox/plural_string_provider.h"
 
 #include <string>

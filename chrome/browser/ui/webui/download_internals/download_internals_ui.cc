@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the download-internals WebUI controller
+// summary: Implements the WebUI controller for the browser's download-internals debug page, setting up the data source, content security policies, resources, and message handler.
+// ---
+
 #include "chrome/browser/ui/webui/download_internals/download_internals_ui.h"
 
 #include <utility>

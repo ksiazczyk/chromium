@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize color scheme mode handler unit tests
+// summary: Unit tests the handler using a mock ThemeService and Mojo client, covering initialization and color scheme mode updates.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/customize_color_scheme_mode/customize_color_scheme_mode_handler.h"
 
 #include "base/memory/raw_ptr.h"

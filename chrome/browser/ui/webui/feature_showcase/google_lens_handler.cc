@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Lens handler implementation
+// summary: Implements the Google Lens page handler by granting Lens overlay permissions, skipping setup, and recording user action metrics.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/google_lens_handler.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Themes and customization handler implementation
+// summary: Implements the feature showcase Mojo page handler that snapshots, accepts, or reverts browser theme changes and records FRE flow metrics.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/themes_and_customization_handler.h"
 
 #include <utility>

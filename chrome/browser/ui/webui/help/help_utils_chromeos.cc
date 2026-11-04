@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS cellular update permission helper
+// summary: Implements IsUpdateOverCellularAllowed, deciding from device policy whether ChromeOS updates may use cellular networks.
+// ---
+
 #include "chrome/browser/ui/webui/help/help_utils_chromeos.h"
 
 #include <stddef.h>

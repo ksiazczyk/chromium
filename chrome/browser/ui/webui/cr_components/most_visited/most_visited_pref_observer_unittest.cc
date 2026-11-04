@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MostVisitedPrefObserver unit tests
+// summary: Unit tests for MostVisitedPrefObserver verifying default prefs, migrations, and tile type updates using a mocked handler.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/most_visited/most_visited_pref_observer.h"
 
 #include <memory>

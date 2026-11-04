@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini disclosure text builder
+// summary: Builds the localized Gemini consent disclosure paragraphs based on the user's country code and whether the device is managed.
+// ---
+
 #include "chrome/browser/ui/webui/feature_showcase/gemini_disclosure.h"
 
 #include <string>

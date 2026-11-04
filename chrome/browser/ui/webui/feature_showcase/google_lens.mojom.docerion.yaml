@@ -1,0 +1,4 @@
+# Docerion header of google_lens.mojom.
+type: source
+title: Google Lens feature showcase Mojom interfaces
+summary: Defines the Mojo interfaces letting the Google Lens step WebUI enable or skip Google Lens and bootstrap browser communication.

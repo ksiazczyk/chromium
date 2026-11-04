@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discards WebUI controller implementation
+// summary: Implements the DiscardsUI controller that serves the tab discards debug page and binds its Mojo interfaces in the browser process.
+// ---
+
 #include "chrome/browser/ui/webui/discards/discards_ui.h"
 
 #include <algorithm>

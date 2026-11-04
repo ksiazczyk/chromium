@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: DevTools WebUI build configuration
+summary: Defines GN source sets for the DevTools WebUI code and its unit tests, built only when the DevTools frontend is enabled.

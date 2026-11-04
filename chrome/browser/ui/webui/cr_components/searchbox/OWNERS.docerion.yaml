@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Searchbox OWNERS file
+summary: Delegates ownership to the parent searchbox OWNERS file and routes type converter files to security owners for review.

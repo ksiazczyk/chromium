@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchboxOmniboxClient class declaration
+// summary: Declares a base OmniboxClient implementation for WebUI search boxes that subclasses extend with use-case specific behavior such as page classification.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SEARCHBOX_SEARCHBOX_OMNIBOX_CLIENT_H_
 #define CHROME_BROWSER_UI_WEBUI_SEARCHBOX_SEARCHBOX_OMNIBOX_CLIENT_H_
 

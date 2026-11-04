@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the untrusted Drive Picker host WebUI
+// summary: Unit tests covering feature gating of the WebUI config and forwarding of Drive Picker and ConsentKit calls by the untrusted controller.
+// ---
+
 #include "chrome/browser/ui/webui/drive_picker_host/untrusted/drive_picker_host_untrusted_ui.h"
 
 #include "base/run_loop.h"

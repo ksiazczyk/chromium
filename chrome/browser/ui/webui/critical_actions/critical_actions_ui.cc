@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical Actions WebUI controller implementation
+// summary: Implements the internal WebUI config and Mojo WebUI controller that register the Critical Actions internals data source and bind the page handler factory.
+// ---
+
 #include "chrome/browser/ui/webui/critical_actions/critical_actions_ui.h"
 
 #include <memory>

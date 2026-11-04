@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the extensions zero state promo folder
+summary: Lists the code owners for the directory and routes Mojo file changes to the IPC security owners.

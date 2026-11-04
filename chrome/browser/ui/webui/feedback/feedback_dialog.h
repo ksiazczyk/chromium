@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback dialog class declaration
+// summary: Declares the FeedbackDialog class, a self-deleting WebDialogDelegate with a CreateOrShow entry point and media permission overrides.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_FEEDBACK_FEEDBACK_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_FEEDBACK_FEEDBACK_DIALOG_H_
 

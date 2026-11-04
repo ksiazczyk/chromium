@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the untrusted Drive Picker host WebUI controller
+// summary: Declares the WebUI config and untrusted controller classes that bridge trusted and untrusted Drive Picker communication via Mojo.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_DRIVE_PICKER_HOST_UNTRUSTED_DRIVE_PICKER_HOST_UNTRUSTED_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_DRIVE_PICKER_HOST_UNTRUSTED_DRIVE_PICKER_HOST_UNTRUSTED_UI_H_
 

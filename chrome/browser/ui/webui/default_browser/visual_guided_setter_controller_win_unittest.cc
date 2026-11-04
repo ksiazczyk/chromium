@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visual guided setter controller unit tests
+// summary: Unit tests for the guided setter controller using a fake settings window finder, covering docking, degradation, and outcome histograms.
+// ---
+
 #include "chrome/browser/ui/webui/default_browser/visual_guided_setter_controller_win.h"
 
 #include <windows.h>

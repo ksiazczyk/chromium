@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportUnsafeSitePageHandler class header
+// summary: Declares the WebUI page handler for the report unsafe site feedback dialog, covering UI display, triggering page info, screenshot capture, report submission, and dialog closing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_FEEDBACK_REPORT_UNSAFE_SITE_REPORT_UNSAFE_SITE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_FEEDBACK_REPORT_UNSAFE_SITE_REPORT_UNSAFE_SITE_HANDLER_H_
 

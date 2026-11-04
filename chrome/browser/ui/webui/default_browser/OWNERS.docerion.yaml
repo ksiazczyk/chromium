@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the default browser WebUI directory
+summary: Delegates ownership to the default browser OWNERS file and requires security owner review for changes to mojom files.

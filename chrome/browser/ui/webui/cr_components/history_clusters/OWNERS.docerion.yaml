@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for history_clusters
+summary: Points to the OWNERS file in components/history_clusters, delegating review ownership for this directory to that team.

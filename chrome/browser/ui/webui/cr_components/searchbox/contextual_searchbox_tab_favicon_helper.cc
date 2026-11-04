@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual searchbox tab favicon helper implementation
+// summary: Implements a helper that waits for a tab's favicon to load and returns it as a base64 data URL, with timeout and tab detach handling.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/searchbox/contextual_searchbox_tab_favicon_helper.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test double implementation of the version updater
+// summary: Implements a VersionUpdater fake that immediately invokes the status callback with predefined update results for tests.
+// ---
+
 #include "chrome/browser/ui/webui/help/test_version_updater.h"
 
 TestVersionUpdater::TestVersionUpdater() = default;

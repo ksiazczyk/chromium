@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox utility functions
+// summary: Maps omnibox page classifications and contextual search session state to the corresponding Chrome Aim entry point enum values.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/searchbox/searchbox_utils.h"
 
 #include "components/contextual_search/contextual_search_session_handle.h"

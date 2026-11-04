@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Downloads DOM handler unit tests
+// summary: Unit tests for DownloadsDOMHandler covering removed file checks, dangerous download handling and related behavior.
+// ---
+
 #include "chrome/browser/ui/webui/downloads/downloads_dom_handler.h"
 
 #include <utility>

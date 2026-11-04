@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for theme color picker
+summary: Delegates ownership to the new tab page OWNERS file and assigns mojom traits files to the security owners.

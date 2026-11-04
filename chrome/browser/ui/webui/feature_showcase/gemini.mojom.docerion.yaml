@@ -1,0 +1,4 @@
+# Docerion header of gemini.mojom.
+type: source
+title: Gemini step mojo interfaces
+summary: Defines the mojo interfaces that let the Gemini consent step WebUI accept or skip consent via a browser-side handler.
