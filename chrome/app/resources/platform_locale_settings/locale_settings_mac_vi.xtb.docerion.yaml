@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_vi.xtb.
+type: config
+title: Mac Vietnamese locale settings
+summary: Mac Vietnamese locale settings bundle that sets the minimum logical font size to 6.

@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_ro.xtb.
+type: data
+title: Mac Romanian locale settings translation bundle
+summary: Defines the minimum logical font size of 6 for Romanian locale settings on macOS.

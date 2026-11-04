@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_ja.xtb.
+type: config
+title: Linux locale settings for Japanese
+summary: Defines Japanese default font families such as Noto Sans JP, VL Gothic and Sazanami Mincho plus minimum font sizes for Chrome on Linux.

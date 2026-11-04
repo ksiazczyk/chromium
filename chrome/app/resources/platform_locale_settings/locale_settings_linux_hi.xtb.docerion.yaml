@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_hi.xtb.
+type: config
+title: Linux locale settings for Hindi
+summary: Empty XTB translation bundle that supplies no Hindi-specific font or size overrides for Chrome on Linux.

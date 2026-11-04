@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_uk.xtb.
+type: config
+title: Mac Ukrainian locale settings
+summary: Mac Ukrainian locale settings bundle that sets the minimum logical font size to 6.

@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_ko.xtb.
+type: config
+title: Korean macOS locale font settings
+summary: Korean locale settings for Chrome on macOS, defining standard, serif and sans-serif font families and minimum font sizes.

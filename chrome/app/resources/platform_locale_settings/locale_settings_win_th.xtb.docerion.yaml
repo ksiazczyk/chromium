@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_th.xtb.
+type: config
+title: Thai (th) Windows locale settings bundle
+summary: Translation bundle setting Thai Windows fonts to Tahoma with a minimum font size of 10.

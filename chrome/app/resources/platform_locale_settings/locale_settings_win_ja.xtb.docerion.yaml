@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_ja.xtb.
+type: data
+title: Windows Japanese locale settings
+summary: Translation bundle defining Japanese default font families and minimum font sizes for Chrome on Windows.

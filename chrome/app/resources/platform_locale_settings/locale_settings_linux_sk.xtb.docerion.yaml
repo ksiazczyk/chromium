@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_sk.xtb.
+type: config
+title: Linux Slovak locale settings
+summary: Empty translation bundle holding platform locale settings for Slovak on Linux.

@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_bn.xtb.
+type: config
+title: Bengali locale settings for Linux
+summary: Sets Vrinda as the sans-serif font family for Bengali on Linux.

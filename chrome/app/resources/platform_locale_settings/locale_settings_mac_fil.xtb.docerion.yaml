@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_fil.xtb.
+type: config
+title: Mac locale font settings for Filipino (fil)
+summary: Translation bundle with Chrome's Filipino locale font settings for macOS, defining a minimum logical font size of 6.

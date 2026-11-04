@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_kn.xtb.
+type: config
+title: ChromeOS Kannada locale settings bundle
+summary: Empty XML translation bundle holding locale settings for Kannada on ChromeOS.

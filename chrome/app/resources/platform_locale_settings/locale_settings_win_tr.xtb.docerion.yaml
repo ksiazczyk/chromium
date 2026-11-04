@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_tr.xtb.
+type: config
+title: Turkish (tr) Windows locale settings bundle
+summary: Empty translation bundle holding no locale-specific entries for Turkish Windows locale settings.

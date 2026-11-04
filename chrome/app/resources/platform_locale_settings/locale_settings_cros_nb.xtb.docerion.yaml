@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_nb.xtb.
+type: data
+title: ChromeOS locale settings for Norwegian Bokmål
+summary: Empty XML translation bundle providing ChromeOS platform locale settings for Norwegian (nb, lang no).

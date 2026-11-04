@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_hi.xtb.
+type: config
+title: Mac locale font settings for Hindi (hi)
+summary: Translation bundle with Chrome's Hindi locale font settings for macOS, defining a minimum logical font size of 6.

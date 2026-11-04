@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_hr.xtb.
+type: config
+title: ChromeOS Croatian locale settings bundle
+summary: Empty XML translation bundle holding locale settings for Croatian on ChromeOS.

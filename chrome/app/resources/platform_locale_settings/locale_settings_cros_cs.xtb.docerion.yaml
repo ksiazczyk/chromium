@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_cs.xtb.
+type: config
+title: Czech Chrome OS locale settings
+summary: Empty translation bundle supplying platform locale settings for Czech on Chrome OS.

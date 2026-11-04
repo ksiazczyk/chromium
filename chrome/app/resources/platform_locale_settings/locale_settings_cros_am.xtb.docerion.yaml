@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_am.xtb.
+type: config
+title: Amharic Chrome OS locale settings
+summary: Empty translation bundle supplying platform locale settings for Amharic on Chrome OS.

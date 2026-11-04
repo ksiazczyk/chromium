@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_sw.xtb.
+type: config
+title: Linux Swahili locale settings
+summary: Empty translation bundle holding platform locale settings for Swahili on Linux.

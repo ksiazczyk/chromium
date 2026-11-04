@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_lv.xtb.
+type: config
+title: ChromeOS Latvian locale settings bundle
+summary: Empty XML translation bundle holding locale settings for Latvian on ChromeOS.

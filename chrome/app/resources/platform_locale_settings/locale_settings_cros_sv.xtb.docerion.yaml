@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_sv.xtb.
+type: data
+title: Swedish Chrome OS locale settings translation bundle
+summary: Empty translation bundle providing Chrome OS platform locale settings for Swedish with no locale-specific overrides.

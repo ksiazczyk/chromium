@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_cs.xtb.
+type: config
+title: Czech locale settings for Linux
+summary: Empty translation bundle that defines no locale-specific font or size overrides for Czech on Linux.

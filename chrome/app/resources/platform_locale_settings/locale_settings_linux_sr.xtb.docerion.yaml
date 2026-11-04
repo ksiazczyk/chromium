@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_sr.xtb.
+type: config
+title: Linux Serbian locale settings
+summary: Empty translation bundle holding platform locale settings for Serbian on Linux.

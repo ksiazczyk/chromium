@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_nl.xtb.
+type: config
+title: Dutch macOS locale font settings
+summary: Dutch locale settings for Chrome on macOS, setting the minimum logical font size to 6.

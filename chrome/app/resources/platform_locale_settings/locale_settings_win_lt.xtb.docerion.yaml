@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_lt.xtb.
+type: data
+title: Windows Lithuanian locale settings
+summary: Empty translation bundle providing no Windows-specific locale settings overrides for Lithuanian.

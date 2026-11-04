@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_zh-CN.xtb.
+type: config
+title: Simplified Chinese locale settings for Chrome OS
+summary: Sets Noto Sans CJK SC font families and a minimum font size of 12 for Simplified Chinese on Chrome OS.

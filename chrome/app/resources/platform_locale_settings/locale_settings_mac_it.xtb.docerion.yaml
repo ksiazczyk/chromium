@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_it.xtb.
+type: config
+title: Mac locale font settings for Italian (it)
+summary: Translation bundle with Chrome's Italian locale font settings for macOS, defining a minimum logical font size of 6.

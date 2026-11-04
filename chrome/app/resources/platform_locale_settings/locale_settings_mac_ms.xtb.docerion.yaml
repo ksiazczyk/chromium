@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_ms.xtb.
+type: config
+title: Malay macOS locale font settings
+summary: Malay locale settings for Chrome on macOS, setting the minimum logical font size to 6.

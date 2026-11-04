@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_bn.xtb.
+type: config
+title: Bengali Chrome OS locale settings
+summary: Empty translation bundle supplying platform locale settings for Bengali on Chrome OS.

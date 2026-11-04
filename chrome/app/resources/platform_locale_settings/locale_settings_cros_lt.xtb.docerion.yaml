@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_lt.xtb.
+type: config
+title: ChromeOS Lithuanian locale settings bundle
+summary: Empty XML translation bundle holding locale settings for Lithuanian on ChromeOS.

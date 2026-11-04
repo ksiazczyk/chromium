@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_vi.xtb.
+type: config
+title: Vietnamese locale settings for Chrome OS
+summary: Empty translation bundle that defines no locale-specific font or size overrides for Vietnamese on Chrome OS.

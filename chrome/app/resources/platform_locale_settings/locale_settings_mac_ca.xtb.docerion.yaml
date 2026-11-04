@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_ca.xtb.
+type: config
+title: Mac Catalan locale settings
+summary: Translation bundle setting the minimum logical font size to 6 for Catalan on Mac.

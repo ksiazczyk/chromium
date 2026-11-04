@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_he.xtb.
+type: config
+title: Mac locale font settings for Hebrew (he)
+summary: Translation bundle with Chrome's Hebrew locale font settings for macOS, defining fixed, serif, and sans-serif font families plus a minimum logical font size.

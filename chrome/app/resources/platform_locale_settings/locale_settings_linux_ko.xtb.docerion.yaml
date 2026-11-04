@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_ko.xtb.
+type: config
+title: Linux locale settings for Korean
+summary: Defines Korean default font families such as Noto Sans KR, UnDotum and NanumMyeongjo plus minimum font sizes for Chrome on Linux.

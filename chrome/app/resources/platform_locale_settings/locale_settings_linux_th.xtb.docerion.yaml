@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_th.xtb.
+type: config
+title: Linux Thai locale settings
+summary: Translation bundle defining Thai font families TlwgMono and Norasi plus minimum font sizes for Linux.

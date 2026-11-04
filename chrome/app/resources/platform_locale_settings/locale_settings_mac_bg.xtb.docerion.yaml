@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_bg.xtb.
+type: config
+title: Mac Bulgarian locale settings
+summary: Translation bundle setting the minimum logical font size to 6 for Bulgarian on Mac.

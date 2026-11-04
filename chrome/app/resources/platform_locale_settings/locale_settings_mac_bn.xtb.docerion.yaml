@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_bn.xtb.
+type: config
+title: Mac Bengali locale settings
+summary: Translation bundle setting the minimum logical font size to 6 for Bengali on Mac.

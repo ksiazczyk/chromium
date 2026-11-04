@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_sl.xtb.
+type: config
+title: Linux Slovenian locale settings
+summary: Empty translation bundle holding platform locale settings for Slovenian on Linux.

@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_cros_zh-TW.xtb.
+type: config
+title: Traditional Chinese locale settings for Chrome OS
+summary: Sets Noto Sans CJK TC font families and a minimum font size of 12 for Traditional Chinese on Chrome OS.

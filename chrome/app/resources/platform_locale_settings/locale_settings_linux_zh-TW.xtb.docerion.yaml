@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux_zh-TW.xtb.
+type: config
+title: Linux Traditional Chinese locale settings
+summary: Translation bundle setting the minimum and minimum logical font size to 12 for Traditional Chinese on Linux.

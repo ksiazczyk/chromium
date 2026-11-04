@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_ko.xtb.
+type: data
+title: Windows Korean locale settings
+summary: Translation bundle defining Korean default font families and minimum font sizes for Chrome on Windows.

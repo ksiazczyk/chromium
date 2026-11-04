@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_et.xtb.
+type: config
+title: Estonian Windows locale settings translation bundle
+summary: Empty translation bundle for Estonian locale settings on Windows, defining no locale-specific overrides.

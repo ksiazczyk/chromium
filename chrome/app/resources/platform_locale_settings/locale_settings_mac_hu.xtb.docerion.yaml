@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_hu.xtb.
+type: config
+title: Mac locale font settings for Hungarian (hu)
+summary: Translation bundle with Chrome's Hungarian locale font settings for macOS, defining a minimum logical font size of 6.

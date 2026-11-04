@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mac_te.xtb.
+type: config
+title: Mac Telugu locale settings
+summary: Mac Telugu locale settings bundle that sets the minimum logical font size to 6.

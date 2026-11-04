@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win_zh-CN.xtb.
+type: config
+title: Simplified Chinese (zh-CN) Windows locale settings bundle
+summary: Translation bundle defining Simplified Chinese Windows font families, including Noto Sans SC, and a minimum font size of 12.
