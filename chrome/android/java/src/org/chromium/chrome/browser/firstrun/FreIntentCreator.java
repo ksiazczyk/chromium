@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FreIntentCreator
+// summary: Decides which First Run Experience implementation to launch and builds the corresponding intent, including WebAPK and pending intent handling.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

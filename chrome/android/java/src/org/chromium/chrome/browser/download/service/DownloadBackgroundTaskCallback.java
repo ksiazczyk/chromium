@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadBackgroundTaskCallback
+// summary: Callback class invoked by native C++ code to post pending-download notifications when resumption starts and to finish the background task, optionally requesting rescheduling.
+// ---
+
 package org.chromium.chrome.browser.download.service;
 
 import org.jni_zero.CalledByNative;

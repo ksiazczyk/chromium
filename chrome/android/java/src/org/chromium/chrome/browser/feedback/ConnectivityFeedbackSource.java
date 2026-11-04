@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectivityFeedbackSource
+// summary: Asynchronous feedback source that collects the device's current connectivity status for feedback reports.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

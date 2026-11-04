@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tab interaction recorder
+// summary: Records whether the user interacted with a Custom Tab's web content, including form and navigation interactions, when the tab closes.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features;
 
 import android.os.SystemClock;

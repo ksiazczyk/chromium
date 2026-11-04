@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrandingSecurityButtonAnimationDelegate
+// summary: Android animation delegate that cross-fades and rotates the Custom Tab toolbar security icon when its drawable resource changes.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import android.content.res.Resources;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Realtime engagement signal observer
+// summary: Tab observer that tracks scrolling and user interaction and sends realtime engagement signals to the Custom Tabs client.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for download notifications
+// summary: Builds and updates Android notifications for download progress, success, failure, and dangerous download states.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static android.app.DownloadManager.ACTION_NOTIFICATION_CLICKED;

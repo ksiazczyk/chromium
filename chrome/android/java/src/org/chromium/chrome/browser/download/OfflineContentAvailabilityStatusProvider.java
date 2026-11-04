@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineContentAvailabilityStatusProvider
+// summary: Tracks additions and removals of offline content in Chrome to decide when the UI should show messages about offline content availability.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import androidx.annotation.VisibleForTesting;

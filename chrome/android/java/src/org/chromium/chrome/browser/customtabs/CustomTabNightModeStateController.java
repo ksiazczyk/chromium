@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab night mode state controller
+// summary: Maintains and provides the night mode state for CustomTabActivity, applying the color scheme requested via intent or following system dark mode settings.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.content.Intent;

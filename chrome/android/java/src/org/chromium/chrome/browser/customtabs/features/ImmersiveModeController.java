@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive mode controller for TWAs and WebAPKs
+// summary: Enters and maintains immersive mode in TWAs and WebAPKs, handling window focus, lifecycle events, and display cutout mode.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features;
 
 import static android.view.WindowManager.LayoutParams.LAYOUT_IN_DISPLAY_CUTOUT_MODE_DEFAULT;

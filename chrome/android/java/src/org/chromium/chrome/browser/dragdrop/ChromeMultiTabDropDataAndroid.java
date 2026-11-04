@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome multi-tab drop data
+// summary: Drop data holding a list of dragged tabs with a primary tab, providing clip text and supported MIME types for multi-tab drags.
+// ---
+
 package org.chromium.chrome.browser.dragdrop;
 
 import android.content.ClipDescription;

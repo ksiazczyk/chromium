@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial Chooser Dialog
+// summary: Android dialog that lets the user pick a serial device when a website requests a connection, including Bluetooth and location permission handling.
+// ---
+
 package org.chromium.chrome.browser.device_dialog;
 
 import static org.chromium.build.NullUtil.assertNonNull;

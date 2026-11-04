@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base Custom Tab root UI coordinator
+// summary: Coordinates root UI construction for Custom Tab activities, wiring toolbar, navigation bar, and partial custom tab components.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

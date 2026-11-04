@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate for Minimized Custom Tabs feature engagement
+// summary: Interface notifying the feature engagement system that the user engaged with the minimize button.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.minimizedcustomtab;
 
 import org.chromium.build.annotations.NullMarked;

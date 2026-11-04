@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TapFarFromPreviousSuppression
+// summary: Heuristic that suppresses Contextual Search handling when a tap lands far from the previous selection, treating it as a dismissal.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import org.chromium.build.annotations.NullMarked;

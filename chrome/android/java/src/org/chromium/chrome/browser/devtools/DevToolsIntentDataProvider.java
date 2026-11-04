@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsIntentDataProvider
+// summary: BrowserServicesIntentDataProvider implementation for DevTools that reports the DEV_TOOLS activity type, transparent colors, and UI settings such as a suppressed app menu and hidden star and download buttons.
+// ---
+
 package org.chromium.chrome.browser.devtools;
 
 import android.content.Intent;

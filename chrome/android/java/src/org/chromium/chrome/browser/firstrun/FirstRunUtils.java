@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstRunUtils
+// summary: Utility functions for the first run flow, covering Terms of Service acceptance, preference syncing and Safety FRE promo field trial arms.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import androidx.annotation.IntDef;

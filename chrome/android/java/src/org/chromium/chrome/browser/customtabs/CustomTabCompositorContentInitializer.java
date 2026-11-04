@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabCompositorContentInitializer
+// summary: Initializes the compositor content and layout manager for Custom Tab activities and notifies registered callbacks once initialization completes.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.chromium.build.NullUtil.assertNonNull;

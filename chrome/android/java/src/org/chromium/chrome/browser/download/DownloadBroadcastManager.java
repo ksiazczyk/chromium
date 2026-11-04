@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadBroadcastManager
+// summary: SplitCompatService stub that delegates download notification interactions to the DownloadBroadcastManagerImpl class.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import org.chromium.base.SplitCompatService;

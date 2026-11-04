@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchTapState
+// summary: Immutable value class that encapsulates the position and timestamp of a recent tap gesture for Contextual Search.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import org.chromium.build.annotations.NullMarked;

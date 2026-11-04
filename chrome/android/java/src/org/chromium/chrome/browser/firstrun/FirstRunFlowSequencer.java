@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run flow sequencer
+// summary: Helper that determines whether the first run experience should run and which pages, such as search engine and history sync, belong in the sequence.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

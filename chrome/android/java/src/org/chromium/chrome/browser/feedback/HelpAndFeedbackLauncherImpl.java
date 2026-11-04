@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HelpAndFeedbackLauncherImpl
+// summary: Launches activities showing relevant Chrome support pages and starts the feedback collection flow for a given profile.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import static org.chromium.chrome.browser.url_constants.UrlConstantResolver.getOriginalBookmarksUrl;

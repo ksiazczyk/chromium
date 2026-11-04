@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Bluetooth Chooser Android Delegate
+// summary: Chrome-specific implementation of the Bluetooth chooser Android delegate that supplies an autocomplete scheme classifier for the current profile.
+// ---
+
 package org.chromium.chrome.browser.device_dialog;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome tab group drop data
+// summary: Drop data holding tab group metadata and its tabs, building clip text and MIME types for dragged tab groups.
+// ---
+
 package org.chromium.chrome.browser.dragdrop;
 
 import static org.chromium.build.NullUtil.assertNonNull;

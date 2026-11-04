@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial Custom Tab side sheet strategy
+// summary: Height strategy implementing the side sheet variant of partial custom tabs, handling maximization, decoration, slide animations, and toolbar buttons for the CustomTabActivity.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

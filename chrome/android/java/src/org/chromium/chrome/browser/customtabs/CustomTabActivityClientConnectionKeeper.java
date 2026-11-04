@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabActivityClientConnectionKeeper
+// summary: Keeps the client app alive via CustomTabsConnection while CustomTabActivity is in the foreground, binding on start and unbinding on stop.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import org.chromium.build.annotations.NullMarked;

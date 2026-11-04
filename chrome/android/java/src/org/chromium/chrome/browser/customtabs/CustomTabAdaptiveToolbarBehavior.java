@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabAdaptiveToolbarBehavior
+// summary: Implements Custom Tab-specific adaptive toolbar button behavior, determining valid button variants, hidden reasons and open-in-browser handling.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static androidx.browser.customtabs.CustomTabsIntent.OPEN_IN_BROWSER_STATE_OFF;

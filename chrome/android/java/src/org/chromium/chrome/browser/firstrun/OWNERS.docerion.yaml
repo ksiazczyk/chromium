@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Chromium OWNERS file listing code owners for the first run directory, with per-file ownership for the default browser promo fragment.

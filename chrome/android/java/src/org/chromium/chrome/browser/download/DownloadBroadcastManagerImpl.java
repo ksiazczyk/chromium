@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadBroadcastManagerImpl
+// summary: Service implementation that spins up the native browser when a download notification is interacted with and forwards the relevant information to native, recording resumption metrics.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static android.app.DownloadManager.ACTION_NOTIFICATION_CLICKED;

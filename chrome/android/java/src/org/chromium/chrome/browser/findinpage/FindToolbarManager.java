@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindToolbarManager
+// summary: Manages interactions with the find toolbar, including showing and hiding it, observer notifications, and back press handling.
+// ---
+
 package org.chromium.chrome.browser.findinpage;
 
 import android.view.ActionMode;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoCustomTabSnapshotController
+// summary: Controller that prevents incognito Custom Tab content from being visible in Android Recents snapshots.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.app.Activity;

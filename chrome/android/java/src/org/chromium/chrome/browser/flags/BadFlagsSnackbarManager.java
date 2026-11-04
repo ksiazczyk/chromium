@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad Flags Snackbar Manager
+// summary: Java class called by native Chromium code to show a long-duration snackbar notifying the user about bad command-line flags on Android.
+// ---
+
 package org.chromium.chrome.browser.flags;
 
 import androidx.annotation.VisibleForTesting;

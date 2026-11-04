@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindToolbarObserver
+// summary: Observer interface that is notified when the find-in-page toolbar is shown or hidden.
+// ---
+
 package org.chromium.chrome.browser.findinpage;
 
 import org.chromium.build.annotations.NullMarked;

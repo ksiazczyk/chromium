@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the dragdrop directory
+summary: Points to the shared OWNERS file of the UI drag and drop package for review ownership.

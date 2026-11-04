@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadSnackbarController
+// summary: Displays snackbars for download events in Chrome on Android, such as failed downloads or files missing because no SD card was found.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RelatedSearchesStamp
+// summary: Builds and updates the Related Searches stamp CGI parameter that tracks processing stages and user choices between client and server.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import android.net.Uri;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop popup header properties
+// summary: Defines the writable property keys for visibility, title text, appearance, spacing, background color, and header height used by the desktop popup header's property model.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.desktop_popup_header;
 
 import androidx.core.graphics.Insets;

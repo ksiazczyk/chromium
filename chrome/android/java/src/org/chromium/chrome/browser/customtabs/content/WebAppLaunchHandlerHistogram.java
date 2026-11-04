@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppLaunchHandlerHistogram
+// summary: Records histograms tracking Launch Handler API usage, covering client mode actions, file handling and failure reasons.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import androidx.annotation.IntDef;

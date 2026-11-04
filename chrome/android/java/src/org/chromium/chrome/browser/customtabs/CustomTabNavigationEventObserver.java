@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabNavigationEventObserver
+// summary: Tab observer that reports navigation started, finished, aborted, and failed events to the Custom Tabs client callback, with special handling for prerendered loads.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import androidx.browser.customtabs.CustomTabsCallback;

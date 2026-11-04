@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distilled page preferences view
+// summary: Android view that lets users change the theme, font size, and font family of distilled pages and observes preference changes.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

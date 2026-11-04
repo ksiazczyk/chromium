@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HiddenTabHolder
+// summary: Holds a hidden tab that can be used to preload pages before a CustomTabActivity is launched.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static androidx.browser.customtabs.CustomTabsIntent.EXTRA_NETWORK;

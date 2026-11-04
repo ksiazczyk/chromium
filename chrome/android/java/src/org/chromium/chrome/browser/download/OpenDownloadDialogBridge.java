@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenDownloadDialogBridge
+// summary: Bridges the open-download dialog UI to the native download backend, showing warning dialogs for opening downloaded files such as PDFs.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.app.Activity;

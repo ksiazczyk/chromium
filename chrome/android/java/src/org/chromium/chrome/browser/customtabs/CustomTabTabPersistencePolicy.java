@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab tab persistence policy
+// summary: Handles the Custom Tab specific behaviors of tab persistence, including state directory creation, metadata file naming, and cleanup of persisted tab state.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

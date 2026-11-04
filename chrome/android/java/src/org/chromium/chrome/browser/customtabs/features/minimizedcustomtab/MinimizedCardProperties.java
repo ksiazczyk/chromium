@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Properties of the minimized card
+// summary: Defines writable property keys for the minimized card's title, URL and favicon used by the model.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.minimizedcustomtab;
 
 import android.graphics.Bitmap;

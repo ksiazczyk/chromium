@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file that redirects code ownership for the crash package to the shared components/crash/android/OWNERS list.

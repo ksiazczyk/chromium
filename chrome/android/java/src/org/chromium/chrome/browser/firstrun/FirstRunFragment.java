@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run fragment interface
+// summary: Interface implemented by first run fragments, providing page delegate access, accessibility focus setup, and state reset on revisit.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import android.app.Activity;

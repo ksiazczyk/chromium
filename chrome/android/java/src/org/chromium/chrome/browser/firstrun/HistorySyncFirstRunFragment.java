@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistorySyncFirstRunFragment
+// summary: Fragment that hosts the history sync sign-in screen during the First Run Experience and advances the flow when no account is signed in.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

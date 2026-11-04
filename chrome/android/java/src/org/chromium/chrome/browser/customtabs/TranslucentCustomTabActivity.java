@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translucent custom tab activity for TWA splash and partial tabs
+// summary: Empty CustomTabActivity subclass with a translucent theme used for seamless TWA splash screen transitions and translucent partial-screen custom tabs.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import org.chromium.build.annotations.NullMarked;

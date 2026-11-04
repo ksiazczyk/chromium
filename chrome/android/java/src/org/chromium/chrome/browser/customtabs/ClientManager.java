@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tabs client state manager
+// summary: Manages Custom Tabs client connections and state, including sessions, postMessage channels, origin verification, and mayLaunchUrl predictions.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

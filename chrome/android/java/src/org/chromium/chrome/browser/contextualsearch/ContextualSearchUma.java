@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchUma
+// summary: Centralizes UMA histogram and user action logging for Contextual Search, with all calls required to be made from the UI thread.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import android.text.TextUtils;

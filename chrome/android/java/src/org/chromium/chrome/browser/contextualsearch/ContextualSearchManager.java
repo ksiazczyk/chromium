@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchManager
+// summary: Central manager for the Contextual Search feature in Chrome for Android, coordinating selection handling, panel UI, search term resolution, and related searches.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

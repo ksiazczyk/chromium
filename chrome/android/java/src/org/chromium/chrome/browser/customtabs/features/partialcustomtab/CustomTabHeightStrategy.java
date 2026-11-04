@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default custom tab height strategy
+// summary: Default height strategy for custom tabs that creates a partial custom tab display manager when the intent requests a partial custom tab.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import android.app.Activity;

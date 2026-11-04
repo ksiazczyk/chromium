@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinidumpUploadServiceImpl
+// summary: Service implementation responsible for uploading crash minidumps to the Google crash server, including job scheduling, retry limits, and upload metrics per process type.
+// ---
+
 package org.chromium.chrome.browser.crash;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

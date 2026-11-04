@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchPolicy
+// summary: Implements the business decision policy for Contextual Search, covering preferences, promo tap limits, URL validity, and related searches behavior.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabActivityLifecycleUmaTracker
+// summary: Records UMA metrics and user actions for Custom Tab Activity lifecycle events, including incognito launch reasons and session reopen histograms.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.app.Activity;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Ownership file that delegates review responsibility for this directory to the owners listed in chrome/browser/devtools/android/OWNERS.

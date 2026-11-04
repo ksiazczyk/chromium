@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Close button navigation handler
+// summary: Handles close button presses by navigating back to a landing page or closing the tab or activity depending on tab type.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.chromium.chrome.browser.customtabs.content.CustomTabActivityNavigationController.FinishReason.USER_NAVIGATION;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Points to the shared OWNERS file in the device_lock UI directory to define code owners for this package.

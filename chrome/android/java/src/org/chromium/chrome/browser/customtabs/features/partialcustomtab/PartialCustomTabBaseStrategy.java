@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for partial custom tab size strategies
+// summary: Abstract base class for partial custom tab size strategies, providing shared resizing callbacks, animations, toolbar setup and fullscreen handling.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode preferences view
+// summary: View letting users adjust reader mode preferences like theme, font family, and font size, observing DistilledPagePrefs changes.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import android.content.Context;

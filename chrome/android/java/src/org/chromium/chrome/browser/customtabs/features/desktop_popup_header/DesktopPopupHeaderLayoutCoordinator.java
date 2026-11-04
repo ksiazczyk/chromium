@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop popup header layout coordinator
+// summary: Orchestrates creation of the desktop-specific Custom Tabs popup header by inflating the header layout via a ViewStub and wiring the mediator, property model, and view binder together.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.desktop_popup_header;
 
 import android.content.Context;

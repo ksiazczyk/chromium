@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromePureJavaExceptionReporter
+// summary: Custom PureJavaExceptionReporter for Android Chrome that creates and uploads crash reports for Java exceptions, distinguishing phone and desktop product names.
+// ---
+
 package org.chromium.chrome.browser.crash;
 
 import org.chromium.base.ContextUtils;

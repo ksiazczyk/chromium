@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabBrowserControlsVisibilityDelegate
+// summary: Browser controls visibility delegate wrapping the browser state delegate to apply Custom Tab specific constraints such as hiding controls in TWA app mode.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationInfoCaptureTrigger
+// summary: Schedules capture of navigation information after onload and first meaningful paint, with delays to avoid CPU-intensive periods.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.os.Handler;

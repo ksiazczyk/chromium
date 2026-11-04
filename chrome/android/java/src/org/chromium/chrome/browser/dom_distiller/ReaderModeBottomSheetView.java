@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode bottom sheet view
+// summary: Custom LinearLayout view for the reader mode bottom sheet that exposes the peek height of its title.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import android.content.Context;

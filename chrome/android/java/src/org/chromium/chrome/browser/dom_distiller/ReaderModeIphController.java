@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode in-product help controller
+// summary: Shows reader mode in-product help anchored to the toolbar menu button and highlights the reader mode menu entry while it is visible.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import android.app.Activity;

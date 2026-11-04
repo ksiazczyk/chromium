@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadUpdate
+// summary: Immutable data class describing a download status update, carrying file, progress, danger, and profile information for the Android download UI.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.graphics.Bitmap;

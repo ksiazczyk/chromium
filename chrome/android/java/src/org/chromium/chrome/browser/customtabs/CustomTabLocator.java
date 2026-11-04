@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabLocator
+// summary: Utility for locating running Custom Tab or Web App activities by tab ID or webapp ID and returning weak references to them.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.app.Activity;

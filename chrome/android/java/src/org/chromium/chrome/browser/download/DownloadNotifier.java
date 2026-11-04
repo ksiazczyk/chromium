@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for reporting download status notifications
+// summary: Defines an interface for notifying download success, failure, progress, pause, interruption, and cancellation.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import org.chromium.build.annotations.NullMarked;

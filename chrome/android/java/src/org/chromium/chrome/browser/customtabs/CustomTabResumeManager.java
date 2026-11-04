@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab resume manager
+// summary: Coordinates Custom Tab state restoration and auto-saves, handling TabState storage, loading, caching, and time-to-live limits for tab resumption.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.content.Intent;

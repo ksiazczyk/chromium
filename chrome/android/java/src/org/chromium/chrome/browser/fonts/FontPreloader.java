@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontPreloader
+// summary: Singleton Java class that asynchronously preloads Chrome's downloadable Google Sans fonts early in Android app startup via ResourcesCompat.getFont.
+// ---
+
 package org.chromium.chrome.browser.fonts;
 
 import android.content.Context;

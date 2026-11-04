@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full-size strategy for partial custom tabs
+// summary: Height strategy that shows the partial custom tab at full screen size, positioning the window and handling the close animation.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppLaunchHandler
+// summary: Manages web app launch client modes and the launch queue for Trusted Web Activities, including navigation and file handling on launch.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static androidx.browser.trusted.LaunchHandlerClientMode.AUTO;

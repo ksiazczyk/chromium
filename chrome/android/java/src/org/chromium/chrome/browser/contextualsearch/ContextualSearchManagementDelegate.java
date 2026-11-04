@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchManagementDelegate
+// summary: Interface letting external objects such as the Contextual Search panel drive manager actions like promoting to a tab, dismissing the bar, and logging state.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import android.app.Activity;

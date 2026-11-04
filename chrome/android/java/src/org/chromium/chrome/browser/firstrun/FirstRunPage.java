@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run page model
+// summary: Represents a first run page by pairing a fragment class with the condition under which the page should be shown.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import androidx.fragment.app.Fragment;

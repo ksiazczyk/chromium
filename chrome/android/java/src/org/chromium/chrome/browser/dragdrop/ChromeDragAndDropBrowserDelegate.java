@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome drag and drop browser delegate
+// summary: Implements the browser-side drag and drop delegate for Chrome, providing drop-in-Chrome support, drag permissions and pending intent handling.
+// ---
+
 package org.chromium.chrome.browser.dragdrop;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchTranslationImpl
+// summary: Implementation of ContextualSearchTranslation that applies translate triggering to search requests using the Translate bridge for the profile.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import android.text.TextUtils;

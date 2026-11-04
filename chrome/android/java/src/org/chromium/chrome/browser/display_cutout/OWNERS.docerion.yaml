@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the display cutout directory
+summary: Lists the primary and backup code owners responsible for reviewing changes in this package.

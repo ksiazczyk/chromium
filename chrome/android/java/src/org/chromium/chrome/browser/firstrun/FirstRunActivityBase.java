@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run activity base class
+// summary: Abstract base activity for the first run experience, defining intent extras and shared lifecycle and windowing behavior.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkipTosDialogPolicyListener
+// summary: Listens to enterprise policy and device management signals and supplies whether the Terms of Service dialog should be skipped, recording timing histograms.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import android.os.SystemClock;

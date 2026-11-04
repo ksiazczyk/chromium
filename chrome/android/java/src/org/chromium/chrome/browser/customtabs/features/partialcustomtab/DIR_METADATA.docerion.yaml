@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Custom tabs directory metadata
+summary: Chromium directory metadata assigning the CustomTabs UI component and team email for the partial custom tab code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode metrics
+// summary: Utility class recording reader mode histograms and user actions such as contextual page action events, distillation signals, and entry points.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import androidx.annotation.IntDef;

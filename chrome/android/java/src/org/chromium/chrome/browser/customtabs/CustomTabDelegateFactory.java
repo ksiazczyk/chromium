@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabDelegateFactory
+// summary: Supplies Custom Tab specific delegate implementations for tabs, covering web contents, context menus, browser controls, and related behaviors.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.chromium.build.NullUtil.assertNonNull;

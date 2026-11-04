@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabCaptureStateToken
+// summary: Holds the toolbar properties that affect its appearance so bitmap captures can be skipped when two tokens show no difference.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import androidx.annotation.ColorInt;

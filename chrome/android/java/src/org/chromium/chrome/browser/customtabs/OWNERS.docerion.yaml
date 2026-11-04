@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS code owners list for customtabs
+summary: Lists code owners for the customtabs directory and assigns per-file reviewers for mismatch, TWA and WebApp files.

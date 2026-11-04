@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab task description icon generator
+// summary: Generates icons suitable for Custom Tabs in the recent tasks list, using an adequate favicon or generating a rounded icon from the page URL.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsActivity
+// summary: Android activity that shows the DevTools frontend in a Custom Tab window, launched from native code, attaching the given WebContents to the browser window and closing the placeholder tab.
+// ---
+
 package org.chromium.chrome.browser.devtools;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

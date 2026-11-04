@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Close button visibility manager
+// summary: Tracks and applies the visibility state of the Custom Tab close button through the toolbar buttons coordinator.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import org.chromium.build.annotations.NullMarked;

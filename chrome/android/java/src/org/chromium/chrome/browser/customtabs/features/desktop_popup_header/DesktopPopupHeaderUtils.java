@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop popup header utilities
+// summary: Utility class providing the desktop popup header feature check, layout and view resource IDs, and calculation of the final header height from resource minimums and the OS caption bar height.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.desktop_popup_header;
 
 import android.content.Context;

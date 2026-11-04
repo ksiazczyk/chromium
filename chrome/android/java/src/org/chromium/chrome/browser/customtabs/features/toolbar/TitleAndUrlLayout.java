@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Title and URL layout
+// summary: Layout wrapping the custom tab title and URL bars that blocks child touch events and scales down overlapping text.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import android.annotation.SuppressLint;

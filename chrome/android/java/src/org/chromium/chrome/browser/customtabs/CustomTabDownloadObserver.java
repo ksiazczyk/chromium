@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabDownloadObserver
+// summary: Tab observer that decides whether a Custom Tab navigation should show the new download interstitial UI and unregisters itself after the initial navigation chain.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.app.Activity;

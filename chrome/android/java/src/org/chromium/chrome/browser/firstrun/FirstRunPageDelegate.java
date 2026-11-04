@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstRunPageDelegate interface
+// summary: Host interface for First Run Experience pages, defining methods to advance, abort, complete or exit the flow, show info pages and record FRE metrics.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import androidx.annotation.StringRes;

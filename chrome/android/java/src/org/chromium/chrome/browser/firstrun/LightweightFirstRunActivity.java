@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LightweightFirstRunActivity
+// summary: Lightweight First Run activity that shows only the Terms of Service dialog, handling policy-based skipping and native initialization.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser promo first run view
+// summary: Custom relative layout for the default browser promo first run page that exposes its continue and dismiss buttons.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import android.content.Context;

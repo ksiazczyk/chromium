@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode bottom sheet coordinator
+// summary: Coordinates the reader mode bottom sheet, binding its property model to the view and handling theme colors and sheet expansion.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import android.content.Context;

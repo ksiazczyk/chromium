@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchNetworkCommunicator
+// summary: Interface for network communication between the Contextual Search client and server, used to stub out server requests during tests.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import org.chromium.build.annotations.NullMarked;

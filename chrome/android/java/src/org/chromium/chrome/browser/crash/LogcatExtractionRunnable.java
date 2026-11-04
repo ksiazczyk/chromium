@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogcatExtractionRunnable
+// summary: Runnable that extracts recent logcat output, elides PII, attaches it to a minidump file, and initiates immediate or scheduled upload of the crash report.
+// ---
+
 package org.chromium.chrome.browser.crash;
 
 import androidx.annotation.VisibleForTesting;

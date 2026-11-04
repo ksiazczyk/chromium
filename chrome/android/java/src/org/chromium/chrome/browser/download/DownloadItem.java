@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadItem
+// summary: Represents a download item from either Android DownloadManager or Chrome's network stack, holding its content ID, timing, and download info.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

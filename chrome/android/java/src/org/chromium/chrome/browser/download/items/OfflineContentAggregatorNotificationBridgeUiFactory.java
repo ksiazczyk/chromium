@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineContentAggregatorNotificationBridgeUiFactory
+// summary: Factory that holds and lazily creates the singleton bridge between the download notification UI and the OfflineContentProvider.
+// ---
+
 package org.chromium.chrome.browser.download.items;
 
 import org.chromium.base.ThreadUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadBackgroundTask
+// summary: Entry point for the Chrome Android download service that handles background tasks fired by the scheduler, rescheduling on low battery and delegating work to native code via JNI.
+// ---
+
 package org.chromium.chrome.browser.download.service;
 
 import android.content.Context;

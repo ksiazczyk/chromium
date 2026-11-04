@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the display cutout directory
+summary: Points the directory metadata at the shared COMMON_METADATA mixin so the folder inherits its issue-tracking settings.

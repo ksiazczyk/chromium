@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default Custom Tab intent handling strategy
+// summary: Default intent handling strategy that navigates the Custom Tab to URLs provided in the initial and new intents.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static org.chromium.build.NullUtil.assertNonNull;

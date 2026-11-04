@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentWithRequestMetadataHandler
+// summary: Singleton that generates secure tokens for the most recently launched external intent carrying request metadata and validates them when the intent resolves back to the browser.
+// ---
+
 package org.chromium.chrome.browser.externalnav;
 
 import android.content.Intent;

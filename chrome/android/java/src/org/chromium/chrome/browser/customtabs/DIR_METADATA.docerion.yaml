@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Custom tabs directory metadata
+summary: DIR_METADATA file that applies the COMMON_METADATA mixin to this directory.

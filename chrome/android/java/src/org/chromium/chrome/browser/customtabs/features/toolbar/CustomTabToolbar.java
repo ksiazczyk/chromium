@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabToolbar
+// summary: Main Custom Tab toolbar view implementing layout, theming, accessibility, omnibox integration, and toolbar behavior for custom tabs.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import static org.chromium.base.MathUtils.interpolate;

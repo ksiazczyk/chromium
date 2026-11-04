@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchSelectionController
+// summary: Controls selection gesture interaction for Contextual Search, tracking tap and long-press selections and feeding low-level events to the manager.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import android.app.Activity;

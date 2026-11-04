@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchTabHelper
+// summary: Manages enabling, disabling, and gesture listeners for Contextual Search on a given tab, coordinating Java and native helpers per tab.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import static org.chromium.build.NullUtil.assertNonNull;

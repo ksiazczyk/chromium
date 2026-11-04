@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome tab drop data
+// summary: Drop data holding a single dragged tab, exposing incognito state, clip text and supported MIME types.
+// ---
+
 package org.chromium.chrome.browser.dragdrop;
 
 import android.content.ClipDescription;

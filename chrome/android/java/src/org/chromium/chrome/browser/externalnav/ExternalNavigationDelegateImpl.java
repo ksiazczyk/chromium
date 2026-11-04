@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalNavigationDelegateImpl
+// summary: Chrome Android implementation of the ExternalNavigationDelegate interface, providing tab-based behavior for external intent navigation such as app resolution checks and intent handling hooks.
+// ---
+
 package org.chromium.chrome.browser.externalnav;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

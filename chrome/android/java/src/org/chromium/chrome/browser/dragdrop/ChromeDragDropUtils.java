@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome drag and drop utilities
+// summary: Utility class for Chrome drag and drop that records failure metrics and resolves drag types and drop destinations for tabs and tab groups.
+// ---
+
 package org.chromium.chrome.browser.dragdrop;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

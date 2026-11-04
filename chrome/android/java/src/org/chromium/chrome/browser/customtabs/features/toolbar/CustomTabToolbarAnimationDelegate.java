@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabToolbarAnimationDelegate
+// summary: Delegate handling the title bar reveal animation and security icon animations for the Custom Tab toolbar.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

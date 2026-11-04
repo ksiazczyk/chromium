@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindToolbar
+// summary: Android view class implementing the find-in-page toolbar, including location bar state handling, back press behavior, and integration with tabs and side UI.
+// ---
+
 package org.chromium.chrome.browser.findinpage;
 
 import static org.chromium.build.NullUtil.assertNonNull;

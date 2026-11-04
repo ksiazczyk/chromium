@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tabs open time and close cause recorder
+// summary: Records how long Custom Tabs stay open and the cause of closing, using heuristics to distinguish automatic closes from user actions.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.chromium.build.NullUtil.assertNonNull;

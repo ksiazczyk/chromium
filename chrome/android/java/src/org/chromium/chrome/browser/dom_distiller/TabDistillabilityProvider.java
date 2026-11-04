@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab distillability provider
+// summary: Tracks a tab's page distillability and notifies registered observers whenever the distillable state changes.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import androidx.annotation.IntDef;

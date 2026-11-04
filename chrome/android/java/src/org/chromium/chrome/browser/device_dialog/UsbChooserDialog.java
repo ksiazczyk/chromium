@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB Chooser Dialog
+// summary: Android dialog that lets the user pick a USB device when a website requests a connection, for example through a usb.requestDevice JavaScript call.
+// ---
+
 package org.chromium.chrome.browser.device_dialog;
 
 import android.app.Activity;

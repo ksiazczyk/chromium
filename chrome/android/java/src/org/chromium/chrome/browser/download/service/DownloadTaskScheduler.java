@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadTaskScheduler
+// summary: Schedules and cancels download service background jobs with the Android system, mapping task types to job IDs and applying battery, network and timing conditions.
+// ---
+
 package org.chromium.chrome.browser.download.service;
 
 import android.os.PersistableBundle;

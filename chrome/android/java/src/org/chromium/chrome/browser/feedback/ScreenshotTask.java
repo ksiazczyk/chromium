@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenshotTask
+// summary: Captures a scaled screenshot of an activity, via compositor or Android view, for inclusion in feedback reports.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TosDialogBehaviorSharedPrefInvalidator
+// summary: Refreshes the shared preference recording that first run was skipped by the TosDialogBehavior policy, clearing it when the policy no longer applies.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import android.os.Handler;

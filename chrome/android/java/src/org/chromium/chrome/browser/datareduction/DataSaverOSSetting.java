@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSaverOSSetting Java wrapper for native data reduction setting
+// summary: Java wrapper for the native datareduction::DataSaverOSSetting that reports whether the OS-level Data Saver background restriction is enabled on metered networks.
+// ---
+
 package org.chromium.chrome.browser.datareduction;
 
 import android.content.Context;
