@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for multistep_filter_internals
+summary: Points the directory to the shared multistep_filter COMMON_METADATA mixins.

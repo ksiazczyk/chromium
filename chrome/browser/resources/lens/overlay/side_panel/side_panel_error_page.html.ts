@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel error page template
+// summary: Lit HTML template for the side panel error page showing generic or protected error icons and error text lines.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SidePanelErrorPageElement} from './side_panel_error_page.js';

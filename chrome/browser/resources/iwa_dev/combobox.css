@@ -7,6 +7,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the IWA developer combobox
+summary: Styles the combobox input, clear and dropdown buttons and the anchored suggestions dropdown.
+*/
+
 :host {
   --iwa-dev-combobox-margin-bottom: 0;
   anchor-scope: --combobox-input;

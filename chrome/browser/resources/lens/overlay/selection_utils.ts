@@ -7,6 +7,12 @@
  * the different selection components.
  */
 
+// ---docerion
+// type: source
+// title: Selection utilities and shared types
+// summary: Shared enums, interfaces, and helper functions for gestures, cursors, and shimmer focus control used by Lens selection components.
+// ---
+
 // The number of pixels the pointer needs to move before being considered a drag
 export const DRAG_THRESHOLD = 5;
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install dialog template
+// summary: Lit HTML template for the install dialog with tabs for dev proxy, signed bundle and update manifest installs.
+// ---
+
 import './install_dev_proxy_tab.js';
 import './install_local_bundle_tab.js';
 import './install_update_manifest_tab.js';

@@ -1,0 +1,4 @@
+# Docerion header of welcome.html.
+type: source
+title: Host page for the welcome app
+summary: Minimal HTML shell that loads theme styles and the welcome-app module for the Chrome intro welcome page.

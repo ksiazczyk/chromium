@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab switcher view
+// summary: Controller and view that manages the tab list, displays one tab's content at a time, and invokes a callback when the active tab changes.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 
 import {addNode, addNodeWithText, setNodeDisplay, setNodePosition} from './util.js';

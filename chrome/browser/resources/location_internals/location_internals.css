@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Location internals page styles
+summary: Stylesheet that positions the refresh status element in the top right corner of the location internals page.
+*/
+
 #refresh-status {
   position: absolute;
   top: 0;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for media WebUI
+summary: Defines the WebUI build for the media engagement and WebRTC logs pages, listing static, TypeScript and Mojo sources.

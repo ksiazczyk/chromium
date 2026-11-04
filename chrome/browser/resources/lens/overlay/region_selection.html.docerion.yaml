@@ -1,0 +1,4 @@
+# Docerion header of region_selection.html.
+type: source
+title: Region selection template
+summary: HTML template and styles for the region selection element, including the selection canvas, scrim transitions, and keyboard selection control.

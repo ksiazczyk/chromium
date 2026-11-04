@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the intro WebUI
+summary: Defines the WebUI build for the intro first-run experience, listing static assets, TypeScript sources, CSS files and Mojo dependencies.

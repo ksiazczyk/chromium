@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata reusing common metadata
+summary: Points to the folder's COMMON_METADATA file as a mixin so the directory inherits its issue tracking settings.

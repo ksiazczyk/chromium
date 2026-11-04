@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ghost loader HTML template for the Lens side panel
+// summary: Lit HTML template that renders the ghost loader's title bar and rows of placeholder squares for the Lens side panel.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SidePanelGhostLoaderElement} from './side_panel_ghost_loader.js';

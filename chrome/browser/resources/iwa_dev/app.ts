@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main app element for the IWA developer tool
+// summary: Implements the iwa-dev-app Lit element that lists installed Isolated Web Apps and handles install, update, update options and uninstall actions.
+// ---
+
 import '/strings.m.js';
 import './installed_app_list_item.js';
 import './install_dialog.js';

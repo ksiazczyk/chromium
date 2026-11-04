@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: net-internals main stylesheet
+summary: Styles the net-internals page with theme variables, tab list layout, content boxes, and warning text, including dark mode support.
+*/
+
 :root {
   --color-selected-tab: black;
   --color-background: #fff;

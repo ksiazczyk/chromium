@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Region selection element
+// summary: Polymer element responsible for rendering the region the user is currently selecting, without any post-selection state.
+// ---
+
 import {I18nMixin} from '//resources/cr_elements/i18n_mixin.js';
 import {skColorToRgba} from '//resources/js/color_utils.js';
 import {EventTracker} from '//resources/js/event_tracker.js';

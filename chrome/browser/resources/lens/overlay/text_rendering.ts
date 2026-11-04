@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text rendering utilities
+// summary: Provides shared helpers for validating renderable words, text separators, and issuing translation requests for detected Lens overlay text.
+// ---
+
 import type {BrowserProxy} from './browser_proxy.js';
 import {CenterRotatedBox_CoordinateType} from './geometry.mojom-webui.js';
 import {UserAction} from './lens.mojom-webui.js';

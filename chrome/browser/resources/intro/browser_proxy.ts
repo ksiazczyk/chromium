@@ -7,6 +7,12 @@
  * interact with the browser.
  */
 
+// ---docerion
+// type: source
+// title: Intro browser proxy
+// summary: Defines the IntroBrowserProxy interface and implementation that send sign-in, continue-without-account and initialization messages from the intro page to the browser.
+// ---
+
 export interface IntroBrowserProxy {
   // Called when the user clicks the "sign in" button.
   continueWithAccount(): void;

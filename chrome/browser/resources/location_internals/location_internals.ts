@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location internals page controller
+// summary: TypeScript entry point that wires the watch and download buttons, sets up the Mojo geolocation internals observer and updates the diagnostics view.
+// ---
+
 import './diagnose_info_view.js';
 
 import {getRequiredElement} from 'chrome://resources/js/util.js';

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Searchbox shared Lit style variables
+summary: Defines CSS custom properties for searchbox colors, dimensions, shadows, and ghost loader theming.
+*/
+
  #searchboxContainer {
   display: flex;
   font-family: Roboto, Arial, sans-serif;

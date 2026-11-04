@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast feedback UI element logic
+// summary: TypeScript for the feedback-ui Lit element and a browser proxy that collects user feedback and sends it through chrome.feedbackPrivate.
+// ---
+
 import '/strings.m.js';
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';

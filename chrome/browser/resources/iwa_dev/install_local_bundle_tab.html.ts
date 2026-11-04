@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed bundle install tab template
+// summary: Lit HTML template showing instructions to select a signed web bundle file via the OS file picker.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {IwaDevInstallLocalBundleTabElement} from './install_local_bundle_tab.js';

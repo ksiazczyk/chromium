@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sortable data table for media WebUI pages
+// summary: Implements a sortable data table with a delegate interface used by media WebUI pages to render and sort rows.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 /**

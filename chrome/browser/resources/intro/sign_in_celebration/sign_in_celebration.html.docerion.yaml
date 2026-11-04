@@ -1,0 +1,4 @@
+# Docerion header of sign_in_celebration.html.
+type: source
+title: Sign-in celebration WebUI page
+summary: HTML page that hosts the sign-in-celebration-app element, loads its module script, and applies dark mode background styling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel browser proxy
+// summary: Singleton browser proxy giving the side panel WebUI access to the Lens side panel Mojo handler and callback router.
+// ---
+
 import type {LensSidePanelPageHandlerInterface} from '../lens_side_panel.mojom-webui.js';
 import {LensSidePanelPageCallbackRouter, LensSidePanelPageHandlerFactory, LensSidePanelPageHandlerRemote} from '../lens_side_panel.mojom-webui.js';
 

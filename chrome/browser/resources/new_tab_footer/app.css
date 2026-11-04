@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: New Tab Footer styles
+summary: Lit CSS defining the footer grid layout, notice items with dividers, management notice logo and customize buttons styling.
+*/
+
 #container {
   align-items: center;
   display: grid;

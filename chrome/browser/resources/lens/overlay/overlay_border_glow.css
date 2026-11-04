@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Overlay border glow element styles
+summary: CSS defining the rotating conic-gradient border glow, its mask and fade animations for the Lens overlay selection.
+*/
+
 :host {
   --gradient-mask-opacity-middle-val: 0;
   /* Ensure the flow doesn't leave this elements bounds. */

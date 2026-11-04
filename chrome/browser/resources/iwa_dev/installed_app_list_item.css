@@ -9,6 +9,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Installed app list item styles
+summary: Styles the installed app list item card, including the split update button, app icon, launch overlay, and responsive action layout.
+*/
+
 :host {
   align-items: center;
   background-color: var(--cr-card-background-color);

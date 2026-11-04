@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in celebration app element
+// summary: Implements the sign-in-celebration-app custom element that displays user info, tracks dark mode, and signals when the celebration animation finishes.
+// ---
+
 import 'chrome://resources/cr_components/cr_lottie/cr_lottie.js';
 import '/strings.m.js';
 

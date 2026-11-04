@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed bundle install tab element
+// summary: Custom element tab that fires the request-install-from-local-bundle event when submitted.
+// ---
+
 import {getHtml} from './install_local_bundle_tab.html.js';
 import {IwaDevInstallTabElement} from './install_tab.js';
 

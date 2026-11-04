@@ -11,6 +11,12 @@
  * #include=cr-icons-lit cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Refreshed sign-in promo styles
+summary: Lit CSS styles for the refreshed sign-in promo, including card layout, dark mode, and lottie animation positioning.
+*/
+
 :host {
   --card-background-color: var(--cr-fallback-color-surface);
   --card-icon-background-color: var(--cr-fallback-color-on-surface);

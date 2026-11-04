@@ -1,0 +1,4 @@
+# Docerion header of media_router_internals.html.
+type: source
+title: Media Router Internals page layout
+summary: HTML skeleton of the media router internals page with session controls and tabs for sink status, Cast provider, mirroring dashboard, stats, and logs.

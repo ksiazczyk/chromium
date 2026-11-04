@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dev Mode Proxy install tab template
+// summary: Lit HTML template rendering the URL input used to install an Isolated Web App from a dev mode proxy.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {IwaDevInstallDevProxyTabElement} from './install_dev_proxy_tab.js';

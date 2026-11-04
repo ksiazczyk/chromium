@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finish-or-continue app element
+// summary: Lit element implementing the finish-or-continue intro screen, handling dark mode, animation URLs, feature showcase eligibility, and browser proxy interactions.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_components/cr_lottie/cr_lottie.js';

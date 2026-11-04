@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens searchbox Lit element
+// summary: Lit element cr-lens-searchbox implementing the Lens overlay searchbox, wiring the searchbox input, dropdown, thumbnail and Lens search button behavior.
+// ---
+
 import '//resources/cr_components/searchbox/searchbox_dropdown.js';
 import '//resources/cr_components/searchbox/searchbox_input.js';
 import '//resources/cr_components/searchbox/searchbox_icon.js';

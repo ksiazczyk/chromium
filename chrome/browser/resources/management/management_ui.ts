@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management UI custom element
+// summary: Implements the management-ui Lit element that displays browser, extension, profile and device reporting information for managed Chrome.
+// ---
+
 // clang-format off
 // <if expr="not is_android">
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';

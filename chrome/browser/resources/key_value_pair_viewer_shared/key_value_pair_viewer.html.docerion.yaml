@@ -1,0 +1,4 @@
+# Docerion header of key_value_pair_viewer.html.
+type: source
+title: HTML template for the key value pair viewer element
+summary: Lit HTML template for the viewer with a table title, expand all and collapse all buttons, status text, spinner, and the rendered entry list.

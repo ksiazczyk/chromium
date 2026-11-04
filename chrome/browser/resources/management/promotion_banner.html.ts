@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promotion banner HTML template
+// summary: Lit HTML template for the promotion banner element, rendering title, description, redirect button, and dismiss button with i18n strings.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PromotionBannerElement} from './promotion_banner.js';

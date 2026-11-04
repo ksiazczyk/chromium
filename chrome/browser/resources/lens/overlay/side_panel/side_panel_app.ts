@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens side panel app element
+// summary: Main Polymer element managing the Lens side panel UI, including searchbox, results frame, error page, ghost loader and feedback toast.
+// ---
+
 import './side_panel_ghost_loader.js';
 import './side_panel_error_page.js';
 import './feedback_toast.js';

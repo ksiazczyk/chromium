@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Chromium directory metadata for IWA developer tooling
+summary: Maps the directory to Buganizer components and the iwa-team mailing list for issue routing and ownership.

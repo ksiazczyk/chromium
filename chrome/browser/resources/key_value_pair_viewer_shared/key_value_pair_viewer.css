@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the key value pair viewer element
+summary: Styles the key value pair viewer element, covering the header, expand and collapse buttons, loading spinner, and striped entry rows.
+*/
+
 h2 {
   margin: 0;
 }

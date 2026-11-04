@@ -7,6 +7,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared styles for the IWA developer tool
+summary: Shared CSS defining dialog titles, error and placeholder messages, and dropdown styling with dark mode support.
+*/
+
 cr-dialog [slot='title'] {
   font-weight: 500;
 }

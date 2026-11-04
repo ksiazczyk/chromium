@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install tab base class
+// summary: Abstract base class defining validity notification and submit behavior for install dialog tab components.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {getCss as getSharedCss} from './shared_style.css.js';

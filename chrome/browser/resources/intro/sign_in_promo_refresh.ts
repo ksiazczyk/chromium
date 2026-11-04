@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refreshed sign-in promo element
+// summary: Lit element implementing the refreshed first-run sign-in promo with animations, dark mode tracking, and sign-in actions.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import 'chrome://resources/cr_components/cr_lottie/cr_lottie.js';

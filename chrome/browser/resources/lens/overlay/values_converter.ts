@@ -5,6 +5,12 @@
 // File to store common utils relating to converting values used across the Lens
 // overlay.
 
+// ---docerion
+// type: source
+// title: Value conversion utilities
+// summary: Offers small helpers that convert numeric values into percent and pixel strings used across the Lens overlay.
+// ---
+
 // Takes the value between 0-1 and returns a string in the form '__%';
 export function toPercent(value: number): string {
   return `${value * 100}%`;

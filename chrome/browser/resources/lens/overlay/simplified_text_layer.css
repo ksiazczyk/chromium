@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Simplified text layer styles
+summary: Styles for highlighted text lines in the simplified text layer, including actioned states and Windows high contrast mode support.
+*/
+
 :host {
   height: 100%;
   width: 100%;

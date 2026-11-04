@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Searchbox escape handling utility
+// summary: Utility handling Escape key behavior for the Lens searchbox, blurring it on empty input or suppressing the ghost loader otherwise.
+// ---
+
 import type {SearchboxMixinInterface} from '//resources/cr_components/searchbox/searchbox_mixin.ts';
 import type {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 

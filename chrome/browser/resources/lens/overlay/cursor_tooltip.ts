@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor tooltip element
+// summary: Polymer element that manages and displays cursor tooltips for region search, text highlights, and other Lens overlay interactions.
+// ---
+
 import '/strings.m.js';
 
 import {I18nMixin} from '//resources/cr_elements/i18n_mixin.js';

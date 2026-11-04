@@ -1,0 +1,4 @@
+# Docerion header of intro.html.
+type: source
+title: Intro page HTML shell
+summary: Minimal HTML host page that loads Material Design color styles, applies a dark mode background and mounts the intro-app element with its module script.

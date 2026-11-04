@@ -1,0 +1,4 @@
+# Docerion header of post_selection_renderer.html.
+type: source
+title: Post-selection renderer template
+summary: HTML template and styles for the post-selection renderer, covering the scrim, glowing cutout of the selected region, and selection corner painting.

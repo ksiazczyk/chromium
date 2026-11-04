@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language browser proxy
+// summary: Browser proxy that fetches, stores and retrieves source and target language settings for Lens overlay translation.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 
 import type {BrowserProxy} from './browser_proxy.js';

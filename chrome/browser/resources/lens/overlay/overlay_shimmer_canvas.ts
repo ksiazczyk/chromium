@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay shimmer canvas element
+// summary: Polymer element that renders the animated shimmer circles on the Lens overlay, transitioning between invocation, steady state, interaction and cursor states.
+// ---
+
 import {assert, assertNotReached} from '//resources/js/assert.js';
 import {EventTracker} from '//resources/js/event_tracker.js';
 import {loadTimeData} from '//resources/js/load_time_data.js';

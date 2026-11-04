@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the New Tab Footer directory
+summary: Shared metadata declaring the Monorail component UI>Customize>NTPFooter and the public Buganizer component ID for issue tracking.

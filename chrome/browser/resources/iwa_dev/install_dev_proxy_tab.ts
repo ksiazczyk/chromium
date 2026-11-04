@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dev Mode Proxy install tab element
+// summary: Custom element that validates a dev mode proxy URL and fires the request-install-from-dev-proxy event.
+// ---
+
 import '//resources/cr_elements/cr_input/cr_input.js';
 
 import {getHtml} from './install_dev_proxy_tab.html.js';

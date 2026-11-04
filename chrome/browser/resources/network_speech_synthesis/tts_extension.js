@@ -14,6 +14,12 @@
  * and plays the resulting speech using HTML5 audio.
  */
 
+// ---docerion
+// type: source
+// title: Network speech synthesis TTS extension
+// summary: Component extension script that speaks text by requesting audio from Google's speech synthesis API and playing it with an HTML5 audio element.
+// ---
+
 /**
  * The main class for this extension. Adds listeners to
  * chrome.ttsEngine.onSpeak and chrome.ttsEngine.onStop and implements

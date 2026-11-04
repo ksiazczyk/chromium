@@ -7,6 +7,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the IWA developer app element
+summary: Defines the layout and appearance of the main Isolated Web App developer page, including headers, the app list and the install button.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   display: block;

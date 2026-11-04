@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Multistep Filter Internals page
+summary: Lit CSS that styles the debug info sections, filter controls, and the striped log list of the internals page.
+*/
+
 :host {
   --bg-color: white;
   --border-color: #dadce0;

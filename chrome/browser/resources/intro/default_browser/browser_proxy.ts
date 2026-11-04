@@ -7,6 +7,12 @@
  * to interact with the browser.
  */
 
+// ---docerion
+// type: source
+// title: Default browser page browser proxy
+// summary: Browser proxy that forwards set-as-default and skip actions from the default browser intro page to the browser.
+// ---
+
 export interface DefaultBrowserBrowserProxy {
   // Called when the user clicks on the "Set as default" button.
   setAsDefaultBrowser(): void;

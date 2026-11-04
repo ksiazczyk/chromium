@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promotion banner element
+// summary: Lit custom element for the promotion banner that records dismissal via the browser proxy and opens the Google Admin console on redirect click.
+// ---
+
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {ManagementBrowserProxy} from './management_browser_proxy.js';

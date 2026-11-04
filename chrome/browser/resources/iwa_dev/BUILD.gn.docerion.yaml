@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the IWA developer WebUI
+summary: Defines the build_webui target that compiles the iwa_dev WebUI's HTML, CSS, TypeScript and Mojo sources into a trusted WebUI.

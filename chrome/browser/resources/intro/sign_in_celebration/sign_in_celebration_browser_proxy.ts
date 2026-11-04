@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in celebration browser proxy
+// summary: Singleton browser proxy that connects the sign-in celebration WebUI to its Mojo handler and callback router for user info and completion events.
+// ---
+
 import {SignInCelebrationPageCallbackRouter, SignInCelebrationPageHandlerFactory, SignInCelebrationPageHandlerRemote} from '../sign_in_celebration.mojom-webui.js';
 import type {SignInCelebrationPageHandlerInterface} from '../sign_in_celebration.mojom-webui.js';
 

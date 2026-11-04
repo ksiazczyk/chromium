@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update options dialog template
+// summary: Lit template for the update options dialog with channel and pinned version comboboxes and an allow downgrades toggle.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {IwaDevUpdateOptionsDialogElement} from './update_options_dialog.js';

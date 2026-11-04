@@ -9,6 +9,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Lens searchbox Lit styles
+summary: Lit stylesheet for the Lens searchbox element, defining layout, colors, shadows, icon placement and forced-colors handling for the input, icons and dropdown.
+*/
+
 :host {
   --color-cr-searchbox-input-focused: var(--color-lens-searchbox-background);
   --color-cr-searchbox-input-not-focused: var(--color-searchbox-background);

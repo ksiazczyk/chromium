@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot bitmap browser proxy
+// summary: Browser proxy that fetches the viewport screenshot bitmap from the browser process and notifies listeners when the overlay is reshown.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import type {BigBuffer} from '//resources/mojo/mojo/public/mojom/base/big_buffer.mojom-webui.js';
 import type {BitmapMappedFromTrustedProcess} from '//resources/mojo/skia/public/mojom/bitmap.mojom-webui.js';

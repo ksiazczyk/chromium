@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the intro app element
+summary: Lit styles positioning the view manager and the centered product logo animation in intro-app.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
 }

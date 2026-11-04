@@ -1,0 +1,4 @@
+# Docerion header of feedback.html.
+type: source
+title: Cast feedback page entry point
+summary: WebUI HTML page that loads the cast feedback UI module and hosts the feedback-ui element.

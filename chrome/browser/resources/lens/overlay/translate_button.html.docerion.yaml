@@ -1,0 +1,4 @@
+# Docerion header of translate_button.html.
+type: source
+title: Translate button template
+summary: HTML template and styles for the Lens overlay translate button, including the source and target language picker menus.

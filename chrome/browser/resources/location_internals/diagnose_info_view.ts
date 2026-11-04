@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnoseInfoViewElement web component
+// summary: TypeScript source for the diagnose-info-view element that formats geolocation diagnostics and fills the diagnostic tables.
+// ---
+
 import './diagnose_info_table.js';
 
 import {CustomElement} from '//resources/js/custom_element.js';

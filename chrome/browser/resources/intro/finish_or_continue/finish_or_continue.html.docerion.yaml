@@ -1,0 +1,4 @@
+# Docerion header of finish_or_continue.html.
+type: source
+title: Finish-or-continue host page
+summary: HTML entry page that loads theme styles and mounts the finish-or-continue app element for the Chrome intro WebUI.

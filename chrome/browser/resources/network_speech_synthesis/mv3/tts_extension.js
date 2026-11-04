@@ -14,6 +14,12 @@
  * and plays the resulting speech using HTML5 audio.
  */
 
+// ---docerion
+// type: source
+// title: Google network speech TTS engine extension
+// summary: Implements the ttsEngine speak, stop, pause and resume handlers that request speech audio from Google's API and play it via the offscreen document.
+// ---
+
 /**
  * The main class for this extension. Adds listeners to
  * chrome.ttsEngine.onSpeak and chrome.ttsEngine.onStop and implements

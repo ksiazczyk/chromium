@@ -1,0 +1,4 @@
+# Docerion header of cursor_tooltip.html.
+type: source
+title: Cursor tooltip template
+summary: HTML template with styles and markup for the cursor tooltip element shown in the Lens overlay.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnoseInfoTableElement web component
+// summary: TypeScript source for the diagnose-info-table custom element that renders, hides and exports diagnostic data tables.
+// ---
+
 import {CustomElement} from '//resources/js/custom_element.js';
 import {getTrustedHTML} from '//resources/js/static_types.js';
 

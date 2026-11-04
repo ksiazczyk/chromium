@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for location_internals
+summary: Directory metadata declaring the Blink>Geolocation monorail component, the device-dev team email and a Buganizer component.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the intro directory
+summary: Delegates review ownership to the chrome/browser/profiles OWNERS file.

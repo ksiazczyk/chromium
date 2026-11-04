@@ -4,6 +4,12 @@
 
 // API: https://drafts.css-houdini.org/css-paint-api-1/
 
+// ---docerion
+// type: source
+// title: CSS Paint API type declarations
+// summary: TypeScript declarations for the CSS Paint API, including paint worklet registration and rendering context types.
+// ---
+
 declare namespace CSS {
   namespace paintWorklet {
     export function addModule(url: string): void;

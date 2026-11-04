@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Lens overlay BUILD.gn build configuration
+summary: GN build file that defines the Lens overlay WebUI build, listing static assets, web components, TypeScript and CSS files, and Mojo dependencies.

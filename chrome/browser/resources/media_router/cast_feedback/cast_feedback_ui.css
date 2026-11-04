@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Cast feedback UI styles
+summary: Lit CSS styles for the cast feedback form, covering the header banner, feedback type toggle, rating questions, form buttons and dialogs.
+*/
+
 :host {
   background: var(--md-background-color);
   color: var(--cr-primary-text-color);

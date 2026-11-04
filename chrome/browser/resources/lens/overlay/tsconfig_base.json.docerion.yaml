@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript base configuration for the Lens overlay
+summary: Extends the shared Chromium TypeScript tsconfig and adds type roots for the Lens overlay directory.

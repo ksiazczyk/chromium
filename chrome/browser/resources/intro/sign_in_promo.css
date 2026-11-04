@@ -12,6 +12,12 @@
  * #include=cr-icons-lit cr-hidden-style-lit tangible-sync-style-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Sign-in promo styles
+summary: Lit CSS styles for the sign-in promo element, defining card layout, colors, responsive breakpoints, and fade and slide animations.
+*/
+
 :host {
   --cr-button-height: 36px;
   --btn-container-height: calc(2 * var(--btn-margin) + var(--cr-button-height));

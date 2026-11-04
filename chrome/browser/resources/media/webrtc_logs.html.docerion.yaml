@@ -1,0 +1,4 @@
+# Docerion header of webrtc_logs.html.
+type: source
+title: WebRTC logs page
+summary: WebUI page that lists saved WebRTC text and event logs with localized headings and empty-state messages.

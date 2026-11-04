@@ -1,0 +1,4 @@
+# Docerion header of default_browser.html.
+type: source
+title: Default browser intro page HTML host
+summary: Host page for the default browser intro that loads the app module and sets base styling with dark mode support.

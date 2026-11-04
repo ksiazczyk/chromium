@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post-selection paint worklet
+// summary: CSS paint worklet that draws the white rounded corner markers around a completed Lens overlay selection using custom CSS properties.
+// ---
+
 import {assert, assertInstanceof} from '//resources/js/assert.js';
 
 class PostSelectionWorklet {

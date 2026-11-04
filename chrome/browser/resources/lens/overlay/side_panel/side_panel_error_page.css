@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Side panel error page styles
+summary: Lit CSS styles for the Lens side panel error page, including generic and protected error icons and dark mode colors.
+*/
+
 :host {
   height: 100%;
   width: 100%;

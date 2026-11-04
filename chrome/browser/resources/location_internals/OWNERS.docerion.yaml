@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for location_internals
+summary: Owners file that delegates code ownership to the geolocation OWNERS file under content/browser.

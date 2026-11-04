@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo browser proxy
+// summary: Browser proxy that connects the sign-in promo UI to its Mojo page handler and exposes media query matching.
+// ---
+
 import {SignInPromoPageCallbackRouter, SignInPromoPageHandlerFactory, SignInPromoPageHandlerRemote} from './sign_in_promo.mojom-webui.js';
 import type {SignInPromoPageHandlerInterface} from './sign_in_promo.mojom-webui.js';
 

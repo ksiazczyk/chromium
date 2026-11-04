@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Lens shared WebUI BUILD.gn build configuration
+summary: GN build rules that package the Lens shared WebUI resources, listing static SVGs, TypeScript sources, CSS files, and Mojo dependencies.

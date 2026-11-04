@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities view for proxy matcher testing
+// summary: View providing a form to test proxy pattern URL matchers against a sample URL and display whether the URL matches.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 
 import {BrowserBridge} from './browser_bridge.js';
