@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exit type service browser tests
+// summary: Browser tests verifying exit type tracking, session service saving, and the session crashed bubble behavior after Chrome restarts.
+// ---
+
 #include "chrome/browser/sessions/exit_type_service.h"
 
 #include "base/files/file_path.h"

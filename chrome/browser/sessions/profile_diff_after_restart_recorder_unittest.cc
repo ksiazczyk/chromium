@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileDiffAfterRestartRecorder unit tests
+// summary: Unit tests covering pre-restart count saving, stale pref clearing, and histogram recording for the profile diff recorder.
+// ---
+
 #include "chrome/browser/sessions/profile_diff_after_restart_recorder.h"
 
 #include <optional>

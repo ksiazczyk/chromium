@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome-specific serialized navigation driver implementation
+// summary: Implements the Chrome-specific serialized navigation driver that sanitizes referrer data and rewrites Android new tab page URLs in saved navigation entries.
+// ---
+
 #include "chrome/browser/sessions/chrome_serialized_navigation_driver.h"
 
 #include "base/memory/singleton.h"

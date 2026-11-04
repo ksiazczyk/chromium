@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session tab helper factory header
+// summary: Declares CreateSessionServiceTabHelper for attaching a session tab helper to a WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_TAB_HELPER_FACTORY_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_TAB_HELPER_FACTORY_H_
 

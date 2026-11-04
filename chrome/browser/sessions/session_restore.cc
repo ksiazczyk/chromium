@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore implementation
+// summary: Implements restoring the last or saved session, including synchronous startup restore, crash recovery, and foreign session windows.
+// ---
+
 #include "chrome/browser/sessions/session_restore.h"
 
 #include <stddef.h>

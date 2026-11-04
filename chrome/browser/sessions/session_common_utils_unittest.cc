@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session common utilities unit tests
+// summary: Unit tests verifying that GetNavigationIndexToSelect falls back to the settings page when the sign-out page is the selected navigation.
+// ---
+
 #include "chrome/browser/sessions/session_common_utils.h"
 
 #include <memory>

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android settings style resources
+summary: Defines Material toolbar styles and a theme overlay that control the appearance of the Chromium Android settings UI.
+-->
+
 <resources>
     <style name="SettingsToolbarStyle" parent="Widget.Material3Expressive.Toolbar">
         <item name="titleTextAppearance">@style/TextAppearance.Headline.Primary</item>

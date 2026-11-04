@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session common utilities implementation
+// summary: Implements helpers that decide which URLs are tracked for session restore and which navigation index to select when restoring a tab.
+// ---
+
 #include "chrome/browser/sessions/session_common_utils.h"
 
 #include <algorithm>

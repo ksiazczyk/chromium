@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSearchIndexProvider
+// summary: Interface for Chrome settings preferences that provide data for search indexing, adding profile-aware dynamic preference updates on top of SearchIndexProvider.
+// ---
+
 package org.chromium.chrome.browser.settings.search;
 
 import android.content.Context;

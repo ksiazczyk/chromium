@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Encrypted session storage browser tests
+// summary: Browser tests for encrypted session storage, exercising session and tab restore services, tab groups, and command storage behavior with the feature enabled.
+// ---
+
 #include <string_view>
 #include <vector>
 

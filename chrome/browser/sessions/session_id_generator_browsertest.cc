@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session ID generator browser test
+// summary: Browser test verifying that the sessions::SessionIdGenerator singleton is initialized.
+// ---
+
 #include "components/sessions/core/session_id_generator.h"
 
 #include "chrome/test/base/in_process_browser_test.h"

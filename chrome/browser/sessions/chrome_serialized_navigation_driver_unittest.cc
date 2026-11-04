@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeSerializedNavigationDriver unit tests
+// summary: Unit tests verifying that the Chrome serialized navigation driver sanitizes referrer data and page state correctly under different referrer policies.
+// ---
+
 #include "chrome/browser/sessions/chrome_serialized_navigation_driver.h"
 
 #include "components/sessions/core/serialized_navigation_entry_test_helper.h"

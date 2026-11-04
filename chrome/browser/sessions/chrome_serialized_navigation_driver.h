@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSerializedNavigationDriver class declaration
+// summary: Declares the singleton ChromeSerializedNavigationDriver, a ContentSerializedNavigationDriver implementation that knows about chrome/ specifics.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_CHROME_SERIALIZED_NAVIGATION_DRIVER_H_
 #define CHROME_BROWSER_SESSIONS_CHROME_SERIALIZED_NAVIGATION_DRIVER_H_
 

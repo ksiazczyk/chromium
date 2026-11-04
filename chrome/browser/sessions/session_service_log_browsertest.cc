@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session service log browser tests
+// summary: Browser tests checking that start, exit, restore, and write-error events are logged correctly across session lifecycle scenarios.
+// ---
+
 #include "chrome/browser/sessions/session_service_log.h"
 
 #include <stddef.h>

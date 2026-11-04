@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session restore delegate unit tests
+// summary: Unit test verifying that RestoreTabs triggers favicon fetching for restored tabs.
+// ---
+
 #include "chrome/browser/sessions/session_restore_delegate.h"
 
 #include "base/memory_coordinator/test_memory_consumer_registry.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings activity test rule
+// summary: Activity test rule that launches SettingsActivity or SettingsInTabTestActivity with a chosen fragment for settings tests.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.content.Context;

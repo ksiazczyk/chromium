@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileDiffAfterRestartRecorder class declaration
+// summary: Declares the SessionRestoreObserver that records profile window count differences between a browser shutdown and the next startup.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_PROFILE_DIFF_AFTER_RESTART_RECORDER_H_
 #define CHROME_BROWSER_SESSIONS_PROFILE_DIFF_AFTER_RESTART_RECORDER_H_
 

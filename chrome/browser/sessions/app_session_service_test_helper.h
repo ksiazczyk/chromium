@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppSessionServiceTestHelper class declaration
+// summary: Declares a SessionServiceBaseTestHelper subclass that exposes the AppSessionService under test and allows swapping services in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_APP_SESSION_SERVICE_TEST_HELPER_H_
 #define CHROME_BROWSER_SESSIONS_APP_SESSION_SERVICE_TEST_HELPER_H_
 

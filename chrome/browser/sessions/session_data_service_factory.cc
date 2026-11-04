@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session data service factory implementation
+// summary: Profile-keyed service factory that builds SessionDataService instances together with a SessionDataDeleter for each profile.
+// ---
+
 #include "chrome/browser/sessions/session_data_service_factory.h"
 
 #include <memory>

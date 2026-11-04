@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service lookup header
+// summary: Declares functions that determine relevance to AppSessionService and select the appropriate session service for a window or profile.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_SERVICE_LOOKUP_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_SERVICE_LOOKUP_H_
 

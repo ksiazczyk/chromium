@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsInTab feature utility
+// summary: Utility class that checks whether the Settings in Tab feature is enabled and whether opening settings should create a tab instead of SettingsActivity.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.content.Context;

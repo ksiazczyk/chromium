@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionServiceBaseObserver header
+// summary: Declares SessionServiceBaseObserver, a checked observer interface that notifies clients when a SessionServiceBase is being destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_SERVICE_BASE_OBSERVER_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_SERVICE_BASE_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service event log implementation
+// summary: Implements persistence of session restore events such as start, restore, exit, and write errors in profile prefs for diagnostics.
+// ---
+
 #include "chrome/browser/sessions/session_service_log.h"
 
 #include <string>

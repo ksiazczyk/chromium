@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore delegate implementation
+// summary: Implements RestoredTab ordering and schedules restored tabs for background loading via the performance manager.
+// ---
+
 #include "chrome/browser/sessions/session_restore_delegate.h"
 
 #include <stddef.h>

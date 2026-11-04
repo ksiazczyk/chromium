@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore metrics evaluation and recording
+// summary: Classifies session restore results into outcomes and error reasons and records them as UMA histograms.
+// ---
+
 #include "chrome/browser/sessions/session_restore_metrics.h"
 
 #include <string_view>

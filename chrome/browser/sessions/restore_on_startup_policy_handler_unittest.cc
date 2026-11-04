@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RestoreOnStartup policy handler unit tests
+// summary: Unit tests verifying type checks, deprecated and out-of-range values, and cookie policy warnings for the RestoreOnStartup handler.
+// ---
+
 #include "chrome/browser/sessions/restore_on_startup_policy_handler.h"
 
 #include <memory>

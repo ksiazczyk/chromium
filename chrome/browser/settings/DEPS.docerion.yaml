@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for settings dependencies
+summary: Sets include rules allowing the settings directory to depend on the browser_ui settings and styles components.

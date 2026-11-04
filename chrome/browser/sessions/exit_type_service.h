@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExitTypeService class declaration
+// summary: Declares the ExitType enum and ExitTypeService, which track the exit status of the last and current Chrome run to support crash restoration.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_EXIT_TYPE_SERVICE_H_
 #define CHROME_BROWSER_SESSIONS_EXIT_TYPE_SERVICE_H_
 

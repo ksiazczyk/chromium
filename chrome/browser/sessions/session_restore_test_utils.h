@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionsRestoredWaiter header
+// summary: Declares SessionsRestoredWaiter in the testing namespace for waiting until a specified number of sessions have been restored in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_RESTORE_TEST_UTILS_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_RESTORE_TEST_UTILS_H_
 

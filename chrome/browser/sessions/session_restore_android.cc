@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore Android implementation
+// summary: Android-specific implementation of restoring foreign session tabs and replacing tabs when restoring from recently closed.
+// ---
+
 #include "chrome/browser/sessions/session_restore.h"
 
 #include <vector>

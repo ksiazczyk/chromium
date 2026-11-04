@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore observer interface
+// summary: Defines an observer interface for session restore events such as tab loading start, finish, and per-profile restore completion.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_RESTORE_OBSERVER_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_RESTORE_OBSERVER_H_
 

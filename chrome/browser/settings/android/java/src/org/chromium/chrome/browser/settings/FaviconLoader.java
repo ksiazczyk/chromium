@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconLoader helper for settings views
+// summary: Helper that loads favicons for settings views and falls back to a generated circular icon when none is available.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.content.Context;

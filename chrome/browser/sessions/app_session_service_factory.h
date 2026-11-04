@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppSessionServiceFactory class declaration
+// summary: Declares the singleton ProfileKeyedServiceFactory that associates AppSessionService instances with profiles and offers test profile injection.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_APP_SESSION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SESSIONS_APP_SESSION_SERVICE_FACTORY_H_
 

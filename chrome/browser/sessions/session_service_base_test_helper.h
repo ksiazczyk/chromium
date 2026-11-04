@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session service base test helper header
+// summary: Declares SessionServiceBaseTestHelper, a class that makes writing SessionService-related tests easier by wrapping common setup and assertion calls.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_SERVICE_BASE_TEST_HELPER_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_SERVICE_BASE_TEST_HELPER_H_
 

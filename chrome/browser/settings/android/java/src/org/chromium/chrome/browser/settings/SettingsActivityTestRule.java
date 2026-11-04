@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsActivityTestRule for launching settings in tests
+// summary: JUnit activity test rule that launches SettingsActivity with a specified fragment and arguments and retrieves the attached fragment for settings tests.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.content.Context;

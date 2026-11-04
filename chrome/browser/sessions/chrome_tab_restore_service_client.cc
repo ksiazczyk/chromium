@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome tab restore service client implementation
+// summary: Implements the chrome/-dependent TabRestoreServiceClient, creating and finding live tab contexts and reporting last session state for tab restore.
+// ---
+
 #include "chrome/browser/sessions/chrome_tab_restore_service_client.h"
 
 #include "base/functional/bind.h"

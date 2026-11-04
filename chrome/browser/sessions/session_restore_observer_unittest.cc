@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session restore observer unit tests
+// summary: Unit tests verifying session restore observer events using restored web contents and a mock observer.
+// ---
+
 #include "chrome/browser/sessions/session_restore_observer.h"
 
 #include <memory>

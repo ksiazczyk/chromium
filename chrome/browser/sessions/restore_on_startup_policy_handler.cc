@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreOnStartup policy handler implementation
+// summary: Applies the RestoreOnStartup policy to preferences and validates its values, warning when session cookies would be overridden.
+// ---
+
 #include "chrome/browser/sessions/restore_on_startup_policy_handler.h"
 
 #include "base/strings/string_number_conversions.h"

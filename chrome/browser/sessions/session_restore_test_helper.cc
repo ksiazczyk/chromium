@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session restore test helper
+// summary: Test helper that registers for the session restore callback and lets tests wait until restore completes.
+// ---
+
 #include "chrome/browser/sessions/session_restore_test_helper.h"
 
 #include "base/functional/bind.h"

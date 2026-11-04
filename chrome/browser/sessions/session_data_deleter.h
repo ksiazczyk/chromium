@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session data deleter header
+// summary: Declares SessionDataDeleter, which deletes session-only cookies and storage unless the startup preference continues the previous session.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_DATA_DELETER_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_DATA_DELETER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test standalone settings fragment
+// summary: Test standalone settings fragment with preferences and observable back press handling for settings tests.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.os.Bundle;

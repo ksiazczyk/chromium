@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for Chrome settings Android Java targets
+summary: Defines GN targets for the Android settings code, including Java libraries for navigation, search, and in-tab settings, plus JNI header generation and their dependencies.

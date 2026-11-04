@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore class header
+// summary: Declares the SessionRestore class API for restoring last, saved, and foreign sessions with behavior bitmasks and callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_RESTORE_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_RESTORE_H_
 

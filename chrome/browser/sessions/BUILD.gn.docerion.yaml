@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Chrome sessions sources
+summary: Defines the sessions and impl source sets, their public headers, and platform-conditional dependencies for Chrome's session restore code.

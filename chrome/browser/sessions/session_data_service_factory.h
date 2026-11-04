@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session data service factory header
+// summary: Declares the factory that provides per-profile access to the SessionDataService.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_DATA_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_DATA_SERVICE_FACTORY_H_
 

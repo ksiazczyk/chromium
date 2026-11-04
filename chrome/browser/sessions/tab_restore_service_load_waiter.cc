@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab restore service load waiter implementation
+// summary: Implements a helper that runs a message loop until the tab restore service finishes loading, quitting immediately if it is already loaded.
+// ---
+
 #include "chrome/browser/sessions/tab_restore_service_load_waiter.h"
 
 TabRestoreServiceLoadWaiter::TabRestoreServiceLoadWaiter(
