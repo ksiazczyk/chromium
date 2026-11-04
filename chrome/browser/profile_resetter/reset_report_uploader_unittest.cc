@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reset report uploader unit tests
+// summary: Unit tests for ResetReportUploader that dispatch a report through a test URL loader factory to verify no crash occurs.
+// ---
+
 #include "chrome/browser/profile_resetter/reset_report_uploader.h"
 
 #include "base/files/file_path.h"

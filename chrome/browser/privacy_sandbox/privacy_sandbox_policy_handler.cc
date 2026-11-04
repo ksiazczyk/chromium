@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox policy handler implementation
+// summary: Applies Privacy Sandbox ad topics, site-enabled ads, and ad measurement policies by forcing the matching preferences off when the policies disable them.
+// ---
+
 #include "chrome/browser/privacy_sandbox/privacy_sandbox_policy_handler.h"
 
 #include "base/values.h"

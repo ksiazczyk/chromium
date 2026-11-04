@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for the private AI browser layer
+summary: Defines GN source sets for the private AI browser code plus its unit and browser test targets with their dependencies.

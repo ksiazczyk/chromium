@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the private_ai browser directory
+summary: Grants this directory include access to Abseil time headers and Oak Chromium protocol headers.

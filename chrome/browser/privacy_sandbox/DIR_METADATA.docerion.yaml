@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Privacy Sandbox directory metadata
+summary: Maps the directory to the UI>Browser>Privacy Sandbox monorail component, the koilos@google.com team, and a Buganizer component for issue tracking.

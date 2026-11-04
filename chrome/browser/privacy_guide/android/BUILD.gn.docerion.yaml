@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Privacy guide Android build targets
+summary: Defines the GN build targets for the Android privacy guide Java library, its resources, and its Robolectric unit tests, listing sources and dependencies.

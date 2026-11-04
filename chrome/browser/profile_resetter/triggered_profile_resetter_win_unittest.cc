@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows triggered profile resetter unit tests
+// summary: Tests the Windows registry-based reset trigger detection, including duplicate triggers, tool names and long name truncation, using registry overrides.
+// ---
+
 #include "chrome/browser/profile_resetter/triggered_profile_resetter.h"
 
 #include <windows.h>

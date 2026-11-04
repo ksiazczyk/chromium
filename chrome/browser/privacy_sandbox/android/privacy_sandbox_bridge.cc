@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox JNI bridge for Android
+// summary: C++ JNI implementation exposing Privacy Sandbox service functions, such as Related Website Sets data access settings, to Java code on Android.
+// ---
+
 #include <string>
 
 #include "base/android/jni_string.h"

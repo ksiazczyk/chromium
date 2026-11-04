@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrivacyGuidePagerAdapterTest
+// summary: Parameterized Robolectric tests for PrivacyGuidePagerAdapter checking which fragments are shown for all combinations of step display flags.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import android.os.Bundle;

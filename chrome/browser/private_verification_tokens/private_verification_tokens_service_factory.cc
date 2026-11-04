@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens service factory implementation
+// summary: Implements the profile-keyed service factory, including global issuer config storage and merging of a command-line custom issuer configuration.
+// ---
+
 #include "chrome/browser/private_verification_tokens/private_verification_tokens_service_factory.h"
 
 #include "base/feature_list.h"

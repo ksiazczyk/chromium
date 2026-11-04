@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Sandbox policy handler unit tests
+// summary: Unit tests verifying that Privacy Sandbox enterprise policies correctly map to the corresponding preference values.
+// ---
+
 #include "chrome/browser/privacy_sandbox/privacy_sandbox_policy_handler.h"
 
 #include "base/strings/utf_string_conversions.h"

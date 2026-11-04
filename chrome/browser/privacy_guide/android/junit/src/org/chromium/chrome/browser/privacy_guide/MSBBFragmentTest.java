@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MSBBFragmentTest
+// summary: Robolectric tests for MSBBFragment verifying the MSBB switch reflects and updates the URL-keyed anonymized data collection setting.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import static org.junit.Assert.assertFalse;

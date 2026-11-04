@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivacySandboxSettingsFactory implementation
+// summary: Builds per-profile PrivacySandboxSettingsImpl instances using the host content settings map and cookie settings.
+// ---
+
 #include "chrome/browser/privacy_sandbox/privacy_sandbox_settings_factory.h"
 
 #include "base/no_destructor.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Privacy guide Android include rules
+summary: Restricts allowed includes in the Android privacy guide directory to bottomsheet and site settings components, matching the BUILD.gn dependencies.

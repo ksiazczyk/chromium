@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the private verification tokens service
+// summary: Browser tests checking service creation when the feature is enabled or disabled and token behavior with a custom command-line issuer configuration.
+// ---
+
 #include "chrome/browser/private_verification_tokens/private_verification_tokens_service.h"
 
 #include <memory>

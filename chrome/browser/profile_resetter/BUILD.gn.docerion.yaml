@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Profile resetter build configuration
+summary: Defines GN build targets for the profile resetter, including the proto library, interface and implementation source sets, and a test-only fake with platform-specific dependencies.

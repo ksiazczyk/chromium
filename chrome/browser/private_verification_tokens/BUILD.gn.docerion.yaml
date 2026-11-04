@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for private verification tokens
+summary: Defines GN source sets for the private verification tokens browser code, its public headers, dependencies and browser and unit test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the private AI connection factory
+// summary: Browser tests that create private AI connections with and without an API key or token through ConnectionFactoryImpl.
+// ---
+
 #include "components/private_ai/connection_factory_impl.h"
 
 #include "base/functional/callback_helpers.h"

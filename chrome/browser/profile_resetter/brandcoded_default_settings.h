@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brandcoded default settings interface
+// summary: Declares BrandcodedDefaultSettings, which provides distribution-channel-specific default settings consumed by ProfileResetter.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILE_RESETTER_BRANDCODED_DEFAULT_SETTINGS_H_
 #define CHROME_BROWSER_PROFILE_RESETTER_BRANDCODED_DEFAULT_SETTINGS_H_
 

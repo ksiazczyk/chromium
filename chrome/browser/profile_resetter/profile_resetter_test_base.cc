@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile resetter test base implementation
+// summary: Implements the mock object and ResetAndWait helpers that run profile resets and block until the reset callback completes in tests.
+// ---
+
 #include "chrome/browser/profile_resetter/profile_resetter_test_base.h"
 
 #include <string>

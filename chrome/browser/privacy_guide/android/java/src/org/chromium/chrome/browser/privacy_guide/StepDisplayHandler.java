@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Step display handler interface
+// summary: Interface declaring methods that determine whether each privacy guide step should be displayed.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import org.chromium.build.annotations.NullMarked;

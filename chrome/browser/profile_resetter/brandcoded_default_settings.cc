@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brandcoded default settings implementation
+// summary: Parses brandcoded preferences JSON and exposes accessors for defaults such as homepage, search provider overrides, extensions, and startup URLs.
+// ---
+
 #include "chrome/browser/profile_resetter/brandcoded_default_settings.h"
 
 #include <optional>

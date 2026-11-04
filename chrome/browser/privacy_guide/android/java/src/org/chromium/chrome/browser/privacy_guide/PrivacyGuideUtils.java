@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Guide utilities
+// summary: Utility class that reads the current profile state of MSBB, Safe Browsing, cookies, sign-in and history sync for the privacy guide.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

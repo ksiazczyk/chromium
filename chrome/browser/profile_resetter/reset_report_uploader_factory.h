@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResetReportUploaderFactory class header
+// summary: Declares the ResetReportUploaderFactory singleton and its accessor for obtaining the uploader associated with a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILE_RESETTER_RESET_REPORT_UPLOADER_FACTORY_H_
 #define CHROME_BROWSER_PROFILE_RESETTER_RESET_REPORT_UPLOADER_FACTORY_H_
 

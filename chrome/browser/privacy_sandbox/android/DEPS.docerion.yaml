@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Privacy Sandbox Android include rules
+summary: DEPS file granting the directory permission to include headers from components/thin_webview.

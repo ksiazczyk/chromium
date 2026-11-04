@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavbarVisibilityDelegate
+// summary: Delegate that computes the visibility of the start, next, back, finish and done buttons plus the progress indicator for each Privacy Guide step.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import android.view.View;

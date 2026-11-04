@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resettable settings snapshot implementation
+// summary: Captures resettable profile settings such as startup pages, homepage, default search engine and enabled extensions, and computes differences between snapshots.
+// ---
+
 #include "chrome/browser/profile_resetter/resettable_settings_snapshot.h"
 
 #include <memory>

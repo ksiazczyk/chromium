@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox policy handler header
+// summary: Declares PrivacySandboxPolicyHandler, a ConfigurationPolicyHandler that maps Privacy Sandbox policies onto user preferences.
+// ---
+
 #ifndef CHROME_BROWSER_PRIVACY_SANDBOX_PRIVACY_SANDBOX_POLICY_HANDLER_H_
 #define CHROME_BROWSER_PRIVACY_SANDBOX_PRIVACY_SANDBOX_POLICY_HANDLER_H_
 

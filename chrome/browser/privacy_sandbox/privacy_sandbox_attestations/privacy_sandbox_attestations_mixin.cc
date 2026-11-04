@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy sandbox attestations browser test mixin implementation
+// summary: Implements a browser test mixin that disables the default-allow attestations feature and installs a scoped attestations instance on main thread setup.
+// ---
+
 #include "chrome/browser/privacy_sandbox/privacy_sandbox_attestations/privacy_sandbox_attestations_mixin.h"
 
 #include <memory>

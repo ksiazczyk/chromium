@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the private_insights browser source set
+summary: Defines the private_insights source_set with its sources and dependencies, conditionally linking the components target except in fuzzing builds to avoid ODR violations.

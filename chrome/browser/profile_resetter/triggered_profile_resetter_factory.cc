@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Triggered profile resetter factory implementation
+// summary: Profile-keyed service factory that builds and activates TriggeredProfileResetter instances and registers the last profile reset timestamp preference.
+// ---
+
 #include "chrome/browser/profile_resetter/triggered_profile_resetter_factory.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private verification tokens URL loader throttle unit tests
+// summary: Unit tests for the private verification tokens URL loader throttle, covering token issuance, header attachment, redirects, and metrics with a test issuer.
+// ---
+
 #include "chrome/browser/private_verification_tokens/private_verification_tokens_url_loader_throttle.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brandcode config fetcher implementation
+// summary: Implements fetching of partner-specific default settings XML via a POST request carrying the brand code, using SimpleURLLoader with a download timeout.
+// ---
+
 #include "chrome/browser/profile_resetter/brandcode_config_fetcher.h"
 
 #include <stddef.h>

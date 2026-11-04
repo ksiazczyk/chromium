@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing privacy guide page
+// summary: Fragment that lets the user choose between standard and enhanced Safe Browsing protection and shows an explanation bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile resetter browser tests
+// summary: Browser tests verifying profile reset behavior, including cookie and site data removal and ChromeOS network and eSIM-related reset scenarios.
+// ---
+
 #include "chrome/browser/profile_resetter/profile_resetter.h"
 
 #include <memory>

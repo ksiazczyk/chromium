@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Privacy Sandbox browser build targets
+summary: Defines GN source sets for the Privacy Sandbox browser code, including public headers, implementation, browser tests, and unit test targets.

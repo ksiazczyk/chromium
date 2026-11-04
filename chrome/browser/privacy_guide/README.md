@@ -1,3 +1,11 @@
+---
+type: readme
+title: Privacy Guide
+summary: Explains the Privacy Guide feature, a step-by-step settings flow, and points to its desktop WebUI, Android implementation and metrics components.
+relations:
+  - references /chrome/browser/privacy_guide/privacy_guide.h
+---
+
 # Privacy Guide
 
 This directory contains the Privacy Guide feature.

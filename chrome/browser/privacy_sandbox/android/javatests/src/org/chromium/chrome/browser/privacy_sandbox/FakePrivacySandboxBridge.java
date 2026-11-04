@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Privacy Sandbox Bridge for tests
+// summary: Fake Java implementation of the PrivacySandboxBridge natives providing stubbed related website sets behavior for tests.
+// ---
+
 package org.chromium.chrome.browser.privacy_sandbox;
 
 import org.chromium.build.annotations.Nullable;

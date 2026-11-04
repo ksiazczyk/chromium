@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens URL loader throttle header
+// summary: Declares a blink URL loader throttle that triggers private verification token issuance and adds PVT headers on requests, redirects, and responses.
+// ---
+
 #ifndef CHROME_BROWSER_PRIVATE_VERIFICATION_TOKENS_PRIVATE_VERIFICATION_TOKENS_URL_LOADER_THROTTLE_H_
 #define CHROME_BROWSER_PRIVATE_VERIFICATION_TOKENS_PRIVATE_VERIFICATION_TOKENS_URL_LOADER_THROTTLE_H_
 

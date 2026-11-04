@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private insights service factory header
+// summary: Declares the PrivateInsightsServiceFactory class with static accessors for retrieving the per-profile private insights service instance.
+// ---
+
 #ifndef CHROME_BROWSER_PRIVATE_INSIGHTS_PRIVATE_INSIGHTS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PRIVATE_INSIGHTS_PRIVATE_INSIGHTS_SERVICE_FACTORY_H_
 

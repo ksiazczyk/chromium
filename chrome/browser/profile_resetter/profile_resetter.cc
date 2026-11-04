@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile resetter implementation
+// summary: Implements resetting profile aspects such as default search engine, homepage, content settings, cookies, extensions, startup pages, shortcuts, and languages back to defaults.
+// ---
+
 #include "chrome/browser/profile_resetter/profile_resetter.h"
 
 #include <stddef.h>

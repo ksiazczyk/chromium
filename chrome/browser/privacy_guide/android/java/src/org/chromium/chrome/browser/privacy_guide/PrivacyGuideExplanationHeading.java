@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivacyGuideExplanationHeading
+// summary: Custom LinearLayout view that renders a titled heading for a setting explanation in the Privacy Guide.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import android.content.Context;

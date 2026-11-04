@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Privacy Sandbox directory owners
+summary: Points code review ownership at the components/privacy_sandbox OWNERS file, with a per-file exception for a fenced frame viewport interactive uitest.

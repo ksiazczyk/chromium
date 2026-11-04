@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile resetter test base header
+// summary: Declares ProfileResetterMockObject and ProfileResetterTestBase, shared by the profile resetter unit and browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILE_RESETTER_PROFILE_RESETTER_TEST_BASE_H_
 #define CHROME_BROWSER_PROFILE_RESETTER_PROFILE_RESETTER_TEST_BASE_H_
 

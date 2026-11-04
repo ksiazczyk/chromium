@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivacyGuideBottomSheetView
+// summary: Bottom sheet content implementation that displays Privacy Guide control explanations with accessibility strings and back-press handling.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import android.content.Context;

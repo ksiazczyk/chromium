@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows triggered profile resetter implementation
+// summary: Reads the reset trigger registry key on Windows, compares timestamps with the stored preference, and records the tool name when a reset is requested.
+// ---
+
 #include <stdint.h>
 
 #include "base/logging.h"

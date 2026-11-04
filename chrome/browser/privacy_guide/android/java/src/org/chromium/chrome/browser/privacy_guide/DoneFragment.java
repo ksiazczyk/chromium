@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DoneFragment
+// summary: Final Privacy Guide page fragment that shows a Google Account activity controls link only for signed-in users and records metrics when it is opened.
+// ---
+
 package org.chromium.chrome.browser.privacy_guide;
 
 import static org.chromium.chrome.browser.privacy_guide.PrivacyGuideUtils.isUserSignedIn;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for the private_ai directory
+summary: Maps the directory to the Privacy component in Monorail and Buganizer for issue tracking.
