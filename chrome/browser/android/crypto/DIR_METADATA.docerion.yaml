@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for crypto directory
+summary: Declares issue tracking metadata for the directory, assigning the Internals>Core monorail component and Buganizer component 1456128.

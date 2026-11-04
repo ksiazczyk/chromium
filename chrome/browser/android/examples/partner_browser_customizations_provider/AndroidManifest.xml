@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for the partner customizations example APK
+summary: Android manifest declaring the partner bookmarks and partner browser customizations content providers for the example APK.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
         package="org.chromium.example.partnercustomizations">
     <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="23" />

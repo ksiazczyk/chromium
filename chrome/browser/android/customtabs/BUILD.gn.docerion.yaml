@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Custom tabs Android Java library build file
+summary: Defines the android_library target for the custom tabs PopupCreator Java sources and lists its build dependencies.

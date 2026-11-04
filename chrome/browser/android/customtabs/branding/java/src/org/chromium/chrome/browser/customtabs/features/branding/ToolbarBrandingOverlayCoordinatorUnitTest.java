@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ToolbarBrandingOverlayCoordinator
+// summary: Robolectric unit tests checking that the hide animation progresses over time and removes the overlay view, and that destroying before hiding works.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import static org.hamcrest.MatcherAssert.assertThat;

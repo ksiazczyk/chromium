@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrandingInfo data holder
+// summary: Holds the branding decision, last branding show time, and mismatch notification data read from or written to storage.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import org.chromium.build.annotations.NullMarked;

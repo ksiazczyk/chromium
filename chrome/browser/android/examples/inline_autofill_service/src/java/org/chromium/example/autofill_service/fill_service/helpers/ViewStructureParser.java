@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewStructureParser for autofillable fields
+// summary: Parses the assist structure of a fill request to collect autofillable text fields into a map of hints to autofill IDs.
+// ---
+
 package org.chromium.example.autofill_service.fill_service.helpers;
 
 import android.app.assist.AssistStructure;

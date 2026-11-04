@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabInteractionRecorderAndroid class declaration
+// summary: Declares TabInteractionRecorderAndroid, the AutofillObserverImpl helper and FormInteractionData used to record form interactions and navigation in a tab.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_CUSTOMTABS_TAB_INTERACTION_RECORDER_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_CUSTOMTABS_TAB_INTERACTION_RECORDER_ANDROID_H_
 

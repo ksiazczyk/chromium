@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the inline AutofillService example
+summary: Lists the owners responsible for the example AutofillService directory and references the android_autofill OWNERS file.

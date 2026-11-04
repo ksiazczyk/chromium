@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RetryStrategy unit tests
+// summary: Unit tests covering RetryStrategy behavior including first-try success, success after retries, exhausted retries, zero retries, and task destruction before retry.
+// ---
+
 #include "chrome/browser/android/compositor/retry_strategy.h"
 
 #include <memory>

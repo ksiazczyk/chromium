@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scrolling bottom view scene layer implementation
+// summary: Implements the compositor layer that positions a scrolling bottom view with shadow, padding and offset tag support.
+// ---
+
 #include "chrome/browser/android/compositor/scene_layer/scrolling_bottom_view_scene_layer.h"
 
 #include "base/android/jni_android.h"

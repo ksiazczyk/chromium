@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsFactoryDataDeleter class declaration
+// summary: Declares a self-owning WebContentsObserver that removes a storage partition's data when the associated WebContents is destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_CONTENT_WEB_CONTENTS_FACTORY_DATA_DELETER_H_
 #define CHROME_BROWSER_ANDROID_CONTENT_WEB_CONTENTS_FACTORY_DATA_DELETER_H_
 

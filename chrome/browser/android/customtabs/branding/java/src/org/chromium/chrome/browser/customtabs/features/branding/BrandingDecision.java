@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrandingDecision IntDef annotation
+// summary: 'IntDef annotation enumerating branding decisions: none, toolbar, toast, and mismatch notification.'
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import androidx.annotation.IntDef;

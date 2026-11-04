@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedPreferences storage for custom tab branding times
+// summary: Singleton storage that records and reads the last branding show time for custom tab client apps in shared preferences, capping non-package entries and storing mismatch notification data.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Search manager native implementation
+// summary: Implements the native ContextualSearchManager that starts search term resolution, gathers surrounding text and removes search history entries via JNI.
+// ---
+
 #include "chrome/browser/android/contextualsearch/contextual_search_manager.h"
 
 #include <memory>

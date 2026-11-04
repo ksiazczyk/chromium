@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsFactoryDataDeleter implementation
+// summary: Clears all data of a storage partition when the observed WebContents is destroyed, then deletes itself.
+// ---
+
 #include "chrome/browser/android/content/web_contents_factory_data_deleter.h"
 
 #include "base/functional/callback_helpers.h"

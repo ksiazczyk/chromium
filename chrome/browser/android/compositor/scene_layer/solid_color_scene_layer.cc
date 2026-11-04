@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Solid color scene layer implementation
+// summary: Implements a scene layer that renders a solid background color and reports it to parent layers.
+// ---
+
 #include "chrome/browser/android/compositor/scene_layer/solid_color_scene_layer.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

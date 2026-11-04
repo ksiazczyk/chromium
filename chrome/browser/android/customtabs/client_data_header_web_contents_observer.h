@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client data header WebContents observer header
+// summary: Declares the WebContents observer that stores and distributes the custom tab client data header to render frames.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_CUSTOMTABS_CLIENT_DATA_HEADER_WEB_CONTENTS_OBSERVER_H_
 #define CHROME_BROWSER_ANDROID_CUSTOMTABS_CLIENT_DATA_HEADER_WEB_CONTENTS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookiesFetcher
+// summary: Fetches, serializes, and restores incognito cookies between the CookieJar and encrypted file storage on Android so users stay logged in if the app is killed in the background.
+// ---
+
 package org.chromium.chrome.browser.cookies;
 
 import androidx.annotation.VisibleForTesting;

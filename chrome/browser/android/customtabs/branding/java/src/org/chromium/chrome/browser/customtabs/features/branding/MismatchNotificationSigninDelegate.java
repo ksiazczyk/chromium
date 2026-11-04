@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mismatch notification sign-in delegate interface
+// summary: Interface that bridges the mismatch notification controller with sign-in logic by starting the sign-in flow with a given configuration.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import org.chromium.build.annotations.NullMarked;

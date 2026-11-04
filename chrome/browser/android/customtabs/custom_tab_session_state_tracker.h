@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab session state tracker header
+// summary: Declares the CustomTabSessionStateTracker singleton that stores custom tab session state as a metrics proto.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_CUSTOMTABS_CUSTOM_TAB_SESSION_STATE_TRACKER_H_
 #define CHROME_BROWSER_ANDROID_CUSTOMTABS_CUSTOM_TAB_SESSION_STATE_TRACKER_H_
 

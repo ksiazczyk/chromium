@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab interaction recorder unit tests
+// summary: Unit tests for AutofillObserverImpl and TabInteractionRecorderAndroid, verifying form interaction callbacks fire once and handle autofill manager teardown.
+// ---
+
 #include "chrome/browser/android/customtabs/tab_interaction_recorder_android.h"
 
 #include <memory>

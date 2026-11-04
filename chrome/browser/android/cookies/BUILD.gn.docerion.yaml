@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android cookies fetcher
+summary: GN build file defining the Java library, JNI headers, Android browser tests and Robolectric tests for the cookies fetcher.

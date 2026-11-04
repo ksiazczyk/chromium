@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BrandingController
+// summary: Robolectric and Mockito tests covering the branding workflow and the SharedPreferencesBrandingTimeStorage behavior.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import static org.junit.Assert.assertEquals;

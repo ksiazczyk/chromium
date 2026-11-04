@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentLayer implementation
+// summary: Implements the compositor layer that renders tab content, blending the live layer with a static thumbnail and applying opacity, saturation, and clipping.
+// ---
+
 #include "chrome/browser/android/compositor/layer/content_layer.h"
 
 #include <vector>

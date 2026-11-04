@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the partner customizations example
+summary: Points code ownership of this example directory to the OWNERS file in chrome/browser/partnercustomizations.

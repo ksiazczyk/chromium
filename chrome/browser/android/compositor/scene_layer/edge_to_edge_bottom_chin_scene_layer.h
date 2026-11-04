@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge-to-edge bottom chin scene layer header
+// summary: Declares EdgeToEdgeBottomChinSceneLayer, which updates the compositor view of the edge-to-edge bottom chin with color, divider, and offset tag support.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_EDGE_TO_EDGE_BOTTOM_CHIN_SCENE_LAYER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_EDGE_TO_EDGE_BOTTOM_CHIN_SCENE_LAYER_H_
 

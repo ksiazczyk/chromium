@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud mini player scene layer declaration
+// summary: Declares the scene layer class that renders the Read Aloud mini player in the Android compositor.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_READALOUD_MINI_PLAYER_SCENE_LAYER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_READALOUD_MINI_PLAYER_SCENE_LAYER_H_
 

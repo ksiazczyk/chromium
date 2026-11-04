@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripNtbWebUiHost unit tests
+// summary: Unit tests verifying that the host tears down its WebContents and service when the observed TabModel is removed, unblocking OTR profile destruction.
+// ---
+
 #include "chrome/browser/android/compositor/tab_strip_ntb_webui_host.h"
 
 #include <memory>

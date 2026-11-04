@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for crypto Android library
+summary: Defines the android_library build target for the crypto module, compiling CipherFactory.java with dependencies on base, content and androidx annotation Java libraries.

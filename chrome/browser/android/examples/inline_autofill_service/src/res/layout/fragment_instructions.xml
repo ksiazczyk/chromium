@@ -4,6 +4,12 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.-->
 
+<!--docerion
+type: source
+title: Instructions fragment layout
+summary: Defines the InstructionsFragment UI as a scrollable view with a communication test button and an instructions summary text view.
+-->
+
 <androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"

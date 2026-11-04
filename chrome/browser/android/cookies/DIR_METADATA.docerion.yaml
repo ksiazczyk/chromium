@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the cookies folder
+summary: Points to the shared metadata mixins under net/cookies for this directory.

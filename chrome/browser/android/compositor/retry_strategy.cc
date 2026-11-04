@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RetryStrategy implementation
+// summary: Implements retry logic that reruns a retryable task with a configurable retry count and delay until success or retries are exhausted.
+// ---
+
 #include "chrome/browser/android/compositor/retry_strategy.h"
 
 #include "base/functional/bind.h"

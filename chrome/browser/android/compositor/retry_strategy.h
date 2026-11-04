@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RetryStrategy header
+// summary: Declares the RetryStrategy class that controls retry behavior for a RetryableTask with a maximum retry count and delay between attempts.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_RETRY_STRATEGY_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_RETRY_STRATEGY_H_
 

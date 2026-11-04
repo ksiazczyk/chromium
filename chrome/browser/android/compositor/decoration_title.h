@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecorationTitle header
+// summary: Declares the DecorationTitle class that manages cc::slim layers for drawing tab titles with resource manager and incognito support.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_DECORATION_TITLE_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_DECORATION_TITLE_H_
 

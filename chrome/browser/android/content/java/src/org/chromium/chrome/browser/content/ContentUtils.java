@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentUtils
+// summary: Utility class exposing content functionality via JNI, including getting Chrome's browser user agent and setting a user agent override on WebContents.
+// ---
+
 package org.chromium.chrome.browser.content;
 
 import org.jni_zero.JniType;

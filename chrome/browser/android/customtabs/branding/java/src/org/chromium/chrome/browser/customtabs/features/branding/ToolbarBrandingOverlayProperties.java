@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar branding overlay property model keys
+// summary: Defines the property model keys for the branding overlay, including color data with background and branded color scheme plus the hiding animation progress.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import androidx.annotation.ColorInt;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MismatchNotificationData
+// summary: Unit tests covering empty-state checks, app data access, and Base64 serialization round trips for mismatch notification data.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import static org.junit.Assert.assertEquals;

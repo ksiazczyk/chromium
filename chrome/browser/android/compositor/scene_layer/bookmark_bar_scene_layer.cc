@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar scene layer implementation
+// summary: Implements the native compositor scene layer that draws the Android bookmark bar using a snapshot layer and a hairline footer, with detailed layout geometry comments.
+// ---
+
 #include "chrome/browser/android/compositor/scene_layer/bookmark_bar_scene_layer.h"
 
 #include "base/memory/scoped_refptr.h"

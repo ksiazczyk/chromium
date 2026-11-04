@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResponseHelper for building autofill fill responses
+// summary: Builds FillResponse objects from stored credentials, adding inline or view-based datasets and save info for autofillable fields.
+// ---
+
 package org.chromium.example.autofill_service.fill_service.helpers;
 
 import android.app.assist.AssistStructure;

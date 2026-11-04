@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Custom tabs toast branding layout
+summary: Android layout resource defining the branded toast view shown in custom tabs, with an app icon drawable and centered single-line text.
+-->
+
 <org.chromium.components.browser_ui.widget.text.TextViewWithCompoundDrawables
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

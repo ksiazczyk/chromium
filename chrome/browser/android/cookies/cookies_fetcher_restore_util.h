@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the cookie restore utility
+// summary: Declares the cookie service client accessor and the JNI entry point that restores cookies into the incognito profile.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COOKIES_COOKIES_FETCHER_RESTORE_UTIL_H_
 #define CHROME_BROWSER_ANDROID_COOKIES_COOKIES_FETCHER_RESTORE_UTIL_H_
 

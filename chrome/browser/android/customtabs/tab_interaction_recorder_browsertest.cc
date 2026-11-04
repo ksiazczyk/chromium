@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab interaction recorder browser test
+// summary: Browser test checking that tab interaction and form-seen bits are recorded during navigation and that BackForwardCache page-with-form histograms are correct.
+// ---
+
 #include <memory>
 
 #include "base/files/file_path.h"

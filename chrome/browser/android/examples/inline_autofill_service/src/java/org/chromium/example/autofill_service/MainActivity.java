@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MainActivity
+// summary: Entry activity of the example autofill app that shows setup tools and lets the user pick a Chrome channel via an intent chooser.
+// ---
+
 package org.chromium.example.autofill_service;
 
 import android.content.ActivityNotFoundException;

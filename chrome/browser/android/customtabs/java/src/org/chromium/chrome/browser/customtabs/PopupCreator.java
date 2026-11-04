@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupCreator interface
+// summary: Interface for creating popup windows, moving tabs or web contents into Custom Tab popups, and opening Document Picture-in-Picture windows on Android.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.app.Activity;

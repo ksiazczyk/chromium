@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveService
+// summary: Empty Android service that a custom tab can bind to in order to raise the hosting application's importance.
+// ---
+
 package org.chromium.customtabsclient.shared;
 
 import android.app.Service;

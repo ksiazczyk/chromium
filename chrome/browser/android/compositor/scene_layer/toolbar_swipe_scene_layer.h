@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar swipe scene layer header
+// summary: Declares the ToolbarSwipeSceneLayer class with methods to update its left and right content layers, set the tab content manager, and report background color.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_TOOLBAR_SWIPE_SCENE_LAYER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_SCENE_LAYER_TOOLBAR_SWIPE_SCENE_LAYER_H_
 

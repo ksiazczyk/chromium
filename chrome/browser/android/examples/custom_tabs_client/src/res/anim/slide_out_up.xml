@@ -13,6 +13,13 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
+<!--docerion
+type: asset
+title: Slide out up animation
+summary: Android animation resource for the Custom Tabs client example that slides a view out along the vertical axis using a medium-duration translate animation.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <translate android:fromYDelta="0" android:toYDelta="100%p"
         android:duration="@android:integer/config_mediumAnimTime"/>

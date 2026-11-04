@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RetryableTask interface
+// summary: Defines the RetryableTask interface for tasks that report via callback whether they should be retried and expose a weak pointer.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_RETRYABLE_TASK_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_RETRYABLE_TASK_H_
 

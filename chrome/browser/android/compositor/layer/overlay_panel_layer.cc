@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayPanelLayer implementation
+// summary: Implements shared overlay panel rendering, including bar background, text, icons, shadows, drag handlebar, and progress bar layers.
+// ---
+
 #include "chrome/browser/android/compositor/layer/overlay_panel_layer.h"
 
 #include "cc/resources/scoped_ui_resource.h"

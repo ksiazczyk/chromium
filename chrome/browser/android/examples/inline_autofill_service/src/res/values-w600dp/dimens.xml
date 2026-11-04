@@ -3,6 +3,12 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.-->
 
+<!--docerion
+type: config
+title: Inline autofill example dimension resources for wide layouts
+summary: Android resource file defining the fab_margin dimension (48dp) used by the inline autofill service example on screens at least 600dp wide.
+-->
+
 <resources>
   <dimen name="fab_margin">48dp</dimen>
 </resources>

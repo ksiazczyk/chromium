@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge-to-edge top scalp scene layer implementation
+// summary: Implements the compositor scene layer for the edge-to-edge top scalp, positioning and coloring the view container and propagating the content background.
+// ---
+
 #include "chrome/browser/android/compositor/scene_layer/edge_to_edge_top_scalp_scene_layer.h"
 
 #include "base/android/jni_android.h"

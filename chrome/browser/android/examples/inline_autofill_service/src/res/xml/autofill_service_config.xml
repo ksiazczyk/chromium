@@ -4,6 +4,12 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.-->
 
+<!--docerion
+type: config
+title: Autofill service configuration for the inline autofill example
+summary: Android XML config declaring the example autofill service's inline suggestion support, settings and passwords activities, and compatibility packages for Chrome variants.
+-->
+
 
 <autofill-service xmlns:android="http://schemas.android.com/apk/res/android"
         android:supportsInlineSuggestions="true"

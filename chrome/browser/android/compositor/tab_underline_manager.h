@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabUnderlineManager class declaration
+// summary: Declares the native manager that registers tabs for underline tracking and forwards underline state and animation cycle changes to the Java layer.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_TAB_UNDERLINE_MANAGER_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_TAB_UNDERLINE_MANAGER_H_
 

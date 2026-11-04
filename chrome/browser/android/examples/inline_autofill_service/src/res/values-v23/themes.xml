@@ -3,6 +3,12 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.-->
 
+<!--docerion
+type: config
+title: TestAutofillService theme overrides for Android 6.0+
+summary: Defines the Theme.TestAutofillService style for API 23 and above, making the status and navigation bars transparent for edge-to-edge rendering.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
 
   <style name="Theme.TestAutofillService" parent="Base.Theme.TestAutofillService">

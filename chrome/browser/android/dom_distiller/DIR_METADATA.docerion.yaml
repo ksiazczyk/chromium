@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA metadata mixins for dom_distiller
+summary: Points this directory's metadata at the shared COMMON_METADATA mixin of the Android dom_distiller Java sources.

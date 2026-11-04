@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory dependency allowlist for Custom Tabs branding
+summary: Grants the branding directory access to the bottomsheet, device lock, and crash Android components via include rules.

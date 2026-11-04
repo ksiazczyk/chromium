@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for crypto directory
+summary: Lists the owners responsible for changes to the cryptosystem, directing Java changes to the parent directory OWNERS file.

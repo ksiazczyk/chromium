@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie restore utility for incognito sessions
+// summary: Implements restoring persisted cookies into the off-the-record profile, including partition key handling and restore success metrics.
+// ---
+
 #include "chrome/browser/android/cookies/cookies_fetcher_restore_util.h"
 
 #include "base/metrics/histogram_functions.h"

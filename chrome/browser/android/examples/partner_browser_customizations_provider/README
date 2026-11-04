@@ -1,3 +1,9 @@
+---
+type: readme
+title: Partner customizations example APK instructions
+summary: Instructions for building, installing, and testing the example APK that demonstrates Chrome partner customizations such as homepage button and partner bookmarks.
+---
+
 An example app for partner customizations. When this APK is installed, Chrome
 will show a homepage button and partner bookmarks, disable incognito mode, and
 disable bookmark editing.

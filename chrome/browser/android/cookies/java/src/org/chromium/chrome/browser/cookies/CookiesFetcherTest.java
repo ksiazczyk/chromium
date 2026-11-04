@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookiesFetcherTest
+// summary: Robolectric unit tests for CookiesFetcher that verify cookie fetching, serialization, and deletion behavior using mocked profiles and native dependencies.
+// ---
+
 package org.chromium.chrome.browser.cookies;
 
 import org.junit.Assert;

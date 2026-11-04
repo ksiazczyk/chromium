@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser compositor view implementation
+// summary: Implements the native CompositorView that drives Chrome's Android compositor, managing surfaces, layers and JNI calls.
+// ---
+
 #include "chrome/browser/android/compositor/compositor_view.h"
 
 #include <android/bitmap.h>

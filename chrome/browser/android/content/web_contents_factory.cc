@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsFactory native creation logic
+// summary: Native JNI implementation that creates WebContents instances, including one with a separate in-memory storage partition for an experiment.
+// ---
+
 #include "base/android/jni_android.h"
 #include "chrome/browser/android/content/web_contents_factory_data_deleter.h"
 #include "chrome/browser/browser_process.h"

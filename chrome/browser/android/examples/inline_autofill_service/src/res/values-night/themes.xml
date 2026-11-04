@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Night theme for TestAutofillService example
+summary: Defines the dark-mode variant of the Base.Theme.TestAutofillService style, based on a Material3 DayNight NoActionBar theme, for the inline autofill service example app.
+-->
+
 <resources>
   <style name="Base.Theme.TestAutofillService" parent="Theme.Material3Expressive.DayNight.NoActionBar">
   </style>

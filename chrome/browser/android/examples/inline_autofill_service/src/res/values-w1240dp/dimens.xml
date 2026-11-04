@@ -3,6 +3,12 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.-->
 
+<!--docerion
+type: config
+title: Wide-screen dimension resources for the inline autofill example
+summary: Defines the fab_margin dimension (200dp) applied by the inline autofill service example on screens at least 1240dp wide.
+-->
+
 <resources>
   <dimen name="fab_margin">200dp</dimen>
 </resources>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the cookie restore utility
+// summary: Browser tests verifying that cookies with empty, valid and malformed partition keys are restored into the incognito profile.
+// ---
+
 #include "chrome/browser/android/cookies/cookies_fetcher_restore_util.h"
 
 #include "base/android/jni_android.h"

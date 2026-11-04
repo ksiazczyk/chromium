@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceConnectionCallback
+// summary: Interface with callbacks invoked when connecting to and disconnecting from a Custom Tabs service.
+// ---
+
 package org.chromium.customtabsclient.shared;
 
 import androidx.browser.customtabs.CustomTabsClient;

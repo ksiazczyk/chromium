@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unhandled tap notifier header
+// summary: Declares UnhandledTapNotifierImpl, the Mojo service implementation for unhandled tap notifications, plus its receiver factory function.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_CONTEXTUALSEARCH_UNHANDLED_TAP_NOTIFIER_IMPL_H_
 #define CHROME_BROWSER_ANDROID_CONTEXTUALSEARCH_UNHANDLED_TAP_NOTIFIER_IMPL_H_
 

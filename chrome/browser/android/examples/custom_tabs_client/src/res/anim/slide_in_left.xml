@@ -13,6 +13,13 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
+<!--docerion
+type: asset
+title: Slide in left animation
+summary: Android animation resource for the Custom Tabs client example that slides a view in from the left using a medium-duration translate animation.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <translate android:fromXDelta="-100%p" android:toXDelta="0"
         android:duration="@android:integer/config_mediumAnimTime"/>

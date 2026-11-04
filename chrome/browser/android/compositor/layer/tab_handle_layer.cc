@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab handle layer implementation
+// summary: Implements the compositor layer that draws Android tab handles, including close buttons, dividers, alert indicators, keyboard focus rings and underline styling.
+// ---
+
 #include "chrome/browser/android/compositor/layer/tab_handle_layer.h"
 
 #include <math.h>

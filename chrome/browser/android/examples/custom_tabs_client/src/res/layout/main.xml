@@ -4,6 +4,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Main layout of the Custom Tabs client example
+summary: Defines the example app's main screen with a URL field, package and Custom Tab type spinners, custom scheme input, and connect/disconnect buttons.
+-->
+
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

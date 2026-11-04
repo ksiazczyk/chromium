@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the cookies folder
+summary: Delegates code ownership to the owners listed in net/cookies/OWNERS.

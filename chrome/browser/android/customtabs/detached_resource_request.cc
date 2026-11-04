@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Detached resource request implementation
+// summary: Implements browser-initiated detached resource requests for Custom Tabs, following redirects and recording success, failure and motivation histograms.
+// ---
+
 #include "chrome/browser/android/customtabs/detached_resource_request.h"
 
 #include <cstdlib>

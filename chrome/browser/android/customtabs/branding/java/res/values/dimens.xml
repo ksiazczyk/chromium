@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Custom tabs branding dimension resources
+summary: Android resource XML defining width and padding dimensions for the custom tabs toolbar branding icon.
+-->
+
 <resources>
   <dimen name="custom_tabs_toolbar_branding_icon_width">24dp</dimen>
   <dimen name="custom_tabs_toolbar_branding_icon_start_padding">0dp</dimen>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchLayer implementation
+// summary: Implements rendering of the Contextual Search panel, including search bar, promo, progress bar, related searches, and touch highlights.
+// ---
+
 #include "chrome/browser/android/compositor/layer/contextual_search_layer.h"
 
 #include "cc/resources/scoped_ui_resource.h"

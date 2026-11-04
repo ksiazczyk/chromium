@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip scene layer implementation
+// summary: Implements TabStripSceneLayer, building the compositor layers for Android tab strips, including the new tab button, group indicators, tab search and Glic buttons, and scrim and fade layers.
+// ---
+
 #include "chrome/browser/android/compositor/scene_layer/tab_strip_scene_layer.h"
 
 #include "base/android/jni_android.h"

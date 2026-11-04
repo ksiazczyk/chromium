@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextMenuNativeDelegateImpl class header
+// summary: Declares the ContextMenuNativeDelegateImpl class with JNI-exposed methods for retrieving images, starting downloads, searching images, inspecting elements, and video frame actions.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_CONTEXT_MENU_CONTEXT_MENU_NATIVE_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ANDROID_CONTEXT_MENU_CONTEXT_MENU_NATIVE_DELEGATE_IMPL_H_
 

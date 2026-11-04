@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client data header WebContents observer
+// summary: Implements a WebContentsUserData observer that propagates the CCT client data header to all live render frames.
+// ---
+
 #include "chrome/browser/android/customtabs/client_data_header_web_contents_observer.h"
 
 #include "chrome/common/chrome_render_frame.mojom.h"

@@ -13,6 +13,13 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
+<!--docerion
+type: config
+title: Android manifest for the Custom Tabs client example app
+summary: Declares the org.chromium.customtabsclient app's permissions, MainActivity entry point, KeepAlive and Trusted Web Activity services, receivers, and queries for Chrome browser packages.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 
     package="org.chromium.customtabsclient"

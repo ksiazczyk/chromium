@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MismatchNotificationChecker for account mismatch flow
+// summary: Drives the account mismatch notification flow, coordinating sign-in UI and rate limiting with the branding controller.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import android.app.Activity;

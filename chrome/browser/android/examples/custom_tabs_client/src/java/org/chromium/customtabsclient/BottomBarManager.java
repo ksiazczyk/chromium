@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomBarManager
+// summary: Broadcast receiver that manages the Custom Tab bottom bar, handling clicks and swipe-up gestures and controlling play/pause media actions via RemoteViews.
+// ---
+
 package org.chromium.customtabsclient;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

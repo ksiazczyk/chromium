@@ -3,6 +3,12 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.-->
 
+<!--docerion
+type: config
+title: Inline autofill test app string resources
+summary: Supplies user-facing strings for the Chromium test autofill app, including app and service names, fragment labels, and instructions for enabling and testing the autofill service.
+-->
+
 <resources>
   <string name="app_name">Chromium Test Autofill App</string>
   <string name="service_name">Chromium Test Autofill Service</string>

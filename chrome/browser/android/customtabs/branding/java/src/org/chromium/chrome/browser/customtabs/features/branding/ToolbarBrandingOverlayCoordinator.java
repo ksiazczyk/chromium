@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar branding overlay coordinator
+// summary: Coordinator that inflates, shows, and hides the toolbar branding overlay over the title and URL, animating the hide over 300 ms before destroying the view.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.branding;
 
 import static org.chromium.chrome.browser.customtabs.features.branding.ToolbarBrandingOverlayProperties.HIDING_PROGRESS;

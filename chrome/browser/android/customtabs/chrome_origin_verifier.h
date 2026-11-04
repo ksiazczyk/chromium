@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome origin verifier JNI bridge header
+// summary: Declares the ChromeOriginVerifier class that bridges the Java origin verifier to native origin verification with test counters.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_CUSTOMTABS_CHROME_ORIGIN_VERIFIER_H_
 #define CHROME_BROWSER_ANDROID_CUSTOMTABS_CHROME_ORIGIN_VERIFIER_H_
 

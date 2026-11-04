@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Search tab helper native implementation
+// summary: Implements the native tab helper that watches Contextual Search preference changes and installs the unhandled tap notifier for a tab.
+// ---
+
 #include "chrome/browser/android/contextualsearch/contextual_search_tab_helper.h"
 
 #include "base/android/jni_android.h"

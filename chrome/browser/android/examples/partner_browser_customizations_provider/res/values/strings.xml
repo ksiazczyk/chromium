@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Partner bookmarks strings resource
+summary: Android resource file defining the partner bookmarks folder name and a string array of example bookmark titles and URLs.
+-->
+
 <resources>
     <string name="bookmarks_folder_name" translatable="false">Partner Bookmarks</string>
     <string-array name="bookmarks">

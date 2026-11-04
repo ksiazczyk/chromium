@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status indicator scene layer implementation
+// summary: Implements the compositor layer that draws the status indicator resource at a given vertical offset.
+// ---
+
 #include "chrome/browser/android/compositor/scene_layer/status_indicator_scene_layer.h"
 
 #include "cc/slim/layer.h"

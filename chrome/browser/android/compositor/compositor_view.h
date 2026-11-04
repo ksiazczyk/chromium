@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser compositor view class declaration
+// summary: Declares CompositorView, a CompositorClient handling surfaces, overlays, resize events and child process observation.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_COMPOSITOR_COMPOSITOR_VIEW_H_
 #define CHROME_BROWSER_ANDROID_COMPOSITOR_COMPOSITOR_VIEW_H_
 

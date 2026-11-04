@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsFactory
+// summary: Factory that creates WebContents objects through JNI, with support for testing stubs, an ephemeral storage partition experiment, and target network selection.
+// ---
+
 package org.chromium.chrome.browser.content;
 
 import org.jni_zero.JniType;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar layer implementation
+// summary: Implements the compositor layer that draws the Android toolbar, including background, URL bar, anonymized captures and progress bar updates.
+// ---
+
 #include "chrome/browser/android/compositor/layer/toolbar_layer.h"
 
 #include "base/feature_list.h"

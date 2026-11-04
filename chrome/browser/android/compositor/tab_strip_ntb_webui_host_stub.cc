@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripNtbWebUiHost JNI stub
+// summary: Provides no-op JNI stubs for NtbWebUiCoordinator so builds without the tab strip NTB WebUI host can compile and link.
+// ---
+
 #include <cstdint>
 
 #include "base/notreached.h"

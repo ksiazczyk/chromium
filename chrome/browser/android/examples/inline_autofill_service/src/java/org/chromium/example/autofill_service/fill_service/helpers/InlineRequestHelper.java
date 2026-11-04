@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InlineRequestHelper for inline suggestion datasets
+// summary: Wraps the keyboard's inline suggestions request and builds inline presentation slices, datasets and attribution pending intents for autofill responses.
+// ---
+
 package org.chromium.example.autofill_service.fill_service.helpers;
 
 import android.app.PendingIntent;

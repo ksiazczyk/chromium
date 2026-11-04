@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unhandled tap notifier implementation
+// summary: Implements the Mojo UnhandledTapNotifier endpoint that forwards unhandled tap positions to a callback for Contextual Search.
+// ---
+
 #include "chrome/browser/android/contextualsearch/unhandled_tap_notifier_impl.h"
 
 #include <utility>

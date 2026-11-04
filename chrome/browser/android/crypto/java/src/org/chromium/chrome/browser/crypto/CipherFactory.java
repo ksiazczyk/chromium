@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CipherFactory
+// summary: Generates Cipher instances for encrypting temporary Android session data and stores cipher parameters in Bundles so sessions can be restored after an Activity restart.
+// ---
+
 package org.chromium.chrome.browser.crypto;
 
 import android.os.Bundle;

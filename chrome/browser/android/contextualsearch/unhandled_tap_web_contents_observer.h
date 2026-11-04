@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnhandledTapWebContentsObserver class declaration
+// summary: Declares the observer that binds a Mojo unhandled-tap notifier endpoint and invokes a callback with tap coordinates scaled to pixels.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_CONTEXTUALSEARCH_UNHANDLED_TAP_WEB_CONTENTS_OBSERVER_H_
 #define CHROME_BROWSER_ANDROID_CONTEXTUALSEARCH_UNHANDLED_TAP_WEB_CONTENTS_OBSERVER_H_
 

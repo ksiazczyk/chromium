@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Custom Tabs client component metadata
+summary: Sets the monorail component and Buganizer component ID used for tracking issues in the custom tabs client example directory.

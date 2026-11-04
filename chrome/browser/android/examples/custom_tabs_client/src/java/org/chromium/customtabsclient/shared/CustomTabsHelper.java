@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabsHelper
+// summary: Helper class for Custom Tabs that adds keep-alive extras and determines which browser package to connect to for custom tab services.
+// ---
+
 package org.chromium.customtabsclient.shared;
 
 import android.content.Context;

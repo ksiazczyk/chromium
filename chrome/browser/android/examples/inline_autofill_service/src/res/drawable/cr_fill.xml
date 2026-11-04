@@ -3,6 +3,12 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.-->
 
+<!--docerion
+type: asset
+title: cr_fill vector drawable
+summary: Android vector drawable graphic with Google-blue shapes, used as an image resource in the inline autofill service example.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="256dp"
     android:height="256dp"

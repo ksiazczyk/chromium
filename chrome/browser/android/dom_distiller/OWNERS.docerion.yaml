@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegation for dom_distiller
+summary: Delegates code ownership of this directory to the OWNERS file of the Java dom_distiller package.
