@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System web app interactive UI tests
+// summary: Contains ChromeOS interactive UI tests covering system web app windows, shelf integration, multi-user window management, and profile deletion.
+// ---
+
 #include <memory>
 #include <string>
 #include <tuple>

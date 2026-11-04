@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey updated confirmation controller implementation
+// summary: Implements the bubble controller confirming a passkey update, with localized title lookup and navigation to Google Password Manager.
+// ---
+
 #include "chrome/browser/ui/webauthn/passkey_updated_confirmation_controller.h"
 
 #include <string>

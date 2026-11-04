@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey saved confirmation controller
+// summary: Declares the controller for the bubble confirming a saved passkey, tracking dismissal reasons and the relying party identifier.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBAUTHN_PASSKEY_SAVED_CONFIRMATION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_WEBAUTHN_PASSKEY_SAVED_CONFIRMATION_CONTROLLER_H_
 

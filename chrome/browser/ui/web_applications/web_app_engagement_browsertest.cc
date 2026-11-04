@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app engagement browser tests
+// summary: Browser tests verifying the WebApp.Engagement histograms recorded for apps opened in tabs or windows across default and user install sources.
+// ---
+
 #include <array>
 #include <bitset>
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app title browser tests
+// summary: Browser tests validating the AppTitle feature with valid, missing and dynamic app titles, including use-counter histogram checks.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

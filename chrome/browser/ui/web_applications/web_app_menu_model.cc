@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app menu model implementation
+// summary: Implements the app menu model for web app windows, adding commands like uninstall app, open in Chrome, and extensions menu with platform-specific behavior.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_menu_model.h"
 
 #include "base/feature_list.h"

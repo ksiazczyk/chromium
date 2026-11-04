@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial WebUI profile service header
+// summary: Declares InitialWebUIProfileService, a KeyedService that pre-creates and navigates the initial WebUI early during profile initialization and hands its WebContents to callers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WAAP_INITIAL_WEBUI_PROFILE_SERVICE_H_
 #define CHROME_BROWSER_UI_WAAP_INITIAL_WEBUI_PROFILE_SERVICE_H_
 

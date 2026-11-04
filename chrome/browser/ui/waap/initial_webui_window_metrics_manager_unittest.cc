@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Initial WebUI window metrics manager unit tests
+// summary: Unit tests verifying InitialWebUIWindowMetricsManager histogram output for window presentation, ReloadButton paint, surface sync results, and unpainted termination scenarios.
+// ---
+
 #include "chrome/browser/ui/waap/initial_webui_window_metrics_manager.h"
 
 #include <optional>

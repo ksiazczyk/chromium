@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation handle user data forwarder
+// summary: Template helper that attaches NavigationHandleUserData to the first matching primary main frame navigation started in a WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_NAVIGATION_HANDLE_USER_DATA_FORWARDER_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_NAVIGATION_HANDLE_USER_DATA_FORWARDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app UI utilities implementation
+// summary: Implements helpers for web app settings links in the page info bubble, install and open PWA menu labels and icons, and app management navigation.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_ui_utils.h"
 
 #include <optional>

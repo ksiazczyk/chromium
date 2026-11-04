@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial WebUI profile service factory header
+// summary: Declares InitialWebUIProfileServiceFactory, a ProfileKeyedServiceFactory exposing GetForProfile and GetInstance for per-profile access to the initial WebUI service.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WAAP_INITIAL_WEBUI_PROFILE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_UI_WAAP_INITIAL_WEBUI_PROFILE_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity dialog controller header
+// summary: Declares IdentityDialogController, which manages the views used across federated sign-in flows and implements the content identity request dialog controller interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBID_IDENTITY_DIALOG_CONTROLLER_H_
 #define CHROME_BROWSER_UI_WEBID_IDENTITY_DIALOG_CONTROLLER_H_
 

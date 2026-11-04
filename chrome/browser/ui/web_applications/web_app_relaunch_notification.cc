@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app relaunch notification implementation
+// summary: Implements system notifications that inform users when a web app is closing for relaunch or has finished relaunching, with ChromeOS specific notifier handling.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_relaunch_notification.h"
 
 #include "base/memory/weak_ptr.h"

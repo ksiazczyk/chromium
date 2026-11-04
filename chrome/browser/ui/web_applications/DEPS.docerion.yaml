@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include dependency rules
+summary: Grants extra allowed includes for specific web app test and notification source files.

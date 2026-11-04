@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaaP UI metrics service factory implementation
+// summary: Implements the ProfileKeyedServiceFactory that creates a WaapUIMetricsService instance for regular, incognito, and guest profiles.
+// ---
+
 #include "chrome/browser/ui/waap/waap_ui_metrics_service_factory.h"
 
 #include "base/types/pass_key.h"

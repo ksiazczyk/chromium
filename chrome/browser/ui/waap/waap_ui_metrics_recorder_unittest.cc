@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaaP UI metrics recorder unit tests
+// summary: Unit tests verifying that WaapUIMetricsRecorder records ReloadButton input counts and related histograms for mouse release and key press events.
+// ---
+
 #include "chrome/browser/ui/waap/waap_ui_metrics_recorder.h"
 
 #include "base/test/metrics/histogram_tester.h"

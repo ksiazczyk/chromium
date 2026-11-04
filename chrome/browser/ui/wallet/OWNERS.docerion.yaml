@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Wallet UI code owners
+summary: Delegates ownership of this directory to the owners list of the components/wallet directory.

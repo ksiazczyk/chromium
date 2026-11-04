@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document picture-in-picture web app browser tests
+// summary: Browser tests checking document picture-in-picture windows launched from web apps, covering both browser-backed and standalone PiP window backends.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/functional/callback.h"
 #include "base/strings/strcat.h"

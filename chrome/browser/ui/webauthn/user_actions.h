@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn user action metrics declarations
+// summary: Declares functions for recording user actions across WebAuthn dialog flows, including dialog shown, click, cancel, success and recovery events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBAUTHN_USER_ACTIONS_H_
 #define CHROME_BROWSER_UI_WEBAUTHN_USER_ACTIONS_H_
 

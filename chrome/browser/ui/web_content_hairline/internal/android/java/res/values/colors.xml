@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Web content hairline color resources
+summary: Defines the incognito hairline divider color for the web content hairline Android UI component.
+-->
+
 <resources>
     <color name="web_content_hairline_divider_color_incognito">@color/divider_color_light</color>
 </resources>

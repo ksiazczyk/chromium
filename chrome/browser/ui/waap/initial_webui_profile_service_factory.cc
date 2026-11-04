@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial WebUI profile service factory implementation
+// summary: Implements the ProfileKeyedServiceFactory that eagerly creates an InitialWebUIProfileService for regular profiles so WebUI prewarming starts as soon as the profile is ready.
+// ---
+
 #include "chrome/browser/ui/waap/initial_webui_profile_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

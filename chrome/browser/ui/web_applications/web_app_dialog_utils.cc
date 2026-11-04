@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app dialog utilities implementation
+// summary: Implements web app install flows, showing install dialogs for user-initiated, banner and manifest-based installations.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_dialog_utils.h"
 
 #include <memory>

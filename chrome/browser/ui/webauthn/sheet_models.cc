@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn sheet models implementation
+// summary: Implements the sheet models that drive each step of the WebAuthn authenticator request dialog, including mechanism selection, warnings and error sheets.
+// ---
+
 #include "chrome/browser/ui/webauthn/sheet_models.h"
 
 #include <algorithm>

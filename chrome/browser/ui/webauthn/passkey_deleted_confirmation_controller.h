@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey deleted confirmation controller interface
+// summary: Declares the bubble controller managing the confirmation bubble shown after a passkey is deleted.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBAUTHN_PASSKEY_DELETED_CONFIRMATION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_WEBAUTHN_PASSKEY_DELETED_CONFIRMATION_CONTROLLER_H_
 

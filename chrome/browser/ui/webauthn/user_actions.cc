@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn user action metrics implementation
+// summary: Records user action metrics for WebAuthn dialogs, categorizing authenticators such as GPM, iCloud Keychain, Windows Hello and profile sources.
+// ---
+
 #include "chrome/browser/ui/webauthn/user_actions.h"
 
 #include <optional>

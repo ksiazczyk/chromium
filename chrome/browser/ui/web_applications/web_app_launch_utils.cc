@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app launch utilities implementation
+// summary: Implements web app launch helpers including reparenting tabs into app browsers, pruning pre-scope navigation history, session handling, and link capturing support.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_launch_utils.h"
 
 #include <atomic>

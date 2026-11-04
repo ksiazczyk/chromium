@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app share target utility declarations
+// summary: Declares helpers that map Web Share intent data to share target fields and navigation parameters for opening a share target app.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_SHARE_TARGET_UTILS_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_SHARE_TARGET_UTILS_H_
 

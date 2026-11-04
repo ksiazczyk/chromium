@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey deleted confirmation controller unit tests
+// summary: Unit tests covering creation, destruction and delegate notifications of the passkey deleted confirmation bubble controller.
+// ---
+
 #include "chrome/browser/ui/webauthn/passkey_deleted_confirmation_controller.h"
 
 #include <memory>

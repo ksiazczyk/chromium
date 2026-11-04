@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for web app icon health checks browser tests
+summary: GN build file defining a testonly source_set that builds the web app icon health checks browser test with its dependencies.

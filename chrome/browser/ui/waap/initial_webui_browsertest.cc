@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Initial WebUI browser tests
+// summary: In-process browser tests covering initial WebUI toolbar loading, prewarming, startup metrics, and UKM reporting for WaaP.
+// ---
+
 #include <memory>
 #include <vector>
 

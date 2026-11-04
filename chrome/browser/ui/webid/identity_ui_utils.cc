@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity UI utilities implementation
+// summary: Provides helpers for the identity UI, such as badged account avatars, IDP icon badges, and monogram rendering.
+// ---
+
 #include "chrome/browser/ui/webid/identity_ui_utils.h"
 
 #include "base/i18n/break_iterator.h"

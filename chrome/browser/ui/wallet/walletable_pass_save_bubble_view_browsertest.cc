@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Walletable pass save bubble view browser tests
+// summary: Parameterized browser tests verifying the save bubble UI across dark and light mode and RTL and LTR browser languages.
+// ---
+
 #include "chrome/browser/ui/wallet/walletable_pass_save_bubble_view.h"
 
 #include <tuple>

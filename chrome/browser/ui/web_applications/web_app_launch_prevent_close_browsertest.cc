@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app launch prevent close browser tests
+// summary: Browser tests verifying that PWAs configured with the prevent-close policy launch into a single window and are not closable as expected.
+// ---
+
 #include "ash/constants/web_app_id_constants.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

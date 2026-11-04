@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass bubble view factory
+// summary: Declares a static factory for creating walletable pass consent and save bubble views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WALLET_WALLETABLE_PASS_BUBBLE_VIEW_FACTORY_H_
 #define CHROME_BROWSER_UI_WALLET_WALLETABLE_PASS_BUBBLE_VIEW_FACTORY_H_
 

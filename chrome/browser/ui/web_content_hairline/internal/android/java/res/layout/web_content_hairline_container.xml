@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Web content hairline container Android layout
+summary: Android layout resource defining the WebContentHairlineContainer view with top, left, and right hairline images plus rounded corner overlays for web content edges.
+-->
+
 <org.chromium.chrome.browser.ui.web_content_hairline.WebContentHairlineContainer
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

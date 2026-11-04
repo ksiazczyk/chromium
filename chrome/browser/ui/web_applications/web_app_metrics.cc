@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app metrics implementation
+// summary: Implements the per-profile WebAppMetrics service that records web app engagement, user-installed app counts and icon health check UMA histograms.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_metrics.h"
 
 #include <algorithm>

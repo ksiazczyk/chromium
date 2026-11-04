@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaaP UI metrics recorder header
+// summary: Declares WaapUIMetricsRecorder, owned by each ReloadButton instance, to track user interaction timings and input types for WaaP UI metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WAAP_WAAP_UI_METRICS_RECORDER_H_
 #define CHROME_BROWSER_UI_WAAP_WAAP_UI_METRICS_RECORDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for web app UI test support
+summary: Defines GN source sets for web application UI test support, including SSL and isolated web app helpers, plus a ChromeOS interactive UI tests target.

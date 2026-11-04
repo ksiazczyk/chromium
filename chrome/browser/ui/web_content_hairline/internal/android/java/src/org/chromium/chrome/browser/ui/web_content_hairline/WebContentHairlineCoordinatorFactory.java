@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for the WebContentHairlineCoordinator
+// summary: Factory that creates a WebContentHairlineCoordinator from browser controls, side UI and incognito state providers, the top controls stacker and the hairline container ViewStub.
+// ---
+
 package org.chromium.chrome.browser.ui.web_content_hairline;
 
 import android.view.ViewStub;

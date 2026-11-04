@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn sheet models declarations
+// summary: Declares the sheet model classes for the WebAuthn authenticator request dialog, including the shared AuthenticatorSheetModelBase and per-step sheet models.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBAUTHN_SHEET_MODELS_H_
 #define CHROME_BROWSER_UI_WEBAUTHN_SHEET_MODELS_H_
 

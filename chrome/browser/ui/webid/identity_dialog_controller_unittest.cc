@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Identity dialog controller unit tests
+// summary: Unit tests covering identity dialog controller behavior, including FedCM dialog volume recommendations and permission flows.
+// ---
+
 #include "chrome/browser/ui/webid/identity_dialog_controller.h"
 
 #include <memory>

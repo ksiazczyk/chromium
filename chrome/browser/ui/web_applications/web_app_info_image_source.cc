@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppInfoImageSource implementation
+// summary: Implements an image source that selects or Lanczos3-resizes the best matching icon bitmap from WebAppInstallInfo for a requested scale factor.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_info_image_source.h"
 
 #include "skia/ext/image_operations.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient sign-in controller unit tests
+// summary: Unit tests verifying that the controller shows single passkey and password prompts and forwards accepted selections through the permission flow.
+// ---
+
 #include "chrome/browser/ui/webauthn/ambient/ambient_signin_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity dialog controller implementation
+// summary: Implements the controller for browser-mediated federated sign-in dialogs, including segmentation platform dialog volume recommendations and actor task tracking.
+// ---
+
 #include "chrome/browser/ui/webid/identity_dialog_controller.h"
 
 #include <memory>

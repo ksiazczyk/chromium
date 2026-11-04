@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for identity UI utils
+// summary: Tests GetInitialLetterAsUppercase with emoji, combining characters, and text in several scripts.
+// ---
+
 #include "chrome/browser/ui/webid/identity_ui_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

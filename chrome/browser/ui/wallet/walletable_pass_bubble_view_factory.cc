@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass bubble view factory implementation
+// summary: Creates and shows consent and save bubble views anchored to the page info anchor for the active tab.
+// ---
+
 #include "chrome/browser/ui/wallet/walletable_pass_bubble_view_factory.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass consent bubble view implementation
+// summary: Implements the consent bubble UI with subtitle labels and turn-on and no-thanks buttons for saving a detected walletable pass.
+// ---
+
 #include "chrome/browser/ui/wallet/walletable_pass_consent_bubble_view.h"
 
 #include "chrome/browser/ui/views/autofill/autofill_ai/autofill_ai_bubble_utils.h"

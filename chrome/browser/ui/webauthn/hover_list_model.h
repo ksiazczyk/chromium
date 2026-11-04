@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover list model interface for WebAuthn UI
+// summary: Defines the HoverListModel interface that supplies items, text, icons and selection behavior for hover lists in the WebAuthn UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBAUTHN_HOVER_LIST_MODEL_H_
 #define CHROME_BROWSER_UI_WEBAUTHN_HOVER_LIST_MODEL_H_
 

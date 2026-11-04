@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app profile deletion browser tests
+// summary: Browser tests covering web app installation and cleanup behavior when a profile is scheduled for permanent deletion, including ChromeOS specific cases.
+// ---
+
 #include "base/containers/flat_set.h"
 #include "base/functional/callback_helpers.h"
 #include "base/run_loop.h"

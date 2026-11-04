@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Bottom-left rounded corner drawable
+summary: Vector drawable masking the bottom-left corner with the vertical tabs rail background color for the web content hairline UI.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="@dimen/bottom_left_rounded_corner_radius"
     android:height="@dimen/bottom_left_rounded_corner_radius"

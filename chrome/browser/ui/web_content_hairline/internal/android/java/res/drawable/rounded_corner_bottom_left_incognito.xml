@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Bottom-left rounded corner incognito drawable
+summary: Vector drawable masking the bottom-left corner using the incognito tab strip tablet background color.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="@dimen/bottom_left_rounded_corner_radius"
     android:height="@dimen/bottom_left_rounded_corner_radius"

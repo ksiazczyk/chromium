@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app dialog entry points
+// summary: Declares functions to show web app create shortcut, update review, and uninstall dialogs, along with supporting types, enums, and acceptance callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_WEB_APP_DIALOGS_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_WEB_APP_DIALOGS_H_
 

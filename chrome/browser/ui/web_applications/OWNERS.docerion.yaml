@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory code owners
+summary: Inherits directory owners from chrome/browser/web_applications and adds a per-file owner for sub_apps files.

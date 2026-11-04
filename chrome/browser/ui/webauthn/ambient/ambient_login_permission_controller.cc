@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient login permission controller implementation
+// summary: Implements the per-page controller that submits ambient login permission requests to the PermissionRequestManager and tracks their state.
+// ---
+
 #include "chrome/browser/ui/webauthn/ambient/ambient_login_permission_controller.h"
 
 #include <utility>

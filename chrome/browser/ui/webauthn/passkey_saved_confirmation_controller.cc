@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey saved confirmation controller implementation
+// summary: Implements the bubble controller confirming a saved passkey, choosing the title based on PIN creation and navigating to Google Password Manager.
+// ---
+
 #include "chrome/browser/ui/webauthn/passkey_saved_confirmation_controller.h"
 
 #include <string>

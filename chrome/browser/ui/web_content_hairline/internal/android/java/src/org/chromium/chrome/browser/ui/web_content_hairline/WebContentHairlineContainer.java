@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentHairlineContainer view for WebContents hairlines
+// summary: Custom FrameLayout view that hosts the top, left and right WebContents hairline ImageViews and rounded corner images, and updates their colors for Incognito mode.
+// ---
+
 package org.chromium.chrome.browser.ui.web_content_hairline;
 
 import android.content.Context;

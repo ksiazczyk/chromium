@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaaP UI metrics service unit tests
+// summary: Unit tests verifying that first paint, first contentful paint, and reload button input metrics are recorded exactly once via histograms.
+// ---
+
 #include "chrome/browser/ui/waap/waap_ui_metrics_service.h"
 
 #include "base/strings/strcat.h"

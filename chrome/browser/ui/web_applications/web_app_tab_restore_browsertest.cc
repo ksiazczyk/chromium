@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app tab restore browser tests
+// summary: Browser tests checking that desktop PWA windows, app windows and app popups are restored with correct bounds and window type.
+// ---
+
 #include <list>
 
 #include "build/build_config.h"

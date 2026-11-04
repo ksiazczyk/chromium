@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Web content hairline dimension resources
+summary: Defines hairline width and rounded corner radius dimensions used by the web content hairline Android UI.
+-->
+
 <resources>
     <dimen name="vertical_hairline_width">1dp</dimen>
     <dimen name="rounded_corner_radius">8dp</dimen>

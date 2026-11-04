@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account hover list model header
+// summary: Declares AccountHoverListModel, which supplies account entries with text, description, icon and enabled state for the WebAuthn dialog's hover list.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBAUTHN_ACCOUNT_HOVER_LIST_MODEL_H_
 #define CHROME_BROWSER_UI_WEBAUTHN_ACCOUNT_HOVER_LIST_MODEL_H_
 

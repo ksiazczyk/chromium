@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app icon health checks implementation
+// summary: Runs icon diagnostics for all installed web apps and records aggregate UMA histograms for broken icon states.
+// ---
+
 #include "chrome/browser/ui/web_applications/diagnostics/web_app_icon_health_checks.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app launch navigation handle user data
+// summary: Declares per-navigation user data that tracks a pending web app launch, holds launch params and metadata, and queues launches plus metrics and IPH on commit.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_WEB_APP_LAUNCH_NAVIGATION_HANDLE_USER_DATA_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_WEB_APP_LAUNCH_NAVIGATION_HANDLE_USER_DATA_H_
 

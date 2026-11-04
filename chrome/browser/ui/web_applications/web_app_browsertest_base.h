@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app browser test base header
+// summary: Declares the recommended base class for web app browser tests with install, launch and OS integration override helpers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_WEB_APP_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_WEB_APP_BROWSERTEST_BASE_H_
 

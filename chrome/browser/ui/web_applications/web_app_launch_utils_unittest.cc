@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app launch utils unit tests
+// summary: Unit test verifying that PrunePreScopeNavigationHistory removes out-of-scope navigation entries before a user enters a web app scope.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_launch_utils.h"
 
 #include "chrome/browser/web_applications/test/web_app_test.h"

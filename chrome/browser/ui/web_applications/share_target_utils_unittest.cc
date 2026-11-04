@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Share target utilities unit tests
+// summary: Unit tests verifying extraction of title, text, and URL fields from shared intents into share target form fields.
+// ---
+
 #include "chrome/browser/ui/web_applications/share_target_utils.h"
 
 #include "components/services/app_service/public/cpp/intent_util.h"

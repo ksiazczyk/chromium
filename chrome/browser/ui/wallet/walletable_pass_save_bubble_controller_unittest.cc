@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Walletable pass save bubble controller unit tests
+// summary: Unit tests for the save bubble controller using a mock tab interface and bubble manager to verify bubble behavior and metrics.
+// ---
+
 #include "chrome/browser/ui/wallet/walletable_pass_save_bubble_controller.h"
 
 #include "base/memory/raw_ptr.h"

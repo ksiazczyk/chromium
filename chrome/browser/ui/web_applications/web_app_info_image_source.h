@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppInfoImageSource class declaration
+// summary: Declares an ImageSkiaSource that draws icons from a WebAppInstallInfo icons map for a given DIP size.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_APPLICATIONS_WEB_APP_INFO_IMAGE_SOURCE_H_
 #define CHROME_BROWSER_UI_WEB_APPLICATIONS_WEB_APP_INFO_IMAGE_SOURCE_H_
 

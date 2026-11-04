@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app launch process implementation
+// summary: Implements individual web app launches from any entry point, resolving launch URLs, share targets, browser reuse, and the launch_handler manifest client mode.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_launch_process.h"
 
 #include "base/debug/crash_logging.h"

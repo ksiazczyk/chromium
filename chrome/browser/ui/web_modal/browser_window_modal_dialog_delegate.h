@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWindowModalDialogDelegate class declaration
+// summary: Declares the WebContentsModalDialogManager delegate for browser windows, covering dialog host lookup, tab blocking, and fullscreen exit when modal dialogs are shown.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEB_MODAL_BROWSER_WINDOW_MODAL_DIALOG_DELEGATE_H_
 #define CHROME_BROWSER_UI_WEB_MODAL_BROWSER_WINDOW_MODAL_DIALOG_DELEGATE_H_
 

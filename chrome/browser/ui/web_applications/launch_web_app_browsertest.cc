@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app launch browser tests
+// summary: Browser tests for launching installed web apps, including opening links in web apps from the context menu and checking request headers and referrer behavior.
+// ---
+
 #include "base/logging.h"
 #include "base/strings/string_util.h"
 #include "chrome/app/chrome_command_ids.h"

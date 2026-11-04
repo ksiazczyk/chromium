@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaaP utilities header
+// summary: Declares the new window creation source and surface sync result enums plus helpers for detecting the initial WebUI and prewarming its contents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WAAP_WAAP_UTILS_H_
 #define CHROME_BROWSER_UI_WAAP_WAAP_UTILS_H_
 

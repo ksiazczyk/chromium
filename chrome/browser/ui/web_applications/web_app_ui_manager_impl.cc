@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app UI manager implementation
+// summary: Implements WebAppUiManager, covering app window counting and closing, tab reparenting, launch and file or protocol dialogs, infobars and user education.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_ui_manager_impl.h"
 
 #include <algorithm>

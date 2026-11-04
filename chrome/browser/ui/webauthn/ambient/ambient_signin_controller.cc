@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient sign-in controller implementation
+// summary: Implements the document-scoped controller that shows passkey and password mechanisms from the authenticator dialog model in an ambient prompt.
+// ---
+
 #include "chrome/browser/ui/webauthn/ambient/ambient_signin_controller.h"
 
 #include <memory>

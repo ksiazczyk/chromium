@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass bubble controller base implementation
+// summary: Implements base controller logic for showing, hiding, and reporting walletable pass bubble results via the bubble manager.
+// ---
+
 #include "chrome/browser/ui/wallet/walletable_pass_bubble_controller_base.h"
 
 #include "base/check_deref.h"

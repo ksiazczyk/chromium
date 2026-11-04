@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial WebUI window metrics manager implementation
+// summary: Implements per-window recording of InitialWebUI latency metrics such as browser window and ReloadButton first paint, surface sync results, and unpainted window termination.
+// ---
+
 #include "chrome/browser/ui/waap/initial_webui_window_metrics_manager.h"
 
 #include "base/check.h"

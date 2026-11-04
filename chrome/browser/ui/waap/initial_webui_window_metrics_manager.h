@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial WebUI window metrics manager header
+// summary: Declares InitialWebUIWindowMetricsManager, a per-browser-window unowned user data class that distinguishes once-per-process startup metrics from per-new-window latency metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WAAP_INITIAL_WEBUI_WINDOW_METRICS_MANAGER_H_
 #define CHROME_BROWSER_UI_WAAP_INITIAL_WEBUI_WINDOW_METRICS_MANAGER_H_
 

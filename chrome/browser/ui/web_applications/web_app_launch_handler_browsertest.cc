@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app launch handler browser tests
+// summary: Browser tests verifying web app launch_handler manifest client modes such as navigate-new, including metrics and navigation behavior for installed apps.
+// ---
+
 #include "base/strings/strcat.h"
 #include "base/test/bind.h"
 #include "base/test/scoped_feature_list.h"

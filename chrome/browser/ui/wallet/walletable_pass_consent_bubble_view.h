@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass consent bubble view header
+// summary: Declares the bubble view shown when a walletable pass is found, allowing the user to save the pass to their wallet.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WALLET_WALLETABLE_PASS_CONSENT_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_WALLET_WALLETABLE_PASS_CONSENT_BUBBLE_VIEW_H_
 

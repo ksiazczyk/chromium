@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app browser controller implementation
+// summary: Implements UI control of web app browser windows, covering theming, icons, titles, scope checks and ChromeOS system app support.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_browser_controller.h"
 
 #include <algorithm>

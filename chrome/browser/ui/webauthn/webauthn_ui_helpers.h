@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn UI helpers header
+// summary: Declares the helper that formats a relying party identifier as an elided host suitable for WebAuthn UI display.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBAUTHN_WEBAUTHN_UI_HELPERS_H_
 #define CHROME_BROWSER_UI_WEBAUTHN_WEBAUTHN_UI_HELPERS_H_
 

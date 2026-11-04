@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app relaunch notification browser tests
+// summary: Browser tests verifying that relaunch notifications are displayed with the right content and cleared when a web app is relaunched.
+// ---
+
 #include "chrome/browser/ui/web_applications/web_app_relaunch_notification.h"
 
 #include <set>

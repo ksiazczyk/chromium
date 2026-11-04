@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaaP UI metrics recorder implementation
+// summary: Implements WaapUIMetricsRecorder, which tracks ReloadButton input events and records input-to-reload latency metrics through WaapUIMetricsService.
+// ---
+
 #include "chrome/browser/ui/waap/waap_ui_metrics_recorder.h"
 
 #include "base/check.h"

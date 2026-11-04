@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaaP UI metrics service header
+// summary: Declares the profile-scoped KeyedService that receives WaaP UI paint, presentation, and reload button input metrics from renderers and browsers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WAAP_WAAP_UI_METRICS_SERVICE_H_
 #define CHROME_BROWSER_UI_WAAP_WAAP_UI_METRICS_SERVICE_H_
 

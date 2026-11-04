@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Initial WebUI metrics dispatcher unit tests
+// summary: Unit tests creating WebContents and native dispatchers and exercising their milestone callbacks.
+// ---
+
 #include "chrome/browser/ui/waap/initial_webui_metrics_dispatcher.h"
 
 #include "base/time/time.h"

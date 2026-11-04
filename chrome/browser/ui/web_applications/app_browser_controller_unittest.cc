@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App browser controller origin formatting unit tests
+// summary: Unit tests verifying how AppBrowserController::FormatUrlOrigin formats URLs into display origin strings, covering www stripping, punycode, and opaque origins.
+// ---
+
 #include "chrome/browser/ui/web_applications/app_browser_controller.h"
 
 #include "base/strings/utf_string_conversions.h"
