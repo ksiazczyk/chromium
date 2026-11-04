@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultState class declaration
+// summary: Declares the DefaultState class, which implements Ash window behavior without a state machine, including event handling and bounds updates across state transitions.
+// ---
+
 #ifndef ASH_WM_DEFAULT_STATE_H_
 #define ASH_WM_DEFAULT_STATE_H_
 

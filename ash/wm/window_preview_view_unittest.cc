@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: window_preview_view_unittest.cc
+// summary: Unit tests for WindowPreviewView, checking mirror views of transient window groups, preview aspect ratio, and behavior when transient children are added or removed.
+// ---
+
 #include "ash/wm/window_preview_view.h"
 
 #include "ash/test/ash_test_base.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: window_state.cc
+// summary: Implements per-window state management for ash, handling maximize, minimize, snapping, PiP, drag-to-maximize metrics, and state transitions in response to WM events.
+// ---
+
 #include "ash/wm/window_state.h"
 
 #include <absl/cleanup/cleanup.h>

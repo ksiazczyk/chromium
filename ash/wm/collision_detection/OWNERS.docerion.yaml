@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for collision detection
+summary: Lists the owners responsible for reviewing changes to the collision detection directory.

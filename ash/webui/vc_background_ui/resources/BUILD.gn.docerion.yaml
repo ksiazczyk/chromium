@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the VC background WebUI resources
+summary: Defines the build_webui target for the VC background WebUI, listing static files, web components, TypeScript sources, definitions and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System panel view header
+// summary: Declares SystemPanelView, a movable panel view that can be dragged from any point, with a DragController handling mouse and gesture drag events.
+// ---
+
 #ifndef ASH_WM_SYSTEM_PANEL_VIEW_H_
 #define ASH_WM_SYSTEM_PANEL_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window animations implementation
+// summary: Implements Ash-specific window animations such as minimize, cross fade, float or unfloat, brightness fade, and bounce effects.
+// ---
+
 #include "ash/wm/window_animations.h"
 
 #include <math.h>

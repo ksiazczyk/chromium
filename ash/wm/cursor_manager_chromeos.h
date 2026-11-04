@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS cursor manager declaration
+// summary: Declares a CursorManager subclass that customizes cursor hiding on key events and startup initialization on ChromeOS.
+// ---
+
 #ifndef ASH_WM_CURSOR_MANAGER_CHROMEOS_H_
 #define ASH_WM_CURSOR_MANAGER_CHROMEOS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the status area internals WebUI
+summary: Defines the GN build targets for the status area internals library and its unit tests, listing their sources and dependencies.

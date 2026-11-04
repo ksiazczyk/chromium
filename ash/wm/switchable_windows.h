@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switchable windows container helper declarations
+// summary: Declares functions that return the switchable containers for a root window and check whether a given window is a switchable container.
+// ---
+
 #ifndef ASH_WM_SWITCHABLE_WINDOWS_H_
 #define ASH_WM_SWITCHABLE_WINDOWS_H_
 

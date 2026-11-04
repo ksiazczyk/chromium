@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay layout manager unit tests
+// summary: Verifies that a fullscreen widget in the overlay container gets updated bounds when the display rotates.
+// ---
+
 #include "ash/wm/overlay_layout_manager.h"
 
 #include <memory>

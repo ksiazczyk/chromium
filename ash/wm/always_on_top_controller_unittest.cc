@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AlwaysOnTopController unit tests
+// summary: Unit tests verifying container selection for floating and PiP windows and keyboard bounds change notifications for the always-on-top controller.
+// ---
+
 #include "ash/wm/always_on_top_controller.h"
 
 #include "ash/keyboard/keyboard_controller_impl.h"

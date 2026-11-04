@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transient descendant iterator header
+// summary: Declares WindowTransientDescendantIterator, its range wrapper and GetTransientTreeIterator helpers for iterating transient window hierarchies.
+// ---
+
 #ifndef ASH_WM_WINDOW_TRANSIENT_DESCENDANT_ITERATOR_H_
 #define ASH_WM_WINDOW_TRANSIENT_DESCENDANT_ITERATOR_H_
 

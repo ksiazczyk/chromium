@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WmDefaultLayoutManager class declaration
+// summary: Declares WmDefaultLayoutManager, the default aura::LayoutManager used by ash that sets child window bounds directly.
+// ---
+
 #ifndef ASH_WM_WM_DEFAULT_LAYOUT_MANAGER_H_
 #define ASH_WM_WM_DEFAULT_LAYOUT_MANAGER_H_
 

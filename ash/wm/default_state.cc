@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default window state implementation
+// summary: Implements the default Ash window state behavior, handling WM events for maximizing, snapping, minimizing, restoring, and moving windows between displays.
+// ---
+
 #include "ash/wm/default_state.h"
 
 #include "ash/public/cpp/metrics_util.h"

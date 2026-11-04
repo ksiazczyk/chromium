@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window container lookup declarations
+// summary: Declares functions to find a window's container, choose a default parent, and list matching containers across all root windows.
+// ---
+
 #ifndef ASH_WM_CONTAINER_FINDER_H_
 #define ASH_WM_CONTAINER_FINDER_H_
 

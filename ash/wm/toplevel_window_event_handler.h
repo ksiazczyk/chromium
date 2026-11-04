@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toplevel window event handler header
+// summary: Declares ToplevelWindowEventHandler, which handles dragging and resizing of top-level windows and offers APIs to start, revert and end drags.
+// ---
+
 #ifndef ASH_WM_TOPLEVEL_WINDOW_EVENT_HANDLER_H_
 #define ASH_WM_TOPLEVEL_WINDOW_EVENT_HANDLER_H_
 

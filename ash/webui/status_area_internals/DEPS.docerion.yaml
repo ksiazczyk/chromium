@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the status area internals directory
+summary: Grants the directory include access to the ash subtree through include rules.

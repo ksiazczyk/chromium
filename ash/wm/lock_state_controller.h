@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock state controller header
+// summary: Declares LockStateController, which runs the lock, unlock, and shutdown animation workflows and registers related preferences.
+// ---
+
 #ifndef ASH_WM_LOCK_STATE_CONTROLLER_H_
 #define ASH_WM_LOCK_STATE_CONTROLLER_H_
 

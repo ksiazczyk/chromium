@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenPinningController header
+// summary: Declares the controller that temporarily restricts users to a pinned window for ARC++ screen pinning, observing pinned and system modal containers.
+// ---
+
 #ifndef ASH_WM_SCREEN_PINNING_CONTROLLER_H_
 #define ASH_WM_SCREEN_PINNING_CONTROLLER_H_
 

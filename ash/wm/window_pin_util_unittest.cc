@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window pin utility unit tests
+// summary: Unit tests for pinning and unpinning windows, including trusted pinning and verifying fullscreen windows are not treated as pinned.
+// ---
+
 #include "ash/wm/window_pin_util.h"
 
 #include <memory>

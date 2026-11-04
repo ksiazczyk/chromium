@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag window resizer implementation
+// summary: Implements DragWindowResizer, which wraps another resizer to support dragging windows across displays using mouse warp, shared edge indicators, and phantom windows.
+// ---
+
 #include "ash/wm/drag_window_resizer.h"
 
 #include <utility>

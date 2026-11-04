@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake coral processor implementation
+// summary: Implements a fake coral processor that splits request entities into two fake groups and stubs embedding caching for tests.
+// ---
+
 #include "ash/wm/coral/fake_coral_processor.h"
 
 namespace ash {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkAreaInsets class header
+// summary: Declares WorkAreaInsets, a per-root-window cache and query interface for work area bounds and insets accounting for the shelf, keyboard, and accessibility widgets.
+// ---
+
 #ifndef ASH_WM_WORK_AREA_INSETS_H_
 #define ASH_WM_WORK_AREA_INSETS_H_
 

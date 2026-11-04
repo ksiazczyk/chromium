@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window positioning utilities implementation
+// summary: Implements helpers for adjusting window bounds, ensuring minimum on-screen visibility, and computing snapped window bounds in clamshell mode.
+// ---
+
 #include "ash/wm/window_positioning_utils.h"
 
 #include <algorithm>

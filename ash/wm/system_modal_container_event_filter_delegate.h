@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System modal container event filter delegate header
+// summary: Declares the delegate interface used to decide whether a window can receive events in the system modal container.
+// ---
+
 #ifndef ASH_WM_SYSTEM_MODAL_CONTAINER_EVENT_FILTER_DELEGATE_H_
 #define ASH_WM_SYSTEM_MODAL_CONTAINER_EVENT_FILTER_DELEGATE_H_
 

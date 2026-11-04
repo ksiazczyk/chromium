@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Coral directory include rules
+summary: Defines extra include permissions letting coral test utility files use signin, account, prefs, session manager and user manager components.

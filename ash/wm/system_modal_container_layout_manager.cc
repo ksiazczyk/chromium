@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System modal container layout manager implementation
+// summary: Implements the layout manager for the system modal container, tracking modal windows, keeping centered dialogs centered, and creating or destroying modal backgrounds.
+// ---
+
 #include "ash/wm/system_modal_container_layout_manager.h"
 
 #include <algorithm>

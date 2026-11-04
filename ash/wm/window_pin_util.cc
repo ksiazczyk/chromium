@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window pinning utility functions
+// summary: Implements helpers to pin and unpin windows and to query whether a window is pinned or trusted-pinned via its window state.
+// ---
+
 #include "ash/wm/window_pin_util.h"
 
 #include "ash/wm/window_state.h"

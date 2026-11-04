@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragWindowController class declaration
+// summary: Declares DragWindowController, which handles multi-display visuals for window dragging by managing phantom drag windows and original window opacity.
+// ---
+
 #ifndef ASH_WM_DRAG_WINDOW_CONTROLLER_H_
 #define ASH_WM_DRAG_WINDOW_CONTROLLER_H_
 

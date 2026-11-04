@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the SandboxedWebUiAppTestBase harness
+// summary: Implements the SandboxedWebUiAppTestBase harness, which serves test files, injects JS modules and test harnesses into the sandboxed frame, and runs the current JavaScript test case.
+// ---
+
 #include "ash/webui/web_applications/test/sandboxed_web_ui_test_base.h"
 
 #include <algorithm>

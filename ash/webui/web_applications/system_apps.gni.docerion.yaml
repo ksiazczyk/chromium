@@ -1,0 +1,4 @@
+# Docerion header of system_apps.gni.
+type: config
+title: GN settings for system app Closure flags
+summary: Defines shared Closure compiler flags, optional lint checks, and a strict variant with conformance configs for system apps.

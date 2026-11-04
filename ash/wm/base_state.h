@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseState class declaration
+// summary: Declares the base class implementing the common framework for WindowState::State event handling, including snap bounds and snapping helpers.
+// ---
+
 #ifndef ASH_WM_BASE_STATE_H_
 #define ASH_WM_BASE_STATE_H_
 

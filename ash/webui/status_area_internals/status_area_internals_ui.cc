@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status area internals WebUI controller implementation
+// summary: Implements the WebUI controller that creates and configures the data source with trusted types and resource paths for the status area internals page and binds its Mojo page handler.
+// ---
+
 
 #include "ash/webui/status_area_internals/status_area_internals_ui.h"
 

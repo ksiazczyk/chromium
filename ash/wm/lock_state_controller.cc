@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock state controller implementation
+// summary: Implements onscreen lock and shutdown animations and issues system lock or shutdown requests in response to power button events.
+// ---
+
 #include "ash/wm/lock_state_controller.h"
 
 #include <algorithm>

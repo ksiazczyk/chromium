@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen layout manager implementation
+// summary: Implements the layout manager for windows in the lock screen container, adjusting child window bounds on work area, display, and virtual keyboard changes.
+// ---
+
 #include "ash/wm/lock_layout_manager.h"
 
 #include "ash/wm/lock_window_state.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWindowsMover header
+// summary: Declares a scoped utility class that collects windows and moves them to a specified display, optionally invoking a callback after all windows are moved.
+// ---
+
 #ifndef ASH_WM_SCOPED_WINDOWS_MOVER_H_
 #define ASH_WM_SCOPED_WINDOWS_MOVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen window finder header
+// summary: Declares helpers that locate a fullscreen or pinned window in the switchable container of a context or in a root window.
+// ---
+
 #ifndef ASH_WM_FULLSCREEN_WINDOW_FINDER_H_
 #define ASH_WM_FULLSCREEN_WINDOW_FINDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen layout manager header
+// summary: Declares LockLayoutManager, which manages lock screen container windows and replaces their default window state with LockWindowState.
+// ---
+
 #ifndef ASH_WM_LOCK_LAYOUT_MANAGER_H_
 #define ASH_WM_LOCK_LAYOUT_MANAGER_H_
 

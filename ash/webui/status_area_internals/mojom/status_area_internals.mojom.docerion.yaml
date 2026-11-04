@@ -1,0 +1,4 @@
+# Docerion header of status_area_internals.mojom.
+type: source
+title: Mojom interface for status area internals page handler
+summary: Defines the PageHandler interface for toggling status area trays and controlling battery, privacy indicator, and Help Me Write behavior in the internals webUI.

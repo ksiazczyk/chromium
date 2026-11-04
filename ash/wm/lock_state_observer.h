@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock state observer interface
+// summary: Defines the LockStateObserver interface for classes that want notifications about pre-lock and lock animation events from LockStateController.
+// ---
+
 #ifndef ASH_WM_LOCK_STATE_OBSERVER_H_
 #define ASH_WM_LOCK_STATE_OBSERVER_H_
 

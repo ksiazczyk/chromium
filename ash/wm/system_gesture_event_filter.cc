@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System gesture event filter implementation
+// summary: Implements an event filter that records mouse-down user metrics and forwards scroll events to the window manager gesture handler for system-level gestures.
+// ---
+
 #include "ash/wm/system_gesture_event_filter.h"
 
 #include "ash/wm/gestures/wm_gesture_handler.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collision detection utils implementation
+// summary: Implements CollisionDetectionUtils, computing resting positions for windows such as PIP while avoiding obstacles like the shelf, system tray, and popup notifications.
+// ---
+
 #include "ash/wm/collision_detection/collision_detection_utils.h"
 
 #include "ash/app_list/app_list_controller_impl.h"

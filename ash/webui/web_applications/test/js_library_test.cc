@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JS library test host for ChromeOS system apps
+// summary: Implements a WebUI test host that serves system app JavaScript library files from source or generated test data directories, using trusted and untrusted data sources with CSP overrides for embedding.
+// ---
+
 #include "ash/webui/web_applications/test/js_library_test.h"
 
 #include <string>

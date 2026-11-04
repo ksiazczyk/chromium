@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay container layout manager implementation
+// summary: Updates bounds of fullscreen windows in the overlay container when the metrics of the container's display change.
+// ---
+
 #include "ash/wm/overlay_layout_manager.h"
 
 #include "ash/wm/window_state.h"

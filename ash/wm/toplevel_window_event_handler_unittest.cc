@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toplevel window event handler unit tests
+// summary: Unit tests for the Ash toplevel window event handler, covering move and resize loops, capture transfer, and overview interactions.
+// ---
+
 #include "ash/wm/toplevel_window_event_handler.h"
 
 #include "ash/accelerators/accelerator_controller_impl.h"

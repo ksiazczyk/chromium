@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventClientImpl class header
+// summary: Declares EventClientImpl, the aura EventClient that gates event processing during blocked user sessions with an opt-out flag for scoped checks.
+// ---
+
 #ifndef ASH_WM_EVENT_CLIENT_IMPL_H_
 #define ASH_WM_EVENT_CLIENT_IMPL_H_
 

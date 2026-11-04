@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize shadow controller implementation
+// summary: Implements the controller that creates, shows, hides and restacks resize shadows as windows change visibility, bounds and properties.
+// ---
+
 #include "ash/wm/resize_shadow_controller.h"
 
 #include <array>

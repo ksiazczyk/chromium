@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window preview view header
+// summary: Declares WindowPreviewView, a view that mirrors a window and its transient descendants and observes transient window and window lifecycle changes.
+// ---
+
 #ifndef ASH_WM_WINDOW_PREVIEW_VIEW_H_
 #define ASH_WM_WINDOW_PREVIEW_VIEW_H_
 

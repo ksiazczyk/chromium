@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for web_applications
+summary: Points to shared web applications metadata mixins and assigns a Buganizer component for issue tracking.

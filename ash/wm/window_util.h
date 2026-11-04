@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window utility header
+// summary: Declares ash::window_util helpers for window activation, stacking, capture, user positioning, pinning and immersive fullscreen UI updates.
+// ---
+
 #ifndef ASH_WM_WINDOW_UTIL_H_
 #define ASH_WM_WINDOW_UTIL_H_
 

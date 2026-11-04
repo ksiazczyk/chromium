@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen window finder implementation
+// summary: Finds the topmost fullscreen or pinned window within a switchable container for a given context or root window.
+// ---
+
 #include "ash/wm/fullscreen_window_finder.h"
 
 #include <ranges>

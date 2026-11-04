@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowParentingController class declaration
+// summary: Declares a window parenting client that returns the default parent container for windows based on their target display.
+// ---
+
 #ifndef ASH_WM_WINDOW_PARENTING_CONTROLLER_H_
 #define ASH_WM_WINDOW_PARENTING_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System panel view unit tests
+// summary: Unit tests verifying mouse and gesture dragging of the system panel, clamping at screen edges and repositioning across multiple displays.
+// ---
+
 #include "ash/wm/system_panel_view.h"
 
 #include "ash/shell.h"

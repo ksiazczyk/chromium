@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window positioner header
+// summary: Declares utilities that compute bounds and show state for new windows and trigger automatic rearrangement when windows are shown, hidden, or removed.
+// ---
+
 #ifndef ASH_WM_WINDOW_POSITIONER_H_
 #define ASH_WM_WINDOW_POSITIONER_H_
 

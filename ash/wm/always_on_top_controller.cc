@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlwaysOnTopController implementation
+// summary: Implements container selection for windows based on always-on-top, picture-in-picture and desk properties, with layout manager setup and reparenting.
+// ---
+
 #include "ash/wm/always_on_top_controller.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeCursorManagerAsh class declaration
+// summary: Declares NativeCursorManagerAsh, which applies cursor details such as visibility, display, size, and color on behalf of the Ash cursor manager.
+// ---
+
 #ifndef ASH_WM_NATIVE_CURSOR_MANAGER_ASH_H_
 #define ASH_WM_NATIVE_CURSOR_MANAGER_ASH_H_
 

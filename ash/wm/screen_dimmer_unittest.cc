@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenDimmer unit tests
+// summary: Unit tests verifying that ScreenDimmer creates, stacks, resizes, and removes the dimming layer as dimming is toggled and the root window changes.
+// ---
+
 #include "ash/wm/screen_dimmer.h"
 
 #include <algorithm>

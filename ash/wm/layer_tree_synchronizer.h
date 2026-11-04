@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeSynchronizer class header
+// summary: Declares LayerTreeSynchronizer classes that align rounded corners of a window's layer tree with reference bounds and restore the original state.
+// ---
+
 #ifndef ASH_WM_LAYER_TREE_SYNCHRONIZER_H_
 #define ASH_WM_LAYER_TREE_SYNCHRONIZER_H_
 

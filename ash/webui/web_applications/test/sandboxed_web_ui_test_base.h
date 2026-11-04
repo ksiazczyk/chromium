@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SandboxedWebUiAppTestBase header for sandboxed WebUI tests
+// summary: Declares SandboxedWebUiAppTestBase, a base class for SWA browser tests that injects scripts into the sandboxed frame and provides helpers to evaluate JS in the app frame.
+// ---
+
 #ifndef ASH_WEBUI_WEB_APPLICATIONS_TEST_SANDBOXED_WEB_UI_TEST_BASE_H_
 #define ASH_WEBUI_WEB_APPLICATIONS_TEST_SANDBOXED_WEB_UI_TEST_BASE_H_
 

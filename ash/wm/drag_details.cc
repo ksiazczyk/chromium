@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag details implementation
+// summary: Implements DragDetails, computing initial bounds, restore bounds, size change directions, and resizability from the window component a drag starts on.
+// ---
+
 #include "ash/wm/drag_details.h"
 
 #include "ash/public/cpp/window_properties.h"

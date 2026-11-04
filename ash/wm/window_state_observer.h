@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: window_state_observer.h
+// summary: Declares the WindowStateObserver interface with pre- and post-state-change callbacks used to update shell state such as work area and shelf visibility.
+// ---
+
 #ifndef ASH_WM_WINDOW_STATE_OBSERVER_H_
 #define ASH_WM_WINDOW_STATE_OBSERVER_H_
 

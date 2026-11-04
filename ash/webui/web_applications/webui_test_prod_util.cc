@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI data source test request filter implementation
+// summary: Implements helpers that configure WebUIDataSource request filters so tests can serve resources from disk instead of bundled data.
+// ---
+
 #include "ash/webui/web_applications/webui_test_prod_util.h"
 
 #include "ash/constants/ash_switches.h"

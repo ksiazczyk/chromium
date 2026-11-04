@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkAreaInsets implementation
+// summary: Implements per-display work area calculation that combines shelf, virtual keyboard, and accessibility insets and notifies observers when the work area changes.
+// ---
+
 #include "ash/wm/work_area_insets.h"
 
 #include "ash/display/window_tree_host_manager.h"

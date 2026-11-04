@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window state utility header
+// summary: Declares ToggleFullScreen and maximize-toggling helpers for use inside WindowState::State handlers in the ash window manager.
+// ---
+
 #ifndef ASH_WM_WINDOW_STATE_UTIL_H_
 #define ASH_WM_WINDOW_STATE_UTIL_H_
 

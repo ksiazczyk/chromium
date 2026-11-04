@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Coral test utilities implementation
+// summary: Implements test helpers that fake GenAI availability, build test groups and drive the coral selector UI during tests.
+// ---
+
 #include "ash/wm/coral/coral_test_util.h"
 
 #include "ash/birch/birch_coral_provider.h"

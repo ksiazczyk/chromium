@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: window_properties.cc
+// summary: Defines ash shell window property keys such as overview flags, resize shadow disabling, WebAuthn request IDs, resize histogram names, and the stored WindowState pointer.
+// ---
+
 #include "ash/wm/window_properties.h"
 
 #include "ash/wm/window_state.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag window controller implementation
+// summary: Implements DragWindowController, which creates and updates phantom drag windows with opacity and shadows to represent a dragged window on other displays.
+// ---
+
 #include "ash/wm/drag_window_controller.h"
 
 #include <optional>

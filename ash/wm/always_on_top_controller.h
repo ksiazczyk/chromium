@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlwaysOnTopController class declaration
+// summary: Declares the controller that places windows into always-on-top, picture-in-picture or desk containers based on their properties.
+// ---
+
 #ifndef ASH_WM_ALWAYS_ON_TOP_CONTROLLER_H_
 #define ASH_WM_ALWAYS_ON_TOP_CONTROLLER_H_
 

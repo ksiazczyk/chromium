@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock state controller unit tests
+// summary: Tests the lock, unlock, and shutdown animation workflows of LockStateController, including timeouts, shutdown requests, and related metrics.
+// ---
+
 #include "ash/wm/lock_state_controller.h"
 
 #include <memory>

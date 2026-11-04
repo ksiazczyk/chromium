@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollisionDetectionUtils class declaration
+// summary: Declares the CollisionDetectionUtils API and its gravity and relative priority enums used to keep windows like PIP and accessibility menus clear of system UI obstacles.
+// ---
+
 #ifndef ASH_WM_COLLISION_DETECTION_COLLISION_DETECTION_UTILS_H_
 #define ASH_WM_COLLISION_DETECTION_COLLISION_DETECTION_UTILS_H_
 

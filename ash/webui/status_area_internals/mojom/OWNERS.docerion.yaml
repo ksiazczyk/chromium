@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for status area internals mojom
+summary: Delegates review of all mojom files in this directory to the IPC security owners.

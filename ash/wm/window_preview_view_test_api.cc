@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window preview view test API implementation
+// summary: Implements the test API that exposes a WindowPreviewView's union rect and mirror views so tests can inspect its internals.
+// ---
+
 #include "ash/wm/window_preview_view_test_api.h"
 
 #include "ash/wm/window_preview_view.h"

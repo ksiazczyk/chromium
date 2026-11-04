@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for testable WebUI data source utilities
+// summary: Declares functions to install test request filters on WebUI data sources, allowing test resource overrides from a given path.
+// ---
+
 #ifndef ASH_WEBUI_WEB_APPLICATIONS_WEBUI_TEST_PROD_UTIL_H_
 #define ASH_WEBUI_WEB_APPLICATIONS_WEBUI_TEST_PROD_UTIL_H_
 

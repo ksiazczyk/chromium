@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock state controller test API header
+// summary: Declares a helper class giving tests access to LockStateController internals such as shutdown timers, animation flags, and wallpaper layers.
+// ---
+
 #ifndef ASH_WM_LOCK_STATE_CONTROLLER_TEST_API_H_
 #define ASH_WM_LOCK_STATE_CONTROLLER_TEST_API_H_
 

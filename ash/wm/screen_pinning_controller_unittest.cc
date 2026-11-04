@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenPinningController unit tests
+// summary: Unit tests verifying pinned mode behavior, including that only one window can be pinned and stacking order is kept during fullscreen and maximize changes.
+// ---
+
 #include "ash/wm/screen_pinning_controller.h"
 
 #include <algorithm>

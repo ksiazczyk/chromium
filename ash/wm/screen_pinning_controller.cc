@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenPinningController implementation
+// summary: Implements screen pinning for ARC++ apps, keeping the pinned window on top and managing dimming layers and system modal container observers.
+// ---
+
 #include "ash/wm/screen_pinning_controller.h"
 
 #include <algorithm>

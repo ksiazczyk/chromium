@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Container finder unit tests
+// summary: Verifies that GetContainerForWindow resolves the active desk container for a widget in the default container.
+// ---
+
 #include "ash/wm/container_finder.h"
 
 #include <memory>

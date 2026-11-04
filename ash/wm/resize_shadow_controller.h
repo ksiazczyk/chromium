@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize shadow controller declaration
+// summary: Declares ResizeShadowController, which observes resizable windows and shows the resize handle effect when the cursor is near the edges.
+// ---
+
 #ifndef ASH_WM_RESIZE_SHADOW_CONTROLLER_H_
 #define ASH_WM_RESIZE_SHADOW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Window manager include rules
+summary: Defines the allowed include dependencies for the ash window manager directory.

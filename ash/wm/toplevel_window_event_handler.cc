@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toplevel window event handler implementation
+// summary: Implements dragging and resizing of top-level windows, including move loops, resize shadows, two-finger moves and drag completion handling.
+// ---
+
 #include "ash/wm/toplevel_window_event_handler.h"
 
 #include "ash/constants/ash_features.h"

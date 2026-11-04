@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resize shadow unit tests
+// summary: Tests visibility, layer stacking and hit-test behavior of window resize shadows, including child windows and multitask menu interactions.
+// ---
+
 #include "ash/wm/resize_shadow.h"
 
 #include <algorithm>

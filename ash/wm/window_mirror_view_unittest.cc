@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowMirrorView unit tests
+// summary: Unit tests for WindowMirrorView covering occlusion state, mirror layer transforms, and clipping with the non-client view shown or hidden.
+// ---
+
 #include "ash/wm/window_mirror_view.h"
 
 #include "ash/test/ash_test_base.h"

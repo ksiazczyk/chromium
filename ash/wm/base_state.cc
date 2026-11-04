@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseState implementation
+// summary: Implements the common window state event handling framework, mapping WMEvents to window state types and handling workspace, compound, bounds and transition events.
+// ---
+
 #include "ash/wm/base_state.h"
 
 #include "ash/public/cpp/window_animation_types.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Status area internals mojom build definition
+summary: GN build file that defines the mojom target for the status area internals webUI, asserting it is ChromeOS only.

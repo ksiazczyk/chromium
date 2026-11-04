@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System modal container layout manager unit tests
+// summary: Unit tests covering modal window activation, modal backgrounds, dimming and event handling for the system modal container layout manager.
+// ---
+
 #include "ash/wm/system_modal_container_layout_manager.h"
 
 #include <memory>

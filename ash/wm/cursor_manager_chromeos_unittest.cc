@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cursor manager unit tests
+// summary: Tests cursor visibility after key presses and modifier keys, plus force-show-cursor behavior with and without touch emulation.
+// ---
+
 #include "ui/wm/core/cursor_manager.h"
 
 #include "ash/constants/ash_switches.h"

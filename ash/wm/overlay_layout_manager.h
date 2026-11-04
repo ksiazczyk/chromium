@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayLayoutManager class declaration
+// summary: Declares OverlayLayoutManager, which keeps overlay container children snapped to pixel bounds and reacts to display metric changes.
+// ---
+
 #ifndef ASH_WM_OVERLAY_LAYOUT_MANAGER_H_
 #define ASH_WM_OVERLAY_LAYOUT_MANAGER_H_
 

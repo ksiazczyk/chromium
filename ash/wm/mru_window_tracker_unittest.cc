@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the MRU window tracker
+// summary: Unit tests verifying MRU ordering, dragged window handling, and window restore ordering behavior of the MRU window tracker.
+// ---
+
 #include "ash/wm/mru_window_tracker.h"
 
 #include <algorithm>

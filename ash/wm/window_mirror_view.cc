@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window mirror view implementation
+// summary: Implements WindowMirrorView, which mirrors the client area layers of a source window, optionally excluding shadows and syncing bounds.
+// ---
+
 #include "ash/wm/window_mirror_view.h"
 
 #include <algorithm>

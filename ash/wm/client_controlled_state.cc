@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientControlledState implementation
+// summary: Implements window state transitions delegated to the window's client, such as for ARC apps, covering pin, snap, float and workspace event handling.
+// ---
+
 #include "ash/wm/client_controlled_state.h"
 
 #include "ash/root_window_controller.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: System Apps code owners
+summary: Delegates code ownership of the system apps directory to the shared ash/webui PLATFORM_OWNERS file.

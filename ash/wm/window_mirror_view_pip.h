@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowMirrorViewPip class declaration
+// summary: Declares a view that mirrors the client area of a single picture-in-picture source window, overriding layer ownership and mirror layer behavior.
+// ---
+
 #ifndef ASH_WM_WINDOW_MIRROR_VIEW_PIP_H_
 #define ASH_WM_WINDOW_MIRROR_VIEW_PIP_H_
 

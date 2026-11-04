@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WmShadowControllerDelegate unit tests
+// summary: Unit tests verifying shadow rounded corners across overview transitions, hidden shadows for always-on-top windows in overview, and shadow visibility for occluded windows.
+// ---
+
 #include "ash/public/cpp/shell_window_ids.h"
 #include "ash/shell.h"
 #include "ash/test/ash_test_base.h"
