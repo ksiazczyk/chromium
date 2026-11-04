@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet UI delegate interface
+// summary: Declares the interface each share bubble implements so the sharesheet service can show bubbles, including a ChromeOS Nearby Share path for ARC apps.
+// ---
+
 #ifndef CHROME_BROWSER_SHARESHEET_SHARESHEET_UI_DELEGATE_H_
 #define CHROME_BROWSER_SHARESHEET_SHARESHEET_UI_DELEGATE_H_
 

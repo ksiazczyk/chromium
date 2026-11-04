@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Glic experimental triggering message handler
+// summary: Implements handling of incoming Glic experimental triggering sharing messages, building versioned task update and error response messages.
+// ---
+
 #include "chrome/browser/sharing/glic_experimental_triggering/glic_experimental_triggering_message_handler.h"
 
 #include <memory>

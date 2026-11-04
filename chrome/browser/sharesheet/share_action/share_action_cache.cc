@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareActionCache implementation
+// summary: Implements the cache that registers available share actions per profile and looks up actions, icons, and visibility by action type.
+// ---
+
 #include "chrome/browser/sharesheet/share_action/share_action_cache.h"
 
 #include "build/build_config.h"

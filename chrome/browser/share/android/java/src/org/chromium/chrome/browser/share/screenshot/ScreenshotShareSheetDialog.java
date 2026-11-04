@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot share sheet dialog fragment
+// summary: Dialog fragment that hosts the share sheet view for sharing unedited screenshots.
+// ---
+
 package org.chromium.chrome.browser.share.screenshot;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenshotCoordinatorTest
+// summary: Robolectric tests verifying that ScreenshotCoordinator captures a screenshot via a fake source and launches the screenshot share sheet dialog.
+// ---
+
 package org.chromium.chrome.browser.share.screenshot;
 
 import static org.mockito.ArgumentMatchers.any;

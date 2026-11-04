@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for scroll capture
+summary: Designates code owners for the scroll capture directory by referencing the paint preview component's OWNERS file.

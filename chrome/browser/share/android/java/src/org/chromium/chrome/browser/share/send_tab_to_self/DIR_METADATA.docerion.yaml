@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Send tab to self directory metadata
+summary: Declares the common send_tab_to_self component metadata as a mixin for this directory's ownership and team information.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mediator for the enhanced target device picker bottom sheet
+// summary: Builds the device list model, handles device selection and triggers the send action for the Send Tab to Self enhanced bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,0 +1,4 @@
+# Docerion header of java_sources.gni.
+type: config
+title: Share Java sources list
+summary: GN-importable list of Java source files for the Android share feature, covering share sheet, link-to-text, long screenshots and QR code components.

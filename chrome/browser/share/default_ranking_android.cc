@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default Android share target rankings
+// summary: Hardcodes default share target activity rankings for en-US and world locales, used when users have no share history.
+// ---
+
 #include "chrome/browser/share/default_ranking.h"
 
 #include <array>

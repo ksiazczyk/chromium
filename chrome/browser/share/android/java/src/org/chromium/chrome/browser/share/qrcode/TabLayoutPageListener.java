@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabLayoutPageListener
+// summary: Tab layout page change listener that tracks the visible tab to resume and pause tabs, such as turning the camera on and off.
+// ---
+
 package org.chromium.chrome.browser.share.qrcode;
 
 import com.google.android.material.tabs.TabLayout;

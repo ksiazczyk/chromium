@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LinkToTextIphControllerTest
+// summary: Robolectric unit tests for LinkToTextIphController verifying that destroying the controller removes its tab and supplier observers.
+// ---
+
 package org.chromium.chrome.browser.share.link_to_text;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: One time token sharing handler unit tests
+// summary: Unit tests verifying the handler forwards Gmail OTP notifications to the backend, runs the done callback, and records validation result histogram samples.
+// ---
+
 #include "chrome/browser/sharing/one_time_tokens/one_time_token_sharing_handler.h"
 
 #include "base/test/metrics/histogram_tester.h"

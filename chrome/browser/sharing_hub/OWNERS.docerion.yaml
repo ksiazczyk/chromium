@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners delegation
+summary: Delegates ownership review requirements for the sharing hub directory to the send_tab_to_self component's OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareSheetPropertyModelBuilder
+// summary: Builds property models for third-party share targets shown in the custom share sheet, with fallback activity handling.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import android.content.ComponentName;

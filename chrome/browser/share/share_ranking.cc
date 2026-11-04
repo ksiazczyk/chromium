@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share target ranking implementation
+// summary: Implements the share target ranking algorithm, persisting rankings in a LevelDB proto database and reordering targets by recent and total usage.
+// ---
+
 #include "chrome/browser/share/share_ranking.h"
 
 #include <algorithm>

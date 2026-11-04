@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Container for Android-only share extras
+// summary: Container object that passes Android-only share extras, not covered by ShareParams, to the ShareDelegate, including a detailed content type enum.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import androidx.annotation.IntDef;

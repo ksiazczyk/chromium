@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: ShareSheetBottomSheetContent
+// summary: Implements the bottom sheet content that displays the two-row custom share sheet with previews and share target items.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import static org.chromium.build.NullUtil.assertNonNull;

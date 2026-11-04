@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptimizationGuideMessageHandler class declaration
+// summary: Declares a SharingMessageHandler subclass that processes optimization guide push notification messages, with a Create factory taking a Profile.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_MESSAGE_HANDLER_H_
 #define CHROME_BROWSER_SHARING_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_MESSAGE_HANDLER_H_
 

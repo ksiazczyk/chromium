@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SmsFetchRequestHandler
+// summary: Unit tests covering SMS fetch request handling, including basic flows, out-of-order messages, and success or failure responses on confirm and dismiss.
+// ---
+
 #include "chrome/browser/sharing/sms/sms_fetch_request_handler.h"
 
 #include <memory>

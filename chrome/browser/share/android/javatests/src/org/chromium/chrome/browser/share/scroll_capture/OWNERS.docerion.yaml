@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates review ownership of the scroll capture test directory to the paint preview component owners.

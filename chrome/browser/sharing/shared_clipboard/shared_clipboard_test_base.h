@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared clipboard test base header
+// summary: Declares the SharedClipboardTestBase fixture providing profile, clipboard and notification helpers for shared clipboard unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_SHARED_CLIPBOARD_SHARED_CLIPBOARD_TEST_BASE_H_
 #define CHROME_BROWSER_SHARING_SHARED_CLIPBOARD_SHARED_CLIPBOARD_TEST_BASE_H_
 

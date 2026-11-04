@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Share UI dimension resources
+summary: Defines dimension values used by the Android share UI, including QR code layout, Link to Text toast offset, and Send Tab To Self bottom sheet spacing.
+-->
+
 <resources>
     <!-- URL formatting in QR code bitmap -->
     <dimen name="url_box_top_padding">70dp</dimen>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote SMS fetch entry point declaration
+// summary: Declares FetchRemoteSms, which fetches an SMS from a remote device and returns a callback that cancels the pending response.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_SMS_SMS_REMOTE_FETCHER_H_
 #define CHROME_BROWSER_SHARING_SMS_SMS_REMOTE_FETCHER_H_
 

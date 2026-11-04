@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShareSheetCoordinatorTest
+// summary: Robolectric tests for the ShareSheetCoordinator that opens the share sheet bottom sheet and dispatches shares to chosen targets.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import static org.junit.Assert.assertEquals;

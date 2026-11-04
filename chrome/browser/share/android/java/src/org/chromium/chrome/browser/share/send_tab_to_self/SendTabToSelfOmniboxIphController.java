@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self omnibox IPH controller
+// summary: Android controller that decides when to show the Send Tab to Self omnibox in-product help bubble, observing model readiness and feature eligibility before requesting the IPH.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import android.app.Activity;

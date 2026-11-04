@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self notification manager
+// summary: Manages Send Tab to Self notifications on Android, including displaying them, handling taps and dismissals, and timing them out.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import static org.chromium.build.NullUtil.assertNonNull;

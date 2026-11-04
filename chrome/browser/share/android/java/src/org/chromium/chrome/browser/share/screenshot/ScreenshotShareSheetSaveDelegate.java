@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot share sheet save delegate
+// summary: Saves the current screenshot bitmap to storage through SaveBitmapDelegate.
+// ---
+
 package org.chromium.chrome.browser.share.screenshot;
 
 import android.content.Context;

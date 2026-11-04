@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom sheet content for missing target devices
+// summary: Bottom sheet content shown when Send Tab to Self is ready but no target devices are available, recording a no-target-devices user action.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import android.content.Context;

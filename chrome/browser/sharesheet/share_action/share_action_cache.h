@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareActionCache class declaration
+// summary: Declares the ShareActionCache class that mediates between share actions and the SharesheetService, with lookup and test-registration helpers.
+// ---
+
 #ifndef CHROME_BROWSER_SHARESHEET_SHARE_ACTION_SHARE_ACTION_CACHE_H_
 #define CHROME_BROWSER_SHARESHEET_SHARE_ACTION_SHARE_ACTION_CACHE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View for the enhanced target device picker bottom sheet
+// summary: Implements the bottom sheet view that lists target devices with send and manage-devices actions and handles layout and insets.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import android.content.Context;

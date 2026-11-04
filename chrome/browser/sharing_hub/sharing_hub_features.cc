@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing hub feature and policy checks
+// summary: Implements policy and feature-flag checks for sharing hub entry points and desktop screenshots, and registers the desktop sharing hub profile preference.
+// ---
+
 #include "chrome/browser/sharing_hub/sharing_hub_features.h"
 
 #include "build/build_config.h"

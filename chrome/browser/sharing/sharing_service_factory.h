@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing service factory header
+// summary: Declares SharingServiceFactory, the singleton ProfileKeyedServiceFactory that provides the SharingService for a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_SHARING_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SHARING_SHARING_SERVICE_FACTORY_H_
 

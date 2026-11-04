@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QRCodeGenerator
+// summary: Java API that calls the native QR code generator to produce a QR code bitmap from a data string via JNI.
+// ---
+
 package org.chromium.chrome.browser.share.qrcode;
 
 import android.graphics.Bitmap;

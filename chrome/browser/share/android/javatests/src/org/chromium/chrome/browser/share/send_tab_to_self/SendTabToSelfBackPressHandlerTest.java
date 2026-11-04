@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send tab to self back press handler unit tests
+// summary: Unit tests for SendTabToSelfBackPressHandler, verifying back navigation from a synced tab to its parent tab.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import static org.junit.Assert.assertEquals;

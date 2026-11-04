@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self metrics recorder
+// summary: Records user actions and JNI-based metrics for the Send Tab to Self feature on Android, covering notification status, entry points, and scrolling.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import android.text.TextUtils;

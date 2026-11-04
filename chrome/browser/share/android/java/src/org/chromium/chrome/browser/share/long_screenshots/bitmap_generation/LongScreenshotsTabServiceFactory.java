@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LongScreenshotsTabServiceFactory
+// summary: Factory that supplies the LongScreenshotsTabService instance for the current profile through a JNI bridge to the native side.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots.bitmap_generation;
 
 import org.jni_zero.JNINamespace;

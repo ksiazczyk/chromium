@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sharing hub BUILD.gn build definition
+summary: Defines the sharing_hub, impl, and unit_tests source sets with their sources and dependencies for the Chrome sharing hub code.

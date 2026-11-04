@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enhanced target device picker view unit tests
+// summary: Robolectric unit tests for EnhancedTargetDevicePickerView, covering bottom sheet sizing, form factor UI and device list display.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import static org.junit.Assert.assertEquals;

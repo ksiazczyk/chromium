@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android share sheet controller unit tests
+// summary: Robolectric and Mockito unit tests covering the Android share sheet controller's sharing behavior, metrics, favicons, QR code, link-to-text and related coordinator interactions.
+// ---
+
 package org.chromium.chrome.browser.share.android_share_sheet;
 
 import static org.mockito.ArgumentMatchers.any;

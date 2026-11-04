@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing service factory implementation
+// summary: Implements the keyed service factory that constructs SharingService per profile with GCM, sync, device info, SMS fetcher and send-tab-to-self dependencies.
+// ---
+
 #include "chrome/browser/sharing/sharing_service_factory.h"
 
 #include <memory>

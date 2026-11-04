@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing UI controller header
+// summary: Declares SharingUiController, the controller for the desktop dialog listing synced devices and apps, with hooks for feature metrics and accessibility.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_SHARING_UI_CONTROLLER_H_
 #define CHROME_BROWSER_SHARING_SHARING_UI_CONTROLLER_H_
 

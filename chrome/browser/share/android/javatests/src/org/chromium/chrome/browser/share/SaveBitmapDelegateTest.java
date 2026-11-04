@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SaveBitmapDelegateTest
+// summary: Robolectric unit tests verifying that SaveBitmapDelegate saves a bitmap when storage permission is granted and shows a dialog when permission cannot be requested.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the sharing handler registry
+// summary: Registers sharing message handlers for ping, ack, SMS fetch, remote copy, optimization guide, and browser actuator payloads based on platform and feature flags.
+// ---
+
 #include "chrome/browser/sharing/sharing_handler_registry_impl.h"
 
 #include "base/feature_list.h"

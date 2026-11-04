@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for one time tokens sharing
+summary: Points to the components/one_time_tokens OWNERS file so this directory inherits its code owners.

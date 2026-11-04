@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Long screenshots mediator
+// summary: Retrieves long screenshot bitmaps and manages the area selection dialog for choosing a region.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

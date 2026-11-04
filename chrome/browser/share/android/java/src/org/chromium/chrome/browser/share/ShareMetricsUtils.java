@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for share sheet metrics
+// summary: Utility class that records share sheet custom action metrics and time-to-action histograms for the Android Sharing Hub.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import androidx.annotation.IntDef;

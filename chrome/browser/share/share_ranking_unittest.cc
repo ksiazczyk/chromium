@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShareRanking unit tests
+// summary: Unit tests for the ShareRanking ranking algorithm, covering static ComputeRanking cases and async ranking with fake history and database backends.
+// ---
+
 #include "chrome/browser/share/share_ranking.h"
 
 #include "base/functional/callback.h"

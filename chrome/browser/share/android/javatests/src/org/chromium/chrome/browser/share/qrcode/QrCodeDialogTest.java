@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QrCodeDialogTest
+// summary: Robolectric tests for QrCodeDialog verifying that disabled tabs are excluded and enabled tabs appear in the dialog's view pager and tab layout.
+// ---
+
 package org.chromium.chrome.browser.share.qrcode;
 
 import static org.junit.Assert.assertEquals;

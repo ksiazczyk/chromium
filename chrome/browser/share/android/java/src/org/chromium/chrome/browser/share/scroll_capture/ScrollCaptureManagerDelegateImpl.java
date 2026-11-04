@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollCaptureManagerDelegateImpl
+// summary: Implements ScrollCaptureManagerDelegate for Android S by setting scroll capture hints and callbacks on views for the active tab.
+// ---
+
 package org.chromium.chrome.browser.share.scroll_capture;
 
 import android.os.Build.VERSION_CODES;

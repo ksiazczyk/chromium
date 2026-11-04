@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Ownership delegated to glic experimental triggering
+summary: Delegates code ownership for this directory to the OWNERS file of chrome/browser/glic/experimental_triggering.

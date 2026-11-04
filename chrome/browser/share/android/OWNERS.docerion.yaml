@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Share Android directory owners
+summary: Lists the code owner responsible for reviewing changes in the Android share directory.

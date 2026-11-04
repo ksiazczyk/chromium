@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing hub service header
+// summary: Declares SharingHubService, a KeyedService that owns and provides access to the sharing hub action model cache.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_HUB_SHARING_HUB_SERVICE_H_
 #define CHROME_BROWSER_SHARING_HUB_SHARING_HUB_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for exposing sharing
+// summary: Interface that exposes sharing to external classes, defining the ShareOrigin enum and methods for sharing tabs and Send Tab to Self.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import androidx.annotation.IntDef;

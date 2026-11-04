@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for glic experimental triggering
+summary: Defines GN source sets for the message handler public interface, its implementation, and the browser test target with their dependencies.

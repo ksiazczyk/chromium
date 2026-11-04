@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java API for bitmap downloads
+// summary: Java API that requests bitmap downloads from Chrome's download manager service through a JNI bridge.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import android.graphics.Bitmap;

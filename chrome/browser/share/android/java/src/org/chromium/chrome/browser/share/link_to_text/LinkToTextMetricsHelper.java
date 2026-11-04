@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'LinkToTextMetricsHelper: link-to-text metrics recording'
+// summary: Records user actions and enumerated histograms for the link-to-text feature, covering shared highlight state and link-to-text flow diagnose status.
+// ---
+
 package org.chromium.chrome.browser.share.link_to_text;
 
 import androidx.annotation.IntDef;

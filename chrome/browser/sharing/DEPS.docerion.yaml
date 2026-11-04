@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the sharing directory
+summary: Restricts includes to the sharing browser code and the related sharing_message and one_time_tokens components.

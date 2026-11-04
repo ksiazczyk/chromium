@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet TargetInfo implementation
+// summary: Implements the TargetInfo constructors, destructor and copy and move assignment operators for sharesheet share targets.
+// ---
+
 #include "chrome/browser/sharesheet/sharesheet_types.h"
 
 namespace sharesheet {

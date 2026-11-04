@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LinkToTextCoordinatorTest
+// summary: Robolectric unit tests for LinkToTextCoordinator covering share sheet parameters and link-to-text URL generation with the text highlight full link feature enabled.
+// ---
+
 package org.chromium.chrome.browser.share.link_to_text;
 
 import static org.mockito.ArgumentMatchers.any;

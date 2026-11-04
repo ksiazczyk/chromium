@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScrollCaptureManagerTest
+// summary: Robolectric tests for ScrollCaptureManager covering tab observation, scroll capture binding updates on content change, and teardown.
+// ---
+
 package org.chromium.chrome.browser.share.scroll_capture;
 
 import static org.mockito.ArgumentMatchers.eq;

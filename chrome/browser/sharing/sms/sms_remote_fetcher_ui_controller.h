@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote SMS fetch UI controller class declaration
+// summary: Declares SmsRemoteFetcherUiController, a SharingUiController managing desktop UI and communication for remote SMS fetching.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_SMS_SMS_REMOTE_FETCHER_UI_CONTROLLER_H_
 #define CHROME_BROWSER_SHARING_SMS_SMS_REMOTE_FETCHER_UI_CONTROLLER_H_
 

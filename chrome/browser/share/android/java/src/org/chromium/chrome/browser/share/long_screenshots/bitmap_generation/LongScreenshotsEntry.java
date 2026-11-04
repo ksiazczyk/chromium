@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LongScreenshotsEntry
+// summary: Owns the lifecycle of one long screenshot bitmap, defining its bounds, requesting generation, tracking entry status, and storing the generated bitmap for listeners.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots.bitmap_generation;
 
 import android.graphics.Bitmap;

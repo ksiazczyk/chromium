@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareAction interface
+// summary: Defines the interface each sharesheet share action must implement, covering launching, closing, visibility, accelerators, and ARC cleanup callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_SHARESHEET_SHARE_ACTION_SHARE_ACTION_H_
 #define CHROME_BROWSER_SHARESHEET_SHARE_ACTION_SHARE_ACTION_H_
 

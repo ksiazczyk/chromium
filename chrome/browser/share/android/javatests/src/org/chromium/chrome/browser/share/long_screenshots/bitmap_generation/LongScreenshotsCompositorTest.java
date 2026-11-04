@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LongScreenshotsCompositorTest
+// summary: Robolectric tests for LongScreenshotsCompositor covering bitmap requests, error handling, and delegate lifecycle.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots.bitmap_generation;
 
 import android.graphics.Bitmap;

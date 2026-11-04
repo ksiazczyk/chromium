@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShareHistory unit tests
+// summary: Unit tests for ShareHistory using a fake LevelDB to verify history recording, expiry of old entries, windowed queries and clearing.
+// ---
+
 #include "chrome/browser/share/share_history.h"
 #include "base/cancelable_callback.h"
 #include "base/memory/raw_ptr.h"

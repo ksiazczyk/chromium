@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View binder for the enhanced target device picker bottom sheet
+// summary: Binds property model changes to the enhanced device picker view, wiring the device list adapter, callbacks and visibility.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import static org.chromium.chrome.browser.share.send_tab_to_self.EnhancedTargetDevicePickerProperties.DEVICE_LIST;

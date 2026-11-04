@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the optimization guide sharing handler
+summary: Defines source_set targets for the optimization guide message handler and its Android-only unit tests, listing their sources and dependencies.

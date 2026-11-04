@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self notification shared preferences manager
+// summary: Tracks currently displayed Send Tab to Self notifications in SharedPreferences, serializing active notification state with versioned entries.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import androidx.annotation.VisibleForTesting;

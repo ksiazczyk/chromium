@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot share sheet view properties
+// summary: Defines the property model keys and no-argument operations (share, save, delete) used to bind the Android screenshot share sheet view.
+// ---
+
 package org.chromium.chrome.browser.share.screenshot;
 
 import android.graphics.Bitmap;

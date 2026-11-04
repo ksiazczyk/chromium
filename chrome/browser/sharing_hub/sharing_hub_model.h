@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing hub model header
+// summary: Declares the SharingHubAction struct and SharingHubModel class that supply first-party actions and execute third-party sharing actions.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_HUB_SHARING_HUB_MODEL_H_
 #define CHROME_BROWSER_SHARING_HUB_SHARING_HUB_MODEL_H_
 

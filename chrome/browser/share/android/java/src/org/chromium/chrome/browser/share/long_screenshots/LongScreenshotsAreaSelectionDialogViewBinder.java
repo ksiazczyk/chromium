@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Long screenshots area selection dialog view binder
+// summary: Binds the area selection dialog property model to its view by wiring button click listeners.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots;
 
 import android.view.View;

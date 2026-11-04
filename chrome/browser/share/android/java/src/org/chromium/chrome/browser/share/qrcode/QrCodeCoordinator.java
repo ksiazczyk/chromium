@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QrCodeCoordinator
+// summary: Coordinator that creates and represents the QR code main UI, showing and dismissing the QR code dialog for a shared URL.
+// ---
+
 package org.chromium.chrome.browser.share.qrcode;
 
 import android.app.Activity;

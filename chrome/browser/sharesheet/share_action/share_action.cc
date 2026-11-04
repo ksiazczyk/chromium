@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareAction base class implementation
+// summary: Implements default ShareAction behavior, including ChromeOS-specific checks that hide actions for encrypted Drive files and hosted documents.
+// ---
+
 #include "chrome/browser/sharesheet/share_action/share_action.h"
 
 #include "build/build_config.h"

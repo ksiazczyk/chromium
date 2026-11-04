@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet service factory header
+// summary: Declares the SharesheetServiceFactory singleton that owns SharesheetService instances and associates them with browser profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SHARESHEET_SHARESHEET_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SHARESHEET_SHARESHEET_SERVICE_FACTORY_H_
 

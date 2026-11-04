@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QrCodeShareCoordinator
+// summary: Coordinates the QR code share panel UI, wiring the mediator, view, and property model change processor, and implements the QrCodeDialogTab lifecycle.
+// ---
+
 package org.chromium.chrome.browser.share.qrcode.share_tab;
 
 import android.content.Context;

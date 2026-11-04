@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the share component
+summary: Defines GN build targets for the share component, including Android sources, JNI headers, a Java library, test support and browser tests.

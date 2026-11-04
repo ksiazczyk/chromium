@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharesheetService implementation
+// summary: Implements the per-profile service that shows the share bubble, handles targets and nearby share for ARC.
+// ---
+
 #include "chrome/browser/sharesheet/sharesheet_service.h"
 
 #include <algorithm>

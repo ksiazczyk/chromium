@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot share sheet coordinator
+// summary: Wires the property model, mediator, save delegate, and view binder to display the screenshot share sheet.
+// ---
+
 package org.chromium.chrome.browser.share.screenshot;
 
 import android.content.Context;

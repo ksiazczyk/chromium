@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShareSheetPropertyModelBuilderTest
+// summary: Unit tests for ShareSheetPropertyModelBuilder, checking how text and image share targets are turned into property models.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import static org.junit.Assert.assertEquals;

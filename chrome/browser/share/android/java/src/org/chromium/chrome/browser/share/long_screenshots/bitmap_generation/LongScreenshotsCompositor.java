@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LongScreenshotsCompositor
+// summary: Composites the captured webpage by calling into the paint preview (freeze-dried tabs) compositor delegate and reports content size, scroll offset, and errors.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots.bitmap_generation;
 
 import android.graphics.Bitmap;

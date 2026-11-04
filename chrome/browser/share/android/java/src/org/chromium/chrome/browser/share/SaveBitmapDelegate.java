@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate for saving bitmaps
+// summary: Delegate that saves a bitmap to storage, handling storage permission requests and dialogs when saving is blocked.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import android.Manifest.permission;

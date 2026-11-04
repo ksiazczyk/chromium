@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Long screenshots coordinator
+// summary: Handles the long screenshot action in the Sharing Hub and launches the screenshot editor.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet metrics implementation
+// summary: Records user action, app count, launch source, file count and MIME type histograms for the sharesheet.
+// ---
+
 #include "chrome/browser/sharesheet/sharesheet_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for device icon resource providers
+// summary: Creates a DeviceResourceProvider through service loading and falls back to the upstream implementation when none is available.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import org.chromium.base.ServiceLoaderUtil;

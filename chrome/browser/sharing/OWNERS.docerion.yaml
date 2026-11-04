@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the sharing directory
+summary: Delegates code ownership to the owners of the components/sharing_message component.

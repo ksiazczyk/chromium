@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the browser sharing sources
+summary: Defines source sets and dependencies for the sharing feature, its implementations, and its unit tests, with platform-conditional sources for desktop and Android.

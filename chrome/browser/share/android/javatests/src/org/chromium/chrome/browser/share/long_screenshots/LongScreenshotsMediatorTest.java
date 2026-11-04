@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LongScreenshotsMediatorTest
+// summary: Instrumented tests covering the long screenshots mediator, including area selection dialog behavior and bitmap generation callbacks.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots;
 
 import static org.mockito.Mockito.mock;

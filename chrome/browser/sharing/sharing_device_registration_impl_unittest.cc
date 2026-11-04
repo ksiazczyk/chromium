@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for sharing device registration
+// summary: Tests device registration and unregistration behavior using fake instance ID drivers, mock sync services, and test preference services.
+// ---
+
 #include "chrome/browser/sharing/sharing_device_registration_impl.h"
 
 #include <stdint.h>

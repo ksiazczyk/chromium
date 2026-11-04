@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntryManager
+// summary: Manages the long screenshot entries for a tab, generating and retrieving full-page bitmaps and notifying observers of generator status and compositor readiness.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots.bitmap_generation;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClipboardImageFileProviderTest
+// summary: Android instrumentation tests verifying that ClipboardImageFileProvider sets clipboard image data and exposes the correct image URI for sharing.
+// ---
+
 package org.chromium.chrome.browser.share.clipboard;
 
 import android.graphics.Bitmap;

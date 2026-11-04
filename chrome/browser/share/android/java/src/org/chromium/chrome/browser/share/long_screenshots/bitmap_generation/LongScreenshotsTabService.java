@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LongScreenshotsTabService
+// summary: Java-side implementation of the native long screenshots tab service that captures the paint preview representation of a tab and forwards results to a capture processor.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots.bitmap_generation;
 
 import android.graphics.Rect;

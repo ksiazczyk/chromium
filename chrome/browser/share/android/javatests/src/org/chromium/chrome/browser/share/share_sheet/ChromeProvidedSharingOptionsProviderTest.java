@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeProvidedSharingOptionsProviderTest
+// summary: Robolectric unit tests for the ChromeProvidedSharingOptionsProvider that supplies Chrome-provided first-party targets in the Android share sheet.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import static org.junit.Assert.assertEquals;

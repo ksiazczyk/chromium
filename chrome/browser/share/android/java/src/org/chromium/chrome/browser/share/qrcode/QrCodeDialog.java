@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QrCodeDialog
+// summary: Dialog fragment serving as the main view for QR code sharing and scanning, managing tabs, lifecycle, and configuration changes.
+// ---
+
 package org.chromium.chrome.browser.share.qrcode;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

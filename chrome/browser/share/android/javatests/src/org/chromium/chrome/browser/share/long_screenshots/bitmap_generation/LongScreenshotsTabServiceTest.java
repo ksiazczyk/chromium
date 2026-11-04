@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LongScreenshotsTabServiceTest
+// summary: Instrumented tests verifying that LongScreenshotsTabService captures Tab contents to the filesystem and memory.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots.bitmap_generation;
 
 import android.graphics.Rect;

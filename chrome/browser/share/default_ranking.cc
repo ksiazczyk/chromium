@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default share ranking stub for non-Android platforms
+// summary: Provides an empty DefaultRankingForLocaleAndType implementation for platforms other than Android.
+// ---
+
 #include "chrome/browser/share/default_ranking.h"
 #include "build/build_config.h"
 

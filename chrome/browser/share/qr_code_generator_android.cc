@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR code generator Android JNI bridge
+// summary: Android JNI bridge that generates QR code bitmaps for a URL string with circular modules, rounded locators and a dino center image.
+// ---
+
 #include <jni.h>
 
 #include <string>

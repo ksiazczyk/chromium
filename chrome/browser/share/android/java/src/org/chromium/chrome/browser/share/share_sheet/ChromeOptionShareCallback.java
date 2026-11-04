@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOptionShareCallback
+// summary: Interface letting other Chrome features trigger share sheet APIs such as showShareSheet and showThirdPartyShareSheet.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import org.chromium.build.annotations.NullMarked;

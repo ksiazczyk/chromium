@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self Android JNI bridge
+// summary: JNI bridge to the native send_tab_to_self sync service, used to share tabs and observe received tab labels and remote device info.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing Hub service factory implementation
+// summary: Implements SharingHubServiceFactory, a ProfileKeyedServiceFactory singleton that builds and returns a per-profile SharingHubService instance.
+// ---
+
 #include "chrome/browser/sharing_hub/sharing_hub_service_factory.h"
 
 #include "base/no_destructor.h"

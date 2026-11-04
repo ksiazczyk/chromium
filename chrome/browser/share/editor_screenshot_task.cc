@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI task for capturing window screenshots
+// summary: Implements JNI functions that capture a window snapshot as PNG bytes for the Android screenshot editor.
+// ---
+
 #include <stddef.h>
 
 #include "base/android/scoped_java_ref.h"

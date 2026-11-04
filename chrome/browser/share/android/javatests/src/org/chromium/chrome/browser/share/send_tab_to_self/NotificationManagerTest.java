@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send tab to self notification manager tests
+// summary: Robolectric tests for the send tab to self NotificationManager, covering notification tap intents, page context extras and notification behavior.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import static org.mockito.ArgumentMatchers.any;

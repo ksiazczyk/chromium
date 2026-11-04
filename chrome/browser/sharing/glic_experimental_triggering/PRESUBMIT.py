@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for Glic API test registration
+# summary: Presubmit script that runs the Glic API test registration check from the glic tools directory on every change.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 

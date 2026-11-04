@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharesheetServiceDelegator implementation
+// summary: Implements the per-window bridge forwarding show, close and target selection calls between service and UI.
+// ---
+
 #include "chrome/browser/sharesheet/sharesheet_service_delegator.h"
 
 #include <utility>

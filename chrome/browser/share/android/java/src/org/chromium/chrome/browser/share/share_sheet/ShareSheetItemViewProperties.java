@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareSheetItemViewProperties
+// summary: Defines the property keys used to render a share sheet item, including icon, label, content description, and click listener.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import android.graphics.drawable.Drawable;

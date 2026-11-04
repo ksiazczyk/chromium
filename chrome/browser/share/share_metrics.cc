@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share metrics implementation for desktop share logging
+// summary: Implements UMA histogram and user metrics logging for desktop share events, recording which source launched a share.
+// ---
+
 #include "chrome/browser/share/share_metrics.h"
 
 #include "base/metrics/histogram_macros.h"

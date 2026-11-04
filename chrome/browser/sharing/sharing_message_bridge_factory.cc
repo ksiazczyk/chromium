@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing message bridge factory implementation
+// summary: Implements the ProfileKeyedServiceFactory that builds a SharingMessageBridgeImpl with a client-tag-based sync data type processor for each browser context.
+// ---
+
 #include "chrome/browser/sharing/sharing_message_bridge_factory.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account avatar and manage devices link view
+// summary: Custom linear layout that shows the sharing account's avatar, name or email and an optional link to manage its target devices.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import static org.chromium.build.NullUtil.assumeNonNull;
