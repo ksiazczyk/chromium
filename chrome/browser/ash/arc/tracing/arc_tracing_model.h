@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcTracingModel header
+// summary: Declares ArcTracingModel, a base model of Chrome tracing events with time filtering and query support for specialized models.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_ARC_TRACING_MODEL_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_ARC_TRACING_MODEL_H_
 

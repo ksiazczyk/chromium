@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale switching implementation for Ash
+// summary: Implements language switching with locale resource reloading, input method layout updates, and helpers for the AllowedLanguages policy in the ash namespace.
+// ---
+
 #include "chrome/browser/ash/base/locale_util.h"
 
 #include <algorithm>

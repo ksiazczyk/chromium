@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DebugLogsManager implementation
+// summary: Manages Bluetooth verbose logging and quality reports via prefs and DBus for bluez and Floss adapters.
+// ---
+
 #include "chrome/browser/ash/bluetooth/debug_logs_manager.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active session fingerprint client implementation
+// summary: Implements fingerprint availability checks and authentication preparation for the active session, honoring quick unlock policies and preferences.
+// ---
+
 #include "chrome/browser/ash/auth/active_session_fingerprint_client_impl.h"
 
 #include <algorithm>

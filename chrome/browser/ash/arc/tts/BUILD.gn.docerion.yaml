@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the ARC TTS service
+summary: Defines the static library and unit test build targets with their sources and dependencies for the ARC text-to-speech service.

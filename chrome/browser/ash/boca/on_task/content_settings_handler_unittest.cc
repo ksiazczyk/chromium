@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentSettingsHandler unit tests
+// summary: Parameterized unit tests verifying that the Boca content settings handler maps microphone and camera permission settings to the expected content settings for an origin.
+// ---
+
 #include "ash/webui/boca_ui/provider/content_settings_handler.h"
 
 #include "ash/webui/boca_ui/mojom/boca.mojom.h"

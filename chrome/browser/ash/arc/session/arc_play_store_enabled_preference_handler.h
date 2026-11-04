@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Play Store enabled preference handler header
+// summary: Declares ArcPlayStoreEnabledPreferenceHandler, which observes the arc.enabled preference and controls ARC via ArcSessionManager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_SESSION_ARC_PLAY_STORE_ENABLED_PREFERENCE_HANDLER_H_
 #define CHROME_BROWSER_ASH_ARC_SESSION_ARC_PLAY_STORE_ENABLED_PREFERENCE_HANDLER_H_
 

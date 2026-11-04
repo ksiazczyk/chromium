@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the Boca receiver library
+summary: Defines the receiver static library and its unit_tests source_set, listing sources and dependencies for the Boca receiver feature.

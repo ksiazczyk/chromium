@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BabelOrca speech recognizer client unit tests
+// summary: Unit tests for BabelOrcaSpeechRecognizerClient using a mock SODA installer, mock speech recognizer, and observer mocks to verify recognition behavior.
+// ---
+
 #include "chrome/browser/ash/boca/babelorca/babel_orca_speech_recognizer_client.h"
 
 #include <memory>

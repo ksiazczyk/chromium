@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ArcSharesheetBridge
+// summary: Uses a fake sharesheet instance to verify bridge construction and that the sharesheet instance's Init is called once the connection is ready.
+// ---
+
 #include "chrome/browser/ash/arc/sharesheet/arc_sharesheet_bridge.h"
 
 #include "base/memory/raw_ptr.h"

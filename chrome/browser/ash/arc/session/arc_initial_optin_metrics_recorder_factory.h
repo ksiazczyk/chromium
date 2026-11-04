@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC initial opt-in metrics recorder factory header
+// summary: Declares ArcInitialOptInMetricsRecorderFactory, a ProfileKeyedServiceFactory exposing per-profile access to the metrics recorder.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_SESSION_ARC_INITIAL_OPTIN_METRICS_RECORDER_FACTORY_H_
 #define CHROME_BROWSER_ASH_ARC_SESSION_ARC_INITIAL_OPTIN_METRICS_RECORDER_FACTORY_H_
 

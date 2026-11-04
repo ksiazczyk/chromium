@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TpmChallengeKeyResult codes and struct
+// summary: Defines the UMA-persisted TpmChallengeKeyResultCode enum and the TpmChallengeKeyResult struct carrying result codes, public keys and challenge responses.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_TPM_CHALLENGE_KEY_RESULT_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_TPM_CHALLENGE_KEY_RESULT_H_
 

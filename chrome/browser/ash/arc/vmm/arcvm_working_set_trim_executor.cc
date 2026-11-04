@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcVmWorkingSetTrimExecutor implementation
+// summary: Implements ARCVM memory trimming that drops guest page caches and reclaims memory via vm_concierge with error handling.
+// ---
+
 #include "chrome/browser/ash/arc/vmm/arcvm_working_set_trim_executor.h"
 
 #include "base/metrics/histogram_functions.h"

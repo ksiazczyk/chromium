@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TpmChallengeKey wrapper API
+// summary: Declares TpmChallengeKey, a simplified wrapper around TpmChallengeKeySubtle for building TPM challenge responses, along with its factory and testing hooks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_TPM_CHALLENGE_KEY_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_TPM_CHALLENGE_KEY_H_
 

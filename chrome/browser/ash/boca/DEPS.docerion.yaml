@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Boca browser directory
+summary: Lists allowed //chrome include dependencies for the Boca directory, with per-file rules for tests and keyed-service factories.

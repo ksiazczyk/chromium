@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlatformVerificationFlow unit tests
+// summary: Unit tests for PlatformVerificationFlow using a mock attestation flow, fake attestation client and stub settings to exercise challenge and policy behavior.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

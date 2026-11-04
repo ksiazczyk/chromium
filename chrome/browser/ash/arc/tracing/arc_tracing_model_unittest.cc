@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcTracingModel unit tests
+// summary: Unit tests covering model building, event selection queries, and validation of CPU and graphics event sequences.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_tracing_model.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview tracing test base header
+// summary: Declares the ChromeAshTestBase-derived base class for ARC overview tracing tests, with time zone control, frame presentation helpers and a basic systrace constant.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_TEST_OVERVIEW_TRACING_TEST_BASE_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_TEST_OVERVIEW_TRACING_TEST_BASE_H_
 

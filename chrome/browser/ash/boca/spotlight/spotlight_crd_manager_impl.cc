@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight CRD manager implementation
+// summary: Implements SpotlightCrdManagerImpl, which starts and terminates Chrome Remote Desktop sessions for Spotlight and controls the persistent notification bubble.
+// ---
+
 #include "chrome/browser/ash/boca/spotlight/spotlight_crd_manager_impl.h"
 
 #include <memory>

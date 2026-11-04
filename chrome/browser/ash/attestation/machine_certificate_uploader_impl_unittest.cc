@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Machine certificate uploader unit tests
+// summary: Unit tests for MachineCertificateUploaderImpl covering certificate expiry, upload and retry behavior with fake and mock attestation components.
+// ---
+
 #include "chrome/browser/ash/attestation/machine_certificate_uploader_impl.h"
 
 #include <stdint.h>

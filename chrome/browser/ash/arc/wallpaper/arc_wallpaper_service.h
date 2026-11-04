@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC wallpaper service class declaration
+// summary: Declares the ArcWallpaperService keyed service that handles wallpaper requests from Android via the ARC mojom WallpaperHost interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_WALLPAPER_ARC_WALLPAPER_SERVICE_H_
 #define CHROME_BROWSER_ASH_ARC_WALLPAPER_ARC_WALLPAPER_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcValueEvent header
+// summary: Defines the ArcValueEvent struct for timestamped metric values with units, plus helpers to serialize and load them.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_ARC_VALUE_EVENT_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_ARC_VALUE_EVENT_H_
 

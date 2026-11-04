@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility functions for ARC ghost window launching
+// summary: Implements helpers that check whether restore data has enough bounds to launch a ghost window and detect Google series packages.
+// ---
+
 #include "chrome/browser/ash/arc/window_predictor/window_predictor_utils.h"
 
 #include "base/strings/string_util.h"

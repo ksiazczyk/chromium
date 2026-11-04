@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TpmChallengeKeyResult error messages
+// summary: Implements TpmChallengeKeyResult helpers and defines the user-facing error message strings for the enterprise platformKeys challenge flow.
+// ---
+
 #include "chrome/browser/ash/attestation/tpm_challenge_key_result.h"
 
 #include <ostream>

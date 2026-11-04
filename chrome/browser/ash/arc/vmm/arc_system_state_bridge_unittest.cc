@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcSystemStateBridge unit tests
+// summary: Unit tests verifying ArcSystemStateBridge construction and its connection to a fake ARC system state instance.
+// ---
+
 #include "chrome/browser/ash/arc/vmm/arc_system_state_bridge.h"
 
 #include "base/memory/raw_ptr.h"

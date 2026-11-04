@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask locked controller class declaration
+// summary: Declares OnTaskLockedController, which stores the per-window OnTask lock state and exposes callback registration for lock state changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOCA_ON_TASK_ON_TASK_LOCKED_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_BOCA_ON_TASK_ON_TASK_LOCKED_CONTROLLER_H_
 

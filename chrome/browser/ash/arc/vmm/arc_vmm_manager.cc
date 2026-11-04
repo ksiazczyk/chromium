@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcVmmManager implementation
+// summary: Implements the ArcVmmManager keyed service that controls ARCVM vmm swap state, including debug keyboard shortcuts and preferences.
+// ---
+
 #include "chrome/browser/ash/arc/vmm/arc_vmm_manager.h"
 
 #include <optional>

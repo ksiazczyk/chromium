@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask locked session window tracker implementation
+// summary: Implements the keyed service that tracks the browser window and tabs of an OnTask locked session, applying per-tab blocklist restrictions and showing blocked URL notifications.
+// ---
+
 #include "chrome/browser/ash/boca/on_task/on_task_locked_session_window_tracker.h"
 
 #include <algorithm>

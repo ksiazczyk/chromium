@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BocaManager implementation
+// summary: Implements BocaManager, wiring together session, on-task, BabelOrca captions, spotlight, invalidation, and metrics managers for the Boca feature.
+// ---
+
 #include "chrome/browser/ash/boca/boca_manager.h"
 
 #include <memory>

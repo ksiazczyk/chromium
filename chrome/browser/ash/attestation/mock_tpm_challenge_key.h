@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTpmChallengeKey
+// summary: Google Mock implementation of TpmChallengeKey that fakes successful or failing challenge responses for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_MOCK_TPM_CHALLENGE_KEY_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_MOCK_TPM_CHALLENGE_KEY_H_
 

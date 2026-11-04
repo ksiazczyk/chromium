@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the enrollment ID upload manager
+// summary: Unit tests for EnrollmentIdUploadManager verifying enrollment ID upload behavior with a fake attestation client, mock uploader, and device policy fixtures.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: OnTask directory include rules
+summary: DEPS file restricting allowed includes for the on_task directory, with per-file exceptions for browsertests and the interactive UI test.

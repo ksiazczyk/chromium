@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppIdProviderImpl header
+// summary: Declares the browser-side ArcAppIdProviderImpl that maps Android package names to Chrome app IDs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_SESSION_ARC_APP_ID_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_ARC_SESSION_ARC_APP_ID_PROVIDER_IMPL_H_
 

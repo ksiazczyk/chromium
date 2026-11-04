@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the audio survey handler
+// summary: Implements AudioSurveyHandler and its delegate to show Happiness Tracking Surveys when the audio server triggers survey events.
+// ---
+
 #include "chrome/browser/ash/audio/audio_survey_handler.h"
 
 #include "base/feature_list.h"

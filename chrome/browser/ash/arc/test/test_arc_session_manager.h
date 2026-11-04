@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ArcSessionManager helper declarations
+// summary: Declares helpers to create a unit-test ArcSessionManager and to simulate property file expansion for existing instances.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TEST_TEST_ARC_SESSION_MANAGER_H_
 #define CHROME_BROWSER_ASH_ARC_TEST_TEST_ARC_SESSION_MANAGER_H_
 

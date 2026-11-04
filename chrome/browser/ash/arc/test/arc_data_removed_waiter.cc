@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcDataRemovedWaiter implementation
+// summary: Implements a test observer that runs a RunLoop until ArcSessionManager signals that ARC data has been removed.
+// ---
+
 #include "chrome/browser/ash/arc/test/arc_data_removed_waiter.h"
 
 #include "base/run_loop.h"

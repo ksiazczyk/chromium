@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AudioSurveyHandler
+// summary: Tests survey triggering behavior with a mock delegate while the audio survey features are enabled or disabled.
+// ---
+
 #include "chrome/browser/ash/audio/audio_survey_handler.h"
 
 #include "base/test/scoped_feature_list.h"

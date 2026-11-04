@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcSharesheetBridge implementation
+// summary: Implements the singleton keyed service factory and binds the bridge as the host of the ARC sharesheet Mojo interface.
+// ---
+
 #include "chrome/browser/ash/arc/sharesheet/arc_sharesheet_bridge.h"
 
 #include "base/logging.h"

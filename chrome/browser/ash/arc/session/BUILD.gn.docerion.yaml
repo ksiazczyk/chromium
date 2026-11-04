@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ARC session build targets (BUILD.gn)
+summary: Defines the GN build targets and dependencies for the ARC session browser code, including the service_launcher and session static libraries.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcActivationNecessityChecker unit tests
+// summary: Unit tests for ArcActivationNecessityChecker covering activation conditions such as app installs, policies, features, and ADB sideloading.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_activation_necessity_checker.h"
 
 #include <utility>

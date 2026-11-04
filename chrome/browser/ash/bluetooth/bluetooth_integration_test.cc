@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crosier integration tests for Bluetooth toggles
+// summary: Drives quick settings and OS settings UI to toggle Bluetooth power on a device using the bluez stack.
+// ---
+
 #include <string>
 #include <vector>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcValueEvent implementation
+// summary: Implements serialization and loading of tracing value events such as memory, swap, GPU frequency, and power metrics.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_value_event.h"
 
 namespace arc {

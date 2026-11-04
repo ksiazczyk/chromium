@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC wallpaper service
+// summary: Tests ArcWallpaperService behavior using fake image decoders, a fake wallpaper instance, and test wallpaper controllers.
+// ---
+
 #include "chrome/browser/ash/arc/wallpaper/arc_wallpaper_service.h"
 
 #include <stdint.h>

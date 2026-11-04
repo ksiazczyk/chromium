@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC session manager implementation
+// summary: Implements ArcSessionManager, which manages the ARC session lifecycle including requirement checks, provisioning, data removal, and session stopping.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_session_manager.h"
 
 #include <string>

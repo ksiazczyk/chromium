@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC predictor app launch handler class declaration
+// summary: Declares ArcPredictorAppLaunchHandler, a customized AppLaunchHandler that launches pending ARC apps using the launch optimization policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_WINDOW_PREDICTOR_ARC_PREDICTOR_APP_LAUNCH_HANDLER_H_
 #define CHROME_BROWSER_ASH_ARC_WINDOW_PREDICTOR_ARC_PREDICTOR_APP_LAUNCH_HANDLER_H_
 

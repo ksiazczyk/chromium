@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformVerificationFlow
+// summary: Declares PlatformVerificationFlow, a ref-counted class that performs platform verification via attestation challenges for content protection.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_PLATFORM_VERIFICATION_FLOW_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_PLATFORM_VERIFICATION_FLOW_H_
 

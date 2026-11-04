@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewTracingHandler implementation
+// summary: Implements the handler that collects Chrome and system traces for ARC++ windows and saves graphics models with task info.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/overview_tracing_handler.h"
 
 #include <map>

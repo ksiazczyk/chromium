@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask system web app manager class declaration
+// summary: Declares OnTaskSystemWebAppManagerImpl, a thin wrapper around system web app window management APIs for launching, closing, pinning, and tracking Boca OnTask windows.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOCA_ON_TASK_ON_TASK_SYSTEM_WEB_APP_MANAGER_IMPL_H_
 #define CHROME_BROWSER_ASH_BOCA_ON_TASK_ON_TASK_SYSTEM_WEB_APP_MANAGER_IMPL_H_
 

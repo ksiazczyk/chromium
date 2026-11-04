@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for the ash Bluetooth directory
+summary: Maps the directory to the OS>Systems>Bluetooth Monorail component and a Buganizer component ID.

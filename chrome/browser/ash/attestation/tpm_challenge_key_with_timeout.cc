@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TpmChallengeKeyWithTimeout implementation
+// summary: Implements TpmChallengeKeyWithTimeout, which wraps TpmChallengeKey and resolves with a timeout error when the challenge response does not arrive in time.
+// ---
+
 #include "chrome/browser/ash/attestation/tpm_challenge_key_with_timeout.h"
 
 #include "base/memory/ptr_util.h"

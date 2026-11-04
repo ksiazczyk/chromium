@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the attestation CA client
+// summary: Tests enrollment and certificate request URLs, responses, and proxy presence detection with a mock network context.
+// ---
+
 #include "chrome/browser/ash/attestation/attestation_ca_client.h"
 
 #include "base/command_line.h"

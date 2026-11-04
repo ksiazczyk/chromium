@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: arc_cpu_event_unittest.cc
+// summary: Unit tests for ARC CPU event handling, verifying event addition per CPU and valid state transitions between idle, wake-up, and active events.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_cpu_event.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcValueEventTrimmer header
+// summary: Declares ArcValueEventTrimmer, which prevents adding value events that repeat the previous value.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_ARC_VALUE_EVENT_TRIMMER_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_ARC_VALUE_EVENT_TRIMMER_H_
 

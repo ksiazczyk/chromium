@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ARC tracing dependencies
+summary: Defines allowed include dependencies for the ARC tracing directory, with test-specific exceptions to the //chrome ban.

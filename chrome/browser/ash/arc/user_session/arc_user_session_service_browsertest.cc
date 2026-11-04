@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for ARC user session active broadcast
+// summary: In-process browser test verifying that ArcUserSessionService sends the USER_SESSION_ACTIVE broadcast to the ARC intent helper once when the session becomes active again.
+// ---
+
 #include "chromeos/ash/experiences/arc/user_session/arc_user_session_service.h"
 
 #include <memory>

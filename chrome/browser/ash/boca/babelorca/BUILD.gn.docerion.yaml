@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BabelOrca GN build configuration
+summary: Defines the babelorca static library sources and dependencies plus the unit_tests source_set for the BabelOrca speech recognition code.

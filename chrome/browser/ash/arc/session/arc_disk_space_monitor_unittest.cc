@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC disk space monitor unit tests
+// summary: Unit tests for ArcDiskSpaceMonitor covering activation, disk space checks, and low disk space notifications using fake DBus clients and a fake ARC session.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_disk_space_monitor.h"
 
 #include "ash/public/cpp/notification_utils.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome PIN engine class declaration
+// summary: Declares CryptohomePinEngine, the source of truth for PIN authentication availability, policy handling and auth operations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_AUTH_CRYPTOHOME_PIN_ENGINE_H_
 #define CHROME_BROWSER_ASH_AUTH_CRYPTOHOME_PIN_ENGINE_H_
 

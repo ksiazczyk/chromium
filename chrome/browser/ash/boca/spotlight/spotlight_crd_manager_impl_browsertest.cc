@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spotlight CRD manager browser tests
+// summary: Browser tests verifying that SpotlightCrdManagerImpl starts CRD hosts, logs UMA metrics, and handles session lifecycle using a mocked SharedCrdSession.
+// ---
+
 #include "chrome/browser/ash/boca/spotlight/spotlight_crd_manager_impl.h"
 
 #include <memory>

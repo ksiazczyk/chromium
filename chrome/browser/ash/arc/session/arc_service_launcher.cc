@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC service launcher implementation
+// summary: Implements ArcServiceLauncher, which detects ARC availability and starts the ARC bridge services and related keyed service factories.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_service_launcher.h"
 
 #include <memory>

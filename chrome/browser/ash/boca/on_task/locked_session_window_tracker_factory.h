@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locked session window tracker factory declaration
+// summary: Declares the singleton BrowserContextKeyedServiceFactory that builds and owns LockedSessionWindowTracker per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOCA_ON_TASK_LOCKED_SESSION_WINDOW_TRACKER_FACTORY_H_
 #define CHROME_BROWSER_ASH_BOCA_ON_TASK_LOCKED_SESSION_WINDOW_TRACKER_FACTORY_H_
 

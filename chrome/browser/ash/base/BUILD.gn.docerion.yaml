@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ash base
+summary: Defines the static library target for the ash base locale utilities and a testonly source_set for its browser tests, listing sources and dependencies.

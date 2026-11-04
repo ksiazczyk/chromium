@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Receiver handler delegate implementation
+// summary: Implements ReceiverHandlerDelegate, supplying the FCM handler, a device-auth request sender, the remoting client, and kiosk app URL checks.
+// ---
+
 #include "chrome/browser/ash/boca/receiver/receiver_handler_delegate_impl.h"
 
 #include <memory>

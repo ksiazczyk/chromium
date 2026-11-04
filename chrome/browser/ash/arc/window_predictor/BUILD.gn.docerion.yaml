@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the window_predictor static library
+summary: Defines the sources and dependencies of the window_predictor static library for the ChromeOS ARC window predictor.

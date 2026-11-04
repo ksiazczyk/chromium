@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for ARC user session directory
+summary: Blocks //chrome includes for the directory by default and grants the needed //chrome dependencies only to the browser test source file.

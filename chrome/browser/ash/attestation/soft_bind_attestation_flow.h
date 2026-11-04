@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftBindAttestationFlow interface
+// summary: Declares the SoftBindAttestationFlow interface for asynchronously obtaining soft-bind certificates for user keys, restricted to browser-internal use.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_SOFT_BIND_ATTESTATION_FLOW_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_SOFT_BIND_ATTESTATION_FLOW_H_
 #include <string>

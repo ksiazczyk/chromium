@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC initial opt-in metrics recorder implementation
+// summary: Records the Ash.ArcAppInitialAppsInstallDuration histogram measuring the time from the user's ARC opt-in until the initial ARC app list is ready.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_initial_optin_metrics_recorder.h"
 
 #include <string>

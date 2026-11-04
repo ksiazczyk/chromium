@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine certificate uploader implementation header
+// summary: Declares MachineCertificateUploaderImpl, which obtains and uploads enterprise machine certificates via the attestation flow and CloudPolicyClient.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_MACHINE_CERTIFICATE_UPLOADER_IMPL_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_MACHINE_CERTIFICATE_UPLOADER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC disk space monitor header
+// summary: Declares ArcDiskSpaceMonitor with disk space thresholds, check intervals, and notification IDs used to stop ARC or warn the user on low disk space.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_SESSION_ARC_DISK_SPACE_MONITOR_H_
 #define CHROME_BROWSER_ASH_ARC_SESSION_ARC_DISK_SPACE_MONITOR_H_
 

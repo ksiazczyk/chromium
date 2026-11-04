@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcVmWorkingSetTrimExecutor unit test
+// summary: Unit tests for the trim executor using a delayed fake memory instance and fake DBus clients to verify trim flows.
+// ---
+
 #include "chrome/browser/ash/arc/vmm/arcvm_working_set_trim_executor.h"
 
 #include "base/test/bind.h"

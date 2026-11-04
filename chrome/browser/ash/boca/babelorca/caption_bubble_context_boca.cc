@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca caption bubble context implementation
+// summary: Implements CaptionBubbleContextBoca, which extends CaptionBubbleContextAsh and returns a fixed Boca session ID for caption bubbles.
+// ---
+
 #include "chrome/browser/ash/boca/babelorca/caption_bubble_context_boca.h"
 
 #include <string>

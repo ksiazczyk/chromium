@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app performance tracing test helper implementation
+// summary: Implements the shared test helper that sets up ArcAppPerformanceTracing, fakes frame commits and present sequences, and fires tracing timers for tests.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/test/arc_app_performance_tracing_test_helper.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcTracingGraphicsModel class declaration
+// summary: Declares the graphics buffer events model describing the buffer lifecycle across Android and Chrome, with event type constants and JSON keys.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_ARC_TRACING_GRAPHICS_MODEL_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_ARC_TRACING_GRAPHICS_MODEL_H_
 

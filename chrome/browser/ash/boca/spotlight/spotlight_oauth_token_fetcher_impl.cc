@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight OAuth token fetcher implementation
+// summary: Implements SpotlightOAuthTokenFetcherImpl, which requests device OAuth2 access tokens with the scopes needed for Spotlight and reports the robot account email.
+// ---
+
 #include "chrome/browser/ash/boca/spotlight/spotlight_oauth_token_fetcher_impl.h"
 
 #include <memory>

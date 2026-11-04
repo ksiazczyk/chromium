@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OnTask system web app manager browser tests
+// summary: In-process browser tests for the OnTask system web app manager, covering SWA launch, window pinning, tab restrictions, muting, and camera or microphone pause behavior.
+// ---
+
 #include "chrome/browser/ash/boca/on_task/on_task_system_web_app_manager_impl.h"
 
 #include "ash/constants/ash_features.h"

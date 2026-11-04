@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TpmChallengeKey unit tests
+// summary: Unit tests for TpmChallengeKey that use a mocked TpmChallengeKeySubtle to verify BuildResponse behavior and callback results.
+// ---
+
 #include "chrome/browser/ash/attestation/tpm_challenge_key.h"
 
 #include "base/functional/bind.h"

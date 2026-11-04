@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC screen capture bridge implementation
+// summary: Implements ArcScreenCaptureBridge, a keyed service that handles screen capture permission requests and opens capture sessions for Android apps over Mojo.
+// ---
+
 #include "chrome/browser/ash/arc/screen_capture/arc_screen_capture_bridge.h"
 
 #include <utility>

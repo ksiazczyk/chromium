@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the ARC VMM directory
+summary: Lists sstan@chromium.org as the code owner of the ARC VMM directory.

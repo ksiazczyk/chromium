@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for attestation device policy
+// summary: Verifies that content protection attestation is allowed or blocked according to the device policy setting.
+// ---
+
 #include "chrome/browser/ash/attestation/platform_verification_flow.h"
 #include "chrome/browser/ash/settings/scoped_testing_cros_settings.h"
 #include "chrome/browser/ash/settings/stub_cros_settings_provider.h"

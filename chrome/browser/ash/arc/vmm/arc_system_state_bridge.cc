@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcSystemStateBridge implementation
+// summary: Implements the ArcSystemStateBridge keyed service that receives ARC system app running state updates and notifies observers.
+// ---
+
 #include "chrome/browser/ash/arc/vmm/arc_system_state_bridge.h"
 
 #include "base/no_destructor.h"

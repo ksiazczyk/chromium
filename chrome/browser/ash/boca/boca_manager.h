@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BocaManager class declaration
+// summary: Declares BocaManager, a profile-keyed service that owns the Boca session, on-task, BabelOrca, metrics, and spotlight session managers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOCA_BOCA_MANAGER_H_
 #define CHROME_BROWSER_ASH_BOCA_BOCA_MANAGER_H_
 

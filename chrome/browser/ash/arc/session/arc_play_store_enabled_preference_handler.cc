@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Play Store enabled preference handler implementation
+// summary: Implements handling of the Google Play Store enabled preference, starting or stopping ARC sessions, requesting data removal, and auditing user consent.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_play_store_enabled_preference_handler.h"
 
 #include <string>

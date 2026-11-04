@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the ARC sharesheet directory
+summary: Restricts //chrome includes for ChromeOS code, allows the directory's own headers, and grants extra //chrome/test/base access to the unit test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for locale switching
+// summary: An in-process browser test verifying that SwitchLanguage remaps fr-BE to fr and updates the extension locale and preferred locale correctly.
+// ---
+
 #include "chrome/browser/ash/base/locale_util.h"
 
 #include <string>

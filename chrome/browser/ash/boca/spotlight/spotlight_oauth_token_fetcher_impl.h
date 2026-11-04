@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight OAuth token fetcher header
+// summary: Declares SpotlightOAuthTokenFetcherImpl, an OAuth2 access token consumer that fetches device tokens for Spotlight and exposes the device robot email.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOCA_SPOTLIGHT_SPOTLIGHT_OAUTH_TOKEN_FETCHER_IMPL_H_
 #define CHROME_BROWSER_ASH_BOCA_SPOTLIGHT_SPOTLIGHT_OAUTH_TOKEN_FETCHER_IMPL_H_
 

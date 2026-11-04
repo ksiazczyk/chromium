@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcVmmManager browser test
+// summary: Browser test verifying ArcVmmManager connects to ARC and exposes swap scheduler, observation, and accelerator internals.
+// ---
+
 #include "chrome/browser/ash/arc/vmm/arc_vmm_manager.h"
 
 #include "ash/accelerators/accelerator_controller_impl.h"

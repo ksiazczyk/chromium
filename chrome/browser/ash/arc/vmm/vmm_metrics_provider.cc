@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VmmMetricsProvider implementation
+// summary: Tracks ARCVM running and swapped-out state and reports the Arc.VmmSwappedOut UMA histogram for the current session.
+// ---
+
 #include "chrome/browser/ash/arc/vmm/vmm_metrics_provider.h"
 
 #include "base/check_is_test.h"

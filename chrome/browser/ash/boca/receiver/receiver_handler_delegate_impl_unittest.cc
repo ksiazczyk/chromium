@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Receiver handler delegate unit tests
+// summary: Unit tests for ReceiverHandlerDelegateImpl covering IsAppEnabled across missing apps, inactive sessions, and kiosk web app sessions.
+// ---
+
 #include "chrome/browser/ash/boca/receiver/receiver_handler_delegate_impl.h"
 
 #include <memory>

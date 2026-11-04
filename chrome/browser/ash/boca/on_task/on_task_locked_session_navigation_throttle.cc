@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask locked session navigation throttle implementation
+// summary: Implements a navigation throttle that enforces OnTask locked session restrictions, blocking sensitive URLs and disallowed navigations while allowing OAuth logins and one-level-deep navigation.
+// ---
+
 #include "chrome/browser/ash/boca/on_task/on_task_locked_session_navigation_throttle.h"
 
 #include <memory>

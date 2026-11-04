@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Boca receiver
+summary: Restricts includes to chrome/browser/ash/app_mode and allows chrome/test/base only in unittest files.

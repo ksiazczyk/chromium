@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TpmChallengeKey implementation
+// summary: Implements TpmChallengeKey and its factory, orchestrating key preparation, challenge signing and optional key registration for TPM-based Verified Access challenges.
+// ---
+
 #include "chrome/browser/ash/attestation/tpm_challenge_key.h"
 
 #include <memory>

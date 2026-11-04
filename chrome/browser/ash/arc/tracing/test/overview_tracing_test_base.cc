@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview tracing test base implementation
+// summary: Implements the test base class that sets up profiles, WMHelper and time zones and drives commit and present frame events for overview tracing tests.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/test/overview_tracing_test_base.h"
 
 #include <stdlib.h>

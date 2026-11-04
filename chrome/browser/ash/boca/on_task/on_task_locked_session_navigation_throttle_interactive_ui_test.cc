@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OnTask locked session navigation throttle interactive UI tests
+// summary: Interactive UI tests covering navigation blocking, redirects, toasts and OAuth flows for the OnTask locked session navigation throttle.
+// ---
+
 #include <memory>
 #include <optional>
 #include <set>

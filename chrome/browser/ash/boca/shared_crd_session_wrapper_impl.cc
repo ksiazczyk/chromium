@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedCrdSessionWrapperImpl implementation for CRD sessions
+// summary: Implements the shared CRD session wrapper, starting Chrome Remote Desktop hosts with Class Tools kiosk parameters and terminating sessions.
+// ---
+
 #include "chrome/browser/ash/boca/shared_crd_session_wrapper_impl.h"
 
 #include <memory>

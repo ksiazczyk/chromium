@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcVmmManager header
+// summary: Declares the ArcVmmManager keyed service that controls ARCVM vmm swap state and notifies observers of swap transitions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_VMM_ARC_VMM_MANAGER_H_
 #define CHROME_BROWSER_ASH_ARC_VMM_ARC_VMM_MANAGER_H_
 

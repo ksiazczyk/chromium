@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ArcSessionManager
+// summary: Unit tests covering ArcSessionManager behavior, including opt-in flow, provisioning, session start and stop, data removal, and related notifications, using fake DBus clients and test profiles.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_session_manager.h"
 
 #include <memory>

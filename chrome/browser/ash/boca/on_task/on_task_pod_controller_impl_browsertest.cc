@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OnTask pod controller browser tests
+// summary: Browser tests for the OnTask pod controller covering navigation buttons, tab strip toggling, snap locations and metrics.
+// ---
+
 #include "chrome/browser/ash/boca/on_task/on_task_pod_controller_impl.h"
 
 #include <vector>

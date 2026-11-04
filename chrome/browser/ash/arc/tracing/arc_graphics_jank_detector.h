@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: arc_graphics_jank_detector.h
+// summary: Declares ArcGraphicsJankDetector, which detects janks in periodic samples through warm-up, rate detection, and active stages, with a fixed-period mode.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_ARC_GRAPHICS_JANK_DETECTOR_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_ARC_GRAPHICS_JANK_DETECTOR_H_
 

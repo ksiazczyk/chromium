@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the auth directory
+summary: Delegates code ownership of this directory to the ash login lock owners list.

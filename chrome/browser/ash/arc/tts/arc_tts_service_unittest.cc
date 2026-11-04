@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC TTS service unit tests
+// summary: Unit tests for ArcTtsService using a testable TtsController to verify TTS event forwarding and voice change handling.
+// ---
+
 #include "chrome/browser/ash/arc/tts/arc_tts_service.h"
 
 #include <memory>

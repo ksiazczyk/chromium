@@ -4,6 +4,12 @@
 
 // This file contains utility functions for locale change.
 
+// ---docerion
+// type: source
+// title: Locale utility API for Ash
+// summary: Declares the locale_util interface, including SwitchLanguage, LanguageSwitchResult, and functions for checking and filtering allowed UI languages.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BASE_LOCALE_UTIL_H_
 #define CHROME_BROWSER_ASH_BASE_LOCALE_UTIL_H_
 

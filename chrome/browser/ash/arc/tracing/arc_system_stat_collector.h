@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: arc_system_stat_collector.h
+// summary: Declares ArcSystemStatCollector, which samples system statistics and flushes them into an ArcSystemModel with JSON serialization support.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TRACING_ARC_SYSTEM_STAT_COLLECTOR_H_
 #define CHROME_BROWSER_ASH_ARC_TRACING_ARC_SYSTEM_STAT_COLLECTOR_H_
 

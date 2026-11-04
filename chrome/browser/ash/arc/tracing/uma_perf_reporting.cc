@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA performance reporting implementation
+// summary: Implements scheduling of ARC app performance tracing sessions and reporting of FPS, jank, and quality metrics to UMA histograms.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/uma_perf_reporting.h"
 
 #include "base/logging.h"

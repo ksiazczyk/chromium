@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for certificate expiry checking
+// summary: Tests CheckCertificateExpiry across valid, expiring soon, expired, empty, and malformed PEM certificate chains using fake certificates.
+// ---
+
 #include "chrome/browser/ash/attestation/certificate_util.h"
 
 #include <string>

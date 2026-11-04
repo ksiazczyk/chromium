@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask extensions manager implementation
+// summary: Implements disabling and re-enabling of profile extensions for OnTask sessions, persisting disabled extension IDs in prefs to survive crashes or reboots.
+// ---
+
 #include "chrome/browser/ash/boca/on_task/on_task_extensions_manager_impl.h"
 
 #include "ash/constants/ash_features.h"

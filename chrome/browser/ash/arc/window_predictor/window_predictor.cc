@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the ARC window predictor
+// summary: Implements the WindowPredictor singleton that launches ARC ghost windows, predicts window parameters, and records UMA launch metrics.
+// ---
+
 #include "chrome/browser/ash/arc/window_predictor/window_predictor.h"
 
 #include "base/metrics/histogram_functions.h"

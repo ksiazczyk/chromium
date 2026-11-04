@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC TTS service implementation
+// summary: Implements the ARC TTS service, forwarding Android text-to-speech events and voice changes to Chrome's TTS controller with locale canonicalization.
+// ---
+
 #include "chrome/browser/ash/arc/tts/arc_tts_service.h"
 
 #include <utility>

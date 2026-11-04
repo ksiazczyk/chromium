@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview tracing test handler implementation
+// summary: Implements a test overview tracing handler that fakes tracing controller responses, controllable clocks and app window listing for testing.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/test/overview_tracing_test_handler.h"
 
 namespace arc {

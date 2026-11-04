@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ArcSessionManager factory implementation
+// summary: Creates an ArcSessionManager configured for unit tests, treating property file expansion as already completed.
+// ---
+
 #include "chrome/browser/ash/arc/test/test_arc_session_manager.h"
 
 #include <utility>

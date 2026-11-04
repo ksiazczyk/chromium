@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca caption bubble context header
+// summary: Declares the CaptionBubbleContextBoca class, a CaptionBubbleContextAsh subclass that provides a Boca session ID for caption bubbles.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOCA_BABELORCA_CAPTION_BUBBLE_CONTEXT_BOCA_H_
 #define CHROME_BROWSER_ASH_BOCA_BABELORCA_CAPTION_BUBBLE_CONTEXT_BOCA_H_
 

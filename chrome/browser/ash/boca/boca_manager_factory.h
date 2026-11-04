@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BocaManagerFactory class declaration
+// summary: Declares BocaManagerFactory, a singleton ProfileKeyedServiceFactory that builds and owns BocaManager per profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOCA_BOCA_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_ASH_BOCA_BOCA_MANAGER_FACTORY_H_
 

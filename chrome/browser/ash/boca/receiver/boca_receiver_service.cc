@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca receiver service implementation
+// summary: Implements BocaReceiverService, wiring an FCM invalidation handler and the Spotlight remoting client manager, with shutdown handling.
+// ---
+
 #include "chrome/browser/ash/boca/receiver/boca_receiver_service.h"
 
 #include <memory>

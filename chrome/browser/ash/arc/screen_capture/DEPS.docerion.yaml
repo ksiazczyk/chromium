@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC screen capture
+summary: Restricts //chrome dependencies per ChromeOS rules while allowing this directory's own headers and specific existing //chrome includes.

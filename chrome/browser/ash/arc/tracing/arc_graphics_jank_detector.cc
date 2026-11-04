@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: arc_graphics_jank_detector.cc
+// summary: Implements the graphics jank detector that flags samples whose duration exceeds the detected normal period by a set threshold.
+// ---
+
 #include "chrome/browser/ash/arc/tracing/arc_graphics_jank_detector.h"
 
 #include <algorithm>

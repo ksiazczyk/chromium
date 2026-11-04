@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ARC VMM directory
+summary: Defines include dependency rules for the ARC VMM directory, blocking //chrome by default with explicitly listed exceptions.

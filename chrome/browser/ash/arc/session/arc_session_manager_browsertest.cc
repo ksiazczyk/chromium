@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC session manager browser tests
+// summary: Browser tests covering ArcSessionManager behavior such as Play Store preference changes, data removal waiting, and audio mute and unmute metrics.
+// ---
+
 #include "chrome/browser/ash/arc/session/arc_session_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC TTS service class declaration
+// summary: Declares ArcTtsService, a keyed service that provides text-to-speech events and voices to Chrome OS via Android's TTS API.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_TTS_ARC_TTS_SERVICE_H_
 #define CHROME_BROWSER_ASH_ARC_TTS_ARC_TTS_SERVICE_H_
 

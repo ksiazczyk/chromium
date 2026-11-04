@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask pod controller header
+// summary: Declares OnTaskPodControllerImpl, which owns the OnTask pod widget and handles navigation, tab strip visibility, snapping and pause mode changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_BOCA_ON_TASK_ON_TASK_POD_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_ASH_BOCA_ON_TASK_ON_TASK_POD_CONTROLLER_IMPL_H_
 

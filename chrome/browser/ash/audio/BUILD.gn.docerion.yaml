@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the ChromeOS audio browser code
+summary: Defines the audio static library plus browser test and unit test targets with their source files and dependencies.

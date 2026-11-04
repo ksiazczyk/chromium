@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment certificate uploader interface
+// summary: Defines the abstract EnrollmentCertificateUploader interface that obtains a fresh enrollment certificate and uploads it, reporting a status via callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ATTESTATION_ENROLLMENT_CERTIFICATE_UPLOADER_H_
 #define CHROME_BROWSER_ASH_ATTESTATION_ENROLLMENT_CERTIFICATE_UPLOADER_H_
 

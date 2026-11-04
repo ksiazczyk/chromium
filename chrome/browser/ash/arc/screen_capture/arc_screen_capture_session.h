@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC screen capture session header
+// summary: Declares ArcScreenCaptureSession, which implements the Mojo ScreenCaptureSession interface and observes compositor animation, context loss, and display events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_SCREEN_CAPTURE_ARC_SCREEN_CAPTURE_SESSION_H_
 #define CHROME_BROWSER_ASH_ARC_SCREEN_CAPTURE_ARC_SCREEN_CAPTURE_SESSION_H_
 

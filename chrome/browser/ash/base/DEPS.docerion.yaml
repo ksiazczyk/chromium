@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for ash base
+summary: Sets DEPS include rules blocking //chrome dependencies for ChromeOS code, with allowances for this directory, specific subdirectories, and the browser test.
