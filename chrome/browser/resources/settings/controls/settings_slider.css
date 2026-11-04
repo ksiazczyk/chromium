@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: settings-slider styles
+summary: Lit styles for the slider covering layout, begin and end labels, and platform-specific disabled label colors.
+*/
+
 :host {
   display: inline-flex;
 }

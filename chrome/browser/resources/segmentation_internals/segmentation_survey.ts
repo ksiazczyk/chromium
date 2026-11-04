@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation survey redirect logic
+// summary: TypeScript that validates an allowlisted survey URL, runs the metrics clustering model, and redirects the user to the survey with encoded prediction results or a network error page.
+// ---
+
 import {browserProxyFactory} from './segmentation_internals.mojom-webui.js';
 import type {ClientInfo, SegmentInfo} from './segmentation_internals.mojom-webui.js';
 

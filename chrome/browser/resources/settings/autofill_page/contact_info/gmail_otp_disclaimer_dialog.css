@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Gmail OTP disclaimer dialog styles
+summary: Styles for the Gmail OTP disclaimer dialog, defining dialog dimensions, padding and typography for the title and list items.
+*/
+
 cr-dialog {
   --cr-dialog-body-padding-horizontal: 20px;
   --cr-dialog-border-radius: 12px;

@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit settings-shared-lit passwords-shared autofill-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Passkeys page styles
+summary: Lit CSS styles for the passkeys management settings page, aligning list header columns and sizing favicon icon containers.
+*/
+
 #passkeys-list-header {
   /* This adds enough padding so that the labels are aligned with the
    * columns. It is necessary due to the absence of the "more actions"

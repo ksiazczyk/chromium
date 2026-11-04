@@ -7,6 +7,12 @@
  * settings pages.
  */
 
+// ---docerion
+// type: source
+// title: Tooltip mixin for Polymer settings elements
+// summary: Polymer mixin providing shared tooltip show and hide behavior for various settings pages.
+// ---
+
 import type {CrTooltipElement} from 'chrome://resources/cr_elements/cr_tooltip/cr_tooltip.js';
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

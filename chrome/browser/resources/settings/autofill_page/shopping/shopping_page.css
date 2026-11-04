@@ -9,6 +9,12 @@
  * #include=settings-shared-lit autofill-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shopping page styles
+summary: Lit CSS for the shopping autofill settings subpage, importing shared style modules and styling the page cards.
+*/
+
 .card {
   overflow: hidden;
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home URL input element for the homepage preference
+// summary: Lit custom element providing a single-line text field for editing the homepage preference, mirroring the pref value and handling validity and keyboard interactions.
+// ---
+
 /**
  * @fileoverview
  * `home-url-input` is a single-line text field intending to be used with

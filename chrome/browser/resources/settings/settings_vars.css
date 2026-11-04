@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: CSS variables for Settings UI
+summary: Defines settings CSS custom properties for colors, icons and theming, with dark mode and Settings Refresh 2026 variants.
+*/
+
 /* We keep our vars in sort order, though some vars must be defined prior to
  * others. The --settings-* vars are defined explicitly prior to the --paper-*
  * and --iron-* vars.

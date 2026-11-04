@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: AI page styles
+summary: Lit CSS styles for the settings AI page element, setting host display and bottom padding.
+*/
+
 :host {
   display: block;
   padding-bottom: 24px;

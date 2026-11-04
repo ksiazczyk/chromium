@@ -1,0 +1,4 @@
+# Docerion header of settings_radio_group.html.
+type: source
+title: settings-radio-group HTML template
+summary: Template wrapping a cr-radio-group with a slot for radio buttons and selected-change event handling.

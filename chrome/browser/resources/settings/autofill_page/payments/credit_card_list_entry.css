@@ -11,6 +11,12 @@
  * #include=settings-shared-lit autofill-shared-lit screen-reader-only-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Credit card list entry styles
+summary: Lit CSS styles for the credit card list entry row, laying out the card image, summary labels, expiration, and action columns.
+*/
+
 .expiration-column,
 .misc-column {
   align-items: center;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Autofill settings directory metadata
+summary: Declares the monorail component, team email and Buganizer components used for issues in this directory.

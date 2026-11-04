@@ -7,6 +7,12 @@
  * editing or creating a credit card entry.
  */
 
+// ---docerion
+// type: source
+// title: Credit card edit dialog element
+// summary: Settings element implementing the dialog for creating and editing credit card entries, including card number validation, expiration checks, and nickname rules.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/cr_elements/cr_input/cr_input.js';

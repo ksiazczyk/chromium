@@ -7,6 +7,12 @@
  * addresses for use in autofill and payments APIs.
  */
 
+// ---docerion
+// type: source
+// title: Contact info page element
+// summary: Lit element implementing the settings-contact-info-page that manages saved addresses for autofill, including toggles, metrics and dialogs.
+// ---
+
 import 'chrome://resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';

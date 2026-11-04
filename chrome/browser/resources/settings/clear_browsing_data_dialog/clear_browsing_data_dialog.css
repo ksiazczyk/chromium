@@ -9,6 +9,12 @@
  * #import=../settings_shared_lit.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Clear browsing data dialog styles
+summary: Lit CSS styles for the clear browsing data dialog, covering the checkbox container, show-more button, spinner, and dialog layout.
+*/
+
 :host {
   --cr-dialog-button-container-padding-bottom: 20px;
   --cr-dialog-button-container-padding-horizontal: 20px;

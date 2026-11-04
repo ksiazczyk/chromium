@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit settings-columned-section-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the AI info card
+summary: Lit CSS defining colors, typography, and layout for the settings-ai-info-card element, including dark mode and forced-colors handling.
+*/
+
 :host {
   --cr-icon-size: 16px;
   --info-card-background-color: var(--google-blue-50);

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI entries list template
+// summary: Lit HTML template listing Autofill AI entity instances with add, edit and delete actions and Google Wallet indicators.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsAutofillAiEntriesListElement} from './autofill_ai_entries_list.js';

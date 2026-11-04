@@ -10,6 +10,12 @@
  * of Windows.
  */
 
+// ---docerion
+// type: source
+// title: Live Caption settings component
+// summary: Defines the settings-live-caption element handling Live Caption enablement, SODA model download status, and language preferences on accessibility and captions subpages.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_collapse/cr_collapse.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';

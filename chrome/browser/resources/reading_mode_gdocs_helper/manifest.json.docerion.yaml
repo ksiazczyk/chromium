@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the Reading Mode Google Docs Helper extension
+summary: Manifest v3 defining the extension's content scripts on Google Docs pages and its web-accessible resources for non-Lacros platforms.

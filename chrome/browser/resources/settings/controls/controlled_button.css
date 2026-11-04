@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Controlled button styles
+summary: Styles the controlled button, laying out the policy indicator and disabling pointer events when the preference is enforced.
+*/
+
 :host {
   --justify-margin: 8px;
   align-items: center;

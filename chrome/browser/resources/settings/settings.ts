@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings main module re-exports
+// summary: Entry module that imports the settings UI and re-exports shared proxies, mixins, prefs, and element classes used across the settings WebUI.
+// ---
+
 import './settings_ui/settings_ui.js';
 
 export {CrPolicyPrefIndicatorElement} from '/shared/settings/controls/cr_policy_pref_indicator.js';

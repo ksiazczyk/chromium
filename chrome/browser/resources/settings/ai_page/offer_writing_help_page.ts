@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offer writing help settings page element
+// summary: Lit element implementing the AI compose settings subpage, handling the proactive nudge toggle, disabled sites pref, and metrics.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import './ai_logging_info_bullet.js';

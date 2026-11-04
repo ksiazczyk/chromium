@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit settings-columned-section-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Collapsible autofill settings card styles
+summary: CSS styles for the collapsible autofill settings card, defining separators for the header text, expanded content and opt-in authentication toggle.
+*/
+
 #header-text {
   border-inline-end: var(--cr-separator-line);
 }

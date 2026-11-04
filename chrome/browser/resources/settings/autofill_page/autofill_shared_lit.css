@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared styles for autofill settings pages
+summary: Shared Lit CSS defining card, list-with-header, type column and ellipsis styles reused across autofill settings components.
+*/
+
 .multi-card > .card {
   background-color: var(--cr-card-background-color);
   border-radius: var(--cr-card-border-radius);

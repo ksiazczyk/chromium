@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IBAN list entry HTML template
+// summary: Lit HTML template rendering an IBAN row with its image, labels, screen reader description, Google Payments indicator, and dots menu or remote edit link.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsIbanListEntryElement} from './iban_list_entry.js';

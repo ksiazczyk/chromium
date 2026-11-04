@@ -11,6 +11,12 @@
  * #include=settings-shared-lit autofill-shared-lit screen-reader-only-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Pay over time issuer list entry styles
+summary: Styles for the pay over time issuer list entry, covering the misc column, list item spacing, sub-label color, and issuer image alignment.
+*/
+
 .misc-column {
   align-items: center;
   display: flex;

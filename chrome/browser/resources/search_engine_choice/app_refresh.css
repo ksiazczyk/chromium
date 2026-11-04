@@ -10,6 +10,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Refresh search engine choice app styles
+summary: Styles for the refreshed search engine choice page with showcase layout, backgrounds and responsive modes.
+*/
+
 :host {
   --bg-bottom-url: url(images/refresh_bg_bottom_light.svg);
   --bg-right-url: url(images/refresh_bg_right_light.svg);

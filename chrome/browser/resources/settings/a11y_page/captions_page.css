@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Captions page styles
+summary: Lit CSS wrapper for the captions settings page, including layout and styling of the caption preview box.
+*/
+
 .cr-row-no-top-gap {
   margin-bottom: var(--cr-section-vertical-margin);
   min-height: auto;

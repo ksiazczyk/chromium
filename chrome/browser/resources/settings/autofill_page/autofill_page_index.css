@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the autofill page index
+summary: Lit CSS for the autofill page index that hides views marked hidden-by-search inside the cr-view-manager.
+*/
+
 cr-view-manager [hidden-by-search],
 cr-view-manager[show-all] [slot=view][data-parent-view-id] {
   display: none;

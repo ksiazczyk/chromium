@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the category reference card
+summary: Lit CSS styling the category reference card, including its chips grid, chip buttons, icons and item counters.
+*/
+
 :host {
   background-color: var(--cr-card-background-color);
   box-shadow: var(--cr-card-shadow);

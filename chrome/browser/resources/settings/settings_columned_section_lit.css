@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Columned section Lit styles
+summary: Lit CSS defining the settings columned section layout, including 2026 refresh card styling, dark mode, and forced colors support.
+*/
+
 .settings-columned-section {
   display: flex;
   gap: 16px;

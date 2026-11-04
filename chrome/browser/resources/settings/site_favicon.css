@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Site favicon styles
+summary: CSS for the site-favicon element, sizing and shaping the favicon background image.
+*/
+
 #favicon {
   background-repeat: no-repeat;
   background-size: contain;

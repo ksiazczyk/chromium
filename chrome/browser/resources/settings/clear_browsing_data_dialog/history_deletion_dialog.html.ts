@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History deletion dialog HTML template
+// summary: Lit HTML template for the settings-history-deletion-dialog shown after deleting browsing history.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsHistoryDeletionDialogElement} from './history_deletion_dialog.js';

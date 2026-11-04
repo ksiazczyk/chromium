@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI policy indicator element
+// summary: Lit element that informs the user when an AI feature is controlled by enterprise policy, with a helper to evaluate policy-disabled state.
+// ---
+
 /**
  * @fileoverview
  * 'settings-ai-policy-indicator' is an indicator that informs the user if the

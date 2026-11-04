@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS referencing safe_browsing owners
+summary: Delegates code ownership of this directory to the OWNERS file of the components/safe_browsing component.

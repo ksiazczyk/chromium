@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings search and highlight logic
+// summary: Traverses the settings DOM including shadow roots to find text matching a search query and applies highlight bubbles and visibility changes.
+// ---
+
 // clang-format off
 import {assert} from 'chrome://resources/js/assert.js';
 

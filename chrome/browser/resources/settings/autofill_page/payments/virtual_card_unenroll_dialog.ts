@@ -9,6 +9,12 @@
  * feature.
  */
 
+// ---docerion
+// type: source
+// title: Virtual card unenroll dialog element
+// summary: Implements the settings-virtual-card-unenroll-dialog element that asks for user confirmation before unenrolling a card from the virtual card feature.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 

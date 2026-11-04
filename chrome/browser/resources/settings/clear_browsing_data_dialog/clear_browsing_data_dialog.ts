@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear browsing data dialog element
+// summary: Lit element implementing the clear browsing data dialog that lets users delete browsing data cached by Chromium.
+// ---
+
 /**
  * @fileoverview 'settings-clear-browsing-data-dialog' allows the user to
  * delete browsing data that has been cached by Chromium.

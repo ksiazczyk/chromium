@@ -7,6 +7,12 @@
  * to interact with the browser.
  */
 
+// ---docerion
+// type: source
+// title: Clear browsing data browser proxy
+// summary: Browser proxy for the clear browsing data dialog, defining time period and data type enums plus methods to clear data and restart counters.
+// ---
+
 // clang-format off
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 // clang-format on

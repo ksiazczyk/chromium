@@ -11,6 +11,12 @@
  * #include=cr-icons-lit tangible-sync-style-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Search engine choice app styles
+summary: Lit CSS styles for the search engine choice page, covering layout, choice list, banners and buttons.
+*/
+
 :host {
   --background-color: white;
   --search-engine-icon-size: 24px;

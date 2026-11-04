@@ -4,6 +4,12 @@
 
 // Frontend for chrome://reset-password/ WebUI page.
 
+// ---docerion
+// type: source
+// title: Reset password WebUI frontend
+// summary: TypeScript frontend for the reset password WebUI page that wires the reset button to the password reset handler via Mojo.
+// ---
+
 import 'chrome://resources/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/cr_elements/icons.html.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

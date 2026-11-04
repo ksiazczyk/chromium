@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Settings UI GN build configuration
+summary: Defines the GN build targets for the Settings WebUI, listing static files, web component sources and generated resources.

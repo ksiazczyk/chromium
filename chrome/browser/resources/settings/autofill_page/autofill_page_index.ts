@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill page index element
+// summary: Settings index element that switches between saved-info subviews based on the current route and requests data management surveys.
+// ---
+
 /**
  * @fileoverview
  * 'settings-autofill-page-index' is the settings page containing

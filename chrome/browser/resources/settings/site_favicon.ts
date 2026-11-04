@@ -7,6 +7,12 @@
  * site URL.
  */
 
+// ---docerion
+// type: source
+// title: Site favicon element
+// summary: Defines the site-favicon element that displays the favicon for a given site URL or URL pattern.
+// ---
+
 import {getFavicon, getFaviconForPageURL} from 'chrome://resources/js/icon.js';
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the segmentation internals WebUI
+summary: GN build rules that compile the segmentation internals WebUI, wiring static HTML, TypeScript sources, and generated Mojo bindings into the build.

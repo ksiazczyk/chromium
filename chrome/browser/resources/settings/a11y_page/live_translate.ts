@@ -10,6 +10,12 @@
  * other versions of Windows.
  */
 
+// ---docerion
+// type: source
+// title: Live Translate settings component
+// summary: Defines the settings-live-translate element with an enable toggle, translatable language options from the language helper, and enablement metrics recording.
+// ---
+
 import '//resources/cr_elements/cr_collapse/cr_collapse.js';
 import '../controls/settings_dropdown_menu.js';
 import '../controls/settings_toggle_button.js';

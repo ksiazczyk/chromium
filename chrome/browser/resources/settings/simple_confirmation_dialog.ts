@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple confirmation dialog element
+// summary: Defines the settings-simple-confirmation-dialog Lit element, a generic dialog to confirm or cancel a user action.
+// ---
+
 /**
  * @fileoverview 'settings-simple-confirmation-dialog' is a generic
  * component for confirming an action the user has taken, given them an

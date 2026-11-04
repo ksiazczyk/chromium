@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI site add dialog template
+// summary: Lit HTML template for the add-site dialog with a site input, validation error display, and cancel and add buttons.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {AiSiteAddDialogElement} from './ai_site_add_dialog.js';

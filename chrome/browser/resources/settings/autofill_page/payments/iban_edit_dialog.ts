@@ -7,6 +7,12 @@
  * editing or creating an IBAN entry.
  */
 
+// ---docerion
+// type: source
+// title: IBAN edit dialog element
+// summary: Settings element implementing the dialog for creating and editing IBAN entries, with IBAN structure validation and nickname input handling.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/cr_elements/cr_input/cr_input.js';

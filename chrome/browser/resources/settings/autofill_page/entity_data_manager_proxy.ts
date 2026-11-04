@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity data manager proxy
+// summary: Wrapper interface around the autofillPrivate API for managing entity instances, Autofill AI and walletable pass opt-in status, and pass upsert details.
+// ---
+
 type AccountInfo = chrome.autofillPrivate.AccountInfo;
 type AttributeType = chrome.autofillPrivate.AttributeType;
 type EntityInstance = chrome.autofillPrivate.EntityInstance;

@@ -7,6 +7,12 @@
  * editing a passkey.
  */
 
+// ---docerion
+// type: source
+// title: Passkey edit dialog element
+// summary: Lit element implementing the dialog for viewing and editing a passkey's username, validating input and firing a saved-passkey-edited event.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/cr_elements/cr_input/cr_input.js';

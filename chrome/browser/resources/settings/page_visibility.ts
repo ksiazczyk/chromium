@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings page visibility definitions
+// summary: Defines interfaces and a factory that determine which settings pages are visible, particularly in Chrome OS guest mode.
+// ---
+
 import {loadTimeData} from './i18n_setup.js';
 
 /**

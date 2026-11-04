@@ -9,6 +9,12 @@
  * #include=cr-radio-button-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Controlled radio button styles
+summary: Styles the controlled radio button, dimming the disc and label when disabled while keeping the policy indicator visible.
+*/
+
 :host([disabled]) {
   opacity: 1;
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card unenroll dialog template
+// summary: Lit HTML template for the confirmation dialog shown when removing a virtual card, with cancel and confirm buttons.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsVirtualCardUnenrollDialogElement} from './virtual_card_unenroll_dialog.js';

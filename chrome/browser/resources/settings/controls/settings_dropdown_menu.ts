@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: settings-dropdown-menu element
+// summary: Custom element dropdown menu that displays options and synchronizes the selected value with a preference, with optional deferred pref changes.
+// ---
+
 /**
  * 'settings-dropdown-menu' is a control for displaying options
  * in the settings.

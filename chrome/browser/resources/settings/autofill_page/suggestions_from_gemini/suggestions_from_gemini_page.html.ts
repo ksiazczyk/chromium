@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions from Gemini page HTML template
+// summary: Lit HTML template for the Chrome settings subpage that renders toggles for Gemini autofill suggestions, a double-Ctrl shortcut input, and quality logging information cards.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSuggestionsFromGeminiPageElement} from './suggestions_from_gemini_page.js';

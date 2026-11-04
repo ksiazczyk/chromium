@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active timer for user engagement metrics
+// summary: Tracks how long a user actively engages with a page using the Page Lifecycle API and emits a duration metric when the page is closed or hidden.
+// ---
+
 /**
  * Tracks the amount of time a user actively engages with a page.
  *

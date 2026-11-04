@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Account card styles
+summary: Styles the account card on the autofill settings page, covering the profile icon, link row and sync promo banner.
+*/
+
 #profile-icon {
   background: center / cover no-repeat;
   border-radius: 20px;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity docs settings page element
+// summary: Lit element for the settings-identity-docs-page subpage that manages autofill of identity documents such as driver's licenses, passports, and national ID cards, including opt-in state and policy handling.
+// ---
+
 /**
  * @fileoverview 'settings-identity-docs-page', is a subpage of the "Your saved
  * info" section. It manages the user's autofill data for identity documents.

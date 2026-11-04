@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card list entry HTML template
+// summary: Lit HTML template for the credit card list entry row, showing card image, summary labels, benefits terms link, Google Pay branding, and action buttons.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsCreditCardListEntryElement} from './credit_card_list_entry.js';

@@ -1,0 +1,4 @@
+# Docerion header of toggle_animation.json.
+type: asset
+title: Screen sharing toggle animation
+summary: Lottie animation data defining the toggle animation, including check mark and cursor layers, for the screen sharing UI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: settings-checkbox element
+// summary: Custom element providing a checkbox bound to a preference, with sub-label accessibility handling and pref value updates via prefKey.
+// ---
+
 /**
  * @fileoverview
  * `settings-checkbox` is a checkbox that controls a supplied preference.

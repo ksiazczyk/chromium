@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox status page logic for Android and Linux
+// summary: Populates the sandbox status table and overall evaluation on Android and Linux/ChromeOS, reporting SELinux context, seccomp and sandbox type status.
+// ---
+
 // <if expr="is_linux or is_chromeos">
 import '/strings.m.js';
 

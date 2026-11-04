@@ -9,6 +9,12 @@
  * autofill functionality entirely.
  */
 
+// ---docerion
+// type: source
+// title: Settings travel page element
+// summary: Lit element for the settings-travel-page subpage that manages travel autofill AI entities, opt-in preferences, metrics, and enterprise policies.
+// ---
+
 import 'chrome://resources/cr_elements/cr_link_row/cr_link_row.js';
 import '/shared/settings/controls/extension_controlled_indicator.js';
 import '../../controls/settings_toggle_button.js';

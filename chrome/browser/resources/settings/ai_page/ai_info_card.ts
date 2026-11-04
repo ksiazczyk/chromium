@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI info card element
+// summary: Defines the settings-ai-info-card custom element that shows the top info card in the AI settings page, adapting icons for managed state.
+// ---
+
 /**
  * @fileoverview
  * 'settings-ai-info-card' is the top info card in AI settings page.

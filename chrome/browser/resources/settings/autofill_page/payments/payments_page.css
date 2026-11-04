@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit settings-shared-lit autofill-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Payments page CSS styles
+summary: Defines styles for the settings payments page, including the expiration column, sort arrow icon, and payment list layout.
+*/
+
 .expiration-column {
   align-items: center;
   display: flex;

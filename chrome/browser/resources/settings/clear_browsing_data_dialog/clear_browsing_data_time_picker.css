@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Time picker styles
+summary: Lit CSS styles for the clear browsing data time picker, defining dropdown item padding and time period chips.
+*/
+
 :host {
   --cr-menu-border-radius: 12px;
 }

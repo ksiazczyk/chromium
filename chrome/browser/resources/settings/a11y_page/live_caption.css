@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Live Caption component styles
+summary: CSS for the settings-live-caption element, overriding row padding, stretching the toggle button width, and styling the language dropdown and sub-items.
+*/
+
 /* Override the default padding of a cr-row to 0. The template inside has
    left and right padding. */
 .cr-row-with-template {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled radio button element
+// summary: Defines the controlled-radio-button Lit element that disables itself for enforced preferences and shows the policy indicator for the selected value.
+// ---
+
 import '/shared/settings/controls/cr_policy_pref_indicator.js';
 
 import {CrRadioButtonMixinLit} from '//resources/cr_elements/cr_radio_button/cr_radio_button_mixin_lit.js';

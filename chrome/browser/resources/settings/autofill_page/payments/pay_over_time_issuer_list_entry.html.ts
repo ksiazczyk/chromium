@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pay over time issuer list entry HTML template
+// summary: Lit HTML template rendering a pay over time issuer row with its issuer image, Google Payments indicator, and a remote link to manage payment methods.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsPayOverTimeIssuerListEntryElement} from './pay_over_time_issuer_list_entry.js';

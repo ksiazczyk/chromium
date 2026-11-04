@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_refresh.html.
+type: source
+title: Search engine choice refresh WebUI entry page
+summary: HTML entry page for the refresh variant of the search engine choice WebUI that renders the refresh app element and loads app_refresh.js.

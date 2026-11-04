@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captions page Lit template
+// summary: Lit HTML template for the captions settings subpage with dropdowns for caption size, font, color, opacity, and shadow plus a live preview.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsCaptionsPageElement} from './captions_page.js';

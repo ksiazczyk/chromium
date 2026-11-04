@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear browsing data time picker element
+// summary: Lit element for the settings-clear-browsing-data-time-picker that offers time period options for the Clear Browsing Data dialog and maps them to localized strings.
+// ---
+
 /**
  * @fileoverview 'settings-clear-browsing-data-time-picker' is a control that
  * displays time period options for 'settings-clear-browsing-data-dialog'.

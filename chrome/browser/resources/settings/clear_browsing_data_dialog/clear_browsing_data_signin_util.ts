@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear browsing data sign-in utilities
+// summary: Helper functions that determine whether the user is signed in to Chrome and whether deletion will affect account data.
+// ---
+
 import {assertNotReachedCase} from '//resources/js/assert.js';
 import type {SyncStatus} from '/shared/settings/people_page/sync_browser_proxy.js';
 import {SignedInState, StatusAction} from '/shared/settings/people_page/sync_browser_proxy.js';

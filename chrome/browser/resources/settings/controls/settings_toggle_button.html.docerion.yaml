@@ -1,0 +1,4 @@
+# Docerion header of settings_toggle_button.html.
+type: source
+title: Settings toggle button HTML template
+summary: HTML template with styles and markup for the settings-toggle-button row, including label, sub-label, learn-more link, policy indicator and cr-toggle.

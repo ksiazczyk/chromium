@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address edit dialog element
+// summary: Lit element implementing the settings-address-edit-dialog that lets users edit a saved address, with country handling, validation and save logic.
+// ---
+
 /**
  * @fileoverview 'address-edit-dialog' is the dialog that allows editing a saved
  * address.

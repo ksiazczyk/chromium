@@ -13,6 +13,12 @@
  * #include=cr-shared-style-lit settings-shared-lit autofill-shared-lit cr-spinner-style-lit settings-columned-section-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Contact info page styles
+summary: Styles for the contact info settings page, covering the address list, autofill toggles, dropdown items and the Gmail OTP filling loading row.
+*/
+
 #addressList .start {
   display: flex;
   overflow: hidden;

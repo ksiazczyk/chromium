@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Live Translate component styles
+summary: CSS for the settings-live-translate element, adjusting row padding, toggle button widths, and subsection spacing.
+*/
+
 /* Override the default padding of a cr-row to 0. The template inside has
    left and right padding. */
 .cr-row-with-template {

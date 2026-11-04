@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the AI Mode search settings page
+summary: Lit CSS for the AI Mode search settings section, styling separators, padded text, and the policy indicator.
+*/
+
 .separator {
   margin: 0 4px;
 }

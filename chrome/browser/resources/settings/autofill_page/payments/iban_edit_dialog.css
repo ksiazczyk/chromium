@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: IBAN edit dialog styles
+summary: Lit CSS styles for the IBAN edit dialog, defining input widths, spacing, and nickname character count styling.
+*/
+
 cr-input {
   /* Larger cr-input margin (by reserving space for error display). */
   --cr-input-error-display: block;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI page HTML template
+// summary: Lit HTML template for the AI settings page, rendering link rows for AI features such as compose, history search, dictation, and on-device AI toggles.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsAiPageElement} from './ai_page.js';

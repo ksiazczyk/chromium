@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX annotations section Lit template
+// summary: Lit HTML template for the settings toggle that enables main node accessibility annotations.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsAxAnnotationsSectionElement} from './ax_annotations_section.js';

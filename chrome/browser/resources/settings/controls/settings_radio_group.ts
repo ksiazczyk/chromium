@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: settings-radio-group element
+// summary: Custom element wrapping cr-radio-group so a set of radio buttons controls a supplied preference value.
+// ---
+
 /**
  * @fileoverview
  * `settings-radio-group` wraps cr-radio-group and set of radio-buttons that

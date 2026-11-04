@@ -1,0 +1,4 @@
+# Docerion header of sandbox_internals.html.
+type: source
+title: Sandbox Status internals page markup
+summary: HTML page for the Sandbox Status internals view, defining the status table, evaluation paragraph, color-coded styles, and platform-specific script loading for Windows and other platforms.

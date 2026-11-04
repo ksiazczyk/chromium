@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pref key observer mixin for Lit settings elements
+// summary: Lit mixin that maps a prefKey to a pref object by observing the preference service, forbidding direct pref assignment or reassignment of the key.
+// ---
+
 import type {CrLitElement, PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 import {PrefServiceObserverMixinLit} from '/shared/settings/prefs2/pref_service_observer_mixin_lit.js';
 import type {PrefServiceObserverMixinLitInterface} from '/shared/settings/prefs2/pref_service_observer_mixin_lit.js';

@@ -8,6 +8,12 @@
  * #include=md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: settings-dropdown-menu styles
+summary: Lit styles for the dropdown menu covering layout, policy indicator ordering and hiding of disabled custom options.
+*/
+
 :host {
   align-items: center;
   display: inline-flex;

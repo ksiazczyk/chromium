@@ -7,6 +7,12 @@
  * information.
  */
 
+// ---docerion
+// type: source
+// title: About page element
+// summary: Implements the settings-about-page element that shows version and OS information and handles update status, relaunch and related actions.
+// ---
+
 import '/shared/settings/prefs/prefs.js';
 // <if expr="not is_chromeos">
 import '../relaunch_confirmation_dialog.js';

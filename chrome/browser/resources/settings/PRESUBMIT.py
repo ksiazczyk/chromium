@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for Settings UI
+# summary: Runs a presubmit check that disallows <include> tags in Settings, requiring HTML imports instead.
+# ---
+
 
 def _CheckChangeOnUploadOrCommit(input_api, output_api):
   import sys

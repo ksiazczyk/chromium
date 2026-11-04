@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search engine choice WebUI build rules
+summary: GN build file that compiles the search engine choice WebUI sources, styles, images and Mojo dependencies.

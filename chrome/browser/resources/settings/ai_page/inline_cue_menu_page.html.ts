@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inline cue menu page HTML template
+// summary: Lit HTML template for the inline cue menu settings subpage with a preview, main toggle, and blocked site exceptions list with add dialog.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import {ContentSetting, ContentSettingsTypes} from '../site_settings/constants.js';

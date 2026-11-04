@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the AI info card
+// summary: Lit template rendering the AI info card's title, consideration bullets, and a managed learn-more link.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsAiInfoCardElement} from './ai_info_card.js';

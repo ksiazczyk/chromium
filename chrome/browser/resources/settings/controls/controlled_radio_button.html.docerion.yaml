@@ -1,0 +1,4 @@
+# Docerion header of controlled_radio_button.html.
+type: source
+title: Controlled radio button HTML template
+summary: Lit HTML template for the controlled radio button covering the radio disc, label and slotted content, and the policy pref indicator.

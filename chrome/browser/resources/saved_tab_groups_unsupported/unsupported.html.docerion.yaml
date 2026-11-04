@@ -1,0 +1,4 @@
+# Docerion header of unsupported.html.
+type: source
+title: Unsupported saved tab groups error page
+summary: Minimal WebUI HTML page that shows a localized error message when saved tab groups are not supported.

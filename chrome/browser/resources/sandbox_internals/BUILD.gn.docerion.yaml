@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sandbox internals WebUI build definition
+summary: GN build file that defines the sandbox_internals WebUI target, selecting platform-specific TypeScript sources and Android type definitions.

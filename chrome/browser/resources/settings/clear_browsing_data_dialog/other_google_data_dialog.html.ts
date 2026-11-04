@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Other Google data dialog HTML template
+// summary: Lit HTML template for the settings-other-google-data-dialog, listing links to manage passwords, search history, and activity in Google services.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsOtherGoogleDataDialogElement} from './other_google_data_dialog.js';

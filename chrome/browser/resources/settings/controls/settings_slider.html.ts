@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings slider Lit HTML template
+// summary: Lit HTML template function for the settings-slider element, rendering a cr-slider with a policy pref indicator, markers and min/max labels.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSliderElement} from './settings_slider.js';

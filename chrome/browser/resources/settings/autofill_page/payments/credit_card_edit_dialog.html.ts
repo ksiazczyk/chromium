@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card edit dialog HTML template
+// summary: Lit HTML template for the credit card edit dialog, rendering card number, expiration, CVC, name, and nickname inputs with save and cancel buttons.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsCreditCardEditDialogElement} from './credit_card_edit_dialog.js';

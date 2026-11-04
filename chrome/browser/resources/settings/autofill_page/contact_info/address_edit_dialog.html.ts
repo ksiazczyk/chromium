@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address edit dialog HTML template
+// summary: Lit HTML template for the address edit dialog, rendering the country selector, dynamic address field rows, notices and save or cancel buttons.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsAddressEditDialogElement} from './address_edit_dialog.js';

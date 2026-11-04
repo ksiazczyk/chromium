@@ -11,6 +11,12 @@
  * #import=../settings_shared_lit.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Account indicator styles
+summary: Lit CSS styles for the clear browsing data account indicator, defining the avatar row layout and account icon sizing.
+*/
+
 :host {
   --cr-section-padding: 0;
   --shown-avatar-size: 40px;

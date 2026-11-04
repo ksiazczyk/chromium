@@ -9,6 +9,12 @@
  * #include=settings-shared-lit autofill-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Identity docs page CSS styles
+summary: Lit CSS module for the identity documents settings subpage, wrapping shared settings and autofill styles and defining the card layout.
+*/
+
 .card {
   overflow: hidden;
 }

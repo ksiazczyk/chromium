@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the AI Mode search settings page
+// summary: Lit template with the share-open-tabs toggle, managed-disabled state, excluded sites list, and add, edit, and remove actions.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsAiModeSearchPageElement} from './ai_mode_search_page.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About page HTML template
+// summary: Lit HTML template that renders the About page with product logo, update status messages, relaunch button and help, feedback and privacy links.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {RestartType} from '../relaunch_mixin_lit.js';

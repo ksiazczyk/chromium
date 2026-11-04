@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Translate component HTML template
+// summary: Lit HTML template for the settings-live-translate element, rendering the enable toggle and a target language dropdown bound to the live translate preference.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsLiveTranslateElement} from './live_translate.js';

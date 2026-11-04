@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings route definitions
+// summary: Defines the settings navigation routes, creating privacy, site settings, security, and other child routes under their parent sections.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {loadTimeData} from './i18n_setup.js';

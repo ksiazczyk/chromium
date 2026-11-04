@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled button element
+// summary: Defines the controlled-button Lit element that disables itself and blocks clicks when its preference is enforced by policy.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '/shared/settings/controls/cr_policy_pref_indicator.js';
 

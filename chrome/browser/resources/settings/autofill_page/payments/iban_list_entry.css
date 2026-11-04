@@ -11,6 +11,12 @@
  * #include=settings-shared-lit autofill-shared-lit screen-reader-only-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: IBAN list entry styles
+summary: Styles for the settings IBAN list entry, covering the second column layout, list item spacing, sub-label color, and IBAN image alignment.
+*/
+
 .second-column {
   align-items: center;
   display: flex;

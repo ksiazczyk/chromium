@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings router and route definitions
+// summary: Defines the route table for the settings UI, enumerating every navigable settings page and providing the Route class and navigation helpers.
+// ---
+
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';
 import {dedupingMixin as litDedupingMixin} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import type {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

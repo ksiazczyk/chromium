@@ -9,6 +9,12 @@
  * helper.
  */
 
+// ---docerion
+// type: source
+// title: Base mixin with Polymer element helpers
+// summary: Provides a Polymer mixin with $$ and fire helper methods used by several Settings elements, mainly to populate search-associated controls.
+// ---
+
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

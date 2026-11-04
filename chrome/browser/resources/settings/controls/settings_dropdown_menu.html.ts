@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: settings-dropdown-menu HTML template
+// summary: Lit HTML template rendering the select element, its menu options, the not-found custom value and the policy indicator.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsDropdownMenuElement} from './settings_dropdown_menu.js';

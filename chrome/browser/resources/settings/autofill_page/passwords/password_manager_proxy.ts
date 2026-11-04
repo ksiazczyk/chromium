@@ -7,6 +7,12 @@
  * related metrics from settings.
  */
 
+// ---docerion
+// type: source
+// title: Password manager proxy
+// summary: Browser proxy for opening the Password Manager UI and recording ManagePasswordsReferrer metrics when passwords pages are accessed from settings.
+// ---
+
 /**
  * Interface for all callbacks to the password API.
  */
