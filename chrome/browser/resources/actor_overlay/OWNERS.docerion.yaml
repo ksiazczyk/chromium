@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Actor overlay owners
+summary: Redirects code review ownership to the OWNERS file of chrome/browser/actor/ui.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for discard metrics lifecycle unit observer
+// summary: Verifies discard and reload histogram counts and timing metrics using test clocks and a test lifecycle unit.
+// ---
+
 #include "chrome/browser/resource_coordinator/discard_metrics_lifecycle_unit_observer.h"
 
 #include <memory>

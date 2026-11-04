@@ -9,6 +9,12 @@
  * #include=app-management-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Supported links dialog styles
+summary: Lit CSS wrapper styling the supported links dialog body and list items with scrolling and separator borders.
+*/
+
 #dialogBody {
   display: flex;
   flex-direction: column;

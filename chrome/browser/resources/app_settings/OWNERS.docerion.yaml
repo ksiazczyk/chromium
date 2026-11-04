@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to web applications owners
+summary: Delegates code review ownership of this directory to the chrome/browser/web_applications OWNERS file.

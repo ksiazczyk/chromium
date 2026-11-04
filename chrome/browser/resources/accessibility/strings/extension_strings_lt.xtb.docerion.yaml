@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_lt.xtb.
+type: data
+title: Lithuanian accessibility extension strings
+summary: Lithuanian translation bundle for the Chrome accessibility extension, providing the localized string for listening to selected text.

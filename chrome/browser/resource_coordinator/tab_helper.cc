@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource coordinator tab helper implementation
+// summary: Implements ResourceCoordinatorTabHelper, a WebContents observer that tracks tab loading, freezing, discarding and UKM source ids for the resource coordinator.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_helper.h"
 
 #include <string>

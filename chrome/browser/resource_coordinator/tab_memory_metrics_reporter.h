@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab memory metrics reporter header
+// summary: Declares TabMemoryMetricsReporter, which reports tab Memory_Experimental UKM 1, 5, 10 and 15 minutes after load.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_MEMORY_METRICS_REPORTER_H_
 #define CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_MEMORY_METRICS_REPORTER_H_
 

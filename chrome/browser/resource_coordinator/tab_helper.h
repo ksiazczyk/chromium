@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource coordinator tab helper declaration
+// summary: Declares ResourceCoordinatorTabHelper with static helpers to check whether a WebContents is loaded or frozen and to expose its UKM source id.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_HELPER_H_
 #define CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_HELPER_H_
 

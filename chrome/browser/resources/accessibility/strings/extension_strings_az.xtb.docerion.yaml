@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_az.xtb.
+type: data
+title: Azerbaijani accessibility extension strings
+summary: Translation bundle providing the Azerbaijani text for the listen-to-selected-string message used by the accessibility extension.

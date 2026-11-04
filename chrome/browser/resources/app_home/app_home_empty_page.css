@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Empty page styles
+summary: Styles for the empty app home page, including centered container layout and dark mode button colors.
+*/
+
 .container {
   font-size: 12px;
   left: 50%;

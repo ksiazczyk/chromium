@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: about_sys app element
+// summary: Lit element that fetches system info logs through the browser proxy and displays them as key-value pairs, dispatching a ready-for-testing event.
+// ---
+
 import '/shared/key_value_pair_viewer/key_value_pair_viewer.js';
 import '/strings.m.js';
 

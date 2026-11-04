@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_eu.xtb.
+type: data
+title: Basque accessibility extension strings
+summary: Basque XTB translation bundle holding the localized listen-to-selected-text string for the accessibility extension.

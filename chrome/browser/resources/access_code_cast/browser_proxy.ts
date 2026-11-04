@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the access code cast dialog
+// summary: Connects the WebUI to the browser over Mojo, checks QR and camera availability and records usage metrics histograms.
+// ---
+
 import '/strings.m.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

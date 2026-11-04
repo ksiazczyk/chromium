@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_fa.xtb.
+type: data
+title: Persian accessibility extension strings
+summary: Persian XTB translation bundle holding the localized listen-to-selected-text string for the accessibility extension.

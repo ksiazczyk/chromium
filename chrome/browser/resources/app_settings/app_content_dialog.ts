@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App content dialog element
+// summary: Defines the app-management-app-content-dialog element that shows app content and traps focus on the dialog close button.
+// ---
+
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 
 import type {App} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';

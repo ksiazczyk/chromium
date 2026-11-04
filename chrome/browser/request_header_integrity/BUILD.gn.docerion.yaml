@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for request header integrity browser code
+summary: Defines GN source sets for the browser-side request header integrity hosts plus their unit and browser test targets, gated by the enable_request_header_integrity build flag.

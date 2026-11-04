@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_fi.xtb.
+type: data
+title: Finnish accessibility extension strings
+summary: Finnish XTB translation bundle holding the localized listen-to-selected-text string for the accessibility extension.

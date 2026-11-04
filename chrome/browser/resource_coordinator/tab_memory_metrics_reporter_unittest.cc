@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab memory metrics reporter unit tests
+// summary: Unit tests verifying the timing and emission of tab memory metrics using mock clocks and task runners.
+// ---
+
 
 #include "chrome/browser/resource_coordinator/tab_memory_metrics_reporter.h"
 

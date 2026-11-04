@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LifecycleUnitObserver interface
+// summary: Declares the LifecycleUnitObserver interface for receiving notifications when a LifecycleUnit's state changes or it is destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCE_COORDINATOR_LIFECYCLE_UNIT_OBSERVER_H_
 #define CHROME_BROWSER_RESOURCE_COORDINATOR_LIFECYCLE_UNIT_OBSERVER_H_
 

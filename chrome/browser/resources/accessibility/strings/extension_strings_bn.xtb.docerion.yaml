@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_bn.xtb.
+type: data
+title: Bengali accessibility extension strings
+summary: Translation bundle providing the Bengali text for the listen-to-selected-string message used by the accessibility extension.

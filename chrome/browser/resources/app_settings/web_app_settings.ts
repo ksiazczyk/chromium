@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app settings re-export module
+// summary: Barrel module re-exporting app management types, browser proxy helpers, permission utilities, and element types used by the web app settings UI.
+// ---
+
 import './app.js';
 
 export {AppType, InstallReason, InstallSource, PermissionType, RunOnOsLoginMode, TriState, WindowMode} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';

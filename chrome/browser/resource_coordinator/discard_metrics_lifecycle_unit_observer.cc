@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discard metrics lifecycle unit observer implementation
+// summary: Records UMA histograms for tab discard, reload and close timing when a lifecycle unit's state changes.
+// ---
+
 #include "chrome/browser/resource_coordinator/discard_metrics_lifecycle_unit_observer.h"
 
 #include "base/check.h"

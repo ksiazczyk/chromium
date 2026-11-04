@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for resource_coordinator
+summary: Allows resource_coordinator code to include headers from performance_manager and the resource_coordinator service.

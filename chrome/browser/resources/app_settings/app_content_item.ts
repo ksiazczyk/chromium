@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App content item Lit element
+// summary: Defines the app-management-app-content-item element that shows an app content entry and opens the app content dialog for apps with scope extensions.
+// ---
+
 import './app_content_dialog.js';
 import '//resources/cr_elements/cr_link_row/cr_link_row.js';
 

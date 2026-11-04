@@ -1,0 +1,4 @@
+# Docerion header of icons.html.
+type: asset
+title: App management icon set
+summary: Defines the app-management cr-iconset with custom SVG icons such as camera, info, location, and microphone used across app settings.

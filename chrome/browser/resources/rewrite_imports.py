@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Rewrite scheme-relative imports for WebUI packaging
+# summary: Helper script that rewrites scheme-relative resource imports to absolute WebUI resource imports when packaging WebUI code for component extensions, so imports resolve to shared resources instead of the extension origin.
+# ---
+
 """Helper script to rewrite scheme-relative imports to absolute chrome://
 imports.
 

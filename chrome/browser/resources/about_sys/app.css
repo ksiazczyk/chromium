@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: about_sys app styles
+summary: Lit CSS styles for the about_sys app, defining the header banner, title text, and settings icon appearance.
+*/
+
 h1 {
   margin: 0;
 }

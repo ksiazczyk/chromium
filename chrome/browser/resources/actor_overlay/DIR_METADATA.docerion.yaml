@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Actor overlay directory metadata
+summary: Declares the owning team email and Buganizer component for the actor overlay directory.

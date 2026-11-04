@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform Runtime host unit tests
+// summary: Unit tests for PlatformRuntimeHost using a fake service to cover refresh cycles, relaunch backoff, hung calls, disconnects, and header publication.
+// ---
+
 #include "chrome/browser/request_header_integrity/platform_runtime_host.h"
 
 #include <memory>

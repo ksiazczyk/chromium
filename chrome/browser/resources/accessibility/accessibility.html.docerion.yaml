@@ -1,0 +1,4 @@
+# Docerion header of accessibility.html.
+type: source
+title: Accessibility Internals page markup
+summary: HTML markup for the Accessibility Internals page, which lets users inspect and toggle Chrome's accessibility modes, view active assistive technology, and browse accessibility trees for pages and native UI.

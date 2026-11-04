@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Unit tests for the presubmit script
+summary: Tests the user action update check with mock inputs covering valid and invalid HTML metric changes.

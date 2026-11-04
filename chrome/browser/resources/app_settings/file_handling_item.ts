@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File handling item Lit element
+// summary: Defines the app-management-file-handling-item element handling the file handling toggle, user visible types, and default app associations UI.
+// ---
+
 import './app_management_shared_style.css.js';
 import './toggle_row.js';
 import 'chrome://resources/cr_components/localized_link/localized_link.js';

@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_iw.xtb.
+type: data
+title: Hebrew accessibility extension strings
+summary: Hebrew translation bundle containing the accessibility extension string for listening to selected text.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native test helper for JavaScript optimizer feature state
+// summary: Provides a JNI function that reports whether V8 optimizations are enabled for a given WebContents, used by the JavaScript optimizer feature tests.
+// ---
+
 #include <jni.h>
 
 #include "chrome/browser/renderer_host/android/jni_headers/JavascriptOptimizerFeatureTestHelperAndroid_jni.h"

@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_fr-CA.xtb.
+type: data
+title: Canadian French accessibility extension strings
+summary: Canadian French XTB translation bundle holding the localized listen-to-selected-text string for the accessibility extension.

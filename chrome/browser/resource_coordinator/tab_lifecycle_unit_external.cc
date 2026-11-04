@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab lifecycle unit external implementation
+// summary: Implements TabLifecycleUnitExternal::FromWebContents, resolving the external tab lifecycle interface for a WebContents via the tab lifecycle unit source.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_lifecycle_unit_external.h"
 
 #include "chrome/browser/resource_coordinator/tab_lifecycle_unit_source.h"

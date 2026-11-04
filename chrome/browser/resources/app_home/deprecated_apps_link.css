@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Deprecated apps link styles
+summary: Styles positioning the deprecated apps link container and its warning icon in the page corner, including RTL support.
+*/
+
 #container {
   align-items: center;
   margin-top: 10px;

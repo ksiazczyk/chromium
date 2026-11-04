@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App home user action utilities
+// summary: Defines the AppHomeUserAction enum values and a helper to record app home user actions for metrics.
+// ---
+
 // Custom actions added here also need to be added to
 // tools/metrics/actions/actions.xml
 export enum AppHomeUserAction {

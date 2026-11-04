@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for app_home
+summary: Points the app_home directory to the shared web_applications metadata mixins.

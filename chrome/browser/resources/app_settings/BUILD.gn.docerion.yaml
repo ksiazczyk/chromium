@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the app_settings WebUI
+summary: Defines the GN build target that compiles the app_settings WebUI TypeScript, CSS, and icon files with Lit dependencies.

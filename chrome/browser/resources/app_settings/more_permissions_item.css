@@ -9,6 +9,12 @@
  * #include=app-management-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: More permissions item styles
+summary: Styles for the more permissions item row, laying out the label and external settings icon with a pointer cursor.
+*/
+
 :host {
   align-items: center;
   cursor: pointer;

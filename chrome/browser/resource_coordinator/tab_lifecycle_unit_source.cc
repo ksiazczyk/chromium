@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab lifecycle unit source implementation
+// summary: Implements TabLifecycleUnitSource, which creates and tracks TabLifecycleUnits for tabs and forwards performance manager lifecycle state changes to the UI thread.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_lifecycle_unit_source.h"
 
 #include <utility>

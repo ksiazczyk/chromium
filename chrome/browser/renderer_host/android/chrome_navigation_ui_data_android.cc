@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI creation of ChromeNavigationUIData on Android
+// summary: Implements a JNI entry point that creates a ChromeNavigationUIData with an optional bookmark ID and TWA launch token for Android navigations.
+// ---
+
 #include "chrome/browser/renderer_host/chrome_navigation_ui_data.h"
 
 #include <optional>

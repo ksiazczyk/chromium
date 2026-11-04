@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the access code cast resources
+summary: Points to the common metadata of the access code cast WebUI directory via a mixins entry.

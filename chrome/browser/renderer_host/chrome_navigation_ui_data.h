@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeNavigationUIData header
+// summary: Declares ChromeNavigationUIData, which carries per-navigation data from the UI thread to the IO thread, including extension and offline page data.
+// ---
+
 #ifndef CHROME_BROWSER_RENDERER_HOST_CHROME_NAVIGATION_UI_DATA_H_
 #define CHROME_BROWSER_RENDERER_HOST_CHROME_NAVIGATION_UI_DATA_H_
 

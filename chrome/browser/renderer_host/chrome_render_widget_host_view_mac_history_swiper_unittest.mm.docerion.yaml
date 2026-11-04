@@ -1,0 +1,4 @@
+# Docerion header of chrome_render_widget_host_view_mac_history_swiper_unittest.mm.
+type: test
+title: Mac history swiper unit tests
+summary: Unit tests for the macOS HistorySwiper class that use OCMock to verify overlay display, navigation direction handling and magic mouse swipe detection.

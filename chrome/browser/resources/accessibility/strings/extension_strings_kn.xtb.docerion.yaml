@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_kn.xtb.
+type: data
+title: Kannada accessibility extension strings
+summary: Kannada translation bundle for the Chrome accessibility extension, providing the localized string for listening to selected text.

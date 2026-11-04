@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab manager resource coordinator signal observer implementation
+// summary: Forwards page loading state changes from the performance manager graph to the tab load tracker on the UI thread.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_manager_resource_coordinator_signal_observer.h"
 
 #include "base/functional/bind.h"

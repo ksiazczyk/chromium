@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LifecycleUnitObserver implementation
+// summary: Implements the destructor and empty default callback bodies of the LifecycleUnitObserver interface.
+// ---
+
 #include "chrome/browser/resource_coordinator/lifecycle_unit_observer.h"
 
 namespace resource_coordinator {

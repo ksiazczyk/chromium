@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_es-419.xtb.
+type: data
+title: Accessibility extension strings in Latin American Spanish
+summary: Latin American Spanish translation bundle holding the localized 'listen to selected text' string for the Chrome accessibility extension.

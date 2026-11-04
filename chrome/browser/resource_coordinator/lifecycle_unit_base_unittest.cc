@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LifecycleUnitBase unit tests
+// summary: Unit tests verifying LifecycleUnitBase ID uniqueness, state change timestamps and observer notifications using mock observers and test clocks.
+// ---
+
 #include "chrome/browser/resource_coordinator/lifecycle_unit_base.h"
 
 #include "base/test/simple_test_clock.h"

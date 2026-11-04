@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App item custom element
+// summary: Lit custom element for a single app tile that handles clicks, context menu positioning and launching apps in the Chrome App Home page.
+// ---
+
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';
 

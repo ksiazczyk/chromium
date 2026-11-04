@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toggle row Lit HTML template
+// summary: Lit HTML template for the toggle row, rendering the icon, label, description, policy indicator and cr-toggle.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ToggleRowElement} from './toggle_row.js';

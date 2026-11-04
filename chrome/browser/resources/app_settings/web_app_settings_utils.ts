@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy app factory utility
+// summary: Provides createDummyApp(), which builds a default placeholder App object used to initialize app management elements.
+// ---
+
 import {AppType, InstallReason, InstallSource, RunOnOsLoginMode, WindowMode} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 import type {App} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 

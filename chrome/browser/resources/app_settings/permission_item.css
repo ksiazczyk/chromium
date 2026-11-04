@@ -9,6 +9,12 @@
  * #include=app-management-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Permission item styles
+summary: Lit CSS wrapper styling the app management permission item row with flex layout, pointer cursor, and hiding when the permission is unavailable.
+*/
+
 :host {
   align-items: center;
   display: flex;

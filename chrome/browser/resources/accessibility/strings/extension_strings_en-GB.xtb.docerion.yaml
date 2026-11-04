@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_en-GB.xtb.
+type: data
+title: Accessibility extension strings in British English
+summary: British English translation bundle holding the localized 'listen to selected text' string for the Chrome accessibility extension.

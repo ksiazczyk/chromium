@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the access code cast WebUI
+summary: Defines the WebUI build target, listing TypeScript, CSS, static and Mojo-generated files plus dependencies for the access code cast dialog.

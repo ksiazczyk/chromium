@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeNavigationUIData implementation
+// summary: Implements ChromeNavigationUIData, gathering extension, offline page, no-state prefetch, and actor task data for navigations.
+// ---
+
 #include "chrome/browser/renderer_host/chrome_navigation_ui_data.h"
 
 #include "build/build_config.h"

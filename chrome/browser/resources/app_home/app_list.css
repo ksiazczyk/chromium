@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: App list grid styles
+summary: Styles for the app list container, defining a responsive grid with adaptive column counts and row gaps for app items.
+*/
+
 #container {
   align-content: flex-start;
   display: grid;

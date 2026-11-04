@@ -1,0 +1,4 @@
+# Docerion header of app_icon_resources.grd.
+type: config
+title: App icon Grit resource list
+summary: Grit resource definition listing scaled app icon images (icon mask, placeholder cube, default web app icon) and the generated headers and .pak packages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabLifecycleUnit unit tests
+// summary: Unit tests for TabLifecycleUnit covering state transitions, discard eligibility and reasons, and related metrics using mock observers and simulated navigations.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_lifecycle_unit.h"
 
 #include <memory>

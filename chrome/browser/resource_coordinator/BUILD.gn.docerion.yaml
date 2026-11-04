@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for resource_coordinator
+summary: Defines GN build targets, sources and dependencies for the resource_coordinator module, including mojo bindings and test support.

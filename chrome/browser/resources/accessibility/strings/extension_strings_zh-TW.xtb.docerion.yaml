@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_zh-TW.xtb.
+type: data
+title: Accessibility extension strings (Chinese, Taiwan)
+summary: Chinese (Taiwan) translation bundle for the accessibility extension, providing localized UI strings such as the prompt for speaking selected text.

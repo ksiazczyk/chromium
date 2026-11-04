@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_af.xtb.
+type: data
+title: Afrikaans accessibility extension strings
+summary: Translation bundle providing the Afrikaans text for the listen-to-selected-string message used by the accessibility extension.

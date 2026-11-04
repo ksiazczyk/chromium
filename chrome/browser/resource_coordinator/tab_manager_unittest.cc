@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab manager unit tests
+// summary: Unit tests for TabManager covering internal page detection, tab discarding and related tab management logic.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_manager.h"
 
 #include <algorithm>

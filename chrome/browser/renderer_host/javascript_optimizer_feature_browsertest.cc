@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript optimizer feature browser tests
+// summary: Browser tests covering the JavaScript optimizer feature, including content settings, infobars, page actions, enterprise policy and safe browsing site familiarity.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/bind.h"
 #include "base/functional/callback.h"

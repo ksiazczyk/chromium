@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_mn.xtb.
+type: data
+title: Mongolian accessibility extension strings
+summary: Mongolian translation bundle for the Chrome accessibility extension, providing the localized string for listening to selected text.

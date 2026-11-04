@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_sq.xtb.
+type: data
+title: Albanian accessibility extension strings
+summary: Albanian translation bundle for the accessibility extension, providing the localized string for listening to selected text.

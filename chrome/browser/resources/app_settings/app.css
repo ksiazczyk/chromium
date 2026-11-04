@@ -10,6 +10,12 @@
  * #include=app-management-shared-style cr-page-host-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the web app settings page
+summary: Lit styles for the web app settings page, covering the content card, header line, title icon, uninstall button, and app detail rows.
+*/
+
 #content {
   background-color: var(--cr-card-background-color);
   border-radius: var(--cr-card-border-radius);

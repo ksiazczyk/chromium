@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window mode item element
+// summary: Lit element that toggles an app's window mode between window and browser via the browser proxy and records the corresponding user action.
+// ---
+
 import './toggle_row.js';
 
 import {assert, assertNotReached} from '//resources/js/assert.js';

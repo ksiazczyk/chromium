@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_ur.xtb.
+type: data
+title: Accessibility extension strings in Urdu
+summary: Urdu translation bundle for the accessibility extension, containing the localized string for listening to selected text.

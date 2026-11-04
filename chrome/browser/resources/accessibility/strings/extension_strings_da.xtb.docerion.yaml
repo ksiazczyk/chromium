@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_da.xtb.
+type: data
+title: Accessibility extension strings in Danish
+summary: Danish translation bundle holding the localized 'listen to selected text' string for the Chrome accessibility extension.

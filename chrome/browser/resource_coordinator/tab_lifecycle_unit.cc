@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab lifecycle unit implementation
+// summary: Implements TabLifecycleUnit, the lifecycle unit representing a browser tab, including discard decisions, loading, focus and recently audible state handling.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_lifecycle_unit.h"
 
 #include <memory>

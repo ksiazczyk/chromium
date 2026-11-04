@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor overlay app element
+// summary: Lit element implementing the overlay app, handling Mojo callbacks for scrim, border glow, cursor movement, clicks, and theme.
+// ---
+
 import '/strings.m.js';
 
 import {skColorToRgba} from 'chrome://resources/js/color_utils.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource coordinator parts implementation
+// summary: Implements ResourceCoordinatorParts, wiring the tab lifecycle unit source to the tab manager on non-Android builds.
+// ---
+
 #include "chrome/browser/resource_coordinator/resource_coordinator_parts.h"
 
 #include "build/build_config.h"

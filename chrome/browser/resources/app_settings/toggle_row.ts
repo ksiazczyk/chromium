@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toggle row Lit element
+// summary: Lit element providing a reusable app management toggle row with label, description, managed and disabled state handling.
+// ---
+
 import '//resources/cr_elements/cr_toggle/cr_toggle.js';
 import '//resources/cr_elements/policy/cr_policy_indicator.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';

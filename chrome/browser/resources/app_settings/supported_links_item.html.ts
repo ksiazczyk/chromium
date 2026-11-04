@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported links item Lit HTML template
+// summary: Lit HTML template for the supported links item, rendering the heading, disabled explanation, preference radio group and related dialogs.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SupportedLinksItemElement} from './supported_links_item.js';

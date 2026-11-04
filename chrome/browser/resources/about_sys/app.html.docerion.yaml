@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: about_sys app HTML template
+summary: Lit HTML template for the app element showing the page header and a key-value pair viewer of system log entries.

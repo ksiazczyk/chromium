@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_ro.xtb.
+type: data
+title: Romanian accessibility extension strings
+summary: Romanian translation bundle for the accessibility extension, providing the localized string for listening to selected text.

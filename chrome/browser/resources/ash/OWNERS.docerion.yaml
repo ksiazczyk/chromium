@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ash resources
+summary: Delegates code ownership for the ash resources directory to the shared WebUI platform owners file via a file reference.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform Runtime host interface
+// summary: Declares PlatformRuntimeHost, the UI-thread browser-side owner of Platform Runtime header distribution that is the only component talking to the sandboxed utility process.
+// ---
+
 #ifndef CHROME_BROWSER_REQUEST_HEADER_INTEGRITY_PLATFORM_RUNTIME_HOST_H_
 #define CHROME_BROWSER_REQUEST_HEADER_INTEGRITY_PLATFORM_RUNTIME_HOST_H_
 

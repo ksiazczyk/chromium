@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_my.xtb.
+type: data
+title: Accessibility extension strings (Burmese)
+summary: Burmese translation bundle for the accessibility extension, providing the localized string for listening to selected text.

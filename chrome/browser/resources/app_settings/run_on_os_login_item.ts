@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Run on OS login item element for app management settings
+// summary: Lit element that toggles an app's run on OS login mode between windowed and not run, updating the backend and recording the corresponding user action.
+// ---
+
 import './app_management_shared_style.css.js';
 import './toggle_row.js';
 

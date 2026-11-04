@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_it.xtb.
+type: data
+title: Italian accessibility extension strings
+summary: Italian translation bundle containing the accessibility extension string for listening to selected text.

@@ -1,0 +1,4 @@
+# Docerion header of ad_networks.dat.
+type: data
+title: Ad networks data file
+summary: Empty ad_networks.dat file in the resources folder with no content.

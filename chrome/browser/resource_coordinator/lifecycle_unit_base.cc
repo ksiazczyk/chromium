@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LifecycleUnitBase implementation
+// summary: Implements shared lifecycle unit state changes, observer notification, discard counting and ID assignment.
+// ---
+
 #include "chrome/browser/resource_coordinator/lifecycle_unit_base.h"
 
 #include "base/observer_list.h"

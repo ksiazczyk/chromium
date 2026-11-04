@@ -1,0 +1,4 @@
+# Docerion header of lifecycle_unit_state.mojom.
+type: source
+title: Lifecycle unit state Mojom enums
+summary: Defines Mojo enums for lifecycle unit states, loading states and discard reasons used by the resource coordinator.

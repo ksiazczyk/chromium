@@ -1,0 +1,4 @@
+# Docerion header of reading_mode_gdocs_helper_manifest.json.jinja2.
+type: config
+title: Reading Mode Google Docs helper manifest template
+summary: Jinja2 template for the Reading Mode Google Docs Helper extension manifest, enabling Reading Mode on Google Docs for non-Lacros platforms.

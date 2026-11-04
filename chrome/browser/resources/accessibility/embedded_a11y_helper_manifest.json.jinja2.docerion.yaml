@@ -1,0 +1,4 @@
+# Docerion header of embedded_a11y_helper_manifest.json.jinja2.
+type: config
+title: Accessibility Helper extension manifest template
+summary: Jinja2 template for the Accessibility Helper extension manifest, which supports Ash accessibility features from non-Ash browsers on Google Docs.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.gni.
+type: config
+title: GN templates for generating accessibility extension manifests
+summary: GN build templates that invoke generate_manifest.py to produce basic, guest mode, and Manifest V3 variants of extension manifest.json files.

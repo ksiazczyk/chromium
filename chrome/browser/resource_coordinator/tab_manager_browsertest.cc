@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab manager browser tests
+// summary: Browser tests covering TabManager behavior such as tab discarding, lifecycle state transitions and loading state changes.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_manager.h"
 
 #include "base/base_switches.h"

@@ -10,6 +10,12 @@
  * #include=app-management-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Supported links item styles
+summary: Styles for the app-management-supported-links-item element, covering the disabled explanation, radio group, overlap warning and list layout.
+*/
+
 #disabledExplanationText {
   align-items: center;
   display: flex;

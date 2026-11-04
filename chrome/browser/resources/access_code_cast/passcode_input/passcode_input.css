@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Passcode input styles
+summary: Stylesheet for the c2c-passcode-input web component, defining character boxes, blinking cursor animations, and focus, active, and disabled states.
+*/
+
 :host {
   --passcode-input-active-color: var(--color-sys-primary-container);
   --passcode-input-background-color: var(--color-textfield-filled-background);

@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_sr-Latn.xtb.
+type: data
+title: Serbian (Latin) accessibility extension strings
+summary: Serbian (Latin script) translation bundle for the accessibility extension, providing the localized string for listening to selected text.
