@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autoclick unit tests
+// summary: Tests autoclick behavior including delays, generated mouse events, scroll actions, and menu bubble interactions using mock time and an event generator.
+// relations:
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - tests /ash/accessibility/autoclick/autoclick_controller.h
+//   - depends_on /ash/events/test_event_capturer.h
+// ---
+
 #include "ash/accessibility/accessibility_controller.h"
 #include "ash/accessibility/autoclick/autoclick_controller.h"
 #include "ash/events/test_event_capturer.h"

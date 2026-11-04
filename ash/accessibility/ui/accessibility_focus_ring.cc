@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityFocusRing shape computation
+// summary: Computes the 36-point outline of an accessibility focus ring, supporting rectangular objects and paragraph shapes spanning multiple text lines.
+// relations:
+//   - depends_on /ash/accessibility/ui/accessibility_focus_ring.h
+//   - depends_on /ash/shell.h
+//   - depends_on /base/check.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_focus_ring.h"
 
 #include <stddef.h>

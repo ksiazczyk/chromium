@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: ChromeVox directory metadata
+summary: DIR_METADATA entry that points to the shared ChromeVox common metadata via a mixin for the ash accessibility folder.
+relations:
+  - references /chrome/browser/resources/chromeos/accessibility/chromevox/mv2/COMMON_METADATA

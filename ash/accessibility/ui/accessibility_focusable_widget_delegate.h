@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility focusable widget delegate header
+// summary: Declares the AccessibilityFocusable template mix-in for widget delegates, with focus cycler registration, plus a concrete AccessibilityFocusableWidgetDelegate class.
+// relations:
+//   - depends_on /ash/focus/focus_cycler.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ui/views/widget/widget_delegate.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_ACCESSIBILITY_FOCUSABLE_WIDGET_DELEGATE_H_
 #define ASH_ACCESSIBILITY_UI_ACCESSIBILITY_FOCUSABLE_WIDGET_DELEGATE_H_
 

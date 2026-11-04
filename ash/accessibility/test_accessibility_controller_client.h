@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test accessibility controller client header
+// summary: Declares a fake accessibility controller client that simulates Chrome behavior in ash tests and exposes recorded interactions.
+// relations:
+//   - implements /ash/public/cpp/accessibility_controller_client.h
+//   - depends_on /ash/public/cpp/accessibility_controller_enums.h
+//   - depends_on /chromeos/ash/components/audio/sounds.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_TEST_ACCESSIBILITY_CONTROLLER_CLIENT_H_
 #define ASH_ACCESSIBILITY_TEST_ACCESSIBILITY_CONTROLLER_CLIENT_H_
 

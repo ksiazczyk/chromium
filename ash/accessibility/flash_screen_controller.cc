@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flash screen controller implementation
+// summary: Implements the controller that flashes the screen when notifications are shown, using a throb animation and the color enhancement controller.
+// relations:
+//   - implements /ash/accessibility/flash_screen_controller.h
+//   - depends_on /ash/color_enhancement/color_enhancement_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accessibility/flash_screen_controller.h"
 
 #include "ash/color_enhancement/color_enhancement_controller.h"

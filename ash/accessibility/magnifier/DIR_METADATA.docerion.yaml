@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Magnifier directory metadata
+summary: Points to shared accessibility magnifier metadata mixins used by Chrome OS repository tooling.
+relations:
+  - references /chrome/browser/resources/chromeos/accessibility/accessibility_common/magnifier/COMMON_METADATA

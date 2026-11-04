@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoclick scroll position handler class declaration
+// summary: Declares the handler that displays the upcoming scroll position, holding full opacity briefly before fading out.
+// relations:
+//   - depends_on /base/time/time.h
+//   - depends_on /base/timer/timer.h
+//   - depends_on /ui/gfx/animation/animation_delegate.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_AUTOCLICK_AUTOCLICK_SCROLL_POSITION_HANDLER_H_
 #define ASH_ACCESSIBILITY_AUTOCLICK_AUTOCLICK_SCROLL_POSITION_HANDLER_H_
 

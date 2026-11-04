@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility focus ring group class declaration
+// summary: Declares the class that tracks a group of focus rings, including positions, colors, animation behavior, and rect-to-ring conversion helpers for testing.
+// relations:
+//   - depends_on /ash/accessibility/ui/accessibility_animation_one_shot.h
+//   - depends_on /ash/accessibility/ui/accessibility_focus_ring.h
+//   - depends_on /ash/accessibility/ui/accessibility_focus_ring_layer.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_ACCESSIBILITY_FOCUS_RING_GROUP_H_
 #define ASH_ACCESSIBILITY_UI_ACCESSIBILITY_FOCUS_RING_GROUP_H_
 

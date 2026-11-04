@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityAnimationOneShot class declaration
+// summary: Declares a helper that adapts the CompositorAnimationObserver interface for simpler, safe one-shot animation usage via a callback.
+// relations:
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/scoped_observation.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_ACCESSIBILITY_ANIMATION_ONE_SHOT_H_
 #define ASH_ACCESSIBILITY_UI_ACCESSIBILITY_ANIMATION_ONE_SHOT_H_
 

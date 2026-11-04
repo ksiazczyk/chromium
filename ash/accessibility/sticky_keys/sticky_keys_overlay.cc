@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sticky keys overlay implementation
+// summary: Implements the on-screen overlay that displays the state of each sticky key modifier using labels and slide animations.
+// relations:
+//   - implements /ash/accessibility/sticky_keys/sticky_keys_overlay.h
+//   - depends_on /ash/accessibility/sticky_keys/sticky_keys_controller.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+// ---
+
 #include "ash/accessibility/sticky_keys/sticky_keys_overlay.h"
 
 #include <memory>

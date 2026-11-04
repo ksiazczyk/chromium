@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Point scan layer animation info implementation
+// summary: Computes scan line offsets over time, bouncing at the bounds with a short linger delay for Switch Access point scanning animations.
+// relations:
+//   - implements /ash/accessibility/switch_access/point_scan_layer_animation_info.h
+// ---
+
 #include "ash/accessibility/switch_access/point_scan_layer_animation_info.h"
 
 namespace {

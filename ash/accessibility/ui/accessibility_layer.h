@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: accessibility_layer.h
+// summary: Declares AccessibilityLayer and its delegate interface for managing a global layer used to highlight UI elements for accessibility.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/compositor/layer_delegate.h
+//   - depends_on /ui/compositor/layer_textured.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_ACCESSIBILITY_LAYER_H_
 #define ASH_ACCESSIBILITY_UI_ACCESSIBILITY_LAYER_H_
 

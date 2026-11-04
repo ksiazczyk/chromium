@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch exploration manager implementation
+// summary: Implements TouchExplorationManager, which creates the touch exploration controller when spoken feedback is enabled and handles volume, sounds, and accessibility gestures.
+// relations:
+//   - implements /ash/accessibility/chromevox/touch_exploration_manager.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/chromevox/touch_exploration_controller.h
+// ---
+
 #include "ash/accessibility/chromevox/touch_exploration_manager.h"
 
 #include <memory>

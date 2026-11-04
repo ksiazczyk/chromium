@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen magnifier controller implementation
+// summary: Implements the fullscreen screen magnifier with panning, pinch and scroll gesture handling, and animated viewport movement.
+// relations:
+//   - implements /ash/accessibility/magnifier/fullscreen_magnifier_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/accessibility_delegate.h
+// ---
+
 #include "ash/accessibility/magnifier/fullscreen_magnifier_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility feature type enum
+// summary: Defines the A11yFeatureType enum enumerating Chrome OS accessibility features such as autoclick, dictation, magnifier and switch access.
+// ---
+
 #ifndef ASH_ACCESSIBILITY_A11Y_FEATURE_TYPE_H_
 #define ASH_ACCESSIBILITY_A11Y_FEATURE_TYPE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sticky keys controller implementation
+// summary: Implements the StickyKeysController event rewriter that lets users apply modifier keys one at a time and manages the sticky keys overlay.
+// relations:
+//   - implements /ash/accessibility/sticky_keys/sticky_keys_controller.h
+//   - depends_on /ash/accessibility/sticky_keys/sticky_keys_overlay.h
+//   - depends_on /ui/aura/window.h
+// ---
+
 #include "ash/accessibility/sticky_keys/sticky_keys_controller.h"
 
 #include <memory>

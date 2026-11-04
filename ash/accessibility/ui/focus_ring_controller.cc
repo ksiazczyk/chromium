@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: focus_ring_controller.cc
+// summary: Implements the controller that draws a focus ring around the focused view when keyboard-driven UI navigation is enabled during OOBE.
+// relations:
+//   - implements /ash/accessibility/ui/focus_ring_controller.h
+//   - depends_on /ash/accessibility/ui/focus_ring_layer.h
+//   - depends_on /ash/accessibility/ui/native_focus_watcher.h
+// ---
+
 #include "ash/accessibility/ui/focus_ring_controller.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filter keys event rewriter unit tests
+// summary: Unit tests for the FilterKeysEventRewriter, covering bounce keys filtering of repeated key presses.
+// relations:
+//   - tests /ash/accessibility/filter_keys_event_rewriter.h
+//   - depends_on /ash/accessibility/test_event_recorder.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/accessibility/filter_keys_event_rewriter.h"
 
 #include <memory>

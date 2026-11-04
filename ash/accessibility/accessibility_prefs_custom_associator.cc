@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility prefs custom associator implementation
+// summary: Implements locking and custom merge behavior for syncable accessibility preferences, preferring locked local values over server values during Chrome Sync merges.
+// relations:
+//   - depends_on /ash/accessibility/accessibility_prefs_custom_associator.h
+//   - depends_on /ash/accessibility/accessibility_sync_prefs_utils.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/accessibility/accessibility_prefs_custom_associator.h"
 
 #include <algorithm>

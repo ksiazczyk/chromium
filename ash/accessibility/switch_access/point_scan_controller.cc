@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Point scan controller implementation
+// summary: Implements the Switch Access point scan controller that sweeps horizontal and vertical range and line layers across the screen so users can select a point without a mouse or keyboard.
+// relations:
+//   - implements /ash/accessibility/switch_access/point_scan_controller.h
+//   - depends_on /ash/accessibility/switch_access/point_scan_layer.h
+//   - depends_on /ash/accessibility/switch_access/point_scan_layer_animation_info.h
+// ---
+
 #include "ash/accessibility/switch_access/point_scan_controller.h"
 
 #include <memory>

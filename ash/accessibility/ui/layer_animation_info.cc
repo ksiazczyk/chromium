@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer animation opacity computation
+// summary: Implements ComputeOpacity, which calculates layer animation opacity over time using fade-in and fade-out durations relative to start and change timestamps.
+// relations:
+//   - depends_on /ash/accessibility/ui/layer_animation_info.h
+//   - implements /ash/accessibility/ui/layer_animation_info.h
+// ---
+
 #include "ash/accessibility/ui/layer_animation_info.h"
 
 #include <algorithm>

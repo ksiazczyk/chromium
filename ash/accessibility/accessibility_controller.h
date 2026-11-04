@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash accessibility controller header
+// summary: Declares the AccessibilityController class, its notification types and related interfaces for managing accessibility features in ash.
+// relations:
+//   - depends_on /ash/accessibility/a11y_feature_type.h
+//   - depends_on /ash/accessibility/accessibility_notification_controller.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_ACCESSIBILITY_CONTROLLER_H_
 #define ASH_ACCESSIBILITY_ACCESSIBILITY_CONTROLLER_H_
 

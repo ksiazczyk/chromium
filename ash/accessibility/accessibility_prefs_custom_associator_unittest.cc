@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility prefs custom associator unit tests
+// summary: Unit and parameterized tests verifying merge value selection, locking, and unlock behavior of the accessibility prefs custom associator across pref batches.
+// relations:
+//   - tests /ash/accessibility/accessibility_prefs_custom_associator.h
+//   - depends_on /ash/accessibility/accessibility_prefs_custom_associator.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/accessibility/accessibility_prefs_custom_associator.h"
 
 #include "ash/constants/ash_features.h"

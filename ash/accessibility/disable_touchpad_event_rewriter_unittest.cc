@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disable touchpad event rewriter unit tests
+// summary: Unit tests verifying that internal touchpad events are filtered according to disable-touchpad mode and external device presence.
+// relations:
+//   - tests /ash/accessibility/disable_touchpad_event_rewriter.h
+//   - depends_on /ash/accessibility/test_event_recorder.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/accessibility/disable_touchpad_event_rewriter.h"
 
 #include <memory>

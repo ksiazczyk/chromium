@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key accessibility enabler class declaration
+// summary: Declares the KeyAccessibilityEnabler event handler that toggles spoken feedback when both volume keys are held for about five seconds.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_CHROMEVOX_KEY_ACCESSIBILITY_ENABLER_H_
 #define ASH_ACCESSIBILITY_CHROMEVOX_KEY_ACCESSIBILITY_ENABLER_H_
 

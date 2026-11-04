@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusRingLayer class declaration
+// summary: Declares the FocusRingLayer class, an accessibility layer that draws a focus ring at a given global rectangle with optional custom color support.
+// relations:
+//   - depends_on /ash/accessibility/ui/accessibility_layer.h
+//   - depends_on /ui/compositor/compositor_animation_observer.h
+//   - depends_on /ui/compositor/layer_delegate.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_FOCUS_RING_LAYER_H_
 #define ASH_ACCESSIBILITY_UI_FOCUS_RING_LAYER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse shake detector class declaration
+// summary: Declares the MouseShakeDetector class and its observer interface, which report the start and end of rapid mouse cursor shakes to accessibility features.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/observer_list.h
+//   - depends_on /base/observer_list_types.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_MOUSE_LOCATOR_MOUSE_SHAKE_DETECTOR_H_
 #define ASH_ACCESSIBILITY_MOUSE_LOCATOR_MOUSE_SHAKE_DETECTOR_H_
 

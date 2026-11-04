@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Magnifier directory include rules
+summary: Defines per-file include rules that allow the magnifier controllers to depend on ash host headers.

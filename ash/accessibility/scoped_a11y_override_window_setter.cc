@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped accessibility override window setter implementation
+// summary: Implements a scoped helper that updates the accessibility override window and clears it on destruction or window closing.
+// relations:
+//   - implements /ash/accessibility/scoped_a11y_override_window_setter.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accessibility/scoped_a11y_override_window_setter.h"
 
 #include "ash/accessibility/accessibility_controller.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spoken feedback enabler class declaration
+// summary: Declares the SpokenFeedbackEnabler class that enables ChromeVox via a timer while providing progress sound feedback.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_CHROMEVOX_SPOKEN_FEEDBACK_ENABLER_H_
 #define ASH_ACCESSIBILITY_CHROMEVOX_SPOKEN_FEEDBACK_ENABLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default accessibility delegate implementation
+// summary: Implements the default accessibility delegate that tracks magnifier state and decides when the accessibility menu should be shown.
+// relations:
+//   - implements /ash/accessibility/default_accessibility_delegate.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/accessibility_prefs_custom_associator.h
+// ---
+
 #include "ash/accessibility/default_accessibility_delegate.h"
 
 #include <limits>

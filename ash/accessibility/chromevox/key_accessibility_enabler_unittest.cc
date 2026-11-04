@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Key accessibility enabler unit tests
+// summary: Verifies that holding both volume keys in tablet mode toggles spoken feedback on and off using a test tick clock.
+// relations:
+//   - depends_on /ash/accessibility/chromevox/key_accessibility_enabler.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/accessibility_observer.h
+// ---
+
 #include "ash/accessibility/chromevox/key_accessibility_enabler.h"
 
 #include "ash/accessibility/accessibility_controller.h"

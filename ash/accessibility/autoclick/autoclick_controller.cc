@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoclick controller implementation
+// summary: Implements the Ash autoclick accessibility feature, handling dwell timers, generated click and scroll events, movement thresholds, and the ring and menu UI.
+// relations:
+//   - depends_on /ash/accessibility/autoclick/autoclick_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/autoclick/autoclick_ring_handler.h
+// ---
+
 #include "ash/accessibility/autoclick/autoclick_controller.h"
 
 #include <tuple>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessibilityPrefsMergeConflictController unit tests
+// summary: Unit tests verifying conflict detection for syncable accessibility preferences, including batch feature flags, equal values, and default-only cases.
+// relations:
+//   - tests /ash/accessibility/accessibility_prefs_merge_conflict_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/accessibility/accessibility_prefs_merge_conflict_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

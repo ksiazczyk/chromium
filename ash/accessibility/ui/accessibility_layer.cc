@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: accessibility_layer.cc
+// summary: Implements the base accessibility layer that creates and positions a compositor layer on a root window for highlighting or annotating UI elements.
+// relations:
+//   - implements /ash/accessibility/ui/accessibility_layer.h
+//   - depends_on /ui/aura/window.h
+//   - depends_on /ui/compositor/layer_textured.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_layer.h"
 
 #include "ui/aura/window.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: accessibility_highlight_controller_unittest.cc
+// summary: Unit tests for the accessibility highlight controller, using window snapshots and pixel comparisons to verify highlight rendering behavior in Ash.
+// relations:
+//   - tests /ash/accessibility/ui/accessibility_highlight_controller.h
+//   - depends_on /ash/accessibility/ui/accessibility_focus_ring_controller_impl.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_highlight_controller.h"
 
 #include <stdint.h>

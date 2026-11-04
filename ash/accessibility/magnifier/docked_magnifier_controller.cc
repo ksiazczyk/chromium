@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Docked magnifier controller implementation
+// summary: Implements the docked magnifier, showing a magnified viewport at the top of the active display that follows the cursor, caret, or focus.
+// relations:
+//   - implements /ash/accessibility/magnifier/docked_magnifier_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/magnifier/magnifier_utils.h
+// ---
+
 #include "ash/accessibility/magnifier/docked_magnifier_controller.h"
 
 #include <algorithm>

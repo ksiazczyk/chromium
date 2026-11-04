@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: accessibility_panel_layout_manager_unittest.cc
+// summary: Unit tests for the accessibility panel layout manager, covering panel tracking, shutdown behavior, and fullscreen and full-width panel states.
+// relations:
+//   - tests /ash/accessibility/ui/accessibility_panel_layout_manager.h
+//   - depends_on /ash/accessibility/magnifier/docked_magnifier_controller.h
+//   - depends_on /ash/public/cpp/shelf_config.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_panel_layout_manager.h"
 
 #include <memory>

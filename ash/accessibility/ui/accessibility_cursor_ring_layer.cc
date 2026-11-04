@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityCursorRingLayer implementation
+// summary: Implements a focus ring layer that paints a gradient ring around the mouse cursor location to make it easier to find visually.
+// relations:
+//   - implements /ash/accessibility/ui/accessibility_cursor_ring_layer.h
+//   - depends_on /ash/accessibility/ui/accessibility_cursor_ring_layer.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_cursor_ring_layer.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

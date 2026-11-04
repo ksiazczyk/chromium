@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sticky keys overlay unit tests
+// summary: Tests overlay visibility, modifier key state handling, and overlay behavior when a secondary display is removed.
+// relations:
+//   - tests /ash/accessibility/sticky_keys/sticky_keys_overlay.h
+//   - depends_on /ash/accessibility/sticky_keys/sticky_keys_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accessibility/sticky_keys/sticky_keys_overlay.h"
 
 #include "ash/accessibility/sticky_keys/sticky_keys_controller.h"

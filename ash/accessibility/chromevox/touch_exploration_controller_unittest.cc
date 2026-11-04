@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch exploration controller unit tests
+// summary: Unit tests covering the TouchExplorationController state machine, gesture handling, timers, and event rewriting using mock delegates, an event capturer, and a simulated clock.
+// relations:
+//   - tests /ash/accessibility/chromevox/touch_exploration_controller.h
+//   - depends_on /ash/accessibility/chromevox/mock_touch_exploration_controller_delegate.h
+//   - depends_on /base/memory/ptr_util.h
+// ---
+
 #include "ash/accessibility/chromevox/touch_exploration_controller.h"
 
 #include <math.h>

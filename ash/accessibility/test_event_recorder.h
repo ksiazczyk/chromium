@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test event recorder header
+// summary: Declares an event rewriter that records events and exposes the last event type and count for test verification.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/event_rewriter.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_TEST_EVENT_RECORDER_H_
 #define ASH_ACCESSIBILITY_TEST_EVENT_RECORDER_H_
 

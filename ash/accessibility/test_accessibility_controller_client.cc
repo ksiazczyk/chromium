@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test accessibility controller client implementation
+// summary: Implements a fake accessibility controller client that records alerts, earcons, gestures and dictation state for tests.
+// relations:
+//   - depends_on /ash/accessibility/test_accessibility_controller_client.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /base/i18n/language_tag.h
+// ---
+
 #include "ash/accessibility/test_accessibility_controller_client.h"
 
 #include <utility>

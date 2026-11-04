@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Magnifier test helper implementations
+// summary: Implements test helpers that create text input views and report view and caret bounds for magnifier unit tests.
+// relations:
+//   - implements /ash/accessibility/magnifier/magnifier_test_utils.h
+//   - depends_on /ash/shell.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #include "ash/accessibility/magnifier/magnifier_test_utils.h"
 
 #include "ash/shell.h"

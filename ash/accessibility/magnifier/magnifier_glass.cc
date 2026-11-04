@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magnifier glass implementation
+// summary: Implements the circular magnifier glass window, drawing its border, outline, and shadow for the partial screen magnifier.
+// relations:
+//   - implements /ash/accessibility/magnifier/magnifier_glass.h
+//   - depends_on /ash/shell.h
+//   - depends_on /base/check_op.h
+// ---
+
 #include "ash/accessibility/magnifier/magnifier_glass.h"
 
 #include "ash/shell.h"

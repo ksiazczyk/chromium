@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility controller test API header
+// summary: Declares the AccessibilityControllerTestApiImpl class that implements the accessibility controller test API.
+// relations:
+//   - implements /ash/public/cpp/test/accessibility_controller_test_api.h
+//   - depends_on /ash/public/cpp/test/accessibility_controller_test_api.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_ACCESSIBILITY_CONTROLLER_TEST_API_IMPL_H_
 #define ASH_ACCESSIBILITY_ACCESSIBILITY_CONTROLLER_TEST_API_IMPL_H_
 

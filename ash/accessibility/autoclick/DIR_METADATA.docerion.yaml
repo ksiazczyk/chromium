@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Autoclick directory metadata
+summary: Points the autoclick directory to the shared accessibility common metadata mixins used for ownership and review routing in Chrome OS.
+relations:
+  - references /chrome/browser/resources/chromeos/accessibility/accessibility_common/autoclick/COMMON_METADATA

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoclick ring animation implementation
+// summary: Draws and animates the semi-transparent ring that fills around the cursor during an autoclick gesture.
+// relations:
+//   - depends_on /ash/accessibility/autoclick/autoclick_ring_handler.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/aura/window.h
+// ---
+
 #include "ash/accessibility/autoclick/autoclick_ring_handler.h"
 
 #include "base/memory/raw_ptr.h"

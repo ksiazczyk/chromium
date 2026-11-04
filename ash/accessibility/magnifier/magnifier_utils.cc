@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magnifier utility function implementations
+// summary: Implements magnifier helpers that convert scroll offsets to zoom scales, compute viewport widget bounds, and route focus updates to the active magnifier.
+// relations:
+//   - implements /ash/accessibility/magnifier/magnifier_utils.h
+//   - depends_on /ash/accessibility/magnifier/magnifier_utils.h
+//   - depends_on /ash/accessibility/magnifier/docked_magnifier_controller.h
+// ---
+
 #include "ash/accessibility/magnifier/magnifier_utils.h"
 
 #include <algorithm>

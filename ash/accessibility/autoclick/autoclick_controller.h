@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoclick controller class declaration
+// summary: Declares the AutoclickController API for enabling autoclick, setting delay, event type, movement threshold, menu position, and scroll pad actions.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/constants/ash_constants.h
+//   - depends_on /ash/public/cpp/ash_constants.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_AUTOCLICK_AUTOCLICK_CONTROLLER_H_
 #define ASH_ACCESSIBILITY_AUTOCLICK_AUTOCLICK_CONTROLLER_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility observer interface
+// summary: Observer interface notified when accessibility status changes or when the accessibility controller is shutting down.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/observer_list_types.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_ACCESSIBILITY_OBSERVER_H_
 #define ASH_ACCESSIBILITY_ACCESSIBILITY_OBSERVER_H_
 

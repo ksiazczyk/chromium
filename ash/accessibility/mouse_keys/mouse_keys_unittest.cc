@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse Keys unit tests
+// summary: Unit tests for the Mouse Keys controller, verifying keyboard-driven cursor movement, clicks, drags and bubble behavior using Ash test infrastructure and a mock-time event generator.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/drag_event_rewriter.h
+// ---
+
 #include <string_view>
 
 #include "ash/accelerators/accelerator_controller_impl.h"

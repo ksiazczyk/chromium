@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: accessibility_highlight_layer.h
+// summary: Declares AccessibilityHighlightLayer, an AccessibilityLayer subclass that highlights a set of screen rectangles with a given color.
+// relations:
+//   - depends_on /ash/accessibility/ui/accessibility_layer.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/gfx/geometry/rect.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_ACCESSIBILITY_HIGHLIGHT_LAYER_H_
 #define ASH_ACCESSIBILITY_UI_ACCESSIBILITY_HIGHLIGHT_LAYER_H_
 

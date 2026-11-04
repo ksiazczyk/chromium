@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sticky keys controller header
+// summary: Declares the StickyKeysController class, an accessibility event rewriter that lets users compose shortcuts without holding modifier keys down.
+// relations:
+//   - depends_on /ash/accessibility/sticky_keys/sticky_keys_state.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/event_constants.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_STICKY_KEYS_STICKY_KEYS_CONTROLLER_H_
 #define ASH_ACCESSIBILITY_STICKY_KEYS_STICKY_KEYS_CONTROLLER_H_
 

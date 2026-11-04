@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Docked magnifier controller unit tests
+// summary: Unit tests covering docked magnifier behavior across user sessions, display changes, overview, split view, and capture mode interactions.
+// relations:
+//   - tests /ash/accessibility/magnifier/docked_magnifier_controller.h
+//   - depends_on /ash/accessibility/magnifier/magnifier_test_utils.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+// ---
+
 #include "ash/accessibility/magnifier/docked_magnifier_controller.h"
 
 #include <memory>

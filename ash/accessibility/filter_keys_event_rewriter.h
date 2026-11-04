@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter keys event rewriter header
+// summary: Declares the event rewriter implementing bounce keys, which delays or cancels repeated keyboard events.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/constants/ash_constants.h
+//   - depends_on /base/containers/flat_set.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_FILTER_KEYS_EVENT_REWRITER_H_
 #define ASH_ACCESSIBILITY_FILTER_KEYS_EVENT_REWRITER_H_
 

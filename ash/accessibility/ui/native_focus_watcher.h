@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeFocusWatcher and NativeFocusObserver declarations
+// summary: Declares NativeFocusObserver and NativeFocusWatcher, which watch native focus changes across all windows and widgets and notify registered observers.
+// relations:
+//   - depends_on /base/observer_list.h
+//   - depends_on /base/observer_list_types.h
+//   - depends_on /ui/views/focus/focus_manager.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_NATIVE_FOCUS_WATCHER_H_
 #define ASH_ACCESSIBILITY_UI_NATIVE_FOCUS_WATCHER_H_
 

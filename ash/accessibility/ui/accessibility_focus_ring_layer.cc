@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility focus ring layer implementation
+// summary: Implements painting of nonrectangular focus rings as glow, solid, or dashed paths with gradient and background, and picks the parent container by stacking order.
+// relations:
+//   - implements /ash/accessibility/ui/accessibility_focus_ring_layer.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accessibility/ui/accessibility_focus_ring_layer.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptionBubbleContextAsh header
+// summary: Declares CaptionBubbleContextAsh, the Ash implementation of the live caption bubble context interface.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /components/live_caption/caption_bubble_context.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_CAPTION_BUBBLE_CONTEXT_ASH_H_
 #define ASH_ACCESSIBILITY_CAPTION_BUBBLE_CONTEXT_ASH_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: focus_ring_controller.h
+// summary: Declares FocusRingController, which watches native focus changes and updates the focus ring layer for keyboard-driven navigation in OOBE.
+// relations:
+//   - depends_on /ash/accessibility/ui/focus_ring_layer.h
+//   - depends_on /ash/accessibility/ui/native_focus_watcher.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_UI_FOCUS_RING_CONTROLLER_H_
 #define ASH_ACCESSIBILITY_UI_FOCUS_RING_CONTROLLER_H_
 

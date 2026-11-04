@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disable touchpad event rewriter implementation
+// summary: Implements an event rewriter that blocks events from the built-in touchpad when the accessibility disable-touchpad mode is enabled.
+// relations:
+//   - implements /ash/accessibility/disable_touchpad_event_rewriter.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/public/cpp/accessibility_controller_enums.h
+// ---
+
 #include "ash/accessibility/disable_touchpad_event_rewriter.h"
 
 #include "ash/accessibility/accessibility_controller.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse Keys controller header
+// summary: Declares the MouseKeysController class, an event handler that converts key events into mouse events for the Mouse Keys accessibility feature, with configurable speed, acceleration and key layouts.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/accessibility_controller_enums.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_ACCESSIBILITY_MOUSE_KEYS_MOUSE_KEYS_CONTROLLER_H_
 #define ASH_ACCESSIBILITY_MOUSE_KEYS_MOUSE_KEYS_CONTROLLER_H_
 

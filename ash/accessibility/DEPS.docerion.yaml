@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Accessibility directory include rules
+summary: Grants the accessibility_prefs_custom_associator sources additional include permissions for sync preferences headers.

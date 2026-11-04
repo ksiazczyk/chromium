@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessibilityPrefsMergeConflictDialog unit tests
+// summary: Unit tests for the merge conflict dialog, using a fake controller to check row construction, pref updates, and dismissal callbacks.
+// relations:
+//   - tests /ash/accessibility/accessibility_prefs_merge_conflict_dialog.h
+//   - depends_on /ash/accessibility/accessibility_prefs_merge_conflict_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/accessibility/accessibility_prefs_merge_conflict_dialog.h"
 
 #include "ash/accessibility/accessibility_controller.h"

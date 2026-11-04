@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility controller test API implementation
+// summary: Implements the accessibility controller test API, exposing feature toggles, download progress and dialog helpers for tests.
+// relations:
+//   - depends_on /ash/accessibility/accessibility_controller_test_api_impl.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+// ---
+
 #include "ash/accessibility/accessibility_controller_test_api_impl.h"
 
 #include "ash/accelerators/accelerator_controller_impl.h"
