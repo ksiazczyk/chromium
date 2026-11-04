@@ -7,6 +7,12 @@
  * ring location.
  */
 
+// ---docerion
+// type: source
+// title: Focus bounds and focus ring manager
+// summary: Stores the current focus bounds and sets ChromeVox focus glow rings through the accessibilityPrivate API.
+// ---
+
 import {constants} from '/common/constants.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 

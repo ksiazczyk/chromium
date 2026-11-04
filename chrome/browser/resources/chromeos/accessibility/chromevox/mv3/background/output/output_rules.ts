@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox output rules
+// summary: Defines the OutputRule classes and rule tables that map events, roles, navigation and output formats to format strings for ChromeVox output.
+// ---
+
 /**
  * @fileoverview Contains the rules for output based on type information.
  */

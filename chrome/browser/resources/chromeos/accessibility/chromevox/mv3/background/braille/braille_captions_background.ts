@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille captions background
+// summary: Sends braille content to the Chrome OS panel or a content script when the braille captions feature is enabled.
+// ---
+
 /**
  * @fileoverview If the braille captions feature is enabled, sends
  * braille content to the Panel on Chrome OS, or a content script on

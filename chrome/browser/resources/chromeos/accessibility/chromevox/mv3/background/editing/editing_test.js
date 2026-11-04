@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: End-to-end tests for ChromeVox text editing
+// summary: End-to-end tests covering speech and braille feedback for focusing and editing single-line and multiline text fields.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 

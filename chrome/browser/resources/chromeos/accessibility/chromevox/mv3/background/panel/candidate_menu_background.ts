@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Candidate menu background for ChromeVox panel
+// summary: Presents Japanese IME conversion candidates as a ChromeVox panel menu with phonetic accessible names and resolves with the selected candidate.
+// ---
+
 /**
  * @fileoverview Presents conversion candidates, currently used by Japanese
  * IME kana-to-kanji conversion, in a ChromeVox Panel menu, reusing the same

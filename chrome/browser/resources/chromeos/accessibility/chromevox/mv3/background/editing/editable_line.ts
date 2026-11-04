@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditableLine class encapsulating line data for output
+// summary: Encapsulates data about a line in the automation tree, storing editable selection offsets and line start/end nodes and offsets needed to provide output.
+// ---
+
 /**
  * @fileoverview An EditableLine encapsulates all data concerning a line in the
  * automation tree necessary to provide output. Editable: an editable selection

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event source type enum
+// summary: Enumerates the source types used to track where the current ChromeVox event came from, such as keyboard, braille or touch gesture.
+// ---
+
 /**
  * @fileoverview Types available for tracking the current event source.
  */

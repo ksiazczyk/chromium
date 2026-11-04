@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'TypingEcho: typing echo modes for ChromeVox'
+// summary: Defines the TypingEchoState enum and TypingEcho class that store, cycle, announce, and apply ChromeVox typing echo options such as character, word, both, or none.
+// ---
+
 import {LocalStorage} from '/common/local_storage.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 

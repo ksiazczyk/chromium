@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhoneticData for multi-language phonetic disambiguation
+// summary: Provides phonetic disambiguation for characters and text across multiple languages, with specialized handling for Japanese, in ChromeVox.
+// ---
+
 /**
  * @fileoverview Provides phonetic disambiguation functionality across multiple
  * languages for ChromeVox.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract earcons base class
+// summary: Abstract base class for earcon implementations, defining play, cancel, toggle and the enabled setting stored in local storage.
+// ---
+
 import {LocalStorage} from '/common/local_storage.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 

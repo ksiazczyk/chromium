@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: ChromeVox mv3 directory metadata
+summary: Points DIR_METADATA at the shared COMMON_METADATA file so this directory inherits the ChromeVox component and owner settings.

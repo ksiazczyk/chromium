@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop automation handler tests
+// summary: End-to-end browser tests verifying speech output of the desktop automation handler, such as slider value changes and autofill announcements.
+// ---
+
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 GEN_INCLUDE(['../../../../common/testing/documents.js']);
 GEN_INCLUDE(['../../testing/fake_objects.js']);

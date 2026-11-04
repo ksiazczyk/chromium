@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PanelNodeMenuBackground tests
+// summary: Tests node menu population for headings, links, landmarks, tables, and form controls using fake message and bridge objects.
+// ---
+
 GEN_INCLUDE([
   '../../../../common/testing/documents.js',
   '../../testing/chromevox_e2e_test_base.js',

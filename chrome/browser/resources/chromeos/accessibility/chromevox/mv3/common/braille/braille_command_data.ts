@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox braille command data
+// summary: Maps braille dot patterns to ChromeVox commands and provides helpers for building patterns, looking up commands, and formatting dot shortcuts.
+// ---
+
 /**
  * @fileoverview ChromeVox braille command data.
  */

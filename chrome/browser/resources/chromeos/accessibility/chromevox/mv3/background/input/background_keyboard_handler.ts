@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox background keyboard handler
+// summary: Handles ChromeVox keyboard events in the background context, including key pass-through mode and spoken feedback key handling.
+// ---
+
 /**
  * @fileoverview ChromeVox keyboard handler.
  */

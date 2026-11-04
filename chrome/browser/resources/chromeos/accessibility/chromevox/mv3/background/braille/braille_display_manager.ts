@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille display manager
+// summary: Puts translated text on the braille display, tracking display state, panning, and virtual braille captions.
+// ---
+
 /**
  * @fileoverview Puts text on a braille display.
  */

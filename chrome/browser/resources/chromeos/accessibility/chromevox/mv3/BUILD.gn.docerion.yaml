@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeVox mv3 BUILD.gn build configuration
+summary: GN build rules for the ChromeVox Manifest V3 extension, defining targets, TypeScript module lists, output directories and dependencies.

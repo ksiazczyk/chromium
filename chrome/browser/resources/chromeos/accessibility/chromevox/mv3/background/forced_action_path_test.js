@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ForcedActionPath end-to-end tests
+// summary: Browser test fixture verifying ForcedActionPath action matching, action equality, and key event propagation in ChromeVox.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../testing/chromevox_e2e_test_base.js']);
 

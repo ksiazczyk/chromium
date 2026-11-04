@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tenji worker bridge
+// summary: Singleton that starts the sandboxed Tenji worker and handles braille translation, back-translation and reading conversion requests.
+// ---
+
 
 import {ArrayBufferUtil} from '/common/array_buffer_util.js';
 import {BridgeHelper} from '/common/bridge_helper.js';

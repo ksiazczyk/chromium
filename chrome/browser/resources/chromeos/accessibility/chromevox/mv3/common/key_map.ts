@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: source
+// title: ChromeVox key map class
+// summary: Provides a stable interface for initializing, querying, and modifying the ChromeVox key map that binds commands to key sequences.
+// ---
+
 /**
  * @fileoverview This class provides a stable interface for initializing,
  * querying, and modifying a ChromeVox key map.

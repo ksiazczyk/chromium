@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandboxed Tenji wrapper tests
+// summary: ChromeVox e2e tests verifying the sandboxed Tenji wrapper's translate, back-translate, and conversion responses using mock WASM modules and offset maps.
+// ---
+
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 
 const BRAILLE_BASE = 0x2800;

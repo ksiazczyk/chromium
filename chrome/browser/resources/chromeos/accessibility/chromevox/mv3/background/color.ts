@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color matching services for ChromeVox
+// summary: Describes colors for ChromeVox by finding the closest matching named color and computing opacity from ARGB values.
+// ---
+
 /**
  * @fileoverview Provides color matching services for ChromeVox.
  */

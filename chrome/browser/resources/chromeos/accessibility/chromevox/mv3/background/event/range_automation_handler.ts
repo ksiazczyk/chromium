@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Range automation handler
+// summary: Listens for attribute and state changes on nodes within ChromeVox's current range and outputs corresponding speech and braille.
+// ---
+
 /**
  * @fileoverview Handles automation from ChromeVox's current range.
  */

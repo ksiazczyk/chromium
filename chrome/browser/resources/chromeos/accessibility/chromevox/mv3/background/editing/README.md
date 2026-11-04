@@ -1,3 +1,9 @@
+---
+type: readme
+title: Text Editing in ChromeVox
+summary: Explains how ChromeVox text edit handling flows from DesktopAutomationHandler through TextEditHandler to AutomationEditableText, which tracks cursor and selection and performs actions on text.
+---
+
 # Text Editing in ChromeVox
 
 Text edit handling begins in `DesktopAutomationHandler`. When a focus event

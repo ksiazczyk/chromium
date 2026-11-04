@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrimaryTts default background speech implementation
+// summary: Default text-to-speech implementation for the ChromeVox background context, managing utterance queues, voices, and punctuation echo.
+// ---
+
 /**
  * @fileoverview Default implementation for TTS in the background context.
  */

@@ -1,3 +1,11 @@
+---
+type: readme
+title: Output in ChromeVox
+summary: Explains how ChromeVox produces speech output automatically from cursor range changes and events using announcement rules defined in output_rules.js.
+relations:
+  - documents /chrome/browser/resources/chromeos/accessibility/chromevox/mv3/background/output/output_rules.ts
+---
+
 # Output in ChromeVox
 
 ChromeVox has a few different ways of producing output. Sometimes, speech

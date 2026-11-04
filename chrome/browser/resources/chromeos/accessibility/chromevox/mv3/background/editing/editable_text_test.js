@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for ChromeVox editable text feedback
+// summary: Tests cursor navigation, typing, and braille output for the editable text classes using fake TTS and braille implementations.
+// ---
+
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox panel background logic
+// summary: Singleton that handles panel actions needing background-context state, including incremental search, node menus, node actions, and tutorial readiness.
+// ---
+
 /**
  * @fileoverview Handles logic for the ChromeVox panel that requires state from
  * the background context.

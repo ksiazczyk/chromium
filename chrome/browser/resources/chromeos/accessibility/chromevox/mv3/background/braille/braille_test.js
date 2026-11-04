@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeVox braille logging test
+// summary: E2E test verifying that braille output written through BrailleBackground is recorded as a braille entry in the log store when braille logging is enabled.
+// ---
+
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 
 ChromeVoxBrailleTest = class extends ChromeVoxE2ETest {};

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spannable unit tests
+// summary: Unit tests for the ChromeVox Spannable class covering string output, span insertion and lookup, length, and serializable span registration.
+// ---
+
 GEN_INCLUDE(['../testing/chromevox_e2e_test_base.js']);
 
 UnserializableSpan = function() {};

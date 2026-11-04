@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard input event handler
+// summary: Handles user keyboard input events by mapping key sequences to ChromeVox commands through the key map and a command handler.
+// ---
+
 /**
  * @fileoverview Handles user keyboard input events.
  */

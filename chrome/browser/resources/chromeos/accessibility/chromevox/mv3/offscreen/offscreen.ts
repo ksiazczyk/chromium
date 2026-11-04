@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox offscreen document entry point
+// summary: Initializes offscreen handlers for ChromeVox readiness, learn mode keyboard events, clipboard access and the earcon, liblouis and tenji workers.
+// ---
+
 import {SRE} from '/chromevox/mv3/third_party/sre/sre_browser.js';
 import {BridgeHelper} from '/common/bridge_helper.js';
 

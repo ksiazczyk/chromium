@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media automation handler
+// summary: Tracks media playback and ducks or suspends media while ChromeVox speech is active.
+// ---
+
 /**
  * @fileoverview Handles media automation events.
  */

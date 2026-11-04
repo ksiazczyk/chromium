@@ -8,6 +8,12 @@
  * rest of the code.
  */
 
+// ---docerion
+// type: source
+// title: ChromeVox earcon audio engine
+// summary: Generates ChromeVox earcon sounds with the Web Audio API, exposing adjustable volume, pitch, panning, reverb and sweep parameters.
+// ---
+
 import {BridgeHelper} from '/common/bridge_helper.js';
 
 import {BridgeConstants} from '../common/bridge_constants.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtsBackground background TTS coordinator
+// summary: Coordinates text-to-speech in the background context by composing the primary and console TTS engines and exposing speech controls.
+// ---
+
 /**
  * @fileoverview Sends Text-To-Speech commands to Chrome's native TTS
  * extension API.

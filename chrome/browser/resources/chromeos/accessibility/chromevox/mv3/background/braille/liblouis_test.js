@@ -7,6 +7,12 @@
  *    the JavaScript interface.
  */
 
+// ---docerion
+// type: test
+// title: LibLouis wrapper tests
+// summary: Tests the liblouis wasm wrapper's JavaScript interface, checking translation and back-translation across several braille tables.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 

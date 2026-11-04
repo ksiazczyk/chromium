@@ -7,6 +7,12 @@
  * the background context to the panel context.
  */
 
+// ---docerion
+// type: source
+// title: Data types for ChromeVox panel menus
+// summary: Defines menu IDs, item data and predicates for transferring panel menu information from the background context to the panel context.
+// ---
+
 import {AutomationPredicate} from '/common/automation_predicate.js';
 import type {BridgeCallbackId} from '/common/bridge_callback_manager.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';

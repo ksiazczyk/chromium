@@ -6,6 +6,12 @@
  * @fileoverview Responsible for loading scripts into the inject context.
  */
 
+// ---docerion
+// type: source
+// title: Injected script loader
+// summary: Fetches ChromeVox content script sources and injects them into all running tabs matching the manifest, including Google Docs content scripts.
+// ---
+
 export class InjectedScriptLoader {
 
   private code_: { [key: string]: string } = {};

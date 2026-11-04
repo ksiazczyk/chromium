@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WasmKanaKanjiProvider tests
+// summary: Tests kana-to-kanji candidate retrieval, covering trailing separator trimming, non-hiragana input, engine result passthrough and initialization failure.
+// ---
+
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 
 ChromeVoxWasmKanaKanjiProviderTest = class extends ChromeVoxE2ETest {

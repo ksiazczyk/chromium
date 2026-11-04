@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeVox panel tests
+// summary: Browser tests for the ChromeVox panel covering menu activation, link and form controls menus, search menu navigation and braille panning via mock panel bridge helpers.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['panel_test_base.js']);
 

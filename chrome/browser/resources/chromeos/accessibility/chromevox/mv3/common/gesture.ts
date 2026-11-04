@@ -6,6 +6,12 @@
  * @fileoverview Defines the gestures that ChromeVox can process.
  */
 
+// ---docerion
+// type: source
+// title: Gesture enum for ChromeVox
+// summary: Defines the touch gestures ChromeVox can process, matching string values in ax::mojom::Gesture.
+// ---
+
 /**
  * Must match string values in ax::mojom::Gesture, defined in
  *     ui/accessibility/ax_enums.mojom.

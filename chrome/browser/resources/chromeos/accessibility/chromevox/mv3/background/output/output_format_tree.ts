@@ -6,6 +6,12 @@
  * @fileoverview Parses the output format.
  */
 
+// ---docerion
+// type: source
+// title: Output format tree parser
+// summary: Parses output format strings into a tree structure representing tokens with nested function arguments and sibling tokens.
+// ---
+
 export class OutputFormatTree {
   value = '';
   firstChild?: OutputFormatTree;

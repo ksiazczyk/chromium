@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PanStrategy braille display panning logic
+// summary: Implements panning of braille content across a display, supporting fixed and word-wrapped viewports with cursor dots and braille-to-text index mapping.
+// ---
+
 /**
  * @fileoverview Logic for panning a braille display within a line of braille
  * content that might not fit on a single display.

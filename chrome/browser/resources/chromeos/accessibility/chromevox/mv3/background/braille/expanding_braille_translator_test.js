@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expanding braille translator tests
+// summary: Unit tests for ExpandingBrailleTranslator using fake translators to check contracted and uncontracted translation, value expansion, and error handling.
+// ---
+
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 
 /**

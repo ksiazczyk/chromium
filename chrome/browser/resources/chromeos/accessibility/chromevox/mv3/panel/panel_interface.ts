@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Panel control interface
+// summary: Abstract interface defining panel control operations such as closing menus, switching modes, and setting pending callbacks.
+// ---
+
 /**
  * @fileoverview An interface to control the ChromeVox Panel.
  */

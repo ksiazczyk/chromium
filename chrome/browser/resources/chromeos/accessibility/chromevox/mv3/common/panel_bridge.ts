@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Panel bridge for ChromeVox message passing
+// summary: Interface for other renderers to communicate with the ChromeVox panel, including menu commands, tutorial queries and test hooks.
+// ---
+
 /**
  * @fileoverview Provides an interface for other renderers to communicate with
  * the ChromeVox panel.

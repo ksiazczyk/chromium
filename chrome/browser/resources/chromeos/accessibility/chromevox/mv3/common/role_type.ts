@@ -7,6 +7,12 @@
  * ChromeVox.
  */
 
+// ---docerion
+// type: source
+// title: Abstract and custom ChromeVox role types
+// summary: Extends chrome.automation.RoleType with abstract and custom role enums used by ChromeVox.
+// ---
+
 export enum AbstractRole {
   CONTAINER = 'abstractContainer',
   FORM_FIELD_CONTAINER = 'abstractFormFieldContainer',

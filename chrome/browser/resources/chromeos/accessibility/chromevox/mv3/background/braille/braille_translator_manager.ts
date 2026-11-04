@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille translator manager
+// summary: Tracks the current braille translators, loading liblouis or Tenji translators based on locale and settings and notifying listeners when they change.
+// ---
+
 /**
  * @fileoverview Keeps track of the current braille translators.
  */

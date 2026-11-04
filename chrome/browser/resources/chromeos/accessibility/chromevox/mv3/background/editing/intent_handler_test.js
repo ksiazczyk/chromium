@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit-style tests for the intent handler
+// summary: Tests IntentHandler selection movement by character, word, and line using fake editable lines and a mocked Output.
+// ---
+
 GEN_INCLUDE([
   '../../testing/chromevox_e2e_test_base.js',
   '../../../../common/testing/assert_additions.js',

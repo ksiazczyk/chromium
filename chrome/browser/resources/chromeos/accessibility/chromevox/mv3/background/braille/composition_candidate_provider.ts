@@ -16,6 +16,12 @@
  * depending on one written for another translator's language.
  */
 
+// ---docerion
+// type: source
+// title: Composition candidate provider interface
+// summary: Defines a language-agnostic interface that supplies conversion candidates for IME composition text entered via braille before it is committed.
+// ---
+
 /** Provides conversion candidates for composition-input text. */
 export interface CompositionCandidateProvider {
   /**

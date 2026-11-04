@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download event handler with spoken notifications
+// summary: Listens for Chrome download events and announces progress, completion and interruption to the user via speech and braille.
+// ---
+
 /**
  * @fileoverview Listens for download events and provides corresponding
  * notifications in ChromeVox.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forced action path monitor
+// summary: Monitors user actions such as key sequences, gestures, and braille input, blocking ChromeVox execution until each expected action in a queue is matched.
+// ---
+
 /**
  * @fileoverview Forces user actions down a predetermined path.
  */

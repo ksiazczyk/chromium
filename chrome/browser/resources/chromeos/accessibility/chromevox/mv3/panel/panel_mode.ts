@@ -6,6 +6,12 @@
  * @fileoverview The modes that the Chromevox panel can be in.
  */
 
+// ---docerion
+// type: source
+// title: ChromeVox panel modes
+// summary: Defines the PanelMode enum (collapsed, focused, fullscreen menus, fullscreen tutorial, search) and per-mode title and location data for the ChromeVox panel.
+// ---
+
 export enum PanelMode {
   COLLAPSED = 'collapsed',
   FOCUSED = 'focused',
