@@ -1,0 +1,4 @@
+# Docerion header of signature_evaluator_mac.mm.
+type: source
+title: Mac signature evaluator implementation
+summary: Implements macOS code signature evaluation, extracting signature data from Mach-O files and extended attributes and reporting altered bundle files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdvancedProtectionStatusManagerAndroidBridge
+// summary: JNI bridge that observes the Android-OS advanced-protection state, honors a force switch and notifies native code when the setting changes.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import org.jni_zero.CalledByNative;

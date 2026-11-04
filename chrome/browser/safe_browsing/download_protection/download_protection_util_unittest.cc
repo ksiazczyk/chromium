@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download protection utilities unit tests
+// summary: Unit tests for download protection utilities, covering archive entry selection order, encrypted file prioritization and related helper behavior.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_protection_util.h"
 
 #include "base/path_service.h"

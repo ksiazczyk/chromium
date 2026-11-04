@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suspicious site controller unit tests
+// summary: Unit tests for the suspicious site warning controller covering dialog behavior, HaTS surveys and histogram metrics.
+// ---
+
 #include "chrome/browser/safe_browsing/android/suspicious_site_controller_android.h"
 
 #include <memory>

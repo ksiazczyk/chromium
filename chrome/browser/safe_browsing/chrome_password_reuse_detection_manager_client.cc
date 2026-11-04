@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromePasswordReuseDetectionManagerClient implementation
+// summary: Implements the per-WebContents client that watches input events and clipboard to detect password reuse and forwards it to the password protection service.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_password_reuse_detection_manager_client.h"
 
 #include <memory>

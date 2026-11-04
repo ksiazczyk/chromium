@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing pref change handler unit tests
+// summary: Unit tests for the Safe Browsing pref change handler, using mock sync, tailored security, and toast controller services to verify enhanced protection change notifications.
+// ---
+
 #include "chrome/browser/safe_browsing/safe_browsing_pref_change_handler.h"
 
 #include "base/test/scoped_feature_list.h"

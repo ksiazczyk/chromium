@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Advanced protection status manager unit tests
+// summary: Platform-shared unit tests for the advanced protection status manager, exercising unconsented primary account tracking on Android and desktop.
+// ---
+
 #include "chrome/browser/safe_browsing/advanced_protection_status_manager.h"
 
 #include "base/command_line.h"

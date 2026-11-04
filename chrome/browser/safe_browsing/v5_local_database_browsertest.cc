@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V5 local database browser test
+// summary: Browser test that redirects V5 update and search-hashes requests to an embedded test server with a malware hash list and checks that matching URLs are blocked.
+// ---
+
 #include <string>
 #include <utility>
 

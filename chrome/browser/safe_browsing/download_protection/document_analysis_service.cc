@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document analysis service launcher
+// summary: Launches the DocumentAnalysis service in an isolated sandboxed process and returns a Mojo remote interface to control it.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/document_analysis_service.h"
 
 #include "chrome/grit/generated_resources.h"

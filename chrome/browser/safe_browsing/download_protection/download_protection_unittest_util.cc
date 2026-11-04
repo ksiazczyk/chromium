@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for download protection unit tests
+// summary: Provides ReadTestCertificate, which reads a PEM-encoded certificate from the test data directory for download protection tests.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_protection_unittest_util.h"
 
 #include "base/files/file_util.h"

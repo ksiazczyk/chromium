@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Safe Browsing local state delegate
+// summary: Implements the Chrome delegate that supplies browser local state preferences to the Safe Browsing WebUI.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_safe_browsing_local_state_delegate.h"
 
 #include "chrome/browser/browser_process.h"

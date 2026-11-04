@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome user population helper implementation
+// summary: Builds the ChromeUserPopulation proto for a profile from sync, sign-in, advanced protection, and policy state, with caching and page load tokens.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_user_population_helper.h"
 
 #include "base/metrics/histogram_functions.h"

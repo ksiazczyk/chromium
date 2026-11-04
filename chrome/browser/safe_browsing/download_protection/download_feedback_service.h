@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download feedback service header
+// summary: Declares DownloadFeedbackService, which tracks active DownloadFeedback objects and provides an interface for storing ping data for malicious downloads on the UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOWNLOAD_FEEDBACK_SERVICE_H_
 #define CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOWNLOAD_FEEDBACK_SERVICE_H_
 

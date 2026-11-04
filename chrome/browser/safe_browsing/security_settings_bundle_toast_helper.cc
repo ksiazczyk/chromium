@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security settings bundle toast helper implementation
+// summary: Implements the per-profile helper that shows the enhanced security settings bundle migration toast, with retry logic, metrics, and toast controller lookup.
+// ---
+
 #include "chrome/browser/safe_browsing/security_settings_bundle_toast_helper.h"
 
 #include "base/functional/bind.h"

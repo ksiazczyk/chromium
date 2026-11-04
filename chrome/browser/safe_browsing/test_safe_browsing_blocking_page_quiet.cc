@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test quiet Safe Browsing blocking page implementation
+// summary: Implements a test blocking page that builds the quiet Safe Browsing interstitial HTML so quiet interstitials can be exercised through Chrome in tests.
+// ---
+
 #include "chrome/browser/safe_browsing/test_safe_browsing_blocking_page_quiet.h"
 
 #include "components/grit/components_resources.h"

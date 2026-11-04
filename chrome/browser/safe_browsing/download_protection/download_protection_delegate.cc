@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download protection delegate implementation
+// summary: Implements the platform factory for DownloadProtectionDelegate, selecting the Android or desktop implementation and providing default request modification behavior.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_protection_delegate.h"
 
 #if BUILDFLAG(IS_ANDROID)

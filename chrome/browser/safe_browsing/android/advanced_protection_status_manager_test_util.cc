@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Advanced protection status test utility implementation
+// summary: Native JNI helper that sets the OS-requested advanced protection state for testing.
+// ---
+
 #include "chrome/browser/safe_browsing/android/advanced_protection_status_manager_test_util.h"
 
 #include <jni.h>

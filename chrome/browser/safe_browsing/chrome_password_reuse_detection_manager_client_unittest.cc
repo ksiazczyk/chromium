@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromePasswordReuseDetectionManagerClient
+// summary: Unit tests for the password reuse detection manager client using mock password manager, reuse manager, and identity test environment.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_password_reuse_detection_manager_client.h"
 
 #include <array>

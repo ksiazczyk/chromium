@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File analysis request unit tests
+// summary: Tests that archive files are analyzed and encrypted archives are detected, including obfuscated archives and MIME type handling.
+// ---
+
 #include "chrome/browser/safe_browsing/cloud_content_scanning/file_analysis_request.h"
 
 #include "base/containers/span.h"

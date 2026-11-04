@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing service unit tests
+// summary: Unit tests for the Safe Browsing service, covering download warning actions, pref change handlers, and enhanced protection setting change notifications with mocks.
+// ---
+
 #include "chrome/browser/safe_browsing/safe_browsing_service.h"
 
 #include <memory>

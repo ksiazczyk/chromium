@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time URL lookup service factory header
+// summary: Declares RealTimeUrlLookupServiceFactory, a singleton owning one real-time URL lookup service per active profile.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_URL_LOOKUP_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SAFE_BROWSING_URL_LOOKUP_SERVICE_FACTORY_H_
 

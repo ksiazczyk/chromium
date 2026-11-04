@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download item metadata unit tests
+// summary: Unit tests for DownloadItemMetadata that verify accessors and behavior against a mocked download item in a temporary directory.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_item_metadata.h"
 
 #include <optional>

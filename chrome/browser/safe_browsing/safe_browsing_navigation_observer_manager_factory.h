@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing navigation observer manager factory header
+// summary: Declares the singleton factory owning a SafeBrowsingNavigationObserverManager per profile, with a separate instance for Incognito.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_SAFE_BROWSING_NAVIGATION_OBSERVER_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_SAFE_BROWSING_SAFE_BROWSING_NAVIGATION_OBSERVER_MANAGER_FACTORY_H_
 

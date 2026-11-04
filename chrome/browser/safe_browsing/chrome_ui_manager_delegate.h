@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Safe Browsing UI manager delegate header
+// summary: Declares ChromeSafeBrowsingUIManagerDelegate, the Chrome-specific delegate interface for SafeBrowsingUIManager.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_CHROME_UI_MANAGER_DELEGATE_H_
 #define CHROME_BROWSER_SAFE_BROWSING_CHROME_UI_MANAGER_DELEGATE_H_
 

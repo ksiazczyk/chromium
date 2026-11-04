@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL checker delegate implementation
+// summary: Implements the Chrome URL checker delegate handling unsafe resources, blocking pages, prerender cleanup, and enterprise allowlists.
+// ---
+
 #include "chrome/browser/safe_browsing/url_checker_delegate_impl.h"
 
 #include <algorithm>

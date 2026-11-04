@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated security settings bundle pref class declaration
+// summary: Declares the GeneratedSecuritySettingsBundlePref class that exposes the effective Security Settings Bundle state as a generated preference for WebUI without leaking coalescing logic.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_GENERATED_SECURITY_SETTINGS_BUNDLE_PREF_H_
 #define CHROME_BROWSER_SAFE_BROWSING_GENERATED_SECURITY_SETTINGS_BUNDLE_PREF_H_
 

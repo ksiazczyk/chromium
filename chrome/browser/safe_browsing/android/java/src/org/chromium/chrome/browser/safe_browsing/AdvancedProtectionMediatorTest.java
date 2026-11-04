@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AdvancedProtectionMediatorTest
+// summary: Robolectric unit tests for AdvancedProtectionMediator covering observer registration, preference updates and message enqueuing with a mock OS security provider.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import static com.google.common.truth.Truth.assertThat;

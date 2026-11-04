@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download request maker unit tests
+// summary: Unit tests for DownloadRequestMaker, verifying that download pings are populated with URLs, hashes and other request fields.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_request_maker.h"
 
 #include "base/notreached.h"

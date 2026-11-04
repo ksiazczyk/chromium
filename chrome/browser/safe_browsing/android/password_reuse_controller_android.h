@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password reuse controller for Android header
+// summary: Declares the self-owned controller that manages the Android password reuse dialog view and reports user warning actions to the protection service.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_ANDROID_PASSWORD_REUSE_CONTROLLER_ANDROID_H_
 #define CHROME_BROWSER_SAFE_BROWSING_ANDROID_PASSWORD_REUSE_CONTROLLER_ANDROID_H_
 

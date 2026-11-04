@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verdict cache manager factory implementation
+// summary: Implements the profile-keyed factory that builds VerdictCacheManager instances with history, content settings, prefs, and Safe Browsing sync observer dependencies.
+// ---
+
 #include "chrome/browser/safe_browsing/verdict_cache_manager_factory.h"
 
 #include "chrome/browser/browser_process.h"

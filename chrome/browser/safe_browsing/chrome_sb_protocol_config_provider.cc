@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing protocol config provider implementation
+// summary: Builds the Safe Browsing protocol configuration, deriving the request client name from branding, platform, and command-line switches.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_sb_protocol_config_provider.h"
 
 #include <string>

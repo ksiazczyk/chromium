@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated security settings bundle pref implementation
+// summary: Implements the generated security_settings_bundle preference that maps STANDARD or ENHANCED selections to the underlying Safe Browsing bundle and Secure DNS settings.
+// ---
+
 #include "chrome/browser/safe_browsing/generated_security_settings_bundle_pref.h"
 
 #include "chrome/browser/browser_process.h"

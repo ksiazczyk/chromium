@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StandardProtectionSettingsFragment
+// summary: Fragment for standard Safe Browsing protection settings that manages the extended reporting toggle based on the current protection state.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing.settings;
 
 import android.os.Bundle;

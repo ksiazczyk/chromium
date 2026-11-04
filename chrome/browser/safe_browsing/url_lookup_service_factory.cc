@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time URL lookup service factory
+// summary: Profile-keyed factory that builds RealTimeUrlLookupService instances with identity, sync, and verdict cache dependencies.
+// ---
+
 #include "chrome/browser/safe_browsing/url_lookup_service_factory.h"
 
 #include "base/functional/bind.h"

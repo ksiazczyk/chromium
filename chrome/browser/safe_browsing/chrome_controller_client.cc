@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Safe Browsing interstitial controller client implementation
+// summary: Implements Chrome-specific interstitial handling, moving web app tabs into a regular Chrome window when users proceed past a warning.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_controller_client.h"
 
 #include "base/feature_list.h"

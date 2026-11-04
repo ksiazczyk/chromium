@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing blocking page Android HaTS survey test
+// summary: Android browser tests verifying that HaTS survey reports are attached on tab close after Safe Browsing blocking pages, parameterized over site isolation.
+// ---
+
 #include <memory>
 #include <string>
 

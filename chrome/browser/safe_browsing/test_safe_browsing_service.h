@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test Safe Browsing service header
+// summary: Declares TestSafeBrowsingService and its factory, letting browser tests configure custom UI, database, and protocol managers without repeated subclassing.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_TEST_SAFE_BROWSING_SERVICE_H_
 #define CHROME_BROWSER_SAFE_BROWSING_TEST_SAFE_BROWSING_SERVICE_H_
 

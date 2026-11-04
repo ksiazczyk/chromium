@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Security settings bundle pref change handler header
+// summary: Declares the handler that shows the appropriate toast or modal when the security settings bundle changes, noting the class is not thread-safe.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_SECURITY_SETTINGS_BUNDLE_PREF_CHANGE_HANDLER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_SECURITY_SETTINGS_BUNDLE_PREF_CHANGE_HANDLER_H_
 

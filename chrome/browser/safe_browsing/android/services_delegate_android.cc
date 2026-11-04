@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Safe Browsing services delegate implementation
+// summary: Android ServicesDelegate that creates the remote database manager, download protection service and telemetry service.
+// ---
+
 #include "chrome/browser/safe_browsing/android/services_delegate_android.h"
 
 #include "base/check_op.h"

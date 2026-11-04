@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android Safe Browsing HaTS delegate
+// summary: Verifies red warning survey launching behavior using a mocked HaTS service and test tab models.
+// ---
+
 #include "chrome/browser/safe_browsing/android/chrome_safe_browsing_hats_delegate_android.h"
 
 #include <memory>

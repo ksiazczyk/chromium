@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnhancedProtectionSettingsFragment
+// summary: Android fragment for Chrome's enhanced Safe Browsing protection settings, including a learn-more link that opens a help page in a custom tab.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing.settings;
 
 import android.os.Bundle;

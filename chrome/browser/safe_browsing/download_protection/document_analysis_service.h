@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document analysis service launcher declaration
+// summary: Declares LaunchDocumentAnalysisService, which starts the sandboxed DocumentAnalysis service process and returns a remote interface.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOCUMENT_ANALYSIS_SERVICE_H_
 #define CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOCUMENT_ANALYSIS_SERVICE_H_
 

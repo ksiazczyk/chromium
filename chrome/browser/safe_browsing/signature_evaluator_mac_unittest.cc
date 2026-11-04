@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac signature evaluator unit tests
+// summary: Unit tests for MacSignatureEvaluator covering relative path components, signed executable validation, and designated requirement checks.
+// ---
+
 #include "chrome/browser/safe_browsing/signature_evaluator_mac.h"
 
 #include <CoreFoundation/CoreFoundation.h>

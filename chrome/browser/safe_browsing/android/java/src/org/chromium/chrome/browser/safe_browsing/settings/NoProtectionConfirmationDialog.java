@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoProtectionConfirmationDialog
+// summary: Modal dialog that asks the user to confirm disabling Safe Browsing and reports the confirmation via a callback.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

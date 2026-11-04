@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing user interaction observer header
+// summary: Declares SafeBrowsingUserInteractionObserver and the delayed warning event enum used for interstitial metrics.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_USER_INTERACTION_OBSERVER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_USER_INTERACTION_OBSERVER_H_
 

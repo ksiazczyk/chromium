@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download URL Safe Browsing client declaration
+// summary: Declares DownloadUrlSBClient, a SafeBrowsingDatabaseManager client that looks up download URLs on the bad binary URL list.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOWNLOAD_URL_SB_CLIENT_H_
 #define CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOWNLOAD_URL_SB_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test binary upload service implementation
+// summary: Implements a fake binary upload service that records requests and finishes them with a preset scan result and response for tests.
+// ---
+
 #include "chrome/browser/safe_browsing/cloud_content_scanning/test_binary_upload_service.h"
 
 #include "content/public/browser/browser_task_traits.h"

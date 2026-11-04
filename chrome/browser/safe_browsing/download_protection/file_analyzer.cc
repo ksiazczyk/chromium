@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File analyzer implementation
+// summary: Implements file content analysis for downloads, dispatching ZIP, RAR, DMG and seven-zip inspection based on file type policies.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/file_analyzer.h"
 
 #include "base/feature_list.h"

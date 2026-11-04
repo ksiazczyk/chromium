@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome user population helper unit tests
+// summary: Unit tests verifying ChromeUserPopulation population across Safe Browsing protection states and extended reporting pref behavior.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_user_population_helper.h"
 
 #include "base/strings/strcat.h"

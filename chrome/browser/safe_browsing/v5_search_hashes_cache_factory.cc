@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 search hashes cache factory implementation
+// summary: Implements the profile-keyed factory that creates V5SearchHashesCache instances backed by the profile's history service.
+// ---
+
 #include "chrome/browser/safe_browsing/v5_search_hashes_cache_factory.h"
 
 #include "chrome/browser/history/history_service_factory.h"

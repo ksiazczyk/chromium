@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client side detection host unit tests
+// summary: Unit tests for the client side detection host covering phishing verdicts, URL checks, autofill interaction, and interstitial behavior.
+// ---
+
 #include <memory>
 #include <optional>
 #include <tuple>

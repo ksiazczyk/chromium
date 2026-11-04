@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop download protection delegate implementation
+// summary: Implements the desktop download protection delegate, deciding which downloads and file system writes to check and constructing the Safe Browsing download request URL.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_protection_delegate_desktop.h"
 
 #include "base/strings/escape.h"

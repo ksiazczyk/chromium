@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Threat details unit tests
+// summary: Unit tests for Safe Browsing threat details collection, covering referrer chains, history data, and unsafe resource handling.
+// ---
+
 #include "components/safe_browsing/content/browser/threat_details.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File analyzer class declaration
+// summary: Declares FileAnalyzer, which extracts signature, archive and encryption features from downloaded files for Safe Browsing checks.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_FILE_ANALYZER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_FILE_ANALYZER_H_
 

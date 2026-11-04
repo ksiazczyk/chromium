@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop intelligent scan delegate implementation
+// summary: Implements the desktop IntelligentScanDelegate that runs on-device scam detection models through the Optimization Guide.
+// ---
+
 #include "chrome/browser/safe_browsing/client_side_detection_intelligent_scan_delegate_desktop.h"
 
 #include "base/containers/fixed_flat_set.h"

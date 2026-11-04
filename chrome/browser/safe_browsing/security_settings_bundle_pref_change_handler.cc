@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security settings bundle pref change handler implementation
+// summary: Shows a sync-enhanced-protection toast when the security settings bundle changes to enhanced on desktop platforms, respecting managed preferences and feature flags.
+// ---
+
 #include "chrome/browser/safe_browsing/security_settings_bundle_pref_change_handler.h"
 
 #include "base/feature_list.h"

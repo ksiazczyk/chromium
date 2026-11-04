@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac signature evaluator declaration
+// summary: Declares MacSignatureEvaluator, which wraps the macOS SecStaticCode API to evaluate code signatures and produce binary integrity incident reports.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_SIGNATURE_EVALUATOR_MAC_H_
 #define CHROME_BROWSER_SAFE_BROWSING_SIGNATURE_EVALUATOR_MAC_H_
 

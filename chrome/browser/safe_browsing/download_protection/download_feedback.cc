@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download feedback implementation
+// summary: Implements uploading a downloaded binary, together with its Safe Browsing ping request and response, to the download feedback service.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_feedback.h"
 
 #include "base/files/file_util.h"

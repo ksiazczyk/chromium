@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RateLimitingKeyManager class declaration
+// summary: Declares a manager producing short-lived per-profile rate_limiting_key values that the server uses to pseudonymously rate-limit clients.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_RATE_LIMITING_KEY_MANAGER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_RATE_LIMITING_KEY_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advanced protection status manager factory header
+// summary: Declares the profile-keyed service factory responsible for tracking the advanced protection status of the sign-in profile.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_ADVANCED_PROTECTION_STATUS_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_SAFE_BROWSING_ADVANCED_PROTECTION_STATUS_MANAGER_FACTORY_H_
 

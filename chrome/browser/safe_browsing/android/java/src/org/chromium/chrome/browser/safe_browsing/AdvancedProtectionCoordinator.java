@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdvancedProtectionCoordinator
+// summary: Coordinates showing message UI when the Android-OS advanced-protection state changes, delegating to AdvancedProtectionMediator.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import androidx.fragment.app.Fragment;

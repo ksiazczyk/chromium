@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the generated security settings bundle pref
+// summary: Verifies that the generated preference updates the Security Settings Bundle and Secure DNS prefs correctly and reports type mismatches and out-of-range values.
+// ---
+
 #include "chrome/browser/safe_browsing/generated_security_settings_bundle_pref.h"
 
 #include "base/test/scoped_feature_list.h"

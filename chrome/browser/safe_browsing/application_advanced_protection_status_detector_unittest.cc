@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Application advanced protection status detector unit tests
+// summary: Unit tests for the application advanced protection status detector using mock managers, covering profile additions, removals and status changes.
+// ---
+
 #include "chrome/browser/safe_browsing/application_advanced_protection_status_detector.h"
 
 #include "base/scoped_observation.h"

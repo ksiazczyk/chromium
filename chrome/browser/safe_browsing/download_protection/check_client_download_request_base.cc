@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base download check request implementation
+// summary: Implements shared logic for building, modifying and sending ClientDownloadRequest pings to Safe Browsing and processing the responses.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/check_client_download_request_base.h"
 
 #include <algorithm>

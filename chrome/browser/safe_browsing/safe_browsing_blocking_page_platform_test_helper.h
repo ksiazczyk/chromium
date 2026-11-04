@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing blocking page platform test helper
+// summary: Declares test doubles and helpers for Safe Browsing interstitial browser tests, including a blocking page factory that records which interstitial was shown.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_SAFE_BROWSING_BLOCKING_PAGE_PLATFORM_TEST_HELPER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_SAFE_BROWSING_BLOCKING_PAGE_PLATFORM_TEST_HELPER_H_
 

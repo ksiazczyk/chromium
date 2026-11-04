@@ -5,6 +5,12 @@
 // The Safe Browsing service is responsible for downloading anti-phishing and
 // anti-malware tables and checking urls against them.
 
+// ---docerion
+// type: source
+// title: Safe Browsing service header
+// summary: Declares the Safe Browsing service interface and implementation class that owns the UI and database managers for downloading and checking anti-phishing and anti-malware tables.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_SAFE_BROWSING_SERVICE_H_
 #define CHROME_BROWSER_SAFE_BROWSING_SAFE_BROWSING_SERVICE_H_
 

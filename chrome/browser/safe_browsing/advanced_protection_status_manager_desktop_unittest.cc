@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop advanced protection status manager unit tests
+// summary: Unit tests for the desktop advanced protection status manager covering sign-in, sign-out, token refresh and histogram reporting behavior.
+// ---
+
 #include "chrome/browser/safe_browsing/advanced_protection_status_manager_desktop.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PathSanitizer class declaration
+// summary: Declares a helper class that sanitizes file paths by replacing the current user's home directory portion with ~.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_PATH_SANITIZER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_PATH_SANITIZER_H_
 

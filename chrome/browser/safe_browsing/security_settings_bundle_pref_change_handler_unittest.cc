@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security settings bundle pref change handler unit tests
+// summary: Unit tests verifying the security settings bundle toast is shown only when the enhanced bundle is selected and the preference is not managed.
+// ---
+
 #include "chrome/browser/safe_browsing/security_settings_bundle_pref_change_handler.h"
 
 #include "base/test/scoped_feature_list.h"

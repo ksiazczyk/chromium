@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop intelligent scan delegate unit tests
+// summary: Unit tests for the desktop intelligent scan delegate covering model availability, enhanced protection prefs, and scan results.
+// ---
+
 #include "chrome/browser/safe_browsing/client_side_detection_intelligent_scan_delegate_desktop.h"
 
 #include "base/run_loop.h"

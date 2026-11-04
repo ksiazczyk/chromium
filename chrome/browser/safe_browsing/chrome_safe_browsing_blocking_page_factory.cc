@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Safe Browsing blocking page factory
+// summary: Creates Chrome's Safe Browsing and enterprise warn/block interstitial pages, configuring display options and handling abusive notification auto-revocation after phishing bypasses.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_safe_browsing_blocking_page_factory.h"
 
 #include "chrome/browser/browser_process.h"

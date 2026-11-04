@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android advanced protection status manager header
+// summary: Declares the Android implementation of AdvancedProtectionStatusManager backed by a Java JNI bridge.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_ADVANCED_PROTECTION_STATUS_MANAGER_ANDROID_H_
 #define CHROME_BROWSER_SAFE_BROWSING_ADVANCED_PROTECTION_STATUS_MANAGER_ANDROID_H_
 

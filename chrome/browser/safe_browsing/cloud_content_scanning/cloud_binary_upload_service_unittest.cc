@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the cloud binary upload service
+// summary: Extensive unit tests for the cloud binary upload service covering request data, upload results, verdicts and analysis settings.
+// ---
+
 #include "chrome/browser/safe_browsing/cloud_content_scanning/cloud_binary_upload_service.h"
 
 #include <memory>

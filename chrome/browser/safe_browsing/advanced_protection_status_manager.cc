@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advanced protection status manager base
+// summary: Implements observer registration and notification of Advanced Protection status changes for the profile-level manager.
+// ---
+
 #include "chrome/browser/safe_browsing/advanced_protection_status_manager.h"
 
 namespace safe_browsing {

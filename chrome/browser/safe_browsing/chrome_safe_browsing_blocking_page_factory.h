@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Safe Browsing blocking page factory header
+// summary: Declares the default Chrome SafeBrowsingBlockingPageFactory that builds Safe Browsing, enterprise warn, and enterprise block interstitial pages and their controller clients.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_CHROME_SAFE_BROWSING_BLOCKING_PAGE_FACTORY_H_
 #define CHROME_BROWSER_SAFE_BROWSING_CHROME_SAFE_BROWSING_BLOCKING_PAGE_FACTORY_H_
 

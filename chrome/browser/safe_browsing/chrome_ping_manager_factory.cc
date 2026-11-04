@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome ping manager factory
+// summary: Implements the Chrome-side factory that builds the Safe Browsing PingManager keyed service per profile, wiring HaTS delegates, token fetchers, and user population helpers.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_ping_manager_factory.h"
 
 #include "base/command_line.h"

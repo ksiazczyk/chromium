@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download URL Safe Browsing client implementation
+// summary: Implements the client that checks download URL chains against the Safe Browsing bad binary URL list and reports dangerous downloads.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_url_sb_client.h"
 
 #include "base/functional/bind.h"

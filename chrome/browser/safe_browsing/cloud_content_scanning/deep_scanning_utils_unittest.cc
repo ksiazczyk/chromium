@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deep scanning utilities unit tests
+// summary: Unit tests verifying deep scanning UMA metrics, crash key handling, and upload result reporting across access points.
+// ---
+
 #include "chrome/browser/safe_browsing/cloud_content_scanning/deep_scanning_utils.h"
 
 #include <limits>

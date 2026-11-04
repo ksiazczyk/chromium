@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the cloud binary upload service factory
+// summary: Unit test verifying that enterprise isolated mode profiles are redirected to the original profile's upload service instance.
+// ---
+
 #include "chrome/browser/safe_browsing/cloud_content_scanning/cloud_binary_upload_service_factory.h"
 
 #include "base/test/scoped_feature_list.h"

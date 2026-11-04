@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing user interaction observer implementation
+// summary: Implements delayed warning behavior by observing user interactions and showing the interstitial when a trigger occurs.
+// ---
+
 #include "chrome/browser/safe_browsing/user_interaction_observer.h"
 
 #include <string>

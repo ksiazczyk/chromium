@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingBridge
+// summary: JNI bridge giving Java access to native Safe Browsing state, including protection level, extended reporting, managed status and hash real-time lookup eligibility.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing;
 
 import androidx.annotation.VisibleForTesting;

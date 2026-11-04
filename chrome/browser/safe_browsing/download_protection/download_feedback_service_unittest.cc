@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download feedback service unit tests
+// summary: Unit tests for DownloadFeedbackService that use fake feedback objects and a fake download protection service to verify feedback handling and pending upload behavior.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_feedback_service.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Safe Browsing Android include dependency rules
+summary: Specifies allowed include rules for code in the Safe Browsing Android directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop Safe Browsing HaTS delegate header
+// summary: Declares ChromeSafeBrowsingHatsDelegateDesktop, which triggers red warning HaTS surveys through the profile's HaTS service.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_CHROME_SAFE_BROWSING_HATS_DELEGATE_DESKTOP_H_
 #define CHROME_BROWSER_SAFE_BROWSING_CHROME_SAFE_BROWSING_HATS_DELEGATE_DESKTOP_H_
 

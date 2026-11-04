@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Safe Browsing HaTS survey delegate implementation
+// summary: Launches the Safe Browsing red warning HaTS survey on Android, anchoring it to the active tab and handling tab-close cases.
+// ---
+
 #include "chrome/browser/safe_browsing/android/chrome_safe_browsing_hats_delegate_android.h"
 
 #include <optional>

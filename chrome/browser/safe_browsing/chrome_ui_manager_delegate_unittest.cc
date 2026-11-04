@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Safe Browsing UI manager delegate unit tests
+// summary: Unit tests verifying that UI manager delegate events attribute tab titles correctly for interstitial shown, bypassed, and URL-filtering scenarios.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_ui_manager_delegate.h"
 
 #include <memory>

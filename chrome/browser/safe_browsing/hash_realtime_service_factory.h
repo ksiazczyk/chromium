@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash realtime service factory declaration
+// summary: Declares HashRealTimeServiceFactory, a singleton keyed service factory owning one HashRealTimeService per profile and returning null for incognito or guest profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_HASH_REALTIME_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SAFE_BROWSING_HASH_REALTIME_SERVICE_FACTORY_H_
 

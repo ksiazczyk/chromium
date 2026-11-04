@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingSettingsFragmentBase
+// summary: Abstract base fragment for Safe Browsing settings pages, providing the SafeBrowsingBridge, page title and targeted help menu.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing.settings;
 
 import android.os.Bundle;

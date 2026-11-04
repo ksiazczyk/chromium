@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client download request implementation
+// summary: Implements Safe Browsing checks for browser downloads, including feedback upload decisions, verdict handling and deep scanning behavior.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/check_client_download_request.h"
 
 #include <algorithm>

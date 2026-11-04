@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OHTTP key service factory unit tests
+// summary: Unit tests checking the OHTTP key service is created for regular profiles even when hash-prefix real-time lookups are disabled, and is null for Android, incognito and guest profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/ohttp_key_service_factory.h"
 
 #include "chrome/browser/safe_browsing/test_safe_browsing_service.h"

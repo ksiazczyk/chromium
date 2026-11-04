@@ -6,6 +6,12 @@
 // and a test protocol manager. It is used to test logics in safebrowsing
 // service.
 
+// ---docerion
+// type: test
+// title: Safe Browsing service browser tests
+// summary: Browser tests that run the Safe Browsing service against a test database and protocol manager to verify service logic, blocking pages, and interstitial behavior.
+// ---
+
 #include "chrome/browser/safe_browsing/safe_browsing_service.h"
 
 #include <map>

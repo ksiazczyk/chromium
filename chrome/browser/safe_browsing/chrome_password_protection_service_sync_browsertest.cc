@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync browser tests for ChromePasswordProtectionService
+// summary: Sync integration browser tests verifying enterprise password protection triggers and change-password URL behavior when Sync is active.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/run_loop.h"
 #include "base/strings/utf_string_conversions.h"

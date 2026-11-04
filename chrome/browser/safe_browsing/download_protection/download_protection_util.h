@@ -4,6 +4,12 @@
 //
 // Utilities for the SafeBrowsing download protection code.
 
+// ---docerion
+// type: source
+// title: Download protection utilities header
+// summary: Declares enums for download check reasons, histogram stats, allowlist types and deep scan events, plus helpers shared by download protection code.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOWNLOAD_PROTECTION_UTIL_H_
 #define CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOWNLOAD_PROTECTION_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for cloud content scanning
+summary: Lists primary, secondary and per-file owners responsible for reviewing changes in the cloud content scanning directory.

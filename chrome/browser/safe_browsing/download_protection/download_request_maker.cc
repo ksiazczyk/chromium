@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download request maker implementation
+// summary: Implements DownloadRequestMaker, which populates Safe Browsing download ping fields including tailored warnings and Windows antivirus product data.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_request_maker.h"
 
 #include <memory>

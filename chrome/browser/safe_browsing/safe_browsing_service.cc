@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing service implementation
+// summary: Implements the Chrome Safe Browsing service that coordinates UI and database managers, preferences, and delegates for anti-phishing and anti-malware URL checking.
+// ---
+
 #include "chrome/browser/safe_browsing/safe_browsing_service.h"
 
 #include <stddef.h>

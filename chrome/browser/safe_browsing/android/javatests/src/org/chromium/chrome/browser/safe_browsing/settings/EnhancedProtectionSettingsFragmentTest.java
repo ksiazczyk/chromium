@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enhanced Protection Settings Fragment Tests
+// summary: Android instrumentation tests that verify the preferences and UI of the Enhanced Protection Safe Browsing settings fragment.
+// ---
+
 package org.chromium.chrome.browser.safe_browsing.settings;
 
 import androidx.test.filters.SmallTest;

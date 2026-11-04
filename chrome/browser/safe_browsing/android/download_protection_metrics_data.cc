@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download protection metrics data implementation
+// summary: Implements logging of the Android download protection outcome histogram, converting download check reasons and attaching outcome data to download items.
+// ---
+
 #include "chrome/browser/safe_browsing/android/download_protection_metrics_data.h"
 
 #include "base/metrics/histogram_functions.h"

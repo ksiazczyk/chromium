@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemAccessMetadata implementation
+// summary: Implements DeepScanningMetadata for FileSystemAccessWriteItem, exposing paths, hashes, MIME types, referrer chain and scan result handling for deep scanning.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/file_system_access_metadata.h"
 
 #include "base/strings/string_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test Safe Browsing service implementation
+// summary: Implements a configurable test Safe Browsing service with test UI and database managers, download report capture, and an optional mock URL loader factory.
+// ---
+
 #include "chrome/browser/safe_browsing/test_safe_browsing_service.h"
 
 #include "base/memory/scoped_refptr.h"

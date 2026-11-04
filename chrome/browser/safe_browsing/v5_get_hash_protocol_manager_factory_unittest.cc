@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V5 GetHash protocol manager factory unit tests
+// summary: Unit tests verifying the factory provides V5GetHashProtocolManager instances for regular, incognito, and guest profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/v5_get_hash_protocol_manager_factory.h"
 
 #include "chrome/browser/safe_browsing/test_safe_browsing_service.h"

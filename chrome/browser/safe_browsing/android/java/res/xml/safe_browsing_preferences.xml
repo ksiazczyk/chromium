@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Safe Browsing preference screen
+summary: Defines the Android preference screen hosting the Safe Browsing radio button group plus a hidden managed-device disclaimer text preference.
+-->
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 

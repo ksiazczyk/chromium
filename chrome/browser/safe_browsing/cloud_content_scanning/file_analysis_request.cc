@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File analysis request implementation
+// summary: Implements file analysis requests that inspect ZIP and RAR archives with sandboxed analyzers to detect encryption before upload.
+// ---
+
 #include "chrome/browser/safe_browsing/cloud_content_scanning/file_analysis_request.h"
 
 #include <algorithm>

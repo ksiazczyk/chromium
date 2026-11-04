@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing pref change handler
+// summary: Shows toasts or modals when the Safe Browsing protection setting changes, including retry handling for synced enhanced protection on Android.
+// ---
+
 #include "chrome/browser/safe_browsing/safe_browsing_pref_change_handler.h"
 
 #include "base/feature_list.h"

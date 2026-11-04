@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification content detection manager implementation
+// summary: Implements helpers that store suspicious notification IDs in host content settings and log unsubscribe interactions as UKM on Android.
+// ---
+
 #include "chrome/browser/safe_browsing/android/notification_content_detection_manager_android.h"
 
 #include "base/android/jni_android.h"

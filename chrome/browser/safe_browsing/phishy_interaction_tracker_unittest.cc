@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phishy interaction tracker unit tests
+// summary: Unit tests for PhishyInteractionTracker using a mock Safe Browsing UI manager to verify logging of phishy page interactions and related UMA histograms.
+// ---
+
 #include "chrome/browser/safe_browsing/phishy_interaction_tracker.h"
 
 #include <string>

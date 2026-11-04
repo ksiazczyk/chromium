@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop Safe Browsing HaTS delegate
+// summary: Launches desktop HaTS red warning surveys for Safe Browsing, filtering product-specific string data down to the fields relevant on desktop.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_safe_browsing_hats_delegate_desktop.h"
 
 #include <utility>

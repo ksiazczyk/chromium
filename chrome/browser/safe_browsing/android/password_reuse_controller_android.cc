@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password reuse controller for Android implementation
+// summary: Implements the controller for the password reuse modal warning dialog, handling button text, dialog actions, and warning lifetime metrics.
+// ---
+
 #include "chrome/browser/safe_browsing/android/password_reuse_controller_android.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trigger creator implementation
+// summary: Creates and owns per-tab Safe Browsing ad sampler and suspicious site triggers when data collection permissions allow.
+// ---
+
 #include "chrome/browser/safe_browsing/trigger_creator.h"
 
 #include <memory>

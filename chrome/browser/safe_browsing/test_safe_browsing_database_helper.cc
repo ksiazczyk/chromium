@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test Safe Browsing database helper implementation
+// summary: Implements a test helper that sets up Safe Browsing test databases, inserts requested lists, and fakes a UI manager that proceeds through interstitials.
+// ---
+
 #include "chrome/browser/safe_browsing/test_safe_browsing_database_helper.h"
 
 #include <algorithm>

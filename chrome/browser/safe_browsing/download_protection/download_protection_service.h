@@ -5,6 +5,12 @@
 // Helper class which handles communication with the SafeBrowsing servers for
 // improved binary download protection.
 
+// ---docerion
+// type: source
+// title: Download protection service header
+// summary: Declares DownloadProtectionService, an asynchronous API for checking whether a client download is malicious via Safe Browsing.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOWNLOAD_PROTECTION_SERVICE_H_
 #define CHROME_BROWSER_SAFE_BROWSING_DOWNLOAD_PROTECTION_DOWNLOAD_PROTECTION_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generated Safe Browsing preference unit test
+// summary: Unit tests validating how the generated Safe Browsing preference sets underlying prefs and reports managed, enforced and recommended states.
+// ---
+
 #include "chrome/browser/safe_browsing/generated_safe_browsing_pref.h"
 
 #include <algorithm>

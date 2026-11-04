@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intelligent scan delegate metrics utilities
+// summary: Helper functions that log histograms about on-device model execution, session creation, and download success for intelligent scans.
+// ---
+
 #include "chrome/browser/safe_browsing/client_side_detection_intelligent_scan_delegate_util.h"
 
 #include "base/metrics/histogram_functions.h"

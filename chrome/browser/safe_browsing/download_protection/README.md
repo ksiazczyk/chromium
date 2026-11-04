@@ -1,3 +1,9 @@
+---
+type: readme
+title: Download protection directory overview
+summary: Explains that this directory holds code scanning downloaded content for security and directs shared or connector-specific code to other directories.
+---
+
 This directory includes code that scans downloaded content for security reasons.
 This includes:
   * Safe Browsing metadata checks.

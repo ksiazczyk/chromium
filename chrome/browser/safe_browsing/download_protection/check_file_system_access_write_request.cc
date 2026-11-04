@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system access write check implementation
+// summary: Implements download protection checks for File System Access API write operations, including referrer chain attribution and metadata handling.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/check_file_system_access_write_request.h"
 
 #include <algorithm>

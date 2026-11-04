@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application advanced protection status detector implementation
+// summary: Implements a detector that aggregates advanced protection status across all profiles and logs histograms when the status changes.
+// ---
+
 #include "chrome/browser/safe_browsing/application_advanced_protection_status_detector.h"
 
 #include "base/metrics/histogram_functions.h"

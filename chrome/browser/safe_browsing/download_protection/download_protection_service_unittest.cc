@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the download protection service
+// summary: Large unit test suite covering download protection checks, deep scanning, enterprise connectors and related request classes.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_protection_service.h"
 
 #include <stddef.h>

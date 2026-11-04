@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deep scanning browser tests
+// summary: Browser tests covering deep scanning of downloads and file system access writes, including enterprise connector policies and reporting behavior.
+// ---
+
 #include <memory>
 #include <optional>
 

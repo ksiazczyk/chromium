@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download feedback service implementation
+// summary: Implements DownloadFeedbackService, which copies downloaded files and queues sequential feedback uploads to Safe Browsing.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_feedback_service.h"
 
 #include <utility>

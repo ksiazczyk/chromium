@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OHTTP key service factory
+// summary: Profile-keyed factory that builds the OHTTP key service per profile with the Safe Browsing URL loader factory and country lookup, returning null on Android, incognito and guest profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/ohttp_key_service_factory.h"
 
 #include "chrome/browser/browser_process.h"

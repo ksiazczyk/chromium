@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystemAccessMetadata unit tests
+// summary: Tests FileSystemAccessMetadata accessors, fixed return values and MIME type resolution for known, unknown and missing file extensions.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/file_system_access_metadata.h"
 
 #include "base/files/file_path.h"

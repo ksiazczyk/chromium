@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspicious site warning controller header
+// summary: Declares SuspiciousSiteControllerAndroid, a tab helper that defers and displays the suspicious site warning dialog.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_ANDROID_SUSPICIOUS_SITE_CONTROLLER_ANDROID_H_
 #define CHROME_BROWSER_SAFE_BROWSING_ANDROID_SUSPICIOUS_SITE_CONTROLLER_ANDROID_H_
 

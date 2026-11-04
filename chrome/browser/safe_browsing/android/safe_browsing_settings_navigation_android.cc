@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing settings navigation JNI implementation
+// summary: JNI implementation that opens the Safe Browsing settings and advanced protection settings pages on Android.
+// ---
+
 #include "chrome/browser/safe_browsing/android/safe_browsing_settings_navigation_android.h"
 
 #include "base/android/jni_android.h"

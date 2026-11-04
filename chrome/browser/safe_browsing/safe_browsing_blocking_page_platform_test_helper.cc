@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing blocking page test helper
+// summary: Implements TestSafeBrowsingBlockingPage and shared fixtures used by cross-platform Safe Browsing blocking page browser tests on desktop and Android.
+// ---
+
 #include "chrome/browser/safe_browsing/safe_browsing_blocking_page_platform_test_helper.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client side detection service factory
+// summary: Implements the profile-keyed factory that creates and provides the client-side detection service for each Chrome profile.
+// ---
+
 #include "chrome/browser/safe_browsing/client_side_detection_service_factory.h"
 
 #include "chrome/browser/browser_process.h"

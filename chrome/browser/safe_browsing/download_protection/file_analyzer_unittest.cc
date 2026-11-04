@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileAnalyzer unit tests
+// summary: Unit tests for FileAnalyzer verifying file type detection such as Windows executables and Chrome extensions using a mock binary feature extractor.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/file_analyzer.h"
 
 #include <stdint.h>

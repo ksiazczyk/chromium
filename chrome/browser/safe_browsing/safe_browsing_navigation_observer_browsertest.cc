@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing navigation observer browser tests
+// summary: Browser tests for the Safe Browsing navigation observer covering navigations, redirects, iframes and download referrer chains.
+// ---
+
 #include "components/safe_browsing/content/browser/safe_browsing_navigation_observer.h"
 
 #include <memory>

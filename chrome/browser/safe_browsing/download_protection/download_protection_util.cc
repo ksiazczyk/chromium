@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download protection utilities implementation
+// summary: Implements utility functions for Safe Browsing download protection, including archive entry selection, danger type handling and metrics reporting.
+// ---
+
 #include "chrome/browser/safe_browsing/download_protection/download_protection_util.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome client-side detection service delegate implementation
+// summary: Implements Chrome-specific bits of the client-side detection service, exposing profile prefs and the Safe Browsing URL loader factory.
+// ---
+
 #include "chrome/browser/safe_browsing/chrome_client_side_detection_service_delegate.h"
 
 #include "base/containers/fixed_flat_set.h"

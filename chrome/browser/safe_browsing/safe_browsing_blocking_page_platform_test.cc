@@ -5,6 +5,12 @@
 // This file contains blocking page tests that are relevant both to Desktop
 // and to Android (more specifically, if safe_browsing_mode > 0).
 
+// ---docerion
+// type: test
+// title: Safe Browsing blocking page platform tests
+// summary: Browser tests for Safe Browsing blocking pages shared between desktop and Android, covering enterprise real-time URL checks that show or suppress warnings.
+// ---
+
 #include "base/run_loop.h"
 #include "base/strings/string_number_conversions.h"
 #include "base/test/metrics/histogram_tester.h"

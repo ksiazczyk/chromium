@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing embedded test server browser tests
+// summary: Browser tests that validate the test-only V4/V5 Safe Browsing embedded test server interceptors so other test classes can rely on them.
+// ---
+
 #include <memory>
 #include <utility>
 

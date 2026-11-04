@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing referring app bridge header
+// summary: Declares GetReferringAppInfo, which fetches referring app and optional WebAPK information from the Java side.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_ANDROID_SAFE_BROWSING_REFERRING_APP_BRIDGE_ANDROID_H_
 #define CHROME_BROWSER_SAFE_BROWSING_ANDROID_SAFE_BROWSING_REFERRING_APP_BRIDGE_ANDROID_H_
 

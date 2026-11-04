@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing settings navigation header
+// summary: Declares functions to open the Safe Browsing settings page and advanced protection settings on Android.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_ANDROID_SAFE_BROWSING_SETTINGS_NAVIGATION_ANDROID_H_
 #define CHROME_BROWSER_SAFE_BROWSING_ANDROID_SAFE_BROWSING_SETTINGS_NAVIGATION_ANDROID_H_
 
