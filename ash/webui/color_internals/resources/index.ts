@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color Internals WebUI entry point
+// summary: Entry script that fetches the CrOS tokens JSON, fills the ref and sys token tables, and starts the color change and wallpaper color observers.
+// ---
+
 import {COLOR_PROVIDER_CHANGED, ColorChangeUpdater} from 'chrome://resources/cr_components/color_change_listener/colors_css_updater.js';
 import {assert} from 'chrome://resources/js/assert.js';
 

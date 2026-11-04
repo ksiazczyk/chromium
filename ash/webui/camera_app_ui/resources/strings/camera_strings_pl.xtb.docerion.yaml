@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_pl.xtb.
+type: data
+title: Polish camera app translation strings
+summary: Polish XTB translation bundle with localized strings for the Chrome OS camera app, covering camera modes, recording, QR and document scanning, and settings messages.

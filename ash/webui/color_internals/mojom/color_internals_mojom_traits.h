@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojom traits header for wallpaper calculated colors
+// summary: Declares StructTraits mapping ash::WallpaperCalculatedColors fields to the color internals mojom struct.
+// ---
+
 #ifndef ASH_WEBUI_COLOR_INTERNALS_MOJOM_COLOR_INTERNALS_MOJOM_TRAITS_H_
 #define ASH_WEBUI_COLOR_INTERNALS_MOJOM_COLOR_INTERNALS_MOJOM_TRAITS_H_
 

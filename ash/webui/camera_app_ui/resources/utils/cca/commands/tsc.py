@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Run TypeScript type checks
+# summary: CLI command that generates the tsconfig for a board and runs tsc to type-check the camera app code.
+# ---
+
 import subprocess
 
 from cca import build

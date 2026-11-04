@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_zu.xtb.
+type: data
+title: Zulu translation bundle for the camera app
+summary: XML translation bundle providing Zulu UI strings for the Chrome OS camera app, covering camera modes, recording, QR scanning, and settings messages.

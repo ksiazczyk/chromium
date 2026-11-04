@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Types CSP utility header
+// summary: Defines the default Trusted Types policy list for Ash WebUIs and declares EnableTrustedTypesCSP to enforce Trusted Types via CSP.
+// ---
+
 #ifndef ASH_WEBUI_COMMON_TRUSTED_TYPES_UTIL_H_
 #define ASH_WEBUI_COMMON_TRUSTED_TYPES_UTIL_H_
 

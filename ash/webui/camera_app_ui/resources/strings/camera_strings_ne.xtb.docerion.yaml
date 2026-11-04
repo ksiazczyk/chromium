@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_ne.xtb.
+type: data
+title: Nepali camera app translation strings
+summary: Nepali XTB translation bundle with localized strings for the Chrome OS camera app, covering camera modes, recording, QR and document scanning, and settings messages.

@@ -1,0 +1,4 @@
+# Docerion header of IDS_FEEDBACK_DESCRIPTION_PLACEHOLDER.png.sha1.
+type: data
+title: SHA1 hash of the IDS_FEEDBACK_DESCRIPTION_PLACEHOLDER image
+summary: Holds the SHA1 checksum that pins the screenshot image for the feedback description placeholder string in the Chrome OS camera app.

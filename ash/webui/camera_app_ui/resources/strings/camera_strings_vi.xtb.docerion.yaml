@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_vi.xtb.
+type: data
+title: Camera app strings in Vietnamese
+summary: Vietnamese translation bundle with localized UI strings for the Chrome OS camera app, covering camera modes, recording, QR scanning, timers and settings messages.

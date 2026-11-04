@@ -1,0 +1,4 @@
+# Docerion header of color_internals.mojom.
+type: source
+title: Color internals mojom interfaces
+summary: Defines the WallpaperCalculatedColors struct plus observer and handler interfaces for the color internals WebUI.

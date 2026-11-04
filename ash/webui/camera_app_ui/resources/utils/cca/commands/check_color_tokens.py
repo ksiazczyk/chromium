@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Check CSS color token usage
+# summary: CLI command that scans CSS files for hardcoded color values and enforces the use of color tokens, with an allowlist and disable comments.
+# ---
+
 import glob
 import re
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen and VC background localized strings for WebUI
+// summary: Implements AddSeaPenStrings, adding localized strings for SeaPen wallpapers and video conference backgrounds, including prompts, errors, dialogs, and feedback, to a WebUI data source.
+// ---
+
 #include "ash/webui/common/sea_pen_resources.h"
 
 #include "chromeos/strings/grit/chromeos_strings.h"

@@ -1,0 +1,4 @@
+# Docerion header of cca.py.
+type: script
+title: CCA development script entry point
+summary: Entry point for the CCA development tool that bundles development-only commands and is never executed by the Chrome build process.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPenProvider interface for WebUIs
+// summary: Abstract interface for binding the SeaPenProvider mojo interface to a WebUI and checking profile eligibility for SeaPen features in wallpaper and VC background UIs.
+// ---
+
 #ifndef ASH_WEBUI_COMMON_SEA_PEN_PROVIDER_H_
 #define ASH_WEBUI_COMMON_SEA_PEN_PROVIDER_H_
 

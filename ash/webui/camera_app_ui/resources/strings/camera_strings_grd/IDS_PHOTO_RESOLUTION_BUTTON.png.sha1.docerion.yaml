@@ -1,0 +1,4 @@
+# Docerion header of IDS_PHOTO_RESOLUTION_BUTTON.png.sha1.
+type: data
+title: Photo resolution button string hash (IDS_PHOTO_RESOLUTION_BUTTON)
+summary: Stores the SHA1 placeholder hash that tracks the photo resolution button label in the ChromeOS camera app string resources.

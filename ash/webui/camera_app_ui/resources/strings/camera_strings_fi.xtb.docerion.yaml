@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_fi.xtb.
+type: data
+title: Finnish translation strings for the camera app UI
+summary: XTB translation bundle with Finnish translations of the camera app UI strings, covering capture modes, recording, QR scanning, and settings messages.

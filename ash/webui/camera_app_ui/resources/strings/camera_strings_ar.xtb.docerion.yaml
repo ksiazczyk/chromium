@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_ar.xtb.
+type: data
+title: Arabic translations for the camera app
+summary: XML translation bundle with Arabic UI strings for the ChromeOS camera app.

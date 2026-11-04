@@ -1,0 +1,4 @@
+# Docerion header of launch_dev_chrome.sh.
+type: script
+title: Chrome launcher for local CCA development
+summary: Shell script that starts Chrome with a fake virtual camera and a fixed profile for local CCA development on localhost.

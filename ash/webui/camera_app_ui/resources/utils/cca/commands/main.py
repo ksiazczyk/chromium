@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: CCA CLI root command
+# summary: Entry point that registers all cca subcommands, changes to the resources root, and configures logging.
+# ---
+
 import logging
 import os
 

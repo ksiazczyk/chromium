@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Color Internals OWNERS file
+summary: Designates code owners for the color_internals directory by inheriting the system_apps owners and listing skau@chromium.org.

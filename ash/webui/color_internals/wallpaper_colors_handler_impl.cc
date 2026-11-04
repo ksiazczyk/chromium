@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper colors handler implementation
+// summary: Implements the WallpaperColorsHandler Mojo interface, observing the wallpaper controller and pushing calculated wallpaper colors to the WebUI observer.
+// ---
+
 #include "ash/webui/color_internals/wallpaper_colors_handler_impl.h"
 
 #include "ash/public/cpp/wallpaper/wallpaper_controller_observer.h"

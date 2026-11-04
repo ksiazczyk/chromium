@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for SeaPen string resources
+// summary: Declares the AddSeaPenStrings function that registers SeaPen and VC background localized strings with a WebUI data source.
+// ---
+
 #ifndef ASH_WEBUI_COMMON_SEA_PEN_RESOURCES_H_
 #define ASH_WEBUI_COMMON_SEA_PEN_RESOURCES_H_
 

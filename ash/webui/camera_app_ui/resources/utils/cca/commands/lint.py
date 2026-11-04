@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Run ESLint checks
+# summary: CLI command that lints the js directory with eslint, optionally fixing issues and using an alternative eslintrc.
+# ---
+
 import os
 import subprocess
 

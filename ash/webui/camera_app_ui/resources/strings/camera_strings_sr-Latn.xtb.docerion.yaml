@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_sr-Latn.xtb.
+type: data
+title: Camera app strings, Serbian (Latin)
+summary: Serbian Latin-script XTB translation bundle mapping message IDs to localized strings for the ChromeOS camera app UI.

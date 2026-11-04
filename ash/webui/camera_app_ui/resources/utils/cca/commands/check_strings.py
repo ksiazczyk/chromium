@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Check string resource consistency
+# summary: CLI command verifying that string IDs and names agree across resources.h, camera_strings.grd, and i18n_string.ts, and reporting unused strings.
+# ---
+
 import os
 import re
 from typing import Dict, Set, Tuple

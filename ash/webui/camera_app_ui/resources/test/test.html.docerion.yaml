@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Camera app UI test page
+summary: Minimal HTML page in the ChromeOS camera app UI test resources, serving as a test fixture or entry point for web UI tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard diagram localized strings for WebUI
+// summary: Implements AddKeyboardDiagramStrings, adding localized aria labels and key names for keyboard diagrams to a WebUI data source.
+// ---
+
 #include "ash/webui/common/keyboard_diagram_strings.h"
 
 #include "chromeos/strings/grit/chromeos_strings.h"

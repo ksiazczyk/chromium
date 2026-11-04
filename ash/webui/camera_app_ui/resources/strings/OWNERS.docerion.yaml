@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the camera strings directory
+summary: Ownership file that restricts changes to the grd file to the listed owner, mainly for adding or removing languages.

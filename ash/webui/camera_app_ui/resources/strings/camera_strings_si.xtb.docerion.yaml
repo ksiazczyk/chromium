@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_si.xtb.
+type: data
+title: Camera app strings, Sinhala
+summary: Sinhala XTB translation bundle mapping message IDs to localized strings for the ChromeOS camera app UI.

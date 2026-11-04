@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_pt-BR.xtb.
+type: data
+title: Camera app strings, Brazilian Portuguese
+summary: Brazilian Portuguese XTB translation bundle mapping message IDs to localized strings for the ChromeOS camera app UI.

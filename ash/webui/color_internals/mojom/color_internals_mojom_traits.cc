@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojom traits implementation for wallpaper calculated colors
+// summary: Implements StructTraits Read that rejects deserialization since colors are only sent from C++ to WebUI.
+// ---
+
 #include "ash/webui/color_internals/mojom/color_internals_mojom_traits.h"
 
 #include <vector>

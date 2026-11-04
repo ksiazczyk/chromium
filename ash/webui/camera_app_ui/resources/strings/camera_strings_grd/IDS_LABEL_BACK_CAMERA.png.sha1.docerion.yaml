@@ -1,0 +1,4 @@
+# Docerion header of IDS_LABEL_BACK_CAMERA.png.sha1.
+type: data
+title: SHA1 hash of the IDS_LABEL_BACK_CAMERA image
+summary: Holds the SHA1 checksum that pins the screenshot image for the back camera label string in the Chrome OS camera app.

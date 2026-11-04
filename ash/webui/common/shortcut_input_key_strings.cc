@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut input key icon label strings for Ash WebUIs
+// summary: Adds localized icon label strings for shortcut input keys, such as arrows, media and brightness keys, to Ash WebUI data sources for shortcut customization.
+// ---
+
 #include "ash/webui/common/shortcut_input_key_strings.h"
 
 #include "ash/shell.h"

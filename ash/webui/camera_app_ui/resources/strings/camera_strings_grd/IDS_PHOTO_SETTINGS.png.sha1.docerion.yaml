@@ -1,0 +1,4 @@
+# Docerion header of IDS_PHOTO_SETTINGS.png.sha1.
+type: data
+title: Photo settings string hash (IDS_PHOTO_SETTINGS)
+summary: Stores the SHA1 placeholder hash that tracks the photo settings label in the ChromeOS camera app string resources.

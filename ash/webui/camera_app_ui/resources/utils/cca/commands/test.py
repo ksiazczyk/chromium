@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Run CCA tests on a device
+# summary: CLI command that runs Tast camera tests on a given ChromeOS device via cros_run_test with configurable test patterns.
+# ---
+
 from typing import List
 
 from cca import cli

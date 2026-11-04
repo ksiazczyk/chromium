@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for generated SeaPen template strings
+// summary: Declares functions to add generated SeaPen wallpaper and VC background template strings to a WebUI data source.
+// ---
+
 #ifndef ASH_WEBUI_COMMON_SEA_PEN_RESOURCES_GENERATED_H_
 #define ASH_WEBUI_COMMON_SEA_PEN_RESOURCES_GENERATED_H_
 

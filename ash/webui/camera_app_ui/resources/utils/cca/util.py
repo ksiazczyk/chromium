@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Chromium checkout and subprocess helpers
+# summary: Offers helpers to locate the Chromium checkout, run subprocesses and Node tools, and resolve build output directories.
+# ---
+
 import functools
 import logging
 import os

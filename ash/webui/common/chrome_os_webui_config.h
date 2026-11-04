@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOSWebUIConfig template for ChromeOS WebUIs
+// summary: Header defining a templated WebUIConfig that creates WebUIController instances, optionally via an injected factory function for dependency injection.
+// ---
+
 #ifndef ASH_WEBUI_COMMON_CHROME_OS_WEBUI_CONFIG_H_
 #define ASH_WEBUI_COMMON_CHROME_OS_WEBUI_CONFIG_H_
 

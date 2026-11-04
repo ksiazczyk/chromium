@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Deploy CCA to a device
+# summary: CLI command that rsyncs built camera app files to a ChromeOS device over SSH, enables local override, and reloads the app or CSS.
+# ---
+
 import os
 import shlex
 import subprocess

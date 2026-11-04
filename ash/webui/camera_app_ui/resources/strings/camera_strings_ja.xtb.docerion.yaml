@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_ja.xtb.
+type: data
+title: Japanese translations for the Camera app UI
+summary: Japanese XTB translation bundle with localized strings for the Chrome OS Camera app UI, covering modes, recording, settings, and QR scanning messages.

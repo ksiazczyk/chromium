@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_pa.xtb.
+type: data
+title: Punjabi camera app translation strings
+summary: Punjabi XTB translation bundle with localized strings for the Chrome OS camera app, covering camera modes, recording, QR and document scanning, and settings messages.

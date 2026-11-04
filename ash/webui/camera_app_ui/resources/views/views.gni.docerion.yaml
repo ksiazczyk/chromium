@@ -1,0 +1,4 @@
+# Docerion header of views.gni.
+type: config
+title: Camera app views build file list
+summary: GN build configuration listing the HTML view files included in the camera app UI resources.
