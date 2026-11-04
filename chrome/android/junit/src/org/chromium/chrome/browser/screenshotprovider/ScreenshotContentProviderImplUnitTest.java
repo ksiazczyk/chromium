@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenshotContentProviderImplUnitTest
+// summary: Robolectric unit tests for ScreenshotContentProviderImpl, mocking Tab, WebContents and ScreenshotSource to verify screenshot capture and content provider behavior with histogram checks.
+// ---
+
 package org.chromium.chrome.browser.screenshotprovider;
 
 import static org.junit.Assert.assertEquals;

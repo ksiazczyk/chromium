@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Owners file delegating code review responsibility to the browser supervised_user OWNERS list.

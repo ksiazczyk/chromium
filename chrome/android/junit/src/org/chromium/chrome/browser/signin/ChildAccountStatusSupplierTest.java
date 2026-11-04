@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChildAccountStatusSupplierTest
+// summary: Robolectric unit tests verifying ChildAccountStatusSupplier child account detection and its MobileFre.ChildAccountStatusDuration histogram.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import static org.junit.Assert.assertEquals;

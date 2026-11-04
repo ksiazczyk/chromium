@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DocumentPictureInPictureHeaderCoordinatorUnitTest
+// summary: Robolectric unit tests for DocumentPictureInPictureHeaderCoordinator, verifying observer registration on creation and cleanup during destroy.
+// ---
+
 package org.chromium.chrome.browser.media.document_picture_in_picture_header;
 
 import static org.mockito.ArgumentMatchers.any;

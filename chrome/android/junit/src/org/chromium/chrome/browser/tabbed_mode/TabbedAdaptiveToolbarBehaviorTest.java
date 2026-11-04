@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabbedAdaptiveToolbarBehavior
+// summary: Robolectric unit tests verifying which adaptive toolbar button variant is shown, covering voice search, group suggestions, Glic and bookmarks.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static org.junit.Assert.assertEquals;

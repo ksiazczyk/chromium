@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImmersivePlaybackMessageController tests
+// summary: Robolectric unit tests for the immersive playback message controller, covering message enqueueing, observer registration, and confirmation callbacks.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback;
 
 import static org.mockito.ArgumentMatchers.any;

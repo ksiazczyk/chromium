@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for TileRenderer with real views
+// summary: Robolectric tests for TileRenderer that build real tile views and verify icon generation, styling, and tile setup callbacks.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import static org.mockito.ArgumentMatchers.any;

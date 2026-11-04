@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsNavigationImpl tests
+// summary: Robolectric tests for SettingsNavigationImpl, verifying intent creation and navigation to settings pages and embeddable settings fragments.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.junit.Assert.assertEquals;

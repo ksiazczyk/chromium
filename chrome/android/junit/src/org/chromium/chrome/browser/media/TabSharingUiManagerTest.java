@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSharingUiManager unit tests
+// summary: Robolectric unit tests for TabSharingUiManager covering observer registration, bridge lifecycle notifications, sharing state, and stopping by capturer tab.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.junit.Assert.assertFalse;

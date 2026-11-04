@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the sharing JUnit tests
+summary: Points to the shared chrome/browser/sharing COMMON_METADATA mixins for this JUnit test directory.

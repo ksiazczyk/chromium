@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageInfoPreferenceSubpageController tests
+// summary: Tests for PageInfoPreferenceSubpageController verifying subpage fragment creation, removal, and idempotency using mocked fragment transactions.
+// ---
+
 package org.chromium.chrome.browser.page_info;
 
 import static org.junit.Assert.assertEquals;

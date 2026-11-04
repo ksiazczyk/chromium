@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Media UI directory metadata
+summary: Chromium DIR_METADATA specifying the media UI monorail component, team email, and buganizer component for the directory.

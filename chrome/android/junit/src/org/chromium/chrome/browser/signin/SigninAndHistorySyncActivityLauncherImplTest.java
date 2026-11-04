@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninAndHistorySyncActivityLauncherImplTest
+// summary: Robolectric tests for SigninAndHistorySyncActivityLauncherImpl covering signin and history sync launch configurations and metrics.
+// ---
+
 package org.chromium.chrome.browser.signin;
 
 import static org.junit.Assert.assertNotNull;

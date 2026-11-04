@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabUtilsUnitTest
+// summary: Robolectric unit tests for TabUtils covering window insets, thumbnails, and request desktop site user agent settings.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.junit.Assert.assertEquals;

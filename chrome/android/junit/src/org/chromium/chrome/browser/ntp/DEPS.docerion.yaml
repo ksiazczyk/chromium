@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ntp unit tests
+summary: Defines include rules granting the ntp JUnit tests access to segmentation platform Java classes.

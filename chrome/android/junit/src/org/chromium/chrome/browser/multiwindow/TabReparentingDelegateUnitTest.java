@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabReparentingDelegate
+// summary: Robolectric unit tests for TabReparentingDelegate, verifying tab and tab group reparenting between windows via reparenting tasks and intents.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.junit.Assert.assertEquals;

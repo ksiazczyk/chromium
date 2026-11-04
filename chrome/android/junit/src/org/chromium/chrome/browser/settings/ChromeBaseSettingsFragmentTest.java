@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeBaseSettingsFragment
+// summary: Robolectric unit tests verifying that ChromeBaseSettingsFragment applies the settings theme when shown in a tab and uses the host context otherwise.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.junit.Assert.assertEquals;

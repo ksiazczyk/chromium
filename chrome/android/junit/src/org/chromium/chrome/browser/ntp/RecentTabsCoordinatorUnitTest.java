@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent tabs coordinator unit tests
+// summary: Robolectric unit tests for the recent tabs coordinator, covering foreign session updates, context menus and edge-to-edge padding.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.junit.Assert.assertEquals;

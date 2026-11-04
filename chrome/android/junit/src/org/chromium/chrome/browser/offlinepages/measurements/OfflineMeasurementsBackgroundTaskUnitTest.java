@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflineMeasurementsBackgroundTask unit tests
+// summary: JUnit Robolectric tests verifying that OfflineMeasurementsBackgroundTask clears persisted offline measurements data from shared preferences.
+// ---
+
 package org.chromium.chrome.browser.offlinepages.measurements;
 
 import static org.junit.Assert.assertFalse;

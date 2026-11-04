@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the tabbed mode tests
+summary: Points to the common metadata mixins of the tabbed_mode source directory for review and bug routing.

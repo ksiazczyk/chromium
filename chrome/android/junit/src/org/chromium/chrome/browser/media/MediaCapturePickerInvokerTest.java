@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaCapturePickerInvokerTest
+// summary: Robolectric tests for the media capture picker invoker, covering intent creation and projection start and stop flows.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabArchiverUnitTest
+// summary: Robolectric unit tests for TabArchiverImpl, covering tab archiving behavior with mocked tab models, settings, clock, and tab group sync.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.junit.Assert.assertEquals;

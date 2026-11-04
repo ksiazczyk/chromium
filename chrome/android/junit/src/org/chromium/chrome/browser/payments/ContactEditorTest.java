@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContactEditorTest
+// summary: Robolectric unit tests for the ContactEditor in Chrome's payments flow, verifying editor fields, notices, and payer error handling with autofill profiles.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static org.hamcrest.MatcherAssert.assertThat;

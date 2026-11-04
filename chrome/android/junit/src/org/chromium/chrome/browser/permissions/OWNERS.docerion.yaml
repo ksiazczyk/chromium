@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Android permissions tests
+summary: Delegates code ownership for the Android permissions test directory to the shared components permissions owners list.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for tile interaction delegate
+// summary: Robolectric tests for the tile interaction delegate, covering touch and key events, context menus, histograms, and prerender handling for suggestion tiles.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import static org.junit.Assert.assertFalse;

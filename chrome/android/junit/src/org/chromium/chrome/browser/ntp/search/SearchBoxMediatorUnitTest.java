@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchBoxMediatorUnitTest
+// summary: Robolectric unit tests for SearchBoxMediator covering search box behavior, Lens and voice search clicks, omnibox capabilities, and template URL service updates.
+// ---
+
 package org.chromium.chrome.browser.ntp.search;
 
 import static org.junit.Assert.assertEquals;

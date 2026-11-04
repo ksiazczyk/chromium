@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media notification test base fixtures
+// summary: Shared test fixtures, mocks, and setup helpers used by the media notification controller JUnit tests.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import static org.mockito.ArgumentMatchers.any;

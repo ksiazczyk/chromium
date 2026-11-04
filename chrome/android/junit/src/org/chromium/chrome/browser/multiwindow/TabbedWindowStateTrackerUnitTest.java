@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabbedWindowStateTrackerUnitTest
+// summary: Robolectric unit tests for TabbedWindowStateTracker, verifying that window init info is saved for crash recovery on default and non-default displays and that window width is recorded.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.junit.Assert.assertEquals;

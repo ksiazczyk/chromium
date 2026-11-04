@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for search engines JUnit tests
+summary: Points to the shared OWNERS file at chrome/browser/search_engines/android/OWNERS to define approvers for this test directory.

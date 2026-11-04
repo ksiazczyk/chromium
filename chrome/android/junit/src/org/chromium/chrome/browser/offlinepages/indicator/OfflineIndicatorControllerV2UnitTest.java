@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflineIndicatorControllerV2UnitTest
+// summary: Robolectric unit tests for OfflineIndicatorControllerV2, checking when the offline status indicator is shown or hidden as connectivity, focus, and app state change.
+// ---
+
 package org.chromium.chrome.browser.offlinepages.indicator;
 
 import static org.mockito.ArgumentMatchers.any;

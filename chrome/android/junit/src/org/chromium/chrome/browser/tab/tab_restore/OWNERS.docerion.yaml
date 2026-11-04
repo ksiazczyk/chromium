@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer for tab_restore tests
+summary: Points to the OWNERS file of the tab_restore source directory so the same reviewers own the JUnit tests.

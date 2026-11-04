@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchActivityClientImplUnitTest
+// summary: Robolectric unit tests for SearchActivityClientImpl covering search intent building and load URL parameter handling.
+// ---
+
 package org.chromium.chrome.browser.searchwidget;
 
 import static org.junit.Assert.assertArrayEquals;

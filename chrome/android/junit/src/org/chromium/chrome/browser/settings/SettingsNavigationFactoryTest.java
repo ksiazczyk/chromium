@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsNavigationFactory tests
+// summary: Tests for SettingsNavigationFactory covering showClearBrowsingData edge cases and navigation creation under the settings-in-tab URL navigation flag.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.junit.Assert.assertTrue;

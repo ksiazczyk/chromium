@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the sharing JUnit tests
+summary: Delegates code ownership to the shared chrome/browser/sharing OWNERS file.

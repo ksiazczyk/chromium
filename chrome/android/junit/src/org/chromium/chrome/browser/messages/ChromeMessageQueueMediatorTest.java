@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeMessageQueueMediatorTest
+// summary: Robolectric unit tests for the Chrome message queue mediator covering dispatch, browser controls, layouts and dialogs.
+// ---
+
 package org.chromium.chrome.browser.messages;
 
 import static org.mockito.ArgumentMatchers.eq;

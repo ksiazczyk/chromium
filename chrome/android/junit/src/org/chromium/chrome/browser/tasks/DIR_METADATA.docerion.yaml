@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for tasks JUnit tests
+summary: Points the JUnit tasks test directory to the COMMON_METADATA mixin of the main Chrome Android tasks source directory.

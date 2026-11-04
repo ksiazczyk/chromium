@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeTabCreatorJUnitTest
+// summary: Robolectric unit tests for ChromeTabCreator covering tab creation edge cases such as null tab models and reparenting.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertFalse;

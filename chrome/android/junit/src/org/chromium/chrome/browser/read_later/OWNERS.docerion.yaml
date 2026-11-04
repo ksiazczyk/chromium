@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the read_later JUnit tests
+summary: Delegates code ownership of the read_later test directory to the bookmarks OWNERS file via a file reference.

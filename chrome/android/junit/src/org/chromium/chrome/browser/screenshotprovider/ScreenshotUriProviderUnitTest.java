@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenshotUriProviderUnitTest
+// summary: Unit tests for ScreenshotUriProvider verifying screenshot URI retrieval, URI permission granting to target packages, reuse of cached state, and new state creation on URL change.
+// ---
+
 package org.chromium.chrome.browser.screenshotprovider;
 
 import static org.junit.Assert.assertEquals;

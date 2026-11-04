@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageContainerCoordinatorTest
+// summary: Robolectric unit tests for message container top offset and visibility behavior with browser controls.
+// ---
+
 package org.chromium.chrome.browser.messages;
 
 import static org.mockito.Mockito.when;

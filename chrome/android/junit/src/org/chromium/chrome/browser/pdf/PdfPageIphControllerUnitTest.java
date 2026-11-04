@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PdfPageIphController
+// summary: Robolectric unit tests for PdfPageIphController that verify download in-product help prompts shown on PDF pages.
+// ---
+
 package org.chromium.chrome.browser.pdf;
 
 import static org.mockito.Mockito.doReturn;

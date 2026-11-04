@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WideDisplayPaddingApplier unit tests
+// summary: Robolectric unit tests verifying that WideDisplayPaddingApplier applies wide-display padding to settings pages, including PreferenceFragmentCompat and embeddable non-preference fragments.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.junit.Assert.assertEquals;

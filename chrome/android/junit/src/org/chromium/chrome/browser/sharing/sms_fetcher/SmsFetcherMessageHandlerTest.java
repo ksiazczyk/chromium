@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SmsFetcherMessageHandlerTest
+// summary: Robolectric unit tests for SmsFetcherMessageHandler verifying one-time code display sanitization, including BiDi and control character stripping, whitespace collapsing, and length truncation.
+// ---
+
 package org.chromium.chrome.browser.sharing.sms_fetcher;
 
 import static org.junit.Assert.assertEquals;

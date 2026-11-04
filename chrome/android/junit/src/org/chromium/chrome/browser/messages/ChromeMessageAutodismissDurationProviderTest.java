@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeMessageAutodismissDurationProviderTest
+// summary: Robolectric unit tests verifying message autodismiss durations for default, accessibility-adjusted and custom values.
+// ---
+
 package org.chromium.chrome.browser.messages;
 
 import org.junit.After;

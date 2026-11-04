@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MultiInstanceOrchestratorImpl
+// summary: Robolectric unit tests for MultiInstanceOrchestratorImpl, covering window startup policies, intents, and multi-instance window management on API 31.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.junit.Assert.assertEquals;

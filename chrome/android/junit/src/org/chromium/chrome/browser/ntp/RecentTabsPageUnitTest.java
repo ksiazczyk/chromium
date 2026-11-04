@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecentTabsPageUnitTest
+// summary: Robolectric unit tests for RecentTabsPage, covering edge-to-edge support, bottom inset padding adjustments, and cleanup on destroy.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.junit.Assert.assertEquals;

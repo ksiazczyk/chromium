@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationSuspenderUnitTest
+// summary: Robolectric unit tests for NotificationSuspender, verifying per-origin notification suspension with mocked native JNI and a fake notification manager.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.hamcrest.Matchers.arrayContainingInAnyOrder;

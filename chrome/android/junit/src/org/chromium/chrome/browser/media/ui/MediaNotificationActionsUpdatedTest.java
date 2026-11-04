@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media notification actions update tests
+// summary: Robolectric tests verifying media notification control buttons update when media session actions change or the tab navigates.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import static org.junit.Assert.assertEquals;

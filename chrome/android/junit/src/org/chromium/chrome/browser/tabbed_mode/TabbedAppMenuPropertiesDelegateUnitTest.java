@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabbedAppMenuPropertiesDelegate
+// summary: Large Robolectric test suite verifying which app menu items the delegate shows for different tabs, features, enterprise policies and device states.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media notification manager notification tests
+// summary: Robolectric tests checking MediaNotificationManager presents correct metadata, icons, and misc info to the Android NotificationManager.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import static org.junit.Assert.assertEquals;

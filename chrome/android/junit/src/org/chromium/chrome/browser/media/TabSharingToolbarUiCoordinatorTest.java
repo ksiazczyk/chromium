@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSharingToolbarUiCoordinator unit tests
+// summary: Robolectric unit tests for the tab sharing toolbar UI coordinator, checking session start and stop, view attachment, and profile-related behavior.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.junit.Assert.assertEquals;

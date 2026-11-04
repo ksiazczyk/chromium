@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaCapturePickerManagerTest
+// summary: Robolectric tests for the media capture picker manager dialog, pre-show failures, and result histograms.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.mockito.Mockito.doReturn;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates code ownership of the privacy sandbox JUnit tests to the owners listed in components/privacy_sandbox/OWNERS.

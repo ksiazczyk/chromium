@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrossDeviceSettingImporter unit tests
+// summary: Robolectric unit tests for the cross-device setting importer used during Chrome synced setup, covering NTP theme, preference and feature-flag behavior.
+// ---
+
 package org.chromium.chrome.browser.sync.synced_set_up;
 
 import static org.junit.Assert.assertEquals;

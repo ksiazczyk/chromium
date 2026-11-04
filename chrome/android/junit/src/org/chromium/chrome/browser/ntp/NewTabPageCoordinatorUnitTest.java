@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page coordinator unit tests
+// summary: Extensive Robolectric unit tests for the new tab page coordinator, covering composeplate, feed, browser controls and customization behavior.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.junit.Assert.assertEquals;

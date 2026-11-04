@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FragmentDependencyProvider
+// summary: Robolectric tests checking how FragmentDependencyProvider attaches dependencies such as search view observers to settings fragments.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.junit.Assert.assertNotNull;

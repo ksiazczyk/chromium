@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TileGroupDelegateImpl
+// summary: Robolectric unit tests for TileGroupDelegateImpl, covering most visited sites setup, search results URL detection, and snackbar interactions.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import static org.mockito.ArgumentMatchers.any;

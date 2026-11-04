@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabBrowserControlsConstraintsHelperTest
+// summary: Robolectric unit tests for TabBrowserControlsConstraintsHelper, verifying browser controls visibility delegate updates and constraint state changes.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import android.app.Activity;

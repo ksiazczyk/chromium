@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImmersiveVideoFormatSelectionDialog tests
+// summary: Robolectric tests for the immersive video format selection dialog, checking dialog display and confirmation results for chosen video formats.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback;
 
 import static org.junit.Assert.assertNotNull;

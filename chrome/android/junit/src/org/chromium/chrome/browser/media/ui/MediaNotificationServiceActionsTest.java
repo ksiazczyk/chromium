@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media notification service actions tests
+// summary: Robolectric tests verifying the media notification listener service handles intent actions such as play, pause, stop, and swipe.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import static org.junit.Assert.assertTrue;

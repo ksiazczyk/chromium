@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TileUtils
+// summary: Unit tests for TileUtils helpers that format custom tile names and validate custom tile names and URLs.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import static org.junit.Assert.assertEquals;

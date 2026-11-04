@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for KeyboardFocusRowManager
+// summary: Robolectric unit tests verifying when the keyboard focus row is shown or hidden based on side UI, toolbars, dialogs and tab strip visibility.
+// ---
+
 package org.chromium.chrome.browser.tabbed_mode;
 
 import static org.junit.Assert.assertEquals;

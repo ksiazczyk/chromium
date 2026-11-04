@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenVideoPictureInPictureControllerUnitTest
+// summary: Robolectric tests for the fullscreen video picture-in-picture controller, including PiP params and metrics recording.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.junit.Assert.assertFalse;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to components page_info Android owners
+summary: Delegates code ownership of the Android page info unit tests to the components/page_info/android OWNERS file.

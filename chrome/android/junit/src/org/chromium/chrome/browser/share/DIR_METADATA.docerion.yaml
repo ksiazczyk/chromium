@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Share JUnit test directory metadata
+summary: Points the share JUnit test directory to the common metadata of the main share source directory via a mixin.

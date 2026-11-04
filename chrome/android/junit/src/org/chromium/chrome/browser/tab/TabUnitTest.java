@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabUnitTest
+// summary: Large Robolectric unit test suite for the Chrome Android Tab implementation, covering tab lifecycle, navigation, autofill, and browser controls behaviors.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

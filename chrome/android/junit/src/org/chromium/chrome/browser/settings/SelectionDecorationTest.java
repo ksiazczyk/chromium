@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SelectionDecoration
+// summary: Robolectric unit test verifying that SelectionDecoration clears the background of preference category views when drawing.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.junit.Assert.assertNull;

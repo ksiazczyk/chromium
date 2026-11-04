@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockRequestGenerator
+// summary: Test mock that overrides RequestGenerator with fixed values for handset and tablet Omaha update requests.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import androidx.annotation.IntDef;

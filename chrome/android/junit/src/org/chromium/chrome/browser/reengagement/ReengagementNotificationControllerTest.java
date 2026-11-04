@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReengagementNotificationControllerTest
+// summary: Robolectric unit tests for ReengagementNotificationController that verify which reengagement notification feature is triggered based on default browser info and feature engagement state.
+// ---
+
 package org.chromium.chrome.browser.reengagement;
 
 import static org.mockito.Mockito.doReturn;

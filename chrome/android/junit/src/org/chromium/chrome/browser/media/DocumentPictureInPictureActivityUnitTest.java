@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DocumentPictureInPictureActivityUnitTest
+// summary: Robolectric unit tests for the document picture-in-picture activity, covering window setup, task moves, and finishing.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.mockito.ArgumentMatchers.any;

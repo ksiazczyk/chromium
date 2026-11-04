@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSharingToolbarViewBinder unit tests
+// summary: Robolectric unit tests verifying that the tab sharing toolbar binder binds status text, stop sharing, and share instead buttons to the property model.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.junit.Assert.assertEquals;

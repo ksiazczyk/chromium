@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Owners file that delegates code review ownership to the shared OWNERS file of chrome/browser/preferences.

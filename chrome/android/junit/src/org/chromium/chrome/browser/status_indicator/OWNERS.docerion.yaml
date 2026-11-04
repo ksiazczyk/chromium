@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Status indicator OWNERS
+summary: OWNERS file that delegates review ownership to the OWNERS file of the main status_indicator source directory.

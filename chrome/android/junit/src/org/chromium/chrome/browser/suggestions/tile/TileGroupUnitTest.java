@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TileGroup
+// summary: Robolectric unit tests for TileGroup, covering tile rendering, icon loading, custom link suggestions, and feature-dependent tile behavior.
+// ---
+
 package org.chromium.chrome.browser.suggestions.tile;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

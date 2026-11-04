@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tasks JUnit tests
+summary: Defines the allowed include rules for the tasks JUnit test directory, permitting imports from the segmentation platform ClassificationResult.

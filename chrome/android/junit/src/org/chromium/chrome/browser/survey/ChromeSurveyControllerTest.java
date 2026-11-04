@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeSurveyControllerTest
+// summary: Robolectric unit tests verifying ChromeSurveyController and SurveyThrottler initialization with the Chrome survey feature enabled or disabled.
+// ---
+
 package org.chromium.chrome.browser.survey;
 
 import static org.mockito.Mockito.when;

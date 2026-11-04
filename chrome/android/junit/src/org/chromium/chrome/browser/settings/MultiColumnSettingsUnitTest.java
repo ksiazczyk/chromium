@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MultiColumnSettings
+// summary: Robolectric regression test ensuring isTwoColumn does not crash when a settings fragment is not attached to a host.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.junit.Assert.assertFalse;

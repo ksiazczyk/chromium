@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA metadata for the settings test directory
+summary: Points the junit settings test directory to the shared COMMON_METADATA mixin of the settings source directory.

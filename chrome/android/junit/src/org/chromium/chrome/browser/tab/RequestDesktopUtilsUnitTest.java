@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestDesktopUtilsUnitTest
+// summary: Robolectric unit tests for RequestDesktopUtils, covering the message shown when the request desktop site global setting is default-enabled.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.mockito.ArgumentMatchers.eq;

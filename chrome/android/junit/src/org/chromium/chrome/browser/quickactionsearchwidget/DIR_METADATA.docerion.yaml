@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for quick action search widget JUnit tests
+summary: Metadata file that inherits component metadata via a mixin from the main quickactionsearchwidget source directory.

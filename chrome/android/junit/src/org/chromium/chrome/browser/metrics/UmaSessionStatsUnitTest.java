@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UmaSessionStatsUnitTest
+// summary: Robolectric unit tests verifying that UmaSessionStats records the foldable page-loaded-in-tablet-mode histogram correctly across tablet, phone, non-foldable, and missing-activity cases.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import static org.mockito.Mockito.when;

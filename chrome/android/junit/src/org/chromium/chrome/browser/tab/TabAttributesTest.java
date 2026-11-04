@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabAttributesTest
+// summary: Robolectric tests for TabAttributes covering get, set, default values, clearing, and consistency of TabAttributeKeys entry counts.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.junit.Assert.assertEquals;

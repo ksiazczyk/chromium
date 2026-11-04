@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file reference for the settings test directory
+summary: Delegates code ownership for the junit settings tests to the OWNERS file of the settings source directory.

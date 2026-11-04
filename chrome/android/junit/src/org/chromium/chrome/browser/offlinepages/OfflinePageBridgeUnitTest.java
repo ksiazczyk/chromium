@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflinePageBridge unit tests
+// summary: Unit tests for OfflinePageBridge covering page deletion notifications and native bridge interactions with mocked JNI.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import static org.junit.Assert.assertEquals;

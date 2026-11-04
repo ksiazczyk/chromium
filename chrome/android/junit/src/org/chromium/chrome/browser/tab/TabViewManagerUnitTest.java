@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabViewManagerUnitTest
+// summary: Robolectric unit tests for TabViewManager verifying that the highest priority TabViewProvider is shown and lifecycle callbacks fire.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import static org.mockito.ArgumentMatchers.any;

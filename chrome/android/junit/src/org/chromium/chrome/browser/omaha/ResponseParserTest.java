@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResponseParserTest
+// summary: Unit tests for the Omaha ResponseParser that build sample XML responses and verify app and updatecheck status handling.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import android.util.Xml;

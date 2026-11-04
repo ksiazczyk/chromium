@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MultiInstanceManagerImpl
+// summary: Robolectric unit tests for MultiInstanceManagerImpl, using mocked orchestrator, profile, and tab group sync dependencies to exercise instance management behavior.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.junit.Assert.assertTrue;

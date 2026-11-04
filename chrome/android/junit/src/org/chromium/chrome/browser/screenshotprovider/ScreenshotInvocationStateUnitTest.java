@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenshotInvocationStateUnitTest
+// summary: Unit tests for ScreenshotInvocationState covering creation, initialization of invocation ID and content URI, and reuse decisions based on URL, scroll threshold and expiry.
+// ---
+
 package org.chromium.chrome.browser.screenshotprovider;
 
 import static org.junit.Assert.assertEquals;

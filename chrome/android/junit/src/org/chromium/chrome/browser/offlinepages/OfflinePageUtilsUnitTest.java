@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflinePageUtils unit tests
+// summary: Unit tests for OfflinePageUtils covering free space queries and saving bookmarks or pages offline.
+// ---
+
 package org.chromium.chrome.browser.offlinepages;
 
 import static org.junit.Assert.assertEquals;

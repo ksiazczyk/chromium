@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSharingUiBridge unit tests
+// summary: Robolectric unit tests for TabSharingUiBridge covering creation and destruction, stop sharing, source changes, and handling of destroyed WebContents.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.junit.Assert.assertEquals;

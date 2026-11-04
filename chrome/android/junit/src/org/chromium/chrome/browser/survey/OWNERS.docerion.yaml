@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Chromium OWNERS file that delegates code ownership to the survey package's OWNERS file in the main Java source directory.

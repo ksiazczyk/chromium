@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media notification title update tests
+// summary: JUnit tests checking that media notification text updates when the tab title changes or MediaMetadata is updated.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import static org.junit.Assert.assertEquals;

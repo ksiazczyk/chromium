@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Password manager test directory metadata
+summary: Chromium metadata file that mixes in the common password_manager component metadata for this test directory.

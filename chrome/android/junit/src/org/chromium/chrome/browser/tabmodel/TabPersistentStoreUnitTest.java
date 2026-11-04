@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabPersistentStoreUnitTest
+// summary: Unit tests for the tab persistent store logic covering saving, restoring, and metadata handling of tab state.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static com.google.common.truth.Truth.assertThat;

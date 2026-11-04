@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AttributeFinder
+// summary: Test helper that extracts a specified tag attribute's value from an XML string using a SAX parser.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import org.xml.sax.Attributes;

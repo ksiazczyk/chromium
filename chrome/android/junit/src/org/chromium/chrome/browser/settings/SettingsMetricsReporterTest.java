@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsMetricsReporter unit tests
+// summary: Robolectric unit tests for SettingsMetricsReporter, verifying histogram logging when settings or regular fragments are attached.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.junit.Assert.assertThrows;

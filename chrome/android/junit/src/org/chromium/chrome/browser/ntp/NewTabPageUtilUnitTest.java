@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page utility unit tests
+// summary: Tests helper functions of the new tab page, including narrow window detection, single URL bar mode and tiles layout top margins.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.junit.Assert.assertEquals;
