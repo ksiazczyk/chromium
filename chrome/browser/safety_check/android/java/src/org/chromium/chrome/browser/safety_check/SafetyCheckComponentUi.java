@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyCheckComponentUi
+// summary: Interface exposing UI logic of the Safety check fragment view, like whether account password storage is used.
+// ---
+
 package org.chromium.chrome.browser.safety_check;
 
 import org.chromium.build.annotations.NullMarked;

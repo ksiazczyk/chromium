@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for incident reporting
+summary: Defines the GN build targets for the incident reporting directory, including the state store data protobuf library.

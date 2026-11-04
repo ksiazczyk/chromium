@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyCheckMediator
+// summary: Mediator implementing Safety check logic for the password, Safe Browsing, and updates checks and their metrics.
+// ---
+
 package org.chromium.chrome.browser.safety_check;
 
 import static org.chromium.chrome.browser.pwd_check_wrapper.PasswordCheckController.getAccountNameForPasswordStorageType;

@@ -1,0 +1,4 @@
+# Docerion header of verifier_test_dll_1.def.
+type: config
+title: Module definition for verifier test DLL 1
+summary: Linker module definition file exporting DllMain and DummyExport for the verifier_test_dll_1.dll test library.

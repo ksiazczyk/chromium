@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension telemetry file processor header
+// summary: Declares the ExtensionTelemetryFileProcessor class that computes installed extension file hashes and reads manifest.json contents on a blocking task sequence.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_EXTENSION_TELEMETRY_FILE_PROCESSOR_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_EXTENSION_TELEMETRY_FILE_PROCESSOR_H_
 

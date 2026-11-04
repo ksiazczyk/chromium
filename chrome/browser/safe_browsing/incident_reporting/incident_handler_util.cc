@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incident handler hash utility implementation
+// summary: Implements HashMessage, which computes a simple hash digest over the serialized form of a protobuf message.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/incident_handler_util.h"
 
 #include <string>

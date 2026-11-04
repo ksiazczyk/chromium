@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incident reporting service unit tests
+// summary: Unit tests for the incident reporting service using fake environment collectors, download finders, and report uploaders.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/incident_reporting_service.h"
 
 #include <stdint.h>

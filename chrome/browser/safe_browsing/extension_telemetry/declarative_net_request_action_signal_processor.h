@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeclarativeNetRequestActionSignalProcessor class declaration
+// summary: Declares the DeclarativeNetRequestActionSignalProcessor class that aggregates declarativeNetRequest action details per extension for telemetry reports.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_DECLARATIVE_NET_REQUEST_ACTION_SIGNAL_PROCESSOR_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_DECLARATIVE_NET_REQUEST_ACTION_SIGNAL_PROCESSOR_H_
 

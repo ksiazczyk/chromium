@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyCheckCoordinator
+// summary: Coordinator that wires the Safety check settings fragment with the mediator, bridges, and password check dependencies.
+// ---
+
 package org.chromium.chrome.browser.safety_check;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

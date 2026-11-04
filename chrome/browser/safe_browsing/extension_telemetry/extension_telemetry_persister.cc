@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension telemetry persister implementation
+// summary: Implements writing, reading and clearing of telemetry report files in a rotating on-disk cache under the profile's CRXTelemetry directory, with UMA histograms.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_telemetry_persister.h"
 
 #include "base/files/file_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabs API signal class declaration
+// summary: Declares the TabsApiSignal class representing a signal raised when an extension calls chrome.tabs API methods, carrying URLs and a JS call stack.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_TABS_API_SIGNAL_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_TABS_API_SIGNAL_H_
 

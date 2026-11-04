@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform interface for suspicious site warning UI
+// summary: Declares platform-implemented functions that show the suspicious site warning and its bubble for a given WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_SUSPICIOUS_SITE_WARNINGS_SUSPICIOUS_SITE_UI_H_
 #define CHROME_BROWSER_SAFE_BROWSING_SUSPICIOUS_SITE_WARNINGS_SUSPICIOUS_SITE_UI_H_
 

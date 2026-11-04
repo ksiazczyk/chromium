@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing metrics provider implementation
+// summary: Emits a UMA histogram recording the main profile's Safe Browsing protection state at session metrics upload time.
+// ---
+
 #include "chrome/browser/safe_browsing/metrics/safe_browsing_metrics_provider.h"
 
 #include "base/metrics/histogram_functions.h"

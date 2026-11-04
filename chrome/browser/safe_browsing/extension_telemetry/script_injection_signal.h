@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script injection signal class declaration
+// summary: Declares the ScriptInjectionSignal class created when an extension injects a script into a web page, with accessors and an aggregation key.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_SCRIPT_INJECTION_SIGNAL_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_SCRIPT_INJECTION_SIGNAL_H_
 

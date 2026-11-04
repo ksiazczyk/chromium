@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM access signal processor class declaration
+// summary: Declares DOMAccessSignalProcessor, which aggregates DOM access signals per extension to build safe browsing telemetry reports.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_DOM_ACCESS_SIGNAL_PROCESSOR_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_DOM_ACCESS_SIGNAL_PROCESSOR_H_
 

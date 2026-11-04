@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tailored security service factory interface
+// summary: Declares TailoredSecurityServiceFactory, a ProfileKeyedServiceFactory for creating and fetching the per-profile tailored security service.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_TAILORED_SECURITY_TAILORED_SECURITY_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SAFE_BROWSING_TAILORED_SECURITY_TAILORED_SECURITY_SERVICE_FACTORY_H_
 

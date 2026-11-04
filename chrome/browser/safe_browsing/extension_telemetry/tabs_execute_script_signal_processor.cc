@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabs executeScript signal processor implementation
+// summary: Implements processing of tabs.executeScript signals, tracking script hash execution counts per extension for telemetry reports.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/tabs_execute_script_signal_processor.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incident abstract class and type enum
+// summary: Defines the abstract Incident interface with type, key and digest methods, plus the IncidentType enum used for histogram reporting.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_INCIDENT_H_
 #define CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_INCIDENT_H_
 

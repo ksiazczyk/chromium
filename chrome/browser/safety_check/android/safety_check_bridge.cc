@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for Android Safety Check
+// summary: Native C++ JNI bridge exposing Safety Check functions to Java, including user sign-in checks for leak detection and Safe Browsing status checks.
+// ---
+
 #include <jni.h>
 
 #include "chrome/browser/profiles/profile.h"

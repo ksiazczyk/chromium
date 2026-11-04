@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Notification telemetry service factory implementation
+// summary: Implements the profile-keyed factory that builds the telemetry service, skipping Android arm32, incognito, and guest contexts.
+// ---
+
 #include "chrome/browser/safe_browsing/notification_telemetry/notification_telemetry_service_factory.h"
 
 #include "base/task/sequenced_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows environment data collection unit tests
+// summary: Unit tests verifying Windows collection of loaded DLLs, LSP features, module verification, registry data, and related environment data, with some tests disabled for flakiness.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/environment_data_collection_win.h"
 
 #include <stddef.h>

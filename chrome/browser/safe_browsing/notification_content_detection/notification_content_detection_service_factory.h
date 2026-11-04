@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification content detection service factory header
+// summary: Declares the singleton profile-keyed service factory that owns one NotificationContentDetectionService per profile and returns null for incognito.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_NOTIFICATION_CONTENT_DETECTION_NOTIFICATION_CONTENT_DETECTION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SAFE_BROWSING_NOTIFICATION_CONTENT_DETECTION_NOTIFICATION_CONTENT_DETECTION_SERVICE_FACTORY_H_
 

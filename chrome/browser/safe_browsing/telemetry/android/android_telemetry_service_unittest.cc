@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android telemetry service unit tests
+// summary: Unit tests for the Android telemetry service that verify ping conditions, report generation, and recorded outcome histograms using mock download items and profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/telemetry/android/android_telemetry_service.h"
 
 #include <memory>

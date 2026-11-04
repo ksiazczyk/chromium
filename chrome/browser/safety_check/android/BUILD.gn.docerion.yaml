@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Android Safety Check component
+summary: Defines build targets for Android Safety Check, including JNI header generation, the native source set, Java library sources, and Java test targets.

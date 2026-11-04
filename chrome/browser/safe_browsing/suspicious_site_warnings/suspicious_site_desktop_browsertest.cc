@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the desktop suspicious site warning bubble
+// summary: In-process browser tests that verify the suspicious site warning bubble end to end with a fake Safe Browsing database manager and an embedded test server.
+// ---
+
 #include "base/memory/scoped_refptr.h"
 #include "base/test/bind.h"
 #include "base/test/scoped_feature_list.h"

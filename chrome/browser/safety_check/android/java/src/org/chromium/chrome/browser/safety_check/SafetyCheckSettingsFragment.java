@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyCheckSettingsFragment
+// summary: Settings fragment acting as the Safety check page view, with the Check button and last-run timestamp.
+// ---
+
 package org.chromium.chrome.browser.safety_check;
 
 import android.os.Bundle;

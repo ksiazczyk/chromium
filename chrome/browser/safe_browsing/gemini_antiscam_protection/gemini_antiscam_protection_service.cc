@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini anti-scam protection service implementation
+// summary: Implements the keyed service that sends page URL and text to the Gemini model via the Optimization Guide, maps scam content categories, and records UMA metrics.
+// ---
+
 #include "chrome/browser/safe_browsing/gemini_antiscam_protection/gemini_antiscam_protection_service.h"
 
 #include "base/metrics/histogram_functions.h"

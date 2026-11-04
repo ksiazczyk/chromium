@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked preference incident implementation
+// summary: Implements the tracked preference incident, computing a digest over the payload and stripping values from reports of personal preferences.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/tracked_preference_incident.h"
 
 #include "base/check.h"

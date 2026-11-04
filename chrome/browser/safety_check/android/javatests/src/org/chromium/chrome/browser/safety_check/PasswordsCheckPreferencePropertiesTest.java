@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordsCheckPreferencePropertiesTest
+// summary: Parameterized Robolectric unit tests verifying that password check results map to the correct passwords state for the Safety Check preferences.
+// ---
+
 package org.chromium.chrome.browser.safety_check;
 
 import org.junit.Assert;

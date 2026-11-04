@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Android Safety Check dependencies
+summary: DEPS file listing the allowed include dependencies for the Android Safety Check directory, such as components/safety_check, components/prefs, and content/public/android.

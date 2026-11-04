@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative net request signal processor implementation
+// summary: Implements the processor that stores declarativeNetRequest redirect and modifyHeaders rules per extension up to a limit and builds telemetry report signal info.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/declarative_net_request_signal_processor.h"
 
 #include "base/check_op.h"

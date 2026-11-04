@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookies getAll signal processor implementation
+// summary: Processes cookies.getAll signals by storing unique argument sets and JS callstacks per extension and building signal info protobufs for telemetry reports.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/cookies_get_all_signal_processor.h"
 
 #include "base/check_op.h"

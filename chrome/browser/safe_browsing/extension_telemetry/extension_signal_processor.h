@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension signal processor interface
+// summary: Declares the abstract ExtensionSignalProcessor interface for processing signals into telemetry report data.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_EXTENSION_SIGNAL_PROCESSOR_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_EXTENSION_SIGNAL_PROCESSOR_H_
 

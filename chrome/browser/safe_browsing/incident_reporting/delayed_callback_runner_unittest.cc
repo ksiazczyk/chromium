@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delayed callback runner unit tests
+// summary: Tests DelayedCallbackRunner callback registration, execution, and deletion lifecycle behavior across runner destruction and completion.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/delayed_callback_runner.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tailored Security Unconsented Message Android Header
+// summary: Declares the Android class that shows a message prompting users to enable Enhanced Safe Browsing when the Tailored Security preference changes.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_TAILORED_SECURITY_UNCONSENTED_MESSAGE_ANDROID_H_
 #define CHROME_BROWSER_SAFE_BROWSING_TAILORED_SECURITY_UNCONSENTED_MESSAGE_ANDROID_H_
 

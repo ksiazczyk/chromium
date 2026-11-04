@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search hijacking detector implementation
+// summary: Implements a heuristic comparing omnibox search counts with search results page landings to detect search hijacking extensions, recording histograms and prefs data.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/search_hijacking_detector.h"
 
 #include "base/json/values_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: macOS binary integrity analyzer unit tests
+// summary: Tests the macOS analyzer's expected critical paths and requirements and its detection of corrupted signed bundles.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/binary_integrity_analyzer_mac.h"
 
 #include <Security/Security.h>

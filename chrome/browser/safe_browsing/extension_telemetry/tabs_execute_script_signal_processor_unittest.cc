@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs execute script signal processor unit tests
+// summary: Unit tests verifying that the tabs execute script signal processor stores, aggregates, and reports per-extension script execution signal info for Safe Browsing extension telemetry.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/tabs_execute_script_signal_processor.h"
 
 #include <array>

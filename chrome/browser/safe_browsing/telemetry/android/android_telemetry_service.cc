@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android telemetry service implementation
+// summary: Implements the Android Safe Browsing telemetry service that observes downloads, builds referrer chains, and sends CSBRR pings for APK downloads when the user has opted in.
+// ---
+
 #include "chrome/browser/safe_browsing/telemetry/android/android_telemetry_service.h"
 
 #include <algorithm>

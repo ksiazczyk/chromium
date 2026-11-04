@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tracked preference incident unit tests
+// summary: Unit tests covering the incident's type, key being the preference path, digest stability, and filtering of personal preference values.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/tracked_preference_incident.h"
 
 #include <memory>

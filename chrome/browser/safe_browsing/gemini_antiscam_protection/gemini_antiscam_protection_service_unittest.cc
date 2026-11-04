@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Gemini anti-scam protection service
+// summary: Unit tests using mocked history and Optimization Guide services to verify history checks, model responses, and metric logging.
+// ---
+
 #include "chrome/browser/safe_browsing/gemini_antiscam_protection/gemini_antiscam_protection_service.h"
 
 #include "base/test/metrics/histogram_tester.h"

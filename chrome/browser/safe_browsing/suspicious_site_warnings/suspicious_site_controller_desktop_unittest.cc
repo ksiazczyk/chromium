@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the desktop suspicious site controller
+// summary: Unit tests covering controller creation, bubble suspension, dismissal and outcome metrics using a test Safe Browsing service.
+// ---
+
 #include "chrome/browser/safe_browsing/suspicious_site_warnings/suspicious_site_controller_desktop.h"
 
 #include <memory>

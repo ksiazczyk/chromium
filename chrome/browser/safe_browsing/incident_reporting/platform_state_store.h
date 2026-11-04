@@ -5,6 +5,12 @@
 // An interface to platform-specific storage of IncidentReportingService prune
 // state.
 
+// ---docerion
+// type: source
+// title: Platform state store interface
+// summary: Declares the interface for platform-specific storage of IncidentReportingService prune state, enabled on Windows via the registry.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_PLATFORM_STATE_STORE_H_
 #define CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_PLATFORM_STATE_STORE_H_
 

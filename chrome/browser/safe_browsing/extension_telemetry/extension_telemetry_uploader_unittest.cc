@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension telemetry uploader unit tests
+// summary: Unit tests verifying uploader behavior such as access token attachment, cookies, retries, and upload success handling.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_telemetry_uploader.h"
 
 #include <string>

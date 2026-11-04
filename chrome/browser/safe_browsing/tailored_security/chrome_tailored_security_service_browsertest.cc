@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for tailored security sync notification dialog
+// summary: In-process browser test checking that a sync notification shows the tailored security dialog while suppressing toast display.
+// ---
+
 #include "chrome/browser/safe_browsing/tailored_security/chrome_tailored_security_service.h"
 
 #include "base/test/metrics/user_action_tester.h"

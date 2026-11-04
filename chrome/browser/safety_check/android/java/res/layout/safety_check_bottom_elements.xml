@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Safety check bottom elements layout
+summary: Android layout XML defining the Safety check timestamp text and the filled button that starts a Safety check, right-aligned in a vertical LinearLayout.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content"

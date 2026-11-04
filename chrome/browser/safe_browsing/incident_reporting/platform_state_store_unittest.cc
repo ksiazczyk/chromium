@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform state store unit tests
+// summary: Tests serialization and deserialization of the incidents_sent preference, including empty payloads and round-trip compatibility.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/platform_state_store.h"
 
 #include <memory>

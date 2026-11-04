@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing metrics provider header
+// summary: Declares the SafeBrowsingMetricsProvider class that reports the main profile's Safe Browsing state upon UMA upload.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_METRICS_SAFE_BROWSING_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_METRICS_SAFE_BROWSING_METRICS_PROVIDER_H_
 

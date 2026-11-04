@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabs API signal processor implementation
+// summary: Implements processing of chrome.tabs API signals, storing per-extension call details with counts and JS call stacks for telemetry reports.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/tabs_api_signal_processor.h"
 
 #include <string>

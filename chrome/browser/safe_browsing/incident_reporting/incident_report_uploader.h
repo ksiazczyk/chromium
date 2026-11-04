@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incident report uploader abstract base class
+// summary: Defines the abstract IncidentReportUploader with its upload result enum for UMA and the callback used to report upload outcomes.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_INCIDENT_REPORT_UPLOADER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_INCIDENT_REPORT_UPLOADER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows binary integrity analyzer
+// summary: Checks signatures of critical Windows Chrome binaries, reporting incidents for untrusted ones and clearing reports once integral.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/binary_integrity_analyzer_win.h"
 
 #include <stddef.h>

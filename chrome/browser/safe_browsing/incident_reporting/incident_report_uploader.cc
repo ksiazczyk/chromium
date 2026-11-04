@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incident report uploader base implementation
+// summary: Implements the IncidentReportUploader base class destructor and the constructor that stores the result callback.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/incident_report_uploader.h"
 
 namespace safe_browsing {

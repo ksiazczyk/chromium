@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification content detection service browser tests
+// summary: In-process browser tests exercising notification content detection, covering allowlisted and non-allowlisted URLs, warnings, histograms, and UKM metrics.
+// ---
+
 #include "components/safe_browsing/content/browser/notification_content_detection/notification_content_detection_service.h"
 
 #include "base/memory/scoped_refptr.h"

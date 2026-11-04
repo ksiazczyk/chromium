@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Extension telemetry OWNERS file
+summary: Lists the required pre-reviewers and final reviewer for changes in the extension telemetry directory.

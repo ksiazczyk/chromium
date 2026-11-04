@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs API signal processor unit tests
+// summary: Unit tests verifying TabsApiSignalProcessor behavior for invalid signals, call detail storage and counting, and report generation.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/tabs_api_signal_processor.h"
 
 #include <array>

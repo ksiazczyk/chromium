@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android unconsented tailored security message implementation
+// summary: Implements the Android message UI that informs users tailored security was enabled, handling accept and dismiss actions and logging in-flow and out-of-flow outcomes.
+// ---
+
 #include "chrome/browser/safe_browsing/tailored_security/unconsented_message_android.h"
 
 #include "base/metrics/histogram_functions.h"

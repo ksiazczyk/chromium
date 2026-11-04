@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM access signal unit tests
+// summary: Unit tests checking DOMAccessSignal field values, URL sanitization, and aggregation key generation.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/dom_access_signal.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

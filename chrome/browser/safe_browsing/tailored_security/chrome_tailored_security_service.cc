@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome tailored security service implementation
+// summary: Implements the Chrome-level tailored security service that reacts to sync-driven enhanced protection changes and shows notices on Android and desktop.
+// ---
+
 #include "chrome/browser/safe_browsing/tailored_security/chrome_tailored_security_service.h"
 
 #include "base/metrics/histogram_functions.h"

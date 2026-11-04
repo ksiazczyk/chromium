@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock notification content detection service implementation
+// summary: Implements a mock NotificationContentDetectionService with a FactoryForTests helper so tests can inject the service without a database manager.
+// ---
+
 #include "chrome/browser/safe_browsing/notification_content_detection/mock_notification_content_detection_service.h"
 
 #include "base/memory/ptr_util.h"

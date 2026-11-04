@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension telemetry config manager header
+// summary: Declares the ExtensionTelemetryConfigManager class that manages reporting intervals, persistence and per-extension signal enables via the pref service.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_EXTENSION_TELEMETRY_CONFIG_MANAGER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_EXTENSION_TELEMETRY_CONFIG_MANAGER_H_
 

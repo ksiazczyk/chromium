@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock notification content detection service header
+// summary: Declares a gmock-based mock of NotificationContentDetectionService with a mocked MaybeCheckNotificationContentDetectionModel method for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_NOTIFICATION_CONTENT_DETECTION_MOCK_NOTIFICATION_CONTENT_DETECTION_SERVICE_H_
 #define CHROME_BROWSER_SAFE_BROWSING_NOTIFICATION_CONTENT_DETECTION_MOCK_NOTIFICATION_CONTENT_DETECTION_SERVICE_H_
 

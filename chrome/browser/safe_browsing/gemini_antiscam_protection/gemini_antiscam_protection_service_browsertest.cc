@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Gemini anti-scam protection service
+// summary: In-process browser tests that exercise the service with mocked model execution results and verify metrics and model quality logging.
+// ---
+
 #include "chrome/browser/safe_browsing/gemini_antiscam_protection/gemini_antiscam_protection_service.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows module integrity verifier interface
+// summary: Declares helpers to compare a module's code section in memory against disk and populate module state for incident reports.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_MODULE_INTEGRITY_VERIFIER_WIN_H_
 #define CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_MODULE_INTEGRITY_VERIFIER_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Last download finder unit tests
+// summary: Unit tests for LastDownloadFinder using testing profiles, history services, and platform-specific binary file names.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/last_download_finder.h"
 
 #include <stddef.h>

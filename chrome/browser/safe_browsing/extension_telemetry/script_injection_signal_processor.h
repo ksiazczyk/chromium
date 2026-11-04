@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script injection signal processor class declaration
+// summary: Declares the processor that aggregates script injection signal data per extension and generates telemetry report requests.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_SCRIPT_INJECTION_SIGNAL_PROCESSOR_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_SCRIPT_INJECTION_SIGNAL_PROCESSOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tests
+summary: Grants test source files in this directory permission to include headers from services/network/test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delayed callback runner implementation
+// summary: Implements DelayedCallbackRunner, which runs registered callbacks on a task runner with a delay before and between each callback.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/delayed_callback_runner.h"
 
 #include "base/location.h"

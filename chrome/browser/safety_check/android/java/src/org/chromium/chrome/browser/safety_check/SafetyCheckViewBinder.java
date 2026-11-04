@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyCheckViewBinder
+// summary: Binds Safety check property models to preferences, mapping states to status strings and icons.
+// ---
+
 package org.chromium.chrome.browser.safety_check;
 
 import android.content.Context;

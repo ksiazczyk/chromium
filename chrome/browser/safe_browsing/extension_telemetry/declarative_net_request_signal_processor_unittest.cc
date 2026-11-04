@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarative net request signal processor unit tests
+// summary: Tests the declarativeNetRequest signal processor, covering rule storage, filtering of applicable rule action types, and report generation.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/declarative_net_request_signal_processor.h"
 
 #include <array>

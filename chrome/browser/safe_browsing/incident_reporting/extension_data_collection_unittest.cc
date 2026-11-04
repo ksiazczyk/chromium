@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension data collection unit tests
+// summary: Unit tests for extension data collection, exercising extension states, install signatures, and profile setup, including ChromeOS-specific test support.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/extension_data_collection.h"
 
 #include <memory>

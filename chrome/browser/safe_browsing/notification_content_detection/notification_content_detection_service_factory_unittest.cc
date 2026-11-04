@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification content detection service factory unit tests
+// summary: Unit tests verifying the factory creates the service on desktop but is disabled for Android ARM, low-end devices, incognito, and guest profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/notification_content_detection/notification_content_detection_service_factory.h"
 
 #include "base/system/sys_info.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download metadata manager implementation
+// summary: Implements the download metadata manager that persists and associates ClientDownloadRequest metadata with download items per profile.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/download_metadata_manager.h"
 
 #include <limits.h>

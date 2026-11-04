@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incident base class implementation
+// summary: Implements the abstract Incident class, managing its ClientIncidentReport_IncidentData payload and recording the incident time.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/incident.h"
 
 #include <utility>

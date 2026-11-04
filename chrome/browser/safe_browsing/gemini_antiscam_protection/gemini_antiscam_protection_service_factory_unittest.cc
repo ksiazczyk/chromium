@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Gemini anti-scam protection service factory
+// summary: Unit tests verifying the factory disables the service for incognito, guest, standard Safe Browsing, and enterprise-managed profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/gemini_antiscam_protection/gemini_antiscam_protection_service_factory.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension telemetry config manager unit tests
+// summary: Unit tests verifying loading, saving and querying of extension telemetry configuration, including signal enable bitmasks and default values.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_telemetry_config_manager.h"
 
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_signal.h"

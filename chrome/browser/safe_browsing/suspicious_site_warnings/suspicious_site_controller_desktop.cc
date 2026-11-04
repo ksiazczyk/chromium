@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop suspicious site warning controller implementation
+// summary: Implements the per-tab desktop controller that shows the suspicious site warning bubble, logs user interaction metrics, and cleans up allowlist entries.
+// ---
+
 #include "chrome/browser/safe_browsing/suspicious_site_warnings/suspicious_site_controller_desktop.h"
 
 #include <utility>

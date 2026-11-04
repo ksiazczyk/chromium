@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bundled settings metrics provider unit tests
+// summary: Unit tests verifying that the provider emits correct histograms for bundle selection, Safe Browsing state and related settings deviations.
+// ---
+
 #include "chrome/browser/safe_browsing/metrics/bundled_settings_metrics_provider.h"
 
 #include "base/memory/raw_ptr.h"

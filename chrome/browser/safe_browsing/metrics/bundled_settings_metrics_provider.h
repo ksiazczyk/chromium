@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bundled settings metrics provider header
+// summary: Declares the BundledSettingsMetricsProvider class and JavaScript optimizer histogram name constants for reporting bundled security settings on UMA upload.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_METRICS_BUNDLED_SETTINGS_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_METRICS_BUNDLED_SETTINGS_METRICS_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Script injection signal unit tests
+// summary: Unit tests verifying URL sanitization, argument truncation and aggregation key generation for script injection signals.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/script_injection_signal.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

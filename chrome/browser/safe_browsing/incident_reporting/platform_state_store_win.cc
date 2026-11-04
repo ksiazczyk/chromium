@@ -6,6 +6,12 @@
 // HKEY_CURRENT_USER\Software\<browser>\IncidentsSent for each profile. The
 // value names are profile directory BaseNames.
 
+// ---docerion
+// type: source
+// title: Windows registry state store implementation
+// summary: Stores incident prune state per profile in the Windows registry under the IncidentsSent key, reading and writing binary values.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/platform_state_store.h"
 
 #include <windows.h>

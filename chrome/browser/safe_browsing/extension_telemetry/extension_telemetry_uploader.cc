@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension telemetry uploader implementation
+// summary: Implements uploading telemetry reports to the Safe Browsing CRX telemetry endpoint with OAuth tokens, retries, backoff, and upload metrics.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_telemetry_uploader.h"
 
 #include <memory>

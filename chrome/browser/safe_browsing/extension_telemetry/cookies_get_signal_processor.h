@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookiesGetSignalProcessor class declaration
+// summary: Declares the CookiesGetSignalProcessor class that stores cookies.get call data per extension, capped at a maximum number of argument sets.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_COOKIES_GET_SIGNAL_PROCESSOR_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_COOKIES_GET_SIGNAL_PROCESSOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini anti-scam protection service header
+// summary: Declares the GeminiAntiscamProtectionService keyed service that queries history and triggers Gemini model checks to assess page scamminess.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_GEMINI_ANTISCAM_PROTECTION_GEMINI_ANTISCAM_PROTECTION_SERVICE_H_
 #define CHROME_BROWSER_SAFE_BROWSING_GEMINI_ANTISCAM_PROTECTION_GEMINI_ANTISCAM_PROTECTION_SERVICE_H_
 

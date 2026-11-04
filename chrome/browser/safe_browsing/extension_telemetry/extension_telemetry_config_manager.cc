@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension telemetry config manager implementation
+// summary: Implements the ExtensionTelemetryConfigManager that loads, saves and queries extension telemetry service configuration stored in Chrome prefs.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_telemetry_config_manager.h"
 
 #include "base/values.h"

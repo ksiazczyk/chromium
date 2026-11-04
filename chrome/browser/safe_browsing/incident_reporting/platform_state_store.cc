@@ -14,6 +14,12 @@
 // mapping's keys are of type int, and the nested mappings' values are of type
 // uint32_t.
 
+// ---docerion
+// type: source
+// title: Platform state store implementation
+// summary: Implements platform-neutral load and store of the safebrowsing.incidents_sent preference, converting it to a serialized protobuf.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/platform_state_store.h"
 
 #include <optional>

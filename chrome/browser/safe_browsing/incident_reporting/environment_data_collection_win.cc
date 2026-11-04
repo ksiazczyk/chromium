@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows environment data collection implementation
+// summary: Windows-specific collection of loaded DLLs, module verification data, DLL blocklist entries, registry key contents, and domain enrollment data for incident reports.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/environment_data_collection_win.h"
 
 #include <stdint.h>

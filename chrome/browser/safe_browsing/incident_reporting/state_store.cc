@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: State store implementation
+// summary: Implements per-profile storage of which incidents have been reported, persisting changes through the incidents_sent preference and the platform state store.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/state_store.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PotentialPasswordTheftSignalProcessor class header
+// summary: Declares the processor that maintains password reuse and remote host contacted queues per extension and produces combined signal info.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_POTENTIAL_PASSWORD_THEFT_SIGNAL_PROCESSOR_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_POTENTIAL_PASSWORD_THEFT_SIGNAL_PROCESSOR_H_
 

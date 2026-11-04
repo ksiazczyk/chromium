@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension web request reporter header
+// summary: Declares the Mojo interface implementation that collects extension web request data in the browser process as profile user data.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_EXTENSION_WEB_REQUEST_REPORTER_IMPL_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_EXTENSION_WEB_REQUEST_REPORTER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookiesGetSignalProcessor unit tests
+// summary: Unit tests for CookiesGetSignalProcessor covering signal storage, per-extension reporting, and argument set limit behavior.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/cookies_get_signal_processor.h"
 
 #include <array>

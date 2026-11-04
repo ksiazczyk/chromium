@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Safety Check OWNERS
+summary: Lists the code owners for the Safety Check directory, including the shared owners file from components/safety_check and an individual owner.

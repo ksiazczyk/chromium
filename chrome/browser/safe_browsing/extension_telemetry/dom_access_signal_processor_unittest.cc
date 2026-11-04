@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM access signal processor unit tests
+// summary: Unit tests verifying signal storage, aggregation counts, report generation, and the max aggregated signals limit of the DOM access signal processor.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/dom_access_signal_processor.h"
 
 #include <memory>

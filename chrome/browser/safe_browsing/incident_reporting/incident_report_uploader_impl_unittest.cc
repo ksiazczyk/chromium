@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incident report uploader unit test
+// summary: Tests that IncidentReportUploaderImpl reports upload success and provides the parsed response when the URL loader completes with HTTP OK.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/incident_report_uploader_impl.h"
 
 #include <string>

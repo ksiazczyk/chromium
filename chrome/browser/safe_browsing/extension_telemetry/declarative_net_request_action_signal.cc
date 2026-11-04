@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeclarativeNetRequestActionSignal class implementation
+// summary: Implements the DeclarativeNetRequestActionSignal telemetry signal, including a factory for redirect action signals with sanitized request and redirect URLs.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/declarative_net_request_action_signal.h"
 
 #include <memory>

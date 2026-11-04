@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock incident receiver declaration
+// summary: Declares a Google Mock IncidentReceiver with helper actions for taking ownership of incidents in tests.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_MOCK_INCIDENT_RECEIVER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_MOCK_INCIDENT_RECEIVER_H_
 

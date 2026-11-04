@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Safety Check DIR_METADATA
+summary: Declares the Monorail component, team email, and Buganizer component ID used for issues in the Safety Check browser directory.

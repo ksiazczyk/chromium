@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabs executeScript signal implementation
+// summary: Implements TabsExecuteScriptSignal, which captures tabs.executeScript invocations and stores a SHA-256 hash of the executed script code.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/tabs_execute_script_signal.h"
 
 #include "crypto/sha2.h"

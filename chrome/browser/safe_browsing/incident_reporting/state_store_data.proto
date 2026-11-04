@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: State store data protocol definition
+// summary: Defines the protobuf messages that store key and digest pairs for reported incidents of each incident type.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

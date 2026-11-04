@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookies getAll signal processor unit tests
+// summary: Tests signal processing, argument set counting, per-extension report generation and the maximum argument set limit of the cookies.getAll processor.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/cookies_get_all_signal_processor.h"
 
 #include <array>

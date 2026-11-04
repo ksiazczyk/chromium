@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PotentialPasswordTheftSignalProcessor implementation
+// summary: Correlates password reuse events with remote host contacts within one second to build potential password theft telemetry reports.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/potential_password_theft_signal_processor.h"
 
 #include <algorithm>

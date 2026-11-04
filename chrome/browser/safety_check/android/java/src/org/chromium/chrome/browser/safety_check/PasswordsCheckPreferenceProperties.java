@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordsCheckPreferenceProperties
+// summary: Defines property keys, password check states, and conversion helpers for the Safety check passwords preference.
+// ---
+
 package org.chromium.chrome.browser.safety_check;
 
 import androidx.annotation.IntDef;

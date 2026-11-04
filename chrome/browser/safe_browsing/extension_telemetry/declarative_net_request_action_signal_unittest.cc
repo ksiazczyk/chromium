@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarative net request action signal unit tests
+// summary: Verifies URL sanitization and unique action details ID generation for declarativeNetRequest redirect action signals.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/declarative_net_request_action_signal.h"
 
 #include <memory>

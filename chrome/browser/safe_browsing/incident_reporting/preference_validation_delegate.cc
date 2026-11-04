@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preference validation delegate implementation
+// summary: Creates tracked preference incidents for preference validation failures and forwards them to the incident receiver.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/preference_validation_delegate.h"
 
 #include <string>

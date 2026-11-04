@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for notification content detection
+summary: Lists the preferred reviewer for the directory and inherits owners from the components safe browsing notification content detection OWNERS file.

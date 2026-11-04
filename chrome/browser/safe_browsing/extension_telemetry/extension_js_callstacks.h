@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension JS callstacks class declaration
+// summary: Declares a helper class that signal processors embed to store and retrieve JS callstacks for extension API calls.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_EXTENSION_JS_CALLSTACKS_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_EXTENSION_JS_CALLSTACKS_H_
 

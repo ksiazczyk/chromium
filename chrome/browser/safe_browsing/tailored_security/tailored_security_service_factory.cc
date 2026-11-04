@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tailored security service factory implementation
+// summary: Implements the per-profile keyed service factory that creates ChromeTailoredSecurityService instances, with dependencies on identity and sync services.
+// ---
+
 #include "chrome/browser/safe_browsing/tailored_security/tailored_security_service_factory.h"
 
 #include "chrome/browser/profiles/incognito_helpers.h"

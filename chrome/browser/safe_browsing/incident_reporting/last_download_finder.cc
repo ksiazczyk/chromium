@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Last download finder implementation
+// summary: Searches download history across eligible profiles for the most recent binary and non-binary downloads to include in incident reports.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/last_download_finder.h"
 
 #include <stddef.h>

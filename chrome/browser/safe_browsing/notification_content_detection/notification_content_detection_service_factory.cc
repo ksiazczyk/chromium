@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification content detection service factory implementation
+// summary: Implements the profile-keyed factory that builds the service, skipping ARM Android, low-end devices, and setups without a safe browsing database manager.
+// ---
+
 #include "chrome/browser/safe_browsing/notification_content_detection/notification_content_detection_service_factory.h"
 
 #include "base/system/sys_info.h"

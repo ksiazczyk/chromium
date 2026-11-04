@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookies getAll signal processor class declaration
+// summary: Declares the processor that aggregates cookies.getAll signal data per extension, with a limit on stored argument sets, for telemetry reporting.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_COOKIES_GET_ALL_SIGNAL_PROCESSOR_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_COOKIES_GET_ALL_SIGNAL_PROCESSOR_H_
 

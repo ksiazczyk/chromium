@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyCheckBridge
+// summary: JNI bridge giving Android access to the C++ multi-platform Safety check code, such as Safe Browsing status.
+// ---
+
 package org.chromium.chrome.browser.safety_check;
 
 import org.jni_zero.NativeMethods;
