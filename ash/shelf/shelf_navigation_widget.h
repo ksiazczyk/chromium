@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf navigation widget class declaration
+// summary: Declares ShelfNavigationWidget, the widget holding the home and back buttons, including a test API and layout overrides.
+// relations:
+//   - implements /ash/shelf/shelf_component.h
+//   - references /ash/shelf/shelf.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_NAVIGATION_WIDGET_H_
 #define ASH_SHELF_SHELF_NAVIGATION_WIDGET_H_
 

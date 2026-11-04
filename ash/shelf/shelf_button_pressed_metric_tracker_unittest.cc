@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShelfButtonPressedMetricTracker unit tests
+// summary: Unit tests verifying that the correct UMA user actions are recorded when shelf buttons are pressed by mouse, gesture, or with various shelf actions.
+// relations:
+//   - tests /ash/shelf/shelf_button_pressed_metric_tracker.h
+//   - references /ash/shelf/shelf.h
+//   - references /ash/shelf/shelf_view_test_api.h
+// ---
+
 #include "ash/shelf/shelf_button_pressed_metric_tracker.h"
 
 #include <utility>

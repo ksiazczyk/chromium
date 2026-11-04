@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenRotationAnimatorTestApi declaration
+// summary: Declares a test API providing internal access to a ScreenRotationAnimator and control of its rotation animations via the multi-layer animator test controller.
+// relations:
+//   - references /base/memory/raw_ptr.h
+//   - references /ui/compositor/test/multi_layer_animator_test_controller.h
+//   - references /ui/compositor/test/multi_layer_animator_test_controller_delegate.h
+// ---
+
 #ifndef ASH_ROTATOR_SCREEN_ROTATION_ANIMATOR_TEST_API_H_
 #define ASH_ROTATOR_SCREEN_ROTATION_ANIMATOR_TEST_API_H_
 

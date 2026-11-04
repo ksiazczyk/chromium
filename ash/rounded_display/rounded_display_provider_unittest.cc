@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rounded display provider unit tests
+// summary: Unit tests that verify RoundedDisplayProvider gutter creation, strategy handling and validation of display corner radii.
+// relations:
+//   - tests /ash/rounded_display/rounded_display_provider.cc
+//   - references /ash/rounded_display/rounded_display_provider.h
+//   - references /ash/rounded_display/rounded_display_provider_test_api.h
+// ---
+
 #include "ash/rounded_display/rounded_display_provider.h"
 
 #include <algorithm>

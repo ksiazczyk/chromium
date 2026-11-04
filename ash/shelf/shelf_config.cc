@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfConfig implementation
+// summary: Implements shelf sizing and density configuration, observing accessibility, split view, tablet mode, and screen size to adjust shelf metrics.
+// relations:
+//   - implements /ash/public/cpp/shelf_config.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/accessibility_observer.h
+// ---
+
 #include "ash/public/cpp/shelf_config.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf view implementation
+// summary: Implements ShelfView, the view that renders shelf item buttons and handles model updates, drag and drop, context and application menus, tooltips, and animations.
+// ---
+
 #include "ash/shelf/shelf_view.h"
 
 #include <algorithm>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag handle class declaration
+// summary: Declares the DragHandle button that hints at swipe-up gestures, with nudge scheduling and observers for overview, split view and shelf state.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/controls/contextual_nudge.h
+//   - depends_on /ash/controls/contextual_tooltip.h
+// ---
+
 #ifndef ASH_SHELF_DRAG_HANDLE_H_
 #define ASH_SHELF_DRAG_HANDLE_H_
 

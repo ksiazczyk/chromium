@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Launcher nudge controller unit tests
+// summary: Unit tests for the launcher nudge controller, verifying nudge label display and animation behavior on the home button using a mock clock and animation observer.
+// relations:
+//   - tests /ash/shelf/launcher_nudge_controller.h
+//   - depends_on /ash/shelf/home_button.h
+//   - depends_on /ash/shelf/shelf_controller.h
+// ---
+
 #include "ash/shelf/launcher_nudge_controller.h"
 
 #include "ash/app_list/app_list_controller_impl.h"

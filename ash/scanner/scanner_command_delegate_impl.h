@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner command delegate concrete declaration
+// summary: Declares ScannerCommandDelegateImpl, the production ScannerCommandDelegate backed by a ScannerProfileScopedDelegate.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/scanner/scanner_command_delegate.h
+//   - references /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SCANNER_SCANNER_COMMAND_DELEGATE_IMPL_H_
 #define ASH_SCANNER_SCANNER_COMMAND_DELEGATE_IMPL_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfView test API implementation
+// summary: Implements ShelfViewTestAPI helpers that let tests inspect shelf buttons, add or remove items, and wait for shelf animations to finish.
+// relations:
+//   - implements /ash/shelf/shelf_view_test_api.h
+//   - depends_on /ash/shelf/shelf_view.h
+// ---
+
 #include "ash/shelf/shelf_view_test_api.h"
 
 #include "ash/public/cpp/shelf_item_delegate.h"

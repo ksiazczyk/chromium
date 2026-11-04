@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SensorProvider unit tests
+// summary: Unit tests for SensorProvider that use fake sensor devices and a fake HAL server to verify sensor registration, sample reading and observer notifications.
+// relations:
+//   - tests /ash/sensor_info/sensor_provider.h
+//   - references /ash/accelerometer/accelerometer_constants.h
+//   - references /chromeos/components/sensors/ash/sensor_hal_dispatcher.h
+// ---
+
 #include "ash/sensor_info/sensor_provider.h"
 
 #include <array>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SensorProvider implementation
+// summary: Implements SensorProvider, which connects to the IIO sensor service, tracks accelerometer, gyroscope and lid angle devices, and notifies observers of sensor samples.
+// relations:
+//   - implements /ash/sensor_info/sensor_provider.h
+//   - depends_on /ash/sensor_info/sensor_types.h
+//   - references /base/functional/bind.h
+// ---
+
 #include "ash/sensor_info/sensor_provider.h"
 
 #include <algorithm>

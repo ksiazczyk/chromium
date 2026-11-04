@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home button tap overlay implementation
+// summary: Implements the ripple animation overlay shown when the shelf home button is tapped on a touch screen, used for features like Assistant.
+// relations:
+//   - implements /ash/shelf/home_button_tap_overlay.h
+//   - references /ash/shelf/home_button.h
+//   - references /ash/shelf/shelf.h
+// ---
+
 #include "ash/shelf/home_button_tap_overlay.h"
 
 #include <algorithm>

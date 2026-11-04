@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf tooltip manager class declaration
+// summary: Declares ShelfTooltipManager, an event handler and shelf observer that manages the tooltip bubble lifecycle, timer delay, and preview bubble for shelf items.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/shelf/shelf_observer.h
+//   - references /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_TOOLTIP_MANAGER_H_
 #define ASH_SHELF_SHELF_TOOLTIP_MANAGER_H_
 

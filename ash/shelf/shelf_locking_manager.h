@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfLockingManager class declaration
+// summary: Declares ShelfLockingManager, which observes session and lock state to force bottom shelf alignment while the screen or session is locked.
+// relations:
+//   - references /ash/public/cpp/session/session_observer.h
+//   - references /ash/public/cpp/shelf_types.h
+//   - references /ash/wm/lock_state_observer.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_LOCKING_MANAGER_H_
 #define ASH_SHELF_SHELF_LOCKING_MANAGER_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner metrics histogram names and user states
+// summary: Declares histogram name constants for Scanner feature timers and the ScannerFeatureUserState enum used for metrics reporting.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_SCANNER_SCANNER_METRICS_H_
 #define ASH_SCANNER_SCANNER_METRICS_H_
 

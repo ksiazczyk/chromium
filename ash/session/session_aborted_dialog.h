@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionAbortedDialog header
+// summary: Declares the dialog shown when a multi-profile session is aborted due to a user policy change, explaining the shutdown without offering a way to avoid it.
+// ---
+
 #ifndef ASH_SESSION_SESSION_ABORTED_DIALOG_H_
 #define ASH_SESSION_SESSION_ABORTED_DIALOG_H_
 

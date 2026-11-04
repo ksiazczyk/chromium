@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake profile-scoped scanner delegate implementation
+// summary: Implements the fake profile-scoped delegate for tests, providing a fake Drive service and lazily starting an embedded test server for Google APIs requests.
+// relations:
+//   - implements /ash/scanner/fake_scanner_profile_scoped_delegate.h
+//   - references /ash/public/cpp/scanner/scanner_enums.h
+//   - references /components/drive/service/drive_service_interface.h
+// ---
+
 #include "ash/scanner/fake_scanner_profile_scoped_delegate.h"
 
 #include "ash/public/cpp/scanner/scanner_enums.h"

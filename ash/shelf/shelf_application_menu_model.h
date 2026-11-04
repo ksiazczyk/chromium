@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf application menu model class declaration
+// summary: Declares ShelfApplicationMenuModel, a simple menu model that lists open applications for a shelf item with command enablement and selection metrics recording.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/public/cpp/shelf_item_delegate.h
+//   - references /base/containers/flat_set.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_APPLICATION_MENU_MODEL_H_
 #define ASH_SHELF_SHELF_APPLICATION_MENU_MODEL_H_
 

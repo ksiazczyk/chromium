@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner command delegate interface
+// summary: Declares the ScannerCommandDelegate interface giving action handlers access to browser, Drive, Google APIs, and clipboard dependencies.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_SCANNER_SCANNER_COMMAND_DELEGATE_H_
 #define ASH_SCANNER_SCANNER_COMMAND_DELEGATE_H_
 

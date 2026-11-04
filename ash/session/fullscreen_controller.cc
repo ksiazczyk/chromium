@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen controller implementation
+// summary: Implements the Ash fullscreen controller that exits fullscreen before session lock to stop web pages or apps from mimicking the lock screen.
+// relations:
+//   - implements /ash/session/fullscreen_controller.h
+// ---
+
 #include "ash/session/fullscreen_controller.h"
 
 #include <limits>

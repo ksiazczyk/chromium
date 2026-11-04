@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfAppButton implementation
+// summary: Implements the shelf app shortcut button with state indicators, notification badges, and drag support.
+// relations:
+//   - implements /ash/shelf/shelf_app_button.h
+//   - depends_on /ash/shelf/shelf.h
+//   - depends_on /ash/shelf/shelf_view.h
+// ---
+
 #include "ash/shelf/shelf_app_button.h"
 
 #include <algorithm>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf test utility for adding shelf items
+// summary: Provides helpers that add app and web app shortcut shelf items with test delegates for use in shelf tests.
+// relations:
+//   - implemented_by /ash/shelf/shelf_test_util.h
+//   - references /ash/public/cpp/overview_test_api.h
+//   - references /ash/public/cpp/test/shell_test_api.h
+// ---
+
 #include "ash/shelf/shelf_test_util.h"
 
 #include "ash/public/cpp/overview_test_api.h"

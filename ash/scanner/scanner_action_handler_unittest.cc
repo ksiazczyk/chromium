@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scanner action handler unit tests
+// summary: Unit tests verifying conversion of scanner actions into commands and command execution using a mock delegate, fake Drive service, and embedded test server.
+// relations:
+//   - tests /ash/scanner/scanner_action_handler.h
+// ---
+
 #include "ash/scanner/scanner_action_handler.h"
 
 #include <memory>

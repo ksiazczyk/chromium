@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf bubble class declaration
+// summary: Declares ShelfBubble, a base class for shelf tooltip bubbles with menu item arrow positioning and virtual close-on-press-down and mouse-exit behavior.
+// relations:
+//   - references /ash/shelf/shelf_background_animator.h
+//   - references /ui/views/bubble/bubble_dialog_delegate_view.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_BUBBLE_H_
 #define ASH_SHELF_SHELF_BUBBLE_H_
 

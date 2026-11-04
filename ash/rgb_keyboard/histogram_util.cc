@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGB keyboard histogram utilities implementation
+// summary: Implements helpers that record RGB keyboard capability type and backlight change metrics to ChromeOS histograms.
+// relations:
+//   - implements /ash/rgb_keyboard/histogram_util.h
+//   - depends_on /base/metrics/histogram_functions.h
+//   - depends_on /base/notreached.h
+// ---
+
 #include "ash/rgb_keyboard/histogram_util.h"
 
 #include "base/metrics/histogram_functions.h"

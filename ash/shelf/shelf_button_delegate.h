@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfButtonDelegate interface
+// summary: Defines the interface that lets shelf buttons notify their host view about presses, focus requests, ink drops, and removal.
+// relations:
+//   - references /ui/events/event.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_BUTTON_DELEGATE_H_
 #define ASH_SHELF_SHELF_BUTTON_DELEGATE_H_
 

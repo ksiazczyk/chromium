@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner command type declarations
+// summary: Defines command structs for opening URLs, uploading to Google Drive, copying to the clipboard, and creating contacts, combined as the ScannerCommand variant.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /google_apis/people/people_api_request_types.h
+//   - references /url/gurl.h
+// ---
+
 #ifndef ASH_SCANNER_SCANNER_COMMAND_H_
 #define ASH_SCANNER_SCANNER_COMMAND_H_
 

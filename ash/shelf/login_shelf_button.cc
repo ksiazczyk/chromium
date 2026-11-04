@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginShelfButton implementation
+// summary: Implements the pill button used on the login and lock screen shelf, handling focus, background type changes, active-state colors, and tooltip text updates.
+// relations:
+//   - implements /ash/shelf/login_shelf_button.h
+// ---
+
 #include "ash/shelf/login_shelf_button.h"
 
 #include <memory>

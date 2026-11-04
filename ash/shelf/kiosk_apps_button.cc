@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk apps button implementation
+// summary: Implements the login shelf button and its menu model that list kiosk apps with icons and launch the selected app via callbacks.
+// relations:
+//   - implements /ash/shelf/kiosk_apps_button.h
+//   - depends_on /ash/public/cpp/kiosk_app_menu.h
+//   - depends_on /ash/shelf/login_shelf_button.h
+// ---
+
 #include "ash/shelf/kiosk_apps_button.h"
 
 #include <memory>

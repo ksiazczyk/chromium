@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGB keyboard manager class declaration
+// summary: Declares the RgbKeyboardManager singleton that exposes RGB keyboard APIs to clients, tracks capabilities and colors, and manages observers.
+// relations:
+//   - depends_on /third_party/libusb/src/msvc/stdint.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/ime/ime_controller_impl.h
+// ---
+
 #ifndef ASH_RGB_KEYBOARD_RGB_KEYBOARD_MANAGER_H_
 #define ASH_RGB_KEYBOARD_RGB_KEYBOARD_MANAGER_H_
 

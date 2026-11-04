@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HotseatStateWatcher test helper header
+// summary: Declares a test helper that observes the shelf layout manager, records hotseat state transitions, and waits for state changes during tests.
+// relations:
+//   - references /ash/shelf/shelf_layout_manager.h
+//   - references /base/memory/raw_ptr.h
+//   - references /base/run_loop.h
+// ---
+
 #ifndef ASH_SHELF_TEST_HOTSEAT_STATE_WATCHER_H_
 #define ASH_SHELF_TEST_HOTSEAT_STATE_WATCHER_H_
 

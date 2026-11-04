@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf background animator implementation
+// summary: Implements animation of shelf and dock background colors in response to background type and wallpaper changes, notifying observers with interpolated color values.
+// relations:
+//   - implements /ash/shelf/shelf_background_animator.h
+//   - references /ash/animation/animation_change_type.h
+//   - references /ash/public/cpp/shelf_config.h
+// ---
+
 #include "ash/shelf/shelf_background_animator.h"
 
 #include <algorithm>

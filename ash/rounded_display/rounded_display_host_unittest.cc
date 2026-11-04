@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rounded display host unit tests
+// summary: Unit tests that check RoundedDisplayHost creates compositor frames and allocates new surface IDs when frame size or device scale factor changes.
+// relations:
+//   - tests /ash/rounded_display/rounded_display_host.h
+//   - references /ash/test/ash_test_base.h
+//   - references /ash/test/ash_test_helper.h
+// ---
+
 #include "ash/rounded_display/rounded_display_host.h"
 
 #include <memory>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf widget implementation
+// summary: Implements the per-display shelf widget that hosts the shelf view, background painting, navigation, hotseat and status area components.
+// relations:
+//   - implements /ash/shelf/shelf_widget.h
+// ---
+
 #include "ash/shelf/shelf_widget.h"
 
 #include <memory>

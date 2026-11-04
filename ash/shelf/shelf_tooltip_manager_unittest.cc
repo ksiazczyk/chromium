@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shelf tooltip manager unit tests
+// summary: Unit tests for ShelfTooltipManager covering tooltip show and close behavior, timer delays, preview bubbles, desk button tooltips, and layer destruction.
+// relations:
+//   - tests /ash/shelf/shelf_tooltip_manager.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/public/cpp/shelf_model.h
+// ---
+
 #include "ash/shelf/shelf_tooltip_manager.h"
 
 #include <memory>

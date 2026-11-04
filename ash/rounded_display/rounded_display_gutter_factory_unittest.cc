@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RoundedDisplayGutterFactory
+// summary: Checks that overlay gutters are created correctly for orientation hints and corner radii.
+// relations:
+//   - tests /ash/rounded_display/rounded_display_gutter_factory.h
+//   - depends_on /ash/rounded_display/rounded_display_gutter.h
+//   - references /testing/gmock/include/gmock/gmock.h
+// ---
+
 #include "ash/rounded_display/rounded_display_gutter_factory.h"
 
 #include <algorithm>

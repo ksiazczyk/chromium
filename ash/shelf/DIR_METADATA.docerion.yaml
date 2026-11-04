@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Shelf directory metadata
+summary: Directory metadata specifying the owning team email and the Buganizer and Monorail components for the ash shelf code.

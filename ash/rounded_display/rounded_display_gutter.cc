@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded display gutter implementation
+// summary: Implements rounded corner painting and gutter bounds calculation for display corner masks.
+// relations:
+//   - implements /ash/rounded_display/rounded_display_gutter.h
+// ---
+
 #include "ash/rounded_display/rounded_display_gutter.h"
 
 #include <algorithm>

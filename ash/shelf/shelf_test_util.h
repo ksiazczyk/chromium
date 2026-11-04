@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfTestUtil test helper header
+// summary: Declares ShelfTestUtil static helpers that add app, web app, and non-pinnable shortcuts to the shelf model for tests, plus a helper to wait for overview animations.
+// relations:
+//   - references /ash/public/cpp/shelf_item.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_TEST_UTIL_H_
 #define ASH_SHELF_SHELF_TEST_UTIL_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen notification bubble implementation
+// summary: Implements a subtle notification bubble reminding the user fullscreen mode is active after sleep, low brightness or unlock, auto-hiding after four seconds.
+// relations:
+//   - implements /ash/session/fullscreen_notification_bubble.h
+// ---
+
 #include "ash/session/fullscreen_notification_bubble.h"
 
 #include <memory>

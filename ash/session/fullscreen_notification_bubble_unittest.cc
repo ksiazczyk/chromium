@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen notification bubble unit tests
+// summary: Unit tests covering the bubble's auto-hide delay, hiding on fullscreen exit and handling of window destruction.
+// relations:
+//   - tests /ash/session/fullscreen_notification_bubble.h
+//   - tests /ash/session/fullscreen_notification_bubble.cc
+// ---
+
 #include "ash/session/fullscreen_notification_bubble.h"
 
 #include <memory>

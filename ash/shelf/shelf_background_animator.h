@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf background animator class declaration
+// summary: Declares ShelfBackgroundAnimator, the central controller for shelf and dock opacity animations that observes shelf and wallpaper controller changes.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/public/cpp/shelf_types.h
+//   - references /ash/public/cpp/wallpaper/wallpaper_controller_observer.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_BACKGROUND_ANIMATOR_H_
 #define ASH_SHELF_SHELF_BACKGROUND_ANIMATOR_H_
 

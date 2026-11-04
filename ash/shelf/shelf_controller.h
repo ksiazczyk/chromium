@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfController header
+// summary: Declares the ShelfController that owns the ShelfModel, manages shelf preferences, app notification badging, and the launcher nudge controller.
+// relations:
+//   - depends_on /ash/public/cpp/shelf_model.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_CONTROLLER_H_
 #define ASH_SHELF_SHELF_CONTROLLER_H_
 

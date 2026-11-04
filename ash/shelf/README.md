@@ -1,3 +1,9 @@
+---
+type: readme
+title: Shelf
+summary: Overview of the ash shelf describing its widgets, alignment, auto-hiding, centering, responsive layout, keyboard navigation, buttons and tooltips.
+---
+
 # Shelf
 
 This is the ash shelf, the system interface surface that allows users to launch

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf tooltip delegate interface
+// summary: Defines the ShelfTooltipDelegate interface that lets ShelfTooltipManager query child views about tooltip visibility, titles, open windows, and event handling.
+// relations:
+//   - references /ash/ash_export.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_TOOLTIP_DELEGATE_H_
 #define ASH_SHELF_SHELF_TOOLTIP_DELEGATE_H_
 

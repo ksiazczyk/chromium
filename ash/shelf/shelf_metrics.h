@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf metrics histogram names and enums
+// summary: Defines histogram names and enums for in-app shelf gestures and window drag results used in UMA logging.
+// ---
+
 #ifndef ASH_SHELF_SHELF_METRICS_H_
 #define ASH_SHELF_SHELF_METRICS_H_
 

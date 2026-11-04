@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TeleportWarningDialog header
+// summary: Declares the dialog that warns users when teleporting a window to another user's desktop and reports acceptance and never-show-again choice via callback.
+// relations:
+//   - depends_on /ui/views/window/dialog_delegate.h
+// ---
+
 #ifndef ASH_SESSION_TELEPORT_WARNING_DIALOG_H_
 #define ASH_SESSION_TELEPORT_WARNING_DIALOG_H_
 

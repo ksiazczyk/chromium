@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Home to overview nudge controller unit tests
+// summary: Unit tests for the home-to-overview nudge controller, covering show and hide transitions, timers, and shelf state changes.
+// relations:
+//   - tests /ash/shelf/home_to_overview_nudge_controller.h
+// ---
+
 #include "ash/shelf/home_to_overview_nudge_controller.h"
 
 #include "ash/constants/ash_features.h"

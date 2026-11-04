@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shelf layout manager test base header
+// summary: Declares the ShelfLayoutManagerTestBase fixture with helpers for test windows, widgets, lock screen, and shelf gesture and scroll interactions.
+// relations:
+//   - references /ash/shelf/test/shelf_test_base.h
+//   - references /ash/public/cpp/shelf_types.h
+//   - references /ash/wm/workspace/workspace_types.h
+// ---
+
 #ifndef ASH_SHELF_TEST_SHELF_LAYOUT_MANAGER_TEST_BASE_H_
 #define ASH_SHELF_TEST_SHELF_LAYOUT_MANAGER_TEST_BASE_H_
 

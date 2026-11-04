@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner command delegate concrete implementation
+// summary: Implements ScannerCommandDelegateImpl, which opens URLs via the new window delegate, exposes Drive services, and writes clipboard data.
+// relations:
+//   - implements /ash/scanner/scanner_command_delegate_impl.h
+//   - references /ash/public/cpp/new_window_delegate.h
+//   - references /ash/public/cpp/scanner/scanner_profile_scoped_delegate.h
+// ---
+
 #include "ash/scanner/scanner_command_delegate_impl.h"
 
 #include <memory>

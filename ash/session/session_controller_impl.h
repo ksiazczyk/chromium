@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionControllerImpl header
+// summary: Declares the ash implementation of the session controller, which caches session state and user session metadata for synchronous queries and exposes session and lock status helpers.
+// relations:
+//   - references /ash/session/session_activation_observer_holder.h
+//   - references /ash/public/cpp/session/session_controller.h
+//   - implemented_by /ash/session/session_controller_impl.cc
+// ---
+
 #ifndef ASH_SESSION_SESSION_CONTROLLER_IMPL_H_
 #define ASH_SESSION_SESSION_CONTROLLER_IMPL_H_
 

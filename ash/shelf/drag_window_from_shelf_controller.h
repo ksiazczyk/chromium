@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag window from shelf controller header
+// summary: Declares the controller for swiping a window up from the shelf, defining velocity and distance thresholds for home screen, overview, and snap outcomes.
+// ---
+
 #ifndef ASH_SHELF_DRAG_WINDOW_FROM_SHELF_CONTROLLER_H_
 #define ASH_SHELF_DRAG_WINDOW_FROM_SHELF_CONTROLLER_H_
 

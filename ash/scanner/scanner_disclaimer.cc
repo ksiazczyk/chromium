@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner disclaimer acknowledgement logic
+// summary: Implements functions that determine which Scanner disclaimer to show per entry point and record or reset acknowledgement in user preferences.
+// relations:
+//   - implements /ash/scanner/scanner_disclaimer.h
+//   - references /ash/constants/ash_pref_names.h
+//   - references /components/prefs/pref_service.h
+// ---
+
 #include "ash/scanner/scanner_disclaimer.h"
 
 #include "ash/constants/ash_pref_names.h"

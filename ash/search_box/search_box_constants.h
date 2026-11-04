@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search box layout and color constants
+// summary: Declares constants for search box padding, background colors, corner radii, preferred height, and icon and button sizes in the ash namespace.
+// ---
+
 #ifndef ASH_SEARCH_BOX_SEARCH_BOX_CONSTANTS_H_
 #define ASH_SEARCH_BOX_SEARCH_BOX_CONSTANTS_H_
 

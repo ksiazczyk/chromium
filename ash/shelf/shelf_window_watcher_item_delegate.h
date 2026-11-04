@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf window watcher item delegate header
+// summary: Declares the ShelfItemDelegate used for shelf items created by ShelfWindowWatcher, such as settings, task manager, and panel windows.
+// relations:
+//   - references /ash/public/cpp/shelf_item_delegate.h
+//   - references /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_WINDOW_WATCHER_ITEM_DELEGATE_H_
 #define ASH_SHELF_SHELF_WINDOW_WATCHER_ITEM_DELEGATE_H_
 

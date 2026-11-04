@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded display host class declaration
+// summary: Declares RoundedDisplayHost, a FrameSinkHost that renders rounded display mask textures by submitting independent compositor frames to the display compositor.
+// relations:
+//   - implements /ash/frame_sink/frame_sink_host.h
+//   - references /ash/rounded_display/rounded_display_gutter.h
+//   - references /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_ROUNDED_DISPLAY_ROUNDED_DISPLAY_HOST_H_
 #define ASH_ROUNDED_DISPLAY_ROUNDED_DISPLAY_HOST_H_
 

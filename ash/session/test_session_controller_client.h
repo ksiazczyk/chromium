@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test session controller client class declaration for Ash
+// summary: Declares TestSessionControllerClient, a test double that drives SessionControllerImpl to emulate Chrome session behavior in Ash tests without running BrowserMain.
+// relations:
+//   - implements /ash/public/cpp/session/session_controller_client.h
+//   - references /ash/public/cpp/session/session_types.h
+//   - references /ash/test/login_info.h
+// ---
+
 #ifndef ASH_SESSION_TEST_SESSION_CONTROLLER_CLIENT_H_
 #define ASH_SESSION_TEST_SESSION_CONTROLLER_CLIENT_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swipe home to overview controller implementation
+// summary: Implements the controller that turns an upward swipe from the shelf on the home screen into a transition to overview, including scaling thresholds and cancel animations.
+// relations:
+//   - implements /ash/shelf/swipe_home_to_overview_controller.h
+//   - references /ash/shelf/drag_window_from_shelf_controller.h
+//   - references /ash/wm/overview/overview_controller.h
+// ---
+
 #include "ash/shelf/swipe_home_to_overview_controller.h"
 
 #include <algorithm>

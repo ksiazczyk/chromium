@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShelfLayoutManager pixel tests
+// summary: Pixel tests verifying shelf auto-hide visibility rendering in tablet mode and RTL layouts with and without system blur enabled.
+// relations:
+//   - references /ash/shelf/hotseat_widget.h
+//   - references /ash/shelf/shelf.h
+//   - references /ash/shelf/test/shelf_layout_manager_test_base.h
+// ---
+
 #include "ash/shelf/hotseat_widget.h"
 #include "ash/shelf/shelf.h"
 #include "ash/shelf/test/shelf_layout_manager_test_base.h"

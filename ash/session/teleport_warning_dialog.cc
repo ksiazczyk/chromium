@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TeleportWarningDialog implementation
+// summary: Implements the warning dialog confirming a user's intent to teleport a window to another user's desktop, including a never-show-again checkbox.
+// relations:
+//   - implements /ash/session/teleport_warning_dialog.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/session/teleport_warning_dialog.h"
 
 #include "ash/shell.h"

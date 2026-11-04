@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded display frame factory implementation
+// summary: Builds compositor frames that draw rounded display gutter corner masks as texture draw quads.
+// relations:
+//   - implements /ash/rounded_display/rounded_display_frame_factory.h
+//   - references /ash/rounded_display/rounded_display_gutter.h
+// ---
+
 #include "ash/rounded_display/rounded_display_frame_factory.h"
 
 #include <algorithm>

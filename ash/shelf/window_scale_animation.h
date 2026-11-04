@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window scale animation header
+// summary: Declares WindowScaleAnimation, which animates windows in a transient tree scaling down to the shelf or scaling up to restore their original bounds after drag ends.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/auto_reset.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_SHELF_WINDOW_SCALE_ANIMATION_H_
 #define ASH_SHELF_WINDOW_SCALE_ANIMATION_H_
 

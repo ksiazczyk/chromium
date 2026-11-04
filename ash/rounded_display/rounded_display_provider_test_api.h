@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rounded display provider test API declaration
+// summary: Declares the test API that gives tests access to RoundedDisplayProvider internals like current radii, strategy, host window and gutters.
+// relations:
+//   - implemented_by /ash/rounded_display/rounded_display_provider_test_api.cc
+//   - references /ash/rounded_display/rounded_display_provider.h
+// ---
+
 #ifndef ASH_ROUNDED_DISPLAY_ROUNDED_DISPLAY_PROVIDER_TEST_API_H_
 #define ASH_ROUNDED_DISPLAY_ROUNDED_DISPLAY_PROVIDER_TEST_API_H_
 

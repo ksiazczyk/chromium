@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfContainerView header
+// summary: Declares the Ash shelf container view that hosts the ShelfView, calculates its ideal size to fit all app buttons, and scrolls it by translating the view.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/shelf/shelf_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_CONTAINER_VIEW_H_
 #define ASH_SHELF_SHELF_CONTAINER_VIEW_H_
 

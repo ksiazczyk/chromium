@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollableShelfView class declaration
+// summary: Declares the scrollable shelf view that manages icon paging, layout strategy, accessibility focus, and tooltips.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_SHELF_SCROLLABLE_SHELF_VIEW_H_
 #define ASH_SHELF_SCROLLABLE_SHELF_VIEW_H_
 

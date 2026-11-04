@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag window from shelf controller implementation
+// summary: Implements the controller that handles dragging a window up from the shelf, animating the window and managing transitions to home screen, overview, or split view.
+// relations:
+//   - implements /ash/shelf/drag_window_from_shelf_controller.h
+// ---
+
 #include "ash/shelf/drag_window_from_shelf_controller.h"
 
 #include <algorithm>

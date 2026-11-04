@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test session controller client implementation for Ash
+// summary: Implements TestSessionControllerClient, a fake SessionControllerClient that simulates Chrome session behavior, managing session state, user sessions, and screen lock for Ash tests.
+// relations:
+//   - implements /ash/session/test_session_controller_client.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/session/test_pref_service_provider.h
+// ---
+
 #include "ash/session/test_session_controller_client.h"
 
 #include <ranges>

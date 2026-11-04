@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake scanner delegate class declaration
+// summary: Declares FakeScannerDelegate, a test double of ScannerDelegate with a settable callback for opening the feedback dialog.
+// relations:
+//   - references /ash/public/cpp/scanner/scanner_delegate.h
+//   - references /ash/public/cpp/scanner/scanner_feedback_info.h
+//   - references /ash/scanner/fake_scanner_profile_scoped_delegate.h
+// ---
+
 #ifndef ASH_SCANNER_FAKE_SCANNER_DELEGATE_H_
 #define ASH_SCANNER_FAKE_SCANNER_DELEGATE_H_
 

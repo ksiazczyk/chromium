@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drag window from shelf controller unit tests
+// summary: Unit tests covering window dragging from the shelf in tablet mode, verifying transitions to overview, split view, and home screen along with related metrics.
+// relations:
+//   - tests /ash/shelf/drag_window_from_shelf_controller.h
+//   - tests /ash/shelf/drag_window_from_shelf_controller_test_api.h
+// ---
+
 #include "ash/shelf/drag_window_from_shelf_controller.h"
 
 #include <tuple>

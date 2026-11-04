@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded display host implementation
+// summary: Implements RoundedDisplayHost, building compositor frames from display gutters and reallocating the surface when frame size or scale factor changes.
+// relations:
+//   - implements /ash/rounded_display/rounded_display_host.h
+//   - depends_on /ash/rounded_display/rounded_display_frame_factory.h
+//   - depends_on /ash/rounded_display/rounded_display_gutter.h
+// ---
+
 #include "ash/rounded_display/rounded_display_host.h"
 
 #include <algorithm>

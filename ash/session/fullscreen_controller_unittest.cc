@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen controller unit tests
+// summary: Unit tests verifying fullscreen exit behavior on lock and unlock, including URL allowlist policy matching for keeping fullscreen without notification.
+// relations:
+//   - tests /ash/session/fullscreen_controller.h
+// ---
+
 #include "ash/session/fullscreen_controller.h"
 
 #include <memory>

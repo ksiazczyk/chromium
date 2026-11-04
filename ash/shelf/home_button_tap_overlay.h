@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home button tap overlay header
+// summary: Declares the HomeButtonTapOverlay view that plays start, burst, and hide ripple animations when the home button is tapped.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/shelf/home_button.h
+//   - references /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SHELF_HOME_BUTTON_TAP_OVERLAY_H_
 #define ASH_SHELF_HOME_BUTTON_TAP_OVERLAY_H_
 

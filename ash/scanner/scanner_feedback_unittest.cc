@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Scanner feedback conversion
+// summary: Unit tests checking that Scanner actions convert to the expected JSON dictionaries for events, contacts, docs, and sheets.
+// relations:
+//   - tests /ash/scanner/scanner_feedback.h
+// ---
+
 #include "ash/scanner/scanner_feedback.h"
 
 #include <cstddef>

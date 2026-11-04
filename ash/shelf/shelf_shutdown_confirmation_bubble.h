@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf shutdown confirmation bubble class declaration
+// summary: Declares the shutdown confirmation bubble with confirm and cancel buttons, dialog result tracking, and UMA action reporting.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/public/cpp/shelf_types.h
+//   - references /ash/shelf/shelf_bubble.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_SHUTDOWN_CONFIRMATION_BUBBLE_H_
 #define ASH_SHELF_SHELF_SHUTDOWN_CONFIRMATION_BUBBLE_H_
 

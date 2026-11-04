@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake scanner delegate implementation
+// summary: Implements a fake ScannerDelegate for tests, returning a fake profile-scoped delegate and running a configurable open feedback dialog callback.
+// relations:
+//   - implements /ash/scanner/fake_scanner_delegate.h
+//   - references /ash/public/cpp/scanner/scanner_feedback_info.h
+//   - references /ash/scanner/fake_scanner_profile_scoped_delegate.h
+// ---
+
 #include "ash/scanner/fake_scanner_delegate.h"
 
 #include <utility>

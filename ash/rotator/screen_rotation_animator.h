@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenRotationAnimator class declaration
+// summary: Declares the ScreenRotationAnimator utility that rotates a display with an animation, queues pending rotation requests, and notifies observers when rotation completes.
+// relations:
+//   - references /third_party/libusb/src/msvc/stdint.h
+//   - references /ash/ash_export.h
+//   - references /ash/display/display_configuration_controller.h
+// ---
+
 #ifndef ASH_ROTATOR_SCREEN_ROTATION_ANIMATOR_H_
 #define ASH_ROTATOR_SCREEN_ROTATION_ANIMATOR_H_
 

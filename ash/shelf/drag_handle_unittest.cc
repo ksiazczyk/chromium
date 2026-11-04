@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drag handle unit tests
+// summary: Tests shelf drag handle behavior, including accessible name and focus order, across accessibility features such as tablet mode navigation buttons, spoken feedback, autoclick, and switch access.
+// relations:
+//   - tests /ash/shelf/drag_handle.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/shelf/shelf_layout_manager.h
+// ---
+
 #include "ash/shelf/drag_handle.h"
 
 #include "ash/accessibility/accessibility_controller.h"

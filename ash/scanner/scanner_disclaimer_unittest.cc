@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Scanner disclaimer logic
+// summary: Unit tests verifying disclaimer type selection and acknowledgement behaviour across Scanner entry points using a test preference service.
+// relations:
+//   - tests /ash/scanner/scanner_disclaimer.h
+// ---
+
 #include "ash/scanner/scanner_disclaimer.h"
 
 #include "ash/constants/ash_pref_names.h"

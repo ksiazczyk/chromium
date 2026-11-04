@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShelfLayoutManager unit tests
+// summary: Extensive unit tests covering shelf layout, auto-hide behavior, gestures, drag from shelf, hotseat state, and related shelf manager behavior.
+// relations:
+//   - tests /ash/shelf/shelf_layout_manager.h
+// ---
+
 #include "ash/shelf/shelf_layout_manager.h"
 
 #include <algorithm>

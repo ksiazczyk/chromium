@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner metrics recording
+// summary: Records Scanner feature user-state and on-device OCR timing histograms, including launcher Sunfish session button visibility.
+// relations:
+//   - implements /ash/scanner/scanner_metrics.h
+//   - depends_on /base/metrics/histogram_functions.h
+//   - depends_on /base/time/time.h
+// ---
+
 #include "ash/scanner/scanner_metrics.h"
 
 #include <string_view>

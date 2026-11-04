@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake profile-scoped scanner delegate class declaration
+// summary: Declares the test fake with gmock methods for feature access checks and image action fetching, plus test server and Gaia URL override members.
+// relations:
+//   - references /ash/public/cpp/scanner/scanner_profile_scoped_delegate.h
+//   - references /components/drive/service/fake_drive_service.h
+//   - references /components/manta/scanner_provider.h
+// ---
+
 #ifndef ASH_SCANNER_FAKE_SCANNER_PROFILE_SCOPED_DELEGATE_H_
 #define ASH_SCANNER_FAKE_SCANNER_PROFILE_SCOPED_DELEGATE_H_
 

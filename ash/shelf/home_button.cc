@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home button implementation
+// summary: Implements the shelf home button that opens the app list or home screen, including nudge animations, quick app access, and long-press behavior.
+// relations:
+//   - implements /ash/shelf/home_button.h
+//   - depends_on /ash/shelf/shelf_control_button.h
+//   - depends_on /ash/shelf/shelf.h
+// ---
+
 #include "ash/shelf/home_button.h"
 
 #include <math.h>  // std::ceil

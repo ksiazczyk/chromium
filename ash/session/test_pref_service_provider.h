@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPrefServiceProvider header
+// summary: Declares a test helper that owns sign-in and user pref services for ash tests, simulating production lifetimes across session re-creation.
+// relations:
+//   - depends_on /base/containers/flat_map.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SESSION_TEST_PREF_SERVICE_PROVIDER_H_
 #define ASH_SESSION_TEST_PREF_SERVICE_PROVIDER_H_
 

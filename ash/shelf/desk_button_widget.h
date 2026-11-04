@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk button widget class declaration
+// summary: Declares the DeskButtonWidget and its delegate view, which show desk overview UI on the shelf in clamshell mode.
+// ---
+
 #ifndef ASH_SHELF_DESK_BUTTON_WIDGET_H_
 #define ASH_SHELF_DESK_BUTTON_WIDGET_H_
 

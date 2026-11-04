@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf navigation widget implementation
+// summary: Implements the shelf widget that hosts the home button and, in tablet mode, the back button, with layout and animation handling.
+// relations:
+//   - implements /ash/shelf/shelf_navigation_widget.h
+// ---
+
 #include "ash/shelf/shelf_navigation_widget.h"
 
 #include "ash/accessibility/ui/accessibility_focusable_widget_delegate.h"

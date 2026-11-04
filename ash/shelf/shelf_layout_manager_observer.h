@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfLayoutManagerObserver interface
+// summary: Defines an observer interface for shelf layout changes such as visibility, auto-hide, background animation, hotseat state, and work area inset updates.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/public/cpp/shelf_types.h
+//   - references /ash/shelf/shelf_background_animator.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_LAYOUT_MANAGER_OBSERVER_H_
 #define ASH_SHELF_SHELF_LAYOUT_MANAGER_OBSERVER_H_
 

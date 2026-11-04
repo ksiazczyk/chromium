@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotseat transition animator implementation
+// summary: Implements animations between hotseat states and reports animation smoothness metrics for shelf and hotseat background transitions.
+// relations:
+//   - implements /ash/shelf/hotseat_transition_animator.h
+// ---
+
 #include "ash/shelf/hotseat_transition_animator.h"
 
 #include "ash/public/cpp/metrics_util.h"

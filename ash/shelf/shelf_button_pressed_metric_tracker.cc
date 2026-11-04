@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf button pressed metric tracker implementation
+// summary: Records UMA user actions for shelf button presses, distinguishing input source and actions like launching, switching, and minimizing tasks.
+// relations:
+//   - implements /ash/shelf/shelf_button_pressed_metric_tracker.h
+//   - references /ash/metrics/user_metrics_recorder.h
+//   - references /ash/shell.h
+// ---
+
 #include "ash/shelf/shelf_button_pressed_metric_tracker.h"
 
 #include "ash/metrics/user_metrics_recorder.h"

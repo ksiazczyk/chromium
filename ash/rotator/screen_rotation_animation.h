@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenRotationAnimation class declaration
+// summary: Declares the ash ScreenRotationAnimation class, a layer animation element that rotates a layer from start to end degrees around a pivot over a given duration.
+// relations:
+//   - references /third_party/libusb/src/msvc/stdint.h
+//   - references /ash/ash_export.h
+//   - references /base/time/time.h
+// ---
+
 #ifndef ASH_ROTATOR_SCREEN_ROTATION_ANIMATION_H_
 #define ASH_ROTATOR_SCREEN_ROTATION_ANIMATION_H_
 

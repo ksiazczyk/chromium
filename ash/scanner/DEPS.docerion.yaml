@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Scanner directory DEPS include rules
+summary: Defines the allowed include dependencies for the ash scanner directory, permitting specialized features, Drive, and Google APIs components.

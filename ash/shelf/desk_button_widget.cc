@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk button widget implementation
+// summary: Implements the desk button widget that offers a desk overview and quick access, including a custom window targeter and layout behavior.
+// relations:
+//   - implements /ash/shelf/desk_button_widget.h
+// ---
+
 #include "ash/shelf/desk_button_widget.h"
 
 #include <algorithm>

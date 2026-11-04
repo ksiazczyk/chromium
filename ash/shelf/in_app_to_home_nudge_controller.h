@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-app to home nudge controller header
+// summary: Declares the controller used by Chrome to update the in-app-to-home gesture contextual nudge UI when shelf status changes.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SHELF_IN_APP_TO_HOME_NUDGE_CONTROLLER_H_
 #define ASH_SHELF_IN_APP_TO_HOME_NUDGE_CONTROLLER_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotseat transition animator header
+// summary: Declares the animator that animates the shelf and hotseat backgrounds between hotseat states and notifies observers of transitions.
+// relations:
+//   - implemented_by /ash/public/cpp/shelf_types.h
+// ---
+
 #ifndef ASH_SHELF_HOTSEAT_TRANSITION_ANIMATOR_H_
 #define ASH_SHELF_HOTSEAT_TRANSITION_ANIMATOR_H_
 

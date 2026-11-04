@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Home button tap overlay unit tests
+// summary: Parametrized unit tests verifying the home button tap overlay animation across clamshell and tablet mode variants.
+// relations:
+//   - tests /ash/shelf/home_button_tap_overlay.h
+//   - references /ash/capture_mode/capture_mode_controller.h
+//   - references /ash/capture_mode/test_capture_mode_delegate.h
+// ---
+
 #include "ash/shelf/home_button_tap_overlay.h"
 
 #include <memory>

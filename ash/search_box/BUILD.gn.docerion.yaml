@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the search_box source set
+summary: Defines the search_box source set with its source files and dependencies on ash, base, skia, and ui targets for Chrome OS builds.
+relations:
+  - has_part /ash/search_box/search_box_constants.h
+  - has_part /ash/search_box/search_box_view_base.cc
+  - has_part /ash/search_box/search_box_view_base.h

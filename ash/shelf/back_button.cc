@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back button implementation
+// summary: Implements the shelf back button, drawing its icon, handling presses to send back events or minimize the top window, and updating accessibility names.
+// relations:
+//   - implements /ash/shelf/back_button.h
+// ---
+
 #include "ash/shelf/back_button.h"
 
 #include "ash/keyboard/keyboard_util.h"

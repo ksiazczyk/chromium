@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGB keyboard manager implementation
+// summary: Implements the RGB keyboard manager that fetches keyboard capabilities via the rgbkbd D-Bus client and applies static, zone, and rainbow backlight colors.
+// relations:
+//   - implements /ash/rgb_keyboard/rgb_keyboard_manager.h
+//   - depends_on /ash/ime/ime_controller_impl.h
+//   - depends_on /ash/rgb_keyboard/histogram_util.h
+// ---
+
 #include "ash/rgb_keyboard/rgb_keyboard_manager.h"
 
 #include <stdint.h>

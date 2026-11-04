@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Scanner metrics
+// summary: Parameterised Ash tests verifying that Scanner user states are recorded in the expected histograms across UI entry points and actions.
+// relations:
+//   - tests /ash/scanner/scanner_metrics.h
+//   - references /ash/scanner/fake_scanner_profile_scoped_delegate.h
+// ---
+
 #include "ash/scanner/scanner_metrics.h"
 
 #include "ash/app_list/app_list_model_provider.h"

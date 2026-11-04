@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf controller implementation
+// summary: Implements the per-display shelf controller handling alignment, auto-hide behavior, and hotseat animation metrics.
+// relations:
+//   - implements /ash/shelf/shelf.h
+//   - relates_to /ash/shelf/hotseat_widget.h
+// ---
+
 #include "ash/shelf/shelf.h"
 
 #include <memory>

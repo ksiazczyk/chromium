@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGB keyboard histogram utility declarations
+// summary: Declares histogram names, capability and backlight change enums, and metric emission helpers for RGB keyboard features.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - references /tools/metrics/histograms/enums.xml
+// ---
+
 #ifndef ASH_RGB_KEYBOARD_HISTOGRAM_UTIL_H_
 #define ASH_RGB_KEYBOARD_HISTOGRAM_UTIL_H_
 

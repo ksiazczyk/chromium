@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shelf background animator unit tests
+// summary: Unit tests for shelf background animations, checking color transitions, observer notifications, and animation completion using a test observer and test API.
+// relations:
+//   - tests /ash/shelf/shelf_background_animator.h
+//   - tests /ash/shelf/shelf_background_animator_observer.h
+// ---
+
 #include "ash/shelf/shelf_background_animator.h"
 
 #include <memory>

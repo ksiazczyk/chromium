@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf test API implementation
+// summary: Implements ShelfTestApi, exposing shelf visibility, alignment, home button, hotseat, and scrollable shelf information for tests.
+// relations:
+//   - implemented_by /ash/public/cpp/shelf_test_api.h
+//   - references /ash/public/cpp/shelf_ui_info.h
+//   - references /ash/root_window_controller.h
+// ---
+
 #include "ash/public/cpp/shelf_test_api.h"
 
 #include "ash/public/cpp/shelf_ui_info.h"

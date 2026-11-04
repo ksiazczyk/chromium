@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShelfContextMenuModel unit tests
+// summary: Unit tests for the shelf context menu model, verifying default menu items, the alignment submenu, and command execution for regular and child user types.
+// relations:
+//   - tests /ash/shelf/shelf_context_menu_model.cc
+//   - references /ash/shelf/shelf_context_menu_model.h
+// ---
+
 #include "ash/shelf/shelf_context_menu_model.h"
 
 #include "ash/public/cpp/app_menu_constants.h"

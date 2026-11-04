@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginShelfWidget implementation
+// summary: Implements the widget hosting the login shelf view, including its accessible pane delegate with focus search and shelf layout updates on child size changes.
+// relations:
+//   - implements /ash/shelf/login_shelf_widget.h
+// ---
+
 #include "ash/shelf/login_shelf_widget.h"
 
 #include "ash/accessibility/ui/accessibility_focusable_widget_delegate.h"

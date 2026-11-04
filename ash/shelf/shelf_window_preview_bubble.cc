@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf window preview bubble implementation
+// summary: Implements a bubble anchored to shelf tooltips or menu items that shows a mirrored preview of an aura window with fade animations.
+// relations:
+//   - implements /ash/shelf/shelf_window_preview_bubble.h
+//   - references /ash/public/cpp/shelf_config.h
+// ---
+
 #include "ash/shelf/shelf_window_preview_bubble.h"
 
 #include <algorithm>

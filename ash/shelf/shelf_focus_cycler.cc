@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfFocusCycler implementation
+// summary: Implements focus cycling between the shelf, navigation widget, desk button, status area, and login UI, handling RTL layouts and login or lock screen cases.
+// relations:
+//   - implemented_by /ash/shelf/shelf_focus_cycler.h
+// ---
+
 #include "ash/shelf/shelf_focus_cycler.h"
 
 #include "ash/focus/focus_cycler.h"

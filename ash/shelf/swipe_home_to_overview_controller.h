@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swipe home to overview controller header
+// summary: Declares the controller used by ShelfLayoutManager to handle swipe gestures from the home screen hotseat that transition to the overview UI.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback_helpers.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_SHELF_SWIPE_HOME_TO_OVERVIEW_CONTROLLER_H_
 #define ASH_SHELF_SWIPE_HOME_TO_OVERVIEW_CONTROLLER_H_
 

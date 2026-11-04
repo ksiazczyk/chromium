@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor reading and update implementation
+// summary: Implements the SensorReading and SensorUpdate classes that store per-sensor readings and convert them to vectors for lid angle, accelerometer and gyroscope data.
+// relations:
+//   - implements /ash/sensor_info/sensor_types.h
+//   - references /base/check_op.h
+// ---
+
 #include "ash/sensor_info/sensor_types.h"
 
 #include <limits>
