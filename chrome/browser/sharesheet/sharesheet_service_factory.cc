@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet service factory implementation
+// summary: Implements the profile-keyed factory that creates SharesheetService instances, skipping creation for guest and signin profiles and supporting lazy instantiation.
+// ---
+
 #include "chrome/browser/sharesheet/sharesheet_service_factory.h"
 
 #include <memory>

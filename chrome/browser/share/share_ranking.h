@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareRanking class header
+// summary: Declares the ShareRanking class that computes, persists, and serves per-profile share target rankings, including the pure ComputeRanking function.
+// ---
+
 #ifndef CHROME_BROWSER_SHARE_SHARE_RANKING_H_
 #define CHROME_BROWSER_SHARE_SHARE_RANKING_H_
 

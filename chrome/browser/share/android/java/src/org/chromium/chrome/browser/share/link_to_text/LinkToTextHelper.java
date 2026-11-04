@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'LinkToTextHelper: link-to-text utility methods'
+// summary: Provides static utilities for link-to-text, including removing highlights across frames, extracting text fragment matches, requesting the canonical URL, and checking for existing selectors.
+// ---
+
 package org.chromium.chrome.browser.share.link_to_text;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing notification handler header
+// summary: Declares SharingNotificationHandler, the NotificationHandler subclass responsible for SHARING notification actions.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_SHARING_NOTIFICATION_HANDLER_H_
 #define CHROME_BROWSER_SHARING_SHARING_NOTIFICATION_HANDLER_H_
 

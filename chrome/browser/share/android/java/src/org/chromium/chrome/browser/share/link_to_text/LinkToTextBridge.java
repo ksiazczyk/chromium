@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'LinkToTextBridge: JNI bridge to native shared highlighting'
+// summary: Java bridge exposing native shared-highlighting calls, such as whether link-to-text should be offered and logging of link generation success and failure metrics.
+// ---
+
 package org.chromium.chrome.browser.share.link_to_text;
 
 import org.jni_zero.NativeMethods;

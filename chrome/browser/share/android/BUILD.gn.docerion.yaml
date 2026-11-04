@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Share Android resources build file
+summary: Defines android_resources build targets listing the share feature's drawables, layouts and values, plus test resources.

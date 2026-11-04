@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote copy message handler implementation
+// summary: Implements the remote copy feature by handling incoming sharing messages, downloading allowed images, writing text or images to the clipboard and showing notifications.
+// ---
+
 #include "chrome/browser/sharing/shared_clipboard/remote_copy_message_handler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sharesheet test utilities implementation
+// summary: Implements helpers that build valid, invalid and Drive share intents plus file system URLs in Downloads and non-native filesystems for sharesheet tests.
+// ---
+
 #include "chrome/browser/sharesheet/sharesheet_test_util.h"
 
 #include "chrome/browser/ash/file_manager/fileapi_util.h"

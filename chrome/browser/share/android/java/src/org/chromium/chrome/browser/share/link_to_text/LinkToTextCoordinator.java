@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'LinkToTextCoordinator: Sharing Hub link-to-text flow'
+// summary: Coordinates the Link to Text action in the Android Sharing Hub, managing the asynchronous text selector and canonical URL request lifecycle, timeouts, and share sheet presentation.
+// ---
+
 package org.chromium.chrome.browser.share.link_to_text;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

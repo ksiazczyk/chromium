@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for share history
+// summary: Java shim wrapping the JNI interface to the C++ ShareHistory object for adding and clearing share entries per profile.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import org.jni_zero.JniType;

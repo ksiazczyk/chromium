@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot share sheet dialog coordinator
+// summary: Initializes and shows the screenshot share sheet dialog fragment for a captured screenshot.
+// ---
+
 package org.chromium.chrome.browser.share.screenshot;
 
 import android.app.Activity;

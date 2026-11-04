@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sharing handler registry unit tests
+// summary: Unit tests for SharingHandlerRegistryImpl covering manual handler registration and removal and feature-gated handlers such as Glic experimental triggering and BrowserActuator.
+// ---
+
 #include "chrome/browser/sharing/sharing_handler_registry_impl.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Shared clipboard BUILD.gn build configuration
+summary: Defines the GN build targets for the shared clipboard source set and its unit tests, including non-Android dependencies for remote copy handling.

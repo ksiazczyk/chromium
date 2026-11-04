@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareSheetUsageRankingHelper
+// summary: Helper for ShareSheetCoordinator that ranks share targets by usage and supplies ranked models for the share sheet.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import android.app.Activity;

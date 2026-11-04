@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet types and TargetInfo definitions
+// summary: Defines the TargetType and ShareActionType enums, the TargetInfo struct describing share targets, and delivered, close and cleanup callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_SHARESHEET_SHARESHEET_TYPES_H_
 #define CHROME_BROWSER_SHARESHEET_SHARESHEET_TYPES_H_
 

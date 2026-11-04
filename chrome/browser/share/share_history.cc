@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareHistory implementation
+// summary: Implements per-profile share target history backed by a LevelDB proto database, recording daily counts and expiring entries after 90 days.
+// ---
+
 #include "chrome/browser/share/share_history.h"
 
 #include <string>

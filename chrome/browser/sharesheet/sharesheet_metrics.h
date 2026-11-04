@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharesheetMetrics class declaration
+// summary: Declares histogram names, append-only enums and static helpers for recording sharesheet usage metrics.
+// ---
+
 #ifndef CHROME_BROWSER_SHARESHEET_SHARESHEET_METRICS_H_
 #define CHROME_BROWSER_SHARESHEET_SHARESHEET_METRICS_H_
 

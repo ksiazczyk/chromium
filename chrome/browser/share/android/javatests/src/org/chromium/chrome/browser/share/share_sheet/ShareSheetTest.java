@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShareSheetTest
+// summary: Test fixture for share sheet tests that sets up mock system state, stub resolve infos and utility methods for writing these tests.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import static com.google.common.truth.Truth.assertThat;

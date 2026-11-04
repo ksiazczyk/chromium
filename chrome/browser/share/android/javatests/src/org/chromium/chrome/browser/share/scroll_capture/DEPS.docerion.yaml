@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for scroll capture tests
+summary: Declares include rules that let the scroll capture tests depend on Chromium content browser Java sources.

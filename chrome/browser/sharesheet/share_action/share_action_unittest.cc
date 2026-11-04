@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShareActionCache unit tests
+// summary: Unit tests verifying that the share action cache returns the expected actions, icons, and visibility results for various intents.
+// ---
+
 #include "chrome/browser/sharesheet/share_action/share_action.h"
 
 #include <string>

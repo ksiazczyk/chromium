@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for OptimizationGuideMessageHandler
+// summary: Tests OnMessage handling, verifying that invalid hint notification payloads are rejected and valid ones are forwarded to a mocked push notification manager.
+// ---
+
 #include "chrome/browser/sharing/optimization_guide/optimization_guide_message_handler.h"
 
 #include <memory>

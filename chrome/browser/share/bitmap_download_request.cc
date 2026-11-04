@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI handler for downloading generated bitmaps
+// summary: Implements a JNI entry point that downloads a generated bitmap through the profile's download manager on Android.
+// ---
+
 #include <jni.h>
 
 #include "base/android/jni_string.h"

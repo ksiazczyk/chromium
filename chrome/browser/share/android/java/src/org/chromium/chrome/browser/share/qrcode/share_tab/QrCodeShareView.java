@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QrCodeShareView
+// summary: Manages the Android view for the QR code share panel, showing the QR bitmap or error message and adjusting download and settings buttons based on permissions.
+// ---
+
 package org.chromium.chrome.browser.share.qrcode.share_tab;
 
 import android.app.Activity;

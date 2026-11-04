@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareAttempt implementation
+// summary: Implements ShareAttempt constructors that build a share attempt from a WebContents with title, URL and a default favicon preview.
+// ---
+
 #include "chrome/browser/share/share_attempt.h"
 
 #include "chrome/browser/favicon/favicon_utils.h"

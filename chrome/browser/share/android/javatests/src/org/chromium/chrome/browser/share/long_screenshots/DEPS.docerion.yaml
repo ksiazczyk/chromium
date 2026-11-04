@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Defines allowed include rules for the long screenshots Java tests, granting access to paint preview player and content browser code.

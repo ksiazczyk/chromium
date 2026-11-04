@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharesheetServiceDelegator class declaration
+// summary: Declares the interface through which sharesheet business logic communicates with the bubble UI.
+// ---
+
 #ifndef CHROME_BROWSER_SHARESHEET_SHARESHEET_SERVICE_DELEGATOR_H_
 #define CHROME_BROWSER_SHARESHEET_SHARESHEET_SERVICE_DELEGATOR_H_
 

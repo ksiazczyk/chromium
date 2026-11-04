@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor screenshot task for capturing activity screenshots
+// summary: Captures an Activity screenshot via the compositor or Android view and delivers the resulting bitmap.
+// ---
+
 package org.chromium.chrome.browser.share.screenshot;
 
 import static org.chromium.build.NullUtil.assertNonNull;

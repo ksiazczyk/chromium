@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharesheetController interface
+// summary: Abstract interface that lets share actions set the bubble size, close the bubble and check visibility.
+// ---
+
 #ifndef CHROME_BROWSER_SHARESHEET_SHARESHEET_CONTROLLER_H_
 #define CHROME_BROWSER_SHARESHEET_SHARESHEET_CONTROLLER_H_
 

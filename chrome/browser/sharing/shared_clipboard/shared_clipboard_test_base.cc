@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared clipboard test base implementation
+// summary: Implements shared test setup and helpers for reading clipboard content, creating sharing messages and checking notifications in shared clipboard tests.
+// ---
+
 #include "chrome/browser/sharing/shared_clipboard/shared_clipboard_test_base.h"
 
 #include "base/strings/utf_string_conversions.h"

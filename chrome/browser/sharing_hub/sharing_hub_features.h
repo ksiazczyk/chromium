@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing hub features header
+// summary: Declares functions for sharing hub page action, omnibox, screenshots, and policy checks, plus the desktop screenshots feature flag and pref registration.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_HUB_SHARING_HUB_FEATURES_H_
 #define CHROME_BROWSER_SHARING_HUB_SHARING_HUB_FEATURES_H_
 

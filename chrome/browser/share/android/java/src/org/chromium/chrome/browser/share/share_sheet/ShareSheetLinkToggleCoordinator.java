@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareSheetLinkToggleCoordinator
+// summary: Coordinates toggling link sharing on and off in the share sheet and resolves the share params for each toggle state.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

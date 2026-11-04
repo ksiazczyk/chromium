@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enhanced target device picker mediator unit tests
+// summary: Robolectric unit tests for EnhancedTargetDevicePickerMediator, verifying device list population, model mapping and auto-selection of the first device.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import static org.junit.Assert.assertEquals;

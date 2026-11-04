@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareSheetLinkToggleMetricsHelper
+// summary: Records histograms about the link toggle state when users toggle it or complete a share, per detailed content type.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import org.chromium.base.metrics.RecordHistogram;

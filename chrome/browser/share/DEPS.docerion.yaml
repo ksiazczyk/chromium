@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for chrome/browser/share
+summary: Lists the include dependencies allowed for the share directory, mostly Android Java and component paths.

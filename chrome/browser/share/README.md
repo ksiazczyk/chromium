@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the chrome/browser/share directory
+summary: Describes the sharing features implemented here, such as QR code generation, link-to-text, screenshot editing and the Android share hub, and points to related directories.
+---
+
 ## //chrome/browser/share
 
 This directory contains the implementation of some of the sharing, social, and

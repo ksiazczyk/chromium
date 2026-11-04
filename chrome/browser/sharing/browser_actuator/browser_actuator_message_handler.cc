@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser actuator sharing message handler implementation
+// summary: Implements OnMessage to route actuator downstream SharingMessage payloads to transport sessions by payload type.
+// ---
+
 #include "chrome/browser/sharing/browser_actuator/browser_actuator_message_handler.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sharesheet build configuration
+summary: Defines source sets, public headers, dependencies and unit test targets for the ChromeOS sharesheet.

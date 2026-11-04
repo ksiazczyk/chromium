@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollCaptureManagerDelegate
+// summary: Interface declaring delegate methods to add and remove scroll capture bindings on views and to update the current tab.
+// ---
+
 package org.chromium.chrome.browser.share.scroll_capture;
 
 import android.view.View;

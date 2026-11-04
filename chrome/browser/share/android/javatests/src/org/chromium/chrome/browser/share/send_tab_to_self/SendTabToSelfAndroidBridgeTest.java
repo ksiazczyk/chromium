@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send tab to self Android bridge tests
+// summary: Robolectric tests for SendTabToSelfAndroidBridge, covering native bridge interactions, notifications, snackbars and tab card behavior.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import static org.mockito.ArgumentMatchers.any;

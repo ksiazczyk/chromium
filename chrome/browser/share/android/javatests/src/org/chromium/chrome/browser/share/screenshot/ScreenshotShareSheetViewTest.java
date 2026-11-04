@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenshotShareSheetViewTest
+// summary: Robolectric tests for ScreenshotShareSheetView verifying that close, delete, share, and save button clicks fire the expected operations.
+// ---
+
 package org.chromium.chrome.browser.share.screenshot;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote SMS fetch entry point implementation
+// summary: Implements FetchRemoteSms, dispatching to the desktop UI controller or reporting failure for Android-to-Android fetches.
+// ---
+
 #include "chrome/browser/sharing/sms/sms_remote_fetcher.h"
 
 #include "base/check.h"

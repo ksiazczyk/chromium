@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self gesture detector
+// summary: Detects physical double-tap gestures on the phone using the linear acceleration sensor to trigger Send Tab to Self sharing.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import android.content.Context;

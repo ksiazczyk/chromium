@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BitmapGeneratorTest
+// summary: Instrumented tests verifying that BitmapGenerator captures a Tab's contents and composites bitmaps for long screenshots.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots.bitmap_generation;
 
 import android.graphics.Bitmap;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ShareHistory test double header
+// summary: Declares a test fake subclass of ShareHistory that lets tests inject the history returned by GetFlatShareHistory().
+// ---
+
 #ifndef CHROME_BROWSER_SHARE_FAKE_SHARE_HISTORY_H_
 #define CHROME_BROWSER_SHARE_FAKE_SHARE_HISTORY_H_
 

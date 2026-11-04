@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote SMS fetch UI controller implementation
+// summary: Implements the desktop WebContents-scoped UI controller that manages remote SMS fetching communication and handles responses.
+// ---
+
 #include "chrome/browser/sharing/sms/sms_remote_fetcher_ui_controller.h"
 
 #include <utility>

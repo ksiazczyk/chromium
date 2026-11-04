@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upstream device icon resource provider implementation
+// summary: Implements DeviceResourceProvider by mapping desktop, phone and tablet form factors to their drawable icon resource IDs.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base coordinator for Sharing Hub screenshot capture
+// summary: Abstract base coordinator for Sharing Hub features that captures a browser screenshot after the bottom sheet is dismissed.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import android.app.Activity;

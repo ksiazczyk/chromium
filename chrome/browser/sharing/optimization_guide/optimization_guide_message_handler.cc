@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide push notification message handler implementation
+// summary: Implements handling of sharing messages carrying optimization guide hint notifications, parsing the HintNotificationPayload and forwarding it to the push notification manager.
+// ---
+
 #include "chrome/browser/sharing/optimization_guide/optimization_guide_message_handler.h"
 
 #include <utility>

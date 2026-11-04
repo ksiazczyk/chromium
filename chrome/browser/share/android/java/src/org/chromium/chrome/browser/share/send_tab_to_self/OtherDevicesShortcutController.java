@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Other devices shortcut controller
+// summary: Pushes dynamic Android shortcuts for the user's other syncing devices, shown as Direct Share targets and launcher shortcuts opening the Recent tabs page.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import android.app.Activity;

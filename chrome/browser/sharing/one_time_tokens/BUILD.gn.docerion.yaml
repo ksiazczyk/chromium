@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: One-time tokens sharing BUILD.gn
+summary: Defines the one_time_tokens source set and its unit_tests target, with dependencies on the sharing message and one time tokens components.

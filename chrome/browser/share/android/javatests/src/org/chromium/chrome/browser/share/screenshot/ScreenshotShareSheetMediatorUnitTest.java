@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenshotShareSheetMediatorUnitTest
+// summary: Robolectric unit tests for ScreenshotShareSheetMediator covering delete, save, and share actions triggered through the share sheet property model.
+// ---
+
 package org.chromium.chrome.browser.share.screenshot;
 
 import static org.mockito.ArgumentMatchers.any;

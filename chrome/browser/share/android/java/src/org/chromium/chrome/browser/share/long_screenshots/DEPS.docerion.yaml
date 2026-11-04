@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Long screenshots DEPS include rules
+summary: Defines allowed dependency include rules for the long screenshots Android share code.

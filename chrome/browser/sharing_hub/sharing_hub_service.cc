@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing hub service implementation
+// summary: Implements the SharingHubService keyed service, which creates and exposes a SharingHubModel for a browser context.
+// ---
+
 #include "chrome/browser/sharing_hub/sharing_hub_service.h"
 
 #include "chrome/browser/sharing_hub/sharing_hub_model.h"

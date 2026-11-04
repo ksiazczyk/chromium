@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeProvidedSharingOptionsProvider
+// summary: Provides property models for Chrome-provided sharing options like print, link-to-text, and screenshots in the share sheet.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import static org.chromium.build.NullUtil.assertNonNull;

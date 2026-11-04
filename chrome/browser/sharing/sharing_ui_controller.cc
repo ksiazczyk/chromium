@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing UI controller implementation
+// summary: Implements the desktop sharing dialog controller, including dialog titles, error dialog text for send failures and the device and app selection flow.
+// ---
+
 #include "chrome/browser/sharing/sharing_ui_controller.h"
 
 #include <utility>

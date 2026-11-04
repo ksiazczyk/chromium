@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android custom action provider for the share sheet
+// summary: Constructs custom share actions such as copy, link-to-text, long screenshots and tab group sharing for Chrome's Android share sheet.
+// ---
+
 package org.chromium.chrome.browser.share.android_share_sheet;
 
 import static org.chromium.build.NullUtil.assertNonNull;

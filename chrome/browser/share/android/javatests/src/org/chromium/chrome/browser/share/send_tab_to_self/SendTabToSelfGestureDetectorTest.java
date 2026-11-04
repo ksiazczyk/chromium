@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self gesture detector unit tests
+// summary: Robolectric unit tests verifying that the shake gesture detector triggers tab sharing only after two acceleration spikes within a valid time window.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import static org.mockito.ArgumentMatchers.any;

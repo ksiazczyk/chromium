@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'LinkToTextIphController: IPH for received link-to-text'
+// summary: Shows an in-product help message when a tab loads a URL containing a text fragment, using the feature engagement tracker and opening a help page on the primary action.
+// ---
+
 package org.chromium.chrome.browser.share.link_to_text;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ShareHistory implementation for tests
+// summary: Implements a test fake of ShareHistory that returns a directly injected flat share history from GetFlatShareHistory().
+// ---
+
 #include "chrome/browser/share/fake_share_history.h"
 
 #include "base/functional/bind.h"

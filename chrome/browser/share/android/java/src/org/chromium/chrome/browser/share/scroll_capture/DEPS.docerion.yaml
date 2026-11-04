@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for scroll capture
+summary: Defines the allowed include rules for the scroll capture directory, permitting dependencies on the content public browser Java sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Other devices shortcut controller factory
+// summary: Provides per-profile access to OtherDevicesShortcutController instances through a profile-keyed map.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import org.chromium.build.annotations.NullMarked;

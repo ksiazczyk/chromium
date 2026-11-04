@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base provider of Chrome-provided sharing options
+// summary: Abstract base class that builds the list of Chrome first-party sharing options such as copy, QR code, print, long screenshot and Send Tab to Self.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import static org.chromium.build.NullUtil.assertNonNull;

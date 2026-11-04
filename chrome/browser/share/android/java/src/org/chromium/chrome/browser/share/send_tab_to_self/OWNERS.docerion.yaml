@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for send_tab_to_self
+summary: Points to the shared OWNERS file in components/send_tab_to_self that lists the code owners for this directory.

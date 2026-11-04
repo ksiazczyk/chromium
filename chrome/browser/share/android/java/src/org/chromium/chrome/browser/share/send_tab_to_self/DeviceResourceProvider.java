@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device icon resource provider interface
+// summary: Defines an interface that returns the drawable resource ID for a target device icon based on its form factor and OS type.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import androidx.annotation.DrawableRes;

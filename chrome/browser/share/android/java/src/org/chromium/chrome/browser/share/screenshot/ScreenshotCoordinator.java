@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot coordinator for the Sharing Hub
+// summary: Handles the Sharing Hub screenshot action and launches the screenshot editor or a fallback share sheet.
+// ---
+
 package org.chromium.chrome.browser.share.screenshot;
 
 import android.app.Activity;

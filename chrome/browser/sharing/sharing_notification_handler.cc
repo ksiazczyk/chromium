@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing notification handler implementation
+// summary: Implements click and close handling for SHARING notifications, dispatching to the sharing service's notification action handlers or closing the notification.
+// ---
+
 #include "chrome/browser/sharing/sharing_notification_handler.h"
 
 #include <utility>

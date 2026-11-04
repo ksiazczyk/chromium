@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sharing hub model unit tests
+// summary: Contains a currently disabled unit test checking that first-party sharing actions are offered across URLs, pending removal of a browser dependency.
+// ---
+
 #include "chrome/browser/sharing_hub/sharing_hub_model.h"
 #include "base/test/task_environment.h"
 #include "chrome/test/base/testing_profile.h"

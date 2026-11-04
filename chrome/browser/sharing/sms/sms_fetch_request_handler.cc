@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS fetch request handler implementation
+// summary: Implements handling of incoming SMS fetch request messages from remote devices, including origin matching and Android user permission prompts.
+// ---
+
 #include "chrome/browser/sharing/sms/sms_fetch_request_handler.h"
 
 #include <optional>

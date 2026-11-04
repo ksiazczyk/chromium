@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules for browser_actuator
+summary: Grants this directory include access to components/browser_actuator.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LongScreenshotsUtilsTest
+// summary: Robolectric unit test verifying that LongScreenshotsUtils shows the long screenshot unknown error toast.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots;
 
 import static org.junit.Assert.assertTrue;

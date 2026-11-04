@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to browser_actuator owners
+summary: Delegates ownership review to the OWNERS file of components/browser_actuator.

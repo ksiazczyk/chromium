@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareSourceDesktop enum and metrics declarations
+// summary: Declares the ShareSourceDesktop enum of sharing hub launch sources and the LogShareSourceDesktop function, kept in sync with histograms.xml.
+// ---
+
 #ifndef CHROME_BROWSER_SHARE_SHARE_METRICS_H_
 #define CHROME_BROWSER_SHARE_SHARE_METRICS_H_
 

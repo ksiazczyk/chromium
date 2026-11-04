@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self back press handler
+// summary: Intercepts the back gesture on a received Send Tab to Self tab to switch back to the parent tab without closing it.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import org.chromium.base.lifetime.Destroyable;

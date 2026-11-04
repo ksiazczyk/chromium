@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the browser sharing directory
+summary: Explains that the directory hosts cross-device sharing features such as click-to-call and shared clipboard backed by FCM, and lists contacts for using the machinery.
+---
+
 This directory contains features for sharing data between one user's Chrome
 instances: click-to-call, shared clipboard, and so on. Social features for
 sharing between users go instead in //chrome/browser/share. The features in this

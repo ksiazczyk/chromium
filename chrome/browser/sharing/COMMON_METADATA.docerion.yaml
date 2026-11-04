@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Shared metadata for the sharing directory
+summary: Declares the Monorail component and public Buganizer component used for issue tracking across the sharing directory.

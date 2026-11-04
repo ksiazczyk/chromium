@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QrCodeShareMediator
+// summary: Mediator that generates the QR code bitmap for the shared URL, sets share view properties, and handles QR code downloads with storage permission checks.
+// ---
+
 package org.chromium.chrome.browser.share.qrcode.share_tab;
 
 import android.Manifest.permission;

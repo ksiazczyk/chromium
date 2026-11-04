@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollCaptureManager
+// summary: Observes the active tab and attaches or removes scroll capture bindings on its view so long screenshots can be taken of web content.
+// ---
+
 package org.chromium.chrome.browser.share.scroll_capture;
 
 import android.os.Build.VERSION_CODES;

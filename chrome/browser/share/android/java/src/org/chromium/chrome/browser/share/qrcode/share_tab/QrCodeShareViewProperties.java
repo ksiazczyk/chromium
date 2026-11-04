@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QrCodeShareViewProperties
+// summary: Defines the writable property keys (QR bitmap, error string, permission and foreground state) used by the QR code share panel's property model.
+// ---
+
 package org.chromium.chrome.browser.share.qrcode.share_tab;
 
 import android.graphics.Bitmap;

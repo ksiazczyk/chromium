@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareHistory class header
+// summary: Declares ShareHistory, a per-profile store of which share targets the user has shared to, cleared when browsing data is cleared.
+// ---
+
 #ifndef CHROME_BROWSER_SHARE_SHARE_HISTORY_H_
 #define CHROME_BROWSER_SHARE_SHARE_HISTORY_H_
 

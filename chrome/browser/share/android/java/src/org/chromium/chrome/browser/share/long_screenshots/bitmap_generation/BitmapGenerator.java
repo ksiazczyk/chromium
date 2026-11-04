@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapGenerator
+// summary: Drives long screenshot capture of a tab via LongScreenshotsTabService and composites the bitmap with LongScreenshotsCompositor, reporting status through a generator callback.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots.bitmap_generation;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

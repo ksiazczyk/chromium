@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One time token sharing handler header
+// summary: Declares OneTimeTokenSharingHandler, a SharingMessageHandler that processes notifications about new one time passwords available from the token backend, plus the validation result enum.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_ONE_TIME_TOKENS_ONE_TIME_TOKEN_SHARING_HANDLER_H_
 #define CHROME_BROWSER_SHARING_ONE_TIME_TOKENS_ONE_TIME_TOKEN_SHARING_HANDLER_H_
 

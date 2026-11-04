@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send tab to self bottom sheet render tests
+// summary: Render tests for the send tab to self bottom sheets, parameterized for default and night mode themes.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import static androidx.test.espresso.Espresso.onView;

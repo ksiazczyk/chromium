@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata pointing to shared settings
+summary: Points to the COMMON_METADATA file so this directory inherits the shared issue tracking metadata.

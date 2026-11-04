@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Long screenshots area selection dialog properties
+// summary: Defines property keys and callbacks for the buttons of the long screenshots area selection dialog.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots;
 
 import android.view.View.OnClickListener;

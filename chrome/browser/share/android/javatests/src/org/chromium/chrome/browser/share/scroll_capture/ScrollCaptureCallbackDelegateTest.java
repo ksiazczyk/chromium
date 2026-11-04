@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScrollCaptureCallbackDelegateTest
+// summary: Robolectric unit tests for ScrollCaptureCallbackDelegate, mocking tabs, entry managers, and paint preview compositor interactions.
+// ---
+
 package org.chromium.chrome.browser.share.scroll_capture;
 
 import static org.mockito.ArgumentMatchers.any;

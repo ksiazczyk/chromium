@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing hub model implementation
+// summary: Implements the sharing hub model that builds and filters the first-party action list, including copy link, QR code, save page, and send tab to self.
+// ---
+
 #include "chrome/browser/sharing_hub/sharing_hub_model.h"
 
 #include "base/base64.h"

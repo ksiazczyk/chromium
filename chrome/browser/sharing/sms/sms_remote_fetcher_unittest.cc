@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SMS remote fetcher unit tests
+// summary: Unit tests for the SMS remote fetcher, covering cross-device SMS fetching with mock sharing services and verifying failure handling and histogram metrics.
+// ---
+
 #include "chrome/browser/sharing/sms/sms_remote_fetcher.h"
 
 #include "base/run_loop.h"

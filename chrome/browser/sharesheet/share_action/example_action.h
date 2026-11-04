@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExampleAction class declaration
+// summary: Declares the ExampleAction subclass of ShareAction that serves as a simple example and test implementation of a share action.
+// ---
+
 #ifndef CHROME_BROWSER_SHARESHEET_SHARE_ACTION_EXAMPLE_ACTION_H_
 #define CHROME_BROWSER_SHARESHEET_SHARE_ACTION_EXAMPLE_ACTION_H_
 

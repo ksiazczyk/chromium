@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One time token sharing handler implementation
+// summary: Implements the SharingMessage handler that validates one time token backend notifications and forwards Gmail OTP notifications to the Gmail OTP backend while logging validation results.
+// ---
+
 #include "chrome/browser/sharing/one_time_tokens/one_time_token_sharing_handler.h"
 
 #include "base/metrics/histogram_functions.h"

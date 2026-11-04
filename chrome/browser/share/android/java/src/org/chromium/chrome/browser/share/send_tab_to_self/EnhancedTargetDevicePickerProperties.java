@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Properties for the enhanced target device picker bottom sheet
+// summary: Defines the property keys and default model for the enhanced device picker, including per-device item properties such as selection state.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import org.chromium.base.Callback;

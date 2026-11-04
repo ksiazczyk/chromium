@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for share protobuf libraries
+summary: Defines proto_library GN targets that compile the share protobuf files with lite runtime code generation.

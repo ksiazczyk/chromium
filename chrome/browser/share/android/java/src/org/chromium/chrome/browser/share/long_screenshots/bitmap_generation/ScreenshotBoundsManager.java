@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenshotBoundsManager
+// summary: Calculates and tracks the capture bounds and scaled clip height for long screenshot entries, adjusting the number of captured viewports based on memory pressure.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots.bitmap_generation;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

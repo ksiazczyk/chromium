@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser actuator build targets
+summary: Defines the browser_actuator source set and unit_tests target with their sources and dependencies.

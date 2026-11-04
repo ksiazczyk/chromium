@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShareSheetLinkToggleCoordinatorTest
+// summary: Tests for the ShareSheetLinkToggleCoordinator that switches share parameters between link and text-only states.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS fetch request handler class declaration
+// summary: Declares SmsFetchRequestHandler, which processes incoming SMS fetch messages and manages subscriber requests to the SmsFetcher.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_SMS_SMS_FETCH_REQUEST_HANDLER_H_
 #define CHROME_BROWSER_SHARING_SMS_SMS_FETCH_REQUEST_HANDLER_H_
 

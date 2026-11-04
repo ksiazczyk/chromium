@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebOTP cross-device failure enum and metrics declaration
+// summary: Defines the WebOTPCrossDeviceFailure enum values and declares the function that records why cross-device WebOTP failed.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_SMS_SMS_REMOTE_FETCHER_METRICS_H_
 #define CHROME_BROWSER_SHARING_SMS_SMS_REMOTE_FETCHER_METRICS_H_
 

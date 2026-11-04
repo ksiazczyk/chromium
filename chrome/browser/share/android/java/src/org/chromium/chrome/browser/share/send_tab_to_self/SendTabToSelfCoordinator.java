@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self coordinator
+// summary: Coordinates the Send Tab to Self sharing flow on Android, including target device selection and sign-in promotion for signed-out users.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import static org.chromium.build.NullUtil.assertNonNull;

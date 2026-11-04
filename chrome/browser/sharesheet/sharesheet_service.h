@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharesheetService class declaration
+// summary: Declares the root keyed service providing the desktop sharesheet bubble, callbacks and target handling.
+// ---
+
 #ifndef CHROME_BROWSER_SHARESHEET_SHARESHEET_SERVICE_H_
 #define CHROME_BROWSER_SHARESHEET_SHARESHEET_SERVICE_H_
 

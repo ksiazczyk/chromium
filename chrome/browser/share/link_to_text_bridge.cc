@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link-to-text Android JNI bridge
+// summary: Android JNI bridge exposing link-to-text availability checks, iframe support, and link generation success and failure metrics to Java.
+// ---
+
 #include <jni.h>
 
 #include "components/shared_highlighting/core/common/disabled_sites.h"

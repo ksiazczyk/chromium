@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollCaptureCallbackImpl
+// summary: Implements the Android ScrollCaptureCallback interface for API S and above, forwarding scroll capture session events to ScrollCaptureCallbackDelegate.
+// ---
+
 package org.chromium.chrome.browser.share.scroll_capture;
 
 import android.graphics.Rect;

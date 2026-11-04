@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the sharing device registration
+// summary: Declares SharingDeviceRegistrationImpl, which registers devices with sharing sync preferences and reports which sharing features the device supports.
+// ---
+
 #ifndef CHROME_BROWSER_SHARING_SHARING_DEVICE_REGISTRATION_IMPL_H_
 #define CHROME_BROWSER_SHARING_SHARING_DEVICE_REGISTRATION_IMPL_H_
 

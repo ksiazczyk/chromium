@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android share sheet controller
+// summary: Controller that displays the Android share sheet, handling share parameters, metrics, favicons and share option callbacks.
+// ---
+
 package org.chromium.chrome.browser.share.android_share_sheet;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of sharing device registration
+// summary: Implements FCM-based device registration and unregistration for sharing, covering token retrieval, encryption info handling, and per-feature support checks.
+// ---
+
 #include "chrome/browser/sharing/sharing_device_registration_impl.h"
 
 #include <stdint.h>

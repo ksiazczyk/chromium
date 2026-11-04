@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the SMS sharing source sets
+summary: Defines the sms and unit_tests source sets with platform-specific sources and dependencies for Android and desktop builds.

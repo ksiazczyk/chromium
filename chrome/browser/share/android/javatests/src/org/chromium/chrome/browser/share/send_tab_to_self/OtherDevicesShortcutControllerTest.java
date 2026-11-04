@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Other devices shortcut controller unit tests
+// summary: Robolectric unit tests for OtherDevicesShortcutController, covering dynamic device shortcuts and share target intent forwarding.
+// ---
+
 package org.chromium.chrome.browser.share.send_tab_to_self;
 
 import static org.junit.Assert.assertEquals;

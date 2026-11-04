@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShareSheetBottomSheetContentTest
+// summary: Unit tests verifying that ShareSheetBottomSheetContent builds correct recycler views and previews for text, URL and image shares.
+// ---
+
 package org.chromium.chrome.browser.share.share_sheet;
 
 import static org.junit.Assert.assertEquals;

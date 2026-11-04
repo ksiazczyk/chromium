@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Drawable alias for delete icon
+summary: Maps a delete_icon drawable alias to the ic_delete_24dp icon for use in the Android share UI resources.
+-->
+
 <resources>
 <!--    TODO(crbug.com/465845023): Cleanup delete icon usage-->
     <drawable name="delete_icon">@drawable/ic_delete_24dp</drawable>

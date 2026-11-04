@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LinkToTextHelperTest
+// summary: Robolectric tests for LinkToTextHelper verifying share URL construction with text fragment selectors and detection of existing text fragments in URLs.
+// ---
+
 package org.chromium.chrome.browser.share.link_to_text;
 
 import android.app.Activity;

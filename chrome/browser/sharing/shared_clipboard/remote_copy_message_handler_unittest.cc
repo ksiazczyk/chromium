@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote copy message handler unit tests
+// summary: Unit tests for the remote copy message handler covering text and image clipboard writes, notifications and metrics.
+// ---
+
 #include "chrome/browser/sharing/shared_clipboard/remote_copy_message_handler.h"
 
 #include <map>

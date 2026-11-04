@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScrollCaptureCallbackRenderTest
+// summary: Instrumented render test that loads a checkerboard test page and verifies scroll capture rendering output via RenderTestRule.
+// ---
+
 package org.chromium.chrome.browser.share.scroll_capture;
 
 import static org.chromium.base.test.transit.Condition.whether;

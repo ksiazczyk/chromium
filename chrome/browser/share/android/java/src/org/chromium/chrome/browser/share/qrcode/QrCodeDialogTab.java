@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QrCodeDialogTab
+// summary: Common interface for all tab components in the QR code dialog, defining view, lifecycle, and permission update callbacks.
+// ---
+
 package org.chromium.chrome.browser.share.qrcode;
 
 import android.view.View;

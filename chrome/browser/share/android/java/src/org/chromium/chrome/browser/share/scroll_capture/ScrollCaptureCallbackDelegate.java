@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollCaptureCallbackDelegate
+// summary: Provides an Android API level independent scroll capture implementation that generates long screenshot bitmaps via Paint Previews, with memory pressure checks and usage metrics.
+// ---
+
 package org.chromium.chrome.browser.share.scroll_capture;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

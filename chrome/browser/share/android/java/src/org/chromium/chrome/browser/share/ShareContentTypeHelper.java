@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helper for share content types
+// summary: Helper that computes the set of content types, such as visible link, text, highlighted text or image, for a given share.
+// ---
+
 package org.chromium.chrome.browser.share;
 
 import android.text.TextUtils;

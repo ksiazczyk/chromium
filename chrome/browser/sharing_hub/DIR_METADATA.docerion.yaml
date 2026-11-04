@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker component metadata
+summary: Maps the sharing hub directory to the UI>Browser>Sharing monorail component and a Buganizer component for issue routing.

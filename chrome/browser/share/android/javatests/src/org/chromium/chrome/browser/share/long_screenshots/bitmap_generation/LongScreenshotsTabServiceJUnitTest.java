@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LongScreenshotsTabServiceJUnitTest
+// summary: Robolectric unit tests for LongScreenshotsTabService covering capture status propagation and missing-processor handling.
+// ---
+
 package org.chromium.chrome.browser.share.long_screenshots.bitmap_generation;
 
 import static org.junit.Assert.assertEquals;

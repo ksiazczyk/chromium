@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of chrome/browser/share
+summary: Lists ellyjones@chromium.org as the code owner for this directory.
