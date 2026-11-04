@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price change module view
+// summary: Custom FrameLayout that renders the price change module UI, including product image, favicon, domain, and price texts.
+// ---
+
 package org.chromium.chrome.browser.price_change;
 
 import android.content.Context;

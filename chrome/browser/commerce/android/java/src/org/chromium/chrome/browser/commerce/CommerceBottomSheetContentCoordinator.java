@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceBottomSheetContentCoordinator
+// summary: Coordinates building the commerce bottom sheet, collecting content from providers into a recycler view, observing sheet state, and recording usage metrics.
+// ---
+
 package org.chromium.chrome.browser.commerce;
 
 import android.content.Context;

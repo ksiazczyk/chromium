@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Merchant viewer Android dependency include rules
+summary: DEPS file listing the additional directories, such as optimization guide, thin webview and content public, that code in this folder is allowed to include from.

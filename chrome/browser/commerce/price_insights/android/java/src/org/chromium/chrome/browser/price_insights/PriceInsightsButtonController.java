@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price insights toolbar button controller
+// summary: Provides UI resources for the price insights action on the adaptive toolbar button and opens the price insights bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.price_insights;
 
 import static org.chromium.build.NullUtil.assertNonNull;

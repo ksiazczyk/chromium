@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceBottomSheetContent bottom sheet implementation
+// summary: Implements BottomSheetContent for the commerce bottom sheet, handling height modes, scroll offsets, accessibility strings, priority, and scrim behavior.
+// ---
+
 package org.chromium.chrome.browser.commerce;
 
 import android.content.Context;

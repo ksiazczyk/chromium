@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the complex_tasks directory
+summary: Lists ayman@chromium.org as the code owner for the complex_tasks directory.

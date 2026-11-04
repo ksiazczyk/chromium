@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceBottomSheetContentProvider interface
+// summary: Interface for features to supply views to the commerce bottom sheet, defining prioritized content types such as price tracking, discounts, and price insights.
+// ---
+
 package org.chromium.chrome.browser.commerce;
 
 import androidx.annotation.IntDef;

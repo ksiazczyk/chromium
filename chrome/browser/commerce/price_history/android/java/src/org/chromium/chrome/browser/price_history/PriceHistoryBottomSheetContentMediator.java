@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceHistoryBottomSheetContentMediator
+// summary: Mediator that checks price insights eligibility via the shopping service, fetches price insights info for the current tab, and updates the bottom sheet property model.
+// ---
+
 package org.chromium.chrome.browser.price_history;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MerchantTrustBottomSheetCoordinator tests
+// summary: Instrumented activity tests for the merchant trust bottom sheet coordinator, checking bottom sheet display, dismissal handling and interaction with the mediator and metrics.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import static org.junit.Assert.assertEquals;

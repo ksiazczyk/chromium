@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextFinderManager test harness implementation
+// summary: Implements the base test harness that creates TextFinderManager instances on mock pages and binds a mock annotation agent container.
+// ---
+
 #include "chrome/browser/companion/text_finder/text_finder_manager_base_test.h"
 
 #include <memory>

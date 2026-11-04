@@ -1,0 +1,4 @@
+# Docerion header of java_sources.gni.
+type: config
+title: Commerce subscriptions Java sources GN variables
+summary: Defines shared GN variables listing commerce subscriptions Java sources and dependencies for reuse across build targets.

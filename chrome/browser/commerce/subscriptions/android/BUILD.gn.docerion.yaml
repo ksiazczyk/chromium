@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Commerce subscriptions Android build configuration
+summary: Defines the subscriptions_java Android library target with its Java sources and dependency list for GN builds.

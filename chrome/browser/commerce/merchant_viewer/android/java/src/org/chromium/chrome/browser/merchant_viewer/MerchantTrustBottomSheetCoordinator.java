@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerchantTrustBottomSheetCoordinator
+// summary: Coordinates the merchant trust bottom sheet experience, setting up sheet content, toolbar model and ThinWebView and handling open and dismiss requests.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

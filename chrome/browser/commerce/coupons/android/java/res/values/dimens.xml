@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Discount UI dimension values
+summary: Defines Android dimension resources such as corner radii, padding and divider height used by the discount code UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <dimen name="discount_item_container_background_radius">16dp</dimen>
     <dimen name="discount_item_container_padding">12dp</dimen>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriceChangeModuleBuilderUnitTest
+// summary: Robolectric unit test for PriceChangeModuleBuilder checking module build eligibility based on price annotations, profile provider availability, and related feature flags.
+// ---
+
 package org.chromium.chrome.browser.price_change;
 
 import static org.junit.Assert.assertFalse;

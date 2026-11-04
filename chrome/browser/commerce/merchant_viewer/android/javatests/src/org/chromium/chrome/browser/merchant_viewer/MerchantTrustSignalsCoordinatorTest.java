@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MerchantTrustSignalsCoordinator tests
+// summary: Robolectric tests for the merchant trust signals coordinator, covering message scheduling, omnibox icon control, feature engagement and metrics with configured trust signals parameters.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import static org.mockito.ArgumentMatchers.any;

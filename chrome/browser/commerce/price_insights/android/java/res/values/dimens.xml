@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Price Insights Android dimension resources
+summary: Defines dimension values such as paddings, icon sizes and chart height used by the Chrome for Android Price Insights UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- go/keep-sorted start group_start_regex=<dimen -->
     <dimen name="open_jackpot_url_button_text_horizontal_padding">28dp</dimen>

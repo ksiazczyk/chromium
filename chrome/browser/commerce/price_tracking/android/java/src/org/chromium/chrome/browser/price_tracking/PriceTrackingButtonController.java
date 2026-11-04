@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceTrackingButtonController
+// summary: Provides UI resources for the price tracking optional toolbar button, updating its icon and actions with the current tab's tracking state.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import static org.chromium.build.NullUtil.assertNonNull;

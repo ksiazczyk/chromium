@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscountsBottomSheetContentProperties
+// summary: Defines the writable property keys (discount code, description, expiry time, copy button text and listener) used by the discounts bottom sheet property model.
+// ---
+
 package org.chromium.chrome.browser.commerce.coupons;
 
 import android.view.View.OnClickListener;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextHighlighterManager implementation
+// summary: Implements TextHighlighterManager, a PageUserData that creates TextHighlighter instances for a page and removes any existing ones.
+// ---
+
 #include "chrome/browser/companion/text_finder/text_highlighter_manager.h"
 
 #include <memory>

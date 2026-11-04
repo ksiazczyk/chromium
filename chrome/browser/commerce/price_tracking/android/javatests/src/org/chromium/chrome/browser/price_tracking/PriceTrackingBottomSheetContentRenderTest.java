@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriceTrackingBottomSheetContentRenderTest
+// summary: Render tests for the price tracking bottom sheet content, comparing visual output of the coordinator's views against golden images.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import static org.mockito.ArgumentMatchers.any;

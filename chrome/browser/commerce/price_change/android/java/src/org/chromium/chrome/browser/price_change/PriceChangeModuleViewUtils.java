@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price change module view utilities
+// summary: Utility class supplying theme-related background and icon colors for the price change module UI.
+// ---
+
 package org.chromium.chrome.browser.price_change;
 
 import android.content.Context;

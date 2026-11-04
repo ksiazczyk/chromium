@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerchantTrustMessageScheduler
+// summary: Schedules, delays and clears merchant trust messages through the MessageDispatcher framework, recording impact metrics for shown messages.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Merchant trust signals data provider
+// summary: Fetches merchant trust information for a URL through the Shopping Service and validates it before it is used for display.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import androidx.annotation.VisibleForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerchantTrustMessageViewModel
+// summary: Utility class that builds the property model for the merchant trust message banner, including icon, title, rating description and action handling.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceTrackingFeatures
+// summary: Flag configuration class that gates price tracking features, checking sign-in status, anonymized URL data collection, and price annotation eligibility per profile.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

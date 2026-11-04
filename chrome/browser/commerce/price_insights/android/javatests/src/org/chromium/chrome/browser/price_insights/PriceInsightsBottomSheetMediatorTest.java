@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Price insights bottom sheet mediator tests
+// summary: Robolectric tests for PriceInsightsBottomSheetMediator, checking bottom sheet properties, price tracking buttons, price history display, and histograms.
+// ---
+
 package org.chromium.chrome.browser.price_insights;
 
 import static org.junit.Assert.assertEquals;

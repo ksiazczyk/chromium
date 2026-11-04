@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscountsBottomSheetContentViewBinder
+// summary: View binder that maps discounts bottom sheet property model changes to the discount code, description, expiry time and copy button views.
+// ---
+
 package org.chromium.chrome.browser.commerce.coupons;
 
 import static org.chromium.chrome.browser.commerce.coupons.DiscountsBottomSheetContentProperties.COPY_BUTTON_ON_CLICK_LISTENER;

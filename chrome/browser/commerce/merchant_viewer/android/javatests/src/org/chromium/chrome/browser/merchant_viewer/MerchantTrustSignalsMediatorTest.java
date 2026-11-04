@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Merchant trust signals mediator tests
+// summary: Robolectric tests for MerchantTrustSignalsMediator verifying tab navigation observation, incognito handling and delegate callbacks.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import static org.junit.Assert.assertFalse;

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the commerce directory
+summary: Declares the Monorail component UI>Browser>Shopping and the public Buganizer component ID used for this directory.

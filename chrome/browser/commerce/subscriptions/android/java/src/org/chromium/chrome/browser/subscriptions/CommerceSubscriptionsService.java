@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceSubscriptionsService
+// summary: Android service that manages implicit price-tracking subscriptions, records price-drop notification metrics on activity resume, and cleans up lifecycle observers on destroy.
+// ---
+
 package org.chromium.chrome.browser.subscriptions;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

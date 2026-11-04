@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MerchantTrustSignalsDataProvider tests
+// summary: Robolectric tests verifying that MerchantTrustSignalsDataProvider fetches merchant info from the shopping service and handles null metadata, null profile and invalid URLs.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import static org.mockito.ArgumentMatchers.any;

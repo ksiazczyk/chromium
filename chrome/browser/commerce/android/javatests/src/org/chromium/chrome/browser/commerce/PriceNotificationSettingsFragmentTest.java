@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriceNotificationSettingsFragmentTest
+// summary: UI tests for the price notification settings fragment, checking email preference toggle visibility and behavior with and without a signed-in account.
+// ---
+
 package org.chromium.chrome.browser.commerce;
 
 import static org.mockito.ArgumentMatchers.any;

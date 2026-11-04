@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerchantTrustBottomSheetContent
+// summary: Implements BottomSheetContent for the merchant trust bottom sheet, supplying content and toolbar views, height ratios, priorities and back press handling.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import android.content.Context;

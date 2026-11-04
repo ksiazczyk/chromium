@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscountsBottomSheetContentCoordinator
+// summary: Coordinator that builds the discounts bottom sheet content view and RecyclerView adapter, and serves content as a CommerceBottomSheetContentProvider via its mediator.
+// ---
+
 package org.chromium.chrome.browser.commerce.coupons;
 
 import static org.chromium.chrome.browser.commerce.CommerceBottomSheetContentProperties.ALL_KEYS;

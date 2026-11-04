@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page info store info view tests
+// summary: Instrumentation and render tests for the PageInfo store info view, checking display and click behavior with a mocked shopping service.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import static androidx.test.espresso.Espresso.onView;

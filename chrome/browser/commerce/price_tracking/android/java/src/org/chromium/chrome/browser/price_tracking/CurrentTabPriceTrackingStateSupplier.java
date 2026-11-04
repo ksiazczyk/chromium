@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CurrentTabPriceTrackingStateSupplier
+// summary: Supplies the price tracking state of the current tab by observing navigations, tab changes and ShoppingService subscription updates.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import com.google.common.primitives.UnsignedLongs;

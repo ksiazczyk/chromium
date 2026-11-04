@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriceUtilsTest
+// summary: Unit tests for PriceUtils.formatPrice, verifying USD price formatting and rounding across small, zero, and large micro values.
+// ---
+
 package org.chromium.chrome.browser.commerce;
 
 import androidx.test.filters.SmallTest;

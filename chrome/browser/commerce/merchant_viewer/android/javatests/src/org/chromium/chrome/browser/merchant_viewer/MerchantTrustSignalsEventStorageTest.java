@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Merchant trust signals event storage tests
+// summary: Instrumentation tests for MerchantTrustSignalsEventStorage covering save, load, prefix load, delete and delete-all operations.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info store info section controller
+// summary: Controls the store info row in the Chrome page info UI, showing merchant details and handling clicks that open the trust experience.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import android.content.Context;

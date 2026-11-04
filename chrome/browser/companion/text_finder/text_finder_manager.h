@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextFinderManager class declaration
+// summary: Declares TextFinderManager, which manages text finder instances per page and supports single and batch searches with completion callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_COMPANION_TEXT_FINDER_TEXT_FINDER_MANAGER_H_
 #define CHROME_BROWSER_COMPANION_TEXT_FINDER_TEXT_FINDER_MANAGER_H_
 

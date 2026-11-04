@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskTabHelper unit tests
+// summary: Unit tests verifying task ID creation, chaining across navigations, and parent task ID handling for new chains and cross-tab cases.
+// ---
+
 #include "chrome/browser/complex_tasks/task_tab_helper.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceTrackingBottomSheetContentCoordinator
+// summary: Coordinates the price tracking bottom sheet content, wiring the property model, view binder and mediator for the commerce bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import android.content.Context;

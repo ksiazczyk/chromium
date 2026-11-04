@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceBottomSheetContentBinder
+// summary: Binds commerce bottom sheet PropertyModel changes to views, attaching custom views and updating title text, visibility, and container padding.
+// ---
+
 package org.chromium.chrome.browser.commerce;
 
 import android.view.View;

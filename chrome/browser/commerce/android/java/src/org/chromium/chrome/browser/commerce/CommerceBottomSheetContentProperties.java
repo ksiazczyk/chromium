@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceBottomSheetContentProperties
+// summary: Defines the PropertyModel keys describing commerce bottom sheet items, including content type, title, custom padding, and custom view.
+// ---
+
 package org.chromium.chrome.browser.commerce;
 
 import android.view.View;

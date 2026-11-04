@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiscountsButtonControllerTest
+// summary: Robolectric unit tests for the discounts toolbar button controller, covering click handling, disabling the button on sheet state changes and observer cleanup on destroy.
+// ---
+
 package org.chromium.chrome.browser.commerce.coupons;
 
 import static org.junit.Assert.assertFalse;

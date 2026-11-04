@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking notification bridge header
+// summary: Declares the PriceTrackingNotificationBridge class, a browser-context-owned observer that relays price tracking notification payloads across the JNI boundary.
+// ---
+
 #ifndef CHROME_BROWSER_COMMERCE_PRICE_TRACKING_ANDROID_PRICE_TRACKING_NOTIFICATION_BRIDGE_H_
 #define CHROME_BROWSER_COMMERCE_PRICE_TRACKING_ANDROID_PRICE_TRACKING_NOTIFICATION_BRIDGE_H_
 

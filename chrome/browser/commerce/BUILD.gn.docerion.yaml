@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Commerce BUILD.gn build targets
+summary: Defines the commerce and impl source sets for the shopping service factory and lists their GN dependencies.

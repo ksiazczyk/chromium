@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriceChangeModuleMediatorUnitTest
+// summary: Robolectric unit test for PriceChangeModuleMediator covering price drop tracking, favicon and image fetching, persisted tab data, and module display behavior.
+// ---
+
 package org.chromium.chrome.browser.price_change;
 
 import static org.junit.Assert.assertEquals;

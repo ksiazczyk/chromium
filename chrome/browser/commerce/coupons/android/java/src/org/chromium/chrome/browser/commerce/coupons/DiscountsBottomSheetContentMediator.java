@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscountsBottomSheetContentMediator
+// summary: Mediator that fetches discount info from the ShoppingService for the current tab, updates the bottom sheet model list, and records copy-button usage histograms.
+// ---
+
 package org.chromium.chrome.browser.commerce.coupons;
 
 import static org.chromium.chrome.browser.commerce.coupons.DiscountsBottomSheetContentProperties.ALL_KEYS;

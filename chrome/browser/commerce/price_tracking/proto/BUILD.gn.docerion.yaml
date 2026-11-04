@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the price tracking proto Java library
+summary: Defines a proto_java_library target that builds notifications.proto as Java protobuf code, depending on the commerce core proto library.

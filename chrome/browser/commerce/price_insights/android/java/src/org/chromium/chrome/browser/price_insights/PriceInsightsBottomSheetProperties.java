@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price insights bottom sheet properties
+// summary: Defines the writable property keys used by the price insights bottom sheet property model for titles, buttons, and the price history chart.
+// ---
+
 package org.chromium.chrome.browser.price_insights;
 
 import android.view.View;

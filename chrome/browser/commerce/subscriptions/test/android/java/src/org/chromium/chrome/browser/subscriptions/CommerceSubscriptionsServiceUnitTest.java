@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommerceSubscriptionsServiceUnitTest
+// summary: Robolectric unit tests for CommerceSubscriptionsService that mock the shopping service, preferences, notifications, and lifecycle dispatcher to verify subscription handling behavior.
+// ---
+
 package org.chromium.chrome.browser.subscriptions;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

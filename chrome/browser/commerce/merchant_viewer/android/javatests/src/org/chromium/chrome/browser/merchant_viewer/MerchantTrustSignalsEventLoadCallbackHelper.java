@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Merchant trust signals event load callback helper
+// summary: Test helper extending CallbackHelper that captures single and list results from MerchantTrustSignalsEventStorage load callbacks.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import org.chromium.base.test.util.CallbackHelper;

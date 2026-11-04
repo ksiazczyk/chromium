@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceTrackingBottomSheetContentViewBinder
+// summary: Binds price tracking bottom sheet property model values such as texts, icon, colors and click listener to the corresponding views.
+// ---
+
 package org.chromium.chrome.browser.price_tracking;
 
 import static org.chromium.chrome.browser.price_tracking.PriceTrackingBottomSheetContentProperties.PRICE_TRACKING_BUTTON_BACKGROUND_COLOR;

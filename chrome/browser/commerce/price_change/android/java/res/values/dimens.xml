@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: config
+title: Price change module dimension resources
+summary: Defines Android dimension values such as favicon and product image sizes, margins, padding and corner radii used by the price change module UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="UnusedResources">
   <!-- Price change module dimens -->

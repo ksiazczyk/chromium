@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceHistoryBottomSheetContentViewBinder
+// summary: View binder that applies property model changes to the price history bottom sheet views, including chart insertion, visibility toggles and click listeners.
+// ---
+
 package org.chromium.chrome.browser.price_history;
 
 import static org.chromium.chrome.browser.price_history.PriceHistoryBottomSheetContentProperties.OPEN_URL_BUTTON_ON_CLICK_LISTENER;

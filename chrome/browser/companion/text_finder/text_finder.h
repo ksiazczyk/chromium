@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextFinder class declaration
+// summary: Declares the TextFinder class that initiates text search through the blink annotation agent and invokes a callback with the search result.
+// ---
+
 #ifndef CHROME_BROWSER_COMPANION_TEXT_FINDER_TEXT_FINDER_H_
 #define CHROME_BROWSER_COMPANION_TEXT_FINDER_TEXT_FINDER_H_
 

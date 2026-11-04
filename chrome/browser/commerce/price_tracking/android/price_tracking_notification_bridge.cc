@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking notification bridge implementation
+// summary: Implements the native JNI bridge that receives price tracking push notification payloads from the optimization guide and forwards them to the Java side.
+// ---
+
 #include "chrome/browser/commerce/price_tracking/android/price_tracking_notification_bridge.h"
 
 #include "base/android/jni_array.h"

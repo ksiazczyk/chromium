@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price insights bottom sheet coordinator
+// summary: Coordinates the price insights bottom sheet, wiring the view, mediator, and delegate to show price history, price tracking, and jackpot links.
+// ---
+
 package org.chromium.chrome.browser.price_insights;
 
 import android.content.Context;

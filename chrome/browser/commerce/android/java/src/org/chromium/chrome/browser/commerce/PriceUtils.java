@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceUtils
+// summary: Formats price micros into display strings with a currency formatter, applying shopping-specific rounding and fractional digit rules.
+// ---
+
 package org.chromium.chrome.browser.commerce;
 
 import android.text.TextUtils;

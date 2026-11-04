@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for in stock notification
+summary: Defines the in_stock_notification source_set, listing the manager sources and dependencies on tabs public and unowned user data.

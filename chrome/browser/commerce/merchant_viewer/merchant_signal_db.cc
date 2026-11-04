@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerchantSignalDB implementation
+// summary: Implements the JNI-backed merchant signal database that saves, loads, and deletes merchant trust signal entries through SessionProtoDB.
+// ---
+
 #include "chrome/browser/commerce/merchant_viewer/merchant_signal_db.h"
 
 #include "base/android/callback_android.h"

@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Merchant Viewer feature flag configuration
+// summary: Reads Commerce Merchant Viewer field trial parameters that control message delay, rate limits, and UI variants for the trust signals experience.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import androidx.annotation.VisibleForTesting;

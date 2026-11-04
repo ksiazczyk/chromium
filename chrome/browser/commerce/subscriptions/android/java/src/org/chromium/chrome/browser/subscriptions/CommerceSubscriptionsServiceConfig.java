@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceSubscriptionsServiceConfig
+// summary: Reads the stale-tab lower bound in seconds for price tracking from the PriceAnnotations feature's field trial parameters, falling back to a one-day default.
+// ---
+
 package org.chromium.chrome.browser.subscriptions;
 
 import androidx.annotation.VisibleForTesting;

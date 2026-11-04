@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetToolbarViewBinder
+// summary: Binds changes in the bottom sheet toolbar property model to the corresponding setter calls on BottomSheetToolbarView.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import org.chromium.build.annotations.NullMarked;

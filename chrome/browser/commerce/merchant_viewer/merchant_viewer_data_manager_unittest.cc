@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MerchantViewerDataManager unit tests
+// summary: Unit tests verifying insertion and deletion of merchant viewer data by origins and time range, including histogram reporting.
+// ---
+
 #include "chrome/browser/commerce/merchant_viewer/merchant_viewer_data_manager.h"
 
 #include <algorithm>

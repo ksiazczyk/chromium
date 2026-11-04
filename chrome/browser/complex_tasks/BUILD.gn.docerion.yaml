@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the complex_tasks source sets
+summary: Defines the complex_tasks, impl, and unit_tests source sets with their sources and platform-conditional dependencies for the task tab helper.

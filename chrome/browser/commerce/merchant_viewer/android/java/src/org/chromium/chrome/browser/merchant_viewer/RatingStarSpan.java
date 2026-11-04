@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Rating star drawable span
+// summary: Drawable span that renders outline, half, or full rating star icons inside spannable text for merchant ratings.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import android.content.Context;

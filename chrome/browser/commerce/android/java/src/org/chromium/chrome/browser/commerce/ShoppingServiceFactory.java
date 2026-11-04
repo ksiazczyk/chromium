@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShoppingServiceFactory
+// summary: Factory that returns the ShoppingService for a given profile through a JNI bridge, with an overridable instance for testing.
+// ---
+
 package org.chromium.chrome.browser.commerce;
 
 import androidx.annotation.VisibleForTesting;

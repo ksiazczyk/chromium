@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextHighlighterManager header
+// summary: Declares TextHighlighterManager, which manages creation and deletion of TextHighlighter instances, keeping at most one set per page.
+// ---
+
 #ifndef CHROME_BROWSER_COMPANION_TEXT_FINDER_TEXT_HIGHLIGHTER_MANAGER_H_
 #define CHROME_BROWSER_COMPANION_TEXT_FINDER_TEXT_HIGHLIGHTER_MANAGER_H_
 

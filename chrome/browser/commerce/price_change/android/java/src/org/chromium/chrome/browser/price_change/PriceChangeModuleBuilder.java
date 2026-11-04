@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price change module builder
+// summary: Builds the price change module provider, inflating its view and creating the coordinator when price tracking on tabs is enabled.
+// ---
+
 package org.chromium.chrome.browser.price_change;
 
 import android.content.Context;

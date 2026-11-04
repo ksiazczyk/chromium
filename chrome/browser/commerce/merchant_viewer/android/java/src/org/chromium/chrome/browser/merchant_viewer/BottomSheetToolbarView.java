@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetToolbarView
+// summary: Implements the toolbar view shown at the top of the merchant trust bottom sheet, with setters for title, origin, security icon, favicon, progress and click callbacks.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import android.content.Context;

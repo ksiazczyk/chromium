@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Companion OWNERS
+summary: Lists the code owners for the companion directory, referencing the Lens component owners file and naming four Chromium contributors responsible for reviews.

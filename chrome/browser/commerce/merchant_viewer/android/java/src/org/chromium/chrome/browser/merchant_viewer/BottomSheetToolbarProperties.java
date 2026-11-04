@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetToolbarProperties
+// summary: Defines the writable property keys describing the merchant trust bottom sheet toolbar UI state, such as title, origin, progress, security and favicon icons.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import android.graphics.drawable.Drawable;

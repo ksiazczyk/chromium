@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Price tracking Android build targets
+summary: GN build file defining JNI header generation, the native notification bridge source set, Android resources, Java libraries for price tracking UI, and Robolectric unit tests.

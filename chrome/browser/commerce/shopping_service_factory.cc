@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShoppingServiceFactory implementation
+// summary: Implements the profile-keyed factory that builds the ShoppingService and declares its dependencies on bookmarks, signin, sync, history and commerce proto databases.
+// ---
+
 #include "chrome/browser/commerce/shopping_service_factory.h"
 
 #include "chrome/browser/bookmarks/bookmark_model_factory.h"

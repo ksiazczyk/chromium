@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust signals storage factory
+// summary: Profile-aware factory that supplies and destroys MerchantTrustSignalsEventStorage instances for the last used profile.
+// ---
+
 package org.chromium.chrome.browser.merchant_viewer;
 
 import static org.chromium.build.NullUtil.assumeNonNull;
