@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceHelper
+// summary: Utility class with a bindService method that safely binds to Android services in WebView, handling restricted BroadcastReceiver contexts and failed binds.
+// ---
+
 package org.chromium.android_webview.common.services;
 
 import android.content.Context;

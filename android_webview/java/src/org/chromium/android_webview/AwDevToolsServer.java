@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwDevToolsServer: remote web debugging controller'
+// summary: Java controller for remote web debugging (DevTools) that enables or disables remote debugging via native calls and manages net log services when requested.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.JNINamespace;

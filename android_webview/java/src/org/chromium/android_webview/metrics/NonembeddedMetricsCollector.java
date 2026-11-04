@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NonembeddedMetricsCollector
+// summary: Collects UMA metrics recorded by non-embedded WebView services through the metrics bridge service and transmits them back using UMA APIs.
+// ---
+
 package org.chromium.android_webview.metrics;
 
 import android.content.ComponentName;

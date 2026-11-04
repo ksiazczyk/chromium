@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebContentsObserver
+// summary: Routes WebContents notifications such as load start, stop, and finish events to the AwContentsClient and navigation client via weak references.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.android_webview.AwContents.VisualStateCallback;

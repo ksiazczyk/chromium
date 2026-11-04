@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwHeaderInterceptorStore interceptor registration manager
+// summary: Java class that manages adding, removing and clearing header interceptors for URL patterns via a native JNI bridge.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/http_headers/AwHeaderInterceptor.java
+// ---
+
 package org.chromium.android_webview.http_headers;
 
 import org.jni_zero.JNINamespace;

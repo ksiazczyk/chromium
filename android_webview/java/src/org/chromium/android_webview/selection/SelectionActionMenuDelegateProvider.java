@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectionActionMenuDelegateProvider
+// summary: Singleton provider that creates the appropriate selection action menu delegate, choosing the platform, Samsung or default autofill delegate based on client and device.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/selection/PlatformSelectionActionMenuDelegate.java
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/selection/SamsungSelectionActionMenuDelegate.java
+// ---
+
 package org.chromium.android_webview.selection;
 
 import android.os.Build;

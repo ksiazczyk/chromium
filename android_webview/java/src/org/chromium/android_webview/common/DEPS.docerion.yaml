@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the WebView common package
+summary: DEPS file defining allowed and forbidden dependency include rules for the android_webview common package.

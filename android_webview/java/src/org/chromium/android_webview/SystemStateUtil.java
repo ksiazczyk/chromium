@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemStateUtil
+// summary: Utility class exposing system-level information such as user profile count, primary CPU ABI bitness and process name to native code.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.Context;

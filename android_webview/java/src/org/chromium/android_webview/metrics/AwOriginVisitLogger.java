@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwOriginVisitLogger
+// summary: Stores visited origin hashes in shared preferences and logs the daily count of distinct origins to a histogram.
+// ---
+
 package org.chromium.android_webview.metrics;
 
 import android.content.Context;

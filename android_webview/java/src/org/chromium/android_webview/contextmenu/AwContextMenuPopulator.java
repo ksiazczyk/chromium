@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Populator that builds the WebView context menu items
+// summary: Builds the grouped list of context menu items such as copy link address, copy link text, and open link based on the enabled menu options.
+// relations:
+//   - implements /components/embedder_support/android/java/src/org/chromium/components/embedder_support/contextmenu/ContextMenuPopulator.java
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/contextmenu/AwContextMenuItemDelegate.java
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/contextmenu/AwContextMenuItemProperties.java
+// ---
+
 package org.chromium.android_webview.contextmenu;
 
 import static org.chromium.android_webview.AwSettings.HyperlinkContextMenuItems.COPY_LINK_ADDRESS;

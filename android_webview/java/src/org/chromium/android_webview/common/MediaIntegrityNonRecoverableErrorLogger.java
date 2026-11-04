@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logger for Media Integrity non-recoverable errors
+// summary: Utility that records the reason a non-recoverable Media Integrity error occurred to the Android.WebView.MediaIntegrity.NonRecoverableErrorReason histogram.
+// ---
+
 package org.chromium.android_webview.common;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing controller for WebView
+// summary: Singleton that manages WebView tracing, mapping predefined category sets to trace categories and controlling tracing through native calls.
+// ---
+
 package org.chromium.android_webview;
 
 import android.text.TextUtils;

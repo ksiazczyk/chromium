@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android URL protocol handler for WebView
+// summary: Java side of Android URL protocol jobs that opens input streams for file, asset, resource and content scheme URLs, including gzip handling, on behalf of native code.
+// relations:
+//   - references /android_webview/browser/android_protocol_handler.cc
+// ---
+
 package org.chromium.android_webview;
 
 import static org.chromium.components.embedder_support.application.ClassLoaderContextWrapperFactory.getOriginalApplicationContext;

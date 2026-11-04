@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwInterfaceRegistrar mojo interface registration
+// summary: Registers mojo interface implementations such as WebAuthn, Media Integrity, and Payment Request for the Android WebView layer, exposed to C++ via RenderFrameHost.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.CalledByNative;

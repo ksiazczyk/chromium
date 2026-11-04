@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMessageListenerInfo
+// summary: Carries WebMessageListener details such as object name, allowed origin rules, world ID and holder from native code to Java.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.CalledByNative;

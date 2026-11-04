@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwDisplayCutoutController: safe-area inset handling'
+// summary: Java controller that computes display cutout and system bar insets to supply safe-area-inset CSS values for fullscreen WebViews through an embedder delegate.
+// ---
+
 package org.chromium.android_webview;
 
 import android.graphics.Rect;

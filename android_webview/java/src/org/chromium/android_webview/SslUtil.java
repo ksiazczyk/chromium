@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SslUtil
+// summary: Utility that maps Chromium net certificate error codes to Android SslError objects and builds SslCertificate instances from DER-encoded bytes.
+// ---
+
 package org.chromium.android_webview;
 
 import android.net.http.SslCertificate;

@@ -1,3 +1,9 @@
+---
+type: readme
+title: PaymentRequest API
+summary: Explains that this directory provides the WebView-specific PaymentRequest API implementation backed by //components/payments, invokable only through Android PAY intents, and states the review policy.
+---
+
 # PaymentRequest API
 
 ## Reference

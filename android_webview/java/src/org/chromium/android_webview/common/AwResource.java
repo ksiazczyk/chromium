@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwResource: resource ID resolution for native code'
+// summary: Defines resource IDs and resolves them to concrete resources, such as the key-system UUID mapping, for the embedder.
+// ---
+
 package org.chromium.android_webview.common;
 
 import android.content.res.Resources;

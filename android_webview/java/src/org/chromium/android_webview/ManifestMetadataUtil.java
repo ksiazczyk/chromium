@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App manifest metadata utility
+// summary: Reads and caches meta-data from the embedding app's AndroidManifest.xml, covering metrics opt-out, Safe Browsing, multi-profile, and content restriction settings.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.ComponentName;

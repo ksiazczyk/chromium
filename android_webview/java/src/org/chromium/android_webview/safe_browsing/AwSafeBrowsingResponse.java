@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing hit response container for WebView
+// summary: Value container holding the app's action and reporting flag in response to a WebView Safe Browsing hit.
+// ---
+
 package org.chromium.android_webview.safe_browsing;
 
 import org.chromium.build.annotations.NullMarked;

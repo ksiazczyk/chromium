@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth credentials SQLite database
+// summary: Stores and manages HTTP authentication username/password entries backing WebView's set/getHttpAuthUsernamePassword APIs, with background-thread database initialization.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.ContentValues;

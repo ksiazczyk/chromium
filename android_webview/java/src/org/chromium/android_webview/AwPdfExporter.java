@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPdfExporter
+// summary: Exports WebView contents to a PDF through the Android print framework via a native counterpart.
+// ---
+
 package org.chromium.android_webview;
 
 import android.os.CancellationSignal;

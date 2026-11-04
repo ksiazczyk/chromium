@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptHandler
+// summary: Handler for JS-to-Java interaction that removes a document-start JavaScript snippet from the referenced AwContents using a weak reference.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.base.ThreadUtils;

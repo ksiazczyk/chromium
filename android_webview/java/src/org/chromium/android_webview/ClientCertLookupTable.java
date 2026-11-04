@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientCertLookupTable
+// summary: Stores per host-and-port client certificate decisions, allowing or denying client certificate use, with lookups performed on the UI thread.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.build.annotations.NullMarked;

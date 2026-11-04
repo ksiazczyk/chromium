@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing threat type conversion helper for WebView
+// summary: Maps Chromium Safe Browsing threat types to the WebViewClient constants that WebView exposes to apps.
+// ---
+
 package org.chromium.android_webview.safe_browsing;
 
 import android.os.Build;

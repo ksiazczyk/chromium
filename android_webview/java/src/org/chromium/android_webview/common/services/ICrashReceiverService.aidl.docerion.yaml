@@ -1,0 +1,4 @@
+# Docerion header of ICrashReceiverService.aidl.
+type: source
+title: ICrashReceiverService AIDL interface
+summary: Defines the IPC interface for transmitting crash data to WebView's crash receiver service via file descriptors and crash info.

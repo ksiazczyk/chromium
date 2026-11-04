@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cached feature flags for early startup access
+// summary: Caches feature flags and params in SharedPreferences so they can be read before native initialization, clearing the caches after startup to avoid reuse after crashes.
+// ---
+
 package org.chromium.android_webview.common;
 
 import static java.lang.annotation.ElementType.TYPE_USE;

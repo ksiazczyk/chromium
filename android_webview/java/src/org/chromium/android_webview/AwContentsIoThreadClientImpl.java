@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsIoThreadClientImpl settings-backed implementation
+// summary: Implementation of the IO thread client delegate that answers policy queries from AwSettings for AwContents rather than Service Workers.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.android_webview.common.Lifetime;

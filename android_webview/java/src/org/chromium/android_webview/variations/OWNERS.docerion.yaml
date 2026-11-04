@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Chromium OWNERS file that delegates ownership of this directory to the OWNERS file of android_webview/browser/variations.
+relations:
+  - references /android_webview/browser/variations/OWNERS

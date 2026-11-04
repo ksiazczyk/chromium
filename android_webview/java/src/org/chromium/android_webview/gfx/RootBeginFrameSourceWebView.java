@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootBeginFrameSourceWebView
+// summary: Singleton that observes the default display's refresh rate and forwards refresh rate changes to the native MainBeginFrameSourceWebView via JNI.
+// ---
+
 package org.chromium.android_webview.gfx;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeveloperModeUtils for developer mode flag overrides
+// summary: Utilities for communicating with the developer mode ContentProvider, including checking developer mode and fetching flag overrides.
+// ---
+
 package org.chromium.android_webview.common;
 
 import android.content.ComponentName;

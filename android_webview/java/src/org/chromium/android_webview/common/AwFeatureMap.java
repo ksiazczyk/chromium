@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwFeatureMap singleton for WebView feature flag checks
+// summary: Java singleton extending FeatureMap to check whether WebView features are enabled in native code.
+// relations:
+//   - depends_on /base/android/feature_map.h
+// ---
+
 package org.chromium.android_webview.common;
 
 import org.jni_zero.JNINamespace;

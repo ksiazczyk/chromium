@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property keys for the context menu header
+// summary: Defines the writable property keys for the context menu header title and header icon.
+// ---
+
 package org.chromium.android_webview.contextmenu;
 
 import android.graphics.drawable.Drawable;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op WebView view methods implementation
+// summary: Null-object implementation of AwViewMethods used in fullscreen and embedded modes, providing empty handling of drawing, input, focus, and lifecycle events.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.res.Configuration;

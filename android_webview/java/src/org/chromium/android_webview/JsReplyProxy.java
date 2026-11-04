@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript reply proxy for injected objects
+// summary: Posts messages to and executes JavaScript in the same frame as an injected JavaScript object, enforcing cross-origin isolation for SharedArrayBuffer payloads.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.CalledByNative;

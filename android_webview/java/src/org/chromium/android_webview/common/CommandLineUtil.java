@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandLineUtil for WebView command line initialization
+// summary: Utility for initializing WebView's CommandLine, including reading the command line file on debug Android builds.
+// ---
+
 package org.chromium.android_webview.common;
 
 import android.os.StrictMode;

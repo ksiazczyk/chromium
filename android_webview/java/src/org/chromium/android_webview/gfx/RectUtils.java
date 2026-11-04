@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RectUtils
+// summary: Utility class for calculating rectangle properties such as area and unioned coverage using horizontal and vertical segment scanning over Android Rect objects.
+// ---
+
 package org.chromium.android_webview.gfx;
 
 import android.graphics.Rect;

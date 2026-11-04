@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWindowCoverageTracker
+// summary: Tracks AwContents instances per root view and reports the percentage of window coverage they occupy, with rate-limited recalculation and JNI reporting.
+// ---
+
 package org.chromium.android_webview;
 
 import android.graphics.Rect;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwGeolocationCallback
+// summary: Implements the AwGeolocationPermissions.Callback passed to WebView apps via onGeolocationPermissionsShowPrompt, forwarding allow or deny responses to AwContents and optionally retaining the origin decision.
+// ---
+
 package org.chromium.android_webview.permission;
 
 import org.chromium.android_webview.AwContents;

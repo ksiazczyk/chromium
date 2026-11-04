@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker settings for WebView
+// summary: Stores thread-safe WebView service worker settings such as cache mode, content and file URL access, network loads and cookie interception.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.Context;

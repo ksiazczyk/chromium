@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript prompt dialog result receiver
+// summary: Interface letting the WebView client confirm or cancel a JavaScript modal prompt dialog and return its result.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.build.annotations.NullMarked;

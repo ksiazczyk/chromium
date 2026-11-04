@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPageState
+// summary: Represents a PageState exposed to embedders, providing the state's URL and its associated AwPage.
+// ---
+
 package org.chromium.android_webview;
 
 import androidx.annotation.AnyThread;

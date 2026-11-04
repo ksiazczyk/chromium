@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView settings
+// summary: Stores WebView-specific settings like layout algorithm and force dark mode, syncing them to native code and callable from any client thread.
+// ---
+
 package org.chromium.android_webview;
 
 import static java.lang.annotation.ElementType.TYPE_USE;

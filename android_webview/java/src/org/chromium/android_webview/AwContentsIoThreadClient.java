@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsIoThreadClient delegate interface
+// summary: Abstract delegate called on the IO thread to answer per-WebView policy questions like URL blocking, cookie acceptance, cache mode, and request interception.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.CalledByNative;

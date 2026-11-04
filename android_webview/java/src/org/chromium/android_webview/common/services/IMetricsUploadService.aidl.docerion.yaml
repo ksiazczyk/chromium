@@ -1,0 +1,4 @@
+# Docerion header of IMetricsUploadService.aidl.
+type: source
+title: IMetricsUploadService AIDL interface
+summary: Defines the exported IPC interface that embedded WebViews use to upload serialized UMA logs to the clearcut service in GMS core.

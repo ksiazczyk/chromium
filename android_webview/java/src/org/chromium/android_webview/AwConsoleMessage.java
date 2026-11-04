@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript console message
+// summary: Represents a JavaScript console message with level, text, source id and line number, mirroring android.webkit.ConsoleMessage for WebView clients.
+// ---
+
 package org.chromium.android_webview;
 
 import androidx.annotation.IntDef;

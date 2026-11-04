@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsClientBridge JNI bridge
+// summary: Handles JNI communication for the WebView client, including client certificate requests, safe browsing responses, and SSL error decisions between Java and native code.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.ActivityNotFoundException;

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwMetricsServiceClient
+// summary: Determines user consent and app opt-out for WebView metrics and initializes the metrics service with native bindings.
+// relations:
+//   - references /android_webview/browser/metrics/aw_metrics_service_client.h
+// ---
+
 package org.chromium.android_webview.metrics;
 
 import android.content.Context;

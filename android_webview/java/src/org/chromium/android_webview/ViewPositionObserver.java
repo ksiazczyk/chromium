@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewPositionObserver
+// summary: Registers listeners that are notified when the position of an observed Android view changes, using pre-draw callbacks.
+// ---
+
 package org.chromium.android_webview;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwHttpCacheManager: HTTP cache quota configuration'
+// summary: Java class managing profile-level HTTP cache configuration, exposing quota queries and updates through native calls with validation of quota values.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.CalledByNative;

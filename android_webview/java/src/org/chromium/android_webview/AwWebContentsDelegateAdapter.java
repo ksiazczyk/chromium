@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebContentsDelegateAdapter
+// summary: Adapts the AwWebContentsDelegate interface to the AwContentsClient interface and routes content-layer callbacks, keyboard events, and media keys to the right listeners.
+// ---
+
 package org.chromium.android_webview;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullScreenView
+// summary: FrameLayout that renders web contents in fullscreen mode over the video view, forwarding drawing, input, and back-invocation handling to AwContents.
+// ---
+
 package org.chromium.android_webview;
 
 import android.app.Activity;

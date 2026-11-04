@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsFilteringDecorator
+// summary: Filters metrics logs against the histogram allowlist before forwarding them to the base log uploader when only critical metrics are allowed.
+// relations:
+//   - implements /android_webview/java/src/org/chromium/android_webview/metrics/AndroidMetricsLogConsumer.java
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/metrics/HistogramsAllowlist.java
+// ---
+
 package org.chromium.android_webview.metrics;
 
 import com.google.protobuf.InvalidProtocolBufferException;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupMetrics
+// summary: Utility that records WebView startup and instance creation time UMA histograms and trace events, centralizing multi-metric reporting blocks.
+// ---
+
 package org.chromium.android_webview;
 
 import android.os.SystemClock;

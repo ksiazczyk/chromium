@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwHttpAuthHandler: HTTP authentication handling'
+// summary: Java handler for HTTP authentication that lets the embedder proceed with credentials or cancel, enforcing UI-thread use and native lifetime tracking.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.CalledByNative;

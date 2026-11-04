@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwHeaderInterceptor HTTP header interception interface
+// summary: Java interface that intercepts HTTP headers for a WebView resource request and returns a map of headers to set or remove.
+// ---
+
 package org.chromium.android_webview.http_headers;
 
 import org.chromium.android_webview.AwWebResourceRequest;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwViewMethods
+// summary: Interface defining a subset of Android View functionality such as drawing, input, focus, and scrolling, so AwContents can route these to embedded or fullscreen hosts.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.res.Configuration;

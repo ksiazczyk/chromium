@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lifetime annotations for WebView classes
+// summary: Defines source-retention annotations such as Singleton, Profile, WebView, Temporary and Renderer that describe lifetimes of embedded WebView classes.
+// relations:
+//   - references /android_webview/docs/lifetime-annotations.md
+// ---
+
 package org.chromium.android_webview.common;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwCrashyClassUtils forced-crash test helper
+// summary: Utility that deliberately triggers Java or native crashes when enabled by feature flags and command-line switches, used to test crash and SafeMode handling.
+// ---
+
 package org.chromium.android_webview;
 
 import androidx.annotation.VisibleForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DarkModeHelper
+// summary: Provides utility methods for dark mode, reading night mode, light theme, and text luminance from the application context for WebView theming.
+// ---
+
 package org.chromium.android_webview;
 
 import static org.chromium.components.embedder_support.application.ClassLoaderContextWrapperFactory.getOriginalApplicationContext;

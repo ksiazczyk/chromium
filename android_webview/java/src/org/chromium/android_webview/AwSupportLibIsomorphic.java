@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for support library isomorphic objects
+// summary: Abstract base class giving objects a lazy, thread-safe one-to-one mapping to a peer support library object for their entire lifetime.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.build.annotations.NullMarked;

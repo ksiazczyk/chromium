@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op safe mode action
+// summary: Safe mode action with no effect that only logs its execution at startup, intended purely for testing safe mode deployments.
+// ---
+
 package org.chromium.android_webview.safe_mode;
 
 import org.chromium.android_webview.common.Lifetime;

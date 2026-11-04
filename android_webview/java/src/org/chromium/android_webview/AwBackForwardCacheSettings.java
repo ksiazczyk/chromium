@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back/forward cache settings
+// summary: Holds the timeout and maximum page count settings for the back/forward cache, kept only for compatibility with the first version of the API.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.CalledByNative;

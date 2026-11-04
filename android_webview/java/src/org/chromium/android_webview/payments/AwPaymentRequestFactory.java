@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwPaymentRequestFactory: PaymentRequest service factory for WebView'
+// summary: Creates the PaymentRequest service for a live, active WebView frame, wiring WebView-specific delegate behavior such as SSL error messages and the hasEnrolledInstrument preference.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/payments/AwPaymentRequestService.java
+// ---
+
 package org.chromium.android_webview.payments;
 
 import androidx.annotation.Nullable;

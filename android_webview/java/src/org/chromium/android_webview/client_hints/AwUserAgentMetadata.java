@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwUserAgentMetadata: user-agent metadata for WebView client hints'
+// summary: Java class holding user-agent metadata such as brand versions, platform, architecture, model, bitness and form factors, used by the Android WebView public API to override user-agent client hints.
+// relations:
+//   - references /third_party/blink/public/common/user_agent/user_agent_metadata.h
+// ---
+
 package org.chromium.android_webview.client_hints;
 
 import androidx.annotation.NonNull;

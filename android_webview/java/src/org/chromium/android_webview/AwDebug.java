@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwDebug: WebView debugging entry points'
+// summary: Java class providing Android WebView debugging entry points, where the minidump-based dumpWithoutCrashing method is retained but no longer supported.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.android_webview.common.Lifetime;

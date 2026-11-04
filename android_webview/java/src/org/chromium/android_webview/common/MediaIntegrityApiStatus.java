@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Integrity API status levels
+// summary: IntDef annotation defining permission levels for the Media Integrity API, with values matching a WebView histogram in enums.xml.
+// ---
+
 package org.chromium.android_webview.common;
 
 import androidx.annotation.IntDef;

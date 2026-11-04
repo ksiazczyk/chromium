@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SamsungSelectionActionMenuDelegate
+// summary: Selection action menu delegate for Samsung devices on Android T and above that orders Samsung-specific menu entries, launches the writing toolkit and records WebView histograms.
+// ---
+
 package org.chromium.android_webview.selection;
 
 import android.content.ActivityNotFoundException;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'AwDisplayModeController: WebView display mode detection'
+// summary: Java controller that determines the WebView display mode as fullscreen or browser by comparing view, window, and display rectangles for CSS reporting.
+// ---
+
 package org.chromium.android_webview;
 
 import android.annotation.SuppressLint;

@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Safe Browsing directory owners file
+summary: Redirects code ownership of this directory to the browser-side Safe Browsing OWNERS file.
+relations:
+  - references /android_webview/browser/safe_browsing/OWNERS

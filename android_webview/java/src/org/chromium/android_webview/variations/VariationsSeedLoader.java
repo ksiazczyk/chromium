@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsSeedLoader
+// summary: Asynchronously loads and updates the WebView variations seed at startup, blocking startup only on seed loading and requesting a new seed from VariationsSeedServer when needed.
+// ---
+
 package org.chromium.android_webview.variations;
 
 import android.content.ComponentName;

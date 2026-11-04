@@ -1,0 +1,4 @@
+# Docerion header of INetLogService.aidl.
+type: source
+title: INetLogService AIDL interface
+summary: Defines the IPC interface for creating net log files in the non-embedded process and returning a writable file descriptor to the embedded process.

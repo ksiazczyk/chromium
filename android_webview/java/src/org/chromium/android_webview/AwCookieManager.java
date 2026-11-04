@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwCookieManager cookie management
+// summary: Thread-safe cookie manager that sets, removes, and queries cookies per RFC 2109 through the native cookie manager, with a singleton default profile instance.
+// ---
+
 package org.chromium.android_webview;
 
 import android.os.Handler;

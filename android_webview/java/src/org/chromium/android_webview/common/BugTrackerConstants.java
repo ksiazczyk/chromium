@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BugTrackerConstants for Chromium bug filing
+// summary: Holds constants such as component IDs and templates used when filing bugs in the Chromium bug tracker.
+// ---
+
 package org.chromium.android_webview.common;
 
 import org.chromium.build.annotations.NullMarked;

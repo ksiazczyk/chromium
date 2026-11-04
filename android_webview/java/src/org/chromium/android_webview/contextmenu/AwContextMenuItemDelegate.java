@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate for WebView context menu item actions
+// summary: Implements context menu item actions such as copying text to the clipboard and opening links in the default browser.
+// relations:
+//   - implements /components/embedder_support/android/java/src/org/chromium/components/embedder_support/contextmenu/ContextMenuItemDelegate.java
+// ---
+
 package org.chromium.android_webview.contextmenu;
 
 import android.app.Activity;

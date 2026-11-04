@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebContent
+// summary: Holds Chromium web contents state that can survive being moved between WebViews, managing its AwContents, host adoption, and settings handoff on the UI thread.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.Context;

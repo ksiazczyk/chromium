@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bridge to platform-specific services for WebView
+// summary: Abstract singleton that loads a platform-specific implementation for Google Play Services checks, Safe Browsing queries and metrics logging, falling back to a no-op bridge.
+// ---
+
 package org.chromium.android_webview.common;
 
 import android.content.Context;

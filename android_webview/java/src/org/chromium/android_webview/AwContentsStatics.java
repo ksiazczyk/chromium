@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsStatics shared static helpers
+// summary: Home for static data and methods shared by all WebViews, including the client certificate lookup table, safe browsing allowlist, and product version access.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.Context;

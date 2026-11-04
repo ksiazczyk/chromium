@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwMediaIntegrityServiceImpl
+// summary: Implements the Android WebView Media Integrity API service per RenderFrameHost, mapping error codes and delegating token provider handling via PlatformServiceBridge.
+// ---
+
 package org.chromium.android_webview.media_integrity;
 
 import android.net.Uri;

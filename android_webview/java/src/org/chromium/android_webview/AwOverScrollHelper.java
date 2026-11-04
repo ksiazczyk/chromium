@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwOverScrollHelper
+// summary: Manages overscroll UI feedback such as edge glows for the WebView container view, handling drawing, touch events, and glow animations.
+// ---
+
 package org.chromium.android_webview;
 
 import android.content.Context;

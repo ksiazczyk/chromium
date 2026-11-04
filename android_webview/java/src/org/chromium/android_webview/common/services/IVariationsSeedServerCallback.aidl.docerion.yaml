@@ -1,0 +1,4 @@
+# Docerion header of IVariationsSeedServerCallback.aidl.
+type: source
+title: IVariationsSeedServerCallback AIDL interface
+summary: Defines the callback interface used to pass variations seed related metrics information from WebView's service to the embedding app.

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwDrawFnImpl
+// summary: Java-side implementation of draw_fn.h that manages the native draw functor handle, inserts it into a canvas for rendering, and exposes JNI calls for the WebView compositor frame consumer.
+// relations:
+//   - implements /android_webview/public/browser/draw_fn.h
+// ---
+
 package org.chromium.android_webview.gfx;
 
 import android.graphics.Canvas;

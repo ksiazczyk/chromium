@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebContentsDelegate
+// summary: Abstract WebView-specific WebContentsDelegate declaring embedder-implementable callbacks such as file chooser handling and new window creation, bridged to native code.
+// relations:
+//   - references /android_webview/docs/how-does-on-create-window-work.md
+// ---
+
 package org.chromium.android_webview;
 
 import androidx.annotation.VisibleForTesting;

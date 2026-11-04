@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaBrowserViewRendererHelper
+// summary: Helper with native-called static methods that allocates bitmaps for auxiliary rasterization, respecting canvas size limits, and draws bitmaps into canvases with scroll offsets.
+// ---
+
 package org.chromium.android_webview.gfx;
 
 import android.graphics.Bitmap;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disable origin trials Safe Mode action
+// summary: Defines the Safe Mode action class that provides the fixed ID for disabling all origin trials in WebView.
+// ---
+
 package org.chromium.android_webview.common.origin_trial;
 
 import org.chromium.android_webview.common.SafeModeAction;

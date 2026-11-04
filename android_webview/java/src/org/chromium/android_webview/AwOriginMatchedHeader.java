@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwOriginMatchedHeader
+// summary: Java representation of the C++ AwOriginMatchedHeader, pairing a header name and value with normalized origin matching rules.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.CalledByNative;

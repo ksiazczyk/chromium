@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebResourceRequest
+// summary: Represents parameters for shouldInterceptRequest, including URL, method, headers, main-frame status, user gesture, and redirect information, created from native calls.
+// ---
+
 package org.chromium.android_webview;
 
 import androidx.annotation.Nullable;

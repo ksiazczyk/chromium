@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView selection action mode callback
+// summary: Handles the text selection action mode for Android WebView, deciding which menu items such as share, web search and process text are allowed and dispatching their actions.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/AwContents.java
+// ---
+
 package org.chromium.android_webview;
 
 import android.app.Activity;

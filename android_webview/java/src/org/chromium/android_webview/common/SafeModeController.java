@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeMode state controller
+// summary: Browser-process class that queries SafeMode state via a content provider and executes registered SafeMode actions, logging results to histograms.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/common/SafeModeAction.java
+// ---
+
 package org.chromium.android_webview.common;
 
 import android.content.ComponentName;

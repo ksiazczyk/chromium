@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPermissionRequest
+// summary: Java wrapper for a native-side WebView permission request that exposes its origin and resources and lets apps grant or deny it on the UI thread via JNI calls.
+// ---
+
 package org.chromium.android_webview.permission;
 
 import android.net.Uri;

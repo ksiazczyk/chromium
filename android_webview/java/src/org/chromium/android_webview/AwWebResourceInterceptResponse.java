@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebResourceInterceptResponse
+// summary: Small value object holding the optional web resource response and raised-exception flag returned for a resource fetch, exposed to native code via JNI.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.CalledByNative;

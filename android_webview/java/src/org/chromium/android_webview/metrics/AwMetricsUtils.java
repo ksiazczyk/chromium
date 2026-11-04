@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwMetricsUtils
+// summary: Provides metrics utility functions, including a Java replication of the native MD5-based histogram name hashing algorithm.
+// relations:
+//   - references /base/metrics/metrics_hashes.cc
+// ---
+
 package org.chromium.android_webview.metrics;
 
 import org.chromium.base.ApiCompatibilityUtils;

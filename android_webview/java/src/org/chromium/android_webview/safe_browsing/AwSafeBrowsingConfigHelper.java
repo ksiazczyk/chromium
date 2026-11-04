@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing configuration helper for WebView
+// summary: Helper that resolves WebView Safe Browsing enablement from the app manifest, command line, and GMS consent while recording opt-in UMA.
+// ---
+
 package org.chromium.android_webview.safe_browsing;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContents core WebView implementation
+// summary: Core Android WebView class that owns the WebContents, handling rendering, navigation, input, autofill, and JNI communication with the native browser code.
+// ---
+
 package org.chromium.android_webview;
 
 import static org.chromium.build.NullUtil.assertNonNull;

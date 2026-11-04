@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FastVariationsSeedSafeModeAction
+// summary: SafeMode action that ensures the variations seed is distributed on an app's first run, parsing a recent local seed or fetching a new one from the WebView ContentProvider.
+// ---
+
 package org.chromium.android_webview.variations;
 
 import android.content.ContentResolver;

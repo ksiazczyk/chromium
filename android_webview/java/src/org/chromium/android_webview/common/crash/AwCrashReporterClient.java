@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwCrashReporterClient WebView crash helper
+// summary: Java helper for WebView-specific crash reporting that sets process crash keys via JNI and checks whether a throwable's stack trace contains WebView code.
+// ---
+
 package org.chromium.android_webview.common.crash;
 
 import androidx.annotation.VisibleForTesting;

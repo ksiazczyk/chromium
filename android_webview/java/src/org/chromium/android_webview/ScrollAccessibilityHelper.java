@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollAccessibilityHelper
+// summary: Helper that posts recurring TYPE_VIEW_SCROLLED accessibility events for a view while scrolling is in progress.
+// ---
+
 package org.chromium.android_webview;
 
 import android.os.Handler;

@@ -1,0 +1,4 @@
+# Docerion header of IMetricsBridgeService.aidl.
+type: source
+title: IMetricsBridgeService AIDL interface
+summary: Defines the IPC interface to record UMA API calls from non-embedded WebView processes and retrieve those records in an embedded WebView.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render process gone detail for WebView
+// summary: Java class describing why the WebView render process exited, exposing whether it crashed and the renderer priority.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.android_webview.renderer_priority.RendererPriority;

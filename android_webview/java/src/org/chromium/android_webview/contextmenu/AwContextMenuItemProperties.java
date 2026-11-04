@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property keys for context menu items
+// summary: Defines the writable property keys for context menu item text, menu ID, and icon drawable.
+// ---
+
 package org.chromium.android_webview.contextmenu;
 
 import android.graphics.drawable.Drawable;

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlagOverrideHelper for applying WebView flag overrides
+// summary: Helper class that applies feature and flag overrides to the global CommandLine singleton, resolving flags from a declared flag list.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/common/Flag.java
+// ---
+
 package org.chromium.android_webview.common;
 
 import android.text.TextUtils;

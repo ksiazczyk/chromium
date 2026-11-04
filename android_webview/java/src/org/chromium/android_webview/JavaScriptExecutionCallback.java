@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript execution callback interface
+// summary: Interface receiving success or error results from JavaScript execution triggered through the JS injection reply proxy.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.android_webview.common.Lifetime;

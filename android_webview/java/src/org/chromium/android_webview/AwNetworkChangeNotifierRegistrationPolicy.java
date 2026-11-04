@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwNetworkChangeNotifierRegistrationPolicy
+// summary: Registers network change listeners only while live WebView instances exist, unregistering when the last WebView is destroyed.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.android_webview.common.Lifetime;

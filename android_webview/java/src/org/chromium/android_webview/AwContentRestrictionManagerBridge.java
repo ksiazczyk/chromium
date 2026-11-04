@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Content restriction manager JNI bridge
+// summary: JNI bridge to the ContentRestrictionManager system service that enforces content restrictions in WebView and provides pipes for navigation request bodies.
+// ---
+
 package org.chromium.android_webview;
 
 import android.net.Uri;

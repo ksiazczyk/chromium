@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwLayoutSizer
+// summary: Manages layout of the View containing AwContents, tracking content size, page scale, and measurement constraints to request layout only when needed.
+// ---
+
 package org.chromium.android_webview;
 
 import android.view.View;

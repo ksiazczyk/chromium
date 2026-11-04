@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: TrackExitReasons
+// summary: Tracks and logs the most recent process exit reasons of embedding WebView apps and records them as UMA histograms.
+// ---
+
 package org.chromium.android_webview.metrics;
 
 import android.os.Build;

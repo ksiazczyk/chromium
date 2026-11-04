@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentsLifecycleNotifier singleton
+// summary: Singleton that notifies observers when the first WebView is created, the last WebView is destroyed, and when app state changes across all profiles.
+// ---
+
 package org.chromium.android_webview;
 
 import android.os.Build;

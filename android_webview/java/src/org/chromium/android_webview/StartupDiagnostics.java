@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupDiagnostics
+// summary: Holds diagnostic data collected during WebView startup, including startup timings and stack traces of the various initialization locations.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.android_webview.StartupTasksRunner.StartupTimings;

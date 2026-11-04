@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebResponseCallback
+// summary: Single-use callback for shouldInterceptRequestAsync that ensures each intercepted web resource request is responded to exactly once.
+// ---
+
 package org.chromium.android_webview;
 
 import org.jni_zero.JNINamespace;

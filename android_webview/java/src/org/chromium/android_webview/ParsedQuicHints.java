@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parsed and validated QUIC hints
+// summary: Parses and validates QUIC hint origin strings into exact origins, wildcard suffixes, and a try-QUIC-by-default flag for AwBrowserContext.
+// relations:
+//   - references /android_webview/java/src/org/chromium/android_webview/AwBrowserContext.java
+// ---
+
 package org.chromium.android_webview;
 
 import android.net.InetAddresses;

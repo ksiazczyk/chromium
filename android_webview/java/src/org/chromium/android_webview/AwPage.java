@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPage
+// summary: Represents a browser Page exposed to embedders, providing its URL and snapshotting of the most recent page state.
+// ---
+
 package org.chromium.android_webview;
 
 import androidx.annotation.AnyThread;

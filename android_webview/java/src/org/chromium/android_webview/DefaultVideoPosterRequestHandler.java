@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultVideoPosterRequestHandler
+// summary: Intercepts requests to a special default video poster URL and serves the bitmap supplied by WebChromeClient as a PNG web resource response.
+// ---
+
 package org.chromium.android_webview;
 
 import android.graphics.Bitmap;

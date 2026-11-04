@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidMetricsLogUploader
+// summary: Passes UMA logs from native code to a Java consumer that is configured once during startup.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/metrics/AndroidMetricsLogConsumer.java
+// ---
+
 package org.chromium.android_webview.metrics;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPasswordEchoSettingController
+// summary: Syncs Android's password echo setting with WebView's password echo enabled state as an observer.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.build.annotations.NullMarked;

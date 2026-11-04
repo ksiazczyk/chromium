@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript dialog result receiver interface
+// summary: Interface letting the WebView client confirm or cancel JavaScript modal dialogs such as alert, beforeunload, and confirm.
+// ---
+
 package org.chromium.android_webview;
 
 import org.chromium.build.annotations.NullMarked;

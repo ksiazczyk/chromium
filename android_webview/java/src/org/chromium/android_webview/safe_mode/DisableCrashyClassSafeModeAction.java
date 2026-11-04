@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe mode action that disables crashy class crashes
+// summary: Test-only safe mode action that prevents WebView from crashing when crash-forcing features and switches are enabled, used to test safe mode deployment efficacy.
+// ---
+
 package org.chromium.android_webview.safe_mode;
 
 import org.chromium.android_webview.common.Lifetime;

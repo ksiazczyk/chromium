@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helper for showing and dismissing WebView context menus
+// summary: Creates and dismisses context menus for WebContents, deciding between dialog and popup display and wiring up the coordinator.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/contextmenu/AwContextMenuCoordinator.java
+// ---
+
 package org.chromium.android_webview.contextmenu;
 
 import android.view.View;

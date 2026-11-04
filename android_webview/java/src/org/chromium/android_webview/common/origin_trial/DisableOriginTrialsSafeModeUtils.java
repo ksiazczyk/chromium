@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disable origin trials Safe Mode utilities
+// summary: Utility class exposing a JNI-callable check for whether the disable-origin-trials Safe Mode action is enabled.
+// ---
+
 package org.chromium.android_webview.common.origin_trial;
 
 import org.jni_zero.CalledByNative;
