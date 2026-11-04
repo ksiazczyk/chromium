@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation Pumpkin parse tests
+// summary: End-to-end dictation tests for Pumpkin-based speech parsing that use a local tar archive mirroring the live Pumpkin DLC instead of the downloaded data.
+// ---
+
 GEN_INCLUDE(['../dictation_test_base.js']);
 
 /**

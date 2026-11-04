@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation UI bubble controller
+// summary: Manages the Dictation bubble UI states and timed hint display through chrome.accessibilityPrivate updates.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 import {LocaleInfo} from './locale_info.js';

@@ -7,6 +7,12 @@
  * it into a Macro.
  */
 
+// ---docerion
+// type: source
+// title: SimpleParseStrategy
+// summary: Parse strategy that converts spoken strings into macros via locale-aware regex matching of localized command patterns, including smart phrase macros.
+// ---
+
 import {InputController} from '/common/action_fulfillment/input_controller.js';
 import {DeletePrevSentMacro} from '/common/action_fulfillment/macros/delete_prev_sent_macro.js';
 import {InputTextViewMacro, NewLineMacro} from '/common/action_fulfillment/macros/input_text_view_macro.js';

@@ -1,0 +1,4 @@
+# Docerion header of browser_actuator_internals.html.
+type: source
+title: Browser Actuator Internals WebUI page
+summary: HTML entry page that loads the app module and hosts the browser-actuator-internals-app element.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark manager constants and enums
+// summary: Shared enums and constants for commands, menu sources, drop positions, promo types, storage keys, root IDs and maximum bookmark input length.
+// ---
+
 /**
  * Enumeration of valid drop locations relative to an element. These are
  * bit masks to allow combining multiple locations in a single value.

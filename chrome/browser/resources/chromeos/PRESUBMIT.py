@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for ChromeOS resources
+# summary: Presubmit script that runs the semantic CSS color checker on changes uploaded or committed in this directory.
+# ---
+
 
 import sys
 

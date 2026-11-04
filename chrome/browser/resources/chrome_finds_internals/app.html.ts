@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the Finds Internals app
+// summary: Template providing instructions, controls to trigger the Finds Service and dump history JSON, plus a scrolling log view.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ChromeFindsInternalsAppElement} from './app.js';

@@ -10,6 +10,12 @@
  * #include=shared-style-lit cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Bookmark item styles
+summary: CSS for bookmark list items, covering layout, selection highlight, URL display, dark mode, and a macOS-specific tweak.
+*/
+
 :host {
   --cr-icon-button-focus-outline-color: var(
       --color-bookmark-manager-item-outline);

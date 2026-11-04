@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared bookmark styles
+summary: Shared Lit CSS styles for drag indicators, folder and website icons, separators and focus behavior used across bookmark elements.
+*/
+
 hr {
   background: rgba(0, 0, 0, 0.11);
   border-width: 0;

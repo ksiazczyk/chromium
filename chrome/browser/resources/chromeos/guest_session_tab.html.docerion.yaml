@@ -1,0 +1,4 @@
+# Docerion header of guest_session_tab.html.
+type: source
+title: Guest session tab page
+summary: HTML template for the guest browsing tab with a guest tab heading, description and enterprise info notice using localized strings.

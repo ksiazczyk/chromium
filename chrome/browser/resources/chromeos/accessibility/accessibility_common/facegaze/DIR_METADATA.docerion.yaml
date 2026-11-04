@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: FaceGaze directory metadata
+summary: Points to the common metadata file so the facegaze directory inherits its ownership information.

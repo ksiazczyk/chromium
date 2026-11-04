@@ -1,0 +1,4 @@
+# Docerion header of mobile_setup_portal.html.
+type: source
+title: Mobile setup portal page
+summary: HTML page for the ChromeOS mobile setup portal that hosts a webview for the cellular payment portal and an overlay showing system status messages.

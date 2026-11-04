@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provisioning list element
+// summary: Lit element that displays a list of certificate provisioning processes and keeps the details dialog model in sync.
+// ---
+
 /**
  * @fileoverview 'certificate-provisioning-list' is an element that displays a
  * list of certificate provisioning processes.

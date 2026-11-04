@@ -10,6 +10,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Certificate provisioning list styles
+summary: Lit CSS styles defining the header box, padding, and hidden-state layout for the certificate provisioning list.
+*/
+
 .header-box {
   align-items: center;
   display: flex;

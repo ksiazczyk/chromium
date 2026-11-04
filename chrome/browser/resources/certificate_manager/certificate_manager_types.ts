@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provisioning event types
+// summary: Defines the TypeScript interface and event name for the certificate provisioning view-details action event.
+// ---
+
 import type {CertificateProvisioningProcess} from './certificate_provisioning_browser_proxy.js';
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Magnifier E2E browser tests
+// summary: End-to-end browser tests verifying that the screen and docked magnifier follow focused elements, active descendants, and ChromeVox or Select-to-Speak focus.
+// ---
+
 GEN_INCLUDE(['../../common/testing/e2e_test_base.js']);
 GEN_INCLUDE(['../../common/testing/mock_accessibility_private.js']);
 

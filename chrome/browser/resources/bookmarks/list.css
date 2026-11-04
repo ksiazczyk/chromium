@@ -9,6 +9,12 @@
  * #include=shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Bookmarks list styles
+summary: Lit CSS styles for the bookmarks list element covering card layout, scrolling and the centered empty-list message.
+*/
+
 :host {
   color: var(--cr-secondary-text-color);
   overflow-y: auto;

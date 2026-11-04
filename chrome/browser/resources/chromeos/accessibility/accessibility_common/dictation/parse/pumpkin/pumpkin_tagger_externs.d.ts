@@ -7,6 +7,12 @@
  * basis.
  */
 
+// ---docerion
+// type: source
+// title: PumpkinTagger externs declarations
+// summary: Declares TypeScript extern types for PumpkinTagger, including hypothesis results and methods for loading configs and tagging input.
+// ---
+
 declare namespace proto {
   export namespace speech {
     export namespace pumpkin {

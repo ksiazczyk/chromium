@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze gesture detector
+// summary: Maps FaceGaze facial gestures to MediaPipe gestures, including compound and excluded gestures, and detects gestures from results.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 import type {FaceLandmarkerResult} from '/third_party/mediapipe/vision.js';
 

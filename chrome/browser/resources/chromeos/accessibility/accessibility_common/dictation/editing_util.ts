@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editing utilities
+// summary: Utility class computing caret indices and deletion or selection ranges for dictation editing commands like delete and select.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 import {LocaleInfo} from './locale_info.js';

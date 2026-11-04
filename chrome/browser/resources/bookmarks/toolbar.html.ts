@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks toolbar Lit template
+// summary: Lit HTML template for the bookmarks toolbar, rendering the search toolbar, organize menu button, and selection overlay with a delete action.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {BookmarksToolbarElement} from './toolbar.js';

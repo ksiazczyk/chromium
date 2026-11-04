@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the Bookmark Manager WebUI
+summary: Defines the build_webui target listing TypeScript, CSS, HTML and Mojo inputs, TypeScript definitions and dependencies for building the bookmarks page.

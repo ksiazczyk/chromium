@@ -7,6 +7,12 @@
  * text and converting it into a macro.
  */
 
+// ---docerion
+// type: source
+// title: ParseStrategy base class
+// summary: Base class for dictation parse strategies, managing the input controller, enabled state, locale refresh, and the parse interface subclasses must implement.
+// ---
+
 import type {InputController} from '/common/action_fulfillment/input_controller.js';
 import type {Macro} from '/common/action_fulfillment/macros/macro.js';
 

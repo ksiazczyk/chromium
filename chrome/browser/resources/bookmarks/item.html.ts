@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark item Lit template
+// summary: Lit HTML template for a bookmark row, showing its title and URL plus account upload and more-actions menu buttons.
+// ---
+
 import './icons.html.js';
 
 import {html} from '//resources/lit/v3_0/lit.rollup.js';

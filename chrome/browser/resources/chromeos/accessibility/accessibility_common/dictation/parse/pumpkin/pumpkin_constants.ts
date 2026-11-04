@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pumpkin constants for dictation parsing
+// summary: Defines constants, message interfaces, and BCP-47 locale mappings used by the Pumpkin dictation tagger in ChromeOS accessibility.
+// ---
+
 /**
  * @fileoverview Defines constants used for Pumpkin.
  */

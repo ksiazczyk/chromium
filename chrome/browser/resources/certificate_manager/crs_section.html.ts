@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Root Store section template
+// summary: Lit HTML template for the CRS section showing the Chrome Root Store certificate list with description and learn-more link.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {CertificateSource} from './certificate_manager.mojom-webui.js';

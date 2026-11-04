@@ -57,6 +57,12 @@
  *   through the normal event handling pipeline.
  */
 
+// ---docerion
+// type: source
+// title: Braille IME input method implementation
+// summary: Implements the braille hardware keyboard input method, which connects to ChromeVox and exchanges messages for braille input, text replacement, and composition handling.
+// ---
+
 type InputContext = chrome.input.ime.InputContext;
 type KeyboardEvent = chrome.input.ime.KeyboardEvent;
 import MenuItemStyle = chrome.input.ime.MenuItemStyle;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze gesture timer
+// summary: Tracks gesture start times, durations, and repeat delays used to validate facial gesture recognition.
+// ---
+
 import type {FacialGesture} from './facial_gestures.js';
 
 /** Minimum time duration for a gesture to be recognized. */

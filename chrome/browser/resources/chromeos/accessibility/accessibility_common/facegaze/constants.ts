@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze constants and preference names
+// summary: Defines the FaceGaze settings path and the enum of ChromeOS preference names used by the feature.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 export const SettingsPath = 'manageAccessibility/faceGaze';

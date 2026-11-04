@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus handler
+// summary: Tracks the currently focused editable node through automation focus events while Dictation is active.
+// ---
+
 type AutomationNode = chrome.automation.AutomationNode;
 type AutomationEvent = chrome.automation.AutomationEvent;
 import EventType = chrome.automation.EventType;

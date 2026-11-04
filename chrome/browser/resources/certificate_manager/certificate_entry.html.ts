@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate entry Lit template
+// summary: Lit HTML template for a certificate row showing the name, a read-only SHA-256 hash with copy button, and delete and view actions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CertificateEntryElement} from './certificate_entry.js';

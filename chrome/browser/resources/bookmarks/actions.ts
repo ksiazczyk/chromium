@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action creators for bookmark state changes
+// summary: Defines typed functions that produce action objects for creating, editing, moving, reordering, removing and selecting bookmarks and folders.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {Action} from 'chrome://resources/js/store.js';
 

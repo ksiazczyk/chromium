@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offscreen Pumpkin tagger worker
+// summary: Relays messages between Dictation and a sandboxed Pumpkin tagger iframe, deserializing pumpkin data before posting it to the sandbox.
+// ---
+
 import {ArrayBufferUtil} from '/common/array_buffer_util.js';
 
 import {Messenger} from '../messenger.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks list element
+// summary: Implements the bookmarks-list element that manages displayed bookmark ids, selection, search term, focus and context menu behavior.
+// ---
+
 import 'chrome://resources/cr_elements/cr_lazy_list/cr_lazy_list.js';
 import '/strings.m.js';
 import './item.js';

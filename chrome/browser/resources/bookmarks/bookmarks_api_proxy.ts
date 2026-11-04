@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks Mojo API proxy
+// summary: Proxy around the BookmarksService Mojo API providing tree access, node create, update and delete calls, and forwarding bookmark change events to the UI store.
+// ---
+
 import type {ChromeEvent} from '/tools/typescript/definitions/chrome_event.js';
 import {assert, assertNotReachedCase} from 'chrome://resources/js/assert.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';

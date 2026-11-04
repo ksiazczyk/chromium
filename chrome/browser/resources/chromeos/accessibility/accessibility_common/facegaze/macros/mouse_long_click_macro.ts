@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse long click toggle macro for FaceGaze
+// summary: Implements a FaceGaze macro that toggles the mouse long click action through the MouseController, checking that a mouse location exists before running.
+// ---
+
 import type {CheckContextResult, RunMacroResult} from '/common/action_fulfillment/macros/macro.js';
 import {Macro, MacroError, ToggleDirection} from '/common/action_fulfillment/macros/macro.js';
 import {MacroName} from '/common/action_fulfillment/macros/macro_names.js';

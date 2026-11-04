@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate info dialog Lit template
+// summary: Lit HTML template for a dialog showing a title and message with a single OK button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CertificateInfoDialogElement} from './certificate_info_dialog.js';

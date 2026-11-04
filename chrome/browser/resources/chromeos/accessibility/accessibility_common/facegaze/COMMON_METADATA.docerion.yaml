@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: FaceGaze common directory metadata
+summary: Defines the owning team email and Buganizer component for the facegaze directory, shared via mixins.

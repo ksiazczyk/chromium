@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provisioning entry element
+// summary: Lit element that displays a single certificate provisioning process with a details action menu.
+// ---
+
 /**
  * @fileoverview 'certificate-provisioning-entry' is an element that displays
  * one certificate provisioning processes.

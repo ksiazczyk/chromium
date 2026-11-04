@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze mouse controller
+// summary: Controls mouse cursor movement, smoothing, and clicks based on face landmark positions and preferences.
+// ---
+
 import {AsyncUtil} from '/common/async_util.js';
 import {EventGenerator} from '/common/event_generator.js';
 import {EventHandler} from '/common/event_handler.js';

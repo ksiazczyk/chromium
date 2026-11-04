@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for Browser Actuator Internals
+summary: Delegates code ownership to the OWNERS file of components/browser_actuator.

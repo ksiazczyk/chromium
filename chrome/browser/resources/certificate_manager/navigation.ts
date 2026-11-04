@@ -6,6 +6,12 @@
  * @fileoverview Page navigation utility code.
  */
 
+// ---docerion
+// type: source
+// title: Page navigation utility for the certificate manager
+// summary: Defines the certificate manager pages, routes, and a router with observers for in-page navigation and history handling.
+// ---
+
 import {assert, assertNotReached, assertNotReachedCase} from '//resources/js/assert.js';
 import type {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 

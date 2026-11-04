@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation LocaleInfo tests
+// summary: Tests LocaleInfo behavior for smart capitalization and spacing, RTL locales, UI language mapping, and command support across locales.
+// ---
+
 GEN_INCLUDE(['dictation_test_base.js']);
 
 DictationLocaleInfoTest = class extends DictationE2ETestBase {};

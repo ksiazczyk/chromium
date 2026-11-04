@@ -7,6 +7,12 @@
  * section of the Certificate Management V2 UI.
  */
 
+// ---docerion
+// type: source
+// title: CRS section component of the Certificate Management V2 UI
+// summary: Lit element that renders the Chrome Root Store section of the certificate manager, including its certificate list and learn-more link.
+// ---
+
 import './certificate_list.js';
 
 import {getCss as getCrPageHostStyleCss} from '//resources/cr_elements/cr_page_host_style_lit.css.js';

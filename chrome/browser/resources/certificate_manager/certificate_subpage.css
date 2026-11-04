@@ -10,6 +10,12 @@
  * #include=cr-icons-lit cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Certificate subpage styles
+summary: Lit CSS styles for the certificate subpage header grid, back button margins, and certificate list padding.
+*/
+
 #header {
   align-items: center;
   display: grid;

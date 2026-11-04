@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse scroll mode toggle macro for FaceGaze
+// summary: Implements a FaceGaze macro that toggles scroll mode on or off via the MouseController and reports the current toggle direction.
+// ---
+
 import type {RunMacroResult} from '/common/action_fulfillment/macros/macro.js';
 import {Macro, ToggleDirection} from '/common/action_fulfillment/macros/macro.js';
 import {MacroName} from '/common/action_fulfillment/macros/macro_names.js';

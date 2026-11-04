@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FaceGaze test support for C++ tests
+// summary: JavaScript helpers that let C++ tests control FaceGaze internals such as timers, cursor location, and forced landmark results.
+// ---
+
 /** A class that provides test support for C++ tests. */
 class FaceGazeTestSupport {
   constructor() {

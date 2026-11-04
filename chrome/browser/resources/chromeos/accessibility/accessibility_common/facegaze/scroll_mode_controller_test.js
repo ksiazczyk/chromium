@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FaceGaze scroll mode controller tests
+// summary: Browser tests covering scroll mode activation, screen bounds, and edge-triggered scrolling directions.
+// ---
+
 GEN_INCLUDE(['facegaze_test_base.js']);
 
 /** FazeGaze ScrollModeController tests. */

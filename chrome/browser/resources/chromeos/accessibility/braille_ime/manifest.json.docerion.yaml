@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Braille IME extension manifest
+summary: Declares the Braille IME extension's service worker, input and storage permissions, and the Braille Keyboard input component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxedPumpkinTagger
+// summary: Web worker class that unpacks and loads the Pumpkin semantic parser and tags speech text, isolating parser execution for security.
+// ---
+
 import * as PumpkinConstants from './pumpkin/pumpkin_constants.js';
 
 /**

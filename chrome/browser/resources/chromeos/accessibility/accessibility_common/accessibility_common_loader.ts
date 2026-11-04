@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityCommon feature loader
+// summary: Loads and manages the autoclick, magnifier, dictation, and FaceGaze features based on accessibility preference changes.
+// ---
+
 import '/common/testing/test_import_manager.js';
 
 import {Flags} from '/common/flags.js';

@@ -5,6 +5,12 @@
 // Required for running accessibility/common tests. Without this,
 // necessary exports are not available in the test enviropment.
 
+// ---docerion
+// type: source
+// title: Autoclick accessibility feature implementation
+// summary: Implements the Autoclick class that manages focus rings and detects scrollable areas through the Chrome accessibility tree.
+// ---
+
 // Required for AccessibilityExtensionArrayUtilTest.
 import '/common/array_util.js';
 // Required for AccessibilityExtensionAutomationPredicateTest.

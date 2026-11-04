@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for bookmarks page
+// summary: Proxy handling chrome.send communication with the browser for incognito availability, edit permissions, account storage upload, promo card data and metrics recording.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 import type {BookmarkPromoType, IncognitoAvailability} from './constants.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility common extension browser tests
+// summary: End-to-end browser tests verifying that accessibility features load and unload correctly when their preferences are toggled.
+// ---
+
 GEN_INCLUDE(['../common/testing/common_e2e_test_base.js']);
 
 /**

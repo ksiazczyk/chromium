@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Braille IME
+summary: Defines the TypeScript compilation, manifest copy, output copying, and extension browser test targets for the Braille IME.

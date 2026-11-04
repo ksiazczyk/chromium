@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FaceGaze metrics utilities tests
+// summary: Browser tests verifying that FaceLandmarker latency histograms are recorded after 100 samples.
+// ---
+
 GEN_INCLUDE(['facegaze_test_base.js']);
 
 FaceGazeMetricsUtilsTest = class extends FaceGazeTestBase {

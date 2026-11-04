@@ -10,6 +10,12 @@
  * ./certificate_manager.ts.
  */
 
+// ---docerion
+// type: source
+// title: Certificate entry element
+// summary: Defines the certificate-entry Lit element that displays a certificate summary and handles viewing, deleting, and copying its SHA-256 hash.
+// ---
+
 import '/strings.m.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '//resources/cr_elements/cr_input/cr_input.js';

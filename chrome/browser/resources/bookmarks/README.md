@@ -1,3 +1,9 @@
+---
+type: readme
+title: Bookmark Manager
+summary: Overview of the bookmark manager WebUI covering major features, the Redux-inspired one-way data-flow model, context menus, keyboard shortcuts and drag and drop.
+---
+
 # Bookmark Manager
 
 The bookmark manager (BMM) is a WebUI surface with a large amount of

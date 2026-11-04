@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputTextStrategy
+// summary: Parse strategy that is always enabled and returns an InputTextViewMacro so unrecognized speech is input as plain text.
+// ---
+
 import type {InputController} from '/common/action_fulfillment/input_controller.js';
 import {InputTextViewMacro} from '/common/action_fulfillment/macros/input_text_view_macro.js';
 import type {Macro} from '/common/action_fulfillment/macros/macro.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks app main element
+// summary: Main Lit element of the Chrome bookmarks manager, assembling the toolbar, folder tree, list, splitter, router, drag-and-drop handling and store client into the app shell.
+// ---
+
 import 'chrome://resources/cr_components/managed_footnote/managed_footnote.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_toast/cr_toast_manager.js';

@@ -9,6 +9,12 @@
  * calls.
  */
 
+// ---docerion
+// type: source
+// title: Bookmarks state reducers
+// summary: Pure reducer functions that produce new bookmarks page state for selection, search, folder, preference and node change actions.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {Action} from 'chrome://resources/js/store.js';
 

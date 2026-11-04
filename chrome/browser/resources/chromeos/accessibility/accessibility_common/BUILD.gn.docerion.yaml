@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for accessibility_common
+summary: Defines GN build targets, TypeScript modules, type definitions, and copied resources for the ChromeOS accessibility common extension.

@@ -7,6 +7,12 @@
  * to interact with the browser. For the V2 Certificate Manager only.
  */
 
+// ---docerion
+// type: source
+// title: Certificates browser proxy
+// summary: Singleton browser proxy that connects the V2 certificate manager WebUI to the browser through Mojo handlers.
+// ---
+
 import type {CertificateManagerPageHandlerInterface} from './certificate_manager.mojom-webui.js';
 import {CertificateManagerPageCallbackRouter, CertificateManagerPageHandlerFactory, CertificateManagerPageHandlerRemote} from './certificate_manager.mojom-webui.js';
 

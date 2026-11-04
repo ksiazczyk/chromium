@@ -1,0 +1,4 @@
+# Docerion header of browser_switch.html.
+type: source
+title: Browser switch page shell
+summary: HTML page that hosts the browser-switch-app element and loads the Material Design stylesheets and app module.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze webcam face landmarker
+// summary: Connects to the webcam and periodically detects face landmarks, reporting results and latency.
+// ---
+
 import {ArrayBufferUtil} from '/common/array_buffer_util.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 import type {FaceLandmarkerResult} from '/third_party/mediapipe/vision.js';

@@ -8,6 +8,12 @@
  * during client certificate import.
  */
 
+// ---docerion
+// type: source
+// title: Certificate password dialog element
+// summary: Lit element that shows a dialog prompting the user for a password to decrypt a file during client certificate import.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_dialog/cr_dialog.js';
 import '//resources/cr_elements/cr_input/cr_input.js';

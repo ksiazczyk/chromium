@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offscreen processors manager
+// summary: Singleton that initializes the offscreen audio, pumpkin worker, and webcam processors and connects them to the messenger.
+// ---
+
 import {OffscreenAudio} from './dictation/offscreen_audio.js';
 import {OffscreenPumpkinWorker} from './dictation/offscreen_pumpkin_worker.js';
 import {OffscreenWebCam} from './facegaze/offscreen_web_cam.js';

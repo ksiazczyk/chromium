@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provisioning entry template
+// summary: Lit HTML template for a certificate provisioning process row with a menu offering the details action.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CertificateProvisioningEntryElement} from './certificate_provisioning_entry.js';

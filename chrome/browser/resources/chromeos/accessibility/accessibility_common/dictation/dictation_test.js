@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation end-to-end tests
+// summary: End-to-end browser tests for Dictation covering toggling, locale updates, error handling, and committing speech results.
+// ---
+
 GEN_INCLUDE(['dictation_test_base.js']);
 
 /** Dictation feature using accessibility common extension browser tests. */

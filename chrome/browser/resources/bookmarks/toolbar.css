@@ -8,6 +8,12 @@
  * #include=shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Bookmarks toolbar styles
+summary: Styles the bookmarks toolbar, positioning the cr-toolbar and icon buttons and adjusting layout for narrow viewports and light color scheme.
+*/
+
 :host {
   position: relative;
 }

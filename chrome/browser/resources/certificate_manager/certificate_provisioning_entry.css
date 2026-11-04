@@ -10,6 +10,12 @@
  * #include=certificate-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Certificate provisioning entry styles
+summary: CSS styles for certificate provisioning list entries, laying out the certificate box row.
+*/
+
 .cert-box {
   align-items: center;
   border-top: var(--cr-separator-line);

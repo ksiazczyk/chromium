@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS resources BUILD.gn build rules
+summary: GN build configuration that groups ChromeOS WebUI resource targets and defines grit rules for app icon and multidevice setup resources.

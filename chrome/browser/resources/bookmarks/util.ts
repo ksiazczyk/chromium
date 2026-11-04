@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility functions for the bookmarks page
+// summary: Provides utility functions for the bookmarks page, including displayed list computation, default folder selection, and conversion between Mojo and UI node formats.
+// ---
+
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit store client mixin for bookmarks elements
+// summary: Defines a Lit mixin that connects elements to the bookmarks store, letting them dispatch actions and receive state change notifications.
+// ---
+
 import type {Action, DeferredAction, StoreObserver} from '//resources/js/store.js';
 import type {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks API event listener
+// summary: Translates chrome.bookmarks API events into store actions, batching UI updates and highlighting items changed by user actions.
+// ---
+
 import {addWebUiListener, removeWebUiListener} from 'chrome://resources/js/cr.js';
 import type {Action} from 'chrome://resources/js/store.js';
 

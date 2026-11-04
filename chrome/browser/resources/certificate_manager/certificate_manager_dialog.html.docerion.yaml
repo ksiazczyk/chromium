@@ -1,0 +1,4 @@
+# Docerion header of certificate_manager_dialog.html.
+type: source
+title: Certificate manager dialog HTML host page
+summary: HTML entry page for the certificate manager WebUI that sets the localized title, loads Material Design styles and the module script, and hosts the certificate-manager element.

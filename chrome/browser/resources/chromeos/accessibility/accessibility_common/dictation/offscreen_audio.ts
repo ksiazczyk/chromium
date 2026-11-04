@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offscreen dictation audio playback
+// summary: Plays Dictation start, end, and cancel earcon sounds from the offscreen document in response to messenger commands.
+// ---
+
 import {Messenger} from '../messenger.js';
 import {OffscreenCommandType} from '../offscreen_command_type.js';
 

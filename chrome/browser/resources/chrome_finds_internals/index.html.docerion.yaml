@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: HTML entry page for Chrome Finds Internals
+summary: Entry HTML page that loads Material Design styles, the app element, and the app module script for the WebUI.

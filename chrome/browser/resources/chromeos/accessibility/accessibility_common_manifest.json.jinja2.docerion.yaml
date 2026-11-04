@@ -1,0 +1,4 @@
+# Docerion header of accessibility_common_manifest.json.jinja2.
+type: config
+title: Accessibility Common extension manifest template
+summary: Jinja2 template that generates the Accessibility Common extension manifest, declaring permissions, a service worker, and the Dictation input component.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Magnifier directory metadata
+summary: Directory metadata file that reuses the shared COMMON_METADATA settings via a mixin for the magnifier folder.

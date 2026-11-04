@@ -13,6 +13,12 @@
  * #include=cr-icons-lit cr-shared-style-lit cr-hidden-style-lit md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the certificate modifications panel
+summary: Lit CSS styles for the modifications panel, covering constraint rows, error text and hardcoded light-mode input and select styling.
+*/
+
 .constraint {
   padding-bottom: 7px;
 }

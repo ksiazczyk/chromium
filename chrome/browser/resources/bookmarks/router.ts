@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks URL router
+// summary: Binds the page URL query parameters to the search term and selected folder, mapping legacy numeric bookmark ids to UUID-based store ids.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {CrRouter} from 'chrome://resources/js/cr_router.js';
 import {EventTracker} from 'chrome://resources/js/event_tracker.js';

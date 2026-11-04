@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FaceGaze browser tests
+// summary: Extensive browser tests covering facial gesture mapping, gesture detection settings events, and mouse control behavior.
+// ---
+
 GEN_INCLUDE(['facegaze_test_base.js']);
 
 FaceGazeTest = class extends FaceGazeTestBase {

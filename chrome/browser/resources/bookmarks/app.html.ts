@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App element Lit template
+// summary: Renders the HTML template for the bookmarks app with toolbar, sidebar folder tree, splitter, bookmark list, command manager and undo toast.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {BookmarksAppElement} from './app.js';

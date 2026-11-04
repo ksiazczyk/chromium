@@ -1,0 +1,4 @@
+# Docerion header of switch_access_manifest.json.jinja2.
+type: config
+title: Switch Access extension manifest template
+summary: Jinja2 template that generates the Switch Access extension manifest with permissions and Google Docs content scripts.

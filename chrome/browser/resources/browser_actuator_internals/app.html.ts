@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the internals app
+// summary: Renders the page header, session cards with downstream and upstream message stats, and expandable event tables for the internals UI.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {TRUNCATED_LABEL, TRUNCATED_NOTE} from './app.js';

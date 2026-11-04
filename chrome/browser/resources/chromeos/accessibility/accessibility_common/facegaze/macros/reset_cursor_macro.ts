@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor reset macro for FaceGaze
+// summary: Implements a FaceGaze macro that resets the cursor position by delegating to the MouseController's resetLocation method.
+// ---
+
 import type {RunMacroResult} from '/common/action_fulfillment/macros/macro.js';
 import {Macro} from '/common/action_fulfillment/macros/macro.js';
 import {MacroName} from '/common/action_fulfillment/macros/macro_names.js';

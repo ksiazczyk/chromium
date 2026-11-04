@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation focus handler tests
+// summary: Browser tests verifying that Dictation's FocusHandler activates and deactivates with Dictation toggles, tracks focused editable nodes, and resets its deactivation timeout.
+// ---
+
 GEN_INCLUDE(['dictation_test_base.js']);
 
 DictationFocusHandlerTest = class extends DictationE2ETestBase {
