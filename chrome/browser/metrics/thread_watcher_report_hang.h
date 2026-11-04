@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread Watcher Shutdown Hang Reporting Header
+// summary: Declares the ShutdownHang function that lets thread watcher callstacks indicate why browser shutdown is taking too long on non-Android platforms.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_THREAD_WATCHER_REPORT_HANG_H_
 #define CHROME_BROWSER_METRICS_THREAD_WATCHER_REPORT_HANG_H_
 

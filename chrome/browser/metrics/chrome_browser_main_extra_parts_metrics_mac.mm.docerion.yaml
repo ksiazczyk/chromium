@@ -1,0 +1,4 @@
+# Docerion header of chrome_browser_main_extra_parts_metrics_mac.mm.
+type: source
+title: Mac metrics extra parts AppKit source
+summary: macOS-specific Objective-C++ part defining the ScreenSpacesConfiguration enum values used for metrics reporting.

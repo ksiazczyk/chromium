@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMetricsServiceAccessor implementation
+// summary: Implements controlled access to metrics service helpers, including metrics and crash reporting consent checks and synthetic field trial registration.
+// ---
+
 #include "chrome/browser/metrics/chrome_metrics_service_accessor.h"
 
 #include <string_view>

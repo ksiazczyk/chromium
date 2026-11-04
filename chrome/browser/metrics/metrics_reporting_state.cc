@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics reporting state control
+// summary: Implements changing the metrics reporting state, updating preferences, Google Update settings and metrics service upload permissions.
+// ---
+
 #include "chrome/browser/metrics/metrics_reporting_state.h"
 
 #include "base/check.h"

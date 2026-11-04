@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First web contents profiler header
+// summary: Declares BeginFirstWebContentsProfiling, which measures startup performance of the first active web contents.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_FIRST_WEB_CONTENTS_PROFILER_H_
 #define CHROME_BROWSER_METRICS_FIRST_WEB_CONTENTS_PROFILER_H_
 

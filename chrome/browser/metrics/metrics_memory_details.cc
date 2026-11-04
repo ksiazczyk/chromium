@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics memory details implementation
+// summary: Collects process memory details and updates UMA histograms for memory usage, renderer process counts and site isolation metrics.
+// ---
+
 #include "chrome/browser/metrics/metrics_memory_details.h"
 
 #include <stddef.h>

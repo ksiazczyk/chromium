@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop platform features metrics provider implementation
+// summary: Records desktop platform metrics such as dark mode status, overlay scrollbars, reading list counts, and window and omnibox widths during session data collection.
+// ---
+
 #include "chrome/browser/metrics/desktop_platform_features_metrics_provider.h"
 
 #include <vector>

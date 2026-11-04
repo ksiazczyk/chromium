@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundUploadTask class declaration
+// summary: Declares the BackgroundUploadTask background task class that uploads staged metrics logs on Android, including static helpers for overriding reporting services and observing task completion in tests.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_ANDROID_BACKGROUND_UPLOAD_TASK_H_
 #define CHROME_BROWSER_METRICS_ANDROID_BACKGROUND_UPLOAD_TASK_H_
 

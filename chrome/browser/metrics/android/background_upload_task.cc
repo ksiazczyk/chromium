@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background upload task implementation for Android metrics
+// summary: Implements the Android background task that starts uploads of staged metrics logs (UMA, UKM, DWA, private and structured metrics) through the matching reporting service, with test overrides.
+// ---
+
 #include "chrome/browser/metrics/android/background_upload_task.h"
 
 #include "base/containers/flat_map.h"

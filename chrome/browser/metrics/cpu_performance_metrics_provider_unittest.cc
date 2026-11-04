@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CPU performance metrics provider unit tests
+// summary: Unit tests verifying that CpuPerformanceMetricsProvider logs CPU performance tier overrides for user and policy settings to the correct histograms.
+// ---
+
 #include "chrome/browser/metrics/cpu_performance_metrics_provider.h"
 
 #include <memory>

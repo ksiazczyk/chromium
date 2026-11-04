@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user metrics provider implementation
+// summary: Implements the ChromeOS metrics provider that logs the family user log segment and secondary account count for UMA.
+// ---
+
 #include "chrome/browser/metrics/family_user_metrics_provider.h"
 
 #include "base/check.h"

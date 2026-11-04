@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS task info metrics provider declaration
+// summary: Declares TaskInfoMetricsProviderMac, which queries macOS process task info for performance counters and records sampled metrics for Chrome processes.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_TASK_INFO_METRICS_PROVIDER_MAC_H_
 #define CHROME_BROWSER_METRICS_TASK_INFO_METRICS_PROVIDER_MAC_H_
 

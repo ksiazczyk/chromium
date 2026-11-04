@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CriticalUserJourneyService interactive UI tests
+// summary: Interactive browser tests that verify journey step tracking, HaTS survey launching, and result metrics against real Chrome UI elements.
+// ---
+
 #include "chrome/browser/metrics/critical_user_journeys/critical_user_journey_service.h"
 
 #include <memory>

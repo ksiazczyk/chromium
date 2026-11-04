@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalUserJourney implementation
+// summary: Implements the Branch helper, HaTS parameters, and the CriticalUserJourney Builder that assembles journey steps, branches, and completion behavior.
+// ---
+
 #include "chrome/browser/metrics/critical_user_journeys/critical_user_journey.h"
 
 #include <algorithm>

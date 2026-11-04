@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CriticalUserJourneySession unit tests
+// summary: Unit tests for CriticalUserJourneySession covering completion, abort, timeouts, exit branches, and result histogram logging.
+// ---
+
 #include "chrome/browser/metrics/critical_user_journeys/critical_user_journey_session.h"
 
 #include <memory>

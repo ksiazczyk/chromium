@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android incognito observer implementation
+// summary: Implements IncognitoObserver on Android by watching TabModelList additions and removals to run the incognito state update closure.
+// ---
+
 #include "base/functional/callback.h"
 #include "chrome/browser/metrics/incognito_observer.h"
 #include "chrome/browser/ui/android/tab_model/tab_model_list.h"

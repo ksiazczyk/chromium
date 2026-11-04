@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Random selector implementation
+// summary: Implements RandomSelector, which picks a string value according to assigned probability weights.
+// ---
+
 #include "chrome/browser/metrics/perf/random_selector.h"
 
 #include <ostream>

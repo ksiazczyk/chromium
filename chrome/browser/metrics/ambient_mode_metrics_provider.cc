@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient mode metrics provider implementation
+// summary: Records the Ash.AmbientMode.PhotoSource histogram for the active user's session.
+// ---
+
 #include "chrome/browser/metrics/ambient_mode_metrics_provider.h"
 
 #include "ash/public/cpp/ambient/ambient_client.h"

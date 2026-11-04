@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU performance metrics provider declaration
+// summary: Declares the CPU performance metrics provider and the persisted enum pairing nominal with override CPU performance tiers.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CPU_PERFORMANCE_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_CPU_PERFORMANCE_METRICS_PROVIDER_H_
 

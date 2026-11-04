@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the CUJ directory
+summary: Lists the email addresses of the owners responsible for reviewing changes in this directory.

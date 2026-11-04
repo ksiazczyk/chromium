@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM Metrics Provider Implementation for Windows
+// summary: Implements TPMMetricsProvider, which fetches the installed TPM identifier via the UtilWin service and adds it to the UMA system profile proto.
+// ---
+
 #include "chrome/browser/metrics/tpm_metrics_provider_win.h"
 
 #include "base/functional/bind.h"

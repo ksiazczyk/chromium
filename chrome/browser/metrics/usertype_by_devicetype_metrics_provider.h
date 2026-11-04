@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserTypeByDeviceTypeMetricsProvider class declaration
+// summary: Declares the metrics provider class, its UserSegment enum values that must stay in sync with the policy proto and histograms.xml, and helpers for constructing UMA values.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_USERTYPE_BY_DEVICETYPE_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_USERTYPE_BY_DEVICETYPE_METRICS_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrOS pre-choice metrics manager implementation
+// summary: Implements the ChromeOS OOBE pre-choice metrics manager that force-enables metrics upload before the primary user makes a consent choice and writes a completion marker file.
+// ---
+
 #include "chrome/browser/metrics/cros_pre_choice_metrics_manager.h"
 
 #include <optional>

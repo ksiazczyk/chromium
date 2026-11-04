@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM Background Recorder Browser Test
+// summary: Browser test checking that UkmBackgroundRecorderService returns a history-based UKM source ID for visited origins and none for unvisited ones.
+// ---
+
 #include <optional>
 
 #include "base/memory/raw_ptr.h"

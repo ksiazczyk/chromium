@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power metrics unit tests
+// summary: Unit tests for power metric helpers, verifying aggregated process metric histograms and discharge rate calculations in mWh and mAh units.
+// ---
+
 #include "chrome/browser/metrics/power/power_metrics.h"
 
 #include "base/strings/strcat.h"

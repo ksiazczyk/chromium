@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile provider header for ChromeOS
+// summary: Declares ProfileProvider, which forwards system triggers such as resume, login, and jank to registered metric collectors.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_PERF_PROFILE_PROVIDER_CHROMEOS_H_
 #define CHROME_BROWSER_METRICS_PERF_PROFILE_PROVIDER_CHROMEOS_H_
 

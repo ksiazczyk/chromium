@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS system profile provider unit tests
+// summary: Unit tests covering hardware class, linked Android phone, multi-profile user count and demo mode metrics of ChromeOSSystemProfileProvider.
+// ---
+
 #include "chrome/browser/metrics/chromeos_system_profile_provider.h"
 
 #include <stdint.h>

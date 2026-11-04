@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the metrics directory
+summary: Specifies allowed includes and per-file exceptions for code in chrome/browser/metrics.

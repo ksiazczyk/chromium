@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics provider implementation
+// summary: Flushes page load metrics for all Android tab model web contents when the app enters the background.
+// ---
+
 #include "chrome/browser/metrics/page_load_metrics_provider.h"
 
 #include "chrome/browser/ui/android/tab_model/tab_model.h"

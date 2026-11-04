@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system memory list metrics provider
+// summary: Samples Windows kernel system memory partition lists every 100 ms and records UMA histograms about exhausted memory intervals.
+// ---
+
 #include "chrome/browser/metrics/system_memory_list_metrics_provider_win.h"
 
 #include <windows.h>

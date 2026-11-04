@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Key Credential Manager support reporter
+// summary: Checks Windows Key Credential Manager availability via WinRT on a background thread and reports the outcome as a WebAuthn histogram.
+// ---
+
 #include "chrome/browser/metrics/key_credential_manager_support_reporter_win.h"
 
 #include <windows.foundation.h>

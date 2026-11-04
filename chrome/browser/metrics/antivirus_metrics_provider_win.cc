@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows antivirus metrics provider implementation
+// summary: Fetches installed antivirus products via a Mojo utility service and adds them to the system profile.
+// ---
+
 #include "chrome/browser/metrics/antivirus_metrics_provider_win.h"
 
 #include "base/check.h"

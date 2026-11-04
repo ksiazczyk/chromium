@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrOS pre-choice metrics manager browser tests
+// summary: Browser tests verifying that the CrOS pre-choice metrics manager enables and disables metrics reporting during OOBE and writes the completion marker file.
+// ---
+
 #include "chrome/browser/metrics/cros_pre_choice_metrics_manager.h"
 
 #include "ash/constants/ash_features.h"

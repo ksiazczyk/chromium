@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudibleContentsTracker browser tests
+// summary: Browser test verifying AudibleContentsTracker audio start and end notifications using an autoplaying audio page.
+// ---
+
 #include "chrome/browser/metrics/desktop_session_duration/audible_contents_tracker.h"
 
 #include <memory>

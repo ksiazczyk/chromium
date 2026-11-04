@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: K12 age classification metrics provider implementation
+// summary: Computes a K12 user age classification segment from cloud policy on primary session start and reports it as a ChromeOS histogram.
+// ---
+
 #include "chrome/browser/metrics/k12_age_classification_metrics_provider.h"
 
 #include "base/check.h"

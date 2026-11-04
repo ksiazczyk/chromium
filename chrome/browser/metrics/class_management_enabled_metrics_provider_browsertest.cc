@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Class management enabled metrics provider browser tests
+// summary: Parameterized browser tests checking the ChromeOS.ClassManagementEnabled histogram for disabled, student and teacher policy values.
+// ---
+
 #include "chrome/browser/metrics/class_management_enabled_metrics_provider.h"
 
 #include <optional>

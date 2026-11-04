@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloned install client ID reset browser test
+// summary: Browser test verifying that the metrics client ID is reset and the reset flag cleared when a cloned install is detected.
+// ---
+
 #include "base/path_service.h"
 #include "base/test/task_environment.h"
 #include "base/threading/thread_restrictions.h"

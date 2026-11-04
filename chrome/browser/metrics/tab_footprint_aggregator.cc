@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab footprint aggregator implementation
+// summary: Aggregates per-process private memory footprints for main and sub frames and records Memory_TabFootprint UKM events for tab memory analysis.
+// ---
+
 #include "chrome/browser/metrics/tab_footprint_aggregator.h"
 
 #include <algorithm>

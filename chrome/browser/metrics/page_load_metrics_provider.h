@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics provider header
+// summary: Declares a MetricsProvider that interfaces with page_load_metrics and flushes metrics on Android app background events.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_PAGE_LOAD_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_PAGE_LOAD_METRICS_PROVIDER_H_
 

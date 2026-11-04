@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS per-user metrics state manager implementation
+// summary: Implements per-user UMA consent handling on ChromeOS, persisting consent to daemon-store and managing user metrics IDs and prefs.
+// ---
+
 #include "chrome/browser/metrics/per_user_state_manager_chromeos.h"
 
 #include "ash/constants/ash_login_pref_names.h"

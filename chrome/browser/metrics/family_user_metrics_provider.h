@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user metrics provider header
+// summary: Declares the ChromeOS metrics provider that categorizes the current user into a family user log segment for UMA dashboard filtering.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_FAMILY_USER_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_FAMILY_USER_METRICS_PROVIDER_H_
 

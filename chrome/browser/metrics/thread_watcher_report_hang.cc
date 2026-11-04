@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread hang reporting for thread watcher
+// summary: Provides functions that report unresponsive thread hangs by dumping without crashing, using unique callstack names to identify the hung thread.
+// ---
+
 #include "chrome/browser/metrics/thread_watcher_report_hang.h"
 
 #include "base/debug/alias.h"

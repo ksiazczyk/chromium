@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update Engine Metrics Provider Declaration
+// summary: Declares UpdateEngineMetricsProvider, which reports current session data about the ChromeOS consumer auto update toggle.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_UPDATE_ENGINE_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_UPDATE_ENGINE_METRICS_PROVIDER_H_
 

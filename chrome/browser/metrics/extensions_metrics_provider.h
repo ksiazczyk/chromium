@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions metrics provider header
+// summary: Declares the metrics provider that reports hashed extension install information with UMA reports.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_EXTENSIONS_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_EXTENSIONS_METRICS_PROVIDER_H_
 

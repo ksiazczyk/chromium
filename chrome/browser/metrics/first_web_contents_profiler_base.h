@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First web contents profiler base class
+// summary: Defines the StartupProfilingFinishReason enum and the abstract base class for profilers measuring first web contents startup metrics.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_FIRST_WEB_CONTENTS_PROFILER_BASE_H_
 #define CHROME_BROWSER_METRICS_FIRST_WEB_CONTENTS_PROFILER_BASE_H_
 

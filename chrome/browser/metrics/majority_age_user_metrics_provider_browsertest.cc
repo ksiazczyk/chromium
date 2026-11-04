@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Majority age user metrics provider browser tests
+// summary: Browser tests verifying user demographics reporting of majority age based on noised birth year and gender synced from the server.
+// ---
+
 #include <memory>
 
 #include "base/test/metrics/histogram_tester.h"

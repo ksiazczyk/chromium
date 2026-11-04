@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM Background Recorder Service Implementation
+// summary: Implements a profile-keyed service that consults the history service to decide whether background features may record UKM events and provides source IDs.
+// ---
+
 #include "chrome/browser/metrics/ukm_background_recorder_service.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch UI controller stats tracker unit tests
+// summary: Unit tests verifying that TouchUIControllerStatsTracker correctly logs touch-mode session duration histograms through the desktop session duration tracker.
+// ---
+
 #include "chrome/browser/metrics/desktop_session_duration/touch_ui_controller_stats_tracker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power metrics reporter header
+// summary: Declares PowerMetricsReporter, a ProcessMonitor observer that periodically reports power-related metrics with usage-scenario suffixes for histograms and UKM.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_POWER_POWER_METRICS_REPORTER_H_
 #define CHROME_BROWSER_METRICS_POWER_POWER_METRICS_REPORTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalUserJourneyStep implementation
+// summary: Implements the constructor and destructor of CriticalUserJourneyStep, the journey step class declared in the matching header.
+// ---
+
 #include "chrome/browser/metrics/critical_user_journeys/critical_user_journey_step.h"
 
 #include "chrome/browser/metrics/critical_user_journeys/critical_user_journey.h"

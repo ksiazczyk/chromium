@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: macOS task info metrics provider unit tests
+// summary: Unit tests verifying that the macOS task info provider emits baseline and steady-state histograms for browser and renderer processes.
+// ---
+
 #include "chrome/browser/metrics/task_info_metrics_provider_mac.h"
 
 #include "base/process/process_handle.h"

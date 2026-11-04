@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerfOutputCall implementation
+// summary: Implements PerfOutputCall, which retrieves perf output over DBus from debugd, reads data from a pipe and supports stopping a perf session.
+// ---
+
 #include "chrome/browser/metrics/perf/perf_output.h"
 
 #include "base/functional/bind.h"

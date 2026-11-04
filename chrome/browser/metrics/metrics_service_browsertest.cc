@@ -6,6 +6,12 @@
 // Tests the MetricsService stat recording to make sure that the numbers are
 // what we expect.
 
+// ---docerion
+// type: test
+// title: MetricsService browser tests
+// summary: Browser tests verifying MetricsService stat recording for page loads, crashed tabs, browser starts, and renderer crash exit codes.
+// ---
+
 #include "components/metrics/metrics_service.h"
 
 #include <string>

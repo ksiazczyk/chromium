@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows unit tests for the accessibility state provider
+// summary: Verifies recording of MSAA and UIA client API histograms for the accessibility state provider.
+// ---
+
 #include "chrome/browser/metrics/accessibility_state_provider.h"
 
 #include "base/test/metrics/histogram_tester.h"

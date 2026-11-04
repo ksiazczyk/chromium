@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU performance metrics provider implementation
+// summary: Encodes nominal and override CPU performance tiers and logs user or policy override histograms at UMA upload.
+// ---
+
 #include "chrome/browser/metrics/cpu_performance_metrics_provider.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudibleContentsTracker implementation
+// summary: Implements tracking of audible web contents across browser windows and notifies its observer when audio starts or ends.
+// ---
+
 #include "chrome/browser/metrics/desktop_session_duration/audible_contents_tracker.h"
 
 #include "chrome/browser/metrics/desktop_session_duration/desktop_session_duration_tracker.h"

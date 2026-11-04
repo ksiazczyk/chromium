@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First web contents profiler base implementation
+// summary: Shared implementation of first-web-contents startup profiling, handling navigation, paint, and abandonment conditions across platforms.
+// ---
+
 #include "chrome/browser/metrics/first_web_contents_profiler_base.h"
 
 #include "base/command_line.h"

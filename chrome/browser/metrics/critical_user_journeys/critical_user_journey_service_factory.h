@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalUserJourneyServiceFactory header
+// summary: Declares the browser context keyed service factory providing per-profile access to CriticalUserJourneyService.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CRITICAL_USER_JOURNEYS_CRITICAL_USER_JOURNEY_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_METRICS_CRITICAL_USER_JOURNEYS_CRITICAL_USER_JOURNEY_SERVICE_FACTORY_H_
 

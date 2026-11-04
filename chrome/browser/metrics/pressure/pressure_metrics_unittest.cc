@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PressureMetrics unit tests
+// summary: Verifies parsing of valid and invalid pressure stall information files and checks the extracted pressure values.
+// ---
+
 #include "chrome/browser/metrics/pressure/pressure_metrics.h"
 
 #include <optional>

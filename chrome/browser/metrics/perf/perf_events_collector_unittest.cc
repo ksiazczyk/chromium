@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PerfCollector unit tests
+// summary: Unit tests for PerfCollector verifying perf command selection per CPU architecture, protobuf parsing and collection outcome reporting.
+// ---
+
 #include "chrome/browser/metrics/perf/perf_events_collector.h"
 
 #include <stdint.h>

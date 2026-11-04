@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power metrics helpers implementation
+// summary: Implements helpers that calculate battery discharge rates in milliwatts and relative units and report process and battery metrics histograms.
+// ---
+
 #include "chrome/browser/metrics/power/power_metrics.h"
 
 #include <string>

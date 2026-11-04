@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopProfileSessionDurationsService implementation
+// summary: Implements a profile-keyed service that forwards desktop session start and end events to sync, MSBB and password metrics recorders.
+// ---
+
 #include "chrome/browser/metrics/desktop_session_duration/desktop_profile_session_durations_service.h"
 
 #include "chrome/browser/signin/identity_manager_factory.h"

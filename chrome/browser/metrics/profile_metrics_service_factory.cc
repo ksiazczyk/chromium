@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile metrics service factory
+// summary: Keyed service factory that creates a ProfileMetricsService per profile, mapping profile directories to per-profile metric indices.
+// ---
+
 #include "chrome/browser/metrics/profile_metrics_service_factory.h"
 
 #include "base/feature_list.h"

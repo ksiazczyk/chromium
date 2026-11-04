@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS per-user metrics state manager unit tests
+// summary: Unit tests for PerUserStateManagerChromeOS covering log store switching, consent changes, device ownership, and client ID reset behavior.
+// ---
+
 #include "chrome/browser/metrics/per_user_state_manager_chromeos.h"
 
 #include "ash/constants/ash_login_pref_names.h"

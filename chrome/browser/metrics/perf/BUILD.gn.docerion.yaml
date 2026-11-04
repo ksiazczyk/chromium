@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the perf metrics directory
+summary: Defines the ChromeOS-only perf source set and the profile_provider_unittest test target with their sources and dependencies.

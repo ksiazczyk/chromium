@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS metrics provider
+// summary: Declares providers that supply ChromeOS-specific system profile, stability, session and histogram metrics to UMA and UKM.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CHROMEOS_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_CHROMEOS_METRICS_PROVIDER_H_
 

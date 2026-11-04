@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalUserJourneyStep header
+// summary: Declares CriticalUserJourneyStep, a journey stage mapping a UI interaction to a metric ID with branching, timeouts, dwell time, and exit-branch support.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CRITICAL_USER_JOURNEYS_CRITICAL_USER_JOURNEY_STEP_H_
 #define CHROME_BROWSER_METRICS_CRITICAL_USER_JOURNEYS_CRITICAL_USER_JOURNEY_STEP_H_
 

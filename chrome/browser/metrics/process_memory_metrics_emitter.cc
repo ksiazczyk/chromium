@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process memory metrics emitter implementation
+// summary: Fetches per-process memory dumps via the resource coordinator and emits UMA and UKM memory metrics for browser, GPU, and renderer processes.
+// ---
+
 #include "chrome/browser/metrics/process_memory_metrics_emitter.h"
 
 #include <array>

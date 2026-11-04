@@ -1,6 +1,13 @@
 // Copyright 2012 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Shutdown watcher helper header
+// summary: Declares ShutdownWatcherHelper, a watchdog wrapper that detects browser hangs during shutdown on non-Android platforms.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_SHUTDOWN_WATCHER_HELPER_H_
 #define CHROME_BROWSER_METRICS_SHUTDOWN_WATCHER_HELPER_H_
 

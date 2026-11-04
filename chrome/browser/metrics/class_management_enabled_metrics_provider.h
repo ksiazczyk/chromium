@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Class management enabled metrics provider declaration
+// summary: Declares the metrics provider and enum that report whether class management is disabled or enabled for student or teacher users.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CLASS_MANAGEMENT_ENABLED_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_CLASS_MANAGEMENT_ENABLED_METRICS_PROVIDER_H_
 

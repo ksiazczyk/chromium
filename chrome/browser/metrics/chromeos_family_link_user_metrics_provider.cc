@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Family Link user metrics provider implementation
+// summary: Logs a histogram that categorizes the ChromeOS primary user by supervision status relative to the age of consent for UMA filtering.
+// ---
+
 #include "chrome/browser/metrics/chromeos_family_link_user_metrics_provider.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile metrics service factory declaration
+// summary: Declares the factory that provides per-profile ProfileMetricsService instances used for logging per-profile metrics.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_PROFILE_METRICS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_METRICS_PROFILE_METRICS_SERVICE_FACTORY_H_
 

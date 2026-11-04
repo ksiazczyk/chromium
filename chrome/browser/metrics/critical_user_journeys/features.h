@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical User Journeys feature flag declarations
+// summary: Header declaring the journey service feature, per-journey feature flags, and HaTS survey feature flags with their trigger string constants.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CRITICAL_USER_JOURNEYS_FEATURES_H_
 #define CHROME_BROWSER_METRICS_CRITICAL_USER_JOURNEYS_FEATURES_H_
 

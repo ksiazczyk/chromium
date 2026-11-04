@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS engagement metrics provider implementation
+// summary: Implements a metrics provider that stores HTTPS page engagement metrics into the UMA log before upload, using the last loaded profile.
+// ---
+
 #include "chrome/browser/metrics/https_engagement_metrics_provider.h"
 
 #include "chrome/browser/browser_process.h"

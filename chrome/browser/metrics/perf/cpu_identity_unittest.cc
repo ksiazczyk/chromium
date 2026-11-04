@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CPU identity and microarchitecture lookup
+// summary: Verifies the microarchitecture table is sorted and that uarch lookup and model name simplification return expected results for Intel and AMD CPUs.
+// ---
+
 #include "chrome/browser/metrics/perf/cpu_identity.h"
 
 #include <algorithm>

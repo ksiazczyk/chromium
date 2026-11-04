@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAndroidMetricsProvider implementation
+// summary: Implements Android-specific metrics such as notification status, multiple user profiles, dark mode, and app updates.
+// ---
+
 #include "chrome/browser/metrics/chrome_android_metrics_provider.h"
 
 #include <optional>

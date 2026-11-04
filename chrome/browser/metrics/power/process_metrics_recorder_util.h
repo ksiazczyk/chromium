@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process metrics recorder utilities header
+// summary: Declares RecordProcessHistograms, which records CPU-related histograms from ProcessMonitor metrics using a histogram name suffix.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_POWER_PROCESS_METRICS_RECORDER_UTIL_H_
 #define CHROME_BROWSER_METRICS_POWER_PROCESS_METRICS_RECORDER_UTIL_H_
 

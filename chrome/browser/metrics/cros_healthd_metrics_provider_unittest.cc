@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrosHealthd metrics provider unit tests
+// summary: Unit tests verifying that CrosHealthdMetricsProvider reports NVMe, eMMC and UFS storage device details and handles probe timeouts using a fake cros_healthd service.
+// ---
+
 #include "chrome/browser/metrics/cros_healthd_metrics_provider.h"
 
 #include <cstdint>

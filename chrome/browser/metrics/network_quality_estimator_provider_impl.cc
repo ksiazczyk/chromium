@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network quality estimator provider implementation
+// summary: Implements the browser-side network quality estimator provider, observing effective connection type changes and posting replies to callbacks.
+// ---
+
 #include "chrome/browser/metrics/network_quality_estimator_provider_impl.h"
 
 #include "base/functional/bind.h"

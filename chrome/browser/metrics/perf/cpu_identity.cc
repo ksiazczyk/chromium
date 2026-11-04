@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU identity and microarchitecture lookup table
+// summary: Implements CPU identity retrieval, a CPUID family/model to microarchitecture table for Intel and AMD CPUs, and model name simplification.
+// ---
+
 #include "chrome/browser/metrics/perf/cpu_identity.h"
 
 #include <string.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosHealthd metrics provider implementation
+// summary: Probes cros_healthd for non-removable block device information and reports internal storage devices in the ChromeOS system profile metrics.
+// ---
+
 #include "chrome/browser/metrics/cros_healthd_metrics_provider.h"
 
 #include <utility>

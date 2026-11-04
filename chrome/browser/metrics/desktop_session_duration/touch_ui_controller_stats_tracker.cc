@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch UI controller stats tracker implementation
+// summary: Tracks time spent in touch and tablet modes during desktop sessions and records the corresponding duration histograms.
+// ---
+
 #include "chrome/browser/metrics/desktop_session_duration/touch_ui_controller_stats_tracker.h"
 
 #include <algorithm>

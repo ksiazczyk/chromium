@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient mode metrics provider header
+// summary: Declares a metrics provider that supplies current-session ambient mode data.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_AMBIENT_MODE_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_AMBIENT_MODE_METRICS_PROVIDER_H_
 

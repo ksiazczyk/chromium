@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TPM Metrics Provider Unit Test
+// summary: Unit test verifying that TPMMetricsProvider fills the system profile proto with non-empty TPM identifier data; currently disabled pending TPM mocking.
+// ---
+
 #include "chrome/browser/metrics/tpm_metrics_provider_win.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery discharge reporter implementation
+// summary: Implements the reporter that observes battery state samples and records battery discharge histograms over one-minute and Windows ten-minute intervals.
+// ---
+
 #include "chrome/browser/metrics/power/battery_discharge_reporter.h"
 
 #include <utility>

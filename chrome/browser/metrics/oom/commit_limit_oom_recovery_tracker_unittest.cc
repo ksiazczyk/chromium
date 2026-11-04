@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Commit limit OOM recovery tracker unit tests
+// summary: Unit tests verifying state transitions and Stability.CommitLimitTerminatedTab histogram logging for the commit-limit OOM recovery tracker.
+// ---
+
 #include "chrome/browser/metrics/oom/commit_limit_oom_recovery_tracker.h"
 
 #include <memory>

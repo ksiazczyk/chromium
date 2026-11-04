@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Battery discharge reporter unit tests
+// summary: Unit tests verifying the battery discharge mode and rate histograms reported for one-minute and ten-minute sampling intervals.
+// ---
+
 #include "chrome/browser/metrics/power/battery_discharge_reporter.h"
 
 #include <memory>

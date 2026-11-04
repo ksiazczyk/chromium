@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the CUJ framework
+summary: Defines GN source sets for the Critical User Journeys public headers, implementation, unit tests, and interactive UI tests with their dependencies.

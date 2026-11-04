@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windowed incognito observer unit tests
+// summary: Unit tests for WindowedIncognitoMonitor covering incognito window creation, closing and observer status using fake browser collections.
+// ---
+
 #include "chrome/browser/metrics/perf/windowed_incognito_observer.h"
 
 #include "base/test/bind.h"

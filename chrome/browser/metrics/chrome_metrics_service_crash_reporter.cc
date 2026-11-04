@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMetricsServiceCrashReporter implementation
+// summary: Attaches the serialized system profile proto to Crashpad minidumps as a user data stream whenever the metrics environment is updated.
+// ---
+
 #include "chrome/browser/metrics/chrome_metrics_service_crash_reporter.h"
 
 #include <string>

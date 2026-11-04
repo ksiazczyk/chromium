@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser main extra parts metrics header
+// summary: Declares ChromeBrowserMainExtraPartsMetrics, a ChromeBrowserMainExtraParts and DisplayObserver that emits metrics during browser startup.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CHROME_BROWSER_MAIN_EXTRA_PARTS_METRICS_H_
 #define CHROME_BROWSER_METRICS_CHROME_BROWSER_MAIN_EXTRA_PARTS_METRICS_H_
 

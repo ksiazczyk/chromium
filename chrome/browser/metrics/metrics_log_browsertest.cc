@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics log command line key hash browser test
+// summary: Browser test verifying that the system profile in metrics logs contains filtered command line key hashes.
+// ---
+
 #include "components/metrics/metrics_log.h"
 
 #include "base/command_line.h"

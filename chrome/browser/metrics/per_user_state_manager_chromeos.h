@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS per-user metrics state manager header
+// summary: Declares the PerUserStateManagerChromeOS class that manages per-user metrics collection state and consent for unmanaged secondary users.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_PER_USER_STATE_MANAGER_CHROMEOS_H_
 #define CHROME_BROWSER_METRICS_PER_USER_STATE_MANAGER_CHROMEOS_H_
 

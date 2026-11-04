@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perf events collector implementation
+// summary: Implements PerfCollector, which runs perf commands via debugd, parses CPU frequencies and PSI CPU data, and annotates collected profiles.
+// ---
+
 #include "chrome/browser/metrics/perf/perf_events_collector.h"
 
 #include <algorithm>

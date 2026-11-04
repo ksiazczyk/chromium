@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS engagement metrics provider header
+// summary: Declares HttpsEngagementMetricsProvider, which tells the profile's HttpsEngagementService to record its metrics before user metrics upload.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_HTTPS_ENGAGEMENT_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_HTTPS_ENGAGEMENT_METRICS_PROVIDER_H_
 

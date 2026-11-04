@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Google Update metrics provider
+// summary: Gathers Google Update registry data on Windows and reports install state, update timestamps, and cohort hash into the UMA system profile.
+// ---
+
 #include "chrome/browser/metrics/google_update_metrics_provider_win.h"
 
 #include "base/location.h"

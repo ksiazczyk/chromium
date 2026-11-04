@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process memory metrics emitter class declaration
+// summary: Declares ProcessMemoryMetricsEmitter, a self-owned class that asynchronously collects process memory metrics and reports them as UMA and UKM.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_PROCESS_MEMORY_METRICS_EMITTER_H_
 #define CHROME_BROWSER_METRICS_PROCESS_MEMORY_METRICS_EMITTER_H_
 

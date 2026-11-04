@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AntiVirusMetricsProvider unit tests
+// summary: Unit tests that verify antivirus product data in the system profile, including Windows Defender name variants.
+// ---
+
 #include "chrome/browser/metrics/antivirus_metrics_provider_win.h"
 
 #include <optional>

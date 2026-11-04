@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Structured metrics service browser test
+// summary: Browser test verifying structured metrics event logging, log staging, and consent handling through the structured metrics service.
+// ---
+
 #include "components/metrics/structured/structured_metrics_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserTypeByDeviceTypeMetricsProvider implementation
+// summary: Implements a ChromeOS metrics provider that logs a sparse histogram combining the primary user segment (unmanaged, EDU, enterprise, kiosk, demo, managed guest) with the device's enterprise market segment.
+// ---
+
 #include "chrome/browser/metrics/usertype_by_devicetype_metrics_provider.h"
 
 #include "base/check.h"

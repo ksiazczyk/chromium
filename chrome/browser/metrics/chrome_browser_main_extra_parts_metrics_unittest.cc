@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome browser main extra parts metrics unit tests
+// summary: Unit tests verifying HDR display histogram recording and the enable-benchmarking flag countdown behavior.
+// ---
+
 #include "chrome/browser/metrics/chrome_browser_main_extra_parts_metrics.h"
 
 #include <memory>

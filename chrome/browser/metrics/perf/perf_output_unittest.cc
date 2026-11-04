@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Perf output unit tests
+// summary: Unit tests for perf output collection, using a fake DebugDaemonClient that serves example perf data over a pipe.
+// ---
+
 
 #include "chrome/browser/metrics/perf/perf_output.h"
 

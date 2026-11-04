@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process memory metrics emitter unit tests
+// summary: Unit tests using fake memory dumps and a test UKM recorder to verify the emitter's metric calculations and reporting.
+// ---
+
 #include "chrome/browser/metrics/process_memory_metrics_emitter.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS system profile provider implementation
+// summary: Implements the ChromeOS metrics provider that supplies hardware class, TPM version, ARC features, cellular variant, demo mode and multi-profile data to the system profile.
+// ---
+
 #include "chrome/browser/metrics/chromeos_system_profile_provider.h"
 
 #include <string_view>

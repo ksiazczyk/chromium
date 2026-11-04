@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process memory metrics emitter browser tests
+// summary: Browser tests validating emitted memory histograms and UKM entries for tabs, renderers, and extensions in real browser sessions.
+// ---
+
 #include "chrome/browser/metrics/process_memory_metrics_emitter.h"
 
 #include <set>

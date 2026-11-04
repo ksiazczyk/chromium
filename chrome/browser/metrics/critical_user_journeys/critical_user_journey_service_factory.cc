@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalUserJourneyServiceFactory implementation
+// summary: Implements the profile-keyed service factory that creates and initializes CriticalUserJourneyService for a browser context when the feature flag is enabled.
+// ---
+
 #include "chrome/browser/metrics/critical_user_journeys/critical_user_journey_service_factory.h"
 
 #include "base/feature_list.h"

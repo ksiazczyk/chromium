@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FamilyLink user metrics provider header
+// summary: Declares the metrics provider that segments Chrome users by the FamilyLink supervision type of the active profile's primary account.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_FAMILY_LINK_USER_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_FAMILY_LINK_USER_METRICS_PROVIDER_H_
 

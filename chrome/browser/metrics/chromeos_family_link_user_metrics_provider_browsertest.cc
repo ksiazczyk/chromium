@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS Family Link user metrics provider browser tests
+// summary: Parameterized browser tests verifying Family Link user log segment histograms for different ChromeOS user types.
+// ---
+
 #include "chrome/browser/metrics/chromeos_family_link_user_metrics_provider.h"
 
 #include "base/functional/bind.h"

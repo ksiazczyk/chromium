@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS task info metrics provider implementation
+// summary: Implements a metrics provider that samples macOS proc_taskinfo counters to record per-process page faults, context switches, and memory metrics to UMA.
+// ---
+
 #include "chrome/browser/metrics/task_info_metrics_provider_mac.h"
 
 #include <libproc.h>

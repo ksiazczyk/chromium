@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default collection parameters per Chrome channel
+// summary: Implements CollectionParams defaults, choosing profile durations and periodic collection intervals based on the Chrome release channel.
+// ---
+
 #include "chrome/browser/metrics/perf/collection_params.h"
 
 #include "chrome/common/channel_info.h"

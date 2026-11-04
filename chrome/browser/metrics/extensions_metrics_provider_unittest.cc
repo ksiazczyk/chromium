@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions metrics provider unit tests
+// summary: Unit tests for the extensions metrics provider, covering extension hashing, install protos, and off-store extension detection.
+// ---
+
 #include "chrome/browser/metrics/extensions_metrics_provider.h"
 
 #include <stdint.h>

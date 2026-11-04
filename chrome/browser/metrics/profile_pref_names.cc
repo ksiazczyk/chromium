@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile metrics preference name constants
+// summary: Defines profile preference names for user metrics consent, user ID, unsent log storage, and client ID reset behavior.
+// ---
+
 #include "chrome/browser/metrics/profile_pref_names.h"
 
 namespace metrics::prefs {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricProvider class header
+// summary: Declares MetricProvider, the common interface that manages a metric collector and forwards trigger events such as login, suspend resume and session restore.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_PERF_METRIC_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_PERF_METRIC_PROVIDER_H_
 

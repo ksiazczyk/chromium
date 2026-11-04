@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power metrics reporter unit tests
+// summary: Unit tests for PowerMetricsReporter using fake battery level providers and a test process monitor to verify histogram and UKM reporting across intervals.
+// ---
+
 #include "chrome/browser/metrics/power/power_metrics_reporter.h"
 
 #include <memory>

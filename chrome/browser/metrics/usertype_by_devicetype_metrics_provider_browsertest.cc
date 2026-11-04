@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserTypeByDeviceTypeMetricsProvider browser tests
+// summary: Browser tests verifying the user type by device type histogram across user segments and device market segments, including kiosk, demo mode, and managed guest sessions on ChromeOS.
+// ---
+
 #include "chrome/browser/metrics/usertype_by_devicetype_metrics_provider.h"
 
 #include <optional>

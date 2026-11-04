@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser sampling trials implementation
+// summary: Creates fallback field trials that control metrics, crash and UKM sampling rates on Windows and Android when no seed provides them.
+// ---
+
 #include "chrome/browser/metrics/chrome_browser_sampling_trials.h"
 
 #include <utility>
