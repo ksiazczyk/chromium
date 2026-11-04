@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginBigUserView implementation
+// summary: Implements the login screen big user view container that switches between auth user and public account child views and reacts to wallpaper blur.
+// relations:
+//   - implements /ash/login/ui/login_big_user_view.h
+//   - depends_on /ash/login/login_screen_controller.h
+//   - depends_on /ash/login/ui/login_constants.h
+// ---
+
 #include "ash/login/ui/login_big_user_view.h"
 
 #include "ash/login/login_screen_controller.h"

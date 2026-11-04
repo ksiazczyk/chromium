@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_cy.xtb.
+type: data
+title: Welsh translation bundle for ash login strings
+summary: XML translation bundle with Welsh translations of ChromeOS ash login and setup UI strings, covering sign-in, PIN, debugging, and onboarding messages.

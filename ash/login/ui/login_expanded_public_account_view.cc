@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expanded public account view implementation
+// summary: Implements the expanded public account session view for selecting language and keyboard options, including landscape and portrait layouts and a monitoring disclosure dialog.
+// relations:
+//   - implements /ash/login/ui/login_expanded_public_account_view.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/login/login_screen_controller.h
+// ---
+
 #include "ash/login/ui/login_expanded_public_account_view.h"
 
 #include <memory>

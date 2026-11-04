@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaControllerImpl unit tests
+// summary: Unit tests for MediaControllerImpl that verify media key handling, lock screen media key behavior, and session suspend counts using a test media session controller.
+// relations:
+//   - depends_on /ash/media/media_controller_impl.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/media/media_controller_impl.h"
 
 #include <memory>

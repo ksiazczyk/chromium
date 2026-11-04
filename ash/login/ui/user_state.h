@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User state header
+// summary: Declares the UserState struct holding per-user lock screen state, including password, PIN, challenge response, fingerprint, Smart Lock, and TPM lock fields.
+// relations:
+//   - depends_on /ash/public/cpp/login_types.h
+//   - depends_on /ash/public/cpp/smartlock_state.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_LOGIN_UI_USER_STATE_H_
 #define ASH_LOGIN_UI_USER_STATE_H_
 

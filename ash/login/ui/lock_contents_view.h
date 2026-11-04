@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen contents view header
+// summary: Declares LockContentsView, the per-display root view for the lock screen, including its observers, display styles, and login attempt constants.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui_controller.h
+//   - depends_on /ash/login/ui/auth_error_bubble.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOCK_CONTENTS_VIEW_H_
 #define ASH_LOGIN_UI_LOCK_CONTENTS_VIEW_H_
 

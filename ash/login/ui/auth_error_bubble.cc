@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthErrorBubble implementation
+// summary: Implements the login bubble that displays authentication error messages with learn-more and recover buttons for password and PIN unlock attempts.
+// relations:
+//   - implements /ash/login/ui/auth_error_bubble.h
+//   - depends_on /ash/ime/ime_controller_impl.h
+//   - depends_on /ash/login/ui/login_base_bubble_view.h
+// ---
+
 #include "ash/login/ui/auth_error_bubble.h"
 
 #include <optional>

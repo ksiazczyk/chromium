@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_nl.xtb.
+type: data
+title: Dutch translation bundle for Ash login strings
+summary: XML translation bundle providing Dutch UI strings for the Chrome OS Ash login and sign-in screens.

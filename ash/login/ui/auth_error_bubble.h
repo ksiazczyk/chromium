@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthErrorBubble class declaration
+// summary: Declares AuthErrorBubble, a login error bubble that shows authentication failure messages with learn-more and user recovery actions.
+// relations:
+//   - depends_on /ash/login/ui/login_base_bubble_view.h
+//   - depends_on /ash/login/ui/login_error_bubble.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_LOGIN_UI_AUTH_ERROR_BUBBLE_H_
 #define ASH_LOGIN_UI_AUTH_ERROR_BUBBLE_H_
 

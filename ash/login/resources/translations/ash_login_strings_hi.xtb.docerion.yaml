@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_hi.xtb.
+type: data
+title: Hindi login screen translation bundle
+summary: Hindi translation bundle with ChromeOS Ash login UI strings covering sign-in, device setup, network activation, PIN unlock, and enrollment messages.

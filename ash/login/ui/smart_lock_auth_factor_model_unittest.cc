@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart Lock auth factor model unit tests
+// summary: Unit tests verifying Smart Lock auth factor labels, accessible names, and state handling across Smart Lock states and PIN availability.
+// relations:
+//   - tests /ash/login/ui/smart_lock_auth_factor_model.h
+//   - depends_on /ash/login/ui/auth_factor_model.h
+//   - depends_on /ash/login/ui/auth_icon_view.h
+// ---
+
 #include "ash/login/ui/smart_lock_auth_factor_model.h"
 
 #include "ash/login/ui/auth_factor_model.h"

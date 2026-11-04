@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login auth user view implementation
+// summary: Implements the view that combines the user view with password, PIN, fingerprint, Smart Lock and other authentication UIs.
+// relations:
+//   - implements /ash/login/ui/login_auth_user_view.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/login/login_screen_controller.h
+// ---
+
 #include "ash/login/ui/login_auth_user_view.h"
 
 #include <map>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login views utilities header
+// summary: Declares shared helpers for login and lock screen views, including default fonts, bubble label creation, bubble positioning strategies, and focus ring configuration.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/color/color_id.h
+//   - depends_on /ui/color/color_variant.h
+// ---
+
 #ifndef ASH_LOGIN_UI_VIEWS_UTILS_H_
 #define ASH_LOGIN_UI_VIEWS_UTILS_H_
 

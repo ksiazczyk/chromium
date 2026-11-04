@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_hy.xtb.
+type: data
+title: Armenian ash login string translations
+summary: XML translation bundle with Armenian translations of ChromeOS ash login UI strings, covering welcome messages, PIN setup, network prompts, and device enrollment.

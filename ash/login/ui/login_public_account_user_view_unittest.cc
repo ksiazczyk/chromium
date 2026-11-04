@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoginPublicAccountUserView unit tests
+// summary: Unit tests verifying opacity, hover behavior, arrow button visibility, and tap callbacks for the public account user view on the login screen.
+// relations:
+//   - tests /ash/login/ui/login_public_account_user_view.h
+//   - depends_on /ash/login/ui/login_test_base.h
+//   - depends_on /ash/login/ui/login_user_view.h
+// ---
+
 #include "ash/login/ui/login_public_account_user_view.h"
 #include "ash/login/ui/login_test_base.h"
 #include "ash/login/ui/login_test_utils.h"

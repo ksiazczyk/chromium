@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen media controls view declaration
+// summary: Declares the view that displays media session controls on the lock screen, observing media controller, image, and power suspend events.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/power_monitor/power_observer.h
+//   - depends_on /components/global_media_controls/public/views/media_item_ui_detailed_view.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOCK_SCREEN_MEDIA_VIEW_H_
 #define ASH_LOGIN_UI_LOCK_SCREEN_MEDIA_VIEW_H_
 

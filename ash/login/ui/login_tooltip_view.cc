@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginTooltipView implementation
+// summary: Implements the login screen tooltip bubble that shows an info icon and a message label anchored to another view.
+// relations:
+//   - depends_on /ash/login/ui/login_tooltip_view.h
+//   - implements /ash/login/ui/login_tooltip_view.h
+//   - depends_on /ash/login/ui/non_accessible_view.h
+// ---
+
 #include "ash/login/ui/login_tooltip_view.h"
 
 #include "ash/login/ui/non_accessible_view.h"

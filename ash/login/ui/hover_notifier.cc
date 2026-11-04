@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover notifier implementation
+// summary: Implements hover tracking for a view, running a callback whenever the mouse hover state changes.
+// relations:
+//   - implements /ash/login/ui/hover_notifier.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #include "ash/login/ui/hover_notifier.h"
 
 #include "ui/views/view.h"

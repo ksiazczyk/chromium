@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_ca.xtb.
+type: data
+title: Catalan login strings translation bundle
+summary: XML translation bundle with Catalan localized strings for the ChromeOS ash login and setup UI.

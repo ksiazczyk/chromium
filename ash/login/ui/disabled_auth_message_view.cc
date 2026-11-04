@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisabledAuthMessageView implementation
+// summary: Implements the lock screen message shown when authentication is disabled, building title, content and icon for time window and usage limit cases.
+// relations:
+//   - implements /ash/login/ui/disabled_auth_message_view.h
+//   - depends_on /ash/public/cpp/login_types.h
+//   - depends_on /ash/style/ash_color_id.h
+// ---
+
 #include "ash/login/ui/disabled_auth_message_view.h"
 
 #include <memory>

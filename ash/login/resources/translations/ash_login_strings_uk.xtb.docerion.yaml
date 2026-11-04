@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_uk.xtb.
+type: data
+title: Ukrainian translation bundle for ash login strings
+summary: Ukrainian translations for the ChromeOS ash login and sign-in UI, stored as an XML translation bundle keyed by numeric message IDs.

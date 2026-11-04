@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_be.xtb.
+type: data
+title: Belarusian login strings translation bundle
+summary: XML translation bundle with Belarusian localized strings for the ChromeOS ash login and setup UI.

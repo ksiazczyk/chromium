@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock screen media view unit tests
+// summary: Unit tests for the lock screen media controls view, covering metadata updates across sessions, action button visibility, and suspend behavior.
+// relations:
+//   - tests /ash/login/ui/lock_screen_media_view.h
+//   - depends_on /ash/login/ui/fake_login_detachable_base_model.h
+//   - depends_on /ash/login/ui/lock_contents_view.h
+// ---
+
 #include "ash/login/ui/lock_screen_media_view.h"
 
 #include "ash/login/ui/fake_login_detachable_base_model.h"

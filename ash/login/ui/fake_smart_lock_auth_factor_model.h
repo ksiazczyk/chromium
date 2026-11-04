@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Smart Lock auth factor model and factory
+// summary: Declares a fake Smart Lock auth factor model and factory used to test the lock screen UI with a controlled Smart Lock state.
+// relations:
+//   - depends_on /ash/login/ui/smart_lock_auth_factor_model.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_LOGIN_UI_FAKE_SMART_LOCK_AUTH_FACTOR_MODEL_H_
 #define ASH_LOGIN_UI_FAKE_SMART_LOCK_AUTH_FACTOR_MODEL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_sr.xtb.
+type: data
+title: Ash login strings translation bundle (Serbian Cyrillic)
+summary: Serbian Cyrillic XTB translation bundle with localized Chrome OS login and sign-in UI strings covering setup, PIN, network, and device enrollment.

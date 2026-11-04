@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint auth factor model header
+// summary: Declares the fingerprint auth factor model that presents fingerprint as an auth factor on the lock screen, with a factory for testing.
+// relations:
+//   - depends_on /ash/login/ui/auth_factor_model.h
+//   - depends_on /ash/public/cpp/login_types.h
+// ---
+
 #ifndef ASH_LOGIN_UI_FINGERPRINT_AUTH_FACTOR_MODEL_H_
 #define ASH_LOGIN_UI_FINGERPRINT_AUTH_FACTOR_MODEL_H_
 

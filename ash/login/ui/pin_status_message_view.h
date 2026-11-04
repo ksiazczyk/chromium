@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN status message view class declaration
+// summary: Declares PinStatusMessageView, a label view that displays the remaining lock time for a soft-locked PIN and notifies callers when the PIN unlocks.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_LOGIN_UI_PIN_STATUS_MESSAGE_VIEW_H_
 #define ASH_LOGIN_UI_PIN_STATUS_MESSAGE_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_en-GB.xtb.
+type: data
+title: British English translation bundle for ash login strings
+summary: XML translation bundle with British English translations of ChromeOS ash login and setup UI strings, covering sign-in, PIN, debugging, and onboarding messages.

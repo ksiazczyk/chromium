@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local authentication request widget header
+// summary: Declares the modal widget that displays the local password request view, with static show/close methods and a test API.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/local_authentication_request_view.h
+//   - depends_on /ash/public/cpp/login/local_authentication_request_controller.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOCAL_AUTHENTICATION_REQUEST_WIDGET_H_
 #define ASH_LOGIN_UI_LOCAL_AUTHENTICATION_REQUEST_WIDGET_H_
 

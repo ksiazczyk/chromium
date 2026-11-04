@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scrollable users list view implementation
+// summary: Implements the scrollable list of login user views, with layout parameters, gradients, and padding for small and extra small display styles in landscape and portrait.
+// relations:
+//   - depends_on /ash/login/ui/scrollable_users_list_view.h
+//   - depends_on /ash/controls/rounded_scroll_bar.h
+//   - depends_on /ash/login/ui/login_constants.h
+// ---
+
 #include "ash/login/ui/scrollable_users_list_view.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PIN request view unit tests
+// summary: Tests PIN request view behavior such as submission results, error states, back and help actions, keyboard visibility, and widget dismissal.
+// relations:
+//   - tests /ash/login/ui/pin_request_view.h
+//   - depends_on /ash/login/mock_login_screen_client.h
+//   - depends_on /ash/login/ui/arrow_button_view.h
+// ---
+
 #include "ash/login/ui/pin_request_view.h"
 
 #include <memory>

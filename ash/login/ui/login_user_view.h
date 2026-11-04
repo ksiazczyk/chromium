@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginUserView class declaration
+// summary: Declares LoginUserView, which displays the user's profile icon, name, and remove-account dropdown in various layout styles, including a test API.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/login_display_style.h
+//   - depends_on /ash/public/cpp/login_types.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_USER_VIEW_H_
 #define ASH_LOGIN_UI_LOGIN_USER_VIEW_H_
 

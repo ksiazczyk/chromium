@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock contents view test API header
+// summary: Declares a test API for inspecting and manipulating LockContentsView internals, including auth error bubbles and debugging toggles for user states.
+// relations:
+//   - depends_on /ash/login/ui/auth_error_bubble.h
+//   - depends_on /ash/login/ui/kiosk_app_default_message.h
+//   - depends_on /ash/login/ui/lock_contents_view.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOCK_CONTENTS_VIEW_TEST_API_H_
 #define ASH_LOGIN_UI_LOCK_CONTENTS_VIEW_TEST_API_H_
 

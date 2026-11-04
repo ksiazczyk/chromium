@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public account monitoring info dialog class declaration
+// summary: Declares PublicAccountMonitoringInfoDialog, the dialog presenting session monitoring details from the expanded public account login view.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_LOGIN_UI_PUBLIC_ACCOUNT_MONITORING_INFO_DIALOG_H_
 #define ASH_LOGIN_UI_PUBLIC_ACCOUNT_MONITORING_INFO_DIALOG_H_
 

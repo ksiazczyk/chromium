@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login password view
+// summary: Declares the LoginPasswordView class, its submit and text-change callbacks, placeholder and read-only controls, and a test API.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/ime/ime_controller_impl.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_PASSWORD_VIEW_H_
 #define ASH_LOGIN_UI_LOGIN_PASSWORD_VIEW_H_
 

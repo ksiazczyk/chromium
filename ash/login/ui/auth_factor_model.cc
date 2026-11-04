@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorModel implementation
+// summary: Implements the base AuthFactorModel logic for auth factor icons, visibility, tap and error timeout handling, and UI refresh callbacks.
+// relations:
+//   - implements /ash/login/ui/auth_factor_model.h
+//   - depends_on /ash/login/ui/auth_icon_view.h
+// ---
+
 #include "ash/login/ui/auth_factor_model.h"
 #include "ash/login/ui/auth_icon_view.h"
 

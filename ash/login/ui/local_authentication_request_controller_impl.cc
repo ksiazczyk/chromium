@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local authentication request controller implementation
+// summary: Implements the controller that shows the local password authentication dialog to finalize re-auth sessions for a user.
+// relations:
+//   - depends_on /ash/login/ui/local_authentication_request_controller_impl.h
+//   - depends_on /ash/auth/views/active_session_auth_view.h
+//   - depends_on /ash/auth/views/auth_common.h
+// ---
+
 #include "ash/login/ui/local_authentication_request_controller_impl.h"
 
 #include <string>

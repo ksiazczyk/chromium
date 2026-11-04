@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management disclosure field trial implementation
+// summary: Creates a client-controlled field trial that enables or disables the improved management disclosure feature based on release channel and a persisted trial group.
+// relations:
+//   - implements /ash/login/ui/management_disclosure_field_trial.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/login/ui/management_disclosure_field_trial.h"
 
 #include "ash/constants/ash_features.h"

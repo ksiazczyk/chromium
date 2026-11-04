@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_ur.xtb.
+type: data
+title: Urdu translation bundle for ash login strings
+summary: Urdu translations for the ChromeOS ash login and sign-in UI, stored as an XML translation bundle keyed by numeric message IDs.

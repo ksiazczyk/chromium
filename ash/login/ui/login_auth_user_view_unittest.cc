@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login auth user view unit tests
+// summary: Unit tests for the auth user view covering auth method visibility, input field modes and user interactions.
+// relations:
+//   - tests /ash/login/ui/login_auth_user_view.h
+//   - depends_on /ash/login/login_screen_controller.h
+//   - depends_on /ash/login/mock_login_screen_client.h
+// ---
+
 #include "ash/login/ui/login_auth_user_view.h"
 
 #include "ash/login/login_screen_controller.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated rounded image view implementation
+// summary: Implements a rounded-corner image view that decodes and plays single or multi-frame animations, including static image and image model decoders.
+// relations:
+//   - depends_on /ash/login/ui/animated_rounded_image_view.h
+//   - depends_on /base/functional/bind.h
+//   - depends_on /base/numerics/ranges.h
+// ---
+
 #include "ash/login/ui/animated_rounded_image_view.h"
 
 #include <limits>

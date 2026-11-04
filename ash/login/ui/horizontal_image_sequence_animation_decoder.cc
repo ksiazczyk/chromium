@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Horizontal image sequence animation decoder implementation
+// summary: Splits a horizontal 1xN animation strip image into equally sized, timed animation frames for login UI animations.
+// relations:
+//   - depends_on /ash/login/ui/horizontal_image_sequence_animation_decoder.h
+//   - depends_on /ui/gfx/image/image_skia_rep.h
+// ---
+
 #include "ash/login/ui/horizontal_image_sequence_animation_decoder.h"
 
 #include "ui/gfx/image/image_skia_rep.h"

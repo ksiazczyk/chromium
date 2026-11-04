@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagementDisclosureDialog class declaration
+// summary: Declares ManagementDisclosureDialog, a dialog window showing device management disclosures, and the ManagedWarningView container.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/non_accessible_view.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_LOGIN_UI_MANAGEMENT_DISCLOSURE_DIALOG_H_
 #define ASH_LOGIN_UI_MANAGEMENT_DISCLOSURE_DIALOG_H_
 

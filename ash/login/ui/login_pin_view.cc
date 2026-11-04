@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login PIN keyboard view implementation
+// summary: Implements the on-screen PIN keypad with digit, backspace and optional submit buttons, ink drop styling and backspace auto-repeat timers.
+// relations:
+//   - implements /ash/login/ui/login_pin_view.h
+// ---
+
 #include "ash/login/ui/login_pin_view.h"
 
 #include <array>

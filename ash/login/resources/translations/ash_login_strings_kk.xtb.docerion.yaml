@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_kk.xtb.
+type: data
+title: Kazakh ash login string translations
+summary: XML translation bundle with Kazakh translations of ChromeOS ash login UI strings, including welcome text, PIN setup, network prompts, and ChromeVox.

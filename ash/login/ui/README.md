@@ -1,3 +1,12 @@
+---
+type: readme
+title: Login and lock screen UI architecture overview
+summary: Explains the hierarchy of views that make up the Chrome OS authentication UI, from LockScreen down to password, PIN, fingerprint, and public account views.
+relations:
+  - documents /ash/login/ui/access_code_input.cc
+  - documents /ash/login/ui/access_code_input.h
+---
+
 General hierarchy of UI elements in authentication UI:
 
 `LockScreen` is the root element, that  owns `LockContentsView` (potentially

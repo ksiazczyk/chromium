@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen contents view implementation
+// summary: Implements LockContentsView, the root view hosting all lock screen UI such as user views, auth views, bubbles, media controls, and status indicators.
+// relations:
+//   - implements /ash/login/ui/lock_contents_view.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/login/ui/lock_contents_view.h"
 
 #include <algorithm>

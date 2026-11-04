@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login error bubble interface
+// summary: Declares LoginErrorBubble, an alert-dialog bubble for login and lock screen errors with methods to set custom view or plain text content.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/login_base_bubble_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_ERROR_BUBBLE_H_
 #define ASH_LOGIN_UI_LOGIN_ERROR_BUBBLE_H_
 

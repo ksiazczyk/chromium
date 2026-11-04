@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public account menu view implementation
+// summary: Implements the combobox menu for the login screen's expanded public account view, with an internal combobox model that treats group entries as disabled items.
+// relations:
+//   - implements /ash/login/ui/public_account_menu_view.h
+//   - depends_on /ash/login/ui/hover_notifier.h
+//   - depends_on /ash/login/ui/non_accessible_view.h
+// ---
+
 #include "ash/login/ui/public_account_menu_view.h"
 
 #include "ash/login/ui/hover_notifier.h"

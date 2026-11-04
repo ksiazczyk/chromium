@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake login detachable base model implementation
+// summary: Implements a fake LoginDetachableBaseModel that tracks last used and paired detachable bases and forwards pairing status to the data dispatcher.
+// relations:
+//   - implements /ash/login/ui/fake_login_detachable_base_model.h
+//   - depends_on /ash/login/ui/login_data_dispatcher.h
+//   - depends_on /ash/public/cpp/session/user_info.h
+// ---
+
 #include "ash/login/ui/fake_login_detachable_base_model.h"
 
 #include "ash/login/ui/login_data_dispatcher.h"

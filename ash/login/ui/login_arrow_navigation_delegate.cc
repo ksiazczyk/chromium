@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login arrow key navigation delegate
+// summary: Handles arrow key events on the login screen, moving focus to the previous or next user for left and right keys.
+// relations:
+//   - implements /ash/login/ui/login_arrow_navigation_delegate.h
+//   - depends_on /ash/login/ui/lock_screen.h
+// ---
+
 #include "ash/login/ui/login_arrow_navigation_delegate.h"
 
 #include "ash/login/ui/lock_screen.h"

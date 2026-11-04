@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated auth factors label wrapper declaration
+// summary: Declares AnimatedAuthFactorsLabelWrapper, a view that animates label transitions for authentication factors and exposes the current label.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/auth_factor_model.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_LOGIN_UI_ANIMATED_AUTH_FACTORS_LABEL_WRAPPER_H_
 #define ASH_LOGIN_UI_ANIMATED_AUTH_FACTORS_LABEL_WRAPPER_H_
 

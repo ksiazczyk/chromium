@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local authentication request controller unit test
+// summary: Unit tests for the local authentication request controller covering password and PIN authentication flows with fake cryptohome clients.
+// relations:
+//   - tests /ash/login/ui/local_authentication_request_controller_impl.h
+//   - depends_on /ash/login/ui/login_test_base.h
+// ---
+
 #include "ash/login/ui/local_authentication_request_controller_impl.h"
 
 #include <memory>

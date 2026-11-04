@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthIconView unit tests
+// summary: Unit tests for AuthIconView verifying that gesture taps and mouse presses trigger the tap-or-click callback.
+// relations:
+//   - tests /ash/login/ui/auth_icon_view.h
+//   - depends_on /ash/login/ui/auth_icon_view.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/login/ui/auth_icon_view.h"
 
 #include "ash/test/ash_test_base.h"

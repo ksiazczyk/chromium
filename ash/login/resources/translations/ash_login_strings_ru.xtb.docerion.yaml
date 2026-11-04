@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_ru.xtb.
+type: data
+title: Ash login strings translation bundle (Russian)
+summary: Russian XTB translation bundle with localized Chrome OS login and sign-in UI strings covering setup, PIN, network, and device enrollment messages.

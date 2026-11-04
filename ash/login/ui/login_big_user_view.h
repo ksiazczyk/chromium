@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginBigUserView class declaration
+// summary: Declares a container view for the login screen holding either a LoginAuthUserView or a LoginPublicAccountUserView, with a TestApi for tests.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - has_part /ash/login/ui/login_auth_user_view.h
+//   - depends_on /ash/login/ui/login_user_view.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_BIG_USER_VIEW_H_
 #define ASH_LOGIN_UI_LOGIN_BIG_USER_VIEW_H_
 

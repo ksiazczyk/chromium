@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated auth factors label implementation
+// summary: Implements a wrapper view that cross-fades between previous and current authentication factor labels using timed layer animations.
+// relations:
+//   - depends_on /ash/login/ui/animated_auth_factors_label_wrapper.h
+//   - depends_on /ash/style/ash_color_id.h
+//   - depends_on /base/time/time.h
+// ---
+
 #include "ash/login/ui/animated_auth_factors_label_wrapper.h"
 
 #include "ash/strings/grit/ash_strings.h"

@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_id.xtb.
+type: data
+title: Indonesian ash login string translations
+summary: XML translation bundle with Indonesian translations of ChromeOS ash login UI strings, including welcome text, debug features, PIN setup, and enrollment messages.

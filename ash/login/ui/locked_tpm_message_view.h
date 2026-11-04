@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM locked message view declaration
+// summary: Declares the view that shows a TPM locked message to the user, including a method to update the remaining time.
+// relations:
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOCKED_TPM_MESSAGE_VIEW_H_
 #define ASH_LOGIN_UI_LOCKED_TPM_MESSAGE_VIEW_H_
 

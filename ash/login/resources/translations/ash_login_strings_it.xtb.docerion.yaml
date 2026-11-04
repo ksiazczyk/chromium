@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_it.xtb.
+type: data
+title: Italian ash login string translations
+summary: XML translation bundle with Italian translations of ChromeOS ash login UI strings, including welcome text, network errors, PIN setup, and device registration.

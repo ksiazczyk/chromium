@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_zu.xtb.
+type: data
+title: Zulu translation strings for Ash login UI
+summary: XML translation bundle providing Zulu translations of ChromeOS Ash login and sign-in interface strings, including setup, PIN, network, and accessibility messages.

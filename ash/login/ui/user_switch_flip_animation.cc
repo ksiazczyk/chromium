@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User switch flip animation implementation
+// summary: Implements a layer animation element that flips a layer around the y-axis in two halves for user switching, with a midpoint callback.
+// relations:
+//   - implements /ash/login/ui/user_switch_flip_animation.h
+//   - depends_on /ui/compositor/layer_animation_delegate.h
+//   - depends_on /ui/gfx/animation/tween.h
+// ---
+
 #include "ash/login/ui/user_switch_flip_animation.h"
 
 #include <memory>

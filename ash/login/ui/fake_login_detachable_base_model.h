@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake login detachable base model declaration
+// summary: Declares FakeLoginDetachableBaseModel, a test fake of LoginDetachableBaseModel that hides the dependency on DetachableBaseHandler.
+// relations:
+//   - depends_on /ash/detachable_base/detachable_base_pairing_status.h
+//   - implements /ash/login/ui/login_detachable_base_model.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_LOGIN_UI_FAKE_LOGIN_DETACHABLE_BASE_MODEL_H_
 #define ASH_LOGIN_UI_FAKE_LOGIN_DETACHABLE_BASE_MODEL_H_
 

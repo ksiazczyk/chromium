@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local authentication test API declarations
+// summary: Declares test API classes for simulating password and PIN submission and closing local authentication dialogs, plus access to available auth factors.
+// relations:
+//   - depends_on /ash/auth/views/active_session_auth_view.h
+//   - depends_on /ash/login/ui/local_authentication_request_controller_impl.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOCAL_AUTHENTICATION_TEST_API_H_
 #define ASH_LOGIN_UI_LOCAL_AUTHENTICATION_TEST_API_H_
 

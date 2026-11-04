@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public account menu view class declaration
+// summary: Declares PublicAccountMenuView, a combobox-based menu for selecting session options on the public account login view, with item and selection callback definitions.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ref.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_LOGIN_UI_PUBLIC_ACCOUNT_MENU_VIEW_H_
 #define ASH_LOGIN_UI_PUBLIC_ACCOUNT_MENU_VIEW_H_
 

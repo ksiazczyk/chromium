@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login auth factors view unit tests
+// summary: Unit tests for the auth factors view using fake auth factor models and accessibility event observers.
+// relations:
+//   - tests /ash/login/ui/login_auth_factors_view.h
+//   - depends_on /ash/login/login_screen_controller.h
+//   - depends_on /ash/login/ui/arrow_button_view.h
+// ---
+
 #include "ash/login/ui/login_auth_factors_view.h"
 
 #include "ash/login/login_screen_controller.h"

@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_ky.xtb.
+type: data
+title: Kyrgyz ash login strings translation bundle
+summary: Kyrgyz translations of ChromeOS login, setup and device enrollment UI messages, stored as an XML translation bundle with message IDs and placeholders.

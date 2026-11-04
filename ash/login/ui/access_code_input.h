@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access code input view declarations
+// summary: Declares the AccessCodeInput base interface plus FlexCodeInput and FixedLengthCodeInput views used to enter access codes and PINs.
+// relations:
+//   - depends_on /ash/style/system_textfield.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_LOGIN_UI_ACCESS_CODE_INPUT_H_
 #define ASH_LOGIN_UI_ACCESS_CODE_INPUT_H_
 

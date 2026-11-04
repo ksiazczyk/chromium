@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_zh-HK.xtb.
+type: data
+title: Traditional Chinese (Hong Kong) translation bundle for ash login strings
+summary: Hong Kong Traditional Chinese translations for the ChromeOS ash login and sign-in UI, stored as an XML translation bundle keyed by message IDs.

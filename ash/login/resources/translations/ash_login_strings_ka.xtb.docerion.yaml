@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_ka.xtb.
+type: data
+title: Georgian ash login string translations
+summary: XML translation bundle with Georgian translations of ChromeOS ash login UI strings, covering welcome messages, child PIN setup, guest mode, and themes.

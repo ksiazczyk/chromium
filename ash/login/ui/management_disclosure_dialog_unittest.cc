@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management disclosure dialog unit tests
+// summary: Verifies the lock screen management disclosure dialog, checking its modal type, buttons, and management disclosure labels for an enrolled device.
+// relations:
+//   - tests /ash/login/ui/management_disclosure_dialog.h
+//   - depends_on /ash/login/ui/fake_login_detachable_base_model.h
+//   - depends_on /ash/login/ui/login_test_base.h
+// ---
+
 #include "ash/login/ui/management_disclosure_dialog.h"
 
 #include <string>

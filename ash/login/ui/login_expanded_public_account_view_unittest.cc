@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expanded public account view unit tests
+// summary: Parameterized unit tests for the expanded public account view using fake language and keyboard data across input methods and orientations.
+// relations:
+//   - tests /ash/login/ui/login_expanded_public_account_view.h
+//   - depends_on /ash/login/mock_login_screen_client.h
+//   - depends_on /ash/login/ui/arrow_button_view.h
+// ---
+
 #include "ash/login/ui/login_expanded_public_account_view.h"
 
 #include <algorithm>

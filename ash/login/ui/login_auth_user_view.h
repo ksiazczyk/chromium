@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login auth user view
+// summary: Declares the view that wraps a user view with authentication methods such as password, PIN, fingerprint and Smart Lock.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/auth_factor_model.h
+//   - depends_on /ash/login/ui/login_arrow_navigation_delegate.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_AUTH_USER_VIEW_H_
 #define ASH_LOGIN_UI_LOGIN_AUTH_USER_VIEW_H_
 

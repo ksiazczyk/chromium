@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login PIN keyboard view
+// summary: Declares the LoginPinView PIN keyboard with alphanumeric and numeric styles, key, backspace and submit callbacks, and a test API.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/non_accessible_view.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_PIN_VIEW_H_
 #define ASH_LOGIN_UI_LOGIN_PIN_VIEW_H_
 

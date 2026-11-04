@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen layout constants
+// summary: Defines spacing, margin, padding, and sizing constants used to lay out lock screen and login views in landscape and portrait layouts.
+// ---
+
 #ifndef ASH_LOGIN_UI_LOCK_CONTENTS_VIEW_CONSTANTS_H_
 #define ASH_LOGIN_UI_LOCK_CONTENTS_VIEW_CONSTANTS_H_
 

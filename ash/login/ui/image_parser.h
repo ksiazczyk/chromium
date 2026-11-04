@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login animation image parser header
+// summary: Declares DecodeAnimation, an asynchronous, APNG-capable animation decoding API that reports results via a callback.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/animation_frame.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_LOGIN_UI_IMAGE_PARSER_H_
 #define ASH_LOGIN_UI_IMAGE_PARSER_H_
 

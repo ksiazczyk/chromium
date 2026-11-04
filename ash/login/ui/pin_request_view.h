@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN request view class declaration
+// summary: Declares the PinRequest configuration struct and the PinRequestView dialog with its delegate interface, submission results, and test API.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/access_code_input.h
+//   - depends_on /ash/public/cpp/login_types.h
+// ---
+
 #ifndef ASH_LOGIN_UI_PIN_REQUEST_VIEW_H_
 #define ASH_LOGIN_UI_PIN_REQUEST_VIEW_H_
 

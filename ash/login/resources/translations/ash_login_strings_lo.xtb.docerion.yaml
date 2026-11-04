@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_lo.xtb.
+type: data
+title: Lao ash login strings translation bundle
+summary: Lao translations of ChromeOS login, setup and device enrollment UI messages, stored as an XML translation bundle with message IDs and placeholders.

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login PIN input view unit tests
+// summary: Parameterized unit tests covering PIN submission, empty-PIN unlock on Return, digit entry and accessibility attributes of the PIN input view.
+// relations:
+//   - tests /ash/login/ui/login_pin_input_view.h
+//   - depends_on /ash/login/ui/login_test_base.h
+// ---
+
 #include "ash/login/ui/login_pin_input_view.h"
 
 #include <memory>

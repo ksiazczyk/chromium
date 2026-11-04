@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoginTestBase implementation
+// summary: Implements the base test fixture for views-based login and lock screen tests, providing lock and login screen display, widget creation, and user list management.
+// relations:
+//   - implements /ash/login/ui/login_test_base.h
+//   - depends_on /ash/login/login_screen_controller.h
+//   - depends_on /ash/login/ui/lock_screen.h
+// ---
+
 #include "ash/login/ui/login_test_base.h"
 
 #include <string>

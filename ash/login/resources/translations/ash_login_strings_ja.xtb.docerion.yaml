@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_ja.xtb.
+type: data
+title: Japanese ash login string translations
+summary: XML translation bundle with Japanese translations of ChromeOS ash login UI strings, including welcome text, Android quick setup, PIN login, and enrollment.

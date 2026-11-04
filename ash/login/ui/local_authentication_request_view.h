@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local authentication request view header
+// summary: Declares the local authentication request dialog view, its delegate, view states, and test API.
+// relations:
+//   - depends_on /ui/views/window/dialog_delegate.h
+//   - depends_on /ash/login/ui/login_password_view.h
+//   - depends_on /ash/login/ui/login_button.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOCAL_AUTHENTICATION_REQUEST_VIEW_H_
 #define ASH_LOGIN_UI_LOCAL_AUTHENTICATION_REQUEST_VIEW_H_
 

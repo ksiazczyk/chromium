@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_ar.xtb.
+type: data
+title: Arabic login strings translation bundle
+summary: XML translation bundle with Arabic localized strings for the ChromeOS ash login and setup UI.

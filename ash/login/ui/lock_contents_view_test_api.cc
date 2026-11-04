@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock contents view test API implementation
+// summary: Implements accessors and helpers that expose internal LockContentsView state, such as user views, bubbles, and indicators, for use in tests.
+// relations:
+//   - implements /ash/login/ui/lock_contents_view_test_api.h
+//   - depends_on /ash/login/ui/auth_error_bubble.h
+//   - depends_on /ash/login/ui/kiosk_app_default_message.h
+// ---
+
 #include "ash/login/ui/lock_contents_view_test_api.h"
 
 #include <vector>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Lock auth factor model implementation
+// summary: Implements the Smart Lock auth factor model for the lock screen, mapping Smart Lock states to auth factor states, labels, icons, and arrow button behavior.
+// relations:
+//   - depends_on /ash/login/ui/smart_lock_auth_factor_model.h
+//   - depends_on /ash/login/ui/auth_icon_view.h
+//   - depends_on /ui/gfx/geometry/size.h
+// ---
+
 #include "ash/login/ui/smart_lock_auth_factor_model.h"
 
 #include "ash/login/ui/auth_icon_view.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthPanelDebugView implementation
+// summary: Implements a debug view that hosts either the legacy AuthHub login flow or the new AuthContainerView auth panel for local authentication testing.
+// relations:
+//   - implements /ash/login/ui/auth_panel_debug_view.h
+//   - depends_on /ash/login/ui/auth_panel_debug_view.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+// ---
+
 #include "ash/login/ui/auth_panel_debug_view.h"
 
 #include <memory>

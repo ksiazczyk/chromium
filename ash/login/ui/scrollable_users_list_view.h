@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scrollable users list view class declaration
+// summary: Declares ScrollableUsersListView, a scroll view holding login user views that observes wallpaper color and blur changes and exposes a TestApi for tests.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/login_display_style.h
+//   - depends_on /ash/login/ui/login_user_view.h
+// ---
+
 #ifndef ASH_LOGIN_UI_SCROLLABLE_USERS_LIST_VIEW_H_
 #define ASH_LOGIN_UI_SCROLLABLE_USERS_LIST_VIEW_H_
 
