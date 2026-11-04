@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP extract IO task observer implementation
+// summary: Notifies the DLP daemon about files extracted from archives by observing completed extract IO tasks and registering their source URLs.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/dlp_extract_io_task_observer.h"
 
 #include "base/files/file_enumerator.h"

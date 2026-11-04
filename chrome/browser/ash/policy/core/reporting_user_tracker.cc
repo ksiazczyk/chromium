@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting user tracker implementation
+// summary: Tracks affiliated users in local state so their emails can be included in device status and reporting data.
+// ---
+
 #include "chrome/browser/ash/policy/core/reporting_user_tracker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto enrollment controller implementation
+// summary: Implements the controller that drives the auto-enrollment state determination, tracking network state and applying a safeguard timeout.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/auto_enrollment_controller.h"
 
 #include <memory>

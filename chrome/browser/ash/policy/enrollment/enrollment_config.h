@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment config header
+// summary: Defines the EnrollmentConfig struct with enrollment modes, license types, and OOBE config sources that control how enterprise enrollment proceeds during OOBE.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_ENROLLMENT_ENROLLMENT_CONFIG_H_
 #define CHROME_BROWSER_ASH_POLICY_ENROLLMENT_ENROLLMENT_CONFIG_H_
 

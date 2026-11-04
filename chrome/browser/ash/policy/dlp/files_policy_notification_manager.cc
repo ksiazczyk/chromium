@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilesPolicyNotificationManager implementation
+// summary: Implements the manager that shows DLP and enterprise connectors block and warning notifications and dialogs for file actions on ChromeOS.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/files_policy_notification_manager.h"
 
 #include <cstddef>

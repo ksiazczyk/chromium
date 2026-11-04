@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User cloud policy manager unit tests
+// summary: Unit tests for UserCloudPolicyManagerAsh covering policy initialization, reregistration, refresh scheduling, and OAuth token handling.
+// ---
+
 #include "chrome/browser/ash/policy/core/user_cloud_policy_manager_ash.h"
 
 #include <memory>

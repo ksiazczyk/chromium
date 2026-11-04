@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceCloudPolicyValidator typedef
+// summary: Defines DeviceCloudPolicyValidator as a CloudPolicyValidator typedef specialized for Chrome device settings protos.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_CLOUD_POLICY_VALIDATOR_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_CLOUD_POLICY_VALIDATOR_H_
 

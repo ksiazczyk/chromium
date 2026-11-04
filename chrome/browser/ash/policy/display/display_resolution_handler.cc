@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the DeviceDisplayResolution device policy handler
+// summary: Implements the handler that applies resolution and scale settings from the DeviceDisplayResolution policy to internal and external displays.
+// ---
+
 #include "chrome/browser/ash/policy/display/display_resolution_handler.h"
 
 #include <optional>

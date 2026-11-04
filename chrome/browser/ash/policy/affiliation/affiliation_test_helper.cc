@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationTestHelper implementation
+// summary: Implements helpers that set device and user affiliation IDs, write user policy key files, register and log in users, and prepare login command line switches.
+// ---
+
 #include "chrome/browser/ash/policy/affiliation/affiliation_test_helper.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device cloud policy client factory declaration
+// summary: Declares CreateDeviceCloudPolicyClientAsh, which builds a CloudPolicyClient for device-level policies in Ash.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_CLOUD_POLICY_CLIENT_FACTORY_ASH_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_CLOUD_POLICY_CLIENT_FACTORY_ASH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment handler implementation
+// summary: 'Implements the ChromeOS enterprise enrollment flow: device registration, policy fetch and validation, OAuth token handling, and device lock via install attributes.'
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/enrollment_handler.h"
 
 #include <optional>

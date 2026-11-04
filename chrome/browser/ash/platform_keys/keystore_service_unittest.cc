@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeystoreService unit tests
+// summary: Unit tests verifying that KeystoreService forwards messages to PlatformKeysService, KeyPermissionsService and TpmChallengeKey and re-encodes arguments.
+// ---
+
 #include "chrome/browser/ash/platform_keys/keystore_service.h"
 
 #include <initializer_list>

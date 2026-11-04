@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device cloud policy browser tests
+// summary: Browser tests for device cloud policy, including rotation of device policy signing keys against a test policy server.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

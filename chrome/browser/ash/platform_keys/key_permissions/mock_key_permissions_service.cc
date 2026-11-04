@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockKeyPermissionsService implementation
+// summary: Implements MockKeyPermissionsService and a factory function that builds the mock for browser contexts in tests.
+// ---
+
 #include "chrome/browser/ash/platform_keys/key_permissions/mock_key_permissions_service.h"
 
 #include <memory>

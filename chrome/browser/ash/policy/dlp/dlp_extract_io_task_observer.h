@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP extract IO task observer class
+// summary: Declares DlpExtractIOTaskObserver, which listens to file manager extract IO task events to inform the DLP daemon about extracted files.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DLP_DLP_EXTRACT_IO_TASK_OBSERVER_H_
 #define CHROME_BROWSER_ASH_POLICY_DLP_DLP_EXTRACT_IO_TASK_OBSERVER_H_
 

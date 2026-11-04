@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilesPolicyNotificationManager browser tests
+// summary: In-process browser tests verifying DLP block and warning notifications, dialogs and IOTask handling for file policy enforcement.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/files_policy_notification_manager.h"
 
 #include <memory>

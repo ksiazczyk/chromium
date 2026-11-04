@@ -1,3 +1,9 @@
+---
+type: readme
+title: Policy affiliation directory overview
+summary: Explains that the directory holds affiliation code determining whether a user and device are managed by the same organization via matching affiliation IDs.
+---
+
 chrome/browser/ash/policy/affiliation
 ==========================================
 

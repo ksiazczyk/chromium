@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationMixin test mixin header
+// summary: Declares AffiliationMixin, a mixin for browser tests that configures device and user affiliation IDs, defaulting to an affiliated user.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_AFFILIATION_AFFILIATION_MIXIN_H_
 #define CHROME_BROWSER_ASH_POLICY_AFFILIATION_AFFILIATION_MIXIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake device attributes implementation
+// summary: Fake DeviceAttributes implementation that returns configurable fake device attribute values for use in tests.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_attributes_fake.h"
 
 #include <optional>

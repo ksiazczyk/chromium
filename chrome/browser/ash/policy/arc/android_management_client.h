@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android management client interface
+// summary: Declares the AndroidManagementClient interface and AndroidManagementClientImpl that determines whether Android management is enabled for the user.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_ARC_ANDROID_MANAGEMENT_CLIENT_H_
 #define CHROME_BROWSER_ASH_POLICY_ARC_ANDROID_MANAGEMENT_CLIENT_H_
 

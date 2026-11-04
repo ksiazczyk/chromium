@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window utility header for shell surface lookup
+// summary: Declares GetShellSurfaceWindow, which returns the aura window of a shell surface with a given app ID, or null when none exists.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DLP_WINDOW_UTIL_H_
 #define CHROME_BROWSER_ASH_POLICY_DLP_WINDOW_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeystoreService implementation for ChromeOS system keystores
+// summary: Implements KeystoreService operations such as certificate handling, key generation, signing and TPM challenge for user and device keystores.
+// ---
+
 #include "chrome/browser/ash/platform_keys/keystore_service.h"
 
 #include <stdint.h>

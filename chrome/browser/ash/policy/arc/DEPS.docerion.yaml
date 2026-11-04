@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC policy directory
+summary: Sets include rules for the directory, blocking //chrome dependencies except for the directory itself and explicitly allowed test paths.

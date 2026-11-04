@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment requisition manager class declaration
+// summary: Declares EnrollmentRequisitionManager, which stores and queries device requisition types such as Remora, Shark, demo mode, Cuttlefish, and Squid.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_ENROLLMENT_ENROLLMENT_REQUISITION_MANAGER_H_
 #define CHROME_BROWSER_ASH_POLICY_ENROLLMENT_ENROLLMENT_REQUISITION_MANAGER_H_
 

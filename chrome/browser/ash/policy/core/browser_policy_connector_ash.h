@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserPolicyConnectorAsh class declaration
+// summary: Declares BrowserPolicyConnectorAsh, the Chrome OS extension of ChromeBrowserPolicyConnector for enterprise device management.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_BROWSER_POLICY_CONNECTOR_ASH_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_BROWSER_POLICY_CONNECTOR_ASH_H_
 

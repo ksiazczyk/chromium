@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformKeysService NSS implementation
+// summary: Implements the NSS-backed part of the platform keys service, performing key generation, signing, encryption and certificate operations on ChromeOS tokens.
+// ---
+
 #include <cert.h>
 #include <certdb.h>
 #include <cryptohi.h>

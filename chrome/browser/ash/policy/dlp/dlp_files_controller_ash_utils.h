@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP files controller utilities header
+// summary: Declares ShowDlpBlockedFiles, a helper that displays a DLP block notification for files blocked by policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DLP_DLP_FILES_CONTROLLER_ASH_UTILS_H_
 #define CHROME_BROWSER_ASH_POLICY_DLP_DLP_FILES_CONTROLLER_ASH_UTILS_H_
 

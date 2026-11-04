@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP files event storage class
+// summary: Declares DlpFilesEventStorage, which stores file events keyed by file ID and destination and filters duplicate events within a cooldown period.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DLP_DLP_FILES_EVENT_STORAGE_H_
 #define CHROME_BROWSER_ASH_POLICY_DLP_DLP_FILES_EVENT_STORAGE_H_
 

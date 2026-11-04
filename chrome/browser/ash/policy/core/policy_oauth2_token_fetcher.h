@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy OAuth2 token fetcher header
+// summary: Declares PolicyOAuth2TokenFetcher, which fetches the device management service OAuth2 token and always reports a result to its callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_POLICY_OAUTH2_TOKEN_FETCHER_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_POLICY_OAUTH2_TOKEN_FETCHER_H_
 

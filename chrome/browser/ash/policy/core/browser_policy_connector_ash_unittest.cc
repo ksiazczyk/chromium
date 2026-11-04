@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BrowserPolicyConnectorAsh
+// summary: Unit test checking user manager integration and wallpaper removal behavior when a user is removed from the device.
+// ---
+
 #include "chrome/browser/ash/policy/core/browser_policy_connector_ash.h"
 
 #include "base/check_deref.h"

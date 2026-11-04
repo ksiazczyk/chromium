@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceCloudPolicyManagerAsh class declaration
+// summary: Declares DeviceCloudPolicyManagerAsh, the CloudPolicyManager specialization that manages device cloud policy connections, observers, and reporting components in Ash.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_CLOUD_POLICY_MANAGER_ASH_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_CLOUD_POLICY_MANAGER_ASH_H_
 

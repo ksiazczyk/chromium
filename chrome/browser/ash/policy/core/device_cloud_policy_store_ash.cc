@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceCloudPolicyStoreAsh implementation
+// summary: Implements the Ash device cloud policy store that loads and stores device policy via D-Bus through the session manager, including DM token validation checks.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_cloud_policy_store_ash.h"
 
 #include <utility>

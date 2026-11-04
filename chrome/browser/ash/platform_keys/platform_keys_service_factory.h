@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformKeysServiceFactory declaration
+// summary: Declares the profile-keyed factory creating PlatformKeysService instances, including a device-wide service and testing-mode hooks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PLATFORM_KEYS_PLATFORM_KEYS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_PLATFORM_KEYS_PLATFORM_KEYS_SERVICE_FACTORY_H_
 

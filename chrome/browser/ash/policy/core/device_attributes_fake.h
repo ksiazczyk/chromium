@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake device attributes class declaration
+// summary: Declares FakeDeviceAttributes, a test double of DeviceAttributes with setters for fake enterprise and device attribute values.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_ATTRIBUTES_FAKE_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_ATTRIBUTES_FAKE_H_
 

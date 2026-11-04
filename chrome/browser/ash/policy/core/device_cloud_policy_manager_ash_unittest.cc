@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceCloudPolicyManagerAsh unit tests
+// summary: Unit tests for the Ash device cloud policy manager, covering initialization, connection setup, enrollment interactions, and policy store readiness.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_cloud_policy_manager_ash.h"
 
 #include <stdint.h>

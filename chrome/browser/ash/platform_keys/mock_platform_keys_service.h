@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PlatformKeysService for tests
+// summary: GMock double for PlatformKeysService that stubs key generation, signing, encryption, decryption and observer calls for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PLATFORM_KEYS_MOCK_PLATFORM_KEYS_SERVICE_H_
 #define CHROME_BROWSER_ASH_PLATFORM_KEYS_MOCK_PLATFORM_KEYS_SERVICE_H_
 

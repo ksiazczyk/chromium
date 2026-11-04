@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device local account implementation
+// summary: Implements device local account helpers and kiosk app info structs for public sessions, web kiosks, isolated web apps, and ArcVM kiosk apps.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_local_account.h"
 
 #include <stddef.h>

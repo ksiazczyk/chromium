@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment token provider header
+// summary: Declares GetEnrollmentToken, which returns the OOBE configuration enrollment token for token-based enrollment on Flex devices.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_ENROLLMENT_ENROLLMENT_TOKEN_PROVIDER_H_
 #define CHROME_BROWSER_ASH_POLICY_ENROLLMENT_ENROLLMENT_TOKEN_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the PSM RLWE test helpers
+// summary: Verifies that client factories produce OPRF and query requests matching the loaded regression test cases.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/psm/rlwe_test_support.h"
 
 #include "device_management_backend.pb.h"

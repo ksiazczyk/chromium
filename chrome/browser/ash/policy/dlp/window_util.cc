@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window utility for finding shell surface windows
+// summary: Implements GetShellSurfaceWindow, which searches all display roots for an aura window whose exo shell surface matches a given app ID.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/window_util.h"
 
 #include "ash/shell.h"

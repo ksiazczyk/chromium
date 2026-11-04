@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake user private token KPM service header
+// summary: Declares a fake UserPrivateTokenKeyPermissionsManagerService and its factory function for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PLATFORM_KEYS_KEY_PERMISSIONS_FAKE_USER_PRIVATE_TOKEN_KPM_SERVICE_H_
 #define CHROME_BROWSER_ASH_PLATFORM_KEYS_KEY_PERMISSIONS_FAKE_USER_PRIVATE_TOKEN_KPM_SERVICE_H_
 

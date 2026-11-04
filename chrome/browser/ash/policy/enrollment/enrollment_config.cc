@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment config implementation
+// summary: Implements determination of the prescribed enrollment configuration, including enrollment modes, license types, recovery handling, and OOBE-config-driven behavior.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/enrollment_config.h"
 
 #include <optional>

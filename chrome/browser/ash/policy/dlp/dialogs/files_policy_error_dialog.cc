@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files policy error dialog implementation
+// summary: Implements the error dialog that lists files blocked by data protection policies, with sections per block reason and learn more links.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/dialogs/files_policy_error_dialog.h"
 
 #include <string>

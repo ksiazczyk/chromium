@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedPolicyKeyLoader class declaration
+// summary: Declares CachedPolicyKeyLoader, which loads and reloads the policy key cached by the session manager for signature verification.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_CACHED_POLICY_KEY_LOADER_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_CACHED_POLICY_KEY_LOADER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-local account policy provider implementation
+// summary: Implements a policy provider that pulls policy for a device-local account from DeviceLocalAccountPolicyService and forwards updates to the policy system.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_local_account_policy_provider.h"
 
 #include <utility>

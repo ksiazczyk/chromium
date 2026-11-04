@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: DLP files test support BUILD.gn
+summary: Defines the test_support static library bundling DLP files test fixtures, utilities and mocks with their build dependencies.

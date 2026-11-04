@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dlp files event storage unit tests
+// summary: Unit tests for DlpFilesEventStorage covering event upsert, cooldown-based deduplication, entry limits and active file event count histograms.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/dlp_files_event_storage.h"
 
 #include <sys/types.h>

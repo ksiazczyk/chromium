@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto enrollment controller unit tests
+// summary: Unit tests for the auto enrollment controller, covering network portal state changes and timeout behavior.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/auto_enrollment_controller.h"
 
 #include <memory>

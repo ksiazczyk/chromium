@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC key permissions manager delegate implementation
+// summary: Implements delegates that track whether corporate keys may be used by ARC and notify observers when the allowance changes.
+// ---
+
 #include "chrome/browser/ash/platform_keys/key_permissions/arc_key_permissions_manager_delegate.h"
 
 #include <algorithm>

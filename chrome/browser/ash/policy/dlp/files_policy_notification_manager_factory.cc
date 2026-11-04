@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilesPolicyNotificationManagerFactory implementation
+// summary: Implements the browser context keyed service factory that builds FilesPolicyNotificationManager instances for profiles with a user.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/files_policy_notification_manager_factory.h"
 
 #include "base/no_destructor.h"

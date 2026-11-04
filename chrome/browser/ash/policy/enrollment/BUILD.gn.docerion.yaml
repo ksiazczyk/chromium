@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enrollment BUILD.gn build configuration
+summary: Defines the enrollment static library, test support and unit test targets with their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display rotation default policy browser tests
+// summary: Browser tests verifying that the display rotation default device policy is applied to displays and that rotation enums stay in sync with the device policy proto.
+// ---
+
 #include "chrome/browser/ash/policy/display/display_rotation_default_handler.h"
 
 #include <memory>

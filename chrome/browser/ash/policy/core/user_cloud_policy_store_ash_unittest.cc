@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User cloud policy store Ash unit tests
+// summary: Unit tests for the Ash user cloud policy store, covering policy storage and public key file updates using a fake session manager client.
+// ---
+
 #include "chrome/browser/ash/policy/core/user_cloud_policy_store_ash.h"
 
 #include <stdint.h>

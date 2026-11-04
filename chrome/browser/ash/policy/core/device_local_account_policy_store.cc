@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device local account policy store implementation
+// summary: Implements loading, validating and storing device-local account policy blobs via session_manager, including a synchronous load path used during profile startup.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_local_account_policy_store.h"
 
 #include <utility>

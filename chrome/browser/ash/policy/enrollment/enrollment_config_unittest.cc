@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enrollment config unit tests
+// summary: Unit tests verifying that EnrollmentConfig yields the correct prescribed enrollment modes for tokens, server-backed state, OOBE configuration, and recovery scenarios.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/enrollment_config.h"
 
 #include "ash/constants/ash_login_pref_names.h"

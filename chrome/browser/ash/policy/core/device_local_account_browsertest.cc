@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device local account browser tests
+// summary: Browser tests for device local accounts, covering kiosk app launches, public sessions, session length limits, and login screen behavior.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_local_account.h"
 
 #include <stddef.h>

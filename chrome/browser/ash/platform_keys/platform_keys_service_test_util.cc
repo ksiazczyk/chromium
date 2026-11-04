@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlatformKeysService test waiters implementation
+// summary: Implements waiter helpers that expose results of asynchronous platform keys service operations such as token, certificate and key location queries.
+// ---
+
 #include "chrome/browser/ash/platform_keys/platform_keys_service_test_util.h"
 
 #include "crypto/nss_key_util.h"

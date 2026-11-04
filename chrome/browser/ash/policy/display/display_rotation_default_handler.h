@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayRotationDefaultHandler applying rotation policy to displays
+// summary: Declares the handler that applies the DisplayRotationDefault device policy until the user overrides it or the policy changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DISPLAY_DISPLAY_ROTATION_DEFAULT_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_DISPLAY_DISPLAY_ROTATION_DEFAULT_HANDLER_H_
 

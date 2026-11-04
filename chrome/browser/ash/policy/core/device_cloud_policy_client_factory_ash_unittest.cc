@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device cloud policy client factory unit tests
+// summary: Unit tests verifying that the Ash device cloud policy client factory passes machine statistics correctly and parses MAC addresses.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_cloud_policy_client_factory_ash.h"
 
 #include "base/test/task_environment.h"

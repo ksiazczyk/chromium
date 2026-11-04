@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display settings handler interface
+// summary: Declares the DisplaySettingsPolicyHandler interface and the DisplaySettingsHandler class that enforces display-related device policies such as rotation default and resolution.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DISPLAY_DISPLAY_SETTINGS_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_DISPLAY_DISPLAY_SETTINGS_HANDLER_H_
 

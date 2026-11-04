@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAttributes interface
+// summary: Interface for accessing device attributes such as domain, asset ID, serial number, hostname and market segment of managed Chrome OS devices.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_ATTRIBUTES_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_ATTRIBUTES_H_
 

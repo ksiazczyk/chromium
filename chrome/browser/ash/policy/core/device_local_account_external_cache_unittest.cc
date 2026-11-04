@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device-local account external cache unit tests
+// summary: Unit tests for the device-local account external cache, covering extension list updates, cache lifecycle, and rollback behavior using mock providers and test URL loaders.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_local_account_external_cache.h"
 
 #include <initializer_list>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the platform keys directory
+summary: Restricts //chrome includes for the directory and allows chrome/browser/net only for the browsertest and service factory files.

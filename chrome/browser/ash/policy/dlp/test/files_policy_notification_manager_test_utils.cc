@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files policy notification manager test utilities
+// summary: Provides helpers to create dummy files, build file system URLs, add copy or move IO tasks and verify DLP warning UMA histograms in tests.
+// ---
+
 
 #include "chrome/browser/ash/policy/dlp/test/files_policy_notification_manager_test_utils.h"
 

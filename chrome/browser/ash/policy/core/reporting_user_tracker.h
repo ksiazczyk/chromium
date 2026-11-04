@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting user tracker header
+// summary: Declares ReportingUserTracker, which maintains the persistent list of users whose emails may be included in reports.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_REPORTING_USER_TRACKER_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_REPORTING_USER_TRACKER_H_
 

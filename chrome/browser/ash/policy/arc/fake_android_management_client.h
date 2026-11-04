@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Android management client header
+// summary: Declares FakeAndroidManagementClient, a fake AndroidManagementClient for tests that returns a configurable result and counts calls.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_ARC_FAKE_ANDROID_MANAGEMENT_CLIENT_H_
 #define CHROME_BROWSER_ASH_POLICY_ARC_FAKE_ANDROID_MANAGEMENT_CLIENT_H_
 

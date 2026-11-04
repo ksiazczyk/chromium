@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for files policy dialogs
+summary: Defines the static library and browser test build targets for the ChromeOS data protection files policy dialogs and their dependencies.

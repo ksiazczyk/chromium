@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key permissions manager implementation
+// summary: Implements the key permissions manager that migrates key permissions from prefs to Chaps and updates corporate and ARC usage flags for keys on a token.
+// ---
+
 #include "chrome/browser/ash/platform_keys/key_permissions/key_permissions_manager_impl.h"
 
 #include <stdint.h>

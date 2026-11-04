@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enrollment test helper implementation
+// summary: Provides setup utilities for enrollment tests, faking OOBE configuration, machine statistics, and Flex device or enrollment token settings.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/enrollment_test_helper.h"
 
 #include "ash/constants/ash_switches.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the affiliation directory
+summary: Restricts //chrome includes for this directory to an explicit allowlist, granting extra //chrome dependencies only to test files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for BrowserPolicyConnectorAsh
+// summary: Browser tests verifying enrollment domain, display domain, managed-by and market segment reporting of the policy connector.
+// ---
+
 #include "base/run_loop.h"
 #include "chrome/browser/ash/policy/core/browser_policy_connector_ash.h"
 #include "chrome/browser/ash/policy/core/device_cloud_policy_manager_ash.h"

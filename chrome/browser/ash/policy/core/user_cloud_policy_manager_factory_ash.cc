@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud policy manager factory for Ash implementation
+// summary: Creates UserCloudPolicyManagerAsh instances for user profiles, skipping signin and lock screen profiles and handling fatal policy loading errors.
+// ---
+
 #include "chrome/browser/ash/policy/core/user_cloud_policy_manager_factory_ash.h"
 
 #include <utility>

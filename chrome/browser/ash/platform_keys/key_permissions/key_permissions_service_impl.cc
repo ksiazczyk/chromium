@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key permissions service implementation
+// summary: Implements KeyPermissionsService, checking key locations and corporate flags to decide whether a user can grant unlimited sign permission for a key.
+// ---
+
 #include "chrome/browser/ash/platform_keys/key_permissions/key_permissions_service_impl.h"
 
 #include <stdint.h>

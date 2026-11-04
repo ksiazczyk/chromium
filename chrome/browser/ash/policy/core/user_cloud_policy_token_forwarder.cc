@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud policy token forwarder implementation
+// summary: Fetches and refreshes the OAuth access token needed by the Ash user cloud policy manager, using retry backoff and a scheduled refresh timer.
+// ---
+
 #include "chrome/browser/ash/policy/core/user_cloud_policy_token_forwarder.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarations for the device display policy test helper and fixture
+// summary: Declares DeviceDisplayCrosTestHelper and DeviceDisplayPolicyCrosBrowserTest used by the display policy browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DISPLAY_DEVICE_DISPLAY_CROS_BROWSER_TEST_H_
 #define CHROME_BROWSER_ASH_POLICY_DISPLAY_DEVICE_DISPLAY_CROS_BROWSER_TEST_H_
 

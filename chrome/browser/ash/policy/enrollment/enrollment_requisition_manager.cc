@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment requisition manager implementation
+// summary: Reads OEM device requisition values from VPD into local state during OOBE and manages requisition-related preferences for enrollment.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/enrollment_requisition_manager.h"
 
 #include <string_view>

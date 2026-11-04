@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device policy ChromeOS test helper implementation
+// summary: Implements test helpers that install owner keys, refresh device policy and wait for device settings or cloud policy updates in ChromeOS tests.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_policy_cros_test_helper.h"
 
 #include <string>

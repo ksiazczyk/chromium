@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files policy string utility header
+// summary: Declares helpers that build titles, button labels and messages for notifications and dialogs about file actions blocked or warned by DLP policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DLP_FILES_POLICY_STRING_UTIL_H_
 #define CHROME_BROWSER_ASH_POLICY_DLP_FILES_POLICY_STRING_UTIL_H_
 

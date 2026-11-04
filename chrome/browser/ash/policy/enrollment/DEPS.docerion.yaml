@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Enrollment directory include rules
+summary: Restricts includes for the enrollment directory and lists the allowed Chrome dependencies for this ChromeOS code.

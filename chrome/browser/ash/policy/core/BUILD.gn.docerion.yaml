@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ash policy core static library
+summary: GN build configuration defining the core static library that lists the Chrome OS policy sources and their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files policy dialog utilities implementation
+// summary: Implements helpers that map Enterprise Connectors file transfer analysis results to block reasons and build dialog info for blocked transfers.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/dialogs/files_policy_dialog_utils.h"
 
 #include "ash/style/typography.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-local account external cache implementation
+// summary: Implements a wrapper around ExternalCache that downloads extensions for a device-local account and forwards cached extension lists to the given loader.
+// ---
+
 #include "chrome/browser/ash/policy/core/device_local_account_external_cache.h"
 
 #include <memory>

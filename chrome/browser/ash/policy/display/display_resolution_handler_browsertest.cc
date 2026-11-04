@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the DeviceDisplayResolution policy handler
+// summary: Browser tests verifying that the DeviceDisplayResolution policy sets resolution and scale on internal and external displays.
+// ---
+
 #include <memory>
 
 #include "ash/constants/ash_switches.h"

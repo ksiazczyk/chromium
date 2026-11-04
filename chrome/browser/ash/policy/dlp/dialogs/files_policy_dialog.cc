@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files policy dialog implementation
+// summary: Implements the FilesPolicyDialog that shows detailed overviews of files blocked or warned by data protection policies, including block reason mapping and learn more links.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/dialogs/files_policy_dialog.h"
 
 #include <cstddef>

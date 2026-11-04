@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud policy store for Ash implementation
+// summary: Implements a user cloud policy store backed by the Chrome OS session_manager, storing and loading policy via DBus with validation and cached policy keys.
+// ---
+
 #include "chrome/browser/ash/policy/core/user_cloud_policy_store_ash.h"
 
 #include <utility>

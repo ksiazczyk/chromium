@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP files test base with external mounts implementation
+// summary: Implements a test fixture that mounts Android, Crostini, DriveFS and removable media file systems for DLP files policy tests on Ash.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/test/dlp_files_test_with_mounts.h"
 
 #include "base/files/file_util.h"

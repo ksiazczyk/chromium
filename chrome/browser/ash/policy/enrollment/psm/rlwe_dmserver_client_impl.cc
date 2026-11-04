@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PSM RLWE DMServer client implementation
+// summary: Implements the RLWE membership protocol over DMServer, sending OPRF and query requests and recording result metrics.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/psm/rlwe_dmserver_client_impl.h"
 
 #include <memory>

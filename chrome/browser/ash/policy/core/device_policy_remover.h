@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device policy remover header
+// summary: Declares RemovePolicies, a generated helper that removes specified device policy proto fields from ChromeDeviceSettingsProto.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_POLICY_REMOVER_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_DEVICE_POLICY_REMOVER_H_
 

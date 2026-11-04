@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayResolutionHandler applying resolution policy to displays
+// summary: Declares the handler that resizes new displays per the DeviceDisplayResolution policy and reapplies it on setting changes or reboot.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DISPLAY_DISPLAY_RESOLUTION_HANDLER_H_
 #define CHROME_BROWSER_ASH_POLICY_DISPLAY_DISPLAY_RESOLUTION_HANDLER_H_
 

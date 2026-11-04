@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP files test base with external mounts header
+// summary: Declares a test fixture for DLP files testing that mounts external components and manages reporting and notification test doubles.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_DLP_TEST_DLP_FILES_TEST_WITH_MOUNTS_H_
 #define CHROME_BROWSER_ASH_POLICY_DLP_TEST_DLP_FILES_TEST_WITH_MOUNTS_H_
 

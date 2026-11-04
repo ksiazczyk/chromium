@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User private token key permissions manager service factory header
+// summary: Declares the UserPrivateTokenKeyPermissionsManagerService and its profile-keyed factory that provide a per-profile KeyPermissionsManager for the user token.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PLATFORM_KEYS_KEY_PERMISSIONS_USER_PRIVATE_TOKEN_KPM_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_PLATFORM_KEYS_KEY_PERMISSIONS_USER_PRIVATE_TOKEN_KPM_SERVICE_FACTORY_H_
 

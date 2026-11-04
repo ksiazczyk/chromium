@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment state fetcher implementation
+// summary: Determines enrollment state by querying state availability via PSM and fetching server-backed enrollment state from the DMServer for ChromeOS auto enrollment.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/enrollment_state_fetcher.h"
 
 #include <memory>

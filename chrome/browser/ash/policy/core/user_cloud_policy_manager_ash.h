@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud policy manager for Ash header
+// summary: Declares UserCloudPolicyManagerAsh, which initializes and enforces user cloud policy for Ash profiles with optional, required, or server-checked enforcement.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_USER_CLOUD_POLICY_MANAGER_ASH_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_USER_CLOUD_POLICY_MANAGER_ASH_H_
 

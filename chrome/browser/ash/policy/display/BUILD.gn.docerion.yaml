@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for display policy handlers and browser tests
+summary: Defines the static library of display policy handlers and the browser test source set with their GN sources and dependencies.

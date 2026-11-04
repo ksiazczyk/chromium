@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android management client implementation
+// summary: Implements AndroidManagementClientImpl, which checks Android management status via the device management service after fetching an OAuth access token.
+// ---
+
 #include "chrome/browser/ash/policy/arc/android_management_client.h"
 
 #include <utility>

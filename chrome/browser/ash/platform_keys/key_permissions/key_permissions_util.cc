@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key permissions utilities implementation
+// summary: Implements helpers that read and mark corporate key usage in profile prefs and serialize or deserialize chaps KeyPermissions protobuf messages.
+// ---
+
 #include "chrome/browser/ash/platform_keys/key_permissions/key_permissions_util.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shutdown policy browser tests
+// summary: Browser tests checking that the reboot-on-shutdown device policy controls whether the shutdown button appears on the login and lock screens.
+// ---
+
 #include <memory>
 #include <string>
 

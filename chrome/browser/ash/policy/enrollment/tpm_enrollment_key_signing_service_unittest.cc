@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TPM enrollment key signing service unit tests
+// summary: Unit tests covering successful and failed data signing with the TPM enrollment key using a fake attestation client.
+// ---
+
 #include "chrome/browser/ash/policy/enrollment/tpm_enrollment_key_signing_service.h"
 
 #include <utility>

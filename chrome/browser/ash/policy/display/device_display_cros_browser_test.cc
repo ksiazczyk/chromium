@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper and base fixture for device display policy browser tests
+// summary: Implements a helper for reading display resolution, scale and rotation plus a browser test base class for device display policy tests.
+// ---
+
 #include "chrome/browser/ash/policy/display/device_display_cros_browser_test.h"
 
 #include "ash/display/display_configuration_controller.h"

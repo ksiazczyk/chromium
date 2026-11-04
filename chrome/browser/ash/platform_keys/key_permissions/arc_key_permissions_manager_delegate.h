@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC key permissions manager delegate declarations
+// summary: Declares ArcKpmDelegate and its user and system token implementations that observe ARC usage allowance for corporate keys.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PLATFORM_KEYS_KEY_PERMISSIONS_ARC_KEY_PERMISSIONS_MANAGER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_PLATFORM_KEYS_KEY_PERMISSIONS_ARC_KEY_PERMISSIONS_MANAGER_DELEGATE_H_
 

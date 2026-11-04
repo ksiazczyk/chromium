@@ -1,3 +1,9 @@
+---
+type: readme
+title: chrome/browser/ash/policy README
+summary: Explains that the directory holds policy management and core policy feature code and should not receive new policy logic for other features.
+---
+
 chrome/browser/ash/policy
 ==========================================
 

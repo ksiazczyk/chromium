@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the DLP directory
+summary: Lists the email addresses of code owners responsible for reviewing changes in the DLP directory.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the PSM RLWE enrollment client
+summary: Defines the psm static library, test_support library and unit_tests source set with their sources and dependencies.

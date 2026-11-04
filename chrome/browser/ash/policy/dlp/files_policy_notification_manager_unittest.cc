@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilesPolicyNotificationManager unit tests
+// summary: Unit tests for FilesPolicyNotificationManager covering warning titles, buttons and notification behavior for DLP file actions.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/files_policy_notification_manager.h"
 
 #include <string>

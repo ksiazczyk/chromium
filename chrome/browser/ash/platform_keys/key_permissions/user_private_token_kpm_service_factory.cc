@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User private token key permissions manager service factory
+// summary: Implements the profile-keyed service and factory that create a KeyPermissionsManagerImpl for the user private token and register the one-time migration pref.
+// ---
+
 #include "chrome/browser/ash/platform_keys/key_permissions/user_private_token_kpm_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CachedPolicyKeyLoader
+// summary: Unit tests covering key loading and reloading with a fake cryptohome misc client and temporary key files.
+// ---
+
 #include "chrome/browser/ash/policy/core/cached_policy_key_loader.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP files controller browser tests
+// summary: In-process browser tests verifying that the Ash DLP files controller allows or blocks file selections and uploads according to policy rules.
+// ---
+
 #include "chrome/browser/ash/policy/dlp/dlp_files_controller_ash.h"
 
 #include <vector>

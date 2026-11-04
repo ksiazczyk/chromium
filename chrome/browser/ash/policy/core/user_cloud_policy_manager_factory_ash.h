@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud policy manager factory for Ash header
+// summary: Declares the factory function that creates a UserCloudPolicyManagerAsh for a given profile, returning null for non-user or unmanaged profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_CORE_USER_CLOUD_POLICY_MANAGER_FACTORY_ASH_H_
 #define CHROME_BROWSER_ASH_POLICY_CORE_USER_CLOUD_POLICY_MANAGER_FACTORY_ASH_H_
 

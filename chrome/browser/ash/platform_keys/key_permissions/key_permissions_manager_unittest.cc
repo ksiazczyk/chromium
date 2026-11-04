@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Key permissions manager unit tests
+// summary: Unit tests for KeyPermissionsManagerImpl covering permission migration and ARC usage flag updates using fake delegates and mocked platform keys services.
+// ---
+
 #include "chrome/browser/ash/platform_keys/key_permissions/key_permissions_manager.h"
 
 #include <map>
