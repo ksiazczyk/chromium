@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCreator interface for creating tabs
+// summary: Interface defining methods to create new tabs, frozen tabs from saved state, and launch URLs, returning null when creation is asynchronous.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.build.annotations.NullMarked;

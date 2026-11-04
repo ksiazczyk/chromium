@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handler for tab group suggestion lifecycle events
+// summary: Handles observer lifecycle events for tab group suggestions, forwarding user responses such as accepted, dismissed, or ignored exactly once to registered listeners.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import org.chromium.base.Callback;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabContentManagerUnitTest
+// summary: Unit tests for TabContentManager, including native view readback bitmap sizing with vertical tabs enabled and disabled.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import static org.junit.Assert.assertEquals;

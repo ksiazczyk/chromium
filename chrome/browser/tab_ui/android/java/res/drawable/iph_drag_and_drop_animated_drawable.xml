@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Drag and drop IPH animated drawable
+summary: Animated vector drawable that runs the in-product-help drag-and-drop animations for hovered and selected cards and touch points.
+-->
+
 <animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:drawable="@drawable/iph_drag_and_drop_drawable">
     <target

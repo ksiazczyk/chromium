@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabUiUnitTestUtils
+// summary: Utility that creates mocked and initialized Tab objects with id, title, and URL for use in Tab UI unit tests.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.mockito.Mockito.doReturn;

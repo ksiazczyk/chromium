@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_kn.xtb.
+type: data
+title: Kannada Android tab UI strings
+summary: Kannada translation bundle for Chrome Android tab UI, covering tab group save, leave, ungroup, and delete dialogs.

@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_fa.xtb.
+type: data
+title: Android tab UI strings in Persian
+summary: Persian translation bundle for Chrome on Android tab UI, covering shared tab group keep, leave and delete prompts.

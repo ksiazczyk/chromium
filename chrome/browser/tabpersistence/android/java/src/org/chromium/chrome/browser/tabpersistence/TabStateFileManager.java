@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStateFileManager
+// summary: Saves and restores tab state to and from files, handling encrypted incognito tabs and FlatBuffer file variants.
+// ---
+
 package org.chromium.chrome.browser.tabpersistence;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

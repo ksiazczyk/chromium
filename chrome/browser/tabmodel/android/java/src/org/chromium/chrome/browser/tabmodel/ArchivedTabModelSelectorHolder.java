@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchivedTabModelSelectorHolder
+// summary: Static holder for the per-profile archived TabModelSelector lookup function, a temporary fix for a crash when clearing browsing data.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.build.annotations.NullMarked;

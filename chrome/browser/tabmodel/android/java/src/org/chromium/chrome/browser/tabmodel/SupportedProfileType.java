@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportedProfileType
+// summary: 'IntDef annotation defining the profile types an activity supports: unset, regular, off-the-record, and mixed.'
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import androidx.annotation.IntDef;

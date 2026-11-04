@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabClosureParamsUnitTest
+// summary: Unit tests for TabClosureParams verifying builder defaults, non-default values, and that unsupported setters assert for a given close type.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

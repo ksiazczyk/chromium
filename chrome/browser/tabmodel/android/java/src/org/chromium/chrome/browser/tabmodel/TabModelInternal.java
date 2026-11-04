@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelInternal interface
+// summary: Package-private internal interface extending TabModel with methods for moving tabs out of groups, closing and removing tabs, and notifying active state and tab group changes.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import androidx.annotation.VisibleForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailProvider interface for tab grid card thumbnails
+// summary: Java interface that supplies thumbnails for tab grid cards, with metadata classes describing single tabs, tab groups, and saved tab groups.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import android.graphics.drawable.Drawable;

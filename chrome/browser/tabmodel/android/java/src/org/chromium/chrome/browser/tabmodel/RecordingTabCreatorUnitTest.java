@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecordingTabCreatorUnitTest
+// summary: Unit tests for RecordingTabCreator covering delegation of tab creation and recording of new tab creation data such as URLs, launch types, positions, and frozen tabs.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

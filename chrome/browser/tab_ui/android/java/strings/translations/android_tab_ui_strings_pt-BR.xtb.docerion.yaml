@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_pt-BR.xtb.
+type: data
+title: Android tab UI strings in Brazilian Portuguese
+summary: Translation bundle with Brazilian Portuguese localized strings for the Android tab UI, covering tab group dialogs for leaving, deleting, and ungrouping shared tab groups.

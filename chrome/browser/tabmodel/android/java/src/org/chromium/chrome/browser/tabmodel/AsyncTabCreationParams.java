@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncTabCreationParams
+// summary: AsyncTabParams implementation carrying data such as load URL parameters and WebContents used later when a tab is opened via an intent.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import android.content.ComponentName;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThumbnailFetcherUnitTest
+// summary: Unit tests for ThumbnailFetcher verifying thumbnail fetch, cancellation, and that a second fetch cancels the first pending callback.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import static org.mockito.ArgumentMatchers.eq;

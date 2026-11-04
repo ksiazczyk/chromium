@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowId annotation marking window identifiers
+// summary: Defines a type-use annotation marking window IDs used to index windows and tab models, which clients should treat as an opaque identifier.
+// ---
+
 package org.chromium.chrome.browser.tabwindow;
 
 import static java.lang.annotation.ElementType.TYPE_USE;

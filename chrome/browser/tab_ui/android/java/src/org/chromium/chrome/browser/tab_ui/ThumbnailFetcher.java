@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailFetcher
+// summary: Asynchronously fetches tab or group thumbnails via a thumbnail provider with support for cancelling ongoing fetches.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import android.graphics.drawable.Drawable;

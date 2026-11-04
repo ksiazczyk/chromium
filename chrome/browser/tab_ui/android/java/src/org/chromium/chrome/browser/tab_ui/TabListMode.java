@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListMode
+// summary: IntDef annotation enumerating the modes for showing the list of tabs, such as grid, bottom strip and vertical.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import androidx.annotation.IntDef;

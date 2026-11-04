@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabWindowManagerUtilsUnitTest
+// summary: Robolectric unit tests for TabWindowManagerUtils covering retrieval of tab group titles and colors across windows, including invalid window IDs and null selector cases.
+// ---
+
 package org.chromium.chrome.browser.tabwindow;
 
 import static org.junit.Assert.assertEquals;

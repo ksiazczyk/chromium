@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelSelectorFactory interface for building tab model selectors
+// summary: Defines a factory interface with methods to build a tabbed TabModelSelector from dependencies and a headless selector for a given window ID and profile.
+// ---
+
 package org.chromium.chrome.browser.tabwindow;
 
 import android.content.Context;

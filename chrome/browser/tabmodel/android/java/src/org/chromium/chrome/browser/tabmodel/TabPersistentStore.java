@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabPersistentStore
+// summary: Interface for saving and loading tab state from persistent storage, including observer callbacks and metadata save modes.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import androidx.annotation.IntDef;

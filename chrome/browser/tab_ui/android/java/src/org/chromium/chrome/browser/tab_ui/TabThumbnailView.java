@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabThumbnailView
+// summary: Custom ImageView that clips tab thumbnails to a card shape with varied corner radii and overlays placeholder background and icon drawables.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabClosureParams
+// summary: Parameters and builder for closing tabs from a TabModel, covering single, multiple, group, and all-tabs closures with undo, restore, and unload-handler options.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import com.google.errorprone.annotations.DoNotMock;

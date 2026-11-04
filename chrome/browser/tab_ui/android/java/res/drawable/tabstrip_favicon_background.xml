@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tab strip favicon background drawable
+summary: Layer-list drawable that draws an inset oval filled with the favicon background color for tab strip favicons.
+-->
+
 <layer-list
 xmlns:android="http://schemas.android.com/apk/res/android" >
     <item

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manager serving tab contents and thumbnails to the UI
+// summary: Serves live or static thumbnail contents of tabs to UI components, managing an in-memory cache and native thumbnail storage through JNI.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

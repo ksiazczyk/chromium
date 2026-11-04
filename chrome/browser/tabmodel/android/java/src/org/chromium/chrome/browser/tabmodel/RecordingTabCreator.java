@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordingTabCreator
+// summary: TabCreator that delegates to another TabCreator while recording properties of created tabs, replacing the live TabModel when diffing tab state stores.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.base.Token;

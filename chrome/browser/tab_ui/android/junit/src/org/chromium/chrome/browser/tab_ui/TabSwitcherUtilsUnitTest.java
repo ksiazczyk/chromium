@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherUtilsUnitTest
+// summary: Unit tests for TabSwitcherUtils verifying hiding the tab switcher to focus a tab and focusing local or synced tab groups.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import static org.junit.Assert.assertFalse;

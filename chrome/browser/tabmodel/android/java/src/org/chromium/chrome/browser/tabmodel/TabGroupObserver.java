@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupObserver interface
+// summary: Observer interface notified about tab group changes such as moves, merges, ungrouping, removals and undo group snackbars.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import androidx.annotation.IntDef;

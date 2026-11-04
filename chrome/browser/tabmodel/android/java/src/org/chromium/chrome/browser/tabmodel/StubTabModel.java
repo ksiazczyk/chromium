@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubTabModel
+// summary: TabModel that throws on all mutating operations to enforce that a window only uses one profile type, regular or incognito.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.base.Token;

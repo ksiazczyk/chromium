@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStateDirectory
+// summary: Manages creation of and access to the base, tabbed mode, and custom tabs directories where tab state is stored.
+// ---
+
 package org.chromium.chrome.browser.tabpersistence;
 
 import android.content.Context;

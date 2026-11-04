@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupUtils
+// summary: Helper class with tab group utilities such as finding selected or first tabs in groups and interacting with tab group sync.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_ka.xtb.
+type: data
+title: Georgian Android tab UI strings
+summary: Georgian translation bundle for Chrome Android tab UI, covering tab group save, leave, ungroup, and delete dialogs.

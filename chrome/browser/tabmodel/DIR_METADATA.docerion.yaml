@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the tabmodel directory
+summary: Declares the monorail component, team email, Android OS, and Buganizer component for the tabmodel directory.

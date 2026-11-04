@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabWindowManagerImpl
+// summary: Implementation of TabWindowManager that manages multiple TabModelSelector instances across different Activities, including tab reparenting, activity state tracking, and tab group sync.
+// ---
+
 package org.chromium.chrome.browser.tabwindow;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

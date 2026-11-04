@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_zh-CN.xtb.
+type: data
+title: Android tab UI strings in Simplified Chinese
+summary: Simplified Chinese translation bundle with Chrome for Android tab UI strings covering tab group actions such as leaving, ungrouping, and deleting shared groups.

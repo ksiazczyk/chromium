@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabModelSelectorTabModelObserverUnitTest
+// summary: Robolectric unit tests covering observer registration for initialized and uninitialized selectors and cleanup on destroy for TabModelSelectorTabModelObserver.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

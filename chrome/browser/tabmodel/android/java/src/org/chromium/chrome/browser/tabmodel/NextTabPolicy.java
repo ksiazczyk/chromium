@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NextTabPolicy
+// summary: IntDef annotation defining hierarchical and locational policies for choosing which tab to show next after a tab is closed.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import androidx.annotation.IntDef;

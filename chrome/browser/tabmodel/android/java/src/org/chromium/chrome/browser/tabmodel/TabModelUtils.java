@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelUtils
+// summary: Static convenience helpers for finding tabs by id or URL, getting the current tab, and selecting tabs in TabLists and TabModels.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.base.Callback;

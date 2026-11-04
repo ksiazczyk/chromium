@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SuggestionLifecycleObserverHandlerUnitTest
+// summary: Unit tests for SuggestionLifecycleObserverHandler verifying that accepted, dismissed, and ignored group suggestions notify the observer and user response callback.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import static org.mockito.ArgumentMatchers.any;

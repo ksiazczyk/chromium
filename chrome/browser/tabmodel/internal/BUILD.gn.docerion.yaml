@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the tabmodel internal Android library
+summary: Defines an android_library target with Java and Kotlin sources for the tab model's AsyncTabParamsManager, kept to preserve Kotlin build support.

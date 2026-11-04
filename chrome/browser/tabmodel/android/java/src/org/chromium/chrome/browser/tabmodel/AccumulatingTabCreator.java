@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccumulatingTabCreator
+// summary: TabCreator implementation that creates no tabs but records all creation arguments for later use or for comparing storage implementations.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.build.annotations.NullMarked;

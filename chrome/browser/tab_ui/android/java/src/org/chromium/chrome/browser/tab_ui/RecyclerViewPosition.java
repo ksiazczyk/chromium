@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecyclerView position and offset holder
+// summary: Simple data structure holding the position of the first visible item in a RecyclerView and its scroll offset.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import org.chromium.build.annotations.NullMarked;

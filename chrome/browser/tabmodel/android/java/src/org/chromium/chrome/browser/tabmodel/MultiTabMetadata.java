@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiTabMetadata
+// summary: Container for metadata of multiple tabs being reparented, with conversion to and from a Bundle for persistence.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

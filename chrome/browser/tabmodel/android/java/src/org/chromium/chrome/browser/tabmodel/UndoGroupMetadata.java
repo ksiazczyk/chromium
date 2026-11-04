@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UndoGroupMetadata interface
+// summary: Interface exposing the created tab group ID and incognito state so an undo snackbar for a tab group operation can be shown correctly.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.base.Token;

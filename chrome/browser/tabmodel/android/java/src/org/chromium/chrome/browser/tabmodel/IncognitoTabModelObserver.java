@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoTabModelObserver
+// summary: Observer interface for incognito tab model lifecycle events, including a delegate for showing and hiding the incognito re-auth dialog.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.build.annotations.NullMarked;

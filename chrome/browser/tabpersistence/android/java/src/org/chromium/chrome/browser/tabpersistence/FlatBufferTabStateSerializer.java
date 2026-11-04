@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlatBufferTabStateSerializer
+// summary: Implements TabStateSerializer using FlatBuffers to serialize and deserialize Chrome tab state, recording deserialization failure histograms.
+// ---
+
 package org.chromium.chrome.browser.tabpersistence;
 
 import androidx.annotation.IntDef;

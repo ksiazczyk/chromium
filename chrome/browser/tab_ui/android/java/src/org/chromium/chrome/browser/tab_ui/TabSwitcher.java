@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcher
+// summary: Interface for the tab switcher covering native initialization, custom views, list size, RecyclerView position, quick delete animation and tab group dialogs.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import org.chromium.base.Token;

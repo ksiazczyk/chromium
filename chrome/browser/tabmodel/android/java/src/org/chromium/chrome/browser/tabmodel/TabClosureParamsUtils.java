@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabClosureParamsUtils
+// summary: Utility for building TabClosureParams, deciding undo availability from touch or mouse motion events and whether beforeunload handlers may run during tab closure.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import android.view.MotionEvent;

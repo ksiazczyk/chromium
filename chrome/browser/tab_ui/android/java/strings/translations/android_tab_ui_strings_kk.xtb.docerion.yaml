@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_kk.xtb.
+type: data
+title: Kazakh Android tab UI strings
+summary: Kazakh translation bundle for Chrome Android tab UI, covering tab group save, leave, ungroup, and delete dialogs.

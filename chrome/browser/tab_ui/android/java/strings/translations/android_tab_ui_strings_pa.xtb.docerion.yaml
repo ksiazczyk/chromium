@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_pa.xtb.
+type: data
+title: Android tab UI strings in Punjabi
+summary: Translation bundle with Punjabi localized strings for the Android tab UI, covering tab group dialogs for leaving, deleting, and ungrouping shared tab groups.

@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_hy.xtb.
+type: data
+title: Armenian Android tab UI strings
+summary: Armenian translation bundle for Chrome Android tab UI, covering tab group save, leave, ungroup, and delete dialogs.

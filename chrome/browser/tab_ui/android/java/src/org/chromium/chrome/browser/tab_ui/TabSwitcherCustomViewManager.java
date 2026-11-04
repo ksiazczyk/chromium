@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcherCustomViewManager
+// summary: Supplies custom views to the tab switcher from non-tab-switcher clients, relaying add, remove and back-press handling through a delegate.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import android.view.View;

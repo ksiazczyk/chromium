@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the tabmodel Android library
+summary: Defines the GN targets and Java source list for the Chrome Android tabmodel library, covering tab, tab group, and incognito model classes.

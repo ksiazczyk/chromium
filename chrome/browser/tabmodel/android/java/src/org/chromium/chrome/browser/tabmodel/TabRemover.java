@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabRemover
+// summary: Interface for closing or removing tabs from a TabModel, including preparation steps and warnings destructive to tab groups.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.base.Callback;

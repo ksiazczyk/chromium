@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupVisualDataStore
+// summary: Persists tab group visual metadata such as title, color, and collapsed state in SharedPreferences, with access routed through TabModel.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.base.ThreadUtils.assertOnUiThread;

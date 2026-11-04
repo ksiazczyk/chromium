@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalidation-aware thumbnail provider interface
+// summary: Interface for thumbnail providers that only request a thumbnail capture when the visual contents have changed since the last capture.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import android.graphics.Canvas;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native implementation of TabWindowManagerObserver
+// summary: Implements the native side of the JNI bridge that creates and destroys the Java observer and forwards tab state initialization callbacks.
+// ---
+
 #include "chrome/browser/tabwindow/tab_window_manager_observer.h"
 
 #include "base/android/jni_android.h"

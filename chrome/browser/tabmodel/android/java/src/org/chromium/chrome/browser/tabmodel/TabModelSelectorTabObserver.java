@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelSelectorTabObserver
+// summary: Observer that broadcasts tab changes for all tabs owned by a TabModelSelector, deferring registration notifications until initialization completes.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.base.ThreadUtils;

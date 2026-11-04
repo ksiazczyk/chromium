@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabWindowManagerImplUnitTest
+// summary: Robolectric unit test for TabWindowManagerImpl verifying that multiple Activities requesting TabModelSelectors, Activity destruction, and related window management behavior are handled correctly.
+// ---
+
 package org.chromium.chrome.browser.tabwindow;
 
 import static org.junit.Assert.assertEquals;

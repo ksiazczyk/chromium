@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_is.xtb.
+type: data
+title: Icelandic Android tab UI strings
+summary: Icelandic translation bundle for Chrome Android tab UI, covering tab group save, leave, ungroup, and delete dialogs.

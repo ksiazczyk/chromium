@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabMetadataFileManager unit tests
+// summary: Robolectric unit tests verifying that tab metadata is correctly saved to and read back from metadata files.
+// ---
+
 package org.chromium.chrome.browser.tabpersistence;
 
 import static org.junit.Assert.assertEquals;

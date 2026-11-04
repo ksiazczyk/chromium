@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelOrderControllerImpl
+// summary: Implementation of TabModelOrderController that computes tab insertion indices based on launch types, pinned tabs, and opener relationships, modeled on the C++ tab strip controller.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MismatchedIndicesHandler
+// summary: Interface letting activities resolve cases where a requested tab model selector index is already assigned to another activity.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import android.app.Activity;

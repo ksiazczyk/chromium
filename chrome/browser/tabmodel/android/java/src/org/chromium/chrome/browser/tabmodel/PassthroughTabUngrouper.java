@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassthroughTabUngrouper
+// summary: Passthrough TabUngrouper implementation that forwards ungrouping of individual tabs or whole tab groups directly into the TabModel.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import androidx.annotation.VisibleForTesting;

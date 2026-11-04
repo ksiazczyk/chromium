@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency rules for the tabmodel directory
+summary: Chromium DEPS rules allowing this directory to include content public Android Java sources.

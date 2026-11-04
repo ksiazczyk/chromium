@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoTabModelImpl
+// summary: TabModel implementation for off-the-record tabs that delegates to a lazily created model and rebuilds the native model only while incognito tabs exist.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.base.Callback;

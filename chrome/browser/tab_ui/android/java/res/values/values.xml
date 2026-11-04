@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Thumbnail cache size resources
+summary: Defines integer resources for the default thumbnail cache size and the maximum write and compression queue sizes of the thumbnail cache.
+-->
+
 <resources>
   <!-- The number of thumbnails that the thumbnail cache can hold. -->
   <integer name="default_thumbnail_cache_size">2</integer>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelDotInfo
+// summary: Simple data class holding whether a notification dot should be shown for the whole tab model and the tab group title that warranted it.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import org.chromium.build.annotations.NullMarked;

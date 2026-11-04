@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupColorUtilsUnitTest
+// summary: Robolectric unit tests verifying the suggested tab group color selection logic of TabGroupColorUtils with mocked tab models.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

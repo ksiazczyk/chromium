@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabClosureParamsUtilsUnitTest
+// summary: Unit tests for TabClosureParamsUtils covering undo allowance for touch, mouse, and null motion inputs plus beforeunload handler enablement.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertFalse;

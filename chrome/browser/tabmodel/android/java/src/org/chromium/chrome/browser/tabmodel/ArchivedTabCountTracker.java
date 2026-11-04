@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchivedTabCountTracker
+// summary: Tracks the total item count in the archived surface by combining archived tab model counts with synced tab group counts.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.base.Callback;

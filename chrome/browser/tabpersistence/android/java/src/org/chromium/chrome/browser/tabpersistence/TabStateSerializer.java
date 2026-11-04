@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStateSerializer interface
+// summary: Interface defining how tab state is serialized to and deserialized from a ByteBuffer.
+// ---
+
 package org.chromium.chrome.browser.tabpersistence;
 
 import org.chromium.build.annotations.NullMarked;

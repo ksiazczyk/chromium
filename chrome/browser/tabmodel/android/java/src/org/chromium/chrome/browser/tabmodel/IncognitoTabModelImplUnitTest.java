@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoTabModelImplUnitTest
+// summary: Robolectric unit tests verifying observer notification ordering and tab group observer attachment in IncognitoTabModelImpl.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

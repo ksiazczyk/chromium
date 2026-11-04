@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupMergeNotificationType annotation
+// summary: IntDef annotation defining whether and how observers are notified about tab group merge events.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import androidx.annotation.IntDef;
