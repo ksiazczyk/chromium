@@ -1,0 +1,4 @@
+# Docerion header of manage_isolated_web_apps_subpage.html.
+type: source
+title: Manage Isolated Web Apps Subpage HTML Template
+summary: HTML template for the subpage element, providing a localized description link and a toggle button bound to the synthetic IWA preference.

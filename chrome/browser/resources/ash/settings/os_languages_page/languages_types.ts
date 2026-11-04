@@ -7,6 +7,12 @@
  * language settings.
  */
 
+// ---docerion
+// type: source
+// title: Language settings type definitions
+// summary: TypeScript interfaces for language, spellcheck and input method models plus the LanguageHelper API used by the language settings.
+// ---
+
 /**
  * Settings and state for a particular enabled language.
  */

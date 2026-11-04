@@ -1,0 +1,4 @@
+# Docerion header of app_notification_row.html.
+type: source
+title: App notification row template
+summary: Polymer template for the app-notification-row element, showing an app icon, title, policy indicator, and a notification permission toggle.

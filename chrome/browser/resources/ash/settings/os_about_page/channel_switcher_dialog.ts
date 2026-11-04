@@ -9,6 +9,12 @@
  * release channel to notify parents of this dialog.
  */
 
+// ---docerion
+// type: source
+// title: Channel switcher dialog element
+// summary: Polymer element implementing the release channel switcher dialog that notifies parents via a target-channel-changed event.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';

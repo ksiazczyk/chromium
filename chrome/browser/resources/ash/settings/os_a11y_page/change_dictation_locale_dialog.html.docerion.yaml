@@ -1,0 +1,4 @@
+# Docerion header of change_dictation_locale_dialog.html.
+type: source
+title: Change dictation locale dialog template
+summary: Polymer template for the dialog that lets users search and select a Dictation speech recognition locale, listing recommended and all available locales.

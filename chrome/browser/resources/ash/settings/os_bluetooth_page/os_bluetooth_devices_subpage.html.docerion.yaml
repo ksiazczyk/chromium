@@ -1,0 +1,4 @@
+# Docerion header of os_bluetooth_devices_subpage.html.
+type: source
+title: Bluetooth devices subpage template
+summary: Template listing currently and previously connected Bluetooth devices, with the Bluetooth toggle and Fast Pair controls.

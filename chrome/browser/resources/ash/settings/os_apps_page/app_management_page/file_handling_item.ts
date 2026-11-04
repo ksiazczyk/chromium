@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App management file handling item element
+// summary: Polymer element rendering the file handling permission toggle, overflow dialog and default app associations link for an app.
+// ---
+
 import './app_management_cros_shared_style.css.js';
 import './toggle_row.js';
 

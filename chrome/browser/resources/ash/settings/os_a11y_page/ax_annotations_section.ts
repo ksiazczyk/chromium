@@ -8,6 +8,12 @@
  * node accessibility annotations. It appears on the chromevox settings page.
  */
 
+// ---docerion
+// type: source
+// title: AX annotations section element
+// summary: Implements the settings-ax-annotations-section element, showing the main node annotations toggle with ScreenAI library install and download progress status.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '../controls/settings_toggle_button.js';
 

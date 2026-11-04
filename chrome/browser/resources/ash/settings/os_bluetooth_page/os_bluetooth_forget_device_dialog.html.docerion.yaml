@@ -1,0 +1,4 @@
+# Docerion header of os_bluetooth_forget_device_dialog.html.
+type: source
+title: Forget device dialog template
+summary: Template for the confirmation dialog shown before a Bluetooth device is forgotten.

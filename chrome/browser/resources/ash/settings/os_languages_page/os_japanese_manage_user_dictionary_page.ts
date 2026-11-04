@@ -8,6 +8,12 @@
  * methods.
  */
 
+// ---docerion
+// type: source
+// title: Japanese manage user dictionary page element
+// summary: Sub-page element for editing Japanese input method user dictionaries, loading them from the IME user data service.
+// ---
+
 import './os_japanese_dictionary_expand.js';
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

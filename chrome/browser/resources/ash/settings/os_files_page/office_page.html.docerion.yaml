@@ -1,0 +1,4 @@
+# Docerion header of office_page.html.
+type: source
+title: Office settings page template
+summary: HTML template with toggles for always moving Microsoft Office files to Google Drive or OneDrive.

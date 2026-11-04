@@ -1,0 +1,4 @@
+# Docerion header of supported_links_item.html.
+type: source
+title: Supported links item template
+summary: Template with a radio group for choosing whether the app or the browser handles supported links, including dialogs and overlap warnings.

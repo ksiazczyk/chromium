@@ -8,6 +8,12 @@
  * information.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth true wireless images element
+// summary: Displays True Wireless earbud images and per-bud battery information for Bluetooth devices in ChromeOS settings.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/bluetooth/bluetooth_battery_icon_percentage.js';
 

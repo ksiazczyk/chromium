@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: App item element
+// summary: Defines the app-management-app-item element that opens the app detail page and records the entry point metric on click.
+// ---
+
 import './app_management_cros_shared_style.css.js';
 import './app_management_cros_shared_vars.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icons.css.js';

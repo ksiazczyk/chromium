@@ -30,6 +30,12 @@
  *   this.$.viewSelector.route = 'view-two';
  */
 
+// ---docerion
+// type: source
+// title: App management DOM switch element
+// summary: Polymer element that attaches only the child view matching the current route-id to the DOM within the app management settings page.
+// ---
+
 // TODO(crbug.com/40639916) Merge with cr-view-manager.
 import {assert} from 'chrome://resources/js/assert.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';

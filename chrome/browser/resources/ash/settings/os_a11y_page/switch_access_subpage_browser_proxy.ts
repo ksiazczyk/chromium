@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access subpage browser proxy
+// summary: Defines the browser proxy that sends Switch Access assignment refresh and setup guide notification messages to the browser.
+// ---
+
 export interface SwitchAccessSubpageBrowserProxy {
   /**
    * Refresh assignments by requesting SwitchAccessHandler send all readable key

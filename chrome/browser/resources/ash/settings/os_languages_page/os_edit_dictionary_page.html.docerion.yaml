@@ -1,0 +1,4 @@
+# Docerion header of os_edit_dictionary_page.html.
+type: source
+title: Edit dictionary page template
+summary: Template for the sub-page where users add and remove custom spellcheck dictionary words.

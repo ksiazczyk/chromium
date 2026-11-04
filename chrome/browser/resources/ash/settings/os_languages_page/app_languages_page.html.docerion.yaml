@@ -1,0 +1,4 @@
+# Docerion header of app_languages_page.html.
+type: source
+title: App languages page template
+summary: HTML template listing apps that support per-app languages, with an action menu to edit or reset an app's language.

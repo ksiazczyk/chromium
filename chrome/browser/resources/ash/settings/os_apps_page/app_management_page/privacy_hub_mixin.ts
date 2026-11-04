@@ -7,6 +7,12 @@
  * controls.
  */
 
+// ---docerion
+// type: source
+// title: Privacy hub mixin
+// summary: Mixin providing privacy hub sensor access state and helpers such as isSensorBlocked for camera, microphone and geolocation permission controls.
+// ---
+
 import {assertNotReached} from '//resources/js/assert.js';
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

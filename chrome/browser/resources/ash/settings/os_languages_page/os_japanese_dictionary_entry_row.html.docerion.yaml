@@ -1,0 +1,4 @@
+# Docerion header of os_japanese_dictionary_entry_row.html.
+type: source
+title: Japanese dictionary entry row template
+summary: HTML template for an editable Japanese dictionary entry row with reading, word, category and comment fields.

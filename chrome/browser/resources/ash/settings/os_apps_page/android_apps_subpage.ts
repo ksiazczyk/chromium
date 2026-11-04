@@ -7,6 +7,12 @@
  * 'android-apps-subpage' is the settings subpage for managing android apps.
  */
 
+// ---docerion
+// type: source
+// title: Android apps settings subpage element
+// summary: Polymer element implementing the Android apps settings subpage, handling Play Store state, deep links, routing, and the disable confirmation dialog.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';

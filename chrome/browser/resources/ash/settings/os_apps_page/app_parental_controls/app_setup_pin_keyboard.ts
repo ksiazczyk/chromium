@@ -9,6 +9,12 @@
  * dialog.
  */
 
+// ---docerion
+// type: source
+// title: App PIN setup keyboard element
+// summary: Polymer element providing PIN entry for setup, validating length, match and numeric rules, and saving the PIN through the mojo handler.
+// ---
+
 import 'chrome://resources/ash/common/quick_unlock/pin_keyboard.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '../../settings_shared.css.js';

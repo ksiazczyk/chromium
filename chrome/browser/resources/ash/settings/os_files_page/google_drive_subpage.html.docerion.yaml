@@ -1,0 +1,4 @@
+# Docerion header of google_drive_subpage.html.
+type: source
+title: Google Drive subpage template
+summary: HTML template for the Google Drive settings subpage with connect and disconnect controls, bulk pinning toggle, and confirmation dialogs.

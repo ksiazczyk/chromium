@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: App management pin to shelf item element
+// summary: Implements the app-management-pin-to-shelf-item element that toggles whether an app is pinned to the shelf and records the setting change.
+// ---
+
 import './toggle_row.js';
 
 import type {App} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';

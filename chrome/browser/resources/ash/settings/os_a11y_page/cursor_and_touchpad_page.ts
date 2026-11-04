@@ -8,6 +8,12 @@
  * for cursor and touchpad accessibility settings.
  */
 
+// ---docerion
+// type: source
+// title: Cursor and touchpad page logic
+// summary: Implements the cursor and touchpad accessibility settings page with auto-click delays, cursor color, mouse keys, and touchpad disable options.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';

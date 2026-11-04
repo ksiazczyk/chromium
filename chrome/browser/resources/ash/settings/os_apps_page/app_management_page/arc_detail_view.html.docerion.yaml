@@ -1,0 +1,4 @@
+# Docerion header of arc_detail_view.html.
+type: source
+title: ARC app detail view template
+summary: HTML template for the ARC app detail view listing pin-to-shelf, notifications, permissions, language, resize lock and supported links settings.

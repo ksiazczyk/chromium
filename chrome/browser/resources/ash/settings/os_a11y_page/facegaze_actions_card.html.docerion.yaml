@@ -1,0 +1,4 @@
+# Docerion header of facegaze_actions_card.html.
+type: source
+title: FaceGaze actions card template
+summary: Template for the settings card that lists configured FaceGaze command pairs with controls to add actions, assign gestures, and remove entries.

@@ -9,6 +9,12 @@
  * internally and action used for user-facing UI.
  */
 
+// ---docerion
+// type: source
+// title: Switch Access action assignment dialog element
+// summary: Implements the dialog element that presents the Switch Access action assignment flow with localized titles for each switch action.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

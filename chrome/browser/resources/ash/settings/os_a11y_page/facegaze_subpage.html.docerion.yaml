@@ -1,0 +1,4 @@
+# Docerion header of facegaze_subpage.html.
+type: source
+title: FaceGaze subpage template
+summary: Template for the FaceGaze settings subpage with the main enable toggle plus the embedded cursor and actions cards.

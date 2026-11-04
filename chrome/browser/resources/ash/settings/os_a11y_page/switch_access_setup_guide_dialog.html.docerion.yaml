@@ -1,0 +1,4 @@
+# Docerion header of switch_access_setup_guide_dialog.html.
+type: source
+title: Switch Access setup guide dialog template
+summary: HTML template for the dialog that walks users through Switch Access setup, covering switch assignment, switch count and auto-scan speed steps.

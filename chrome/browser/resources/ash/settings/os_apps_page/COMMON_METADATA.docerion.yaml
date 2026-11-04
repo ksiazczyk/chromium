@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for os_apps_page
+summary: Shared metadata defining the owning team email, Chrome OS target, and Buganizer component for the os_apps_page directory.

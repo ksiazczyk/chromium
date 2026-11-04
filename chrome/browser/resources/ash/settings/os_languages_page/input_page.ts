@@ -7,6 +7,12 @@
  * for language and input method settings.
  */
 
+// ---docerion
+// type: source
+// title: Input page element for language and input settings
+// summary: Polymer element implementing the ChromeOS settings input sub-page for languages, input methods, spellcheck and dictionary options.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';

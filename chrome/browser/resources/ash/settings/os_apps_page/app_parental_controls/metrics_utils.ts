@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parental controls metrics utilities
+// summary: Records UMA histogram metrics for parental controls dialog actions and PIN dialog errors, keeping enums in sync with histograms.xml.
+// ---
+
 // Used for metrics. Those values are logged to UMA. Entries should not be
 // renumbered and numeric values should never be reused. Please keep in sync
 // with "ChromeOS.OnDeviceControls.DialogAction" in

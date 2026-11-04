@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze add action dialog logic
+// summary: Implements the facegaze-actions-add-dialog element, a paged dialog for pairing facial gestures with macros or custom key combinations when adding FaceGaze actions.
+// ---
+
 /**
  * @fileoverview 'facegaze-actions-add-dialog' is a dialog for
  * adding an action to FaceGaze.

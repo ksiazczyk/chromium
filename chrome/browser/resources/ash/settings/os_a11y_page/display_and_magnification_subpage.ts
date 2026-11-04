@@ -8,6 +8,12 @@
  * subpage for display and magnification accessibility settings.
  */
 
+// ---docerion
+// type: source
+// title: Display and magnification subpage logic
+// summary: Implements the display and magnification accessibility subpage with magnifier zoom, mouse following mode, and color vision deficiency options.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';

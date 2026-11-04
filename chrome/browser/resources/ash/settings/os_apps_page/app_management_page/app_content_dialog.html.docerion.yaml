@@ -1,0 +1,4 @@
+# Docerion header of app_content_dialog.html.
+type: source
+title: App content dialog template
+summary: HTML template for the dialog that lists an app's scope extensions in the app management settings.

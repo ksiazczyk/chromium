@@ -1,0 +1,4 @@
+# Docerion header of app_verify_pin_dialog.html.
+type: source
+title: App PIN verification dialog HTML template
+summary: HTML template for the dialog that verifies an existing PIN, showing error messages and a forgot PIN link.

@@ -7,6 +7,12 @@
  * #import=chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: App management shared CSS variables
+summary: CSS custom properties for the app management UI such as card widths, row heights, font sizes and text colors.
+*/
+
 html {
   --app-management-controlled-by-spacing:
       var(--cr-controlled-by-spacing);

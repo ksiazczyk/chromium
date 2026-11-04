@@ -1,0 +1,4 @@
+# Docerion header of os_japanese_clear_ime_data_dialog.html.
+type: source
+title: Japanese clear IME data dialog template
+summary: HTML template for the dialog that clears personalized conversion and suggestion data of the Japanese input decoder.

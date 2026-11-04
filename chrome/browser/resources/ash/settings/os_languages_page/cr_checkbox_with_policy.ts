@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-checkbox-with-policy element
+// summary: Polymer element wrapping cr-checkbox that adds a policy icon when disabled and manages focus and tab index for iron-list navigation.
+// ---
+
 /**
  * @fileoverview 'cr-checkbox-with-policy' is a cr-checkbox which additionally
  * shows a policy icon with a given message when the checkbox is disabled.

@@ -1,0 +1,4 @@
+# Docerion header of files_settings_card.html.
+type: source
+title: Files settings card template
+summary: HTML template for the files settings card listing Google Drive, OneDrive, Microsoft Office, and SMB share entries, including the add SMB share dialog.

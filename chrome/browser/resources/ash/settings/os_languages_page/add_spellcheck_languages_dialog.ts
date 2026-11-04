@@ -7,6 +7,12 @@
  * adding spell check languages.
  */
 
+// ---docerion
+// type: source
+// title: Add spellcheck languages dialog element
+// summary: Implements the dialog for adding spell check languages, suggesting languages from enabled languages and input methods and toggling spell check on add.
+// ---
+
 import './add_items_dialog.js';
 
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

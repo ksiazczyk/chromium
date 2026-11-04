@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User data service provider singleton
+// summary: Singleton that provides a cached remote connection to the input method user data service.
+// ---
+
 /**
  * @fileoverview Singleton that provides a remote for the UserDataService.
  */

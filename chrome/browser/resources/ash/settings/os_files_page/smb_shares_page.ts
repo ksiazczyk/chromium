@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB shares page element
+// summary: Implements the settings-smb-shares-page element that shows the add SMB share dialog and reacts to route changes and preferences.
+// ---
+
 import 'chrome://resources/ash/common/smb_shares/add_smb_share_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/policy/cr_policy_pref_indicator.js';

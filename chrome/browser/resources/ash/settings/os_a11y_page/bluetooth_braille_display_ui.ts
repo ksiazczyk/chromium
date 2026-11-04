@@ -7,6 +7,12 @@
  * displays.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth braille display UI element
+// summary: Implements the bluetooth-braille-display-ui widget for selecting, connecting to, and pairing with bluetooth braille displays.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '../settings_shared.css.js';

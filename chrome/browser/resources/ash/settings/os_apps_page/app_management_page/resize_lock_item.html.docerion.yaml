@@ -1,0 +1,4 @@
+# Docerion header of resize_lock_item.html.
+type: source
+title: Resize lock item template
+summary: Template for the resize lock toggle row that controls preset window sizes for an app.

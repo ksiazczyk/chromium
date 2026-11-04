@@ -8,6 +8,12 @@
  * Notifications Subpage. Each row contains an app icon, app name, and toggle.
  */
 
+// ---docerion
+// type: source
+// title: App notification row element
+// summary: Custom element for a row in the OS Settings notifications subpage that toggles an app's notification permission via the Mojo handler and records setting changes.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 

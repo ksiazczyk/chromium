@@ -1,0 +1,4 @@
+# Docerion header of sub_apps_item.html.
+type: source
+title: Sub apps item template
+summary: HTML template that lists the sub apps of the selected app with arrow buttons linking to their detail pages.

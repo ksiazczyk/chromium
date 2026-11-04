@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access settings constants
+// summary: Defines Switch Access commands, preference names, auto-scan speed ranges and device types used by the accessibility settings UI.
+// ---
+
 /**
  * Available commands.
  */

@@ -1,0 +1,4 @@
+# Docerion header of input_method_options_page.html.
+type: source
+title: Input method options page template
+summary: HTML template for the input method options sub-page, rendering option sections with toggles, dropdowns, links and dependent options.

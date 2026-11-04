@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze constants and types
+// summary: Defines FaceGaze preference paths, supported macros, facial gestures, conflicting gesture mappings, key combination types, and the FaceGazeCommandPair class.
+// ---
+
 import {FacialGesture} from 'chrome://resources/ash/common/accessibility/facial_gestures.js';
 import {MacroName} from 'chrome://resources/ash/common/accessibility/macro_names.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

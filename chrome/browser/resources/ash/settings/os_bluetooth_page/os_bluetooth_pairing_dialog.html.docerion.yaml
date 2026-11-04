@@ -1,0 +1,4 @@
+# Docerion header of os_bluetooth_pairing_dialog.html.
+type: source
+title: Bluetooth pairing dialog template
+summary: HTML template that hosts the Bluetooth pairing UI inside a cr-dialog for the pairing flow.

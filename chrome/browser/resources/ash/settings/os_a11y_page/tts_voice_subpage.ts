@@ -7,6 +7,12 @@
  * text-to-speech voice settings.
  */
 
+// ---docerion
+// type: source
+// title: Text-to-speech voice settings subpage
+// summary: Implements the settings-tts-voice-subpage element that manages text-to-speech voices, languages, preview playback and TTS extensions.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_expand_button/cr_expand_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

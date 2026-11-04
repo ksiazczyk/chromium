@@ -1,0 +1,4 @@
+# Docerion header of app_notifications_subpage.html.
+type: source
+title: App notifications subpage template
+summary: Polymer template with the manager link row, do-not-disturb and app badging toggles, and a link to browser notification settings.

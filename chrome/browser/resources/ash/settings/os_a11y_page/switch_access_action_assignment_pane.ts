@@ -9,6 +9,12 @@
  * UI.
  */
 
+// ---docerion
+// type: source
+// title: Switch Access action assignment pane element
+// summary: Implements the guided flow for assigning switch keys to actions, handling assignment states, key events, and warning conditions.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

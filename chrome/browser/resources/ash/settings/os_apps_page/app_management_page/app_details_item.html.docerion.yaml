@@ -1,0 +1,4 @@
+# Docerion header of app_details_item.html.
+type: source
+title: App details item template
+summary: HTML template showing an app's type, source, version, and isolated web app update controls in the detail view.

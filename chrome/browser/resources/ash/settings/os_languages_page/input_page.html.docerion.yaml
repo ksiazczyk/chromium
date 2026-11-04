@@ -1,0 +1,4 @@
+# Docerion header of input_page.html.
+type: source
+title: Input page template
+summary: HTML template for the ChromeOS settings input page showing input methods, spellcheck languages and related controls.

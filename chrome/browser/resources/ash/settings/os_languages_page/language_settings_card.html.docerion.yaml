@@ -1,0 +1,4 @@
+# Docerion header of language_settings_card.html.
+type: source
+title: Language settings card template
+summary: HTML template for the language settings card that links to the languages sub-page and shows the prospective UI language.

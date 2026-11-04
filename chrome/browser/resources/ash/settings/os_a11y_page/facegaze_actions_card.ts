@@ -8,6 +8,12 @@
  *  action settings.
  */
 
+// ---docerion
+// type: source
+// title: FaceGaze actions card logic
+// summary: Implements the facegaze-actions-card element that manages FaceGaze action preferences, the command pair list, and the add-action dialog.
+// ---
+
 import 'chrome://resources/cros_components/chip/chip.js';
 import '../controls/settings_dropdown_menu.js';
 import '../os_settings_page/settings_card.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported links item element
+// summary: Custom element that manages app link handling preferences, including the supported links and overlapping apps dialogs.
+// ---
+
 import './app_management_cros_shared_style.css.js';
 import './supported_links_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';

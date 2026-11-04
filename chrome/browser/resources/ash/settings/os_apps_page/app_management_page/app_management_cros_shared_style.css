@@ -10,6 +10,12 @@
  * #include=cr-shared-style cros-color-overrides
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: App management shared styles
+summary: Shared CSS classes for the ChromeOS app management page, defining card containers, permission rows and layout styles.
+*/
+
 .card-container {
   background-color: var(--cros-bg-color);
   border-radius: var(--cr-card-border-radius);

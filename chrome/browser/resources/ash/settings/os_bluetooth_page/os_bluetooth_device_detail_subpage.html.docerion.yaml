@@ -1,0 +1,4 @@
+# Docerion header of os_bluetooth_device_detail_subpage.html.
+type: source
+title: Bluetooth device detail subpage template
+summary: Template for the subpage showing a paired device's connection state, battery info, name, and connect, forget, and rename actions.

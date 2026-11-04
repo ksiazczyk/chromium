@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for os_apps_page
+summary: DIR_METADATA file that pulls in the shared directory metadata via a mixin reference to COMMON_METADATA.

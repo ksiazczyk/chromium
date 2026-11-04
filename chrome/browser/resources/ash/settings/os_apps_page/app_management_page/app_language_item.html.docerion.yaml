@@ -1,0 +1,4 @@
+# Docerion header of app_language_item.html.
+type: source
+title: App language item template
+summary: HTML template for the app language settings row that shows the selected app locale and opens the language selection dialog.

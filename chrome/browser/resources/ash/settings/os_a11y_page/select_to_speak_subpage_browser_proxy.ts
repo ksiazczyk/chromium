@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-Speak browser proxy
+// summary: Browser proxy for the Select-to-Speak subpage that fetches TTS voice data and app locale and triggers voice previews and voice list refreshes.
+// ---
+
 export interface SelectToSpeakSubpageBrowserProxy {
   /**
    * Requests the updated voice data. Returned by the

@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: App management toggle row element
+// summary: Defines the app-management-toggle-row custom element that renders a labeled toggle with icon, managed, disabled, and description states for app settings rows.
+// ---
+
 import './app_management_cros_shared_style.css.js';
 import '//resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 import '//resources/ash/common/cr_elements/policy/cr_policy_indicator.js';

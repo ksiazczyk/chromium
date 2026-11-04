@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app detail view element
+// summary: Polymer element for the Chrome app detail view that fetches extension permission messages for the selected app.
+// ---
+
 import './app_details_item.js';
 import './more_permissions_item.js';
 import './pin_to_shelf_item.js';

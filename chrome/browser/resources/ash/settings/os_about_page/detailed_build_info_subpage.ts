@@ -7,6 +7,12 @@
  * information for ChromeOS.
  */
 
+// ---docerion
+// type: source
+// title: Detailed build info subpage element
+// summary: Polymer element implementing the detailed build info subpage with version, channel and end-of-life information for ChromeOS.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/policy/cr_policy_indicator.js';

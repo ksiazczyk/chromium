@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method options page element
+// summary: Settings sub-page element that lets users view and change options for each input method, backed by CrOS preference dictionaries.
+// ---
+
 /**
  * @fileoverview 'settings-input-method-options-page' is the settings sub-page
  * to allow users to change options for each input method.

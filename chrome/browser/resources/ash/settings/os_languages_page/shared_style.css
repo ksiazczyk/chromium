@@ -7,6 +7,12 @@
  * #import=./shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared styles for the OS languages settings pages
+summary: Shared CSS styles for search fields, dialog layout and centered messages used across the languages settings UI.
+*/
+
 cr-search-field {
   --cr-search-field-clear-icon-fill: var(--cros-icon-color-primary);
   --cr-search-field-clear-icon-margin-end: 8px;

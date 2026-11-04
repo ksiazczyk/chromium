@@ -1,0 +1,4 @@
+# Docerion header of change_device_language_dialog.html.
+type: source
+title: Change device language dialog template
+summary: HTML template for the searchable dialog used to pick a new device language on ChromeOS, with a selectable language list and confirm button.

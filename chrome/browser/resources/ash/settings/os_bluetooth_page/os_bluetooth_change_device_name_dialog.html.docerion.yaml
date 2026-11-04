@@ -1,0 +1,4 @@
+# Docerion header of os_bluetooth_change_device_name_dialog.html.
+type: source
+title: Change device name dialog template
+summary: Polymer template for the dialog that renames a paired Bluetooth device, with input validation and a character counter.

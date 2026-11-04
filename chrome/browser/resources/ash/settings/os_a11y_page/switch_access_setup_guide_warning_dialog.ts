@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access setup guide warning dialog element
+// summary: Implements the warning dialog element that asks users to acknowledge clearing existing switches before rerunning the setup guide.
+// ---
+
 /**
  * @fileoverview 'settings-switch-access-setup-guide-warning-dialog' is a
  * component warning the user that re-running the setup guide will clear their

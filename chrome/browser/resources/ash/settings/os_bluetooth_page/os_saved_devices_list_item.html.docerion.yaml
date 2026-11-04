@@ -1,0 +1,4 @@
+# Docerion header of os_saved_devices_list_item.html.
+type: source
+title: Saved Bluetooth device list item template
+summary: HTML template for a saved device row with device image, name and an action menu offering removal.

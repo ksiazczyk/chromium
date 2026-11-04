@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the OS Bluetooth settings page
+summary: Delegates code ownership for this directory to the shared Ash Bluetooth resources OWNERS file.

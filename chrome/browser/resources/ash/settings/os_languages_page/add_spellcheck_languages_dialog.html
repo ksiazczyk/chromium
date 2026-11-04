@@ -1,6 +1,12 @@
 <!-- TODO(crbug.com/1201535): Move everything to the parent element
      (<os-settings-languages-page>), as this element is trivial. -->
 
+<!--docerion
+type: source
+title: Add spellcheck languages dialog template
+summary: HTML template for the dialog that adds spell check languages, delegating item listing and suggestions to the shared add-items dialog.
+-->
+
 <os-settings-add-items-dialog
     items="[[getAllLanguages_(languages.spellCheckOffLanguages.*)]]"
     suggested-item-ids="[[getSuggestedLanguageCodes_(

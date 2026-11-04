@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze subpage logic
+// summary: Implements the settings-facegaze-subpage element, handling the FaceGaze enable toggle, deep linking, and disable dialog results.
+// ---
+
 import '../os_settings_page/settings_card.js';
 import '../settings_shared.css.js';
 import '../os_settings_page/os_settings_animated_pages.js';

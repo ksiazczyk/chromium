@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for the tools directory
+summary: Per-file OWNERS entry that assigns review ownership of editor_tsconfig.py to mlcui@google.com.

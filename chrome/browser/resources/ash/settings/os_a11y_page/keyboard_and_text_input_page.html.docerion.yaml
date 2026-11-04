@@ -1,0 +1,4 @@
+# Docerion header of keyboard_and_text_input_page.html.
+type: source
+title: Keyboard and text input page template
+summary: HTML template for the keyboard and text input accessibility settings page, with toggles for dictation, switch access, sticky keys and focus highlight.

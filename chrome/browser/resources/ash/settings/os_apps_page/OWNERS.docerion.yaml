@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for os_apps_page
+summary: OWNERS file delegating code review ownership to the Chrome browser web applications OWNERS file.

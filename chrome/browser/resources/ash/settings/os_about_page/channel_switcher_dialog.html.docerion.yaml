@@ -1,0 +1,4 @@
+# Docerion header of channel_switcher_dialog.html.
+type: source
+title: Channel switcher dialog template
+summary: HTML template for the release channel switcher dialog, showing stable, beta and dev options with powerwash and instability warnings.

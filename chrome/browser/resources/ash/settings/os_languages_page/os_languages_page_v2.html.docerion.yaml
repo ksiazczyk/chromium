@@ -1,0 +1,4 @@
+# Docerion header of os_languages_page_v2.html.
+type: source
+title: OS languages page v2 template
+summary: HTML template for the ChromeOS languages settings page with device language, app languages, preferred languages and Google account language sections.

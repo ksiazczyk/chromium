@@ -1,0 +1,4 @@
+# Docerion header of app_management_page.html.
+type: source
+title: App management page template
+summary: HTML template for the settings app management page that hosts the main view and passes the search term.

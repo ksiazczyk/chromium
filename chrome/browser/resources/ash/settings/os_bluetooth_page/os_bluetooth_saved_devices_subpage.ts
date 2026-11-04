@@ -7,6 +7,12 @@
  * Settings subpage for managing Bluetooth saved devices.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth saved devices subpage element
+// summary: Subpage element that manages Fast Pair saved Bluetooth devices, handling loading, error, and empty states via browser proxy web UI listeners.
+// ---
+
 import '../settings_shared.css.js';
 import './os_saved_devices_list.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of os_saved_devices_list.html.
+type: source
+title: Saved Bluetooth devices list template
+summary: HTML template that renders the iron-list of saved Fast Pair Bluetooth devices.

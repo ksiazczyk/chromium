@@ -1,0 +1,4 @@
+# Docerion header of os_bluetooth_true_wireless_images.html.
+type: source
+title: True wireless device images template
+summary: HTML template showing device images and battery percentages for true wireless left bud, right bud, and case, with a default fallback view.

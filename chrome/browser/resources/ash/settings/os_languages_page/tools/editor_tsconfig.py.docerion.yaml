@@ -1,0 +1,4 @@
+# Docerion header of editor_tsconfig.py.
+type: script
+title: Editor tsconfig generator for OS languages page settings
+summary: Python script that rewrites build-generated tsconfig.json files so editors resolve source paths instead of generated files, with an option to remove lazy_load.ts.

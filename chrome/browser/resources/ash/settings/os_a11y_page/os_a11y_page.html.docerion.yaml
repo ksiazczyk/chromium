@@ -1,0 +1,4 @@
+# Docerion header of os_a11y_page.html.
+type: source
+title: Accessibility settings page template
+summary: HTML template for the ChromeOS accessibility settings page, with toggles and link rows to text-to-speech, magnification, keyboard, cursor, and captions subpages.

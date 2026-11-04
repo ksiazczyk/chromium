@@ -1,0 +1,4 @@
+# Docerion header of facegaze_cursor_card.html.
+type: source
+title: FaceGaze cursor card template
+summary: Template for the FaceGaze cursor settings card with toggles and sliders for combined or separately adjusted cursor speed in each direction.

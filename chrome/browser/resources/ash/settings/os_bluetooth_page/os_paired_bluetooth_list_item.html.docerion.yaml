@@ -1,0 +1,4 @@
+# Docerion header of os_paired_bluetooth_list_item.html.
+type: source
+title: Paired Bluetooth device list item template
+summary: HTML template for a paired device row showing icon, name, battery info, connecting state and policy indicator.

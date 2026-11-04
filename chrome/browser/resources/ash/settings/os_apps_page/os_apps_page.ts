@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS apps settings page element
+// summary: Polymer element for the ChromeOS settings Apps page, wiring app management, app notifications, Android apps, and parental controls features.
+// ---
+
 /**
  * @fileoverview
  * 'os-settings-apps-page' is the settings page containing app related settings.

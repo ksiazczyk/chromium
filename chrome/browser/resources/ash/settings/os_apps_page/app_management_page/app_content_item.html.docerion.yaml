@@ -1,0 +1,4 @@
+# Docerion header of app_content_item.html.
+type: source
+title: App content item template
+summary: HTML template for the app content link row that opens the app content dialog when clicked.

@@ -7,6 +7,12 @@
  * the browser.
  */
 
+// ---docerion
+// type: source
+// title: About page browser proxy
+// summary: Browser proxy and shared types for the ChromeOS About settings page, defining release channel and update status enums, interfaces and helper functions.
+// ---
+
 import {assertNotReached} from 'chrome://resources/js/assert.js';
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 

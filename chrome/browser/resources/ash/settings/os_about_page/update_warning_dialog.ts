@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update warning dialog element for cellular updates
+// summary: Polymer element 'settings-update-warning-dialog' that warns users about downloading an OS update over mobile data and requests the update over cellular when they continue.
+// ---
+
 /**
  * @fileoverview 'settings-update-warning-dialog' is a component warning the
  * user about update over mobile data. By clicking 'Continue', the user

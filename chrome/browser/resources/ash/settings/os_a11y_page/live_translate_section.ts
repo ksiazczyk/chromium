@@ -8,6 +8,12 @@
  * (chrome://os-settings/audioAndCaptions) on ChromeOS.
  */
 
+// ---docerion
+// type: source
+// title: Live Translate section element
+// summary: Polymer element for Live Translate settings on the Audio and captions subpage, listing translatable languages and recording enable metrics.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '../controls/settings_dropdown_menu.js';
 import '../controls/settings_toggle_button.js';

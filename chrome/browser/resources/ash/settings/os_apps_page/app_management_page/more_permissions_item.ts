@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App management more permissions item element
+// summary: Polymer element that opens the native settings page for an app on click and records the corresponding user action.
+// ---
+
 import './app_management_cros_shared_style.css.js';
 import '//resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 

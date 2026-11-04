@@ -7,6 +7,12 @@
  * #import=chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared CSS variables for the OS languages settings
+summary: Defines shared CSS custom properties, such as dialog horizontal padding, for the languages settings UI.
+*/
+
 html {
   --dialog-horizontal-padding: 24px;
 }

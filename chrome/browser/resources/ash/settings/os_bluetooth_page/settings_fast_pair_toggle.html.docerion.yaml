@@ -1,0 +1,4 @@
+# Docerion header of settings_fast_pair_toggle.html.
+type: source
+title: Fast Pair toggle template
+summary: HTML template for the settings toggle button that enables or disables Fast Pair via the ash.fast_pair.enabled preference.

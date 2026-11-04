@@ -6,6 +6,12 @@
  * @fileoverview A row that represents an editable Japanese dictionary entry.
  */
 
+// ---docerion
+// type: source
+// title: Japanese dictionary entry row element
+// summary: Element implementing an editable Japanese dictionary entry row, including the part-of-speech dropdown options.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 
 import type {CrInputElement} from 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth pairing dialog element
+// summary: Polymer element that displays the Bluetooth pairing dialog and records settings pairing dialog UI metrics.
+// ---
+
 /**
  * @fileoverview
  * UI element for displaying Bluetooth pairing dialog.

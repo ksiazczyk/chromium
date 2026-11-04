@@ -1,0 +1,4 @@
+# Docerion header of dom_switch.html.
+type: source
+title: DOM switch element template
+summary: HTML template for the app-management-dom-switch element, providing the slot that holds the templated child views.

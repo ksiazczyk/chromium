@@ -8,6 +8,12 @@
  * Select-to-speak settings.
  */
 
+// ---docerion
+// type: source
+// title: Select-to-Speak subpage element
+// summary: Implements the Select-to-Speak settings subpage element, managing voice data, language filters, voice previews, and related preferences.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';

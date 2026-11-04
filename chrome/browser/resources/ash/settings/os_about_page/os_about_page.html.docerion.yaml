@@ -1,0 +1,4 @@
+# Docerion header of os_about_page.html.
+type: source
+title: OS About page template
+summary: HTML template for the ChromeOS About page showing product identity, update status, end-of-life and regulatory information.

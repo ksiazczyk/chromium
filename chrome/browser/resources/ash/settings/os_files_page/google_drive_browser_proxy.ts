@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Drive browser proxy
+// summary: Singleton Mojo proxy that communicates with the browser process GoogleDrivePageHandler and re-exports status and pinning stage types.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote, PageRemote} from '../mojom-webui/google_drive_handler.mojom-webui.js';
 import type {Status} from '../mojom-webui/google_drive_handler.mojom-webui.js';
 import {Stage} from '../mojom-webui/pinning_manager_types.mojom-webui.js';

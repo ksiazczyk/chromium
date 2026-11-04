@@ -8,6 +8,12 @@
  * Bluetooth device.
  */
 
+// ---docerion
+// type: source
+// title: Saved devices list item element
+// summary: Polymer list item that displays a saved Fast Pair Bluetooth device with an action menu that opens the remove-saved-device dialog and records UI metrics.
+// ---
+
 import '../settings_shared.css.js';
 import '../os_settings_icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';

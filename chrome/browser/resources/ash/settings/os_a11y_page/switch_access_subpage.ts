@@ -7,6 +7,12 @@
  * Switch Access settings.
  */
 
+// ---docerion
+// type: source
+// title: Switch Access settings subpage element
+// summary: Implements the Switch Access settings subpage, managing switch assignments, auto-scan speed sliders and the setup guide dialogs.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import '../controls/settings_slider.js';

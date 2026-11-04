@@ -1,0 +1,4 @@
+# Docerion header of supported_links_overlapping_apps_dialog.html.
+type: source
+title: Overlapping apps dialog template
+summary: Confirmation dialog template warning that other apps also handle the same links before changing the preference.
