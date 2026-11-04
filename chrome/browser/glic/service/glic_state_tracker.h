@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic state tracker API
+// summary: Declares GlicStateTracker, which measures total time a boolean state remains true and records each uninterrupted period to a histogram.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_GLIC_STATE_TRACKER_H_
 #define CHROME_BROWSER_GLIC_SERVICE_GLIC_STATE_TRACKER_H_
 

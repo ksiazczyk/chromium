@@ -1,0 +1,4 @@
+# Docerion header of format_ts_imports_test.py.
+type: test
+title: Tests for the TypeScript import formatter
+summary: Unit tests covering multi-line rewriting and collapsing of TypeScript imports in the import formatting script.

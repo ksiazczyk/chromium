@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing service header
+// summary: Declares the keyed service managing cueing nudges, page load tracking, and contextual zero state suggestion fetching for Glic.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SUGGESTIONS_CONTEXTUAL_CUEING_SERVICE_H_
 #define CHROME_BROWSER_GLIC_SUGGESTIONS_CONTEXTUAL_CUEING_SERVICE_H_
 

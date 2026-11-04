@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShakeTrigger unit tests
+// summary: Tests that simulated mouse shakes trigger region capture and verifies gating by feature flag, preference, and continuous movement behavior.
+// ---
+
 #include "chrome/browser/glic/selection/shake_trigger.h"
 
 #include <memory>

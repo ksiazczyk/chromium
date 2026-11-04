@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic onboarding tracker API
+// summary: Declares GlicOnboardingTracker, which tracks profile onboarding milestones and persists them in local profile preferences.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_GLIC_ONBOARDING_TRACKER_H_
 #define CHROME_BROWSER_GLIC_SERVICE_GLIC_ONBOARDING_TRACKER_H_
 

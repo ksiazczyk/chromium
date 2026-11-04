@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Glic inactive side panel UI implementation
+// summary: Implements the Android inactive Glic side panel embedder, observing side panel state changes and transitioning the bottom sheet to peek on deactivation.
+// ---
+
 #include "chrome/browser/glic/widget/glic_inactive_side_panel_ui_android.h"
 
 #include "base/logging.h"

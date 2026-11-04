@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped modal dialog manager delegate implementation
+// summary: Implements ScopedModalDialogManagerDelegate, which attaches and safely clears WebContentsModalDialogManager delegates for Glic-hosted WebContents.
+// ---
+
 #include "chrome/browser/glic/widget/scoped_modal_dialog_manager_delegate.h"
 
 #include <algorithm>

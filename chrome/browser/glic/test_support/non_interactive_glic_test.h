@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deprecated non-interactive Glic test fixture
+// summary: Declares the deprecated NonInteractiveGlicTest fixture that fakes a focused browser for parallel tests; new code should use GlicBrowserTest.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_TEST_SUPPORT_NON_INTERACTIVE_GLIC_TEST_H_
 #define CHROME_BROWSER_GLIC_TEST_SUPPORT_NON_INTERACTIVE_GLIC_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic invoke metrics unit tests
+// summary: Tests that GlicInvokeMetrics records invocation source, results, durations, and timeout stages to the expected histograms.
+// ---
+
 #include "chrome/browser/glic/service/metrics/glic_invoke_metrics.h"
 
 #include <cstdint>

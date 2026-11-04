@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic drag-and-drop test base header
+// summary: Declares GlicDragAndDropTestBase, a fixture for Glic drag-and-drop file upload tests with helpers to prepare the guest and simulate mouse drags.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_TEST_SUPPORT_GLIC_DRAG_AND_DROP_TEST_BASE_H_
 #define CHROME_BROWSER_GLIC_TEST_SUPPORT_GLIC_DRAG_AND_DROP_TEST_BASE_H_
 

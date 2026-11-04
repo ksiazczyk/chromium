@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic instance helper metrics implementation
+// summary: Implements per-tab Glic helper metrics for instance bind and pin counts plus the daisy-chain first-action state machine.
+// ---
+
 #include "chrome/browser/glic/service/metrics/glic_instance_helper_metrics.h"
 
 #include "base/strings/strcat.h"

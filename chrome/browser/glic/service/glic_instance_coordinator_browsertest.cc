@@ -7,6 +7,12 @@
 // and debug. When waiting is required, `base::test::RunUntil` is usually
 // sufficient and simpler than a full `RunTestSequence`.
 
+// ---docerion
+// type: test
+// title: Glic instance coordinator browser tests
+// summary: Extensive browser tests for the Glic instance coordinator covering instance lifecycle, hibernation, keep-alive, invocation, and metrics.
+// ---
+
 #include "base/memory_coordinator/memory_coordinator_features.h"
 #include "base/memory_coordinator/utils.h"
 #include "base/task/single_thread_task_runner.h"

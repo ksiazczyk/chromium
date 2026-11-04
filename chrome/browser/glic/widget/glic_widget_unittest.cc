@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicWidget event handling and hit-test unit tests
+// summary: Unit tests verifying the Glic widget's hit-test rules for client areas, draggable caption regions, owned widgets, and resize borders on Aura.
+// ---
+
 #include "chrome/browser/glic/widget/glic_widget.h"
 
 #include <memory>

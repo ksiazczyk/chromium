@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShakeTrigger implementation
+// summary: Implements mouse shake detection via direction changes and triggers Glic region capture when the feature flag and preference are enabled.
+// ---
+
 #include "chrome/browser/glic/selection/shake_trigger.h"
 
 #include <utility>

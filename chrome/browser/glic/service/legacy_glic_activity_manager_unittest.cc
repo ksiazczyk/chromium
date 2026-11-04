@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Legacy Glic activity manager unit tests
+// summary: Unit tests for LegacyGlicActivityManager covering task nudge state, task list bubbles, and notifications using fake actor and Glic services.
+// ---
+
 #include "chrome/browser/glic/public/service/legacy_glic_activity_manager.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic instance coordinator metrics header
+// summary: Declares the GlicInstanceCoordinatorMetrics class and its DataProvider interface for recording visibility, memory, and switch-target metrics.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_METRICS_GLIC_INSTANCE_COORDINATOR_METRICS_H_
 #define CHROME_BROWSER_GLIC_SERVICE_METRICS_GLIC_INSTANCE_COORDINATOR_METRICS_H_
 

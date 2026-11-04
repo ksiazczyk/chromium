@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GlicKeyedService class
+// summary: Declares MockGlicKeyedService, a gmock subclass of GlicKeyedService stubbing invoke, UI, and instance methods for tests.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_TEST_SUPPORT_MOCK_GLIC_KEYED_SERVICE_H_
 #define CHROME_BROWSER_GLIC_TEST_SUPPORT_MOCK_GLIC_KEYED_SERVICE_H_
 

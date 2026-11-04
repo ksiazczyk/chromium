@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Hang monitor directory metadata
+summary: Maps the directory to the Internals>CrashReporting Monorail component and Buganizer component 1456911 for issue tracking.

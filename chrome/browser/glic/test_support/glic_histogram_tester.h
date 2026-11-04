@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic histogram tester
+// summary: Header-only wrapper around HistogramTester that merges child-process histograms before each assertion and adds waiting helpers for WebUI metric tests.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_TEST_SUPPORT_GLIC_HISTOGRAM_TESTER_H_
 #define CHROME_BROWSER_GLIC_TEST_SUPPORT_GLIC_HISTOGRAM_TESTER_H_
 

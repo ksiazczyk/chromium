@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selection overlay interactive UI tests
+// summary: Interactive browser tests exercising the selection overlay UI end to end, including toasts, split tabs and suggested actions.
+// ---
+
 #include "base/check_deref.h"
 #include "base/strings/strcat.h"
 #include "base/test/bind.h"

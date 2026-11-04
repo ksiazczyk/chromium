@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text selection context header
+// summary: Declares CreateTextSelectionContext, which converts selected text into additional context for the Glic panel.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SELECTION_TEXT_SELECTION_CONTEXT_H_
 #define CHROME_BROWSER_GLIC_SELECTION_TEXT_SELECTION_CONTEXT_H_
 

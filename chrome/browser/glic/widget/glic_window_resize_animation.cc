@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic window resize animation implementation
+// summary: Implements the linear animation that resizes the Glic window between bounds, constraining it on screen and skipping updates while the user drags the widget.
+// ---
+
 #include "chrome/browser/glic/widget/glic_window_resize_animation.h"
 
 #include "base/task/sequenced_task_runner.h"

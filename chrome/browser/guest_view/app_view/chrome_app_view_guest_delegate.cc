@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome AppView guest delegate implementation
+// summary: Implements ChromeAppViewGuestDelegate, handling context menus and creating the app delegate for Chrome's AppView guest in the extensions namespace.
+// ---
+
 #include "chrome/browser/guest_view/app_view/chrome_app_view_guest_delegate.h"
 
 #include <utility>

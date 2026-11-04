@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the glic selection directory
+summary: Lists the directory code owner and assigns IPC security owners to the Mojo interface files.

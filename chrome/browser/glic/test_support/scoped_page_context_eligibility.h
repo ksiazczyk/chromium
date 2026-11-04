@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped page context eligibility stub declaration
+// summary: Declares a scoped helper that stubs optimization guide page context eligibility so tests can exercise eligibility paths without the real library.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_TEST_SUPPORT_SCOPED_PAGE_CONTEXT_ELIGIBILITY_H_
 #define CHROME_BROWSER_GLIC_TEST_SUPPORT_SCOPED_PAGE_CONTEXT_ELIGIBILITY_H_
 

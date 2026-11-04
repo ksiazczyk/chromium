@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic metrics session manager implementation
+// summary: Implements the Glic metrics session lifecycle, starting sessions on visibility or user input and ending them on inactivity, hiding, or destruction.
+// ---
+
 #include "chrome/browser/glic/service/metrics/glic_metrics_session_manager.h"
 
 #include <locale>

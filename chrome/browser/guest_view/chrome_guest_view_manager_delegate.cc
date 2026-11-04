@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome guest view manager delegate implementation
+// summary: Implements Chrome-specific guest handling such as task manager tagging, ChromeOS kiosk notification, glic customization, captive portal attachment, and controlled frame ownership checks.
+// ---
+
 #include "chrome/browser/guest_view/chrome_guest_view_manager_delegate.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero state suggestions request header
+// summary: Declares ZeroStateSuggestionsRequest, which encapsulates one pending zero-state suggestions request, its requested tabs, and completion callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SUGGESTIONS_ZERO_STATE_SUGGESTIONS_REQUEST_H_
 #define CHROME_BROWSER_GLIC_SUGGESTIONS_ZERO_STATE_SUGGESTIONS_REQUEST_H_
 

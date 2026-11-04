@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab group utilities implementation
+// summary: Implements Glic helpers that find the browser window containing a tab group, list its tabs, and add or remove tabs from groups.
+// ---
+
 #include "chrome/browser/glic/service/glic_tab_group_utils.h"
 
 #include "chrome/browser/profiles/profile.h"

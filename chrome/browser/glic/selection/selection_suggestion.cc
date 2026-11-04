@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection suggestion implementation
+// summary: Implements SelectionSuggestion, which invokes the Glic side panel with a prompt when a text selection suggestion is executed.
+// ---
+
 #include "chrome/browser/glic/selection/selection_suggestion.h"
 
 #include <utility>

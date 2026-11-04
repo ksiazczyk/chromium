@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Google browser utilities
+summary: Defines the google source_set and its unit tests, listing platform-specific sources and dependencies for brand and Google Update code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome guest view manager delegate
+// summary: Declares the Chrome-specific guest view manager delegate that extends the extensions delegate with task manager tagging and controlled frame support.
+// ---
+
 #ifndef CHROME_BROWSER_GUEST_VIEW_CHROME_GUEST_VIEW_MANAGER_DELEGATE_H_
 #define CHROME_BROWSER_GUEST_VIEW_CHROME_GUEST_VIEW_MANAGER_DELEGATE_H_
 

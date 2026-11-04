@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic window animator class declaration
+// summary: Declares GlicWindowAnimator, which handles open, close, and resize animations for the Glic widget, delegating resizing to GlicWindowResizeAnimation.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_WIDGET_GLIC_WINDOW_ANIMATOR_H_
 #define CHROME_BROWSER_GLIC_WIDGET_GLIC_WINDOW_ANIMATOR_H_
 

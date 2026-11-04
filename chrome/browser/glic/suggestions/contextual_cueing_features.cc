@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing feature flags and parameters
+// summary: Defines contextual cueing feature flags and field trial parameters such as nudge backoff, caps and PDF auto-open thresholds.
+// ---
+
 #include "chrome/browser/glic/suggestions/contextual_cueing_features.h"
 
 #include "base/metrics/field_trial_params.h"

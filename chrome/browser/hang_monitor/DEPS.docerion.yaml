@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Hang monitor include rules
+summary: Restricts includes so the directory may not use chrome/browser generally but can depend on itself and content/public/browser.

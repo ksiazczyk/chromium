@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic cue target header
+// summary: Declares GlicCueTarget, a contextual cueing CueTarget that evaluates page eligibility and handles anchored cue messages and icons for Glic.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SUGGESTIONS_GLIC_CUE_TARGET_H_
 #define CHROME_BROWSER_GLIC_SUGGESTIONS_GLIC_CUE_TARGET_H_
 

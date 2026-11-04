@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive Glic view controller implementation
+// summary: Implements InactiveViewController, which builds a card view showing a blurred, dynamically resized screenshot of the inactive Glic UI with scrim and slide animation.
+// ---
+
 #include "chrome/browser/glic/widget/inactive_view_controller.h"
 
 #include "base/feature_list.h"

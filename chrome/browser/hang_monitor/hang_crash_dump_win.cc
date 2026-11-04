@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows hung child process crash dump
+// summary: Implements crash dumping for hung child processes on Windows by injecting a remote dump thread and waiting up to ten seconds for the dump to complete.
+// ---
+
 #include "chrome/browser/hang_monitor/hang_crash_dump.h"
 
 #include <windows.h>

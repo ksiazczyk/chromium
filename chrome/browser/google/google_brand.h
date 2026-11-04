@@ -7,6 +7,12 @@
 // current install. Brands are codes that are assigned to partners for tracking
 // distribution information.
 
+// ---docerion
+// type: source
+// title: Brand code helper API
+// summary: Declares the google_brand namespace API for reading partner brand codes and checking organic, enterprise, and internet cafe brands.
+// ---
+
 #ifndef CHROME_BROWSER_GOOGLE_GOOGLE_BRAND_H__
 #define CHROME_BROWSER_GOOGLE_GOOGLE_BRAND_H__
 

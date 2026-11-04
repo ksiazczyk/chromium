@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic onboarding status API
+// summary: Defines the persisted OnboardingStatus enum and the GlicOnboardingStatus class that encapsulates onboarding state in profile preferences.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_GLIC_ONBOARDING_STATUS_H_
 #define CHROME_BROWSER_GLIC_SERVICE_GLIC_ONBOARDING_STATUS_H_
 

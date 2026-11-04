@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic instance helper Android JNI glue
+// summary: Android JNI implementation of GlicInstanceHelper that creates the Java peer and notifies it of bound instance changes.
+// ---
+
 #include "chrome/browser/glic/service/glic_instance_helper.h"
 
 #include <string>

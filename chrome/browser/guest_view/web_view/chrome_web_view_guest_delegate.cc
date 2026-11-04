@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebView guest delegate implementation
+// summary: Implements the Chrome-specific WebView guest delegate, handling context menus, user agent overrides, client hints, and navigation blocking for webview guests.
+// ---
+
 #include "chrome/browser/guest_view/web_view/chrome_web_view_guest_delegate.h"
 
 #include <memory>

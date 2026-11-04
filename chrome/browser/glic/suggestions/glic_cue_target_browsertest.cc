@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic cue target browser tests
+// summary: In-process browser tests for the Glic cue target covering eligibility, auto-submit, and message-first FRE feature variations.
+// ---
+
 #include "chrome/browser/glic/suggestions/glic_cue_target.h"
 
 #include "base/test/scoped_feature_list.h"

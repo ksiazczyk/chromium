@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: GSA directory metadata
+summary: Sets the team contact email and marks the directory as Android-specific.

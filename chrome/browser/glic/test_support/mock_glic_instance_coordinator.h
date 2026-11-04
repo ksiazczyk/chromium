@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Glic instance coordinator header
+// summary: Declares a NiceMock of GlicInstanceCoordinator with mocked panel, instance lookup, and lifecycle methods.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_TEST_SUPPORT_MOCK_GLIC_INSTANCE_COORDINATOR_H_
 #define CHROME_BROWSER_GLIC_TEST_SUPPORT_MOCK_GLIC_INSTANCE_COORDINATOR_H_
 

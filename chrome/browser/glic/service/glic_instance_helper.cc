@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic instance helper implementation
+// summary: Implements GlicInstanceHelper, which attaches a bound Glic instance and pinned-instance state to a tab and records related metrics.
+// ---
+
 #include "chrome/browser/glic/service/glic_instance_helper.h"
 
 #include "chrome/browser/glic/public/glic_perf_traits_tracker.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestResult type alias
+// summary: Defines a TestResult template alias for base::expected with a string error type, used by Glic tests.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_TEST_SUPPORT_TEST_RESULT_H_
 #define CHROME_BROWSER_GLIC_TEST_SUPPORT_TEST_RESULT_H_
 

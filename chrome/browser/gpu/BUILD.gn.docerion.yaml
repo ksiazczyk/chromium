@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the gpu browser source set
+summary: GN build file defining the gpu source set with its public headers, sources and dependencies on browser, prefs and content targets.

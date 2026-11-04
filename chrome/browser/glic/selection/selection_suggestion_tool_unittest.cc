@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SelectionSuggestionTool unit tests
+// summary: Tests the tool's ID and capability resolution, including profile prefs and feature parameter overrides, using a mock tab interface and testing profile.
+// ---
+
 #include "chrome/browser/glic/selection/selection_suggestion_tool.h"
 
 #include <memory>

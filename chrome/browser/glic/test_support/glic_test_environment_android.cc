@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android Glic test environment JNI bridge
+// summary: Android JNI bridge for GlicTestEnvironment that runs an HTTPS embedded test server and exposes helpers for Glic tests on Android.
+// ---
+
 #include "chrome/browser/glic/test_support/glic_test_environment.h"
 
 #include <memory>

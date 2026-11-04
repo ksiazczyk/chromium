@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic cue tab state header
+// summary: Declares the tab-scoped state helper that observes navigations and page annotations to support Glic cue eligibility checks.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SUGGESTIONS_GLIC_CUE_TAB_STATE_H_
 #define CHROME_BROWSER_GLIC_SUGGESTIONS_GLIC_CUE_TAB_STATE_H_
 

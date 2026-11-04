@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero state suggestions page data header
+// summary: Declares ZeroStateSuggestionsPageData, which initiates page content extraction, supplies page context via callbacks, and caches focused-tab suggestions.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SUGGESTIONS_ZERO_STATE_SUGGESTIONS_PAGE_DATA_H_
 #define CHROME_BROWSER_GLIC_SUGGESTIONS_ZERO_STATE_SUGGESTIONS_PAGE_DATA_H_
 

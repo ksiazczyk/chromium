@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic view class declaration
+// summary: Declares GlicView, a views::WebView subclass hosting the Glic web UI with zoom, draggable region and background color support.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_WIDGET_GLIC_VIEW_H_
 #define CHROME_BROWSER_GLIC_WIDGET_GLIC_VIEW_H_
 

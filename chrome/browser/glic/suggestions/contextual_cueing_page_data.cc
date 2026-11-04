@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing page data implementation
+// summary: Implements page-scoped cueing decisions that match cueing configurations against conditions such as MIME type, PDF page count, and word count.
+// ---
+
 #include "chrome/browser/glic/suggestions/contextual_cueing_page_data.h"
 
 #include <algorithm>

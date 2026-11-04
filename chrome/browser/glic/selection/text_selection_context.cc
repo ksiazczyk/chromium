@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text selection context creation
+// summary: Builds additional Glic context from selected text, eliding it to 100 characters and attaching the source tab ID for the Glic panel.
+// ---
+
 #include "chrome/browser/glic/selection/text_selection_context.h"
 
 #include <utility>

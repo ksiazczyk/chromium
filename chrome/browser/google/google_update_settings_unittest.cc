@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Update settings unit tests
+// summary: Tests stats consent, last run time handling, and organic or enterprise brand code classification.
+// ---
+
 #include "chrome/installer/util/google_update_settings.h"
 
 #include <string>

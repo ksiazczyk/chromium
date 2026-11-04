@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interactive test util implementation
+// summary: Implements state observers for Glic coordinator, app, and WebUI states used by interactive tests.
+// ---
+
 #include "chrome/browser/glic/test_support/interactive_test_util.h"
 
 #include "base/scoped_observation_traits.h"

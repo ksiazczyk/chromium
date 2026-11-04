@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Update policy fetcher implementation
+// summary: Parses the updater's policy JSON into a PolicyMap and lists the supported Google Update policies and schemas.
+// ---
+
 #include "chrome/browser/google/google_update_policy_fetcher.h"
 
 #include <optional>

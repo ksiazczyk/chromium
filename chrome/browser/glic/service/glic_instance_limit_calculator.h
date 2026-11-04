@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Awake instance limit calculator header
+// summary: Declares the kGlicMaxAwakeInstances feature parameters and CalculateAwakeInstancesLimit, which scales the awake instance cap with available memory.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_GLIC_INSTANCE_LIMIT_CALCULATOR_H_
 #define CHROME_BROWSER_GLIC_SERVICE_GLIC_INSTANCE_LIMIT_CALCULATOR_H_
 

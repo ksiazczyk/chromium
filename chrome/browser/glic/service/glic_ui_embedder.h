@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicUiEmbedder interface
+// summary: Defines the abstract embedder interface and delegate for showing, closing, focusing, attaching, and switching Glic side panel and floating UIs.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_GLIC_UI_EMBEDDER_H_
 #define CHROME_BROWSER_GLIC_SERVICE_GLIC_UI_EMBEDDER_H_
 

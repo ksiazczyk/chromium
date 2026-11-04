@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebView permission helper delegate implementation
+// summary: Implements Chrome-specific permission handling for WebView guests, covering media access, geolocation, pointer lock, downloads, clipboard, fullscreen, and plugin auth.
+// ---
+
 #include "chrome/browser/guest_view/web_view/chrome_web_view_permission_helper_delegate.h"
 
 #include <map>

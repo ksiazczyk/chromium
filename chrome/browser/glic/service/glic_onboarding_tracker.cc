@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic onboarding tracker implementation
+// summary: Implements the onboarding state machine that tracks invoke, opt-in and prompt milestones and records UKM funnel metrics.
+// ---
+
 #include "chrome/browser/glic/service/glic_onboarding_tracker.h"
 
 #include <utility>

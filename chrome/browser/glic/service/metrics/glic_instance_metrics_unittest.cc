@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic instance metrics unit tests
+// summary: Unit tests verifying Glic instance metrics, including opt-in impressions, visibility changes, and histogram and UKM recording.
+// ---
+
 #include "chrome/browser/glic/service/metrics/glic_instance_metrics.h"
 
 #include <memory>

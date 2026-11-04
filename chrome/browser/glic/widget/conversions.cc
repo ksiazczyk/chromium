@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conversion of Glic show options to coordinator options
+// summary: Converts instance show options into side panel coordinator show options, mapping peek preference and animation suppression.
+// ---
+
 #include "chrome/browser/glic/widget/conversions.h"
 
 namespace glic {

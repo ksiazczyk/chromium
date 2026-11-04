@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic invocation browser tests
+// summary: Browser tests covering Glic invocation flows, including live mode entry, floating panel detachment, additional context sharing, and invoke metrics.
+// ---
+
 #include "base/json/json_reader.h"
 #include "base/run_loop.h"
 #include "base/test/metrics/user_action_tester.h"

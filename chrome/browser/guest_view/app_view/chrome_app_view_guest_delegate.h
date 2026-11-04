@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome AppView guest delegate class declaration
+// summary: Declares the ChromeAppViewGuestDelegate class, a Chrome override of AppViewGuestDelegate with context menu handling and app delegate creation methods.
+// ---
+
 #ifndef CHROME_BROWSER_GUEST_VIEW_APP_VIEW_CHROME_APP_VIEW_GUEST_DELEGATE_H_
 #define CHROME_BROWSER_GUEST_VIEW_APP_VIEW_CHROME_APP_VIEW_GUEST_DELEGATE_H_
 

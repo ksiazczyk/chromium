@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android declaration of the floating Glic UI embedder
+// summary: Declares the Android GlicFloatingUi class implementing the GlicUiEmbedder interface with stubbed floating window behavior.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_WIDGET_GLIC_FLOATING_UI_ANDROID_H_
 #define CHROME_BROWSER_GLIC_WIDGET_GLIC_FLOATING_UI_ANDROID_H_
 

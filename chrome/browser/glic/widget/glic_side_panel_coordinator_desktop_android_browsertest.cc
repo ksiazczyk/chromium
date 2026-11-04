@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop Android Glic side panel coordinator browser tests
+// summary: Browser tests for the desktop Android Glic side panel coordinator, including toast and idle messages shown when the panel is hidden on resize.
+// ---
+
 #include "chrome/browser/glic/public/widget/glic_side_panel_coordinator_desktop_android.h"
 
 #include "base/android/jni_android.h"

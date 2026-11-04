@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic cue target unit tests
+// summary: Unit tests for GlicCueTarget page eligibility using mock Glic, sync, identity, and page content annotation services.
+// ---
+
 #include "chrome/browser/glic/suggestions/glic_cue_target.h"
 
 #include <memory>

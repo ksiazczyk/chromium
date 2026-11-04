@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic view implementation
+// summary: Implements the GlicView web view that hosts the Glic web UI, handling keyboard events, media access, file choosers and drag-and-drop file upload.
+// ---
+
 #include "chrome/browser/glic/widget/glic_view.h"
 
 #include "base/command_line.h"

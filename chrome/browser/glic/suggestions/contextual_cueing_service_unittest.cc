@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual cueing service unit tests
+// summary: Unit tests for the contextual cueing service covering feature parameters, backoff timing, page type eligibility, and suggestion requests with mock services.
+// ---
+
 #include "chrome/browser/glic/suggestions/contextual_cueing_service.h"
 
 #include "base/command_line.h"

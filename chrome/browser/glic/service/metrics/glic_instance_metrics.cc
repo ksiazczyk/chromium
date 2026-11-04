@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic instance metrics implementation
+// summary: Implements lifecycle, interaction, UKM, and structured metrics logging for a single Glic instance, including input modes and embedder types.
+// ---
+
 #include "chrome/browser/glic/service/metrics/glic_instance_metrics.h"
 
 #include <algorithm>

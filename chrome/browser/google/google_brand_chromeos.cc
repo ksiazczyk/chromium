@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS brand code implementation
+// summary: Reads the ChromeOS RLZ brand code from machine statistics or a brand code file, stores it in Local State, and supports clearing it per session.
+// ---
+
 #include <string_view>
 
 #include "ash/constants/ash_pref_names.h"

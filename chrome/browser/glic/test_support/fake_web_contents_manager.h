@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake web contents manager header
+// summary: Declares FakeWebContentsManager with test helpers to set web contents, visibility, reload behavior and error callbacks for Glic tests.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_TEST_SUPPORT_FAKE_WEB_CONTENTS_MANAGER_H_
 #define CHROME_BROWSER_GLIC_TEST_SUPPORT_FAKE_WEB_CONTENTS_MANAGER_H_
 

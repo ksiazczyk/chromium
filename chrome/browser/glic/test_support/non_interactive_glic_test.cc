@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Non-interactive Glic test fixture implementation
+// summary: Implements setup and teardown for the non-interactive Glic test fixture, including testing mode for focused browser handling.
+// ---
+
 #include "chrome/browser/glic/test_support/non_interactive_glic_test.h"
 
 #include "chrome/browser/glic/host/context/glic_focused_browser_manager_impl.h"

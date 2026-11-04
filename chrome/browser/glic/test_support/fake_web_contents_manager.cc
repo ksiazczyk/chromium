@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake web contents manager implementation
+// summary: Implements a fake GlicWebContentsManager that tracks visibility, actuating and task tab state and exposes a triggerable error callback.
+// ---
+
 #include "chrome/browser/glic/test_support/fake_web_contents_manager.h"
 
 #include "content/public/browser/web_contents.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock local hotkey panel class
+// summary: Declares a gmock fake of LocalHotkeyManager::Panel that simulates panel focus, zoom, closing, and overlay behavior in tests.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_TEST_SUPPORT_MOCK_LOCAL_HOTKEY_PANEL_H_
 #define CHROME_BROWSER_GLIC_TEST_SUPPORT_MOCK_LOCAL_HOTKEY_PANEL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of format_ts_imports.py.
+type: script
+title: TypeScript import formatter for clang-format
+summary: Rewrites long TypeScript import statements to multi-line with trailing comments so clang-format puts each symbol on its own line.

@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Glic side panel coordinator browser tests
+// summary: Browser tests for the desktop Glic side panel coordinator, covering side panel entry registration, showing, and hide-cancelled behavior.
+// ---
+
 #include "chrome/browser/glic/public/glic_side_panel_coordinator.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Update simulation command-line switches
+// summary: Defines command-line switches that simulate HRESULT and Google Update error codes during update checks, for testing purposes.
+// ---
+
 #include "chrome/browser/google/switches.h"
 
 namespace switches {

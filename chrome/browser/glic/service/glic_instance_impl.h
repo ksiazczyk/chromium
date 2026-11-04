@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicInstanceImpl class declaration
+// summary: Declares GlicInstanceImpl, the per-instance class owning a Glic host and coordinating UI embedders, sharing managers, and browser collection observation.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_GLIC_INSTANCE_IMPL_H_
 #define CHROME_BROWSER_GLIC_SERVICE_GLIC_INSTANCE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic instance coordinator implementation
+// summary: Implements GlicInstanceCoordinatorImpl, managing per-profile Glic instances including hibernation, memory pressure handling, invocation, and tab restore.
+// ---
+
 #include "chrome/browser/glic/service/glic_instance_coordinator_impl.h"
 
 #include <algorithm>

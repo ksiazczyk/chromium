@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero state suggestions page data implementation
+// summary: Implements per-page user data that extracts inner text or annotated page content, checks eligibility, and provides page context for zero-state suggestions.
+// ---
+
 #include "chrome/browser/glic/suggestions/zero_state_suggestions_page_data.h"
 
 #include "base/check.h"

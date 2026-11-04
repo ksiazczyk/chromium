@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Glic test support
+summary: Lists the directory owners and per-file owners for the mock instance coordinator and local hotkey panel files.

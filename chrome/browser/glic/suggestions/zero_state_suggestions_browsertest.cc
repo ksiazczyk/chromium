@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zero state suggestions browser tests
+// summary: Parameterized in-process browser tests verifying zero-state glic suggestions across inner text, annotated page content, and combined extraction modes.
+// ---
+
 #include <string>
 #include <tuple>
 

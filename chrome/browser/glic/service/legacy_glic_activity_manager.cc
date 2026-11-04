@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy Glic activity manager implementation
+// summary: Subscribes to actor task state changes to update task icons, nudges, task list bubbles, and notifications for the legacy Glic activity UI.
+// ---
+
 #include "chrome/browser/glic/public/service/legacy_glic_activity_manager.h"
 
 #include <algorithm>

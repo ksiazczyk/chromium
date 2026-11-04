@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Update policy fetcher unit tests
+// summary: Tests parsing of updater policy JSON, including empty, invalid, unknown-source, and case-insensitive app ID cases.
+// ---
+
 #include "chrome/browser/google/google_update_policy_fetcher.h"
 
 #include <string_view>

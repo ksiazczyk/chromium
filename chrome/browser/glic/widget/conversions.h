@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the Glic show options conversion helper
+// summary: Declares ConvertToCoordinatorShowOptions, which maps instance show options to side panel coordinator show options.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_WIDGET_CONVERSIONS_H_
 #define CHROME_BROWSER_GLIC_WIDGET_CONVERSIONS_H_
 

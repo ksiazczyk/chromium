@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU browser extra parts implementation
+// summary: Implements browser main extra parts that initialize GpuDataManager before threads start and register synthetic field trials for the Skia backend and EGL display type.
+// ---
+
 #include "chrome/browser/gpu/chrome_browser_main_extra_parts_gpu.h"
 
 #include "base/check.h"

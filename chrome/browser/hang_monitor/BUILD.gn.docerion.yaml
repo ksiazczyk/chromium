@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Hang monitor build target definition
+summary: Defines the hang_monitor source set with platform-specific crash dump sources and dependencies on base and the crash reporting components.

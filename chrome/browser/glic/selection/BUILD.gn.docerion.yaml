@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the glic selection overlay
+summary: Defines the source sets, Mojo bindings and test targets that build the glic selection overlay and its dependencies.

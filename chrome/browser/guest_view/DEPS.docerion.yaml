@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Guest view include rules
+summary: Restricts which chrome/browser headers code in this directory may include, with extra allowances for the mime handler view browser and interactive UI tests.

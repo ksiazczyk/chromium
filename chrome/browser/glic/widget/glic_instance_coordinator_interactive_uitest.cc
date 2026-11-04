@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic instance coordinator interactive UI tests
+// summary: Interactive UI tests for the Glic instance coordinator, covering floating Glic instances, window positioning, and related browser UI interactions.
+// ---
+
 #include "chrome/browser/glic/public/service/glic_instance_coordinator.h"
 
 #include <memory>

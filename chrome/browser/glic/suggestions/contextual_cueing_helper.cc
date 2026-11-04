@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing helper implementation
+// summary: Implements the per-window contextual cueing helper that decides when to show Glic nudges or auto-open the side panel, logging UKM metrics.
+// ---
+
 #include "chrome/browser/glic/suggestions/contextual_cueing_helper.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Glic test support BUILD.gn
+summary: Defines the testonly test_support source set with Glic test sources and platform-conditional dependencies for Android and desktop builds.

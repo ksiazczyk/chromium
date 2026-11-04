@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Explain selection suggestion
+// summary: Implements the Explain card, fetching explanations via the Optimization Guide and handling search and Gemini actions.
+// ---
+
 #include "chrome/browser/glic/selection/explain_suggestion.h"
 
 #include <optional>

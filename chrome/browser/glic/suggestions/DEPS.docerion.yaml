@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Glic suggestions
+summary: Declares include rules allowing the Glic suggestions directory to depend on contextual cueing, keyed services, PDF mojo and metrics headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic floating widget implementation
+// summary: Implements the Glic floating widget window, including platform-specific frame views, rounded corners and widget sizing on Windows, Linux and ChromeOS.
+// ---
+
 #include "chrome/browser/glic/widget/glic_widget.h"
 
 #include <memory>

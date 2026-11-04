@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brand code helpers implementation
+// summary: Implements cross-platform brand code lookup with caching and classification of organic, enterprise, and internet cafe brand codes.
+// ---
+
 #include "chrome/browser/google/google_brand.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing helper header
+// summary: Declares a per-tab WebContentsObserver that decides when to show Glic contextual cueing nudges and can auto-open the Glic side panel.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SUGGESTIONS_CONTEXTUAL_CUEING_HELPER_H_
 #define CHROME_BROWSER_GLIC_SUGGESTIONS_CONTEXTUAL_CUEING_HELPER_H_
 

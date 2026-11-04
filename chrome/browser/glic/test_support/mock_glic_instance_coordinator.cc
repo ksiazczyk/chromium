@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Glic instance coordinator implementation
+// summary: Implements MockGlicInstanceCoordinator with a default dummy sharing manager for tests.
+// ---
+
 #include "chrome/browser/glic/test_support/mock_glic_instance_coordinator.h"
 
 namespace glic {

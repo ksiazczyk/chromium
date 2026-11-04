@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic invoke handler unit tests
+// summary: Parameterized unit tests for GlicInvokeHandler::RequiresClientInvoke across invocation sources, prompts, feature modes, and actuation targets.
+// ---
+
 #include "chrome/browser/glic/service/glic_invoke_handler.h"
 
 #include <optional>

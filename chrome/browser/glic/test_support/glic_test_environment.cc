@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test environment implementation
+// summary: Implements GlicTestEnvironment, which overrides sign-in, prefs, cookie sync, and features so browser tests can run with Glic enabled across platforms.
+// ---
+
 #include "chrome/browser/glic/test_support/glic_test_environment.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of inline cue blocklist utilities
+// summary: Implements per-site inline cue blocking that combines the global toggle, user rules and the server-provided default blocklist.
+// ---
+
 #include "chrome/browser/glic/selection/inline_cue_blocklist_utils.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the glic widget directory
+summary: Defines per-file include allowlists for glic widget sources, granting access to ash, chromeos and Android JNI headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick answers tool unit tests
+// summary: Unit tests verifying QuickAnswersTool builds suggestions with expected labels and executes the quick answers model with the expected request.
+// ---
+
 #include "chrome/browser/glic/selection/quick_answers_tool.h"
 
 #include <memory>

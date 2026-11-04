@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic instance helper unit tests
+// summary: Unit tests for GlicInstanceHelper verifying bind and pin count metrics and accessor behavior using a mock tab interface.
+// ---
+
 #include "chrome/browser/glic/service/glic_instance_helper.h"
 
 #include "base/test/metrics/histogram_tester.h"

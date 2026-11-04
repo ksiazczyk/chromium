@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic instance helper metrics header
+// summary: Declares GlicInstanceHelperMetrics and the DaisyChainFirstAction enum for tracking tab-scoped Glic metrics across instance bindings.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_METRICS_GLIC_INSTANCE_HELPER_METRICS_H_
 #define CHROME_BROWSER_GLIC_SERVICE_METRICS_GLIC_INSTANCE_HELPER_METRICS_H_
 
