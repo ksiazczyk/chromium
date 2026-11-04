@@ -2,6 +2,9 @@
 name: general/access-terminating-null-in-cstring-view-at-size
 rubric: correctness
 severity: should_fix
+type: reference
+title: Access terminating null in cstring_view at size()
+summary: Rule for indexing the terminating null of a base::basic_cstring_view at size() rather than size() + 1 to avoid a bounds violation.
 ---
 
 **Rule.** When accessing the terminating null character of a

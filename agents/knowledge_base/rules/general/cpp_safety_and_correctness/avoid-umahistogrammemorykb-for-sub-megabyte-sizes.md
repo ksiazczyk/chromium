@@ -2,6 +2,9 @@
 name: general/avoid-umahistogrammemorykb-for-sub-megabyte-sizes
 rubric: correctness
 severity: should_fix
+type: reference
+title: Avoid UmaHistogramMemoryKB for sub-megabyte sizes
+summary: Coding rule against UMA time and memory histograms for sub-millisecond durations or sub-1000 KiB sizes, recommending microseconds timing helpers and count histograms to preserve bucket resolution.
 ---
 
 **Rule.** Do not use base::UmaHistogramTimes (or UMA_HISTOGRAM_TIMES) for

@@ -2,6 +2,9 @@
 name: general/omit-trailing-period-in-single-sentence-ui-descriptions
 rubric: readability
 severity: nit
+type: guide
+title: Omit trailing period in single-sentence UI descriptions
+summary: Rule against ending single-sentence user-facing descriptions, subtitles, and sublabels in .grd and .grdp files with a trailing period; multi-sentence text keeps punctuation.
 ---
 
 **Rule.** In `.grd` and `.grdp` resource files, do not end single-sentence

@@ -2,6 +2,9 @@
 name: general/guard-or-remove-wait-for-debugger
 rubric: correctness
 severity: should_fix
+type: reference
+title: Guard or remove WaitForDebugger calls
+summary: Coding rule forbidding unconditional base::debug::WaitForDebugger calls in production or test code, requiring removal or gating behind debugger command-line switches to avoid hangs.
 ---
 
 **Rule.** Do not land unconditional calls to `base::debug::WaitForDebugger()` or

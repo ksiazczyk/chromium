@@ -2,6 +2,11 @@
 name: general/document-cross-toolchain-binary-copies-in-gn
 rubric: readability
 severity: nit
+type: reference
+title: Document cross-toolchain binary copies in GN
+summary: Rule requiring explanatory comments on GN copy() targets that forward binaries from alternate toolchains into the root output directory, with bad and good examples.
+relations:
+  - references /base/allocator/system_allocator_test_helper.cc
 ---
 
 **Rule.** In GN build files (`.gn`, `.gni`), when declaring a `copy()` target to

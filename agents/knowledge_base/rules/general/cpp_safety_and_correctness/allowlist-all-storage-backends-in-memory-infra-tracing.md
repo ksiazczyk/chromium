@@ -2,6 +2,9 @@
 name: general/allowlist-all-storage-backends-in-memory-infra-tracing
 rubric: safety
 severity: should_fix
+type: reference
+title: Allowlist all storage backends in memory infra tracing
+summary: Rule requiring verified low-overhead dumps, canonical subsystem names, and complete storage backend coverage in the memory infra background allowlist.
 ---
 
 **Rule.** When adding dump providers or allocator dump name patterns to

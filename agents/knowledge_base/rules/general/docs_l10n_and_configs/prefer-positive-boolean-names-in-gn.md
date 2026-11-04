@@ -2,6 +2,9 @@
 name: general/prefer-positive-boolean-names-in-gn
 rubric: readability
 severity: optional
+type: guide
+title: Prefer positive boolean names in GN
+summary: Rule for naming GN boolean options and flags positively, such as enable_foo, with inverted defaults instead of negative or exclusionary names like disable_foo.
 ---
 
 **Rule.** In GN build files (`.gn`, `.gni`), template definitions, and

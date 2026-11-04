@@ -2,6 +2,9 @@
 name: general/conditionally-include-large-assets-in-gn-templates
 rubric: safety
 severity: should_fix
+type: guide
+title: Conditionally include large assets in GN templates
+summary: Rule against unconditionally adding large data or asset dependencies in shared GN templates; include them via invoker deps filtering or opt-in so only targets that need them package them.
 ---
 
 **Rule.** Do not unconditionally add large data, locale, or asset dependencies

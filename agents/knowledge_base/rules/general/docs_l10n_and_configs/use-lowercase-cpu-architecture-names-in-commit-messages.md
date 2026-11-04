@@ -2,6 +2,9 @@
 name: general/use-lowercase-cpu-architecture-names-in-commit-messages
 rubric: readability
 severity: nit
+type: reference
+title: Use lowercase CPU architecture names in commit messages
+summary: Rule requiring lowercase CPU architecture names such as arm64 and x64 in commit messages to match GN target_cpu and bot naming conventions.
 ---
 
 **Rule.** In commit message titles (subject lines) and descriptions, use

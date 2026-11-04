@@ -2,6 +2,9 @@
 name: general/suffix-tooltip-string-ids-with-tooltip
 rubric: readability
 severity: nit
+type: guide
+title: Suffix Tooltip String IDs With Tooltip
+summary: Naming rule advising explicit UI role suffixes such as _TOOLTIP, _TOGGLE, and _ARIA_LABEL on localized string message IDs in GRD resource files.
 ---
 
 **Rule.** When defining localized string message IDs (`IDS_*`) in `.grd` or

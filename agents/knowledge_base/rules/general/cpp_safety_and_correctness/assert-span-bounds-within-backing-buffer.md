@@ -2,6 +2,9 @@
 name: general/assert-span-bounds-within-backing-buffer
 rubric: correctness
 severity: should_fix
+type: reference
+title: Assert span bounds within backing buffer
+summary: Rule to assert that spans constructed from raw pointers lie within the backing buffer using CHECK_GE and CHECK_LE.
 ---
 
 **Rule.** When constructing a `base::span` from a raw pointer and length into an

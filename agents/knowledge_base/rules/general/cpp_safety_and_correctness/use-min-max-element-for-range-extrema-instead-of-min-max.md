@@ -2,6 +2,9 @@
 name: general/use-min-max-element-for-range-extrema-instead-of-min-max
 rubric: correctness
 severity: nit
+type: guide
+title: Use min_element and max_element for range extrema
+summary: Coding rule warning that std::min and std::max compare iterators directly and directing use of min_element, max_element, or the ranges equivalents to find a range's actual extremum.
 ---
 
 **Rule.** Do not pass range iterators (such as begin() and end()) to std::min or

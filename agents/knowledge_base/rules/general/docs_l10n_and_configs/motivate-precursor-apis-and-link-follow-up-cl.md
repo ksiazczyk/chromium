@@ -2,6 +2,9 @@
 name: general/motivate-precursor-apis-and-link-follow-up-cl
 rubric: readability
 severity: should_fix
+type: guide
+title: Motivate precursor APIs and link the follow-up CL
+summary: Rule requiring commit messages to justify new APIs or helpers that lack call sites and to link the follow-up consumer CL, so reviewers can verify design and intent.
 ---
 
 **Rule.** When introducing new APIs, helper methods, classes, or scaffolding

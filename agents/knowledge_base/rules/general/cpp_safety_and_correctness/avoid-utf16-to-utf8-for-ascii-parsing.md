@@ -2,6 +2,9 @@
 name: general/avoid-utf16-to-utf8-for-ascii-parsing
 rubric: safety
 severity: should_fix
+type: guide
+title: Avoid UTF-16 to UTF-8 conversion for ASCII parsing
+summary: Coding rule advising against converting 16-bit string views to std::string just to reuse 8-bit parsers for ASCII data, recommending templated parsers that inspect code units directly.
 ---
 
 **Rule.** Do not convert 16-bit string views (`std::u16string_view` or

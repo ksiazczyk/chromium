@@ -2,6 +2,13 @@
 name: general/guard-branded-strings-in-grit-with-google-chrome-expr
 rubric: testing
 severity: should_fix
+type: guide
+title: Guard branded strings in Grit with Google Chrome expressions
+summary: Rule for placing brand-neutral strings in shared GRD files and handling brand-specific names via branded files, conditional expressions, placeholders, and copy parity.
+relations:
+  - references /components/components_strings.grd
+  - references /ios/chrome/app/strings/ios_strings.grd
+  - references /chrome/app/chromium_strings.grd
 ---
 
 **Rule.** In Grit resource files (`.grd`, `.grdp`):

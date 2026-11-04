@@ -2,6 +2,9 @@
 name: general/reuse-existing-test-support-targets
 rubric: design
 severity: nit
+type: guide
+title: Reuse Existing Test Support Targets
+summary: Coding rule advising adding test utility sources to existing shared test support targets rather than creating dedicated single-source build targets, with GN examples.
 ---
 
 **Rule.** Avoid creating dedicated, single-source build targets (such as

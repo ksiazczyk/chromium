@@ -2,6 +2,9 @@
 name: general/use-official-product-branding-in-ui-strings
 rubric: testing
 severity: should_fix
+type: reference
+title: Use official product branding in UI strings
+summary: Rule requiring user-facing UI strings to use official product branding and plain action labels instead of codenames, technical handles, or extension IDs.
 ---
 
 **Rule.** In user-facing UI strings, menu commands, and process labels (such as

@@ -2,6 +2,9 @@
 name: general/reserve-or-retain-removed-protobuf-tags-and-enums
 rubric: correctness
 severity: should_fix
+type: guide
+title: Reserve or retain removed protobuf tags and enums
+summary: Rule to preserve protobuf tag stability by reserving removed tags and names and never renumbering existing fields or enum values.
 ---
 
 **Rule.** In Protocol Buffer (`.proto`) schemas, preserve numeric tag stability

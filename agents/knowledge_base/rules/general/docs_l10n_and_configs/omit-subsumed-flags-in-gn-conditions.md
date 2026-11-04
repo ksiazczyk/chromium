@@ -2,6 +2,9 @@
 name: general/omit-subsumed-flags-in-gn-conditions
 rubric: readability
 severity: nit
+type: guide
+title: Omit subsumed flags in GN conditions
+summary: Rule against redundant boolean operands in GN build conditions when one flag strictly implies the other; guard shared logic with the base flag and nest variant-specific additions.
 ---
 
 **Rule.** In GN build files (`.gn`, `.gni`), do not include redundant operands

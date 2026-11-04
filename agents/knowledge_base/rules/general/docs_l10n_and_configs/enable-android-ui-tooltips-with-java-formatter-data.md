@@ -2,6 +2,9 @@
 name: general/enable-android-ui-tooltips-with-java-formatter-data
 rubric: testing
 severity: should_fix
+type: reference
+title: Enable Android UI tooltips with Java formatter data
+summary: Rule requiring Android tooltips via TooltipCompat and formatter_data="android_java" annotations on shared .grd strings so GRIT generates R.string identifiers, with examples.
 ---
 
 **Rule.** When building or updating Android UI components (such as buttons or

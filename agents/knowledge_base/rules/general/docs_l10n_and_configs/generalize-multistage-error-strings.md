@@ -2,6 +2,9 @@
 name: general/generalize-multistage-error-strings
 rubric: testing
 severity: should_fix
+type: reference
+title: Generalize multistage error strings
+summary: Rule to phrase localized error messages for multi-stage operations around the overarching operation in .grd and .grdp files, with descriptions matching the scope.
 ---
 
 **Rule.** When defining localized error messages for multi-stage operations

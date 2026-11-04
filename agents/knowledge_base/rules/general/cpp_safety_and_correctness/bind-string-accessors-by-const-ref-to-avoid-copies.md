@@ -2,6 +2,9 @@
 name: general/bind-string-accessors-by-const-ref-to-avoid-copies
 rubric: safety
 severity: nit
+type: guide
+title: Bind string accessors by const reference to avoid copies
+summary: Coding rule advising binding accessor results that return const std::string& to const references or string views instead of copying them into owning local variables.
 ---
 
 **Rule.** When assigning or binding the result of an accessor or getter that

@@ -2,6 +2,9 @@
 name: general/avoid-multi-clause-python-comprehensions
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid multi-clause Python comprehensions
+summary: Python style rule against comprehensions with multiple for clauses or nested iterations, preferring explicit for loops per the Google Python Style Guide.
 ---
 
 **Rule.** Do not use list comprehensions, dict/set comprehensions, or generator

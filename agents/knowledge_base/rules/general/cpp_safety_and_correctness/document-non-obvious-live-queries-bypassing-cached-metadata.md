@@ -2,6 +2,9 @@
 name: general/document-non-obvious-live-queries-bypassing-cached-metadata
 rubric: correctness
 severity: should_fix
+type: guide
+title: Document Live Queries That Bypass Cached Metadata
+summary: Coding rule requiring live system or filesystem queries that bypass cached metadata to handle failures explicitly and carry an inline comment, with no fallback to stale cached data.
 ---
 
 **Rule.** When performing live system, kernel, or filesystem queries (such as

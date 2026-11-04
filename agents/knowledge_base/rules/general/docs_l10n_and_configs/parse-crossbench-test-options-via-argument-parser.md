@@ -2,6 +2,9 @@
 name: general/parse-crossbench-test-options-via-argument-parser
 rubric: readability
 severity: should_fix
+type: guide
+title: Parse Crossbench test options via argument parser
+summary: Rule requiring Python scripts and test runners to define command-line options with standard argument parsers such as argparse instead of ad-hoc string extraction and list manipulation.
 ---
 
 **Rule.** In Python scripts and test runners, define and extract command-line

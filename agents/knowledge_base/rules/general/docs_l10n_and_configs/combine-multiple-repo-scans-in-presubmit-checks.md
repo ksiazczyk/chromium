@@ -2,6 +2,9 @@
 name: general/combine-multiple-repo-scans-in-presubmit-checks
 rubric: safety
 severity: should_fix
+type: guide
+title: Combine multiple repo scans in presubmit checks
+summary: Rule advising presubmit checks and repo-scanning tools to combine related inspections into a single traversal pass instead of multiple full-repository scans, reducing latency.
 ---
 
 **Rule.** In presubmit checks and repository-scanning tools, avoid performing

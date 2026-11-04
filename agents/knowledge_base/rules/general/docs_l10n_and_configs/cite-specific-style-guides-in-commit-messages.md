@@ -2,6 +2,11 @@
 name: general/cite-specific-style-guides-in-commit-messages
 rubric: readability
 severity: should_fix
+type: guide
+title: Cite specific style guides in commit messages
+summary: Commit message rule to name the specific style guide being cited instead of vague references like 'our style guide'.
+relations:
+  - references /styleguide/web/web.md
 ---
 
 **Rule.** When citing style guides, conventions, or coding standards in commit

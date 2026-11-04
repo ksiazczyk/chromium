@@ -2,6 +2,9 @@
 name: general/register-exit-handlers-at-entrypoint-not-static-initializers
 rubric: correctness
 severity: should_fix
+type: reference
+title: Register exit handlers at entrypoint, not static initializers
+summary: Coding rule requiring exit handlers such as atexit to be registered at the main or test runner entrypoint rather than in static initializers, so they execute first during teardown.
 ---
 
 **Rule.** Do not register exit handlers (such as atexit(), at_quick_exit(), or

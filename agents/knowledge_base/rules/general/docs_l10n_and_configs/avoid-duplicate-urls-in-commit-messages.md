@@ -2,6 +2,9 @@
 name: general/avoid-duplicate-urls-in-commit-messages
 rubric: readability
 severity: nit
+type: reference
+title: Avoid duplicate URLs in commit messages
+summary: Rule requiring each unique screenshot, design doc, or reference URL to appear only once in a commit message description to avoid redundant link clutter.
 ---
 
 **Rule.** Do not include duplicate URLs or redundant link entries in commit

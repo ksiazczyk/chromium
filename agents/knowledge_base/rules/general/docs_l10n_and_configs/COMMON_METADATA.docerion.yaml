@@ -1,0 +1,8 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA agentic review capability groups
+summary: Configuration that groups knowledge base rules into agentic review capability groups, mapping path expressions such as COMMIT_MSG and DEPS to the rule files that apply to them.
+relations:
+  - references /agents/knowledge_base/rules/general/docs_l10n_and_configs/capitalize-gn-when-referring-to-build-tool.md
+  - references /agents/knowledge_base/rules/general/docs_l10n_and_configs/avoid-duplicate-urls-in-commit-messages.md
+  - references /agents/knowledge_base/rules/general/docs_l10n_and_configs/avoid-redundant-this-cl-phrasing-in-commit-messages.md

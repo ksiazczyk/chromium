@@ -2,6 +2,9 @@
 name: general/reuse-member-sentinels-for-moved-state
 rubric: safety
 severity: should_fix
+type: reference
+title: Reuse member sentinels for moved state
+summary: Coding rule advising reuse of an existing member's empty or null state as a moved-from sentinel instead of adding a dedicated boolean flag.
 ---
 
 **Rule.** Do not add a dedicated boolean member variable (such as `moved_`,

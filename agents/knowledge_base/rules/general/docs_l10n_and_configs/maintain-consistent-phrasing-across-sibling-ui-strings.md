@@ -2,6 +2,9 @@
 name: general/maintain-consistent-phrasing-across-sibling-ui-strings
 rubric: testing
 severity: nit
+type: guide
+title: Maintain consistent phrasing across sibling UI strings
+summary: Rule requiring consistent grammar and tone across related user-facing strings, updating all sibling messages when one string's phrasing changes.
 ---
 
 **Rule.** Maintain consistent phrasing, grammatical structure, and tone across a

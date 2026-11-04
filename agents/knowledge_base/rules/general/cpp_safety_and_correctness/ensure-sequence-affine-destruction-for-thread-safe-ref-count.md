@@ -2,6 +2,9 @@
 name: general/ensure-sequence-affine-destruction-for-thread-safe-ref-count
 rubric: safety
 severity: nit
+type: guide
+title: Ensure Sequence-Affine Destruction for Thread-Safe Ref-Counted Objects
+summary: Coding rule requiring sequence-affine teardown for thread-safe ref-counted objects via RefCountedDeleteOnSequence, OnTaskRunnerDeleter, or DeleteSoon instead of unconditional delete this.
 ---
 
 **Rule.** Do not invoke `delete this` unconditionally in custom deletion,

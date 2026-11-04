@@ -2,6 +2,9 @@
 name: general/mark-prototype-strings-not-translateable
 rubric: testing
 severity: should_fix
+type: guide
+title: Mark prototype strings not translateable in GRD resources
+summary: 'Rule for GRD and GRDP resources: omit redundant translateable=true, reserve translateable=false for prototype or intentionally untranslated strings, and file a tracking bug to finalize them before launch.'
 ---
 
 **Rule.** In `.grd` and `.grdp` resource files, keep user-facing UI strings

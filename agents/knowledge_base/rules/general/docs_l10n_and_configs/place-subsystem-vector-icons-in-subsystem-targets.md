@@ -2,6 +2,12 @@
 name: general/place-subsystem-vector-icons-in-subsystem-targets
 rubric: design
 severity: nit
+type: guide
+title: Place subsystem vector icons in subsystem targets
+summary: Rule for placing vector icons in the subsystem resource target that exclusively uses them, reserving shared icon directories for generic cross-subsystem icons.
+relations:
+  - references /chrome/app/vector_icons/BUILD.gn
+  - references /ash/resources/vector_icons/BUILD.gn
 ---
 
 **Rule.** Place vector icons (.icon files) in the specific subsystem or

@@ -2,6 +2,9 @@
 name: general/prefer-string-view-return-for-static-or-literal-lookups
 rubric: safety
 severity: should_fix
+type: reference
+title: Prefer string view return for static or literal lookups
+summary: Coding rule to return string_view instead of owning string types for literals, static lookup tables, and existing buffers, reserving owning returns for dynamically built strings.
 ---
 
 **Rule.** Prefer returning std::string_view (or std::u16string_view /

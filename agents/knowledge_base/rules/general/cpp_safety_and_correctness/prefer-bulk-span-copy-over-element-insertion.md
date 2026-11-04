@@ -2,6 +2,9 @@
 name: general/prefer-bulk-span-copy-over-element-insertion
 rubric: safety
 severity: should_fix
+type: reference
+title: Prefer bulk span copy over element insertion
+summary: Rule to resize containers and bulk-copy bytes or trivially copyable elements via base::span copy_from, and to use resize_and_overwrite for strings instead of resize plus copy.
 ---
 
 **Rule.** When transferring raw bytes, serialized streams, or trivially copyable

@@ -2,6 +2,9 @@
 name: general/match-roll-log-url-to-rolled-revisions
 rubric: readability
 severity: should_fix
+type: guide
+title: Match dependency roll log URLs to rolled revisions
+summary: Rule requiring dependency roll commit messages to include an upstream git log comparison URL matching the exact rolled revision range, using upstream/ prefixes for mirrored third-party repositories.
 ---
 
 **Rule.** When authoring commit messages for dependency rolls or updates

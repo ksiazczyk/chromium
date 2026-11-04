@@ -2,6 +2,9 @@
 name: general/use-uintptr-t-arithmetic-for-non-dereferenced-offsets
 rubric: safety
 severity: should_fix
+type: guide
+title: Use uintptr_t arithmetic for non-dereferenced offsets
+summary: Coding rule advising integer arithmetic on addresses cast to uintptr_t for byte offsets and buffer lengths that are never dereferenced, avoiding UNSAFE_BUFFERS or UNSAFE_TODO suppressions.
 ---
 
 **Rule.** When calculating byte offsets, addresses, or buffer lengths without

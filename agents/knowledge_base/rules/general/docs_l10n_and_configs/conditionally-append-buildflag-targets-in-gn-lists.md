@@ -2,6 +2,9 @@
 name: general/conditionally-append-buildflag-targets-in-gn-lists
 rubric: correctness
 severity: nit
+type: guide
+title: Conditionally append buildflag targets in GN lists
+summary: Rule to append buildflag-guarded targets to GN lists conditionally with if (buildflag) blocks, preventing GN evaluation errors when the feature flag is disabled.
 ---
 
 **Rule.** In GN target aggregation lists, sources, or dependency lists,

@@ -2,6 +2,9 @@
 name: general/provide-realistic-sample-values-in-translation-placeholder-e
 rubric: testing
 severity: nit
+type: guide
+title: Provide realistic sample values in translation placeholders
+summary: Rule to use realistic sample values in GRD placeholder <ex> tags and avoid third-party brand names so translators get proper context.
 ---
 
 **Rule.** In GRD and GRDP string resource files (.grd, .grdp), provide

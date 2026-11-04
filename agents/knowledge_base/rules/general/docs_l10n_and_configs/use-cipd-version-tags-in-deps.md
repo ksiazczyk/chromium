@@ -2,6 +2,9 @@
 name: general/use-cipd-version-tags-in-deps
 rubric: readability
 severity: nit
+type: reference
+title: Use CIPD version tags in DEPS
+summary: Rule advising DEPS files to reference CIPD packages by version tag instead of raw instance ID hashes for readability and cross-platform resolution.
 ---
 
 **Rule.** In DEPS files, reference CIPD package dependencies (especially 3pp

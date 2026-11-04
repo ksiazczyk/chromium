@@ -2,6 +2,9 @@
 name: general/preserve-sentinel-loop-termination-in-range-for
 rubric: correctness
 severity: should_fix
+type: reference
+title: Preserve sentinel loop termination in range-for
+summary: Coding rule to terminate range-based for loops explicitly with break or return at sentinel elements rather than filtering, avoiding iteration past valid data.
 ---
 
 **Rule.** When iterating over sentinel-terminated arrays, buffers, or spans in a

@@ -2,6 +2,9 @@
 name: general/avoid-mid-word-line-breaks-in-grit-descriptions
 rubric: readability
 severity: nit
+type: guide
+title: Avoid mid-word line breaks in GRIT descriptions
+summary: 'Rule for .grd and .grdp files: keep message desc attribute text unbroken within words, wrapping only at whitespace to protect readability and localization.'
 ---
 
 **Rule.** In `.grd` and `.grdp` resource files, do not break lines in the middle

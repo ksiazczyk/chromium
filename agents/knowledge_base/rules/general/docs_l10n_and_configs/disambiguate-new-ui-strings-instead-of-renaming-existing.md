@@ -2,6 +2,13 @@
 name: general/disambiguate-new-ui-strings-instead-of-renaming-existing
 rubric: readability
 severity: should_fix
+type: guide
+title: Disambiguate new UI strings instead of renaming existing
+summary: Rule to disambiguate newly added UI string IDs with a context suffix or reuse existing resources instead of renaming established IDs, avoiding churn and translation breakage.
+relations:
+  - references /chrome/app/chromium_strings.grd
+  - references /chrome/app/google_chrome_strings.grd
+  - references /chrome/app/glic_strings.grdp
 ---
 
 **Rule.** When introducing new UI strings that overlap, conflict, or share

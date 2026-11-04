@@ -2,6 +2,11 @@
 name: general/deprecate-unsafe-buffer-overloads-in-favor-of-span
 rubric: safety
 severity: should_fix
+type: guide
+title: Deprecate unsafe buffer overloads in favor of span
+summary: Coding rule advising span or string_view parameters for contiguous buffer APIs, migrating callers, and marking any retained raw-pointer overloads with UNSAFE_BUFFER_USAGE and deprecation comments.
+relations:
+  - relates_to /agents/projects/code-health/spanify-buffers/SKILL.md
 ---
 
 **Rule.** When declaring or defining functions that accept contiguous buffers,

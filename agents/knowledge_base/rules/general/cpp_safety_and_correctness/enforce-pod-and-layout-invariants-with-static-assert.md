@@ -2,6 +2,13 @@
 name: general/enforce-pod-and-layout-invariants-with-static-assert
 rubric: safety
 severity: should_fix
+type: guide
+title: Enforce POD and Layout Invariants with static_assert
+summary: Coding rule requiring static_assert (or Rust compile-time assert!) to enforce POD, standard layout, and FFI ABI invariants, with concrete-type checks placed in unit test files rather than headers.
+relations:
+  - references /base/win/event_trace_provider.h
+  - references /base/pickle.cc
+  - references /base/feature.h
 ---
 
 **Rule.** When a struct or class has a POD, standard layout, triviality, or

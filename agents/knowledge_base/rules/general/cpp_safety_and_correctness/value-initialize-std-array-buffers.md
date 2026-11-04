@@ -2,6 +2,9 @@
 name: general/value-initialize-std-array-buffers
 rubric: correctness
 severity: nit
+type: guide
+title: Value-initialize std::array buffers
+summary: Coding rule requiring explicit value-initialization of std::array buffers with primitive element types to avoid uninitialized memory when replacing C arrays or memset.
 ---
 
 **Rule.** When declaring `std::array` buffers with fundamental, scalar, or

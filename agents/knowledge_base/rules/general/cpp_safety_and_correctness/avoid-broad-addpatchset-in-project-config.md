@@ -2,6 +2,9 @@
 name: general/avoid-broad-addpatchset-in-project-config
 rubric: safety
 severity: blocking
+type: reference
+title: Avoid broad addPatchSet in project config
+summary: Rule to avoid granting Gerrit addPatchSet permissions on broad branch references and to restrict automation to least-privilege controls.
 ---
 
 **Rule.** When configuring Gerrit repository access controls in project.config,

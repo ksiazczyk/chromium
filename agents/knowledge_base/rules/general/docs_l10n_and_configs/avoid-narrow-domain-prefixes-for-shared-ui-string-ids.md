@@ -2,6 +2,11 @@
 name: general/avoid-narrow-domain-prefixes-for-shared-ui-string-ids
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid narrow domain prefixes for shared UI string IDs
+summary: 'Rule for .grd and .grdp files: prefix shared UI string IDs with the overarching feature or surface instead of narrow domain or account-type qualifiers.'
+relations:
+  - references /chrome/app/profiles_strings.grdp
 ---
 
 **Rule.** In `.grd` and `.grdp` resource files, do not use narrow, domain- or

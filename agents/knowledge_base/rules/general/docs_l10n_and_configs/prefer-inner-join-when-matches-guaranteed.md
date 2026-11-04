@@ -2,6 +2,9 @@
 name: general/prefer-inner-join-when-matches-guaranteed
 rubric: correctness
 severity: should_fix
+type: guide
+title: Prefer inner join when matches are guaranteed
+summary: Rule for choosing LEFT JOIN versus inner JOIN in SQL and PerfettoSQL based on nullable foreign keys and guaranteed matches, so base rows are not silently dropped or invariants obscured.
 ---
 
 **Rule.** In SQL queries and PerfettoSQL modules, use `LEFT JOIN` instead of an

@@ -2,6 +2,9 @@
 name: general/check-empty-before-span-data-when-null-expected
 rubric: correctness
 severity: should_fix
+type: guide
+title: Check empty before span data when null is expected
+summary: Coding rule warning that base::span::data() may be non-null for empty spans and requiring an explicit empty check when passing data pointers to APIs expecting nullptr.
 ---
 
 **Rule.** Do not assume base::span::data() returns nullptr when empty. When

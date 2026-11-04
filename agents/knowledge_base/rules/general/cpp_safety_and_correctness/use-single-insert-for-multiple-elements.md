@@ -2,6 +2,9 @@
 name: general/use-single-insert-for-multiple-elements
 rubric: safety
 severity: should_fix
+type: guide
+title: Use a single insert for multiple elements
+summary: Coding rule recommending one range or initializer-list insert instead of consecutive single-element inserts to avoid repeated element shifts and multiple reallocations in sequence containers.
 ---
 
 **Rule.** When inserting or prepending multiple elements into a sequence

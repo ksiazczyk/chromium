@@ -2,6 +2,9 @@
 name: general/avoid-reserving-worst-case-capacity
 rubric: safety
 severity: should_fix
+type: reference
+title: Avoid reserving worst-case capacity
+summary: Coding rule against reserving container capacity to worst-case upper bounds when typical payloads are small, since it forces heap allocations and defeats small string optimization.
 ---
 
 **Rule.** Do not call .reserve() on std::string, std::vector, or dynamic

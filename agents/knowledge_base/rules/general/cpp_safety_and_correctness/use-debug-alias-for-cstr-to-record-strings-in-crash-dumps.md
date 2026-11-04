@@ -2,6 +2,9 @@
 name: general/use-debug-alias-for-cstr-to-record-strings-in-crash-dumps
 rubric: correctness
 severity: should_fix
+type: guide
+title: Use DEBUG_ALIAS_FOR_CSTR to record strings in crash dumps
+summary: Coding rule advising copying strings into stack buffers with DEBUG_ALIAS_FOR_CSTR instead of passing members, pointers, or string_views to base::debug::Alias so character data is preserved in minidumps.
 ---
 
 **Rule.** Do not pass object members, pointers, or std::string_view variables

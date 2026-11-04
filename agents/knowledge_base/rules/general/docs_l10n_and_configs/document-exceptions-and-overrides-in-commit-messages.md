@@ -2,6 +2,9 @@
 name: general/document-exceptions-and-overrides-in-commit-messages
 rubric: readability
 severity: nit
+type: reference
+title: Document exceptions and overrides in commit messages
+summary: Rule requiring commit message bodies to state exceptions, override flags, opt-out mechanisms, and boundary conditions that qualify a behavioral change, with bad and good examples.
 ---
 
 **Rule.** When describing new, updated, or refactored behavior in commit message

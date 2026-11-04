@@ -2,6 +2,9 @@
 name: general/include-full-urls-for-external-issue-references-in-commit-me
 rubric: readability
 severity: nit
+type: guide
+title: Include full URLs for external issue references in commit messages
+summary: Rule requiring full URLs instead of bare issue numbers or shorthand when citing external trackers, standards discussions, or specs in commit messages.
 ---
 
 **Rule.** When citing external issue trackers, standards group discussions, or

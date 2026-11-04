@@ -2,6 +2,9 @@
 name: general/omit-drawing-instruction-comments-in-vector-icons
 rubric: readability
 severity: nit
+type: guide
+title: Omit drawing instruction comments in vector icon files
+summary: Rule keeping .icon vector icon files as compact, contiguous drawing command sequences without inline comments or blank lines, matching automated generator output.
 ---
 
 **Rule.** In `.icon` vector icon files, list drawing commands contiguously

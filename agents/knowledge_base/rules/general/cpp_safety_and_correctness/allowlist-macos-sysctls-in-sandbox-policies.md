@@ -2,6 +2,9 @@
 name: general/allowlist-macos-sysctls-in-sandbox-policies
 rubric: correctness
 severity: blocking
+type: reference
+title: Allowlist macOS sysctls in sandbox policies
+summary: Rule requiring sysctls queried by sandboxed macOS processes to be allowlisted in the Seatbelt policy or brokered before sandbox lockdown.
 ---
 
 **Rule.** When querying macOS system information via sysctlbyname(), sysctl(),

@@ -2,6 +2,9 @@
 name: general/wrap-windows-handles-in-raii-wrappers
 rubric: safety
 severity: should_fix
+type: guide
+title: Wrap Windows handles in RAII wrappers
+summary: Coding rule requiring Windows file and kernel HANDLEs to be wrapped in RAII types like base::File or base::win::ScopedHandle instead of manual CloseHandle calls.
 ---
 
 **Rule.** When opening, creating, or receiving Windows file or kernel HANDLEs

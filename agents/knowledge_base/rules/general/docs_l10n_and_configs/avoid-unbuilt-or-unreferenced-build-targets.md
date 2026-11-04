@@ -2,6 +2,11 @@
 name: general/avoid-unbuilt-or-unreferenced-build-targets
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid unbuilt or unreferenced build targets
+summary: Build rule against landing unreferenced targets or source files; new code should be wired into the build graph and consumed in the same CL.
+relations:
+  - references /BUILD.gn
 ---
 
 **Rule.** Do not introduce new build targets (such as source_set,

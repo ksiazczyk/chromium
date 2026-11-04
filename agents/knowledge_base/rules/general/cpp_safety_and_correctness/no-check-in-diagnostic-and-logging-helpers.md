@@ -2,6 +2,9 @@
 name: general/no-check-in-diagnostic-and-logging-helpers
 rubric: correctness
 severity: should_fix
+type: reference
+title: No CHECK in diagnostic and logging helpers
+summary: Rule forbidding CHECK, DCHECK, and NOTREACHED in logging and diagnostic helpers, which should return safe fallback strings like "<unknown>" instead of crashing.
 ---
 
 **Rule.** Do not use CHECK(), DCHECK(), or NOTREACHED() inside logging,

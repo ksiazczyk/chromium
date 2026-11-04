@@ -2,6 +2,12 @@
 name: general/prefer-localized-errorprone-suppressions
 rubric: readability
 severity: should_fix
+type: guide
+title: Prefer localized ErrorProne suppressions
+summary: Rule requiring ErrorProne checks to be suppressed locally with @SuppressWarnings and a comment rather than disabled target-wide in GN build files.
+relations:
+  - references /base/BUILD.gn
+  - references /base/android/java/src/org/chromium/base/TraceEvent.java
 ---
 
 **Rule.** Do not disable ErrorProne or static analysis checks target-wide in GN

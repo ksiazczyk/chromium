@@ -2,6 +2,9 @@
 name: general/match-illustration-accessibility-labels-to-feature
 rubric: testing
 severity: should_fix
+type: guide
+title: Match illustration accessibility labels to the feature
+summary: Rule requiring accessibility labels and alt text for illustrations in .grd and .grdp files to describe the specific feature instead of retaining copy-pasted text from another feature.
 ---
 
 **Rule.** When defining localized accessibility labels or alt text

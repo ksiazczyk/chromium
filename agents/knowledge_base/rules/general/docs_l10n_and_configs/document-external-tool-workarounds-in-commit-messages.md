@@ -2,6 +2,9 @@
 name: general/document-external-tool-workarounds-in-commit-messages
 rubric: readability
 severity: should_fix
+type: reference
+title: Document external tool workarounds in commit messages
+summary: Rule requiring commit messages and docs to describe the failure mechanism, error output, and upstream issue links for build, linker, compiler, or dependency workarounds, with examples.
 ---
 
 **Rule.** When authoring a CL that works around, disables, or resolves a build,

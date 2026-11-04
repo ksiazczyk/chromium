@@ -2,6 +2,11 @@
 name: general/avoid-leaky-public-deps-in-gn-targets
 rubric: design
 severity: should_fix
+type: guide
+title: Avoid leaky public deps in GN targets
+summary: 'Rule for GN build files: declare public headers explicitly, keep private headers in sources, use friend for test access, and restrict public_deps to directly exposed dependencies.'
+relations:
+  - references /BUILD.gn
 ---
 
 **Rule.** In GN build files (`BUILD.gn` and `*.gni`), explicitly declare a

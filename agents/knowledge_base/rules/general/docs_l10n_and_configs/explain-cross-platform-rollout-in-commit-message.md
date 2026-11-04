@@ -2,6 +2,9 @@
 name: general/explain-cross-platform-rollout-in-commit-message
 rubric: readability
 severity: should_fix
+type: reference
+title: Explain cross-platform rollout in commit messages
+summary: Rule requiring commit messages for platform or rollout changes to describe concrete modifications, accurate platform lists, and cross-platform rollout rationale.
 ---
 
 **Rule.** When authoring commit message descriptions for platform changes or

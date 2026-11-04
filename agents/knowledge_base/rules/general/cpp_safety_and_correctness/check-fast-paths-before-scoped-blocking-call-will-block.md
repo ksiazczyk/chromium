@@ -2,6 +2,9 @@
 name: general/check-fast-paths-before-scoped-blocking-call-will-block
 rubric: safety
 severity: should_fix
+type: guide
+title: Check fast paths before ScopedBlockingCall with WILL_BLOCK
+summary: Coding rule requiring checking non-blocking fast paths, such as already-signaled events or cached data, before entering a ScopedBlockingCall with BlockingType::WILL_BLOCK.
 ---
 
 **Rule.** Before instantiating a ScopedBlockingCall (or

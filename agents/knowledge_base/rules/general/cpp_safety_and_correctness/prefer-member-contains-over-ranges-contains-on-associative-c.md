@@ -2,6 +2,9 @@
 name: general/prefer-member-contains-over-ranges-contains-on-associative-c
 rubric: safety
 severity: nit
+type: reference
+title: Prefer member contains over ranges::contains on associative containers
+summary: Rule to use member .contains() or .find() on associative, flat, and hash containers instead of O(N) linear algorithms like std::ranges::contains or find.
 ---
 
 **Rule.** Do not use std::ranges::contains(), std::ranges::find(), or other

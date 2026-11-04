@@ -2,6 +2,11 @@
 name: general/assert-sequence-affinity-on-sequence-bound-methods
 rubric: safety
 severity: should_fix
+type: reference
+title: Assert sequence affinity on sequence-bound methods
+summary: Rule to add sequence affinity assertions at the start of all public entry points and state-accessing methods of sequence-bound classes.
+relations:
+  - references /base/threading/thread_checker.h
 ---
 
 **Rule.** In sequence-bound classes or objects configured during

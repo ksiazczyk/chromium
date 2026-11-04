@@ -2,6 +2,9 @@
 name: general/verify-android-kernel-version-for-syscalls
 rubric: correctness
 severity: should_fix
+type: guide
+title: Verify Android kernel version for syscalls
+summary: Coding rule requiring runtime kernel version checks or ENOSYS fallbacks before assuming Linux syscall availability on Android, including for embedders like Cronet.
 ---
 
 **Rule.** When determining whether a Linux kernel feature or syscall (such as

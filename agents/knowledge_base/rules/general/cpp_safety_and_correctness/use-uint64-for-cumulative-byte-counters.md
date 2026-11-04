@@ -2,6 +2,9 @@
 name: general/use-uint64-for-cumulative-byte-counters
 rubric: correctness
 severity: nit
+type: guide
+title: Use uint64_t for cumulative byte counters
+summary: Coding rule requiring uint64_t instead of size_t for cumulative memory statistics and monotonic byte totals, which can exceed 4 GiB and overflow on 32-bit architectures.
 ---
 
 **Rule.** Use uint64_t (or std::atomic\<uint64_t>) rather than size_t for

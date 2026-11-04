@@ -2,6 +2,9 @@
 name: general/verify-document-and-experiment-links-in-commit-messages
 rubric: readability
 severity: should_fix
+type: reference
+title: Verify document and experiment links in commit messages
+summary: Rule requiring commit message URLs for design docs, approvals, and experiment results to point to the specific resource containing the supporting data.
 ---
 
 **Rule.** When referencing design docs, launch approvals, benchmark evaluations,

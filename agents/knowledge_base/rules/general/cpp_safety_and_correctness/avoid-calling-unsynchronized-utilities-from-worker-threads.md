@@ -2,6 +2,9 @@
 name: general/avoid-calling-unsynchronized-utilities-from-worker-threads
 rubric: safety
 severity: should_fix
+type: reference
+title: Avoid calling unsynchronized utilities from worker threads
+summary: Coding rule advising worker threads to bypass unsynchronized utility wrappers that read process-global state and query thread-safe platform APIs directly, with bad and good C++ examples.
 ---
 
 **Rule.** Do not call utility functions or wrappers that read or mutate

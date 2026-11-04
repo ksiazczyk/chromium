@@ -2,6 +2,11 @@
 name: general/preserve-subsystem-qualifiers-in-target-names
 rubric: readability
 severity: should_fix
+type: guide
+title: Preserve subsystem qualifiers in target names
+summary: Rule against giving build targets or test suites overly generic names when they cover a specific subsystem, preserving qualifying prefixes such as jni_ or mojo_.
+relations:
+  - references /base/android/junit/src/org/chromium/base/JniCallbacksTest.java
 ---
 
 **Rule.** Do not give build targets or test suites overly broad or generic names

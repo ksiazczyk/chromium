@@ -2,6 +2,9 @@
 name: general/return-nullopt-for-empty-optional-string
 rubric: correctness
 severity: should_fix
+type: reference
+title: Return nullopt for empty optional string
+summary: Coding rule requiring functions returning optional strings or containers to return std::nullopt instead of an engaged optional holding an empty value.
 ---
 
 **Rule.** When implementing a function that returns an std::optional string,

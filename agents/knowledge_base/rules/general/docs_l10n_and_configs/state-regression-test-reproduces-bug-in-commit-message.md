@@ -2,6 +2,9 @@
 name: general/state-regression-test-reproduces-bug-in-commit-message
 rubric: readability
 severity: should_fix
+type: guide
+title: State Regression Test Reproduces Bug in Commit Message
+summary: Coding rule requiring commit messages to describe added test coverage, confirm regression tests reproduce the defect, and explain secondary test or config target edits.
 ---
 
 **Rule.** When adding unit or regression tests, modifying test targets, or

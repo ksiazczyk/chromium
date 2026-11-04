@@ -2,6 +2,9 @@
 name: general/prefer-string-view-for-transient-parsing-and-lookups
 rubric: safety
 severity: should_fix
+type: reference
+title: Prefer string view for transient parsing and lookups
+summary: Coding rule favoring string view types over owning std::string for parsing, substr slicing, and transparent associative container lookups to avoid heap allocations and copies.
 ---
 
 **Rule.** Prefer string view types (`std::string_view`, `base::cstring_view`, or

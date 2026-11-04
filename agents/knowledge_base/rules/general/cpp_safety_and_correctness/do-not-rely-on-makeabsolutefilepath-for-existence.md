@@ -2,6 +2,9 @@
 name: general/do-not-rely-on-makeabsolutefilepath-for-existence
 rubric: correctness
 severity: blocking
+type: guide
+title: Do Not Use MakeAbsoluteFilePath to Verify File Existence
+summary: Coding rule warning that base::MakeAbsoluteFilePath() only detects missing paths on POSIX, so base::PathExists() must be used when file or directory existence matters.
 ---
 
 **Rule.** Do not rely on base::MakeAbsoluteFilePath() to verify that a file or

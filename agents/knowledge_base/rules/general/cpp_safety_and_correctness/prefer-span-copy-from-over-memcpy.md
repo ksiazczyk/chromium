@@ -2,6 +2,9 @@
 name: general/prefer-span-copy-from-over-memcpy
 rubric: safety
 severity: blocking
+type: reference
+title: Prefer span copy_from over memcpy
+summary: Coding rule that replaces raw memcpy and memmove with base::span::copy_from, requiring size-verified spans and UNSAFE_BUFFERS wrappers with SAFETY comments at raw pointer boundaries.
 ---
 
 **Rule.** Replace raw memcpy() and memmove() calls with base::span::copy_from()

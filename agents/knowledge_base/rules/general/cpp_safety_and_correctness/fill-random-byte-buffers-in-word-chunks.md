@@ -2,6 +2,9 @@
 name: general/fill-random-byte-buffers-in-word-chunks
 rubric: safety
 severity: should_fix
+type: reference
+title: Fill random byte buffers in word chunks
+summary: Coding rule advising fuzzer, test, and benchmark code to fill byte buffers with PRNG output in 32-bit word chunks instead of one byte per generator call, preserving entropy and throughput.
 ---
 
 **Rule.** When populating byte buffers or spans with pseudo-random numbers in

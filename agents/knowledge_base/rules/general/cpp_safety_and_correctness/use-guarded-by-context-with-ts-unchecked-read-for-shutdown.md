@@ -2,6 +2,9 @@
 name: general/use-guarded-by-context-with-ts-unchecked-read-for-shutdown
 rubric: safety
 severity: nit
+type: guide
+title: Use GUARDED_BY_CONTEXT with TS_UNCHECKED_READ for shutdown access
+summary: Coding rule recommending GUARDED_BY_CONTEXT annotations on sequence-affine members, with TS_UNCHECKED_READ and a comment at provably safe off-sequence shutdown accesses to keep static thread safety analysis.
 ---
 
 **Rule.** Annotate sequence-affine member variables with

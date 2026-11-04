@@ -2,6 +2,9 @@
 name: general/clarify-conflicting-values-in-policy-warning-messages
 rubric: testing
 severity: should_fix
+type: guide
+title: Clarify conflicting values in policy warning messages
+summary: 'Rule for enterprise policy UI strings: warning tooltips should state that policies have conflicting values from multiple sources, not merely that multiple sources exist.'
 ---
 
 **Rule.** In enterprise policy and configuration UI string resources (.grd,

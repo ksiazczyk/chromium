@@ -2,6 +2,9 @@
 name: general/validate-bounds-before-icu-utf-macros
 rubric: safety
 severity: should_fix
+type: guide
+title: Validate bounds before ICU UTF macros
+summary: Coding rule requiring the index to be strictly within buffer bounds before calling ICU UTF macros such as CBU8_NEXT, which assume index < length and otherwise read out of bounds.
 ---
 
 **Rule.** Ensure the current offset or index is strictly within buffer bounds

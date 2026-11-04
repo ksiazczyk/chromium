@@ -2,6 +2,9 @@
 name: general/avoid-trace-events-in-datasource-onstop
 rubric: correctness
 severity: blocking
+type: reference
+title: Avoid trace events in data source OnStop
+summary: Blocking-severity rule against emitting TRACE_EVENT macros in a perfetto data source's OnStop teardown, recommending TraceSessionObserver or raw trace packets instead.
 ---
 
 **Rule.** Do not emit TRACE_EVENT macros inside the OnStop() teardown hook of an

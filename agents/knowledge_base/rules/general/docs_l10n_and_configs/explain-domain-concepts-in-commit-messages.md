@@ -2,6 +2,9 @@
 name: general/explain-domain-concepts-in-commit-messages
 rubric: readability
 severity: should_fix
+type: reference
+title: Explain domain concepts in commit messages
+summary: Rule requiring CL descriptions to define and explain new architectures, frameworks, or domain terminology and contrast them with legacy models.
 ---
 
 **Rule.** When authoring CL descriptions that introduce new architectures,

@@ -2,6 +2,9 @@
 name: general/do-not-assume-pickle-unowned-buffer-alignment
 rubric: correctness
 severity: blocking
+type: guide
+title: Do Not Assume Alignment of Unowned Byte Buffers and Pickle Payloads
+summary: Coding rule requiring explicit alignas, dynamic alignment checks with base::IsAligned, or unaligned-safe readers when byte storage is reinterpreted as structured types or exposed as typed views.
 ---
 
 **Rule.** Ensure byte storage and raw byte buffer casts satisfy runtime

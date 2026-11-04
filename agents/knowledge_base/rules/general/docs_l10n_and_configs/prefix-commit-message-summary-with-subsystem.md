@@ -2,6 +2,9 @@
 name: general/prefix-commit-message-summary-with-subsystem
 rubric: readability
 severity: should_fix
+type: guide
+title: Prefix commit message summary with subsystem
+summary: Rule for writing commit message summaries with a subsystem prefix, concrete imperative verbs, and no trailing period, symptoms, buzzwords, Conventional Commits tags, or platform labels on shared code.
 ---
 
 **Rule.** Prefix or qualify the commit message summary line with the affected

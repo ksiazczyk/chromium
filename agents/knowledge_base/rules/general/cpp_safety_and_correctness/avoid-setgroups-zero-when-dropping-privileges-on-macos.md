@@ -2,6 +2,9 @@
 name: general/avoid-setgroups-zero-when-dropping-privileges-on-macos
 rubric: safety
 severity: blocking
+type: reference
+title: Avoid setgroups(0, nullptr) when dropping privileges on macOS
+summary: Blocking-severity rule warning that setgroups(0, nullptr) on macOS resets supplementary groups to wheel rather than clearing them, recommending initgroups for the unprivileged user.
 ---
 
 **Rule.** When dropping process privileges on macOS, do not call setgroups(0,

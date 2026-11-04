@@ -2,6 +2,9 @@
 name: general/eliminate-spoofable-arguments-across-privilege-boundaries
 rubric: safety
 severity: should_fix
+type: guide
+title: Eliminate Spoofable Arguments Across Privilege Boundaries
+summary: Security rule requiring that spoofable caller-supplied arguments be removed from all downstream logic, including child process arguments and validation, once an authoritative local source is used.
 ---
 
 **Rule.** When hardening an IPC or RPC endpoint to resolve identities or paths

@@ -2,6 +2,11 @@
 name: general/run-taskobserver-dependent-checks-inside-posted-tasks
 rubric: correctness
 severity: should_fix
+type: guide
+title: Run TaskObserver-dependent checks inside posted tasks
+summary: Rule to run assertions inside posted tasks or disable the task observer when testing task-gated state, because synchronous test bodies execute outside task dispatch and observers see zero active tasks.
+relations:
+  - references /base/task/task_observer.h
 ---
 
 **Rule.** When testing state or features whose active lifecycle is monitored or

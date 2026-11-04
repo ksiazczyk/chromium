@@ -2,6 +2,9 @@
 name: general/resolve-main-bundle-id-across-macos-process-hierarchy
 rubric: correctness
 severity: should_fix
+type: reference
+title: Resolve main bundle ID across macOS process hierarchy
+summary: Coding rule requiring macOS bundle identifier lookups to traverse the process hierarchy, since helper and child processes lack a main bundle identifier.
 ---
 
 **Rule.** When identifying an application or resolving its bundle identifier

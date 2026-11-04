@@ -2,6 +2,9 @@
 name: general/avoid-unsafe-buffers-over-cstr-when-copying-null-terminated
 rubric: correctness
 severity: should_fix
+type: guide
+title: Avoid unsafe buffers over c_str when copying null-terminated strings
+summary: Coding rule advising safe container conversions like base::as_byte_span and copy_from instead of UNSAFE_BUFFERS spans over c_str, including writing full multi-byte null terminators for wide strings.
 ---
 
 **Rule.** When copying a string into a buffer that requires null termination,

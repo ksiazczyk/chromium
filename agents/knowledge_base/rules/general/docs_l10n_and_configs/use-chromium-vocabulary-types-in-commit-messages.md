@@ -2,6 +2,9 @@
 name: general/use-chromium-vocabulary-types-in-commit-messages
 rubric: readability
 severity: should_fix
+type: reference
+title: Use Chromium vocabulary types in commit messages
+summary: Rule requiring commit messages to name Chromium vocabulary types such as base::expected and base::span instead of standard library or third-party equivalents.
 ---
 
 **Rule.** When referencing C++ types, data structures, or APIs in commit message

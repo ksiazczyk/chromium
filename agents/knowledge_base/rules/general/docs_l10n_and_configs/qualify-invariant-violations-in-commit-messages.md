@@ -2,6 +2,9 @@
 name: general/qualify-invariant-violations-in-commit-messages
 rubric: readability
 severity: should_fix
+type: guide
+title: Qualify invariant violations in commit messages
+summary: Rule to explicitly qualify the scope of invariants, safety assumptions, and security properties in commit messages instead of broad assertions.
 ---
 
 **Rule.** When describing invariants, safety assumptions, alignment guarantees,

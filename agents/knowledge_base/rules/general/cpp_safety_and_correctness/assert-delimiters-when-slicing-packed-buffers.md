@@ -2,6 +2,9 @@
 name: general/assert-delimiters-when-slicing-packed-buffers
 rubric: safety
 severity: optional
+type: reference
+title: Assert delimiters when slicing packed buffers
+summary: Rule to assert delimiter expectations at precomputed offsets before slicing sub-views from packed or delimited buffers.
 ---
 
 **Rule.** When indexing, slicing, or synthesizing sub-views from a packed or

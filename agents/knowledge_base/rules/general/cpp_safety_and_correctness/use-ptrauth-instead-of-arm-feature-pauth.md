@@ -2,6 +2,9 @@
 name: general/use-ptrauth-instead-of-arm-feature-pauth
 rubric: correctness
 severity: should_fix
+type: guide
+title: Use __PTRAUTH__ instead of __ARM_FEATURE_PAUTH for PAC checks
+summary: Coding rule directing conditional compilation of ARM64 pointer authentication to check __PTRAUTH__ or BUILDFLAG(ARCH_CPU_PTRAUTH) rather than hardware capability macros that do not imply an enabled PAC ABI.
 ---
 
 **Rule.** When conditionally compiling code for ARM64 Pointer Authentication

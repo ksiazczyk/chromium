@@ -2,6 +2,9 @@
 name: general/guard-risky-refactoring-with-feature-killswitch
 rubric: correctness
 severity: should_fix
+type: reference
+title: Guard risky refactoring with a feature kill switch
+summary: Coding rule requiring risky behavioral changes and subsystem refactorings to ship behind an enabled-by-default base::Feature kill switch with the legacy behavior retained as fallback.
 ---
 
 **Rule.** When landing potentially risky behavioral changes, bug fixes, OS API

@@ -2,6 +2,13 @@
 name: general/avoid-including-large-string-bundles-for-few-strings
 rubric: safety
 severity: should_fix
+type: reference
+title: Avoid including large string bundles for a few strings
+summary: Rule against widening if-expr guards to pull in large platform-excluded grdp bundles for a few strings, directing authors to extract needed strings into feature-specific bundles.
+relations:
+  - references /chrome/app/settings_strings.grdp
+  - references /chrome/app/generated_resources.grd
+  - references /chrome/app/shared_settings_strings.grdp
 ---
 
 **Rule.** Do not expand <if expr="..."> build guards to include large

@@ -2,6 +2,11 @@
 name: general/avoid-transient-qualifiers-in-resource-ids
 rubric: readability
 severity: should_fix
+type: guide
+title: Avoid transient qualifiers in resource IDs
+summary: 'Rule for .grd and .grdp files: avoid temporal qualifiers such as NEW or MODERNIZED in IDS_* names and name IDs after the UI component or semantic role.'
+relations:
+  - references /chrome/app/generated_resources.grd
 ---
 
 **Rule.** In `.grd` and `.grdp` resource files, do not use transient, temporal,

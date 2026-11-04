@@ -2,6 +2,11 @@
 name: general/clean-up-platform-packaging-deps-on-target-removal
 rubric: correctness
 severity: should_fix
+type: guide
+title: Clean up platform packaging deps on target removal
+summary: Rule requiring cleanup of platform-specific packaging dependencies across build files when migrating an asset to a bundle or deleting a GN target, to avoid orphaned deps.
+relations:
+  - references /chrome/BUILD.gn
 ---
 
 **Rule.** When migrating a standalone asset to a resource bundle or deleting a

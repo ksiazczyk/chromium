@@ -2,6 +2,9 @@
 name: general/group-grd-strings-by-surface-with-section-comments
 rubric: readability
 severity: nit
+type: guide
+title: Group GRD strings by UI surface with section comments
+summary: Rule requiring .grd and .grdp message definitions to be grouped by UI surface or feature and separated with descriptive XML section comments.
 ---
 
 **Rule.** In `.grd` and `.grdp` string resource files, group `<message>`

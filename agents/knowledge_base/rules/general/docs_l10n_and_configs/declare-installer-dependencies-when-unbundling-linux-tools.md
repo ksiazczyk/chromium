@@ -2,6 +2,11 @@
 name: general/declare-installer-dependencies-when-unbundling-linux-tools
 rubric: correctness
 severity: should_fix
+type: guide
+title: Declare installer dependencies when unbundling Linux tools
+summary: Rule to declare explicit system package dependencies in companion installer manifests such as Debian control files when unbundling third-party tools from Linux installer packages.
+relations:
+  - references /remoting/host/installer/linux/debian/control
 ---
 
 **Rule.** When unbundling third-party utilities or tools from Linux installer

@@ -2,6 +2,9 @@
 name: general/write-documentation-authoritatively-without-hedging
 rubric: readability
 severity: nit
+type: reference
+title: Write documentation authoritatively without hedging
+summary: Style rule advising technical documentation to state capabilities and limitations directly instead of using tentative hedging phrases.
 ---
 
 **Rule.** In technical documentation, cheat sheets, and reference guides, write

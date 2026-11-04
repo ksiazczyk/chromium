@@ -2,6 +2,9 @@
 name: general/explicit-application-name-in-win32-createprocess
 rubric: safety
 severity: should_fix
+type: reference
+title: Explicit application name in Win32 CreateProcess calls
+summary: Coding rule requiring the trusted executable path to be passed as lpApplicationName in Win32 process creation APIs to prevent command-line parsing from resolving an unintended binary.
 ---
 
 **Rule.** When calling Win32 process creation APIs (such as CreateProcessW,

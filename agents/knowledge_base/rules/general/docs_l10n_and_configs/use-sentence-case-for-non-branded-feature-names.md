@@ -2,6 +2,9 @@
 name: general/use-sentence-case-for-non-branded-feature-names
 rubric: readability
 severity: should_fix
+type: reference
+title: Use sentence case for non-branded feature names
+summary: Rule for .grd and .grdp files to use sentence case for non-branded feature names and titles while capitalizing proper nouns and branded products.
 ---
 
 **Rule.** In `.grd` and `.grdp` resource files, format WebUI and settings

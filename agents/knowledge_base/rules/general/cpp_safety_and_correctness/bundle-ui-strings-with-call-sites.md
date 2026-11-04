@@ -2,6 +2,12 @@
 name: general/bundle-ui-strings-with-call-sites
 rubric: correctness
 severity: should_fix
+type: guide
+title: Bundle UI strings with call sites
+summary: Coding rule requiring new or updated UI string resources to land in the same CL as their consuming call sites, or to clarify resource-only changes in the commit description.
+relations:
+  - references /chrome/app/generated_resources.grd
+  - references /chrome/browser/ui/browser_actions.cc
 ---
 
 **Rule.** Bundle newly added or updated UI string resources (IDS\_\*) with their

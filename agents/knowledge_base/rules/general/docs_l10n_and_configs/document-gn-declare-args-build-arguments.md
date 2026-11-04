@@ -2,6 +2,9 @@
 name: general/document-gn-declare-args-build-arguments
 rubric: readability
 severity: should_fix
+type: reference
+title: Document GN declare_args build arguments
+summary: Rule requiring full-sentence comments before every build argument declared in GN declare_args() blocks so gn args --list can generate useful documentation, with examples.
 ---
 
 **Rule.** Precede every build argument declared within `declare_args()` blocks

@@ -2,6 +2,9 @@
 name: general/document-protobuf-fields-and-population-conditions
 rubric: readability
 severity: nit
+type: reference
+title: Document protobuf fields and population conditions
+summary: Rule requiring .proto field doc comments to explain field meaning and when, where, or under what conditions the field is populated, including platform restrictions, with examples.
 ---
 
 **Rule.** When adding or modifying fields in Protocol Buffer schemas (`.proto`),

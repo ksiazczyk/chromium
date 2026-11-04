@@ -2,6 +2,9 @@
 name: general/pass-prng-engines-by-reference
 rubric: correctness
 severity: should_fix
+type: reference
+title: Pass PRNG engines by reference
+summary: Rule to pass pseudo-random number generator engines by non-const reference so caller state advances, preventing identical sequences from copied generator state.
 ---
 
 **Rule.** Do not pass pseudo-random number generator (PRNG) engines (such as

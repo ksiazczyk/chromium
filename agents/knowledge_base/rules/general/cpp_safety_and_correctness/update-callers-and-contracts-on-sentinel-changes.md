@@ -2,6 +2,9 @@
 name: general/update-callers-and-contracts-on-sentinel-changes
 rubric: correctness
 severity: should_fix
+type: guide
+title: Update callers and contracts on sentinel changes
+summary: Rule to audit and update all callers and wrappers when a helper's return values, error codes, or sentinels change, mapping internal codes to each caller's documented API contract.
 ---
 
 **Rule.** When modifying the return values, error codes, or sentinels of a

@@ -2,6 +2,9 @@
 name: general/use-ascii-quotes-in-markdown-documentation
 rubric: readability
 severity: nit
+type: guide
+title: Use ASCII Quotes in Markdown Documentation
+summary: Style rule requiring ASCII straight apostrophes and quotation marks in Markdown documentation instead of typographic curly quotes copied from rich-text editors.
 ---
 
 **Rule.** In Markdown documentation (`*.md`), use standard ASCII straight

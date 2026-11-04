@@ -2,6 +2,9 @@
 name: general/forward-unmodified-invoker-variables-in-gn-templates
 rubric: readability
 severity: nit
+type: reference
+title: Forward unmodified invoker variables in GN templates
+summary: Rule to forward unmodified invoker variables directly via forward_variables_from() in GN templates instead of copying them through intermediate local variables.
 ---
 
 **Rule.** In GN templates, forward unmodified invoker variables directly to

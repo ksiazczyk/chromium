@@ -2,6 +2,9 @@
 name: general/zero-initialize-c-struct-out-parameters
 rubric: safety
 severity: should_fix
+type: guide
+title: Zero-initialize C struct out-parameters
+summary: Coding rule requiring local C-style aggregate structs passed as out-parameters to platform APIs to be zero-initialized at declaration to prevent uninitialized reads.
 ---
 
 **Rule.** When declaring local C-style aggregate structs or descriptor objects

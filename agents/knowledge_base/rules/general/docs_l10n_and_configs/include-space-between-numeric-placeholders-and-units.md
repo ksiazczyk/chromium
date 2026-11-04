@@ -2,6 +2,9 @@
 name: general/include-space-between-numeric-placeholders-and-units
 rubric: testing
 severity: should_fix
+type: guide
+title: Include space between numeric placeholders and units
+summary: Rule requiring a space between numeric <ph> placeholders and unit abbreviations such as MB or min in .grd and .grdp resource strings.
 ---
 
 **Rule.** In .grd and .grdp resource files, insert a space between numeric

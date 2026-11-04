@@ -2,6 +2,9 @@
 name: general/request-process-query-limited-information-for-token-queries
 rubric: correctness
 severity: should_fix
+type: reference
+title: Request PROCESS_QUERY_LIMITED_INFORMATION for token queries
+summary: Coding rule advising PROCESS_QUERY_LIMITED_INFORMATION instead of PROCESS_QUERY_INFORMATION when opening Windows process handles to query access tokens or metadata.
 ---
 
 **Rule.** When opening a Windows process handle to query its access token or

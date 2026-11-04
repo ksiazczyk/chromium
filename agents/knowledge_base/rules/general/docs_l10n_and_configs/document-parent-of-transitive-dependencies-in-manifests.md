@@ -2,6 +2,9 @@
 name: general/document-parent-of-transitive-dependencies-in-manifests
 rubric: readability
 severity: nit
+type: reference
+title: Document parent of transitive dependencies in manifests
+summary: Rule requiring comments naming the parent package or tool when declaring transitive dependencies in manifests such as .vpython3, DEPS, or requirements.txt, with bad and good examples.
 ---
 
 **Rule.** When explicitly declaring a transitive or indirect dependency in a

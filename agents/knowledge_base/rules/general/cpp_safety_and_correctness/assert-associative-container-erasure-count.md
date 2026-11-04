@@ -2,6 +2,9 @@
 name: general/assert-associative-container-erasure-count
 rubric: safety
 severity: nit
+type: reference
+title: Assert associative container erasure count
+summary: Rule to erase by key and assert the returned count of one instead of performing a separate find() lookup before erase.
 ---
 
 **Rule.** When erasing an element by key from an associative or hash container

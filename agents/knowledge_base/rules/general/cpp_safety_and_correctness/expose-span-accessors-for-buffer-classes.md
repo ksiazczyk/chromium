@@ -2,6 +2,9 @@
 name: general/expose-span-accessors-for-buffer-classes
 rubric: safety
 severity: should_fix
+type: reference
+title: Expose span accessors for buffer classes
+summary: Coding rule telling buffer and memory classes to expose span-returning accessors so callers avoid constructing base::span from raw pointers under UNSAFE_BUFFERS macros.
 ---
 
 **Rule.** Expose underlying storage of buffer- or memory-managing classes

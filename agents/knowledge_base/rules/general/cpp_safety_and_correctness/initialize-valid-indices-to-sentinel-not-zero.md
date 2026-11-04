@@ -2,6 +2,9 @@
 name: general/initialize-valid-indices-to-sentinel-not-zero
 rubric: correctness
 severity: nit
+type: reference
+title: Initialize valid indices to a sentinel, not zero
+summary: Coding rule advising index, slot, and identifier members be initialized to an explicit invalid sentinel or optional so unconfigured states fail bounds checks instead of aliasing element zero.
 ---
 
 **Rule.** Do not initialize index, slot, or identifier data members to 0 by

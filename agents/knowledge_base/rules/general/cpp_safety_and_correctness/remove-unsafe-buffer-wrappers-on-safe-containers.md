@@ -2,6 +2,9 @@
 name: general/remove-unsafe-buffer-wrappers-on-safe-containers
 rubric: safety
 severity: should_fix
+type: reference
+title: Remove unsafe buffer wrappers on safe containers
+summary: Coding rule against UNSAFE_BUFFER_USAGE annotations and UNSAFE_BUFFERS or UNSAFE_TODO macros on bounds-checked containers and view types that are already safe.
 ---
 
 **Rule.** Do not annotate function declarations with `UNSAFE_BUFFER_USAGE` or
