@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory reclaimer class declaration
+// summary: Declares the MemoryReclaimer singleton, its partition registration API, and the runtime-tunable adaptive interval configuration for periodic memory reclamation.
+// ---
+
 #ifndef PARTITION_ALLOC_MEMORY_RECLAIMER_H_
 #define PARTITION_ALLOC_MEMORY_RECLAIMER_H_
 

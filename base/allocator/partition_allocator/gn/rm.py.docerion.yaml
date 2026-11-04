@@ -1,0 +1,4 @@
+# Docerion header of rm.py.
+type: script
+title: rm.py removal helper for the GN build
+summary: Python helper copied from Skia that deletes a file or directory at the given path.

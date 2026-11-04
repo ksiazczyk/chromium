@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compile-time FNV-1a hash function
+// summary: Provides a consteval FNV-1a hash function for hashing strings at compile time.
+// ---
+
 #ifndef PARTITION_ALLOC_FNV1A_CONSTEVAL_H_
 #define PARTITION_ALLOC_FNV1A_CONSTEVAL_H_
 

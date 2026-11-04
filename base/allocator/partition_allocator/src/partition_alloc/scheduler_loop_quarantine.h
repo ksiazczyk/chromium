@@ -37,6 +37,12 @@
 // │Branch 1  ││Branch 2  ││Branch 3  │
 // └──────────┘└──────────┘└──────────┘
 
+// ---docerion
+// type: source
+// title: Scheduler loop quarantine API
+// summary: Declares the scheduler-loop quarantine root and per-thread branch classes that defer freed allocations until the end of the current task.
+// ---
+
 #ifndef PARTITION_ALLOC_SCHEDULER_LOOP_QUARANTINE_H_
 #define PARTITION_ALLOC_SCHEDULER_LOOP_QUARANTINE_H_
 

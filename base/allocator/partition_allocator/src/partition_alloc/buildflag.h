@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PA_BUILDFLAG accessor macro
+// summary: Header defining the PA_BUILDFLAG macro that reads build flags through mangled function-style defines so PartitionAlloc and Chromium can coexist.
+// ---
+
 #ifndef PARTITION_ALLOC_BUILDFLAG_H_
 #define PARTITION_ALLOC_BUILDFLAG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator notification data structures
+// summary: Defines the AllocationNotificationData and FreeNotificationData structures passed to observer hooks, including optional MTE reporting mode.
+// ---
+
 #ifndef BASE_ALLOCATOR_DISPATCHER_NOTIFICATION_DATA_H_
 #define BASE_ALLOCATOR_DISPATCHER_NOTIFICATION_DATA_H_
 

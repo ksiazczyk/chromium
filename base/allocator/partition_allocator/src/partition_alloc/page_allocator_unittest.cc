@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page allocator unit tests
+// summary: Unit tests for the page allocator covering size rounding, allocations, address space randomization, and platform-specific behaviors such as MTE and BTI.
+// ---
+
 #include "partition_alloc/page_allocator.h"
 
 #include <algorithm>

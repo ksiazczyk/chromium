@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows page allocator internals header
+// summary: Declares the Windows implementation of page allocation via VirtualAlloc, including out-of-memory error detection and commit-failure retry logic.
+// ---
+
 #ifndef PARTITION_ALLOC_PAGE_ALLOCATOR_INTERNALS_WIN_H_
 #define PARTITION_ALLOC_PAGE_ALLOCATOR_INTERNALS_WIN_H_
 

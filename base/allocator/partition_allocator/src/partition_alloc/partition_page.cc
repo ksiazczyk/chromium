@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slot span metadata and direct map unmap implementation
+// summary: Implements slot span bookkeeping for PartitionAlloc, including direct map unmapping, empty slot span registration, and deferred decommit handling.
+// ---
+
 #include <cstdint>
 
 #include "partition_alloc/address_pool_manager.h"

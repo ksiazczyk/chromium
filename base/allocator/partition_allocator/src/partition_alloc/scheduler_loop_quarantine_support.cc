@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler loop quarantine support implementation
+// summary: Implements quarantine exclusion scopes, purge policy updates, and testing accessors for the scheduler-loop quarantine.
+// ---
+
 #include "partition_alloc/scheduler_loop_quarantine_support.h"
 
 #include "partition_alloc/internal/partition_root_internal.h"

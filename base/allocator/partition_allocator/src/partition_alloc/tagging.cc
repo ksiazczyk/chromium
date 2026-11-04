@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory tagging (MTE) support implementation
+// summary: Implements functions to change per-thread and per-process memory tagging modes, including MTE prctl handling and Android dynamic linker support.
+// ---
+
 #include "partition_alloc/tagging.h"
 
 #include <stdint.h>

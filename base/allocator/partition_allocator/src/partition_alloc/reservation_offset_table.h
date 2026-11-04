@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reservation offset table class
+// summary: Declares the ReservationOffsetTable that stores one entry per super page so the reservation start of a direct map allocation can be computed quickly.
+// ---
+
 #ifndef PARTITION_ALLOC_RESERVATION_OFFSET_TABLE_H_
 #define PARTITION_ALLOC_RESERVATION_OFFSET_TABLE_H_
 

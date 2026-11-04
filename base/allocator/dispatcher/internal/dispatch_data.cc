@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DispatchData implementation for allocator hooks
+// summary: Implements the setters and getters on DispatchData for PartitionAlloc allocation observer hooks and the allocator shim dispatch, guarded by PartitionAlloc build flags.
+// ---
+
 #include "base/allocator/dispatcher/internal/dispatch_data.h"
 
 #include "partition_alloc/buildflags.h"

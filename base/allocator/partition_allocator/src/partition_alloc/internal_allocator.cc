@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal allocator implementation
+// summary: Implements the internal PartitionRoot with thread cache disabled and the operator new and delete used for PartitionAlloc's own heap allocations.
+// ---
+
 #include "partition_alloc/internal_allocator.h"
 
 #include "partition_alloc/internal/partition_root_internal.h"

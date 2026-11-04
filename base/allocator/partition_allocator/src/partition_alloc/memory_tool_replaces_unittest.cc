@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory tool replaces allocator unit tests
+// summary: Unit tests for PartitionAlloc's allocation override and observer hooks in builds where a memory tool replaces the allocator.
+// ---
+
 #include "partition_alloc/buildflags.h"
 
 #if PA_BUILDFLAG(MEMORY_TOOL_REPLACES_ALLOCATOR)

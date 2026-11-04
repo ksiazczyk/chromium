@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer bounds check declarations
+// summary: Declares the PtrPosWithinAlloc enum and functions that report whether a test address lies within the same allocation as an original pointer.
+// ---
+
 #ifndef PARTITION_ALLOC_BOUNDS_CHECKS_H_
 #define PARTITION_ALLOC_BOUNDS_CHECKS_H_
 

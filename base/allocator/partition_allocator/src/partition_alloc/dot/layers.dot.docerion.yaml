@@ -1,0 +1,4 @@
+# Docerion header of layers.dot.
+type: asset
+title: Allocator layers diagram
+summary: Graphviz source showing the allocator layering, with per-thread caches above the central allocator's slot span freelist fast path and management slow path.

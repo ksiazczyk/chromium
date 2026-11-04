@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer bounds check implementation
+// summary: Implements checks that determine whether a pointer stays within the same PartitionAlloc allocation, supporting backup reference pointers and checked spans.
+// ---
+
 #include "partition_alloc/bounds_checks.h"
 
 #include <cstdint>

@@ -7,6 +7,12 @@
 // `UntaggedSlotStart`) provide a more type-safe way to handle memory addresses
 // within PartitionAlloc, especially considering Memory Tagging Extension (MTE).
 
+// ---docerion
+// type: source
+// title: Type-safe slot and slot span address wrappers
+// summary: Defines SlotSpanStart, SlotStart and UntaggedSlotStart wrapper types for MTE-aware, type-safe handling of allocation slot addresses.
+// ---
+
 #ifndef PARTITION_ALLOC_SLOT_START_H_
 #define PARTITION_ALLOC_SLOT_START_H_
 

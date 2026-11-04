@@ -1,0 +1,4 @@
+# Docerion header of bucket.dot.
+type: asset
+title: Bucket layout diagram
+summary: Graphviz source depicting partition pages within a bucket, showing head and tail partition pages and the slot spans they contain.

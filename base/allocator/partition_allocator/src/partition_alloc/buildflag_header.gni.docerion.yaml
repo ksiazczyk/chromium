@@ -1,0 +1,4 @@
+# Docerion header of buildflag_header.gni.
+type: config
+title: GN template for buildflag headers
+summary: GN build template that generates headers with preprocessor defines from build files, using mangled function-style names to avoid silent ifdef failures.

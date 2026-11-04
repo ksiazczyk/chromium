@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early Apple malloc zone registration
+// summary: Registers a delegating malloc zone on Apple platforms before the process becomes multi-threaded so PartitionAlloc can later replace it as the default zone.
+// ---
+
 #include "base/allocator/early_zone_registration_apple.h"
 
 #include <mach/mach.h>

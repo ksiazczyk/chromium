@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc forward declarations and alignment constants
+// summary: Provides forward declarations, fundamental alignment constants, offset type traits, purge state and result structs, and malloc attribute macros.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_FORWARD_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_FORWARD_H_
 

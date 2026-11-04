@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory reclaimer implementation
+// summary: Implements the MemoryReclaimer singleton that registers partitions and purges decommittable memory, with adaptive reclaim interval computation based on reclaimed bytes.
+// ---
+
 #include "partition_alloc/memory_reclaimer.h"
 
 #include <algorithm>

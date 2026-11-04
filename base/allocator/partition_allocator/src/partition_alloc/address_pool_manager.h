@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressPoolManager class declaration
+// summary: Declares the manager of reserved virtual address space pools, with 64-bit pool handling, 32-bit bitmap-based tracking and reservation lifetime placement.
+// ---
+
 #ifndef PARTITION_ALLOC_ADDRESS_POOL_MANAGER_H_
 #define PARTITION_ALLOC_ADDRESS_POOL_MANAGER_H_
 

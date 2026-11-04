@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Death test availability header
+// summary: Test-only header defining the PA_USE_DEATH_TESTS macro from GTEST_HAS_DEATH_TEST, kept separate from partition_alloc_config.h due to preprocessor evaluation order.
+// ---
+
 #ifndef PARTITION_ALLOC_USE_DEATH_TESTS_H_
 #define PARTITION_ALLOC_USE_DEATH_TESTS_H_
 

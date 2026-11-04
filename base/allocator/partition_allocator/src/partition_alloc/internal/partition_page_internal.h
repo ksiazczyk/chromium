@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partition page internal implementations
+// summary: Inline implementations for SlotSpanMetadata helpers covering provisioned size, freelist length, utilized slot size, and related slot-span bookkeeping.
+// ---
+
 #ifndef PARTITION_ALLOC_INTERNAL_PARTITION_PAGE_INTERNAL_H_
 #define PARTITION_ALLOC_INTERNAL_PARTITION_PAGE_INTERNAL_H_
 

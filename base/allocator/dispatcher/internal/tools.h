@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compile-time helper utilities for the dispatcher
+// summary: Provides constexpr comparison helpers and an observer null-check functor used by the dispatcher's compile-time validation of observers.
+// ---
+
 #ifndef BASE_ALLOCATOR_DISPATCHER_INTERNAL_TOOLS_H_
 #define BASE_ALLOCATOR_DISPATCHER_INTERNAL_TOOLS_H_
 

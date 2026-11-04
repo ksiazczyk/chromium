@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressPoolManager implementation
+// summary: Implements the singleton manager that adds, removes, reserves and frees address space pools, including decommit behavior and async-safe memory pressure notification.
+// ---
+
 #include "partition_alloc/address_pool_manager.h"
 
 #include <atomic>

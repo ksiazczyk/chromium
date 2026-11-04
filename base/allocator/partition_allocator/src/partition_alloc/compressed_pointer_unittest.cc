@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compressed pointer unit tests
+// summary: Unit tests covering construction, copying, moving, and comparison of compressed and uncompressed pointers allocated through a PartitionAllocator.
+// ---
+
 #include "partition_alloc/compressed_pointer.h"
 
 #include "partition_alloc/buildflags.h"

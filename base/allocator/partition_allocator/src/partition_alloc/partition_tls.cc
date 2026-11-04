@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partition TLS registry implementation
+// summary: Implements the PartitionTlsRegistry singleton that registers and unregisters PartitionTls objects in a lock-protected intrusive doubly-linked list.
+// ---
+
 #include "partition_alloc/partition_tls.h"
 
 namespace partition_alloc::internal {

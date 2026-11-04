@@ -1,0 +1,4 @@
+# Docerion header of .clang-tidy.
+type: config
+title: Clang-tidy configuration for PartitionAlloc
+summary: Configures clang-tidy checks and header filtering for the partition_alloc sources, inheriting the parent configuration.

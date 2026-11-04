@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX page allocator internals header
+// summary: Declares the POSIX implementation of system page allocation using mmap, including Apple MAP_JIT support, Linux region naming, and page access flag handling.
+// ---
+
 #ifndef PARTITION_ALLOC_PAGE_ALLOCATOR_INTERNALS_POSIX_H_
 #define PARTITION_ALLOC_PAGE_ALLOCATOR_INTERNALS_POSIX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reservation offset table definitions
+// summary: Defines the static reservation offset tables that let PartitionAlloc locate the direct map reservation start for any address in each pool.
+// ---
+
 #include "partition_alloc/buildflags.h"
 #include "partition_alloc/internal/reservation_offset_table_internal.h"
 

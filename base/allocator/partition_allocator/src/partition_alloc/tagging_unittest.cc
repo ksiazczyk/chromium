@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory tagging unit tests
+// summary: Unit tests verifying that memory tagging intrinsics work safely across architectures and that size and alignment constraints are enforced on 64-bit MTE-capable CPUs.
+// ---
+
 #include "partition_alloc/tagging.h"
 
 #include <cstdint>

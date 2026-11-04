@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAllocator test helper
+// summary: Declares PartitionAllocatorForTesting, a PartitionAllocator subclass that frees all resources on reset or destruction and can check for leaked allocations.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_FOR_TESTING_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_FOR_TESTING_H_
 

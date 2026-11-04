@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc OOM crash functions implementation
+// summary: Implements PartitionAlloc out-of-memory handlers that crash the process on excessive allocation sizes and, on 32-bit, large virtual sizes.
+// ---
+
 #include "partition_alloc/partition_oom.h"
 
 #include "partition_alloc/build_config.h"

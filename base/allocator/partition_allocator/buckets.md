@@ -1,3 +1,11 @@
+---
+type: reference
+title: PartitionAlloc bucket distribution
+summary: Explains how requested allocation sizes map to buckets, comparing the Neutral and Denser distributions and their trade-offs.
+relations:
+  - references /base/allocator/partition_allocator/src/partition_alloc/partition_root.h
+---
+
 # Bucket Distribution in PartitionAlloc
 
 In PartitionAlloc, a slab-based memory allocator, a "bucket" serves to

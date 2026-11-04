@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack debug key-value helper for crash reports
+// summary: Defines the PA_DEBUG_DATA_ON_STACK macro that places a labeled key-value pair on the stack so it can be located in crash reports.
+// ---
+
 #ifndef PARTITION_ALLOC_DEBUG_DATA_ON_STACK_H_
 #define PARTITION_ALLOC_DEBUG_DATA_ON_STACK_H_
 

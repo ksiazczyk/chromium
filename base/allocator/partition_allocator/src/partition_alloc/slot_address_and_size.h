@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlotAddressAndSize struct for allocation bounds
+// summary: Declares a struct holding a slot's start address and size, used by bounds checks and BackupRefPtr in-slot metadata lookups.
+// ---
+
 #ifndef PARTITION_ALLOC_SLOT_ADDRESS_AND_SIZE_H_
 #define PARTITION_ALLOC_SLOT_ADDRESS_AND_SIZE_H_
 

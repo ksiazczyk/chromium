@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread cache public interface header
+// summary: Declares the static ThreadCache wrapper for purging and tuning, plus needle constants that let a cross-process ThreadCacheInspector locate the thread cache registry.
+// ---
+
 #ifndef PARTITION_ALLOC_THREAD_CACHE_H_
 #define PARTITION_ALLOC_THREAD_CACHE_H_
 

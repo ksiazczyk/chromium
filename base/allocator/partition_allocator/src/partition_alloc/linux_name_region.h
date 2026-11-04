@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux anonymous VMA naming support
+// summary: Defines PR_SET_VMA constants and the LINUX_NAME_REGION macro so anonymous VMAs can be named on Linux, Android, and ChromeOS even with older headers.
+// ---
+
 #ifndef PARTITION_ALLOC_LINUX_NAME_REGION_H_
 #define PARTITION_ALLOC_LINUX_NAME_REGION_H_
 

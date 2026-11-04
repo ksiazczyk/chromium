@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bucket index lookup for allocation sizes
+// summary: Header implementing the two-way mapping between allocation sizes and bucket indices, supporting switchable neutral and denser bucket distributions in PartitionAlloc.
+// ---
+
 #ifndef PARTITION_ALLOC_BUCKET_LOOKUP_H_
 #define PARTITION_ALLOC_BUCKET_LOOKUP_H_
 

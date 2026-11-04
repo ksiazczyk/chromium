@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Direct-mapped allocation extent metadata
+// summary: Defines PartitionDirectMapExtent and PartitionDirectMapMetadata structs used to track reservations and metadata for direct-mapped allocations.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_DIRECT_MAP_EXTENT_H_
 #define PARTITION_ALLOC_PARTITION_DIRECT_MAP_EXTENT_H_
 

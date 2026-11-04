@@ -5,6 +5,12 @@
 // Holds functions for generating OOM errors from PartitionAlloc. This is
 // distinct from oom.h in that it is meant only for use in PartitionAlloc.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc OOM function declarations
+// summary: Declares PartitionAlloc out-of-memory crash functions and the global OOM handling function pointer used when allocations fail.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_OOM_H_
 #define PARTITION_ALLOC_PARTITION_OOM_H_
 

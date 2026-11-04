@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address pool bitmap storage
+// summary: Defines the static bitmaps, lock and Backup-RefPtr blocklist data used to track pool membership on 32-bit systems.
+// ---
+
 #include "partition_alloc/address_pool_manager_bitmap.h"
 
 #include "partition_alloc/buildflags.h"

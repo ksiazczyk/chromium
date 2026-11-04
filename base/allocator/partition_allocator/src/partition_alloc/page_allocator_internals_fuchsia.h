@@ -10,6 +10,12 @@
 // to an address space. The code below creates VMOs for each memory allocations
 // and maps them to the default address space of the current process.
 
+// ---docerion
+// type: source
+// title: Fuchsia page allocator internals
+// summary: Implements the page allocator primitives for Fuchsia using VMOs, mapping them into the process address space with platform permissions.
+// ---
+
 #ifndef PARTITION_ALLOC_PAGE_ALLOCATOR_INTERNALS_FUCHSIA_H_
 #define PARTITION_ALLOC_PAGE_ALLOCATOR_INTERNALS_FUCHSIA_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of arm_bti_test_functions.S.
+type: source
+title: Arm BTI test functions in assembly
+summary: Assembly test functions that validate Arm branch target identification on pages mapped with PROT_BTI, expecting a crash when an invalid offset is called.

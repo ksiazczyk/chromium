@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended API for thread cache stats and testing
+// summary: Declares extended PartitionAlloc API functions for per-thread allocation stats, cached memory queries, and a thread cache testing scope.
+// ---
+
 #ifndef PARTITION_ALLOC_EXTENDED_API_H_
 #define PARTITION_ALLOC_EXTENDED_API_H_
 

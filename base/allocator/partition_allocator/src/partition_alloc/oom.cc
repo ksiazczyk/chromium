@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-memory termination implementation
+// summary: Implements process termination on allocation failure, raising a custom OOM exception on Windows and an immediate crash on other platforms.
+// ---
+
 #include "partition_alloc/oom.h"
 
 #include "partition_alloc/build_config.h"

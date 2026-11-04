@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address space randomization unit tests
+// summary: Unit tests verifying that GetRandomPageBase returns aligned, in-range addresses with correct ASLR behavior, seed predictability, and randomness quality.
+// ---
+
 #include "partition_alloc/address_space_randomization.h"
 
 #include <array>

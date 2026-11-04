@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DispatcherImpl template for allocator notification dispatch
+// summary: Defines the DispatcherImpl template that installs hooks into PartitionAlloc and the allocator shim and forwards allocation and free notifications to a tuple of observers.
+// ---
+
 #ifndef BASE_ALLOCATOR_DISPATCHER_INTERNAL_DISPATCHER_INTERNAL_H_
 #define BASE_ALLOCATOR_DISPATCHER_INTERNAL_DISPATCHER_INTERNAL_H_
 

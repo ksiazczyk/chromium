@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Partition Alloc GN build configs
+summary: GN build file defining compiler and linker flag configurations for Partition Alloc, including default flags, no-exceptions, no-RTTI, optimization, and NDEBUG settings.

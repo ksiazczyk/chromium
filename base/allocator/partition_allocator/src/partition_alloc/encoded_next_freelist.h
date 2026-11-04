@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encoded freelist pointer for PartitionAlloc
+// summary: Defines EncodedFreelistPtr, which encodes freelist pointers via byte swapping or negation to thwart pointer corruption and partial overwrite attacks.
+// ---
+
 #ifndef PARTITION_ALLOC_ENCODED_NEXT_FREELIST_H_
 #define PARTITION_ALLOC_ENCODED_NEXT_FREELIST_H_
 

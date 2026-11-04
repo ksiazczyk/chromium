@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal allocator API
+// summary: Declares the internal allocator used for PartitionAlloc's own heap needs, including InternalAllocator, construct and destroy helpers, and unhooked allocation flags.
+// ---
+
 #ifndef PARTITION_ALLOC_INTERNAL_ALLOCATOR_H_
 #define PARTITION_ALLOC_INTERNAL_ALLOCATOR_H_
 

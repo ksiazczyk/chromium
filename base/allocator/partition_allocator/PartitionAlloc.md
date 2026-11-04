@@ -1,3 +1,13 @@
+---
+type: reference
+title: PartitionAlloc design overview
+summary: High-level design document covering PartitionAlloc's performance, security, alignment guarantees, and in-memory architecture.
+relations:
+  - references /base/allocator/partition_allocator/glossary.md
+  - references /base/allocator/partition_allocator/build_config.md
+  - references /base/allocator/partition_allocator/external_builds.md
+---
+
 # PartitionAlloc Design
 
 This document describes PartitionAlloc at a high level, with some architectural

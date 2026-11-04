@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dangling raw pointer check callbacks
+// summary: Implements setter and getter functions for the callbacks invoked when dangling raw pointer usage is detected or released.
+// ---
+
 #include "partition_alloc/dangling_raw_ptr_checks.h"
 
 #include "partition_alloc/partition_alloc_base/component_export.h"

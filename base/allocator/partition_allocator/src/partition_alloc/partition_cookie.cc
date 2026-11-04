@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partition cookie corruption handler
+// summary: Defines the CookieCorruptionDetected crash handler that records slot size and cookie value on the stack when a partition cookie check fails.
+// ---
+
 #include "partition_alloc/partition_cookie.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partition cookie write and check helpers
+// summary: Header defining cookie size constants and inline functions to write and verify guard cookies around allocations when partition cookies are enabled.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_COOKIE_H_
 #define PARTITION_ALLOC_PARTITION_COOKIE_H_
 

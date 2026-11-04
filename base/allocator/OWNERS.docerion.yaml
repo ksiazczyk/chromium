@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Allocator directory owners
+summary: Lists code owners for the allocator directory and delegates per-file ownership of PartitionAlloc-related files to its OWNERS file.

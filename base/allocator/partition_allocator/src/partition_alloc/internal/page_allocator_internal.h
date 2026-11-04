@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page allocator internal declarations
+// summary: Internal declarations for system page allocation, address ranges, and well-known read-only memory regions in PartitionAlloc.
+// ---
+
 #ifndef PARTITION_ALLOC_INTERNAL_PAGE_ALLOCATOR_INTERNAL_H_
 #define PARTITION_ALLOC_INTERNAL_PAGE_ALLOCATOR_INTERNAL_H_
 

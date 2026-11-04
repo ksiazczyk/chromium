@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: PartitionAlloc dependency rules
+summary: Keeps PartitionAlloc standalone by restricting includes to itself, with documented exceptions for test and performance files.

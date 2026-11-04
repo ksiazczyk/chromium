@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartitionAlloc hardening death tests
+// summary: Death tests verifying that PartitionAlloc crashes on freelist corruption, off-heap freelist pointers, and metadata pointer tampering during allocation.
+// ---
+
 #include <cstdint>
 #include <string>
 #include <vector>

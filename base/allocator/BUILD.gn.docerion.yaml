@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Allocator build targets and buildflags
+summary: GN build file defining the allocator buildflags header, the Apple early zone registration target, and the system allocator test helper executable.

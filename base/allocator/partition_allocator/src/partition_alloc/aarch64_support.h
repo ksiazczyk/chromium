@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AArch64 hardware capability support
+// summary: Header with constexpr helpers that detect BTI and MTE support from ifunc hardware capabilities on ARM64 Android and Linux systems.
+// ---
+
 #ifndef PARTITION_ALLOC_AARCH64_SUPPORT_H_
 #define PARTITION_ALLOC_AARCH64_SUPPORT_H_
 

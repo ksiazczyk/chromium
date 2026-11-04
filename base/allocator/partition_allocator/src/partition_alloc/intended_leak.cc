@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intended leak quarantine and statistics
+// summary: Implements zapping of intended-leak slots with quarantine markers and records intended leak sizes per type ID for stats dumping and testing.
+// ---
+
 // clang-format off
 #include "partition_alloc/internal/partition_root_internal.h"
 // clang-format on

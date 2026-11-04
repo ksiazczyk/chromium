@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early Apple malloc zone registration header
+// summary: Declares EarlyMallocZoneRegistration and AllowDoublePartitionAllocZoneRegistration for Apple-only early malloc zone setup.
+// ---
+
 #ifndef BASE_ALLOCATOR_EARLY_ZONE_REGISTRATION_APPLE_H_
 #define BASE_ALLOCATOR_EARLY_ZONE_REGISTRATION_APPLE_H_
 

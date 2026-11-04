@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InSlotMetadata atomic reference count class
+// summary: Defines the InSlotMetadata atomic bit-field class that tracks allocation state, raw_ptr reference counts, and smuggled allocation sizes, plus Apple-specific alignment workarounds.
+// ---
+
 #ifndef PARTITION_ALLOC_IN_SLOT_METADATA_H_
 #define PARTITION_ALLOC_IN_SLOT_METADATA_H_
 

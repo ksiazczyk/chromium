@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page allocator constants
+// summary: Defines page size and allocation granularity constants, determined at compile time or run time depending on the platform and architecture.
+// ---
+
 #ifndef PARTITION_ALLOC_PAGE_ALLOCATOR_CONSTANTS_H_
 #define PARTITION_ALLOC_PAGE_ALLOCATOR_CONSTANTS_H_
 

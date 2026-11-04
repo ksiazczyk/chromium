@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionRoot allocator header
+// summary: Declares PartitionRoot, the heap partition object whose Alloc and Free are analogous to malloc and free, plus memory purge flags.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ROOT_H_
 #define PARTITION_ALLOC_PARTITION_ROOT_H_
 

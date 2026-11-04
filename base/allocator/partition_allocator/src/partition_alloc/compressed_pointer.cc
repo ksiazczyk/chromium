@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compressed pointer base implementation
+// summary: Implements the global base value used to compress and decompress pointers when pointer compression is enabled in PartitionAlloc.
+// ---
+
 #include "partition_alloc/compressed_pointer.h"
 
 #include "partition_alloc/buildflags.h"

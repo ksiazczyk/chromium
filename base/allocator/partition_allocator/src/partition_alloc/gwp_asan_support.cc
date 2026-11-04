@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWP-ASan support implementation
+// summary: Implements GwpAsanSupport, mapping GWP-ASan allocation regions onto PartitionAlloc super pages with guard pages and slot metadata.
+// ---
+
 #include "partition_alloc/gwp_asan_support.h"
 
 #include "partition_alloc/buildflags.h"

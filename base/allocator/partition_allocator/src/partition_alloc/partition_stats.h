@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partition allocator statistics structures
+// summary: Declares structs for thread cache, per-thread allocation, scheduler loop quarantine, and partition memory statistics used by stats dumpers in PartitionAlloc.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_STATS_H_
 #define PARTITION_ALLOC_PARTITION_STATS_H_
 

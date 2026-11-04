@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: PartitionAlloc directory owners
+summary: Lists the code owners for the directory and points raw_ptr and raw_ref files to the MiraclePtr owners file.

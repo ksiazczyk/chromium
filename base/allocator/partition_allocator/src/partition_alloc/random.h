@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc random number generator interface
+// summary: Declares the PartitionAlloc random number generator API, including reinitialization after fork and seeding for predictable test output.
+// ---
+
 #ifndef PARTITION_ALLOC_RANDOM_H_
 #define PARTITION_ALLOC_RANDOM_H_
 

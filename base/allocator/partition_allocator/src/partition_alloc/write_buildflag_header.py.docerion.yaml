@@ -1,0 +1,4 @@
+# Docerion header of write_buildflag_header.py.
+type: script
+title: Buildflag header generator script
+summary: Python build tool that reads a response file of build flags and writes a C++ header defining PA_BUILDFLAG_INTERNAL macros, used with buildflag_header.gni.

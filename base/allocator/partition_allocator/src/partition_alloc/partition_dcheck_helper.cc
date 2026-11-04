@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partition DCHECK helper implementation
+// summary: Implements debug-only assertion helpers validating object addresses, slot span offsets, super page payload page counts and root lock acquisition.
+// ---
+
 #include "partition_alloc/partition_dcheck_helper.h"
 
 #include <cstdint>

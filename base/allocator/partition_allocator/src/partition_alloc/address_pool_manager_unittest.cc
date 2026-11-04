@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddressPoolManager unit tests
+// summary: GoogleTest suite covering pool reservation, fragmentation, oversized pools and address space statistics for the AddressPoolManager.
+// ---
+
 #include "partition_alloc/address_pool_manager.h"
 
 #include <array>

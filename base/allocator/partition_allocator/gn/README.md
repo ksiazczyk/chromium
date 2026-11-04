@@ -1,3 +1,9 @@
+---
+type: readme
+title: PartitionAlloc standalone GN config
+summary: Explains the GN configuration for building partition_alloc standalone, its purpose and limitations, how to build it, and the supported platforms and toolchains.
+---
+
 # PartitionAlloc standalone GN config
 
 This directory contains a GN configuration to build partition_alloc as a

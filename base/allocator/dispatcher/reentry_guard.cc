@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reentry guard TLS slot implementation
+// summary: Implements TLS slot setup for the reentry guard on Apple and Android and records the slot in crash keys to diagnose reentry crashes.
+// ---
+
 #include "base/allocator/dispatcher/reentry_guard.h"
 
 #include "base/check.h"

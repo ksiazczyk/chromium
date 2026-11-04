@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread-local storage emulation implementation
+// summary: Implements the mmap-based allocator and pthread TLS system backing the allocator dispatcher's thread-local storage on POSIX platforms, including crash key support.
+// ---
+
 #include "base/allocator/dispatcher/tls.h"
 
 #include <memory>

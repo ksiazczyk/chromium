@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Template utilities for building tuples in dispatcher tests
+// summary: Header providing template helpers that define tuples from a single repeated type and create tuples of pointers to array elements.
+// ---
+
 #ifndef BASE_ALLOCATOR_DISPATCHER_TESTING_TOOLS_H_
 #define BASE_ALLOCATOR_DISPATCHER_TESTING_TOOLS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spinning mutex implementation
+// summary: Implements a spinning mutex that spins before blocking, using futex, SRWLock, os_unfair_lock or pthreads per platform, with lock metrics recording.
+// ---
+
 #include "partition_alloc/spinning_mutex.h"
 
 #include <atomic>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc thread-local storage
+// summary: Declares a barebones TLS implementation for PartitionAlloc, including the PartitionTlsRegistry, thread cache storage, and fast TLS access helpers per platform.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_TLS_H_
 #define PARTITION_ALLOC_PARTITION_TLS_H_
 

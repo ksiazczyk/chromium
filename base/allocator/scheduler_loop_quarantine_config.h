@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler loop quarantine configuration API
+// summary: Declares quarantine branch types and functions to obtain quarantine configuration and task control state for a process.
+// ---
+
 #ifndef BASE_ALLOCATOR_SCHEDULER_LOOP_QUARANTINE_CONFIG_H_
 #define BASE_ALLOCATOR_SCHEDULER_LOOP_QUARANTINE_CONFIG_H_
 

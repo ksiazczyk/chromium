@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: PartitionAlloc presubmit checks
+# summary: Chromium presubmit script enforcing strict include guards, allowed preprocessor defines, and GN dependency rules for PartitionAlloc files.
+# ---
+
 """Chromium presubmit script for base/allocator/partition_allocator.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

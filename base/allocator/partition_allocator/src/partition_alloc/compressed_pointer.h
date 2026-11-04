@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compressed and uncompressed pointer types
+// summary: Header defining compressed and uncompressed pointer classes that store 32-bit offsets against a global base, with branchless nullptr handling for heaps up to 16GB.
+// ---
+
 #ifndef PARTITION_ALLOC_COMPRESSED_POINTER_H_
 #define PARTITION_ALLOC_COMPRESSED_POINTER_H_
 

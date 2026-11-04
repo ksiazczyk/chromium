@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arm BTI test function declarations
+// summary: Declares extern C test functions for validating Arm branch target identification behavior on arm64 builds.
+// ---
+
 #ifndef PARTITION_ALLOC_ARM_BTI_TEST_FUNCTIONS_H_
 #define PARTITION_ALLOC_ARM_BTI_TEST_FUNCTIONS_H_
 

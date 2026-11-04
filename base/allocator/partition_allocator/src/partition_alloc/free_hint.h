@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Free hint types and validation
+// summary: Defines strong alias types for free size, alignment, and type ID hints along with compile-time validation of valid hint packs.
+// ---
+
 #ifndef PARTITION_ALLOC_FREE_HINT_H_
 #define PARTITION_ALLOC_FREE_HINT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc allocation and free notification data
+// summary: Defines AllocationNotificationData and FreeNotificationData classes carrying address, size, type name and MTE reporting mode to allocation and free observer hooks.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_ALLOCATION_DATA_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_ALLOCATION_DATA_H_
 

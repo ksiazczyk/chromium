@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dangling raw pointer checks API
+// summary: Header declaring the configurable callbacks and toggles used to report dangling raw_ptr detections and releases when the feature build flag is enabled.
+// ---
+
 #ifndef PARTITION_ALLOC_DANGLING_RAW_PTR_CHECKS_H_
 #define PARTITION_ALLOC_DANGLING_RAW_PTR_CHECKS_H_
 

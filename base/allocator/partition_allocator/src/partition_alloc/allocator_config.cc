@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External metadata trial group selection
+// summary: Implements selection and lookup of the PartitionAllocExternalMetadata trial group that controls moving metadata out of the gigacage.
+// ---
+
 #include "partition_alloc/allocator_config.h"
 
 #include <limits>
