@@ -1,0 +1,4 @@
+# Docerion header of IDS_PASTE_AND_GO.png.sha1.
+type: data
+title: SHA-1 hash of IDS_PASTE_AND_GO image
+summary: Stores the SHA-1 hash identifying the PNG image for the paste and go message, used by the translations pipeline to track its translated image.
