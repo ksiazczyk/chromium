@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappAuthenticator
+// summary: Authenticates the source of intents that launch web apps by verifying HMAC-SHA256 message authentication codes computed for URLs and encoded icons.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Context;

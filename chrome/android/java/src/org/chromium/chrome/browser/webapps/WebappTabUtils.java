@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappTabUtils
+// summary: Utility for webapp tab contexts that rechecks installability via AppBannerManager for all active tabs matching a given predicate across tab model selectors.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import org.chromium.base.ThreadUtils;

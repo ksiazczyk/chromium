@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK update manifest data fetcher
+// summary: Fetches the current Web Manifest for a WebAPK during page loads and reports updated manifest data and icon URLs to observers for update checks.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

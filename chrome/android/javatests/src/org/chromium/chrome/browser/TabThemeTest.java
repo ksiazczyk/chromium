@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabThemeTest
+// summary: Instrumented tests verifying tab theme color handling for web pages and native pages such as the NTP.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.chrome.browser.url_constants.UrlConstantResolver.getOriginalNativeNtpUrl;

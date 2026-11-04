@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viewport test utilities for Chrome Android tests
+// summary: Utility class providing viewport and browser controls helpers, such as hiding controls and waiting for page heights, used by Chrome Android instrumentation tests.
+// ---
+
 package org.chromium.chrome.browser;
 
 import androidx.annotation.Px;

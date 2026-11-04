@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Example ScreenShooter UI capture test
+// summary: Example test demonstrating the ScreenShooter rule by capturing a screenshot of the New Tab Page on phones for the UI catalogue.
+// ---
+
 package org.chromium.chrome.browser;
 
 import androidx.test.filters.SmallTest;

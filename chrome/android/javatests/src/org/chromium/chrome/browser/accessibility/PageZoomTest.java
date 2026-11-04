@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page Zoom integration tests
+// summary: Android integration tests verifying Page Zoom bottom sheet behavior, including orientation changes and browser controls translation on phones.
+// ---
+
 package org.chromium.chrome.browser.accessibility;
 
 import static org.junit.Assert.assertEquals;

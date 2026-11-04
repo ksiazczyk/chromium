@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappDirectoryManager
+// summary: Manages directories holding WebAPK update data, cleans up stale web app directories, and records UMA metrics about stale update request files.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Context;

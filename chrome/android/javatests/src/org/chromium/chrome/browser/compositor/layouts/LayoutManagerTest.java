@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layout manager instrumentation tests for Chrome Android compositor
+// summary: Instrumentation tests for the Chrome Android compositor LayoutManager, covering layout behavior, gestures, and tab switcher interactions with mock tab models.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import static org.mockito.Mockito.when;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkHandlerDelegate
+// summary: JNI delegate that retrieves WebApkInfo for installed WebAPKs and passes name, version, manifest, and backing browser details to the native WebApkHandlerDelegate.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Context;

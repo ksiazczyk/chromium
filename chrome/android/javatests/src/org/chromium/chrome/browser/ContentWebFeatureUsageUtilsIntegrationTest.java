@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentWebFeatureUsageUtils integration tests
+// summary: Integration test verifying that ContentWebFeatureUsageUtils logs web feature usage to the expected Blink.UseCounter.Features histogram.
+// ---
+
 package org.chromium.chrome.browser;
 
 import androidx.test.filters.SmallTest;

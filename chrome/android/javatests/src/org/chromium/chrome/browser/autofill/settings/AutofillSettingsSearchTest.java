@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill settings search tests
+// summary: Tests for searching autofill settings, verifying search results, highlighting, and referrer histograms for the saved info settings page.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static androidx.test.espresso.Espresso.onView;

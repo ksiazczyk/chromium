@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill options launcher tests
+// summary: Instrumentation test verifying that the application preferences intent launches the AutofillOptionsFragment in the expected settings activity.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static androidx.test.espresso.intent.Intents.intended;

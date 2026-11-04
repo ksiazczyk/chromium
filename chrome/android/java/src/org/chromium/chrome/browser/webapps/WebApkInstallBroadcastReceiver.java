@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkInstallBroadcastReceiver
+// summary: Broadcast receiver handling user interaction with WebAPK install notifications, dismissing them and optionally opening the start URL in Chrome.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.app.PendingIntent;

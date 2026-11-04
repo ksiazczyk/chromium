@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappLaunchCauseMetrics
+// summary: LaunchCauseMetrics subclass for WebappActivity that computes the launch cause by distinguishing WebAPK distributors, legacy homescreen PWAs, and external intents.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.app.Activity;

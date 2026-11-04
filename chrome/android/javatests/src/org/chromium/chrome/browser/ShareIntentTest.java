@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Share intent test
+// summary: Instrumentation test for share intents, verifying direct share targets and that receiving an ACTION_SEND intent opens the shared URL with the correct launch cause metric.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.app.Activity;

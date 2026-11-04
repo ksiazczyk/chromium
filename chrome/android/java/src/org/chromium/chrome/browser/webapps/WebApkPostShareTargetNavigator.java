@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK POST share target navigator
+// summary: Handles navigation for WebAPK share targets that use POST by computing the POST data and delegating to native code to load the share target view.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import androidx.browser.trusted.sharing.ShareData;

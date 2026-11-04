@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Example on-device unit test
+// summary: Example batched on-device unit test asserting that the feature list is natively initialized in non-branded builds.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertTrue;

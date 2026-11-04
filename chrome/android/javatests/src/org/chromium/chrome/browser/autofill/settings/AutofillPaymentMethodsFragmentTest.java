@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill payment methods fragment instrumentation tests
+// summary: Instrumentation tests for AutofillPaymentMethodsFragment, covering payment method preferences, reauthentication, intents, and user actions.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static androidx.test.espresso.Espresso.onView;

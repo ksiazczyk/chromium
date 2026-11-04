@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark manager tests
+// summary: Large Espresso instrumentation suite for the Chrome bookmark manager covering navigation, editing, and UI behavior.
+// ---
+
 package org.chromium.chrome.browser.app.bookmarks;
 
 import static androidx.test.espresso.Espresso.onView;

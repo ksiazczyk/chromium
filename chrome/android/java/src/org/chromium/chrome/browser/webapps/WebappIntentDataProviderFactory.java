@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappIntentDataProviderFactory
+// summary: Factory that builds a BrowserServicesIntentDataProvider for homescreen shortcut intents, extracting id, URL, title, name, theme colors and icon data from intent extras.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Intent;

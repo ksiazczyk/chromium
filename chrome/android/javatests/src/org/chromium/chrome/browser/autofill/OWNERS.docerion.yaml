@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Autofill tests directory owners
+summary: Defines code owners for the autofill test directory, delegating to the source folder's OWNERS file.

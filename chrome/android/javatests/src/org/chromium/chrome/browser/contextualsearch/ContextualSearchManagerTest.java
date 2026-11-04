@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Search manager instrumentation tests
+// summary: Large instrumentation test suite for the Contextual Search Manager covering panel behavior, search bar controls, preferences, and multi-window interactions.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import static org.mockito.Mockito.atLeastOnce;

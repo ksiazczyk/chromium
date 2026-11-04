@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowsingDataRemoverIntegrationTest
+// summary: Integration tests verifying that the native BrowsingDataRemover deletes Java-side data such as registered web apps when site data is cleared.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import androidx.test.filters.MediumTest;

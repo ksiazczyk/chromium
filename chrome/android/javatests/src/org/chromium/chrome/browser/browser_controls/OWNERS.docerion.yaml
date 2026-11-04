@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for browser controls tests
+summary: Points to the shared OWNERS file in chrome/browser/browser_controls/android for code ownership of this directory.

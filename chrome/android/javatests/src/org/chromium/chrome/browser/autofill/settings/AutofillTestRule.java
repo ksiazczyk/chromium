@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillTestRule test rule for autofill settings tests
+// summary: Custom JUnit test rule extending SigninTestRule that registers test observers and provides helpers for autofill settings instrumentation tests.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.DialogInterface;

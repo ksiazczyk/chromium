@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Running in Chrome prompt tests
+// summary: Instrumentation tests checking that the Running in Chrome privacy disclosure snackbar and notifications are shown for Trusted Web Activities.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import static androidx.test.espresso.assertion.ViewAssertions.matches;

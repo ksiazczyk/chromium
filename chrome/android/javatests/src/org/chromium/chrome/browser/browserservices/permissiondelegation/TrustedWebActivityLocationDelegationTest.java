@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrustedWebActivityLocationDelegationTest
+// summary: Android instrumented test that verifies geolocation permission delegation for Trusted Web Activities, using a mock location provider and HTTPS test server.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import static org.junit.Assert.assertFalse;

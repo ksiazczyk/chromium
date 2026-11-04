@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu chip controller tests
+// summary: Unit tests for ContextMenuChipController verifying chip display, sizing, dismissal, and click callbacks.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip navigation failure instrumentation test
+// summary: Instrumentation test verifying tab strip spinner behavior when a background tab navigation fails.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import androidx.test.filters.MediumTest;

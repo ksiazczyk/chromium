@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Actor test directory metadata
+summary: Directory metadata assigning the UI>Browser>Actor component and the chrome-actor team to this test directory.

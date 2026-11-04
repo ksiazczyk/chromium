@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceTabLauncher integration test
+// summary: Integration tests for ServiceTabLauncher, covering tab launches from background services with initiator origins, referrer policies and registered webapp scopes.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.hamcrest.MatcherAssert.assertThat;

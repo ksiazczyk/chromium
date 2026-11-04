@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebShare directory metadata
+summary: Applies the shared COMMON_METADATA mixin so the webshare directory inherits its issue-tracking settings.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for context menu tests
+summary: Points the test directory to the shared metadata mixin of the context menu source directory.

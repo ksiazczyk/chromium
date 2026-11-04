@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the crypto test directory
+summary: Chromium metadata file assigning the directory to the Internals>Core monorail component and Buganizer component 1456128.

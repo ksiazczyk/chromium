@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FinancialAccountsManagementFragmentTest
+// summary: Instrumentation tests for the FinancialAccountsManagementFragment in Chrome's autofill settings, covering financial account display, icons, and preferences.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static com.google.common.truth.Truth.assertThat;

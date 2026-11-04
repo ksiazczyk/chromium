@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WarmupManager tests
+// summary: Parameterized instrumentation tests for WarmupManager, covering spare tab behavior and histograms across regular and off-the-record profile types.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

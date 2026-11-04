@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappIntentDataProvider
+// summary: Stores information about a web app intent, including toolbar colors, display mode, close button icon, share data, and WebAPK extras for webapp activities.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static android.view.WindowManager.LayoutParams.LAYOUT_IN_DISPLAY_CUTOUT_MODE_DEFAULT;

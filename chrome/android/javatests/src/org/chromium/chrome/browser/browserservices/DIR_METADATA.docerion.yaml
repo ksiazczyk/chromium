@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Browser services tests directory metadata
+summary: Points this test directory to the shared browserservices metadata through a mixin entry.

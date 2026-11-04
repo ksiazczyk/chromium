@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MinidumpUploadService
+// summary: Android JUnit tests for the minidump upload service, checking forced upload renaming of minidump files and scheduling of the upload job.
+// ---
+
 package org.chromium.chrome.browser.crash;
 
 import android.annotation.SuppressLint;

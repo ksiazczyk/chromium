@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppearanceSettingsFragmentTest
+// summary: JUnit instrumented tests for the Chrome appearance settings fragment, covering homepage, bookmark bar, bottom bar, tab position, toolbar shortcut and UI theme preferences with mocked preferences and feature flags.
+// ---
+
 package org.chromium.chrome.browser.appearance.settings;
 
 import static org.junit.Assert.assertEquals;

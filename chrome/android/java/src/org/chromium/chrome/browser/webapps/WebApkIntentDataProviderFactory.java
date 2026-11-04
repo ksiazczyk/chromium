@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK intent data provider factory
+// summary: Factory that builds BrowserServicesIntentDataProvider objects for WebAPKs, parsing manifest metadata, shortcuts and splash icon information from launch intents.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.chromium.components.webapk.lib.common.WebApkConstants.WEBAPK_PACKAGE_PREFIX;

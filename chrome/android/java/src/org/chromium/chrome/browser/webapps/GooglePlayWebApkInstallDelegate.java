@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GooglePlayWebApkInstallDelegate
+// summary: Interface for installing and updating WebAPKs asynchronously through Google Play using tokens from the WebAPK minter server.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import org.chromium.base.Callback;

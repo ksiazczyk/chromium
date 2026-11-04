@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LogcatExtractionRunnable
+// summary: Android JUnit tests that verify logcat extraction and prepending into minidump files, including JobScheduler scheduling of the minidump upload job.
+// ---
+
 package org.chromium.chrome.browser.crash;
 
 import android.annotation.SuppressLint;

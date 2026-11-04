@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu header view tests
+// summary: Tests for the context menu header view and its binder, covering title and URL display, ellipsization, and accessibility actions.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static android.view.accessibility.AccessibilityNodeInfo.AccessibilityAction.ACTION_COLLAPSE;

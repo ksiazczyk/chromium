@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewTransitionPixelTest
+// summary: Pixel tests verifying view transitions render correctly alongside the virtual keyboard and browser controls.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.content.Context;

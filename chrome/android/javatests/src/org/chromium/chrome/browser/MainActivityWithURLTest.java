@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MainActivity URL launch tests
+// summary: Tests launching the main activity with URLs and verifying the new tab page loads correctly.
+// ---
+
 package org.chromium.chrome.browser;
 
 import androidx.test.filters.SmallTest;

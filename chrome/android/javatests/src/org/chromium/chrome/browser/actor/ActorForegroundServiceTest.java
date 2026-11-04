@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorForegroundService unit test
+// summary: Unit test for ActorForegroundService that verifies foreground notification start and stop behavior using a mock service implementation.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static android.app.Service.STOP_FOREGROUND_DETACH;

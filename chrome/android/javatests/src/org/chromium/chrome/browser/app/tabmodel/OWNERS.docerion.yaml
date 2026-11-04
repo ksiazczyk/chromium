@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer for tabmodel tests
+summary: Points to the OWNERS file of the corresponding source directory to share code owners for this test folder.

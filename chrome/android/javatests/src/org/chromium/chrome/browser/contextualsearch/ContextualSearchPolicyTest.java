@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Search policy tests
+// summary: Instrumentation tests for ContextualSearchPolicy covering decisions about sending page URLs and privacy-related preference handling.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import static org.mockito.Mockito.when;

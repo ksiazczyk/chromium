@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Actor test directory owners
+summary: Points to the shared OWNERS file for the Chrome actor Android code as owners of this test directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Periodic Background Sync instrumentation test
+// summary: Android instrumentation test that verifies Periodic Background Sync scheduling and cancellation, using feature flags and field trial parameters to enable the feature for testing.
+// ---
+
 package org.chromium.chrome.browser.background_sync;
 
 import static org.chromium.base.test.util.ScalableTimeout.scaleTimeout;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for Chrome Android javatests
+summary: Specifies the owners responsible for reviewing changes here, with a per-file exception for TabbedNavigationBarColorControllerTest.java.

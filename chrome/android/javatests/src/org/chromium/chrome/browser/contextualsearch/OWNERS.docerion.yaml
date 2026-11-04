@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Contextual Search test owners
+summary: Points to the OWNERS file that lists code owners for the Contextual Search browser code.

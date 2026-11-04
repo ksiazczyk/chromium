@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for tab strip tests
+summary: Lists code owners for the tab strip test directory, including per-file owner assignments for the context menu tests.

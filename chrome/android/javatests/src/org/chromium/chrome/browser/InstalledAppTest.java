@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstalledApp getInstalledRelatedApps tests
+// summary: End-to-end test suite for navigator.getInstalledRelatedApps that checks the Mojo bridge between Blink and Java returns an empty response.
+// ---
+
 package org.chromium.chrome.browser;
 
 import androidx.test.filters.MediumTest;

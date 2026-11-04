@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrustedWebActivityTest
+// summary: Instrumentation tests that launch CustomTabActivity in Trusted Web Activity mode, checking verification, theming, and browser controls behavior.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import static org.junit.Assert.assertEquals;

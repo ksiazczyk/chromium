@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted Web Activity orientation tests
+// summary: Instrumentation tests verifying that a Trusted Web Activity launched with a screen orientation extra applies the requested default orientation.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import static org.junit.Assert.assertTrue;

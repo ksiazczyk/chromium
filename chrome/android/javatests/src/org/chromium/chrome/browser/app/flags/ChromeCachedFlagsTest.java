@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome cached flags consistency test
+// summary: JUnit test that verifies CachedFlag default values for tests match fieldtrial_testing_config.json and keeps a baseline of known-violating flags for Chrome on Android.
+// ---
+
 package org.chromium.chrome.browser.app.flags;
 
 import static org.junit.Assert.fail;

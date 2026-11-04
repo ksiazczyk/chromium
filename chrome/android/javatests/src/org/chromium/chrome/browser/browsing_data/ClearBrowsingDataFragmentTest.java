@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClearBrowsingDataFragmentTest
+// summary: Instrumented tests for the Clear Browsing Data settings fragment, covering its UI options, dialogs and clear actions.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import static androidx.test.espresso.Espresso.onView;

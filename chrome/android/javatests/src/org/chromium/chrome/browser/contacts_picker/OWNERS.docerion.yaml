@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file that redirects ownership review responsibility to the contacts_picker OWNERS file in the main Java source tree.

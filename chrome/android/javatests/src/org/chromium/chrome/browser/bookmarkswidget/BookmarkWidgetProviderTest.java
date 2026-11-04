@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkWidgetProviderTest
+// summary: Instrumentation tests for the bookmark widget provider, verifying layout selection and switching between standard and icons-only layouts on resize.
+// ---
+
 package org.chromium.chrome.browser.bookmarkswidget;
 
 import static org.junit.Assert.assertEquals;

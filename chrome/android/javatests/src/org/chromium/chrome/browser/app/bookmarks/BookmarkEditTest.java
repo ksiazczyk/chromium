@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkEditActivity tests
+// summary: Instrumentation tests covering BookmarkEditActivity behavior, including edit outcomes and bookmark model change callbacks.
+// ---
+
 package org.chromium.chrome.browser.app.bookmarks;
 
 import static androidx.test.espresso.Espresso.onView;

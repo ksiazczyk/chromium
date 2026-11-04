@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputHintChecker integration tests
+// summary: Integration tests for InputHintChecker covering initialization, input hint reads with and without throttling, and result histogram reporting.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted Web Activity client location delegation tests
+// summary: Tests location permission checks and location update listening delegated from TrustedWebActivityClient to a test TrustedWebActivityService.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.net.Uri;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill profiles fragment instrumentation tests
+// summary: Instrumentation tests for AutofillProfilesFragment, covering address profile listing, editing via the editor dialog, and deletion in settings.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static androidx.test.espresso.Espresso.onView;

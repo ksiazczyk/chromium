@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabbed app menu Public Transit tests
+// summary: Public Transit tests for the tabbed mode app menu, covering actions like new tab, incognito, bookmarks, and settings, with render tests.
+// ---
+
 package org.chromium.chrome.browser.app.appmenu;
 
 import static org.junit.Assert.assertEquals;

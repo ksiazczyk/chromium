@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Search critical instrumentation tests
+// summary: Instrumentation tests covering critical Contextual Search Manager behaviors such as request sequencing, prefetch failover, and panel open interactions.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import androidx.test.filters.SmallTest;

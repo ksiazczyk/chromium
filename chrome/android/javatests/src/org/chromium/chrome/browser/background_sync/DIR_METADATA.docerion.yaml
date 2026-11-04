@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for background_sync tests
+summary: Directory metadata file that points to the shared background_sync COMMON_METADATA mixins for this test directory.

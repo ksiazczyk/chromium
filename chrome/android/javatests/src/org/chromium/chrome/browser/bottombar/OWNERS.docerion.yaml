@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Bottom bar test OWNERS
+summary: Delegates code ownership for the bottombar test directory to the OWNERS file of the bottombar UI component.

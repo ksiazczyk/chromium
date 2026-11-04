@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu drag integration tests
+// summary: Android instrumentation tests verifying drag interactions with the context menu in Chrome, using an embedded test server and a test drag-and-drop delegate.
+// ---
+
 package org.chromium.chrome.browser.app;
 
 import static org.mockito.Mockito.doReturn;

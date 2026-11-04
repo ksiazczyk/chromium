@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessibilitySettingsBridgeTest
+// summary: Unit tests for the Chrome Android accessibility settings bridge, verifying caret browsing state, dialog preference handling, and histogram logging via mocked JNI natives.
+// ---
+
 package org.chromium.chrome.browser.accessibility.settings;
 
 import static org.mockito.Mockito.verify;

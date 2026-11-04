@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer to java app directory
+summary: OWNERS file that delegates code ownership to the OWNERS file of the corresponding chrome/android/java source app directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select file dialog test
+// summary: Integration test for the select file dialog used by input type=file elements, verifying the intents sent for various accept and capture settings.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.app.Activity;

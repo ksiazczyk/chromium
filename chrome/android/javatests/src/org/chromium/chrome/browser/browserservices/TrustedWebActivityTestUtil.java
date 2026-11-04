@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrustedWebActivityTestUtil
+// summary: Shared test utilities for Trusted Web Activity tests, providing intent creation, verification spoofing, and Custom Tabs session setup helpers.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.content.Intent;

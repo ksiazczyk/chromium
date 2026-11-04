@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for OverlayPanelBase
+// summary: JUnit4 tests covering the logic of OverlayPanelBase, including panel sizing, state changes and browser controls interaction.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import static org.mockito.Mockito.verify;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistentStoreCleaner integration tests
+// summary: Integration tests for PersistentStoreCleaner via TabModelOrchestrator clearState with SQLite tab storage features enabled.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.junit.Assert.assertEquals;

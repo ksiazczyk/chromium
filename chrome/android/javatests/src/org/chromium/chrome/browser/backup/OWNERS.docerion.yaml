@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Backup test OWNERS file
+summary: Points the backup test directory's ownership rules to the main backup OWNERS file in the java source tree.

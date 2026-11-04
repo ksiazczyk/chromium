@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappDataStorage
+// summary: Persists data about an installed web app, such as icons, URLs, display mode, and WebAPK update timestamps, in SharedPreferences via WebappRegistry.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

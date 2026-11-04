@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK service client
+// summary: Client for browser communication with per-WebAPK services over the IWebApk API, managing connections, notifications and permission updates.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.app.Activity;

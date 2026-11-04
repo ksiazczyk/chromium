@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Search instrumentation tests
+// summary: Instrumentation tests for the Contextual Search Manager covering resolve and non-resolve gestures, panel state transitions, and forced caption behavior.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import androidx.test.filters.SmallTest;

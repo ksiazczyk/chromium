@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeWebApkHost
+// summary: Initializes WebAPK signature validation and checks that Chrome backs a WebAPK, disconnecting WebAPK services when Chrome stops.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.chromium.chrome.browser.flags.ChromeSwitches.SKIP_WEBAPK_VERIFICATION;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted Web Activity current page verifier tests
+// summary: Instrumentation tests verifying the CurrentPageVerifier integration with Trusted Web Activity mode, covering HTTPS navigations, blob URLs and certificate verification via a mock cert verifier.
+// ---
+
 package org.chromium.chrome.browser.browserservices.ui.controller.trustedwebactivity;
 
 import static org.junit.Assert.assertEquals;

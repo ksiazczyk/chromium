@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IntentHandler native tests
+// summary: Unit tests for IntentHandler referrer and header handling that require the native library.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertNull;

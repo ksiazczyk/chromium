@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Chrome Android javatests
+summary: Lists allowed and forbidden include paths that test code in this directory may depend on across Chrome and its components.

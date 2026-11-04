@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom tab context menu tests
+// summary: Tests for context menus in Custom Tabs, including custom content actions and consistent menu contents across form factors.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

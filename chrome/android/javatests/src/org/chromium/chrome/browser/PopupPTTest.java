@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup blocking and opening test
+// summary: Instrumentation test verifying that popups are blocked or allowed as expected, covering on-load popups, safe-gesture popups and always-allow behavior.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

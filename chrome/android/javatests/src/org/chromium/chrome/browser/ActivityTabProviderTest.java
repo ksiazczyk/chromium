@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActivityTabProvider tests
+// summary: Instrumentation tests for ChromeActivity's ActivityTabProvider, checking that the observed activity tab updates correctly as tabs change.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

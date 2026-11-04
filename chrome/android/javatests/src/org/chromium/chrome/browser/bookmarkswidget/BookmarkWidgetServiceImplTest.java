@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkWidgetServiceImplTest
+// summary: Instrumentation tests for the service that populates the bookmark widget's list view, using a fake bookmark model to check rendered entries.
+// ---
+
 package org.chromium.chrome.browser.bookmarkswidget;
 
 import static org.junit.Assert.assertEquals;

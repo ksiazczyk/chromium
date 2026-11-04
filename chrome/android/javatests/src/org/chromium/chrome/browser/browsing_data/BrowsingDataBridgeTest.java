@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowsingDataBridgeTest
+// summary: Integration tests for ClearBrowsingDataPreferences that exercise BrowsingDataBridge clearing of site data, tabs and web app data.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

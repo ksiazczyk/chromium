@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK share target POST data utility
+// summary: Utility that computes POST request data for WebAPK share targets, resolving file names, MIME types and JSON string arrays from shared content.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.database.Cursor;

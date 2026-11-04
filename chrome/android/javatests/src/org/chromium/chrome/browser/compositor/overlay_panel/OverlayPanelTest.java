@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Tests for OverlayPanel
+// summary: JUnit4 tests for the OverlayPanel class, covering layout changes, panel resizing and content handling.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import static org.junit.Assert.assertEquals;

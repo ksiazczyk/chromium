@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill VCN enroll bottom sheet render test
+// summary: Parameterized Android render test that verifies the virtual card enrollment bottom sheet UI across LTR/RTL and night mode configurations using ChromeRenderTestRule.
+// ---
+
 package org.chromium.chrome.browser.autofill.vcn;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Digital Goods mojo implementation for tests
+// summary: Fake implementation of the DigitalGoods mojo interface that stores item details in a map and serves canned responses for Digital Goods testing.
+// ---
+
 package org.chromium.chrome.browser.browserservices.digitalgoods;
 
 import org.chromium.mojo.system.MojoException;

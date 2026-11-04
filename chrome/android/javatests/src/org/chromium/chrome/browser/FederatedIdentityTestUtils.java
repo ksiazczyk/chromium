@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Federated identity test utilities
+// summary: Static JNI-backed helpers for tests that need to place the FedCM permission under embargo for a relying party URL.
+// ---
+
 package org.chromium.chrome.browser;
 
 import org.jni_zero.JNINamespace;

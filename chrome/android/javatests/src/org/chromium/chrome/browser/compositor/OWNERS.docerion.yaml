@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the compositor javatests directory
+summary: Delegates ownership to the OWNERS file of the compositor source directory.

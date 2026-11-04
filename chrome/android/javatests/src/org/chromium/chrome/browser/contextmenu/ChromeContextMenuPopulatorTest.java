@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome context menu populator tests
+// summary: JUnit tests for ChromeContextMenuPopulator covering menu item behavior, feature flags, custom tab actions, and related delegates.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.junit.Assert.assertEquals;

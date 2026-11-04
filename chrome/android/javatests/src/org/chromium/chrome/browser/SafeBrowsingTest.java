@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing interstitial test
+// summary: Instrumentation test checking integration with the SafeBrowsingApiHandler by loading URLs and verifying whether a safe browsing interstitial is shown.
+// ---
+
 package org.chromium.chrome.browser;
 
 import androidx.test.filters.MediumTest;

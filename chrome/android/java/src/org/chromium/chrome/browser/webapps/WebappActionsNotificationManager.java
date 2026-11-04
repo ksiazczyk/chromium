@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webapp actions notification manager
+// summary: Shows a notification while standalone web apps run in Chrome, presenting the current URL with Share and Open in Chrome actions and cancelling it on pause.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

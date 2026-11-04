@@ -1,0 +1,4 @@
+# Docerion header of check_settings_enums.py.
+type: script
+title: Check that SettingsFragment subclasses are listed in enums.xml
+summary: Verifies via dexdump on ChromePublic.apk that every concrete SettingsFragment subclass has a hash entry in enums.xml.

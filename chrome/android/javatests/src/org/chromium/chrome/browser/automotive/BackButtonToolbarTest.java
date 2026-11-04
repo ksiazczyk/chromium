@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automotive back button toolbar instrumentation tests
+// summary: Instrumentation tests verifying the persistent back button toolbar behavior in automotive, covering both legacy Toolbar View and streamlined implementations.
+// ---
+
 package org.chromium.chrome.browser.automotive;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

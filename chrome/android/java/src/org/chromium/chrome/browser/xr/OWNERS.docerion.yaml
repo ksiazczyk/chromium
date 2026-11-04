@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: XR browser OWNERS file redirect
+summary: Redirects code ownership for the Chrome browser XR directory to the OWNERS file of the XR module.

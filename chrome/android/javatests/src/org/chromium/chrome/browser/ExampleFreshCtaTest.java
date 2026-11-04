@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Example fresh CTA test
+// summary: Example batched instrumentation test showing an app-wide test that restarts ChromeTabbedActivity for each test case.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertNotNull;

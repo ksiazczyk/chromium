@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated Identity test utilities JNI bridge
+// summary: Native JNI implementation for Federated Identity test utilities that records dismissal and embargoes FedCM for a relying party origin on the last used profile.
+// ---
+
 #include <jni.h>
 
 #include "chrome/browser/profiles/profile.h"

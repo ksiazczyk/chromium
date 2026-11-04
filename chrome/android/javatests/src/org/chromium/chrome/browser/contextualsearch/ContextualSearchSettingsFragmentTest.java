@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Search settings fragment tests
+// summary: Instrumentation tests for the Contextual Search settings fragment, checking the Contextual Search and See Better Results switches and their preference state.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import androidx.test.annotation.UiThreadTest;

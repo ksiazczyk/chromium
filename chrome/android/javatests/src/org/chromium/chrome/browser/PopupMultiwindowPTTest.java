@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup multiwindow presentation test
+// summary: Instrumentation test checking that popup windows open as custom tabs in new windows on tablet or desktop form factors, including incognito behavior.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

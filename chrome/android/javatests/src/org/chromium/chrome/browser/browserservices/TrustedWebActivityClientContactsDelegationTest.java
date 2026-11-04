@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted Web Activity client contacts delegation tests
+// summary: Tests contact permission checks and contact fetching delegated from TrustedWebActivityClient to a test TrustedWebActivityService.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.net.Uri;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkInstaller
+// summary: Java counterpart of webapk_installer.h that installs and updates WebAPKs via the Google Play install delegate and reports results to native code.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Intent;

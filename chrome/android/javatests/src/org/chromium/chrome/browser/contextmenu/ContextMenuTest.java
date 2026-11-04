@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu tests
+// summary: Instrumentation tests covering context menu behavior such as downloads, sharing, clipboard actions, and menu item interactions.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static androidx.test.espresso.Espresso.onView;

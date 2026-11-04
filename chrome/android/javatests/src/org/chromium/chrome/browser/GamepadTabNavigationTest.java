@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gamepad L1 and R1 tab navigation tests
+// summary: End-to-end tests verifying that gamepad L1 and R1 buttons switch tabs and how this behavior interacts with the HTML5 Gamepad API.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

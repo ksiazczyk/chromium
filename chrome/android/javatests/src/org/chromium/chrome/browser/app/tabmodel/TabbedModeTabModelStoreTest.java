@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabbed mode TabStateStore tests
+// summary: Tests TabStateStore tracking a tabbed mode TabModel with the SQLite tab storage prototype feature enabled.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static org.junit.Assert.assertEquals;

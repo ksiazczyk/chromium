@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted Web Activity share target tests
+// summary: Tests share target handling, including POST and multipart file sharing, for Trusted Web Activities and WebAPKs.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import static org.chromium.chrome.browser.browserservices.TrustedWebActivityTestUtil.createSession;

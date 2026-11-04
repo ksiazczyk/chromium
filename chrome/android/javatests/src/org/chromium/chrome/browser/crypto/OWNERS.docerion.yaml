@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the crypto test directory
+summary: Owners file that delegates directory ownership to the OWNERS file of chrome/browser/android/crypto.

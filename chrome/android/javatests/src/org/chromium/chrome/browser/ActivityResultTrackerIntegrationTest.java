@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activity result tracker integration tests
+// summary: Instrumentation integration tests verifying that ActivityResultTrackerImpl delivers activity results and restoration config to registered result listeners.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.base.test.util.ApplicationTestUtils.waitForActivityWithClass;

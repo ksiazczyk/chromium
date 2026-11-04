@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrModuleProvider
+// summary: Module interface for the dynamic XR module exposing XR SceneCore session management and immersive video playback entry points.
+// ---
+
 package org.chromium.chrome.browser.xr.scenecore;
 
 import android.app.Activity;

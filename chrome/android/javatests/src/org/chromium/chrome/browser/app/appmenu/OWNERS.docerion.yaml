@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the app menu tests
+summary: Points to the OWNERS file of the corresponding app menu source directory to inherit its reviewers.

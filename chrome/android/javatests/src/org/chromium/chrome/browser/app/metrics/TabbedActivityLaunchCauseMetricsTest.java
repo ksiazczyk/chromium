@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabbedActivityLaunchCauseMetrics integration tests
+// summary: Integration tests verifying that launch cause metrics histograms are recorded correctly when ChromeTabbedActivity is started via various intents and entry points.
+// ---
+
 package org.chromium.chrome.browser.app.metrics;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for OverlayPanelManager
+// summary: JUnit4 tests for the OverlayPanelManager, covering panel show and hide requests, priority and suppression behavior.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import android.app.Activity;
