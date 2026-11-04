@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Office fallback dialog browser tests
+// summary: Contains in-process browser tests that launch the office fallback dialog and verify its rendering and choice handling.
+// ---
+
 #include "chrome/browser/ui/webui/ash/office_fallback/office_fallback_dialog.h"
 
 #include <utility>

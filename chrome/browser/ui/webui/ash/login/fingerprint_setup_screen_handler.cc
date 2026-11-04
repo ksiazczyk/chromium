@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint setup screen WebUI handler
+// summary: Implements the WebUI handler for the OOBE fingerprint setup screen, declaring its localized strings and forwarding fingerprint enrollment scan results to the UI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/fingerprint_setup_screen_handler.h"
 
 #include "ash/strings/grit/ash_strings.h"

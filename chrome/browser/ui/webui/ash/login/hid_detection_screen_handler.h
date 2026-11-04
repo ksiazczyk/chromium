@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID detection screen handler header
+// summary: Declares the HIDDetectionView interface and its WebUI handler, including cached state accessors used by tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_HID_DETECTION_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_HID_DETECTION_SCREEN_HANDLER_H_
 

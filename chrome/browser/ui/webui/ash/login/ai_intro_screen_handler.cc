@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI intro screen WebUI handler implementation
+// summary: Implements the WebUI handler for the AI intro OOBE screen, providing localized strings for its feature slides.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/ai_intro_screen_handler.h"
 
 #include "ash/constants/ash_features.h"

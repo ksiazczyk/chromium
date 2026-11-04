@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OobeDisplayChooser browser test
+// summary: Browser test verifying that removing the primary display during OOBE does not trigger a CHECK failure in WindowTreeHostManager::GetPrimaryDisplayId.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/oobe_display_chooser.h"
 
 #include "ash/constants/ash_switches.h"

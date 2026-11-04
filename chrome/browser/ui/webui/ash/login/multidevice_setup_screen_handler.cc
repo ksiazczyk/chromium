@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDevice setup screen handler implementation
+// summary: Implements the WebUI handler for the multi-device setup OOBE screen, registering localized strings and initializing the setup flow.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/multidevice_setup_screen_handler.h"
 
 #include "ash/constants/ash_features.h"

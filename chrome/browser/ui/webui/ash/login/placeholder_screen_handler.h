@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Placeholder screen WebUI handler header
+// summary: Declares the PlaceholderScreenView interface and its WebUI handler for the placeholder OOBE screen, including its usage metrics screen ID.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_PLACEHOLDER_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_PLACEHOLDER_SCREEN_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug overlay handler implementation
+// summary: Implements the debug overlay WebUI handler that saves OOBE screenshots to a timestamped directory and exposes JS callbacks for color mode and wallpaper switching.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/debug/debug_overlay_handler.h"
 
 #include "ash/constants/ash_paths.h"

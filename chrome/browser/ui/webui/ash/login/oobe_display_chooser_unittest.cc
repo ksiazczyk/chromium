@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OobeDisplayChooser unit test
+// summary: Unit test for OobeDisplayChooser using a stubbed CrosDisplayConfig to verify display choice behavior such as preferring a touch display as primary.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/oobe_display_chooser.h"
 
 #include <memory>

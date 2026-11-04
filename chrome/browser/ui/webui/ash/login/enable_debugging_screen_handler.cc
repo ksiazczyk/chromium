@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enable debugging OOBE screen WebUI handler implementation
+// summary: Implements the WebUI handler for the enable debugging OOBE screen, declaring localized values and registering local state preferences.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/enable_debugging_screen_handler.h"
 
 #include <string>

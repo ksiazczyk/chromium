@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake update required screen handler implementation
+// summary: Implements a stub UpdateRequiredView that records the UI state without driving any WebUI, standing in for the real update-required handler.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/fake_update_required_screen_handler.h"
 
 namespace ash {

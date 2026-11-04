@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS install screen handler implementation
+// summary: Implements the WebUI handler for the OS install screen, declaring localized strings and reporting install progress, success, and error steps to the UI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/os_install_screen_handler.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core OOBE handler implementation
+// summary: Implements the core OOBE WebUI handler, registering JavaScript callbacks, localized values and event handling for the out-of-box experience UI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/core_oobe_handler.h"
 
 #include <type_traits>

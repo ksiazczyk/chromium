@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mako bubble coordinator implementation
+// summary: Implements the coordinator that builds consent and editor bubble URLs and loads, shows, or closes the Mako WebUI bubble contents.
+// ---
+
 #include "chrome/browser/ui/webui/ash/mako/mako_bubble_coordinator.h"
 
 #include <algorithm>

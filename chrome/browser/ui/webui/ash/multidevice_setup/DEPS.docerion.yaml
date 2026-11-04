@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for multidevice setup
+summary: Defines allowed include dependencies for the directory, restricting //chrome imports with explicit exceptions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Draggable bubble dialog view class declaration
+// summary: Declares DraggableBubbleDialogView, a WebUI bubble dialog view with dragging support for the Mako UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_MAKO_DRAGGABLE_BUBBLE_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_MAKO_DRAGGABLE_BUBBLE_DIALOG_VIEW_H_
 

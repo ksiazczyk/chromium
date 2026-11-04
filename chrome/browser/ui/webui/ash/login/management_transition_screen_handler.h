@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management transition screen handler header
+// summary: Declares the WebUI view interface and handler for the ChromeOS OOBE management transition screen, including show and error display methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_MANAGEMENT_TRANSITION_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_MANAGEMENT_TRANSITION_SCREEN_HANDLER_H_
 

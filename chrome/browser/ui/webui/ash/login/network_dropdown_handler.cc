@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network dropdown handler implementation
+// summary: Implements JS callbacks for network configuration UI in login and OOBE, opening internet detail and config dialogs and enabling WiFi or cellular as needed.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/network_dropdown_handler.h"
 
 #include "chrome/browser/ui/ash/login/login_display_host.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive pinning OOBE screen WebUI handler implementation
+// summary: Implements the WebUI handler for the Drive pinning OOBE screen, declaring its localized strings including the CHOOBE tile variants.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/drive_pinning_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

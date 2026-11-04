@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Office fallback WebUI controller header
+// summary: Declares the OfficeFallbackUI MojoWebDialogUI controller and its WebUIConfig, which present the dialog letting users choose what to do when opening an office file fails on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_OFFICE_FALLBACK_OFFICE_FALLBACK_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_OFFICE_FALLBACK_OFFICE_FALLBACK_UI_H_
 

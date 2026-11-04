@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome recovery setup screen WebUI handler
+// summary: Implements the WebUI handler for the cryptohome recovery setup screen with error, skip and retry strings plus setup failure and loading state updates.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/cryptohome_recovery_setup_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

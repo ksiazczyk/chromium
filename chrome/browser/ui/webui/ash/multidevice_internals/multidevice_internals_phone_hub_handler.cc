@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub debug handler implementation for multidevice internals
+// summary: Implements the debug message handler that fakes and controls Phone Hub state such as notifications, browser tabs, DND, tether, and camera roll.
+// ---
+
 #include "chrome/browser/ui/webui/ash/multidevice_internals/multidevice_internals_phone_hub_handler.h"
 
 #include <memory>

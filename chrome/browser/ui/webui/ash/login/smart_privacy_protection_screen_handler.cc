@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart privacy protection screen handler implementation
+// summary: Implements the WebUI handler for the smart privacy protection OOBE screen, providing localized strings and the Quick Dim feature flag.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/smart_privacy_protection_screen_handler.h"
 
 #include "ash/constants/ash_features.h"

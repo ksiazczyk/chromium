@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for multidevice_internals
+summary: Delegates code ownership to the multidevice component OWNERS file.

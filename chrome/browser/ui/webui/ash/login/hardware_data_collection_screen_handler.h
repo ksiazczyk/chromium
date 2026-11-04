@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware data collection screen handler header
+// summary: Declares the HWDataCollectionView interface and its WebUI handler that interacts with the hardware data collection JS page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_HARDWARE_DATA_COLLECTION_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_HARDWARE_DATA_COLLECTION_SCREEN_HANDLER_H_
 

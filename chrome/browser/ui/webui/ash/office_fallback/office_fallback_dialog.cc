@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Office fallback dialog implementation
+// summary: Implements the ChromeOS office fallback system web dialog, mapping each fallback reason to localized text, options, and dialog size.
+// ---
+
 #include "chrome/browser/ui/webui/ash/office_fallback/office_fallback_dialog.h"
 
 #include <cstddef>

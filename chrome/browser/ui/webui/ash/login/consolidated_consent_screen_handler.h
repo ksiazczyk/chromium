@@ -4,6 +4,12 @@
 
 // Stub handler
 
+// ---docerion
+// type: source
+// title: Consolidated consent screen handler header
+// summary: Declares the ConsolidatedConsentScreenView interface and handler, including default EULA URLs and methods to update opt-in toggle states.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_CONSOLIDATED_CONSENT_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_CONSOLIDATED_CONSENT_SCREEN_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ONC import message handler
+// summary: Unit tests for ONC import using fake select file dialogs and tracking or denying select file policies.
+// ---
+
 #include "chrome/browser/ui/webui/ash/network_ui/onc_import_message_handler.h"
 
 #include <memory>

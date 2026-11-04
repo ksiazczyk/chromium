@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network state informer implementation
+// summary: Implements NetworkStateInformer, which tracks default network state such as online, offline, captive portal, and proxy auth, and notifies observers of changes.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/network_state_informer.h"
 
 #include "base/functional/bind.h"

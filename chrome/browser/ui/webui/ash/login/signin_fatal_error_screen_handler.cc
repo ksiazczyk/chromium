@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in fatal error screen handler implementation
+// summary: Implements the WebUI handler for the sign-in fatal error screen, defining localized error messages and displaying error states.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/signin_fatal_error_screen_handler.h"
 
 #include <string>

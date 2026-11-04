@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recommend apps screen WebUI handler header
+// summary: Declares the RecommendAppsScreenView interface and its WebUI handler for showing the recommended apps list during Chrome OS OOBE.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_RECOMMEND_APPS_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_RECOMMEND_APPS_SCREEN_HANDLER_H_
 

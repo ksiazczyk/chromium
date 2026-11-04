@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Office fallback dialog class declaration
+// summary: Declares the OfficeFallbackDialog class and FallbackReason enum for showing a dialog when office files cannot be opened.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_OFFICE_FALLBACK_OFFICE_FALLBACK_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_OFFICE_FALLBACK_OFFICE_FALLBACK_DIALOG_H_
 

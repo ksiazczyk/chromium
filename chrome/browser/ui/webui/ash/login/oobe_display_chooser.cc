@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE display chooser implementation
+// summary: Implements logic that moves the OOBE UI to an allow-listed connected touch display when the primary display lacks touch support.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/oobe_display_chooser.h"
 
 #include <stdint.h>

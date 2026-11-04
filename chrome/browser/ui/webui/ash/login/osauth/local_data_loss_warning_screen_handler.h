@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local data loss warning screen handler view interface and WebUI handler
+// summary: Declares the LocalDataLossWarningScreenView interface and the handler that shows the data loss warning screen during login.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OSAUTH_LOCAL_DATA_LOSS_WARNING_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OSAUTH_LOCAL_DATA_LOSS_WARNING_SCREEN_HANDLER_H_
 

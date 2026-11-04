@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification tester WebUI controller implementation
+// summary: Implements the WebUI controller that sets up the notification tester data source with its resources and registers the message handler.
+// ---
+
 #include "chrome/browser/ui/webui/ash/notification_tester/notification_tester_ui.h"
 
 #include "ash/constants/webui_url_constants.h"

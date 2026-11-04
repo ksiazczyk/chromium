@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE screens handler factory header
+// summary: Declares OobeScreensHandlerFactory, the Mojo ScreensFactory that establishes handler pipes for OOBE screens such as AI intro, Gaia info, and consumer update.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OOBE_SCREENS_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OOBE_SCREENS_HANDLER_FACTORY_H_
 

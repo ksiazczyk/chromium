@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalized recommend apps screen handler implementation
+// summary: Implements the WebUI handler for the personalized recommended apps OOBE screen, passing app and use case data to the front-end.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/personalized_recommend_apps_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

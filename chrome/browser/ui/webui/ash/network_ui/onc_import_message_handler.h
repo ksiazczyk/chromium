@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the ONC import message handler
+// summary: Declares the OncImportMessageHandler WebUI message handler and select file dialog listener for importing ONC certificates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_NETWORK_UI_ONC_IMPORT_MESSAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_NETWORK_UI_ONC_IMPORT_MESSAGE_HANDLER_H_
 

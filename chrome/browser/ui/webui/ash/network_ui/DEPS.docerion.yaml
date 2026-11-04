@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the network_ui directory
+summary: 'DEPS file restricting and allowing #include dependencies for the ChromeOS network UI directory and its unit tests.'

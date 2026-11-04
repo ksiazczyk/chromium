@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Mako directory
+summary: Defines allowed include dependencies for the Mako WebUI directory, restricting //chrome dependencies to an approved list.

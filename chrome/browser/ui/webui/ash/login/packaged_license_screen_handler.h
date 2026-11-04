@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Packaged license screen handler header
+// summary: Declares the PackagedLicenseView interface and the PackagedLicenseScreenHandler class that wire the packaged license OOBE screen to its WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_PACKAGED_LICENSE_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_PACKAGED_LICENSE_SCREEN_HANDLER_H_
 

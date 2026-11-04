@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local state error screen WebUI handler implementation
+// summary: Implements the WebUI handler for the local state error screen, showing localized error text and a powerwash button.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/local_state_error_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

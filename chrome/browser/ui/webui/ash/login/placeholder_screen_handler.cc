@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Placeholder screen WebUI handler implementation
+// summary: Implements the WebUI handler for the placeholder OOBE screen, which shows the screen without propagating localized values.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/placeholder_screen_handler.h"
 
 #include "chrome/browser/ui/webui/ash/login/base_screen_handler.h"

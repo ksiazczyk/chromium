@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE and login UI language list utility declarations
+// summary: Declares utility functions for retrieving supported UI languages and input methods or keyboard layouts during OOBE and on the login screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_L10N_UTIL_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_L10N_UTIL_H_
 

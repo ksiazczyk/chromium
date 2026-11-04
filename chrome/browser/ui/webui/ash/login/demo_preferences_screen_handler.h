@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo preferences screen handler interface
+// summary: Declares the DemoPreferencesScreenView interface and its WebUI handler implementation for the demo mode preferences screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_DEMO_PREFERENCES_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_DEMO_PREFERENCES_SCREEN_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device disabled screen handler interface
+// summary: Declares the DeviceDisabledScreenView interface with its Params struct and the WebUI handler for updating the device disabled screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_DEVICE_DISABLED_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_DEVICE_DISABLED_SCREEN_HANDLER_H_
 

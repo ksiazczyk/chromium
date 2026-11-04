@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini intro screen handler implementation
+// summary: Implements the WebUI handler for the Gemini intro OOBE screen, declaring localized title and subtitle strings with a branding-dependent product name.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/gemini_intro_screen_handler.h"
 
 #include "ash/constants/ash_features.h"

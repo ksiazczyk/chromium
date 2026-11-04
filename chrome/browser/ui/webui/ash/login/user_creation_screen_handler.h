@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User creation screen handler interface
+// summary: Declares the UserCreationView interface and WebUI handler for the OOBE user creation screen, including triage and child setup steps.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_USER_CREATION_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_USER_CREATION_SCREEN_HANDLER_H_
 

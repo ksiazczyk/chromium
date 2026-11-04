@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User creation screen handler implementation
+// summary: Implements the WebUI handler for the OOBE user creation screen, declaring localized strings for personal, child and enrollment setup flows.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/user_creation_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

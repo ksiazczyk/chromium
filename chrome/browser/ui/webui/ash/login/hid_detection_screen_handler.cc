@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID detection screen handler implementation
+// summary: WebUI handler for the HID detection OOBE screen, pushing keyboard, mouse, touchscreen and Bluetooth pairing state to the JS page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/hid_detection_screen_handler.h"
 
 #include <string>

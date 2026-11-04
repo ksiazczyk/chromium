@@ -1,0 +1,4 @@
+# Docerion header of office_fallback.mojom.
+type: source
+title: Mojo interfaces for the office fallback dialog
+summary: Defines the DialogChoice enum and PageHandler Mojo interfaces used to pass dialog choices from the renderer to the browser process.

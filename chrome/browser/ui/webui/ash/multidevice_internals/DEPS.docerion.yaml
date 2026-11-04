@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for multidevice_internals
+summary: Sets include rules that block //chrome dependencies while allowing this directory, ash phonehub, profiles, and grit headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification tester WebUI controller header
+// summary: Declares the WebUI controller and its configuration class that register the notification tester page under the Chrome UI scheme.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_NOTIFICATION_TESTER_NOTIFICATION_TESTER_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_NOTIFICATION_TESTER_NOTIFICATION_TESTER_UI_H_
 

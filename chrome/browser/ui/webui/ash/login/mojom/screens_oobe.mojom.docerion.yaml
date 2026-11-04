@@ -1,0 +1,4 @@
+# Docerion header of screens_oobe.mojom.
+type: source
+title: Mojom interfaces for consumer update and packaged license screens
+summary: Defines handler and page interfaces for the consumer update flow, including update steps, cellular permission, and progress messages, plus the packaged license enroll buttons.

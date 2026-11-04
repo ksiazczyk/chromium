@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the multidevice-internals WebUI controller
+// summary: Declares the Mojo WebUI controller and its WebUIConfig class that serve the multidevice-internals debugging page in ChromeOS Ash.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_MULTIDEVICE_INTERNALS_MULTIDEVICE_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_MULTIDEVICE_INTERNALS_MULTIDEVICE_INTERNALS_UI_H_
 

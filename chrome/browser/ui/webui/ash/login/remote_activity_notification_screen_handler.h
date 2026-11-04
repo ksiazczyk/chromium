@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote activity notification screen handler
+// summary: Declares the view interface and WebUI handler for the remote activity notification screen shown during ChromeOS out-of-box experience.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_REMOTE_ACTIVITY_NOTIFICATION_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_REMOTE_ACTIVITY_NOTIFICATION_SCREEN_HANDLER_H_
 

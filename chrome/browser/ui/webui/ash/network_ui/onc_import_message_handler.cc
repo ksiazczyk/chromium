@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC import message handler implementation
+// summary: Implements the importONC WebUI message that reads an ONC file via a file dialog and imports its certificates into NSS and server certificate databases.
+// ---
+
 #include "chrome/browser/ui/webui/ash/network_ui/onc_import_message_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification tester WebUI message handler header
+// summary: Declares the WebUI message handler that relays front-end requests to the message center and resolves notification icons, images, buttons, and rich notification data.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_NOTIFICATION_TESTER_NOTIFICATION_TESTER_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_NOTIFICATION_TESTER_NOTIFICATION_TESTER_HANDLER_H_
 

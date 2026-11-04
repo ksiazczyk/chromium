@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mako bubble event handler implementation
+// summary: Implements mouse and touch event handling that drags and resizes the Mako bubble widget, including cursor and direction mapping.
+// ---
+
 #include "chrome/browser/ui/webui/ash/mako/mako_bubble_event_handler.h"
 
 #include <variant>

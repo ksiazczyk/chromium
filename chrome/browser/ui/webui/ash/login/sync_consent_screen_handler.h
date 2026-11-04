@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync consent screen handler header
+// summary: Declares the SyncConsentScreenView interface and its WebUI handler for the sync consent OOBE screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_SYNC_CONSENT_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_SYNC_CONSENT_SCREEN_HANDLER_H_
 

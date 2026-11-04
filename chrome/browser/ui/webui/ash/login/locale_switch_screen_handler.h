@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale switch screen WebUI handler header
+// summary: Declares the LocaleSwitchView interface and its WebUI handler that updates localized strings in the OOBE WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_LOCALE_SWITCH_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_LOCALE_SWITCH_SCREEN_HANDLER_H_
 

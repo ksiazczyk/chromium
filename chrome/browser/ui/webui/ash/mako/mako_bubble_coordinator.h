@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mako bubble coordinator class declaration
+// summary: Declares MakoBubbleCoordinator, which manages the state and context caret anchoring of Mako WebUI bubble contents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_MAKO_MAKO_BUBBLE_COORDINATOR_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_MAKO_MAKO_BUBBLE_COORDINATOR_H_
 

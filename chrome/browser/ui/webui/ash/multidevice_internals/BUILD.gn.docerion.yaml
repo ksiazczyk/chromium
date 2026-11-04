@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the multidevice_internals library
+summary: Defines the multidevice_internals static library, listing its source files and the public and private build dependencies used on ChromeOS.

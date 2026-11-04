@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management transition screen WebUI handler implementation
+// summary: Implements the WebUI handler for the ARC management transition screen, showing transition state, management entity and error steps.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/management_transition_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

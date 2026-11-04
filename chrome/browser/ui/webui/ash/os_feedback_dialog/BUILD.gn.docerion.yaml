@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for os_feedback_dialog
+summary: Defines the os_feedback_dialog static library target with its source files, dependencies, and allowed circular includes for the ChromeOS feedback dialog.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme selection screen handler implementation
+// summary: Implements the WebUI handler for the OOBE theme selection screen, declaring localized labels for light, dark and auto themes including Choobe variants.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/theme_selection_screen_handler.h"
 
 #include "ash/constants/ash_features.h"

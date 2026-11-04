@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perks discovery screen handler header
+// summary: Declares the PerksDiscoveryScreenView interface and handler class that supply perk discovery data to the OOBE WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_PERKS_DISCOVERY_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_PERKS_DISCOVERY_SCREEN_HANDLER_H_
 

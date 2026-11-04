@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia sign-in screen handler implementation
+// summary: Implements the WebUI handler for the Gaia sign-in screen, covering SAML authentication, client certificates, network errors, and reauth flows.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/gaia_screen_handler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Choobe screen handler header
+// summary: Declares the ChoobeScreenView interface and handler class that links the Choobe screen with its WebUI representation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_CHOOBE_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_CHOOBE_SCREEN_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account selection screen WebUI handler implementation
+// summary: Implements the WebUI handler for the account selection OOBE screen, exposing step progress and user email to the JS side.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/account_selection_screen_handler.h"
 
 #include "chrome/browser/ui/webui/ash/login/base_screen_handler.h"

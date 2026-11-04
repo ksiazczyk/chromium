@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment screen WebUI handler implementation
+// summary: Implements the WebUI message handler for the Chrome OS enterprise enrollment OOBE screen, mapping enrollment modes, steps and errors to the UI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/enrollment_screen_handler.h"
 
 #include <algorithm>

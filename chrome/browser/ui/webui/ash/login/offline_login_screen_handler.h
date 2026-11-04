@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline login screen handler header
+// summary: Declares the OfflineLoginView interface and the OfflineLoginScreenHandler WebUI handler for the ChromeOS offline login screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OFFLINE_LOGIN_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OFFLINE_LOGIN_SCREEN_HANDLER_H_
 

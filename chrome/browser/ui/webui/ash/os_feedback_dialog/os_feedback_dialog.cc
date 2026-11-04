@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OsFeedbackDialog implementation
+// summary: Implements the ChromeOS feedback dialog, handling async display, login-flow metrics, screenshot capture, dialog focus, and passing feedback info as dialog arguments.
+// ---
+
 #include "chrome/browser/ui/webui/ash/os_feedback_dialog/os_feedback_dialog.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Draggable bubble dialog view implementation
+// summary: Implements a WebUI bubble dialog view that supports dragging via draggable regions and delegates pointer handling to MakoBubbleEventHandler.
+// ---
+
 #include "chrome/browser/ui/webui/ash/mako/draggable_bubble_dialog_view.h"
 
 #include "chrome/common/chrome_render_frame.mojom.h"

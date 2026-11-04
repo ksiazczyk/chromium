@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App downloading screen handler header
+// summary: Declares the AppDownloadingScreenView interface and the WebUI AppDownloadingScreenHandler for the OOBE app-downloading screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_APP_DOWNLOADING_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_APP_DOWNLOADING_SCREEN_HANDLER_H_
 

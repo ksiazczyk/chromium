@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network screen handler implementation
+// summary: Implements the WebUI handler for the OOBE network selection screen, providing localized values, error display, and Quick Start entry point visibility.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/network_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

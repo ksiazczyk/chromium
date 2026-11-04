@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account selection screen WebUI handler interface
+// summary: Declares the AccountSelectionScreenView interface and handler that connect the account selection OOBE screen to its WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ACCOUNT_SELECTION_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ACCOUNT_SELECTION_SCREEN_HANDLER_H_
 

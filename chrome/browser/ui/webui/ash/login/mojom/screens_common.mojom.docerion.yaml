@@ -1,0 +1,4 @@
+# Docerion header of screens_common.mojom.
+type: source
+title: Mojom interfaces for common login and OOBE screens
+summary: Defines browser-side page handler and renderer-side page Mojo interfaces for screens such as AI intro, app downloading, drive pinning, Fjord setup, Gaia info, and gesture navigation.

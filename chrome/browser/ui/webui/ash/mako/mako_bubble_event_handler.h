@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mako bubble event handler class declaration
+// summary: Declares MakoBubbleEventHandler, a ui::EventHandler adding dragging and resizing support to otherwise non-draggable WebUI bubbles.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_MAKO_MAKO_BUBBLE_EVENT_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_MAKO_MAKO_BUBBLE_EVENT_HANDLER_H_
 

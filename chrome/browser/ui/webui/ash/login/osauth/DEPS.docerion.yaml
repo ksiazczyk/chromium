@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the osauth login screen handlers
+summary: Sets include rules for the directory, blocking //chrome dependencies while allowing ash login and login WebUI includes.

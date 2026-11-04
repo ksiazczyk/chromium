@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perks discovery screen handler implementation
+// summary: Implements the WebUI handler for the perks discovery OOBE screen, forwarding perk data and overview step changes to the front-end.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/perks_discovery_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

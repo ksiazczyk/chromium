@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start screen WebUI handler header
+// summary: Declares the QuickStartView interface and its WebUI handler for the Quick Start OOBE screen, covering setup steps and user info updates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_QUICK_START_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_QUICK_START_SCREEN_HANDLER_H_
 

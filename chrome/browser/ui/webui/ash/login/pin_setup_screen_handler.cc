@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN setup screen WebUI handler implementation
+// summary: Implements the WebUI handler for the Chrome OS PIN setup OOBE screen, declaring localized strings for PIN discovery, reset, and keyboard UI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/pin_setup_screen_handler.h"
 
 #include <string>

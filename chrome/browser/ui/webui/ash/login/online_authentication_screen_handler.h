@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Online authentication screen handler header
+// summary: Declares the OnlineAuthenticationScreenView interface and its WebUI screen handler for the online authentication OOBE screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ONLINE_AUTHENTICATION_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_ONLINE_AUTHENTICATION_SCREEN_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mako bubble event handler unit tests
+// summary: Unit tests verifying dragging and resizing state transitions of MakoBubbleEventHandler for touch and mouse events.
+// ---
+
 #include "chrome/browser/ui/webui/ash/mako/mako_bubble_event_handler.h"
 
 #include "chrome/test/views/chrome_views_test_base.h"

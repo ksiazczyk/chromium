@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware data collection screen handler implementation
+// summary: WebUI handler for the hardware data collection OOBE screen, showing the usage opt-in state and its localized strings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/hardware_data_collection_screen_handler.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock input method manager for l10n util tests (implementation)
+// summary: Implements a mock input method manager that lets tests add fake input methods for the ChromeOS login localization utility.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/l10n_util_test_util.h"
 
 #include <optional>

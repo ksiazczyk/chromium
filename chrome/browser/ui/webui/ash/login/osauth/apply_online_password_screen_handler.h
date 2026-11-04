@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apply online password screen handler view interface and WebUI handler
+// summary: Declares the ApplyOnlinePasswordScreenView interface for dependency injection and the handler class that displays the screen in WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OSAUTH_APPLY_ONLINE_PASSWORD_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OSAUTH_APPLY_ONLINE_PASSWORD_SCREEN_HANDLER_H_
 

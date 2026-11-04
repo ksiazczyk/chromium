@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consumer update screen handler implementation
+// summary: Implements the WebUI handler for the consumer update screen, declaring its localized strings for accept, skip and progress states.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/consumer_update_screen_handler.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord firmware update screen view interface and handler
+// summary: Declares the FjordFwUpdateScreenView interface and its WebUI handler class for the Fjord firmware update OOBE screen.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_FJORD_FW_UPDATE_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_FJORD_FW_UPDATE_SCREEN_HANDLER_H_
 

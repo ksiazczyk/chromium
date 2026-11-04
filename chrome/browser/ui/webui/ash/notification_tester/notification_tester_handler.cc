@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification tester handler implementation
+// summary: Implements the WebUI message handler that turns front-end form data into notifications shown via the message center.
+// ---
+
 #include "chrome/browser/ui/webui/ash/notification_tester/notification_tester_handler.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mako WebUI build targets
+summary: GN build file defining the mako and mako_bubble static libraries and the Mako unit test target with their dependencies.

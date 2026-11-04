@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the OOBE test API
+summary: Defines the static library and browser test targets that build the OOBE test API handler and its tests, with their dependencies.

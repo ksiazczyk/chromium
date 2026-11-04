@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base screen handler header
+// summary: Declares BaseScreenHandler, the base class providing screen display, external API calls, and user action handling for per-screen OOBE WebUI handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_BASE_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_BASE_SCREEN_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo setup screen handler interface
+// summary: Declares the DemoSetupScreenView interface and its WebUI handler for tracking demo mode setup progress, success and failure.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_DEMO_SETUP_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_DEMO_SETUP_SCREEN_HANDLER_H_
 

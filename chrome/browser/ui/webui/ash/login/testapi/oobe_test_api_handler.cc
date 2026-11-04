@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE test API handler implementation
+// summary: Implements the OobeTestApi JavaScript callbacks for advancing OOBE screens, logging in, skipping screens, and querying device and metrics state during tests.
+// ---
+
 #include "chrome/browser/ui/webui/ash/login/testapi/oobe_test_api_handler.h"
 
 #include <optional>

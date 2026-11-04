@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Terms of Service screen handler header
+// summary: Defines the TermsOfServiceScreenView interface for dependency injection and the TermsOfServiceScreenHandler that renders the Terms of Service screen via WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_TERMS_OF_SERVICE_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_TERMS_OF_SERVICE_SCREEN_HANDLER_H_
 

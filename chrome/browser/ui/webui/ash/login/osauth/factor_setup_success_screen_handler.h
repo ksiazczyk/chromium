@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factor setup success screen handler view interface and WebUI handler
+// summary: Declares the FactorSetupSuccessScreenView interface and the handler that shows the factor setup success screen with localized values.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OSAUTH_FACTOR_SETUP_SUCCESS_SCREEN_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_LOGIN_OSAUTH_FACTOR_SETUP_SUCCESS_SCREEN_HANDLER_H_
 
