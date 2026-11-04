@@ -1,0 +1,4 @@
+# Docerion header of chrome_renderer_dll_version.rc.version.
+type: config
+title: Renderer DLL version resource template
+summary: Windows version info resource template with placeholders for the Chrome renderer DLL build metadata.

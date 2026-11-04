@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows executable main entry point
+// summary: Windows entry point for the Chrome executable, handling DLL loading, crashpad setup, parent process waiting, and working directory setup.
+// ---
+
 #include "chrome/app/chrome_exe_main_win.h"
 
 #include <tchar.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Chrome main delegate class declaration
+// summary: Declares ChromeMainDelegateAndroid, the Android override of ChromeMainDelegate with startup and process hooks.
+// ---
+
 #ifndef CHROME_APP_ANDROID_CHROME_MAIN_DELEGATE_ANDROID_H_
 #define CHROME_APP_ANDROID_CHROME_MAIN_DELEGATE_ANDROID_H_
 

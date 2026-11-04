@@ -1,0 +1,4 @@
+# Docerion header of framework.order.
+type: config
+title: Mac framework symbol order file
+summary: Defines the layout order of text symbols in the Mac framework, placing _ChromeMain last so stripped binaries symbolize predictably.

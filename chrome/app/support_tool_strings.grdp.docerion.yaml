@@ -1,0 +1,4 @@
+# Docerion header of support_tool_strings.grdp.
+type: data
+title: Support Tool UI strings
+summary: Grit part with localized UI strings for the Support Tool, covering its four-step diagnostic flow, issue description fields, PII review options, and data export messages.

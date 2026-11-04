@@ -1,0 +1,4 @@
+# Docerion header of chrome_crash_reporter_client_mac.mm.
+type: source
+title: Mac crash reporter client implementation
+summary: Implements the Chrome crash reporter client on macOS, covering policy-enforced metrics reporting and channel-based crash handler monitoring.

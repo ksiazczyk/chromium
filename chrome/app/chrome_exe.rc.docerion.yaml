@@ -1,0 +1,4 @@
+# Docerion header of chrome_exe.rc.
+type: source
+title: Chrome EXE Windows resource script
+summary: Windows resource script for chrome.exe defining application icons per branding channel and Google Update application command resources.

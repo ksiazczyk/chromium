@@ -1,0 +1,4 @@
+# Docerion header of IDS_APP_MANAGEMENT_APP_CONTENT_TITLE.png.sha1.
+type: data
+title: App content title image SHA1 hash
+summary: Contains the SHA1 hash of the PNG image associated with the app content title string in the Chrome app management UI.

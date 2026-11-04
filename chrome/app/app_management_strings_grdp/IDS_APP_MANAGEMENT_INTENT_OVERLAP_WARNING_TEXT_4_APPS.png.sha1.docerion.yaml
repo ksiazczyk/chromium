@@ -1,0 +1,4 @@
+# Docerion header of IDS_APP_MANAGEMENT_INTENT_OVERLAP_WARNING_TEXT_4_APPS.png.sha1.
+type: asset
+title: SHA-1 checksum for the four-app intent overlap warning screenshot
+summary: Stores the SHA-1 hash of the PNG screenshot for the app management intent overlap warning text shown with four apps, letting the build fetch the image from the resource store.

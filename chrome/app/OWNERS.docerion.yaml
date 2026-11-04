@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for chrome/app
+summary: Lists directory owners and per-file ownership rules, especially delegating string resource files and platform-specific files to feature teams.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows crash reporter client unit test
+// summary: Unit test verifying that the Windows Error Reporting runtime exception module reported by the client is a .dll file path.
+// ---
+
 #include "chrome/app/chrome_crash_reporter_client_win.h"
 
 #include <string>

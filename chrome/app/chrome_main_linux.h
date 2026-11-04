@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux Chrome main helper declarations
+// summary: Declares functions for appending Linux environment-based command-line flags and determining the fallback Chrome channel.
+// ---
+
 #ifndef CHROME_APP_CHROME_MAIN_LINUX_H_
 #define CHROME_APP_CHROME_MAIN_LINUX_H_
 

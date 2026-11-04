@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Chrome main delegate implementation
+// summary: Implements ChromeMainDelegateAndroid startup steps, pre-freeze memory trimming, sampling profiler setup, and process running.
+// ---
+
 #include "chrome/app/android/chrome_main_delegate_android.h"
 
 #include <memory>

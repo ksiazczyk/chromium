@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LLVM PGO profile filename utility
+// summary: Implements helpers that rewrite the default LLVM PGO profile filename with a process-type prefix such as renderer.
+// ---
+
 #include "chrome/app/llvm_profile_util.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of app-entitlements-chrome.plist.
+type: config
+title: Chrome browser macOS entitlements
+summary: Defines macOS entitlements for the Chrome browser app, including keychain access groups, associated domains and web credential capabilities.

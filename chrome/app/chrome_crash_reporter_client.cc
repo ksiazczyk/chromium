@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome crash reporter client implementation
+// summary: Implements the Chrome crash reporter client, handling crash dump locations, metrics client IDs and platform-specific crash loop behaviour.
+// ---
+
 #include "chrome/app/chrome_crash_reporter_client.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of app_management_strings.grdp.
+type: asset
+title: App management UI strings
+summary: Grit part providing user-facing strings for the app management settings page, covering permissions, notifications, uninstall and intent sharing labels.

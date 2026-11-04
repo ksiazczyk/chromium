@@ -1,0 +1,4 @@
+# Docerion header of google_chrome_strings.grd.
+type: data
+title: Google Chrome branded strings
+summary: Grit file defining Google Chrome-specific strings translated for each supported locale and packaged as branded_strings .pak files.

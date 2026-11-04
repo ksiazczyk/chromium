@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/app
+summary: Specifies which headers and directories code in chrome/app may include, with a special include rule for a browsertest file.

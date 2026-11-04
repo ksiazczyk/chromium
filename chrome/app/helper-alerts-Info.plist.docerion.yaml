@@ -1,0 +1,4 @@
+# Docerion header of helper-alerts-Info.plist.
+type: config
+title: Alert notification helper Info.plist
+summary: Property list giving the alert notification service helper its bundle identifier, icon and alert style on macOS.

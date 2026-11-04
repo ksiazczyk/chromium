@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome crash reporter client interface
+// summary: Declares the ChromeCrashReporterClient class that customizes crash reporting behavior for Chrome on non-Windows platforms.
+// ---
+
 #ifndef CHROME_APP_CHROME_CRASH_REPORTER_CLIENT_H_
 #define CHROME_APP_CHROME_CRASH_REPORTER_CLIENT_H_
 

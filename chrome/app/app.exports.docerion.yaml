@@ -1,0 +1,4 @@
+# Docerion header of app.exports.
+type: config
+title: Mac linker exported symbol list
+summary: Lists the symbols that remain globally visible when linking the Mac browser and helper executables, with all other symbols treated as hidden.

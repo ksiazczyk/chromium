@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chrome/app/android
+summary: Defines extra allowed includes for specific files to fix layering violations in the Android app directory.

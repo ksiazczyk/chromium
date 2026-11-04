@@ -1,0 +1,4 @@
+# Docerion header of helper-gpu-entitlements.plist.
+type: config
+title: GPU helper process entitlements
+summary: macOS entitlements plist granting the GPU helper process permission to use just-in-time compilation.

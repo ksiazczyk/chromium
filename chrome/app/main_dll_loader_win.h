@@ -4,6 +4,12 @@
 
 // This file defines a class to load the main DLL of a Chrome process.
 
+// ---docerion
+// type: source
+// title: Windows main DLL loader interface
+// summary: Declares the MainDllLoader class and factory that load and launch the main Chrome DLL on Windows.
+// ---
+
 #ifndef CHROME_APP_MAIN_DLL_LOADER_WIN_H_
 #define CHROME_APP_MAIN_DLL_LOADER_WIN_H_
 

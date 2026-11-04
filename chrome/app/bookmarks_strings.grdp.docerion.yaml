@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_strings.grdp.
+type: asset
+title: Bookmarks UI strings
+summary: Grit part providing user-facing strings for the bookmarks bar, imported folders, managed bookmarks and bookmark context menus across platforms.

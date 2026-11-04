@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exit code watcher implementation
+// summary: Implements ExitCodeWatcher, which waits for a process to exit on a background thread and records its exit code in a sparse stability histogram.
+// ---
+
 #include "chrome/app/exit_code_watcher_win.h"
 
 #include <windows.h>

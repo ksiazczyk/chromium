@@ -1,0 +1,4 @@
+# Docerion header of chrome_dll.ver.
+type: config
+title: Chrome DLL version info properties
+summary: Version info properties setting the internal name and original filename used for the chrome.dll binary.

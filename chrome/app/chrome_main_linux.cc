@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux Chrome main helpers
+// summary: Appends extra command-line flags from CHROME_EXTRA_FLAGS environment variables and detects the fallback Chrome channel on Linux.
+// ---
+
 #include "chrome/app/chrome_main_linux.h"
 
 #include <optional>

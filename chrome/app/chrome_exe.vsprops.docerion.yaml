@@ -1,0 +1,4 @@
+# Docerion header of chrome_exe.vsprops.
+type: config
+title: chrome_exe Visual Studio build property sheet
+summary: Visual Studio property sheet configuring compiler, linker, and resource tool settings for building chrome.exe.

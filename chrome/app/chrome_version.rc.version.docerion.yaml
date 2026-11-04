@@ -1,0 +1,4 @@
+# Docerion header of chrome_version.rc.version.
+type: config
+title: Windows version resource template
+summary: Template for the Windows VS_VERSION_INFO resource, with placeholders for version numbers, company, and product names that are filled in during the build.

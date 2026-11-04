@@ -1,0 +1,4 @@
+# Docerion header of framework.exports.
+type: config
+title: Mac framework exported symbol list
+summary: Lists the symbol names that remain globally visible when linking the Mac framework, with all other symbols treated as hidden.

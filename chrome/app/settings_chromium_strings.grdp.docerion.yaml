@@ -1,0 +1,4 @@
+# Docerion header of settings_chromium_strings.grdp.
+type: data
+title: Chromium settings strings
+summary: Grit part with Chromium-branded strings for the Settings UI, including about page, update status, autofill, and default browser texts.

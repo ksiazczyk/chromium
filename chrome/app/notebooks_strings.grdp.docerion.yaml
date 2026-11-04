@@ -1,0 +1,4 @@
+# Docerion header of notebooks_strings.grdp.
+type: data
+title: Notebooks strings
+summary: Grit part defining UI strings for the Notebooks feature, such as the create-notebook button, for inclusion in generated_resources.grd.

@@ -1,0 +1,4 @@
+# Docerion header of chrome_dll.rc.
+type: source
+title: Chrome DLL Windows resource script
+summary: Windows resource script for chrome.dll defining keyboard accelerators and other resources compiled into the browser DLL.

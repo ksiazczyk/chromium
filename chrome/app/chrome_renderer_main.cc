@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome renderer process entry point
+// summary: Entry point for the Chrome renderer process, setting crash keys and startup timestamps, verifying module versions, and launching ContentMain with ChromeMainDelegate.
+// ---
+
 #include <stdint.h>
 
 #include <utility>

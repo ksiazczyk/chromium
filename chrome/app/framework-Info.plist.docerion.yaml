@@ -1,0 +1,4 @@
+# Docerion header of framework-Info.plist.
+type: config
+title: Mac framework bundle Info.plist
+summary: Property list defining bundle metadata such as identifier and package type for the Chromium framework on macOS.

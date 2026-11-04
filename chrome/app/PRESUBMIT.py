@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for chrome/app
+# summary: Presubmit script that warns about PRODUCT_NAME placeholders and hardcoded Chrome or Chromium brand names in generated resource files.
+# ---
+
 """Presubmit script for changes affecting chrome/app/
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -1,0 +1,4 @@
+# Docerion header of chrome_main_mac.mm.
+type: source
+title: Mac Chrome main helper implementation
+summary: Sets framework and outer app bundle overrides and detects system or third-party launched helper processes on macOS.

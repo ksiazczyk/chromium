@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows executable main entry point header
+// summary: Header declaring export macros for the Windows executable main entry point.
+// ---
+
 #ifndef CHROME_APP_CHROME_EXE_MAIN_WIN_H_
 #define CHROME_APP_CHROME_EXE_MAIN_WIN_H_
 

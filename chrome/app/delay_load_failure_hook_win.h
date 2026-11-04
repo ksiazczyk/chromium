@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delay-load failure hook header
+// summary: Declares DisableDelayLoadFailureHooksForMainExecutable, called early in process startup to disable delay-load failure hooks for the main EXE.
+// ---
+
 #ifndef CHROME_APP_DELAY_LOAD_FAILURE_HOOK_WIN_H_
 #define CHROME_APP_DELAY_LOAD_FAILURE_HOOK_WIN_H_
 

@@ -7,6 +7,12 @@
 // Used by chrome_exe.rc
 //
 
+// ---docerion
+// type: source
+// title: Resource identifiers for chrome_exe.rc
+// summary: Visual C++ generated include file defining resource value constants used by chrome_exe.rc.
+// ---
+
 // Next default values for new objects
 //
 #ifdef APSTUDIO_INVOKED

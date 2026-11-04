@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac Chrome main helper declarations
+// summary: Declares macOS bundle setup and detection of helper apps launched directly by the system or third parties.
+// ---
+
 #ifndef CHROME_APP_CHROME_MAIN_MAC_H_
 #define CHROME_APP_CHROME_MAIN_MAC_H_
 

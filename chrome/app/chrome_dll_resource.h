@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome DLL resource ID definitions
+// summary: Defines resource identifiers for the Chrome DLL, including the main frame, throbber icons, and channel-specific icon IDs.
+// ---
+
 #ifndef CHROME_APP_CHROME_DLL_RESOURCE_H_
 #define CHROME_APP_CHROME_DLL_RESOURCE_H_
 

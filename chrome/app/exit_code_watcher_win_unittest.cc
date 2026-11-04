@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExitCodeWatcher unit tests
+// summary: Unit tests for ExitCodeWatcher covering initialization with different handle access rights, watching exited processes, and stopping the watcher.
+// ---
+
 #include "chrome/app/exit_code_watcher_win.h"
 
 #include <stdint.h>

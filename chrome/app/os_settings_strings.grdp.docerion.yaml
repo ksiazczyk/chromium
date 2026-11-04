@@ -1,0 +1,4 @@
+# Docerion header of os_settings_strings.grdp.
+type: data
+title: ChromeOS settings strings
+summary: Grit part with UI strings for ChromeOS Settings pages, including shared labels, banners, and search box accessibility text.

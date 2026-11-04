@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura executable main entry point
+// summary: Main entry point for the Chromium executable on Aura-based platforms, forwarding arguments to ChromeMain.
+// ---
+
 #include "build/build_config.h"
 
 // The entry point for all invocations of Chromium, browser and renderer. On

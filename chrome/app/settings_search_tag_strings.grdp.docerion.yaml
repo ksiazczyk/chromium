@@ -1,0 +1,4 @@
+# Docerion header of settings_search_tag_strings.grdp.
+type: data
+title: Settings search tag strings
+summary: Grit part with alternate search keywords for browser settings search, holding synonyms for existing IDS_SETTINGS strings.

@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Unit tests for the chrome/app presubmit checks
+summary: Unit tests verifying that the brand-name check in PRESUBMIT.py flags literal Chrome and Chromium text and ignores examples inside ex tags.

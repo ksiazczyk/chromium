@@ -1,0 +1,4 @@
+# Docerion header of other.ver.
+type: config
+title: Other version resource template
+summary: Small version resource template setting INTERNAL_NAME and ORIGINAL_FILENAME to other_test_file, likely used as a test placeholder.

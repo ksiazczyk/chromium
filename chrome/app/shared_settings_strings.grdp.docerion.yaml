@@ -1,0 +1,4 @@
+# Docerion header of shared_settings_strings.grdp.
+type: data
+title: Shared settings UI strings
+summary: Grit-part XML with settings UI strings shared by browser and ChromeOS settings, covering subpage navigation and caption preferences.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for the bookmarks string context image hashes
+summary: Explains that the directory stores SHA-1 hashes of context images that help translators translate Chrome bookmarks UI strings, with a link to further instructions.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 
