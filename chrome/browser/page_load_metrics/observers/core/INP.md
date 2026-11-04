@@ -1,3 +1,13 @@
+---
+type: reference
+title: Interaction to Next Paint (INP) metric documentation
+summary: Describes how the experimental Interaction to Next Paint metric is computed in the renderer, reported in web performance APIs, merged across frames, and logged to UKM and UMA.
+relations:
+  - references /chrome/browser/page_load_metrics/passing_data_from_renderer_to_browser.md
+  - documents /third_party/blink/renderer/core/timing/event_timing.cc
+  - references /third_party/blink/renderer/core/timing/window_performance.cc
+---
+
 # Interaction to Next Paint
 
 [Interaction to Next Paint](https://web.dev/inp) is an experimental metric that

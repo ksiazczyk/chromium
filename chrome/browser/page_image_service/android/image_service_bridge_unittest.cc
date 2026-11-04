@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageServiceBridge unit tests
+// summary: Tests image URL fetching with a mock ImageService, covering account-bound data and invalid URL cases.
+// ---
+
 #include "chrome/browser/page_image_service/android/image_service_bridge.h"
 
 #include "base/memory/weak_ptr.h"

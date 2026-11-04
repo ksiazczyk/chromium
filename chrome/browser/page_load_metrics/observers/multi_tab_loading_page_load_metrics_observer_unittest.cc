@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi tab loading page load metrics observer unit tests
+// summary: Unit tests that verify multi-tab loading page load metrics histograms using a test observer with configurable tab counts and foreground or background states.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/multi_tab_loading_page_load_metrics_observer.h"
 
 #include <memory>

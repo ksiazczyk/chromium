@@ -1,0 +1,4 @@
+# Docerion header of is_animated.html.
+type: test
+title: Animated image LCP test page
+summary: Test page that loads an animated image and waits for a largest-contentful-paint entry via PerformanceObserver.

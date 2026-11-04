@@ -1,0 +1,4 @@
+# Docerion header of lcp_breakdown_timings_preloaded_cacheable_images.html.
+type: test
+title: 'LCP Breakdown Timings: Preloaded Cacheable Images'
+summary: Test page that preloads a cacheable image to measure LCP breakdown timings.

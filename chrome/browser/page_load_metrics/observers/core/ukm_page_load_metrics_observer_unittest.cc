@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM page load metrics observer unit tests
+// summary: Unit tests for the UKM page load metrics observer covering metric recording across navigation and page load scenarios.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/core/ukm_page_load_metrics_observer.h"
 
 #include <map>

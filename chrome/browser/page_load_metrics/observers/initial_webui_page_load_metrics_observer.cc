@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial WebUI page load metrics observer implementation
+// summary: Implements the metrics observer for Initial WebUI page loads, recording paint, navigation timing, abort, and UKM metrics for WebUI shown in top chrome.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/initial_webui_page_load_metrics_observer.h"
 
 #include "base/barrier_closure.h"

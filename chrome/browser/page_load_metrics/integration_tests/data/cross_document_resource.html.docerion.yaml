@@ -1,0 +1,4 @@
+# Docerion header of cross_document_resource.html.
+type: test
+title: Cross-document resource test page
+summary: Minimal test page loading blue.png to exercise cross-document resource loading in page load metrics tests.

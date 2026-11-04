@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol page load metrics observer implementation
+// summary: Records page load timing histograms split by network protocol, covering HTTP/1.1, HTTP/2 and QUIC while skipping prerendered and hidden loads.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/protocol_page_load_metrics_observer.h"
 
 #include "components/page_load_metrics/browser/page_load_metrics_util.h"

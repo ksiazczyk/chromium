@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-tab loading page load metrics observer
+// summary: Records core page load timing histograms grouped by the number of other loading tabs and the total tab count.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/multi_tab_loading_page_load_metrics_observer.h"
 
 #include "base/metrics/histogram_functions.h"

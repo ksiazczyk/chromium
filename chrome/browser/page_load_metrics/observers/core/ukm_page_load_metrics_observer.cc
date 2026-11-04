@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM page load metrics observer implementation
+// summary: Implements the browser-side observer that records top-level page load metrics such as timing and resource data in UKM.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/core/ukm_page_load_metrics_observer.h"
 
 #include <cmath>

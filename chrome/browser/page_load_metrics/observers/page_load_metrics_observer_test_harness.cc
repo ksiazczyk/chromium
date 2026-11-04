@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page load metrics observer test harness implementation
+// summary: Implements the shared test harness that sets up web contents, UKM source URL recording and observer registration for Chrome page load metrics observer tests.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/page_load_metrics_observer_test_harness.h"
 
 #include <string>

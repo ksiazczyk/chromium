@@ -1,0 +1,4 @@
+# Docerion header of had_recent_input.html.
+type: test
+title: Layout instability hadRecentInput CLS test page
+summary: Test page shifting an element after a pointer event to verify the hadRecentInput flag on layout-shift entries for CLS.

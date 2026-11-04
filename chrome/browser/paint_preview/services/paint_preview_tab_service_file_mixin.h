@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview tab service file mixin declaration
+// summary: Declares PaintPreviewTabServiceFileMixin, which overrides proto retrieval so unused paint previews expire after 72 hours by default.
+// ---
+
 #ifndef CHROME_BROWSER_PAINT_PREVIEW_SERVICES_PAINT_PREVIEW_TAB_SERVICE_FILE_MIXIN_H_
 #define CHROME_BROWSER_PAINT_PREVIEW_SERVICES_PAINT_PREVIEW_TAB_SERVICE_FILE_MIXIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GWS abandoned page load metrics observer browser tests
+// summary: Browser tests for the GWS abandoned page load metrics observer, covering abandon reasons, navigation milestones, and search result page redirects.
+// ---
+
 #include "components/page_load_metrics/google/browser/gws_abandoned_page_load_metrics_observer.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust service delegate implementation
+// summary: Implements the merchant trust delegate that supplies per-profile site engagement scores for merchant trust information in page info.
+// ---
+
 #include "chrome/browser/page_info/merchant_trust_service_delegate.h"
 
 #include "chrome/browser/page_info/page_info_features.h"

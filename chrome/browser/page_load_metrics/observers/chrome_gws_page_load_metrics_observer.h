@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome GWS page load metrics observer header
+// summary: Declares the Chrome-specific GWS page load metrics observer that supplies //chrome-only information such as new tab page origin and sign-in status.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_CHROME_GWS_PAGE_LOAD_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_CHROME_GWS_PAGE_LOAD_METRICS_OBSERVER_H_
 

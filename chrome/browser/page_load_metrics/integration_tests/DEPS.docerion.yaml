@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for test-specific dependencies
+summary: Grants specific test files access to internal Blink and content headers needed for cross-document reuse and interaction-to-next-paint tests.

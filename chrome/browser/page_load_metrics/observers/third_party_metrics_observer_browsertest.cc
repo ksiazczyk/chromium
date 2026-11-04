@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Third-party metrics observer browser tests
+// summary: Browser tests verifying third-party metrics histograms for cookie reads, storage access, and subframe first and largest contentful paint.
+// ---
+
 #include "components/page_load_metrics/browser/observers/third_party_metrics_observer.h"
 
 #include "base/test/metrics/histogram_tester.h"

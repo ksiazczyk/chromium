@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Initial WebUI page load metrics observer browser tests
+// summary: Browser tests verifying the UKM and histogram metrics recorded for Initial WebUI page loads, including the WebUI toolbar.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/initial_webui_page_load_metrics_observer.h"
 
 #include <map>

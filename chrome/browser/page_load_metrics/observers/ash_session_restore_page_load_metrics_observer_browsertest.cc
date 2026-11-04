@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash session restore page load metrics observer browser tests
+// summary: Browser tests verifying first input delay recording for restored browser windows after a full Ash session restore on ChromeOS.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/ash_session_restore_page_load_metrics_observer.h"
 
 #include <memory>

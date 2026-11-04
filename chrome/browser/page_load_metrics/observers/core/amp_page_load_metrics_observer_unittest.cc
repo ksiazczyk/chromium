@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AMP page load metrics observer unit tests
+// summary: Unit tests for the AMP page load metrics observer that validate histogram and UKM reporting across navigation scenarios, parameterized for fenced frames and prerendering.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/core/amp_page_load_metrics_observer.h"
 
 #include <memory>

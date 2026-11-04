@@ -1,0 +1,4 @@
+# Docerion header of lcp_type_video_data_uri.html.
+type: test
+title: LCP video data URI test page
+summary: Test page embedding a base64-encoded webm video as a data URI and waiting for largest-contentful-paint entries to be emitted.

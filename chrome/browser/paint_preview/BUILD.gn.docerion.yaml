@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Paint preview build targets
+summary: Defines GN build targets for the paint preview tab service plus its browser and unit tests in Chrome.

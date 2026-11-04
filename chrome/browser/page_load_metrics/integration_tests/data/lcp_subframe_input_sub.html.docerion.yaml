@@ -1,0 +1,4 @@
+# Docerion header of lcp_subframe_input_sub.html.
+type: test
+title: LCP subframe input subframe page
+summary: Subframe test page that loads images and observes largest-contentful-paint entries across two test steps.

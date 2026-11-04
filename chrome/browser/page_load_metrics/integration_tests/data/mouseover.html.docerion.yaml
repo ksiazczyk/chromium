@@ -1,0 +1,4 @@
+# Docerion header of mouseover.html.
+type: test
+title: Mouseover LCP test page
+summary: Test page that loads images or background images on mouseover events and counts largest-contentful-paint entries.

@@ -1,0 +1,4 @@
+# Docerion header of lcp_breakdown_timings_written_as_html_images.html.
+type: test
+title: 'LCP Breakdown Timings: Image Added As HTML Content'
+summary: Test page that adds an image via innerHTML or outerHTML script to measure LCP breakdown timings.

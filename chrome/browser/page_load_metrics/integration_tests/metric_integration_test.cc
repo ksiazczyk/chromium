@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metric integration test fixture implementation
+// summary: Implements the MetricIntegrationTest base class with test server, tracing, UKM and UMA helper methods.
+// ---
+
 #include "chrome/browser/page_load_metrics/integration_tests/metric_integration_test.h"
 
 #include <string_view>

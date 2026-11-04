@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Largest Contentful Paint browser tests
+// summary: End-to-end browser tests verifying the Largest Contentful Paint metric via trace events, UKM and UMA.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <memory>

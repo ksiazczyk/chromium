@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedPaintPreview
+// summary: Checks for and displays paint previews associated with a tab by overlaying the content view, managing the player, toolbar tokens, and fade-out behavior.
+// ---
+
 package org.chromium.chrome.browser.paint_preview;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

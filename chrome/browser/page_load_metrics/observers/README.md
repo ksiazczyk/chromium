@@ -1,3 +1,13 @@
+---
+type: readme
+title: 'Tracking page load metrics: implementing a PageLoadMetricsObserver'
+summary: Guide to implementing a PageLoadMetricsObserver in Chrome, covering observer lifetimes, tracked page loads, and best practices for UMA and UKM metrics.
+relations:
+  - references /chrome/browser/page_load_metrics/observers/android_page_load_metrics_observer.cc
+  - references /chrome/browser/page_load_metrics/observers/https_engagement_metrics/https_engagement_page_load_metrics_observer.cc
+  - references /components/page_load_metrics/browser/observers/assert_page_load_metrics_observer.h
+---
+
 # Tracking Page Load Metrics In Chrome: Implementing a PageLoadMetricsObserver
 
 Page load metrics can be tracked in chromium by implementing the

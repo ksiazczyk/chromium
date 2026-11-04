@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GWS page load metrics observer browser tests
+// summary: Browser tests for the GWS page load metrics observer covering search result page loads, preloading, prerendering, and related metrics.
+// ---
+
 #include "components/page_load_metrics/google/browser/gws_page_load_metrics_observer.h"
 
 #include "base/location.h"

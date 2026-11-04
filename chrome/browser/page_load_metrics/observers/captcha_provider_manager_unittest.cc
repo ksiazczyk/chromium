@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captcha provider manager unit tests
+// summary: Unit tests verifying URL pattern matching for hosts, paths, subdomain wildcards and path wildcards in CaptchaProviderManager.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/captcha_provider_manager.h"
 
 #include <vector>

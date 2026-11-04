@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheme page load metrics observer implementation
+// summary: Records page load timing histograms split by URL scheme, comparing HTTP and HTTPS page load performance while skipping prerendered loads.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/scheme_page_load_metrics_observer.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome page load metrics initialization
+// summary: Implements initialization of page load metrics for WebContents, wiring up the Chrome-specific page load metrics observers.
+// ---
+
 #include "chrome/browser/page_load_metrics/page_load_metrics_initialize.h"
 
 #include <memory>

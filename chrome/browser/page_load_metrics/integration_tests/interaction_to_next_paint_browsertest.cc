@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interaction to Next Paint browser test
+// summary: Browser test verifying Interaction to Next Paint values agree across trace EventTiming data, UKM and the web-exposed metric.
+// ---
+
 #include <string_view>
 
 #include "base/strings/string_number_conversions.h"

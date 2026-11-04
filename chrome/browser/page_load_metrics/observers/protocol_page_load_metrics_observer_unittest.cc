@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol page load metrics observer unit tests
+// summary: Unit tests verifying that protocol page load metrics histograms are recorded for HTTP/1.1, HTTP/2 and QUIC navigations and not for other protocols.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/protocol_page_load_metrics_observer.h"
 
 #include <memory>

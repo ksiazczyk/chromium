@@ -1,0 +1,4 @@
+# Docerion header of inp_report_before_navigating_away.html.
+type: test
+title: INP report before navigating away test page
+summary: Test page with a link used to check interaction-to-next-paint reporting before navigating away.

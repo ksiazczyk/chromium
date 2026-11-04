@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captcha metrics observer unit tests
+// summary: Unit tests checking captcha frame load and activation histograms and UKM entries across captcha providers and agent contexts.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/captcha_metrics_observer.h"
 
 #include <memory>

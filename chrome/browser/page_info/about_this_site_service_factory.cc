@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AboutThisSiteService factory implementation
+// summary: Implements the profile-keyed factory that builds AboutThisSiteService instances from the Optimization Guide and Template URL services, honoring feature flags.
+// ---
+
 #include "chrome/browser/page_info/about_this_site_service_factory.h"
 
 #include <memory>

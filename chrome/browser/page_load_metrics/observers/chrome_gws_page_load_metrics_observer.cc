@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome GWS page load metrics observer implementation
+// summary: Implements Chrome-specific hooks for the GWS page load metrics observer, detecting new tab page origins, startup state, incognito, isolated profiles, and sign-in.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/chrome_gws_page_load_metrics_observer.h"
 
 #include <string>

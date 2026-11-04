@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaintPreviewTabServiceTest
+// summary: Instrumented JUnit tests verifying that the Paint Preview tab service captures and deletes tab content when Chrome activities are paused or stopped.
+// ---
+
 package org.chromium.chrome.browser.paint_preview.services;
 
 import static org.junit.Assert.assertEquals;

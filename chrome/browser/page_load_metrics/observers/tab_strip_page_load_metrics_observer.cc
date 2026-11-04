@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip page load metrics observer implementation
+// summary: Implements a page load metrics observer that logs UMA histograms about tab position and elapsed time since a tab was last active or created when a page load starts.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/tab_strip_page_load_metrics_observer.h"
 
 #include "base/metrics/histogram_functions.h"

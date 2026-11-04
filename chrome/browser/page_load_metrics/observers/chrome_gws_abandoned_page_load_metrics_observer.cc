@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome GWS abandoned page load metrics observer implementation
+// summary: Implements the Chrome-specific abandoned Google search page load metrics observer, adding incognito, isolated profile, cache, and RTT suffixes to UKM metrics.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/chrome_gws_abandoned_page_load_metrics_observer.h"
 
 #include <string>

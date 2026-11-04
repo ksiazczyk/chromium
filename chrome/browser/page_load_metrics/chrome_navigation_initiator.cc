@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome navigation initiator implementation
+// summary: Implements MarkNavigationServedBySearchPrefetch, which flags a navigation handle as served by legacy search prefetch.
+// ---
+
 #include "chrome/browser/page_load_metrics/chrome_navigation_initiator.h"
 
 #include "components/page_load_metrics/browser/navigation_handle_user_data.h"

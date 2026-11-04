@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page load metrics browser tests
+// summary: Browser test checking that first contentful paint and largest contentful paint histograms are recorded when the new tab page loads.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/new_tab_page_page_load_metrics_observer.h"
 
 #include "base/test/metrics/histogram_tester.h"

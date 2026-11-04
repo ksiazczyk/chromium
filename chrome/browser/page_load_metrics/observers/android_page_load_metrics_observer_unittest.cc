@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android page load metrics observer unit tests
+// summary: Unit tests for AndroidPageLoadMetricsObserver that use a mock network quality tracker to verify reported metrics.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/android_page_load_metrics_observer.h"
 
 #include "base/byte_size.h"

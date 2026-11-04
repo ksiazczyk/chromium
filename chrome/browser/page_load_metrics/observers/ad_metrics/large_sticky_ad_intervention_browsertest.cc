@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Large sticky ad intervention browser tests
+// summary: Browser tests verifying that large sticky ad violations trigger ad blocking interventions and show the subresource filter UI.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/subresource_filter/subresource_filter_browser_test_harness.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

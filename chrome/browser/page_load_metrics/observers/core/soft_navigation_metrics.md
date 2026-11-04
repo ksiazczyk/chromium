@@ -1,3 +1,13 @@
+---
+type: reference
+title: Soft navigation metrics for LCP, CLS and INP
+summary: Explains how soft navigation LCP, CLS and INP metrics are computed in the renderer, passed to the browser and recorded in UKM.
+relations:
+  - references /chrome/browser/page_load_metrics/observers/core/CLS.md
+  - references /chrome/browser/page_load_metrics/observers/core/INP.md
+  - references /chrome/browser/page_load_metrics/observers/core/LCP.md
+---
+
 Soft navigation metrics are top-level UKM metrics for
 [soft navigations](https://developer.chrome.com/blog/soft-navigations-experiment/).
 Currently they are LCP, CLS and INP. The difference is that page load metrics

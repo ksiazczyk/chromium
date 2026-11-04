@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page initiated page load metrics observer implementation
+// summary: Implements a page load metrics observer that records paint and prerender activation timings for navigations initiated from the New Tab Page.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/new_tab_page_initiated_page_load_metrics_observer.h"
 
 #include "chrome/browser/page_load_metrics/chrome_navigation_initiator.h"

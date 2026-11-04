@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageServiceBridge native JNI implementation
+// summary: Implements the native side of the Java bridge that fetches salient image URLs through the page image service.
+// ---
+
 #include "chrome/browser/page_image_service/android/image_service_bridge.h"
 
 #include "base/android/callback_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document write page load metrics observer unit tests
+// summary: Unit tests verifying that document.write block histograms are logged only when the document write loading behavior flag is present.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/document_write_page_load_metrics_observer.h"
 
 #include <memory>

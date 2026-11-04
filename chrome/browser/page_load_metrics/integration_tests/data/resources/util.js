@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript helpers for page load metrics integration tests
+// summary: Utility functions that wait for layout, observe layout-shift and largest-contentful-paint entries, read resource timing, and insert images for integration tests.
+// ---
+
 // Returns a promise that is resolved when the specified number of animation
 // frames has occurred.
 async function waitUntilAfterNextLayout() {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captcha metrics observer class declaration
+// summary: Declares CaptchaMetricsObserver and its CaptchaFrameAgentContext enum for recording metrics about captcha challenges shown on a page.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_CAPTCHA_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_CAPTCHA_METRICS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SERP page load metrics observer browser tests
+// summary: Browser tests verifying SERP detection histograms and extension telemetry notifications for default search engine results pages.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/serp_page_load_metrics_observer.h"
 
 #include "base/test/metrics/histogram_tester.h"

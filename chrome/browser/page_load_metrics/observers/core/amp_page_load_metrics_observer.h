@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AMP page load metrics observer header
+// summary: Declares the AMPPageLoadMetricsObserver class, which records performance metrics for AMP documents in main frames and AMP documents loaded in subframes.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_CORE_AMP_PAGE_LOAD_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_CORE_AMP_PAGE_LOAD_METRICS_OBSERVER_H_
 

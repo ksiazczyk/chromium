@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview tab service implementation
+// summary: Implements the per-tab paint preview service that captures, stores, deletes, and audits paint previews keyed by tab ID, with size limits and Android JNI bindings.
+// ---
+
 #include "chrome/browser/paint_preview/services/paint_preview_tab_service.h"
 
 #include <algorithm>

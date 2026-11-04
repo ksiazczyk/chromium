@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI controller for About This Site
+// summary: Android JNI glue that exposes About This Site feature state, icon resource IDs, and serialized site info metadata to the Java page info UI.
+// ---
+
 #include <jni.h>
 
 #include "base/android/jni_array.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for core page load metrics observers
+summary: OWNERS file that includes the ownership rules from the components page load metrics core observers directory for code review approval.

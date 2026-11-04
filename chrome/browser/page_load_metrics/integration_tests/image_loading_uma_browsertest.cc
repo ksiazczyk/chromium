@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image loading UMA browser test
+// summary: Browser test using a controllable HTTP test server to serve mock pages and images and verify Renderer.Images UMA histograms.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/path_service.h"
 #include "base/strings/stringprintf.h"

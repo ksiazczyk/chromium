@@ -1,0 +1,4 @@
+# Docerion header of lcp_type.html.
+type: test
+title: LCP type test page
+summary: Test page providing helper functions to add images and text elements for largest contentful paint type testing.

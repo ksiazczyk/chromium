@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page load metrics initialization unit tests
+// summary: Unit tests for Chrome's page load metrics initialization, using fake global features and mock browser window and tab strip components.
+// ---
+
 #include "chrome/browser/page_load_metrics/page_load_metrics_initialize.h"
 
 #include <memory>

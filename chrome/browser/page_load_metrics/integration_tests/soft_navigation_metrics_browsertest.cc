@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Soft navigation metrics browser tests
+// summary: End-to-end browser tests verifying soft navigation metrics across UKM, UMA and trace data.
+// ---
+
 #include <cstdint>
 #include <map>
 #include <memory>

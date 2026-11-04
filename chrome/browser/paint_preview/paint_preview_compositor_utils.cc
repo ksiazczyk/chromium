@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI utils for compositor warmup
+// summary: Android JNI glue that warms up or stops the shared paint preview compositor service.
+// ---
+
 #include "components/paint_preview/browser/warm_compositor.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

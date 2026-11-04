@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About This Site tab helper header
+// summary: Declares a WebContentsObserver tab helper that fetches AboutThisSite hints from the Optimization Guide and exposes them for the side panel entry.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_INFO_ABOUT_THIS_SITE_TAB_HELPER_H_
 #define CHROME_BROWSER_PAGE_INFO_ABOUT_THIS_SITE_TAB_HELPER_H_
 

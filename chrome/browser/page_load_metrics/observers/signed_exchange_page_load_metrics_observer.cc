@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange page load metrics observer implementation
+// summary: Implements an observer recording signed exchange load timing histograms, split by cache state and AMP or web package cache serving.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/signed_exchange_page_load_metrics_observer.h"
 
 #include "base/time/time.h"

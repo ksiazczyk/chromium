@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First Scroll Delay browser test
+// summary: Browser test simulating a wheel scroll and verifying the First Scroll Delay metric is recorded in UKM.
+// ---
+
 #include <vector>
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview tab service factory implementation
+// summary: Implements a keyed service factory that builds one PaintPreviewTabService per profile key, skipping off-the-record profiles, with Android JNI access.
+// ---
+
 #include "chrome/browser/paint_preview/services/paint_preview_tab_service_factory.h"
 
 #include <utility>

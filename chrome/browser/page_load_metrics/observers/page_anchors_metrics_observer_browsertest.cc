@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page anchors metrics observer browser tests
+// summary: Browser tests verifying UKM anchor metrics recorded by the page anchors observer using an HTTPS test server, feature parameters, and a test UKM recorder.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/page_anchors_metrics_observer.h"
 
 #include <string_view>

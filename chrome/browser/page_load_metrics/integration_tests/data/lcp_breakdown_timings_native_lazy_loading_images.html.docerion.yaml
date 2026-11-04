@@ -1,0 +1,4 @@
+# Docerion header of lcp_breakdown_timings_native_lazy_loading_images.html.
+type: test
+title: 'LCP Breakdown Timings: Images With Native Lazy Loading Tag'
+summary: Test page with a natively lazy-loaded image to measure LCP breakdown timings.

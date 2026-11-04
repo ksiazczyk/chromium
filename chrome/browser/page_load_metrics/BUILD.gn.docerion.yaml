@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for Chrome page load metrics
+summary: Defines GN source sets, public headers, and dependencies for the Chrome page load metrics observers and initialization code.

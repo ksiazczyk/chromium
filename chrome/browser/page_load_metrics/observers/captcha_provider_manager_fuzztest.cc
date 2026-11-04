@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captcha provider manager fuzz tests
+// summary: Fuzz tests ensuring SetCaptchaProviders and IsCaptchaUrl do not crash on arbitrary provider patterns and URLs.
+// ---
+
 #include <string>
 #include <vector>
 

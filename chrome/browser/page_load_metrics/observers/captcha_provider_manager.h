@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captcha provider manager class declaration
+// summary: Declares the CaptchaProvider enum and the CaptchaProviderManager singleton that stores captcha URL patterns supplied by the component updater.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_CAPTCHA_PROVIDER_MANAGER_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_CAPTCHA_PROVIDER_MANAGER_H_
 

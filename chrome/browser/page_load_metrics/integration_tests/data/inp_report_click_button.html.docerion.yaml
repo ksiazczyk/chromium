@@ -1,0 +1,4 @@
+# Docerion header of inp_report_click_button.html.
+type: test
+title: INP click button test page
+summary: Test page with a button used to trigger and verify interaction-to-next-paint reporting on click.

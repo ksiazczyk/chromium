@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info feature checks implementation
+// summary: Implements browser-side checks for the About This Site and Merchant Trust features based on locale and country.
+// ---
+
 #include "chrome/browser/page_info/page_info_features.h"
 
 #include "base/feature_list.h"

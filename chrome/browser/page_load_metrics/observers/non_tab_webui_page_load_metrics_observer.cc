@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-tab WebUI page load metrics observer implementation
+// summary: Implements a page load metrics observer recording FCP and LCP histograms for non-tab WebUI surfaces such as side panel content and WebUI bubbles.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/non_tab_webui_page_load_metrics_observer.h"
 
 #include <optional>

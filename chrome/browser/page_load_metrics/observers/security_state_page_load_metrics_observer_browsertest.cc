@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security state page load metrics browser tests
+// summary: Browser tests verifying security state page load metrics histograms, including site engagement, safety tips, and prerendered page activation.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/security_state_page_load_metrics_observer.h"
 
 #include <memory>

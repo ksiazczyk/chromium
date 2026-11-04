@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AboutThisSiteService factory header
+// summary: Declares the AboutThisSiteServiceFactory, a profile-keyed service factory that constructs and retrieves per-profile AboutThisSiteService instances.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_INFO_ABOUT_THIS_SITE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PAGE_INFO_ABOUT_THIS_SITE_SERVICE_FACTORY_H_
 

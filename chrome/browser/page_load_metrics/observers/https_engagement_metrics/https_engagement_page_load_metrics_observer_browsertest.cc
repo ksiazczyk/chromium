@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the HTTPS engagement metrics observer
+// summary: In-process browser tests verifying engagement time histograms for HTTP and HTTPS navigations, including expired certificates and background tabs.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/https_engagement_metrics/https_engagement_page_load_metrics_observer.h"
 
 #include <memory>

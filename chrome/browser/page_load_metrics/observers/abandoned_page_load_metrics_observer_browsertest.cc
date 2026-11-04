@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Abandoned page load metrics observer browser tests
+// summary: Browser tests verifying that the abandoned page load metrics observer records metrics at navigation milestones and for various abandon reasons.
+// ---
+
 #include "components/page_load_metrics/browser/observers/abandoned_page_load_metrics_observer.h"
 
 #include <vector>

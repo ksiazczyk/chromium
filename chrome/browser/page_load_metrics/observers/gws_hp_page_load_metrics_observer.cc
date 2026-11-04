@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google homepage page load metrics observer implementation
+// summary: Implements an observer that records parse, connect, and DNS lookup timing histograms for navigations to the Google search homepage.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/gws_hp_page_load_metrics_observer.h"
 
 #include <string>

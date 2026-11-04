@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captcha metrics observer implementation
+// summary: Implements CaptchaMetricsObserver, logging histograms and UKM for captcha frame loads and activations together with the active agent context.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/captcha_metrics_observer.h"
 
 #include "base/metrics/histogram_functions.h"

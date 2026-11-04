@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram suffix constants for page load metrics observers
+// summary: Defines shared histogram name suffix constants for paint, parse, and document timing metrics used by multiple page load metrics observers.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/histogram_suffixes.h"
 
 namespace internal {

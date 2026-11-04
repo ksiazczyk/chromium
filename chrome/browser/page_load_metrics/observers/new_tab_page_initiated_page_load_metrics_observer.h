@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page initiated page load metrics observer header
+// summary: Declares the page load metrics observer class that records performance metrics for navigations initiated from the New Tab Page.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_NEW_TAB_PAGE_INITIATED_PAGE_LOAD_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_PAGE_LOAD_METRICS_OBSERVERS_NEW_TAB_PAGE_INITIATED_PAGE_LOAD_METRICS_OBSERVER_H_
 

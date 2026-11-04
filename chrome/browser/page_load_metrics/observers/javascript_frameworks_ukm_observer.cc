@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript frameworks UKM observer implementation
+// summary: Implements the observer that records UKM metrics about detected JavaScript frameworks and content management systems when a page load completes.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/javascript_frameworks_ukm_observer.h"
 
 #include "base/feature_list.h"

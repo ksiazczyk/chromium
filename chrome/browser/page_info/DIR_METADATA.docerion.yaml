@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for page_info
+summary: Points the page_info directory to the shared metadata mixins defined in chrome/browser/ui/page_info.

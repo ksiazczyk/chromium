@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LCP critical path predictor page load metrics observer unit tests
+// summary: Unit tests for the LCP critical path predictor metrics observer using the page load metrics observer test harness.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/lcp_critical_path_predictor_page_load_metrics_observer.h"
 
 #include <map>

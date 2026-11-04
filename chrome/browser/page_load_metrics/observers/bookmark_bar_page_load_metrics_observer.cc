@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar page load metrics observer implementation
+// summary: Implements BookmarkBarMetricsObserver, recording paint timing and prerender activation histograms for navigations triggered by the bookmark bar.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/bookmark_bar_page_load_metrics_observer.h"
 
 #include "chrome/browser/page_load_metrics/chrome_navigation_initiator.h"

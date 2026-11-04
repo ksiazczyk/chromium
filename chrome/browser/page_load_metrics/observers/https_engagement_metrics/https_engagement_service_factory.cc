@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS engagement service factory implementation
+// summary: Implements the profile keyed service factory that creates and provides HttpsEngagementService instances per browser context.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/https_engagement_metrics/https_engagement_service_factory.h"
 
 #include "base/no_destructor.h"

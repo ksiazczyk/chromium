@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google homepage page load metrics observer browser tests
+// summary: Browser tests verifying histogram logging for first and subsequent navigations to the Google search homepage.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/gws_hp_page_load_metrics_observer.h"
 
 #include "base/test/bind.h"

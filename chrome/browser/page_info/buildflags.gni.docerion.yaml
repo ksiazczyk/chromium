@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Page info build flags
+summary: GN arguments file declaring page_info_use_internal_android_resources, which selects internal Android drawables for branded builds.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash session restore page load metrics observer implementation
+// summary: Implements the Ash session restore observer that records first input delay for the first interaction with a restored browser window after login.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/ash_session_restore_page_load_metrics_observer.h"
 
 #include "ash/wm/window_restore/window_restore_util.h"

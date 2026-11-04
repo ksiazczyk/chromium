@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLoadMetrics
+// summary: Java class that receives page load metric updates from native code via JNI and notifies registered observers on the UI thread, defining metric name constants and an Observer interface.
+// ---
+
 package org.chromium.chrome.browser.page_load_metrics;
 
 import org.jni_zero.CalledByNative;

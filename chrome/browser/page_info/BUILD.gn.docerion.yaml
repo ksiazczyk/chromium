@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page info GN build targets and buildflags
+summary: GN build configuration defining the page_info buildflag header, the page_info and impl source sets, and the unit test target for Chrome's page info browser code.

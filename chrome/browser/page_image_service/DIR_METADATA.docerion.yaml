@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for page_image_service
+summary: Points to the shared COMMON_METADATA mixins of //components/page_image_service for this directory.

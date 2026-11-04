@@ -1,0 +1,4 @@
+# Docerion header of one_second_gap.html.
+type: test
+title: Layout instability one second gap test page
+summary: Test page that shifts an element twice with a one second gap to verify the session gap behavior for cumulative layout shift.

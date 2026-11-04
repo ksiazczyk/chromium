@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI page load metrics observer implementation
+// summary: Implements a page load metrics observer that records first contentful paint and largest contentful paint histograms for WebUI navigations, skipping other schemes, fenced frames, and prerenders.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/webui_page_load_metrics_observer.h"
 
 #include "base/logging.h"

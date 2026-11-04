@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: From GWS page load metrics observer unit tests
+// summary: Unit tests covering metric logging of the FromGWS observer, including paint timing, abort reasons, and UKM entries for search-originated loads.
+// ---
+
 #include "chrome/browser/page_load_metrics/observers/from_gws_page_load_metrics_observer.h"
 
 #include <vector>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page image service build definition
+summary: Defines the page_image_service source set and its dependencies on Chrome browser and component targets.

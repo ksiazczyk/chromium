@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview tab service file mixin implementation
+// summary: Implements the tab service file mixin, applying a default 72-hour expiry horizon when reading captured paint preview protos.
+// ---
+
 #include "chrome/browser/paint_preview/services/paint_preview_tab_service_file_mixin.h"
 
 #include <string_view>

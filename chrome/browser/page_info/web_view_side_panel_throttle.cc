@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web view side panel navigation throttle implementation
+// summary: Implements a navigation throttle that intercepts side panel web view navigations and opens disallowed ones in a new browser tab.
+// ---
+
 #include "chrome/browser/page_info/web_view_side_panel_throttle.h"
 
 #include "components/google/core/common/google_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First Input Delay browser test
+// summary: Browser test comparing the First Input Delay reported via the Performance API, UKM, UMA and trace events after a simulated mouse click.
+// ---
+
 #include "base/test/tracing/trace_event_analyzer.h"
 #include "build/build_config.h"
 #include "chrome/browser/page_load_metrics/integration_tests/metric_integration_test.h"

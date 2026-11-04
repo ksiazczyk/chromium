@@ -1,0 +1,4 @@
+# Docerion header of lcp-256x256.png.mock-http-headers.
+type: config
+title: Mock HTTP headers for lcp-256x256.png
+summary: Mock HTTP response headers served for lcp-256x256.png by the test server during page load metrics integration tests.
