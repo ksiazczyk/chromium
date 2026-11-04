@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab Group Home WebUI build configuration
+summary: GN build file defining the build_webui target with static, CSS and TypeScript sources and dependencies for the tab group home WebUI.

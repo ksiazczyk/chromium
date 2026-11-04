@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the updater WebUI
+summary: Defines the build of the updater WebUI, listing its TypeScript, CSS, static files, and Mojo bindings dependencies.

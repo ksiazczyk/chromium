@@ -9,6 +9,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the updater app element
+summary: CSS for the updater app header bar, file selection banner, logo, and content layout.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
 }

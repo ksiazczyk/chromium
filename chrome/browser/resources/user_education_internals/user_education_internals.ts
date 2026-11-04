@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User Education Internals Main Element
+// summary: Lit element implementing the debug page logic, promo and tutorial actions, and Mojo communication with the browser.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_components/help_bubble/help_bubble.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';

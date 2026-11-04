@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo API proxy for TabStrip internals
+// summary: Implements the Mojo-based API proxy that fetches tab strip state from the browser and exposes browser-sent update events.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './tab_strip_internals.mojom-webui.js';
 import type {Container} from './tab_strip_internals.mojom-webui.js';
 

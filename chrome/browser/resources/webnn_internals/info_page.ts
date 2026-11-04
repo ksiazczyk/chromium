@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN info page element
+// summary: Lit element that displays available WebNN execution providers and can force ONNX environment creation on Windows.
+// ---
+
 // <if expr="is_win">
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 

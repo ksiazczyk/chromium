@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater state element
+// summary: Lit element coordinating display of system, user and enterprise companion updater states, including file path decoding and visibility checks.
+// ---
+
 import './updater_state_card.js';
 import './enterprise_companion_state_card.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';

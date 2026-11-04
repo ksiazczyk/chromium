@@ -8,6 +8,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Date filter dialog styles
+summary: Styles the date filter dialog's datetime input grid and labels for the updater event list.
+*/
+
 :host {
   display: block;
 }

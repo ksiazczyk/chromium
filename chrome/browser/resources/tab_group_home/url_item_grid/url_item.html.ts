@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL item element template
+// summary: Lit HTML template for the url-item element, rendering the favicon, title, close button and thumbnail.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {UrlItemElement} from './url_item.js';

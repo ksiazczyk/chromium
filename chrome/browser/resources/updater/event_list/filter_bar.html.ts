@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter bar HTML template
+// summary: Lit HTML template for the filter bar, rendering filter chips, add and clear controls, and dialogs for app, event, outcome, scope, and date filters.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {FilterCategory} from './filter_bar.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type dialog element
+// summary: Lit custom element type-dialog that lists filter categories such as app, event, outcome, scope, and date, and fires type-selection-changed on click.
+// ---
+
 import './filter_dialog.js';
 import '//resources/cr_elements/cr_button/cr_button.js';
 

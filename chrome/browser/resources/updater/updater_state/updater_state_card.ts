@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater state card element
+// summary: Lit element for the updater state card that formats dates, localizes scope headings and opens the updater install directory on click.
+// ---
+
 import '../event_list/raw_event_details.js';
 import '../icons.html.js';
 import '../scope_icon.js';

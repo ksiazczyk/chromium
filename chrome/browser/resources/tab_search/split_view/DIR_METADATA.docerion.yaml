@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Split view DIR_METADATA
+summary: Declares the public Buganizer component (1456118) used for issues in the tab search split view directory.

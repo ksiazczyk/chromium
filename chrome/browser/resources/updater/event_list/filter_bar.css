@@ -8,6 +8,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Filter bar styles
+summary: Styles for the event list filter bar, including filter chips, add and clear filter buttons, and their hover, focus, and disabled states.
+*/
+
 :host {
   --chip-disabled-background-color: var(--google-grey-100);
   --filter-border-color: var(--google-grey-300);

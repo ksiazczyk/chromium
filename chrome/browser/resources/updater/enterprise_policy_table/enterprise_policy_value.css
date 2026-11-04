@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Enterprise policy value styles
+summary: Lit CSS styles for the enterprise-policy-value element, an inline-block display with word breaking for policy values.
+*/
+
 :host {
   display: inline-block;
   word-break: break-all;

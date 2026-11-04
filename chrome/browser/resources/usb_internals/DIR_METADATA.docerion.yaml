@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: USB internals directory metadata
+summary: Sets the Blink>USB monorail component, team email, and Buganizer component used for issue tracking of the USB internals directory.

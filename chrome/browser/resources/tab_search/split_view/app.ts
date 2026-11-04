@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split new tab page app element
+// summary: Lit element for the split new tab page WebUI, loading profile data, listening for tab changes, and redirecting to the NTP when not split.
+// ---
+
 import '/strings.m.js';
 import '../tab_search_item.js';
 import '../selectable_lazy_list.js';

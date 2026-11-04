@@ -1,0 +1,4 @@
+# Docerion header of updater.html.
+type: source
+title: Updater WebUI entry page
+summary: HTML entry page for the chrome updater WebUI that loads updater.css and mounts the updater-app element.

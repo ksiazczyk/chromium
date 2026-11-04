@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater error code descriptions
+// summary: Maps updater error categories and platform-specific codes to localized error description strings from loadTimeData.
+// ---
+
 import type {UpdaterError} from './event_history.js';
 import {loadTimeData} from './i18n_setup.js';
 

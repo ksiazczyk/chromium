@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User Education Internals Page Template
+// summary: Lit HTML template with toolbar search, navigation menu, and sections for promos, tutorials, badges, and What's New content.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {UserEducationInternalsElement} from './user_education_internals.ts';

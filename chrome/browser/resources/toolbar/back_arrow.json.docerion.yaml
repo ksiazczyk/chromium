@@ -1,0 +1,4 @@
+# Docerion header of back_arrow.json.
+type: asset
+title: Back arrow toolbar icon animation
+summary: Lottie animation data for the toolbar back arrow, animating its position, corner and line during navigation.

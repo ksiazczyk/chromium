@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared tab search algorithm with scoring and highlights
+// summary: Implements an exact-match search over records with weighted scoring, CJK segmentation and highlight ranges, delegating case and accent folding to the browser via Mojo.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 
 import {SearchApiProxyImpl} from './search_api_proxy.js';

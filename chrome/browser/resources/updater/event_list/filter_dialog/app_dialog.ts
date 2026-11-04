@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App filter dialog element
+// summary: Lit element implementing the app name filter dialog, with search, checkbox selection of known and custom apps, keyboard navigation and filter-change events.
+// ---
+
 import './filter_dialog.js';
 import './filter_dialog_footer.js';
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';

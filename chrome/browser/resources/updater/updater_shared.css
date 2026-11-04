@@ -8,6 +8,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared updater CSS color variables
+summary: Defines shared custom properties for card, code, success, error and warning colors with dark scheme overrides.
+*/
+
 html {
   --card-background-color: var(--google-grey-100);
   --code-background-color: var(--google-grey-100);

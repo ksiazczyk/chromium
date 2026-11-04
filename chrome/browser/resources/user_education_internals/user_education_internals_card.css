@@ -10,6 +10,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: User Education Internals Card Styles
+summary: Lit CSS styling the promo card content, expandable sections, and action buttons.
+*/
+
 :host {
   border-top: 1px solid var(--cr-separator-color);
   display: flex;

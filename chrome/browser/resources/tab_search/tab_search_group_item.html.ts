@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab search group item template
+// summary: Lit HTML template rendering the group item icon, title, tab count dot and last active timestamp.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TabSearchGroupItemElement} from './tab_search_group_item.js';

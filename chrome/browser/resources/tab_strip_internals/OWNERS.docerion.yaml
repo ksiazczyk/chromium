@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for tab_strip_internals
+summary: Lists the Chromium committers responsible for the tab_strip_internals directory.

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the tabstrip NTB app element
+summary: Lit CSS for the tabstrip-ntb-app element, laying out its content as a centered, full-height flex container.
+*/
+
 :host {
   align-items: center;
   display: flex;

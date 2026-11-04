@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter bar element
+// summary: Lit element implementing the filter bar with filter categories, chip ordering and removal, and dialogs for editing app, event type, outcome, scope, and date filters.
+// ---
+
 import './filter_dialog/filter_dialog.js';
 import './filter_dialog/app_dialog.js';
 import './filter_dialog/event_dialog.js';

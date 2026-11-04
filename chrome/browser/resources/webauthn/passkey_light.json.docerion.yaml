@@ -1,0 +1,4 @@
+# Docerion header of passkey_light.json.
+type: asset
+title: Passkey animation, light theme (Lottie)
+summary: Lottie animation of a passkey illustration used in Chrome's light-theme WebAuthn dialog UI.

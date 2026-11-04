@@ -12,6 +12,12 @@
  * #include=mwb-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tab search page styles
+summary: Styles for the tab search page, covering the search field, no-results message, feedback footer, section titles and item hover states.
+*/
+
 #searchField {
   align-items: center;
   background-color: var(--mwb-background-color);

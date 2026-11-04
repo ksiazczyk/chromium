@@ -10,6 +10,12 @@
  * #include=filter-dialog-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Outcome dialog styles
+summary: Lit CSS styles for the outcome dialog that include the shared filter dialog styles.
+*/
+
 :host {
   display: block;
 }

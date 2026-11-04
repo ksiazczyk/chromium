@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: USB internals page styles
+summary: Styles the USB internals page, including tables, descriptor buttons, and responsive raw data byte views.
+*/
+
 cr-tab-box {
   /* selected treeItem is 2 */
   --cr-tab-box-tabs-z-index: 3;

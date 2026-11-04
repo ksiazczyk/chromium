@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scope dialog element
+// summary: Lit custom element scope-dialog that manages pending scope selections, applies them via a filter-change event, and supports cancel and close.
+// ---
+
 import './filter_dialog.js';
 import './filter_dialog_footer.js';
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';

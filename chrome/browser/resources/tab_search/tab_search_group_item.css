@@ -9,6 +9,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tab search group item styles
+summary: Styles the tab group list item, covering icon, primary and secondary text, group dot and search highlight appearance.
+*/
+
 :host(:focus) {
   outline: none;
 }

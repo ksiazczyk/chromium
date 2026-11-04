@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event list item HTML template
+// summary: Lit HTML template for a single event row with an expandable body showing Omaha requests and responses, errors, versions, command line, and enterprise policies.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {localizeEventType} from '../event_history.js';

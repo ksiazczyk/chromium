@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Unexportable Keys Internals WebUI build configuration
+summary: GN build rules that assemble the unexportable keys internals WebUI from its HTML, TypeScript, CSS and Mojo sources.

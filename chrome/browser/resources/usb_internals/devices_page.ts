@@ -7,6 +7,12 @@
  *     chrome://usb-internals/.
  */
 
+// ---docerion
+// type: source
+// title: USB devices page UI logic
+// summary: Renders the connected USB devices table and builds per-device inspector tabs that show device details and descriptor panels.
+// ---
+
 import 'chrome://resources/cr_elements/cr_tree/cr_tree.js';
 import 'chrome://resources/cr_elements/cr_tree/cr_tree_item.js';
 

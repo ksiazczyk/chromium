@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New internals card element
+// summary: Lit custom element for the What's New internals card that displays module or edition data and fires a clear-data event after user confirmation.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_expand_button/cr_expand_button.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter dialog footer HTML template
+// summary: Lit HTML template for the filter dialog footer that renders cancel and apply buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {FilterDialogFooterElement} from './filter_dialog_footer.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the tab_search WebUI
+summary: Defines the GN build target that compiles the tab search WebUI TypeScript, CSS, static files, icons and Mojo bindings.

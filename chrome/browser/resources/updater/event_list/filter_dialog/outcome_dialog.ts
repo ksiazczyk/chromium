@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outcome dialog element
+// summary: Lit custom element for filtering update events by outcome, tracking pending checkbox selections and firing filter-change on apply.
+// ---
+
 import './filter_dialog.js';
 import './filter_dialog_footer.js';
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';

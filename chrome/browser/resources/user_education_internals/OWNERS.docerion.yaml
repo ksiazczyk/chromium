@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS File for User Education Internals
+summary: Delegates review ownership to the user education browser UI owners list.

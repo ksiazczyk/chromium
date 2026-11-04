@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab search item element
+// summary: Lit custom element for individual tab entries in the tab search UI, handling sizes, close buttons, favicons and text highlighting.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/cr_elements/cr_tooltip/cr_tooltip.js';
 import '/strings.m.js';

@@ -10,6 +10,12 @@
  * #include=filter-dialog-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: App filter dialog styles
+summary: Styles the app filter menu input for the updater event list, including border, background and focus colors, reusing shared filter dialog styles.
+*/
+
 :host {
   display: block;
   --filter-menu-input-background: var(--cr-fallback-color-surface-variant);

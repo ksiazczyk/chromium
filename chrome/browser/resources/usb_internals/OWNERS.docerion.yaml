@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners pointer for USB internals
+summary: Points to chrome/browser/usb/OWNERS so the same owners review changes to the USB internals WebUI resources.

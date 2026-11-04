@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Split view OWNERS
+summary: Lists the email addresses of the code owners responsible for reviewing changes to the split view directory.

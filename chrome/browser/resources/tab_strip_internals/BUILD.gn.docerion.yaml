@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for tab_strip_internals WebUI
+summary: Defines the WebUI build target for the TabStrip internals debug page, listing static and TypeScript sources and Mojo binding dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New internals card HTML template
+// summary: Lit HTML template for the What's New internals card that shows stored module or edition promo data with an expandable section and a clear-data button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {UserEducationWhatsNewInternalsCardElement} from './user_education_whats_new_internals_card.ts';

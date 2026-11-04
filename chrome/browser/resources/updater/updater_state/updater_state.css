@@ -9,6 +9,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Updater state styles
+summary: Styles for the updater state element, laying out updater cards plus the error card and no-updater message.
+*/
+
 :host {
   display: flex;
   gap: 16px;

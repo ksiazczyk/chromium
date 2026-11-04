@@ -9,6 +9,12 @@
  * #import=../updater_shared.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Updater state card styles
+summary: Styles for the updater state card, defining card, row, label, value and list layout.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App filter dialog HTML template
+// summary: Lit HTML template for the app filter dialog, rendering a search input, app name checkboxes and a filter dialog footer with cancel and apply actions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AppDialogElement} from './app_dialog.js';

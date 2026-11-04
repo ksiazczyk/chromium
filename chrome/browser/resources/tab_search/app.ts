@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSearchAppElement custom element
+// summary: Implements the tab-search-app element that computes the available height from profile window data and hosts the tab search page.
+// ---
+
 import './tab_search_page.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

@@ -8,6 +8,12 @@
  * the set to be overridden in tests.
  */
 
+// ---docerion
+// type: source
+// title: Known apps lookup utilities
+// summary: Provides accessors that build maps between app names and lower-case app IDs from loadTimeData, overridable in tests.
+// ---
+
 import {loadTimeData} from './i18n_setup.js';
 
 /**

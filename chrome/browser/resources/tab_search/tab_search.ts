@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab search module exports
+// summary: Re-exports tab search components, data classes, API proxies and mojo types as the module's public surface.
+// ---
+
 import './app.js';
 
 export type {OptionKeyObject, Range, SearchOptions} from '/tab_group_shared/search.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tabstrip NTB WebUI build definition (BUILD.gn)
+summary: GN build file that compiles the tabstrip_ntb WebUI, listing its TypeScript and CSS sources, dependencies, and optimization settings.

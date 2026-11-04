@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Internals Lit HTML template
+// summary: Supplies the Lit HTML template for the app element with download and copy buttons, an IWA notice, and the installed apps index.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {WebAppInternalsAppElement} from './app.js';

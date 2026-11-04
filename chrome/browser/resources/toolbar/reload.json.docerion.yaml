@@ -1,0 +1,4 @@
+# Docerion header of reload.json.
+type: asset
+title: Reload toolbar icon animation
+summary: Lottie animation data for the toolbar reload button, morphing the close icon into a refresh arrow.

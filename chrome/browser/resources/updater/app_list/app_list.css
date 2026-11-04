@@ -9,6 +9,12 @@
  * #import=../updater_shared.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: App list styles
+summary: Lit stylesheet for the updater app list element, styling the error card, no-apps message, and apps table with light and dark theme support.
+*/
+
 :host {
   display: flex;
   padding: 0 16px;

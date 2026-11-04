@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab search utility helpers
+// summary: Shared helpers for the tab search UI covering text highlighting, media alert classes and favicon URL resolution.
+// ---
+
 import type {Range} from '/tab_group_shared/search.js';
 import {getFaviconForPageURL} from 'chrome://resources/js/icon.js';
 import {highlight} from 'chrome://resources/js/search_highlight_utils.js';

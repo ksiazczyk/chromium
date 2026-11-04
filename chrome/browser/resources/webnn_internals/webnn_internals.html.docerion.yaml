@@ -1,0 +1,4 @@
+# Docerion header of webnn_internals.html.
+type: source
+title: WebNN Internals page
+summary: HTML entry page for the WebNN internals WebUI that loads the app module and hosts the webnn-internals-app element.

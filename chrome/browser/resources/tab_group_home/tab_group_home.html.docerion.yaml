@@ -1,0 +1,4 @@
+# Docerion header of tab_group_home.html.
+type: source
+title: Tab Group Home WebUI entry page
+summary: HTML host page titled Tab Group Home that renders the tab-group-home-app element and loads its module script.

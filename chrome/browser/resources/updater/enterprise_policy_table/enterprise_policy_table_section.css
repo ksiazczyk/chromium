@@ -9,6 +9,12 @@
  * #import=../updater_shared.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Enterprise policy table section styles
+summary: Lit CSS styles for the policy table section, defining the bordered table, column widths, expand icons and expanded rows.
+*/
+
 :host {
   --border-color: var(--google-grey-300);
   --expand-icon-size: 24px;

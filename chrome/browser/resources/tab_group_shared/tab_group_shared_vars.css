@@ -6,6 +6,12 @@
  * #type=vars
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: CSS color variables for tab groups
+summary: Defines light and dark mode CSS custom properties for tab group colors, matching ThemeHelper::GetTabGroupColors.
+*/
+
 /* Matches colors specified in ThemeHelper::GetTabGroupColors. */
 html {
   --google-blue-300-rgb: 123, 170, 247;

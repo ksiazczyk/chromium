@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab search browser API proxy
+// summary: Bridges the WebUI to browser handlers for tab actions, profile data, split tabs and usage metrics via mojo.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 
 import type {ProfileData, SwitchToTabInfo} from './tab_search.mojom-webui.js';

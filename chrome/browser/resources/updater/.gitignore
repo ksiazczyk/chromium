@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Gitignore for generated TypeScript config
+# summary: Ignores the tsconfig.json generated from the personalization app gen_tsconfig tool within the updater resources folder.
+# ---
+
 # Generated from ash/webui/personalization_app/tools/gen_tsconfig.py
 tsconfig.json

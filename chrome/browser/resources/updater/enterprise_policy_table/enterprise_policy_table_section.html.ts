@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise policy table section HTML template
+// summary: Lit HTML template rendering policy rows with name, source, value and status columns plus expandable rows for ignored values.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {EnterprisePolicyTableSectionElement} from './enterprise_policy_table_section.js';

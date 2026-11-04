@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Web App Internals app styles
+summary: Lit styles for the web-app-internals-app element, covering layout, the app index navigation, and preformatted JSON display.
+*/
+
 :host {
   display: block;
   padding: 8px;

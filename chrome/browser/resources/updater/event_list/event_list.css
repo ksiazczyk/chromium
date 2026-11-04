@@ -8,6 +8,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Event list styles
+summary: Styles for the updater event list, covering the filter bar container, separators, event count label, expand/collapse controls, and dark mode colors.
+*/
+
 :host {
   --separator-color:  var(--google-grey-300);
   color: var(--cr-primary-text-color);

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the selectable-lazy-list element
+summary: Provides host display and scrolling styles for the selectable lazy list component.
+*/
+
 :host {
   display: block;
   overflow-x: hidden;

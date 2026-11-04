@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the new tab button
+// summary: Lit HTML template rendering a cr-icon-button with an add icon, localized accessible name, and a click handler binding.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {NewTabButtonElement} from './new_tab_button.js';

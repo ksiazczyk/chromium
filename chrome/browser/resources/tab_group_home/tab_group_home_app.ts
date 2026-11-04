@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupHomeAppElement custom element
+// summary: Defines the tab-group-home-app CrLitElement that wires the Lit template and styles and registers the custom element.
+// ---
+
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import {getCss} from './tab_group_home_app.css.js';

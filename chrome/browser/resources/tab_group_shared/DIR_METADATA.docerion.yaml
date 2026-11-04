@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata pointing to common tab metadata
+summary: Chromium directory metadata that reuses the common metadata mixins from the tabs views directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard navigation helper for filter lists
+// summary: Helper that moves focus between list items using ArrowUp, ArrowDown, Home, and End keys.
+// ---
+
 /**
  * Navigates between items in a list using ArrowUp, ArrowDown, Home, and End.
  * @param e The keyboard event.

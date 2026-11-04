@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date formatting and equality helpers
+// summary: Utility functions for localized date, duration and relative date formatting plus a recursive deepEqual comparison.
+// ---
+
 const LONG_DATE_FORMATTER = new Intl.DateTimeFormat(undefined, {
   timeZoneName: 'short',
   month: 'numeric',

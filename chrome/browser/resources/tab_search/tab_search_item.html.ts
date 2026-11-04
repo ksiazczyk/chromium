@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab search item Lit HTML template
+// summary: Lit HTML template for the tab-search-item element, rendering favicon, title, tab group dot, media alerts, timestamp and close button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TabSearchItemElement} from './tab_search_item.js';

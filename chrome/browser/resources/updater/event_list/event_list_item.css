@@ -9,6 +9,12 @@
  * #import=../updater_shared.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Event list item styles
+summary: Styles for individual event list items, including header columns, event type badges, success and error status colors, and code and error detail blocks.
+*/
+
 :host {
   --event-type-background-color: var(--google-blue-50);
 
