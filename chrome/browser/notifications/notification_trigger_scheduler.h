@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification trigger scheduler header
+// summary: Declares NotificationTriggerScheduler, which triggers pending notifications for loaded profiles and storage partitions using a one-shot timer.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_NOTIFICATION_TRIGGER_SCHEDULER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_NOTIFICATION_TRIGGER_SCHEDULER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Muted notification handler declarations
+// summary: Declares the handler for NOTIFICATIONS_MUTED notification actions with an action enum and a delegate interface for reporting user actions.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_MUTED_NOTIFICATION_HANDLER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_MUTED_NOTIFICATION_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac notification utilities header
+// summary: Declares shared macOS notification helpers for creating notification titles, contexts, and mojo objects, plus processing user actions and alert decisions.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_MAC_NOTIFICATION_UTILS_H_
 #define CHROME_BROWSER_NOTIFICATIONS_MAC_NOTIFICATION_UTILS_H_
 

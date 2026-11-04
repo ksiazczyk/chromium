@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata pointing to shared notifications metadata
+summary: Points this directory to the shared COMMON_METADATA file for its issue tracking metadata.

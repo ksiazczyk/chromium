@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleChangedBroadcastReceiver
+// summary: Broadcast receiver that updates notification channels when the Android locale changes and restarts or kills the browser process as needed.
+// ---
+
 package org.chromium.chrome.browser.notifications.channels;
 
 import android.content.BroadcastReceiver;

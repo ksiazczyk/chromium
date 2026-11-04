@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification interactive UI test support
+// summary: Implements shared support classes such as NotificationsTest and MessageCenterChangeObserver used by the notification interactive UI tests.
+// ---
+
 #include "chrome/browser/notifications/notification_interactive_uitest_support.h"
 
 #include <vector>

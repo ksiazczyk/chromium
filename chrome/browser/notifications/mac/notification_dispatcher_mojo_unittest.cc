@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo notification dispatcher unit tests
+// summary: Unit tests for NotificationDispatcherMojo using mock notification providers and services to verify display, close, and restart behavior.
+// ---
+
 #include "chrome/browser/notifications/mac/notification_dispatcher_mojo.h"
 
 #include <memory>

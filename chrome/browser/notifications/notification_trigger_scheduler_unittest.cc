@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification trigger scheduler unit tests
+// summary: Unit tests for NotificationTriggerScheduler using a mock scheduler to verify triggering of pending notifications per profile and storage partition.
+// ---
+
 #include <map>
 #include <memory>
 

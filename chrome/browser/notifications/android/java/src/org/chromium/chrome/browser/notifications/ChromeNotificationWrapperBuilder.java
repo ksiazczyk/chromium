@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeNotificationWrapperBuilder
+// summary: Wraps NotificationCompat.Builder to build Chrome Android notifications and adds UMA telemetry through NotificationIntentInterceptor.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.chromium.components.browser_ui.notifications.BitmapUtils.resizeBitmapIfNeeded;

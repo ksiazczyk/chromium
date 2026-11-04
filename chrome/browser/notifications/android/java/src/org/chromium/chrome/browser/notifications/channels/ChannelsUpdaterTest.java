@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChannelsUpdaterTest
+// summary: Robolectric tests verifying that ChannelsUpdater initializes channels on the notification manager and compares saved and current channel versions.
+// ---
+
 package org.chromium.chrome.browser.notifications.channels;
 
 import static org.hamcrest.MatcherAssert.assertThat;

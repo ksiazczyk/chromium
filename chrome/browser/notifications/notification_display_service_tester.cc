@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification display service test helper implementation
+// summary: Implements NotificationDisplayServiceTester, which swaps in a stub display service so tests can simulate clicks, closes and removals synchronously.
+// ---
+
 #include "chrome/browser/notifications/notification_display_service_tester.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationTestUtil
+// summary: Helper utilities for Android notification tests to extract icons, actions and extras from Notification objects.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import android.app.Notification;

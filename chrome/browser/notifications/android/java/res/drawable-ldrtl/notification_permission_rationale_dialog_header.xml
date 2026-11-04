@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!--VectorRaster is ignored because: The image should be shown rarely enough to prioritize binary size over inflation time.-->
+
+<!--docerion
+type: asset
+title: Notification permission rationale dialog header vector drawable (LDRTL)
+summary: Vector drawable illustration for the header of the Android notification permission rationale dialog, provided as the right-to-left layout variant.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="VectorRaster"

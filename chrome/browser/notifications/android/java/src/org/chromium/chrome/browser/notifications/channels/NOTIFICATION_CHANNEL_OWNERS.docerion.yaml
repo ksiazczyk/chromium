@@ -1,0 +1,4 @@
+# Docerion header of NOTIFICATION_CHANNEL_OWNERS.
+type: config
+title: NOTIFICATION_CHANNEL_OWNERS
+summary: Lists the owners who must review changes to ChromeChannelDefinitions and the notification channel set.

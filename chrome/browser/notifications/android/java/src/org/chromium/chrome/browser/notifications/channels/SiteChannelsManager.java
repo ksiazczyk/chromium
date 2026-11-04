@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteChannelsManager
+// summary: Manages per-website notification channels in Chrome for Android, creating, deleting, and querying site channels and tracking channel migration results.
+// ---
+
 package org.chromium.chrome.browser.notifications.channels;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

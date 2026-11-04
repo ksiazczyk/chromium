@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification UI manager interactive browser tests
+// summary: Interactive browser tests that grant web notification permission and verify clicks on displayed persistent notifications work over an HTTPS test server.
+// ---
+
 #include "chrome/browser/notifications/notification_ui_manager.h"
 
 #include <string>

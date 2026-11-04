@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification platform bridge profile ID unit tests
+// summary: Parameterized unit tests verifying profile ID conversion and round-tripping in NotificationPlatformBridge across default, custom, and non-ASCII profile directories.
+// ---
+
 #include "chrome/browser/notifications/notification_platform_bridge.h"
 
 #include <memory>

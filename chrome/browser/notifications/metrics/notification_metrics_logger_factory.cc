@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification metrics logger factory implementation
+// summary: Implements the profile-keyed service factory that provides a NotificationMetricsLogger per browser context.
+// ---
+
 #include "chrome/browser/notifications/metrics/notification_metrics_logger_factory.h"
 
 #include "chrome/browser/notifications/metrics/notification_metrics_logger.h"

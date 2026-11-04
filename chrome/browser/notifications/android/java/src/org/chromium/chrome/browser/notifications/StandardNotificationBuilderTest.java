@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StandardNotificationBuilder unit tests
+// summary: Robolectric unit tests covering StandardNotificationBuilder notification construction, including titles, icons, actions, intents, and posted results.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static android.content.Context.NOTIFICATION_SERVICE;

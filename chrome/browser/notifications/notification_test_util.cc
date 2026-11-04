@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub notification UI manager implementation
+// summary: Implements StubNotificationUIManager, an in-memory NotificationUIManager fake that records, updates, finds, and cancels notifications for use in tests.
+// ---
+
 #include "chrome/browser/notifications/notification_test_util.h"
 
 #include "url/origin.h"

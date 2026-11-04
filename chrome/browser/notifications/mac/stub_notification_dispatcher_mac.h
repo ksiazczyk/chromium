@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub Mac notification dispatcher header
+// summary: Declares the stub notification dispatcher that keeps notifications in memory and supports synchronization toggles for testing the macOS notification bridge.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_MAC_STUB_NOTIFICATION_DISPATCHER_MAC_H_
 #define CHROME_BROWSER_NOTIFICATIONS_MAC_STUB_NOTIFICATION_DISPATCHER_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform notification service interactive UI tests
+// summary: Interactive browser tests exercising web notification display, clicks and permissions through the platform notification service in a real browser window.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

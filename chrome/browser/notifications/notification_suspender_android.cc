@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android notification suspender JNI implementation
+// summary: JNI bridge that stores notification resources from Java so suspended Android notifications can later be redisplayed via the platform notification context.
+// ---
+
 #include <vector>
 
 #include "base/android/jni_array.h"

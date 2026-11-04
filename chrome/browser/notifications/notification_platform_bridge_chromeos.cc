@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS notification platform bridge
+// summary: Implements the NotificationPlatformBridge for Chrome OS, forwarding notification display and interactions to Ash's message center client.
+// ---
+
 #include "chrome/browser/notifications/notification_platform_bridge_chromeos.h"
 
 #include <memory>

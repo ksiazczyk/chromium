@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification metrics logger implementation
+// summary: Records Chromium user metrics actions for persistent notification events such as shown, clicked, and closed.
+// ---
+
 #include "chrome/browser/notifications/metrics/notification_metrics_logger.h"
 
 #include "base/metrics/user_metrics.h"

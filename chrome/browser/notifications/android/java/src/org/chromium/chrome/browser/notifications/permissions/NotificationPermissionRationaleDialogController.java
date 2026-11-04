@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification permission rationale dialog controller
+// summary: Shows a modal dialog explaining the benefits of Chrome notifications and reports whether the user accepted or rejected enabling them.
+// ---
+
 package org.chromium.chrome.browser.notifications.permissions;
 
 import android.content.Context;

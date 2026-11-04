@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic actor task notification handler implementation
+// summary: Implements showing and closing OS-level notifications when experimental Glic actor tasks start while no browser window is active for the profile.
+// ---
+
 #include "chrome/browser/notifications/glic_actor_task_notification_handler.h"
 
 #include <string_view>

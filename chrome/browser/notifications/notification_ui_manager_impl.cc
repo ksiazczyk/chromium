@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Notification UI manager implementation
+// summary: Implements NotificationUIManagerImpl, which adds, updates and cancels profile-scoped notifications in the message center and applies screen lock and fullscreen blockers.
+// ---
+
 #include "chrome/browser/notifications/notification_ui_manager_impl.h"
 
 #include <memory>

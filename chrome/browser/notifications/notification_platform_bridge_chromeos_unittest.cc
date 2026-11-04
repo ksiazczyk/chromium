@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome OS notification bridge unit test
+// summary: Regression test ensuring clicks reach the correct delegate after a notification with the same ID is replaced in the Chrome OS bridge.
+// ---
+
 #include "chrome/browser/notifications/notification_platform_bridge_chromeos.h"
 
 #include "base/functional/bind.h"

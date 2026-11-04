@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelsUpdater
+// summary: Singleton helper that decides when Android notification channels need updating, then deletes legacy channels, initializes startup channels and stores the version in preferences.
+// ---
+
 package org.chromium.chrome.browser.notifications.channels;
 
 import androidx.annotation.VisibleForTesting;

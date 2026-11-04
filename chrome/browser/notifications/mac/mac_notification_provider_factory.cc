@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac notification provider factory implementation
+// summary: Implements a factory that launches in-process, out-of-process, or app shim notification providers depending on the notification style.
+// ---
+
 #include "chrome/browser/notifications/mac/mac_notification_provider_factory.h"
 
 #include <utility>

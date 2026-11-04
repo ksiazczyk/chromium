@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popups-only UI controller
+// summary: Controls desktop notification popup bubbles by observing the message center and showing or hiding the popup collection as notifications change.
+// ---
+
 #include "chrome/browser/notifications/popups_only_ui_controller.h"
 
 #include "ui/message_center/message_center.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification permission rationale dialog controller tests
+// summary: Robolectric tests verifying the rationale dialog's custom view content, button styles, and dismissal callback behavior.
+// ---
+
 package org.chromium.chrome.browser.notifications.permissions;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

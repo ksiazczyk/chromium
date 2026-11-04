@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification display queue implementation
+// summary: Implements a queue that holds web notifications while notification blockers are active and displays them once all blockers become inactive.
+// ---
+
 #include "chrome/browser/notifications/notification_display_queue.h"
 
 #include <algorithm>

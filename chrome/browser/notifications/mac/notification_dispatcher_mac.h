@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac notification dispatcher interface
+// summary: Defines the NotificationDispatcherMac interface and MacNotificationIdentifier for displaying and closing macOS notifications across profiles.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_MAC_NOTIFICATION_DISPATCHER_MAC_H_
 #define CHROME_BROWSER_NOTIFICATIONS_MAC_NOTIFICATION_DISPATCHER_MAC_H_
 

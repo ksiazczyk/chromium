@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback type for displayed notification queries
+// summary: Defines the GetDisplayedNotificationsCallback used by notification bridges to report currently displayed notification IDs.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_DISPLAYED_NOTIFICATIONS_DISPATCH_CALLBACK_H_
 #define CHROME_BROWSER_NOTIFICATIONS_DISPLAYED_NOTIFICATIONS_DISPATCH_CALLBACK_H_
 

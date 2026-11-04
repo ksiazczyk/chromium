@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome OS notification bridge browser test
+// summary: Browser test verifying that a notification delegate is informed when a notification is closed due to display service shutdown.
+// ---
+
 #include "chrome/browser/notifications/notification_platform_bridge_chromeos.h"
 
 #include "base/memory/weak_ptr.h"

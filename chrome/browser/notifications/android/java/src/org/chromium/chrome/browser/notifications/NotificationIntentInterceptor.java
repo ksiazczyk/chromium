@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationIntentInterceptor
+// summary: Intercepts notification PendingIntents for content, action and delete intents via broadcast receivers to record UMA metrics.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.chromium.build.NullUtil.assertNonNull;

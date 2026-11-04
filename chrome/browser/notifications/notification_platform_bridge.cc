@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification platform bridge implementation
+// summary: Implements reversible profile ID conversion helpers shared by notification platform bridge implementations.
+// ---
+
 #include "chrome/browser/notifications/notification_platform_bridge.h"
 
 #include "base/check.h"

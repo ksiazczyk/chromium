@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification handler base implementation
+// summary: Provides default implementations of NotificationHandler callbacks such as close, click, settings and spam-report handling.
+// ---
+
 #include "chrome/browser/notifications/notification_handler.h"
 
 #include "base/functional/callback.h"

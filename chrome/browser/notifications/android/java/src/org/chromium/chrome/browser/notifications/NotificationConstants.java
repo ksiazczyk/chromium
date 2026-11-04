@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationConstants
+// summary: Shared constants for Chrome Android notifications, including intent action names and intent extra keys used across notification classes.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import org.chromium.build.annotations.NullMarked;

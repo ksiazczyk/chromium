@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passphrase textfield class declaration
+// summary: Declares PassphraseTextfield, a views textfield subclass that can display a fake password and returns the entered passphrase only when changed.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_PASSPHRASE_TEXTFIELD_H_
 #define CHROME_BROWSER_NOTIFICATIONS_PASSPHRASE_TEXTFIELD_H_
 

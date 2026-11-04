@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform notification service unit tests
+// summary: Unit tests for PlatformNotificationServiceImpl covering notification display, closing, UKM logging and safety hub interactions using test profiles.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

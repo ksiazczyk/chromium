@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification display service factory
+// summary: ProfileKeyedServiceFactory that creates per-profile NotificationDisplayServiceImpl instances for the notification display service.
+// ---
+
 #include "chrome/browser/notifications/notification_display_service_factory.h"
 
 #include "base/command_line.h"

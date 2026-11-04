@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification permission context API tests
+// summary: Extension API tests verifying that JavaScript mechanisms consistently report granted or denied notification permission for extensions.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/browser/profiles/profile.h"

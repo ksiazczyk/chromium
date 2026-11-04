@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification trigger scheduler implementation
+// summary: Implements the scheduler that triggers pending scheduled notifications for all loaded profiles and their storage partitions, with an Android-specific variant.
+// ---
+
 #include "chrome/browser/notifications/notification_trigger_scheduler.h"
 
 #include <memory>

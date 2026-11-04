@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification display service unit tests
+// summary: Unit tests for NotificationDisplayServiceImpl covering display, close and displayed-notification queries using fake blockers and a test bridge delegator.
+// ---
+
 #include "chrome/browser/notifications/notification_display_service_impl.h"
 
 #include <memory>

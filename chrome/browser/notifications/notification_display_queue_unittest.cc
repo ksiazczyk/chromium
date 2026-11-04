@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the notification display queue
+// summary: Unit tests for NotificationDisplayQueue using a fake notification blocker and a mocked NotificationDisplayService.
+// ---
+
 #include <memory>
 #include <set>
 #include <string>

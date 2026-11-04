@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android notification platform bridge implementation
+// summary: Android bridge that displays notifications through the Android framework and forwards click, close, and disable events via JNI.
+// ---
+
 #include "chrome/browser/notifications/notification_platform_bridge_android.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification permission change receiver
+// summary: Android broadcast receiver that detects app and channel notification block state changes from system settings and records corresponding metrics.
+// ---
+
 package org.chromium.chrome.browser.notifications.permissions;
 
 import android.app.NotificationManager;

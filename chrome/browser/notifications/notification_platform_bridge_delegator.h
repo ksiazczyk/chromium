@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification platform bridge delegator header
+// summary: Declares the delegator that sends notification events to the system bridge or falls back to the message center when unsupported or disabled.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_NOTIFICATION_PLATFORM_BRIDGE_DELEGATOR_H_
 #define CHROME_BROWSER_NOTIFICATIONS_NOTIFICATION_PLATFORM_BRIDGE_DELEGATOR_H_
 

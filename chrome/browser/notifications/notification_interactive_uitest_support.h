@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification interactive UI test support
+// summary: Shared helpers and base browser test classes for notification interactive UI tests, including permission request and notification creation utilities.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_NOTIFICATION_INTERACTIVE_UITEST_SUPPORT_H_
 #define CHROME_BROWSER_NOTIFICATIONS_NOTIFICATION_INTERACTIVE_UITEST_SUPPORT_H_
 

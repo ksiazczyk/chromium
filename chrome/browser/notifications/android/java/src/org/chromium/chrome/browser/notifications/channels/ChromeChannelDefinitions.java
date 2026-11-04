@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeChannelDefinitions
+// summary: Defines Chrome's predefined Android O+ notification channels, their IDs and groups, with versioning rules for adding, changing or removing channels.
+// ---
+
 package org.chromium.chrome.browser.notifications.channels;
 
 import android.app.NotificationManager;

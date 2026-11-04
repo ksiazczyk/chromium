@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification interactive UI browser tests
+// summary: Interactive browser tests exercising notification permission requests, popups and message center behavior in Chrome.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"

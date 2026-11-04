@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the mac notifications folder
+summary: Lists the owners responsible for reviewing changes to the macOS notifications browser code.

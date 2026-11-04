@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen notification blocker implementation
+// summary: Blocks notification popups while the browser is fullscreen and records UMA metrics for windowed notification display.
+// ---
+
 #include "chrome/browser/notifications/fullscreen_notification_blocker.h"
 
 #include "base/metrics/histogram_macros.h"

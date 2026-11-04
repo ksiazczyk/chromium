@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationIntentInterceptorTest
+// summary: Robolectric tests verifying that NotificationIntentInterceptor intercepts PendingIntents and tracks notification metrics correctly.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.robolectric.Shadows.shadowOf;

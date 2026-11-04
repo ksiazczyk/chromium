@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification UI manager browser tests
+// summary: Browser tests exercising NotificationUIManagerImpl notification creation and delegate close and click behavior with native notification features disabled.
+// ---
+
 #include <map>
 #include <string>
 

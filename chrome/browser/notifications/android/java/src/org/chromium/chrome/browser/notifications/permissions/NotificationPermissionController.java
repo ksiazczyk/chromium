@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification permission controller
+// summary: Central logic deciding when to trigger the Android notification permission request, optionally with a rationale dialog, driven by field trial parameters.
+// ---
+
 package org.chromium.chrome.browser.notifications.permissions;
 
 import android.Manifest;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for notification protos
+summary: Defines the proto_library build target that compiles the notification scheduler protobuf sources.

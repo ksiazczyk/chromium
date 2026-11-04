@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform notification service implementation
+// summary: Implements the profile-specific entry point for displaying, closing and scheduling web notifications, including UKM recording and preference registration.
+// ---
+
 #include "chrome/browser/notifications/platform_notification_service_impl.h"
 
 #include <memory>

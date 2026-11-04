@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PopupsOnlyUiController unit tests
+// summary: Unit tests verifying that popup bubbles stay visible as notifications are added, updated and removed, and hide once no notifications remain.
+// ---
+
 #include "chrome/browser/notifications/popups_only_ui_controller.h"
 
 #include <stddef.h>

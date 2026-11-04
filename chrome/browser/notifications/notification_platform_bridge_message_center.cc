@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center notification platform bridge implementation
+// summary: Implements the platform bridge that delivers notifications through Chrome's Message Center when no system-specific bridge exists, forwarding clicks and actions to the display service.
+// ---
+
 #include "chrome/browser/notifications/notification_platform_bridge_message_center.h"
 
 #include "base/functional/bind.h"

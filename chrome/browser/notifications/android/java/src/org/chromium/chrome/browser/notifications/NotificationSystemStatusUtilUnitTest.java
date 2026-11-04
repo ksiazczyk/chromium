@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationSystemStatusUtilUnitTest
+// summary: Robolectric unit tests for NotificationSystemStatusUtil covering enabled and disabled app notification statuses.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.hamcrest.CoreMatchers.is;

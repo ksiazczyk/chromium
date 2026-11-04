@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock notification metrics logger
+// summary: Declares a gmock-based mock of NotificationMetricsLogger whose logging methods can be observed in tests.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_METRICS_MOCK_NOTIFICATION_METRICS_LOGGER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_METRICS_MOCK_NOTIFICATION_METRICS_LOGGER_H_
 

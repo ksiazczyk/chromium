@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub notification platform bridge implementation
+// summary: Implements a no-op NotificationPlatformBridge stub that reports no displayed notifications and immediately signals readiness.
+// ---
+
 #include "chrome/browser/notifications/stub_notification_platform_bridge.h"
 
 #include <set>

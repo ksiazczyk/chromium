@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification metrics logger unit tests
+// summary: Verifies that each logger method records the expected Notifications.Persistent user action using UserActionTester.
+// ---
+
 #include "chrome/browser/notifications/metrics/notification_metrics_logger.h"
 
 #include "base/test/metrics/user_action_tester.h"

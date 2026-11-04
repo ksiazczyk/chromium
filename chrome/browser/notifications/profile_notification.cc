@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileNotification implementation
+// summary: Implements profile-scoped notifications with unique per-profile IDs and keep-alive handling that keeps the browser alive while notifications are open.
+// ---
+
 #include "chrome/browser/notifications/profile_notification.h"
 
 #include "base/strings/stringprintf.h"

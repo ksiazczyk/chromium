@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenCaptureNotificationBlocker implementation
+// summary: Implements muting of notifications from non-capturing origins during screen capture, with a mute notification offering show and snooze actions plus session metrics.
+// ---
+
 #include "chrome/browser/notifications/screen_capture_notification_blocker.h"
 
 #include <algorithm>

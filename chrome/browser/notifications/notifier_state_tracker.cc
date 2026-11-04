@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifier state tracker implementation
+// summary: Implements NotifierStateTracker, which tracks whether extensions, web pages and system components may send notifications using profile prefs and permission state.
+// ---
+
 #include "chrome/browser/notifications/notifier_state_tracker.h"
 
 #include <stddef.h>

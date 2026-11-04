@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenCaptureNotificationBlocker class declaration
+// summary: Declares a notification blocker that suppresses notifications while a WebContents captures the screen and tracks muted, replaced and snoozed counts.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCREEN_CAPTURE_NOTIFICATION_BLOCKER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCREEN_CAPTURE_NOTIFICATION_BLOCKER_H_
 

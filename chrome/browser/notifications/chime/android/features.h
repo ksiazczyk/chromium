@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chime Android SDK feature flag declaration
+// summary: Header declaring the kUseChimeAndroidSdk feature flag used to control whether the Chime Android SDK is used.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_CHIME_ANDROID_FEATURES_H_
 #define CHROME_BROWSER_NOTIFICATIONS_CHIME_ANDROID_FEATURES_H_
 

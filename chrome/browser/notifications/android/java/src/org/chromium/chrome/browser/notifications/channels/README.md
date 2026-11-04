@@ -1,3 +1,13 @@
+---
+type: readme
+title: Notification Channels
+summary: Explains Chrome for Android notification channels, including when to add a new channel, step-by-step instructions, testing guidance, and how to deprecate channels.
+relations:
+  - documents /chrome/browser/notifications/android/java/src/org/chromium/chrome/browser/notifications/channels/ChromeChannelDefinitions.java
+  - documents /chrome/browser/notifications/android/java/src/org/chromium/chrome/browser/notifications/channels/ChannelsInitializerTest.java
+  - documents /chrome/browser/notifications/android/java/src/org/chromium/chrome/browser/notifications/channels/ChannelsUpdaterTest.java
+---
+
 # Notification Channels
 
 Notification channels define the togglable categories shown in our notification

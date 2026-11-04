@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub notification platform bridge interface
+// summary: Declares a stub NotificationPlatformBridge that implements the interface without exercising any platform behaviour of its own.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_STUB_NOTIFICATION_PLATFORM_BRIDGE_H_
 #define CHROME_BROWSER_NOTIFICATIONS_STUB_NOTIFICATION_PLATFORM_BRIDGE_H_
 

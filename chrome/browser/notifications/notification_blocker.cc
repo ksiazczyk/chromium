@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification blocker base implementation
+// summary: Implements observer add, remove, and blocking state change notifications for the NotificationBlocker base class.
+// ---
+
 #include "chrome/browser/notifications/notification_blocker.h"
 
 #include "base/observer_list.h"

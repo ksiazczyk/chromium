@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationBuilderBase
+// summary: Abstract base class for building Android notifications that stores all given arguments for later use by concrete builder implementations.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.chromium.build.NullUtil.assumeNonNull;
