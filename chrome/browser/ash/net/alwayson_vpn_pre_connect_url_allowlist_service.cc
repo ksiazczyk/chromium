@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Always-on VPN pre-connect URL allowlist service
+// summary: Implements the service that decides when the Always-on VPN pre-connect URL allowlist is enforced based on VPN lockdown prefs and network state.
+// ---
+
 #include "chrome/browser/ash/net/alwayson_vpn_pre_connect_url_allowlist_service.h"
 
 #include "base/check.h"

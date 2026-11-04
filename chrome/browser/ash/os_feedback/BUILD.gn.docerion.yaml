@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the os_feedback library and tests
+summary: Defines the os_feedback static library plus unit test, browser test, and interactive UI test source sets with their dependencies.

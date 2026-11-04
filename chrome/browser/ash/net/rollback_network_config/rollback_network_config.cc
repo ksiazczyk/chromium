@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rollback network config import and export implementation
+// summary: Implements import and export of rollback network configuration in managed ONC format, reconfiguring device-wide networks during rollback.
+// ---
+
 #include "chrome/browser/ash/net/rollback_network_config/rollback_network_config.h"
 
 #include <optional>

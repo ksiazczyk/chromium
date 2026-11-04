@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Attestation certificate generator unit tests
+// summary: Tests certificate regeneration, retrieval without cache, and observer notification using fake key registries and attestation flows.
+// ---
+
 #include "attestation_certificate_generator_impl.h"
 
 #include <iterator>

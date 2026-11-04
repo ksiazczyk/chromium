@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device event log error browser test
+// summary: Browser test that ensures no device-related error events are logged during browser startup and after user login, filtering out known test-environment-only errors.
+// ---
+
 #include <memory>
 #include <string>
 

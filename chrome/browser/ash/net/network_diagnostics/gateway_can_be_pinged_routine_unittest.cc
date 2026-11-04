@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gateway Can Be Pinged Routine Unit Tests
+// summary: Unit tests for the gateway ping routine that feed fake ICMP output through a fake DebugDaemonClient and check verdicts and problem lists.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/gateway_can_be_pinged_routine.h"
 #include "base/strings/string_number_conversions.h"
 #include "chrome/browser/ash/net/network_diagnostics/network_diagnostics_test_helper.h"

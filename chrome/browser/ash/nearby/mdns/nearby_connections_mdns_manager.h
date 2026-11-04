@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Connections mDNS manager header
+// summary: Declares NearbyConnectionsMdnsManager, the Mojo MdnsManager implementation that manages per-service-type discovery listers and notifies mDNS observers for Nearby Sharing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NEARBY_MDNS_NEARBY_CONNECTIONS_MDNS_MANAGER_H_
 #define CHROME_BROWSER_ASH_NEARBY_MDNS_NEARBY_CONNECTIONS_MDNS_MANAGER_H_
 

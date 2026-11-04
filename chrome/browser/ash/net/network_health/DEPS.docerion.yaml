@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the network health directory
+summary: Specifies DEPS include rules that block //chrome dependencies while allowing the directory's own headers and the network diagnostics dependency.

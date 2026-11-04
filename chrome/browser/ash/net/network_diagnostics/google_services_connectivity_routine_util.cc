@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Services Connectivity Utility Implementation
+// summary: Implements result-code to problem-type mappings and the deduplicated list of Google service hostnames probed by the connectivity routine.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/google_services_connectivity_routine_util.h"
 
 #include <array>

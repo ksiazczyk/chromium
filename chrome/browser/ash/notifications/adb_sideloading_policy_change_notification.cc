@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB sideloading policy change notifications
+// summary: Implements system notifications shown when an administrator disallows ADB sideloading, including planned powerwash warnings with a restart action.
+// ---
+
 #include "chrome/browser/ash/notifications/adb_sideloading_policy_change_notification.h"
 
 #include <string>

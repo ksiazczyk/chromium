@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash proxy monitor browser tests
+// summary: Browser tests verifying that the Ash proxy monitor reports proxy configuration changes from ONC policies, preferences and WPAD URLs.
+// ---
+
 #include "chrome/browser/ash/net/ash_proxy_monitor.h"
 
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KCer client cert store header
+// summary: Declares the KCer-backed client certificate store that returns client certificates available in the current context for TLS requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_CLIENT_CERT_STORE_KCER_H_
 #define CHROME_BROWSER_ASH_NET_CLIENT_CERT_STORE_KCER_H_
 

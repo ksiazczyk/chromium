@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Network diagnostics routines build configuration
+summary: Defines the network_diagnostics static library sources and dependencies plus the unit_tests source set for the ChromeOS network diagnostics routines.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start connectivity service interface
+// summary: Declares QuickStartConnectivityService, a KeyedService tied to the signin profile that provides NearbyConnectionsManager and QuickStartDecoder dependencies to Quick Start.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NEARBY_QUICK_START_CONNECTIVITY_SERVICE_H_
 #define CHROME_BROWSER_ASH_NEARBY_QUICK_START_CONNECTIVITY_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake UDP Socket for Network Diagnostics Tests
+// summary: Declares a fake UDPSocket Mojo implementation that simulates UDP socket behavior, connect/send/receive results, and disconnect scenarios in network diagnostics tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_FAKE_UDP_SOCKET_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_FAKE_UDP_SOCKET_H_
 

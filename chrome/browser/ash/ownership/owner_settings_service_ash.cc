@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash owner settings service implementation
+// summary: Implements the profile-keyed service that manages the owner key pair and applies device settings changes for the device owner.
+// ---
+
 #include "chrome/browser/ash/ownership/owner_settings_service_ash.h"
 
 #include <keyhi.h>

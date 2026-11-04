@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System proxy credentials dialog unit tests
+// summary: Tests the dialog's accept and cancel callbacks, proxy server reporting, window title, and error label visibility.
+// ---
+
 #include "chrome/browser/ash/notifications/request_system_proxy_credentials_view.h"
 
 #include <string>

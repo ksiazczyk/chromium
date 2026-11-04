@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM firmware auto-update notification implementation
+// summary: Displays planned and on-next-reboot TPM firmware auto-update notifications, selecting title, text, icon and pinned state per notification type.
+// ---
+
 #include "chrome/browser/ash/notifications/tpm_auto_update_notification.h"
 
 #include <string>

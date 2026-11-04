@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular APN migrator
+// summary: Implements migration of cellular custom APNs from the pre-revamp format to the revamped format the first time each network is discovered.
+// ---
+
 #include "chrome/browser/ash/net/apn_migrator.h"
 
 #include "ash/constants/ash_features.h"

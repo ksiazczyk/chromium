@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners
+summary: Lists khegde@chromium.org as the code owner responsible for reviewing changes in this directory.

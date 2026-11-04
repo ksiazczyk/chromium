@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkChangeManagerClient unit tests
+// summary: Unit tests covering the Shill-to-NetworkChangeNotifier connection type mapping and notifier state updates for default network changes.
+// ---
+
 #include "chrome/browser/ash/network_change_manager/network_change_manager_client.h"
 
 #include <stddef.h>

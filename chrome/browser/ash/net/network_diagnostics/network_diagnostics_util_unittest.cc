@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for network diagnostics utilities
+// summary: Tests random string and host generation, scheme and generate_204 path handling, and validity of default media URLs.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/network_diagnostics_util.h"
 
 #include <algorithm>

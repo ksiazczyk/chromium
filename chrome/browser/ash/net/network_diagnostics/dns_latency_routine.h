@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS latency routine class declaration
+// summary: Declares the DnsLatencyRoutine class that tests whether DNS latency is below an acceptable threshold, with hooks for injecting test fakes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_DNS_LATENCY_ROUTINE_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_DNS_LATENCY_ROUTINE_H_
 

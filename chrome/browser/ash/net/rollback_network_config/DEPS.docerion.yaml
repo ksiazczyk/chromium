@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for rollback network config
+summary: Sets include rules that restrict //chrome dependencies for ChromeOS code and allow only specific includes for this directory and its tests.

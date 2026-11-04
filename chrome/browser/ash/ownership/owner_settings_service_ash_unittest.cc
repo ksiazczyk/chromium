@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OwnerSettingsServiceAsh unit tests
+// summary: Unit tests for OwnerSettingsServiceAsh covering setting signed device settings, pref propagation, owner key loading and ownership histograms.
+// ---
+
 #include "chrome/browser/ash/ownership/owner_settings_service_ash.h"
 
 #include <memory>

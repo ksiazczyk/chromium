@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low disk space notification unit tests
+// summary: Tests notification severity levels, high severity replacing medium, and throttling behavior using fake settings and DBus clients.
+// ---
+
 #include "chrome/browser/ash/notifications/low_disk_notification.h"
 
 #include <stdint.h>

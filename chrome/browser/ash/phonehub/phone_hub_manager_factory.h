@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub manager factory class declaration
+// summary: Declares PhoneHubManagerFactory, which returns the per-profile PhoneHubManager instance when the profile is eligible and the feature is not prohibited.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PHONEHUB_PHONE_HUB_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_ASH_PHONEHUB_PHONE_HUB_MANAGER_FACTORY_H_
 

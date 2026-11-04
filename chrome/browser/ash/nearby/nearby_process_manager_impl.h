@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby process manager implementation declaration
+// summary: Declares NearbyProcessManagerImpl and its NearbyReferenceImpl, which manage Mojo connections to the Nearby utility process on behalf of clients.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NEARBY_NEARBY_PROCESS_MANAGER_IMPL_H_
 #define CHROME_BROWSER_ASH_NEARBY_NEARBY_PROCESS_MANAGER_IMPL_H_
 

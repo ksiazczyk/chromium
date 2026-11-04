@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP request manager implementation
+// summary: Implements a utility that issues HTTP GET requests with retries and timeouts to validate connectivity and reports whether the response indicates a connection.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/http_request_manager.h"
 
 #include <memory>

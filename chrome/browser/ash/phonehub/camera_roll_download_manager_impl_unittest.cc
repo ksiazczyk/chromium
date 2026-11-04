@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera roll download manager unit tests
+// summary: Unit tests for CameraRollDownloadManagerImpl covering payload file creation, disk space checks, progress updates, and file deletion with test profiles.
+// ---
+
 #include "chrome/browser/ash/phonehub/camera_roll_download_manager_impl.h"
 
 #include <memory>

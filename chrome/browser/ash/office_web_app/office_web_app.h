@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Office web app installation header
+// summary: Declares the Microsoft 365 web app URL, icon size constant, and the InstallMicrosoft365 function used to set up the app for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_OFFICE_WEB_APP_OFFICE_WEB_APP_H_
 #define CHROME_BROWSER_ASH_OFFICE_WEB_APP_OFFICE_WEB_APP_H_
 

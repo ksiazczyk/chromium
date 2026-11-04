@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDeviceSetupServiceFactory header
+// summary: Declares the ProfileKeyedServiceFactory that provides MultiDeviceSetupService instances per profile, with a chromeos namespace alias for compatibility.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_MULTIDEVICE_SETUP_MULTIDEVICE_SETUP_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_MULTIDEVICE_SETUP_MULTIDEVICE_SETUP_SERVICE_FACTORY_H_
 

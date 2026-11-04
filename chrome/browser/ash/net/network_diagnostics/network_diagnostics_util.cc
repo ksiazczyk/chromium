@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network diagnostics utility functions implementation
+// summary: Implements shared helpers that build fixed and random Google hostnames, generate_204 URLs, and other utilities used by diagnostic routines.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/network_diagnostics_util.h"
 
 #include <algorithm>

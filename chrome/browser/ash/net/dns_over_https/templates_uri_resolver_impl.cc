@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the DoH templates URI resolver
+// summary: Implements replacement of user email, device attribute, and IP address placeholders in DoH templates, with salted SHA-256 hashing and managed-network conditions.
+// ---
+
 #include "chrome/browser/ash/net/dns_over_https/templates_uri_resolver_impl.h"
 
 #include <memory>

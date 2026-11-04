@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Doze mode power status scheduler class declaration
+// summary: Declares DozeModePowerStatusScheduler, which observes power, ARC idle state, session lock, video and user activity changes to decide when to send simulated battery status to arcvm.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PERFORMANCE_DOZE_MODE_POWER_STATUS_SCHEDULER_H_
 #define CHROME_BROWSER_ASH_PERFORMANCE_DOZE_MODE_POWER_STATUS_SCHEDULER_H_
 

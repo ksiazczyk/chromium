@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VPN list forwarder for third-party VPN providers
+// summary: Declares VpnListForwarder, which forwards the primary user's extension and Arc VPN providers to the CrosNetworkConfig service for use in Settings and Ash UI.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_VPN_LIST_FORWARDER_H_
 #define CHROME_BROWSER_ASH_NET_VPN_LIST_FORWARDER_H_
 

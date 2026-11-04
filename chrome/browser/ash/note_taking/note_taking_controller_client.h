@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Note taking controller client class declaration
+// summary: Declares the ash NoteTakingControllerClient, a NoteTakingClient that observes user sessions and profiles to enable note creation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTE_TAKING_NOTE_TAKING_CONTROLLER_CLIENT_H_
 #define CHROME_BROWSER_ASH_NOTE_TAKING_NOTE_TAKING_CONTROLLER_CLIENT_H_
 

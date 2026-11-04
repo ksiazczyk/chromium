@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UDP prober implementation
+// summary: Implements the UDP prober that resolves a host, sends data over a UDP socket, and listens for any response with a configurable timeout.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/udp_prober.h"
 
 #include <cstdint>

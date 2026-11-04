@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby process manager unit tests
+// summary: Unit tests for NearbyProcessManagerImpl using fake sharing Mojo services, mock Bluetooth adapters and mock Nearby connections to exercise process lifecycle behavior.
+// ---
+
 #include "chrome/browser/ash/nearby/nearby_process_manager_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Has Secure WiFi Connection routine unit tests
+// summary: Unit tests for the secure WiFi connection routine that configure WiFi services with secure and insecure security classes and verify the resulting verdicts and problems.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/has_secure_wifi_connection_routine.h"
 
 #include "chromeos/ash/services/network_config/public/cpp/cros_network_config_test_helper.h"

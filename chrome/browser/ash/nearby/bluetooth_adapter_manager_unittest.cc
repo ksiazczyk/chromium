@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth adapter manager unit tests
+// summary: Unit tests covering BluetoothAdapterManager shutdown behavior and advertising support histogram logging using a mock Bluetooth adapter.
+// ---
+
 #include "chrome/browser/ash/nearby/bluetooth_adapter_manager.h"
 
 #include "base/test/metrics/histogram_tester.h"

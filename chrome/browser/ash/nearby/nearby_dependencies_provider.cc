@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby dependencies provider implementation
+// summary: Implements the NearbyDependenciesProvider keyed service that wires mojo pipes, sockets, firewall holes, and other dependencies for the Nearby process.
+// ---
+
 #include "chrome/browser/ash/nearby/nearby_dependencies_provider.h"
 
 #include "ash/constants/ash_switches.h"

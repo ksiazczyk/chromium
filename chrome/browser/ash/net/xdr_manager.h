@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDR events policy manager header
+// summary: Declares XdrManager, which responds to DeviceReportXDREvents policy changes and updates network metadata to control connection warning display.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_XDR_MANAGER_H_
 #define CHROME_BROWSER_ASH_NET_XDR_MANAGER_H_
 

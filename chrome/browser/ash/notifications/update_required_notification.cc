@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update required notification implementation
+// summary: Builds and shows in-session notifications when admin policy requires an update that cannot start due to network limits or end-of-life, with localized titles and buttons.
+// ---
+
 #include "chrome/browser/ash/notifications/update_required_notification.h"
 
 #include "ash/constants/notifier_catalogs.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkHealthManager class declaration
+// summary: Declares the NetworkHealthManager singleton class providing access to network health and diagnostics Mojo remotes and observer registration.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_HEALTH_NETWORK_HEALTH_MANAGER_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_HEALTH_NETWORK_HEALTH_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for ash performance
+summary: DEPS rules that forbid dependencies on //chrome, allow the directory's own includes, and permit the existing chrome/browser/ash/arc/session dependency.

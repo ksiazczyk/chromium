@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Note taking helper implementation
+// summary: Implements the NoteTakingHelper singleton that discovers available note-taking apps and launches Chrome, Android, or web apps for new notes.
+// ---
+
 #include "chrome/browser/ash/note_taking/note_taking_helper.h"
 
 #include <stddef.h>

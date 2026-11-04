@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gnubby notification header
+// summary: Declares GnubbyNotification, which manages creating, showing, and closing the notification informing the user of gnubby U2FD authentication.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_GNUBBY_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_GNUBBY_NOTIFICATION_H_
 

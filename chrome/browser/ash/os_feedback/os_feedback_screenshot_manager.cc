@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS feedback screenshot manager implementation
+// summary: Implements the singleton that captures screenshots of all root windows, combines them horizontally into one PNG, and stores the data for feedback reports.
+// ---
+
 #include "chrome/browser/ash/os_feedback/os_feedback_screenshot_manager.h"
 
 #include <utility>

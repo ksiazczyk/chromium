@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Note taking directory include rules
+summary: Restricts includes for the note taking directory, banning //chrome by default while whitelisting specific Chrome dependencies and test-only headers.

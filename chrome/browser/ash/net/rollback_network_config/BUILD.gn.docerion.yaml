@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for rollback network config
+summary: Defines GN build targets for the rollback network config static library, its test support fake, and the unit tests.

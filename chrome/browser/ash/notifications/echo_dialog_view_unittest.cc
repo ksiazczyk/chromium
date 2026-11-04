@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Echo dialog view unit tests
+// summary: Unit tests verifying that the Echo dialog body contains the enabled or disabled consent text depending on the parameters given to it.
+// ---
+
 #include "chrome/browser/ash/notifications/echo_dialog_view.h"
 
 #include "base/strings/utf_string_conversions.h"

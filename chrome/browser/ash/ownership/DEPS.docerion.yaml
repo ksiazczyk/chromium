@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ownership directory
+summary: Restricts //chrome includes for ChromeOS code and lists allowed dependencies, with extra rules for tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth pref state observer header
+// summary: Declares the observer that updates CrosBluetoothConfig preferences when the primary user profile is loaded.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_BLUETOOTH_PREF_STATE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_NET_BLUETOOTH_PREF_STATE_OBSERVER_H_
 

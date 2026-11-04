@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network diagnostics service implementation
+// summary: Implements the NetworkDiagnostics mojo service that instantiates, runs, and stores results for all network diagnostic routines.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/network_diagnostics.h"
 
 #include <memory>

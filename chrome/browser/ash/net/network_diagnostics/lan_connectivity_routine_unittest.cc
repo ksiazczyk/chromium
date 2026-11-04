@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LAN connectivity routine unit tests
+// summary: Unit tests for the LAN connectivity routine that configure stub ethernet and WiFi services via shill test helpers to check verdicts.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/lan_connectivity_routine.h"
 
 #include "base/memory/weak_ptr.h"

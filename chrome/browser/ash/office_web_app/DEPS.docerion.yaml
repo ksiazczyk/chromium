@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the office_web_app directory
+summary: Restricts //chrome includes for ChromeOS code while allowing the specific dependencies this directory and its tests need.

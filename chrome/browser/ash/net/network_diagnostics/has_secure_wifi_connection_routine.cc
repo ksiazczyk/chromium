@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Has Secure WiFi Connection routine implementation
+// summary: Implements the network diagnostics routine that checks whether the active WiFi connection uses a secure encryption type and reports problems for insecure or unknown security types.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/has_secure_wifi_connection_routine.h"
 
 #include <algorithm>

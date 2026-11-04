@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug daemon packet capture notification handler class
+// summary: Declares DebugdNotificationHandler, a DebugDaemonClient observer that manages the packet capture notification lifecycle.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_DEBUGD_NOTIFICATION_HANDLER_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_DEBUGD_NOTIFICATION_HANDLER_H_
 

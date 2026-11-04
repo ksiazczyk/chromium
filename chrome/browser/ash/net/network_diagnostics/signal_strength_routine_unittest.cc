@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signal strength routine unit tests
+// summary: Unit tests for the signal strength routine covering good, weak, and absent WiFi connections using a network config test helper.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/signal_strength_routine.h"
 
 #include "chromeos/ash/services/network_config/public/cpp/cros_network_config_test_helper.h"

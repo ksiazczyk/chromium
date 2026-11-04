@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Services Connectivity Routine Unit Tests
+// summary: Unit tests for the Google services connectivity routine covering protobuf response serialization and conversion of result entries into expected mojom problems.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/google_services_connectivity_routine.h"
 
 #include <memory>

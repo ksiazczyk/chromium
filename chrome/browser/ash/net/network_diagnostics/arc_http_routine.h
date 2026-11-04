@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC HTTP routine class declaration
+// summary: Declares the ArcHttpRoutine class that performs HTTP requests from within ARC and reports the results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_ARC_HTTP_ROUTINE_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_ARC_HTTP_ROUTINE_H_
 

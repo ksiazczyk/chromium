@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TLS prober implementation
+// summary: Implements the TLS prober that resolves a host and establishes TCP or TLS socket connections, reporting DNS, connection, or upgrade failures.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/tls_prober.h"
 
 #include <optional>

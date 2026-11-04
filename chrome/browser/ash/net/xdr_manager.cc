@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDR events policy manager implementation
+// summary: Implements XdrManager, which observes the DeviceReportXDREvents policy and updates the network metadata store with the current reporting state.
+// ---
+
 #include "chrome/browser/ash/net/xdr_manager.h"
 
 #include <memory>

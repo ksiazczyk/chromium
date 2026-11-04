@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash DNS-over-HTTPS config source header
+// summary: Declares the Ash DNS-over-HTTPS configuration source that supplies DoH mode and templates from the SecureDnsManager to consumers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_ASH_DNS_OVER_HTTPS_CONFIG_SOURCE_H_
 #define CHROME_BROWSER_ASH_NET_ASH_DNS_OVER_HTTPS_CONFIG_SOURCE_H_
 

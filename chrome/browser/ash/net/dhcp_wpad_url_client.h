@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DhcpWpadUrlClient header
+// summary: Declares the mojom DhcpWpadUrlClient implementation that fetches the PAC script URL from the default network, plus factory and testing helper methods.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_DHCP_WPAD_URL_CLIENT_H_
 #define CHROME_BROWSER_ASH_NET_DHCP_WPAD_URL_CLIENT_H_
 

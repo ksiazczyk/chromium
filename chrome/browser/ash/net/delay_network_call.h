@@ -4,6 +4,12 @@
 
 // This file contains utility functions to wait for network state.
 
+// ---docerion
+// type: source
+// title: DelayNetworkCall header
+// summary: Declares utility functions to delay callbacks until the network is connected or a captive portal is resolved, including a custom retry delay variant and a testing hook.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_DELAY_NETWORK_CALL_H_
 #define CHROME_BROWSER_ASH_NET_DELAY_NETWORK_CALL_H_
 

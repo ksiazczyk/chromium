@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Office web app build targets
+summary: Defines the office_web_app source set and its unit_tests target with dependencies for the ChromeOS build.

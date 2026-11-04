@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Ash net
+summary: Defines allowed //chrome include rules for this directory, with per-file exceptions for unit and browser tests.

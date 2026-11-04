@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Note taking helper browser tests
+// summary: Browser tests verifying that note creation launches web apps, including a hardcoded test web app, and records launch result histograms.
+// ---
+
 #include "chrome/browser/ash/note_taking/note_taking_helper.h"
 
 #include "ash/constants/ash_switches.h"

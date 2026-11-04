@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for network diagnostics directory
+summary: Sets DEPS include rules that restrict //chrome dependencies while allowing the directory to include its own headers and a few existing //chrome paths.

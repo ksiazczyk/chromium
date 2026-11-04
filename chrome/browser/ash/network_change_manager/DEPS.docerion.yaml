@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for network_change_manager
+summary: Sets include rules that block ChromeOS dependencies on //chrome while allowing this directory and test-only chrome/test/base includes.

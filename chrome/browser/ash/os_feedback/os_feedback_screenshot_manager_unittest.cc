@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OsFeedbackScreenshotManager unit tests
+// summary: Unit tests verifying the singleton behavior, screenshot data deletion, and guards that skip screenshot capture when one exists or no window is present.
+// ---
+
 #include "chrome/browser/ash/os_feedback/os_feedback_screenshot_manager.h"
 
 #include <utility>

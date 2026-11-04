@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC DNS resolution routine implementation
+// summary: Implements the routine that resolves a fixed set of hostnames through the ARC NetInstance service and reports verdicts, problems, and latency.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/arc_dns_resolution_routine.h"
 
 #include <algorithm>

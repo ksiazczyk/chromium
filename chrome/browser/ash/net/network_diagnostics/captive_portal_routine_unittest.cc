@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captive portal routine unit tests
+// summary: Unit tests for the captive portal routine covering online, no active networks, suspected portal, detected portal and no internet cases.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/captive_portal_routine.h"
 #include "chrome/browser/ash/net/network_diagnostics/network_diagnostics_test_helper.h"
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low disk space notification implementation
+// summary: Shows and throttles system notifications when the device's free disk space falls below medium or high severity thresholds.
+// ---
+
 #include "chrome/browser/ash/notifications/low_disk_notification.h"
 
 #include <stdint.h>

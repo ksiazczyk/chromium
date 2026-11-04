@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle app name notification view implementation
+// summary: Implements the kiosk message widget that shows the currently running application name and its creator, with show and hide animations and accessibility support.
+// ---
+
 #include "chrome/browser/ash/notifications/idle_app_name_notification_view.h"
 
 #include <string>

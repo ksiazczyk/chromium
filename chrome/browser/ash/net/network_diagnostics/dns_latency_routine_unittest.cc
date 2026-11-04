@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS latency routine unit tests
+// summary: Unit tests for the DNS latency routine using a fake network context and fake tick clock to simulate resolution results and latency delays.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/dns_latency_routine.h"
 
 #include "base/memory/raw_ptr.h"

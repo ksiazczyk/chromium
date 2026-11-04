@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP request manager header
+// summary: Declares the HttpRequestManager utility used by network diagnostics routines to make asynchronous HTTP requests and report connection results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_HTTP_REQUEST_MANAGER_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_HTTP_REQUEST_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS latency routine implementation
+// summary: Implements the DNS latency diagnostic routine that resolves randomly generated unique hostnames and flags average latency above acceptable thresholds.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/dns_latency_routine.h"
 
 #include <iterator>

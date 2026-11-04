@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP firewall routine implementation
+// summary: Implements the routine that probes HTTP port 80 hosts with TLS probes to detect a firewall blocking HTTP, analyzing DNS resolution and TLS probe failure rates.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/http_firewall_routine.h"
 
 #include <algorithm>

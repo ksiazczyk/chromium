@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ownership histograms declarations
+// summary: Declares the OwnerKeyEvent and OwnerKeyUmaEvent enums and the RecordOwnerKeyEvent function used to report owner key loading, generation and usage metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_OWNERSHIP_OWNERSHIP_HISTOGRAMS_H_
 #define CHROME_BROWSER_ASH_OWNERSHIP_OWNERSHIP_HISTOGRAMS_H_
 

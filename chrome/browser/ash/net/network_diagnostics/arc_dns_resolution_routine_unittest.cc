@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ARC DNS resolution routine
+// summary: Tests the ARC DNS resolution routine with a fake NetInstance, covering success, failed queries, bad response codes, and latency cases.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/arc_dns_resolution_routine.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the ash performance static library
+summary: GN build file that defines the performance static library, listing its sources and dependencies on ash, ARC, DBus, metrics, prefs and UI targets.

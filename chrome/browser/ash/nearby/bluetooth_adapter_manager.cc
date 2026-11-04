@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth adapter manager implementation
+// summary: Implements BluetoothAdapterManager, logging adapter advertising support and exposing the Bluetooth adapter over mojo to the Nearby process.
+// ---
+
 #include "chrome/browser/ash/nearby/bluetooth_adapter_manager.h"
 
 #include <algorithm>

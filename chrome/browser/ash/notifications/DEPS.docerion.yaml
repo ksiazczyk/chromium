@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for Ash notifications
+summary: Restricts includes for this directory, listing allowed //chrome dependencies and extra per-test-file include rules to keep ChromeOS decoupled from //chrome.

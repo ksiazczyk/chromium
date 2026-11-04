@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Owner settings service factory implementation
+// summary: Implements the ProfileKeyedServiceFactory that creates OwnerSettingsServiceAsh instances and provides owner key utilities for testing.
+// ---
+
 #include "chrome/browser/ash/ownership/owner_settings_service_ash_factory.h"
 
 #include "base/path_service.h"

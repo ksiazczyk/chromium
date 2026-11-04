@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk external update notification class declaration
+// summary: Declares KioskExternalUpdateNotification, the UI that shows kiosk external update status to the admin.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_KIOSK_EXTERNAL_UPDATE_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_KIOSK_EXTERNAL_UPDATE_NOTIFICATION_H_
 

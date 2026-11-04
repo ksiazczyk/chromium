@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickStartConnectivityServiceFactory header
+// summary: Declares the profile-keyed factory that returns a QuickStartConnectivityService instance for a given browser profile as a singleton service factory.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NEARBY_QUICK_START_CONNECTIVITY_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_NEARBY_QUICK_START_CONNECTIVITY_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDeviceSetupServiceFactory implementation
+// summary: Implements the per-profile factory that creates and exposes the MultiDeviceSetupService keyed service, wiring in device sync, auth token validator and OOBE tracker dependencies.
+// ---
+
 #include "chrome/browser/ash/multidevice_setup/multidevice_setup_service_factory.h"
 
 #include <memory>

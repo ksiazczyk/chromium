@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Note taking helper unit tests
+// summary: Unit tests covering note-taking app availability, preferred app selection, and launch behavior across Chrome, Android, and web apps.
+// ---
+
 #include "chrome/browser/ash/note_taking/note_taking_helper.h"
 
 #include <memory>

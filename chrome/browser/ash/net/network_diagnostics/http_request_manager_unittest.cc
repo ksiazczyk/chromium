@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP request manager unit tests
+// summary: Unit tests for the HTTP request manager covering successful, unsuccessful, and timed-out requests using a test URL loader factory.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/http_request_manager.h"
 
 #include <memory>

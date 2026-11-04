@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake owner settings service implementation
+// summary: Implements a test double of OwnerSettingsServiceAsh that reports the current user as owner and forwards setting changes to a stub provider.
+// ---
+
 #include "chrome/browser/ash/ownership/fake_owner_settings_service.h"
 
 #include <memory>

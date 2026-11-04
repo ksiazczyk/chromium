@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecureDnsManager unit tests
+// summary: Unit tests for SecureDnsManager covering DoH mode and template handling, preference migration, and the resulting shill properties.
+// ---
+
 #include "chrome/browser/ash/net/secure_dns_manager.h"
 
 #include "ash/constants/ash_pref_names.h"

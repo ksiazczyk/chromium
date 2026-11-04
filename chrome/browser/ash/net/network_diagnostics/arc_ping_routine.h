@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC ping routine class declaration
+// summary: Declares the ArcPingRoutine class that performs ICMP echo requests from within ARC to gateway addresses and reports verdicts and ping problems.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_ARC_PING_ROUTINE_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_ARC_PING_ROUTINE_H_
 

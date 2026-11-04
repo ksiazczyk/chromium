@@ -1,0 +1,4 @@
+# Docerion header of network_health_service_policy.json.
+type: config
+title: Mojo service manager security policy
+summary: Grants the ash chrome SELinux context ownership of and cros_healthd access to the network health and diagnostics Mojo services.

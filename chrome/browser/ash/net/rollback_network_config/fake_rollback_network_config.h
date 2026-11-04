@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake rollback network config header
+// summary: Declares FakeRollbackNetworkConfig, a test double of RollbackNetworkConfig that stores imported ONC config and supports import callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_ROLLBACK_NETWORK_CONFIG_FAKE_ROLLBACK_NETWORK_CONFIG_H_
 #define CHROME_BROWSER_ASH_NET_ROLLBACK_NETWORK_CONFIG_FAKE_ROLLBACK_NETWORK_CONFIG_H_
 

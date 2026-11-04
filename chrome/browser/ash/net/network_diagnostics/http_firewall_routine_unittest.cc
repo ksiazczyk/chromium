@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP firewall routine unit tests
+// summary: Unit tests for the HTTP firewall routine that use a test TLS prober and delegate to simulate probe results and verify expected verdicts and problems.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/http_firewall_routine.h"
 
 #include <memory>

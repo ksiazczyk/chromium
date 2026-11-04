@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS resolver present routine implementation
+// summary: Implements the routine that checks the active network has non-empty, well-formed name servers so DNS resolution is possible.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/dns_resolver_present_routine.h"
 
 #include <optional>

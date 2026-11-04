@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preference name constants for doze mode metrics
+// summary: Defines local-state preference name constants used to record accumulated doze mode power status durations and the daily metrics sample.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PERFORMANCE_PREF_NAMES_H_
 #define CHROME_BROWSER_ASH_PERFORMANCE_PREF_NAMES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake network context header
+// summary: Declares FakeNetworkContext, a unit-test double that simulates host resolution and TCP/UDP socket behavior with configurable results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_FAKE_NETWORK_CONTEXT_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_FAKE_NETWORK_CONTEXT_H_
 

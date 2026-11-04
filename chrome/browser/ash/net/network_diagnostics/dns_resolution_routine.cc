@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS resolution routine implementation
+// summary: Implements the DNS resolution diagnostic routine that resolves a test hostname and reports a problem when the host cannot be resolved.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/dns_resolution_routine.h"
 
 #include <algorithm>

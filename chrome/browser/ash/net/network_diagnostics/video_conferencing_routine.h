@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conferencing routine header
+// summary: Declares the VideoConferencingRoutine class that tests connections to Google servers used by video conferencing offerings, with injectable probers for testing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_VIDEO_CONFERENCING_ROUTINE_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_VIDEO_CONFERENCING_ROUTINE_H_
 

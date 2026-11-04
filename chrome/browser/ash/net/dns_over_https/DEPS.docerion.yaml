@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the dns_over_https directory
+summary: Sets Chromium DEPS include rules that block //chrome dependencies while allowing needed policy and network includes, with extra rules for the unit test.

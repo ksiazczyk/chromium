@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby dependencies provider class declaration
+// summary: Declares NearbyDependenciesProvider, a KeyedService that gathers Bluetooth, WebRTC, Wi-Fi LAN and Wi-Fi Direct dependencies required to initialize NearbyConnections.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NEARBY_NEARBY_DEPENDENCIES_PROVIDER_H_
 #define CHROME_BROWSER_ASH_NEARBY_NEARBY_DEPENDENCIES_PROVIDER_H_
 

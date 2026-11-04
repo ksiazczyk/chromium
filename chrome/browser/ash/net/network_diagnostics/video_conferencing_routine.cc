@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video conferencing routine implementation
+// summary: Implements the video conferencing routine that probes a STUN server over UDP and TCP and checks media hostname reachability to report problems.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/video_conferencing_routine.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular APN migrator header
+// summary: Declares ApnMigrator, which migrates cellular networks' custom APNs to the APN Revamp format and applies Shill custom APN lists.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_APN_MIGRATOR_H_
 #define CHROME_BROWSER_ASH_NET_APN_MIGRATOR_H_
 

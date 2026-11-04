@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickStartConnectivityServiceImpl header
+// summary: Declares the QuickStartConnectivityService implementation that owns the Nearby connections manager, process reference, and Quick Start decoder access.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NEARBY_QUICK_START_CONNECTIVITY_SERVICE_IMPL_H_
 #define CHROME_BROWSER_ASH_NEARBY_QUICK_START_CONNECTIVITY_SERVICE_IMPL_H_
 

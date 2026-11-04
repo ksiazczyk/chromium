@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OwnerSettingsServiceAsh class declaration
+// summary: Declares the profile-keyed owner settings service holding the profile's key pair, with observers for profile, session manager, and device settings events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_OWNERSHIP_OWNER_SETTINGS_SERVICE_ASH_H_
 #define CHROME_BROWSER_ASH_OWNERSHIP_OWNER_SETTINGS_SERVICE_ASH_H_
 

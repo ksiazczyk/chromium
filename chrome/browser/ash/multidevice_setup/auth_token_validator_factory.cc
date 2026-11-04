@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth token validator factory implementation
+// summary: Implements a profile-keyed factory that creates AuthTokenValidatorImpl instances for each Profile.
+// ---
+
 #include "chrome/browser/ash/multidevice_setup/auth_token_validator_factory.h"
 
 #include "chrome/browser/ash/multidevice_setup/auth_token_validator_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM auto-update notification types declaration
+// summary: Declares the TpmAutoUpdateUserNotification enum and ShowAutoUpdateNotification for the two user notifications in the TPM firmware auto-update flow.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_TPM_AUTO_UPDATE_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_TPM_AUTO_UPDATE_NOTIFICATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tabs model provider unit tests
+// summary: Unit tests for BrowserTabsModelProviderImpl covering session matching, tab sync state, and metadata updates using fake and mock sync services.
+// ---
+
 #include "chrome/browser/ash/phonehub/browser_tabs_model_provider_impl.h"
 
 #include <memory>

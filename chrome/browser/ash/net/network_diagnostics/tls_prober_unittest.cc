@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TLS prober unit tests
+// summary: Unit tests for the TLS prober using a fake network context to exercise DNS resolution, TCP connect, and TLS upgrade outcomes.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/tls_prober.h"
 
 #include <memory>

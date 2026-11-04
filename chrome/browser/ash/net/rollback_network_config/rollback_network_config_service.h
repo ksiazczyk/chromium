@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rollback network config service header
+// summary: Declares functions to shut down, bind, and override the in-process rollback network config service instance.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_ROLLBACK_NETWORK_CONFIG_ROLLBACK_NETWORK_CONFIG_SERVICE_H_
 #define CHROME_BROWSER_ASH_NET_ROLLBACK_NETWORK_CONFIG_ROLLBACK_NETWORK_CONFIG_SERVICE_H_
 

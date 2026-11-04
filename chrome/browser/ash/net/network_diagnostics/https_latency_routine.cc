@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS latency routine implementation
+// summary: Implements the HTTPS latency routine, resolving hosts and timing HTTPS requests to report DNS failures, failed requests, or high latency.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/https_latency_routine.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for os_feedback
+summary: Maps the directory to the ChromeOS Data Engineering Feedback Buganizer component for issue tracking.

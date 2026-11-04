@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash screen capture notification UI implementation
+// summary: Implements the Ash screen capture notification UI, notifying the system tray when screen access starts and running the stop callback when capture ends.
+// ---
+
 #include "chrome/browser/ash/notifications/screen_capture_notification_ui_ash.h"
 
 #include "ash/shell.h"

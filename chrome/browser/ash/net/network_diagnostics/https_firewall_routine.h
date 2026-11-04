@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS firewall routine header
+// summary: Declares the HttpsFirewallRoutine class that probes URLs over TLS to test whether a firewall is blocking HTTPS port 443.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_HTTPS_FIREWALL_ROUTINE_H_
 #define CHROME_BROWSER_ASH_NET_NETWORK_DIAGNOSTICS_HTTPS_FIREWALL_ROUTINE_H_
 

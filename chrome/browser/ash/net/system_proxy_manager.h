@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemProxyManager class header
+// summary: Declares SystemProxyManager, a singleton managing the system-proxy service lifecycle, credential requests, and the PAC string for system services.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NET_SYSTEM_PROXY_MANAGER_H_
 #define CHROME_BROWSER_ASH_NET_SYSTEM_PROXY_MANAGER_H_
 

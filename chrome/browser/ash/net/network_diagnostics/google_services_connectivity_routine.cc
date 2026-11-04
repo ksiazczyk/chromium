@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Services Connectivity Routine Implementation
+// summary: Implements the routine that tests connectivity to Google service endpoints via shill and validates and reports the resulting connectivity problems.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/google_services_connectivity_routine.h"
 
 #include <optional>

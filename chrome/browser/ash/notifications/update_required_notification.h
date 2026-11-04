@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update required notification class declaration
+// summary: Declares UpdateRequiredNotification, a notification observer that shows, hides and handles clicks for update-required notifications under minimum version policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_UPDATE_REQUIRED_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_UPDATE_REQUIRED_NOTIFICATION_H_
 

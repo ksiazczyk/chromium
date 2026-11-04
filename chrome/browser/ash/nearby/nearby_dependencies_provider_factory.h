@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby dependencies provider factory declaration
+// summary: Declares NearbyDependenciesProviderFactory, a ProfileKeyedServiceFactory that creates a NearbyDependenciesProvider instance per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NEARBY_NEARBY_DEPENDENCIES_PROVIDER_FACTORY_H_
 #define CHROME_BROWSER_ASH_NEARBY_NEARBY_DEPENDENCIES_PROVIDER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS feedback delegate header
+// summary: Declares ChromeOsFeedbackDelegate, which handles report sending, wifi debug log policy checks, screenshot retrieval, and opening dialogs for the feedback UI.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_OS_FEEDBACK_CHROME_OS_FEEDBACK_DELEGATE_H_
 #define CHROME_BROWSER_ASH_OS_FEEDBACK_CHROME_OS_FEEDBACK_DELEGATE_H_
 

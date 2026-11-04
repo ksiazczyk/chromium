@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gnubby notification implementation
+// summary: Implements GnubbyNotification, showing a system notification prompting the user to press the power button for gnubby U2FD authentication and dismissing it after a timeout.
+// ---
+
 #include "chrome/browser/ash/notifications/gnubby_notification.h"
 
 #include <string>

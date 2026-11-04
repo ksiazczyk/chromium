@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo dialog listener interface
+// summary: Defines the EchoDialogListener interface used to notify an interested party when the Echo dialog is accepted, canceled, or its more-info link is clicked.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTIFICATIONS_ECHO_DIALOG_LISTENER_H_
 #define CHROME_BROWSER_ASH_NOTIFICATIONS_ECHO_DIALOG_LISTENER_H_
 

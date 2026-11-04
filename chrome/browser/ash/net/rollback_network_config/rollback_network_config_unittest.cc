@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rollback network config unit tests
+// summary: Unit tests covering import and export of rollback network configurations across WiFi, Ethernet, policy, and ownership scenarios.
+// ---
+
 #include "chrome/browser/ash/net/rollback_network_config/rollback_network_config.h"
 
 #include <string>

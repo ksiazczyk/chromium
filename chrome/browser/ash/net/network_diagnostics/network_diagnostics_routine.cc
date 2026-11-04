@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkDiagnosticsRoutine base class implementation
+// summary: Implements the base class for network diagnostics routines, handling routine execution, CanRun checks, and result callbacks with timestamps.
+// ---
+
 #include "chrome/browser/ash/net/network_diagnostics/network_diagnostics_routine.h"
 
 #include "base/time/time.h"

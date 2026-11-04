@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Note taking helper class declaration
+// summary: Declares NoteTakingHelper, NoteTakingAppInfo, and launch result metrics for finding and launching preferred note-taking apps on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_NOTE_TAKING_NOTE_TAKING_HELPER_H_
 #define CHROME_BROWSER_ASH_NOTE_TAKING_NOTE_TAKING_HELPER_H_
 
