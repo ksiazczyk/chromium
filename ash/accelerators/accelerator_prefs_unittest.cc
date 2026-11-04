@@ -1,6 +1,17 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: AcceleratorPrefs unit tests
+// summary: Unit tests verifying that shortcut prefs are registered and that observers are notified when the shortcut customization policy changes.
+// relations:
+//   - tests /ash/accelerators/accelerator_prefs.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/accelerators/accelerator_prefs.h"
 #include "ash/constants/ash_pref_names.h"
 #include "ash/session/session_controller_impl.h"

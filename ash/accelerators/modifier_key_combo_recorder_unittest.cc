@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModifierKeyComboRecorder unit tests
+// summary: Tests that modifier key combos, including left and right locations and AltGr, produce the expected ModifierKeyCombo histogram buckets.
+// relations:
+//   - tests /ash/accelerators/modifier_key_combo_recorder.h
+//   - depends_on /ash/public/cpp/accelerators_util.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accelerators/modifier_key_combo_recorder.h"
 
 #include "ash/public/cpp/accelerators_util.h"

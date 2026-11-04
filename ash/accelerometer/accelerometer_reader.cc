@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccelerometerReader implementation
+// summary: Implements the AccelerometerReader singleton and AccelerometerProviderInterface, delegating to the Mojo provider and handling tablet mode state changes.
+// relations:
+//   - implements /ash/accelerometer/accelerometer_reader.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/wm/tablet_mode/tablet_mode_controller.h
+// ---
+
 #include "ash/accelerometer/accelerometer_reader.h"
 
 #include "ash/shell.h"

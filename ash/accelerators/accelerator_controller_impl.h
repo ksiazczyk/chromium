@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator controller class declarations
+// summary: Declares the AcceleratorControllerImpl class, which registers global keyboard accelerators and handles accelerator actions, along with its TestApi for tests.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_capslock_state_machine.h
+//   - depends_on /ash/accelerators/accelerator_history_impl.h
+//   - depends_on /ash/accelerators/accelerator_launcher_state_machine.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_CONTROLLER_IMPL_H_
 #define ASH_ACCELERATORS_ACCELERATOR_CONTROLLER_IMPL_H_
 

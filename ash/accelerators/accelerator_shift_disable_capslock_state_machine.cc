@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shift disable Caps Lock state machine implementation
+// summary: Implements the state machine that processes key and mouse events to decide when releasing Shift is allowed to trigger disabling Caps Lock.
+// relations:
+//   - implements /ash/accelerators/accelerator_shift_disable_capslock_state_machine.h
+//   - depends_on /base/containers/fixed_flat_set.h
+//   - depends_on /ui/base/accelerators/accelerator.h
+// ---
+
 #include "ash/accelerators/accelerator_shift_disable_capslock_state_machine.h"
 
 #include "base/containers/fixed_flat_set.h"

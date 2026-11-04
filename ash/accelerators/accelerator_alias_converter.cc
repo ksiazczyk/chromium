@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorAliasConverter implementation
+// summary: Implements creation of accelerator aliases for top row, six pack, caps lock, and extended function keys based on the connected keyboard device.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_alias_converter.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/accelerators/accelerator_alias_converter.h"
 
 #include <optional>

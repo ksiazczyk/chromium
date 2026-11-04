@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App restore service implementation
+// summary: Implements a keyed service that records which apps are running and restores them when the browser restarts, with ChromeOS-specific behavior.
+// relations:
+//   - implements /apps/app_restore_service.h
+//   - depends_on /apps/app_lifetime_monitor_factory.h
+//   - depends_on /apps/app_restore_service_factory.h
+// ---
+
 #include "apps/app_restore_service.h"
 
 #include "apps/app_lifetime_monitor_factory.h"

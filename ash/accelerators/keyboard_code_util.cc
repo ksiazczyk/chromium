@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard code utility implementation
+// summary: Maps keyboard codes to localized display strings and vector icons, with special handling for Chrome OS keys such as Search, Launcher, and Overview.
+// relations:
+//   - implements /ash/accelerators/keyboard_code_util.h
+//   - depends_on /ash/public/cpp/accelerators_util.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accelerators/keyboard_code_util.h"
 
 #include "ash/public/cpp/accelerators_util.h"

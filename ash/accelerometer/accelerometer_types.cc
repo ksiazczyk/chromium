@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccelerometerUpdate implementation for Ash
+// summary: Implements the AccelerometerUpdate class for the Ash shell, including copy semantics, vector access, stability checks of readings against gravity, and resetting stored accelerometer data.
+// relations:
+//   - implements /ash/accelerometer/accelerometer_types.h
+//   - depends_on /base/numerics/math_constants.h
+//   - depends_on /ui/gfx/geometry/vector3d_f.h
+// ---
+
 #include "ash/accelerometer/accelerometer_types.h"
 
 #include <cmath>

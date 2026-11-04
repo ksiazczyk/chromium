@@ -1,0 +1,4 @@
+# Docerion header of ash_strings.grd.
+type: data
+title: Ash localized strings (GRIT)
+summary: GRIT resource file defining the localized UI strings for the Ash shell and generating translated .pak packages for many languages.

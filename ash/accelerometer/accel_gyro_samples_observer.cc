@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccelGyroSamplesObserver implementation
+// summary: Implements the Mojo samples observer that reads accelerometer or gyroscope samples, applies the scale, and forwards them to a callback while handling sensor errors.
+// relations:
+//   - depends_on /ash/accelerometer/accel_gyro_samples_observer.h
+//   - depends_on /ash/accelerometer/accelerometer_constants.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/accelerometer/accel_gyro_samples_observer.h"
 
 #include <utility>

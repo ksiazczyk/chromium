@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for apps/ui/views
+summary: DEPS file restricting which headers this directory may include, allowing grit theme resources, cc/paint, extensions, Skia, and ui headers.

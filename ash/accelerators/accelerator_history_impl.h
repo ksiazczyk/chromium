@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorHistoryImpl class header
+// summary: Declares the AcceleratorHistoryImpl class that tracks the system-wide current and previous key accelerators and the set of currently pressed keys.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/accelerators.h
+//   - depends_on /ui/base/accelerators/accelerator.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_HISTORY_IMPL_H_
 #define ASH_ACCELERATORS_ACCELERATOR_HISTORY_IMPL_H_
 

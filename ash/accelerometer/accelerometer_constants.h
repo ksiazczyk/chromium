@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerometer and gyroscope constants
+// summary: Defines accelerometer and gyroscope channel names, the axis count, and lid and base location strings shared across the accelerometer code.
+// relations:
+//   - depends_on /ash/accelerometer/accelerometer_types.h
+// ---
+
 #ifndef ASH_ACCELEROMETER_ACCELEROMETER_CONSTANTS_H_
 #define ASH_ACCELEROMETER_ACCELEROMETER_CONSTANTS_H_
 

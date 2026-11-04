@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellObserver interface for shell state changes
+// summary: Declares observer callbacks for root window lifecycle, shelf alignment, work area insets, fullscreen and pinned state, dictation, and shell initialization and destruction.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login_status.h
+//   - depends_on /ash/public/cpp/shelf_types.h
+// ---
+
 #ifndef ASH_SHELL_OBSERVER_H_
 #define ASH_SHELL_OBSERVER_H_
 

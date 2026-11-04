@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreTargetAcceleratorHandler implementation
+// summary: Implements pre-target accelerator processing that routes system and reserved key accelerators to the AcceleratorController before the focused window handles them.
+// relations:
+//   - depends_on /ash/accelerators/pre_target_accelerator_handler.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/accelerators/system_shortcut_behavior_policy.h
+// ---
+
 #include "ash/accelerators/pre_target_accelerator_handler.h"
 
 #include <algorithm>

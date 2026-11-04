@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for apps/ui/views
+summary: GN build file defining the views source set containing the app window frame view and listing its build dependencies.
+relations:
+  - depends_on /build/config/ui.gni
+  - depends_on /extensions/buildflags/buildflags.gni
+  - has_part /apps/ui/views/app_window_frame_view.cc

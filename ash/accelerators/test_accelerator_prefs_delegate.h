@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test accelerator prefs delegate header
+// summary: Declares TestAcceleratorPrefsDelegate, a test double of AcceleratorPrefsDelegate that reports enterprise-managed users.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_prefs_delegate.h
+//   - implements /ash/accelerators/accelerator_prefs_delegate.h
+//   - implemented_by /ash/accelerators/test_accelerator_prefs_delegate.cc
+// ---
+
 #ifndef ASH_ACCELERATORS_TEST_ACCELERATOR_PREFS_DELEGATE_H_
 #define ASH_ACCELERATORS_TEST_ACCELERATOR_PREFS_DELEGATE_H_
 

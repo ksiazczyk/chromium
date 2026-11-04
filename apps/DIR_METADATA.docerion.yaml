@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the apps folder
+summary: Points the apps directory metadata at the shared COMMON_METADATA settings.
+relations:
+  - depends_on /apps/COMMON_METADATA

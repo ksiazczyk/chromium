@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator tables and categories
+// summary: Defines accelerator data tables, deprecated accelerator metadata, and the special accelerator categories such as Ash reserved, preferred, and browser reserved actions.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/accelerators.h
+//   - depends_on /ui/base/accelerators/accelerator.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_TABLE_H_
 #define ASH_ACCELERATORS_ACCELERATOR_TABLE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System shortcut behavior policy header
+// summary: Declares the SystemShortcutBehaviorType enum plus functions to register and read the system shortcut behavior policy preference.
+// relations:
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/shell.h
+//   - depends_on /components/prefs/pref_registry_simple.h
+// ---
+
 #ifndef ASH_ACCELERATORS_SYSTEM_SHORTCUT_BEHAVIOR_POLICY_H_
 #define ASH_ACCELERATORS_SYSTEM_SHORTCUT_BEHAVIOR_POLICY_H_
 

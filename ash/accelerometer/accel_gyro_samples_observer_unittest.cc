@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccelGyroSamplesObserver unit tests
+// summary: Unit tests for AccelGyroSamplesObserver using fake sensor devices, covering missing channels, repeated start errors, and sample delivery.
+// relations:
+//   - tests /ash/accelerometer/accel_gyro_samples_observer.h
+//   - depends_on /ash/accelerometer/accelerometer_constants.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/accelerometer/accel_gyro_samples_observer.h"
 
 #include <array>

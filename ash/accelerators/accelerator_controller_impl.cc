@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator controller implementation
+// summary: Implements AcceleratorControllerImpl, which registers and dispatches global keyboard accelerators in the Ash shell and records usage metrics.
+// relations:
+//   - implements /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/accelerators/accelerator_capslock_state_machine.h
+//   - depends_on /ash/accelerators/accelerator_commands.h
+// ---
+
 #include "ash/accelerators/accelerator_controller_impl.h"
 
 #include <string>

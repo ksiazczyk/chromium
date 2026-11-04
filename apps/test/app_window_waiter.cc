@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppWindowWaiter implementation
+// summary: Implements the AppWindowWaiter test helper, which runs a RunLoop until an app window for a given app ID is added, shown, or activated, with an optional timeout variant.
+// relations:
+//   - implements /apps/test/app_window_waiter.h
+//   - depends_on /base/task/single_thread_task_runner.h
+//   - depends_on /extensions/browser/app_window/app_window.h
+// ---
+
 #include "apps/test/app_window_waiter.h"
 
 #include "base/task/single_thread_task_runner.h"

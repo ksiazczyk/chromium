@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the apps component
+summary: GN build file defining the apps static library plus test support, unit test and browser test targets for Chromium platform apps.
+relations:
+  - references /build/config/ui.gni
+  - references /extensions/buildflags/buildflags.gni
+  - has_part /apps/app_lifetime_monitor.cc

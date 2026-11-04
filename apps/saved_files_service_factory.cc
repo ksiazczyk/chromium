@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavedFilesServiceFactory implementation
+// summary: Implements the browser-context keyed service factory that creates SavedFilesService instances, redirecting incognito contexts to the original profile so guest sessions can use the service.
+// relations:
+//   - depends_on /apps/saved_files_service_factory.h
+//   - depends_on /apps/saved_files_service.h
+//   - depends_on /components/keyed_service/content/browser_context_dependency_manager.h
+// ---
+
 #include "apps/saved_files_service_factory.h"
 
 #include "apps/saved_files_service.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShortcutInputHandler implementation
+// summary: Intercepts key events and notifies observers with key details for shortcut capture in the Peripheral Customization and Shortcut Customization features.
+// relations:
+//   - implements /ash/accelerators/shortcut_input_handler.h
+//   - depends_on /ash/events/event_rewriter_controller_impl.h
+//   - depends_on /ash/public/cpp/accelerators_util.h
+// ---
+
 #include "ash/accelerators/shortcut_input_handler.h"
 
 #include "ash/events/event_rewriter_controller_impl.h"

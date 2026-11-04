@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellDelegate default method implementations
+// summary: Provides default implementations of ShellDelegate virtual methods, returning permissive or empty values for touch actions, media session, and UI dev tools.
+// relations:
+//   - implements /ash/shell_delegate.h
+// ---
+
 #include "ash/shell_delegate.h"
 
 namespace ash {

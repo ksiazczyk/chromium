@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModifierKeyComboRecorder implementation
+// summary: Records keyboard input metrics by hashing pressed key categories with modifier flags, distinguishing left and right modifiers, into the ModifierKeyCombo histogram.
+// relations:
+//   - implements /ash/accelerators/modifier_key_combo_recorder.h
+//   - depends_on /ash/events/event_rewriter_controller_impl.h
+//   - depends_on /ash/events/prerewritten_event_forwarder.h
+// ---
+
 #include "ash/accelerators/modifier_key_combo_recorder.h"
 
 #include <optional>

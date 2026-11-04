@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System shortcut behavior policy implementation
+// summary: Resolves the active system shortcut behavior from enterprise policy preferences or from SystemShortcutBehavior feature flag parameters.
+// relations:
+//   - implements /ash/accelerators/system_shortcut_behavior_policy.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/accelerators/system_shortcut_behavior_policy.h"
 
 #include "ash/constants/ash_features.h"

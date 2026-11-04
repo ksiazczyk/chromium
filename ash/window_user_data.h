@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowUserData template for window-associated objects
+// summary: Template class that associates user data with aura windows and destroys it when the window or the container is destroyed, avoiding property key collisions.
+// relations:
+//   - depends_on /ui/aura/window.h
+//   - depends_on /ui/aura/window_observer.h
+// ---
+
 #ifndef ASH_WINDOW_USER_DATA_H_
 #define ASH_WINDOW_USER_DATA_H_
 

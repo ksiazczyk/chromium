@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootWindowController class declaration
+// summary: Declares the class that maintains per-root-window state for ash, with factory methods for primary and secondary displays and accessors for owned components.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/ash_color_provider_source.h
+//   - depends_on /ash/wm/overview/overview_metrics.h
+// ---
+
 #ifndef ASH_ROOT_WINDOW_CONTROLLER_H_
 #define ASH_ROOT_WINDOW_CONTROLLER_H_
 

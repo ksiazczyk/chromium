@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MagnifierKeyScroller implementation
+// summary: Implements a KeyHoldDetector delegate that scrolls the fullscreen magnifier when Shift and arrow keys are pressed and held.
+// relations:
+//   - implements /ash/accelerators/magnifier_key_scroller.h
+//   - depends_on /ash/accelerators/key_hold_detector.h
+//   - depends_on /ash/accessibility/magnifier/fullscreen_magnifier_controller.h
+// ---
+
 #include "ash/accelerators/magnifier_key_scroller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cancel mode dispatch declaration
+// summary: Declares DispatchCancelMode, which sends a CancelMode event to all window hierarchies.
+// ---
+
 #ifndef ASH_CANCEL_MODE_H_
 #define ASH_CANCEL_MODE_H_
 

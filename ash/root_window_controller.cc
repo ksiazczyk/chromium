@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root window controller implementation
+// summary: Implements per-root-window state for the ash shell, owning the root window and components like the shelf, status area, and layout managers.
+// relations:
+//   - depends_on /ash/root_window_controller.h
+//   - depends_on /ash/accessibility/chromevox/touch_exploration_controller.h
+//   - depends_on /ash/accessibility/chromevox/touch_exploration_manager.h
+// ---
+
 #include "ash/root_window_controller.h"
 
 #include <algorithm>

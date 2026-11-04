@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the apps directory
+summary: Defines allowed include dependencies for the apps directory, with special test-only allowances for Chrome headers.

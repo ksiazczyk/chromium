@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash debug toggles declaration
+// summary: Declares exported functions to toggle debug borders, the FPS counter, and paint rects via layer tree debug state.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_DEBUG_H_
 #define ASH_DEBUG_H_
 

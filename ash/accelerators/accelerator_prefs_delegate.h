@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorPrefsDelegate interface
+// summary: Declares an abstract delegate interface that lets AcceleratorPrefs determine whether the user is enterprise managed without depending on //chrome classes.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_PREFS_DELEGATE_H_
 #define ASH_ACCELERATORS_ACCELERATOR_PREFS_DELEGATE_H_
 

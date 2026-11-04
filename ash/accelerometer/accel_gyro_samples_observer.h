@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccelGyroSamplesObserver class declaration
+// summary: Declares the AccelGyroSamplesObserver class that observes accelerometer or gyroscope devices over Mojo, enables channels, and delivers scaled samples to its owner.
+// relations:
+//   - depends_on /ash/accelerometer/accelerometer_constants.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/sequence_checker.h
+// ---
+
 #ifndef ASH_ACCELEROMETER_ACCEL_GYRO_SAMPLES_OBSERVER_H_
 #define ASH_ACCELEROMETER_ACCEL_GYRO_SAMPLES_OBSERVER_H_
 

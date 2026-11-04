@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RapidKeySequenceRecorder class declaration
+// summary: Declares a PrerewrittenEventForwarder observer that emits metrics when a shift key is double-tapped within a short time window.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/events/prerewritten_event_forwarder.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_ACCELERATORS_RAPID_KEY_SEQUENCE_RECORDER_H_
 #define ASH_ACCELERATORS_RAPID_KEY_SEQUENCE_RECORDER_H_
 

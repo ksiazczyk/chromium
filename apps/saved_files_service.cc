@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavedFilesService implementation
+// summary: Implements the service that tracks and persists files Chrome apps retain access to via the fileSystem API, storing entries in ExtensionPrefs with LRU sequence numbers and eviction limits.
+// relations:
+//   - depends_on /apps/saved_files_service.h
+//   - depends_on /apps/saved_files_service_factory.h
+//   - depends_on /base/json/values_util.h
+// ---
+
 #include "apps/saved_files_service.h"
 
 #include <stdint.h>

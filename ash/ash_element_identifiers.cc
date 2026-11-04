@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Definitions of exported Ash UI element identifiers
+// summary: Defines the exported element identifier values used to locate Ash UI elements such as quick settings, network views, the launcher and emoji picker.
+// relations:
+//   - implements /ash/ash_element_identifiers.h
+//   - depends_on /ui/base/interaction/element_identifier.h
+// ---
+
 #include "ash/ash_element_identifiers.h"
 
 #include "ui/base/interaction/element_identifier.h"

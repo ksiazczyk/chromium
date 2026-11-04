@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash debug hierarchy printing
+// summary: Implements debug helpers that print layer, view, and window hierarchies, focusing on the window under the mouse when a button is pressed.
+// relations:
+//   - depends_on /ash/debug.h
+//   - depends_on /ash/public/cpp/debug_utils.h
+//   - depends_on /ash/root_window_controller.h
+// ---
+
 #include "ash/debug.h"
 
 #include <memory>

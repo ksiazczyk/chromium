@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorCommands implementation
+// summary: Implements Ash accelerator actions, wiring shortcuts to system features such as magnifier, capture mode, overview, and window management.
+// relations:
+//   - implements /ash/accelerators/accelerator_commands.h
+//   - depends_on /ash/accelerators/accelerator_lookup.h
+//   - depends_on /ash/accelerators/accelerator_notifications.h
+// ---
+
 #include "ash/accelerators/accelerator_commands.h"
 
 #include <algorithm>

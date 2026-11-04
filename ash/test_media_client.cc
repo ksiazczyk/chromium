@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test media client implementation
+// summary: Implements a fake MediaClient that counts media key handling calls to simulate Chrome behavior when testing ash in isolation.
+// relations:
+//   - depends_on /ash/test_media_client.h
+// ---
+
 #include "ash/test_media_client.h"
 
 namespace ash {

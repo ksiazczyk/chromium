@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shutdown controller implementation
+// summary: Implements device shutdown and reboot by sending requests to the Chrome OS power manager over D-Bus, with a desktop fallback that signs out.
+// relations:
+//   - implements /ash/shutdown_controller_impl.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/shutdown_controller_impl.h"
 
 #include <utility>

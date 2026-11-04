@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator table consistency tests
+// summary: Unit tests that check accelerator tables for duplicate entries and validate reserved, allowed, repeatable, and deprecated accelerator lists.
+// relations:
+//   - tests /ash/accelerators/accelerator_table.h
+//   - depends_on /ash/public/cpp/accelerators.h
+//   - depends_on /ash/test/ash_test_util.h
+// ---
+
 #include "ash/accelerators/accelerator_table.h"
 
 #include <set>

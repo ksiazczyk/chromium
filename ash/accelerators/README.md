@@ -1,3 +1,9 @@
+---
+type: readme
+title: Accelerator handling flow in Ash
+summary: Explains how Ash processes keyboard accelerators through pre-target, target, and post-target phases, including the remote window case via WindowService.
+---
+
 This directory contains code for handling accelerators in Ash. The following
 documents the flow of accelerators.
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apps keyed service factory helpers
+// summary: Ensures the apps keyed service factories are built and notifies the restore and saved files services when the application is terminating.
+// relations:
+//   - depends_on /apps/browser_context_keyed_service_factories.h
+//   - depends_on /apps/app_lifetime_monitor_factory.h
+//   - depends_on /apps/app_restore_service.h
+// ---
+
 #include "apps/browser_context_keyed_service_factories.h"
 
 #include "apps/app_lifetime_monitor_factory.h"

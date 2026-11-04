@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DIP work area unit tests
+// summary: Unit tests verifying that the window manager computes correct work area and shelf insets across different display scale factors.
+// relations:
+//   - depends_on /ash/public/cpp/shelf_config.h
+//   - depends_on /ash/shelf/shelf.h
+//   - depends_on /ash/shelf/shelf_widget.h
+// ---
+
 #include <algorithm>
 #include <vector>
 

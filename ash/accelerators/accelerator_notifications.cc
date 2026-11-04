@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorNotifications implementation
+// summary: Implements system notifications for deprecated accelerators and accessibility toggles such as magnifier, high contrast, and spoken feedback.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_notifications.h
+//   - depends_on /ash/accelerators/accelerator_lookup.h
+//   - depends_on /ash/accelerators/ash_accelerator_configuration.h
+// ---
+
 #include "ash/accelerators/accelerator_notifications.h"
 
 #include <algorithm>

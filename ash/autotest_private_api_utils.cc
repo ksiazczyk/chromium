@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autotest private API utilities
+// summary: Provides waiter helpers that block until launcher and home launcher animations reach a target state, for use by autotest private APIs.
+// relations:
+//   - depends_on /ash/public/cpp/autotest_private_api_utils.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/app_list_presenter_impl.h
+// ---
+
 #include "ash/public/cpp/autotest_private_api_utils.h"
 
 #include <optional>

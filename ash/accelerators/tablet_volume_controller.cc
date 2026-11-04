@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet volume controller implementation
+// summary: Parses side volume button location info and decides whether volume buttons should be swapped based on device orientation in tablet mode.
+// relations:
+//   - implements /ash/accelerators/tablet_volume_controller.h
+//   - depends_on /ash/constants/ash_switches.h
+//   - depends_on /ash/display/screen_orientation_controller.h
+// ---
+
 #include "ash/accelerators/tablet_volume_controller.h"
 
 #include "ash/constants/ash_switches.h"

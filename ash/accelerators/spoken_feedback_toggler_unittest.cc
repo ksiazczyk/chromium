@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spoken feedback toggler unit tests
+// summary: Unit tests verifying that pressing and holding Shift+F6 toggles spoken feedback and that single presses pass through to the focused window.
+// relations:
+//   - tests /ash/accelerators/spoken_feedback_toggler.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accelerators/spoken_feedback_toggler.h"
 #include "ash/accessibility/accessibility_controller.h"
 #include "ash/shell.h"

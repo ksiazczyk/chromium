@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppLifetimeMonitor implementation
+// summary: Implements monitoring of platform app start, stop, activation and deactivation events and notifies registered observers.
+// relations:
+//   - implements /apps/app_lifetime_monitor.h
+//   - depends_on /base/observer_list.h
+//   - depends_on /content/public/browser/browser_context.h
+// ---
+
 #include "apps/app_lifetime_monitor.h"
 
 #include "base/observer_list.h"

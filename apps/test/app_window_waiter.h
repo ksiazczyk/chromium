@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppWindowWaiter class declaration
+// summary: Declares the AppWindowWaiter test helper, an AppWindowRegistry observer that blocks tests until an app window is added, shown, or activated, with a timeout variant for showing.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/run_loop.h
+//   - depends_on /extensions/browser/app_window/app_window_registry.h
+// ---
+
 #ifndef APPS_TEST_APP_WINDOW_WAITER_H_
 #define APPS_TEST_APP_WINDOW_WAITER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apps keyed service factory helper declarations
+// summary: Declares helpers to build the apps BrowserContextKeyedServiceFactories and to notify relevant services of application termination.
+// ---
+
 #ifndef APPS_BROWSER_CONTEXT_KEYED_SERVICE_FACTORIES_H_
 #define APPS_BROWSER_CONTEXT_KEYED_SERVICE_FACTORIES_H_
 

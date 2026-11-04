@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for accelerator unittests
+summary: Grants the alias converter and lookup unittests include access to the fake udev loader header used for keyboard device testing.

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerometer types header for Ash
+// summary: Declares the AccelerometerSource enum, AccelerometerReading struct, and AccelerometerUpdate class that store and manage readings from the screen and attached-keyboard accelerometers in Ash.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_ACCELEROMETER_ACCELEROMETER_TYPES_H_
 #define ASH_ACCELEROMETER_ACCELEROMETER_TYPES_H_
 

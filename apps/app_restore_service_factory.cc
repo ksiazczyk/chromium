@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRestoreServiceFactory implementation
+// summary: Implements the BrowserContextKeyedServiceFactory singleton that creates and provides AppRestoreService instances per browser context.
+// relations:
+//   - implements /apps/app_restore_service_factory.h
+//   - depends_on /apps/app_lifetime_monitor_factory.h
+//   - depends_on /apps/app_restore_service.h
+// ---
+
 #include "apps/app_restore_service_factory.h"
 
 #include "apps/app_lifetime_monitor_factory.h"

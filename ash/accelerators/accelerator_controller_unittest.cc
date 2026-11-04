@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator controller unit tests
+// summary: Extensive unit tests for the Ash accelerator controller covering accelerator actions, preferences, and system shortcut behavior.
+// relations:
+//   - tests /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/accelerators/accelerator_commands.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+// ---
+
 #include <optional>
 #include <utility>
 

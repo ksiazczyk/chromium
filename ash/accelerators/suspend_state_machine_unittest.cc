@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suspend state machine unit tests
+// summary: Tests suspend triggering, cancellation and recorded metrics using a mock input controller and a fake power manager client.
+// relations:
+//   - tests /ash/accelerators/suspend_state_machine.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /base/test/metrics/histogram_tester.h
+// ---
+
 #include "ash/accelerators/suspend_state_machine.h"
 
 #include "ash/test/ash_test_base.h"

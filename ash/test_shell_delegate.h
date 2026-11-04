@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestShellDelegate test double for the Ash shell
+// summary: Test implementation of ShellDelegate that lets Ash tests override MultiDeviceSetup binding, user education delegate creation, and specialized feature feedback callbacks.
+// relations:
+//   - depends_on /ash/public/cpp/tab_strip_delegate.h
+//   - depends_on /ash/shell_delegate.h
+//   - implements /ash/shell_delegate.h
+// ---
+
 #ifndef ASH_TEST_SHELL_DELEGATE_H_
 #define ASH_TEST_SHELL_DELEGATE_H_
 

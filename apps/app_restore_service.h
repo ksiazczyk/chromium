@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRestoreService class declaration
+// summary: Declares the AppRestoreService keyed service that tracks apps needing restart on browser restart and observes app lifetime events.
+// relations:
+//   - depends_on /apps/app_lifetime_monitor.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /components/keyed_service/core/keyed_service.h
+// ---
+
 #ifndef APPS_APP_RESTORE_SERVICE_H_
 #define APPS_APP_RESTORE_SERVICE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspend state machine header
+// summary: Declares SuspendStateMachine, an event handler that triggers suspend via power_manager after all keys are released to prevent an instant wake-up.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/base/accelerators/accelerator.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_ACCELERATORS_SUSPEND_STATE_MACHINE_H_
 #define ASH_ACCELERATORS_SUSPEND_STATE_MACHINE_H_
 

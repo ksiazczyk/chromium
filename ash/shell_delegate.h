@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellDelegate interface for browser-provided behavior
+// summary: Declares the ShellDelegate interface through which the browser supplies feature delegates such as capture mode, clipboard history, nearby share, and accessibility.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/tab_strip_delegate.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #ifndef ASH_SHELL_DELEGATE_H_
 #define ASH_SHELL_DELEGATE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AcceleratorTracker unit tests
+// summary: Unit tests verifying that AcceleratorTracker records user actions only for tracked key combinations and that all tracked action strings use the AccelTracker_ prefix.
+// relations:
+//   - tests /ash/accelerators/accelerator_tracker.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /base/strings/string_util.h
+// ---
+
 #include "ash/accelerators/accelerator_tracker.h"
 
 #include <string_view>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debug window hierarchy unit tests
+// summary: Tests PrintWindowHierarchy behavior across two displays, covering mouse-pressed focus, wallpaper fallback, and non-client area exclusions.
+// relations:
+//   - depends_on /ash/public/cpp/debug_utils.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include <algorithm>
 #include <sstream>
 #include <string>

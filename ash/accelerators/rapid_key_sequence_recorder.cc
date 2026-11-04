@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RapidKeySequenceRecorder implementation
+// summary: Records UMA histograms for double-tapped left and right shift keys within 500 ms by observing pre-rewrite key input events.
+// relations:
+//   - depends_on /ash/events/event_rewriter_controller_impl.h
+//   - depends_on /ash/events/prerewritten_event_forwarder.h
+//   - depends_on /ash/public/cpp/accelerators_util.h
+// ---
+
 #include "ash/accelerators/rapid_key_sequence_recorder.h"
 
 #include <optional>

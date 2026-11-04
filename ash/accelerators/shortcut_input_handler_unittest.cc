@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShortcutInputHandler unit tests
+// summary: Unit tests verifying observer notifications for pressed and released key events and optional event consumption by ShortcutInputHandler.
+// relations:
+//   - tests /ash/accelerators/shortcut_input_handler.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/accelerators/shortcut_input_handler.h"
 
 #include "ash/public/mojom/input_device_settings.mojom.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell tab handler for keyboard focus to the shelf
+// summary: Declares ShellTabHandler, an event handler that lets keyboard-only users move focus to the shelf with Tab when no non-minimized windows are open.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - implements /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_SHELL_TAB_HANDLER_H_
 #define ASH_SHELL_TAB_HANDLER_H_
 

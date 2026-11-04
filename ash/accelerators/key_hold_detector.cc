@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyHoldDetector implementation
+// summary: Implements an event handler that detects press-and-hold key sequences, notifying a delegate on hold and unhold and synthesizing press events for short clicks.
+// relations:
+//   - implements /ash/accelerators/key_hold_detector.h
+//   - depends_on /ash/shell.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/accelerators/key_hold_detector.h"
 
 #include <tuple>

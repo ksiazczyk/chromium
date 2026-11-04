@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModifierKeyComboRecorder class declaration
+// summary: Declares a metrics recorder that categorizes pressed keys and their modifiers, tracking left or right modifier locations, via the prerewritten event forwarder.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/events/prerewritten_event_forwarder.h
+//   - depends_on /ui/events/event.h
+// ---
+
 #ifndef ASH_ACCELERATORS_MODIFIER_KEY_COMBO_RECORDER_H_
 #define ASH_ACCELERATORS_MODIFIER_KEY_COMBO_RECORDER_H_
 

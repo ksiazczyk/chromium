@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshAcceleratorConfiguration unit tests
+// summary: Unit tests for accelerator customization, covering pref overrides, add, remove, replace and restore-default behavior across user sessions.
+// relations:
+//   - tests /ash/accelerators/ash_accelerator_configuration.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/public/cpp/accelerator_configuration.h
+// ---
+
 #include "ash/accelerators/ash_accelerator_configuration.h"
 
 #include <algorithm>

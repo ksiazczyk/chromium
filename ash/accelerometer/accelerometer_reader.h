@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccelerometerReader class declaration
+// summary: Declares the AccelerometerReader singleton, its observer interface, and the AccelerometerProviderInterface base class for accelerometer access.
+// relations:
+//   - depends_on /ash/accelerometer/accelerometer_types.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/tablet_mode_observer.h
+// ---
+
 #ifndef ASH_ACCELEROMETER_ACCELEROMETER_READER_H_
 #define ASH_ACCELEROMETER_ACCELEROMETER_READER_H_
 

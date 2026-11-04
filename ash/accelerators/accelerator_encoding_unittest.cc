@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator encoding unit tests
+// summary: Unit tests verifying that GetEncodedShortcut encodes key codes and modifier flags into the expected integer values.
+// relations:
+//   - tests /ash/accelerators/accelerator_encoding.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/accelerators/accelerator_encoding.h"
 
 #include "ash/test/ash_test_base.h"

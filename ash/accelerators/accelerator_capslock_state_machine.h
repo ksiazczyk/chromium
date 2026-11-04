@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorCapslockStateMachine class declaration
+// summary: Declares the event handler state machine that tracks Search and Alt key sequences to enable or suppress caps lock toggling.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/event_handler.h
+//   - depends_on /ui/ozone/public/input_controller.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_CAPSLOCK_STATE_MACHINE_H_
 #define ASH_ACCELERATORS_ACCELERATOR_CAPSLOCK_STATE_MACHINE_H_
 

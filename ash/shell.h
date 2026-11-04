@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash Shell class declaration
+// summary: Declares the Shell class, the central object that owns and exposes the Ash system UI's controllers, delegates, and event handling infrastructure.
+// relations:
+//   - depends_on /ash/accelerators/modifier_key_combo_recorder.h
+//   - depends_on /ash/accessibility/accessibility_event_handler_manager.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_SHELL_H_
 #define ASH_SHELL_H_
 

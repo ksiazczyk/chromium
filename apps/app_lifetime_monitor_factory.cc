@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppLifetimeMonitorFactory implementation
+// summary: Implements the browser context keyed service factory that creates and provides AppLifetimeMonitor instances.
+// relations:
+//   - implements /apps/app_lifetime_monitor_factory.h
+//   - depends_on /apps/app_lifetime_monitor.h
+//   - depends_on /components/keyed_service/content/browser_context_dependency_manager.h
+// ---
+
 #include "apps/app_lifetime_monitor_factory.h"
 
 #include "apps/app_lifetime_monitor.h"

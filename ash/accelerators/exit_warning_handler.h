@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExitWarningHandler class declaration
+// summary: Declares ExitWarningHandler, which requires the exit shortcut to be pressed twice within a short period and shows a warning widget in between.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/timer/timer.h
+//   - depends_on /ui/base/accelerators/accelerator.h
+// ---
+
 #ifndef ASH_ACCELERATORS_EXIT_WARNING_HANDLER_H_
 #define ASH_ACCELERATORS_EXIT_WARNING_HANDLER_H_
 

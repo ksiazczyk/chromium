@@ -1,3 +1,12 @@
+---
+type: readme
+title: 'Ash: the Chrome OS Aura Shell'
+summary: Describes Ash, the Chrome OS window manager and system UI, covering its dependency structure, testing conventions, prefs and historical notes.
+relations:
+  - references /ash/OWNERS
+  - references /ash/constants/README.md
+---
+
 Ash
 ---
 Ash is the "Aura Shell", the window manager and system UI for Chrome OS.

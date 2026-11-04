@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator filter unit tests
+// summary: Unit tests for the accelerator filter, checking behavior with and without focused windows, Caps Lock masking, and consumption of system keys.
+// relations:
+//   - tests /ui/wm/core/accelerator_filter.h
+//   - depends_on /ui/wm/core/accelerator_filter.h
+//   - depends_on /ash/accelerators/pre_target_accelerator_handler.h
+// ---
+
 #include "ui/wm/core/accelerator_filter.h"
 
 #include <memory>

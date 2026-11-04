@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MagnifierKeyScroller class declaration
+// summary: Declares the MagnifierKeyScroller delegate that controls the magnified screen via held arrow keys, with enablement controls and a scoped test enabler.
+// relations:
+//   - depends_on /ash/accelerators/key_hold_detector.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_ACCELERATORS_MAGNIFIER_KEY_SCROLLER_H_
 #define ASH_ACCELERATORS_MAGNIFIER_KEY_SCROLLER_H_
 

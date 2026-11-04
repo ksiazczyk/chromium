@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator history implementation
+// summary: Implements AcceleratorHistoryImpl, which tracks recent key accelerators and interrupts the current accelerator on mouse events.
+// relations:
+//   - implements /ash/accelerators/accelerator_history_impl.h
+//   - depends_on /ash/accelerators/accelerator_history_impl.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/accelerators/accelerator_history_impl.h"
 
 #include "base/logging.h"

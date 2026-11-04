@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell test API implementation
+// summary: Exposes ash shell internals such as controllers, display manager, and power button state to test code through the ShellTestApi interface.
+// relations:
+//   - implements /ash/public/cpp/test/shell_test_api.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ash/accelerators/accelerator_commands.h
+// ---
+
 #include "ash/public/cpp/test/shell_test_api.h"
 #include "base/memory/raw_ptr.h"
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccelerometerProviderMojo unit tests
+// summary: Unit tests for AccelerometerProviderMojo using a fake sensor HAL server and fake devices to verify sample delivery and lid angle driver status handling.
+// relations:
+//   - tests /ash/accelerometer/accelerometer_provider_mojo.h
+//   - depends_on /ash/accelerometer/accelerometer_constants.h
+//   - depends_on /ash/accelerometer/accelerometer_reader.h
+// ---
+
 #include "ash/accelerometer/accelerometer_provider_mojo.h"
 
 #include <array>

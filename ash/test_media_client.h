@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test media client class declaration
+// summary: Declares TestMediaClient, a MediaClient fake exposing counters for media commands and session suspension for use in ash tests.
+// relations:
+//   - depends_on /ash/public/cpp/media_client.h
+//   - implements /ash/public/cpp/media_client.h
+// ---
+
 #ifndef ASH_TEST_MEDIA_CLIENT_H_
 #define ASH_TEST_MEDIA_CLIENT_H_
 

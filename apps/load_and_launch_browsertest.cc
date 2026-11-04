@@ -6,6 +6,16 @@
 // The two cases are when chrome is running and another process uses the switch
 // and when chrome is started from scratch.
 
+// ---docerion
+// type: test
+// title: Load and launch app browser tests
+// summary: Browser tests for the --load-and-launch-app switch covering the cases where Chrome is already running or started from scratch.
+// relations:
+//   - depends_on /apps/switches.h
+//   - depends_on /base/command_line.h
+//   - depends_on /base/process/launch.h
+// ---
+
 #include <algorithm>
 #include <iterator>
 

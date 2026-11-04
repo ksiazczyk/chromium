@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorAliasConverter class declaration
+// summary: Declares the converter that produces display aliases for accelerators containing top row, six pack, or reversed six pack keys.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/base/accelerators/accelerator.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_ALIAS_CONVERTER_H_
 #define ASH_ACCELERATORS_ACCELERATOR_ALIAS_CONVERTER_H_
 

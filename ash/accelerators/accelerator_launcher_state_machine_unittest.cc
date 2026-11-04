@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AcceleratorLauncherStateMachine unit tests
+// summary: Parameterized unit tests exercising launcher state machine transitions across key and mouse event sequences using a mocked input controller.
+// relations:
+//   - tests /ash/accelerators/accelerator_launcher_state_machine.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #include "ash/accelerators/accelerator_launcher_state_machine.h"
 
 #include <variant>

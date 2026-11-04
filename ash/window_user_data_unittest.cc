@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowUserData unit tests
+// summary: Ash unit tests verifying that WindowUserData destroys data on clear, replaces existing data on Set, and removes data when Set is called with null.
+// relations:
+//   - tests /ash/window_user_data.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #include "ash/window_user_data.h"
 
 #include <memory>
