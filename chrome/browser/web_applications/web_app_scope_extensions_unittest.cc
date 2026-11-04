@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app scope extensions unit tests
+// summary: Unit tests covering scope extension handling, including scope change notifications on reinstall and scope scoring.
+// ---
+
 #include "base/test/test_future.h"
 #include "chrome/browser/web_applications/scheduler/manifest_silent_update_result.h"
 #include "chrome/browser/web_applications/test/fake_web_app_origin_association_manager.h"

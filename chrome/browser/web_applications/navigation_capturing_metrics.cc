@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation capturing metrics implementation
+// summary: Implements stream output operators for navigation capturing result enums used when recording metrics histograms.
+// ---
+
 #include "chrome/browser/web_applications/navigation_capturing_metrics.h"
 
 #include <ostream>

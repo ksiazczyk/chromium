@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app tab helper implementation
+// summary: Implements the per-tab helper that associates web contents with web apps and tracks navigation and app window state.
+// ---
+
 #include "chrome/browser/web_applications/web_app_tab_helper.h"
 
 #include <memory>

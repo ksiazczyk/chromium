@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for web app installs
+summary: Declares the bug tracking component and team email used for issues filed against this directory.

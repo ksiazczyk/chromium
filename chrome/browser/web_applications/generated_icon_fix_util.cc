@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated icon fix utilities implementation
+// summary: Implements helpers for generated icon fix time windows, attempt limits and throttling stored in web app proto state.
+// ---
+
 #include "chrome/browser/web_applications/generated_icon_fix_util.h"
 
 #include <stdint.h>

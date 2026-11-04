@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app registrar unit tests
+// summary: Unit tests covering web app registrar behavior including registry creation, navigation capturing settings, uninstall flows and sync-driven updates.
+// ---
+
 #include "chrome/browser/web_applications/web_app_registrar.h"
 
 #include <algorithm>

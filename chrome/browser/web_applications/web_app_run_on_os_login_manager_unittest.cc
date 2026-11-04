@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Run on OS login manager unit tests
+// summary: Unit tests verifying run on OS login modes, app launching and notification behavior for web apps on ChromeOS.
+// ---
+
 #include "chrome/browser/web_applications/web_app_run_on_os_login_manager.h"
 
 #include <cstddef>

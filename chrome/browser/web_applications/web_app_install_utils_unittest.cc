@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Install Utils Unit Tests
+// summary: Unit tests verifying icon population, shortcut item icons, and other manifest-to-install-info conversion helpers in web_app_install_utils.
+// ---
+
 #include "chrome/browser/web_applications/web_app_install_utils.h"
 
 #include <stddef.h>

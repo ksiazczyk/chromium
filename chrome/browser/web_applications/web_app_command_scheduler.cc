@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Command Scheduler Implementation
+// summary: Implements the scheduler that queues web app commands for installing, updating, launching, and uninstalling apps.
+// ---
+
 #include "chrome/browser/web_applications/web_app_command_scheduler.h"
 
 #include <memory>

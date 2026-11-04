@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Publisher Helper Unit Tests
+// summary: Unit tests covering the web app publisher helper's app publishing, file handling, and link capturing logic.
+// ---
+
 #include "chrome/browser/web_applications/app_service/web_app_publisher_helper.h"
 
 #include <initializer_list>

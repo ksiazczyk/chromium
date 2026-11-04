@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app utilities header
+// summary: Declares shared web app helpers for profile enablement, install policies, browser context selection and web app storage directory paths.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_UTILS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_UTILS_H_
 

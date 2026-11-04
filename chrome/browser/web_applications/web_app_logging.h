@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app logging header
+// summary: Declares PersistableLog, which holds web app log entries in memory or persists them to disk with rotation, for display on the web app internals debug page.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_LOGGING_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_LOGGING_H_
 

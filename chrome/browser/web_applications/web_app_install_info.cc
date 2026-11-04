@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Install Info Implementation
+// summary: Implements WebAppShortcutsMenuItemInfo and icon-related structures that carry web app install data such as shortcut icons
+// ---
+
 #include "chrome/browser/web_applications/web_app_install_info.h"
 
 #include <string>

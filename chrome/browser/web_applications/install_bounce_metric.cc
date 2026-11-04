@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install bounce metric implementation
+// summary: Records web app install timestamps and sources in profile preferences and reports an install-bounce UMA histogram when an app is uninstalled within an hour.
+// ---
+
 #include "chrome/browser/web_applications/install_bounce_metric.h"
 
 #include "base/metrics/histogram_macros.h"

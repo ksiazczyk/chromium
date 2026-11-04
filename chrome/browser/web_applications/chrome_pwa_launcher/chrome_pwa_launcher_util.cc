@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helper to locate chrome_pwa_launcher.exe
+// summary: Returns the path of the launcher executable under the versioned directory, falling back to the executable directory in dev builds.
+// ---
+
 #include "chrome/browser/web_applications/chrome_pwa_launcher/chrome_pwa_launcher_util.h"
 
 #include "base/files/file_util.h"

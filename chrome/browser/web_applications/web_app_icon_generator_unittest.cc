@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Icon Generator Unit Tests
+// summary: Unit tests validating that downloaded icons are resized, generated, and constrained to the expected icon sizes by the icon generator.
+// ---
+
 #include "chrome/browser/web_applications/web_app_icon_generator.h"
 
 #include <string>

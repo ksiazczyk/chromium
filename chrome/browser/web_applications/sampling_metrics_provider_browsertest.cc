@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sampling metrics provider browser tests
+// summary: Browser tests checking WebApp.Engagement2 histogram emissions and crash-free metric measurement while an app window is closing.
+// ---
+
 #include "chrome/browser/web_applications/sampling_metrics_provider.h"
 
 #include "base/run_loop.h"

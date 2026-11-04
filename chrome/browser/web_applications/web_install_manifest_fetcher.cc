@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Install Manifest Fetcher
+// summary: Downloads a web app manifest JSON over HTTPS or localhost for the Web Install API, enforcing a size limit and handling redirects and retries.
+// ---
+
 #include "chrome/browser/web_applications/web_install_manifest_fetcher.h"
 
 #include <optional>

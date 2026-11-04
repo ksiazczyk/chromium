@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Daily web app metrics helper unit tests
+// summary: Unit tests verifying that daily web app UKM records are emitted once per URL and day with the latest values.
+// ---
+
 #include "chrome/browser/web_applications/daily_metrics_helper.h"
 
 #include <stdint.h>

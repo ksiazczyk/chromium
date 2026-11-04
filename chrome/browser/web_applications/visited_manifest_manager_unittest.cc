@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visited manifest manager unit tests
+// summary: Unit tests verifying scope-controlled URL checks, LRU behavior, and time-range clearing in the visited manifest manager.
+// ---
+
 #include "chrome/browser/web_applications/visited_manifest_manager.h"
 
 #include "base/feature_list.h"

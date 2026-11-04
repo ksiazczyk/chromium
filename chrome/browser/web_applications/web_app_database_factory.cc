@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Database Factory Implementation
+// summary: Provides the profile-backed sync store factory used to open the web app database and reports app sync status.
+// ---
+
 #include "chrome/browser/web_applications/web_app_database_factory.h"
 
 #include "base/feature_list.h"

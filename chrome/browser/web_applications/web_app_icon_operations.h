@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Icon Operations Header
+// summary: Declares IconUrlWithSize and helpers that collect valid icon URLs and sizes to download for web app installs and updates
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_ICON_OPERATIONS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_ICON_OPERATIONS_H_
 

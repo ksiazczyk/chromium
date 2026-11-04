@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the App Service publisher directory
+summary: Delegates code ownership to the owners listed in the App Service component OWNERS file.

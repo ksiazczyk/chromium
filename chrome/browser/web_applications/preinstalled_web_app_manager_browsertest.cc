@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preinstalled Web App Manager Browser Tests
+// summary: Browser tests covering installation, update, uninstall, and migration-related behavior of the preinstalled web app manager.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_app_manager.h"
 
 #include <string_view>

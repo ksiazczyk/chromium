@@ -1,0 +1,4 @@
+# Docerion header of chrome_pwa_launcher_exe.rc.
+type: source
+title: Windows resource script for the launcher icon
+summary: Selects the branded or generic chrome_pwa_launcher icon depending on the Chrome branding build flag.

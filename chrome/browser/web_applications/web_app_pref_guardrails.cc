@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app pref guardrails implementation
+// summary: Implements preference-based guardrails that mute install prompts and IPH bubbles after users repeatedly ignore or dismiss them for web apps.
+// ---
+
 #include "chrome/browser/web_applications/web_app_pref_guardrails.h"
 
 #include <optional>

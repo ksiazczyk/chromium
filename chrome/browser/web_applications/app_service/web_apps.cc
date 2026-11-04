@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Apps App Service Publisher Implementation
+// summary: Implements the WebApps App Service publisher that publishes web apps and handles icon loading, launches, permissions, and uninstall.
+// ---
+
 #include "chrome/browser/web_applications/app_service/web_apps.h"
 
 #include <utility>

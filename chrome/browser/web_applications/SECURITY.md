@@ -1,3 +1,12 @@
+---
+type: note
+title: WebAppProvider security notes
+summary: Documents the threat model, explicit non-bugs, and accepted security risks for the desktop web apps system.
+relations:
+  - references /components/webapps/SECURITY.md
+  - references /docs/security/security-for-agents.md
+---
+
 # Web Apps (WebAppProvider) Security Notes
 
 Supplemental security facts for `//chrome/browser/web_applications/` (excluding

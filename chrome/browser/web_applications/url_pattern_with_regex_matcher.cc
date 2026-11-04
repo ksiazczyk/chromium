@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL pattern with regex matcher implementation
+// summary: Implements URL matching against safe URL patterns by compiling pattern parts into RE2 regex sets for each URL component.
+// ---
+
 #include "chrome/browser/web_applications/url_pattern_with_regex_matcher.h"
 
 #include <optional>

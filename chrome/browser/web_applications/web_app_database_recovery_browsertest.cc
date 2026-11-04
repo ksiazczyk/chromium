@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Database Recovery Browser Test
+// summary: Browser test verifying that the web app database is reset and installed apps removed when a database version downgrade is detected on startup.
+// ---
+
 #include <string_view>
 
 #include "base/auto_reset.h"

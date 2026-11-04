@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app audio focus browser tests
+// summary: Browser tests verifying that PWAs have separate audio focus from the rest of the browser across link capturing feature versions.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "base/types/expected.h"
 #include "base/unguessable_token.h"

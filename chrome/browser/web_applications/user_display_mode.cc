@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User display mode conversions
+// summary: Implements conversions between mojom and sync protobuf user display modes and platform-specific resolution for ChromeOS.
+// ---
+
 #include "chrome/browser/web_applications/user_display_mode.h"
 
 #include "base/feature_list.h"

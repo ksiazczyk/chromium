@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation capturing aux content focus browser tests
+// summary: Browser tests checking that auxiliary browsing contexts opened by a web app do not regain focus or receive launch params.
+// ---
+
 #include <vector>
 
 #include "build/build_config.h"

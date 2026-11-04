@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Alternative error page override info browser test
+// summary: Browser tests verifying the alternative error page override info returned for installed PWAs, such as themed error page details when offline.
+// ---
+
 #include <string_view>
 
 #include "base/strings/utf_string_conversions.h"

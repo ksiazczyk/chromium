@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Logging Unit Tests
+// summary: Tests PersistableLog behavior including in-memory mode deletion, log entry caps, and disk persistence with rotation.
+// ---
+
 #include "chrome/browser/web_applications/web_app_logging.h"
 
 #include "base/files/file_enumerator.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app automation browser tests
+// summary: Browser tests checking process singleton handling and Windows shortcut flags when launching web apps with the automation switch.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/threading/thread_restrictions.h"
 #include "chrome/browser/chrome_browser_main.h"

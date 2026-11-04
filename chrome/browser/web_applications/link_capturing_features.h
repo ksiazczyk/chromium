@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link capturing features header
+// summary: Declares link capturing feature flags, the testing override parameter and helper functions for the navigation capturing default state.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_LINK_CAPTURING_FEATURES_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_LINK_CAPTURING_FEATURES_H_
 

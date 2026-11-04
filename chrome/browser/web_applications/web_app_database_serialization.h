@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Database Serialization Header
+// summary: Declares proto-to-WebApp parsing and WebApp-to-proto serialization functions plus the ProtoParseResult enum used for parse outcome histograms.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_DATABASE_SERIALIZATION_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_DATABASE_SERIALIZATION_H_
 

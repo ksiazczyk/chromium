@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App ID helpers implementation
+// summary: Implements generation of web app IDs and manifest IDs from start URLs and manifest id paths, including the double-hashed app ID for backwards compatibility.
+// ---
+
 #include "chrome/browser/web_applications/app_id_helpers.h"
 
 #include "components/crx_file/id_util.h"

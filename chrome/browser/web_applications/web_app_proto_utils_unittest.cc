@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app proto utilities unit tests
+// summary: Unit tests verifying that serialized M85 web app sync protos still parse correctly and that proto-to-struct conversions behave as expected in the current version.
+// ---
+
 #include "chrome/browser/web_applications/web_app_proto_utils.h"
 
 #include <memory>

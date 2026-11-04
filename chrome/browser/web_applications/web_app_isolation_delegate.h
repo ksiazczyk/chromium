@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Isolation Delegate Interface
+// summary: Defines a delegate interface that decouples the core PWA system from Isolated Web App logic such as storage cleanup and app size computation.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_ISOLATION_DELEGATE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_ISOLATION_DELEGATE_H_
 

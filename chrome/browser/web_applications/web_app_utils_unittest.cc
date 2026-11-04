@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Utils Unit Tests
+// summary: Unit tests for web app utility helpers, covering SortedSizesPx ordering and AreWebAppsEnabled behavior across regular, guest, and signin profiles.
+// ---
+
 #include "chrome/browser/web_applications/web_app_utils.h"
 
 #include <memory>

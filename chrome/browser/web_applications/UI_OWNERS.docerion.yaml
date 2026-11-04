@@ -1,0 +1,4 @@
+# Docerion header of UI_OWNERS.
+type: config
+title: UI code owners for web_applications
+summary: Lists owners responsible for reviewing UI-related changes in the web applications directory.

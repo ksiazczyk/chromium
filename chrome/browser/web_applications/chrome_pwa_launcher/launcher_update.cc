@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA launcher update implementation
+// summary: Replaces installed PWA launchers with a hardlink or copy of the latest version, cleans up old launcher copies, and rolls back changes if an update step fails.
+// ---
+
 #include "chrome/browser/web_applications/chrome_pwa_launcher/launcher_update.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Icon Manager Header
+// summary: Declares the WebAppIconManager class, which stores and retrieves web app icon bitmaps on disk and supplies icon metadata for UI and app identity updates.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_ICON_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_ICON_MANAGER_H_
 

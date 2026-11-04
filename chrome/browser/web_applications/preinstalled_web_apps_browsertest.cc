@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preinstalled Web Apps Browser Tests
+// summary: Browser tests verifying that default preinstalled web apps are installed with the expected fields and install states.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_apps/preinstalled_web_apps.h"
 
 #include <array>

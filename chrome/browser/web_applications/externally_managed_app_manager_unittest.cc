@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Externally managed app manager unit tests
+// summary: Unit tests for ExternallyManagedAppManager covering installation and synchronization of externally managed web apps.
+// ---
+
 #include "chrome/browser/web_applications/externally_managed_app_manager.h"
 
 #include <algorithm>

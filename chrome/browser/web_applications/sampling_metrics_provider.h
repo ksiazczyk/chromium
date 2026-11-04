@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling metrics provider class declaration
+// summary: Declares the SamplingMetricsProvider class that computes PWA metrics on a five-minute timer for simple, accurate, and efficient measurement.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SAMPLING_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SAMPLING_METRICS_PROVIDER_H_
 

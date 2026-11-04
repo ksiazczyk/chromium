@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Database Serialization Implementation
+// summary: Implements conversion between WebApp objects and their protobuf representation, including validation of parsed fields and histogram reporting of parse results.
+// ---
+
 #include "chrome/browser/web_applications/web_app_database_serialization.h"
 
 #include <algorithm>

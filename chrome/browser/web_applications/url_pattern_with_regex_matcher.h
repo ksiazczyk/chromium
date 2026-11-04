@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL pattern with regex matcher header
+// summary: Declares a helper class that matches URLs against a blink::SafeUrlPattern using compiled RE2 sets for each URL component.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_URL_PATTERN_WITH_REGEX_MATCHER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_URL_PATTERN_WITH_REGEX_MATCHER_H_
 

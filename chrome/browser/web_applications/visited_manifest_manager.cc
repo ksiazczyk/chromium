@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visited manifest manager implementation
+// summary: Tracks recently seen manifest scopes in an LRU cache to detect whether a URL is controlled by a seen manifest.
+// ---
+
 #include "chrome/browser/web_applications/visited_manifest_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS web app experiments implementation
+// summary: Implements short-term ChromeOS-only experiments for notable web apps, notably Microsoft 365 scope extensions and related link handling behavior.
+// ---
+
 #include "chrome/browser/web_applications/chromeos_web_app_experiments.h"
 
 #include <string_view>

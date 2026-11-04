@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for web_applications
+summary: Defines allowed include paths for the directory, with per-file exceptions for unit and browser tests.

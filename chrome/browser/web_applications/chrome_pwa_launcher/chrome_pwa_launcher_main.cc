@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry point of chrome_pwa_launcher.exe
+// summary: Reads the chrome.exe path from the Last Browser file and launches it with the PWA arguments, version switch, and shortcut metrics.
+// ---
+
 #include <windows.h>
 
 #include "base/command_line.h"

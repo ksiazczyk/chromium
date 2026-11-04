@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generated icon fix manager unit tests
+// summary: Unit tests for GeneratedIconFixManager using a mock network connection tracker to verify scheduling of icon fixes.
+// ---
+
 #include "chrome/browser/web_applications/generated_icon_fix_manager.h"
 
 #include "base/test/task_environment.h"

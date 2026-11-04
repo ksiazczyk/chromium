@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Icon Manager Unit Tests
+// summary: Unit tests covering WebAppIconManager icon writing, reading, resizing, and shortcuts menu icon handling using fake web app provider infrastructure.
+// ---
+
 #include "chrome/browser/web_applications/web_app_icon_manager.h"
 
 #include <algorithm>

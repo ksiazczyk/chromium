@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User uninstalled preinstalled web app prefs header
+// summary: Declares a prefs-backed map from preinstalled web app IDs to install URLs used to keep user-uninstalled preinstalled apps uninstalled.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_USER_UNINSTALLED_PREINSTALLED_WEB_APP_PREFS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_USER_UNINSTALLED_PREINSTALLED_WEB_APP_PREFS_H_
 

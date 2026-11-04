@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app command manager implementation
+// summary: Implements scheduling, locking, logging, and shutdown handling for web app commands executed by the provider.
+// ---
+
 #include "chrome/browser/web_applications/web_app_command_manager.h"
 
 #include <memory>

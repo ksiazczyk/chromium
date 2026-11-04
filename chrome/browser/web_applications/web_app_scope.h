@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app scope class declaration
+// summary: Declares WebAppScope with options for in-scope checks and scope scoring, including handling of scope extensions.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_SCOPE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_SCOPE_H_
 

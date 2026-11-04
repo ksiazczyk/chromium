@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Publisher Unit Tests
+// summary: Unit test fixture for the web apps App Service publisher, setting up a testing profile and web app provider for publisher tests.
+// ---
+
 #include "base/functional/callback.h"
 #include "base/run_loop.h"
 #include "base/scoped_observation.h"

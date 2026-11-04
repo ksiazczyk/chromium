@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Helpers Header
+// summary: Declares web_app helper functions for generating application names, app IDs, and manifest IDs from URLs and web app manifests, plus lookups of installed apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_HELPERS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_HELPERS_H_
 

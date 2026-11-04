@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app sync bridge unit tests
+// summary: Unit tests covering sync entity parsing, registry updates, and install or uninstall flows driven by web app sync data.
+// ---
+
 #include "chrome/browser/web_applications/web_app_sync_bridge.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Logging Implementation
+// summary: Implements PersistableLog, which buffers web app debug log entries and periodically persists them to disk with file rotation.
+// ---
+
 #include "chrome/browser/web_applications/web_app_logging.h"
 
 #include <string>

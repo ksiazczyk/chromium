@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation capturing forced off browser tests
+// summary: Parameterized browser tests verifying that PWA navigation capturing is forced off for apps listed in initial navigation or user setting flags.
+// ---
+
 #include <utility>
 
 #include "base/types/expected.h"

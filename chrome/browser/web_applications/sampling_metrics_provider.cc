@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling metrics provider implementation
+// summary: Implements sampled PWA UKM metrics collection that iterates browser windows every five minutes and records app engagement state.
+// ---
+
 #include "chrome/browser/web_applications/sampling_metrics_provider.h"
 
 #include "base/metrics/histogram_macros.h"

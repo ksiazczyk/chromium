@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preinstalled Web App Manager Unit Tests
+// summary: Unit tests for the preinstalled web app manager, including config parsing and user-type filtering on Chrome OS.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_app_manager.h"
 
 #include <algorithm>

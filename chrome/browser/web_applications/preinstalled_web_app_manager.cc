@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preinstalled Web App Manager Implementation
+// summary: Implements startup installation and synchronization of preinstalled web apps, including config loading, metrics, uninstall prefs, and Chrome OS specifics.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_app_manager.h"
 
 #include <algorithm>

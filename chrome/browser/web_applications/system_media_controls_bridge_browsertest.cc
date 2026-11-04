@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System media controls bridge browser tests
+// summary: macOS-only browser tests verifying the system media controls bridge reacts to media playback in web app windows.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "base/test/bind.h"
 #include "base/test/test_future.h"

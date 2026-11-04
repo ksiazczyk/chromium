@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Externally managed app registration task implementation
+// summary: Implements the registration task that loads the install URL and waits for service worker registration with a timeout.
+// ---
+
 #include "chrome/browser/web_applications/externally_managed_app_registration_task.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation capturing settings implementation
+// summary: Implements navigation capturing settings, including whether auxiliary browsing contexts keep the same app container as their opener.
+// ---
+
 #include "chrome/browser/web_applications/navigation_capturing_settings.h"
 
 #include "chrome/browser/web_applications/web_app_provider.h"

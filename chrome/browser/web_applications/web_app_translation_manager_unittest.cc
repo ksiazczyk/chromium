@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app translation manager unit tests
+// summary: Unit tests covering writing, reading and deleting web app translations through the translation manager using a testing profile and fake web app provider.
+// ---
+
 #include "chrome/browser/web_applications/web_app_translation_manager.h"
 
 #include <initializer_list>

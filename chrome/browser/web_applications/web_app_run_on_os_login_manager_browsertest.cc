@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Run on OS login manager browser tests
+// summary: Browser tests covering launch of web apps on OS login, including isolated web apps, notifications and policy-driven behavior.
+// ---
+
 #include "chrome/browser/web_applications/web_app_run_on_os_login_manager.h"
 
 #include <vector>

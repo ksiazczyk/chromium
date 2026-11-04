@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for chrome_pwa_launcher
+summary: Defines the chrome_pwa_launcher executable, its util source set, and unit test targets for the Windows PWA launcher.

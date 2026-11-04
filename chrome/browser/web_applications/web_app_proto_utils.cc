@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app proto utilities
+// summary: Provides conversion helpers between web app protobuf messages and internal manifest, URL pattern and icon data structures.
+// ---
+
 #include "chrome/browser/web_applications/web_app_proto_utils.h"
 
 #include <optional>

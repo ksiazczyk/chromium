@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Launch Queue Delegate Implementation
+// summary: Implements launch queue validation, app scope checks, and Chrome OS external mount path handling for web app launches.
+// ---
+
 #include "chrome/browser/web_applications/web_app_launch_queue_delegate_impl.h"
 
 #include "base/files/file_path.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the App Service web app publisher
+summary: Defines the app_service source set and unit_tests target with their sources and dependencies for the web app App Service publisher.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Externally managed app manager implementation
+// summary: Implements install, uninstall and update flows for externally managed web apps such as enterprise and device default installs.
+// ---
+
 #include "chrome/browser/web_applications/externally_managed_app_manager.h"
 
 #include <algorithm>

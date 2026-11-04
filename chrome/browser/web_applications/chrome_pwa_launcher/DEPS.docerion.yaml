@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome_pwa_launcher
+summary: Restricts the directory's allowed dependencies to base, web applications, Chrome common, installer util, test, and version info includes.

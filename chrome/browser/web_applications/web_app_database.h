@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Database Header
+// summary: Declares the database that reads and writes web app registry state, with versioned migrations and open result reporting.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_DATABASE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_DATABASE_H_
 

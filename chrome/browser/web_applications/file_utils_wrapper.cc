@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: File utils wrapper implementation
+// summary: Implements FileUtilsWrapper by forwarding file operations such as reading, writing, moving and deleting to base file utilities.
+// ---
+
 #include "chrome/browser/web_applications/file_utils_wrapper.h"
 
 #include <cstdint>

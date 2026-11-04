@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the App Service publisher directory
+summary: Grants this directory additional include access to ash strings and the app_restore component.

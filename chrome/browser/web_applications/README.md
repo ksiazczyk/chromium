@@ -1,3 +1,12 @@
+---
+type: readme
+title: Web Apps on Desktop
+summary: Explains the WebAppProvider architecture, debugging tools, documentation guidelines, databases, subsystem orchestration, and testing for desktop web apps.
+relations:
+  - references /chrome/browser/web_applications/docs/cdp-integration.md
+  - references /chrome/browser/web_applications/docs/webappprovider_component_ownership.jpg
+---
+
 # Web Apps on Desktop
 
 See [presentation slides](https://tinyurl.com/dpwa-architecture-public) about

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Database Unit Tests
+// summary: Unit tests for the web app database covering persistence, database versioning, and related behaviors using a fake database factory and test provider.
+// ---
+
 #include "chrome/browser/web_applications/web_app_database.h"
 
 #include <memory>

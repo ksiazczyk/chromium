@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom icon fetcher header
+// summary: Declares CustomIconFetcher, which securely downloads and hash-validates custom icons for force-installed web apps before decoding.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_CUSTOM_ICON_FETCHER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_CUSTOM_ICON_FETCHER_H_
 

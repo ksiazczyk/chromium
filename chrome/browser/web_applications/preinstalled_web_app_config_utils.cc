@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preinstalled web app config directory utilities
+// summary: Resolves the directories holding preinstalled web app configuration files from command line switches and ChromeOS external extension paths.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_app_config_utils.h"
 
 #include <optional>

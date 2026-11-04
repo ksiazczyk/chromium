@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App ID helpers header
+// summary: Declares helpers to compute web app IDs and manifest IDs per the W3C app manifest spec, for use when a Manifest object is not available.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_APP_ID_HELPERS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_APP_ID_HELPERS_H_
 

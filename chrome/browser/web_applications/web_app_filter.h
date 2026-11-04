@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Filter Interface
+// summary: Declares the WebAppFilter class with static filters for querying web apps by capabilities like dedicated window display, user installation, and isolation.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_FILTER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_FILTER_H_
 

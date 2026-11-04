@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app origin association manager
+// summary: Implements the manager that fetches web app origin associations, queueing tasks sequentially and supporting test fetcher injection.
+// ---
+
 #include "chrome/browser/web_applications/web_app_origin_association_manager.h"
 
 #include <utility>

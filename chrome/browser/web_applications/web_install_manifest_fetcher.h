@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Install Manifest Fetcher Header
+// summary: Declares the WebInstallManifestFetcher class that returns raw manifest content for web-initiated manifest-first install flows.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_INSTALL_MANIFEST_FETCHER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_INSTALL_MANIFEST_FETCHER_H_
 

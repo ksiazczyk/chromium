@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation capturing intent picker browser tests
+// summary: Browser tests covering intent picker behavior when web apps capture navigations with different launch handler client modes.
+// ---
+
 #include <tuple>
 #include <utility>
 #include <vector>

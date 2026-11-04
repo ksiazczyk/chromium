@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app uninstall dialog user options header
+// summary: Defines the UninstallUserOptions struct and callback type carrying the user's uninstall and clear-site-data choices from the uninstall dialog.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_UNINSTALL_DIALOG_USER_OPTIONS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_UNINSTALL_DIALOG_USER_OPTIONS_H_
 

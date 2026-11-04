@@ -1,3 +1,9 @@
+---
+type: readme
+title: chrome_pwa_launcher overview
+summary: Explains how chrome_pwa_launcher.exe lets PWAs register as Windows file handlers, its per-PWA hardlinks, and its update and crash logging features.
+---
+
 This directory contains files for chrome_pwa_launcher.exe, a
 Progressive-Web-App launcher needed to enable PWAs to register as file-type
 handlers on Windows. When run from a PWA's directory, chrome_pwa_launcher.exe

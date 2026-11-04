@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Migration-suggested app replacement browser tests
+// summary: Browser tests verifying that various install flows replace migration-suggested placeholder apps while local installs leave hidden apps unchanged.
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"

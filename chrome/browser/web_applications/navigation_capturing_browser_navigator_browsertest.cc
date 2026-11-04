@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation capturing browser navigator browser tests
+// summary: Browser tests verifying how navigations are captured into web app windows across client modes, redirects, launch handlers and related metrics.
+// ---
+
 #include <vector>
 
 #include "base/strings/strcat.h"

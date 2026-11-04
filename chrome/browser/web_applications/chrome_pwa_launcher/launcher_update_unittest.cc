@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PWA launcher update unit tests
+// summary: Unit tests that create mock launcher files and verify updating them to the latest version and deleting leftover old launcher versions.
+// ---
+
 #include "chrome/browser/web_applications/chrome_pwa_launcher/launcher_update.h"
 
 #include <string_view>

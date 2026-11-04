@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web App Helpers Unit Tests
+// summary: Unit tests verifying app name, app ID, and manifest ID generation in web_app_helpers, including encoding, queries, and fragment handling.
+// ---
+
 #include "chrome/browser/web_applications/web_app_helpers.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

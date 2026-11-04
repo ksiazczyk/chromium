@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web App Icon Operations Implementation
+// summary: Computes which icon URLs and sizes to download for app and shortcuts menu icons during web app installation and updates.
+// ---
+
 #include "chrome/browser/web_applications/web_app_icon_operations.h"
 
 #include <set>

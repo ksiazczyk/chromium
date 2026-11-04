@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Publisher helper implementation
+// summary: Implements helpers that convert uninstall sources to web app uninstall sources and, on ChromeOS, find web apps handling a protocol URL.
+// ---
+
 #include "chrome/browser/web_applications/app_service/publisher_helper.h"
 
 #include "chrome/browser/web_applications/web_app_provider.h"

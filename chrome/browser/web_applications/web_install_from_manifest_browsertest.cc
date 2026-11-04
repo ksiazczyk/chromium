@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Install From Manifest Browser Tests
+// summary: Browser tests for manifest-first web installs, covering background manifest fetches, redirects, permissions, cookies, and install outcomes.
+// ---
+
 #include <deque>
 #include <memory>
 #include <optional>

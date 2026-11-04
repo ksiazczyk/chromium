@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Apps ChromeOS Browser Tests
+// summary: ChromeOS browser tests for web app shelf menus, app shortcuts, and isolated web app behavior in the App Service.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

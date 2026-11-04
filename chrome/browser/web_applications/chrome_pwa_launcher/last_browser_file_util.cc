@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Last Browser file utilities for the Chrome PWA launcher
+// summary: Implements reading and writing the Last Browser file that records the path of the last Chrome executable used with a User Data directory.
+// ---
+
 #include "chrome/browser/web_applications/chrome_pwa_launcher/last_browser_file_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web app delegate map utilities
+// summary: Helpers that map between installed web app IDs and ash system web app types using the system web app delegate map.
+// ---
+
 #include "chrome/browser/web_applications/web_app_system_web_app_delegate_map_utils.h"
 
 #include "chrome/browser/web_applications/web_app.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for web_applications
+summary: GN build file listing sources and defining build and test targets for the desktop web apps implementation.

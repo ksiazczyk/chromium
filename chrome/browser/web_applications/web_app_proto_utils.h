@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app proto utilities header
+// summary: Declares conversion helpers between web app sync and internal protos and Chromium types such as icon infos, image resources, display modes, URL patterns and tab strips.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_PROTO_UTILS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_WEB_APP_PROTO_UTILS_H_
 
